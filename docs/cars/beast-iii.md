@@ -14,4 +14,10 @@
 
 **Correction from Round 1:** the 235.991 mph figure is now confirmed by reading the page, and the driver was **Art Chrisman**, not Herbert.
 
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Kustomrama, "Beast III" (photos of the streamliner and the Schapel wind-tunnel model)](https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III)
+
 [^k]: Kustomrama, "Chet Herbert's Beast III." https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III

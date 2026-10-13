@@ -15,5 +15,23 @@ See [Beyond California](../regions/midwest-east.md) for the Slo-Pokes and the Be
 
 Hagerty, citing MotorTrend, gives **August 14–16, 1970** and **600 street rods**. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] *(Verified on the page in Round 2; still secondary.)* The NSRA's founding date is not yet confirmed from an NSRA source.
 
+
+## Images
+
+<figure markdown>
+![Upper Peoria Lake from the Peoria Heights water tower, Sept 19, 1970, a month after the fi](../assets/images/commons-peoria-heights-1970.jpg){ loading=lazy }
+<figcaption markdown>Upper Peoria Lake from the Peoria Heights water tower, Sept 19, 1970, a month after the first NSRA Street Rod Nationals. It shows the place and the year, **not the event**. Creator: Roger Wollstadt. Date: 1970-09-19. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peoria_Heights_-_View_from_Water_Tower_1970.jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
+</figure>
+
+<figure markdown>
+![A modern 1932 Ford roadster street rod. The uploader notes the '32 roadster and coupe have](../assets/images/commons-1932-ford-roadster-hot-rod.jpg){ loading=lazy }
+<figcaption markdown>A modern 1932 Ford roadster street rod. The uploader notes the '32 roadster and coupe have been the most popular street-rod bases since the 1950s. It is not a Peoria car. Creator: Sicnag. Date: 2014-12-17 17:49. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1932_Ford_Roadster_Hot_Rod_(16068067015).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Peoria Magazine, "Hot Rods & Cool Cruisin'" (1970 photos)](https://www.peoriamagazine.com/archive/as_article/hot-rods-cool-cruisin/)
+
 [^rc]: Dick Martin, "1st Street Rod Nationals – The Road to Peoria," Rod & Custom, Aug 7, 2007 (web). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals
 [^nsra]: Wikipedia, "National Street Rod Association." https://en.wikipedia.org/wiki/National_Street_Rod_Association ; Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals." https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/

@@ -15,6 +15,24 @@
 - **Detroit Dragway (1959–1997/98):** Promoter Gil Kohn opened it at Sibley and Dix in Brownstown Township.[^hag][^dd] It hosted the NHRA Nationals in 1959 (783 entries and about 30,000 spectators, per Hagerty) and 1960.[^hag][^nh] Its radio spot "Sunday! Sunday! Sunday!" made it famous. Kohn: "I've run into people in Times Square... who've heard those commercials" (Detroit News, via RememberMichigan, which also hosts 1964–73 radio spots).[^rm]
 - **⚠ Closing:** "end of 1997" (Detroit Dragway heritage site) vs "1998" (News-Herald, 2011).[^dd][^nh]
 
+
+## Images
+
+<figure markdown>
+![The 1985 Detroit Autorama. The show began in 1953, and its profits built Motor City Dragwa](../assets/images/commons-detroit-autorama-1985.jpg){ loading=lazy }
+<figcaption markdown>The 1985 Detroit Autorama. The show began in 1953, and its profits built Motor City Dragway. Creator: Joetregembo. Date: 2023-02-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1985_Detroit_Autorama.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
+
+<figure markdown>
+![Don Garlits at Texas Motorplex, April 1987, thirty years after his Cordova breakthrough.](../assets/images/commons-garlits-1987.jpg){ loading=lazy }
+<figcaption markdown>Don Garlits at Texas Motorplex, April 1987, thirty years after his Cordova breakthrough. Creator: twm1340. Date: 2007-11-16 08:59:48. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DonGarlitsApril1987.jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [RememberMichigan: Detroit Dragway radio spots, 1964–73 (audio)](http://www.remembermichigan.com/dragway.aspx?id=1335&type=6)
+
 [^cp]: Competition Plus, "Quad Cities Drag Racing Legend Bob Bartel Passes." https://competitionplus.com/quad-cities-drag-racing-legend-bob-bartel-passes/
 [^ch]: Clinton Herald, "Cordova Dragway Park carries on a popular pastime." https://www.clintonherald.com/archives/cordova-dragway-park-carries-on-a-popular-pastime/article_bbc6f1b7-2b04-5f8c-8f35-d53d319b7ca5.html
 [^svt]: SVTPerformance forum, "Quad Cities Drag Racing photos from the 50's," 2010. https://www.svtperformance.com/threads/quad-cities-drag-racing-photos-from-the-50s.737744/

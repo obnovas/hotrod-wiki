@@ -28,6 +28,19 @@ Dave Wallace argues that cheap independent tabloids, the "drag rags" controlled 
 ## Source note
 The Wallace Family Archives offers duplicate issues of many drag rags, per Competition Plus.[^cp67] They are a potential primary source for future rounds.
 
+
+## Images
+
+<figure markdown>
+![A Top Fuel engine based on the Ford 427 SOHC V8 with a Roots blower, the type the uploader](../assets/images/commons-ford-427-sohc.jpg){ loading=lazy }
+<figcaption markdown>A Top Fuel engine based on the Ford 427 SOHC V8 with a Roots blower, the type the uploader says was used "in front-engine dragsters and funny cars in the 1960s and 70s." It is a modern display, composited views. Creator: Auge=mit. Date: 2025-06-22. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Top_Fuel_Engine_Ford_427_SOHC_Display_noBG.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Competition Plus, Dave Wallace's Drag Rags season series (period Drag News pages)](https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/)
+
 [^cp1]: Dave Wallace, "Drag Rags ... Earliest Editions," Competition Plus, 2019. https://competitionplus.com/drag-rags-with-dave-wallace-earliest-editions/
 [^cp65]: Dave Wallace, "Drag Rags of Early '65: Explosion of Weekly Publications," Competition Plus. https://competitionplus.com/drag-rags-of-early-65-explosion-of-weekly-publications/
 [^cp67]: Dave Wallace, "Drag Rags: Early 1967 – War of Early Independents Ends," Competition Plus, 2024. https://competitionplus.com/drag-rags-early-1967-war-of-early-independents-ends/

@@ -21,6 +21,20 @@ These are unverified recollections and are marked for confirmation.
 ## Revival
 Charlie Yapp's Secrets of Speed Society reproduced the Two-Port in cast iron from an original bought in 1998, with a redesigned water jacket.[^hemm]
 
+
+## Images
+
+<figure markdown>
+![A stock 1930 Ford Model A four-cylinder, the flathead engine that Riley's Two-Port and Fou](../assets/images/commons-model-a-engine-1930.jpg){ loading=lazy }
+<figcaption markdown>A stock 1930 Ford Model A four-cylinder, the flathead engine that Riley's Two-Port and Four-Port conversions modified. Creator: Don O'Brien from Piketon, Ohio, United States. Date: 2005-10-15 01:46. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1930_Model_A_Engine_(54533660).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Museum of American Speed, "Riley OHV" (photos of Riley heads)](https://www.museumofamericanspeed.org/riley-ohv.html)
+- [Model A Ford Garage, 1930 Riley Valve-in-Head brochure](https://www.fordgarage.com/pages/1930rileyvalveinhead.htm)
+
 [^hr]: Hot Rod, "Prehistoric Ford Four-Bangers." https://www.hotrod.com/news/hrdp-1210-vintage-ford-model-a-b-c-four-cylinder-engines
 [^hemm]: Hemmings, "Keeping Secrets." https://www.hemmings.com/stories/keeping-secrets/
 [^moas]: Museum of American Speed, "Riley OHV." https://www.museumofamericanspeed.org/riley-ohv.html

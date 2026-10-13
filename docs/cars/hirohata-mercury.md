@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, museum/registry · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Build-time conflict open · [How we rate this](../reference/source-standards.md)
 
+<figure markdown>
 ![The 1951 Mercury "Hirohata Merc" at "Cars at the Capital," National Mall, Washington, D](../assets/images/commons-hirohata-merc-haer.jpg){ loading=lazy }
-*The 1951 Mercury "Hirohata Merc" at "Cars at the Capital," National Mall, Washington, D.C., spring 2017. The car was recorded in the Historic American Engineering Record (HAER CA-2328). Photo: Historic Vehicle Association (HVA), 2017. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1951_Mercury_Sport_Coupe_Hirohata_Merc_(HAER_CA-2328).png). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+<figcaption markdown>The 1951 Mercury "Hirohata Merc" at "Cars at the Capital," National Mall, Washington, D.C., spring 2017. The car was recorded in the Historic American Engineering Record (HAER CA-2328). Photo: Historic Vehicle Association (HVA), 2017. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1951_Mercury_Sport_Coupe_Hirohata_Merc_(HAER_CA-2328).png). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
 
 
 **Owner:** Robert "Bob" Hirohata, Los Angeles. **Builder:** Sam & George Barris, Barris Kustom. **Base:** 1951 Mercury coupe, bought barely used from an older couple.[^revs]
@@ -23,6 +25,19 @@ Cost was "about $3,500" per George Barris. Hirohata: "I had to sell everything I
 
 ## Afterlife
 Jim McNeil bought it in **1959 for $500** from a used-car lot and kept it for decades. When he took the dash apart he found Hirohata's and Barris's business cards wedged behind the radio speaker: "I never touched them... I wanted to feel their presence."[^revs] Pat Ganahl at Rod & Custom pushed the restoration with original crew (Barris, Frank Sonzogni, Junior Conway). It won its class at Pebble Beach in 2015 and was displayed on the National Mall by the HVA in 2017.[^revs] Bob Hirohata was murdered on May 14, 1981, in Temple City, and the case was never solved.[^revs] ◐
+
+
+## Images
+
+<figure markdown>
+![HAER CA-2328, sheet 2 of 2: measured elevations and plan of the 1951 Mercury Sport Coupe C](../assets/images/loc-haer-ca2328-hirohata-sheet2.jpg){ loading=lazy }
+<figcaption markdown>HAER CA-2328, sheet 2 of 2: measured elevations and plan of the 1951 Mercury Sport Coupe Custom "Hirohata Merc." Sheet 1 (history text with a Historic Vehicle Association photo) is not copied here, because LOC warns that images copied from other sources may be restricted. Creator: Historic American Engineering Record (NPS), delineated by Thomas M. Behrens; with the Historic Vehicle Association. Date: 2017. Source: [Library of Congress](https://www.loc.gov/item/ca4307/). License: [No known restrictions (U.S. Government work, HAER/NPS)](https://www.loc.gov/rr/print/res/114_habs.html).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [LOC record HAER CA-2328 (both sheets and data pages)](https://www.loc.gov/item/ca4307/)
 
 [^revs]: Ken Gross, "Emerald Icon from a Lost Era – The Saga of the Hirohata Mercury," Revs Institute AutoMedia. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury
 [^hag]: Hagerty, "How Barris Kustoms built the Hirohata Mercury in only 14 days." https://www.hagerty.com/media/video/how-barris-kustoms-built-the-hirohata-mercury-in-only-14-days/

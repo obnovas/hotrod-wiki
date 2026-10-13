@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium–High · **Source types:** HOF, secondary, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Indy years conflict open · [How we rate this](../reference/source-standards.md)
 
-![Patent drawing US1893920](../assets/images/patent-US1893920-winfield-carburetor.png){ width="300" align=right loading=lazy }
-*US1893920, "Carburetor," sheet 1. Inventor: Edward A. Winfield, filed 1930-01-03, issued 1933-01-10. Source: [Google Patents](https://patents.google.com/patent/US1893920A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+<figure markdown>
+![Patent drawing US1893920](../assets/images/patent-US1893920-winfield-carburetor.png){ width="300" loading=lazy }
+<figcaption markdown>US1893920, "Carburetor," sheet 1. Inventor: Edward A. Winfield, filed 1930-01-03, issued 1933-01-10. Source: [Google Patents](https://patents.google.com/patent/US1893920A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
+</figure>
 
 
 Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1] His formal schooling ended at the eighth grade.[^mshf] **⚠** The International Drag Racing Hall of Fame list gives **1910–1982**,[^idrhof] which is probably an error, since three other sources give 1901.
@@ -19,6 +21,14 @@ In **1919** Winfield converted a used grinding machine into a cam grinder.[^mshf
 The Winfield Carburetor Company formed in **1924**.[^hem2][^sema] **⚠ Conflict on the Indy streak:** the IMS Museum says every Indy 500 winner 1933–1946 used Winfields except Wilbur Shaw's Maserati (1939–40);[^ims] another Hemmings piece says every winner **1927–1937**.[^hem1] Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1]
 
 Hemmings names him the model for Ed Iskenderian and Ed Donovan.[^hem2] Hagerty's 2026 Isky obituary says Winfield mentored him into cam grinding ([Iskenderian](ed-iskenderian.md)). He died in 1982.[^hem2]
+
+
+## Images
+
+<figure markdown>
+![US 2,126,939, Internal combustion engine head, sheet 1, by Edward A. Winfield.](../assets/images/patent-US2126939-winfield-head.png){ width="300" loading=lazy }
+<figcaption markdown>US 2,126,939, "Internal combustion engine head," sheet 1, by Edward A. Winfield. Creator: Edward A. Winfield (inventor); USPTO. Date: filed 1936-06-13, issued 1938-08-16. Source: [Google Patents](https://patents.google.com/patent/US2126939A/en). License: Public domain (U.S. patent drawing).</figcaption>
+</figure>
 
 [^mshf]: Motorsports Hall of Fame of America, "Ed Winfield." https://www.mshf.com/hall-of-fame/inductees/ed-winfield.html
 [^hem1]: Hemmings, "Ed Winfield." https://www.hemmings.com/stories/ed-winfield/

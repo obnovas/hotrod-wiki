@@ -3,12 +3,16 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** club history, secondary, oral · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** First-meet date conflict open · [How we rate this](../reference/source-standards.md)
 
+<figure markdown>
 ![Rogers Dry Lake at Edwards AFB in 1990: a runway marked on the lakebed](../assets/images/commons-rogers-dry-lake-usaf.jpg){ loading=lazy }
-*Rogers Dry Lake at Edwards AFB in 1990: a runway marked on the lakebed. Rogers is the lakebed racers knew as Muroc (renamed in 1950, per [Wikipedia](https://en.wikipedia.org/wiki/Rogers_Dry_Lake)). Photo: CMSgt Donald Sutherland, U.S. Air Force, 1990-12-18. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edwards_AFB_Runway_5_on_Rogers_Dry_Lake.jpg). License: Public domain.*
+<figcaption markdown>Rogers Dry Lake at Edwards AFB in 1990: a runway marked on the lakebed. Rogers is the lakebed racers knew as Muroc (renamed in 1950, per [Wikipedia](https://en.wikipedia.org/wiki/Rogers_Dry_Lake)). Photo: CMSgt Donald Sutherland, U.S. Air Force, 1990-12-18. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edwards_AFB_Runway_5_on_Rogers_Dry_Lake.jpg). License: Public domain.</figcaption>
+</figure>
 
 
+<figure markdown>
 ![El Mirage Dry Lake, San Bernardino County, today a BLM off-highway vehicle area](../assets/images/commons-el-mirage-blm.jpg){ loading=lazy }
-*El Mirage Dry Lake, San Bernardino County, today a BLM off-highway vehicle area. It is a modern view of the lakebed, not a period racing photo. Photo: Bureau of Land Management California, 2015-06-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Mirage_Dry_Lake_Off-Highway_Vehicle_Recreation_Area_(29486068103).jpg). License: Public domain.*
+<figcaption markdown>El Mirage Dry Lake, San Bernardino County, today a BLM off-highway vehicle area. It is a modern view of the lakebed, not a period racing photo. Photo: Bureau of Land Management California, 2015-06-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Mirage_Dry_Lake_Off-Highway_Vehicle_Recreation_Area_(29486068103).jpg). License: Public domain.</figcaption>
+</figure>
 
 
 ## Before the rules

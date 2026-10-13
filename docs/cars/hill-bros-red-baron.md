@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (Pete Hill, Dave Hales, Ken Kull), document (1967 Drag News letter), secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Record speed lacks a timing slip · [How we rate this](../reference/source-standards.md)
 
+<figure markdown>
 ![A 1941 Willys Americar gasser-style coupe at a 2017 show](../assets/images/commons-1941-willys-gasser.jpg){ loading=lazy }
-*A 1941 Willys Americar gasser-style coupe at a 2017 show. **It is not the Red Baron.** It shows the Willys gasser type only. Photo: Sicnag (Flickr), 2017-01-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Willys_Americar_441_Gasser_Coupe_(32189280151).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
+<figcaption markdown>A 1941 Willys Americar gasser-style coupe at a 2017 show. **It is not the Red Baron.** It shows the Willys gasser type only. Photo: Sicnag (Flickr), 2017-01-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Willys_Americar_441_Gasser_Coupe_(32189280151).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
+</figure>
 
 
 *Principal source: JR Thompson's Gasser Legends page, which includes Ken Kull's history, a letter from Dave Hales, and Pete Hill's own note and 1967 Drag News letter.*[^jrt] This is mostly oral history and documents. The car was copyrighted and **no photos are copied here**; follow the link.
@@ -27,6 +29,13 @@ Raced until late 1969, then bracket-raced under another name. It sat about 30 ye
 **Names:** JR Thompson's page, which includes Pete's own letter, names the brothers **Pete and Bill** Hill.[^jrt]
 
 Related: the East Coast Drag Racing HOF's Midwest gasser roundup (not yet read in full).[^ec]
+
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [JR Thompson, Hill Bros. page: original 1967 photos, the pre-build photo from Dave Hales, and the restoration](http://www.jrthompson.net/hillbroswillys.html)
+- [Mopar Muscle / Hot Rod feature on the restored Red Baron](https://www.hotrod.com/features/mopp-0306-1933-willys-knight)
 
 [^jrt]: JR Thompson, "Gasser Legends ~ The Hill Bros." http://www.jrthompson.net/hillbroswillys.html
 [^mm]: Mopar Muscle / Hot Rod, "1933 Willys Knight - Red Baron." https://www.hotrod.com/features/mopp-0306-1933-willys-knight

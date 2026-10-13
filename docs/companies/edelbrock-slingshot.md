@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, primary (patent) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** 1941 speed conflict open · [How we rate this](../reference/source-standards.md)
 
-![Patent drawing US3030819](../assets/images/patent-US3030819-edelbrock-linkage.png){ width="300" align=right loading=lazy }
-*US3030819, "Linkage for multiple carburetor installation," sheet 1. Inventor: Otis Victor Edelbrock Jr., filed 1960-09-22, issued 1962-04-24. Source: [Google Patents](https://patents.google.com/patent/US3030819A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+<figure markdown>
+![Patent drawing US3030819](../assets/images/patent-US3030819-edelbrock-linkage.png){ width="300" loading=lazy }
+<figcaption markdown>US3030819, "Linkage for multiple carburetor installation," sheet 1. Inventor: Otis Victor Edelbrock Jr., filed 1960-09-22, issued 1962-04-24. Source: [Google Patents](https://patents.google.com/patent/US3030819A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
+</figure>
 
 
 Vic Edelbrock Sr. (1913–1962; **⚠** the International Drag Racing Hall of Fame lists 1912[^idrhof]) was born in Kansas. He went to work full time at 14 after a fire destroyed his father's grocery store, and came to California in 1931.[^enc][^ed] He opened a repair shop on Wilshire Blvd. in Beverly Hills with his brother-in-law, then moved to Venice & Hoover in 1934.[^ed]
@@ -17,6 +19,14 @@ He drove the roadster to Muroc, pulled the fenders and windshield, raced, and bo
 **⚠ Conflict on prewar speed:** Edelbrock's own history says "racing speeds of 112 mph";[^ed] Encyclopedia.com says over 120 mph;[^enc] Wikipedia cites 121.45 mph on November 16, 1941 in one article and puts a 121.42 run at **Bonneville** in another.[^wp] Bonneville seems unlikely for a lakes roadster in 1941 and needs a period SCTA record source.
 
 After the war: modified "Denver" iron heads, the first aluminum heads, a 1946 catalog, and a flathead midget credited with breaking the Offenhauser midgets' streak in the late '40s.[^hemm]
+
+
+## Images
+
+<figure markdown>
+![Vic Edelbrock Jr. at the 2012 SEMA Show. He is the inventor on the 1960 linkage patent sho](../assets/images/commons-vic-edelbrock-jr.jpg){ loading=lazy }
+<figcaption markdown>Vic Edelbrock Jr. at the 2012 SEMA Show. He is the inventor on the 1960 linkage patent shown above. Creator: Nick Ares from Auburn, CA, United States. Date: 2012-10-30 16:17. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vic_Edelbrock_Jr..jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
+</figure>
 
 [^ed]: Edelbrock, "The History of Edelbrock Performance." https://www.edelbrock.com/about-us
 [^enc]: Encyclopedia.com, "Edelbrock Corporation." https://www.encyclopedia.com/books/politics-and-business-magazines/edelbrock-corporation

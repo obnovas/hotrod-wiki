@@ -15,4 +15,17 @@
 
 **Why it matters:** metal-finishing rather than leading puts Hagy against the grain of the "lead sled" era that followed ([Techniques](../techniques/index.md)).
 
+
+## Images
+
+<figure markdown>
+![A scale model of a 1940 Mercury custom at a model-club show. It shows the smoothed fat-fen](../assets/images/commons-1940-mercury-custom.jpg){ loading=lazy }
+<figcaption markdown>A **scale model** of a 1940 Mercury custom at a model-club show. It shows the smoothed "fat-fender" '39–'40 style Sparks says Hagy worked on. It is not a Hagy car. Creator: JOHN LLOYD from Concrete, Washington, United States. Date: 2016-02-28 10:32. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1940_Mercury_based_custom_(25173334639).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Kustomrama, Roy Hagy](https://kustomrama.com/wiki/Roy_Hagy)
+
 [^k]: Kustomrama, "Roy Hagy" (citing Pat Ganahl, *The American Custom Car*). https://kustomrama.com/wiki/Roy_Hagy

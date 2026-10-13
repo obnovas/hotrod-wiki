@@ -23,6 +23,19 @@ Engle was born June 16, 1920, in Regina, Saskatchewan, to American parents, and 
 ## Reputation
 Wikipedia credits his Oldsmobile cams with beating the Chryslers on the strip, which "really put him on the map."[^wiki] ◐ This needs a period source such as Drag News results. Engle was one of the three camgrinders in the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) story. He died in Santa Monica on Nov 14, 2008.[^wiki][^obit] Engle Racing Cams now operates from Long Beach.[^site]
 
+
+## Images
+
+<figure markdown>
+![An unrestored 1949 Oldsmobile Rocket V8. Wikipedia credits Engle's Olds cams with really p](../assets/images/commons-olds-rocket-v8-1949.jpg){ loading=lazy }
+<figcaption markdown>An unrestored 1949 Oldsmobile Rocket V8. Wikipedia credits Engle's Olds cams with "really put him on the map." Creator: Regushee. Date: 2012-06-21. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1949_Oldsmobile_Rocket_V8_engine.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Kustomrama, Jack Engle (family photos: his T roadster, the Low Flyers, the homemade grinder)](https://kustomrama.com/wiki/Jack_Engle)
+
 [^wiki]: Wikipedia, "Jack Engle." https://en.wikipedia.org/wiki/Jack_Engle
 [^kr]: Kustomrama, "Jack Engle" (photos and captions courtesy Mark Engle). https://kustomrama.com/wiki/Jack_Engle
 [^obit]: Engle Racing Cams catalog, "John 'Jack' Engle 1920–2008" obituary page (doczz mirror). https://doczz.net/doc/1013817/engle-cams---engle-racing-cams

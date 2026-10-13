@@ -22,6 +22,24 @@ Hart was emphatic: "I didn't invent drag racing... When I was growing up in Ohio
 
 The strip ran until **June 21, 1959**, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of **Lions Drag Strip**, staying until 1971, and there he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe] **Death date (resolved, Round 3): June 25, 2004.** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers. **⚠ Lions tenure** is still in conflict: 1965–71 per MSHF and SEMA, 1963–1970 per the OC Register.[^nhra04] See also [Peggy Hart](../people/peggy-hart.md). Chet Herbert's stripped Harley "The Beast" ran 121 and then 129 mph at Santa Ana in 1950, beating every bike and car there.[^herbert]
 
+
+## Images
+
+<figure markdown>
+![Orange County Airport in the 1950s, the airport whose unused strip hosted the Santa Ana Dr](../assets/images/commons-orange-county-airport-1950s.jpg){ loading=lazy }
+<figcaption markdown>Orange County Airport in the 1950s, the airport whose unused strip hosted the Santa Ana Drags (1950–59). The view is not dated more precisely and does not show the drags. Creator: Orange County Archives. Date: 1950s (archive's date). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orange_County_Airport,_1950s.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Courtesy line requested by the archive: "Photo courtesy Orange County Archives."</figcaption>
+</figure>
+
+<figure markdown>
+![An Orange County Airport runway, circa 1950s (archive's date). We have not established whi](../assets/images/commons-orange-county-airport-runway-1950s.jpg){ loading=lazy }
+<figcaption markdown>An Orange County Airport runway, circa 1950s (archive's date). **We have not established which strip the drags used.** Creator: Orange County Archives. Date: circa 1950date QS:P,+1950-00-00T00:00:00Z/9,P1480,Q5727902s. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orange_County_Airport_runway,_circa_1950s.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Courtesy line requested by the archive: "Photo courtesy Orange County Archives."</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [LOC, LOOK magazine job 55-6363 "Drag races" (1956, Bob Sandberg). Rights restricted; location not stated](https://www.loc.gov/pictures/item/2016713335)
+
 [^mshf]: Dave Wallace, "C. J. Hart," Motorsports Hall of Fame of America. https://www.mshf.com/hall-of-fame/inductees/c-j-hart.html
 [^pe]: Johan Moreno, "Santa Ana Drags: 65 years after...," Press-Enterprise, Oct 1, 2015. https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/
 [^sema]: SEMA Hall of Fame 1981, "C.J. Hart." https://www.sema.org/hof/1981/cj-hart

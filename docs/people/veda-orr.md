@@ -26,6 +26,25 @@ She also photographed for *California Timing News*; her photos of the Jimmy Summ
 ## Later
 The Orrs divorced and later reunited, reopening the shop in Mint Canyon. Karl died in 1988 and Veda in 1989.[^fc]
 
+
+## Images
+
+<figure markdown>
+![Rogers Dry Lake, known to racers as Muroc, in 1990. Veda Orr set her 104.40 mph Full Fende](../assets/images/commons-rogers-dry-lake-usaf.jpg){ loading=lazy }
+<figcaption markdown>Rogers Dry Lake, known to racers as Muroc, in 1990. Veda Orr set her 104.40 mph Full Fendered Roadster record on this lakebed. Creator: CMSgt Donald Sutherland, U.S. Air Force. Date: 1990-12-18. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edwards_AFB_Runway_5_on_Rogers_Dry_Lake.jpg). License: Public domain.</figcaption>
+</figure>
+
+<figure markdown>
+![A modern '32 Ford roadster hot rod, the model of her record car and daily driver. It is no](../assets/images/commons-1932-ford-roadster-hot-rod.jpg){ loading=lazy }
+<figcaption markdown>A modern '32 Ford roadster hot rod, the model of her record car and daily driver. **It is not her car.** Creator: Sicnag. Date: 2014-12-17 17:49. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1932_Ford_Roadster_Hot_Rod_(16068067015).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Fuel Curve, "Veda Orr" (period photos)](https://fuelcurve.com/veda-orr/)
+- [Hemmings, "Karl and Veda Orr"](https://www.hemmings.com/stories/karl-and-veda-orr/)
+
 [^fc]: "Veda Orr – SCTA Pioneer and Lakes Racer," Fuel Curve / Goodguys Gazette, Nov 7, 2022. https://fuelcurve.com/veda-orr/
 [^hem-orr]: Hemmings, "Karl and Veda Orr." https://www.hemmings.com/stories/karl-and-veda-orr/
 [^hem-shops]: Hemmings, "Lost Speed Shops: Bell, Chapel, Orr." https://www.hemmings.com/stories/lost-speed-shops-bell-chapel-orr/

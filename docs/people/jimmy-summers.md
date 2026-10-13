@@ -21,5 +21,18 @@ Xydias described the customer mindset: they "did not want Summers to provide the
 - In 1962 he built the body for Tony Nancy's dragster.[^k]
 - His 1938 Muroc timing tag shows 94.73 mph with a stock V8.[^k]
 
+
+## Images
+
+<figure markdown>
+![Fairfax High School, Los Angeles, in 2006. Summers' Melrose Avenue shop stood across from ](../assets/images/commons-fairfax-high-2006.jpg){ loading=lazy }
+<figcaption markdown>Fairfax High School, Los Angeles, in 2006. Summers' Melrose Avenue shop stood across from it. Creator: Gary Minnaert (Minnaert). Date: 2006-12-16. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FairfaxHigh_Dec2006.jpg). License: Public domain.</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Kustomrama, Jimmy Summers (family album photos)](https://kustomrama.com/wiki/Jimmy_Summers)
+
 [^k]: Kustomrama, "Jimmy Summers," drawing on Sondre Kvipt's family interviews and cited period magazines. https://kustomrama.com/wiki/Jimmy_Summers
 [^sm]: StreetMuscle, "The Garage With Dennis Episode 14, So-Cal Speed Shop." https://www.streetmusclemag.com/news/video-the-garage-with-dennis-episode-14-so-cal-speed-shop/

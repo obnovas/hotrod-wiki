@@ -18,6 +18,19 @@
 - The B&S wing-tank lakester won the SCTA points championship in 1956 and 1958. Its Tempest four used a DOHC head sketched on napkins by **Leo Goossen** and Arnold Birner at Edwards Steak House. Only five were cast. It set the F/L record of 165.13 mph in 1961.[^ahrf]
 - From 1972 he made and signed official SCTA timing slips. Mike Cook: "if your time slip doesn't have Julian's autograph on it, it's not worth anything."[^ahrf]
 
+
+## Images
+
+<figure markdown>
+![A stock 1929 Ford Model A roadster (Kampen, Netherlands). It shows the body type of George](../assets/images/commons-model-a-roadster-1929.jpg){ loading=lazy }
+<figcaption markdown>A stock 1929 Ford Model A roadster (Kampen, Netherlands). It shows the body type of George DuVall's Cragar-powered '29, in which Doty first went to Muroc in 1934. **It is not that car.** Creator: Alfvanbeem. Date: 2010-07-10. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1929_Ford_Model_A_roadster_AE-74-91.jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [AHRF, Julian Doty profile (photos)](https://ahrf.com/pioneer/julian-doty/)
+
 [^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm
 [^ahrf]: American Hot Rod Foundation, "Julian Doty." https://ahrf.com/pioneer/julian-doty/
 [^kr]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall

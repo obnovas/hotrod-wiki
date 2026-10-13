@@ -13,5 +13,18 @@ Born March 1928 in Glenbar, Arizona, and raised in Los Angeles. His parents boug
 - **Drag News:** in 1959 he funded his sister **Doris Herbert's** purchase of *Drag News*, which she built into "the drag racer's bible." Both were inducted into the International Drag Racing Hall of Fame in 1993.[^h]
 - Died April 2009 at 81.[^h]
 
+
+## Images
+
+<figure markdown>
+![Orange County Airport in the 1950s, home of the Santa Ana Drags, where Herbert's Beast Har](../assets/images/commons-orange-county-airport-1950s.jpg){ loading=lazy }
+<figcaption markdown>Orange County Airport in the 1950s, home of the Santa Ana Drags, where Herbert's "Beast" Harley ran 121 and then 129 mph. It is not a photo of the Beast. Creator: Orange County Archives. Date: 1950s (archive's date). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orange_County_Airport,_1950s.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Courtesy line requested by the archive: "Photo courtesy Orange County Archives."</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Kustomrama, Beast III (photos)](https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III)
+
 [^h]: Daniel Strohl, "Chet Herbert," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/chet-herbert/
 [^kr]: Kustomrama, "Chet Herbert's Beast III" (read directly, Round 2). https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III

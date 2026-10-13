@@ -42,24 +42,38 @@ These patents were found in Google Patents by searching inventor and assignee na
 
 All drawings are U.S. patent drawings without copyright notices, from Google Patents. We treat them as public domain under the USPTO's general practice (see [Image Credits](image-credits.md)).
 
+<figure markdown>
 ![Carburetor drawing, US1893920](../assets/images/patent-US1893920-winfield-carburetor.png){ width="320" loading=lazy }
-*US1893920, "Carburetor", sheet 1. Inventor: Ed Winfield. Filed 1930-01-03. Source: [Google Patents](https://patents.google.com/patent/US1893920A/en). License: public domain (U.S. patent drawing).*
+<figcaption markdown>US1893920, "Carburetor", sheet 1. Inventor: Ed Winfield. Filed 1930-01-03. Source: [Google Patents](https://patents.google.com/patent/US1893920A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
 
+<figure markdown>
 ![Internal combustion engine head drawing, US2126939](../assets/images/patent-US2126939-winfield-head.png){ width="320" loading=lazy }
-*US2126939, "Internal combustion engine head", sheet 1. Inventor: Ed Winfield. Filed 1936-06-13. Source: [Google Patents](https://patents.google.com/patent/US2126939A/en). License: public domain (U.S. patent drawing).*
+<figcaption markdown>US2126939, "Internal combustion engine head", sheet 1. Inventor: Ed Winfield. Filed 1936-06-13. Source: [Google Patents](https://patents.google.com/patent/US2126939A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
 
+<figure markdown>
 ![Non-rotating roller tappet drawing, US3301241](../assets/images/patent-US3301241-iskenderian-roller-tappet.png){ width="320" loading=lazy }
-*US3301241, "Non-rotating roller tappet", sheet 1. Inventor: Ed Iskenderian. Filed 1966-06-21. Source: [Google Patents](https://patents.google.com/patent/US3301241A/en). License: public domain (U.S. patent drawing).*
+<figcaption markdown>US3301241, "Non-rotating roller tappet", sheet 1. Inventor: Ed Iskenderian. Filed 1966-06-21. Source: [Google Patents](https://patents.google.com/patent/US3301241A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
 
+<figure markdown>
 ![Linkage for multiple carburetor installation drawing, US3030819](../assets/images/patent-US3030819-edelbrock-linkage.png){ width="320" loading=lazy }
-*US3030819, "Linkage for multiple carburetor installation", sheet 1. Inventor: Vic Edelbrock Jr.. Filed 1960-09-22. Source: [Google Patents](https://patents.google.com/patent/US3030819A/en). License: public domain (U.S. patent drawing).*
+<figcaption markdown>US3030819, "Linkage for multiple carburetor installation", sheet 1. Inventor: Vic Edelbrock Jr.. Filed 1960-09-22. Source: [Google Patents](https://patents.google.com/patent/US3030819A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
 
+<figure markdown>
 ![**Gear shift** (assigned Almquist Engineering Co) drawing, US3082639](../assets/images/patent-US3082639-almquist-gearshift.png){ width="320" loading=lazy }
-*US3082639, "Gear shift (assigned Almquist Engineering Co)", sheet 1. Inventor: Ed Almquist. Filed 1962-09-11. Source: [Google Patents](https://patents.google.com/patent/US3082639A/en). License: public domain (U.S. patent drawing).*
+<figcaption markdown>US3082639, "Gear shift (assigned Almquist Engineering Co)", sheet 1. Inventor: Ed Almquist. Filed 1962-09-11. Source: [Google Patents](https://patents.google.com/patent/US3082639A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
 
+<figure markdown>
 ![Gear shift drawing, US3172301](../assets/images/patent-US3172301-hurst-gearshift.png){ width="320" loading=lazy }
-*US3172301, "Gear shift", sheet 1. Inventor: George Hurst & Bill Campbell. Filed 1962-10-15. Source: [Google Patents](https://patents.google.com/patent/US3172301A/en). License: public domain (U.S. patent drawing).*
+<figcaption markdown>US3172301, "Gear shift", sheet 1. Inventor: George Hurst & Bill Campbell. Filed 1962-10-15. Source: [Google Patents](https://patents.google.com/patent/US3172301A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
 
+<figure markdown>
 ![Turbo supercharger control mechanism drawing, US3559397](../assets/images/patent-US3559397-navarro-turbo.png){ width="320" loading=lazy }
-*US3559397, "Turbo supercharger control mechanism", sheet 1. Inventor: Barney Navarro. Filed 1969-03-21. Source: [Google Patents](https://patents.google.com/patent/US3559397A/en). License: public domain (U.S. patent drawing).*
+<figcaption markdown>US3559397, "Turbo supercharger control mechanism", sheet 1. Inventor: Barney Navarro. Filed 1969-03-21. Source: [Google Patents](https://patents.google.com/patent/US3559397A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
 

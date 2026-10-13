@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** obituary, HOF, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Hurst co-design claim single-sourced · [How we rate this](../reference/source-standards.md)
 
-![Patent drawing US3082639](../assets/images/patent-US3082639-almquist-gearshift.png){ width="300" align=right loading=lazy }
-*US3082639, "Gear shift (Almquist Engineering Co.)," sheet 1. Inventor: Edgar W. Almquist, filed 1962-09-11, issued 1963-03-26. Source: [Google Patents](https://patents.google.com/patent/US3082639A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+<figure markdown>
+![Patent drawing US3082639](../assets/images/patent-US3082639-almquist-gearshift.png){ width="300" loading=lazy }
+<figcaption markdown>US3082639, "Gear shift (Almquist Engineering Co.)," sheet 1. Inventor: Edgar W. Almquist, filed 1962-09-11, issued 1963-03-26. Source: [Google Patents](https://patents.google.com/patent/US3082639A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
+</figure>
 
 
 *A rare non-California founder.*
@@ -21,6 +23,14 @@
 - Received the International Drag Racing Hall of Fame Founder's Award in 2011.[^hof]
 
 Ed Almquist also appears in period custom literature: a pamphlet from "Pennsylvania speed merchant Ed Almquist" taught restyling techniques alongside Dan Post's *Blue Book*.[^revs]
+
+
+## Images
+
+<figure markdown>
+![US 3,172,301, Gear shift by George H. Hurst Jr. and William G. Campbell, filed Oct 1962. C](../assets/images/patent-US3172301-hurst-gearshift.png){ width="300" loading=lazy }
+<figcaption markdown>US 3,172,301, "Gear shift" by George H. Hurst Jr. and William G. Campbell, filed Oct 1962. Compare it with Almquist Engineering's US 3,082,639 above. Creator: George H. Hurst Jr. & William G. Campbell (inventors); USPTO. Date: filed 1962-10-15, issued 1965-03-09. Source: [Google Patents](https://patents.google.com/patent/US3172301A/en). License: Public domain (U.S. patent drawing).</figcaption>
+</figure>
 
 [^obit]: "Edgar Almquist" (obituary), Pike County Courier, July 28, 2015. https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961
 [^hem]: Hemmings, "Ed Almquist" (read via search excerpt; page blocked direct fetch). https://www.hemmings.com/stories/ed-almquist/

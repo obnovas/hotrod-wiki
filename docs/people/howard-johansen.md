@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** obituary (Hot Rod 1989), company history, period magazine (via archive story) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Twin Bears win and exact dates unverified · [How we rate this](../reference/source-standards.md)
 
+<figure markdown>
 ![The Bonneville Salt Flats, Utah, in 2012](../assets/images/commons-bonneville-blm.jpg){ loading=lazy }
-*The Bonneville Salt Flats, Utah, in 2012. It is a modern landscape, not an SCTA meet. Photo: BLM Utah, 2012-05-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bonneville_Salt_Flats_(28237020403).jpg). License: Public domain.*
+<figcaption markdown>The Bonneville Salt Flats, Utah, in 2012. It is a modern landscape, not an SCTA meet. Photo: BLM Utah, 2012-05-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bonneville_Salt_Flats_(28237020403).jpg). License: Public domain.</figcaption>
+</figure>
 
 
 ## From a Nebraska Model T to Los Angeles
@@ -25,6 +27,12 @@ The obituary calls the **Twin-Bear** dragster, driven by Jack Chrisman, his "cro
 
 ## Dates
 Hot Rod's "Finish Line" (Jan 1989) says he died aged 78.[^hr89] Earlier rounds cited IDRHOF's "1910–1988." The two are consistent but we have no exact dates yet. For his role in the Gasser Wars and the Doug Cook ad, see [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).
+
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Hot Rod archive story on the 1949 and 1954 twin-tank streamliners (period photos)](https://www.hotrod.com/features/twin-tank-bellytanker-land-speed-racer-archive)
 
 [^hr89]: "Finish Line, January 1989," Hot Rod (G.B.). https://www.hotrod.com/features/finish-line-january-1989-982-1416-160-1
 [^wiki]: Wikipedia, "Howard Johansen." https://en.wikipedia.org/wiki/Howard_Johansen

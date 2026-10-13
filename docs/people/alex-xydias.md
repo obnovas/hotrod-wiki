@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral, secondary · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
 
+<figure markdown>
 ![A belly tank racer shown at the Petersen Automotive Museum and titled "1952 So-Cal Speed Shop Special Belly Tank Racer](../assets/images/commons-socal-belly-tank-1952.jpg){ loading=lazy }
-*A belly tank racer shown at the Petersen Automotive Museum and titled "1952 So-Cal Speed Shop Special Belly Tank Racer." The uploader says it is built from a P-38 drop tank. The identification is the uploader's. Photo: CALChux (Flickr), uploaded 2019 (date field reads 1 Jan 2019). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1952_So-Cal_Speed_Shop_Special_Belly_Tank_Racer_(48083256906).jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
+<figcaption markdown>A belly tank racer shown at the Petersen Automotive Museum and titled "1952 So-Cal Speed Shop Special Belly Tank Racer." The uploader says it is built from a P-38 drop tank. The identification is the uploader's. Photo: CALChux (Flickr), uploaded 2019 (date field reads 1 Jan 2019). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1952_So-Cal_Speed_Shop_Special_Belly_Tank_Racer_(48083256906).jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
+</figure>
 
 
 !!! warning "To verify"

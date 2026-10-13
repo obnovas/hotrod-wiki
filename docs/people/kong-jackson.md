@@ -21,5 +21,23 @@ The contemporaneous post (Sept 4, 2000) is the stronger evidence, and we treat 2
 
 **Next breadcrumbs:** his 1988 interview with Tom Medley; the "stolen traffic-signal starting lights" story ([Julian Doty](julian-doty.md)); Sidewinders banquet records.
 
+
+## Images
+
+<figure markdown>
+![A stock 1941 Ford flathead V8. Kong ignitions replaced this engine's distributor. The engi](../assets/images/commons-ford-flathead-1941.jpg){ loading=lazy }
+<figcaption markdown>A stock 1941 Ford flathead V8. Kong ignitions replaced this engine's distributor. The engine is not fitted with one. Creator: Mr.choppers. Date: 2015-07-12. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Ford_V8-11A_flathead_engine_in_a_Super_DeLuxe.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
+</figure>
+
+<figure markdown>
+![Rogers (formerly Muroc) Dry Lake as part of Edwards AFB in 1990. In 1941 Jackson saw Army ](../assets/images/commons-rogers-dry-lake-usaf.jpg){ loading=lazy }
+<figcaption markdown>Rogers (formerly Muroc) Dry Lake as part of Edwards AFB in 1990. In 1941 Jackson saw Army Jeeps clear the racers off this lakebed. Creator: CMSgt Donald Sutherland, U.S. Air Force. Date: 1990-12-18. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edwards_AFB_Runway_5_on_Rogers_Dry_Lake.jpg). License: Public domain.</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Fuel Curve, "'Kong' Jackson" (photos)](https://fuelcurve.com/kong-jackson/)
+
 [^fc]: "'Kong' Jackson – The King of Early Flathead Ignitions," Fuel Curve, July 3, 2023. https://fuelcurve.com/kong-jackson/
 [^ls]: Katie Young Cortez, "Loss of a Pioneer of Early Hot Rodding," land-speed list, Sept 10, 2000. http://ftp.team.net/html/land-speed/2000-09/msg00247.html

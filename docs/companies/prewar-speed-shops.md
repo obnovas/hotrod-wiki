@@ -21,6 +21,19 @@ Opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in
 ## Jim White's Speed Shop, 1932
 Based on Roger Harrell's book: opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main, run with brother Nick Harrell until **1976**.[^hem] ◐
 
+
+## Images
+
+<figure markdown>
+![A 1915 Ford Model T Speedster at the Gyeongju World Automobile Museum. It shows the stripp](../assets/images/commons-model-t-speedster-1915.jpg){ loading=lazy }
+<figcaption markdown>A 1915 Ford Model T Speedster at the Gyeongju World Automobile Museum. It shows the stripped Model T type whose speed parts fed Bell Auto Parts' early trade. It is not linked to any shop named here. Creator: Damian B Oh. Date: 2025-08-31 09:53:23. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1915_Ford_Model_T_Speedster_(1).jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
+
+<figure markdown>
+![A Model T racing engine with an overhead-valve conversion. The uploader notes it has overh](../assets/images/commons-model-t-racer-engine.jpg){ loading=lazy }
+<figcaption markdown>A Model T racing engine with an overhead-valve conversion. The uploader notes it "has overhead valves, whereas the standard T engine had side-mounted valves." **The maker of the head is not identified.** Creator: dave_7 from Lethbridge, Canada. Date: 2008-05-20 14:47. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ford_Model_T_racer_engine_(2534461425).jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
+</figure>
+
 [^hem]: Daniel Strohl, "Lost Speed Shops: Bell, Chapel, Orr," Hemmings, Nov 23, 2009. https://www.hemmings.com/stories/lost-speed-shops-bell-chapel-orr/
 [^jj]: Ryan, "The History Of Bell Auto," The Jalopy Journal, May 12, 2010. https://www.jalopyjournal.com/?p=8704
 [^k]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers

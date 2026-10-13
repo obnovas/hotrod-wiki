@@ -23,6 +23,19 @@ The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the N
 
 See also: [Detroit Dragway & Cordova](detroit-cordova.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md).
 
+
+## Images
+
+<figure markdown>
+![Peoria Heights, Sept 1970: Upper Peoria Lake from the water tower, in the year of the Slo-](../assets/images/commons-peoria-heights-1970.jpg){ loading=lazy }
+<figcaption markdown>Peoria Heights, Sept 1970: Upper Peoria Lake from the water tower, in the year of the Slo-Pokes' first Nationals. It is not the event. Creator: Roger Wollstadt. Date: 1970-09-19. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peoria_Heights_-_View_from_Water_Tower_1970.jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
+</figure>
+
+<figure markdown>
+![The 1985 Detroit Autorama, the Michigan Hot Rod Association's show.](../assets/images/commons-detroit-autorama-1985.jpg){ loading=lazy }
+<figcaption markdown>The 1985 Detroit Autorama, the Michigan Hot Rod Association's show. Creator: Joetregembo. Date: 2023-02-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1985_Detroit_Autorama.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
+
 [^jegs]: JEGS, "About Us." https://www.jegs.com/about-us
 [^disp]: Columbus Dispatch, "JEGS High Performance celebrates 50th anniversary," July 31, 2010 (paywalled). https://www.dispatch.com/story/news/2010/07/31/jegs-high-performance-celebrates-50th/23191212007/
 [^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom, 2007. https://www.hotrod.com/news/0710rc-1st-street-rod-nationals

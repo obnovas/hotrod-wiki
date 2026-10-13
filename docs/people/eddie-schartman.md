@@ -21,4 +21,17 @@ He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to bui
 ## Later
 In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick because it had Mercury Comet taillights. He quit match racing in 1975 over rainouts ("The rainout money was like $150") and went into car dealerships and NAPA stores. He was inducted into IDRHOF in 2012.[^nhra]
 
+
+## Images
+
+<figure markdown>
+![A Top Fuel display engine based on the Ford 427 SOHC. Schartman's 1966 flip-top Comet ran ](../assets/images/commons-ford-427-sohc.jpg){ loading=lazy }
+<figcaption markdown>A Top Fuel display engine based on the Ford 427 SOHC. Schartman's 1966 flip-top Comet ran an injected 427 SOHC (it was not supercharged until 1967). This is a modern blown example, not his engine. Creator: Auge=mit. Date: 2025-06-22. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Top_Fuel_Engine_Ford_427_SOHC_Display_noBG.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [NHRA, "'Fast Eddie' Schartman" (period photos of the A/FX Comet, the flip-top Comet and the Air Lift Cougar)](https://www.nhra.com/news/2016/fast-eddie-schartman)
+
 [^nhra]: Phil Burgess, "'Fast Eddie' Schartman," NHRA.com, Feb 12, 2016. https://www.nhra.com/news/2016/fast-eddie-schartman

@@ -24,6 +24,24 @@ Engle: "There was some hostility, but I would say the intent was competitive in 
 
 **Still open:** the September 1958 ad itself (page, wording). Wallace's 1958 Drag Rags installment should reproduce it.
 
+
+## Images
+
+<figure markdown>
+![US 2,846,988, Guide means for non rotatable valve lifters, sheet 1, filed by Edward Iskend](../assets/images/patent-US2846988-iskenderian-lifter-guide.png){ width="300" loading=lazy }
+<figcaption markdown>US 2,846,988, "Guide means for non rotatable valve lifters," sheet 1, filed by Edward Iskenderian of Inglewood in Oct 1956, the opening year of the Camgrinder Wars. Creator: Edward Iskenderian (inventor); USPTO. Date: filed 1956-10-30, issued 1958-08-12. Source: [Google Patents](https://patents.google.com/patent/US2846988A/en). License: Public domain (U.S. patent drawing).</figcaption>
+</figure>
+
+<figure markdown>
+![An unrestored 1949 Oldsmobile Rocket V8, the engine family for which Jack Engle's cams mad](../assets/images/commons-olds-rocket-v8-1949.jpg){ loading=lazy }
+<figcaption markdown>An unrestored 1949 Oldsmobile Rocket V8, the engine family for which Jack Engle's cams made his name (see [Jack Engle](../people/jack-engle.md)). Creator: Regushee. Date: 2012-06-21. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1949_Oldsmobile_Rocket_V8_engine.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Dave Wallace, "Who Started The Camgrinder Wars? – Part 1" (period ads)](https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1)
+
 [^hr]: Dave Wallace, "Who Started The Camgrinder Wars? – Part 1," Hot Rod, Dec 29, 2014. https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1
 [^cp59]: Dave Wallace, "Drag Rags: 1959, Part 2 — How the Smokers Beat the Fuel Ban," Competition Plus (search excerpt). https://competitionplus.com/drag-rags-1959-part-2-how-the-smokers-beat-the-fuel-ban/
 [^cp60]: Dave Wallace, "Drag Rags of 1960 – Tragedy, Popcorn Speeds and a Camshaft Rivalry," Competition Plus (search excerpt). https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/

@@ -3,8 +3,10 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (Navarro via AHRF), period magazine (via auction text), auction catalog · **Last verified:** 2026-10-12 (Round 2) · **Open issues:** Record conflicts open · [How we rate this](../reference/source-standards.md)
 
+<figure markdown>
 ![The belly tank lakester that the Henry Ford Museum displays as the "1951 Beatty belly tank lakester" (Dearborn, Mich](../assets/images/commons-beatty-belly-tank-henry-ford.jpg){ loading=lazy }
-*The belly tank lakester that the Henry Ford Museum displays as the "1951 Beatty belly tank lakester" (Dearborn, Mich., 2012). The identification is the photographer's and the museum's. We have not checked it against the Beatty records discussed below. Photo: Michael Barera, 2012-08-24. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Ford_Museum_August_2012_29_(1951_Beatty_belly_tank_lakester).jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+<figcaption markdown>The belly tank lakester that the Henry Ford Museum displays as the "1951 Beatty belly tank lakester" (Dearborn, Mich., 2012). The identification is the photographer's and the museum's. We have not checked it against the Beatty records discussed below. Photo: Michael Barera, 2012-08-24. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Ford_Museum_August_2012_29_(1951_Beatty_belly_tank_lakester).jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
 
 
 ## The club
@@ -21,6 +23,12 @@ Beatty's channeled 1929 Ford roadster was unpainted and rusty, looking "gutted b
 - RM says it was SCTA Top Speed of the Season five straight years (1951–55), and again in 1959. It reached 211.267 mph in 1955 (the 16th member of the 200 MPH Club), switched to Olds power in 1958, and ran a 243.438 mph average in 1962.[^tank] ◐ *Auction-catalog source; check against SCTA/BNI records.*
 - He opened **Tom Beatty Automotive Engineering**, Sun Valley, in 1958, selling 6-71 blower manifolds and multi-belt drives.[^tank]
 - **Unresolved:** the RM text says Beatty "died later that year" after the tank was sold, but the sale date is unclear. **Death date unverified.**
+
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Kustomrama, Tom Beatty's belly tank lakester (RM Auctions photos)](https://www.kustomrama.com/wiki/Tom_Beatty%27s_Belly_Tank_Lakester)
 
 [^ahrf]: Tony Thacker, "Barney Navarro," AHRF. https://ahrf.com/pioneer/barney-navarro/
 [^club]: Kustomrama, "Glendale Stokers." https://kustomrama.com/wiki/Glendale_Stokers

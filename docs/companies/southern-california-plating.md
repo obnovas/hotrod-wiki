@@ -19,5 +19,18 @@
 - **Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb] **⚠** Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr]
 - Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb] ◐ *Claim repeated by both sources without a primary citation.*
 
+
+## Images
+
+<figure markdown>
+![A stock 1935 Ford 750 Phaeton at the Den Hartogh Ford Museum. It shows the body type of So](../assets/images/commons-1935-ford-phaeton.jpg){ loading=lazy }
+<figcaption markdown>A stock 1935 Ford 750 Phaeton at the Den Hartogh Ford Museum. It shows the body type of So. Cal. Plating's lost promotional phaeton. **It is not that car**, which had a '36 front end and a custom grille and is missing. Creator: Alf van Beem. Date: 2013-03-02 13:32:26. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1935_Ford_750_Phaeton_pic1.JPG). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Coachbuilt.com DuVall/DeBell page: period photos of the So. Cal. Plating trucks and phaeton](http://www.coachbuilt.com/des/d/duvall/duvall.htm)
+
 [^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm
 [^kr]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall

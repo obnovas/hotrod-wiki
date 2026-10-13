@@ -1,7 +1,9 @@
 # Techniques & Styles (Period-Correct Traits)
 
+<figure markdown>
 ![A 1941 Ford V8-11A flathead in a Super DeLuxe](../assets/images/commons-ford-flathead-1941.jpg){ loading=lazy }
-*A 1941 Ford V8-11A flathead in a Super DeLuxe. The uploader notes the tubes may come from a 1939 91A engine. This is a stock engine, the starting point for the speed-equipment era. Photo: Mr.choppers, 2015-07-12. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Ford_V8-11A_flathead_engine_in_a_Super_DeLuxe.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
+<figcaption markdown>A 1941 Ford V8-11A flathead in a Super DeLuxe. The uploader notes the tubes may come from a 1939 91A engine. This is a stock engine, the starting point for the speed-equipment era. Photo: Mr.choppers, 2015-07-12. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Ford_V8-11A_flathead_engine_in_a_Super_DeLuxe.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
+</figure>
 
 
 ## Prewar / early custom ("restyling"), c.1935–1946
@@ -23,6 +25,19 @@ Roy Hagy "didn't like to use much lead; he'd metal-finish everything" (Tom Spark
 
 ## Pro Street, 1979–late 1980s
 See [Pro Street](../eras/1980s-pro-street.md).
+
+
+## Images
+
+<figure markdown>
+![HAER CA-2328, sheet 2: measured elevations of the Hirohata Merc, a reference for the chopp](../assets/images/loc-haer-ca2328-hirohata-sheet2.jpg){ loading=lazy }
+<figcaption markdown>HAER CA-2328, sheet 2: measured elevations of the Hirohata Merc, a reference for the chopped, lowered early-'50s custom profile (see [Hirohata Mercury](../cars/hirohata-mercury.md)). Creator: Historic American Engineering Record (NPS), delineated by Thomas M. Behrens; with the Historic Vehicle Association. Date: 2017. Source: [Library of Congress](https://www.loc.gov/item/ca4307/). License: [No known restrictions (U.S. Government work, HAER/NPS)](https://www.loc.gov/rr/print/res/114_habs.html).</figcaption>
+</figure>
+
+<figure markdown>
+![A scale model of a 1940 Mercury custom showing the smoothed fat-fender look. It is a model](../assets/images/commons-1940-mercury-custom.jpg){ loading=lazy }
+<figcaption markdown>A scale model of a 1940 Mercury custom showing the smoothed fat-fender look. It is a model, not a full-size car. Creator: JOHN LLOYD from Concrete, Washington, United States. Date: 2016-02-28 10:32. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1940_Mercury_based_custom_(25173334639).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
+</figure>
 
 [^k]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
 [^revs]: Ken Gross, "Emerald Icon from a Lost Era," Revs Institute. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury

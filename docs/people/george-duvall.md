@@ -14,6 +14,12 @@
 - **Hollywood Hubcap:** called the first mass-produced aftermarket custom hubcap. Per Albert Drake, the first version had an S stamped in relief that appeared to spin, and a later one used a chromed bar.[^k]
 - Xydias: "Jimmy Summers and George DuVall were two of the best-known guys before the war."[^summers]
 
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Coachbuilt.com: DuVall windshield, yearbook and period photos](http://www.coachbuilt.com/des/d/duvall/duvall.htm)
+
 [^k]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall
 [^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
 [^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm

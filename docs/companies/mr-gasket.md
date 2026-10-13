@@ -30,6 +30,19 @@ Joe left the company in 1976 under a non-compete and collected Tri-Five Chevys u
 ## Update, Round 4: Joe Hrudka (1938–2026)
 NHRA reports that Joe Hrudka was born Nov 29, 1938, in Cleveland and died **May 24, 2026**, at 87. It describes the brothers' results as "Class wins at the 1961 and 1962 NHRA U.S. Nationals." That is narrower than SEMA's "back-to-back NHRA champions."[^nhra26] The same story captions Dave Meal's '40 Willys C/Gasser with an early Mr. Gasket logo. In spring 1967 the Hrudkas bought the unfinished '33 Willys that became the Hill brothers' [Red Baron](../cars/hill-bros-red-baron.md) and sold it on to them, per Dave Hales.
 
+
+## Images
+
+<figure markdown>
+![A 1940 Willys Americar gasser-style coupe at a 2017 show. It illustrates the '40 Willys ga](../assets/images/commons-1940-willys-gasser.jpg){ loading=lazy }
+<figcaption markdown>A 1940 Willys Americar gasser-style coupe at a 2017 show. It illustrates the '40 Willys gas-class body the Hrudkas and Dave Meal raced. **It is not a Hrudka or Meal car.** Creator: Sicnag. Date: 2017-01-08 09:27. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1940_Willys_Americar_440_Gasser_Coupe_(31932008310).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [NHRA obituary of Joe Hrudka, with a photo of Dave Meal's '40 Willys showing an early Mr. Gasket logo](https://www.nhra.com/news/2026/joseph-joe-hrudka-founder-mr-gasket-passes-away-age-87)
+
 [^ec]: Jim Hill, "Mr. Gasket: From The Trunk Of A '57 Chevy To Wall Street," East Coast Drag Racing Hall of Fame, Apr 1, 2016. https://eastcoastdragtimeshalloffame.com/mr-gasket-from-the-trunk-of-a-57-chevy-to-wall-street/
 [^sema]: SEMA Hall of Fame 1980, "Joe Hrudka." https://www.sema.org/hof/1980/joe-hrudka
 [^enc]: Encyclopedia.com, "Mr. Gasket Inc." https://www.encyclopedia.com/books/politics-and-business-magazines/mr-gasket-inc

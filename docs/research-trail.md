@@ -20,6 +20,10 @@
 - ~~**Isky:**~~ (verified Round 3) the IDRHOF lists Ed Iskenderian as "1921–2026." That suggests he died this year. **Not yet verified.** It would need an obituary before any page uses it.
 - New cross-links: Medley drew Veda's covers, then co-founded Peoria (1970). Steve Reyes, who named Pro Street (1979), is in IDRHOF 2002. Art Chrisman links Santa Ana, Beast III and Chrisman & Sons. Almquist's pamphlet influenced the customizers.
 
+## Log, Round 5 (images, 2026-10-13)
+- Images went from 16 to 40 hosted files (59 figures), all wrapped in `<figure>`. Every article now has a "Visual references (external)" list where key images are copyrighted. Rejected candidates are listed on Image Credits.
+- **Image leads:** Orange County Archives on Flickr (CC BY, many 1950s airport views; look for drag-strip shots); Detroit News/Wayne State Reuther Library (dragway); the Akron Beacon Journal archive; HAER/HABS for other National Historic Vehicle Register cars.
+
 ## Log, Round 4 (2026-10-13)
 - **Structure:**
     - Image layer: 9 Commons photos and 7 USPTO patent drawings, every one captioned, plus an [Image Credits](reference/image-credits.md) page.

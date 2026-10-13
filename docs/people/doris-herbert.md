@@ -11,6 +11,12 @@
 - **1967:** Drag News outlasted Drag Sport Illustrated, Drag World and Drag Digest. Wallace attributes this to her North American contributor network and year-round advertisers.[^cp67]
 - She was the first journalist inducted into the International Drag Racing Hall of Fame (1993) and sold the paper in **1976** after 17 years.[^hof]
 
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Competition Plus, Drag Rags series (Drag News front pages and ads)](https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/)
+
 [^cp1]: Dave Wallace, "Drag Rags with Dave Wallace, Earliest Editions," Competition Plus, Jan 7, 2019. https://competitionplus.com/drag-rags-with-dave-wallace-earliest-editions/
 [^cp67]: Dave Wallace, "Drag Rags: Early 1967 – War of Early Independents Ends," Competition Plus, Jan 13, 2024. https://competitionplus.com/drag-rags-early-1967-war-of-early-independents-ends/
 [^hem]: Hemmings, "Chet Herbert." https://www.hemmings.com/stories/chet-herbert/

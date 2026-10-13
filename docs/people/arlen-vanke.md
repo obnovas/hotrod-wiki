@@ -21,6 +21,20 @@ In fall 1961 he went into Bill Knafel Pontiac in Akron, asked about a Super Duty
 
 He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Beyond California](../regions/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
 
+
+## Images
+
+<figure markdown>
+![Akron Fulton International Airport, Ohio, from the air in January 2026. This is the former](../assets/images/commons-akron-fulton-airport.jpg){ loading=lazy }
+<figcaption markdown>Akron Fulton International Airport, Ohio, from the air in January 2026. The airport was formerly called Akron Municipal Airport (per [Wikipedia](https://en.wikipedia.org/wiki/Akron_Fulton_International_Airport)), where Vanke first raced in the 1950s. **We have not identified which pavement the drags used.** Creator: Designism. Date: 2026-01-24 15:58:13. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akron_Fulton_International_Airport_(KAKR)_20260124_(3).jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+</figure>
+
+## Visual references (external)
+*These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
+
+- [Hemmings, Vanke stories (period race photos)](https://www.hemmings.com/stories/akron-arlen-vanke/)
+- [Knafel Pontiac 'Tin Indians' site (Super Duty and GTO photos)](http://www.tinindian.com/drivers/arlenvanke.html)
+
 [^mm]: Michigan Motor Sports Hall of Fame, "Vanke, 'Akron Arlen' 2016." https://www.mmshof.org/index.php/inductees/inductees/368-akron-arlen-vanke
 [^hem]: Hemmings, "Akron Arlen Vanke." https://www.hemmings.com/stories/akron-arlen-vanke/
 [^hem2]: Hemmings, "Drag racer 'Akron' Arlen Vanke dead at age 80," 2017. https://www.hemmings.com/stories/drag-racer-akron-arlen-vanke-dead-at-age-80/
