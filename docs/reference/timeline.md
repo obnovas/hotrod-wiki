@@ -4,7 +4,9 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 
 | Year | Event | Article |
 |---|---|---|
+| 1924 | Blackie Gold, 10, starts as a grease monkey at Fortner & Loud Ford, Pasadena (his recollection) | [Blackie Gold](../voices/blackie-gold.md) |
 | 1928–1945 | Ed Winfield files at least ten U.S. patents (carburetors, heads, blocks) | [Patents](patents.md), [Winfield](../people/ed-winfield.md) |
+| 1936 | Gold founds the Night Flyers and races a '32 at Muroc (his recollection ◐) | [Blackie Gold](../voices/blackie-gold.md) |
 | 1937–38 ⚠ | SCTA formed. Kong Jackson recalled it as 1938; the first meet date is disputed | [Dry Lakes & SCTA](../eras/1930s-dry-lakes-scta.md), [Kong Jackson](../people/kong-jackson.md) |
 | 1939 | Jack Engle runs 113 mph at El Mirage (family caption) | [Jack Engle](../people/jack-engle.md) |
 | 1941 | Muroc meet broken up by Army Jeeps, per Kong Jackson. Engle hand-grinds early cams | [Kong Jackson](../people/kong-jackson.md), [Jack Engle](../people/jack-engle.md) |
@@ -19,8 +21,10 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1951 | Hirohata Merc built (build time disputed). Beatty's belly tank on the salt | [Hirohata](../cars/hirohata-mercury.md), [Tom Beatty](../people/tom-beatty.md) |
 | 1951–59 | Akron Municipal Airport strip, "first NHRA-sanctioned track east of the Mississippi" | [Arlen Vanke](../people/arlen-vanke.md) |
 | 1951 | Trend Book 101 *Custom Cars*. First Caddo Mills drags (Aug 19) | [Trend Books](../customs/trend-books-kits-roth.md), [Texas](../regions/texas.md) |
+| 1951 | Ray Godman wounded in Korea (Sept 17) | [Ray Godman](../voices/ray-godman.md) |
 | 1952 | Memphis Rodders exhibit at Klyce Motors (Mar 15) ◐ | [Memphis](../regions/memphis.md) |
 | 1953 | First Detroit Autorama (45–50 cars) | [Show Circuit](../customs/show-circuit.md) |
+| 1953 | Godman takes up drag racing and writes to Wally Parks | [Ray Godman](../voices/ray-godman.md) |
 | 1954 | First World Series of Drag Racing, Lawrenceville, Ill. Sparkomatic founded | [Detroit & Cordova](../regions/detroit-cordova.md), [Almquist](../people/ed-almquist.md) |
 | 1954 | Multnomah Hot Rod Council founded. Wescott's begins | [Pacific NW](../regions/pacific-northwest.md) |
 | 1955 | NHRA Safari meet at Halls, Tenn. (start of Halls drags 1953/55 ⚠) | [Memphis](../regions/memphis.md) |
@@ -30,6 +34,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Sept *Hot Rod* ad sets off the Gasser Wars, per Isky | [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../customs/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
+| 1958 | Von Dutch quits striping (per Bob Burns) | [Von Dutch](../voices/von-dutch.md) |
 | 1959 | Detroit Dragway opens and hosts the NHRA Nationals (1959–60) | [Detroit & Cordova](../regions/detroit-cordova.md) |
 | 1959 | Larivee brothers form Promotions Inc. | [Show Circuit](../customs/show-circuit.md) |
 | 1960s | Drag News era. Doris Herbert | [Drag Rags](../eras/1960s-drag-rags.md), [Doris Herbert](../people/doris-herbert.md) |
@@ -42,11 +47,14 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1964–67 ⚠ | Mr. Gasket founded or incorporated | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
 | 1966 | Schartman wins NHRA's first Funny Car title (Tulsa) | [Eddie Schartman](../people/eddie-schartman.md) |
+| 1966 | Schartman's Comet funny car: "What the hell is this?" | [Show & Custom Voices](../voices/show-custom-voices.md) |
 | 1967 | Hill brothers' Red Baron Willys built in 11 days. "WE'RE SORRY" letter | [Red Baron](../cars/hill-bros-red-baron.md) |
 | 1967 | Minnesota Street Rod Association formed | [Upper Midwest](../regions/upper-midwest.md) |
 | 1970 | First NSRA Street Rod Nationals, Peoria. Vanke in Pro Stock | [Peoria](../eras/1970s-street-rod-nationals.md), [Vanke](../people/arlen-vanke.md) |
 | 1971 | W.R. Grace buys Mr. Gasket | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1971 | 2nd Street Rod Nationals, Memphis | [NSRA](../street-rodding/nsra-early-nationals.md) |
+| 1972 | Street Rodder Vol. 1 No. 1 (May) | [Founding Street Rodder](../voices/street-rodder-founding.md) |
+| 1973 | Black American Racers Association founded | [Leonard Miller](../voices/leonard-miller.md) |
 | 1974 | First Back to the 50's; 5th Nationals, St. Paul | [Upper Midwest](../regions/upper-midwest.md) |
 | 1979 | Merc/Deuce Reunion. Lakeland Dragway closes | [KKOA](../customs/kkoa-lead-sled-revival.md), [Memphis](../regions/memphis.md) |
 | 1980s | Pro Street | [Pro Street](../eras/1980s-pro-street.md) |

@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** club history, period magazine (Hot Rod 1981, 1983) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-show count conflicts (300+ vs 400) · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "It's like family at KKOA."
+
+    — Jerry Titus, KKOA history page. [Full context in Voices](../voices/show-custom-voices.md)
+
 
 ## Wichita, October 1, 1980
 The KKOA's own history calls it "a spin-off of the mystic '79 Merc/Deuce ReUnion." It began on **Oct 1, 1980**, in Wichita with 14 charter members, whose low membership numbers were "drawn from a '52 Caddie hubcap." Jerry Titus has led it from the start.[^kk] It explains "kemp" as late-'50s teen slang for a car that gained national exposure through Edd "Kookie" Byrnes on *77 Sunset Strip* and through "the little 25-cent Rod and Custom magazines."[^kk]

@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** club history, secondary, oral · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** First-meet date conflict open · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "There might be a 100 cars there waiting in line for their run, and the guys at the front of the line always ran faster than the guys toward the end of the line."
+
+    — Blackie Gold, 2006 interview, on 1930s Muroc. [Full context in Voices](../voices/blackie-gold.md)
+
 <figure markdown>
 ![Rogers Dry Lake at Edwards AFB in 1990: a runway marked on the lakebed](../assets/images/commons-rogers-dry-lake-usaf.jpg){ loading=lazy }
 <figcaption markdown>Rogers Dry Lake at Edwards AFB in 1990: a runway marked on the lakebed. Rogers is the lakebed racers knew as Muroc (renamed in 1950, per [Wikipedia](https://en.wikipedia.org/wiki/Rogers_Dry_Lake)). Photo: CMSgt Donald Sutherland, U.S. Air Force, 1990-12-18. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edwards_AFB_Runway_5_on_Rogers_Dry_Lake.jpg). License: Public domain.</figcaption>

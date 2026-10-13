@@ -1,5 +1,21 @@
 # Research Trail: The Investigator's Log
 
+## Log, Round 7 (Voices; 2026-10-13)
+- We added the **Voices** section: 11 narrative pages and a method page, plus 13 "In their own words" pull-quotes in existing articles.
+- Every quote was checked by script against the text of the fetched page. Pages read through the fetch tool (wediditforlove, Memphis Rodders) were checked by eye.
+- New conflicts: Halls start year (Godman/NHRA 1953 vs 1955); Drag Safari month ("summer" vs September); Gold's "hot rod" etymology and his "first '32" claim; Burns' "GM 1938 first striping"; the OC Register calling Peggy Hart "the only woman racer."
+- Round 6 leads followed up: the Commercial Appeal (only the 2008 Lakeland piece, via the Rodders blog; not yet read); Street Rodder's founding (done); Von Dutch (the 1965 quote is real but the magazine is unidentified).
+
+## Next breadcrumbs (Round 7)
+- Read the **Mercer Museum 2015 oral history** of Leonard Miller and his book *Silent Thunder*. Find first-person **Malcolm Durham** material.
+- **Peggy Hart's own words** in 1950s newspapers (Santa Ana Register) and *Drag News*.
+- Coachbuilt's Ruelas/Dukes profile (Julio's 1999 interview); LA's Black clubs (the Professionals, the Imperials).
+- Identify the **1965 Von Dutch magazine** (possibly *Car Craft* or *Rod & Custom*).
+- The **Commercial Appeal 2008** Lakeland feature and Memphis Public Library newspaper archives.
+- Bruce Miller's Portland ***Street Rod*** magazine (1972).
+- Pancho Barnes book *Voices from the Happy Bottom Riding Club*: is it published?
+- The Petersen, Revs and AHRF oral history catalogs: searched, nothing usable found online this round.
+
 ## Log, Round 6 (customs, street rodding, regions; 2026-10-13)
 - This round added 9 articles and 3 landing pages (Customs & Media, Street Rodding, Beyond California), plus 14 images.
 - Conflicts flagged: Oakland 1950 attendance (27,625 vs 25,000+); first Lead Sled Spectacular (300+ vs 400); the start year of the Halls drags (1953 vs 1955) and who won the 1955 meet; AMT vs SMP as inventor of the 3-in-1; 1970 Peoria count.

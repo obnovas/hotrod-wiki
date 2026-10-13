@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no documented Sun Records link · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "I became interested in drag racing in 1953 just as it was starting to come on. … I got in touch with Wally at Hot Rod to offer my help."
+
+    — Ray Godman, NHRA.com, 2014. [Full context in Voices](../voices/ray-godman.md)
+
 
 ## Memphis Rodders (1947) and the Klyce Motors exhibit
 - The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr] ◐

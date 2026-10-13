@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** reference (Kustomrama), hobby-press history, company history, secondary · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Roth royalty figure is "debated" · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "Nothing is original. Everything is in the subconscious, we just 'tap' it sometimes and think we have originated something."
+
+    — Von Dutch, hand-lettered sign (via LA Times, 2002). [Full context in Voices](../voices/von-dutch.md)
+
 
 ## The 1951 Trend Book: who got to be in the canon
 Petersen's *Custom Cars* Trend Book No. 101 (1951) was published by Robert R. Lindsay and R.E. Petersen and edited by Walter A. Woron. It drew a line between **"restyled"** and **"custom"** cars. "A restyled car can include any or all of the following modifications without actually being a custom job: a bull-nose, a deck job, fadeaways, a new grille, and/or new bumpers. When it gets to chopped tops and channeling, the car would more properly be termed a custom job."[^tb]

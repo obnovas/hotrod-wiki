@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, oral · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Best Car conflict open · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "We couldn't get an OK from the 7th floor (Petersen Publishing upper management), but we were already into this thing so we went ahead and did it."
+
+    — Tom Medley, Rod & Custom, 2007. [Full context in Voices](../voices/peoria-1970.md)
+
 By the late 1960s, street rodders were again "lightning rods, much like the hot rodders of the '40s," with several states passing unfriendly laws.[^rc] At *Rod & Custom*, editor **Tom Medley** ("Street is Neat"), Bud Bryan, Jim "Jake" Jacobs and freelancer **LeRoi "Tex" Smith** planned a national gathering. Bryan: "The sport, at that point, was fragmented nationally. The Midwest and the East Coast guys didn't know much about the West Coast guys."[^rc]
 
 ## Why Peoria

@@ -89,6 +89,19 @@ nav:
       - Texas: regions/texas.md
       - Pacific Northwest: regions/pacific-northwest.md
       - Upper Midwest: regions/upper-midwest.md
+  - "Voices: In Their Own Words":
+      - voices/index.md
+      - Blackie Gold (Muroc, 1930s): voices/blackie-gold.md
+      - Kong Jackson: voices/kong-jackson.md
+      - The Harts of Santa Ana: voices/harts-santa-ana.md
+      - Esparza Brothers (Lions): voices/esparza-brothers.md
+      - Ruelas Brothers & the Dukes: voices/ruelas-dukes.md
+      - Leonard Miller: voices/leonard-miller.md
+      - Ray Godman & Preston Davis (Memphis): voices/ray-godman.md
+      - Peoria 1970: voices/peoria-1970.md
+      - Founding Street Rodder: voices/street-rodder-founding.md
+      - Von Dutch: voices/von-dutch.md
+      - Show & Custom Voices: voices/show-custom-voices.md
   - Reference:
       - reference/index.md
       - Timeline: reference/timeline.md

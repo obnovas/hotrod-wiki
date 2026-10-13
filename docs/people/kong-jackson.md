@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (Medley 1988 via Fuel Curve), contemporaneous list post · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Death year conflict (2000 vs 2002) · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "We were working on our cars when here came a Jeep and out jumped these guys with bayonets. Man, we just split!"
+
+    — Kong Jackson to Tom Medley, 1988 (via Fuel Curve). [Full context in Voices](../voices/kong-jackson.md)
+
 ## Before the SCTA
 Fuel Curve (2023) quotes Jackson from Tom Medley's interview in Tex Smith's *Hot Rod History*: "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."[^fc] **⚠** Jackson's "1938" disagrees with the usual late-1937 founding date (see [Dry Lakes & the SCTA](../eras/1930s-dry-lakes-scta.md)). It is a recollection fifty years on.
 

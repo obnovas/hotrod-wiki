@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** recollections (Mary Slonaker via Hot Rod), HOF bio, club histories, secondary · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Attendance figures conflict · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "We didn't know rods from roller skates … but people liked them so much that Al decided the next year to hold a hot-rod-only car show."
+
+    — Mary Slonaker, Hot Rod "Golden Oldie". [Full context in Voices](../voices/show-custom-voices.md)
+
 
 ## Oakland, 1950: "roadster," not "hot rod"
 - Promoter Al Slonaker first slipped some track roadsters and Barris customs into an "International Car Show" of new cars. Mary Slonaker recalled: "We didn't know rods from roller skates, but people liked them so much that Al decided the next year to hold a hot-rod-only car show." She added that "'hot rod' was still a no-no, so he substituted 'roadster'" (Hot Rod, "Golden Oldie").[^go]

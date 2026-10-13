@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** club/HOF histories, local magazine · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "They were all Army vets like myself. Everyone got along."
+
+    — Leonard Miller, on 1960s Bucks County strips, WHYY 2018. [Full context in Voices](../voices/leonard-miller.md)
+
 A working index of non-California hot rodding. See also [Ed Almquist](../people/ed-almquist.md) (PA), [Setto Postoian](../people/setto-postoian.md) (MI), and [Mr. Gasket](../companies/mr-gasket.md) (OH).
 
 ## JEGS: Columbus, Ohio, 1960

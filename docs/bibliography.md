@@ -126,3 +126,16 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 - Memphis: Memphis Rodders http://www.memphisrodders.com/ ; Memphis Tech High "Ray Godman" https://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html ; BangShift Godman obit https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/ ; Daily Memphian (Lakeland) https://dailymemphian.com/article/52861/lakeland-international-raceway-drag-racing-the-lake-district
 - Texas: Dragzine Caddo Mills https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/ ; Drag List https://www.draglist.com/stories/SOD%20Dec%202001/SOD-123101.htm
 - MSRA: History https://msra.com/about-msra/history/ ; HotRod Hotline https://hotrodhotline.com/fifty-years-of-the-msra/ ; ClassicCars Journal https://journal.classiccars.com/2018/06/30/back-to-the-50s-celebrates-hot-rod-cultures-golden-age/
+
+## Added in Round 7 (Voices)
+- Pancho Barnes Trust Estate Archive, "Interview with Blackie Gold" (2006). https://happybottomridingclub.com/interview-with-blackie-gold/
+- Fuel Curve, "'Kong' Jackson" (quoting Medley's 1988 interview). https://fuelcurve.com/kong-jackson/
+- We Did It For Love, "CJ 'Pappy' Hart – The Passing of a Legend" (obituary compilation, 2004). http://wediditforlove.com/cj-2.html
+- Press-Enterprise, "Santa Ana Drags: 65 years after…" (2015). https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/
+- The Hi-lo, "'Mexican Express'…" (2022). https://staging-live.lbpost.com/hi-lo/mexican-express-drag-racing-documentary-lions-drag-strip/
+- Lynell George, "Under the Hood," LA Times (2006). https://www.latimes.com/archives/la-xpm-2006-jul-16-tm-dukes29-story.html
+- WHYY, "Blazing a trail for African-American racers" (2018). https://whyy.org/segments/blazing-a-trail-for-african-american-racers/ · NMAH, "The Black American Racers fought for equity…" https://americanhistory.si.edu/explore/stories/equity-auto-racing
+- NHRA.com, "The Tennessee Bo-Weevil" (2014). https://www.nhra.com/news/2014/tennessee-bo-weevil · BangShift, Godman obituary (2018). https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/ · Memphis Rodders, "Two-Lane Memories" (2008). http://memphisrodders.com/files/dc0cc7ae4bcfcaca80f74cf5a4b24ce3-12.html
+- Street Rodder, "40th Anniversary – Time Flies." https://www.hotrod.com/features/street-rodders-40th-anniversary · SEMA News, "Street Rodder" (2012). https://www.sema.org/news-media/magazine/2012/05/street-rodder · 99W, Street Rodder covers. http://99wspeedshop.com/streetrodder.html · Autoweek, "Leroi 'Tex' Smith 1933-2015." https://www.autoweek.com/car-life/a1871811/leroi-tex-smith-1933-2014/
+- Bob Burns, "The Life of Von Dutch," Letterville. https://www.letterville.com/articles/bob_burns/vondutch/ · LA Times, "Car Painter Earned His Stripes" (2002). https://www.latimes.com/archives/la-xpm-2002-sep-02-me-dutch2-story.html
+- NHRA.com, "Fast Eddie Schartman" (2016). https://www.nhra.com/news/2016/fast-eddie-schartman

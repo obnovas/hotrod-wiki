@@ -3,6 +3,11 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** participant recollection (Medley, Brizio via R&C), Hagerty, NSRA, MSRA founder recollection · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** 1970 car count; 1971 Memphis count unverified · [How we rate this](../reference/source-standards.md)
 
+!!! quote "In their own words"
+    "STREET RODDER originally covered the whole spectrum of street activity. … There was no 1948 cut-off year."
+
+    — Jim Clark, first Street Rodder editor, 2012. [Full context in Voices](../voices/street-rodder-founding.md)
+
 
 ## From Peoria to an association
 - Tom Medley recalled that he, Tex Smith, Bud Bryan and Jim "Jake" Jacobs planned the 1970 event, and that the Petersen "7th floor" management said no. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association (MSRA) helped.[^rc] It was held in a hayfield. For more, see [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md).
