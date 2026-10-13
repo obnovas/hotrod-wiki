@@ -1,5 +1,17 @@
 # Research Trail: The Investigator's Log
 
+## Log, Round 6 (customs, street rodding, regions; 2026-10-13)
+- This round added 9 articles and 3 landing pages (Customs & Media, Street Rodding, Beyond California), plus 14 images.
+- Conflicts flagged: Oakland 1950 attendance (27,625 vs 25,000+); first Lead Sled Spectacular (300+ vs 400); the start year of the Halls drags (1953 vs 1955) and who won the 1955 meet; AMT vs SMP as inventor of the 3-in-1; 1970 Peoria count.
+- Sun Records: we found no documented car-builder link, and the page says so plainly.
+
+## Next breadcrumbs (Round 6)
+- Memphis: Commercial Appeal archive (1952–79) on Halls and Lakeland; the 1971 Nationals count from Street Rodder or *Street Scene*; a primary source for the 1992 Fastest Street Car Shootout.
+- Street Rodder's founding (1972, McMullen?), IFS suppliers (Mustang II swaps, Heidts, Pete & Jake's), and NSRA rulebooks on the 1948 and 30-year rules.
+- Carolinas and Southeast (Shadyside? Piedmont strips), New England (Sanford, Maine, and Connecticut clubs), and Houston Freeway Dragstrip (1957).
+- Media: *Hot Rod Gang*, *Drag Strip Girl*, *American Graffiti* and their car sources; Von Dutch from primary sources; Rod & Custom's "little" magazines.
+- Hemmings on Roth's royalty figure (the site was blocked by Cloudflare).
+
 ## Log, Round 1 (2026-10-12)
 - Started with founders of small prewar and postwar speed businesses. The richest first-hand material so far: **AHRF pioneer bios** (Tony Thacker), **Kustomrama** family interviews (Sondre Kvipt), the **Road Runners club research packet**, the **Motorsports Hall of Fame** oral-style bios, and **Ford Barn / H.A.M.B.** owner threads.
 - Recurring cross-links: Fairfax High / Melrose Ave. (Summers ↔ Xydias); Glendale Strokers (Navarro ↔ Beatty ↔ Doane Spencer); Doane Spencer ↔ Jack Dorn ↔ Summers; Veda Orr as photographer for *California Timing News*.

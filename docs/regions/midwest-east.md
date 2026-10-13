@@ -26,6 +26,8 @@ See also: [Detroit Dragway & Cordova](detroit-cordova.md), [Arlen Vanke](../peop
 
 ## Images
 
+## Images
+
 <figure markdown>
 ![Peoria Heights, Sept 1970: Upper Peoria Lake from the water tower, in the year of the Slo-](../assets/images/commons-peoria-heights-1970.jpg){ loading=lazy }
 <figcaption markdown>Peoria Heights, Sept 1970: Upper Peoria Lake from the water tower, in the year of the Slo-Pokes' first Nationals. It is not the event. Creator: Roger Wollstadt. Date: 1970-09-19. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Peoria_Heights_-_View_from_Water_Tower_1970.jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>

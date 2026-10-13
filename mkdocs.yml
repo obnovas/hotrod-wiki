@@ -72,9 +72,23 @@ nav:
       - Edelbrock's Slingshot: companies/edelbrock-slingshot.md
       - Southern California Plating Co.: companies/southern-california-plating.md
       - Mr. Gasket (Ohio): companies/mr-gasket.md
+  - Customs & Media:
+      - customs/index.md
+      - Trend Books, Model Kits & Roth: customs/trend-books-kits-roth.md
+      - "The Show Circuit: Oakland, Detroit, ISCA": customs/show-circuit.md
+      - KKOA & the Lead Sled Revival: customs/kkoa-lead-sled-revival.md
+  - Street Rodding:
+      - street-rodding/index.md
+      - NSRA & the Early Nationals: street-rodding/nsra-early-nationals.md
+      - Fiberglass Bodies & Early Suppliers: street-rodding/fiberglass-suppliers.md
   - Beyond California:
+      - regions/index.md
       - Midwest & East Threads: regions/midwest-east.md
       - Detroit Dragway & Cordova: regions/detroit-cordova.md
+      - Memphis & the Mid-South: regions/memphis.md
+      - Texas: regions/texas.md
+      - Pacific Northwest: regions/pacific-northwest.md
+      - Upper Midwest: regions/upper-midwest.md
   - Reference:
       - reference/index.md
       - Timeline: reference/timeline.md

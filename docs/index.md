@@ -18,7 +18,9 @@ An investigator's archive of the people, small shops, and ideas that built Ameri
 <a class="hr-card" href="companies/"><strong>Companies</strong><span>Garage-born speed shops and the aftermarket they grew into.</span></a>
 <a class="hr-card" href="cars/"><strong>Cars</strong><span>Streamliners, customs and gassers, documented car by car.</span></a>
 <a class="hr-card" href="techniques/"><strong>Techniques & Styles</strong><span>Chopping, channeling, flames and the traits of each period.</span></a>
-<a class="hr-card" href="regions/midwest-east/"><strong>Beyond California</strong><span>Ohio, Michigan, Pennsylvania and the Midwest strips.</span></a>
+<a class="hr-card" href="customs/"><strong>Customs & Media</strong><span>Trend Books, 3-in-1 kits, Roth, the show circuit and the KKOA revival.</span></a>
+<a class="hr-card" href="street-rodding/"><strong>Street Rodding</strong><span>NSRA, the early Nationals, the 1948 rule and fiberglass bodies.</span></a>
+<a class="hr-card" href="regions/"><strong>Beyond California</strong><span>Memphis, Texas, the Northwest, Minnesota, Ohio, Michigan and Pennsylvania.</span></a>
 <a class="hr-card" href="reference/"><strong>Reference</strong><span>Timeline, people & company index, patents, image credits.</span></a>
 <a class="hr-card" href="research-trail/"><strong>Research Trail</strong><span>The detective's log: open leads and unresolved conflicts.</span></a>
 <a class="hr-card" href="bibliography/"><strong>Bibliography</strong><span>Every source cited, with links.</span></a>

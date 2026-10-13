@@ -1,0 +1,41 @@
+# Texas: Caddo Mills, the Chaparrals and the Turtles
+
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** enthusiast press (Dragzine), forum recollections, club lore · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Club founding dates are mostly ◐ · [How we rate this](../reference/source-standards.md)
+
+
+## Caddo Mills (1951)
+- The first organized race on the abandoned WWII airfield at **Caddo Mills** was held **Aug 19, 1951**. It was arranged by Dallas's **Chaparral Roadster Club** with local officials. There were 56 cars at a **$1 entry**, timed with **three hand-held stopwatches** (Dragzine).[^dz] The strip became Texas's first NHRA-sanctioned drag strip.[^dz]
+- Later the North Texas Timing Association ran it with Chrondek timers.[^dz] ◐
+- Recollections on Drag List add detail from people who were there.[^dl]
+
+## Clubs
+- **Chaparral Roadster Club** (Dallas): founded 1949 per club lore, by Jim Overbey. ◐ This is from a search summary only.
+- **Fort Worth Turtles** (1948). ◐
+- The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
+
+## How Texas differed
+Racing was concentrated on **ex-military airfields away from the city**, run by clubs. The same thing happened at Halls (TN) and on SoCal's own airstrips. The difference is distance: Texans drove 40+ miles to race, and SoCal's dry lakes had no counterpart.
+
+## Images
+
+<figure markdown>
+![The MKT cotton loading shed at Caddo Mills, June 1962, photographed by Everett L. DeGolyer](../assets/images/commons-caddo-mills-1962-smu.jpg){ loading=lazy }
+<figcaption markdown>The MKT cotton loading shed at Caddo Mills, June 1962, photographed by Everett L. DeGolyer Jr. (SMU Libraries). It shows the farm town that hosted the strip, **not the strip**. Creator: SMU Central University Libraries. Date: Taken in June 1962. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Missouri-Kansas-Texas,_Cotton_Loading_Shed,_Caddo_Mills,_Texas_(16721035298).jpg). License: [No restrictions](https://www.flickr.com/commons/usage/).</figcaption>
+</figure>
+
+<figure markdown>
+![Main Street, Caddo Mills, Texas (2015).](../assets/images/commons-caddo-mills-2015.jpg){ loading=lazy }
+<figcaption markdown>Main Street, Caddo Mills, Texas (2015). Creator: Michael Barera. Date: Taken on 7 November 2015. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caddo_Mills_November_2015_2_(Main_Street).jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+</figure>
+
+
+## Visual references (external)
+*These images are copyrighted, so we link to them instead.*
+
+- [Dragzine: Caddo Mills photos](https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/)
+- [Jalopy Journal: film of drag racing at Caddo Mills](https://www.jalopyjournal.com/?p=59810)
+
+[^dz]: Dragzine, "Flashback Friday: Texas' First NHRA-Sanctioned Drag Strip." https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/
+[^dl]: Drag List, "More Memories of Caddo Mills" (Dec 2001). https://www.draglist.com/stories/SOD%20Dec%202001/SOD-123101.htm
+[^sema]: SEMA News, "Drag Racing, Memphis Style" (2024). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style

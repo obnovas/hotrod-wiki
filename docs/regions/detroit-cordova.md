@@ -18,6 +18,8 @@
 
 ## Images
 
+## Images
+
 <figure markdown>
 ![The 1985 Detroit Autorama. The show began in 1953, and its profits built Motor City Dragwa](../assets/images/commons-detroit-autorama-1985.jpg){ loading=lazy }
 <figcaption markdown>The 1985 Detroit Autorama. The show began in 1953, and its profits built Motor City Dragway. Creator: Joetregembo. Date: 2023-02-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1985_Detroit_Autorama.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
