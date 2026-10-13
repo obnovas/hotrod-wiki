@@ -1,4 +1,4 @@
-# The Ruelas Brothers and the Dukes: South LA Customs
+# The Ruelas Brothers and the Dukes: A South LA Family Shop
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** magazine feature with extended interviews (LA Times West, Lynell George, July 16, 2006) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** Club founding year not taken from this source; Coachbuilt profile not reachable this round · [How we rate this](../reference/source-standards.md)
@@ -24,7 +24,7 @@ In the mid-1950s Josefina Ruelas brought her sons Julio, Oscar, Fernando and Ern
 > — **Richard "Chivo" Ceniceros**, Dukes sergeant-at-arms, 2006.[^lat]
 
 ## Notes
-- The feature names LA clubs of the era: white clubs (the Igniters, the Drifters), Mexican American clubs (the Clique, the In Crowd) and Black clubs (the Professionals, the Imperials). That points to further research on the Black and Latino clubs.[^lat]
+- The feature names other LA clubs of the era (the Igniters, the Drifters, the Clique, the In Crowd, the Professionals, the Imperials). All of them are leads for club histories.[^lat]
 - Several anecdotes in the article are told in a joking group conversation, such as one about Barry White and stolen tires. We do not repeat them as fact.
 
 [^lat]: Lynell George, "Under the Hood," Los Angeles Times (West magazine), July 16, 2006. https://www.latimes.com/archives/la-xpm-2006-jul-16-tm-dukes29-story.html (accessed 2026-10-13)

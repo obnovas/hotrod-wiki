@@ -1,4 +1,4 @@
-# Leonard Miller: From a Paoli Junkyard to Black American Racers
+# Leonard Miller: From a Paoli Junkyard to Team Owner
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** radio and newspaper interview (WHYY, Peter Crimmins, June 22, 2018); museum story (NMAH) citing a 2015 Mercer Museum oral history and his 2004 autobiography *Silent Thunder* · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** The NMAH page blocked our fetch this round; we have not yet read the Mercer oral history transcript itself · [How we rate this](../reference/source-standards.md)

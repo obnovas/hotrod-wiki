@@ -89,6 +89,18 @@ nav:
       - Texas: regions/texas.md
       - Pacific Northwest: regions/pacific-northwest.md
       - Upper Midwest: regions/upper-midwest.md
+  - Cruise Nights & Hangouts:
+      - cruising/index.md
+      - Woodward Avenue: cruising/woodward.md
+      - Van Nuys Boulevard: cruising/van-nuys.md
+      - Bob's Big Boy & River Road: cruising/bobs-big-boy-river-road.md
+      - Harvey's Broiler, Downey: cruising/harveys-broiler-downey.md
+      - Whittier Boulevard: cruising/whittier-blvd.md
+      - Modesto: cruising/modesto.md
+      - Summer Avenue, Memphis: cruising/summer-avenue-memphis.md
+      - Lake Street & University Ave: cruising/lake-street-university.md
+      - Westheimer, Houston: cruising/westheimer-houston.md
+      - Central Ave, Albuquerque (later): cruising/central-avenue-albuquerque.md
   - "Voices: In Their Own Words":
       - voices/index.md
       - Blackie Gold (Muroc, 1930s): voices/blackie-gold.md

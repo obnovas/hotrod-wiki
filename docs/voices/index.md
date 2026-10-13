@@ -13,19 +13,34 @@ This section collects **first-hand narratives**: interviews, oral histories, obi
     - **⚠ Conflicts with the record:** where documents disagree, we say so and link the evidence.
 - **Tribute pieces.** Obituaries and anniversary features are affectionate by design, so we treat their superlatives ("first," "only") as claims, not facts.
 
-## The voices
-| Page | Who | Told | Thread |
+## The voices, by story
+
+### Dry lakes (1920s–40s)
+| Page | Who | Told | Story |
 |---|---|---|---|
-| [Blackie Gold](blackie-gold.md) | Hyman "Blackie" Gold, 1930s Muroc racer | 2006, age 92 | Dry lakes before the SCTA |
-| [Kong Jackson](kong-jackson.md) | Charles "Kong" Jackson (via Tom Medley) | 1988 | Lakes chaos, the Army and flatheads |
-| [The Harts of Santa Ana](harts-santa-ana.md) | C.J. "Pappy" Hart, son Gerald, Steve Gibbs, Dale Armstrong | 2001–2015 | The first commercial strip; Peggy Hart |
-| [Esparza Brothers](esparza-brothers.md) | Rick & Fred Esparza, Kenny Youngblood | 2022 | A Mexican-American family at Lions |
-| [Ruelas Brothers & the Dukes](ruelas-dukes.md) | Fernando & Julio Ruelas, Richard "Chivo" Ceniceros | 2006 | South LA, 1950s–60s; customs and the color line |
-| [Leonard Miller](leonard-miller.md) | Leonard Miller, Black racer and team owner | 2018 | Pennsylvania strips; Black American Racers |
-| [Ray Godman & Preston Davis](ray-godman.md) | Ray Godman, Preston Davis; a Memphis Rodders blogger | 2008–2014 | Memphis, Halls, the Tennessee Bo-Weevil |
-| [Peoria 1970](peoria-1970.md) | Tom Medley, Bud Bryan, Jim "Jake" Jacobs, Tex Smith | 2007 | Planning and driving to the first Nationals |
-| [Founding Street Rodder](street-rodder-founding.md) | Tex Smith, Jim Clark | 2012 | A street rod magazine born at a chopper publisher |
-| [Von Dutch](von-dutch.md) | Kenny Howard (1965), Bob Burns, LA Times sources | 1965–2002 | Striping, money, and "Nothing is original" |
-| [Show & Custom Voices](show-custom-voices.md) | Mary Slonaker, Tom Prufer, Jerry Titus, Eddie Schartman | 1999–2016 | Oakland, KKOA, the first funny cars |
+| [Blackie Gold](blackie-gold.md) | Hyman "Blackie" Gold | 2006, age 92 | Pasadena garages, Muroc, the Night Flyers |
+| [Kong Jackson](kong-jackson.md) | Charles "Kong" Jackson (via Tom Medley) | 1988 | Lakes before the SCTA; flathead ignitions |
+
+### Drag strips & racing (1950s–70s)
+| Page | Who | Told | Story |
+|---|---|---|---|
+| [The Harts of Santa Ana](harts-santa-ana.md) | C.J. Hart, Gerald Hart, Steve Gibbs, Dale Armstrong | 2001–2015 | The first commercial strip; Peggy Hart's racing |
+| [Esparza Brothers](esparza-brothers.md) | Rick & Fred Esparza, Kenny Youngblood | 2022 | Racing a '41 Willys at Lions, Wilmington |
+| [Ray Godman & Preston Davis](ray-godman.md) | Ray Godman, Preston Davis, a Memphis Rodders blogger | 2008–2014 | Halls, Lakeland, the Tennessee Bo-Weevil |
+| [Leonard Miller](leonard-miller.md) | Leonard Miller | 2018 | Bucks County strips to team owner and BARA co-founder |
+| [Show & Custom Voices](show-custom-voices.md) (Schartman) | Eddie Schartman | 2016 | The first Funny Cars |
+
+### Customs, shows & art
+| Page | Who | Told | Story |
+|---|---|---|---|
+| [Ruelas Brothers & the Dukes](ruelas-dukes.md) | Fernando & Julio Ruelas, Richard "Chivo" Ceniceros | 2006 | A South LA family shop and car club, 1950s–2000s |
+| [Von Dutch](von-dutch.md) | Kenny Howard, Bob Burns | 1965–2002 | Striping, money, "Nothing is original" |
+| [Show & Custom Voices](show-custom-voices.md) | Mary Slonaker, Tom Prufer, Jerry Titus | 1999–2016 | Oakland and the KKOA |
+
+### Street rodding
+| Page | Who | Told | Story |
+|---|---|---|---|
+| [Peoria 1970](peoria-1970.md) | Tom Medley, Bud Bryan, Jake Jacobs, Tex Smith | 2007 | Planning and driving to the first Nationals |
+| [Founding Street Rodder](street-rodder-founding.md) | Tex Smith, Jim Clark | 2012 | Launching a magazine from a chopper publisher |
 
 Related: [Research Trail](../research-trail.md) (leads for more voices) · [Source Standards](../reference/source-standards.md).

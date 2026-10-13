@@ -1,5 +1,20 @@
 # Research Trail: The Investigator's Log
 
+## Log, Round 8 (Cruise Nights & Hangouts; reframing; 2026-10-13)
+- **Editorial reframing:** Voices titles, intros and the index are now organized by story, place and contribution instead of ethnicity. The Voices index is grouped by Dry lakes, Drag strips, Customs/shows and Street rodding. Leonard Miller's title is now "From a Paoli Junkyard to Team Owner" and the Ruelas page is "A South LA Family Shop." Speakers' own words about their neighborhoods are kept, and no content was deleted.
+- **New section:** `cruising/`, with a landing page and 10 spots: Woodward, Van Nuys, Bob's Big Boy / River Road, Harvey's Broiler, Whittier Blvd, Modesto, Summer Ave, Lake St / University, Westheimer and Central Ave (later). There are 13 new open-licensed images.
+- **Conflicts marked:** Van Nuys closure year (1980, 1981 or 1983); Whittier closure date (Mar 23 or Aug 31, 1979); Harvey's sale year (1965 or 1968); Modesto's "banned 1993" marker vs. the 1990 ordinance.
+- **Skipped (no usable sources):** Denver's Colfax Ave and St. Louis cruising.
+
+## Next breadcrumbs (Round 8)
+- Identify the specific late-1960s Woodward cruising and parking ordinances (Royal Oak, Birmingham and Ferndale council minutes).
+- Commercial Appeal (1955–70) on Summer Ave policing, and whether Robilio's was connected to Marshall Robilio (unverified).
+- Robert Genat, *Woodward Avenue: Cruising the Legendary Strip* (CarTech), for primary interviews.
+- Roberto Rodriguez's own published account of March 23, 1979 and the *Lowrider* magazine archive.
+- Pre-1990 Albuquerque (Central/Fourth St), Springfield, MO (Kearney St), Denver (Colfax) and St. Louis cruising.
+- The bill number and text of the 2024 California law ending cruising bans (legislative site).
+- Houston Press archives or HAIF threads that date the 1986 Westheimer roadblocks.
+
 ## Log, Round 7 (Voices; 2026-10-13)
 - We added the **Voices** section: 11 narrative pages and a method page, plus 13 "In their own words" pull-quotes in existing articles.
 - Every quote was checked by script against the text of the fetched page. Pages read through the fetch tool (wediditforlove, Memphis Rodders) were checked by eye.
@@ -9,7 +24,7 @@
 ## Next breadcrumbs (Round 7)
 - Read the **Mercer Museum 2015 oral history** of Leonard Miller and his book *Silent Thunder*. Find first-person **Malcolm Durham** material.
 - **Peggy Hart's own words** in 1950s newspapers (Santa Ana Register) and *Drag News*.
-- Coachbuilt's Ruelas/Dukes profile (Julio's 1999 interview); LA's Black clubs (the Professionals, the Imperials).
+- Coachbuilt's Ruelas/Dukes profile (Julio's 1999 interview); LA club histories (the Professionals, the Imperials, the Clique, the Igniters).
 - Identify the **1965 Von Dutch magazine** (possibly *Car Craft* or *Rod & Custom*).
 - The **Commercial Appeal 2008** Lakeland feature and Memphis Public Library newspaper archives.
 - Bruce Miller's Portland ***Street Rod*** magazine (1972).

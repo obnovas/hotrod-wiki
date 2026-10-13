@@ -22,6 +22,7 @@ An investigator's archive of the people, small shops, and ideas that built Ameri
 <a class="hr-card" href="street-rodding/"><strong>Street Rodding</strong><span>NSRA, the early Nationals, the 1948 rule and fiberglass bodies.</span></a>
 <a class="hr-card" href="regions/"><strong>Beyond California</strong><span>Memphis, Texas, the Northwest, Minnesota, Ohio, Michigan and Pennsylvania.</span></a>
 <a class="hr-card" href="voices/"><strong>Voices</strong><span>In their own words: racers, builders, families and fans, quoted and sourced.</span></a>
+<a class="hr-card" href="cruising/"><strong>Cruise Nights & Hangouts</strong><span>Woodward, Van Nuys, Bob's, Whittier, Modesto and more: strips, drive-ins, and how cruising was policed.</span></a>
 <a class="hr-card" href="reference/"><strong>Reference</strong><span>Timeline, people & company index, patents, image credits.</span></a>
 <a class="hr-card" href="research-trail/"><strong>Research Trail</strong><span>The detective's log: open leads and unresolved conflicts.</span></a>
 <a class="hr-card" href="bibliography/"><strong>Bibliography</strong><span>Every source cited, with links.</span></a>

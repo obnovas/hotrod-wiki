@@ -2,6 +2,7 @@
 
 | Name | Role | Where |
 |---|---|---|
+| Addison, Jimmie | "Silver Bullet" GTX on Woodward | [Woodward](../cruising/woodward.md) |
 | Almquist Engineering Co. | Milford, Pa. | [Ed Almquist](../people/ed-almquist.md) |
 | Almquist, Ed | Mail-order speed parts, Pennsylvania; patents | [Ed Almquist](../people/ed-almquist.md), [Patents](patents.md) |
 | Arfons, Walt & Art | Akron airport racers | [Arlen Vanke](../people/arlen-vanke.md) |
@@ -28,10 +29,12 @@
 | Engle, Jack | Engle Racing Cams | [Jack Engle](../people/jack-engle.md) |
 | Esparza, Rick & Fred | Mexican Express, Lions | [Esparza Brothers](../voices/esparza-brothers.md) |
 | Finders, Chuck | Chassis builder, Ohio | [Red Baron](../cars/hill-bros-red-baron.md) |
+| Ganahl, Pat | Editor, Rod & Custom (1990) | [Modesto](../cruising/modesto.md) |
 | Garlits, Don | Cordova 1957; "Swamp Rat" | [Detroit & Cordova](../regions/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |
 | Gibbs, Steve | NHRA; on Peggy Hart | [The Harts](../voices/harts-santa-ana.md) |
 | Godman, Ray | Memphis racer; Lakeland Dragway | [Memphis](../regions/memphis.md) |
 | Gold, Hyman "Blackie" | 1930s Muroc racer; Night Flyers | [Blackie Gold](../voices/blackie-gold.md) |
+| Gopher State Timing Association (GSTA) | Minnesota club | [Lake Street](../cruising/lake-street-university.md) |
 | Hagy, Roy | Metal-finish bodyman | [Roy Hagy](../people/roy-hagy.md) |
 | Hart, C.J. & Peggy | Santa Ana drag strip | [Santa Ana](../eras/1950s-santa-ana-drags.md), [Peggy Hart](../people/peggy-hart.md) |
 | Hart, Gerald | Son of C.J. & Peggy Hart | [The Harts](../voices/harts-santa-ana.md) |
@@ -42,6 +45,7 @@
 | Hrudka, Joe & Tom | Mr. Gasket | [Mr. Gasket](../companies/mr-gasket.md) |
 | Hurst, George & Campbell, Bill | Shifters | [Patents](patents.md), [Ed Almquist](../people/ed-almquist.md) |
 | Iskenderian, Ed | Isky Cams | [Ed Iskenderian](../people/ed-iskenderian.md) |
+| Ivo, Tommy | Racer; Bob's Big Boy / River Road regular | [Bob's Big Boy](../cruising/bobs-big-boy-river-road.md) |
 | Jackson, Charles "Kong" | Sidewinders; Kong ignition | [Kong Jackson](../people/kong-jackson.md) |
 | Jacobs, Jim "Jake" | R&C; drove a Model A to Peoria | [Peoria 1970](../voices/peoria-1970.md) |
 | JEGS / Coughlin | Columbus, Ohio | [Beyond California](../regions/midwest-east.md) |
@@ -52,12 +56,16 @@
 | Kustom Kemps of America (KKOA) | Wichita, 1980 | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | Larivee, Bob Sr. | Promotions Inc.; ISCA | [Show Circuit](../customs/show-circuit.md) |
 | Logghe, Ron & Gene | Logghe Stamping, funny car chassis | [Eddie Schartman](../people/eddie-schartman.md) |
+| Lomax, John Nova | Houston Press writer; Westheimer cruiser recollection | [Westheimer](../cruising/westheimer-houston.md) |
+| Louder, Jim | Owner, Bob's Big Boy Broiler, Downey | [Harvey's Broiler](../cruising/harveys-broiler-downey.md) |
 | Low Flyers (Santa Monica) | Club | [Jack Engle](../people/jack-engle.md) |
+| Lucas, George | *American Graffiti*; Modesto | [Modesto](../cruising/modesto.md) |
+| McCullough, Lee | Organizer of the Downey Cruise Night (1987) | [Harvey's Broiler](../cruising/harveys-broiler-downey.md) |
 | McMullen, Tom & Rose | TRM Publications; Street Rodder | [Founding Street Rodder](../voices/street-rodder-founding.md) |
 | Medley, Tom | R&C publisher; Nationals | [Peoria 1970](../voices/peoria-1970.md) |
 | Memphis Rodders | Club, 1947 | [Memphis](../regions/memphis.md) |
 | Michigan Hot Rod Assn. | Motor City Dragway, Autorama | [Detroit & Cordova](../regions/detroit-cordova.md) |
-| Miller, Leonard | Black racer; BARA founder | [Leonard Miller](../voices/leonard-miller.md) |
+| Miller, Leonard | Racer, team owner; BARA co-founder | [Leonard Miller](../voices/leonard-miller.md) |
 | Minnesota Street Rod Association | 1967 | [Upper Midwest](../regions/upper-midwest.md) |
 | Multnomah Hot Rod Council | Portland, 1954 | [Pacific NW](../regions/pacific-northwest.md) |
 | Navarro, Barney | Heads, manifolds, turbos | [Barney Navarro](../people/barney-navarro.md), [Patents](patents.md) |
@@ -67,19 +75,28 @@
 | Postoian, Setto | Farmington Speed Shop | [Setto Postoian](../people/setto-postoian.md) |
 | Prufer, Tom | Oakland entrant since 1959 | [Show & Custom Voices](../voices/show-custom-voices.md) |
 | Riley, George | OHV conversions | [George Riley](../people/george-riley.md) |
+| Road Kings (Burbank) | Club based at Bob's Big Boy | [Bob's Big Boy](../cruising/bobs-big-boy-river-road.md) |
+| Rodriguez, Roberto | *Lowrider* reporter, Whittier Blvd 1979 | [Whittier Blvd](../cruising/whittier-blvd.md) |
 | Roth, Ed "Big Daddy" | Revell kits | [Kits & Roth](../customs/trend-books-kits-roth.md) |
+| Royal Pontiac | Royal Oak dealer; Royal Bobcat packages | [Woodward](../cruising/woodward.md) |
 | Ruelas, Fernando, Julio, Oscar & Ernie | The Dukes | [Ruelas & the Dukes](../voices/ruelas-dukes.md) |
 | Schartman, Eddie | Funny Car pioneer | [Eddie Schartman](../people/eddie-schartman.md) |
+| Schornack, Milt | Royal Pontiac tuner | [Woodward](../cruising/woodward.md) |
 | Sidewinders | SCTA founding club | [Kong Jackson](../people/kong-jackson.md), [Tom Beatty](../people/tom-beatty.md) |
+| Sjoquist, Capt. Arthur | LAPD; closed Van Nuys Blvd | [Van Nuys](../cruising/van-nuys.md) |
 | Slo-Pokes | Peoria club | [Beyond California](../regions/midwest-east.md) |
 | Slonaker, Al | Oakland Roadster Show | [Show Circuit](../customs/show-circuit.md) |
 | Slonaker, Mary | Oakland Roadster Show | [Show & Custom Voices](../voices/show-custom-voices.md) |
 | Smith, LeRoi "Tex" | Writer; Nationals; Street Rodder | [Founding Street Rodder](../voices/street-rodder-founding.md) |
 | So-Cal Speed Shop | Xydias | [Alex Xydias](../people/alex-xydias.md) |
+| Stolz, Reid | Van Nuys cruiser (Car Craft 2009) | [Van Nuys](../cruising/van-nuys.md) |
+| Stuart, Phillip (Tiny) | Modesto Area Drag Racer's Assn. | [Modesto](../cruising/modesto.md) |
 | Summers, Jimmy | Early builder | [Jimmy Summers](../people/jimmy-summers.md) |
 | Titus, Jerry | KKOA founder | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | Vanke, Arlen | Akron racer | [Arlen Vanke](../people/arlen-vanke.md) |
+| Wangers, Jim | Pontiac promotions; Woodward | [Woodward](../cruising/woodward.md) |
 | Wescott, Dee | Wescott's; MHRC | [Suppliers](../street-rodding/fiberglass-suppliers.md), [Pacific NW](../regions/pacific-northwest.md) |
+| Wilson, Ace | Royal Pontiac, Royal Oak | [Woodward](../cruising/woodward.md) |
 | Winfield, Ed | Cams, carburetors; mentor | [Ed Winfield](../people/ed-winfield.md), [Patents](patents.md) |
 | Winfield, Gene | AMT consultant | [Kits](../customs/trend-books-kits-roth.md) |
 | Xydias, Alex | So-Cal Speed Shop | [Alex Xydias](../people/alex-xydias.md) |
