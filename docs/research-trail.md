@@ -17,8 +17,25 @@
     - Veda Orr's SCTA membership: prewar vs postwar.
     - Almquist Engineering founded 1946 vs 1947.
 - **Lost the ESPN Hart story** (404). Hemmings' Almquist page and the Times Herald-Record obituary blocked direct fetches, so I used search excerpts, marked ◐.
-- **Isky:** the IDRHOF lists Ed Iskenderian as "1921–2026." That suggests he died this year. **Not yet verified.** It would need an obituary before any page uses it.
+- ~~**Isky:**~~ (verified Round 3) the IDRHOF lists Ed Iskenderian as "1921–2026." That suggests he died this year. **Not yet verified.** It would need an obituary before any page uses it.
 - New cross-links: Medley drew Veda's covers, then co-founded Peoria (1970). Steve Reyes, who named Pro Street (1979), is in IDRHOF 2002. Art Chrisman links Santa Ana, Beast III and Chrisman & Sons. Almquist's pamphlet influenced the customizers.
+
+## Log, Round 3 (2026-10-13)
+- **Isky verified:** died Feb 4, 2026, at 104 (NHRA, Hagerty, Car and Driver, SEMA, Legacy). Article added.
+- **Resolved:**
+    - Santa Ana admission: spectators 50¢ (later $1), racers $1.
+    - C.J. Hart's death date: June 25, 2004. Five obituaries agree, and the son is quoted.
+    - The Sept 1958 Hot Rod ad: Howard Johansen's hero ad on Doug Cook's defection from Isky, per Isky in a 1994 interview.
+- **New conflicts:**
+    - Hart at Lions: 1965–71 vs 1963–70.
+    - Doty's purchase of the DuVall patterns: 1946 vs "late 1940s."
+    - Mr. Gasket founding and incorporation: 1964 / 1965 / 1967.
+    - Mr. Gasket's sale to Grace: $17M vs $6M realized.
+    - Slo-Pokes vs Slo Poks.
+    - Peoria Best Car: Orv Elgie (drove 8,000 mi) vs Brizio's "trailer" complaint.
+    - Postoian's "Riverside Nationals 1953–56" claim (MMSHOF) looks doubtful and needs checking.
+- **Thread found:** Coachbuilt.com's census-based bios (DuVall, DeBell, Doty dates) are a strong secondary genre. They use census records, city directories and yearbooks.
+- **Blocked:** Columbus Dispatch (JEGS) and the Times Herald-Record (Almquist) are paywalled.
 
 ## Open questions
 1. **SCTA founding clubs:** identify "Drake, *Flat Out*" and "Carrol's book" cited by the Road Runners. Is there a period SCTA minutes book?
@@ -36,9 +53,20 @@
 12. **Veda Orr's SCTA membership date:** SCTA minutes or a 1946 Racing News.
 13. **Tom Beatty's death year** and SCTA/BNI record lists to check the RM Auctions catalog claims.
 14. **Almquist and the Hurst shifter:** check Hurst company histories for the 1959 partnership.
-15. **Isky's death (2026):** find an obituary.
+15. ~~Isky's death~~ (verified Round 3).
 
-## Next breadcrumbs (Round 3)
+## Next breadcrumbs (Round 4)
+- Wallace's **1958 Drag Rags installment** (the Howard's five-clowns ad, the Sept '58 ad scan) and **Camgrinder Wars Part 2** (Hot Rod, Jan 2015).
+- **Howard Johansen** (IDRHOF 1991, 1910–1988) and **Jack Engle** (1920–2008): stubs.
+- **Kong Jackson** and the stolen traffic-signal starting lights of 1947–48: look for SCTA News issues.
+- **The lost So. Cal. Plating 1935 phaeton:** Pat Ganahl's "The Mystery Wagon," *Rodder's Journal* #36.
+- **Ohio Gassers:** Arlen Vanke, Eddie Schartman, Dave Meal, the Hill brothers' "Red Baron" Willys.
+- **Detroit:** Farmington Speed Shop, Detroit Dragway, and the 1957–58 World Series of Drag Racing (Cordova, IL).
+- **Peggy Hart's** IDRHOF bio text; Mile Square racing (Mile Square Park).
+- **Orv Elgie** interview (Modern Rodding, May 2023).
+- **Robert C. Post,** *High Performance* (Smithsonian curator): a scholarly anchor to cite.
+
+## Next breadcrumbs (Round 3, carried)
 - **Wallace Family Archives** (drag rag duplicates): primary 1960s source.
 - **Dave Wallace's Drag Rags series** on Competition Plus: work through it season by season (Gasser Wars ad, Sept 1958 Hot Rod).
 - **Julian Doty** (DuVall windshield and Jeep head patterns, 1946) and **Leonard DeBell**/So. Cal. Plating.

@@ -11,7 +11,7 @@ In **1919** Winfield converted a used grinding machine into a cam grinder.[^mshf
 ## Carburetors and Indy
 The Winfield Carburetor Company formed in **1924**.[^hem2][^sema] **⚠ Conflict on the Indy streak:** the IMS Museum says every Indy 500 winner 1933–1946 used Winfields except Wilbur Shaw's Maserati (1939–40);[^ims] another Hemmings piece says every winner **1927–1937**.[^hem1] Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1]
 
-Hemmings names him the model for Ed Iskenderian and Ed Donovan.[^hem2] He died in 1982.[^hem2]
+Hemmings names him the model for Ed Iskenderian and Ed Donovan.[^hem2] Hagerty's 2026 Isky obituary says Winfield mentored him into cam grinding ([Iskenderian](ed-iskenderian.md)). He died in 1982.[^hem2]
 
 [^mshf]: Motorsports Hall of Fame of America, "Ed Winfield." https://www.mshf.com/hall-of-fame/inductees/ed-winfield.html
 [^hem1]: Hemmings, "Ed Winfield." https://www.hemmings.com/stories/ed-winfield/

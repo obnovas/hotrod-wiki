@@ -59,10 +59,30 @@ Sources actually consulted (Round 1). Type tags: **[club]** club or primary, **[
 - [mag] Times Herald-Record, "Ed Almquist, motorhead inventor and pioneer dies," 2015 (paywalled; search excerpt). https://www.recordonline.com/story/news/local/port-jervis/2015/07/30/ed-almquist-motorhead-inventor-pioneer/33784642007/
 - [mag] Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals," 2024. https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/
 
+## Added in Round 3
+- [oral] Dave Wallace, "Who Started The Camgrinder Wars? – Part 1," Hot Rod, 2014 (1994 interviews). https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1
+- [mag] Dave Wallace, Drag Rags 1959 Part 2; 1959 Garlits; 1960 (Competition Plus, search excerpts). https://competitionplus.com/drag-rags-1959-part-2-how-the-smokers-beat-the-fuel-ban/ ; https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/ ; https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/
+- [obit] NHRA, Hagerty, Car and Driver, SEMA, Legacy.com: Ed Iskenderian obituaries, Feb 2026 (URLs on the [Iskenderian](people/ed-iskenderian.md) page).
+- [obit] C.J. Hart obituaries (NHRA, OC Register, NYT, AP, Press-Enterprise, Richard Parks), compiled at wediditforlove.com. http://wediditforlove.com/cj-2.html
+- [obit] Shav Glick, LA Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html
+- [oral] AHRF, "Julian Doty." https://ahrf.com/pioneer/julian-doty/
+- [ref] Coachbuilt.com, "George DuVall (1913–1999)" (census/directory research; DeBell, Doty). http://www.coachbuilt.com/des/d/duvall/duvall.htm
+- [museum] Michigan Motor Sports Hall of Fame, "Serop 'Setto' Postoian." https://www.mmshof.org/index.php/inductees/inductees/326-serop-setto-postoian
+- [mag] Autoweek, "Swamp Rat Is a One-of-a-Kind Drag-Racing Treasure." https://www.autoweek.com/racing/nhra/a30456374/swamp-rat-is-a-one-of-a-kind-drag-racing-treasure/
+- [museum] Jim Hill, "Mr. Gasket: From The Trunk Of A '57 Chevy To Wall Street," East Coast Drag Racing Hall of Fame, 2016. https://eastcoastdragtimeshalloffame.com/mr-gasket-from-the-trunk-of-a-57-chevy-to-wall-street/
+- [museum] SEMA Hall of Fame, "Joe Hrudka." https://www.sema.org/hof/1980/joe-hrudka
+- [ref] Encyclopedia of Cleveland History, "Mr. Gasket." https://case.edu/ech/articles/m/mr-gasket
+- [ref] Encyclopedia.com, "Mr. Gasket Inc." https://www.encyclopedia.com/books/politics-and-business-magazines/mr-gasket-inc
+- [corp] JEGS, "About Us." https://www.jegs.com/about-us
+- [mag] Peoria Magazine, "Hot Rods & Cool Cruisin'." https://www.peoriamagazine.com/archive/as_article/hot-rods-cool-cruisin/
+- [mag] Brian Brennan, Modern Rodding / In The Garage Media, 2023 (Orv Elgie). https://inthegaragemedia.com/rodding-around-1st-nsra-street-rod-nationals-peoria-winner/
+- [museum] Kentucky Motorsports Hall of Fame, "History Page – NSTRA." https://www.kentuckymotorsportshalloffame.com/WEBPAGE-Motorsports-Links/HISTORY-PAGE-NSTRA
+- [ref] David Walker, LinkedIn post on Peggy Hart (unsourced; cited only to flag). https://www.linkedin.com/posts/david-walker-9a830740_while-shirley-muldowney-was-called-the-first-activity-7275146996112400384-fauL
+
 ## Corporate and tertiary (used for cross-checking only)
 - [corp] Edelbrock, "About Us." https://www.edelbrock.com/about-us
 - [ref] Encyclopedia.com, "Edelbrock Corporation." https://www.encyclopedia.com/books/politics-and-business-magazines/edelbrock-corporation
 - [ref] Wikipedia: Edelbrock; Vic Edelbrock; National Street Rod Association.
 
 ## Books cited by sources (not yet consulted directly)
-Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; Christensen & Thacker, *So-Cal Speed Shop*; Ken Gross, *Art of Hot Rod*; Roger Harrell (book on Jim White); Leo Levine, *Ford: The Dust and the Glory*; Dan Post, *Blue Book of Custom Re-Styling*; "Drake, *Flat Out*" and "Carrol" (per Road Runners packet); Iandola (Riley scrapbook, per Ford Barn); Dean Batchelor quoted on Veda Orr; *Merchants of Speed* (Beast III); Ed Almquist, *Hot Rod Pioneers*; Albert Drake (Hollywood Hubcap).
+Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; Christensen & Thacker, *So-Cal Speed Shop*; Ken Gross, *Art of Hot Rod*; Roger Harrell (book on Jim White); Leo Levine, *Ford: The Dust and the Glory*; Dan Post, *Blue Book of Custom Re-Styling*; "Drake, *Flat Out*" and "Carrol" (per Road Runners packet); Iandola (Riley scrapbook, per Ford Barn); Dean Batchelor quoted on Veda Orr; *Merchants of Speed* (Beast III); Ed Almquist, *Hot Rod Pioneers*; Albert Drake (Hollywood Hubcap); Robert C. Post, *High Performance: The Culture and Technology of Drag Racing, 1950–1990*; Dean Batchelor, "Flying V's," R&C Aug 1990; Pat Ganahl, "The Mystery Wagon," *Rodder's Journal* #36.

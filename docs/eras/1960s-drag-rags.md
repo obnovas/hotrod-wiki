@@ -16,7 +16,7 @@ Dave Wallace argues that cheap independent tabloids, the "drag rags" controlled 
 | 1967 | Orange County International Raceway opens (summer).[^cp67] |
 
 ## Breadcrumbs from the rags
-- Isky believed a tiny ad in the September 1958 Hot Rod set off the **Gasser Wars**.[^cp1] ◐ *Ad not yet identified.*
+- Isky believed a tiny ad in the September 1958 Hot Rod set off the **Gasser Wars**: Howard Johansen's ad on Doug Cook's defection. See [Camgrinder Wars](1950s-camgrinder-wars.md).[^cp1]
 - Bob Muravez raced as "Floyd Lippencott Jr.," and the press kept his real name and face out of print for years.[^cp1]
 - Pete Millar's *Drag Cartoons* and his National Association For The Advancement Of Flatheads.[^cp1]
 - By 1967 Funny Cars were drawing a new generation of fans, while supercharged gassers still held the doorslammer crowd.[^cp67]

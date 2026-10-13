@@ -1,7 +1,7 @@
 # Tom Beatty and the Glendale Strokers
 
 ## The club
-Barney Navarro joined the Glendale club in 1940 along with Tom Beatty, George Hill and Doane Spencer.[^ahrf] **⚠ Name conflict:** AHRF writes "Glendale **Strokers**";[^ahrf] Kustomrama's club page is titled "Glendale **Stokers**." Kustomrama lists members including Beatty, Navarro, Spencer, Hill, Don Nicholson, Mac Schutt, Bob "Buzz" Buswell, Bill Davis and the Watson brothers.[^club] The spelling needs a period source, such as an SCTA entry list or a club plaque photo.
+Barney Navarro joined the Glendale club in 1940 along with Tom Beatty, George Hill and Doane Spencer.[^ahrf] **⚠ Name conflict:** AHRF writes "Glendale **Strokers**";[^ahrf] Kustomrama's club page is titled "Glendale **Stokers**." Kustomrama lists members including Beatty, Navarro, Spencer, Hill, Don Nicholson, Mac Schutt, Bob "Buzz" Buswell, Bill Davis and the Watson brothers.[^club] Kustomrama's Buswell caption also mentions a "Glendale Sidewinders," and Coachbuilt calls the Sidewinders "(Glendale, CA), the SCTA's first member club."[^cbg] The relationship between the clubs is unclear. The spelling needs a period source, such as an SCTA entry list or a club plaque photo.
 
 ## The "Rust Bucket"
 Beatty's channeled 1929 Ford roadster was unpainted and rusty, looking "gutted by a fire" (Hop Up, August 1951). It was clocked at 154.63 mph in 1951 with a '41 block, Navarro heads and manifold, and a GMC two-stroke diesel blower. It used an upside-down Model A front suspension, and the steering wheel was stripped to the wire core and wrapped in friction tape.[^rust] ◐ AHRF instead calls Beatty's Navarro-blown car a "'27."[^ahrf]
@@ -19,3 +19,4 @@ Beatty's channeled 1929 Ford roadster was unpainted and rusty, looking "gutted b
 [^club]: Kustomrama, "Glendale Stokers." https://kustomrama.com/wiki/Glendale_Stokers
 [^rust]: Kustomrama, "Tom Beatty's 1929 Ford" (citing Hop Up, Aug 1951). https://kustomrama.com/wiki/Tom_Beatty's_1929_Ford
 [^tank]: Kustomrama, "Tom Beatty's Belly Tank Lakester" (RM Auctions catalog text). https://www.kustomrama.com/wiki/Tom_Beatty%27s_Belly_Tank_Lakester
+[^cbg]: Coachbuilt.com, "George DuVall." http://www.coachbuilt.com/des/d/duvall/duvall.htm

@@ -12,5 +12,9 @@
 - [Tom Beatty](tom-beatty.md): Glendale machinist and the record-setting belly tank.
 - [Doris Herbert](doris-herbert.md): Drag News publisher, 1959–76; Standard 1320.
 - [Ed Almquist](ed-almquist.md): Pennsylvania mail-order speed and the 1946 manual.
+- [Peggy Hart](peggy-hart.md): racer and co-promoter at Santa Ana.
+- [Julian Doty](julian-doty.md): DuVall's nephew, B&S garage, signer of SCTA timing slips.
+- [Ed Iskenderian](ed-iskenderian.md): 1921–2026; the Camfather.
+- [Setto Postoian](setto-postoian.md): Farmington Speed Shop; the "swamp rat" ad.
 
-*Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Julian Doty, Leonard DeBell, Peggy Hart, Art Chrisman.
+*Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Howard Johansen, Jack Engle, Kong Jackson, Jeg Coughlin Sr.

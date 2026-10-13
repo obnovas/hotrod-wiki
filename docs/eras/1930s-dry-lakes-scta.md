@@ -12,6 +12,8 @@ The Southern California Timing Association was organized on **November 29, 1937*
 - Per **Carrol's book**: Knight Riders, Sidewinders, Throttlers, Idlers, Ramblers, Road Runners and 90MPH Club.
 - The packet notes only three names are consistent across accounts: **Throttlers, 90MPH Club, Road Runners**. Of the charter clubs, the Road Runners and the Sidewinders survive today.[^rr]
 
+Coachbuilt.com adds that George DuVall and Julian Doty were charter Hollywood Throttlers "present when the SCTA was founded."[^cb] ◐ This supports the Throttlers' place among the founders.
+
 (The packet does not fully cite "Drake" and "Carrol"; tracking those books down is on the [Research Trail](../research-trail.md).)
 
 ## The first meet
@@ -29,3 +31,4 @@ Muroc became restricted and was absorbed into what is now Edwards Air Force Base
 [^sm]: "Brief History Of SCTA And The 2014 El Mirage Dry Lake Racing Season," StreetMuscle. https://www.streetmusclemag.com/news/brief-history-of-scta-and-the-2014-el-mirage-dry-lake-racing-season/
 [^summers]: Kustomrama, "Jimmy Summers" (Jimmy Summers Photo Collection). https://kustomrama.com/wiki/Jimmy_Summers
 [^navarro]: Tony Thacker, "Barney Navarro," American Hot Rod Foundation. https://ahrf.com/pioneer/barney-navarro/
+[^cb]: Coachbuilt.com, "George DuVall." http://www.coachbuilt.com/des/d/duvall/duvall.htm
