@@ -2,8 +2,33 @@ site_name: Hot Rod History Wiki
 site_description: A detective's archive of lesser-known hot rodding history, 1930s to today (focus pre-1990).
 theme:
   name: material
-  features: [navigation.sections, navigation.indexes, search.highlight]
-  palette: {scheme: slate, primary: red, accent: amber}
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  font: false
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - toc.follow
+    - content.footnote.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle: {icon: material/weather-night, name: "Night at the drags"}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle: {icon: material/weather-sunny, name: "Daylight"}
+extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css]
+extra_javascript: [javascripts/hotrod.js]
 markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables]
 plugins:
   - search

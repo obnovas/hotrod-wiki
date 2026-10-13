@@ -1,12 +1,33 @@
-# Hot Rod History Wiki
+---
+hide: [navigation, toc]
+title: Home
+---
 
+<div class="hr-hero" markdown>
+<p class="hr-kicker">Since the dry lakes</p>
+# Hot Rod History Wiki
 An investigator's archive of the people, small shops, and ideas that built American hot rodding, from the 1930s dry lakes to the 1980s street machine. The focus is on **lesser-known** threads, first-hand recollections, and family or club sources rather than the oft-repeated headline stories.
+
+[Start with the eras](eras/index.md){ .md-button } [Timeline](reference/timeline.md){ .md-button .md-button--secondary }
+</div>
+
+## Sections
+<div class="hr-grid">
+<a class="hr-card" href="eras/"><strong>Eras</strong><span>Dry lakes, Santa Ana, the cam wars, drag rags, Peoria and Pro Street.</span></a>
+<a class="hr-card" href="people/"><strong>People & Builders</strong><span>Machinists, racers, publishers and the families behind them.</span></a>
+<a class="hr-card" href="companies/"><strong>Companies</strong><span>Garage-born speed shops and the aftermarket they grew into.</span></a>
+<a class="hr-card" href="cars/"><strong>Cars</strong><span>Streamliners, customs and gassers, documented car by car.</span></a>
+<a class="hr-card" href="techniques/"><strong>Techniques & Styles</strong><span>Chopping, channeling, flames and the traits of each period.</span></a>
+<a class="hr-card" href="regions/midwest-east/"><strong>Beyond California</strong><span>Ohio, Michigan, Pennsylvania and the Midwest strips.</span></a>
+<a class="hr-card" href="reference/"><strong>Reference</strong><span>Timeline, people & company index, patents, image credits.</span></a>
+<a class="hr-card" href="research-trail/"><strong>Research Trail</strong><span>The detective's log: open leads and unresolved conflicts.</span></a>
+<a class="hr-card" href="bibliography/"><strong>Bibliography</strong><span>Every source cited, with links.</span></a>
+</div>
+
+---
 
 !!! note "How to read this wiki"
     - Every factual claim carries a footnote with a source URL.
     - **⚠ Conflict** marks places where sources disagree; both versions are shown.
     - **◐ Single-sourced** marks claims found in only one source so far.
     - The [Research Trail](research-trail.md) is the running detective's log of leads.
-
-## Sections
-- [Eras](eras/index.md) · [People & Builders](people/index.md) · [Aftermarket Companies](companies/index.md) · [Cars](cars/index.md) · [Beyond California](regions/midwest-east.md) · [Techniques & Styles](techniques/index.md) · [Reference: Timeline, Index, Patents](reference/index.md) · [Source Standards](reference/source-standards.md) · [Bibliography](bibliography.md)

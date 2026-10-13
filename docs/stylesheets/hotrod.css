@@ -1,0 +1,102 @@
+/* Hot Rod History Wiki – speed-shop theme */
+:root{
+  --hr-oxblood:#7a1f1f; --hr-candy:#b3261e; --hr-cream:#f6efdf; --hr-paper:#fbf7ee;
+  --hr-ink:#1d1918; --hr-steel:#5b6168; --hr-chrome:#c9ced3; --hr-mustard:#e0a526;
+  --hr-teal:#1f6f6b; --hr-display:"Oswald","Arial Narrow",sans-serif; --hr-script:"Yellowtail",cursive;
+  --md-text-font:"Source Serif 4"; --md-code-font:"JetBrains Mono",ui-monospace;
+}
+[data-md-color-scheme="default"]{
+  --md-primary-fg-color:var(--hr-oxblood); --md-primary-fg-color--dark:#5c1616;
+  --md-accent-fg-color:var(--hr-teal); --md-default-bg-color:var(--hr-paper);
+  --md-default-fg-color:#1d1918; --md-default-fg-color--light:#4a4340;
+  --md-typeset-a-color:#8f2a1c; --md-code-bg-color:#efe6d2;
+  --md-footer-bg-color:var(--hr-ink); --hr-card:#fffdf7; --hr-line:#d9ccb0;
+}
+[data-md-color-scheme="slate"]{
+  --md-hue:15; --md-primary-fg-color:#1a1414; --md-accent-fg-color:#e0a526;
+  --md-default-bg-color:#151213; --md-default-fg-color:#ece4d3;
+  --md-default-fg-color--light:#bdb3a1; --md-typeset-color:#ece4d3;
+  --md-typeset-a-color:#f0b94a; --md-code-bg-color:#221d1c;
+  --md-footer-bg-color:#0d0b0b; --hr-card:#1e1a1a; --hr-line:#3a302c;
+}
+body{font-size:inherit}
+.md-typeset{font-size:.86rem;line-height:1.7}
+.md-content{max-width:52rem}
+.md-typeset h1,.md-typeset h2,.md-typeset h3,.md-typeset h4,.md-header__title,.md-tabs__link,.md-nav__title{
+  font-family:var(--hr-display);letter-spacing:.02em}
+.md-typeset h1{font-weight:700;text-transform:uppercase;color:var(--md-primary-fg-color);font-size:2.1em;margin-bottom:.4em}
+[data-md-color-scheme="slate"] .md-typeset h1{color:#f3ead6}
+.md-typeset h2{font-weight:600;text-transform:uppercase;font-size:1.35em;padding-top:.9em;
+  background:linear-gradient(90deg,var(--hr-mustard) 0 3rem,transparent 3rem) top left/100% 2px no-repeat}
+.md-typeset h3{font-weight:500;font-size:1.1em}
+/* Header: oxblood w/ pinstripe bottom */
+.md-header{box-shadow:none;border-bottom:3px double var(--hr-mustard)}
+.md-header__title{font-size:1.05rem;text-transform:uppercase}
+.md-tabs{background:var(--hr-ink);}
+.md-tabs__link{font-size:.72rem;text-transform:uppercase;opacity:.85}
+.md-tabs__item--active .md-tabs__link{color:var(--hr-mustard);opacity:1}
+/* Pinstripe divider */
+.md-typeset hr{border:0;height:14px;margin:2em 0;background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 14'%3E%3Cpath d='M0 7h70q15-7 30 0t30 0h70' fill='none' stroke='%23b3261e' stroke-width='1.4'/%3E%3Ccircle cx='100' cy='7' r='2.4' fill='%23e0a526'/%3E%3C/svg%3E") center/200px 14px no-repeat}
+/* Admonitions as dash plaques */
+.md-typeset .admonition,.md-typeset details{border-radius:6px;border-width:0 0 0 .3rem;box-shadow:0 1px 0 var(--hr-line),0 0 0 1px var(--hr-line);background:var(--hr-card);font-size:.8rem}
+.md-typeset .admonition-title{font-family:var(--hr-display);text-transform:uppercase;letter-spacing:.06em}
+/* Article record = SCTA timing tag */
+.md-typeset .admonition.abstract{border:2px solid var(--hr-ink);border-left:2px solid var(--hr-ink);border-radius:4px 18px 4px 4px;
+  background:var(--hr-cream);color:#1d1918;position:relative;box-shadow:4px 4px 0 var(--hr-candy)}
+[data-md-color-scheme="slate"] .md-typeset .admonition.abstract{border-color:#c9ced3;background:#231d1c;color:#ece4d3;box-shadow:4px 4px 0 #7a1f1f}
+.md-typeset .abstract>.admonition-title{background:var(--hr-ink);color:var(--hr-cream);margin:0 -.6rem;padding-left:2.2rem}
+.md-typeset .abstract>.admonition-title::before{background-color:var(--hr-mustard)}
+.md-typeset .admonition.abstract::after{content:"";position:absolute;right:12px;top:8px;width:9px;height:9px;border-radius:50%;
+  border:2px solid var(--hr-mustard);background:var(--md-default-bg-color)}
+.hr-chip{display:inline-block;font-family:var(--hr-display);font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;
+  padding:.05em .55em;border:1.5px solid currentColor;border-radius:3px;margin:0 .15em;line-height:1.5;white-space:nowrap}
+.hr-chip--high{background:#1f5f3a;color:#fff;border-color:#1f5f3a}
+.hr-chip--mid{background:#e0a526;color:#1d1918;border-color:#a87811}
+.hr-chip--low{background:#b3261e;color:#fff;border-color:#b3261e}
+/* Figures & images */
+.md-typeset img{border-radius:3px;border:1px solid var(--hr-line);background:#fff;padding:3px;box-shadow:0 2px 6px rgba(0,0,0,.12)}
+.md-typeset img[align=right]{margin:0 0 .6em 1.2em}.md-typeset img[align=left]{margin:0 1.2em .6em 0}
+.md-typeset p:has(> img) + p > em:only-child,.md-typeset figcaption{display:block;font-size:.72rem;color:var(--md-default-fg-color--light);
+  border-left:2px solid var(--hr-mustard);padding-left:.6em;line-height:1.45}
+.md-typeset figure{margin:1.4em auto}
+/* Tables (timeline etc.) */
+.md-typeset table:not([class]){font-size:.76rem;border:1px solid var(--hr-line);border-radius:4px}
+.md-typeset table:not([class]) th{background:var(--hr-ink);color:var(--hr-cream);font-family:var(--hr-display);text-transform:uppercase;letter-spacing:.05em;font-weight:500}
+.md-typeset table:not([class]) tr:nth-child(even){background:color-mix(in srgb,var(--hr-line) 22%,transparent)}
+/* Timeline page */
+.hr-timeline .md-typeset table:not([class]) td:first-child{font-family:var(--hr-display);font-weight:600;color:var(--hr-candy);white-space:nowrap;
+  border-left:4px solid var(--hr-candy)}
+[data-md-color-scheme="slate"].hr-timeline .md-typeset table:not([class]) td:first-child{color:#f0b94a;border-left-color:#e0a526}
+/* Footnotes */
+.md-typeset .footnote{font-size:.72rem;color:var(--md-default-fg-color--light);border-top:2px solid var(--hr-line);margin-top:2.5em;padding-top:.6em}
+.md-typeset .footnote>hr{display:none}
+.md-typeset .footnote li{margin-bottom:.35em;overflow-wrap:anywhere}
+.md-typeset sup a.footnote-ref{font-family:var(--hr-display);font-size:.8em;padding:0 .15em;border-radius:2px;background:color-mix(in srgb,var(--hr-mustard) 25%,transparent)}
+/* Home hero */
+.hr-hero{position:relative;margin:-.6rem 0 2rem;padding:2.4rem 1.8rem 2rem;border-radius:6px;color:#f6efdf;overflow:hidden;
+  background:radial-gradient(circle at 85% 20%,#b3261e 0,transparent 55%),linear-gradient(135deg,#5c1616,#1d1918 75%);
+  border:3px double #e0a526}
+.hr-hero h1{color:#f6efdf!important;font-size:2.6em;margin:0;line-height:1.05}
+.hr-hero .hr-kicker{font-family:var(--hr-script);font-size:1.7em;color:#f0b94a;margin:0;line-height:1}
+.hr-hero p{max-width:36rem;color:#efe6d2}
+.hr-hero .md-button{color:#1d1918;background:#e0a526;border-color:#e0a526;font-family:var(--hr-display);text-transform:uppercase}
+.hr-hero .md-button--secondary{background:transparent;color:#f6efdf;border-color:#f6efdf}
+.hr-hero .md-button:hover{background:#f6efdf;color:#7a1f1f;border-color:#f6efdf}
+.hr-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(14rem,1fr));gap:1rem;margin:1rem 0 2rem}
+.hr-card{display:block;background:var(--hr-card);border:1px solid var(--hr-line);border-top:5px solid var(--hr-candy);border-radius:4px;
+  padding:.9rem 1rem;color:inherit!important;transition:transform .15s,box-shadow .15s}
+.hr-card:nth-child(3n+2){border-top-color:var(--hr-mustard)}.hr-card:nth-child(3n){border-top-color:var(--hr-teal)}
+.hr-card:hover,.hr-card:focus-visible{transform:translateY(-2px);box-shadow:0 6px 16px rgba(0,0,0,.15)}
+.hr-card strong{display:block;font-family:var(--hr-display);text-transform:uppercase;font-size:1.05rem;letter-spacing:.03em;margin-bottom:.2rem}
+.hr-card span{font-size:.75rem;color:var(--md-default-fg-color--light);line-height:1.45;display:block}
+.md-typeset a:focus-visible{outline:2px solid var(--hr-mustard);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){.hr-card{transition:none}}
+@media screen and (max-width:44.9em){.hr-hero{padding:1.6rem 1.1rem}.hr-hero h1{font-size:1.9em}.md-typeset img[align]{float:none;display:block;margin:0 auto 1em;max-width:100%}}
+.md-typeset .admonition.note{border-left-color:var(--hr-teal)}
+.md-typeset .note>.admonition-title{background:color-mix(in srgb,var(--hr-teal) 14%,transparent)}
+.md-typeset .note>.admonition-title::before{background-color:var(--hr-teal)}
+[data-md-color-scheme="slate"] .md-typeset .admonition.note{border-left-color:#5fb3ab}
+[data-md-color-scheme="slate"] .md-typeset .note>.admonition-title::before{background-color:#5fb3ab}
+[data-md-color-scheme="slate"] .md-header{background:#1a1414}
+[data-md-color-scheme="default"][data-md-color-primary]{--md-typeset-a-color:#8f2a1c;--md-accent-fg-color:#1f6f6b}
+[data-md-color-scheme="slate"][data-md-color-primary]{--md-typeset-a-color:#f0b94a;--md-accent-fg-color:#e0a526;--md-primary-fg-color:#1a1414}
