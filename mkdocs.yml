@@ -1,0 +1,33 @@
+site_name: Hot Rod History Wiki
+site_description: A detective's archive of lesser-known hot rodding history, 1930s to today (focus pre-1990).
+theme:
+  name: material
+  features: [navigation.sections, navigation.indexes, search.highlight]
+  palette: {scheme: slate, primary: red, accent: amber}
+markdown_extensions: [footnotes, admonition, toc: {permalink: true}, tables]
+nav:
+  - Home: index.md
+  - Eras:
+      - eras/index.md
+      - "1930s: Dry Lakes & the SCTA": eras/1930s-dry-lakes-scta.md
+      - "1950s: Santa Ana & the First Drag Strip": eras/1950s-santa-ana-drags.md
+      - "1970s: Peoria & the Street Rod Resurgence": eras/1970s-street-rod-nationals.md
+      - "1980s: Pro Street": eras/1980s-pro-street.md
+  - People & Builders:
+      - people/index.md
+      - Ed Winfield: people/ed-winfield.md
+      - George Riley: people/george-riley.md
+      - Jimmy Summers: people/jimmy-summers.md
+      - Barney Navarro: people/barney-navarro.md
+      - Chet Herbert: people/chet-herbert.md
+      - Alex Xydias: people/alex-xydias.md
+  - Aftermarket Companies:
+      - companies/index.md
+      - Prewar Speed Shops (Bell, Lee's, Orr, White): companies/prewar-speed-shops.md
+      - Edelbrock's Slingshot: companies/edelbrock-slingshot.md
+  - Cars:
+      - cars/index.md
+      - Hirohata Mercury: cars/hirohata-mercury.md
+  - Techniques & Styles: techniques/index.md
+  - Research Trail: research-trail.md
+  - Bibliography: bibliography.md
