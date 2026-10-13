@@ -4,7 +4,10 @@
 - Grilles, bumpers and trim swapped from more expensive makes; insignias removed. The goal was a "fake Cord," not a hot Ford.[^k]
 - Chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k]
 - Channeling. Summers is credited with the first channel job by *Motor Life*, 1955 ◐.[^k]
-- Techniques were spread by Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's Ed Almquist.[^revs]
+- Techniques were spread by Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs]
+
+## Metal-finish vs. lead
+Roy Hagy "didn't like to use much lead; he'd metal-finish everything" (Tom Sparks via Pat Ganahl).[^hagy] See [Roy Hagy](../people/roy-hagy.md).
 
 ## Lead-sled era, c.1949–1955
 - Lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sectioning, with seams and holes finished in tin and lead (hence "lead sleds").[^revs]
@@ -21,3 +24,4 @@ See [Pro Street](../eras/1980s-pro-street.md).
 [^revs]: Ken Gross, "Emerald Icon from a Lost Era," Revs Institute. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury
 [^w]: Hemmings, "Ed Winfield: The Master of Hot-Rodding and Performance." https://www.hemmings.com/stories/ed-winfield-2/
 [^ahrf]: Tony Thacker, "Barney Navarro," AHRF. https://ahrf.com/pioneer/barney-navarro/
+[^hagy]: Kustomrama, "Roy Hagy." https://kustomrama.com/wiki/Roy_Hagy

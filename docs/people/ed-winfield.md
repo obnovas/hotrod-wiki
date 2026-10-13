@@ -1,6 +1,6 @@
 # Ed Winfield (1901–1982)
 
-Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1] His formal schooling ended at the eighth grade.[^mshf]
+Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1] His formal schooling ended at the eighth grade.[^mshf] **⚠** The International Drag Racing Hall of Fame list gives **1910–1982**,[^idrhof] which is probably an error, since three other sources give 1901.
 
 ## Apprenticeship under Miller
 At 14 he joined Harry A. Miller's shop, starting in the carburetor department at 60¢ an hour per the Motorsports Hall of Fame[^mshf] (Hemmings says sweeping floors[^hem1]), learning alongside draftsman Leo Goossen and machinist Fred Offenhauser.[^hem1] At 16, with hand tools, he reworked the cam in his single-cylinder motorcycle: "I could climb any mountain road around here in high gear!"[^mshf]
@@ -18,3 +18,4 @@ Hemmings names him the model for Ed Iskenderian and Ed Donovan.[^hem2] He died i
 [^hem2]: Hemmings, "Ed Winfield: The Master of Hot-Rodding and Performance." https://www.hemmings.com/stories/ed-winfield-2/
 [^ims]: IMS Museum Hall of Fame, "Ed Winfield." https://imsmuseum.org/fame_inductee/ed-winfield/
 [^sema]: SEMA Hall of Fame 1971, "Ed Winfield." https://www.sema.org/hof/1971/ed-winfield
+[^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame list (Class of 1991). https://garlits.com/hall-of-fame-inductees-2011/

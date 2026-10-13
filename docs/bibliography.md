@@ -38,10 +38,31 @@ Sources actually consulted (Round 1). Type tags: **[club]** club or primary, **[
 - "Alex Xydias – SO-CAL Speed Shop" (bio). https://www.yumpu.com/en/document/view/34870683/alex-xydias-so-cal-speed-shop
 - Hagerty, Hirohata Merc video. https://www.hagerty.com/media/video/how-barris-kustoms-built-the-hirohata-mercury-in-only-14-days/
 
+## Added in Round 2
+- [oral] Johan Moreno, "Santa Ana Drags: 65 years after...," Press-Enterprise, 2015 (Gerald Hart interview). https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/
+- [museum] SEMA Hall of Fame, "C.J. Hart." https://www.sema.org/hof/1981/cj-hart
+- [mag] Fuel Curve, "Veda Orr – SCTA Pioneer and Lakes Racer," 2022. https://fuelcurve.com/veda-orr/
+- [mag] Hemmings, "Karl and Veda Orr." https://www.hemmings.com/stories/karl-and-veda-orr/
+- [mag] Hot Rod Hotline, review of Veda Orr's Pictorial (Veloce reissue). https://hotrodhotline.com/veda-orrs-new-revised-hot-rod-pictoral-published-by-veloce-press/
+- [ref] Kustomrama, "Veda Orr's New Revised Hot Rod Pictorial." https://kustomrama.com/wiki/Veda_Orr's_New_Revised_Hot_Rod_Pictorial
+- [oral] Kustomrama, "Roy Hagy" (Tom Sparks via Ganahl). https://kustomrama.com/wiki/Roy_Hagy
+- [ref] Kustomrama, "George DuVall" (R&C Aug 1990). https://kustomrama.com/wiki/George_DuVall
+- [ref] Kustomrama, "Glendale Stokers." https://kustomrama.com/wiki/Glendale_Stokers
+- [ref] Kustomrama, "Tom Beatty's 1929 Ford." https://kustomrama.com/wiki/Tom_Beatty's_1929_Ford
+- [ref] Kustomrama, "Tom Beatty's Belly Tank Lakester" (RM Auctions text). https://www.kustomrama.com/wiki/Tom_Beatty%27s_Belly_Tank_Lakester
+- [ref] Kustomrama, "Chet Herbert's Beast III." https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III
+- [mag] Dave Wallace, Drag Rags series, Competition Plus: Earliest Editions (2019) https://competitionplus.com/drag-rags-with-dave-wallace-earliest-editions/ ; Early '65 https://competitionplus.com/drag-rags-of-early-65-explosion-of-weekly-publications/ ; Early 1967 (2024) https://competitionplus.com/drag-rags-early-1967-war-of-early-independents-ends/
+- [oral] Bud DeBoer, "Bud's Coast to Coast Drag Racing Adventure," DragList. https://www.draglist.com/stories/SOD%20Nov%202000/SOD-111600.htm
+- [museum] Don Garlits Museum, International Drag Racing Hall of Fame (Doris Herbert bio; inductee lists). https://garlits.com/international-hall-of-fame-inductees/ ; https://garlits.com/hall-of-fame-inductees-2011/
+- [club] "Edgar Almquist" obituary, Pike County Courier, 2015. https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961
+- [mag] Hemmings, "Ed Almquist" (search excerpt only). https://www.hemmings.com/stories/ed-almquist/
+- [mag] Times Herald-Record, "Ed Almquist, motorhead inventor and pioneer dies," 2015 (paywalled; search excerpt). https://www.recordonline.com/story/news/local/port-jervis/2015/07/30/ed-almquist-motorhead-inventor-pioneer/33784642007/
+- [mag] Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals," 2024. https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/
+
 ## Corporate and tertiary (used for cross-checking only)
 - [corp] Edelbrock, "About Us." https://www.edelbrock.com/about-us
 - [ref] Encyclopedia.com, "Edelbrock Corporation." https://www.encyclopedia.com/books/politics-and-business-magazines/edelbrock-corporation
 - [ref] Wikipedia: Edelbrock; Vic Edelbrock; National Street Rod Association.
 
 ## Books cited by sources (not yet consulted directly)
-Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; Christensen & Thacker, *So-Cal Speed Shop*; Ken Gross, *Art of Hot Rod*; Roger Harrell (book on Jim White); Leo Levine, *Ford: The Dust and the Glory*; Dan Post, *Blue Book of Custom Re-Styling*; "Drake, *Flat Out*" and "Carrol" (per Road Runners packet); Iandola (Riley scrapbook, per Ford Barn).
+Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; Christensen & Thacker, *So-Cal Speed Shop*; Ken Gross, *Art of Hot Rod*; Roger Harrell (book on Jim White); Leo Levine, *Ford: The Dust and the Glory*; Dan Post, *Blue Book of Custom Re-Styling*; "Drake, *Flat Out*" and "Carrol" (per Road Runners packet); Iandola (Riley scrapbook, per Ford Barn); Dean Batchelor quoted on Veda Orr; *Merchants of Speed* (Beast III); Ed Almquist, *Hot Rod Pioneers*; Albert Drake (Hollywood Hubcap).

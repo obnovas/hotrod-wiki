@@ -11,6 +11,7 @@ nav:
       - eras/index.md
       - "1930s: Dry Lakes & the SCTA": eras/1930s-dry-lakes-scta.md
       - "1950s: Santa Ana & the First Drag Strip": eras/1950s-santa-ana-drags.md
+      - "1960s: The Drag Rags": eras/1960s-drag-rags.md
       - "1970s: Peoria & the Street Rod Resurgence": eras/1970s-street-rod-nationals.md
       - "1980s: Pro Street": eras/1980s-pro-street.md
   - People & Builders:
@@ -21,6 +22,12 @@ nav:
       - Barney Navarro: people/barney-navarro.md
       - Chet Herbert: people/chet-herbert.md
       - Alex Xydias: people/alex-xydias.md
+      - Veda Orr: people/veda-orr.md
+      - Roy Hagy: people/roy-hagy.md
+      - George DuVall: people/george-duvall.md
+      - Tom Beatty & the Glendale Strokers: people/tom-beatty.md
+      - Doris Herbert: people/doris-herbert.md
+      - Ed Almquist (Pennsylvania): people/ed-almquist.md
   - Aftermarket Companies:
       - companies/index.md
       - Prewar Speed Shops (Bell, Lee's, Orr, White): companies/prewar-speed-shops.md
@@ -28,6 +35,7 @@ nav:
   - Cars:
       - cars/index.md
       - Hirohata Mercury: cars/hirohata-mercury.md
+      - Beast III Streamliner: cars/beast-iii.md
   - Techniques & Styles: techniques/index.md
   - Research Trail: research-trail.md
   - Bibliography: bibliography.md

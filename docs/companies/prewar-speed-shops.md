@@ -13,7 +13,7 @@ Wight died in 1943. His widow ran the shop until **Roy Richter** bought it in 19
 A c.1950 catalog posted on the H.A.M.B. claims 21 years in business, which implies **1929**. ◐ *This is an inference from a catalog.* Lee's was at 3263 San Fernando Rd., LA (sharing a junkyard), moved in 1933 to 4557 Alhambra Ave., closed in 1937 while Chapel toured with a midget, and reopened in 1939 at 1143 E. 14th St., **Oakland**.[^hem]
 
 ## Orr Speed Shop (Karl & Veda Orr), 1940
-Opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k]
+Opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] See [Veda Orr](../people/veda-orr.md). Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k]
 
 ## Jim White's Speed Shop, 1932
 Based on Roger Harrell's book: opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main, run with brother Nick Harrell until **1976**.[^hem] ◐
