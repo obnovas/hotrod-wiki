@@ -20,6 +20,31 @@
 - ~~**Isky:**~~ (verified Round 3) the IDRHOF lists Ed Iskenderian as "1921–2026." That suggests he died this year. **Not yet verified.** It would need an obituary before any page uses it.
 - New cross-links: Medley drew Veda's covers, then co-founded Peoria (1970). Steve Reyes, who named Pro Street (1979), is in IDRHOF 2002. Art Chrisman links Santa Ana, Beast III and Chrisman & Sons. Almquist's pamphlet influenced the customizers.
 
+## Log, Round 4 (2026-10-13)
+- **Structure:**
+    - Image layer: 9 Commons photos and 7 USPTO patent drawings, every one captioned, plus an [Image Credits](reference/image-credits.md) page.
+    - An article record box on all 36 articles.
+    - New pages: [Timeline](reference/timeline.md), [People & Companies Index](reference/index-people-companies.md), [Patents](reference/patents.md) and [Source Standards](reference/source-standards.md).
+    - glightbox plugin.
+- **New articles:** Howard Johansen, Jack Engle, Kong Jackson, Arlen Vanke, Eddie Schartman, the Hill Bros. Red Baron, and Detroit Dragway & Cordova.
+- **Patent finds:**
+    - Almquist Engineering's own "Gear shift," US 3,082,639 (filed Sept 1962), a month before Hurst & Campbell's US 3,172,301. This bears on open question #14.
+    - Ten Winfield patents (1928–45).
+    - Isky's 1956 lifter-guide patent, which names him at Inglewood.
+    - A 1960 carb-linkage patent by Vic Edelbrock **Jr.**
+    - Navarro's turbo patents (Glendale).
+- **News:** Joe Hrudka died May 24, 2026 (NHRA). The Mr. Gasket page is updated.
+- **New conflicts:**
+    - Kong Jackson's death: Sept 4, 2000 (contemporaneous list post) vs 2002 (Fuel Curve).
+    - Jackson's "SCTA formed in 1938."
+    - Engle's founding date: 1939/41/42/47/50.
+    - Vanke's first race: 1951 vs 1953.
+    - Vanke at Knafel: service manager vs salesman.
+    - Johansen's 1954 engine: Dodge vs DeSoto.
+    - Cordova's opening: 1955 vs 1956.
+    - Detroit Dragway's closing: 1997 vs 1998.
+- **Not read first-hand:** Ganahl's "The Mystery Wagon" (RJ #36) and Post's *High Performance*. Both are flagged; neither is cited for specifics.
+
 ## Log, Round 3 (2026-10-13)
 - **Isky verified:** died Feb 4, 2026, at 104 (NHRA, Hagerty, Car and Driver, SEMA, Legacy). Article added.
 - **Resolved:**
@@ -52,10 +77,24 @@
 11. **Glendale Strokers vs Stokers:** period SCTA entry lists or a plaque photo.
 12. **Veda Orr's SCTA membership date:** SCTA minutes or a 1946 Racing News.
 13. **Tom Beatty's death year** and SCTA/BNI record lists to check the RM Auctions catalog claims.
-14. **Almquist and the Hurst shifter:** check Hurst company histories for the 1959 partnership.
+14. **Almquist and the Hurst shifter:** check Hurst company histories for the 1959 partnership. *Round 4:* Almquist Engineering's gear-shift patent US 3,082,639 (1962) was found. Compare its claims with Hurst's US 3,172,301 and read both citation lists.
 15. ~~Isky's death~~ (verified Round 3).
 
-## Next breadcrumbs (Round 4)
+16. **Kong Jackson's death:** 2000 vs 2002. Find an LA Times or Daily News obituary for Sept 2000.
+17. **Chester L. Herbert (US 4,071,000):** is this Chet Herbert? Check against an obituary that gives his legal name.
+18. **George H. DuVall Jr.'s 1945 wheel-lock patent:** check the residence in the patent text.
+19. **Twin Bears at the first Winternationals (1961):** check NHRA results.
+
+## Next breadcrumbs (Round 5)
+- **Post, *High Performance*** (1994): get a copy and check the timeline against it.
+- **The Rodder's Journal #36** (Mystery Wagon): request it from a back-issue dealer or library.
+- **Tom Medley's 1988 Kong Jackson interview** in Tex Smith's *Hot Rod History*.
+- **Bob Bartel / ATAA:** look for 1954–58 World Series programs (Quad-City Times archives).
+- **Ohio:** Chuck Finders, Dave Meal, Otie Smith, Ron Hassel; Akron airport marker text (Ohio History Connection).
+- **The Logghe brothers** and Al Bergler, Detroit's funny car tin men.
+- **Read Winfield's patents in full** for engineering detail; search more names (Kong Jackson, Stu Hilborn, Phil Weiand, Fran Hernandez).
+
+## Next breadcrumbs (Round 4, superseded)
 - Wallace's **1958 Drag Rags installment** (the Howard's five-clowns ad, the Sept '58 ad scan) and **Camgrinder Wars Part 2** (Hot Rod, Jan 2015).
 - **Howard Johansen** (IDRHOF 1991, 1910–1988) and **Jack Engle** (1920–2008): stubs.
 - **Kong Jackson** and the stolen traffic-signal starting lights of 1947–48: look for SCTA News issues.

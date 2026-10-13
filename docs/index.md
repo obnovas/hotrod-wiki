@@ -9,4 +9,4 @@ An investigator's archive of the people, small shops, and ideas that built Ameri
     - The [Research Trail](research-trail.md) is the running detective's log of leads.
 
 ## Sections
-- [Eras](eras/index.md) · [People & Builders](people/index.md) · [Aftermarket Companies](companies/index.md) · [Cars](cars/index.md) · [Beyond California](regions/midwest-east.md) · [Techniques & Styles](techniques/index.md) · [Bibliography](bibliography.md)
+- [Eras](eras/index.md) · [People & Builders](people/index.md) · [Aftermarket Companies](companies/index.md) · [Cars](cars/index.md) · [Beyond California](regions/midwest-east.md) · [Techniques & Styles](techniques/index.md) · [Reference: Timeline, Index, Patents](reference/index.md) · [Source Standards](reference/source-standards.md) · [Bibliography](bibliography.md)

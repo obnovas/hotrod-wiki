@@ -1,5 +1,8 @@
 # 1980s: Pro Street and a Dayton Garage
 
+!!! abstract "Article record"
+    **Confidence:** Low–Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** Origin article unidentified · [How we rate this](../reference/source-standards.md)
+
 **Scott Sullivan**, a self-taught builder working from a small shop in Dayton, Ohio since 1977, is cited as one of the style's originators.[^hr]
 
 ## Who named it

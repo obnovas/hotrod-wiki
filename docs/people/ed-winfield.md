@@ -1,5 +1,12 @@
 # Ed Winfield (1901–1982)
 
+!!! abstract "Article record"
+    **Confidence:** Medium–High · **Source types:** HOF, secondary, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Indy years conflict open · [How we rate this](../reference/source-standards.md)
+
+![Patent drawing US1893920](../assets/images/patent-US1893920-winfield-carburetor.png){ width="300" align=right loading=lazy }
+*US1893920, "Carburetor," sheet 1. Inventor: Edward A. Winfield, filed 1930-01-03, issued 1933-01-10. Source: [Google Patents](https://patents.google.com/patent/US1893920A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+
+
 Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1] His formal schooling ended at the eighth grade.[^mshf] **⚠** The International Drag Racing Hall of Fame list gives **1910–1982**,[^idrhof] which is probably an error, since three other sources give 1901.
 
 ## Apprenticeship under Miller

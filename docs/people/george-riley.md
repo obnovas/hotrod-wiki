@@ -1,5 +1,8 @@
 # George Riley and the Two-Port / Four-Port Heads
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary, forum/scrapbook · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** WWII drone engine unverified · [How we rate this](../reference/source-standards.md)
+
 George Riley was an inventor who raced cars, planes and boats; Hot Rod credits him with the inboard/outboard boat engine configuration and says he opened his shop in **1919** to make Model T speed equipment.[^hr] ◐
 
 ## The design

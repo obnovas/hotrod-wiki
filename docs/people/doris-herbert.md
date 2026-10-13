@@ -1,5 +1,8 @@
 # Doris Herbert and "The Drag Racer's Bible"
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 2) · [How we rate this](../reference/source-standards.md)
+
 - **Drag News** began on **March 4, 1955** as an eight-page biweekly, founded by Dean Brown (publisher-editor) and Dick McMullen (ad sales). It soon went weekly on newsprint.[^cp1]
 - Her brother **Chet Herbert** arranged and funded her purchase in 1959.[^hem] She replaced editor Dan Raulston in **April 1959**.[^cp1] Raulston launched a rival, *Drag Racer*, two months later; seven issues came out June–October 1959.[^cp1]
 - **Standard 1320:** after Isky promoted a questionable 204.54 mph clocking for Chris Karamesines at Alton, Illinois, she set universal timing standards for reputable strips, sanctioned or not, and kept the national **Drag News Standard 1320 Record List**. The Oct 1, 1960 issue named Garlits officially fastest at a backed-up 182.18 mph (Half Moon Bay).[^cp1] The Hall of Fame credits this with countering promoter-inflated "popcorn" speeds, and credits the **Mr. Eliminator** list's best-of-three challenge races as a root of match racing and pro drag racing.[^hof]

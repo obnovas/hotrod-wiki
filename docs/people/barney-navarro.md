@@ -1,5 +1,12 @@
 # Barney Navarro (1919–2007): Glendale's Blower Pioneer
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** oral, secondary, primary (patent) · **Last verified:** 2026-10-13 (Round 4) · [How we rate this](../reference/source-standards.md)
+
+![Patent drawing US3559397](../assets/images/patent-US3559397-navarro-turbo.png){ width="300" align=right loading=lazy }
+*US3559397, "Turbo supercharger control mechanism," sheet 1. Inventor: Bernard J. Navarro, Glendale, filed 1969-03-21, issued 1971-02-02. Source: [Google Patents](https://patents.google.com/patent/US3559397A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+
+
 *Principal source: Tony Thacker's American Hot Rod Foundation biography, built on Navarro's recollections.*[^ahrf]
 
 - **Origins:** at 10 he was a gofer during the overhaul of his father's Willys-Knight; attended Eagle Rock High and night machine-shop classes at Glendale High. He cut a straight-eight Locomobile in half for the Weaver brothers' midget.[^ahrf]

@@ -1,5 +1,8 @@
 # Chet Herbert's Beast III Streamliner (1952)
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary, auction/collection · **Last verified:** 2026-10-12 (Round 2) · **Open issues:** Some details single-sourced · [How we rate this](../reference/source-standards.md)
+
 *Kustomrama compiles this from* Merchants of Speed*, Sports Car Digest, and* Rod & Custom.[^k]
 
 - **Design:** Herbert teamed with Caltech wind-tunnel consultant **Rod Schapel**, who had never seen a streamliner or Bonneville. A 1/10-scale aluminum model was wind-tunnel tested, and the fiberglass body was laid up over a male mold lofted in Schapel's backyard. The mold was cut up afterward, so the body is one of a kind.[^k]

@@ -1,5 +1,8 @@
 # Veda Orr: The Wartime Newsletter and the First Hot Rod Journalist
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary, oral · **Last verified:** 2026-10-12 (Round 2) · **Open issues:** SCTA membership date open · [How we rate this](../reference/source-standards.md)
+
 ## Karl and Veda
 Karl Orr was born in Missouri in 1906, raced Model Ts from 1921, and came to Los Angeles in 1923. By 1935 he was in the 90mph Club, known as much for his "prickly personality" as for his driving. He married Veda in 1936.[^fc] Their Orr Speed Shop opened in 1940 at 11140 Washington Place, Culver City ([Prewar Speed Shops](../companies/prewar-speed-shops.md)).[^hem-shops]
 

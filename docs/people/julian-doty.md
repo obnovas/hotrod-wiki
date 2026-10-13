@@ -1,5 +1,8 @@
 # Julian DuVall Doty (1922–2012): Seventy Years on the Lakes
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** oral (AHRF), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
+
 *Sources: Coachbuilt.com (census and directory research) and an AHRF profile built on Doty's recollections.*[^cb][^ahrf]
 
 - Born **December 10, 1922**; died **May 2, 2012**. His mother Evelyn was George DuVall's sister.[^cb]

@@ -4,7 +4,10 @@ theme:
   name: material
   features: [navigation.sections, navigation.indexes, search.highlight]
   palette: {scheme: slate, primary: red, accent: amber}
-markdown_extensions: [footnotes, admonition, toc: {permalink: true}, tables]
+markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables]
+plugins:
+  - search
+  - glightbox
 nav:
   - Home: index.md
   - Eras:
@@ -33,17 +36,32 @@ nav:
       - Julian Doty: people/julian-doty.md
       - Ed Iskenderian: people/ed-iskenderian.md
       - Setto Postoian (Michigan): people/setto-postoian.md
+      - Howard Johansen: people/howard-johansen.md
+      - Jack Engle: people/jack-engle.md
+      - Kong Jackson: people/kong-jackson.md
+      - Arlen Vanke (Ohio): people/arlen-vanke.md
+      - Eddie Schartman (Ohio): people/eddie-schartman.md
   - Aftermarket Companies:
       - companies/index.md
       - Prewar Speed Shops (Bell, Lee's, Orr, White): companies/prewar-speed-shops.md
       - Edelbrock's Slingshot: companies/edelbrock-slingshot.md
       - Southern California Plating Co.: companies/southern-california-plating.md
       - Mr. Gasket (Ohio): companies/mr-gasket.md
-  - Beyond California: regions/midwest-east.md
+  - Beyond California:
+      - Midwest & East Threads: regions/midwest-east.md
+      - Detroit Dragway & Cordova: regions/detroit-cordova.md
+  - Reference:
+      - reference/index.md
+      - Timeline: reference/timeline.md
+      - People & Companies Index: reference/index-people-companies.md
+      - Patents: reference/patents.md
+      - Image Credits: reference/image-credits.md
+      - Source Standards: reference/source-standards.md
   - Cars:
       - cars/index.md
       - Hirohata Mercury: cars/hirohata-mercury.md
       - Beast III Streamliner: cars/beast-iii.md
+      - Hill Bros. Red Baron Willys: cars/hill-bros-red-baron.md
   - Techniques & Styles: techniques/index.md
   - Research Trail: research-trail.md
   - Bibliography: bibliography.md

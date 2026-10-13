@@ -1,5 +1,8 @@
 # Chet Herbert (1928–2009): Roller Cams from a Sears Lathe
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary, HOF · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
+
 Born March 1928 in Glenbar, Arizona, and raised in Los Angeles. His parents bought him a trumpet to curb his interest in speed; he traded it for a Cushman scooter.[^h]
 
 - **Polio, 1948:** six months in an iron lung left him paralyzed from the chest down. He used the time to design parts and raced through hired drivers.[^h]

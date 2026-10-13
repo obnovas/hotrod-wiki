@@ -1,5 +1,12 @@
 # Edelbrock's Slingshot: A Mechanic Becomes a Manufacturer
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary, primary (patent) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** 1941 speed conflict open · [How we rate this](../reference/source-standards.md)
+
+![Patent drawing US3030819](../assets/images/patent-US3030819-edelbrock-linkage.png){ width="300" align=right loading=lazy }
+*US3030819, "Linkage for multiple carburetor installation," sheet 1. Inventor: Otis Victor Edelbrock Jr., filed 1960-09-22, issued 1962-04-24. Source: [Google Patents](https://patents.google.com/patent/US3030819A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+
+
 Vic Edelbrock Sr. (1913–1962; **⚠** the International Drag Racing Hall of Fame lists 1912[^idrhof]) was born in Kansas. He went to work full time at 14 after a fire destroyed his father's grocery store, and came to California in 1931.[^enc][^ed] He opened a repair shop on Wilshire Blvd. in Beverly Hills with his brother-in-law, then moved to Venice & Hoover in 1934.[^ed]
 
 ## The Thickstun detour

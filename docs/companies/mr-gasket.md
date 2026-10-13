@@ -1,5 +1,8 @@
 # Mr. Gasket: The Hrudka Brothers and the Ohio Gassers
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary, obituary, reference · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Founding dates and sale price conflict · [How we rate this](../reference/source-standards.md)
+
 *Principal source: Jim Hill, East Coast Drag Racing Hall of Fame (2016).*[^ec]
 
 ## Gas-class racers first
@@ -24,7 +27,11 @@ The ECH figure covers what Hrudka realized personally, while Hill's appears to b
 ## Later
 Joe left the company in 1976 under a non-compete and collected Tri-Five Chevys until 1981.[^ec] The company went through Chapter 11 in 1991, was sold to Echlin in 1993, and to Holley in September 2015.[^ec][^enc]
 
+## Update, Round 4: Joe Hrudka (1938–2026)
+NHRA reports that Joe Hrudka was born Nov 29, 1938, in Cleveland and died **May 24, 2026**, at 87. It describes the brothers' results as "Class wins at the 1961 and 1962 NHRA U.S. Nationals." That is narrower than SEMA's "back-to-back NHRA champions."[^nhra26] The same story captions Dave Meal's '40 Willys C/Gasser with an early Mr. Gasket logo. In spring 1967 the Hrudkas bought the unfinished '33 Willys that became the Hill brothers' [Red Baron](../cars/hill-bros-red-baron.md) and sold it on to them, per Dave Hales.
+
 [^ec]: Jim Hill, "Mr. Gasket: From The Trunk Of A '57 Chevy To Wall Street," East Coast Drag Racing Hall of Fame, Apr 1, 2016. https://eastcoastdragtimeshalloffame.com/mr-gasket-from-the-trunk-of-a-57-chevy-to-wall-street/
 [^sema]: SEMA Hall of Fame 1980, "Joe Hrudka." https://www.sema.org/hof/1980/joe-hrudka
 [^enc]: Encyclopedia.com, "Mr. Gasket Inc." https://www.encyclopedia.com/books/politics-and-business-magazines/mr-gasket-inc
 [^ech]: Encyclopedia of Cleveland History, "Mr. Gasket." https://case.edu/ech/articles/m/mr-gasket
+[^nhra26]: NHRA, "Joseph 'Joe' Hrudka, founder of Mr. Gasket, passes away at age 87," May 28, 2026. https://www.nhra.com/news/2026/joseph-joe-hrudka-founder-mr-gasket-passes-away-age-87

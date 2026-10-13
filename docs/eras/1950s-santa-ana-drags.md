@@ -1,5 +1,8 @@
 # 1950s: Santa Ana and the First Commercial Drag Strip
 
+!!! abstract "Article record"
+    **Confidence:** High · **Source types:** obituaries (5+ agreeing), secondary · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Lions tenure conflict open · [How we rate this](../reference/source-standards.md)
+
 ## Routed by bayonets
 In the late 1940s Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" One Sunday they were run off by a company of U.S. Marines with fixed bayonets.[^mshf]
 

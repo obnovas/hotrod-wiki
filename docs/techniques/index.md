@@ -1,5 +1,9 @@
 # Techniques & Styles (Period-Correct Traits)
 
+![A 1941 Ford V8-11A flathead in a Super DeLuxe](../assets/images/commons-ford-flathead-1941.jpg){ loading=lazy }
+*A 1941 Ford V8-11A flathead in a Super DeLuxe. The uploader notes the tubes may come from a 1939 91A engine. This is a stock engine, the starting point for the speed-equipment era. Photo: Mr.choppers, 2015-07-12. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Ford_V8-11A_flathead_engine_in_a_Super_DeLuxe.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
+
+
 ## Prewar / early custom ("restyling"), c.1935–1946
 - Grilles, bumpers and trim swapped from more expensive makes; insignias removed. The goal was a "fake Cord," not a hot Ford.[^k]
 - Chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k]

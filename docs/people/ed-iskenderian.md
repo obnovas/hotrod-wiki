@@ -1,5 +1,12 @@
 # Ed "Isky" Iskenderian (1921–2026)
 
+!!! abstract "Article record"
+    **Confidence:** High · **Source types:** obituaries (5 agreeing), oral, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · [How we rate this](../reference/source-standards.md)
+
+![Patent drawing US3301241](../assets/images/patent-US3301241-iskenderian-roller-tappet.png){ width="300" align=right loading=lazy }
+*US3301241, "Non-rotating roller tappet," sheet 1. Inventor: Edward Iskenderian, filed 1966-06-21, issued 1967-01-31. Source: [Google Patents](https://patents.google.com/patent/US3301241A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+
+
 !!! note "Verified"
     His death on **February 4, 2026**, at 104, in Los Angeles is confirmed by NHRA, Hagerty, Car and Driver, SEMA, and Legacy.com.[^nhra][^hag][^cd][^sema][^leg]
 

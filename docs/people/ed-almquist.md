@@ -1,5 +1,12 @@
 # Ed Almquist (1921–2015): Speed by Mail from Milford, Pennsylvania
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** obituary, HOF, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Hurst co-design claim single-sourced · [How we rate this](../reference/source-standards.md)
+
+![Patent drawing US3082639](../assets/images/patent-US3082639-almquist-gearshift.png){ width="300" align=right loading=lazy }
+*US3082639, "Gear shift (Almquist Engineering Co.)," sheet 1. Inventor: Edgar W. Almquist, filed 1962-09-11, issued 1963-03-26. Source: [Google Patents](https://patents.google.com/patent/US3082639A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).*
+
+
 *A rare non-California founder.*
 
 - **Born** Nov 24, 1921, in Zim, Minnesota; **died** July 22, 2015, at home in Milford, PA.[^obit]

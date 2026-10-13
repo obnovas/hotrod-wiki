@@ -1,5 +1,12 @@
 # The Hirohata Mercury
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary, museum/registry · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Build-time conflict open · [How we rate this](../reference/source-standards.md)
+
+![The 1951 Mercury "Hirohata Merc" at "Cars at the Capital," National Mall, Washington, D](../assets/images/commons-hirohata-merc-haer.jpg){ loading=lazy }
+*The 1951 Mercury "Hirohata Merc" at "Cars at the Capital," National Mall, Washington, D.C., spring 2017. The car was recorded in the Historic American Engineering Record (HAER CA-2328). Photo: Historic Vehicle Association (HVA), 2017. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1951_Mercury_Sport_Coupe_Hirohata_Merc_(HAER_CA-2328).png). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+
+
 **Owner:** Robert "Bob" Hirohata, Los Angeles. **Builder:** Sam & George Barris, Barris Kustom. **Base:** 1951 Mercury coupe, bought barely used from an older couple.[^revs]
 
 ## The build

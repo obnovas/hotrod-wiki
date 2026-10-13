@@ -1,5 +1,16 @@
 # 1930s: Muroc, the Dry Lakes & the Founding of the SCTA
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** club history, secondary, oral · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** First-meet date conflict open · [How we rate this](../reference/source-standards.md)
+
+![Rogers Dry Lake at Edwards AFB in 1990: a runway marked on the lakebed](../assets/images/commons-rogers-dry-lake-usaf.jpg){ loading=lazy }
+*Rogers Dry Lake at Edwards AFB in 1990: a runway marked on the lakebed. Rogers is the lakebed racers knew as Muroc (renamed in 1950, per [Wikipedia](https://en.wikipedia.org/wiki/Rogers_Dry_Lake)). Photo: CMSgt Donald Sutherland, U.S. Air Force, 1990-12-18. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Edwards_AFB_Runway_5_on_Rogers_Dry_Lake.jpg). License: Public domain.*
+
+
+![El Mirage Dry Lake, San Bernardino County, today a BLM off-highway vehicle area](../assets/images/commons-el-mirage-blm.jpg){ loading=lazy }
+*El Mirage Dry Lake, San Bernardino County, today a BLM off-highway vehicle area. It is a modern view of the lakebed, not a period racing photo. Photo: Bureau of Land Management California, 2015-06-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Mirage_Dry_Lake_Off-Highway_Vehicle_Recreation_Area_(29486068103).jpg). License: Public domain.*
+
+
 ## Before the rules
 In the 1920s, weekend racers from greater Los Angeles drove roughly 100 miles north to **Muroc Dry Lake**, partly to escape police attention on the street, and raced modified four-cylinder Fords in unruly side-by-side "lineups" across the lakebed.[^mojave] Bell Auto's George Wight is said to have worked with the young Gilmore Oil company to organize dry-lakes events at Muroc in the early 1930s.[^jj-bell] ◐ *Single-sourced (Jalopy Journal); needs a period source.*
 

@@ -1,5 +1,12 @@
 # Tom Beatty and the Glendale Strokers
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** oral (Navarro via AHRF), period magazine (via auction text), auction catalog · **Last verified:** 2026-10-12 (Round 2) · **Open issues:** Record conflicts open · [How we rate this](../reference/source-standards.md)
+
+![The belly tank lakester that the Henry Ford Museum displays as the "1951 Beatty belly tank lakester" (Dearborn, Mich](../assets/images/commons-beatty-belly-tank-henry-ford.jpg){ loading=lazy }
+*The belly tank lakester that the Henry Ford Museum displays as the "1951 Beatty belly tank lakester" (Dearborn, Mich., 2012). The identification is the photographer's and the museum's. We have not checked it against the Beatty records discussed below. Photo: Michael Barera, 2012-08-24. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Ford_Museum_August_2012_29_(1951_Beatty_belly_tank_lakester).jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+
+
 ## The club
 Barney Navarro joined the Glendale club in 1940 along with Tom Beatty, George Hill and Doane Spencer.[^ahrf] **⚠ Name conflict:** AHRF writes "Glendale **Strokers**";[^ahrf] Kustomrama's club page is titled "Glendale **Stokers**." Kustomrama lists members including Beatty, Navarro, Spencer, Hill, Don Nicholson, Mac Schutt, Bob "Buzz" Buswell, Bill Davis and the Watson brothers.[^club] Kustomrama's Buswell caption also mentions a "Glendale Sidewinders," and Coachbuilt calls the Sidewinders "(Glendale, CA), the SCTA's first member club."[^cbg] The relationship between the clubs is unclear. The spelling needs a period source, such as an SCTA entry list or a club plaque photo.
 

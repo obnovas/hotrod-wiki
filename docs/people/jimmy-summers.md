@@ -1,5 +1,8 @@
 # Jimmy Summers (1913–1968): The Customizer Across from Fairfax High
 
+!!! abstract "Article record"
+    **Confidence:** Low–Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
+
 James Merlin Traft Summers was born **September 22, 1913**, in Lewistown, Montana, and died **October 24, 1968**.[^k] Most of what is known comes from Sondre Kvipt's interviews with his children (Lee, Kris, Karen) and family albums, published in *The Rodder's Journal* #83 (2020) and on Kustomrama.[^k] **Most details below come from that one family-sourced research project.** ◐
 
 ## "Carpetbaggers"

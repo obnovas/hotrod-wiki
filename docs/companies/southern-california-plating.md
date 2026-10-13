@@ -1,5 +1,8 @@
 # Southern California Plating Co. and Leonard K. DeBell
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary (census-based), oral (Doty via Ganahl) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** RJ #36 not read first-hand · [How we rate this](../reference/source-standards.md)
+
 *Main source: Coachbuilt.com's census-based research.*[^cb]
 
 - **Owner:** Leonard K. DeBell, born April 23, 1904, in Louisville, Colorado, to Italian-born parents (father Stefano Zarlengo); died January 24, 1992, in Los Angeles. The 1930 census lists him as "salesman, nickel-plating" and the 1940 census as "proprietor, electro-plating."[^cb] *(The name change from Zarlengo is implied by the census, not explained.)*
@@ -12,7 +15,7 @@
     - Sea-foam green paint by Charles Remidi.
     - 1936 Cadillac front bumper, and Wood-Lites behind chrome openings.[^cb]
     Period photos ran in *Motor Life*, May 1955.[^cb]
-- **Missing car:** Julian Doty told Pat Ganahl he last saw it around 1963–64, dusty in a body shop DeBell owned on Melrose one block east of Vermont. He tried to buy it from DeBell's son Tony and failed. "The car has not been seen since."[^cb]
+- **Missing car:** Julian Doty told Pat Ganahl he last saw it around 1963–64, dusty in a body shop DeBell owned on Melrose one block east of Vermont. He tried to buy it from DeBell's son Tony and failed. "The car has not been seen since."[^cb] **Not yet read:** Pat Ganahl's feature on this car, "The Mystery Wagon," *The Rodder's Journal* No. 36, has not been checked first-hand. The quote above comes through Coachbuilt. A copy of RJ #36 is a priority request (see [Research Trail](../research-trail.md)).
 - **Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb] **⚠** Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr]
 - Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb] ◐ *Claim repeated by both sources without a primary citation.*
 

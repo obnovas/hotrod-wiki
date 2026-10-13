@@ -1,5 +1,8 @@
 # Beyond California: Midwest & East Threads
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** club/HOF histories, local magazine · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
+
 A working index of non-California hot rodding. See also [Ed Almquist](../people/ed-almquist.md) (PA), [Setto Postoian](../people/setto-postoian.md) (MI), and [Mr. Gasket](../companies/mr-gasket.md) (OH).
 
 ## JEGS: Columbus, Ohio, 1960
@@ -16,6 +19,9 @@ Jim Oddy joined the club at 16 in 1957, per the International Drag Racing Hall o
 
 ## Kentucky / NSRA
 The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the NSRA's Louisville era: the first Louisville Nationals in 1988, a record 25 consecutive years through 2022, and the Kentucky Safety Team ranked #1 nationally in 1986.[^ky] The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body. ◐
+
+
+See also: [Detroit Dragway & Cordova](detroit-cordova.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md).
 
 [^jegs]: JEGS, "About Us." https://www.jegs.com/about-us
 [^disp]: Columbus Dispatch, "JEGS High Performance celebrates 50th anniversary," July 31, 2010 (paywalled). https://www.dispatch.com/story/news/2010/07/31/jegs-high-performance-celebrates-50th/23191212007/

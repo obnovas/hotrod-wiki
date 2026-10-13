@@ -1,5 +1,8 @@
 # Roy Hagy: The Other Prewar Top-Chopper
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** oral (via Ganahl), secondary · **Last verified:** 2026-10-12 (Round 2) · [How we rate this](../reference/source-standards.md)
+
 *Almost everything known here comes from one oral source: Tom Sparks, interviewed by Pat Ganahl for* The American Custom Car*, as relayed by Kustomrama.*[^k] ◐
 
 - Hagy and Jimmy Summers are named as two of the first LA shops to specialize in customizing production cars, as opposed to coachbuilders like Bohman & Schwartz or Coachcraft.[^k]

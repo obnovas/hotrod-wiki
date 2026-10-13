@@ -59,6 +59,33 @@ Sources actually consulted (Round 1). Type tags: **[club]** club or primary, **[
 - [mag] Times Herald-Record, "Ed Almquist, motorhead inventor and pioneer dies," 2015 (paywalled; search excerpt). https://www.recordonline.com/story/news/local/port-jervis/2015/07/30/ed-almquist-motorhead-inventor-pioneer/33784642007/
 - [mag] Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals," 2024. https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/
 
+## Added in Round 4
+- [obit] "Finish Line, January 1989," Hot Rod (Howard Johansen). https://www.hotrod.com/features/finish-line-january-1989-982-1416-160-1
+- [mag] Hot Rod, "Twin Belly Tank Streamliner... 1949." https://www.hotrod.com/features/twin-tank-bellytanker-land-speed-racer-archive
+- [corp] Howards Cams, "About Us." https://www.howardscams.com/about-us
+- [ref] Inliners International, "12 Port Story" pt. 6. https://www.inliners.org/12_Port_Story/pt_six.html
+- [ref] Wikipedia, "Howard Johansen"; "Jack Engle"; "Detroit Dragway" (used only for minor, flagged details). https://en.wikipedia.org/wiki/Jack_Engle
+- [oral] Kustomrama, "Jack Engle" (Mark Engle family captions). https://kustomrama.com/wiki/Jack_Engle
+- [obit] Engle Racing Cams obituary page (doczz). https://doczz.net/doc/1013817/engle-cams---engle-racing-cams
+- [oral] Fuel Curve, "'Kong' Jackson," 2023 (quotes Medley's 1988 interview and Xydias). https://fuelcurve.com/kong-jackson/
+- [oral] Katie Young Cortez, land-speed list, Sept 10, 2000. http://ftp.team.net/html/land-speed/2000-09/msg00247.html
+- [museum] MMSHOF, "Akron Arlen Vanke." https://www.mmshof.org/index.php/inductees/inductees/368-akron-arlen-vanke
+- [obit] NHRA, Vanke obituary, 2017. https://www.nhra.com/news/2017/nhra-pioneer-akron-arlen-vanke-dies
+- [mag] Hemmings, two Vanke stories. https://www.hemmings.com/stories/akron-arlen-vanke/ ; https://www.hemmings.com/stories/drag-racer-akron-arlen-vanke-dead-at-age-80/
+- [ref] Knafel Pontiac "Tin Indians" site. http://www.tinindian.com/drivers/arlenvanke.html
+- [oral] Phil Burgess, "'Fast Eddie' Schartman," NHRA, 2016. https://www.nhra.com/news/2016/fast-eddie-schartman
+- [oral] JR Thompson, "Gasser Legends ~ The Hill Bros." (Hales, Kull, Pete Hill). http://www.jrthompson.net/hillbroswillys.html
+- [mag] Mopar Muscle/Hot Rod, "1933 Willys Knight - Red Baron." https://www.hotrod.com/features/mopp-0306-1933-willys-knight
+- [obit] Competition Plus, Bob Bartel tribute. https://competitionplus.com/quad-cities-drag-racing-legend-bob-bartel-passes/
+- [mag] BangShift, "...Nitro Ban." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/
+- [mag] Clinton Herald, Cordova Dragway Park. https://www.clintonherald.com/archives/cordova-dragway-park-carries-on-a-popular-pastime/article_bbc6f1b7-2b04-5f8c-8f35-d53d319b7ca5.html
+- [mag] Hagerty, "Detroit's lost dragstrips." https://www.hagerty.com/media/archived/detroit-drag-strips/
+- [ref] DetroitDragway.com history; News-Herald 2011; RememberMichigan (Detroit News quote, radio spots). https://detroitdragway.com/history-of-detroit-dragway/ ; https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/ ; http://www.remembermichigan.com/dragway.aspx?id=1335&type=6
+- [obit] NHRA, Joe Hrudka obituary, May 28, 2026. https://www.nhra.com/news/2026/joseph-joe-hrudka-founder-mr-gasket-passes-away-age-87
+- [primary] U.S. patents via Google Patents: see [Patents](reference/patents.md) (25 records).
+- [ref] Robert C. Post, *High Performance* (JHU Press, 1994; rev. 1996), WorldCat record. https://search.worldcat.org/title/28212724 (not yet read)
+- Images: Wikimedia Commons (see [Image Credits](reference/image-credits.md)).
+
 ## Added in Round 3
 - [oral] Dave Wallace, "Who Started The Camgrinder Wars? – Part 1," Hot Rod, 2014 (1994 interviews). https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1
 - [mag] Dave Wallace, Drag Rags 1959 Part 2; 1959 Garlits; 1960 (Competition Plus, search excerpts). https://competitionplus.com/drag-rags-1959-part-2-how-the-smokers-beat-the-fuel-ban/ ; https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/ ; https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/

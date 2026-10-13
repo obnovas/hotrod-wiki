@@ -1,5 +1,8 @@
 # Peggy Hart (1914–1980): Santa Ana's Racer-Promoter
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** obituaries, secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
+
 - Born Mary Margaret "Peggy" Riley. She married Cloyce J. Hart in 1934.[^ocr] The International Drag Racing Hall of Fame lists her as **1914–1980** (inducted 1998).[^idrhof]
 - She co-founded and co-ran the Santa Ana Drags with C.J. from 1950 ([Santa Ana](../eras/1950s-santa-ana-drags.md)).[^mshf][^lat]
 - She raced regularly, and won, in a **1933 Willys coupe**.[^nhra][^pe] The Orange County Register called her "the only woman racer and one of the fastest women in the nation," and said she "often challenged the winners at the end, and beat them."[^ocr] ◐ *"Only woman racer" appears in one source.*

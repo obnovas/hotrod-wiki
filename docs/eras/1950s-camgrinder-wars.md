@@ -1,5 +1,8 @@
 # 1956–64: The Camgrinder (Gasser) Wars
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** oral (1994 Wallace interviews), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
+
 *Principal source: Dave Wallace, who interviewed the surviving "generals" (Iskenderian, Engle, others) in 1994.*[^hr]
 
 ## Polite beginnings

@@ -1,5 +1,12 @@
 # Serop "Setto" Postoian (1922–1995): Detroit's First Drag Hero
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** HOF, secondary · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Riverside claim doubtful · [How we rate this](../reference/source-standards.md)
+
+![Don Garlits in Swamp Rat XXX at Texas Motorplex on April 5, 1987 (uploader's caption)](../assets/images/commons-swamp-rat-xxx.jpg){ loading=lazy }
+*Don Garlits in Swamp Rat XXX at Texas Motorplex on April 5, 1987 (uploader's caption). It is the descendant of the "Swamp Rat" name discussed below. Photo: twm1340 (Flickr), 1987-04-05 (per caption; file date 2007). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DonGarlitsSwampRatXXX.jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).*
+
+
 *Principal source: Michigan Motor Sports Hall of Fame (inducted 1997).*[^mm]
 
 - Before WWII he worked in Ford's engine-rebuilding division in Detroit, then served three and a half years overseas and opened a gas station in Farmington afterward.[^mm]

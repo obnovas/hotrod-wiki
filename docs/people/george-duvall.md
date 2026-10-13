@@ -1,5 +1,8 @@
 # George DuVall (1913–1999): Plating Shop Designer, the V-Windshield, and the Hollywood Hubcap
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary (census-based), oral · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Pattern sale date conflict · [How we rate this](../reference/source-standards.md)
+
 *Principal source: Kustomrama, drawing mainly on* Rod & Custom*, August 1990.*[^k] ◐
 
 - **Dates (Round 3):** George H. DuVall Jr., born Aug 19, 1913, Los Angeles; died Feb 12, 1999, in Peggs, Oklahoma. His 1931 Hollywood High yearbook entry reads "Auto Body Designer 'Duv' Cal Tech."[^cb] In 1990 Dean Batchelor interviewed him for R&C ("Flying V's").[^cb] See also [Julian Doty](julian-doty.md) and [So. Cal. Plating](../companies/southern-california-plating.md).

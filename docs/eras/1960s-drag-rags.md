@@ -1,5 +1,8 @@
 # 1960s: The Drag Rags and the Independent Press
 
+!!! abstract "Article record"
+    **Confidence:** Medium · **Source types:** secondary (season series), period press via excerpts · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Some excerpts only · [How we rate this](../reference/source-standards.md)
+
 Dave Wallace argues that cheap independent tabloids, the "drag rags" controlled neither by a sanctioning body nor by NHRA-leaning Petersen Publishing (where Wally Parks was editorial director until 1963), "recorded the truest accounts to be found" of drag racing's growth.[^cp1]
 
 ## Timeline
