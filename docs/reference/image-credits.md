@@ -114,3 +114,11 @@ Text and drawings in U.S. patents are generally free to reproduce. The USPTO's r
 - `1949-51 model customized Mercury Lead Sled.jpg` (PD): the description calls it a Hudson and then corrects itself to Mercury, so we can't be sure of the ID. Not used.
 - AMT kit ads marked PD (1959/1962/1967): we can't verify that the copyright wasn't renewed. Not used.
 - "'ala kart' kit 1.jpg": a photo of copyrighted box art. Linked out instead.
+
+| `commons-mercury-comet-1966-indy.jpg` | 1966 Mercury Comet Indy 500 pace car (stock; context for Logghe/L-M Comets) | MGSpiller | (see Commons) | [Commons](https://commons.wikimedia.org/wiki/File:Mercury_Comet_1966_Indy_500_pace_car.jpg) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| `commons-mercury-comet-1962-custom.jpg` | 1962 Mercury Comet custom at MSRA Back to the Fifties 2012 | Greg Gjerdingen | 2012-06 (Flickr) | [Commons](https://commons.wikimedia.org/wiki/File:1962_Mercury_Comet_Custom_(7445284414).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `commons-mercury-comet-cyclone-1967.jpg` | 1967 Mercury Comet Cyclone GT | Michel Curi | (see Commons) | [Commons](https://commons.wikimedia.org/wiki/File:1967_Mercury_Comet_Cyclone_GT.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `commons-offenhauser-midget.jpg` | Offenhauser midget racing engines on display | JOHN LLOYD | (Flickr) | [Commons](https://commons.wikimedia.org/wiki/File:Offenhauser_Midget_racing_engines_(1715803460).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `commons-watson-offenhauser.jpg` | Watson-Offenhauser Indy car | Supermac1961 | (Flickr) | [Commons](https://commons.wikimedia.org/wiki/File:Watson-Offenhauser_-_Flickr_-_Supermac1961.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `patent-US3473523-hilborn-fuel-injection.png` | US3473523 fuel injection system sheet 1 | Stuart G. Hilborn (inventor); USPTO | issued 1969-01-14 | [Google Patents](https://patents.google.com/patent/US3473523A/en) | Public domain |
+| `patent-US3519407-hilborn-nozzle.png` | US3519407 fuel injection nozzle sheet 1 | Stuart G. Hilborn (inventor); USPTO | issued 1970-07-07 | [Google Patents](https://patents.google.com/patent/US3519407A/en) | Public domain |

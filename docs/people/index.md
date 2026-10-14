@@ -17,4 +17,9 @@
 - [Ed Iskenderian](ed-iskenderian.md): 1921–2026; the Camfather.
 - [Setto Postoian](setto-postoian.md): Farmington Speed Shop; the "swamp rat" ad.
 
-*Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Howard Johansen, Jack Engle, Kong Jackson, Jeg Coughlin Sr.
+- [Stu Hilborn](stu-hilborn.md): mechanical fuel injection from the dry lakes to Indy.
+- [Fran Hernandez](fran-hernandez.md): Goleta nitro, Edelbrock, Lincoln-Mercury racing and the flip-top Comets.
+- [Al Bergler](al-bergler.md): Detroit tin man; first Ridler Award; Motown Shaker.
+- [Malcolm Durham](malcolm-durham.md): Strip Blazer; East Coast match racing.
+
+*Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Jeg Coughlin Sr., Bruce Miller (*Street Rod* magazine).

@@ -1,5 +1,21 @@
 # Research Trail: The Investigator's Log
 
+## Log, Round 9 (Detroit chassis & tin; Hilborn/Hernandez; Houston strip; AB 436; 2026-10-14)
+- **New articles:** [Logghe Stamping](companies/logghe-stamping.md); [Stu Hilborn](people/stu-hilborn.md); [Fran Hernandez](people/fran-hernandez.md); [Al Bergler](people/al-bergler.md); [Malcolm Durham](people/malcolm-durham.md); [Houston Freeway Dragstrip](regions/houston-freeway-dragstrip.md); Voices [Injection, Factory Racing & Detroit Tin](voices/injection-and-tin.md).
+- **Resolved / strengthened:** California cruising-ban repeal identified as **AB 436** (Ch. 803, 2023; effective Jan 1, 2024). Fran Hernandez death **Jan 5, 2011** (Detroit News via H.A.M.B.) vs Hemmings "2005" (flagged erroneous). Kong Jackson death still **2000** on list evidence; no newspaper obit yet.
+- **New conflicts:** Logghe founding **1946** (Hot Rod) vs **1947** (MMSHOF); Hilborn Model A lakes speed **120** vs **123**; Durham Top 50 rank **46** vs **48**; Houston Freeway close **1987** (forum) vs "unknown"; Garlits Museum page still said Gene Logghe "resides" after MMSHOF listed Aug 2021 death.
+- **Images:** three Mercury Comet Commons photos, four Offenhauser Commons photos (hosted), two Hilborn patent drawings; re-used SOHC, El Mirage, Autorama, Garlits, Houston-from-Westheimer.
+- **Skipped / thin:** Mercer Museum Leonard Miller oral / *Silent Thunder*; Peggy Hart 1950s papers; Commercial Appeal Summer Ave; Woodward council minutes; Springfield MO / Denver Colfax / St. Louis cruising.
+
+## Next breadcrumbs (Round 9)
+- Read the **Detroit News** Fran Hernandez obituary on the paper's own site (currently via H.A.M.B. paste).
+- **Gene Snow** first official 200 mph Funny Car in Logghe Charger *Rambunctious*—primary timing slip or NHRA note.
+- **Don Gay** purchase records for Houston Freeway (1960 claim) and a Chronicle closing notice for 1987.
+- **Hilborn** *Hot Rod* Apr 1948 cover story and July 1948 SCTA El Mirage entry list (Wilson 150.5).
+- **Al Bergler** Ridler / Autorama 1964 results sheet; Motown Shaker Logghe serials.
+- **Malcolm Durham** full oral (Drag Race Central "Fast Five" was blocked this round).
+- Carry: Mercer Miller oral; Commercial Appeal; Woodward ordinances; Roberto Rodriguez Mar 23, 1979; Bruce Miller Portland *Street Rod* (1972); Ohio Finders/Meal/Hassel; Bob Bartel / IDAA programs.
+
 ## Log, Round 8 (Cruise Nights & Hangouts; reframing; 2026-10-13)
 - **Editorial reframing:** Voices titles, intros and the index are now organized by story, place and contribution instead of ethnicity. The Voices index is grouped by Dry lakes, Drag strips, Customs/shows and Street rodding. Leonard Miller's title is now "From a Paoli Junkyard to Team Owner" and the Ruelas page is "A South LA Family Shop." Speakers' own words about their neighborhoods are kept, and no content was deleted.
 - **New section:** `cruising/`, with a landing page and 10 spots: Woodward, Van Nuys, Bob's Big Boy / River Road, Harvey's Broiler, Whittier Blvd, Modesto, Summer Ave, Lake St / University, Westheimer and Central Ave (later). There are 13 new open-licensed images.
@@ -12,7 +28,7 @@
 - Robert Genat, *Woodward Avenue: Cruising the Legendary Strip* (CarTech), for primary interviews.
 - Roberto Rodriguez's own published account of March 23, 1979 and the *Lowrider* magazine archive.
 - Pre-1990 Albuquerque (Central/Fourth St), Springfield, MO (Kearney St), Denver (Colfax) and St. Louis cruising.
-- The bill number and text of the 2024 California law ending cruising bans (legislative site).
+- ~~The bill number and text of the 2024 California law ending cruising bans~~ (**done Round 9:** AB 436 / Ch. 803, 2023).
 - Houston Press archives or HAIF threads that date the 1986 Westheimer roadblocks.
 
 ## Log, Round 7 (Voices; 2026-10-13)

@@ -55,7 +55,7 @@
 | Kohn, Gil | Detroit Dragway | [Detroit & Cordova](../regions/detroit-cordova.md) |
 | Kustom Kemps of America (KKOA) | Wichita, 1980 | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | Larivee, Bob Sr. | Promotions Inc.; ISCA | [Show Circuit](../customs/show-circuit.md) |
-| Logghe, Ron & Gene | Logghe Stamping, funny car chassis | [Eddie Schartman](../people/eddie-schartman.md) |
+| Logghe, Ron & Gene / Logghe Stamping | Flip-top Funny Car chassis, Fraser, Mich. | [Logghe Stamping](../companies/logghe-stamping.md), [Eddie Schartman](../people/eddie-schartman.md) |
 | Lomax, John Nova | Houston Press writer; Westheimer cruiser recollection | [Westheimer](../cruising/westheimer-houston.md) |
 | Louder, Jim | Owner, Bob's Big Boy Broiler, Downey | [Harvey's Broiler](../cruising/harveys-broiler-downey.md) |
 | Low Flyers (Santa Monica) | Club | [Jack Engle](../people/jack-engle.md) |
@@ -101,3 +101,8 @@
 | Winfield, Gene | AMT consultant | [Kits](../customs/trend-books-kits-roth.md) |
 | Xydias, Alex | So-Cal Speed Shop | [Alex Xydias](../people/alex-xydias.md) |
 | Youngblood, Kenny | Artist; Lions memories | [Esparza Brothers](../voices/esparza-brothers.md) |
+| Bergler, Al | Tin man; first Ridler; Motown Shaker | [Al Bergler](../people/al-bergler.md) |
+| Durham, Malcolm | Strip Blazer; East Coast match racer | [Malcolm Durham](../people/malcolm-durham.md) |
+| Hernandez, Fran | Edelbrock; Lincoln-Mercury racing; Goleta 1949 | [Fran Hernandez](../people/fran-hernandez.md) |
+| Hilborn, Stuart | Mechanical fuel injection | [Stu Hilborn](../people/stu-hilborn.md), [Patents](patents.md) |
+| Houston Freeway Dragstrip | Dickinson, Tex., 1957–⚠1987 | [Houston Freeway](../regions/houston-freeway-dragstrip.md) |

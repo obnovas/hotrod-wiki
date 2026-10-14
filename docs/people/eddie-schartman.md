@@ -18,7 +18,7 @@ He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to bui
 
 ## The flip-top Comet
 - His first ride came in December 1965 at Motor City Dragway. "I said, 'What the hell is this?' It was a dragster with a body on it and the driver in the back seat... On my first pass, I went 166 mph and took out the [finish-line] lights."[^nhra]
-- The cars had a Logghe chromoly chassis with a 116-in. wheelbase. Al Turner said they were the first drag car with coil-over shocks. The bodies came from Plastigage of Jackson, Mich., and the hinged "flopper" idea is credited to Ron Logghe (per John Logghe). Al Bergler did the tin work.[^nhra] ◐ *These are attributions within one article.*
+- The cars had a [Logghe](../companies/logghe-stamping.md) chromoly chassis with a 116-in. wheelbase. Al Turner said they were the first drag car with coil-over shocks. The bodies came from Plastigage of Jackson, Mich., and the hinged "flopper" idea is credited to Ron Logghe (per John Logghe). Al Bergler did the tin work.[^nhra] ◐ *These are attributions within one article.*
 - At the 1966 World Finals in Tulsa he beat Nicholson (8.38/174.08) for **NHRA's first Funny Car eliminator win**.[^nhra]
 - 1967: Air Lift sponsorship, with "Famous Amos" Satterlee as crew chief. He claimed the first seven-second run in a stock-bodied car at **Detroit Dragway** in April, though he "doesn't put a lot of stock" in such firsts.[^nhra]
 - His claim to an accidental rear spoiler, from Maple Grove in 1967: angle iron bolted to the trunk. "It went straight and picked up 5 mph. We'd invented the [rear-deck] spoiler and didn't even know it."[^nhra] ◐ *Self-reported "first."*

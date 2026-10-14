@@ -26,7 +26,10 @@ Before and alongside the drag strips, the street was the showroom. This section 
 | Modesto (CA) | Anti-cruising ordinance (no passing the same spot more than once every 4 hours) plus anti-loitering | Mar 27, 1990 (⚠ "banned" in 1993 per marker) | Moved off McHenry; now sanctioned festivals |
 | Houston (TX) | Roadblocks; turns off side streets banned | About 1986 | "Vanished in about a month"; the scene moved elsewhere |
 | Albuquerque (NM) | 2005 ordinance; license-plate tracking at checkpoints | 2006–2018 | Repealed; club cruise program |
-| California statewide | A new state law means cities can't ban cruising | Jan 2024 | Old bans void (LAist) |
+| California statewide | **AB 436** (Alvarez et al.), Stats. 2023 ch. 803: amends Vehicle Code 21100 to remove local authority to regulate cruising; repeals 24008 (low-frame ban) | Chaptered Oct 13, 2023; effective **Jan 1, 2024** | Old local cruising ordinances unenforceable (LAist; LA City Attorney memo Oct 2024) |
+
+
+**AB 436 (resolved Round 9):** Assembly Bill 436 (authors Alvarez, Ramos, Luz Rivas; Chapter 803, Statutes of 2023) was approved by the Governor on Oct 13, 2023, and took effect Jan 1, 2024. It removed the Vehicle Code authorization for local cruising ordinances and repealed the statewide low-frame height prohibition in section 24008. Sponsors included lowrider organizations (Assembly analysis). Sources: [LegiScan AB436 text](https://legiscan.com/CA/text/AB436/2023), [bill status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB436), [LA City Attorney report](https://cityclerk.lacity.org/onlinedocs/2024/24-0037_rpt_atty_10-10-24.pdf) (accessed 2026-10-14).
 
 **Pattern:** California cities and counties mostly used **physical closures** (barricades and roadblocks) first and **pass-limit ordinances** later. These defined "cruising" as passing a checkpoint a set number of times within a set window: 2 times in 6 hours in LA County, 1997; once per 4 hours in Modesto, 1990; 3 times in 2 hours in Albuquerque, 2005. Woodward and Houston ended through enforcement and changing conditions. The sources rarely say whether the dated measures were formally repealed. Sources are on each page.
 

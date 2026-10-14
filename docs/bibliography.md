@@ -173,3 +173,22 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 - Hemmings Contributor, "Street Racing Woodward" (Sept 24, 2018). https://www.hemmings.com/stories/street-racing-woodward/ (accessed 2026-10-13)
 - Hot Rod, "Detroit's Woodward Avenue cruise history" (June 27, 2014). https://www.hotrod.com/news/detroits-woodward-avenue-cruise-history (accessed 2026-10-13)
 - Oakland Press, "Cruisers gather, reminisce about Woodward's past" (Aug 19, 2007). https://www.theoaklandpress.com/2007/08/19/cruisers-gather-reminisce-about-woodwards-past/ (accessed 2026-10-13)
+
+## Added in Round 9
+- [museum] Michigan Motor Sports Hall of Fame, "Logghe Brothers" (2010). https://www.mmshof.org/index.php/inductees/inductees/251-logghe-brothers
+- [museum] Don Garlits Museum, "Ron & Gene Logghe." https://garlits.com/hall-of-fame/ron-gene-logghe/
+- [mag] Hot Rod, "How the Logghe Family Changed the Face of the Funny Car Class in Drag Racing." https://www.hotrod.com/features/logghe-family-changed-face-funny-car-class-drag-racing
+- [museum] Michigan Motor Sports Hall of Fame, "Al Bergler" (2006). https://www.mmshof.org/index.php/inductees/inductees/27-al-bergler
+- [oral] Paul Stenquist, "The Ridler Award's First Winner...," Hagerty, Feb 21, 2024. https://www.hagerty.com/media/motorsports/al-bergler-first-ridler-award-winner-profile/
+- [mag] Mark Vaughn, "Fuel injection pioneer Stuart Hilborn: 1917-2013," Autoweek, Dec 15, 2013. https://www.autoweek.com/news/a1946706/fuel-injection-pioneer-stuart-hilborn-1917-2013/
+- [mag] Drew Hardin, "Stu Hilborn," SEMA News, May 2014. https://www.sema.org/news-media/magazine/2014/18/stu-hilborn
+- [patent] US3473523A; US3519407A (Hilborn / Fuel Injection Engineering Co.).
+- [mag] Daniel Strohl, "Fran Hernandez," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/fran-hernandez/
+- [mag] Hot Rod, "Where it All Began: Street/Lakes/Strip" (Hernandez). https://www.hotrod.com/news/hrdp-1303-where-it-all-began-street-lakes-strip
+- [oral] Mark Hicks, Detroit News obituary of Fran Hernandez, Jan 20, 2011 (via H.A.M.B.). https://www.jalopyjournal.com/forum/threads/hot-rod-legend-from-the-greatest-generation-fran-hernandez-rip.555417/
+- [mag] Anthony Vestal / NHRA, "NHRA 50 Greatest Drivers: Malcolm Durham," Auto Channel, 2001. https://www.theautochannel.com/news/2001/02/09/014436.html
+- [oral] Phil Burgess, "The Final Fred Files," NHRA.com, July 31, 2009 (Durham quote). https://www.nhra.com/news/2009/final-fred-files
+- [ref] houstonfreewaydragstrip.com (home + history). http://www.houstonfreewaydragstrip.com/
+- [mag] Phil Burgess, "Ghost tracks, the scary sequel," NHRA.com, 2008. https://www.nhra.com/news/2008/ghost-tracks-scary-sequel
+- [ref] CA AB 436 (2023–24), LegiScan / California Legislature. https://legiscan.com/CA/text/AB436/2023 ; https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB436
+- [ref] LA City Attorney report on AB 436 / LAMC 80.36.10 (Oct 10, 2024). https://cityclerk.lacity.org/onlinedocs/2024/24-0037_rpt_atty_10-10-24.pdf

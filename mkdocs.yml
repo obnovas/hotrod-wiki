@@ -66,12 +66,17 @@ nav:
       - Kong Jackson: people/kong-jackson.md
       - Arlen Vanke (Ohio): people/arlen-vanke.md
       - Eddie Schartman (Ohio): people/eddie-schartman.md
+      - Stu Hilborn: people/stu-hilborn.md
+      - Fran Hernandez: people/fran-hernandez.md
+      - Al Bergler (Michigan): people/al-bergler.md
+      - Malcolm Durham (Maryland/D.C.): people/malcolm-durham.md
   - Aftermarket Companies:
       - companies/index.md
       - Prewar Speed Shops (Bell, Lee's, Orr, White): companies/prewar-speed-shops.md
       - Edelbrock's Slingshot: companies/edelbrock-slingshot.md
       - Southern California Plating Co.: companies/southern-california-plating.md
       - Mr. Gasket (Ohio): companies/mr-gasket.md
+      - Logghe Stamping (Michigan): companies/logghe-stamping.md
   - Customs & Media:
       - customs/index.md
       - Trend Books, Model Kits & Roth: customs/trend-books-kits-roth.md
@@ -87,6 +92,7 @@ nav:
       - Detroit Dragway & Cordova: regions/detroit-cordova.md
       - Memphis & the Mid-South: regions/memphis.md
       - Texas: regions/texas.md
+      - Houston Freeway Dragstrip: regions/houston-freeway-dragstrip.md
       - Pacific Northwest: regions/pacific-northwest.md
       - Upper Midwest: regions/upper-midwest.md
   - Cruise Nights & Hangouts:
@@ -114,6 +120,7 @@ nav:
       - Founding Street Rodder: voices/street-rodder-founding.md
       - Von Dutch: voices/von-dutch.md
       - Show & Custom Voices: voices/show-custom-voices.md
+      - Injection, Factory Racing & Detroit Tin: voices/injection-and-tin.md
   - Reference:
       - reference/index.md
       - Timeline: reference/timeline.md

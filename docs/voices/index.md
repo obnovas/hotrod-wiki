@@ -29,6 +29,7 @@ This section collects **first-hand narratives**: interviews, oral histories, obi
 | [Ray Godman & Preston Davis](ray-godman.md) | Ray Godman, Preston Davis, a Memphis Rodders blogger | 2008–2014 | Halls, Lakeland, the Tennessee Bo-Weevil |
 | [Leonard Miller](leonard-miller.md) | Leonard Miller | 2018 | Bucks County strips to team owner and BARA co-founder |
 | [Show & Custom Voices](show-custom-voices.md) (Schartman) | Eddie Schartman | 2016 | The first Funny Cars |
+| [Injection, Factory Racing & Detroit Tin](injection-and-tin.md) | Hilborn, Randy Hernandez, Bergler, Durham, Garlits memoir | 2009–2024 | Lakes injection; L-M racing; Ridler tin; Strip Blazer |
 
 ### Customs, shows & art
 | Page | Who | Told | Story |

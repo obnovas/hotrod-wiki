@@ -26,10 +26,13 @@ Jim Oddy joined the club at 16 in 1957, per the International Drag Racing Hall o
 The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the NSRA's Louisville era: the first Louisville Nationals in 1988, a record 25 consecutive years through 2022, and the Kentucky Safety Team ranked #1 nationally in 1986.[^ky] The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body. ◐
 
 
+## Detroit chassis & tin (Round 9)
+- [Logghe Stamping](../companies/logghe-stamping.md) (Fraser): flip-top Funny Car chassis for Lincoln-Mercury, 1966.
+- [Al Bergler](../people/al-bergler.md): first Ridler Award (1964); Logghe tinwork; Motown Shaker.
+- [Malcolm Durham](../people/malcolm-durham.md): East Coast Strip Blazer; later Logghe Camaro.
+
 See also: [Detroit Dragway & Cordova](detroit-cordova.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md).
 
-
-## Images
 
 ## Images
 

@@ -8,14 +8,18 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1928–1945 | Ed Winfield files at least ten U.S. patents (carburetors, heads, blocks) | [Patents](patents.md), [Winfield](../people/ed-winfield.md) |
 | 1936 | Gold founds the Night Flyers and races a '32 at Muroc (his recollection ◐) | [Blackie Gold](../voices/blackie-gold.md) |
 | 1937–38 ⚠ | SCTA formed. Kong Jackson recalled it as 1938; the first meet date is disputed | [Dry Lakes & SCTA](../eras/1930s-dry-lakes-scta.md), [Kong Jackson](../people/kong-jackson.md) |
+| 1938 | Stu Hilborn first visits Muroc (his recollection) | [Stu Hilborn](../people/stu-hilborn.md) |
 | 1939 | Jack Engle runs 113 mph at El Mirage (family caption) | [Jack Engle](../people/jack-engle.md) |
 | 1941 | Muroc meet broken up by Army Jeeps, per Kong Jackson. Engle hand-grinds early cams | [Kong Jackson](../people/kong-jackson.md), [Jack Engle](../people/jack-engle.md) |
 | 1943–45 | Veda Orr's wartime newsletter keeps the lakes community in touch | [Veda Orr](../people/veda-orr.md) |
 | 1945 | Howards Power & Racing Equipment founded | [Howard Johansen](../people/howard-johansen.md) |
 | 1946/47 ⚠ | Almquist Engineering founded, Pennsylvania | [Ed Almquist](../people/ed-almquist.md) |
+| 1946/47 ⚠ | Logghe Stamping founded, Fraser, Mich. (Morris Logghe) | [Logghe](../companies/logghe-stamping.md) |
 | 1947 | Memphis Rodders formed | [Memphis](../regions/memphis.md) |
 | 1948–49 | Fort Worth Turtles (1948) and Dallas Chaparrals (1949) ◐ | [Texas](../regions/texas.md) |
+| 1948 | Howie Wilson drives Hilborn streamliner 150.5 mph at El Mirage (SEMA account) | [Stu Hilborn](../people/stu-hilborn.md) |
 | 1949 | SCTA's first Bonneville meet. Johansen's twin-tank streamliner runs 147.54 | [Howard Johansen](../people/howard-johansen.md) |
+| 1949 | Apr 10: Fran Hernandez beats Tom Cobbs at Goleta (nitro '32 coupe) | [Fran Hernandez](../people/fran-hernandez.md) |
 | 1950 | First National Roadster Show, Oakland (Jan 19–22); first AMBR to Bill Niekamp | [Show Circuit](../customs/show-circuit.md) |
 | 1950 | Santa Ana drag strip opens (C.J. & Peggy Hart) | [Santa Ana](../eras/1950s-santa-ana-drags.md), [Peggy Hart](../people/peggy-hart.md) |
 | 1951 | Hirohata Merc built (build time disputed). Beatty's belly tank on the salt | [Hirohata](../cars/hirohata-mercury.md), [Tom Beatty](../people/tom-beatty.md) |
@@ -34,6 +38,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1956 | Quad City (Cordova) strip opens ⚠. Isky's first patent filed | [Detroit & Cordova](../regions/detroit-cordova.md), [Patents](patents.md) |
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1957 | Motor City Dragway opens. Garlits' Cordova upset; Postoian wins the final | [Detroit & Cordova](../regions/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |
+| 1957 | Houston Freeway Dragstrip opens near Dickinson, Tex. (fall) | [Houston Freeway](../regions/houston-freeway-dragstrip.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../customs/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../cruising/harveys-broiler-downey.md) |
 | 1958 | Sept *Hot Rod* ad sets off the Gasser Wars, per Isky | [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) |
@@ -48,8 +53,10 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1962 | The year *American Graffiti* (1973) depicts Modesto cruising | [Modesto](../cruising/modesto.md) |
 | 1962 | Vanke's Super Duty Pontiac at Knafel Pontiac, Akron | [Arlen Vanke](../people/arlen-vanke.md) |
 | 1963 | ISCA founded. AMT Customizing Team | [Show Circuit](../customs/show-circuit.md), [Kits](../customs/trend-books-kits-roth.md) |
+| 1964 | Al Bergler's Aggravation II wins first Ridler Award, Detroit Autorama | [Al Bergler](../people/al-bergler.md) |
 | 1964–67 ⚠ | Mr. Gasket founded or incorporated | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
+| 1966 | Logghe builds first flip-top Comets for Lincoln-Mercury (Nicholson, Schartman, Chrisman) | [Logghe](../companies/logghe-stamping.md), [Fran Hernandez](../people/fran-hernandez.md) |
 | 1966 | Schartman wins NHRA's first Funny Car title (Tulsa) | [Eddie Schartman](../people/eddie-schartman.md) |
 | 1966 | Schartman's Comet funny car: "What the hell is this?" | [Show & Custom Voices](../voices/show-custom-voices.md) |
 | 1967 | Hill brothers' Red Baron Willys built in 11 days. "WE'RE SORRY" letter | [Red Baron](../cars/hill-bros-red-baron.md) |
@@ -67,10 +74,11 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1980–83 ⚠ | LAPD closes and barricades Van Nuys Blvd | [Van Nuys](../cruising/van-nuys.md) |
 | 1981 | First Lead Sled Spectacular (300+ / 400 ⚠) | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | 1986 | Houston roadblocks end Westheimer cruising (about 1986) | [Westheimer](../cruising/westheimer-houston.md) |
+| 1987 ⚠ | Houston Freeway / International Dragway closes (forum working date) | [Houston Freeway](../regions/houston-freeway-dragstrip.md) |
 | 1987 | Lee McCullough starts Cruise Night at Johnie's Broiler, Downey | [Harvey's Broiler](../cruising/harveys-broiler-downey.md) |
 | 1988 | Howard Johansen dies (age 78) | [Howard Johansen](../people/howard-johansen.md) |
 | 1988 | Street Rod Nationals first held in Louisville | [NSRA](../street-rodding/nsra-early-nationals.md) |
 | 1990 | Modesto passes anti-cruising ordinances (Mar 27) | [Modesto](../cruising/modesto.md) |
 | 1997 | LA County anti-cruising ordinance (2 passes in 6 hours) | [Whittier Blvd](../cruising/whittier-blvd.md) |
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../cruising/central-avenue-albuquerque.md) |
-| 2024 | New California law ends city cruising bans (Jan) | [Cruise Nights](../cruising/index.md) |
+| 2023–24 | CA AB 436 (Alvarez) chaptered Oct 13, 2023; effective Jan 1, 2024—removes local authority to ban cruising; repeals VC 24008 | [Cruise Nights](../cruising/index.md) |

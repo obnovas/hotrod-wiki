@@ -6,6 +6,7 @@ Hot rodding wasn't only a SoCal export. Other regions built their own scenes on 
 - [Detroit Dragway & Cordova](detroit-cordova.md)
 - [Memphis & the Mid-South](memphis.md): Memphis Rodders (1947), Halls airbase drags, Lakeland Dragway, the 1971 Nationals.
 - [Texas](texas.md): Caddo Mills (1951), the Chaparrals, the Fort Worth Turtles.
+- [Houston Freeway Dragstrip](houston-freeway-dragstrip.md): purpose-built strip on I-45 near Dickinson (1957–⚠1987).
 - [Pacific Northwest](pacific-northwest.md): MHRC, Portland Roadster Show, Woodburn, Wescott's.
 - [Upper Midwest](upper-midwest.md): MSRA and Back to the 50's.
 

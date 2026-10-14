@@ -1,7 +1,7 @@
 # Charles "Kong" Jackson: Sidewinders President and Ignition Maker
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** oral (Medley 1988 via Fuel Curve), contemporaneous list post · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Death year conflict (2000 vs 2002) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** oral (Medley 1988 via Fuel Curve), contemporaneous list post · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Death year conflict (2000 vs 2002) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We were working on our cars when here came a Jeep and out jumped these guys with bayonets. Man, we just split!"
@@ -22,7 +22,7 @@ Alex Xydias, quoted by Fuel Curve: "Kong was a really, really smart guy, who was
 - A land-speed mailing-list post of **Sept 10, 2000**, by Katie Young Cortez, says he "passed away Monday (9/4)." She describes the funeral her father attended and says he left 8 children, 14 grandchildren and 2 great-grandchildren. It adds that he "began racing in 1938, I believe" and served in WWII and Korea.[^ls]
 - Fuel Curve (2023) says he was at El Mirage "until his death in **2002**."[^fc]
 
-The contemporaneous post (Sept 4, 2000) is the stronger evidence, and we treat 2000 as the working date. An obituary is still needed.
+The contemporaneous post (death Sept 4, 2000) is the stronger evidence, and we treat **2000** as the working date. A follow-up on the same list (Sept 2000) repeats the loss; Fuel Curve's "2002" remains unexplained. **Round 9:** still no LA Times/Daily News obituary found; list posts stand.
 
 **Next breadcrumbs:** his 1988 interview with Tom Medley; the "stolen traffic-signal starting lights" story ([Julian Doty](julian-doty.md)); Sidewinders banquet records.
 

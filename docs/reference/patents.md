@@ -31,9 +31,12 @@ These patents were found in Google Patents by searching inventor and assignee na
 | Barney Navarro | [US4339922](https://patents.google.com/patent/US4339922A/en) | Dual turbine turbo-supercharger | 1979-07-09 | 1982-07-20 | Name match (Bernard J. Navarro) |
 | Barney Navarro | [US4588336](https://patents.google.com/patent/US4588336A/en) / [US4722238](https://patents.google.com/patent/US4722238A/en) | Rack and pinion gear | 1983 / 1985 | see link | Name match |
 | Chet Herbert (?) | [US4071000](https://patents.google.com/patent/US4071000A/en) | Double crankshaft valved two cycle engine (Chester L. Herbert) | 1975-06-23 | 1978-01-31 | ◐ **Unconfirmed**: we have not verified that Chet Herbert's legal name was Chester L. |
+| Stuart Hilborn | [US3473523](https://patents.google.com/patent/US3473523A/en) | Fuel Injection System (Fuel Injection Engineering Co.) | see link | 1969-01-14 | **Confirmed**: Stuart G. Hilborn; assignee Fuel Injection Engineering Co. |
+| Stuart Hilborn | [US3519407](https://patents.google.com/patent/US3519407A/en) | Fuel Injection Nozzle | see link | 1970-07-07 | **Confirmed**: same inventor/assignee |
 | George DuVall (?) | [US2453746](https://patents.google.com/patent/US2453746A/en) | Wheel and tire locking device (George H. DuVall Jr.) | 1945-03-30 | 1948-11-16 | ◐ **Unconfirmed**: the name and "Jr." match the DuVall on Coachbuilt, but the residence is unchecked |
 
 ## Findings worth chasing
+- **Hilborn injectors:** US 3,473,523 and 3,519,407 name Stuart G. Hilborn and Fuel Injection Engineering Co. ([Stu Hilborn](../people/stu-hilborn.md)).
 - **Almquist's own gear-shift patent.** US 3,082,639 was filed by Almquist Engineering Co. in Sept 1962, a month before Hurst & Campbell filed US 3,172,301. It bears on the claim that Almquist co-designed the Hurst shifter ([Ed Almquist](../people/ed-almquist.md)). The citation tables on Google's pages for the Hurst patents list Almquist Engineering Co. patents. We have not checked whether those are prior-art citations or later citing patents. Read the citations sections before drawing any conclusion.
 - **Winfield's ten patents (1928–1945)** run from carburetors to heads and blocks. They are an unmined primary source for his engineering career ([Ed Winfield](../people/ed-winfield.md)).
 - The obituary credits **Almquist with 7 patents**. We list four here.
@@ -77,3 +80,12 @@ All drawings are U.S. patent drawings without copyright notices, from Google Pat
 <figcaption markdown>US3559397, "Turbo supercharger control mechanism", sheet 1. Inventor: Barney Navarro. Filed 1969-03-21. Source: [Google Patents](https://patents.google.com/patent/US3559397A/en). License: public domain (U.S. patent drawing).</figcaption>
 </figure>
 
+<figure markdown>
+![Fuel injection system drawing, US3473523](../assets/images/patent-US3473523-hilborn-fuel-injection.png){ width="320" loading=lazy }
+<figcaption markdown>US3473523, "Fuel Injection System", sheet 1. Inventor: Stuart G. Hilborn. Source: [Google Patents](https://patents.google.com/patent/US3473523A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
+
+<figure markdown>
+![Fuel injection nozzle drawing, US3519407](../assets/images/patent-US3519407-hilborn-nozzle.png){ width="320" loading=lazy }
+<figcaption markdown>US3519407, "Fuel Injection Nozzle", sheet 1. Inventor: Stuart G. Hilborn. Source: [Google Patents](https://patents.google.com/patent/US3519407A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>

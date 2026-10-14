@@ -14,6 +14,9 @@
 - **Fort Worth Turtles** (1948). ◐
 - The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
 
+## Houston Freeway Dragstrip (1957)
+Purpose-built quarter-mile on I-45 near Dickinson—see the dedicated page: [Houston Freeway Dragstrip](houston-freeway-dragstrip.md). Complements Caddo's airfield model with a Gulf Freeway-side commercial strip (NHRA Division 4).
+
 ## How Texas differed
 Racing was concentrated on **ex-military airfields away from the city**, run by clubs. The same thing happened at Halls (TN) and on SoCal's own airstrips. The difference is distance: Texans drove 40+ miles to race, and SoCal's dry lakes had no counterpart.
 
