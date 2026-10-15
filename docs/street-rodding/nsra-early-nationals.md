@@ -13,7 +13,7 @@
 - Tom Medley recalled that he, Tex Smith, Bud Bryan and Jim "Jake" Jacobs planned the 1970 event, and that the Petersen "7th floor" management said no. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association (MSRA) helped.[^rc] It was held in a hayfield. For more, see [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md).
 - **⚠ Size:** Hagerty says about 600 cars;[^hag] other accounts give much smaller numbers for the cross-country rally. Our 1970 page goes through these.
 - 1970 AMBR winner **Andy Brizio** drove his '23 T to Peoria (R&C sidebar).[^rc]
-- The **NSRA** was formed in the event's wake. Dick Wells was its first president; SEMA later hired him (Hagerty).[^hag] ◐
+- The **NSRA** was formed in the event's wake. Dick Wells was its first president; SEMA later hired him (Hagerty).[^hag] ◐ ⚠ **Conflict (Round 10):** the 99W *Street Rod* history says Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President." Tex Smith's 1978 list of NSRA founders includes Miller. See [*Street Rod* magazine](street-rod-magazine-portland.md#bruce-miller-and-the-nsra). Unresolved.
 
 ## Moving Nationals
 - 1971: **Memphis** (the 2nd Nationals); Memphis hosted again in 1975 and 1980 (carnut.com photo index).[^cn] Secondary accounts put 1971 at about 1,200–1,300 rods (TBucketPlans; Hot Rod, Oct 1972 "Street!" is cited in search summaries).[^tb71] ◐

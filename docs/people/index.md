@@ -22,4 +22,8 @@
 - [Al Bergler](al-bergler.md): Detroit tin man; first Ridler Award; Motown Shaker.
 - [Malcolm Durham](malcolm-durham.md): Strip Blazer; East Coast match racing.
 
-*Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Jeg Coughlin Sr., Bruce Miller (*Street Rod* magazine).
+- [Gene Snow](gene-snow.md): Fort Worth used-car dealer; *Rambunctious*, the first 200-mph Funny Car (⚠ date).
+- [Bob Bartel](bob-bartel.md): the ATAA, the World Series of Drag Racing and Quad City Drag Strip, Cordova.
+- Bruce Miller: see [*Street Rod* magazine](../street-rodding/street-rod-magazine-portland.md).
+
+*Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Jeg Coughlin Sr., Ron Hassel, "Ohio George" Montgomery, Carl & Marie Gay.

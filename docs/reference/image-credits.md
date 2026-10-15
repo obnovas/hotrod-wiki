@@ -115,6 +115,11 @@ Text and drawings in U.S. patents are generally free to reproduce. The USPTO's r
 - AMT kit ads marked PD (1959/1962/1967): we can't verify that the copyright wasn't renewed. Not used.
 - "'ala kart' kit 1.jpg": a photo of copyrighted box art. Linked out instead.
 
+
+## Added in Round 9
+
+| File | Shows | Creator | Date | Source | License |
+|---|---|---|---|---|---|
 | `commons-mercury-comet-1966-indy.jpg` | 1966 Mercury Comet Indy 500 pace car (stock; context for Logghe/L-M Comets) | MGSpiller | (see Commons) | [Commons](https://commons.wikimedia.org/wiki/File:Mercury_Comet_1966_Indy_500_pace_car.jpg) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
 | `commons-mercury-comet-1962-custom.jpg` | 1962 Mercury Comet custom at MSRA Back to the Fifties 2012 | Greg Gjerdingen | 2012-06 (Flickr) | [Commons](https://commons.wikimedia.org/wiki/File:1962_Mercury_Comet_Custom_(7445284414).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | `commons-mercury-comet-cyclone-1967.jpg` | 1967 Mercury Comet Cyclone GT | Michel Curi | (see Commons) | [Commons](https://commons.wikimedia.org/wiki/File:1967_Mercury_Comet_Cyclone_GT.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
@@ -122,3 +127,16 @@ Text and drawings in U.S. patents are generally free to reproduce. The USPTO's r
 | `commons-watson-offenhauser.jpg` | Watson-Offenhauser Indy car | Supermac1961 | (Flickr) | [Commons](https://commons.wikimedia.org/wiki/File:Watson-Offenhauser_-_Flickr_-_Supermac1961.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | `patent-US3473523-hilborn-fuel-injection.png` | US3473523 fuel injection system sheet 1 | Stuart G. Hilborn (inventor); USPTO | issued 1969-01-14 | [Google Patents](https://patents.google.com/patent/US3473523A/en) | Public domain |
 | `patent-US3519407-hilborn-nozzle.png` | US3519407 fuel injection nozzle sheet 1 | Stuart G. Hilborn (inventor); USPTO | issued 1970-07-07 | [Google Patents](https://patents.google.com/patent/US3519407A/en) | Public domain |
+
+## Added in Round 10
+
+| File | Shows | Creator | Date | Source | License |
+|---|---|---|---|---|---|
+| `commons-rambunctious-austin-1967-a.jpg` | Gene Snow's altered-wheelbase Dodge *Rambunctious* in the pits (uploader: Austin, Tex., 1967 ◐) | JOHN LLOYD (Flickr hugo90) | 1967 per description; uploaded 2009-09-23 | [Commons](https://commons.wikimedia.org/wiki/File:Rambunctious_(dragster)_photo_1.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `commons-rambunctious-austin-1967-b.jpg` | Same car, front end tilted up | JOHN LLOYD (Flickr hugo90) | 1967 per description; uploaded 2009-09-23 | [Commons](https://commons.wikimedia.org/wiki/File:Rambunctious_(dragster)_photo_3.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `commons-gene-snow-rambunctious-dragster.jpg` | *Rambunctious* Dodge under way, "Engine by T.E.D. Detar" (undated print) | twm1340 (Flickr) | undated; uploaded 2007-09-20 | [Commons](https://commons.wikimedia.org/wiki/File:GeneSnowDragsterRambunctious.jpg) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| `commons-george-field-postcard.jpg` | Linen postcard of the AAF pilot school at George Field, Ill. (Lawrenceville), the site of the first World Series; WWII view, not the drags | Tichnor Brothers, Publisher (Boston Public Library, Tichnor #74965) | c. 1930–1945 | [Commons](https://commons.wikimedia.org/wiki/File:The_flag_of_the_United_States_and_colors_of_the_AAF_Training_Command_Pilot_School,_George_Field,_Ill,_flying_overhead,_the_AT-10s_flown_by_cadets_taking_advanced_training_(74965).jpg) | Public domain |
+| `commons-tri-cities-postcard-1945.jpg` | "Greetings from the Tri-Cities" large-letter postcard (Davenport, Rock Island, Moline) | Steve Shook (scan); Peterson Paper Co. / Dexter Press | c. 1945; scan 2013-11-06 | [Commons](https://commons.wikimedia.org/wiki/File:Greetings_from_the_Tri-Cities,_Davenport,_Iowa_-_Rock_Island_and_Moline,_Illinois_-_Large_Letter_Postcard_(10716517204).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `commons-sellwood-portland-2015.jpg` | Sellwood street corner, Portland, Ore. (neighborhood of *Street Rod*'s 1972–73 offices; context only) | Another Believer | 2015-01-02 | [Commons](https://commons.wikimedia.org/wiki/File:Sellwood,_Portland,_Oregon_(2015)_-_03.JPG) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
+
+Round 10 reuses `commons-1940-willys-gasser.jpg` and `commons-1941-willys-gasser.jpg` (on [The Ohio Gassers](../regions/ohio-gassers.md)) and `commons-akron-fulton-airport.jpg` (on [Akron Fulton](../regions/akron-fulton-airport.md)). **Skipped:** no openly licensed photo of the 2016 Akron marker, the Arfons cars, Bob Bartel or Cordova was found on Commons.

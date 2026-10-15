@@ -192,3 +192,32 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 - [mag] Phil Burgess, "Ghost tracks, the scary sequel," NHRA.com, 2008. https://www.nhra.com/news/2008/ghost-tracks-scary-sequel
 - [ref] CA AB 436 (2023–24), LegiScan / California Legislature. https://legiscan.com/CA/text/AB436/2023 ; https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB436
 - [ref] LA City Attorney report on AB 436 / LAMC 80.36.10 (Oct 10, 2024). https://cityclerk.lacity.org/onlinedocs/2024/24-0037_rpt_atty_10-10-24.pdf
+
+## Added in Round 10 (Ohio and Midwest strips, Snow/Bartel/Gay, *Street Rod*; accessed 2026-10-15)
+- [museum] John Jodauga, "No. 26: Gene Snow," NHRA 50th Anniversary Top 50 Drivers (2001). http://www.nhra.net/50th/top50/G_Snow26.html
+- [mag] Phil Burgess, "1970: A 'Super' season for Funny Car," NHRA.com, Mar 4, 2016. https://www.nhra.com/news/2016/1970-super-season-funny-car
+- [mag] "Rambunctious," *Hot Rod*, June 1969 (Don Green photos; web reprint 2023). https://www.hotrod.com/features/rambunctious-june-1969-982-684-84-1
+- [mag] UPI, Baytown, Tex., Oct 6, 1988 (Snow 4.997). https://www.upi.com/Archives/1988/10/06/Top-Fuel-driver-Gene-Snow-of-Ft-Worth-Texas/4826592113600/
+- [ref] Wikipedia, "Gene Snow" and "Rambunctious (Funny Car)" (secondary, cross-check only). https://en.wikipedia.org/wiki/Gene_Snow · https://en.wikipedia.org/wiki/Rambunctious_(Funny_Car)
+- [club] Wendt Funeral Home, "Robert J. Bartel" obituary (2018). https://www.wendtfuneralhome.com/obituaries/robert-j-bartel
+- [mag] Bobby Bennett, "Quad Cities Drag Racing Legend Bob Bartel Passes," Competition Plus, Feb 20, 2018 (text also on BangShift, credited to Bret Kepner). https://competitionplus.com/quad-cities-drag-racing-legend-bob-bartel-passes/ · https://bangshift.com/bangshift1320/drag-racing-legend-bob-bartel-passes/
+- [mag] Roger Ruthhart, "Drag race begins over use of World Series name," Dispatch-Argus / QConline, 2017. **Rate-limited (HTTP 429) on 2026-10-15; search excerpt only.** https://qconline.com/news/local/drag-race-begins-over-use-of-world-series-name/article_0cceb035-79af-5d61-b6a1-6cb86e429a6c.html
+- [mag] thecity1.com, "World Series of Drag Racing Leaving Cordova" (2016; excerpt). https://thecity1.com/world-series-of-drag-racing-leaving-cordova/
+- [oral] Jim Hill, "Gassers Midwest: Fast and Fabulous," East Coast Drag Times Hall of Fame, Aug 4, 2016. https://eastcoastdragtimeshalloffame.com/gassers-midwest-fast-and-fabulous/
+- [oral] Jim Hill, "Mr. Gasket: From The Trunk Of A '57 Chevy To Wall Street," ECDT HOF, Apr 1, 2016. https://eastcoastdragtimeshalloffame.com/mr-gasket-from-the-trunk-of-a-57-chevy-to-wall-street/
+- [mag] Jim Hill, "Sportsman Racers Winning Class at Indy Was Their High Mark," *Hot Rod*, Nov 23, 2015. https://www.hotrod.com/news/sportsman-racers-winning-class-at-indy-was-their-high-mark
+- [oral] JR Thompson, "Gasser Reunion 2002 ~ Chuck Finders" (with "Farewell, Chuck Finders" by Chuck Finders Jr.). http://www.jrthompson.net/gasserreunionchuckfinders.html · see also http://www.jrthompson.net/chuckfinders.html
+- [club] Remarkable Ohio, marker 47-77 "Akron Fulton Airport Champions Raceway." https://remarkableohio.org/marker/47-77-akron-fulton-airport-champions-raceway/
+- [club] HMdb, marker 142783. https://www.hmdb.org/m.asp?m=142783
+- [mag] OnAllCylinders, "Ohio to Honor Drag Legends Arfons, Smith & Vanke...," June 15, 2016. https://www.onallcylinders.com/2016/06/15/ohio-to-honor-drag-legends-arfons-smith-vanke-with-special-historical-marker/
+- [mag] Phil Burgess, "Talking 'Otie,' terminology, skyjackings, and more," NHRA.com, May 30, 2014. https://www.nhra.com/news/2014/talking-otie-terminology-skyjackings-and-more
+- [mag] Akron *Beacon Journal*, "NHRA superstar Otis 'Otie' Smith dies at 94," May 25, 2014. **Paywalled (402); not read.** https://www.beaconjournal.com/story/sports/2014/05/25/nhra-superstar-otis-otie-smith/10513586007/
+- [ref] 99W Speed Shop, "Street Rod – Magazine Covers 1971 to 1973." http://99wspeedshop.com/streetrod.html
+- [mag] "Tex Smith: The Rodfather," *Hot Rod*, July 1978. https://www.hotrod.com/features/tex-smith-the-rodfather-july-1978-982-1376-52-1
+- [oral] Greg Wapling, "The Street Rod Nats Past and Present." https://hotrod.gregwapling.com/hot-rod-history/the-street-rod-nats-past-and-present.html
+- [museum] Don Garlits Museum, IDRHOF, "Peggy Hart" (Class of 1998). https://garlits.com/hall-of-fame/peggy-hart/
+- [oral] Dave Wallace, "The Hart of Drag Racing," *Hot Rod*, January 1980. https://www.hotrod.com/features/the-hart-of-drag-racing-january-1980-982-1130-22-1
+- [ref] Richard Parks, review of Long & Tuttle, *Every Sunday Drag Races: Orange County Airport, Santa Ana*, HotRod Hotline, Jan 13, 2012. https://hotrodhotline.com/every-sunday-drag-races-orange-county-airport-santa-ana-by-leslie-long-and-don-tuttle/
+- [mag] Phil Burgess, "Drag racing's teen terrors," NHRA.com, Aug 14, 2015. https://www.nhra.com/news/2015/drag-racing-s-teen-terrors
+- **Books and pamphlets cited by sources (not yet consulted):** Leslie Long & Don Tuttle, *Every Sunday Drag Races: Orange County Airport, Santa Ana* (xeroxed pamphlet of clippings, 1950–56).
+- **Blocked this round:** California Digital Newspaper Collection (Cloudflare), the WFAA 2007 archive (empty/429), and chuckfinders.com (404; Wayback copy empty).

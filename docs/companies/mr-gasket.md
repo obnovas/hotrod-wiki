@@ -31,6 +31,9 @@ Joe left the company in 1976 under a non-compete and collected Tri-Five Chevys u
 NHRA reports that Joe Hrudka was born Nov 29, 1938, in Cleveland and died **May 24, 2026**, at 87. It describes the brothers' results as "Class wins at the 1961 and 1962 NHRA U.S. Nationals." That is narrower than SEMA's "back-to-back NHRA champions."[^nhra26] The same story captions Dave Meal's '40 Willys C/Gasser with an early Mr. Gasket logo. In spring 1967 the Hrudkas bought the unfinished '33 Willys that became the Hill brothers' [Red Baron](../cars/hill-bros-red-baron.md) and sold it on to them, per Dave Hales.
 
 
+
+**See also (Round 10):** [The Ohio Gassers](../regions/ohio-gassers.md) (Hassel, Meal, Schwartz, Finders; ⚠ who built the 1968 Mr. Gasket Camaro), [Akron Fulton Airport strip](../regions/akron-fulton-airport.md).
+
 ## Images
 
 <figure markdown>

@@ -27,6 +27,8 @@ Hart was emphatic: "I didn't invent drag racing... When I was growing up in Ohio
 
 The strip ran until **June 21, 1959**, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of **Lions Drag Strip**, staying until 1971, and there he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe] **Death date (resolved, Round 3): June 25, 2004.** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers. **⚠ Lions tenure** is still in conflict: 1965–71 per MSHF and SEMA, 1963–1970 per the OC Register.[^nhra04] See also [Peggy Hart](../people/peggy-hart.md). Chet Herbert's stripped Harley "The Beast" ran 121 and then 129 mph at Santa Ana in 1950, beating every bike and car there.[^herbert]
 
+⚠ **Round 10 notes:** (1) June 19, 1950, was a Monday. The Long & Tuttle clippings pamphlet dates the "first race" to Sunday, **July 2, 1950**. See [Peggy Hart](../people/peggy-hart.md#founder-of-the-strip-not-just-the-wife-of-one). (2) The same January 1980 *Hot Rod* profile that dates Hart's Lions start to "'65" also refers to "his very first act in '63." The 1965 date fits its own statement that he succeeded Mickey Thompson, who left in 1963.[^hr80]
+
 
 ## Images
 
@@ -52,3 +54,4 @@ The strip ran until **June 21, 1959**, when the county evicted Hart to expand th
 [^lat]: Shav Glick, LA Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html
 [^nyt]: New York Times obituary, July 4, 2004, reproduced at wediditforlove.com. http://wediditforlove.com/cj-2.html
 [^nhra04]: Phil Burgess, NHRA.com, 2004, and the OC Register / AP obituaries, reproduced at wediditforlove.com. http://wediditforlove.com/cj-2.html
+[^hr80]: Dave Wallace, "The Hart of Drag Racing," *Hot Rod*, January 1980 (web reprint 2023). Accessed 2026-10-15. https://www.hotrod.com/features/the-hart-of-drag-racing-january-1980-982-1130-22-1

@@ -22,6 +22,9 @@ In fall 1961 he went into Bill Knafel Pontiac in Akron, asked about a Super Duty
 He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Beyond California](../regions/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
 
 
+
+**See also (Round 10):** [Akron Fulton Airport strip](../regions/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../regions/ohio-gassers.md).
+
 ## Images
 
 <figure markdown>

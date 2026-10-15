@@ -20,6 +20,9 @@ Purpose-built quarter-mile on I-45 near Dickinson—see the dedicated page: [Hou
 ## How Texas differed
 Racing was concentrated on **ex-military airfields away from the city**, run by clubs. The same thing happened at Halls (TN) and on SoCal's own airstrips. The difference is distance: Texans drove 40+ miles to race, and SoCal's dry lakes had no counterpart.
 
+
+**See also (Round 10):** [Gene Snow](../people/gene-snow.md) (Fort Worth; *Rambunctious*), [Houston Freeway](houston-freeway-dragstrip.md) (the Gay family's track at Dickinson).
+
 ## Images
 
 <figure markdown>

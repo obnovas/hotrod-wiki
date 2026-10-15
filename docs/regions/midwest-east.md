@@ -31,7 +31,7 @@ The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the N
 - [Al Bergler](../people/al-bergler.md): first Ridler Award (1964); Logghe tinwork; Motown Shaker.
 - [Malcolm Durham](../people/malcolm-durham.md): East Coast Strip Blazer; later Logghe Camaro.
 
-See also: [Detroit Dragway & Cordova](detroit-cordova.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md).
+See also: [Detroit Dragway & Cordova](detroit-cordova.md), [Bob Bartel](../people/bob-bartel.md), [The Ohio Gassers](ohio-gassers.md), [Akron Fulton Airport](akron-fulton-airport.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md).
 
 
 ## Images

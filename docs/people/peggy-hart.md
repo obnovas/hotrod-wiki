@@ -1,7 +1,7 @@
 # Peggy Hart (1914–1980): Santa Ana's Racer-Promoter
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** obituaries, secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** obituaries, hall-of-fame biography, period magazine interview with C.J. Hart (*Hot Rod*, Jan 1980), book review of a clippings pamphlet · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** none of Peggy's own 1950s words found yet (the California Digital Newspaper Collection was blocked to our fetcher); her cars and the timeline of her classes come from one hall-of-fame bio; ⚠ opening date (June 19 vs July 2, 1950) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "At that time, it was mainly roadsters and coupes. Peggy was going as fast as any of them, and beating a lot of guys. She was a trendsetter, a pioneer."
@@ -16,8 +16,30 @@
 - A 2024 LinkedIn post calls her "the first woman dragster driver" (photo dated 1951). ◐ *Unsourced claim; not adopted.*[^li]
 - C.J. briefly retired after her death in 1980 and later joined the NHRA Safety Safari. Shortly before he died he said, "I've waited 24 years. I'm going to see Peggy."[^ocr][^pe04]
 
-**Open:** her Willys's class and times, and any dry-lakes timing tags. Her hall of fame bio text has not yet been read.
+## Her cars, in order (Round 10)
+The International Drag Racing Hall of Fame biography (Class of 1998) gives the fullest list we have found:[^idrbio]
 
+1. "the family **stocker**" in competition
+2. a "**Cadillac powered Model T roadster**"
+3. a "**Willys gas coupe**" (other sources call it a 1933 Willys)[^nhra][^pe]
+4. "finally, turned **more than 130 mph** in 'Pappy's' **Cad-powered gas dragster in 1954**"
+
+It adds: "She even drove at **El Mirage** dry lake and the **Bonneville Salt Flats**." Its own claim is cautious: Peggy "was **one of the first** women to drive a 'hot' car in competition on an organized drag strip."[^idrbio] ◐ *One source for the order of cars.*
+
+**C.J.'s version, 1980.** *Hot Rod*'s Dave Wallace interviewed C.J. at the Harts' Lake Elsinore home for the January 1980 issue. Peggy died in 1980. He calls her C.J.'s "partner of 45 years," which fits their 1934 marriage, and writes: "she ran a **blown Cadillac dragster** back in 1954 that went 130 mph, says Hart with obvious pride, and she just missed a **two-way class record at Bonneville** one year 'when we lost Number Seven on the way back.'"[^hr80] This is the only first-hand source for the Bonneville attempt. "Number Seven" is most likely a cylinder (the car lost a cylinder on the return run). That reading is ours, not Hart's. ◐ *No year or class given; no SCTA record entry seen.*
+
+**"Supercharged" or not?** C.J. says "blown"; the hall of fame says "Cad-powered gas dragster." The two don't strictly conflict, but only C.J.'s account says it had a supercharger.
+
+## Founder of the strip, not just the wife of one
+- In the Long & Tuttle clipping pamphlet ***Every Sunday Drag Races: Orange County Airport, Santa Ana***, "three men and one woman are given credit for opening this dragstrip": C.J. Hart, Frank Stillwell, Creighton Hunter and **Peggy Hart**. That is Richard Parks's summary in his 2012 review. Parks adds that "Peggy would take on all comers on the dragstrip and usually beat them handily."[^parksrev]
+- The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect." **We have not seen a copy.**
+- ⚠ **Opening date:** C.J. told *Hot Rod* he opened "on **June 19, 1950**," and our [Santa Ana](../eras/1950s-santa-ana-drags.md) page follows that date.[^hr80] Yet the pamphlet's "first race" is July 2, 1950. June 19, 1950, was a **Monday**; July 2 was a Sunday. This may mean the strip opened (with its lease or a first practice) on June 19 and held its first Sunday race on July 2. Until a dated 1950 clipping is found, that is only a suggestion. **Unresolved.**
+
+## Still missing
+None of **Peggy's own words** from the 1950s have turned up. Every quotation of her racing is secondhand (Gibbs, Parks, C.J.). Round 10 tried the California Digital Newspaper Collection for Santa Ana–area coverage from 1950 to 1959, but the site blocked our fetcher. The Long & Tuttle pamphlet is the best lead. Her Willys's class and times and any dry-lakes timing tags are also still open.
+
+
+**See also:** [Santa Ana Drags](../eras/1950s-santa-ana-drags.md), [Voices: the Harts at Santa Ana](../voices/harts-santa-ana.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Veda Orr](veda-orr.md), [Doris Herbert](doris-herbert.md).
 
 ## Images
 
@@ -39,4 +61,7 @@
 [^mshf]: MSHF, "C. J. Hart." https://www.mshf.com/hall-of-fame/inductees/c-j-hart.html
 [^lat]: Shav Glick, "C.J. 'Pappy' Hart, 93," Los Angeles Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html
 [^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame, Class of 1998 list. https://garlits.com/hall-of-fame-inductees-2011/
+[^idrbio]: Don Garlits Museum of Drag Racing, International Drag Racing Hall of Fame, "Peggy Hart" (Class of 1998). Accessed 2026-10-15. https://garlits.com/hall-of-fame/peggy-hart/
+[^hr80]: Dave Wallace, "The Hart of Drag Racing," *Hot Rod*, January 1980 (web reprint Jan 1, 2023). Accessed 2026-10-15. https://www.hotrod.com/features/the-hart-of-drag-racing-january-1980-982-1130-22-1
+[^parksrev]: Richard Parks, review of Leslie Long & Don Tuttle, *Every Sunday Drag Races: Orange County Airport, Santa Ana*, HotRod Hotline, Jan 13, 2012. Accessed 2026-10-15. https://hotrodhotline.com/every-sunday-drag-races-orange-county-airport-santa-ana-by-leslie-long-and-don-tuttle/
 [^li]: David Walker, LinkedIn post, Dec 2024. https://www.linkedin.com/posts/david-walker-9a830740_while-shirley-muldowney-was-called-the-first-activity-7275146996112400384-fauL

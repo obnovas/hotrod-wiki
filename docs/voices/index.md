@@ -30,6 +30,7 @@ This section collects **first-hand narratives**: interviews, oral histories, obi
 | [Leonard Miller](leonard-miller.md) | Leonard Miller | 2018 | Bucks County strips to team owner and BARA co-founder |
 | [Show & Custom Voices](show-custom-voices.md) (Schartman) | Eddie Schartman | 2016 | The first Funny Cars |
 | [Injection, Factory Racing & Detroit Tin](injection-and-tin.md) | Hilborn, Randy Hernandez, Bergler, Durham, Garlits memoir | 2009–2024 | Lakes injection; L-M racing; Ridler tin; Strip Blazer |
+| [Strip Owners & Door-Slammers](strip-owners-and-door-slammers.md) | Gene Snow, Don Gay, Bob Bartel, Otie Smith, Ron Hassel, C.J. Hart, Jim Clark | 1979–2018 | Dickinson's 200 mph; Cordova; Akron; Santa Ana purses; the *Street Rod* title |
 
 ### Customs, shows & art
 | Page | Who | Told | Story |

@@ -16,6 +16,9 @@ Woodburn opened in **June 1961** as an **eighth-mile** strip operated jointly by
 ## How the PNW differed
 Shows and strips were run by **civic-minded volunteer councils** with elected officials involved, rather than by promoters or magazines. Rain also meant more emphasis on indoor shows and coachwork.
 
+
+**See also (Round 10):** [*Street Rod* magazine (Portland, 1971–73)](../street-rodding/street-rod-magazine-portland.md), Bruce Miller and Bruce Craig's monthly, with technical editor Russ Meeks and photographer Dale Moreau.
+
 ## Images
 
 <figure markdown>

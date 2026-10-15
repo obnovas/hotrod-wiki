@@ -1,5 +1,23 @@
 # Research Trail: The Investigator's Log
 
+## Log, Round 10 (Ohio & Midwest strips; Snow/Bartel/Gay; *Street Rod*; Peggy Hart; 2026-10-15)
+- **New articles:** [Gene Snow](people/gene-snow.md); [Bob Bartel](people/bob-bartel.md); [The Ohio Gassers](regions/ohio-gassers.md); [Akron Fulton Airport & Otie Smith](regions/akron-fulton-airport.md); [*Street Rod* magazine (Portland)](street-rodding/street-rod-magazine-portland.md); Voices: [Strip Owners & Door-Slammers](voices/strip-owners-and-door-slammers.md).
+- **Expanded:** [Peggy Hart](people/peggy-hart.md) (her cars in order, the 1954 130-mph dragster, the Bonneville attempt, the Long & Tuttle pamphlet); [Houston Freeway](regions/houston-freeway-dragstrip.md) (the Gay family years); notes added to [Santa Ana](eras/1950s-santa-ana-drags.md), [Detroit & Cordova](regions/detroit-cordova.md), [NSRA](street-rodding/nsra-early-nationals.md) and [Founding Street Rodder](voices/street-rodder-founding.md).
+- **Corrections:** Houston Freeway was bought by **Carl & Marie Gay** (NHRA 2015), not Don Gay "in 1960" (Don was about 13 then). The Round 9 carry-over's "IDAA" is the **ATAA** (Automobile Timing Association of America). The Bruce Miller *Street Rod* thread is now documented (20 issues, Oct 1971–Jul 1973).
+- **New conflicts:** Snow's first 200 mph (Aug 17, 1968; "early 1969"; "autumn 1969"); first World Series (1954 vs 1956 vs 1953); Bartel's birthplace (Sterling, per the obituary, vs "Moline native"); NSRA first president (Bruce Miller vs Dick Wells); 99W's "first Nationals in Memphis 1970" (it was Peoria); Hassel's 1963 class (B/Gas vs C/Gas); who built the 1968 Mr. Gasket Camaro (Meal vs "Hrudka Bros."); Chuck Finders's death date (May 17 vs 27, 2009); Hill brothers (Bill vs Tom); Santa Ana opening (June 19, a Monday, vs first race Sunday July 2, 1950); Hart's Lions start ('63 vs '65, in the same 1980 article); the Akron marker's "1959 championship" vs Middle Eliminator.
+- **Images:** six new Commons files: three *Rambunctious* photos, the George Field and Tri-Cities postcards, and Sellwood. Reused: the Willys gassers and the Akron aerial.
+- **Blocked:** CDNC (Cloudflare), so no 1950s Peggy Hart papers; qconline (429), so the Bartel 2009 interview is from a search excerpt only; chuckfinders.com (404, empty Wayback copy); the WFAA 2007 archive (the Snow legal note in Wikipedia is unverified); the Akron *Beacon Journal* Otie Smith obituary (402); Google Patents (non-JSON), so no Crowerglide patent was found.
+
+## Next breadcrumbs (Round 10)
+- **Snow 200.88:** a period *Drag News* or *National Dragster* report or a timing slip that dates the Dickinson pass (1968 vs 1969).
+- **Bartel:** read the Aug 2009 *Dispatch-Argus* interview and a 1954–56 Lawrenceville World Series program or ad; any NHRA record of buying the ATAA in 1957; the National Association of Drag Strips.
+- **Gay family:** the deed or year of the Freeway purchase; a Houston Chronicle closing notice (1987?).
+- **Peggy Hart:** a copy of Long & Tuttle, *Every Sunday Drag Races*; *Santa Ana Register* 1950–56 via another archive (newspapers.com is paywalled, CDNC blocked); SCTA Bonneville records for a Hart entry.
+- **Ohio:** the *Gasser Gossip* "Original Darkhorse" articles (jrthompson PDFs); a Chuck Finders obituary to settle May 17 vs 27; the 1963 Nationals class-winner list (Hassel); Hill brothers' first names from a period source.
+- **NSRA:** a 1970–72 NSRA document naming the first president; the *Street Rod* tables of contents (99W) for a Miller editorial.
+- **Akron:** Randy Lipscomb's 2013 Otie Smith video; the strip's closing year.
+- Carry: Mercer Miller oral; Commercial Appeal; Woodward ordinances; Roberto Rodriguez Mar 23, 1979; Kong Jackson death; Detroit News Hernandez obituary on its own site; Hilborn *Hot Rod* Apr 1948.
+
 ## Log, Round 9 (Detroit chassis & tin; Hilborn/Hernandez; Houston strip; AB 436; 2026-10-14)
 - **New articles:** [Logghe Stamping](companies/logghe-stamping.md); [Stu Hilborn](people/stu-hilborn.md); [Fran Hernandez](people/fran-hernandez.md); [Al Bergler](people/al-bergler.md); [Malcolm Durham](people/malcolm-durham.md); [Houston Freeway Dragstrip](regions/houston-freeway-dragstrip.md); Voices [Injection, Factory Racing & Detroit Tin](voices/injection-and-tin.md).
 - **Resolved / strengthened:** California cruising-ban repeal identified as **AB 436** (Ch. 803, 2023; effective Jan 1, 2024). Fran Hernandez death **Jan 5, 2011** (Detroit News via H.A.M.B.) vs Hemmings "2005" (flagged erroneous). Kong Jackson death still **2000** on list evidence; no newspaper obit yet.
