@@ -1,7 +1,7 @@
 # Modesto: "Draggin' 10th" and McHenry Avenue (1950s–1993)
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** newspaper (LA Times Feb & Mar 1990), city ordinance record (Stanislaus County Library), historical marker (HMdb), museum page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ ban year (1990 ordinance vs 1993 "banned") · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium-High · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times Feb & Mar 1990), city ordinance record (Stanislaus County Library), historical marker (HMdb), museum page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ ban year (1990 ordinance vs 1993 "banned") · [How we rate this](../reference/source-standards.md)
 
 
 **Location:** In George Lucas's teens, a loop of 10th, G, 11th and O Streets, with Burge's Drive-In (the model for Mel's in *American Graffiti*) at the turnaround. From the late 1960s it moved to **McHenry Avenue**.[^gm][^lat90] · **Peak:** 1950s to 1980s. · **Later:** the "Graffiti Summer" events and the Kiwanis American Graffiti car show.
@@ -28,7 +28,7 @@
 - **⚠ 1993:** the HMdb marker text says that after Graffiti Night grew huge, "Cruising was banned in Modesto; an ordinance that remains in force today." That contradicts the documented 1990 ordinance. It may be a second measure or simply a mistake on the marker.[^hm]
 
 ## Ties
-When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). The film's influence on the 1970s [street-rod revival](../street-rodding/index.md) is often claimed, but we haven't sourced it yet. Pat Ganahl's comment ties the small-town main drag to the custom-car tradition.
+When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). The film's influence on the 1970s [street-rod revival](../street-rodding/index.md) is often claimed, but we haven't sourced it yet. Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../grassroots/modesto-century-toppers.md).
 
 ## Images
 

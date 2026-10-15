@@ -1,7 +1,7 @@
 # Houston Freeway Dragstrip (Dickinson): Purpose-Built on the Gulf Freeway
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** local history site (quotes Chronicle / Garlits), NHRA columns (2008 ghost tracks; 2015 Gay family profile; 2001 Top 50 Snow bio), forum recollections · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** exact closing date (1987 vs "unknown"); exact year the Gay family bought the strip (by 1961 at the latest); ⚠ buyer was Carl and Marie Gay, not Don, per NHRA (Round 10 correction) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local history site (quotes Chronicle / Garlits), NHRA columns (2008 ghost tracks; 2015 Gay family profile; 2001 Top 50 Snow bio), forum recollections · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** exact closing date (1987 vs "unknown"); exact year the Gay family bought the strip (by 1961 at the latest); ⚠ buyer was Carl and Marie Gay, not Don, per NHRA (Round 10 correction) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "A group of the West Coast fuel drag racers are doubting the times you've been setting there in the East, so everybody is figuring that it's time for a real showdown..."

@@ -17,8 +17,11 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1946/47 ⚠ | Almquist Engineering founded, Pennsylvania | [Ed Almquist](../people/ed-almquist.md) |
 | 1946/47 ⚠ | Logghe Stamping founded, Fraser, Mich. (Morris Logghe) | [Logghe](../companies/logghe-stamping.md) |
 | 1947 | Memphis Rodders formed | [Memphis](../regions/memphis.md) |
+| 1947 | Compton police blockade a street (July 8) and catch 20 boys racing ◐ | [Pomona's Choppers](../grassroots/pomona-choppers-fontana.md) |
+| 1947 ⚠ | Modesto's Century Toppers formed in "late '47" (Gene Winfield); Kustomrama says 1946 | [Century Toppers](../grassroots/modesto-century-toppers.md) |
 | 1948–49 | Fort Worth Turtles (1948) and Dallas Chaparrals (1949) ◐ | [Texas](../regions/texas.md) |
 | 1948 | Howie Wilson drives Hilborn streamliner 150.5 mph at El Mirage (SEMA account) | [Stu Hilborn](../people/stu-hilborn.md) |
+| 1948–53 | California Highway Patrol works with hot rod clubs until a 1953 order ends it | [City planners, 1955](../grassroots/planners-report-1955.md) |
 | 1949 | SCTA's first Bonneville meet. Johansen's twin-tank streamliner runs 147.54 | [Howard Johansen](../people/howard-johansen.md) |
 | 1949 | Apr 10: Fran Hernandez beats Tom Cobbs at Goleta (nitro '32 coupe) | [Fran Hernandez](../people/fran-hernandez.md) |
 | 1950 | First National Roadster Show, Oakland (Jan 19–22); first AMBR to Bill Niekamp | [Show Circuit](../customs/show-circuit.md) |
@@ -28,15 +31,20 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1951 | Ray Godman wounded in Korea (Sept 17) | [Ray Godman](../voices/ray-godman.md) |
 | 1951 | Trend Book 101 *Custom Cars*. First Caddo Mills drags (Aug 19) | [Trend Books](../customs/trend-books-kits-roth.md), [Texas](../regions/texas.md) |
 | 1951–59 | Akron Fulton (Municipal) Airport strip, "first NHRA-sanctioned track east of the Mississippi" (◐); 2016 marker | [Akron Fulton](../regions/akron-fulton-airport.md), [Arlen Vanke](../people/arlen-vanke.md) |
+| 1951 | Pomona's Choppers Club "digs in" at a leased Fontana airstrip (Apr 1) | [Pomona's Choppers](../grassroots/pomona-choppers-fontana.md) |
 | 1952 | First Holiday Inn opens on Summer Avenue, Memphis, a cruising and drive-around strip | [Summer Avenue](../cruising/summer-avenue-memphis.md) |
 | 1952 | Memphis Rodders exhibit at Klyce Motors (Mar 15) ◐ | [Memphis](../regions/memphis.md) |
 | 1953 | First Detroit Autorama (45–50 cars) | [Show Circuit](../customs/show-circuit.md) |
 | 1953 | Godman takes up drag racing and writes to Wally Parks | [Ray Godman](../voices/ray-godman.md) |
 | 1953 | Bartel & Lamona start the ATAA (cash purses). Otie Smith begins racing a '32 roadster at Akron | [Bob Bartel](../people/bob-bartel.md), [Akron Fulton](../regions/akron-fulton-airport.md) |
+| 1953 | First race on the old Great Bend Army Air Field (May 12), per the club | [Great Bend](../grassroots/great-bend-srca.md) |
 | 1954 ⚠ | First World Series of Drag Racing, Lawrenceville, Ill. (vs 1956/1953; see [Bartel](../people/bob-bartel.md)) Sparkomatic founded | [Detroit & Cordova](../regions/detroit-cordova.md), [Almquist](../people/ed-almquist.md) |
 | 1954 | Multnomah Hot Rod Council founded. Wescott's begins | [Pacific NW](../regions/pacific-northwest.md) |
 | 1954 | Peggy Hart turns 130+ mph in Pappy's Cadillac-powered gas dragster | [Peggy Hart](../people/peggy-hart.md) |
+| 1954 | Columbia, Mo., police start the Motor Sports Club (June) | [City planners, 1955](../grassroots/planners-report-1955.md) |
+| 1954 ◐ | Inyokern drag strip opens (Oct 24, a bracketed note in a columnist's blog) | [Inyokern](../grassroots/inyokern-dust-devils.md) |
 | 1955 | NHRA Safari meet at Halls, Tenn. (start of Halls drags 1953/55 ⚠) | [Memphis](../regions/memphis.md) |
+| 1955 | NHRA's first national event at Great Bend, Kan. (Sept 29–Oct 2); finals finished in Arizona Nov 19–20 | [Great Bend](../grassroots/great-bend-srca.md) |
 | 1956 | First Portland Roadster Show | [Pacific NW](../regions/pacific-northwest.md) |
 | 1956 | GSTA's first car show, Red Owl lot, Lake St & 22nd Ave S, Minneapolis | [Lake Street](../cruising/lake-street-university.md) |
 | 1956 | Quad City (Cordova) strip opens ⚠. Isky's first patent filed | [Detroit & Cordova](../regions/detroit-cordova.md), [Patents](patents.md) |
@@ -99,4 +107,5 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1990 | Modesto passes anti-cruising ordinances (Mar 27) | [Modesto](../cruising/modesto.md) |
 | 1997 | LA County anti-cruising ordinance (2 passes in 6 hours) | [Whittier Blvd](../cruising/whittier-blvd.md) |
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../cruising/central-avenue-albuquerque.md) |
+| 2005 ⚠ | Inyokern strip shut after an FAA threat; date of the last race disputed | [Inyokern](../grassroots/inyokern-dust-devils.md) |
 | 2023–24 | CA AB 436 (Alvarez) chaptered Oct 13, 2023; effective Jan 1, 2024—removes local authority to ban cruising; repeals VC 24008 | [Cruise Nights](../cruising/index.md) |

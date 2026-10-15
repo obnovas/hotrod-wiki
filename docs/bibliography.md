@@ -221,3 +221,25 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 - [mag] Phil Burgess, "Drag racing's teen terrors," NHRA.com, Aug 14, 2015. https://www.nhra.com/news/2015/drag-racing-s-teen-terrors
 - **Books and pamphlets cited by sources (not yet consulted):** Leslie Long & Don Tuttle, *Every Sunday Drag Races: Orange County Airport, Santa Ana* (xeroxed pamphlet of clippings, 1950–56).
 - **Blocked this round:** California Digital Newspaper Collection (Cloudflare), the WFAA 2007 archive (empty/429), and chuckfinders.com (404; Wayback copy empty).
+
+## Added in Round 11 (Grassroots finds; accessed 2026-10-15)
+Type tag **[local]** marks local or homegrown sources: local news, club or municipal records, historical societies, obituaries, local-history sites. See [Grassroots Sources](grassroots/sources.md).
+
+- [local] Ralph E. Parker, "Pomona Police Join Forces With 'Hot Rodders,'" FBI Law Enforcement Bulletin, Dec 1951. https://leb.fbi.gov/file-repository/archives/december-1951.pdf
+- [local] American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955). https://www.planning.org/pas/reports/report74.htm
+- [local] "Hot Rod Boys Spend Afternoon in Court," 1947project (blog, for July 15, 1947). http://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html
+- [local] "DRAG-UNS," Texas Racing History forum, Lone Star Speedzone (March 2012). https://www.lonestarspeedzone.com/topic/47203-drag-uns/
+- [local] Chris Murphy, "InterView: Gene Winfield," Modestoview. https://www.modestoview.com/gene-winfield-interview/
+- [local] Chris Murphy, "BigView – Late 1940s Modesto – The Birth of Cruising," Modestoview. https://www.modestoview.com/bigview-late-1940s-modesto-the-birth-of-cruising/
+- [ref] Kustomrama, "Modesto Century Toppers." https://www.kustomrama.com/wiki/Modesto_Century_Toppers
+- [local] Andrew H. Malcolm, "Finish Line Comes Early," Los Angeles Times, Oct 10, 2005. https://www.latimes.com/archives/la-xpm-2005-oct-10-me-dragstrip10-story.html
+- [local] "MOTOR RACING: Services for two racing legends this weekend," San Bernardino Sun, April 18, 2012. https://www.sbsun.com/sports/20120418/motor-racing-services-for-two-racing-legends-this-weekend/
+- [local] "HSUMD April meeting: drag racing in old Ridgecrest," news release, Ridgecrest Daily Independent, Apr 11, 2025. https://www.ridgecrestca.com/news/hsumd-april-meeting-drag-racing-in-old-ridgecrest/article_7bc2f56d-951b-4f93-8b58-eba04720b1bd.html
+- [mag] Pat Ganahl, "Last Drag at Inyokern," Pat Ganahl's Rod and Custom, Feb 7, 2022. https://patganahl.com/2022/02/07/last-drag-at-inyokern/
+- [forum] Bill Pratt, "Dust Devils Celebrate 51 Years of Racing with a Final Banquet," Drag Racing News Daily (blog), Feb 7, 2006. http://draglist.blogspot.com/2006/02/dust-devils-celebrate-51-years-of.html
+- [local] SRCA Dragstrip, "About Us" (the Sunflower Rod and Custom Association's own history). https://www.srcadragstrip.com/about-us
+- [local] "1955: Back to where it all began," Great Bend Tribune (2011). https://www.gbtribune.com/sports/local_sports/1955-back-to-where-it-all-began/
+- [mag] Phil Burgess, "Reliving NHRA's first race: the 1955 National Championship Drags in Great Bend," NHRA, Oct 27, 2021. https://www.nhra.com/news/2021/reliving-nhra-s-first-race-1955-national-championship-drags-great-bend
+- [mag] Phil Burgess, "Pomona: SoCal drag racing's lifelong love," NHRA, Feb 1, 2012. https://www.nhra.com/news/2012/pomona-socal-drag-racing-s-lifelong-love
+- [mag] Phil Burgess, "Remembering 'the Bird,'" NHRA, 2012. https://www.nhra.com/news/2012/remembering-bird
+- **Not reached this round (blocked to our fetcher; not bypassed):** California Digital Newspaper Collection (Cloudflare), Illinois Digital Newspaper Collections, NYS Historic Newspapers and Colorado Historic Newspapers (403), the Library of Congress site (timeouts), and the Portal to Texas History (bot check). See the [Research Trail](research-trail.md).

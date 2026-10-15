@@ -1,7 +1,7 @@
 # KKOA and the Lead Sled Revival (1979–83)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** club history, period magazine (Hot Rod 1981, 1983) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-show count conflicts (300+ vs 400) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club history, period magazine (Hot Rod 1981, 1983) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-show count conflicts (300+ vs 400) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "It's like family at KKOA."

@@ -26,6 +26,10 @@ This wiki treats hot rod history as detective work. Every claim has to show wher
 | `[mag]` | Magazines and websites, including archive retrospectives | Secondary |
 | `[ref]` | Reference works such as Coachbuilt, Kustomrama and encyclopedias | Secondary or tertiary |
 | `[corp]` | Company histories | Self-interested |
+| `[local]` | Local or homegrown sources: local news, club newsletters and club-run pages, municipal and police records, historical-society pages, markers, local obituaries, family accounts | Often the only record of small events; usually unsigned or promotional, so check dates and numbers. See [Grassroots Sources](../grassroots/sources.md) |
+
+## The Grassroots badge
+Articles built mainly on local or homegrown sources carry a teal <span class="hr-badge">Grassroots</span> badge at the start of the **Source types** line of the article record. Industry media (national magazines, trade press, NHRA and hall-of-fame features) do not count on their own, though a metro daily counts when it covers its own city. The full definition and the catalog of outlets used so far are on [Grassroots Sources](../grassroots/sources.md). Home-page highlights have the same flag (`grassroots: true`).
 
 ## Confidence levels (article record box)
 - **High:** the core facts are confirmed by several independent sources or by primary documents, and no major conflicts are open.

@@ -1,7 +1,7 @@
 # Pacific Northwest: Councils, Woodburn and Fiberglass
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** council/track sites, Wikipedia (◐), company history · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Woodburn early details only via Wikipedia/track site · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> council/track sites, Wikipedia (◐), company history · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Woodburn early details only via Wikipedia/track site · [How we rate this](../reference/source-standards.md)
 
 
 ## Multnomah Hot Rod Council (1954)

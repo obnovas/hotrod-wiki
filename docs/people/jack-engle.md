@@ -1,7 +1,7 @@
 # Jack Engle (1920–2008): The Low Flyers' Cam Grinder
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** family oral history, company obituary, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Founding date conflict (1939–1950) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> family oral history, company obituary, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Founding date conflict (1939–1950) · [How we rate this](../reference/source-standards.md)
 
 ## Santa Monica and the Low Flyers
 Engle was born June 16, 1920, in Regina, Saskatchewan, to American parents, and grew up in Santa Monica. He went to Venice High and Santa Monica City College.[^wiki] He belonged to the **Santa Monica Low Flyers**. A family photo on Kustomrama shows him with fellow members Phil Remington, Howard Wilson and Rob McCausland. Wikipedia's list of club members also includes Stu Hilborn, Jim Travers and Frank Coon.[^kr][^wiki] In 1939 he ran 113 mph at El Mirage in a Model T roadster on Model A rails with a McCulloch-blown Cragar Model A engine (family caption, Mark Engle).[^kr]

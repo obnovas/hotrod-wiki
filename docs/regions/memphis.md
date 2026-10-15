@@ -1,7 +1,7 @@
 # Memphis and the Mid-South
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no documented Sun Records link · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no documented Sun Records link · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I became interested in drag racing in 1953 just as it was starting to come on. … I got in touch with Wally at Hot Rod to offer my help."

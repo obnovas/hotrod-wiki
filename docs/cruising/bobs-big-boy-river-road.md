@@ -1,7 +1,7 @@
 # Bob's Big Boy, Burbank & the "River Road" (1950s–60s)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** newspaper interviews (Burbank Leader/LA Times 2014; LA Times 2013), restaurant history page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Told 55–60 years later · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper interviews (Burbank Leader/LA Times 2014; LA Times 2013), restaurant history page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Told 55–60 years later · [How we rate this](../reference/source-standards.md)
 
 
 **Location:** Bob's Big Boy, 4211 Riverside Dr, Burbank (Toluca Lake edge), and "the River Road," a lightly used road along the Los Angeles River. · **Peak:** 1950s to early 1960s. · **Revival:** a Friday-night classic car show at Bob's, still running.

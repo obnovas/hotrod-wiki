@@ -1,7 +1,7 @@
 # Bob Bartel (1921–2018): Cordova's Builder and the World Series of Drag Racing
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** funeral-home obituary (family facts), Competition Plus / BangShift tribute (Bret Kepner text), local-paper summaries (◐), forum · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ First World Series year (1954 vs 1956 vs IRG's "1953"); ATAA "absorbed" by NHRA in 1957 (single-source); birthplace Sterling vs "Moline native" · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> funeral-home obituary (family facts), Competition Plus / BangShift tribute (Bret Kepner text), local-paper summaries (◐), forum · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ First World Series year (1954 vs 1956 vs IRG's "1953"); ATAA "absorbed" by NHRA in 1957 (single-source); birthplace Sterling vs "Moline native" · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I've spent so much time at this place I couldn't stand to be stuck here for eternity."

@@ -1,7 +1,7 @@
 # Upper Midwest: MSRA and Back to the 50's
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** association history, obituary, founder-era recollections (HotRod Hotline) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-year car counts approximate · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> association history, obituary, founder-era recollections (HotRod Hotline) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-year car counts approximate · [How we rate this](../reference/source-standards.md)
 
 
 ## MSRA (1967)

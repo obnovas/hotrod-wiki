@@ -1,7 +1,7 @@
 # Summer Avenue, Memphis (1950s–1960s)
 
 !!! abstract "Article record"
-    **Confidence:** Low-Medium · **Source types:** literary nonfiction with interviews (storySouth, Ellen Morris Prewitt), oral history project description (Southern Foodways Alliance, 2021) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** No contemporary newspaper source yet; ties to clubs unproven · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low-Medium · **Source types:** <span class="hr-badge">Grassroots</span> literary nonfiction with interviews (storySouth, Ellen Morris Prewitt), oral history project description (Southern Foodways Alliance, 2021) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** No contemporary newspaper source yet; ties to clubs unproven · [How we rate this](../reference/source-standards.md)
 
 
 **Location:** Summer Ave (US 70, once the "Broadway of America"), east from North Parkway. · **Peak:** 1950s to 1960s. · **Status:** we treat it as a **regional repeat gathering**. We have found no documented link to particular builders or companies yet.

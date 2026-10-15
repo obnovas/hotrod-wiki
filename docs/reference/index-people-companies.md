@@ -18,9 +18,12 @@
 | Cal Automotive | Fiberglass T bodies (Lang & Hamilton) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | Cates, Virgil | "The Flying Junkman," Mansfield, Ohio | [Ohio Gassers](../regions/ohio-gassers.md) |
 | Ceniceros, Richard "Chivo" | Dukes car club | [Ruelas & the Dukes](../voices/ruelas-dukes.md) |
+| Century Toppers | Modesto's first hot rod club | [Century Toppers](../grassroots/modesto-century-toppers.md) |
 | Chaparral Roadster Club | Dallas; Caddo Mills | [Texas](../regions/texas.md) |
 | Chrisman, Jack | Drove the Twin Bears | [Howard Johansen](../people/howard-johansen.md) |
 | Clark, Jim | First Street Rodder editor | [Founding Street Rodder](../voices/street-rodder-founding.md) |
+| Columbia Motor Sports Club | Police-started club, Columbia, Mo., 1954 | [City planners, 1955](../grassroots/planners-report-1955.md) |
+| Coons, E. J. (Bud) | Pomona traffic officer and hot rod liaison | [Pomona's Choppers](../grassroots/pomona-choppers-fontana.md) |
 | Couch, Buster | First Lakeland starter | [Memphis](../regions/memphis.md) |
 | Craig, Bruce | Co-founder, *Street Rod* magazine | [*Street Rod*](../street-rodding/street-rod-magazine-portland.md) |
 | Davis, Preston | Bo-Weevil driver | [Ray Godman](../voices/ray-godman.md) |
@@ -29,6 +32,7 @@
 | Doty, Julian | SCTA timing; DuVall's nephew | [Julian Doty](../people/julian-doty.md) |
 | Dukes (car club) | South LA | [Ruelas & the Dukes](../voices/ruelas-dukes.md) |
 | Durham, Malcolm | Strip Blazer; East Coast match racer | [Malcolm Durham](../people/malcolm-durham.md) |
+| Dust Devils Auto Club | Ridgecrest club that ran the Inyokern strip | [Inyokern](../grassroots/inyokern-dust-devils.md) |
 | DuVall, George | Windshield designer | [George DuVall](../people/george-duvall.md) |
 | Edelbrock, Vic Sr. & Jr. | Edelbrock Equipment Co. | [Edelbrock](../companies/edelbrock-slingshot.md), [Patents](patents.md) |
 | Engle, Jack | Engle Racing Cams | [Jack Engle](../people/jack-engle.md) |
@@ -90,6 +94,8 @@
 | Nicholson, "Dyno Don" | Schartman's rival | [Eddie Schartman](../people/eddie-schartman.md) |
 | Niekamp, Bill | First AMBR (1950) | [Show Circuit](../customs/show-circuit.md) |
 | Orr, Veda & Karl | Wartime newsletter; Orr's shop | [Veda Orr](../people/veda-orr.md), [Prewar shops](../companies/prewar-speed-shops.md) |
+| Parker, Ralph E. | Chief of Police, Pomona; wrote the 1951 FBI bulletin article | [Pomona's Choppers](../grassroots/pomona-choppers-fontana.md) |
+| Partridge, Bernie | Dust Devils president; managed Inyokern 1954–62; later NHRA announcer and director | [Inyokern](../grassroots/inyokern-dust-devils.md) |
 | Postoian, Setto | Farmington Speed Shop | [Setto Postoian](../people/setto-postoian.md) |
 | Prufer, Tom | Oakland entrant since 1959 | [Show & Custom Voices](../voices/show-custom-voices.md) |
 | Riley, George | OHV conversions | [George Riley](../people/george-riley.md) |
@@ -114,6 +120,7 @@
 | Stolz, Reid | Van Nuys cruiser (Car Craft 2009) | [Van Nuys](../cruising/van-nuys.md) |
 | Stuart, Phillip (Tiny) | Modesto Area Drag Racer's Assn. | [Modesto](../cruising/modesto.md) |
 | Summers, Jimmy | Early builder | [Jimmy Summers](../people/jimmy-summers.md) |
+| Sunflower Rod and Custom Association (SRCA) | Great Bend, Kan., club that runs the strip | [Great Bend](../grassroots/great-bend-srca.md) |
 | Titus, Jerry | KKOA founder | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | Vanke, Arlen | Akron racer | [Arlen Vanke](../people/arlen-vanke.md) |
 | Wangers, Jim | Pontiac promotions; Woodward | [Woodward](../cruising/woodward.md) |

@@ -1,7 +1,7 @@
 # The Ohio Gassers: Cleveland, Dayton, Columbus and the Door-Slammer Midwest
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; ⚠ Chuck Finders death date (May 17 vs 27, 2009); Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; ⚠ Chuck Finders death date (May 17 vs 27, 2009); Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I'd pay a thousand bucks for a tenth of a second!"

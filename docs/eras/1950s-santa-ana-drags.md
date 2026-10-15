@@ -9,7 +9,7 @@
     — C.J. Hart, National Dragster interview, 2001 (quoted by NHRA.com, 2004). [Full context in Voices](../voices/harts-santa-ana.md)
 
 ## Routed by bayonets
-In the late 1940s Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" One Sunday they were run off by a company of U.S. Marines with fixed bayonets.[^mshf]
+In the late 1940s Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" One Sunday they were run off by a company of U.S. Marines with fixed bayonets.[^mshf] ◐ *Single source (the Hall of Fame biography); we have not found a period report.*
 
 ## The Santa Ana Drags, June 19, 1950
 The Orange County Airport manager (today John Wayne Airport) offered an unused strip if Hart paid the airport 10% of proceeds and got insurance. With less than $1,000, Hart, his wife **Peggy**, and two backers opened on **June 19, 1950**.[^mshf] The backers were **Frank Stillwell and Creighton Hunter**, fellow members of the Santa Ana Elks Lodge. The project had the blessing of CHP commissioner Clifford E. Peterson and the county supervisors, and Hunter and Stillwell sold out to Hart a few months in.[^pe] *(Verified in Round 2.)*

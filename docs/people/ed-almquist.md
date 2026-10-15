@@ -1,7 +1,7 @@
 # Ed Almquist (1921–2015): Speed by Mail from Milford, Pennsylvania
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** obituary, HOF, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Hurst co-design claim single-sourced · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> obituary, HOF, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Hurst co-design claim single-sourced · [How we rate this](../reference/source-standards.md)
 
 <figure markdown>
 ![Patent drawing US3082639](../assets/images/patent-US3082639-almquist-gearshift.png){ width="300" loading=lazy }

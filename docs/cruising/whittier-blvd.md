@@ -1,7 +1,7 @@
 # Whittier Boulevard, East Los Angeles (1960s–1979; 2017 revival)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** newspaper (LA Times 1979 via 2017 archive feature; LA Times 2017), local history blog (Barrio Boychik 2015) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure date; violence figures come from the Sheriff's Dept · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times 1979 via 2017 archive feature; LA Times 2017), local history blog (Barrio Boychik 2015) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure date; violence figures come from the Sheriff's Dept · [How we rate this](../reference/source-standards.md)
 
 
 **Location:** Whittier Blvd, East LA. The mile between Atlantic Blvd and Eastern Ave was the core. · **Peak:** 1960s to 1970s; the street drew national attention through the film *Boulevard Nights* (1979). · **Later:** cruising returned in 2017, under a 1997 county ordinance.

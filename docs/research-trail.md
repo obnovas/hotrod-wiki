@@ -1,5 +1,26 @@
 # Research Trail: The Investigator's Log
 
+## Standing standard for every nightly round (set in Round 11)
+1. **Highlights.** Each round adds **2-4 entries** to [`docs/data/highlights.yml`](https://github.com/obnovas/hotrod-wiki/blob/main/docs/data/highlights.yml) for the home-page slider, and **at least half** must be grassroots (local news, oral history, obituaries, club newsletters and club-run pages, municipal records, historical markers, family accounts, local-history sites). Teasers state only what the article states, with the same hedges and a verbatim `evidence` phrase from the article.
+2. **Rotation.** The slider shows the newest 16 by date added. Older entries move to the [Highlights archive](highlights-archive.md) automatically; nothing is deleted.
+3. **Grassroots first.** Prefer a local paper, historical society page, obituary, club newsletter, municipal or police record, marker or family account over an industry magazine whenever both exist. Mark such pages with the Grassroots badge in the article record's source types, and add new outlets to [Grassroots Sources](grassroots/sources.md).
+4. **Check before pushing.** Run `python scripts/update_highlights.py check`, then `mkdocs build --strict`. The build fails if a highlight's evidence phrase, numbers, link, anchor, image or credit row no longer matches. Details are in [CONTRIBUTING](https://github.com/obnovas/hotrod-wiki/blob/main/CONTRIBUTING.md).
+
+## Log, Round 11 (Highlights slider; Grassroots finds; 2026-10-15)
+- **New UI and automation:** the home-page [Highlights](index.md) carousel, rendered at build time from `docs/data/highlights.yml` by a small MkDocs hook, with a static-list fallback without JavaScript; `scripts/update_highlights.py`; the [Highlights archive](highlights-archive.md); the [Grassroots Sources](grassroots/sources.md) catalog. 16 highlights were seeded from existing articles, 11 of them grassroots.
+- **New grassroots articles:** [Pomona's Choppers & the Fontana strip](grassroots/pomona-choppers-fontana.md) (police chief's 1951 account); [What the City Planners Wrote (1955)](grassroots/planners-report-1955.md); [Modesto's Century Toppers](grassroots/modesto-century-toppers.md); [Inyokern: the Sheriff's Strip and the Dust Devils](grassroots/inyokern-dust-devils.md); [Great Bend, Kansas: the SRCA and the first Nationals](grassroots/great-bend-srca.md). Index: [Grassroots Finds](grassroots/index.md).
+- **New conflicts:** Century Toppers founding (late 1947 vs 1946); date of Inyokern's last race (April 9, 2005 vs mid-October 2005 or later); Great Bend's top speed (146.16 vs 145.16 mph) and the meaning of "first"; the 1955 report's unsourced Muroc "twenty-seven killed" figure (unverified).
+- **Image Credits:** six new Commons files (Winfield 2013, *Reactor*, Inyokern Airport, Pomona drag strip, Great Bend 1943 and 2006).
+- **Blocked (not bypassed):** California Digital Newspaper Collection (Cloudflare); Illinois Digital Newspaper Collections, NYS Historic Newspapers and Colorado Historic Newspapers (403); Library of Congress (timeouts); Portal to Texas History (bot check); the Lompoc Record and a Ridgecrest news release behind a paywall (only the readable lines were used).
+
+## Next breadcrumbs (Round 11)
+- **Local-paper archives, once reachable:** Pomona *Progress-Bulletin* and *Compton Herald* (1949-53) for the Choppers and Fontana openings; *Modesto Bee* for the Century Toppers' 1949-50 items; *Columbia Daily Tribune* (the June 1954 Motor Sports Club); *Sioux Falls Argus Leader* ("Igniters"); Glen Cove *Record-Pilot* ("Road Panthers"); *Kerrville Daily Times* via the Portal to Texas History (Drag-Uns, March 29, 1953).
+- **Inyokern:** the FAA order or a Dust Devils record that dates the last race; Mark Pahuta's film *The Hot Rod Years* (HSUMD, 2025); a second source for Bernie Partridge's "Big Daddy" nickname claim.
+- **Great Bend:** the 1955 Hot Rod announcement and a Great Bend Tribune 1955 report; the 146.16 vs 145.16 speed.
+- **Pomona:** the date the Choppers moved from Fontana to the fairgrounds; the officer's full name (Coons).
+- **Planners' report:** the Muroc "27 killed" claim and the 1947 California law's actual date and statute.
+- Carry: all Round 10 breadcrumbs below.
+
 ## Log, Round 10 (Ohio & Midwest strips; Snow/Bartel/Gay; *Street Rod*; Peggy Hart; 2026-10-15)
 - **New articles:** [Gene Snow](people/gene-snow.md); [Bob Bartel](people/bob-bartel.md); [The Ohio Gassers](regions/ohio-gassers.md); [Akron Fulton Airport & Otie Smith](regions/akron-fulton-airport.md); [*Street Rod* magazine (Portland)](street-rodding/street-rod-magazine-portland.md); Voices: [Strip Owners & Door-Slammers](voices/strip-owners-and-door-slammers.md).
 - **Expanded:** [Peggy Hart](people/peggy-hart.md) (her cars in order, the 1954 130-mph dragster, the Bonneville attempt, the Long & Tuttle pamphlet); [Houston Freeway](regions/houston-freeway-dragstrip.md) (the Gay family years); notes added to [Santa Ana](eras/1950s-santa-ana-drags.md), [Detroit & Cordova](regions/detroit-cordova.md), [NSRA](street-rodding/nsra-early-nationals.md) and [Founding Street Rodder](voices/street-rodder-founding.md).

@@ -27,8 +27,10 @@ theme:
       primary: custom
       accent: custom
       toggle: {icon: material/weather-sunny, name: "Daylight"}
-extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css]
-extra_javascript: [javascripts/hotrod.js]
+extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/highlights.css]
+extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js]
+hooks:
+  - hooks/highlights_hook.py
 markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables]
 plugins:
   - search
@@ -112,6 +114,14 @@ nav:
       - Lake Street & University Ave: cruising/lake-street-university.md
       - Westheimer, Houston: cruising/westheimer-houston.md
       - Central Ave, Albuquerque (later): cruising/central-avenue-albuquerque.md
+  - Grassroots Finds:
+      - grassroots/index.md
+      - "Pomona's Choppers & the Fontana Strip": grassroots/pomona-choppers-fontana.md
+      - "What the City Planners Wrote (1955)": grassroots/planners-report-1955.md
+      - "Modesto's Century Toppers": grassroots/modesto-century-toppers.md
+      - "Inyokern: The Sheriff's Strip": grassroots/inyokern-dust-devils.md
+      - "Great Bend, Kansas: SRCA & the First Nationals": grassroots/great-bend-srca.md
+      - Grassroots Sources (catalog): grassroots/sources.md
   - "Voices: In Their Own Words":
       - voices/index.md
       - Blackie Gold (Muroc, 1930s): voices/blackie-gold.md
@@ -134,6 +144,7 @@ nav:
       - Patents: reference/patents.md
       - Image Credits: reference/image-credits.md
       - Source Standards: reference/source-standards.md
+      - Highlights Archive: highlights-archive.md
   - Cars:
       - cars/index.md
       - Hirohata Mercury: cars/hirohata-mercury.md

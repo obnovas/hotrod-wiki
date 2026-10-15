@@ -1,7 +1,7 @@
 # Lake Street & University Avenue, Twin Cities (1950s–1970s)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** timing association history (GSTA), H.A.M.B. thread posts by former cruisers · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Forum posters are anonymous · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> timing association history (GSTA), H.A.M.B. thread posts by former cruisers · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Forum posters are anonymous · [How we rate this](../reference/source-standards.md)
 
 
 **Location:** In Minneapolis, Lake Street from the **Flat Top** drive-in near the river to **Porky's** near Lake Calhoun, plus the Sun Drive-in on Central Ave. In St. Paul, **University Avenue** around Porky's.[^gsta] · **Peak:** 1950s to early 1970s. · **Later:** one poster wrote in 2009 that "they still cruise Uni."[^hamb]

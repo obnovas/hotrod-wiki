@@ -1,7 +1,7 @@
 # Heartland Strips: Detroit Dragway and the World Series at Cordova
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** obituary/tribute, local press, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Cordova opening and Detroit closing conflicts · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> obituary/tribute, local press, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Cordova opening and Detroit closing conflicts · [How we rate this](../reference/source-standards.md)
 
 ## The World Series of Drag Racing
 - **Origin (per Competition Plus):** Bob Bartel and his partner Lamona held the first World Series in **October 1954** on a taxiway at George Field, Lawrenceville, Illinois. Competition Plus calls it "one year before the NHRA... had a similar race." It drew entrants from as far as California and New York. It moved from the taxiway to a full runway in 1955.[^cp] ⚠ Other accounts give **1956** (Bartel's 2009 newspaper interview, as summarized in 2017) or **1953** (IRG). See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series) for the full biography and the date conflict.

@@ -1,0 +1,248 @@
+# Highlights data for the home-page slider and the Highlights archive.
+# Edit by hand or with: python scripts/update_highlights.py add --help
+# Rules (enforced at build time, see scripts/highlights_lib.py and CONTRIBUTING.md):
+#   * evidence: a phrase (or list) that must appear verbatim in the linked article. It proves the teaser
+#     is grounded in the article, and it breaks the build if the article is later rewritten.
+#   * Every number in the headline/teaser must appear in the article.
+#   * image must be a file in docs/assets/images with a row in docs/reference/image-credits.md.
+#   * grassroots: true only when the claim rests mainly on local news, oral history, obituaries, club or
+#     municipal records, historical markers, family accounts or local-history sites.
+#   * Newest 'added' date shows first; only the newest max_featured appear in the slider, the rest move
+#     to the Highlights archive automatically.
+settings:
+  max_featured: 16
+
+highlights:
+  - id: inyokern-sheriff-faa
+    headline: "A sheriff started Inyokern's drag strip; the FAA ended it 51 years later"
+    teaser: "The LA Times says Sheriff Mac McKernan helped young hot rodders form a nonprofit and race legally on an Inyokern Airport taxiway, and a volunteer club ran it for about 51 years. Exactly when the last race was run is disputed."
+    link: grassroots/inyokern-dust-devils.md
+    evidence: ["about 51 years", "FAA threatened"]
+    source_type: ["Local news", "Obituary"]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1950s", "2000s"]
+    regions: ["Kern County, Calif."]
+    image: commons-inyokern-airport.jpg
+    image_alt: "Inyokern Airport in the Mojave Desert with runways and low buildings"
+    image_note: "Inyokern Airport; the drag strip itself is not shown."
+
+  - id: mile-square-bayonets
+    headline: "Orange County racers were run off Mile Square by Marines with fixed bayonets"
+    teaser: "Pappy Hart's Hall of Fame biography says Orange County hot rodders ran seven or eight cars abreast on the Navy's abandoned Mile Square airstrip until, one Sunday, a company of U.S. Marines with fixed bayonets ran them off."
+    link: eras/1950s-santa-ana-drags.md#routed-by-bayonets
+    evidence: "company of U.S. Marines with fixed bayonets"
+    source_type: "Museum / HOF"
+    confidence: Medium
+    flag: single-source
+    grassroots: false
+    added: 2026-10-15
+    eras: ["1940s"]
+    regions: ["Orange County, Calif."]
+    image: commons-orange-county-airport-runway-1950s.jpg
+    image_alt: "A runway at the Orange County Airport in the 1950s"
+    image_note: "Orange County Airport runway, 1950s, not Mile Square."
+
+  - id: columbia-hatchery-club
+    headline: "Columbia, Missouri's police-started hot rod club met in a converted hatchery"
+    teaser: "A 1955 planning-officials report says police started the Columbia Motor Sports Club in June 1954 after teenagers were arrested raiding a local auto parts yard. The parts garage was among the businesses that helped fund it, and only 16 of its 100 members voted for a drag strip."
+    link: grassroots/planners-report-1955.md#small-town-programs-it-describes
+    evidence: ["a converted hatchery", "Only 16 of the 100 members voted for a drag strip"]
+    source_type: "Municipal record"
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1950s"]
+    regions: ["Missouri"]
+
+  - id: hirohata-97-vs-14
+    headline: "97 days or 14? The Hirohata Merc's build time is disputed"
+    teaser: "Ken Gross of the Revs Institute writes 97 days; a Hagerty video title says 14 days. The wiki flags the conflict instead of picking a winner."
+    link: cars/hirohata-mercury.md#the-build
+    evidence: "Conflict on build time"
+    source_type: ["Museum / HOF", "Trade press"]
+    confidence: Medium
+    flag: conflict
+    grassroots: false
+    added: 2026-10-15
+    eras: ["1950s"]
+    regions: ["Southern California"]
+    image: commons-hirohata-merc-haer.jpg
+    image_alt: "The 1951 Mercury Hirohata Merc on display outdoors"
+
+  - id: almquist-mason-jar
+    headline: "A Mason jar, 50¢ to make and $6 to buy: Ed Almquist's vapor injector"
+    teaser: "His Port Jervis paper's obituary says a water/alcohol vapor injector made from a Mason jar cost him 50¢ to make and sold for $6. He started in a $35 rented room."
+    link: people/ed-almquist.md
+    evidence: ["Mason jar that cost 50¢ to make and sold for $6", "$35 rented room"]
+    source_type: ["Local news", "Obituary"]
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1940s"]
+    regions: ["Port Jervis, N.Y. area"]
+
+  - id: pomona-join-them
+    headline: "Pomona's police chief: \"If you can't control them—join them\""
+    teaser: "Chief Ralph Parker told other police in 1951 that this was the only approach his department had not tried. It lent its Officers Club rooms to the clubs, docked 10 points per citation, and the club leased a strip at Fontana Airport."
+    link: grassroots/pomona-choppers-fontana.md
+    evidence: ["If you can't control them—join them", "10 points"]
+    source_type: "Municipal record"
+    confidence: Medium-High
+    flag: none
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1950s"]
+    regions: ["Pomona, Calif."]
+    image: commons-pomona-drag-strip-2008.jpg
+    image_alt: "The Pomona drag strip seen from a grandstand in 2008"
+    image_note: "Pomona drag strip in 2008, not the 1951 Fontana strip."
+
+  - id: peoria-seventh-floor
+    headline: "Peoria's first Street Rod Nationals went ahead without management's approval"
+    teaser: "A 2007 Rod & Custom retrospective says the magazine's staff planned the 1970 event, and that Petersen management (\"the 7th floor\") never approved it. The staff went ahead anyway, in a loaned hayfield."
+    link: eras/1970s-street-rod-nationals.md#why-peoria
+    evidence: "never approved it; the staff went ahead anyway"
+    source_type: "Trade press"
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: 2026-10-15
+    eras: ["1970s"]
+    regions: ["Peoria, Ill."]
+    image: commons-peoria-heights-1970.jpg
+    image_alt: "View over Upper Peoria Lake and the Illinois River from the Peoria Heights water tower"
+    image_note: "Peoria Heights, 1970; a landscape view, not the event."
+
+  - id: winfield-chicken-coop
+    headline: "Gene Winfield began customizing in his mother's converted chicken coop"
+    teaser: "He started in his mother's coop, and Modesto's Century Toppers club met at his \"Windy's Custom Shop.\" Sources split on whether the club formed in 1946 or late 1947."
+    link: grassroots/modesto-century-toppers.md
+    evidence: ["converted chicken coop", "Windy's Custom Shop", "When was it founded?"]
+    source_type: ["Oral history", "Local history site"]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1940s"]
+    regions: ["Modesto, Calif."]
+    image: commons-gene-winfield-milwaukee-2013.jpg
+    image_alt: "Gene Winfield standing beside a custom car at a car show"
+    image_note: "Winfield at a 2013 Milwaukee show."
+
+  - id: houston-who-bought-it
+    headline: "Who bought Houston's Freeway Drag Strip? Local history says Don Gay; NHRA says his parents"
+    teaser: "The local history site says Don Gay bought the strip in 1960, but NHRA says his parents, Carl and Marie Gay, did, and Don was about 13 that year. The wiki credits the Gay family and leaves the exact year open."
+    link: regions/houston-freeway-dragstrip.md#who-bought-it
+    evidence: "We therefore credit the Gay family (Carl and Marie) as buyers"
+    source_type: ["Local history site", "Trade press"]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1950s", "1960s"]
+    regions: ["Houston / Dickinson, Texas"]
+
+  - id: doris-herbert-standard-1320
+    headline: "Doris Herbert's \"Standard 1320\" list took on inflated drag-strip speeds"
+    teaser: "After a questionable 204.54 mph clocking at Alton, Illinois, Drag News publisher Doris Herbert set universal timing standards and kept her own national record list. Her Oct 1, 1960 issue named Garlits officially fastest at 182.18 mph."
+    link: people/doris-herbert.md
+    evidence: ["questionable 204.54 mph clocking", "182.18 mph"]
+    source_type: "Trade press"
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: 2026-10-15
+    eras: ["1960s"]
+    regions: ["Illinois"]
+
+  - id: great-bend-chamber-letter
+    headline: "A Kansas Chamber of Commerce letter, the club says, landed NHRA's first national meet"
+    teaser: "The club's own history page says the Great Bend Chamber wrote to Wally Parks in 1955 asking to host the first national event, and \"NHRA said YES.\" NHRA's retrospective says rain washed out the finals, which were finished in Arizona that November."
+    link: grassroots/great-bend-srca.md
+    evidence: ["NHRA said YES", "The worst rainstorm in 30 years"]
+    source_type: ["Club newsletter", "Local news"]
+    confidence: Medium-High
+    flag: conflict
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1950s"]
+    regions: ["Great Bend, Kan."]
+    image: commons-great-bend-army-airfield-1943.jpg
+    image_alt: "Aerial view of the Great Bend Army Airfield in Kansas in 1943"
+    image_note: "Great Bend Army Airfield, 1943, before it became the drag strip."
+
+  - id: modesto-four-hours
+    headline: "Modesto's 1990 anti-cruising law: no passing the same spot twice in four hours"
+    teaser: "On March 27, 1990, the city barred passing the same spot on McHenry Avenue more than once every four hours. A historical marker says a ban \"remains in force today,\" which the wiki cannot reconcile with the 1990 ordinance."
+    link: cruising/modesto.md#policing
+    evidence: ["more than once every four hours", "an ordinance that remains in force today"]
+    source_type: ["Municipal record", "Historical marker"]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1990s"]
+    regions: ["Modesto, Calif."]
+    image: commons-modesto-tenth-st-postcard.jpg
+    image_alt: "Postcard of Tenth Street in Modesto at night with lit storefronts"
+    image_note: "Tenth St. postcard, c. 1930-45, before the cruising era."
+
+  - id: isky-104
+    headline: "Ed Iskenderian, the \"Camfather,\" lived to 104"
+    teaser: "Five outlets confirm that Ed Iskenderian died on February 4, 2026, at 104, in Los Angeles. His wiki profile covers his cam business and his patents."
+    link: people/ed-iskenderian.md
+    evidence: "February 4, 2026"
+    source_type: "Obituary"
+    confidence: High
+    flag: none
+    grassroots: false
+    added: 2026-10-15
+    eras: ["1930s-2020s"]
+    regions: ["Los Angeles"]
+
+  - id: engle-homemade-grinder
+    headline: "A homemade cam grinder from a benchtop lathe, before Isky? A family says yes"
+    teaser: "Jack Engle's family caption says he ground cams on a homemade grinder in early 1941, \"before Isky ground his first cams.\" It is single-sourced family oral history, and the sources disagree on when his business began."
+    link: people/jack-engle.md#a-homemade-grinder-before-isky
+    evidence: "before Isky ground his first cams"
+    source_type: "Family account"
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1940s"]
+    regions: ["Santa Monica, Calif."]
+
+  - id: akron-marker
+    headline: "Ohio's first racing marker honors an Akron airport strip"
+    teaser: "A 2016 report called Ohio History Connection marker 47-77 the first Ohio historical marker for racing \"of any kind.\" Its \"1959 championship\" wording differs from NHRA's account of a Middle Eliminator win."
+    link: regions/akron-fulton-airport.md
+    evidence: ["Ohio historical marker for racing", "1959 championship"]
+    source_type: "Historical marker"
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1950s"]
+    regions: ["Akron, Ohio"]
+    image: commons-akron-fulton-airport.jpg
+    image_alt: "Aerial photo of the Akron Fulton International Airport runways"
+    image_note: "Akron Fulton Airport in 2026."
+
+  - id: bartel-world-series
+    headline: "A Sears employee built the Midwest's own \"World Series of Drag Racing\""
+    teaser: "Bob Bartel's obituary says he worked for Sears Roebuck, and he kept the World Series of Drag Racing at Cordova, Illinois, from 1957 until 2015. Sources disagree on when the first World Series was held."
+    link: people/bob-bartel.md
+    evidence: ["Sears Roebuck", "When was the first World Series?"]
+    source_type: ["Obituary", "Local news"]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: 2026-10-15
+    eras: ["1950s"]
+    regions: ["Cordova, Ill."]
