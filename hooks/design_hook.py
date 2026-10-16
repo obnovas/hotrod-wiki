@@ -45,20 +45,17 @@ DEPT = {
     "eras": ("sun", "The calendar: decade by decade, from the dry lakes to Pro Street."),
     "people": ("person", "Machinists, racers, publishers and the families behind them."),
     "companies": ("piston", "Garage-born speed shops and the aftermarket they grew into."),
-    "customs": ("flame", "Trend Books, model kits, Roth and the show circuit."),
+    "cars": ("car", "Streamliners and gassers, car by car, and the techniques that built them."),
+    "customs": ("flame", "The style: lead sleds, chops and the builders of Kustom Kulture."),
     "street-rodding": ("wheel", "NSRA, the early Nationals, the 1948 rule and fiberglass bodies."),
-    "regions": ("pin", "Memphis, Texas, the Northwest, Ohio, Michigan: not everything came from California."),
-    "cruising": ("road", "Woodward, Van Nuys, Whittier and the parking lots in between."),
-    "grassroots": ("paper", "Local papers, police chiefs, club histories and markers: the homegrown record."),
+    "media": ("paper", "Magazines, Trend Books, model kits and shows: how the hobby was publicized and sold."),
+    "drag-racing": ("flag", "Strips, clubs and timing associations, and the rules and arguments around them."),
+    "places": ("pin", "Regional scenes beyond California, plus the cruise strips and hangouts."),
     "voices": ("quote", "In their own words: racers, builders, families and fans."),
-    "reference": ("book", "Timeline, index, patents, image credits and source standards."),
-    "cars": ("car", "Streamliners, customs and gassers, car by car."),
-    "techniques": ("brush", "Chopping, channeling, flames and the traits of each period."),
-    "research-trail": ("lens", "The detective's log: open leads and unresolved conflicts."),
-    "bibliography": ("book", "Every source cited, with links."),
+    "reference": ("book", "Timeline, index, patents, credits, standards, the research trail and the bibliography."),
 }
-NO_THUMB = {"reference", "research-trail", "bibliography", "index"}
-REF_PAGES = ("reference/", "bibliography.md", "research-trail.md", "highlights-archive.md")
+NO_THUMB = {"reference", "index"}
+REF_PAGES = ("reference/", "bibliography.md", "research-trail.md", "highlights-archive.md", "taxonomy.md", "contribute.md", "style-guide.md")
 
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -744,6 +741,18 @@ def section_pages(item):
     return out
 
 
+def subgroup_of(item):
+    """Map each page under a top-level section to its sub-group title (nested nav section), or None."""
+    out = {}
+    if getattr(item, "is_page", False):
+        return out
+    for ch in item.children:
+        if not getattr(ch, "is_page", False):
+            for p in section_pages(ch):
+                out[p.file.src_uri] = ch.title
+    return out
+
+
 def build_site(nav, config):
     pages = {p.url: p for p in nav.pages}
     # department assignment
@@ -763,6 +772,10 @@ def build_site(nav, config):
             n += 1
         icon, blurb = DEPT.get(slug, ("book", ""))
         kids = [p for p in ps if not p.is_index]
+        groups = subgroup_of(item)
+        for p in ps:
+            if p.file.src_uri in INFO:
+                INFO[p.file.src_uri]["group"] = groups.get(p.file.src_uri)
         d = {"title": item.title, "url": idx.url, "slug": slug, "icon": icon, "num": n, "blurb": blurb,
              "count": len(kids), "is_section": not getattr(item, "is_page", False), "pages": ps, "idx": idx}
         depts.append(d)
@@ -842,6 +855,31 @@ def build_site(nav, config):
     SITE["built"] = datetime.date.today()
 
 
+def rel_url(target, here):
+    import posixpath
+    t = posixpath.relpath(target or ".", here.rstrip("/") or ".") if target else "."
+    return t + "/" if target and target.endswith("/") and not t.endswith("/") else t
+
+
+def grassroots_table(pages, here):
+    """HTML table of every page whose article record carries the Grassroots badge, grouped by department."""
+    rows = []
+    for u, p in pages.items():
+        i = INFO.get(p.file.src_uri) or {}
+        if (i.get("record") or {}).get("grassroots") and not p.is_index:
+            d = i.get("dept")
+            rows.append(((d or {}).get("num", 99), i.get("title") or p.title, p, d, i))
+    rows.sort(key=lambda r: (r[0], r[1].lower()))
+    out = ['<table><thead><tr><th>Article</th><th>Department</th><th>What it adds</th></tr></thead><tbody>']
+    for _, title, p, d, i in rows:
+        blurb = htmlmod.escape(truncate(i.get("blurb") or "", 170))
+        dept = f'<a href="{rel_url(d["url"], here)}">{htmlmod.escape(d["title"])}</a>' if d else ""
+        out.append(f'<tr><td><a href="{rel_url(p.url, here)}">{htmlmod.escape(title)}</a></td><td>{dept}</td><td>{blurb}</td></tr>')
+    out.append("</tbody></table>")
+    out.append(f'<p><small>{len(rows)} pages carry the badge. This list is built from the article records, so it is always current.</small></p>')
+    return "".join(out)
+
+
 def on_page_context(context, page, config, nav):
     if "depts" not in SITE or SITE.get("_nav_id") != id(nav):
         SITE.pop("depts", None)
@@ -888,6 +926,14 @@ def on_page_context(context, page, config, nav):
     if kind == "section" and d:
         kids = [p for p in d["pages"] if not p.is_index]
         hr["children"] = [card(p, INFO.get(p.file.src_uri, {})) for p in kids]
+        # sub-groups from nested nav sections (e.g. Places: Regional scenes / Cruising & hangouts)
+        cg = []
+        for p, c in zip(kids, hr["children"]):
+            g = INFO.get(p.file.src_uri, {}).get("group")
+            if not cg or cg[-1]["title"] != g:
+                cg.append({"title": g, "cards": []})
+            cg[-1]["cards"].append(c)
+        hr["child_groups"] = cg if any(x["title"] for x in cg) else []
     if kind == "home":
         by_src = {p.file.src_uri: p for p in pages.values()}
         want = (page.meta or {}).get("featured") or SITE.get("featured_src")
@@ -900,7 +946,7 @@ def on_page_context(context, page, config, nav):
             hr["featured"] = fc
         places = []
         for dd in SITE["depts"]:
-            if dd["slug"] in ("cruising", "regions"):
+            if dd["slug"] == "places":
                 for p in dd["pages"]:
                     if not p.is_index:
                         places.append(card(p, INFO.get(p.file.src_uri, {})))
@@ -925,6 +971,8 @@ def on_page_context(context, page, config, nav):
                 picks.append(dict(q, text=smart_text(q["text"], " ")[0], ctx=smart_text(q.get("ctx", ""), " ")[0], url=qp.url if qp else None,
                                   page_title=INFO.get(q["src"], {}).get("title")))
         hr["picks"] = picks
+    if page.file.src_uri == "reference/grassroots-sources.md" and "<!-- hr:grassroots-articles -->" in (page.content or ""):
+        page.content = page.content.replace("<!-- hr:grassroots-articles -->", grassroots_table(pages, page.url))
     context["hr"] = hr
     context["hr_site"] = SITE
     return context

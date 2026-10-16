@@ -1,0 +1,14 @@
+{#- End-of-page reader block: correction, source tip, suggestion/feedback. Links open prefilled GitHub issue forms. -#}
+{% set issues = config.extra.issues_url | d("https://github.com/obnovas/hotrod-wiki/issues/new") %}
+{% set pg_title = (hr.title | d(page.title) | d("")) | striptags | urlencode %}
+{% set pg_url = ("/" ~ page.url) | urlencode %}
+<aside class="hr-help" aria-labelledby="hr-help-h">
+  <h2 class="hr-help__h" id="hr-help-h"><span class="hr-script">Know something we don't?</span> Help make this page better</h2>
+  <p class="hr-help__p">This wiki is a running investigation. Send a fix, a source or an idea and we will check it against the standards before anything changes.</p>
+  <ul class="hr-help__btns">
+    <li><a class="hr-btn" href="{{ issues }}?template=correction.yml&amp;title=%5BCorrection%5D%20{{ pg_title }}&amp;page={{ pg_url }}" rel="noopener">Report a correction</a></li>
+    <li><a class="hr-btn" href="{{ issues }}?template=source-tip.yml&amp;title=%5BSource%5D%20{{ pg_title }}&amp;page={{ pg_url }}" rel="noopener">Share a source</a></li>
+    <li><a class="hr-btn" href="{{ issues }}?template=suggestion-feedback.yml&amp;title=%5BSuggestion%5D%20{{ pg_title }}&amp;page={{ pg_url }}" rel="noopener">Suggest a topic or send feedback</a></li>
+  </ul>
+  <p class="hr-help__small">Uses a free GitHub account. <a href="{{ 'contribute/' | url }}">How contributions are handled</a>.</p>
+</aside>

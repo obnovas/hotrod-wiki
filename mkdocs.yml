@@ -26,18 +26,21 @@ theme:
 extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/print.css]
 extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js]
 extra:
+  issues_url: https://github.com/obnovas/hotrod-wiki/issues/new
+  feedback_url: https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml
   masthead: Hot Rod History
   masthead_tag: since the dry lakes
   # Header shortcuts; the full department index lives behind the "Contents" button (built from `nav`).
   primary_nav:
     - {label: Eras, url: eras/}
     - {label: People, url: people/}
-    - {label: Places, url: cruising/}
+    - {label: Places, url: places/}
     - {label: Voices, url: voices/}
     - {label: Timeline, url: reference/timeline/}
 hooks:
   - hooks/design_hook.py   # must stay BEFORE highlights_hook (it peels the home intro off the slider placeholder)
   - hooks/highlights_hook.py
+  - hooks/redirects_hook.py
 markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables]
 plugins:
   - search
@@ -82,60 +85,72 @@ nav:
       - Gene Snow (Texas): people/gene-snow.md
       - Bob Bartel (Illinois): people/bob-bartel.md
       - Dick Wells (Nebraska to Dragster): people/dick-wells.md
-  - Aftermarket Companies:
+  - Companies & Shops:
       - companies/index.md
       - Prewar Speed Shops (Bell, Lee's, Orr, White): companies/prewar-speed-shops.md
       - Edelbrock's Slingshot: companies/edelbrock-slingshot.md
       - Southern California Plating Co.: companies/southern-california-plating.md
       - Mr. Gasket (Ohio): companies/mr-gasket.md
       - Logghe Stamping (Michigan): companies/logghe-stamping.md
-  - Customs & Media:
+  - Cars & Techniques:
+      - cars/index.md
+      - Beast III Streamliner: cars/beast-iii.md
+      - Hill Bros. Red Baron Willys: cars/hill-bros-red-baron.md
+      - Techniques & Period Styles: cars/techniques-and-styles.md
+  - Customs & Kustom Kulture:
       - customs/index.md
-      - Trend Books, Model Kits & Roth: customs/trend-books-kits-roth.md
-      - "The Show Circuit: Oakland, Detroit, ISCA": customs/show-circuit.md
+      - Hirohata Mercury: customs/hirohata-mercury.md
       - KKOA & the Lead Sled Revival: customs/kkoa-lead-sled-revival.md
   - Street Rodding:
       - street-rodding/index.md
       - NSRA & the Early Nationals: street-rodding/nsra-early-nationals.md
       - Fiberglass Bodies & Early Suppliers: street-rodding/fiberglass-suppliers.md
-      - Street Rod Magazine (Portland, 1971–73): street-rodding/street-rod-magazine-portland.md
-  - Beyond California:
-      - regions/index.md
-      - Midwest & East Threads: regions/midwest-east.md
-      - Detroit Dragway & Cordova: regions/detroit-cordova.md
-      - The Ohio Gassers: regions/ohio-gassers.md
-      - Akron Fulton Airport Strip: regions/akron-fulton-airport.md
-      - Memphis & the Mid-South: regions/memphis.md
-      - Texas: regions/texas.md
-      - Houston Freeway Dragstrip: regions/houston-freeway-dragstrip.md
-      - Pacific Northwest: regions/pacific-northwest.md
-      - Upper Midwest: regions/upper-midwest.md
-      - Half Day, Illinois (ATAA / Maremont): regions/half-day-ataa-maremont.md
-  - Cruise Nights & Hangouts:
-      - cruising/index.md
-      - Woodward Avenue: cruising/woodward.md
-      - Woodward's Ordinances: cruising/woodward-ordinances.md
-      - Van Nuys Boulevard: cruising/van-nuys.md
-      - Bob's Big Boy & River Road: cruising/bobs-big-boy-river-road.md
-      - Harvey's Broiler, Downey: cruising/harveys-broiler-downey.md
-      - Whittier Boulevard: cruising/whittier-blvd.md
-      - Modesto: cruising/modesto.md
-      - Summer Avenue, Memphis: cruising/summer-avenue-memphis.md
-      - Lake Street & University Ave: cruising/lake-street-university.md
-      - Westheimer, Houston: cruising/westheimer-houston.md
-      - Central Ave, Albuquerque (later): cruising/central-avenue-albuquerque.md
-  - Grassroots Finds:
-      - grassroots/index.md
-      - "Pomona's Choppers & the Fontana Strip": grassroots/pomona-choppers-fontana.md
-      - "What the City Planners Wrote (1955)": grassroots/planners-report-1955.md
-      - "Modesto's Century Toppers": grassroots/modesto-century-toppers.md
-      - "Inyokern: The Sheriff's Strip": grassroots/inyokern-dust-devils.md
-      - "Great Bend, Kansas: SRCA & the First Nationals": grassroots/great-bend-srca.md
-      - "The Cop and the Auto Shop (Escanaba)": grassroots/escanaba-dragns.md
-      - "The Detective Whose Son Was a Dragster (Kansas City)": grassroots/kansas-city-timing-association.md
-      - "March 1957: Drag Strip Survey": grassroots/march-1957-drag-strip-survey.md
-      - "Hoosier Road Runners (Indiana)": grassroots/indiana-small-town-clubs.md
-      - Grassroots Sources (catalog): grassroots/sources.md
+  - Media & Shows:
+      - media/index.md
+      - Trend Books, Model Kits & Roth: media/trend-books-kits-roth.md
+      - "The Show Circuit: Oakland, Detroit, ISCA": media/show-circuit.md
+      - Street Rod Magazine (Portland, 1971–73): media/street-rod-magazine-portland.md
+  - Drag Racing & Strips:
+      - drag-racing/index.md
+      - Strips:
+          - "Pomona's Choppers & the Fontana Strip": drag-racing/pomona-choppers-fontana.md
+          - "Inyokern: The Sheriff's Strip": drag-racing/inyokern-dust-devils.md
+          - "Great Bend, Kansas: SRCA & the First Nationals": drag-racing/great-bend-srca.md
+          - Detroit Dragway & Cordova: drag-racing/detroit-cordova.md
+          - Akron Fulton Airport Strip: drag-racing/akron-fulton-airport.md
+          - Houston Freeway Dragstrip: drag-racing/houston-freeway-dragstrip.md
+          - Half Day, Illinois (ATAA / Maremont): drag-racing/half-day-ataa-maremont.md
+      - Clubs & Timing Associations:
+          - "Modesto's Century Toppers": drag-racing/modesto-century-toppers.md
+          - "The Cop and the Auto Shop (Escanaba)": drag-racing/escanaba-dragns.md
+          - "The Detective Whose Son Was a Dragster (Kansas City)": drag-racing/kansas-city-timing-association.md
+          - "Hoosier Road Runners (Indiana)": drag-racing/indiana-small-town-clubs.md
+      - Rules, Safety & Public Opinion:
+          - "What the City Planners Wrote (1955)": drag-racing/planners-report-1955.md
+          - "March 1957: Drag Strip Survey": drag-racing/march-1957-drag-strip-survey.md
+  - Places & Scenes:
+      - places/index.md
+      - Regional scenes:
+          - places/regional-scenes.md
+          - Midwest & East Threads: places/midwest-east.md
+          - The Ohio Gassers: places/ohio-gassers.md
+          - Memphis & the Mid-South: places/memphis.md
+          - Texas: places/texas.md
+          - Pacific Northwest: places/pacific-northwest.md
+          - Upper Midwest: places/upper-midwest.md
+      - Cruising & hangouts:
+          - places/cruising-overview.md
+          - Woodward Avenue: places/woodward.md
+          - Woodward's Ordinances: places/woodward-ordinances.md
+          - Van Nuys Boulevard: places/van-nuys.md
+          - Bob's Big Boy & River Road: places/bobs-big-boy-river-road.md
+          - Harvey's Broiler, Downey: places/harveys-broiler-downey.md
+          - Whittier Boulevard: places/whittier-blvd.md
+          - Modesto: places/modesto.md
+          - Summer Avenue, Memphis: places/summer-avenue-memphis.md
+          - Lake Street & University Ave: places/lake-street-university.md
+          - Westheimer, Houston: places/westheimer-houston.md
+          - Central Ave, Albuquerque (later): places/central-avenue-albuquerque.md
   - "Voices: In Their Own Words":
       - voices/index.md
       - Blackie Gold (Muroc, 1930s): voices/blackie-gold.md
@@ -158,13 +173,10 @@ nav:
       - Patents: reference/patents.md
       - Image Credits: reference/image-credits.md
       - Source Standards: reference/source-standards.md
+      - Grassroots Sources & the Badge: reference/grassroots-sources.md
       - Editorial Voice: style-guide.md
+      - How the Site Is Organized: taxonomy.md
+      - Contribute: contribute.md
       - Highlights Archive: highlights-archive.md
-  - Cars:
-      - cars/index.md
-      - Hirohata Mercury: cars/hirohata-mercury.md
-      - Beast III Streamliner: cars/beast-iii.md
-      - Hill Bros. Red Baron Willys: cars/hill-bros-red-baron.md
-  - Techniques & Styles: techniques/index.md
-  - Research Trail: research-trail.md
-  - Bibliography: bibliography.md
+      - Research Trail: research-trail.md
+      - Bibliography: bibliography.md

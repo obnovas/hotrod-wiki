@@ -12,5 +12,5 @@ The headline stories of American hot rodding have been told plenty. This archive
     - Every factual claim carries a footnote with a source URL.
     - **⚠ Conflict** marks places where sources disagree; both versions are shown.
     - **◐ Single-sourced** marks claims found in only one source so far.
-    - The teal **Grassroots** badge marks articles built mainly on local or homegrown sources: [what counts and where we found them](grassroots/sources.md).
+    - The teal **Grassroots** badge marks articles built mainly on local or homegrown sources: [what counts and where we found them](reference/grassroots-sources.md).
     - The [Research Trail](research-trail.md) is the running detective's log of leads.

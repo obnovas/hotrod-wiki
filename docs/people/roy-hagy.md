@@ -21,7 +21,7 @@ On where chopping came from, Sparks said, "It had to start sometime in the mid- 
 
 ## Why it matters
 
-Metal-finishing rather than leading puts Hagy against the grain of the "lead sled" era that followed ([Techniques](../techniques/index.md)).
+Metal-finishing rather than leading puts Hagy against the grain of the "lead sled" era that followed ([Techniques](../cars/techniques-and-styles.md)).
 
 ## Images
 

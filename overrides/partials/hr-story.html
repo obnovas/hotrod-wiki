@@ -52,13 +52,23 @@
   <div class="hr-body md-typeset">
     {% if kind == "section" and hr.children %}
     <section class="hr-stories" aria-label="Stories in this department">
+      {% if hr.child_groups %}
+      {% for g in hr.child_groups %}
+      {% if g.title %}<h2 class="hr-stories__group">{{ g.title }}</h2>{% endif %}
+      <ul class="hr-grid-cards">
+        {% for c in g.cards %}{% include "partials/hr-card.html" %}{% endfor %}
+      </ul>
+      {% endfor %}
+      {% else %}
       <ul class="hr-grid-cards">
         {% for c in hr.children %}{% include "partials/hr-card.html" %}{% endfor %}
       </ul>
+      {% endif %}
     </section>
     <h2 class="hr-ledger-h" id="the-full-listing">The full listing</h2>
     {% endif %}
     {{ page.content }}
+    {% if kind in ("story", "ref", "section") and page.file.src_uri != "contribute.md" %}{% include "partials/hr-contribute.html" %}{% endif %}
     {% include "partials/source-file.html" %}
   </div>
 </div>

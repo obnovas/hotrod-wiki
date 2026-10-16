@@ -3,7 +3,7 @@
 *A motorcycle publisher, a dropped magazine, and a name that was already taken*
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** founders' recollections in Street Rodder's 40th-anniversary feature (2012; web Apr 8, 2014); SEMA News heritage piece (2012); 99W cover index · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** resolved in Round 10: see [*Street Rod* magazine (Portland)](../street-rodding/street-rod-magazine-portland.md) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium-High · **Source types:** founders' recollections in Street Rodder's 40th-anniversary feature (2012; web Apr 8, 2014); SEMA News heritage piece (2012); 99W cover index · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** resolved in Round 10: see [*Street Rod* magazine (Portland)](../media/street-rod-magazine-portland.md) · [How we rate this](../reference/source-standards.md)
 
 *Street Rodder* first appeared in **May 1972** from Tom and Rose McMullen's TRM Publications, which until then published motorcycle titles (Street Chopper, Chopper Guide). Tom McMullen had himself been a Hot Rod cover subject in April 1963, with his flamed Deuce (SEMA News).[^sema] See [Street Rodding](../street-rodding/index.md).
 
@@ -25,7 +25,7 @@
 > — **Tex Smith**, on hiring Brian Brennan, 2012.[^sr]
 
 ## From the detective's notebook
-- **A Northwest lead:** Clark's memory puts a *Street Rod* magazine in Portland by early 1972, which ties in with the [Pacific Northwest](../regions/pacific-northwest.md) scene. **Documented in Round 10:** the 99W cover index lists 20 issues of Bruce Miller and Bruce Craig's *Street Rod*, from October 1971 to July 1973. That confirms Clark's memory. See [*Street Rod* magazine](../street-rodding/street-rod-magazine-portland.md).
+- **A Northwest lead:** Clark's memory puts a *Street Rod* magazine in Portland by early 1972, which ties in with the [Pacific Northwest](../places/pacific-northwest.md) scene. **Documented in Round 10:** the 99W cover index lists 20 issues of Bruce Miller and Bruce Craig's *Street Rod*, from October 1971 to July 1973. That confirms Clark's memory. See [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 - Who founded it? Clark credits Tex as "the driving force." SEMA and 99W credit McMullen as founder and owner.[^sema][^99] The accounts complement each other rather than conflict.
 
 [^sr]: Street Rodder, "Street Rodder's 40th Anniversary – Time Flies" (hotrod.com, posted Apr 8, 2014). https://www.hotrod.com/features/street-rodders-40th-anniversary (accessed 2026-10-13)

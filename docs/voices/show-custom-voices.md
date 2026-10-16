@@ -9,7 +9,7 @@
 
 > "We didn't know rods from roller skates … but people liked them so much that Al decided the next year to hold a hot-rod-only car show."
 >
-> — **Mary Slonaker**, widow and partner of promoter Al Slonaker, in Hot Rod's "Golden Oldie" (Dain Gingerelli and Andy Southard Jr.).[^go] *Told about 50 years later.* See [The Show Circuit](../customs/show-circuit.md).
+> — **Mary Slonaker**, widow and partner of promoter Al Slonaker, in Hot Rod's "Golden Oldie" (Dain Gingerelli and Andy Southard Jr.).[^go] *Told about 50 years later.* See [The Show Circuit](../media/show-circuit.md).
 
 > "I've had the most, not the best, just the most, and I'm coming back this year with a chopped, channeled, and sectioned '32 three-window."
 >

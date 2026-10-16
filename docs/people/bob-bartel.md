@@ -12,7 +12,7 @@
 
 When Bob Bartel's car clubs couldn't afford a drag strip, he cashed Sears stock and, with businessmen from Moline, Rock Island, Davenport and Bettendorf, bought river-silt farmland from the **Sullivan** family two-thirds of a mile from the Mississippi.[^cp]
 
-**Robert J. "Bob" Bartel** was a Sears employee and Quad Cities car-club man who helped start a national drag-racing body outside California. He built the Quad City Drag Strip at **Cordova, Illinois**, and kept the **World Series of Drag Racing** there from 1957 until 2015. His story widens our [Detroit Dragway & Cordova](../regions/detroit-cordova.md) page: for a few years in the mid-1950s the Midwest ran its own national meet, with cash purses, separate from NHRA.
+**Robert J. "Bob" Bartel** was a Sears employee and Quad Cities car-club man who helped start a national drag-racing body outside California. He built the Quad City Drag Strip at **Cordova, Illinois**, and kept the **World Series of Drag Racing** there from 1957 until 2015. His story widens our [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md) page: for a few years in the mid-1950s the Midwest ran its own national meet, with cash purses, separate from NHRA.
 
 ## The man (from the obituary)
 
@@ -43,7 +43,7 @@ The sources can't agree on the year, and the disagreement is worth a look:
 
 **Working position:** 1954 (Lawrenceville), with 1956 kept open, until a dated program or newspaper ad turns up. The tribute's own note that Illinois racer **Dave Jamison** attended "all but the 1955" World Series, having been "at the inaugural," fits a pre-1956 start.[^cp] ◐
 
-**A period source, sponsor-written but dated:** a June 1955 Chilton's *Motor Age* article bylined to a Maremont Automotive Products staffer says the first annual World Series was held at Lawrenceville "last October" (October 1954) and "attracted some 350 hot rodders and approximately 10,000 spectators," and that the second annual would run "August 17 through 21." It also quotes Gov. William Stratton welcoming hot rodders to "the 1954 World Series of Drag Racing." That supports 1954 over the 1953 and 1956 claims, though it is the ATAA's own publicity and we still lack a program or ad. It dates the ATAA's founding to **1952**, not 1953. See [Half Day, Illinois](../regions/half-day-ataa-maremont.md).[^r12ma]
+**A period source, sponsor-written but dated:** a June 1955 Chilton's *Motor Age* article bylined to a Maremont Automotive Products staffer says the first annual World Series was held at Lawrenceville "last October" (October 1954) and "attracted some 350 hot rodders and approximately 10,000 spectators," and that the second annual would run "August 17 through 21." It also quotes Gov. William Stratton welcoming hot rodders to "the 1954 World Series of Drag Racing." That supports 1954 over the 1953 and 1956 claims, though it is the ATAA's own publicity and we still lack a program or ad. It dates the ATAA's founding to **1952**, not 1953. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
 
 ## Building Cordova
 
@@ -57,7 +57,7 @@ A late-1956 government mandate pushed racing off airports, and the World Series 
 
 **Promotion:** he brought the current winner of TV's *The $64,000 Question* to the track for the whole meet. The tribute says "as many people came to the track to meet the TV personality as came to see the drag racers."[^cp] ◐
 
-In **1957** Don Garlits beat Emery Cook in the semifinal. Per the tribute, Garlits "proudly states he was 'nobody'" until that win. See [Detroit & Cordova](../regions/detroit-cordova.md).[^cp]
+In **1957** Don Garlits beat Emery Cook in the semifinal. Per the tribute, Garlits "proudly states he was 'nobody'" until that win. See [Detroit & Cordova](../drag-racing/detroit-cordova.md).[^cp]
 
 In **1968**, floods washed out the surface, so Bartel shortened the World Series to **1,000 feet** for the fastest classes. The tribute says he was also "the first to offer a true National Title for Funny Car competitors." ◐[^cp] The track hosted events from "nine different drag racing associations" over its life.[^cp]
 
@@ -67,9 +67,9 @@ Cordova was sold to racer **Bob Gipson (1986)**, then **Scott Gardner (1996)**. 
 
 IRG moved the **2016** World Series to Memphis International Raceway. Bartel was "emotionally crushed," and the event returned to Cordova in **2017**, which Bartel attended at 96.[^cp]
 
-Bartel and racer **Ron Colson** said they owned the World Series name, citing a USPTO document dated **Oct. 11, 2016**. Colson said the name had never been contested under Gipson or Gardner.[^qc] ◐ (Colson raced a B/Gas '41 Studebaker before driving the *Chi-Town Hustler*. See [Ohio & Midwest Gassers](../regions/ohio-gassers.md).)
+Bartel and racer **Ron Colson** said they owned the World Series name, citing a USPTO document dated **Oct. 11, 2016**. Colson said the name had never been contested under Gipson or Gardner.[^qc] ◐ (Colson raced a B/Gas '41 Studebaker before driving the *Chi-Town Hustler*. See [Ohio & Midwest Gassers](../places/ohio-gassers.md).)
 
-**See also:** [Detroit Dragway & Cordova](../regions/detroit-cordova.md), [Setto Postoian](setto-postoian.md) (1957–58 World Series final), [Ohio & Midwest Gassers](../regions/ohio-gassers.md), [Akron Fulton Airport strip](../regions/akron-fulton-airport.md) (another early airport strip).
+**See also:** [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Setto Postoian](setto-postoian.md) (1957–58 World Series final), [Ohio & Midwest Gassers](../places/ohio-gassers.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (another early airport strip).
 
 ## Images
 

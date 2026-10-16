@@ -2,3 +2,4 @@ site/
 .venv/
 .cache/
 hooks/__pycache__/design_hook*
+hooks/__pycache__/redirects_hook*

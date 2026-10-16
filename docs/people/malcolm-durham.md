@@ -36,7 +36,7 @@ Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on us
 
 ⚠ **From the detective's notebook:** Burgess's 2009 column calls his Top 50 slot **No. 46**; the 2001 Auto Channel reprint of the NHRA text is headed **Number 48**. We flag it until the original National Dragster list is checked.[^fred][^top50]
 
-**See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Leonard Miller](../voices/leonard-miller.md), [Midwest & East](../regions/midwest-east.md), [Injection & Tin voices](../voices/injection-and-tin.md).
+**See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Leonard Miller](../voices/leonard-miller.md), [Midwest & East](../places/midwest-east.md), [Injection & Tin voices](../voices/injection-and-tin.md).
 
 ## Images
 

@@ -22,6 +22,25 @@ def git_show(ref, path):
     return r.stdout if r.returncode == 0 else None
 
 
+def moved_from():
+    """new docs path -> [possible old docs paths], from hooks/redirects.yml (pages that moved keep a redirect)"""
+    import yaml
+    f = ROOT / "hooks/redirects.yml"
+    out = {}
+    if not f.exists():
+        return out
+    for old, new in (yaml.safe_load(f.read_text()) or {}).get("redirects", {}).items():
+        new_md = "docs/" + (new.strip("/") + "/index.md" if new.endswith("/") and "." not in new else new)
+        cand_new = ["docs/" + new.strip("/") + ".md", "docs/" + new.strip("/") + "/index.md"]
+        cand_old = ["docs/" + old.strip("/") + ".md", "docs/" + old.strip("/") + "/index.md"]
+        for n in cand_new:
+            out.setdefault(n, []).extend(cand_old)
+    return out
+
+
+MOVED = None
+
+
 def norm(s):
     s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"').replace("–", "-").replace("—", "-")
     return re.sub(r"\s+", " ", s).strip()
@@ -145,6 +164,13 @@ def main():
     for f in files:
         rel = str(f.resolve().relative_to(ROOT))
         old = next((t for t in (git_show(b, rel) for b in bases) if t is not None), None)
+        if old is None:
+            global MOVED
+            MOVED = MOVED if MOVED is not None else moved_from()
+            for cand in sorted(MOVED.get(rel, []), key=len, reverse=True):
+                old = next((t for t in (git_show(b, cand) for b in bases) if t is not None), None)
+                if old is not None:
+                    break
         if old is None:
             new.append(rel); continue
         diffs = compare(rel, old, (ROOT / rel).read_text())

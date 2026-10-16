@@ -3,7 +3,7 @@
 !!! abstract "Article record"
     **Confidence:** Medium-High · **Source types:** NHRA interview feature (2014), BangShift obituary (Jan 3, 2018), Memphis Rodders blog (2008) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** ⚠ Halls start year and Safari month (below); Commercial Appeal 2008 article not yet read · [How we rate this](../reference/source-standards.md)
 
-Raymond Godman (Memphis) ran the **Tennessee Bo-Weevil** cars, co-founded Lakeland Dragway, and served as an NHRA regional adviser. He died in late 2017 or early 2018 (BangShift, Jan 3, 2018). In 2014 NHRA.com interviewed him and his driver **Preston Davis**.[^nh][^bs] See [Memphis & the Mid-South](../regions/memphis.md).
+Raymond Godman (Memphis) ran the **Tennessee Bo-Weevil** cars, co-founded Lakeland Dragway, and served as an NHRA regional adviser. He died in late 2017 or early 2018 (BangShift, Jan 3, 2018). In 2014 NHRA.com interviewed him and his driver **Preston Davis**.[^nh][^bs] See [Memphis & the Mid-South](../places/memphis.md).
 
 ## In his words
 

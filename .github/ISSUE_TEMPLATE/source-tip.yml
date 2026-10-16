@@ -1,0 +1,47 @@
+name: Share a source
+description: A local paper, club newsletter, obituary, oral history, photo or record we should read.
+title: "[Source] "
+labels: ["source-tip", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Local and homegrown sources are the heart of this wiki: local papers, club newsletters, obituaries, municipal records, markers, family accounts. Please do not paste copyrighted material or share anything behind a paywall in full; a link and a short description is perfect.
+  - type: input
+    id: page
+    attributes:
+      label: Related page (optional)
+      placeholder: /drag-racing/great-bend-srca/
+  - type: input
+    id: link
+    attributes:
+      label: Link or citation
+      description: URL, or title, date and page number.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What does it tell us?
+      description: People, places, dates, and what it confirms, adds or contradicts.
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Kind of source
+      options:
+        - Local newspaper
+        - Obituary
+        - Club newsletter or club history
+        - Municipal, police or court record
+        - Historical marker or society page
+        - Oral history or interview
+        - Family account or photo caption
+        - Magazine or book
+        - Other
+  - type: input
+    id: credit
+    attributes:
+      label: How should we credit you?
+      description: A name or handle, or "anonymous".

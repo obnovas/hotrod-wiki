@@ -1,0 +1,40 @@
+name: Report a correction
+description: Something on a page looks wrong, outdated or misattributed.
+title: "[Correction] "
+labels: ["correction", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Every change on this wiki needs a citable source, so please include one if you can. If you only remember it, say so and we will treat it as a lead (◐ single-source) until we find a second source.
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The page URL or path (filled in when you use the button at the end of an article).
+      placeholder: /people/ed-winfield/
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong?
+      description: Quote the sentence if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: What should it say?
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: A link, or the title, date and page of a book, magazine or newspaper. Say whether you saw it yourself or are recalling it.
+  - type: input
+    id: credit
+    attributes:
+      label: How should we credit you?
+      description: A name or handle for the Research Trail credit line, or "anonymous".

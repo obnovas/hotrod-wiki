@@ -5,7 +5,7 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** a 1965 magazine quote (reprinted, original title unknown), a friend's memoir (Bob Burns, Letterville), LA Times exhibition story (Sept 2, 2002) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** We have not yet identified the 1965 magazine; many of the stories are secondhand · [How we rate this](../reference/source-standards.md)
 
-Kenneth "Von Dutch" Howard (died 1992, aged 63, per the LA Times) is widely credited with reviving pinstriping in the 1950s. Most of what circulates about him is anecdote. Here we separate **his own words**, which are few, from **friends' stories**. See [Trend Books, Kits & Roth](../customs/trend-books-kits-roth.md) and his 1961 rocket car on that page.
+Kenneth "Von Dutch" Howard (died 1992, aged 63, per the LA Times) is widely credited with reviving pinstriping in the 1950s. Most of what circulates about him is anecdote. Here we separate **his own words**, which are few, from **friends' stories**. See [Trend Books, Kits & Roth](../media/trend-books-kits-roth.md) and his 1961 rocket car on that page.
 
 ## Poor on purpose (1965)
 

@@ -1,0 +1,43 @@
+# Old URL -> new URL (docs-relative, with trailing slash). Read by hooks/redirects_hook.py,
+# which writes a redirect stub for each old page plus a Netlify _redirects file.
+# When you move or rename a page, add a line here. Never delete old lines.
+redirects:
+  customs/trend-books-kits-roth/: media/trend-books-kits-roth/
+  customs/show-circuit/: media/show-circuit/
+  street-rodding/street-rod-magazine-portland/: media/street-rod-magazine-portland/
+  cars/hirohata-mercury/: customs/hirohata-mercury/
+  techniques/: cars/techniques-and-styles/
+  regions/: places/regional-scenes/
+  regions/midwest-east/: places/midwest-east/
+  regions/ohio-gassers/: places/ohio-gassers/
+  regions/memphis/: places/memphis/
+  regions/texas/: places/texas/
+  regions/pacific-northwest/: places/pacific-northwest/
+  regions/upper-midwest/: places/upper-midwest/
+  cruising/: places/cruising-overview/
+  cruising/woodward/: places/woodward/
+  cruising/woodward-ordinances/: places/woodward-ordinances/
+  cruising/van-nuys/: places/van-nuys/
+  cruising/bobs-big-boy-river-road/: places/bobs-big-boy-river-road/
+  cruising/harveys-broiler-downey/: places/harveys-broiler-downey/
+  cruising/whittier-blvd/: places/whittier-blvd/
+  cruising/modesto/: places/modesto/
+  cruising/summer-avenue-memphis/: places/summer-avenue-memphis/
+  cruising/lake-street-university/: places/lake-street-university/
+  cruising/westheimer-houston/: places/westheimer-houston/
+  cruising/central-avenue-albuquerque/: places/central-avenue-albuquerque/
+  regions/detroit-cordova/: drag-racing/detroit-cordova/
+  regions/akron-fulton-airport/: drag-racing/akron-fulton-airport/
+  regions/houston-freeway-dragstrip/: drag-racing/houston-freeway-dragstrip/
+  regions/half-day-ataa-maremont/: drag-racing/half-day-ataa-maremont/
+  grassroots/pomona-choppers-fontana/: drag-racing/pomona-choppers-fontana/
+  grassroots/planners-report-1955/: drag-racing/planners-report-1955/
+  grassroots/modesto-century-toppers/: drag-racing/modesto-century-toppers/
+  grassroots/inyokern-dust-devils/: drag-racing/inyokern-dust-devils/
+  grassroots/great-bend-srca/: drag-racing/great-bend-srca/
+  grassroots/escanaba-dragns/: drag-racing/escanaba-dragns/
+  grassroots/kansas-city-timing-association/: drag-racing/kansas-city-timing-association/
+  grassroots/march-1957-drag-strip-survey/: drag-racing/march-1957-drag-strip-survey/
+  grassroots/indiana-small-town-clubs/: drag-racing/indiana-small-town-clubs/
+  grassroots/sources/: reference/grassroots-sources/
+  grassroots/: reference/grassroots-sources/

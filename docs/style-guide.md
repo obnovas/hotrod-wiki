@@ -50,3 +50,6 @@ Everything else in [Source Standards](reference/source-standards.md) still appli
 3. Is each ⚠ and ◐ still there, and still honest?
 4. Did we cut a quote, move a citation off its claim, or add a detail "for color"? If yes, undo it.
 5. Does the last line earn its place?
+
+## Where a new page goes
+File each page in the department that matches its subject, not its source type: see the ten questions in [How the Site Is Organized](taxonomy.md#how-to-choose-a-department). Local or homegrown sourcing is shown with the Grassroots badge in the article record, never with a folder.

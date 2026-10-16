@@ -29,9 +29,9 @@ Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the wor
 
 NHRA results: Jr. Stock at the 1966 Springnationals and Super Stock at the 1968 U.S. Nationals.[^nhra] MMSHOF says he won all five 1970 SWC points meets in a Duster and calls him the first man to do so.[^mm] ◐ *This is a promotional HOF claim and needs checking.*
 
-He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Beyond California](../regions/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
+He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Midwest & East Threads](../places/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
 
-**See also (Round 10):** [Akron Fulton Airport strip](../regions/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../regions/ohio-gassers.md).
+**See also (Round 10):** [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../places/ohio-gassers.md).
 
 ## Images
 

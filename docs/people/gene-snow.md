@@ -12,7 +12,7 @@
 
 Gene Snow's sales method was to race cars off his own lot. "I would win a race with a dealership car on Sunday and usually sold the winning entry the next day."[^top50]
 
-**Gene "the Snowman" Snow** was a Fort Worth used-car dealer who became one of the early Funny Car's most technical drivers. His Logghe-chassis Dodge Charger *Rambunctious* made the class's first 200-mph pass at Don and Carl Gay's track in Dickinson, Texas, the [Houston Freeway Dragstrip](../regions/houston-freeway-dragstrip.md). He also ran the first official 200-mph Funny Car pass at an NHRA national event (Dallas, May 3, 1970).[^top50][^nd16]
+**Gene "the Snowman" Snow** was a Fort Worth used-car dealer who became one of the early Funny Car's most technical drivers. His Logghe-chassis Dodge Charger *Rambunctious* made the class's first 200-mph pass at Don and Carl Gay's track in Dickinson, Texas, the [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md). He also ran the first official 200-mph Funny Car pass at an NHRA national event (Dallas, May 3, 1970).[^top50][^nd16]
 
 ## From engineering to the used-car lot
 
@@ -58,7 +58,7 @@ In **1971** Snow ran one of the first multicar teams, with two mini-Chargers and
 
 He left racing after 1978, blaming the gas crisis and poor seasons, and returned in **Top Fuel in 1981**. With Bob Brooks at AFT he developed a direct-drive Top Fuel setup.[^top50]
 
-On **Oct. 6, 1988, at Houston Raceway Park, Baytown**, he ran a **4.997/279.06** on his first pass at the new track, the first sub-five-second run at an NHRA event. "It was neat, it was fun and we've been trying for a long time to achieve this performance," he told UPI.[^upi] (Houston Raceway Park was co-founded by the Gay family. See [Houston Freeway](../regions/houston-freeway-dragstrip.md).)
+On **Oct. 6, 1988, at Houston Raceway Park, Baytown**, he ran a **4.997/279.06** on his first pass at the new track, the first sub-five-second run at an NHRA event. "It was neat, it was fun and we've been trying for a long time to achieve this performance," he told UPI.[^upi] (Houston Raceway Park was co-founded by the Gay family. See [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md).)
 
 He retired after a crash at the 1992 Dallas national event and returned in 1997 with an A/Fuel dragster run "on a hobby basis."[^top50]
 
@@ -68,7 +68,7 @@ He retired after a crash at the 1992 Dallas national event and returned in 1997 
 
 **Editorial note:** Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp] ◐ *We could not open the WFAA report (the archive copy did not load) and have not verified it independently.* This page covers his racing record.
 
-**See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../regions/houston-freeway-dragstrip.md), [Texas](../regions/texas.md), [Eddie Schartman](../people/eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md).
+**See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), [Texas](../places/texas.md), [Eddie Schartman](eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md).
 
 ## Images
 

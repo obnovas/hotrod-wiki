@@ -1,4 +1,4 @@
-# Aftermarket Companies
+# Companies & Shops
 
 *Garage-born speed shops, and what a few of them grew into.*
 

@@ -46,7 +46,7 @@ Ron Logghe died **May 27, 2020**; Gene died **August 2021** (MMSHOF).[^mms][^gar
 
 Inducted MMSHOF **2010**; Garlits Museum / IDRHOF class of **2021**; NHRA Hot Rod Reunion honorees **2006**.[^mms][^gar]
 
-**See also:** [Eddie Schartman](../people/eddie-schartman.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Detroit Dragway & Cordova](../regions/detroit-cordova.md), [Malcolm Durham](../people/malcolm-durham.md) (later Logghe Camaro), [Gene Snow](../people/gene-snow.md) (Logghe-chassis Charger *Rambunctious*, 118-in. wheelbase, per *Hot Rod* June 1969).
+**See also:** [Eddie Schartman](../people/eddie-schartman.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Malcolm Durham](../people/malcolm-durham.md) (later Logghe Camaro), [Gene Snow](../people/gene-snow.md) (Logghe-chassis Charger *Rambunctious*, 118-in. wheelbase, per *Hot Rod* June 1969).
 
 ## Images
 

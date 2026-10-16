@@ -24,7 +24,7 @@ A hayfield loaned by a Mr. Forest Lemmons hosted the show. There was a swap meet
 
 Andy Brizio drove his America's Most Beautiful Roadster-winning '23 T-bucket ~2,000 miles from San Francisco with four friends, towing a broken car 740 miles to Cheyenne. Then he watched Best Car go to a trailered car.[^rc]
 
-See [Beyond California](../regions/midwest-east.md) for the Slo-Pokes and the Best Car puzzle (Orv Elgie's 8,000-mile drive vs Brizio's "trailer" complaint).
+See [Midwest & East Threads](../places/midwest-east.md) for the Slo-Pokes and the Best Car puzzle (Orv Elgie's 8,000-mile drive vs Brizio's "trailer" complaint).
 
 ## The numbers
 

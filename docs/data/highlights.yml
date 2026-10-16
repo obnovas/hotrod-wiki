@@ -16,7 +16,7 @@ highlights:
   - id: inyokern-sheriff-faa
     headline: "A sheriff started Inyokern's drag strip. The FAA ended it, 51 years on"
     teaser: "The LA Times says Sheriff Mac McKernan helped young hot rodders race legally on an Inyokern Airport taxiway, and a volunteer club kept the strip going for about 51 years. The date of the very last race is still a three-way argument."
-    link: grassroots/inyokern-dust-devils.md
+    link: drag-racing/inyokern-dust-devils.md
     evidence: ["about 51 years", "FAA threatened"]
     source_type: ["Local news", "Obituary"]
     confidence: Medium
@@ -48,7 +48,7 @@ highlights:
   - id: columbia-hatchery-club
     headline: "Teens raided a parts yard; Columbia, Missouri's police answered with a hot rod club"
     teaser: "After teenagers were arrested raiding a local auto parts yard, police started the Columbia Motor Sports Club in June 1954, says a 1955 planners' report. The clubhouse was a converted hatchery, and only 16 of its 100 members voted for a drag strip."
-    link: grassroots/planners-report-1955.md#small-town-programs-it-describes
+    link: drag-racing/planners-report-1955.md#small-town-programs-it-describes
     evidence: ["a converted hatchery", "Only 16 of the 100 members voted for a drag strip"]
     source_type: "Municipal record"
     confidence: Medium
@@ -61,7 +61,7 @@ highlights:
   - id: hirohata-97-vs-14
     headline: "97 days or 14? Sources disagree on how fast the Hirohata Merc was built"
     teaser: "Ken Gross of the Revs Institute writes 97 days, while a Hagerty video title says 14, and we flag the conflict instead of picking a winner."
-    link: cars/hirohata-mercury.md#the-build
+    link: customs/hirohata-mercury.md#the-build
     evidence: "Conflict on build time"
     source_type: ["Museum / HOF", "Trade press"]
     confidence: Medium
@@ -89,7 +89,7 @@ highlights:
   - id: pomona-join-them
     headline: "Pomona's police chief on hot rodders: \"If you can't control them—join them\""
     teaser: "Chief Ralph Parker told other police in 1951 that joining the hot rodders was the one approach his department hadn't tried. It lent them its Officers Club rooms, docked 10 points per citation, and the club leased a strip at Fontana Airport."
-    link: grassroots/pomona-choppers-fontana.md
+    link: drag-racing/pomona-choppers-fontana.md
     evidence: ["If you can't control them—join them", "10 points"]
     source_type: "Municipal record"
     confidence: Medium-High
@@ -121,7 +121,7 @@ highlights:
   - id: winfield-chicken-coop
     headline: "Gene Winfield began customizing in his mother's converted chicken coop"
     teaser: "A chicken coop launched a customizer, and Modesto's Century Toppers club met at his \"Windy's Custom Shop.\" Even the club's birth year is contested: 1946 or late 1947."
-    link: grassroots/modesto-century-toppers.md
+    link: drag-racing/modesto-century-toppers.md
     evidence: ["converted chicken coop", "Windy's Custom Shop", "When was it founded?"]
     source_type: ["Oral history", "Local history site"]
     confidence: Medium
@@ -137,7 +137,7 @@ highlights:
   - id: houston-who-bought-it
     headline: "Who bought Houston's Freeway Drag Strip? Local history says Don Gay; NHRA says his parents"
     teaser: "A local history site says Don Gay bought the strip in 1960, but NHRA says his parents, Carl and Marie Gay, did, and Don was about 13 that year. We credit the Gay family and leave the exact year open."
-    link: regions/houston-freeway-dragstrip.md#who-bought-it
+    link: drag-racing/houston-freeway-dragstrip.md#who-bought-it
     evidence: "We therefore credit the Gay family (Carl and Marie) as buyers"
     source_type: ["Local history site", "Trade press"]
     confidence: Medium
@@ -163,7 +163,7 @@ highlights:
   - id: great-bend-chamber-letter
     headline: "A Kansas Chamber of Commerce letter, the club says, landed NHRA's first national meet"
     teaser: "The club's own page says Great Bend's Chamber of Commerce wrote Wally Parks in 1955 asking to host the first national event, and \"NHRA said YES.\" Then NHRA's retrospective has the rain: it washed out the finals, which were finished in Arizona that November."
-    link: grassroots/great-bend-srca.md
+    link: drag-racing/great-bend-srca.md
     evidence: ["NHRA said YES", "The worst rainstorm in 30 years"]
     source_type: ["Club newsletter", "Local news"]
     confidence: Medium-High
@@ -179,7 +179,7 @@ highlights:
   - id: modesto-four-hours
     headline: "Modesto's 1990 anti-cruising law: no passing the same spot twice in four hours"
     teaser: "On March 27, 1990, Modesto barred passing the same spot on McHenry Avenue more than once every four hours. A historical marker claims a ban \"remains in force today,\" and the wiki can't square that with the 1990 ordinance."
-    link: cruising/modesto.md#policing
+    link: places/modesto.md#policing
     evidence: ["more than once every four hours", "an ordinance that remains in force today"]
     source_type: ["Municipal record", "Historical marker"]
     confidence: Medium
@@ -221,7 +221,7 @@ highlights:
   - id: akron-marker
     headline: "Ohio's first racing marker honors an Akron airport strip"
     teaser: "A 2016 report called Ohio History Connection marker 47-77 the first Ohio historical marker for racing \"of any kind.\" Its \"1959 championship\" wording doesn't match NHRA's account of a Middle Eliminator win."
-    link: regions/akron-fulton-airport.md
+    link: drag-racing/akron-fulton-airport.md
     evidence: ["Ohio historical marker for racing", "1959 championship"]
     source_type: "Historical marker"
     confidence: Medium
@@ -250,7 +250,7 @@ highlights:
   - id: escanaba-cop-hot-rod-club
     headline: "An Escanaba cop ran the hot rod club, and one ticket meant 30 days out"
     teaser: "In 1954–55 the Drag-n's Auto Club met above an auto shop with a city policeman as president. Its rule, per the Escanaba Daily Press: a moving-violation ticket suspends a member for 30 days."
-    link: grassroots/escanaba-dragns.md
+    link: drag-racing/escanaba-dragns.md
     evidence: automatically suspends a member from the club for 30 days
     source_type: Local news
     confidence: Medium
@@ -262,7 +262,7 @@ highlights:
   - id: world-series-oct-1954-maremont
     headline: "First World Series of drag racing: October 1954, says a sponsor's 1955 article"
     teaser: "Maremont's own writer says about 350 hot rodders and 10,000 spectators came to Lawrenceville. It narrows an old date conflict, but it is sponsor copy, so the conflict stays open."
-    link: regions/half-day-ataa-maremont.md
+    link: drag-racing/half-day-ataa-maremont.md
     evidence: attracted some 350 hot rodders and approximately 10,000 spectators
     source_type: Trade press
     confidence: Medium
@@ -274,7 +274,7 @@ highlights:
   - id: birmingham-banned-drive-ins
     headline: "Birmingham, Michigan outlawed drive-ins in 1966. It didn't have any"
     teaser: "The city museum says a runaway's 1963 death brought new scrutiny to Woodward cruisers, and that Birmingham then banned a business it did not have. It is one museum's account, and we have no ordinance text."
-    link: cruising/woodward-ordinances.md
+    link: places/woodward-ordinances.md
     evidence: Birmingham had no drive-in restaurants
     source_type: Local history site
     confidence: Medium
@@ -286,7 +286,7 @@ highlights:
   - id: kansas-city-detective-strip
     headline: "Kansas City's chief of detectives had hot rodders check 3,947 cars, then got them a strip"
     teaser: "Major Eugene Pond, whose own son was a teen dragster, wrote that 32 clubs and a volunteer inspection drive led to a $72,000 strip drawing 18,000 paid spectators in 1955. We found no second account."
-    link: grassroots/kansas-city-timing-association.md
+    link: drag-racing/kansas-city-timing-association.md
     evidence: Kansas City police, unable to coerce Hot Rodders, joined them
     source_type: Municipal record
     confidence: Medium

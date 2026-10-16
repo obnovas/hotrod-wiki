@@ -3,7 +3,7 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** radio and newspaper interview (WHYY, Peter Crimmins, June 22, 2018); museum story (NMAH) citing a 2015 Mercer Museum oral history and his 2004 autobiography *Silent Thunder* · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** The NMAH page blocked our fetch this round; we have not yet read the Mercer oral history transcript itself · [How we rate this](../reference/source-standards.md)
 
-Miller (born about 1934; WHYY says he was 5 in 1939) grew up on Philadelphia's Main Line. He raced at Bucks County strips in the 1960s, including Vargo, and in 1973 co-founded the **Black American Racers Association** with Wendell Scott, Malcolm Durham and Ron Hines (Smithsonian NMAH). He tells his story in his 2004 autobiography *Silent Thunder*. This complements [Midwest & East Threads](../regions/midwest-east.md). WHYY interviewed him in 2018 for the Mercer Museum's exhibit "Racing: A Need for Speed."[^why]
+Miller (born about 1934; WHYY says he was 5 in 1939) grew up on Philadelphia's Main Line. He raced at Bucks County strips in the 1960s, including Vargo, and in 1973 co-founded the **Black American Racers Association** with Wendell Scott, Malcolm Durham and Ron Hines (Smithsonian NMAH). He tells his story in his 2004 autobiography *Silent Thunder*. This complements [Midwest & East Threads](../places/midwest-east.md). WHYY interviewed him in 2018 for the Mercer Museum's exhibit "Racing: A Need for Speed."[^why]
 
 ## In his words
 

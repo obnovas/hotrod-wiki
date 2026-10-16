@@ -223,7 +223,7 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 - **Blocked this round:** California Digital Newspaper Collection (Cloudflare), the WFAA 2007 archive (empty/429), and chuckfinders.com (404; Wayback copy empty).
 
 ## Added in Round 11 (Grassroots finds; accessed 2026-10-15)
-Type tag **[local]** marks local or homegrown sources: local news, club or municipal records, historical societies, obituaries, local-history sites. See [Grassroots Sources](grassroots/sources.md).
+Type tag **[local]** marks local or homegrown sources: local news, club or municipal records, historical societies, obituaries, local-history sites. See [Grassroots Sources](reference/grassroots-sources.md).
 
 - [local] Ralph E. Parker, "Pomona Police Join Forces With 'Hot Rodders,'" FBI Law Enforcement Bulletin, Dec 1951. https://leb.fbi.gov/file-repository/archives/december-1951.pdf
 - [local] American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955). https://www.planning.org/pas/reports/report74.htm
@@ -245,7 +245,7 @@ Type tag **[local]** marks local or homegrown sources: local news, club or munic
 - **Not reached this round (blocked to our fetcher; not bypassed):** California Digital Newspaper Collection (Cloudflare), Illinois Digital Newspaper Collections, NYS Historic Newspapers and Colorado Historic Newspapers (403), the Library of Congress site (timeouts), and the Portal to Texas History (bot check). See the [Research Trail](research-trail.md).
 
 ## Added in Round 12 (accessed 2026-10-15)
-Tags as above. Most 1950s items are scanned page OCR from the Internet Archive, Hoosier State Chronicles or Historic Oregon Newspapers. See [Grassroots Sources](grassroots/sources.md).
+Tags as above. Most 1950s items are scanned page OCR from the Internet Archive, Hoosier State Chronicles or Historic Oregon Newspapers. See [Grassroots Sources](reference/grassroots-sources.md).
 
 - [local] "Escanaba Hot Rod Club Stresses Safe Driving To Its Membership," Escanaba Daily Press, Apr 23, 1955. https://archive.org/details/escanaba-daily-press-1955-04-23
 - [local] "Hot Rod Club To Hold Meeting Monday Night," Escanaba Daily Press, Apr 16, 1955. https://archive.org/details/escanaba-daily-press-1955-04-16

@@ -1,12 +1,17 @@
-# Customs & Media
+# Customs & Kustom Kulture
 
-*How a look traveled: by paper, plastic and show hall.*
+*The look: chopped, shaved, lowered and painted deep.*
 
-How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Portland? Through paper, plastic and show halls, and this section follows each channel.
+Customizing is its own tradition inside hot rodding. A hot rod asks how fast; a custom asks how it looks. Early customizing was called "restyling," and its goal was a "fake Cord," not a hot Ford. This department is about the style and the people who built it. How the look was publicized and sold (books, kits, shows, magazines) lives in [Media & Shows](../media/index.md).
 
-- [Trend Books, Model Kits & Roth](trend-books-kits-roth.md): the 1951 Trend Book, AMT's 3-in-1 kits from 1958, and Roth's penny-a-kit Revell deal.
-- [The Show Circuit](show-circuit.md): Oakland (1950), Detroit Autorama (1953), Larivee's Promotions Inc. and ISCA (1963), and the Portland Roadster Show (1956).
-- [KKOA & the Lead Sled Revival](kkoa-lead-sled-revival.md): Wichita, 1980–83.
-- See also: [Hirohata Mercury](../cars/hirohata-mercury.md), [Jimmy Summers](../people/jimmy-summers.md), [Roy Hagy](../people/roy-hagy.md), [Techniques & Styles](../techniques/index.md).
+- [Hirohata Mercury](hirohata-mercury.md): Barris Kustom's ice-green 1951 Merc, and the argument over how long it took to build.
+- [KKOA & the Lead Sled Revival](kkoa-lead-sled-revival.md): Wichita, 1979–83, when a club brought the lead sled back.
 
-*Open threads:* Hollywood films such as *Hot Rod Gang* (1958) and *American Graffiti* (1973), Rod & Custom's 25-cent "little" books, and Von Dutch. All three are listed on the [Research Trail](../research-trail.md) until we have sources.
+**Elsewhere in the wiki**
+
+- How it was done: [Techniques & Period Styles](../cars/techniques-and-styles.md) (the fake Cord, metal-finish vs. lead, the lead-sled era).
+- The builders: [Jimmy Summers](../people/jimmy-summers.md), [Roy Hagy](../people/roy-hagy.md), [George DuVall](../people/george-duvall.md), [Ed Almquist](../people/ed-almquist.md).
+- In their own words: [Von Dutch](../voices/von-dutch.md), [Show & Custom Voices](../voices/show-custom-voices.md), [The Esparza Brothers](../voices/esparza-brothers.md), [The Ruelas Brothers & the Dukes](../voices/ruelas-dukes.md).
+- Customs on the street: [Whittier Boulevard](../places/whittier-blvd.md); the Modesto shop that launched a customizer, in [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
+
+*Open threads:* Von Dutch as a page of his own. He is listed on the [Research Trail](../research-trail.md) until we have sources.

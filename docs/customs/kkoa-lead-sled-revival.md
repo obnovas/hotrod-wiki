@@ -43,7 +43,7 @@ Compare the NSRA's [1948-and-older line](../street-rodding/nsra-early-nationals.
 
 <figure markdown>
 ![The Hirohata Merc (1951 Mercury, Barris), the template the 1980s revival looked back to. S](../assets/images/commons-hirohata-merc-haer.jpg){ loading=lazy }
-<figcaption markdown>The Hirohata Merc (1951 Mercury, Barris), the template the 1980s revival looked back to. See [Hirohata Mercury](../cars/hirohata-mercury.md). Creator: Historic Vehicle Association (HVA). Date: 2017. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1951_Mercury_Sport_Coupe_Hirohata_Merc_(HAER_CA-2328).png). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
+<figcaption markdown>The Hirohata Merc (1951 Mercury, Barris), the template the 1980s revival looked back to. See [Hirohata Mercury](hirohata-mercury.md). Creator: Historic Vehicle Association (HVA). Date: 2017. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1951_Mercury_Sport_Coupe_Hirohata_Merc_(HAER_CA-2328).png). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
 
 ## Visual references (external)

@@ -16,6 +16,8 @@ The home page opens with a **Highlights** carousel rendered at build time from `
 - add **2-4 highlights**, at least **half grassroots** (local news, oral history, obituaries, club newsletters, municipal records, markers, family accounts, local-history sites);
 - keep the newest 16 in the slider; older ones rotate to the Highlights archive automatically;
 - pass `python scripts/update_highlights.py check` and `mkdocs build --strict`;
-- add any new local outlet to `docs/grassroots/sources.md` and mark such articles with the Grassroots badge.
+- add any new local outlet to `docs/reference/grassroots-sources.md` and mark such articles with the Grassroots badge;
+- **file new pages by topic** in the right department (`people/`, `companies/`, `cars/`, `customs/`, `street-rodding/`, `media/`, `drag-racing/`, `places/`, `voices/`, `eras/`, `reference/`; see `docs/taxonomy.md`), and add a redirect line to `hooks/redirects.yml` whenever a page moves;
+- **triage incoming issues** first (labels `correction`, `source-tip`, `suggestion`): label, verify, add unsettled leads to the Research Trail, credit, close (see CONTRIBUTING.md).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full workflow.

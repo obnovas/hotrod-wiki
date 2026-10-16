@@ -1,0 +1,42 @@
+name: Suggestion or feedback
+description: A topic to research, a site idea, or general feedback.
+title: "[Suggestion] "
+labels: ["suggestion", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We read everything. Good topic ideas name a person, place, club, shop or event and say why it matters; a source is a bonus but not required. We check ideas against the [source standards](https://github.com/obnovas/hotrod-wiki/blob/main/docs/reference/source-standards.md) before anything is added as a fact.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of message is this?
+      options:
+        - A topic or lead to research
+        - An idea for the site (layout, features, navigation)
+        - General feedback
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: Your suggestion or feedback
+      description: For a research topic: who, where, roughly when, and why it matters.
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Related page (optional)
+      description: Filled in when you use the button at the end of an article.
+      placeholder: /places/woodward/
+  - type: input
+    id: source
+    attributes:
+      label: Any link or source (optional)
+  - type: input
+    id: credit
+    attributes:
+      label: How should we credit you?
+      description: A name or handle, or "anonymous".

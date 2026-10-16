@@ -5,7 +5,7 @@
 !!! abstract "Article record"
     **Confidence:** Medium–High (all quotes are verbatim from pages we opened on 2026-10-15) · **Source types:** NHRA bios and columns, *Hot Rod* (1980, 2015), *Street Rodder* anniversary feature, track-owner tribute, trade-blog event report · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** no first-hand words from Peggy Hart herself; Bob Bartel's August 2009 newspaper interview could not be opened (rate-limited) · [How we rate this](../reference/source-standards.md)
 
-These are first-hand and near-first-hand words from the Round 10 people: the families who **owned the strips** (the Harts, the Gays, Bob Bartel) and the **Midwest and Texas door-slammer racers** who filled them. Every quote is labeled by when it was told. Full articles: [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md), [Houston Freeway](../regions/houston-freeway-dragstrip.md), [The Ohio Gassers](../regions/ohio-gassers.md), [Akron Fulton Airport](../regions/akron-fulton-airport.md), [Peggy Hart](../people/peggy-hart.md), [*Street Rod* magazine](../street-rodding/street-rod-magazine-portland.md).
+These are first-hand and near-first-hand words from the Round 10 people: the families who **owned the strips** (the Harts, the Gays, Bob Bartel) and the **Midwest and Texas door-slammer racers** who filled them. Every quote is labeled by when it was told. Full articles: [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [The Ohio Gassers](../places/ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Peggy Hart](../people/peggy-hart.md), [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 ## Gene Snow: used cars, Crowerglide and 200 mph (NHRA Top 50, 2001)
 
@@ -107,7 +107,7 @@ These are first-hand and near-first-hand words from the Round 10 people: the fam
 
 — Jim Clark, *Street Rodder*'s first editor, in "Street Rodder's 40th Anniversary – Time Flies," hotrod.com, posted Apr 8, 2014. Access 2026-10-15. https://www.hotrod.com/features/street-rodders-40th-anniversary
 
-**Label:** Told about 40 years later. Confirmed by the *Street Rod* issue run (first issue October 1971). See [*Street Rod* magazine](../street-rodding/street-rod-magazine-portland.md).
+**Label:** Told about 40 years later. Confirmed by the *Street Rod* issue run (first issue October 1971). See [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 ## Related pull-quotes on other pages
 - Ken Kull and Pete Hill on the Red Baron: [Red Baron](../cars/hill-bros-red-baron.md)

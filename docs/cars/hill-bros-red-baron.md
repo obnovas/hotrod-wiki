@@ -34,7 +34,7 @@ The Red Baron raced until late 1969, then bracket-raced under another name. It s
 
 Related: the East Coast Drag Racing HOF's Midwest gasser roundup (not yet read in full).[^ec]
 
-**Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, ⚠ death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../regions/ohio-gassers.md).
+**Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, ⚠ death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
 
 ## Visual references (external)
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*

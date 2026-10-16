@@ -18,6 +18,7 @@
       <li><a href="{{ l.url | url }}" data-hr-path="{{ l.url }}">{{ l.label }}</a></li>
       {% endfor %}
     </ul>
+    <a class="hr-bar__feedback" href="{{ config.extra.feedback_url }}" rel="noopener" title="Send feedback or a suggestion">Feedback</a>
     <button type="button" class="hr-bar__contents" aria-expanded="false" aria-controls="hr-contents" data-hr-contents-toggle>
       <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-menu"/></svg><span>Contents</span>
     </button>
@@ -48,14 +49,20 @@
         {% set d = namespace(first=none) %}
         <li class="hr-dept-block">
           {% if item.is_page %}
-            <a class="hr-dept-block__title" href="{{ item.url | url }}"><span class="hr-dept-block__num">{{ "%02d" | format(loop.index) }}</span><span>{{ item.title }}</span></a>
+            <a class="hr-dept-block__title" href="{{ item.url | url }}"><span>{{ item.title }}</span></a>
           {% else %}
             {% set kids = [] %}
             {% for c in item.children %}{% if c.is_page and not c.is_index %}{% set _ = kids.append(c) %}{% elif c.is_page %}{% set d.first = c %}{% endif %}{% endfor %}
-            <a class="hr-dept-block__title" href="{{ (d.first.url if d.first else (item.children | first).url) | url }}"><span class="hr-dept-block__num">{{ "%02d" | format(loop.index) }}</span><span>{{ item.title }}</span></a>
+            {% set groups = [] %}
+            {% for c in item.children %}{% if not c.is_page %}{% set _ = groups.append(c) %}{% endif %}{% endfor %}
+            <a class="hr-dept-block__title" href="{{ (d.first.url if d.first else (item.children | first).url) | url }}"><span class="hr-dept-block__num">{{ "%02d" | format(loop.index - 1) }}</span><span>{{ item.title }}</span></a>
             <ul>
               {% for c in kids %}<li><a href="{{ c.url | url }}">{{ c.title }}</a></li>{% endfor %}
             </ul>
+            {% for g in groups %}
+            <p class="hr-dept-block__group">{{ g.title }}</p>
+            <ul>{% for c in g.children %}{% if c.is_page %}<li><a href="{{ c.url | url }}">{{ c.title }}</a></li>{% endif %}{% endfor %}</ul>
+            {% endfor %}
           {% endif %}
         </li>
       {% endfor %}

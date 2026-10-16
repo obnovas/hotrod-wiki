@@ -27,3 +27,5 @@
   .hr-foot__colophon{color:#000;border:0}
 }
 @media print{.hr-hero img{max-height:3.2in;width:auto;max-width:100%;object-fit:cover}}
+
+@media print{.hr-help{display:none!important}}

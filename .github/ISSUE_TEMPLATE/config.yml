@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How contributions are handled
+    url: https://github.com/obnovas/hotrod-wiki/blob/main/CONTRIBUTING.md#incoming-issues-triage
+    about: What we check, how we credit you, and how long it takes.
