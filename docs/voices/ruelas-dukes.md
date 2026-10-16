@@ -1,12 +1,14 @@
-# The Ruelas Brothers and the Dukes: A South LA Family Shop
+# The Ruelas Brothers and the Dukes
+
+*A South LA family shop*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** magazine feature with extended interviews (LA Times West, Lynell George, July 16, 2006) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** Club founding year not taken from this source; Coachbuilt profile not reachable this round · [How we rate this](../reference/source-standards.md)
 
-## Context
 In the mid-1950s Josefina Ruelas brought her sons Julio, Oscar, Fernando and Ernie from Tijuana to 41st Street and Long Beach Avenue in South Los Angeles. In 2006, Lynell George found them still working on "primer-gray" cars in their yard on Saturday mornings, as they had "for the last 40 years and more." They had built cars for *Zoot Suit*, and Julio's '54 Chevy was on the cover of Tierra's 1980 album *City Nights*.[^lat] This is the custom tradition that grew alongside the [hot rod](../customs/index.md) story but is seldom told with it.
 
 ## In their words
+
 > "It was Aunt Lucille's husband, Uncle Tinker ('Yes, really, Tinker! Frank C. Tinker!'), who tried to steer the boys away from the street gangs …"
 >
 > — The writer's narration, with **Fernando Ruelas'** aside, 2006.[^lat]
@@ -24,7 +26,7 @@ In the mid-1950s Josefina Ruelas brought her sons Julio, Oscar, Fernando and Ern
 > — **Richard "Chivo" Ceniceros**, Dukes sergeant-at-arms, 2006.[^lat]
 
 ## Notes
-- The feature names other LA clubs of the era (the Igniters, the Drifters, the Clique, the In Crowd, the Professionals, the Imperials). All of them are leads for club histories.[^lat]
-- Several anecdotes in the article are told in a joking group conversation, such as one about Barry White and stolen tires. We do not repeat them as fact.
+
+The feature names other LA clubs of the era (the Igniters, the Drifters, the Clique, the In Crowd, the Professionals, the Imperials). All of them are leads for club histories.[^lat] Several anecdotes in the article are told in a joking group conversation, such as one about Barry White and stolen tires. We do not repeat them as fact.
 
 [^lat]: Lynell George, "Under the Hood," Los Angeles Times (West magazine), July 16, 2006. https://www.latimes.com/archives/la-xpm-2006-jul-16-tm-dukes29-story.html (accessed 2026-10-13)

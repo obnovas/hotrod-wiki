@@ -1,9 +1,11 @@
 # Voices: Injection, Factory Racing & Detroit Tin
 
+*Fuel injectors, factory racing and aluminum noses, told by the people who made them*
+
 !!! abstract "Article record"
     **Confidence:** Medium–High · **Source types:** quoted interviews and obituaries we opened · **Last verified:** 2026-10-14 (Round 9) · [How we rate this](../reference/source-standards.md)
 
-First-hand and near-first-hand words from the Round 9 people: lakes injection, Lincoln-Mercury racing, Detroit aluminum work, and East Coast match racing. Full biographies: [Stu Hilborn](../people/stu-hilborn.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Malcolm Durham](../people/malcolm-durham.md), [Logghe Stamping](../companies/logghe-stamping.md).
+These are first-hand and near-first-hand words from the Round 9 people: lakes injection, Lincoln-Mercury racing, Detroit aluminum work, and East Coast match racing. Full biographies: [Stu Hilborn](../people/stu-hilborn.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Malcolm Durham](../people/malcolm-durham.md), [Logghe Stamping](../companies/logghe-stamping.md).
 
 ## Stuart Hilborn — AHRF interview (told decades later)
 

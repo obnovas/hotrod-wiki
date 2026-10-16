@@ -1,5 +1,7 @@
 # Voices: Strip Owners & Door-Slammers
 
+*The people who ran the tracks, and the people who filled them*
+
 !!! abstract "Article record"
     **Confidence:** Medium–High (all quotes are verbatim from pages we opened on 2026-10-15) · **Source types:** NHRA bios and columns, *Hot Rod* (1980, 2015), *Street Rodder* anniversary feature, track-owner tribute, trade-blog event report · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** no first-hand words from Peggy Hart herself; Bob Bartel's August 2009 newspaper interview could not be opened (rate-limited) · [How we rate this](../reference/source-standards.md)
 
