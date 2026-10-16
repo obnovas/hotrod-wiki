@@ -1,19 +1,23 @@
-# 1980s: Pro Street and a Dayton Garage
+# Pro Street, from a Dayton Garage
+
+*The 1980s*
 
 !!! abstract "Article record"
     **Confidence:** Low–Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** Origin article unidentified · [How we rate this](../reference/source-standards.md)
 
-**Scott Sullivan**, a self-taught builder working from a small shop in Dayton, Ohio since 1977, is cited as one of the style's originators.[^hr]
+"I don't ever recall a Pro Stocker having a supercharger on it."[^hr] That is Scott Sullivan, pushing back on the common description of Pro Street as an NHRA Pro Stocker for the street.
+
+Sullivan, a self-taught builder working from a small shop in Dayton, Ohio since 1977, is cited as one of the style's originators.[^hr] What he was after was "something that looks like a race car, is plenty fast, but is fun to drive," putting "all the things I saw as a kid at the dragstrip on a street car."[^hr]
 
 ## Who named it
+
 Sullivan dates the label to **1979**, when photographer-writer **Steve Reyes** wrote an article featuring Sullivan's '66 Nova, a '66 Chevelle called "Goldenrod," and others, and called the trend "Pro Street." Sullivan admits the real start is "much harder to pin down": in **1974** he tucked 15x9 Cragars and 11.5-wide tires under a '71 Demon by tubbing it.[^hr] ◐ *The 1979 Reyes article is not yet identified by magazine/issue; open lead.*
 
-## What it was, in a builder's words
-Commonly described as an NHRA Pro Stocker for the street, Sullivan pushes back: "I don't ever recall a Pro Stocker having a supercharger on it." His aim: "something that looks like a race car, is plenty fast, but is fun to drive," putting "all the things I saw as a kid at the dragstrip on a street car."[^hr] In 1988 he drove his '55 Chevy "Cheez Whiz" cross-country with photographer Jeff Smith.[^hr]
+In 1988 he drove his '55 Chevy "Cheez Whiz" cross-country with photographer Jeff Smith.[^hr]
 
-## Period traits (1979–late 80s)
+## The look (1979–late 80s)
+
 Large rear tires under stock-looking bodies via wheel tubs, back-halved or tube chassis, roll cages, and often superchargers.[^hr2] ◐ *Trait list from magazine summaries; to be expanded with period features.*
-
 
 ## Images
 

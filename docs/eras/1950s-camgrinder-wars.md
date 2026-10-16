@@ -1,29 +1,43 @@
-# 1956–64: The Camgrinder (Gasser) Wars
+# The Camgrinder Wars
+
+*1956–64: how a polite page of cam ads turned into a brawl*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (1994 Wallace interviews), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
 
+In the first issue of HOT ROD, January 1948, Weber Tool Co. was the only cam advertiser. By the second issue the others had shown up, and the headlines were still mild: "Winners Use Iskenderian Cams" and "CRA Track Cars 5 and 66 Use Howard Cams."[^hr]
+
+It did not stay that way.
+
 *Principal source: Dave Wallace, who interviewed the surviving "generals" (Iskenderian, Engle, others) in 1994.*[^hr]
 
-## Polite beginnings
-In the first HOT ROD (Jan 1948) Weber Tool Co. was the only cam advertiser. By the second issue the others had joined with mild headlines like "Winners Use Iskenderian Cams" and "CRA Track Cars 5 and 66 Use Howard Cams."[^hr]
+## The paper that didn't blink
 
-## Why Drag News mattered
-Drag News carried hero ads within three days of Sunday's finals, and it was free of Wally Parks's guidelines at Petersen ("some said censorship"). Hot Rod covered the same events two months later, if at all.[^hr]
+*Drag News* carried hero ads within three days of Sunday's finals, and it was free of Wally Parks's guidelines at Petersen ("some said censorship"). *Hot Rod* covered the same events two months later, if at all.[^hr] If you wanted to shout at a rival while the race was still warm, you bought space in *Drag News*.
 
-## Escalation
-1. **1956:** Howard's Cams calls Red Henslee's roadster "The World's Fastest-Accelerating Roadster." Isky answers in the March 1956 HRM with Jazzy Nelson's fuel Fiat as "The World's Fastest-Accelerating Car," on a 9.10 e.t. that historian Robert C. Post says was "almost certainly not" real.[^hr]
-2. **Feb 1957:** Isky claims Emery Cook's 166.97 mph at Lions for his "5-Cycle" cam. Howard answers with ads of four bicyclists and a fifth bike ridden by a clown.[^hr]
-3. **September 1958 HRM:** this is the ad behind the open lead. Per Iskenderian, **Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products** started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
-4. **Jack Engle** opened a third front with type-only ads "signed" by gasser stars, though the satirical style pointed to Engle himself.[^hr]
-5. **1959:** Howard counters Isky's five cycles with "eight-cycle" cams, and Chet Herbert becomes the first serious challenger for Top Eliminator business.[^cp59]
-6. **1960:** Garlits breaks a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ends. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 Drag News.[^cp60]
+## How it escalated
 
-## Was it real?
-Engle: "There was some hostility, but I would say the intent was competitive in nature... it was more or less a game."[^hr] Isky never visited Johansen, thinking he was angry. At Johansen's funeral (c.1988) he was told, "Howard used to get a kick out of reading your ads!"[^hr]
+**1956.** Howard's Cams called Red Henslee's roadster "The World's Fastest-Accelerating Roadster." Isky answered in the March 1956 HRM with Jazzy Nelson's fuel Fiat as "The World's Fastest-Accelerating Car," on a 9.10 e.t. that historian Robert C. Post says was "almost certainly not" real.[^hr]
+
+**February 1957.** Isky claimed Emery Cook's 166.97 mph at Lions for his "5-Cycle" cam. Howard answered with ads of four bicyclists and a fifth bike ridden by a clown.[^hr]
+
+**September 1958.** This is the ad at the center of our open lead. Per Iskenderian, **Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products** started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
+
+**Jack Engle** opened a third front with type-only ads "signed" by gasser stars, though the satirical style pointed to Engle himself.[^hr]
+
+**1959.** Howard countered Isky's five cycles with "eight-cycle" cams, and Chet Herbert became the first serious challenger for Top Eliminator business.[^cp59]
+
+**1960.** Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]
+
+## From the detective's notebook
 
 **Still open:** the September 1958 ad itself (page, wording). Wallace's 1958 Drag Rags installment should reproduce it.
 
+## Was any of it real?
+
+Engle, looking back: "There was some hostility, but I would say the intent was competitive in nature... it was more or less a game."[^hr] Isky never visited Johansen, thinking he was angry.
+
+Then, at Johansen's funeral (c.1988), someone told him: "Howard used to get a kick out of reading your ads!"[^hr]
 
 ## Images
 

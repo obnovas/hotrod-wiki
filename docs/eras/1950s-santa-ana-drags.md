@@ -1,4 +1,6 @@
-# 1950s: Santa Ana and the First Commercial Drag Strip
+# Pappy Hart and the Bayonets
+
+*Santa Ana and the first commercial drag strip, 1950–59*
 
 !!! abstract "Article record"
     **Confidence:** High · **Source types:** obituaries (5+ agreeing), secondary · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Lions tenure conflict open · [How we rate this](../reference/source-standards.md)
@@ -8,27 +10,43 @@
 
     — C.J. Hart, National Dragster interview, 2001 (quoted by NHRA.com, 2004). [Full context in Voices](../voices/harts-santa-ana.md)
 
-## Routed by bayonets
-In the late 1940s Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" One Sunday they were run off by a company of U.S. Marines with fixed bayonets.[^mshf] ◐ *Single source (the Hall of Fame biography); we have not found a period report.*
+## Routed by bayonets { #routed-by-bayonets }
 
-## The Santa Ana Drags, June 19, 1950
+In the late 1940s, Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled the good part: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" The bad part came one Sunday, when a company of U.S. Marines with fixed bayonets ran them off.[^mshf] ◐ *Single source (the Hall of Fame biography); we have not found a period report.*
+
+Hart's answer was a real strip.
+
+## A strip, a Victrola and $1,000
+
 The Orange County Airport manager (today John Wayne Airport) offered an unused strip if Hart paid the airport 10% of proceeds and got insurance. With less than $1,000, Hart, his wife **Peggy**, and two backers opened on **June 19, 1950**.[^mshf] The backers were **Frank Stillwell and Creighton Hunter**, fellow members of the Santa Ana Elks Lodge. The project had the blessing of CHP commissioner Clifford E. Peterson and the county supervisors, and Hunter and Stillwell sold out to Hart a few months in.[^pe] *(Verified in Round 2.)*
 
-**Admission (resolved, Round 3):** spectators paid 50 cents, later raised to $1, and racers paid $1. The LA Times and NYT agree on this, as does the 2015 Press-Enterprise.[^lat][^pe] The NYT adds a quarter more to watch the mechanics work.[^nyt] MSHF's "50 cents, race or watch" looks like a simplification. The LA Times puts opening day at about 500 spectators and 50 cars, a typical Sunday at about 2,500, and the last day at over 4,000.[^lat] The timing system was "cobbled together from an old Victrola" (NHRA, 2004).[^nhra04]
+The timing system was "cobbled together from an old Victrola" (NHRA, 2004).[^nhra04]
+
+**The gate (resolved in Round 3).** Spectators paid 50 cents, later raised to $1, and racers paid $1. The LA Times and NYT agree on this, as does the 2015 Press-Enterprise.[^lat][^pe] The NYT adds a quarter more to watch the mechanics work.[^nyt] MSHF's "50 cents, race or watch" looks like a simplification. The LA Times puts opening day at about 500 spectators and 50 cars, a typical Sunday at about 2,500, and the last day at over 4,000.[^lat]
 
 Hart's son Gerald recalled races every Sunday "except Mother's Day. They tried it once and they wouldn't let that happen again." He said the only other strip he knew of was at Goleta.[^pe] Peggy Hart raced her 1933 Willys coupe there.[^pe] There was one fatality in nine years: a spectator struck by a flywheel.[^pe]
 
-Hart was emphatic: "I didn't invent drag racing... When I was growing up in Ohio, every stoplight, every night was a race."[^mshf]
+Hart was emphatic that he'd invented nothing: "I didn't invent drag racing... When I was growing up in Ohio, every stoplight, every night was a race."[^mshf]
 
-## How the rules were invented
-- **Quarter mile:** borrowed from horse racing, because "there was a lot of talk in those days that quarter horses were faster than cars," and the public could relate to it.[^mshf]
-- **Timing:** stopwatch first, then homemade electric timers.[^mshf]
-- **Classes:** stockers split by axle ratio, model year and displacement; "hot-car" classes added when lakes racers showed up, along with the first cash awards. The "Dollar-A-Mile" program paid Top Eliminator $1 per mph.[^mshf]
+## How the rules got invented
 
-The strip ran until **June 21, 1959**, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of **Lions Drag Strip**, staying until 1971, and there he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe] **Death date (resolved, Round 3): June 25, 2004.** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers. **⚠ Lions tenure** is still in conflict: 1965–71 per MSHF and SEMA, 1963–1970 per the OC Register.[^nhra04] See also [Peggy Hart](../people/peggy-hart.md). Chet Herbert's stripped Harley "The Beast" ran 121 and then 129 mph at Santa Ana in 1950, beating every bike and car there.[^herbert]
+The **quarter mile** was borrowed from horse racing, because "there was a lot of talk in those days that quarter horses were faster than cars," and the public could relate to it. **Timing** started with a stopwatch, then homemade electric timers.[^mshf]
+
+**Classes** came next: stockers split by axle ratio, model year and displacement, with "hot-car" classes added when lakes racers showed up, along with the first cash awards. The "Dollar-A-Mile" program paid Top Eliminator $1 per mph.[^mshf]
+
+Chet Herbert's stripped Harley "The Beast" ran 121 and then 129 mph at Santa Ana in 1950, beating every bike and car there.[^herbert]
+
+## Eviction and after
+
+The strip ran until **June 21, 1959**, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of **Lions Drag Strip**, staying until 1971. There he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe]
+
+**Hart's death date (resolved in Round 3): June 25, 2004.** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers.
+
+## From the detective's notebook
+
+**⚠ Lions tenure** is still in conflict: 1965–71 per MSHF and SEMA, 1963–1970 per the OC Register.[^nhra04] See also [Peggy Hart](../people/peggy-hart.md).
 
 ⚠ **Round 10 notes:** (1) June 19, 1950, was a Monday. The Long & Tuttle clippings pamphlet dates the "first race" to Sunday, **July 2, 1950**. See [Peggy Hart](../people/peggy-hart.md#founder-of-the-strip-not-just-the-wife-of-one). (2) The same January 1980 *Hot Rod* profile that dates Hart's Lions start to "'65" also refers to "his very first act in '63." The 1965 date fits its own statement that he succeeded Mickey Thompson, who left in 1963.[^hr80]
-
 
 ## Images
 
