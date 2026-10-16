@@ -1,0 +1,22 @@
+{% extends "main.html" %}
+{% block content %}
+<section class="hr-404">
+  <div class="hr-404__art" aria-hidden="true">
+    <svg viewBox="0 0 640 260" role="img" aria-label="">
+      <defs><pattern id="c404" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="#1d1918"/><rect x="10" y="10" width="10" height="10" fill="#1d1918"/><rect x="10" width="10" height="10" fill="#f6efdf"/><rect y="10" width="10" height="10" fill="#f6efdf"/></pattern></defs>
+      <rect x="0" y="196" width="640" height="64" fill="#cdb386"/><path d="M0 196H640" stroke="#7a4a1c" stroke-width="2"/>
+      <path d="M0 214l38 8 25-14 40 10 30-12 45 14 34-10 50 10 30-10 48 12 36-12 62 10 35-8 67 10" fill="none" stroke="#7a4a1c" stroke-opacity=".5" stroke-width="1.5"/>
+      <circle cx="540" cy="86" r="44" fill="#e0a526"/><circle cx="540" cy="86" r="44" fill="none" stroke="#b3261e" stroke-width="3" stroke-dasharray="3 7"/>
+      <rect x="56" y="64" width="6" height="140" fill="#1d1918"/><rect x="62" y="64" width="64" height="40" fill="url(#c404)" stroke="#1d1918" stroke-width="3"/>
+      <g transform="translate(250 130)"><path d="M0 60h150l-10-22h-34l-18-24H44L30 38H8z" fill="#7a1f1f" stroke="#1d1918" stroke-width="3" stroke-linejoin="round"/><path d="M48 18h40l14 20H36z" fill="#f6efdf" stroke="#1d1918" stroke-width="2.5"/><circle cx="36" cy="64" r="15" fill="#1d1918"/><circle cx="36" cy="64" r="6" fill="#c9ced3"/><circle cx="118" cy="64" r="15" fill="#1d1918"/><circle cx="118" cy="64" r="6" fill="#c9ced3"/><path d="M-34 52h30M-44 42h26M-30 62h22" stroke="#7a4a1c" stroke-width="3" stroke-linecap="round"/></g>
+    </svg>
+  </div>
+  <div class="hr-404__txt">
+    <p class="hr-script">Off the course</p>
+    <h1 class="hr-404__h">404</h1>
+    <p class="hr-404__tag"><b>DNF</b> did not find</p>
+    <p class="hr-404__p">That page isn't in the pits. It may have been renamed in the latest round of research, or the link was typed by hand.</p>
+    <p class="hr-404__cta"><a class="hr-btn hr-btn--solid" href="{{ '' | url }}">Back to the cover</a> <a class="hr-btn" href="#hr-contents" data-hr-contents-toggle>Open the contents</a> <a class="hr-btn" href="{{ 'reference/timeline/' | url }}">Walk the timeline</a></p>
+  </div>
+</section>
+{% endblock %}

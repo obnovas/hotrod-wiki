@@ -1,0 +1,135 @@
+{% extends "main.html" %}
+{% block content %}
+{% set st = hr_site.stats %}
+{% set months = ["", "January","February","March","April","May","June","July","August","September","October","November","December"] %}
+<section class="hr-cover" aria-labelledby="hr-cover-title">
+  <div class="hr-cover__art" aria-hidden="true"></div>
+  <div class="hr-cover__inner">
+    <p class="hr-cover__strip"><span>Vol. 1</span><span>An investigator's archive</span><span>{{ months[hr_site.built.month] }} {{ hr_site.built.year }}</span></p>
+    <h1 class="hr-mast" id="hr-cover-title"><span class="hr-mast__a">Hot Rod</span><span class="hr-mast__b">History</span><span class="hr-sr">Wiki</span></h1>
+    <p class="hr-cover__script">{{ config.extra.masthead_tag | d("since the dry lakes") }}</p>
+    <div class="hr-cover__intro">{{ hr.intro_html | safe }}</div>
+    <ul class="hr-cover__stats" role="list">
+      <li><b>{{ st.stories }}</b><span>stories</span></li>
+      <li><b>{{ st.sources }}</b><span>cited notes</span></li>
+      <li><b>{{ st.images }}</b><span>credited images</span></li>
+      <li><b>{{ st.departments }}</b><span>departments</span></li>
+    </ul>
+    <p class="hr-cover__cta"><a class="hr-btn hr-btn--solid" href="{{ 'reference/timeline/' | url }}">Walk the timeline <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a>
+      <a class="hr-btn" href="#hr-contents" data-hr-contents-toggle>Open the contents</a></p>
+  </div>
+  <div class="hr-cover__flames" aria-hidden="true"></div>
+</section>
+
+<div class="hr-home">
+  <section class="hr-lead md-typeset" aria-label="Lead stories">
+    {{ page.content }}
+  </section>
+
+  {% if hr.featured %}{% set f = hr.featured %}
+  <section class="hr-feature{% if f.era %}" data-era="{{ f.era }}{% endif %}" aria-labelledby="hr-feat-h">
+    <a class="hr-feature__link" href="{{ f.url | url }}">
+      <span class="hr-feature__media">{% if f.thumb %}<img src="{{ f.thumb | url }}" alt="" loading="lazy" decoding="async">{% endif %}</span>
+      <span class="hr-feature__body">
+        <span class="hr-script hr-feature__flag">From the files</span>
+        <span class="hr-feature__dept">{{ f.dept }}{% if f.era_label %} · {{ f.era_label }}{% endif %}</span>
+        <h2 id="hr-feat-h" class="hr-feature__title">{{ f.title }}</h2>
+        <span class="hr-feature__blurb">{{ f.blurb }}</span>
+        <span class="hr-feature__go">Read the story <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg>{% if f.conf %}<span class="hr-conf hr-conf--{{ f.level }}">{{ f.conf }} confidence</span>{% endif %}</span>
+      </span>
+    </a>
+  </section>
+  {% endif %}
+
+  <section class="hr-sec" aria-labelledby="hr-depts-h">
+    <header class="hr-sec__head"><p class="hr-script">Pick your lane</p><h2 id="hr-depts-h">The departments</h2></header>
+    <ul class="hr-depts">
+      {% for d in hr_site.depts %}{% if d.url != "" %}
+      <li class="hr-dtile hr-dtile--{{ loop.index0 % 5 }}{% if d.thumb %} hr-dtile--img{% endif %}">
+        <a href="{{ d.url | url }}">
+          {% if d.thumb %}<span class="hr-dtile__img" aria-hidden="true"><img src="{{ d.thumb | url }}" alt="" loading="lazy" decoding="async"></span>{% endif %}
+          <span class="hr-dtile__num" aria-hidden="true" data-n="{{ "%02d" | format(d.num) }}"></span>
+          <svg class="hr-ico hr-dtile__ico" aria-hidden="true"><use xlink:href="#hr-i-{{ d.icon }}"/></svg>
+          <strong class="hr-dtile__title">{{ d.title }}</strong>
+          <span class="hr-dtile__blurb">{{ d.blurb }}</span>
+          {% if d.count %}<span class="hr-dtile__count">{{ d.count }} {{ "story" if d.count == 1 else "stories" }}</span>{% endif %}
+        </a>
+      </li>{% endif %}{% endfor %}
+    </ul>
+  </section>
+
+  <section class="hr-sec hr-erastrip" aria-labelledby="hr-eras-h">
+    <header class="hr-sec__head"><p class="hr-script">Decade by decade</p><h2 id="hr-eras-h">Pick an era</h2></header>
+    {% set era_text = {"e30": "Dry lakes, the SCTA, flatheads and belly tanks", "e50": "Santa Ana, the cam wars, customs and the first strips", "e60": "Drag rags, fiberglass, funny cars and nitro", "e70": "Peoria, the street rod comeback and Mid-America", "e80": "Pro Street, big tubs and the neon years"} %}
+    <ul class="hr-eras">
+      {% for key in ["e30","e50","e60","e70","e80"] %}
+      {% set ep = hr_site.era_pages.get(key) %}
+      <li class="hr-era" data-era="{{ key }}">
+        <a href="{{ (ep[0].url if ep else 'reference/timeline/') | url }}">
+          <span class="hr-era__dec">{{ {"e30":"1930s","e50":"1950s","e60":"1960s","e70":"1970s","e80":"1980s"}[key] }}</span>
+          <span class="hr-era__txt">{{ era_text[key] }}</span>
+          <span class="hr-era__go">{{ "Read the era" if ep else "See the timeline" }} <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+
+  {% if hr_site.ribbon %}
+  <section class="hr-sec hr-ribbon" aria-labelledby="hr-rib-h">
+    <header class="hr-sec__head"><p class="hr-script">The long view</p><h2 id="hr-rib-h">Timeline ribbon</h2></header>
+    <div class="hr-ribbon__scroll" tabindex="0" role="region" aria-label="Timeline ribbon, scrolls sideways">
+      <ol class="hr-ribbon__list">
+        {% for r in hr_site.ribbon %}
+        <li><span class="hr-ribbon__yr">{{ r.year | striptags }}</span><span class="hr-ribbon__t">{{ r.text }}</span></li>
+        {% endfor %}
+        <li class="hr-ribbon__end"><a href="{{ 'reference/timeline/' | url }}">The full timeline <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a></li>
+      </ol>
+    </div>
+  </section>
+  {% endif %}
+
+  {% if hr.overheard %}{% set q = hr.overheard %}
+  <section class="hr-overheard" aria-label="Overheard">
+    <figure>
+      <p class="hr-script hr-overheard__tag">Overheard</p>
+      <blockquote><p>{{ q.text }}</p></blockquote>
+      <figcaption><b>{{ q.who }}</b>{% if q.ctx %}<span>{{ q.ctx }}</span>{% endif %}{% if q.url %}<a href="{{ q.url | url }}">In their own words: {{ q.page_title }} <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a>{% endif %}</figcaption>
+    </figure>
+  </section>
+  {% endif %}
+
+  {% if hr.places %}
+  <section class="hr-sec hr-places" aria-labelledby="hr-places-h">
+    <header class="hr-sec__head"><p class="hr-script">Take the long way</p><h2 id="hr-places-h">Strips, lots &amp; hometowns</h2></header>
+    <div class="hr-places__row" tabindex="0" role="region" aria-label="Places, scrolls sideways"><ul class="hr-places__list">
+      {% for c in hr.places %}
+      <li class="hr-poster"{% if c.era %} data-era="{{ c.era }}"{% endif %}>
+        <a href="{{ c.url | url }}">
+          {% if c.thumb %}<img src="{{ c.thumb | url }}" alt="" loading="lazy" decoding="async">{% endif %}
+          <span class="hr-poster__cap"><small>{{ c.dept }}</small><strong>{{ c.title }}</strong></span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul></div>
+  </section>
+  {% endif %}
+
+  {% if hr_site.leads %}
+  <section class="hr-notebook" aria-labelledby="hr-nb-h">
+    <div class="hr-notebook__page">
+      <p class="hr-script">From the notebook</p>
+      <h2 id="hr-nb-h">Open leads on the Research Trail</h2>
+      <ul>
+        {% for l in hr_site.leads %}<li><b>{{ l.label }}</b> {{ l.text }}</li>{% endfor %}
+      </ul>
+      <a class="hr-btn" href="{{ 'research-trail/' | url }}">Follow the whole trail <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a>
+    </div>
+  </section>
+  {% endif %}
+
+  {% if hr.after_html %}
+  <aside class="hr-key md-typeset" aria-label="How to read this site">{{ hr.after_html | safe }}</aside>
+  {% endif %}
+</div>
+{% endblock %}

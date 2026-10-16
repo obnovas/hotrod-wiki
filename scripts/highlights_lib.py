@@ -275,9 +275,9 @@ def card(h: dict, page_url: str, idx: int, total: int, creds: dict, eager: bool)
     meta = " · ".join(esc(t) for t in tags)
     added = esc(h["added"])
     return (
-        f'<li class="hr-hl-slide" id="hl-{esc(h["id"])}" role="group" aria-roledescription="slide" '
-        f'aria-label="{idx} of {total}" data-grassroots="{"true" if h["grassroots"] else "false"}">'
-        f'<article class="hr-hl-card">{media}<div class="hr-hl-body">'
+        f'<li class="hr-hl-slide" id="hl-{esc(h["id"])}" '
+        f'data-grassroots="{"true" if h["grassroots"] else "false"}">'
+        f'<article class="hr-hl-card" role="group" aria-roledescription="slide" aria-label="{idx} of {total}">{media}<div class="hr-hl-body">'
         f'<p class="hr-hl-chips">{_chips(h)}</p>'
         f'<h3 class="hr-hl-headline"><a href="{esc(href)}">{esc(h["headline"])}</a></h3>'
         f'<p class="hr-hl-teaser">{esc(h["teaser"])}</p>'

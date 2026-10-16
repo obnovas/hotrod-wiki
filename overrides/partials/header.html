@@ -1,0 +1,64 @@
+{#- Magazine masthead bar. Keeps Material's header/search/palette components so their JS keeps working. -#}
+{% include "partials/hr-icons.html" %}
+{% set mast = config.extra.masthead | d("Hot Rod History") %}
+<header class="md-header hr-bar" data-md-component="header">
+  <nav class="md-header__inner hr-bar__inner" aria-label="{{ lang.t('header') }}">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo hr-bar__logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    <a class="hr-bar__brand" href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}"><span class="hr-bar__name">{{ mast }}</span><span class="hr-bar__tag">{{ config.extra.masthead_tag | d("since the dry lakes") }}</span></a>
+    <div class="md-header__title" data-md-component="header-title" hidden>
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic"><span class="md-ellipsis">{{ config.site_name }}</span></div>
+        <div class="md-header__topic" data-md-component="header-topic"><span class="md-ellipsis">{% if page.meta and page.meta.title %}{{ page.meta.title }}{% else %}{{ page.title }}{% endif %}</span></div>
+      </div>
+    </div>
+    <ul class="hr-bar__links" role="list">
+      {% for l in config.extra.primary_nav %}
+      <li><a href="{{ l.url | url }}" data-hr-path="{{ l.url }}">{{ l.label }}</a></li>
+      {% endfor %}
+    </ul>
+    <button type="button" class="hr-bar__contents" aria-expanded="false" aria-controls="hr-contents" data-hr-contents-toggle>
+      <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-menu"/></svg><span>Contents</span>
+    </button>
+    {% if config.theme.palette %}{% if not config.theme.palette is mapping %}{% include "partials/palette.html" %}{% endif %}{% endif %}
+    {% if not config.theme.palette is mapping %}{% include "partials/javascripts/palette.html" %}{% endif %}
+    {% if "material/search" in config.plugins %}
+      {% set search = config.plugins["material/search"] | attr("config") %}
+      {% if search.enabled %}
+        <label class="md-header__button md-icon" for="__search">
+          {% include ".icons/material/magnify.svg" %}
+        </label>
+        {% include "partials/search.html" %}
+      {% endif %}
+    {% endif %}
+  </nav>
+  <div class="hr-bar__stripe" aria-hidden="true"></div>
+  <div class="hr-progress" aria-hidden="true"><span></span></div>
+</header>
+{#- The table of contents "garage sign index" -#}
+<div class="hr-contents" id="hr-contents" role="dialog" aria-modal="false" aria-label="Contents" hidden>
+  <div class="hr-contents__inner">
+    <div class="hr-contents__head">
+      <p class="hr-contents__title"><span class="hr-script">In this issue</span><b>Contents</b></p>
+      <button type="button" class="hr-contents__close" data-hr-contents-toggle aria-label="Close contents"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-close"/></svg></button>
+    </div>
+    <ol class="hr-contents__list">
+      {% for item in nav.items %}
+        {% set d = namespace(first=none) %}
+        <li class="hr-dept-block">
+          {% if item.is_page %}
+            <a class="hr-dept-block__title" href="{{ item.url | url }}"><span class="hr-dept-block__num">{{ "%02d" | format(loop.index) }}</span><span>{{ item.title }}</span></a>
+          {% else %}
+            {% set kids = [] %}
+            {% for c in item.children %}{% if c.is_page and not c.is_index %}{% set _ = kids.append(c) %}{% elif c.is_page %}{% set d.first = c %}{% endif %}{% endfor %}
+            <a class="hr-dept-block__title" href="{{ (d.first.url if d.first else (item.children | first).url) | url }}"><span class="hr-dept-block__num">{{ "%02d" | format(loop.index) }}</span><span>{{ item.title }}</span></a>
+            <ul>
+              {% for c in kids %}<li><a href="{{ c.url | url }}">{{ c.title }}</a></li>{% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</div>

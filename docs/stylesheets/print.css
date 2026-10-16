@@ -1,0 +1,29 @@
+/* Print a story: plain white page, serif text, no chrome, sources spelled out. */
+@media print{
+  :root,[data-md-color-scheme]{--hr-bg:#fff;--hr-fg:#000;--hr-fg2:#222;--hr-surface:#fff;--hr-line:#bbb;--hr-link:#000;--md-default-bg-color:#fff;--md-typeset-color:#000}
+  body{background:#fff!important;color:#000}
+  .hr-bar,.hr-contents,.hr-foot__flames,.hr-foot__checks,.hr-rail,.hr-more,.md-top,.md-search,.hr-az,.hr-tl-nav,.hr-tablefilter,.hr-cover__cta,.hr-cover__flames,.hr-head__art,.hr-head::after,
+  .hr-hl-controls,.hr-depts,.hr-eras,.hr-places,.hr-notebook,.hr-ribbon{display:none!important}
+  .hr-head{background:none!important;color:#000;border-bottom:3px double #000}
+  .hr-head__inner{padding:0 0 .6rem}
+  .hr-headline{color:#000!important;text-shadow:none!important;font-size:2rem}
+  .hr-kicker>*{background:none!important;color:#000!important;padding:0;border:0}
+  .hr-slip{box-shadow:none;border:1px solid #000;border-radius:0;break-inside:avoid;color:#000;background:#fff}
+  .hr-slip__tag{clip-path:none;background:#fff!important;color:#000!important;border-right:1px solid #000}
+  .hr-head__hero{padding:.4rem 0}
+  .hr-fig--hero img{transform:none;box-shadow:none;max-height:16rem}
+  .hr-fig--hero figcaption{color:#000!important}
+  .hr-story{display:block!important;max-width:none;padding:1rem 0}
+  .hr-body.md-typeset{font-size:11pt;line-height:1.5}
+  .hr-body.md-typeset .hr-fig,.hr-body.md-typeset .hr-fig--wide,.hr-body.md-typeset .hr-fig--plate,.hr-body.md-typeset .hr-fig--tall,.hr-body.md-typeset .hr-fig--small{float:none!important;width:auto!important;max-width:60%!important;margin:.8rem 0!important;break-inside:avoid}
+  .hr-body.md-typeset .hr-fig img{box-shadow:none;border:1px solid #999}
+  .hr-body.md-typeset blockquote.hr-quote{margin:1rem 0!important;background:none!important;break-inside:avoid;border-left:3px solid #000}
+  .hr-body.md-typeset blockquote.hr-quote::before,.hr-body.md-typeset blockquote.hr-quote::after{display:none}
+  .hr-body.md-typeset a[href^="http"]:not(.footnote-ref)::after{content:" (" attr(href) ")";font-size:8pt;word-break:break-all}
+  .hr-body.md-typeset h2,.hr-body.md-typeset h3{break-after:avoid}
+  .hr-body.md-typeset table:not([class]){box-shadow:none;border:1px solid #000}
+  .hr-foot{background:#fff;color:#000;margin-top:1rem;border-top:1px solid #000}
+  .hr-foot__inner,.hr-foot__colophon>p:first-child{display:none}
+  .hr-foot__colophon{color:#000;border:0}
+}
+@media print{.hr-hero img{max-height:3.2in;width:auto;max-width:100%;object-fit:cover}}

@@ -1,0 +1,86 @@
+{#- Feature-story layout used by every article, section front and reference page. -#}
+{% set kind = hr.kind | d("story") %}
+{% set rec = hr.record %}
+{% set d = hr.dept %}
+<header class="hr-head hr-head--{{ kind }}{% if hr.hero %} hr-head--hero{% endif %}">
+  <div class="hr-head__art" aria-hidden="true"></div>
+  <div class="hr-head__inner">
+    <p class="hr-kicker">
+      {% if d %}<a class="hr-kicker__dept" href="{{ d.url | url }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-{{ d.icon }}"/></svg>{{ d.title }}</a>{% endif %}
+      {% if hr.era_label and kind == "story" %}<span class="hr-kicker__era">{{ hr.era_label }}</span>{% endif %}
+      {% if page.meta.region %}<span class="hr-kicker__region"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-pin"/></svg>{{ page.meta.region }}</span>{% endif %}
+      {% if rec and rec.grassroots %}<span class="hr-badge">Grassroots</span>{% endif %}
+    </p>
+    <h1 class="hr-headline">{{ (hr.title_html | d(page.title | e)) | safe }}</h1>
+    {% if page.meta.deck %}<p class="hr-deck">{{ page.meta.deck }}</p>{% endif %}
+    {% if rec %}
+    <div class="hr-slip" role="group" aria-label="Article record"><dl class="hr-slip__dl">
+      <div class="hr-slip__tag hr-slip__tag--{{ rec.level }}">
+        <dt>Confidence</dt>
+        <dd>{{ rec.conf_word }}</dd>
+      </div>
+      {% for k, v in rec.fields %}{% if k | lower != "confidence" %}
+      <div class="hr-slip__f hr-slip__f--{{ k | lower | replace(' ', '-') }}"><dt>{{ k }}</dt><dd>{{ v | safe }}</dd></div>
+      {% endif %}{% endfor %}
+      {% if rec.conf_note %}<div class="hr-slip__f hr-slip__f--note"><dt>Note</dt><dd>{{ rec.conf_note }}</dd></div>{% endif %}
+    </dl>
+      {% if rec.link %}<div class="hr-slip__more">{{ rec.link | safe }}</div>{% endif %}
+    </div>
+    {% endif %}
+    {% if kind == "story" and hr.minutes %}
+    <p class="hr-meta"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-clock"/></svg>{{ hr.minutes }} min read{% if hr.fn %} · {{ hr.fn }} cited notes{% endif %}{% if hr.images %} · {{ hr.images }} image{{ "s" if hr.images != 1 }}{% endif %}</p>
+    {% endif %}
+  </div>
+  {% if hr.hero %}<div class="hr-head__hero">{{ hr.hero | safe }}</div>{% endif %}
+  <div class="hr-head__edge" aria-hidden="true"></div>
+</header>
+
+{% set toc = page.toc.items if page.toc and page.toc.items else [] %}
+{% if toc and toc[0].level == 1 %}{% set toc = toc[0].children %}{% endif %}
+{% set toc = toc | rejectattr("id", "in", hr.removed_ids | d([])) | list %}
+{% set show_rail = toc | length >= 3 and kind in ("story", "ref") %}
+<div class="hr-story{% if not show_rail %} hr-story--norail{% endif %}{% if hr.margin %} hr-story--m{% endif %}">
+  {% if show_rail %}
+  <aside class="hr-rail" aria-label="In this story">
+    <p class="hr-rail__h">In this story</p>
+    <ol class="hr-rail__list">
+      {% for t in toc %}{% if t.id not in (hr.removed_ids | d([])) %}<li><a href="{{ t.url }}">{{ t.title | striptags }}</a></li>{% endif %}{% endfor %}
+      {% if hr.fn %}<li><a href="#hr-sources">Sources &amp; notes</a></li>{% endif %}
+    </ol>
+  </aside>
+  {% endif %}
+  <div class="hr-body md-typeset">
+    {% if kind == "section" and hr.children %}
+    <section class="hr-stories" aria-label="Stories in this department">
+      <ul class="hr-grid-cards">
+        {% for c in hr.children %}{% include "partials/hr-card.html" %}{% endfor %}
+      </ul>
+    </section>
+    <h2 class="hr-ledger-h" id="the-full-listing">The full listing</h2>
+    {% endif %}
+    {{ page.content }}
+    {% include "partials/source-file.html" %}
+  </div>
+</div>
+
+{% if kind in ("story", "ref") and (hr.prev or hr.next or hr.related) %}
+<footer class="hr-more">
+  {% if hr.prev or hr.next %}
+  <nav class="hr-more__next" aria-label="More in {{ d.title if d else 'this department' }}">
+    <h2 class="hr-more__h">Story continues<span>{% if d %} in {{ d.title }}{% endif %}</span></h2>
+    <div class="hr-more__pair">
+      {% if hr.prev %}{% set c = hr.prev %}<div class="hr-more__cell hr-more__cell--prev"><p class="hr-more__dir">← Previous</p><ul class="hr-grid-cards hr-grid-cards--one">{% include "partials/hr-card.html" %}</ul></div>{% endif %}
+      {% if hr.next %}{% set c = hr.next %}<div class="hr-more__cell hr-more__cell--next"><p class="hr-more__dir">Next →</p><ul class="hr-grid-cards hr-grid-cards--one">{% include "partials/hr-card.html" %}</ul></div>{% endif %}
+    </div>
+  </nav>
+  {% endif %}
+  {% if hr.related %}
+  <section class="hr-more__rel" aria-label="Related stories">
+    <h2 class="hr-more__h">Follow the trail<span> related stories</span></h2>
+    <ul class="hr-grid-cards">
+      {% for c in hr.related %}{% include "partials/hr-card.html" %}{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+</footer>
+{% endif %}

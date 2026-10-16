@@ -1,0 +1,13 @@
+{#- one story card; expects `c` -#}
+<li class="hr-sc{% if c.era %} hr-sc--{{ c.era }}{% endif %}" {% if c.era %}data-era="{{ c.era }}"{% endif %}>
+  <a class="hr-sc__link" href="{{ c.url | url }}">
+    <span class="hr-sc__media{% if not c.thumb %} hr-sc__media--none{% elif c.plate %} hr-sc__media--plate{% endif %}">
+      {% if c.thumb %}<img src="{{ c.thumb | url }}" alt="" loading="lazy" decoding="async">{% else %}<span class="hr-sc__mono" aria-hidden="true">{{ (c.title or "?")[:1] }}</span>{% endif %}
+    </span>
+    <span class="hr-sc__body">
+      <span class="hr-sc__meta">{% if c.dept %}<span>{{ c.dept }}</span>{% endif %}{% if c.conf %}<span class="hr-conf hr-conf--{{ c.level }}">{{ c.conf }}</span>{% endif %}{% if c.grass %}<span class="hr-badge">Grassroots</span>{% endif %}</span>
+      <strong class="hr-sc__title">{{ c.title }}</strong>
+      {% if c.blurb %}<span class="hr-sc__blurb">{{ c.blurb }}</span>{% endif %}
+    </span>
+  </a>
+</li>

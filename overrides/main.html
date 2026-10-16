@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% set hr = hr | default({}) %}
+{#- Bespoke editorial shell. Material still provides search, palette, instant navigation and the code/table helpers;
+    everything the reader sees (masthead, contents, story layout, footer) is ours. -#}
+{% block extrahead %}
+  <link rel="preload" href="{{ 'assets/fonts/AlfaSlabOne-latin.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ 'assets/fonts/SourceSerif4-normal-5020.woff2' | url }}" as="font" type="font/woff2" crossorigin>
+  <meta name="theme-color" content="#7a1f1f">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="{{ config.site_name | e }}">
+  <meta property="og:title" content="{{ (hr.title | d(page.title | d(config.site_name))) | e }}">
+  {% if hr.blurb %}<meta property="og:description" content="{{ hr.blurb | e }}">{% endif %}
+{% endblock %}
+{% block site_nav %}{% endblock %}
+{% block tabs %}{% endblock %}
+{% block container %}
+  {% set kind = hr.kind | d("story") %}
+  <div class="md-content hr-main" data-md-component="content">
+    <article class="md-content__inner hr-page hr-page--{{ kind }}" data-hr-kind="{{ kind }}"
+      {% if hr.era %}data-era="{{ hr.era }}"{% endif %}
+      {% if hr.dept %}data-dept="{{ hr.dept.slug }}"{% endif %}
+      {% if page and page.file.src_uri == 'reference/timeline.md' %}data-hr-page="timeline"{% endif %}
+      {% if page and page.file.src_uri.startswith('voices/') %}data-hr-page="voices"{% endif %}>
+      {% block content %}{% include "partials/hr-story.html" %}{% endblock %}
+    </article>
+  </div>
+{% endblock %}
+{% block footer %}{% include "partials/footer.html" %}{% endblock %}

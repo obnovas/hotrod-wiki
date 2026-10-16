@@ -1,0 +1,25 @@
+/* Era skins. Any element with data-era="e30|e50|e60|e70|e80" (or the default) defines the same small set of variables:
+   --era-bg1/--era-bg2  band gradient     --era-fg    text on the band      --era-acc  ornament colour on the band
+   --era-ink            accent on paper   --era-chip  chip fill on band     --era-pat  band pattern   --era-shadow  headline block shadow */
+.hr-page,[data-era]{
+  --era-bg1:#4a1313;--era-bg2:#7a1f1f;--era-fg:#f6efdf;--era-acc:#e0a526;--era-ink:#9c1f18;--era-chip:rgba(0,0,0,.3);--era-shadow:rgba(0,0,0,.38);
+  --era-pat:repeating-linear-gradient(115deg,transparent 0 26px,rgba(224,165,38,.16) 26px 27px,transparent 27px 31px,rgba(246,239,223,.07) 31px 32px);
+  --era-pat-size:auto;--era-tint:#f1e4cf;
+}
+[data-md-color-scheme="slate"] .hr-page,[data-md-color-scheme="slate"] [data-era]{--era-ink:#f0b94a;--era-tint:#241c1b}
+
+[data-era="e30"]{--era-bg1:#cdb386;--era-bg2:#b69a68;--era-fg:#241a0e;--era-acc:#7a2f10;--era-ink:#7a4a1c;--era-chip:rgba(255,255,255,.42);--era-shadow:rgba(255,255,255,.35);
+  --era-pat:url(../assets/design/lakes.svg);--era-pat-size:240px 160px;--era-tint:#efe2c4}
+[data-era="e50"]{--era-bg1:#137a74;--era-bg2:#0d5a66;--era-fg:#fbf3df;--era-acc:#ff8f6b;--era-ink:#0e6a65;--era-chip:rgba(0,0,0,.28);--era-shadow:rgba(0,0,0,.3);
+  --era-pat:url(../assets/design/atomic.svg);--era-pat-size:200px 200px;--era-tint:#dff0ea}
+[data-era="e60"]{--era-bg1:#3b1456;--era-bg2:#a4195a;--era-fg:#fff6e6;--era-acc:#ffb347;--era-ink:#8f1a52;--era-chip:rgba(0,0,0,.3);--era-shadow:rgba(0,0,0,.35);
+  --era-pat:url(../assets/design/candy.svg);--era-pat-size:160px 80px;--era-tint:#f4e0ea}
+[data-era="e70"]{--era-bg1:#6f2c10;--era-bg2:#9b4a14;--era-fg:#fff1d6;--era-acc:#f0b429;--era-ink:#9a4a10;--era-chip:rgba(0,0,0,.3);--era-shadow:rgba(0,0,0,.35);
+  --era-pat:url(../assets/design/earth.svg);--era-pat-size:160px 80px;--era-tint:#f4e3c6}
+[data-era="e80"]{--era-bg1:#0e0d1a;--era-bg2:#2a1245;--era-fg:#f4f6ff;--era-acc:#2ee6f2;--era-ink:#a8135f;--era-chip:rgba(255,255,255,.12);--era-shadow:#ff3d9a;
+  --era-pat:url(../assets/design/neon.svg);--era-pat-size:120px 120px;--era-tint:#efe0ee}
+[data-md-color-scheme="slate"] [data-era="e30"]{--era-bg1:#4a3d27;--era-bg2:#2f2718;--era-fg:#f6e9cc;--era-acc:#e3bb7d;--era-chip:rgba(0,0,0,.32);--era-shadow:rgba(0,0,0,.45);--era-ink:#e3bb7d;--era-tint:#2a2217}
+[data-md-color-scheme="slate"] [data-era="e50"]{--era-ink:#4fd0c7;--era-tint:#14262a}
+[data-md-color-scheme="slate"] [data-era="e60"]{--era-ink:#ff86b8;--era-tint:#2a1626}
+[data-md-color-scheme="slate"] [data-era="e70"]{--era-ink:#f2b04a;--era-tint:#2a1d12}
+[data-md-color-scheme="slate"] [data-era="e80"]{--era-ink:#ff6bb5;--era-tint:#1d1530}

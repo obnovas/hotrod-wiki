@@ -1,0 +1,35 @@
+<footer class="hr-foot">
+  <div class="hr-foot__flames" aria-hidden="true"></div>
+  <div class="hr-foot__inner">
+    <div class="hr-foot__brand">
+      <p class="hr-foot__mark">{{ config.extra.masthead | d("Hot Rod History") }}</p>
+      <p class="hr-script">{{ config.extra.masthead_tag | d("since the dry lakes") }}</p>
+      <p class="hr-foot__about">{{ config.site_description }}</p>
+    </div>
+    <nav class="hr-foot__col" aria-label="Departments">
+      <h2>Departments</h2>
+      <ul>
+        {% for item in nav.items %}{% if not item.is_page or item.url != "" %}
+        {% set tgt = item if item.is_page else (item.children | first) %}
+        <li><a href="{{ tgt.url | url }}">{{ item.title }}</a></li>{% endif %}{% endfor %}
+      </ul>
+    </nav>
+    <nav class="hr-foot__col" aria-label="How we work">
+      <h2>How we know</h2>
+      <ul>
+        <li><a href="{{ 'reference/source-standards/' | url }}">Source standards</a></li>
+        <li><a href="{{ 'bibliography/' | url }}">Bibliography</a></li>
+        <li><a href="{{ 'reference/image-credits/' | url }}">Image credits</a></li>
+        <li><a href="{{ 'research-trail/' | url }}">Research trail</a></li>
+        <li><a href="{{ 'highlights-archive/' | url }}">Highlights archive</a></li>
+        <li><a href="{{ 'grassroots/sources/' | url }}">Grassroots sources</a></li>
+      </ul>
+      <p class="hr-foot__key"><span class="hr-flag hr-flag--conflict">⚠</span> sources disagree &nbsp; <span class="hr-flag hr-flag--single">◐</span> one source so far</p>
+    </nav>
+  </div>
+  <div class="hr-foot__colophon">
+    <p>Set in Alfa Slab One, Oswald, Source Serif 4, Special Elite and Yellowtail (all SIL Open Font License or Apache 2.0, self-hosted). Every photograph is credited; copyrighted pictures are linked, never copied.</p>
+    <p>{{ config.copyright | d("", true) }} Built with MkDocs · <a href="https://github.com/obnovas/hotrod-wiki">Source on GitHub</a></p>
+  </div>
+  <div class="hr-foot__checks" aria-hidden="true"></div>
+</footer>

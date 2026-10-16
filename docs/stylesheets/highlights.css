@@ -4,7 +4,7 @@
   border:1.5px solid var(--hr-teal);margin:0 .15em}
 .hr-badge::before{content:"";display:inline-block;width:.55em;height:.55em;margin-right:.4em;border-radius:50%;
   background:var(--hr-mustard);box-shadow:0 0 0 1.5px #fff inset;vertical-align:.02em}
-[data-md-color-scheme="slate"] .hr-badge{background:#2a8e88;border-color:#5fb3ab;color:#fff}
+[data-md-color-scheme="slate"] .hr-badge{background:#1f6f6b;border-color:#5fb3ab;color:#fff}
 .hr-chip--src{background:transparent;color:var(--md-default-fg-color);border-color:var(--hr-steel)}
 [data-md-color-scheme="slate"] .hr-chip--src{color:#e6dcc7;border-color:#8b8f94}
 .hr-chip--conflict{background:#b3261e;color:#fff;border-color:#b3261e}
