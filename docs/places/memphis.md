@@ -3,7 +3,7 @@
 *A bomber base, a bo-weevil and a missing Sun Records story*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no documented Sun Records link · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I became interested in drag racing in 1953 just as it was starting to come on. … I got in touch with Wally at Hot Rod to offer my help."
@@ -36,6 +36,8 @@ Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NS
 
 We looked for a documented link between Sun Records-era musicians and Memphis builders or clubs and **found none**. We aren't going to invent one. The photo below shows the place and the period only.
 
+There is one company claim, and it is about a street corner, not a musician. COMP Cams says its founders' Racing Head Service rented a shop "at the corner of Union and Marshall, which happened to be Sun Studios, where Elvis was discovered." ◐ That is the company's own history, we have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb," without naming the corner. Read the full story, with its doubts, in [COMP Cams & Racing Head Service](../companies/comp-cams-rhs.md).[^comp15]
+
 **The 1954 World Series:** Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
 
 ## Images
@@ -64,3 +66,4 @@ We looked for a documented link between Sun Records-era musicians and Memphis bu
 [^bs]: BangShift, "Raymond Godman Has Died." https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/
 [^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html
 [^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)
+[^comp15]: "The History of COMP Cams," COMP Cams (company site). https://www.compcams.com/about-us (accessed 2026-10-16)

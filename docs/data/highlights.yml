@@ -366,3 +366,63 @@ highlights:
     image: commons-downtown-hope-arkansas-2010.jpg
     image_alt: Main Street in downtown Hope, Arkansas
     image_note: 2010 photo
+
+  - id: crane-1966-class-winner-refund
+    headline: In 1966 a cam maker refunded the little guys who won their class at the Nationals
+    teaser: SEMA says Harvey Crane repaid the price of the Crane cam and kit to every class winner at the
+      1966 Nationals, thanking the weekend racers who backed him early. Cleveland gasser Ron Hassel, who left
+      Ohio in 1965 to run Crane's sales in South Florida, won B/Gas that year.
+    link: companies/crane-cams.md
+    evidence: the unprecedented step of rewarding the little-guy weekend racers who had supported him in his early days
+    source_type: [Obituary, Trade press]
+    confidence: Medium-High
+    flag: none
+    grassroots: true
+    added: '2026-10-17'
+    eras: [1960s]
+    regions: ["Hallandale, Fla.", "Cleveland, Ohio"]
+
+  - id: hooker-vanke-backyard-garage-ad
+    headline: A header ad saluted an Akron drag racer who built cars in his backyard garage
+    teaser: In February 1971 Hot Rod ran a Hooker Headers ad congratulating Arlen Vanke on his 1970 NHRA
+      Division Three Pro Stock title. Mopar Connection says the ad promised he would move to Columbus rather
+      than give up his Hooker Headers, and his five wins are a promotional claim we have not confirmed.
+    link: companies/hooker-headers.md
+    evidence: built engines, transmissions, rear ends, and constructed cars in his backyard garage
+    source_type: Trade press
+    confidence: Medium
+    flag: single-source
+    grassroots: false
+    added: '2026-10-17'
+    eras: [1970s]
+    regions: ["Akron, Ohio"]
+
+  - id: lakewood-bellhousing-24-seconds
+    headline: A Cleveland-suburb speed shop man learned hydroforming and had a bellhousing in 24 seconds
+    teaser: Joe Schubeck says a seamless aluminum bellhousing came out of a Cleveland hydroform press just
+      24 seconds after the button was pushed, though the Hall of Fame page says 20. Either way, it led to the steel
+      version meant to keep exploding flywheels out of the grandstands.
+    link: companies/lakewood-industries.md
+    evidence: Just 24 seconds after the operator had hit the button
+    source_type: [Trade press, Museum / HOF]
+    confidence: Medium
+    flag: conflict
+    grassroots: false
+    added: '2026-10-17'
+    eras: [1960s]
+    regions: ["Cleveland, Ohio"]
+
+  - id: hurst-campbell-no-employees-two-car-garage
+    headline: A company with no employees opened its 1965 plant a few miles from its first garage
+    teaser: Panorama, the Bucks County magazine, said Hurst-Campbell had no employees, only associates, as it
+      opened a 58,000-square-foot plant in Warminster in October 1965. Its first home was a converted two-car
+      garage in Abington.
+    link: companies/hurst-campbell.md
+    evidence: small converted two-car garage in Abington
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-17'
+    eras: [1960s]
+    regions: ["Abington, Pa.", "Warminster, Pa."]

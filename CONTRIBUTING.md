@@ -54,6 +54,21 @@ You can also paste the template into `docs/data/highlights.yml` by hand.
 ### Rotation
 The slider shows the newest 16 highlights (`settings.max_featured`), newest `added` date first. Older ones move to the **Highlights archive** page automatically. Never delete a highlight to make room.
 
+## Web of Influence (connections map)
+The map on [Companies & Shops → Web of Influence](docs/companies/web-of-influence.md) is drawn at build time from `docs/data/connections.yml` by `hooks/connections_hook.py` (using `scripts/connections_lib.py`). No JavaScript library is involved; the layout is computed in Python and written as an SVG with a full text table beneath it.
+
+- **Nodes** have an `id`, `label`, `type` (company, person, place, club, institution) and a `page` (a `.md` path under `docs/`). Companies also have a `group`: `big-names` or `garage-born`.
+- **Edges** have `from`, `to`, `type` (founded, partnered, employed, customer, acquired, patent, promotion, mentor, scene, hometown), a short `label`, a `page` that documents the tie, and an `evidence` phrase that appears **verbatim** in that page (footnote markers, link markup and curly quotes are ignored when matching). Add `flag: conflict` or `flag: single-source` when the page flags the tie with ⚠ or ◐.
+- **A line cannot appear until an article earns it.** Write the sentence and its footnote in the article first, then add the edge.
+- **Every company page must be a node.** A new `docs/companies/*.md` page with no matching company node fails the check.
+
+```bash
+python scripts/check_connections.py         # validates; exits non-zero on any error
+python scripts/check_connections.py --list  # prints nodes and edges
+```
+
+The build runs the same check and stops on failure. Warnings (for example, a disconnected island) do not stop it, but fix them: an island means the map has a gap.
+
 ## Incoming issues (triage)
 Readers send corrections, source tips and suggestions through the issue forms in `.github/ISSUE_TEMPLATE/` (buttons at the end of every article, the Contribute page, the footer and the masthead). Labels to create once in the repository: `correction`, `source-tip`, `suggestion`, `triage`. Handle every issue the same way, and never let a reader's say-so change a page without a source:
 1. **Label** it (`correction`, `source-tip` or `suggestion`; keep `triage` until handled).
@@ -66,6 +81,6 @@ Readers send corrections, source tips and suggestions through the issue forms in
 0. Start by triaging open issues labeled `triage` (the steps above); fold verified items into this round's work.
 1. Research and write; keep local and homegrown sources first. File each new page in the right department (see above).
 2. Add 2-4 highlights (at least half grassroots); update `docs/reference/grassroots-sources.md` with any new outlet.
-3. `python scripts/update_highlights.py check` (it also reports the round's batch against the standard). Log credited reader contributions in the Research Trail round entry.
+3. `python scripts/check_connections.py` when a round touched `docs/data/connections.yml` or added a company page, then `python scripts/update_highlights.py check` (it also reports the round's batch against the standard). Log credited reader contributions in the Research Trail round entry.
 4. `.venv/bin/mkdocs build --strict`.
 5. `git pull --rebase origin main`, commit, push. Do not deploy from the routine.

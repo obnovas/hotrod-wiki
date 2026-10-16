@@ -157,3 +157,17 @@ Round 10 reuses `commons-1940-willys-gasser.jpg` and `commons-1941-willys-gasser
 | `commons-downtown-hope-arkansas-2010.jpg` | Main Street in Hope, Ark. (the *Hope Star* ran *Street Rod* in 1954; context only) | Jay Cross (Flickr: Hope, Arkansas, Family Council) | 2010-09-18 | [Commons](https://commons.wikimedia.org/wiki/File:Downtown_Hope,_AR.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 
 **Skipped (Round 14):** no openly licensed period photos of the Twin Falls clubs, the Ram Rods or Wilmington Automotive Activities were found; yearbook photos are not reused.
+
+## Added in Round 15
+
+| File | Shows | Creator | Date | Source | License |
+|---|---|---|---|---|---|
+| `commons-holley-brothers-ad-1916.jpg` | Holley Brothers Co. advertisement for the Model H carburetor, *Automobile Trade Journal*, vol. 20 | Holley Brothers Company | 1916 | [Commons](https://commons.wikimedia.org/wiki/File:Holley_Brothers_Co_advert_in_Automobile_Trade_Journal_1916.png) | Public domain |
+| `commons-bradford-pa-main-street.jpg` | Main Street, looking west from Chestnut Street, Bradford, Pa., linen postcard (later than the Holleys' years; context only) | Tichnor Bros., Boston (for the Bradford News Co.; Boston Public Library collection) | c. 1930–1945 | [Commons](https://commons.wikimedia.org/wiki/File:Main_street,_looking_west_from_Chestnut_Street,_Bradford,_Pa_(69701).jpg) | Public domain |
+| `commons-linda-vaughn-hurst-2008.jpg` | Giant Hurst shifter handle on an Oldsmobile pace car, titled "Linda Vaughn and Hurst" (uploader: Lansing, Mich., 1972 parade ◐) | JOHN LLOYD | uploaded 2008-10-18 | [Commons](https://commons.wikimedia.org/wiki/File:Linda_Vaughn_and_Hurst_(2952061787).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| `commons-mickey-thompson-challenger-i.jpg` | *Challenger I*, Thompson's 1960 Bonneville record car, at the Wally Parks NHRA Motorsports Museum | Wally Parks NHRA Motorsports Museum | 2008-07-07 | [Commons](https://commons.wikimedia.org/wiki/File:Mickey_Thompson_Challenger_I_(2967316249).jpg) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| `commons-norwalk-raceway-park-2007.jpg` | Can-Am cars at Norwalk, Ohio, 2007 Pontiac Nationals (the track Summit later named; context only) | TropicDave | 2007-12-23 | [Commons](https://commons.wikimedia.org/wiki/File:3_Can_Ams_at_Norwalk_30th_Anniv.JPG) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
+| `commons-palm-beach-international-raceway.jpg` | Aerial view of Palm Beach International Raceway (2016), the site Moroso bought and renamed | formulanone | 2016-02-12 | [Commons](https://commons.wikimedia.org/wiki/File:Palm_Beach_International_Raceway.jpg) | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
+| `patent-US3108580-crane-tappet.png` | US3108580, "Non-rotatable valve tappet," sheet 1 | Harvey J. Crane Jr. (inventor); USPTO drawing | see [Patents](patents.md) | [Google Patents](https://patents.google.com/patent/US3108580A/en) | Public domain |
+
+Round 15 also reuses `commons-sun-studio-highsmith.jpg` (Carol M. Highsmith, Library of Congress; credited above) on the [COMP Cams](../companies/comp-cams-rhs.md) page. **Skipped:** no openly licensed photographs of the Edelbrock, Hooker, Lakewood or Hurst plants or catalogs, or of Harvey Crane, Joe Schubeck or Jack Hooker, were found; company catalog and ad scans from the 1950s–70s are not reused.

@@ -44,7 +44,7 @@ FRONT_ERA = {"1920s": "e30", "1930s": "e30", "1940s": "e30", "1950s": "e50", "19
 DEPT = {
     "eras": ("sun", "The calendar: decade by decade, from the dry lakes to Pro Street."),
     "people": ("person", "Machinists, racers, publishers and the families behind them."),
-    "companies": ("piston", "Garage-born speed shops and the aftermarket they grew into."),
+    "companies": ("piston", "Garage-born speed shops, the big aftermarket names they grew into, and the map of who connected to whom."),
     "cars": ("car", "Streamliners and gassers, car by car, and the techniques that built them."),
     "customs": ("flame", "The style: lead sleds, chops and the builders of Kustom Kulture."),
     "street-rodding": ("wheel", "NSRA, the early Nationals, the 1948 rule and fiberglass bodies."),

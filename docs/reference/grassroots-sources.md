@@ -34,10 +34,15 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Harrisburg Daily Register](https://archive.org/details/harrisburg-daily-register-1957-08-29) (Illinois, 1954 and 1957) → a tombstone blamed on drag-car ballast, and *Street Rod* installments → [Twin Falls](../places/twin-falls-main-avenue.md), [*Street Rod* serial](../media/street-rod-newspaper-serial.md).
 - [Hope Star](https://archive.org/details/hope-star-1954-05-29) (Arkansas, 1954) → *Street Rod* installments, including the city-council scene → [*Street Rod* serial](../media/street-rod-newspaper-serial.md).
 
+- [Panorama: The Magazine of Bucks County](https://archive.org/details/panorama-1965.10-october) (Doylestown, Pa., Oct 1965; scanned) and [Bucks County Life](https://archive.org/details/life-1965.11-november) (Nov 1965, Jan–Feb 1966; scanned) → Hurst-Campbell's "no employees" cover story, the two-car-garage origin and the plant open house → [Hurst-Campbell](../companies/hurst-campbell.md).
+- [Orlando Sentinel](https://www.orlandosentinel.com/2013/06/20/harvey-j-crane-jr-his-exacting-work-boosted-race-cars-power/) (Jun 2013 obituary) → Harvey Crane's Florida career as his home paper told it → [Crane Cams](../companies/crane-cams.md).
+
 ### Obituaries and funeral-home pages
 - [Wendt Funeral Home](https://www.wendtfuneralhome.com/obituaries/robert-j-bartel) (Bob Bartel, 2018) → birthplace, marriage, the 1956 Cordova farm purchase → [Bob Bartel](../people/bob-bartel.md).
 - [Pike County Courier](https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961) (Almquist, 2015) → the 1947 founding date that conflicts with Hemmings → [Ed Almquist](../people/ed-almquist.md).
 - [Engle Racing Cams obituary page](https://doczz.net/doc/1013817/engle-cams---engle-racing-cams) (company's obituary flyer, mirrored) → Jack Engle's 1939 and 1941 dates → [Jack Engle](../people/jack-engle.md).
+
+- [Lohman Funeral Homes, Harvey J. Crane](https://obituaries.lohmanfuneralhomes.com/obituaries/harvey-crane) (2013) → the family's dates and the 1966 class-winner refunds, matching SEMA's obituary → [Crane Cams](../companies/crane-cams.md).
 
 ### Oral history and interviews
 - [Modestoview](https://www.modestoview.com/gene-winfield-interview/) (Chris Murphy's interview with Gene Winfield) → the Century Toppers' founding "in late '47," the coop shop, early racing roads → [Century Toppers](../drag-racing/modesto-century-toppers.md).
@@ -65,6 +70,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 
 
 ### Family accounts
+- [Just A Car Guy, "Bill Campbell, the quiet engineer partner…"](http://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html) (2023; an email from Campbell's daughter, quoted) → the $1,000 shifter prize and her account of the rescue tool, both flagged ◐ → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Kustomrama, Jack Engle](https://kustomrama.com/wiki/Jack_Engle) (photos and captions courtesy Mark Engle) → the homemade cam-grinder story and "he and Isky both bought their first cams from Ed Winfield" → [Jack Engle](../people/jack-engle.md).
 - [JR Thompson's Gasser Reunion page](http://www.jrthompson.net/gasserreunionchuckfinders.html) (includes "Farewell, Chuck Finders" by his son) → Chuck Finders's racing start and shop, told by his son (family account, ◐) → [The Ohio Gassers](../places/ohio-gassers.md).
 
@@ -78,7 +84,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 
 
 ### School yearbooks and student newspapers
-- [Classmates.com yearbook scans on the Internet Archive](https://archive.org/details/classmates-yearbook-32257-1963-southeast-guilford-high-school) (1955–63: Pensacola, Chillicothe, Portland's Central Catholic, Fort Collins, Tillamook, Imbler, Shawnee Mission, Southeast Guilford) → club rosters, senior entries, a class will and a school paper's car column → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
+- [Classmates.com yearbook scans on the Internet Archive](https://archive.org/details/classmates-yearbook-32257-1963-southeast-guilford-high-school) (1955–63, plus Little Rock Central 1978 for a Racing Head Service ad on the [COMP Cams page](../companies/comp-cams-rhs.md): Pensacola, Chillicothe, Portland's Central Catholic, Fort Collins, Tillamook, Imbler, Shawnee Mission, Southeast Guilford) → club rosters, senior entries, a class will and a school paper's car column → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
 
 ### Forum recollections
 - [H.A.M.B., "Lake Street (Mpls, MN) in the 60s"](https://www.jalopyjournal.com/forum/threads/lake-street-mpls-mn-in-the-60s.341268/) → anonymous cruisers' memories → [Lake Street & University](../places/lake-street-university.md).
@@ -119,6 +125,17 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+
+### Round 15 status
+| Source | Round 15 status |
+|---|---|
+| Internet Archive magazine scans (*Panorama*, *Bucks County Life*) | **Readable** page OCR; the best local record of Hurst-Campbell. |
+| SEMA (sema.org), COMP Cams, Holley, Hooker, Moroso, Hagerty, Classic American, NHRA.com, CBS, *Orlando Sentinel*, *Mopar Connection* | **Readable** (COMP only through the fetch tool; plain `curl` gets 403). |
+| Hemmings | Cloudflare block; not bypassed. |
+| *Akron Beacon Journal* | Paywall (HTTP 402); not bypassed. |
+| RACER (2017 Summit profile) | Bot check; the 2016 RACER piece was readable. |
+| Google Patents | Fetch tool works; `curl` was rate-limited and not retried. |
+| Holley Foundation history, Automotive Hall of Fame (Thompson), Moroso "Where It All Started" PDF | 404, empty page and no text layer, respectively. |
 
 ## Adding to this catalog
 Each research round: add any new outlet under its type with a link, the year read, what it contributed and the page that uses it. If an archive becomes reachable, update its status above. See [Source Standards](source-standards.md) and the [Research Trail](../research-trail.md).

@@ -1,0 +1,233 @@
+# Web of influence: nodes (companies, people, places, clubs, institutions) and the edges between them.
+#
+# Every edge must name a supporting wiki page (`page`) and one or more `evidence` phrases that
+# appear verbatim (after markdown/curly-quote normalisation) in that page. The build fails otherwise
+# (hooks/connections_hook.py, scripts/connections_lib.py). Run `python scripts/check_connections.py`.
+#
+# node types : company | person | place | club | institution
+# edge types : founded | partnered | employed | customer | acquired | patent | promotion | mentor | scene | hometown
+# flag       : none | conflict | single-source     (match the page's own ⚠ / ◐ marks)
+# `group` on a company node: big-names | garage-born (used for the department landing page and colours)
+
+nodes:
+  # ---- companies: the new Round 15 profiles
+  - {id: hurst,      label: Hurst-Campbell,  type: company, group: big-names,   page: companies/hurst-campbell.md}
+  - {id: moon,       label: Moon Equipment,  type: company, group: garage-born, page: companies/moon-equipment.md}
+  - {id: holley,     label: Holley,          type: company, group: big-names,   page: companies/holley.md}
+  - {id: summit,     label: Summit Racing,   type: company, group: big-names,   page: companies/summit-racing.md}
+  - {id: comp,       label: COMP Cams / RHS, type: company, group: big-names,   page: companies/comp-cams-rhs.md}
+  - {id: crane,      label: Crane Cams,      type: company, group: big-names,   page: companies/crane-cams.md}
+  - {id: lakewood,   label: Lakewood,        type: company, group: garage-born, page: companies/lakewood-industries.md}
+  - {id: moroso,     label: Moroso,          type: company, group: garage-born, page: companies/moroso.md}
+  - {id: hooker,     label: Hooker Headers,  type: company, group: garage-born, page: companies/hooker-headers.md}
+  - {id: mthompson,  label: Mickey Thompson, type: company, group: big-names,   page: companies/mickey-thompson.md}
+  # ---- companies already in the wiki
+  - {id: mrgasket,   label: Mr. Gasket,      type: company, group: garage-born, page: companies/mr-gasket.md}
+  - {id: edelbrock,  label: Edelbrock,       type: company, group: big-names,   page: companies/edelbrock-slingshot.md}
+  - {id: weiand,     label: Weiand,          type: company, group: garage-born, page: people/barney-navarro.md}
+  - {id: hilborn,    label: Hilborn Injection, type: company, group: garage-born, page: people/stu-hilborn.md}
+  - {id: logghe,     label: Logghe Stamping, type: company, group: garage-born, page: companies/logghe-stamping.md}
+  - {id: scplating,  label: So. Cal. Plating, type: company, group: garage-born, page: companies/southern-california-plating.md}
+  - {id: bellauto,   label: Bell Auto Parts, type: company, group: garage-born, page: companies/prewar-speed-shops.md}
+  # ---- people
+  - {id: ghurst,     label: George Hurst,    type: person,  page: companies/hurst-campbell.md}
+  - {id: lvaughn,    label: Linda Vaughn,    type: person,  page: companies/hurst-campbell.md}
+  - {id: almquist,   label: Ed Almquist,     type: person,  page: people/ed-almquist.md}
+  - {id: isky,       label: Ed Iskenderian,  type: person,  page: people/ed-iskenderian.md}
+  - {id: navarro,    label: Barney Navarro,  type: person,  page: people/barney-navarro.md}
+  - {id: dmoon,      label: Dean Moon,       type: person,  page: companies/moon-equipment.md}
+  - {id: hcrane,     label: Harvey Crane,    type: person,  page: companies/crane-cams.md}
+  - {id: woitesek,   label: Tom Woitesek,    type: person,  page: companies/comp-cams-rhs.md}
+  - {id: schubeck,   label: Joe Schubeck,    type: person,  page: companies/lakewood-industries.md}
+  - {id: ghooker,    label: Gary Hooker,     type: person,  page: companies/hooker-headers.md}
+  - {id: dmoroso,    label: Dick Moroso,     type: person,  page: companies/moroso.md}
+  - {id: winfield,   label: Ed Winfield,     type: person,  page: people/ed-winfield.md}
+  - {id: tbeatty,    label: Tom Beatty,      type: person,  page: people/tom-beatty.md}
+  - {id: schartman,  label: Eddie Schartman, type: person,  page: people/eddie-schartman.md}
+  - {id: debell,     label: Leonard DeBell,  type: person,  page: companies/southern-california-plating.md}
+  - {id: doty,       label: Julian Doty,     type: person,  page: people/julian-doty.md}
+  - {id: sergi,      label: Paul Sergi,      type: person,  page: companies/summit-racing.md}
+  - {id: hassel,     label: Ron Hassel,      type: person,  page: places/ohio-gassers.md}
+  - {id: hrudka,     label: Joe Hrudka,      type: person,  page: companies/mr-gasket.md}
+  - {id: vanke,      label: Arlen Vanke,     type: person,  page: people/arlen-vanke.md}
+  - {id: arfons,     label: Art & Walt Arfons, type: person, page: drag-racing/akron-fulton-airport.md}
+  - {id: lmiller,    label: Leonard Miller,  type: person,  page: voices/leonard-miller.md}
+  - {id: neumayer,   label: LeRoy Neumayer,  type: person,  page: companies/mickey-thompson.md}
+  - {id: gaybros,    label: Gay brothers,    type: person,  page: drag-racing/houston-freeway-dragstrip.md}
+  # ---- places, strips, scenes
+  - {id: akronstrip, label: Akron Fulton Airport, type: place, page: drag-racing/akron-fulton-airport.md}
+  - {id: bucks,      label: Bucks County, Pa., type: place, page: companies/hurst-campbell.md}
+  - {id: bradford,   label: Bradford, Pa.,   type: place,   page: companies/holley.md}
+  - {id: memphis,    label: Memphis,         type: place,   page: places/memphis.md}
+  - {id: sunstudio,  label: Union & Marshall (Sun Studio corner), type: place, page: companies/comp-cams-rhs.md}
+  - {id: pbir,       label: Palm Beach Int'l Raceway, type: place, page: companies/moroso.md}
+  - {id: ubly,       label: Ubly Dragway, Mich., type: place, page: companies/logghe-stamping.md}
+  - {id: pomona,     label: Pomona, Calif., type: place,    page: drag-racing/pomona-choppers-fontana.md}
+  - {id: santaana,   label: Santa Ana Drags, type: place,   page: eras/1950s-santa-ana-drags.md}
+  - {id: lions,      label: Lions Drag Strip, type: place,  page: eras/1950s-santa-ana-drags.md}
+  - {id: houstonstrip, label: Houston Freeway Dragstrip, type: place, page: drag-racing/houston-freeway-dragstrip.md}
+  - {id: pontiac,    label: Pontiac (Super Duty era), type: institution, page: companies/hurst-campbell.md}
+  - {id: woodward,   label: Woodward Avenue, type: place,   page: places/woodward.md}
+  # ---- clubs, groups, institutions
+  - {id: ohiogassers, label: The Ohio Gassers, type: club,  page: places/ohio-gassers.md}
+  - {id: sema,       label: SEMA,            type: institution, page: people/ed-iskenderian.md}
+
+edges:
+  # ----- Hurst
+  - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
+     evidence: ["George H. Hurst Jr. was 38"]}
+  - {from: hurst, to: bucks, type: hometown, label: "Two-car garage in Abington, then a Warminster plant", page: companies/hurst-campbell.md,
+     evidence: ["small converted two-car garage in Abington"]}
+  - {from: hurst, to: almquist, type: partnered, label: "1959 floor-shifter partnership with Almquist (single source)", page: people/ed-almquist.md, flag: single-source,
+     evidence: ["A 1959 partnership with **George Hurst and Bill Campbell** on floor shifters dissolved"]}
+  - {from: hurst, to: lvaughn, type: promotion, label: "Miss Hurst Golden Shifter", page: companies/hurst-campbell.md,
+     evidence: ["Miss Hurst Golden Shifter"]}
+  - {from: lakewood, to: hurst, type: promotion, label: "Hurst hired Lakewood's founder to drive the Hairy Oldsmobile", page: companies/lakewood-industries.md,
+     evidence: ["Hurst Hairy Oldsmobile"]}
+  - {from: mrgasket, to: hurst, type: acquired, label: "Bought what was left of Hurst Performance in 1986 (trade-press summary)", page: companies/hurst-campbell.md, flag: single-source,
+     evidence: ["the Mr. Gasket company purchased what was left of Hurst Performance"]}
+  - {from: bucks, to: lmiller, type: scene, label: "Bucks County strips of the 1960s, same county and decade (no documented tie to Hurst)", page: voices/leonard-miller.md,
+     evidence: ["He raced at Bucks County strips in the 1960s, including Vargo"]}
+  # ----- Holley
+  - {from: holley, to: bradford, type: hometown, label: "Holley Brothers began in Bradford, Pa.", page: companies/holley.md,
+     evidence: ["Holley came to Buffalo from **Bradford, Pennsylvania**"]}
+  - {from: holley, to: mrgasket, type: acquired, label: "Holley bought Mr. Gasket in September 2015", page: companies/holley.md,
+     evidence: ["Holley bought **Mr. Gasket** in September 2015"]}
+  - {from: holley, to: hooker, type: acquired, label: "Sold to Holley in 2000 (the Pa. marker says the 1990s)", page: companies/hooker-headers.md, flag: conflict,
+     evidence: ["sold the business to Holley Performance Products in **2000**"]}
+  - {from: holley, to: lakewood, type: acquired, label: "Lakewood is now a Holley brand", page: companies/lakewood-industries.md,
+     evidence: ["now part of Holley Performance"]}
+  # ----- Summit
+  - {from: summit, to: sergi, type: founded, label: "Founded in 1968 by Paul Sergi", page: companies/summit-racing.md,
+     evidence: ["**Paul Sergi**"]}
+  - {from: summit, to: mthompson, type: promotion, label: "First mail-order ads were for Mickey Thompson ET wheels", page: companies/summit-racing.md,
+     evidence: ["small ads for Mickey Thompson ET wheels"]}
+  - {from: summit, to: comp, type: customer, label: "Founder's restored Corvette runs a COMP hydraulic roller cam", page: companies/summit-racing.md,
+     evidence: ["COMP Cams hydraulic roller cam"]}
+  # ----- COMP / RHS / Memphis
+  - {from: comp, to: memphis, type: hometown, label: "Racing Head Service began in a Memphis basement in 1967", page: companies/comp-cams-rhs.md,
+     evidence: ["in the basement of Ivars Smiltnieks's house in Memphis"]}
+  - {from: comp, to: sunstudio, type: scene, label: "Its first rented shop was at the corner of Union and Marshall (company history only)", page: companies/comp-cams-rhs.md, flag: single-source,
+     evidence: ["at the corner of Union and Marshall, which happened to be Sun Studios"]}
+  - {from: woitesek, to: comp, type: founded, label: "One of six partners in Competition Cams, 1976", page: companies/comp-cams-rhs.md,
+     evidence: ["Competition Cams was formed by six partners"]}
+  - {from: crane, to: woitesek, type: employed, label: "Woitesek was Crane's shop foreman before Memphis", page: companies/comp-cams-rhs.md,
+     evidence: ["then the shop foreman at Crane Cams in Florida"]}
+  - {from: comp, to: crane, type: partnered, label: "Cam Dynamics partnership dissolved in 1975 and went to Crane", page: companies/comp-cams-rhs.md,
+     evidence: ["Cam Dynamics eventually going to Crane Cams"]}
+  - {from: comp, to: edelbrock, type: acquired, label: "Both in the Edelbrock Group since 2020", page: companies/comp-cams-rhs.md,
+     evidence: ["which already owned **Edelbrock**"]}
+  # ----- Crane
+  - {from: crane, to: hcrane, type: founded, label: "Founded by Harvey Crane Jr. in Hallandale, 1953", page: companies/crane-cams.md,
+     evidence: ["On **January 1, 1953**"]}
+  - {from: crane, to: isky, type: patent, label: "Crane's roller-tappet patent cites Isky's 1958 lifter-guide patent", page: companies/crane-cams.md,
+     evidence: ["Guide means for non rotatable valve lifters"]}
+  - {from: crane, to: hassel, type: employed, label: "Hassel left Ohio in 1965 to be Crane's sales manager", page: places/ohio-gassers.md,
+     evidence: ["sales manager for Crane Cams"]}
+  - {from: crane, to: ohiogassers, type: customer, label: "1966 refunds to Nationals class winners (Hill's account)", page: places/ohio-gassers.md,
+     evidence: ["In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners"]}
+  # ----- Ohio Gassers / Mr. Gasket
+  - {from: hassel, to: ohiogassers, type: scene, label: "Cleveland gasser racer", page: places/ohio-gassers.md,
+     evidence: ["Jim Hill's list of the group includes Eddie Schartman, Ron Hassel"]}
+  - {from: ohiogassers, to: mrgasket, type: scene, label: "Mr. Gasket came out of the Cleveland gasser circle", page: places/ohio-gassers.md,
+     evidence: ["Out of that circle came Mr. Gasket"]}
+  - {from: hrudka, to: mrgasket, type: founded, label: "Hrudka's thick one-piece gaskets sold from a '57 Chevy trunk", page: companies/mr-gasket.md,
+     evidence: ["Joe Hrudka worked out thicker, larger, one-piece gaskets"]}
+  - {from: mrgasket, to: hassel, type: employed, label: "Hassel returned to Cleveland in 1967 as national sales manager", page: places/ohio-gassers.md,
+     evidence: ["Mr. Gasket's National Sales Manager"]}
+  - {from: hassel, to: pbir, type: scene, label: "Hill's photo of Hassel's Pie Wagon is from Palm Beach International Raceway", page: places/ohio-gassers.md,
+     evidence: ["Palm Beach International Raceway"]}
+  # ----- Moroso
+  - {from: moroso, to: dmoroso, type: founded, label: "Dick Moroso, from a Greenwich, Conn., basement", page: companies/moroso.md,
+     evidence: ["designing car engines in his parents' basement in Greenwich, Conn."]}
+  - {from: moroso, to: pbir, type: scene, label: "Bought and rebuilt the track as Moroso Motorsports Park", page: companies/moroso.md,
+     evidence: ["bought the neglected Palm Beach International Raceway on a whim"]}
+  # ----- Lakewood
+  - {from: lakewood, to: schubeck, type: founded, label: "Founded by 'Gentleman Joe' Schubeck", page: companies/lakewood-industries.md,
+     evidence: ["formed the company just outside Cleveland in Lakewood, Ohio"]}
+  - {from: schubeck, to: akronstrip, type: scene, label: "First run was at the Akron strip, against the Arfons machine", page: companies/lakewood-industries.md,
+     evidence: ["made his first run at the Akron strip"]}
+  - {from: schubeck, to: arfons, type: scene, label: "Met the whole Arfons family after losing his first race to them", page: companies/lakewood-industries.md,
+     evidence: ["having met the whole Arfons family"]}
+  - {from: schubeck, to: isky, type: mentor, label: "Schubeck named Isky and Edelbrock as the makers he read about, then joined", page: companies/lakewood-industries.md,
+     evidence: ["Iskenderian, Edelbrock, now, I was a player with them"]}
+  - {from: schubeck, to: edelbrock, type: mentor, label: "Same quotation: a Petersen's reader who became their peer", page: companies/lakewood-industries.md,
+     evidence: ["Iskenderian, Edelbrock, now, I was a player with them"]}
+  - {from: arfons, to: akronstrip, type: scene, label: "Raced at Fulton Airport for eight years", page: drag-racing/akron-fulton-airport.md,
+     evidence: ["half-brothers Art and Walt Arfons"]}
+  - {from: vanke, to: akronstrip, type: scene, label: "'Akron Arlen' raced at the Fulton strip", page: drag-racing/akron-fulton-airport.md,
+     evidence: ["Akron Arlen"]}
+  # ----- Hooker
+  - {from: hooker, to: ghooker, type: founded, label: "Gary Hooker made headers for his own 409", page: companies/hooker-headers.md,
+     evidence: ["Hooker couldn't afford to buy headers, so he made his own"]}
+  - {from: ghooker, to: pomona, type: hometown, label: "Family moved to Pomona when he was about five", page: companies/hooker-headers.md,
+     evidence: ["the family moved to Pomona, California, when he was about five years old"]}
+  - {from: hooker, to: vanke, type: promotion, label: "1971 Hot Rod ad saluting Vanke's Division Three title", page: companies/hooker-headers.md,
+     evidence: ["ran a Hooker Headers ad congratulating Akron's"]}
+  - {from: hooker, to: sema, type: scene, label: "Hooker's booth at the first SEMA show, with borrowed money", page: companies/hooker-headers.md,
+     evidence: ["went by the finance company and borrowed money so we could go to the show"]}
+  - {from: crane, to: sema, type: scene, label: "Crane exhibited at the first SEMA show, Dodger Stadium, 1967", page: companies/crane-cams.md,
+     evidence: ["In January 1967 about 100 aftermarket companies set up booths"]}
+  - {from: isky, to: sema, type: founded, label: "Founding member and first president of SEMA (1963)", page: people/ed-iskenderian.md,
+     evidence: ["He was a founding member and first president of SEMA (1963)"]}
+  - {from: dmoon, to: sema, type: scene, label: "Dean Moon met the state's regulators for SEMA's early years", page: companies/moon-equipment.md,
+     evidence: ["I sat down with Willie Garner, Dean Moon and a whole bunch of other people"]}
+  # ----- Moon
+  - {from: moon, to: dmoon, type: founded, label: "Dean Moon, Whittier-area speed-shop owner", page: companies/moon-equipment.md,
+     evidence: ["Dean reworked the fuel block"]}
+  - {from: moon, to: bellauto, type: customer, label: "First fuel-block copies sold to Bell Auto Parts", page: companies/moon-equipment.md,
+     evidence: ["to Bell Auto Parts and other local speed shops"]}
+  - {from: dmoon, to: santaana, type: scene, label: "Moon's chopped Tudor won Racing Sedan at the first Santa Ana Drags", page: companies/moon-equipment.md,
+     evidence: ["inaugural Santa Ana Drags, July 2, 1950"]}
+  - {from: moon, to: mthompson, type: scene, label: "Brighton, 1963: whose dragster went to England is told two ways", page: companies/moon-equipment.md, flag: conflict,
+     evidence: ["Wikipedia's account of **Mickey Thompson** says Thompson and Duce demonstrated"]}
+  # ----- Mickey Thompson
+  - {from: mthompson, to: lions, type: founded, label: "Built and ran Lions Drag Strip for eight years (his account)", page: companies/mickey-thompson.md, flag: single-source,
+     evidence: ["built and ran Lions Drag Strip for eight years"]}
+  - {from: lions, to: santaana, type: scene, label: "Santa Ana's Hart succeeded Thompson as manager of Lions in 1965", page: eras/1950s-santa-ana-drags.md,
+     evidence: ["succeeded Mickey Thompson as manager of **Lions Drag Strip**"]}
+  - {from: neumayer, to: mthompson, type: scene, label: "A Santa Ana hot rodder gave the slingshot its name", page: companies/mickey-thompson.md,
+     evidence: ["a Santa Ana hot rodder, LeRoy Neumayer, said it reminded him of a slingshot"]}
+  - {from: mthompson, to: isky, type: scene, label: "Hot Rod: 'close personal friends' and 'the ultimate parts magnates'", page: companies/mickey-thompson.md,
+     evidence: ["close personal friends"]}
+  - {from: mthompson, to: houstonstrip, type: customer, label: "Strip owner booked Thompson's Pontiac Catalina in 1961", page: drag-racing/houston-freeway-dragstrip.md,
+     evidence: ["Mickey Thompson–owned, 421-powered aluminum **Pontiac Catalina**"]}
+  - {from: gaybros, to: houstonstrip, type: scene, label: "Gay brothers raced Catalinas at their family's strip", page: drag-racing/houston-freeway-dragstrip.md,
+     evidence: ["he had an A/Stock Catalina"]}
+  # ----- Edelbrock / Weiand / Navarro / Isky
+  - {from: navarro, to: weiand, type: customer, label: "Navarro machined Weiand's first batch of 10 castings, paying for the first intake", page: people/barney-navarro.md, flag: single-source,
+     evidence: ["the first Weiand intake Phil Weiand ever made"]}
+  - {from: bellauto, to: moon, type: scene, label: "Bell Auto Parts began as George Wight's junkyard in 1923", page: companies/prewar-speed-shops.md,
+     evidence: ["George Wight started a junkyard in Bell, California in **1923**"]}
+  # ----- Woodward / Pontiac
+  - {from: hurst, to: woodward, type: scene, label: "Jim Wangers, of the Woodward GTO crowd, helped Hurst pitch Pontiac in 1967", page: companies/hurst-campbell.md,
+     evidence: ["helped Hurst put together the 1967 Firebird pitch"]}
+  - {from: pontiac, to: hurst, type: customer, label: "1961 meeting put a Hurst shifter in the Super Duty Catalina", page: companies/hurst-campbell.md,
+     evidence: ["got Hurst a 1961 meeting with Pontiac's Bunkie Knudsen and Pete Estes"]}
+  - {from: pontiac, to: vanke, type: customer, label: "Vanke ordered a 1962 Catalina Super Duty at Knafel Pontiac in Akron", page: people/arlen-vanke.md,
+     evidence: ["ordered a 1962 Catalina Super Duty"]}
+  - {from: pontiac, to: mthompson, type: partnered, label: "Four Pontiac-powered cars broke records at March AFB, July 1961", page: companies/mickey-thompson.md,
+     evidence: ["trailered these four Pontiac-powered cars"]}
+  # ----- Winfield, Navarro, Beatty, Hilborn
+  - {from: winfield, to: isky, type: mentor, label: "Winfield mentored Isky into cam grinding (Hagerty via the Isky page)", page: people/ed-iskenderian.md,
+     evidence: ["He was **mentored by Ed Winfield** in starting cam grinding"]}
+  - {from: navarro, to: winfield, type: customer, label: "Navarro's blown flathead ran a Winfield cam", page: people/barney-navarro.md,
+     evidence: ["with Winfield cam"]}
+  - {from: navarro, to: tbeatty, type: partnered, label: "Glendale Strokers, then a 1951 Bonneville belly tank together", page: people/barney-navarro.md,
+     evidence: ["Navarro with Tom Beatty, George Hill and Doane Spencer"]}
+  - {from: holley, to: hilborn, type: acquired, label: "Holley acquired Hilborn (2019 per Wikipedia summary)", page: people/stu-hilborn.md, flag: single-source,
+     evidence: ["The company was later acquired by Holley"]}
+  # ----- Logghe, Schartman, Ubly
+  - {from: logghe, to: schartman, type: customer, label: "Schartman's first Logghe flip-top Comet, 1965", page: companies/logghe-stamping.md,
+     evidence: ["Eddie Schartman on his first Logghe flip-top Comet"]}
+  - {from: schartman, to: ohiogassers, type: scene, label: "Funny Car pioneer out of the Cleveland gasser circle", page: places/ohio-gassers.md,
+     evidence: ["Funny Car pioneer Eddie Schartman"]}
+  - {from: logghe, to: ubly, type: scene, label: "Gene Logghe's 1962 burn at Ubly Dragway ended the brothers' driving", page: companies/logghe-stamping.md,
+     evidence: ["burned in the brothers' own dragster at **Ubly Dragway**"]}
+  # ----- So. Cal. Plating
+  - {from: scplating, to: debell, type: founded, label: "Leonard DeBell's plating shop built midget grilles and delivery trucks", page: companies/southern-california-plating.md,
+     evidence: ["Much of its work was building and plating grilles and accessories for midget racers"]}
+  - {from: scplating, to: doty, type: customer, label: "Doty bought the Jeep head patterns from the plating shop in 1946 (Kustomrama)", page: companies/southern-california-plating.md, flag: conflict,
+     evidence: ["Kustomrama says Doty bought the Jeep head patterns"]}
+  - {from: doty, to: winfield, type: partnered, label: "Doty crewed with Winfield and Jean Marcenac on the 1948 Indy Novis", page: people/julian-doty.md,
+     evidence: ["helping Ed Winfield and Jean Marcenac with the Novis"]}

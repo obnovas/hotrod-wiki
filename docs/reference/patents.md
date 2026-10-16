@@ -20,6 +20,9 @@ We found these patents in Google Patents by searching inventor and assignee name
 | Ed Iskenderian | [US2846988](https://patents.google.com/patent/US2846988A/en) | Guide means for non rotatable valve lifters | 1956-10-30 | 1958-08-12 | **Confirmed**: text reads "Edward Iskenderian, Inglewood, Calif." |
 | Ed Iskenderian | [US3280806](https://patents.google.com/patent/US3280806A/en) | Helper spring for valve actuating mechanism | 1964-12-08 | 1966-10-25 | Name match (distinctive name) |
 | Ed Iskenderian | [US3301241](https://patents.google.com/patent/US3301241A/en) | Non-rotating roller tappet | 1966-06-21 | 1967-01-31 | Name match (distinctive name) |
+| Harvey Crane | [US3108580](https://patents.google.com/patent/US3108580A/en) | Non-rotatable valve tappet | 1963-03-13 | 1963-10-29 | **Confirmed**: the text names Harvey J. Crane Jr. of Hallandale, Fla. Cites Iskenderian's US2846988 |
+| Crane Cams (assignee) | [US5188068](https://patents.google.com/patent/US5188068A/en) | Roller tappet; cites Crane's US3108580 | 1991-02-04 | 1993-02-23 | Assignee as listed by Google ("Crane Cams"); we have not read the full text |
+| Competition Cams (assignee) | [US6357407B2](https://patents.google.com/patent/US6357407B2/en) | Anti-rotation valve lifter guide apparatus; cites Crane's US3108580 | 1998-12-01 | 2002-03-19 | Assignee as listed by Google ("Competition Cams"); we have not read the full text |
 | Vic Edelbrock Jr. | [US3030819](https://patents.google.com/patent/US3030819A/en) | Linkage for multiple carburetor installation | 1960-09-22 | 1962-04-24 | **Confirmed**: "Otis Victor Edelbrock, Jr., Los Angeles... assignor to Edelbrock Equipment Co." |
 | Ed Almquist | [US3118435](https://patents.google.com/patent/US3118435A/en) | Crank case breather | 1961-10-12 | 1964-01-21 | Name match (Edgar W. Almquist) |
 | Ed Almquist | [US3164451](https://patents.google.com/patent/US3164451A/en) | Fuel atomizing device (assigned Almquist Engineering Co) | 1961-10-12 | 1965-01-05 | Assignee confirms company |
@@ -38,6 +41,7 @@ We found these patents in Google Patents by searching inventor and assignee name
 ## Findings worth chasing
 - **Hilborn injectors:** US 3,473,523 and 3,519,407 name Stuart G. Hilborn and Fuel Injection Engineering Co. ([Stu Hilborn](../people/stu-hilborn.md)).
 - **Almquist's own gear-shift patent.** US 3,082,639 was filed by Almquist Engineering Co. in Sept 1962, a month before Hurst & Campbell filed US 3,172,301. It bears on the claim that Almquist co-designed the Hurst shifter ([Ed Almquist](../people/ed-almquist.md)). The citation tables on Google's pages for the Hurst patents list Almquist Engineering Co. patents. We have not checked whether those are prior-art citations or later citing patents. Read the citations sections before drawing any conclusion.
+- **A patent chain, Isky to Crane to COMP.** Iskenderian's 1958 lifter-guide patent (US2846988) is among the four references on Harvey Crane's 1963 tappet (US3108580), and Google lists a 1991 Crane Cams roller-tappet patent and a 1998 Competition Cams guide patent among the 48 patents that cite Crane's. "Cited by" lists are computer-generated, so this shows the idea's descent on paper, not a business relationship ([Crane Cams](../companies/crane-cams.md), [COMP Cams](../companies/comp-cams-rhs.md)). ◐ A 2004 roller-lifter application by "Schubeck Joseph J" (US20060005797A1) is on the same list; we have not tied the name to Lakewood's Joe Schubeck.
 - **Winfield's ten patents (1928–1945)** run from carburetors to heads and blocks. They are an unmined primary source for his engineering career ([Ed Winfield](../people/ed-winfield.md)).
 - The obituary credits **Almquist with 7 patents**. We list four here.
 
@@ -58,6 +62,11 @@ All drawings are U.S. patent drawings without copyright notices, from Google Pat
 <figure markdown>
 ![Non-rotating roller tappet drawing, US3301241](../assets/images/patent-US3301241-iskenderian-roller-tappet.png){ width="320" loading=lazy }
 <figcaption markdown>US3301241, "Non-rotating roller tappet", sheet 1. Inventor: Ed Iskenderian. Filed 1966-06-21. Source: [Google Patents](https://patents.google.com/patent/US3301241A/en). License: public domain (U.S. patent drawing).</figcaption>
+</figure>
+
+<figure markdown>
+![Non-rotatable valve tappet drawing, US3108580](../assets/images/patent-US3108580-crane-tappet.png){ width="320" loading=lazy }
+<figcaption markdown>US3108580, "Non-rotatable valve tappet", sheet 1. Inventor: Harvey J. Crane Jr. Filed 1963-03-13. Source: [Google Patents](https://patents.google.com/patent/US3108580A/en). License: public domain (U.S. patent drawing).</figcaption>
 </figure>
 
 <figure markdown>

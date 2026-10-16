@@ -23,8 +23,8 @@ theme:
       primary: custom
       accent: custom
       toggle: {icon: material/weather-sunny, name: "Daylight"}
-extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/print.css]
-extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js]
+extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/print.css]
+extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js, javascripts/connections.js]
 extra:
   issues_url: https://github.com/obnovas/hotrod-wiki/issues/new
   feedback_url: https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml
@@ -39,6 +39,7 @@ extra:
     - {label: Timeline, url: reference/timeline/}
 hooks:
   - hooks/design_hook.py   # must stay BEFORE highlights_hook (it peels the home intro off the slider placeholder)
+  - hooks/connections_hook.py   # Web of influence graph; fails the build on an unsupported edge
   - hooks/highlights_hook.py
   - hooks/redirects_hook.py
 markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables]
@@ -87,11 +88,24 @@ nav:
       - Dick Wells (Nebraska to Dragster): people/dick-wells.md
   - Companies & Shops:
       - companies/index.md
-      - Prewar Speed Shops (Bell, Lee's, Orr, White): companies/prewar-speed-shops.md
-      - Edelbrock's Slingshot: companies/edelbrock-slingshot.md
-      - Southern California Plating Co.: companies/southern-california-plating.md
-      - Mr. Gasket (Ohio): companies/mr-gasket.md
-      - Logghe Stamping (Michigan): companies/logghe-stamping.md
+      - Web of Influence (the connections map): companies/web-of-influence.md
+      - The Big Names:
+          - Holley (Bradford, Pa.): companies/holley.md
+          - Hurst-Campbell (Warminster, Pa.): companies/hurst-campbell.md
+          - Crane Cams (Hallandale, Fla.): companies/crane-cams.md
+          - COMP Cams & Racing Head Service (Memphis): companies/comp-cams-rhs.md
+          - Summit Racing (Akron area): companies/summit-racing.md
+          - Mickey Thompson (Los Angeles area): companies/mickey-thompson.md
+          - Edelbrock's Slingshot: companies/edelbrock-slingshot.md
+      - Garage-born Shops:
+          - Prewar Speed Shops (Bell, Lee's, Orr, White): companies/prewar-speed-shops.md
+          - Moon Equipment (Santa Fe Springs area): companies/moon-equipment.md
+          - Hooker Headers (Pomona area): companies/hooker-headers.md
+          - Lakewood Industries (Ohio): companies/lakewood-industries.md
+          - Moroso (Connecticut and Palm Beach): companies/moroso.md
+          - Mr. Gasket (Ohio): companies/mr-gasket.md
+          - Logghe Stamping (Michigan): companies/logghe-stamping.md
+          - Southern California Plating Co.: companies/southern-california-plating.md
   - Cars & Techniques:
       - cars/index.md
       - Beast III Streamliner: cars/beast-iii.md

@@ -302,3 +302,43 @@ Tags as above. The 1950s–60s newspaper and yearbook items are scanned page OCR
 - [mag] Brian Lohnes, "Drag Racing's Chuck Finders Passes," BangShift, May 26, 2009. https://bangshift.com/general-news/drag-racing-s-chuck-finders-passes/
 - [forum] "Gasser Fans" thread, NSRA (UK) forum archive, May 2009 (search excerpt only; bot check). https://forum.nsra.org.uk/archive/index.php/t-28331.html
 - **Restricted (snippets only, not bypassed):** scanned *Street Rod* editions and Faunce (Internet Archive lending library, HTTP 401 on text).
+
+## Added in Round 15 (accessed 2026-10-16)
+Companies & Shops profiles. Tags as above; **[corp]** marks company-written history, which we treat as promotional unless a second source agrees. Blocked, not bypassed: Hemmings (Cloudflare), the *Akron Beacon Journal* (paywall), RACER's 2017 Summit profile (bot check). See [Web of Influence](companies/web-of-influence.md).
+
+- [local] "Warminster Firm," *Panorama: The Magazine of Bucks County* (Doylestown, Pa.), Oct 1965, pp. 3–6. https://archive.org/details/panorama-1965.10-october
+- [local] *Bucks County Life*, Nov 1965 (editor's column, p. 18) and "Warminster Industry Expands," Jan–Feb 1966, p. 18. https://archive.org/details/life-1965.11-november and https://archive.org/details/life-1966.1-jan-and-feb
+- [oral] "Bill Campbell, the quiet engineer partner with George Hurst…" (email from Campbell's daughter), Just A Car Guy, Jan 14, 2023. http://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html
+- [mag] "George Hurst and the Hurst Olds," Ate Up With Motor, Mar 6, 2010. https://ateupwithmotor.com/model-histories/hurst-olds-history/
+- [mag] Dave Wallace, "From the Archives: How George Hurst became Synonymous with Performance," *Hot Rod*, Jun 1, 2020. https://www.hotrod.com/news/hurst-performance-shifters-marketing
+- [mag] Don Sherman, "These 6 performance parts are true hot rod heroes," Hagerty Media, Dec 3, 2020. https://www.hagerty.com/media/magazine-features/these-6-performance-parts-are-true-hot-rod-heroes/
+- [mag] Mike Imlay and Carr Winn, "Four Who Made a Difference" (Joe Schubeck; Eric Grant), SEMA News, Aug 2013. https://www.sema.org/news-media/magazine/2013/31/four-who-made-difference
+- [museum] SEMA Hall of Fame: Joe Schubeck (2013) https://www.sema.org/hof/2013/joe-schubeck; Gary Hooker (2016) https://www.sema.org/hof/2016/gary-hooker; Mickey Thompson (1984) https://www.sema.org/hof/1984/mickey-thompson
+- [mag] Tony Thacker, "All Eyes on Moon Equipment Co. as Classic Speed Shop Marks 75 Years," *THE SHOP*, Jun 16, 2025. https://theshopmag.com/features/all-eyes-on-moon-equipment-co-as-classic-speed-shop-marks-75-years/
+- [mag] Benjamin Hunting, "Mooneyes History: More Than an Iconic Hot-Rodding Logo," *Hot Rod*, Feb 10, 2025. https://www.hotrod.com/features/mooneyes-history
+- [ref] "Holley Motor Company Historical Marker," Pennsylvania Historical and Museum Commission, Explore PA History. https://explorepahistory.com/hmarker.php?markerId=1-A-3A3
+- [ref] Pierre LeClair and Christine A. Hawthorne, "From Motorized Bicycle to Muscle Car," Pennsylvania Center for the Book, Penn State University Libraries. https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/motorized-bicycle-muscle-car
+- [corp] "Lakewood Bellhousings, Traction Bars & Suspension," Holley brand page. https://www.holley.com/brands/lakewood/
+- [corp] Jeremy Stoermer, "Lakewood Bellhousings," Holley Motor Life blog, Jul 15, 2016. https://www.holley.com/blog/post/lakewood_bellhousings/
+- [corp] "Lakewood Industries Built For Enthusiasts, By Enthusiasts!," Ground Up Motors (SS396.com), retailer copy. https://www.ss396.com/cars/lakewood-brand-feature-friday/
+- [corp] "About us," Hooker Headers (Holley-owned brand site). https://hooker-headers.com/about/
+- [mag] Chris Holley, "Gallery: Hooker Headers Production Pipes Propel Akron Arlen," *Mopar Connection Magazine*, Feb 13, 2023. https://moparconnectionmagazine.com/hooker-headers-production-pipes-propel-akron-arlen/
+- [mag] "Summit Racing Equipment: 50 Years of High Performance," Classic American, Sept 12, 2018. https://www.classic-american.com/summit-racing-equipment-50-years-of-high-performance/
+- [mag] "IHRA: Summit Racing Equipment the definition of invested series partner," RACER, Aug 9, 2016. https://racer.com/2016/08/09/ihra-summit-racing-equipment-the-definition-of-invested-series-partner
+- [museum] Xavier Vidot, "Paul Sergi," Don Garlits Museum of Drag Racing Hall of Fame, Class of 2025. https://garlits.com/hall-of-fame/paul-sergi/
+- [corp] "Life at SR: About the Company," Summit Racing careers page. https://jobs.summitracing.com/us/en/about-the-company
+- [corp] "The History of COMP Cams," COMP Cams. https://www.compcams.com/about-us
+- [mag] Drew Hardin, "Turning Valve Jobs Into Science," SEMA News, Oct 2011 (retelling Bud Lang, *Hot Rod*, Feb 1971). https://www.sema.org/news-media/magazine/2011/39/turning-valve-jobs-science
+- [local] Racing Head Service advertisement, 1978 Little Rock Central High School yearbook (Internet Archive scan). https://archive.org/details/classmates-yearbook-37273-1978-little-rock-central-high-school
+- [local] "Harvey J. Crane Jr.: His exacting work boosted race cars' power," *Orlando Sentinel*, Jun 20, 2013. https://www.orlandosentinel.com/2013/06/20/harvey-j-crane-jr-his-exacting-work-boosted-race-cars-power/
+- [local] "Harvey J. Crane Obituary," Lohman Funeral Homes, May 31, 2013. https://obituaries.lohmanfuneralhomes.com/obituaries/harvey-crane
+- [mag] Jim Hill, "Racing Industry Pioneer Harvey Crane Passes Away," SEMA eNews, 2013. https://www.sema.org/news-media/enews/2013/23/racing-industry-pioneer-harvey-crane-passes-away
+- [mag] Drew Hardin, "Crane's First SEMA Show," SEMA News, Nov 2013. https://www.sema.org/news-media/magazine/2013/44/cranes-first-sema-show
+- [mag] Jim Hill, "Sportsman Racers Winning Class at Indy Was Their High Mark," *Hot Rod*, Nov 23, 2015. https://www.hotrod.com/news/sportsman-racers-winning-class-at-indy-was-their-high-mark
+- [ref] US 3,108,580A, "Non-rotatable valve tappet" (Harvey J. Crane Jr.), Google Patents. https://patents.google.com/patent/US3108580A/en
+- [mag] "Property Value: Manufacturer Dick Moroso Buys a 'Fixer-Upper' Raceway…," *Hot Rod*, Nov 1983. https://www.hotrod.com/features/property-value-november-1983-982-1220-72-1
+- [mag] "Drag-Racing Giant Moroso Dies," CBS SportsLine / CBSNews.com, Nov 10, 1998. https://www.cbsnews.com/news/drag-racing-giant-moroso-dies/
+- [corp] "About Moroso," Moroso Performance Products. https://www.moroso.com/about-moroso
+- [mag] Gray Baskerville, "Mickey Thompson: The Speed King's Unstoppable Legacy," *Hot Rod*, Dec 1978. https://www.hotrod.com/features/speed-king-mickey-thompson-december-1978-982-1390-78-1
+- [mag] Phil Burgess, "The Thompson Files," NHRA, Mar 1, 2013. https://www.nhra.com/news/2013/thompson-files
+- [ref] Wikipedia (secondary, cross-check only): "Mickey Thompson," "Dick Moroso," "Summit Racing Equipment." https://en.wikipedia.org/wiki/Mickey_Thompson, https://en.wikipedia.org/wiki/Dick_Moroso, https://en.wikipedia.org/wiki/Summit_Racing_Equipment
