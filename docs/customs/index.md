@@ -1,6 +1,8 @@
 # Customs & Media
 
-How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Portland? Through paper, plastic and show halls. This section follows the channels.
+*How a look traveled: by paper, plastic and show hall.*
+
+How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Portland? Through paper, plastic and show halls, and this section follows each channel.
 
 - [Trend Books, Model Kits & Roth](trend-books-kits-roth.md): the 1951 Trend Book, AMT's 3-in-1 kits from 1958, and Roth's penny-a-kit Revell deal.
 - [The Show Circuit](show-circuit.md): Oakland (1950), Detroit Autorama (1953), Larivee's Promotions Inc. and ISCA (1963), and the Portland Roadster Show (1956).
