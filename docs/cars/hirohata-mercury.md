@@ -1,6 +1,6 @@
 # The Hirohata Mercury
 
-*Barris Kustom's ice-green masterpiece*
+*Barris Kustom's ice-green Merc, and the argument over how long it took*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, museum/registry · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Build-time conflict open · [How we rate this](../reference/source-standards.md)
