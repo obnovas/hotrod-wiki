@@ -1,27 +1,35 @@
-# "Akron" Arlen Vanke (c. 1937–2017): Backyard Racer from Ohio
+# "Akron" Arlen Vanke: Backyard Racer from Ohio
+
+*c. 1937–2017*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** obituary, HOF, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Start year conflict (1951 vs 1953) · [How we rate this](../reference/source-standards.md)
 
+Hemmings says Arlen Vanke built cars "in a residential garage that didn't even have a proper lift."[^hem]
+
 ## Akron Municipal Airport
-- **⚠ Start date:** MMSHOF says his first race was in **1953**, at sixteen, at Akron Municipal Airport in a 1940 flathead Ford sedan.[^mm] Hemmings says that in **1951** his mother watched him lose and then wrote a $600 check for parts.[^hem] The Knafel Pontiac fan site gives the car's times as 14.80 at 87 mph with tri-carbs. It says he raced B/Gas every weekend in summer 1953 and usually lost to George Montgomery's Cadillac-powered '34 Ford.[^tin]
-- NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra] ◐ The Knafel site says the strip opened in 1951 and ran until 1959.[^tin]
+
+**⚠ From the detective's notebook: when did he start?** MMSHOF says his first race was in **1953**, at sixteen, at Akron Municipal Airport in a 1940 flathead Ford sedan.[^mm] Hemmings says that in **1951** his mother watched him lose and then wrote a $600 check for parts.[^hem] The Knafel Pontiac fan site gives the car's times as 14.80 at 87 mph with tri-carbs. It says he raced B/Gas every weekend in summer 1953 and usually lost to George Montgomery's Cadillac-powered '34 Ford.[^tin]
+
+NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra] ◐ The Knafel site says the strip opened in 1951 and ran until 1959.[^tin]
 
 ## The '56 Chevy gasser
+
 MMSHOF: Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm] ◐ Single source.
 
 ## Knafel Pontiac and the Tin Indians
+
 In fall 1961 he went into Bill Knafel Pontiac in Akron, asked about a Super Duty 421, and ordered a 1962 Catalina Super Duty.[^tin][^hem] Hemmings says he set an NHRA A/Stock record with it, and Knafel hired him as service manager on weekdays and racer on weekends.[^hem] **⚠** The Knafel site says "salesman" and calls it an eight-year relationship.[^tin]
 
 ## Mopar, the "Vanked" Hemi, and Pro Stock
-- In 1964 he bought both a Max Wedge and a Hemi Belvedere. Hemmings says he built cars "in a residential garage that didn't even have a proper lift."[^hem]
-- Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the word "Vanked." It also traces the nickname to his calls to Chrysler, where he introduced himself as "Arlen Vanke from Akron, Ohio."[^hem2] ◐
-- NHRA results: Jr. Stock at the 1966 Springnationals and Super Stock at the 1968 U.S. Nationals.[^nhra]
-- MMSHOF says he won all five 1970 SWC points meets in a Duster and calls him the first man to do so.[^mm] ◐ *This is a promotional HOF claim and needs checking.*
+
+In 1964 he bought both a Max Wedge and a Hemi Belvedere.[^hem]
+
+Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the word "Vanked." It also traces the nickname to his calls to Chrysler, where he introduced himself as "Arlen Vanke from Akron, Ohio."[^hem2] ◐
+
+NHRA results: Jr. Stock at the 1966 Springnationals and Super Stock at the 1968 U.S. Nationals.[^nhra] MMSHOF says he won all five 1970 SWC points meets in a Duster and calls him the first man to do so.[^mm] ◐ *This is a promotional HOF claim and needs checking.*
 
 He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Beyond California](../regions/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
-
-
 
 **See also (Round 10):** [Akron Fulton Airport strip](../regions/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../regions/ohio-gassers.md).
 
