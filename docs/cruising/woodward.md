@@ -45,6 +45,8 @@ Clubs such as the **Ramchargers** and Drag-Ons came out of the same suburban sce
 
 Johnson remembers **"Sheriff Irons"** in a big black Chrysler who would pull racers over and ask to look under their hoods ("I think it was," he hedges). Hagerty mentions "lot cops." Hot Rod (2014) says that by the late 1960s "laws were soon enacted that limited the cruising and long-term parking," which led to "demonstrations and a few arrests." It adds that rising muscle-car insurance ("more a month for insurance than their car payment") and then the OPEC oil crisis finished the era off. We have not identified the specific ordinances. ◐[^op][^hag][^hr]
 
+**Round 12:** the 1960s ordinances, the 1963 case that led to them, and later enforcement are in [Woodward: The City That Banned the Drive-Ins It Didn't Have](woodward-ordinances.md).
+
 ## Images
 
 <figure markdown>

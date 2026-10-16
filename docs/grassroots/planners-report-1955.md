@@ -37,6 +37,10 @@ About forty percent of clubs admitted girls, and a room in the police station wa
 
 Texas example (forum, ◐): a forum researcher says the **Drag-Uns** of Kerrville were an NHRA-chartered club "sponsored by the Kerrville Police Department," formed in 1953 with 27 members, and held their first race on March 29, 1953 at Louis Schreiner Airport.[^kerr] Another poster says the Alamo Timing Association ran a Kerrville race on Aug. 23, 1953.[^kerr]
 
+## Follow-up (Round 12)
+- **Kansas City:** the Kansas City Timing Association's strip opened July 17, 1955, according to the detective who organized it. See [The Detective Whose Son Was a Dragster](kansas-city-timing-association.md).
+- **Small-town clubs the report did not list:** [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both from local newspapers.
+
 ## ⚠ Claims we could not verify
 
 *From the detective's notebook: the report is vivid, and unsourced.*

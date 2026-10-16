@@ -8,6 +8,25 @@
 3. **Grassroots first.** Prefer a local paper, historical society page, obituary, club newsletter, municipal or police record, marker or family account over an industry magazine whenever both exist. Mark such pages with the Grassroots badge in the article record's source types, and add new outlets to [Grassroots Sources](grassroots/sources.md).
 4. **Check before pushing.** Run `python scripts/update_highlights.py check`, then `mkdocs build --strict`. The build fails if a highlight's evidence phrase, numbers, link, anchor, image or credit row no longer matches. Details are in [CONTRIBUTING](https://github.com/obnovas/hotrod-wiki/blob/main/CONTRIBUTING.md).
 
+## Log, Round 12 (story-first research push; Escanaba, Kansas City, Half Day, Indiana, Woodward, Dick Wells; 2026-10-15)
+- **New articles:** [The Cop and the Auto Shop (Escanaba's Drag-n's)](grassroots/escanaba-dragns.md); [The Detective Whose Son Was a Dragster (Kansas City)](grassroots/kansas-city-timing-association.md); [Half Day, Illinois: The Muffler Maker's Drag Strip](regions/half-day-ataa-maremont.md); [March 1957: America Argues About Drag Strips](grassroots/march-1957-drag-strip-survey.md); [Hoosier Road Runners](grassroots/indiana-small-town-clubs.md); [Dick Wells](people/dick-wells.md); [Woodward: The City That Banned the Drive-Ins It Didn't Have](cruising/woodward-ordinances.md).
+- **Expanded (additive only):** [Bob Bartel](people/bob-bartel.md), [Detroit/Cordova](regions/detroit-cordova.md), [Akron Fulton Airport](regions/akron-fulton-airport.md), [Memphis](regions/memphis.md) (June 1955 *Motor Age* detail); [NSRA early Nationals](street-rodding/nsra-early-nationals.md); [Doris Herbert](people/doris-herbert.md); [planners' report](grassroots/planners-report-1955.md); [Woodward](cruising/woodward.md).
+- **Method change:** the Internet Archive's full-text search plus page OCR (including NewspaperArchive's *Escanaba Daily Press* and period safety and trade journals), Hoosier State Chronicles and Oregon page OCR turned out to be readable. Quotes use only phrases that read cleanly in OCR.
+- **Found:** the National Safety Council moving from praising supervised hot rodding (1955-56) to "in direct opposition to drag racing, supervised or otherwise" by March 1957; the ATAA's own 1954 numbers and a period source that places the first World Series in Oct 1954; a 1966 Birmingham ordinance against drive-ins the city did not have.
+- **Conflicts:** ATAA start (1952 vs 1953); St. Charles meet figures (140/1,500 vs "more than 200"/2,000); the identity of a county-built strip near Denver in 1957; NSRA's "first president" (Wells "first active" vs Miller vs Wikipedia's "first president and CEO"); the first World Series (narrowed toward Oct 1954 but still sponsor-sourced).
+- **Blocked or unavailable (not bypassed):** *Detroit News* 2023 (paywall; excerpt only); CDNC (so Peggy Hart's own words are still out of reach); Washington, Utah, DigitalNC and Michigan newspaper sites; Escanaba's July-August 1955 issues errored on fetch.
+
+## Next breadcrumbs (Round 12)
+- **Peggy Hart's own words:** still needs CDNC (blocked) or another reachable California archive.
+- **Commercial Appeal / Summer Avenue; Gasser Gossip / Chuck Finders; St. Louis and Springfield, Mo. cruising:** not started this round.
+- **Kansas City:** *Kansas City Star* / *Times* coverage of the July 1955 opening and Landon Laird's column (the Barons anecdote); what happened to the strip.
+- **Woodward:** the Royal Oak and Birmingham ordinance texts, and a second source for the 1967 Sass case.
+- **Escanaba:** July-August 1955 issues for the Drag-n's road-race result, the auto show and the strip.
+- **Denver:** which county-built strip was meant in March 1957 (county commission records; Denver Timing Association).
+- **ATAA and the NHRA:** the 1957 purchase of the ATAA; a Lawrenceville World Series program or ad; Mel Bayshore's strip list.
+- **National Safety Council:** its 1957 statement, which the UPI story paraphrases.
+- **Decatur Road Runners** after Feb 1957; the Detroit Modified Rod and Custom Club.
+
 ## Log, Round 11 (Highlights slider; Grassroots finds; 2026-10-15)
 - **New UI and automation:** the home-page [Highlights](index.md) carousel, rendered at build time from `docs/data/highlights.yml` by a small MkDocs hook, with a static-list fallback without JavaScript; `scripts/update_highlights.py`; the [Highlights archive](highlights-archive.md); the [Grassroots Sources](grassroots/sources.md) catalog. 16 highlights were seeded from existing articles, 11 of them grassroots.
 - **New grassroots articles:** [Pomona's Choppers & the Fontana strip](grassroots/pomona-choppers-fontana.md) (police chief's 1951 account); [What the City Planners Wrote (1955)](grassroots/planners-report-1955.md); [Modesto's Century Toppers](grassroots/modesto-century-toppers.md); [Inyokern: the Sheriff's Strip and the Dust Devils](grassroots/inyokern-dust-devils.md); [Great Bend, Kansas: the SRCA and the first Nationals](grassroots/great-bend-srca.md). Index: [Grassroots Finds](grassroots/index.md).

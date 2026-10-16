@@ -43,6 +43,8 @@ The sources can't agree on the year, and the disagreement is worth a look:
 
 **Working position:** 1954 (Lawrenceville), with 1956 kept open, until a dated program or newspaper ad turns up. The tribute's own note that Illinois racer **Dave Jamison** attended "all but the 1955" World Series, having been "at the inaugural," fits a pre-1956 start.[^cp] ◐
 
+**Round 12 evidence (sponsor-written, but period):** a June 1955 Chilton's *Motor Age* article bylined to a Maremont Automotive Products staffer says the first annual World Series was held at Lawrenceville "last October" (October 1954) and "attracted some 350 hot rodders and approximately 10,000 spectators," and that the second annual would run "August 17 through 21." It also quotes Gov. William Stratton welcoming hot rodders to "the 1954 World Series of Drag Racing." That supports 1954 over the 1953 and 1956 claims, though it is the ATAA's own publicity and we still lack a program or ad. It dates the ATAA's founding to **1952**, not 1953. See [Half Day, Illinois](../regions/half-day-ataa-maremont.md).[^r12ma]
+
 ## Building Cordova
 
 Bartel belonged to the **Moline Moons** car club (formed late 1940s). The tribute says street racing in the Quad Cities "eventually led to the fatalities of several of his childhood friends," and the nearest strips were in Chicago. He proposed a strip "paid for and operated by a union of local car clubs." When the clubs couldn't afford it, he cashed Sears stock and bought the farmland (above).[^cp]
@@ -91,3 +93,4 @@ Bartel and racer **Ron Colson** said they owned the World Series name, citing a 
 [^bs]: Bret Kepner, "Drag Racing Legend Bob Bartel Passes," BangShift. Accessed 2026-10-15 (search excerpt matches the Competition Plus text). https://bangshift.com/bangshift1320/drag-racing-legend-bob-bartel-passes/
 [^qc]: Roger Ruthhart, "Drag race begins over use of World Series name," *Dispatch-Argus* / QConline (Feb 2017). Page returned "Too Many Requests" on 2026-10-15; facts above are from the search-engine excerpt only. ◐ https://qconline.com/news/local/drag-race-begins-over-use-of-world-series-name/article_0cceb035-79af-5d61-b6a1-6cb86e429a6c.html
 [^c1]: thecity1.com, "World Series of Drag Racing Leaving Cordova" (2016), quoting IRG Sports + Entertainment (search excerpt). https://thecity1.com/world-series-of-drag-racing-leaving-cordova/
+[^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)

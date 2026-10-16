@@ -243,3 +243,39 @@ Type tag **[local]** marks local or homegrown sources: local news, club or munic
 - [mag] Phil Burgess, "Pomona: SoCal drag racing's lifelong love," NHRA, Feb 1, 2012. https://www.nhra.com/news/2012/pomona-socal-drag-racing-s-lifelong-love
 - [mag] Phil Burgess, "Remembering 'the Bird,'" NHRA, 2012. https://www.nhra.com/news/2012/remembering-bird
 - **Not reached this round (blocked to our fetcher; not bypassed):** California Digital Newspaper Collection (Cloudflare), Illinois Digital Newspaper Collections, NYS Historic Newspapers and Colorado Historic Newspapers (403), the Library of Congress site (timeouts), and the Portal to Texas History (bot check). See the [Research Trail](research-trail.md).
+
+## Added in Round 12 (accessed 2026-10-15)
+Tags as above. Most 1950s items are scanned page OCR from the Internet Archive, Hoosier State Chronicles or Historic Oregon Newspapers. See [Grassroots Sources](grassroots/sources.md).
+
+- [local] "Escanaba Hot Rod Club Stresses Safe Driving To Its Membership," Escanaba Daily Press, Apr 23, 1955. https://archive.org/details/escanaba-daily-press-1955-04-23
+- [local] "Hot Rod Club To Hold Meeting Monday Night," Escanaba Daily Press, Apr 16, 1955. https://archive.org/details/escanaba-daily-press-1955-04-16
+- [local] Escanaba Daily Press, Jan 5, 1955 (Drag-n's organization item). https://archive.org/details/escanaba-daily-press-1955-01-05
+- [local] "Drag-n's Auto Club Will Sponsor Race," Escanaba Daily Press, May 21, 1955. https://archive.org/details/escanaba-daily-press-1955-05-21
+- [local] "Hot Rodders Playing It Safe" (NEA), Escanaba Daily Press, Jul 22, 1954. https://archive.org/details/escanaba-daily-press-1954-07-22
+- [local] Major Eugene M. Pond, "Give the Hot Rodders a Break," Public Safety (National Safety Council), May 1956. https://archive.org/details/sim_traffic-safety_1956-05_48_5
+- [mag] "Hot Rodders Potent Safety Force, ATAA Believes," Traffic Digest and Review, July 1954. https://archive.org/details/sim_traffic-digest-and-review_1954-07_2_7
+- [mag] "Timing Association Says Hot Rodders Are Potent Force for Traffic Safety," The Police Chief, July 1954. https://archive.org/details/sim_police-chief_1954-07_21_7
+- [mag] "Maremont woos fans, wins customers," Sales Management, June 1, 1954. https://archive.org/details/sim_sales-management_1954-06-01_72_12
+- [mag] M. Robert Wolfson (Maremont Automotive Products), "The World Series Comes Early," Chilton's Motor Age, June 1955. https://archive.org/details/sim_motor-age_1955-06_74_7
+- [mag] Phil Burgess, "From Half Day to Route 66, from 'the Greek' to 'Wilk,' an Illinois drag racing primer," NHRA, May 12, 2023. https://www.nhra.com/news/2023/half-day-route-66-greek-wilk-illinois-drag-racing-primer
+- [local] United Press, "Drag Strips for Hot Rod Drivers Discussed With Mixed Reactions," Medford Mail Tribune, Mar 19, 1957, p. 6. https://oregonnews.uoregon.edu/lccn/sn97071090/1957-03-19/ed-1/seq-6/
+- [local] Pete Garramone, "The Strippers Car Club," Drag Racing Story of the Day, Apr 21, 2001. https://draglist.com/stories/SOD%20Apr%202001/SOD-042101.htm
+- [local] Brian K. Trembath, "Colorado Auto Racing: A Brief History," Denver Public Library (2016). https://history.denverlibrary.org/news/colorado-auto-racing-brief-history
+- [ref] American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955), cited again. https://www.planning.org/pas/reports/report74.htm
+- [ref] "Continental Divide," RacingCircuits.info. https://www.racingcircuits.info/north-america/usa/continental-divide.html
+- [local] Decatur Daily Democrat (Ind.): "Safety Second," Mar 12, 1953; Sept 12, 19 and 22, Oct 6, 1956; Feb 1, 1957 (car wash notice). https://newspapers.library.in.gov/?a=d&d=DCDD19560912.1.7 (and the other issue IDs cited on the article)
+- [local] The Daily Banner (Greencastle, Ind.): book column on Margaret O. Hyde, Dec 9, 1954; Jeanne Smith (Dodge), "'Right Ticket' For Teenage Car Fans," Feb 4, 1958. https://newspapers.library.in.gov/?a=d&d=TDB19541209-01.1.5 ; https://newspapers.library.in.gov/?a=d&d=TDB19580204-01.1.5
+- [local] Student profile, Syracuse-Wawasee Journal (Ind.), Jan 23, 1958. https://newspapers.library.in.gov/?a=d&d=SWWJ19580123.1.7
+- [local] "Transportation and Transformation," Birmingham Museum, City of Birmingham, Mich. https://bhamgov.org/about_birmingham/city_history/birmingham_museum/museum_exhibits/read_more_about_transportation_and_transformation_here.php
+- [local] "Police step up enforcement on Woodward cruisers," The Oakland Press, Jul 7, 2014. https://www.theoaklandpress.com/2014/07/07/police-step-up-enforcement-on-woodward-cruisers/
+- [local] Mike McConnell, "Royal Oak, other cities, crack down on early Woodward cruisers," Oakland Press / Royal Oak Tribune, Jun 20, 2022. https://www.theoaklandpress.com/2022/06/20/royal-oak-other-cities-crack-down-on-early-woodward-cruisers-2/
+- [local] "Fatal cruise: How a runaway's death led to the end of the Woodward dream," The Detroit News, Aug 18, 2023 (paywalled; search excerpt only). https://www.detroitnews.com/story/news/local/oakland-county/2023/08/18/fatal-cruise-how-a-runaways-death-led-to-the-end-of-the-woodward-dream/70504851007/
+- [museum] Nebraska Auto Racing Hall of Fame, Class of 2009 (Dick Wells). https://www.narhof.com/inductees/2009
+- [mag] "Dick Wells (1934–2010)," Hot Rod Hall of Fame (Greg Wapling), with NHRA's "In his own words" and Strohl obituary text. https://gregwapling.com/hotrod/hot-rod-hall-of-fame/dick-wells.html
+- [mag] Phil Burgess, "Thanks for the memories, Dick," NHRA, Jan 19, 2010. https://www.nhra.com/news/2010/thanks-memories-dick
+- [mag] Phil Burgess, "From the burnout box to your mailbox for 50 years," NHRA, Aug 27, 2009. https://www.nhra.com/news/2009/burnout-box-your-mailbox-50-years
+- [mag] Gray Baskerville, "The Street Rod Nats, Past and Present," Rod & Custom (c. 2001), at Hot Rod History. https://hotrod.gregwapling.com/hot-rod-history/the-street-rod-nats-past-and-present.html
+- [forum] 99W Speed Shop, "Street Rod: Magazine Covers 1971 to 1973." http://99wspeedshop.com/streetrod.html
+- [ref] "National Street Rod Association," Wikipedia (search excerpt only). https://en.wikipedia.org/wiki/National_Street_Rod_Association
+- [mag] Rex Roy, "Cruising Woodward during the glory years," Hagerty Media, Jul 27, 2011. https://www.hagerty.com/media/archived/cruising-woodward-during-the-glory-years/
+- **Not reached this round (blocked or unavailable; not bypassed):** California Digital Newspaper Collection, Illinois and NYS and Colorado newspaper portals, Chronicling America, Washington Digital Newspapers (403), Utah (418), DigitalNC and Michigan newspaper sites (connection failures); the Detroit News 2023 feature (paywall).

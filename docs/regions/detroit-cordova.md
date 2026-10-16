@@ -44,6 +44,8 @@ Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the A
 
 - [RememberMichigan: Detroit Dragway radio spots, 1964–73 (audio)](http://www.remembermichigan.com/dragway.aspx?id=1335&type=6)
 
+**Period evidence (Round 12):** Chilton's *Motor Age* (June 1955, sponsor-written) calls the October 1954 Lawrenceville meet the "first annual" World Series, says it drew about 350 hot rodders and 10,000 spectators, and says the second annual was set for "August 17 through 21," with the Motor City Modifiers of Detroit expected to bring 30 to 40 cars. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
+
 [^cp]: Competition Plus, "Quad Cities Drag Racing Legend Bob Bartel Passes." https://competitionplus.com/quad-cities-drag-racing-legend-bob-bartel-passes/
 [^ch]: Clinton Herald, "Cordova Dragway Park carries on a popular pastime." https://www.clintonherald.com/archives/cordova-dragway-park-carries-on-a-popular-pastime/article_bbc6f1b7-2b04-5f8c-8f35-d53d319b7ca5.html
 [^svt]: SVTPerformance forum, "Quad Cities Drag Racing photos from the 50's," 2010. https://www.svtperformance.com/threads/quad-cities-drag-racing-photos-from-the-50s.737744/
@@ -52,3 +54,4 @@ Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the A
 [^dd]: DetroitDragway.com, "History of Detroit Dragway." https://detroitdragway.com/history-of-detroit-dragway/
 [^nh]: The News-Herald, "Second Dragway reunion is May 21," May 5, 2011. https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/
 [^rm]: RememberMichigan / WaterWinterWonderland, "Detroit Dragway." http://www.remembermichigan.com/dragway.aspx?id=1335&type=6
+[^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)

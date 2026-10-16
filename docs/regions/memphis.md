@@ -54,6 +54,8 @@ We looked for a documented link between Sun Records-era musicians and Memphis bu
 - [Memphis Rodders history photos (Klyce Motors 1952)](http://www.memphisrodders.com/)
 - [carnut.com Memphis Nationals photos](https://www.carnut.com/show/nats75/memind.html)
 
+**1954 World Series (Round 12):** Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
+
 [^mr]: Memphis Rodders, club history. http://www.memphisrodders.com/
 [^mth]: Memphis Tech High School history site, "Ray Godman." https://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html
 [^sema]: SEMA News, "Drag Racing, Memphis Style" (June 2024; citing Hot Rod, Dec 1955). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style
@@ -61,3 +63,4 @@ We looked for a documented link between Sun Records-era musicians and Memphis bu
 [^tl]: Memphis Rodders, "Two-Lane Memories." http://memphisrodders.com/files/dc0cc7ae4bcfcaca80f74cf5a4b24ce3-12.html
 [^bs]: BangShift, "Raymond Godman Has Died." https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/
 [^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html
+[^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)

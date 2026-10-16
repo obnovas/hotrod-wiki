@@ -34,21 +34,29 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1951 | Pomona's Choppers Club "digs in" at a leased Fontana airstrip (Apr 1) | [Pomona's Choppers](../grassroots/pomona-choppers-fontana.md) |
 | 1952 | First Holiday Inn opens on Summer Avenue, Memphis, a cruising and drive-around strip | [Summer Avenue](../cruising/summer-avenue-memphis.md) |
 | 1952 | Memphis Rodders exhibit at Klyce Motors (Mar 15) ◐ | [Memphis](../regions/memphis.md) |
+| 1952 ⚠ | ATAA's first races at Half Day, Ill. (Maremont Speedway), Apr 6 per NHRA citing Bayshore; the ATAA's 1954 release says 1953 | [Half Day](../regions/half-day-ataa-maremont.md) |
 | 1953 | First Detroit Autorama (45–50 cars) | [Show Circuit](../customs/show-circuit.md) |
 | 1953 | Godman takes up drag racing and writes to Wally Parks | [Ray Godman](../voices/ray-godman.md) |
 | 1953 | Bartel & Lamona start the ATAA (cash purses). Otie Smith begins racing a '32 roadster at Akron | [Bob Bartel](../people/bob-bartel.md), [Akron Fulton](../regions/akron-fulton-airport.md) |
 | 1953 | First race on the old Great Bend Army Air Field (May 12), per the club | [Great Bend](../grassroots/great-bend-srca.md) |
 | 1954 ⚠ | First World Series of Drag Racing, Lawrenceville, Ill. (vs 1956/1953; see [Bartel](../people/bob-bartel.md)) Sparkomatic founded | [Detroit & Cordova](../regions/detroit-cordova.md), [Almquist](../people/ed-almquist.md) |
+| 1954 | *Motor Age* (Jun 1955) dates the first annual World Series to Oct 1954 at Lawrenceville (~350 hot rodders, ~10,000 spectators); Green Monster 132.35 mph ◐ | [Half Day](../regions/half-day-ataa-maremont.md) |
 | 1954 | Multnomah Hot Rod Council founded. Wescott's begins | [Pacific NW](../regions/pacific-northwest.md) |
 | 1954 | Peggy Hart turns 130+ mph in Pappy's Cadillac-powered gas dragster | [Peggy Hart](../people/peggy-hart.md) |
 | 1954 | Columbia, Mo., police start the Motor Sports Club (June) | [City planners, 1955](../grassroots/planners-report-1955.md) |
+| 1954 | Escanaba, Mich., Drag-n's Auto Club organized in Dec by eight members; city policeman Kemp Sabourin is president | [Escanaba](../grassroots/escanaba-dragns.md) |
 | 1954 ◐ | Inyokern drag strip opens (Oct 24, a bracketed note in a columnist's blog) | [Inyokern](../grassroots/inyokern-dust-devils.md) |
 | 1955 | NHRA Safari meet at Halls, Tenn. (start of Halls drags 1953/55 ⚠) | [Memphis](../regions/memphis.md) |
 | 1955 | NHRA's first national event at Great Bend, Kan. (Sept 29–Oct 2); finals finished in Arizona Nov 19–20 | [Great Bend](../grassroots/great-bend-srca.md) |
+| 1955 | Escanaba Drag-n's sponsor a members-only road race "to test speed judgment" (May 22) | [Escanaba](../grassroots/escanaba-dragns.md) |
+| 1955 | Kansas City Timing Association's strip opens (Jul 17; $72,000, "18,000 paid spectators," per its organizer) ◐ | [Kansas City](../grassroots/kansas-city-timing-association.md) |
 | 1956 | First Portland Roadster Show | [Pacific NW](../regions/pacific-northwest.md) |
 | 1956 | GSTA's first car show, Red Owl lot, Lake St & 22nd Ave S, Minneapolis | [Lake Street](../cruising/lake-street-university.md) |
+| 1956 | Maj. Eugene Pond's "Give the Hot Rodders a Break" runs in the National Safety Council's *Public Safety* (May) | [Kansas City](../grassroots/kansas-city-timing-association.md) |
+| 1956 | Decatur, Ind., Road Runners hot rod club organized (Sept); 24 enrolled | [Hoosier Road Runners](../grassroots/indiana-small-town-clubs.md) |
 | 1956 | Quad City (Cordova) strip opens ⚠. Isky's first patent filed | [Detroit & Cordova](../regions/detroit-cordova.md), [Patents](patents.md) |
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
+| 1957 | UPI survey (Mar 19): the National Safety Council "in direct opposition to drag racing"; Cleveland bans street racing; a county-built strip near Denver reported ⚠ | [March 1957](../grassroots/march-1957-drag-strip-survey.md) |
 | 1957 | Motor City Dragway opens. Garlits' Cordova upset; Postoian wins the final | [Detroit & Cordova](../regions/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |
 | 1957 | Houston Freeway Dragstrip opens near Dickinson, Tex. (fall) | [Houston Freeway](../regions/houston-freeway-dragstrip.md) |
 | 1957 | NHRA "absorbs" the ATAA (◐); Bartel forms the National Association of Drag Strips | [Bob Bartel](../people/bob-bartel.md) |
@@ -61,6 +69,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1959 | Larivee brothers form Promotions Inc. | [Show Circuit](../customs/show-circuit.md) |
 | 1959 | Otie Smith wins Middle Eliminator at the NHRA Nationals, Detroit (supercharged '23 T) | [Akron Fulton](../regions/akron-fulton-airport.md) |
 | 1960 | Lakeland Dragway opens (Jul 4). Cal Automotive T body | [Memphis](../regions/memphis.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
+| 1960 | Dick Wells becomes the first editor of *National Dragster* | [Dick Wells](../people/dick-wells.md) |
 | 1960s | Drag News era. Doris Herbert | [Drag Rags](../eras/1960s-drag-rags.md), [Doris Herbert](../people/doris-herbert.md) |
 | 1960 | "Ohio George" Montgomery wins Little Eliminator at the Nationals, Detroit Dragway | [Ohio Gassers](../regions/ohio-gassers.md) |
 | 1961 | Woodburn Dragstrip opens (eighth-mile) | [Pacific NW](../regions/pacific-northwest.md) |
@@ -79,8 +88,10 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1966 | Schartman wins NHRA's first Funny Car title (Tulsa) | [Eddie Schartman](../people/eddie-schartman.md) |
 | 1966 | Schartman's Comet funny car: "What the hell is this?" | [Show & Custom Voices](../voices/show-custom-voices.md) |
 | 1966 | Hassel & Cox win B/Gas at the Nationals ('48 Anglia) | [Ohio Gassers](../regions/ohio-gassers.md) |
+| 1966 | Birmingham, Mich., passes an ordinance banning drive-in restaurants (Feb 1966 per a *Detroit News* excerpt ◐) | [Woodward ordinances](../cruising/woodward-ordinances.md) |
 | 1967 | Hill brothers' Red Baron Willys built in 11 days. "WE'RE SORRY" letter | [Red Baron](../cars/hill-bros-red-baron.md) |
 | 1967 | Minnesota Street Rod Association formed | [Upper Midwest](../regions/upper-midwest.md) |
+| 1967 | First SEMA trade show, Dodger Stadium (98 booths), produced by Dick Wells with Ray Brock and Alex Xydias | [Dick Wells](../people/dick-wells.md) |
 | 1968 ⚠ | Gene Snow's 200.88 mph at Dickinson: first 200-mph Funny Car pass (Aug 17, 1968, vs 1969). Cordova floods; World Series run at 1,000 ft | [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md) |
 | 1970 | First NSRA Street Rod Nationals, Peoria. Vanke in Pro Stock | [Peoria](../eras/1970s-street-rod-nationals.md), [Vanke](../people/arlen-vanke.md) |
 | 1970 | Snow's 208.71 at Dallas (May 3), first 200-mph Funny Car pass at an NHRA national event; his "Super Season" | [Gene Snow](../people/gene-snow.md) |
@@ -108,4 +119,5 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1997 | LA County anti-cruising ordinance (2 passes in 6 hours) | [Whittier Blvd](../cruising/whittier-blvd.md) |
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../cruising/central-avenue-albuquerque.md) |
 | 2005 ⚠ | Inyokern strip shut after an FAA threat; date of the last race disputed | [Inyokern](../grassroots/inyokern-dust-devils.md) |
+| 2010 | Dick Wells dies (Jan 18), NSRA's "first active president" ⚠ | [Dick Wells](../people/dick-wells.md) |
 | 2023–24 | CA AB 436 (Alvarez) chaptered Oct 13, 2023; effective Jan 1, 2024—removes local authority to ban cruising; repeals VC 24008 | [Cruise Nights](../cruising/index.md) |

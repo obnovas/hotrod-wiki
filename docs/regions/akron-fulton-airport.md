@@ -50,6 +50,8 @@ He was survived by wife Betty, son Bill, and daughters Debbie Hughes and Laurie 
 
 Akron belongs alongside the other early airport strips of the Midwest and East: the George Field taxiway at Lawrenceville, Ill., where [Bob Bartel](../people/bob-bartel.md)'s World Series began, and the circuit of [Ohio gasser](ohio-gassers.md) tracks (Thompson, Dragway 42, Quaker City, National Trail) that followed. Jim Hill writes that Vanke built his reputation as "a Chevy Gasser racer" before Chrysler backed him.[^ecgm]
 
+**Round 12 addition:** Chilton's *Motor Age* (June 1955, sponsor-written) says the Arfons brothers' six-wheeled "Green Monster" won the top-speed award at the 1954 World Series of Drag Racing at Lawrenceville, Ill., at 132.35 mph, taking the Maremont Trophy and a $1,000 scholarship, and that the Akron group expected about 25 entries in 1955. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
+
 **See also:** [Arlen Vanke](../people/arlen-vanke.md), [The Ohio Gassers](ohio-gassers.md), [Midwest & East](midwest-east.md), [Bob Bartel](../people/bob-bartel.md), [Santa Ana drags](../eras/1950s-santa-ana-drags.md) (the California airport model).
 
 ## Images
@@ -70,3 +72,4 @@ Akron belongs alongside the other early airport strips of the Midwest and East: 
 [^oac]: "Ohio to Honor Drag Legends Arfons, Smith & Vanke with Special Historical Marker," OnAllCylinders, June 15, 2016. Accessed 2026-10-15. https://www.onallcylinders.com/2016/06/15/ohio-to-honor-drag-legends-arfons-smith-vanke-with-special-historical-marker/
 [^nhra]: Phil Burgess, "Talking 'Otie,' terminology, skyjackings, and more," NHRA.com, May 30, 2014. Accessed 2026-10-15. https://www.nhra.com/news/2014/talking-otie-terminology-skyjackings-and-more
 [^ecgm]: Jim Hill, "Gassers Midwest: Fast and Fabulous," East Coast Drag Times Hall of Fame, Aug 4, 2016. Accessed 2026-10-15. https://eastcoastdragtimeshalloffame.com/gassers-midwest-fast-and-fabulous/
+[^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)
