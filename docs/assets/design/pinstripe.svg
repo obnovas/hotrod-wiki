@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 22" width="320" height="22" fill="none" stroke-linecap="round">
+<!-- sign-painter pinstripe divider: long double stripe that swells into a scroll and a diamond -->
+<path d="M2 11H116C128 11 130 4 140 4 150 4 148 12 142 12 137 12 137 7 141 7" stroke="#b3261e" stroke-width="1.6"/>
+<path d="M318 11H204C192 11 190 4 180 4 170 4 172 12 178 12 183 12 183 7 179 7" stroke="#b3261e" stroke-width="1.6"/>
+<path d="M2 15H108C122 15 126 18 134 18M318 15H212C198 15 194 18 186 18" stroke="#e0a526" stroke-width="1"/>
+<path d="M160 3l6 8-6 8-6-8z" fill="#e0a526" stroke="#7a1f1f" stroke-width="1"/>
+</svg>

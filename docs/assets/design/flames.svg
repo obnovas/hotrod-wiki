@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 56" preserveAspectRatio="none" width="180" height="56">
+<!-- original flame-lick tile: three overlapping tongues sweeping right (hot-rod scallop flames), tiles horizontally -->
+<path fill="#7a1f1f" d="M0 56C8 40 24 36 32 22 38 12 42 8 56 0 52 14 58 20 66 28 74 36 80 44 78 56Z"/>
+<path fill="#b3261e" d="M50 56C58 42 74 38 82 24 88 14 94 10 108 2 104 16 110 22 118 30 126 38 132 46 130 56Z"/>
+<path fill="#7a1f1f" d="M100 56C108 40 124 36 132 22 138 12 142 8 156 0 152 14 158 20 166 28 174 36 180 44 178 56Z"/>
+<path fill="#e0a526" d="M20 56C26 46 38 43 44 33 48 26 52 23 61 17 59 27 63 31 68 37 74 43 77 49 76 56Z"/>
+<path fill="#e0a526" d="M120 56C126 46 138 43 144 33 148 26 152 23 161 17 159 27 163 31 168 37 174 43 177 49 176 56Z"/>
+<path fill="#f6d77a" d="M36 56C40 50 47 48 51 43 54 39 56 37 61 34 60 40 62 43 65 46 68 49 70 52 69 56Z"/>
+<path fill="#f6d77a" d="M136 56C140 50 147 48 151 43 154 39 156 37 161 34 160 40 162 43 165 46 168 49 170 52 169 56Z"/>
+</svg>

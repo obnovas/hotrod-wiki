@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none" stroke="#fbf3df" stroke-opacity=".34" stroke-width="1.6" stroke-linecap="round">
+<!-- atomic-age starbursts and boomerangs -->
+<g transform="translate(40 44)"><path d="M0-16V16M-16 0H16M-11-11 11 11M-11 11 11-11"/><circle r="3" fill="#fbf3df" fill-opacity=".34" stroke="none"/></g>
+<g transform="translate(150 120) scale(1.3)"><path d="M0-16V16M-16 0H16M-11-11 11 11M-11 11 11-11"/><circle r="3" fill="#fbf3df" fill-opacity=".34" stroke="none"/></g>
+<path d="M92 36c20-12 44-10 60 4-18-4-34 0-48 12 4-6 0-12-12-16z" fill="#fbf3df" fill-opacity=".16" stroke="none"/>
+<path d="M20 150c20-12 44-10 60 4-18-4-34 0-48 12 4-6 0-12-12-16z" fill="#fbf3df" fill-opacity=".16" stroke="none"/>
+<circle cx="110" cy="96" r="2.4" fill="#fbf3df" fill-opacity=".4" stroke="none"/><circle cx="186" cy="30" r="2" fill="#fbf3df" fill-opacity=".4" stroke="none"/><circle cx="14" cy="104" r="2" fill="#fbf3df" fill-opacity=".4" stroke="none"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none" stroke-width="1.2">
+<!-- 80s neon grid + chevrons -->
+<path d="M0 .5H120M0 40.5H120M0 80.5H120M.5 0V120M40.5 0V120M80.5 0V120" stroke="#2ee6f2" stroke-opacity=".22"/>
+<path d="M10 100l30-30 30 30M10 112l30-30 30 30" stroke="#ff3d9a" stroke-opacity=".5" stroke-width="2"/>
+</svg>
