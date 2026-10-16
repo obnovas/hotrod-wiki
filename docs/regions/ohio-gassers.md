@@ -1,4 +1,6 @@
-# The Ohio Gassers: Cleveland, Dayton, Columbus and the Door-Slammer Midwest
+# The Ohio Gassers
+
+*Cleveland, Dayton, Columbus and the door-slammer Midwest*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; ⚠ Chuck Finders death date (May 17 vs 27, 2009); Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
@@ -11,42 +13,61 @@
 "The Ohio Gassers" was **never a chartered club**. Jim Hill, who raced and photographed the era, calls it an "unofficial group of peers who became known in drag racing lore as 'The Ohio Gassers.'"[^ecmg] It was a loose circle of 1950s Cleveland high-school friends and their rivals across the state. They ran Gas Coupe and Sedan cars (the "gassers"), mostly small-block Chevys in Willys, Anglias and Tri-Five Chevys, and later Modified Production. Out of that circle came [Mr. Gasket](../companies/mr-gasket.md), a Crane Cams sales manager, Funny Car pioneer [Eddie Schartman](../people/eddie-schartman.md), the chassis builder of the [Red Baron](../cars/hill-bros-red-baron.md), and a blues bassist.
 
 ## Why gassers, and why here
-- Hill describes the Midwest as a region of heavy industry where men "brought with them a strong love of the auto." There, "full-bodied, full-fendered vehicles were preferred for racing, first on deserted streets and rural roads, later on circle tracks and drag strips."[^ecgm]
-- In *Hot Rod* he argues that class racing drew full grandstands "on the east side of the Rockies," while "over on the Left Coast, nitro and dragsters were tradition." He says the term **"door-slammer"** originated in the West and was "originally intended as a negative."[^hr15] ◐ *Hill's opinion as a participant-journalist.*
-- **The tracks:** the Hrudkas' circle raced at **Thompson, Dragway 42 (West Salem), Quaker City and National Trail Raceway**. In the short northern Ohio season "an ambitious racer could run 4–5 times per week."[^ecmg]
+
+Hill describes the Midwest as a region of heavy industry where men "brought with them a strong love of the auto." There, "full-bodied, full-fendered vehicles were preferred for racing, first on deserted streets and rural roads, later on circle tracks and drag strips."[^ecgm]
+
+In *Hot Rod* he argues that class racing drew full grandstands "on the east side of the Rockies," while "over on the Left Coast, nitro and dragsters were tradition." He says the term **"door-slammer"** originated in the West and was "originally intended as a negative."[^hr15] ◐ *Hill's opinion as a participant-journalist.*
+
+**The tracks:** the Hrudkas' circle raced at **Thompson, Dragway 42 (West Salem), Quaker City and National Trail Raceway**. In the short northern Ohio season "an ambitious racer could run 4–5 times per week."[^ecmg]
 
 ## Who was in it
-Jim Hill's list of the group includes Eddie Schartman, Ron Hassel, Sam Gellner, Gene Schwartz, the Hill brothers, Virgil Cates, David Meal, Mickey Hart, Dave Koffel, Arlen Vanke, the Rodriguez brothers "and a long list of Gasser notables, all from Ohio."[^ecmg] *Hot Rod* names Hassel's high-school pals as Joe and Tom Hrudka, Schartman, Gellner, Schwartz and the Hill brothers.[^hr15]
+
+Jim Hill's list of the group includes Eddie Schartman, Ron Hassel, Sam Gellner, Gene Schwartz, the Hill brothers, Virgil Cates, David Meal, Mickey Hart, Dave Koffel, Arlen Vanke, the Rodriguez brothers "and a long list of Gasser notables, all from Ohio."[^ecgm] *Hot Rod* names Hassel's high-school pals as Joe and Tom Hrudka, Schartman, Gellner, Schwartz and the Hill brothers.[^hr15]
 
 ### Ron Hassel, "Ronnie Red Wheels" (Cleveland)
-- Hassel got the street name "Ronnie Red Wheels" because he "loved to paint stock steel rims that bright color." He began with a **'56 Chevy two-door** and held "numerous NHRA class records."[^hr15]
-- He then ran the **Hassel & Vogelsong '40 Willys** in B and C/Gas. Hill's photo shows him "during B/Gas class runs at The Nationals, 1963."[^ecgm] ⚠ *Hot Rod* says that in 1963 "he won **C/Gas** with a 1940 Willys."[^hr15] We have not seen the 1963 class-winner list.
-- **1965:** he left Ohio for South Florida as **sales manager for Crane Cams**. There he teamed with **Ronnie Cox** and won **B/Gas at the 1966 Nationals** in a **'48 Anglia**. The Hrudkas also loaned him their Dave Meal–built **'48 Thames "Pie Wagon"** A/Gas panel, which he ran in Florida with his own engine and transmission: high-nine-second ETs at 140 mph. Hill's photo of it is from Palm Beach International Raceway.[^ecgm][^ecmg]
-- **1967:** he returned to Cleveland "shortly after the Nationals" as **Mr. Gasket's National Sales Manager**. He drove Joe Hrudka's '48 Anglia D/Gasser with his own engine and transmission, and lost the 1967 Nationals C/Gas trophy to the **Russo & Santo** four-door Willys of New York.[^ecgm]
-- An East Coast Drag Times Hall of Fame member.[^ecgm]
+
+Hassel got the street name "Ronnie Red Wheels" because he "loved to paint stock steel rims that bright color." He began with a **'56 Chevy two-door** and held "numerous NHRA class records."[^hr15]
+
+He then ran the **Hassel & Vogelsong '40 Willys** in B and C/Gas. Hill's photo shows him "during B/Gas class runs at The Nationals, 1963."[^ecgm] ⚠ *Hot Rod* says that in 1963 "he won **C/Gas** with a 1940 Willys."[^hr15] We have not seen the 1963 class-winner list.
+
+In **1965** he left Ohio for South Florida as **sales manager for Crane Cams**. There he teamed with **Ronnie Cox** and won **B/Gas at the 1966 Nationals** in a **'48 Anglia**. The Hrudkas also loaned him their Dave Meal–built **'48 Thames "Pie Wagon"** A/Gas panel, which he ran in Florida with his own engine and transmission: high-nine-second ETs at 140 mph. Hill's photo of it is from Palm Beach International Raceway.[^ecgm][^ecmg]
+
+In **1967** he returned to Cleveland "shortly after the Nationals" as **Mr. Gasket's National Sales Manager**. He drove Joe Hrudka's '48 Anglia D/Gasser with his own engine and transmission, and lost the 1967 Nationals C/Gas trophy to the **Russo & Santo** four-door Willys of New York.[^ecgm] He is an East Coast Drag Times Hall of Fame member.[^ecgm]
 
 ### Dave Meal (Cleveland), the builder
-- Hill calls him "the notably talented Cleveland race car builder."[^ecgm]
-- He built the Hrudkas' **'40 Willys C/Gasser**: injected small-block Chevy, four-speed, "8,000 rpm power," 11-second, 120-mph runs at Dragway 42, with the front wheels up "through first two gears." It carried an early Mr. Gasket logo.[^ecmg]
-- **1965:** built the A/Gas **'48 Thames panel "Pie Wagon,"** "very light, flimsy and flexy."[^ecmg]
-- **⚠ The 1968 Mr. Gasket Test Car** (blown big-block Camaro, A/GS): one Hill piece says "Joe Hrudka had **Dave Meal** build" it. His Mr. Gasket history says it "was built by **Hrudka Bros.**"[^ecgm][^ecmg] Both may be true: Meal as fabricator, the Hrudkas as owners. The car "saw little racing action" before A/GS faded in favor of Funny Car match-race money.[^ecgm]
+
+Hill calls him "the notably talented Cleveland race car builder."[^ecgm] He built the Hrudkas' **'40 Willys C/Gasser**: injected small-block Chevy, four-speed, "8,000 rpm power," 11-second, 120-mph runs at Dragway 42, with the front wheels up "through first two gears." It carried an early Mr. Gasket logo.[^ecmg]
+
+In **1965** he built the A/Gas **'48 Thames panel "Pie Wagon,"** "very light, flimsy and flexy."[^ecmg]
+
+**⚠ From the detective's notebook: who built the 1968 Mr. Gasket Test Car?** It was a blown big-block Camaro, A/GS. One Hill piece says "Joe Hrudka had **Dave Meal** build" it. His Mr. Gasket history says it "was built by **Hrudka Bros.**"[^ecgm][^ecmg] Both may be true: Meal as fabricator, the Hrudkas as owners. The car "saw little racing action" before A/GS faded in favor of Funny Car match-race money.[^ecgm]
 
 ### Chuck Finders (chassis builder)
-- His son's farewell, posted by JR Thompson, says Finders started drag racing in **1958**, made his last full run "in the 90's," and owned **CF Engineering**, "builder of Chassis and Bodies of 1933–1941 Willys."[^jrt1]
-- **The "Dark Horse":** a '33 Willys with a **Tim Woods** engine, painted to match **Stone-Woods-Cook** colors and "added to the SWC team to help meet booking commitments." The farewell says it was sometimes "quicker than the SWC 'A' car."[^jrt1] ◐ *Family account.*
-- **The "Traveler":** the same car, rebuilt with partners **Bill Altizer and Neal Kibler**. It "set and held both speed and low ET in B/GS (**146.57 MPH in 9.76 ET**) in November 1964."[^jrt1] ◐ *No record sheet seen.*
-- **1967:** Ken Kull writes, "I had Chuck come in **from Ohio**," and says Finders built the Hill brothers' **Red Baron** in eleven days while "Pete and Bill just kept bringing him fried chicken."[^jrthill] See [Red Baron](../cars/hill-bros-red-baron.md).
-- In the **1970s** he ran fuel Funny Cars and contended in Division 3. He lost a leg in a late-1970s racing accident. The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys.[^jrt1] ◐
-- **Dates:** born **July 16, 1939**. ⚠ The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009." May 17, 2009, was a Sunday, so we favor it, pending an obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
+
+His son's farewell, posted by JR Thompson, says Finders started drag racing in **1958**, made his last full run "in the 90's," and owned **CF Engineering**, "builder of Chassis and Bodies of 1933–1941 Willys."[^jrt1]
+
+The **"Dark Horse"** was a '33 Willys with a **Tim Woods** engine, painted to match **Stone-Woods-Cook** colors and "added to the SWC team to help meet booking commitments." The farewell says it was sometimes "quicker than the SWC 'A' car."[^jrt1] ◐ *Family account.*
+
+The **"Traveler"** was the same car, rebuilt with partners **Bill Altizer and Neal Kibler**. It "set and held both speed and low ET in B/GS (**146.57 MPH in 9.76 ET**) in November 1964."[^jrt1] ◐ *No record sheet seen.*
+
+In **1967**, Ken Kull writes, "I had Chuck come in **from Ohio**," and says Finders built the Hill brothers' **Red Baron** in eleven days while "Pete and Bill just kept bringing him fried chicken."[^jrthill] See [Red Baron](../cars/hill-bros-red-baron.md).
+
+In the **1970s** he ran fuel Funny Cars and contended in Division 3. He lost a leg in a late-1970s racing accident. The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys.[^jrt1] ◐
+
+**The dates:** born **July 16, 1939**. ⚠ The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009." May 17, 2009, was a Sunday, so we favor it, pending an obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
 
 ### Gene Schwartz (Cleveland): E/Gas and the blues
-- He ran two **E/Gas '52 Chevys**. The first, a Deluxe coupe, was lost in a crash. The second, a '52 sedan "hastily built to compete in the 1966 Nationals," wore psychedelic "Strawberry Fields Forever" paint. He held NHRA ET and mph records in E/Gas. Sam Gellner, also of Cleveland, was his favorite engine builder.[^ecgm]
-- Hill notes that Schwartz and his brother Glenn are also "world-class blues bass guitar" players who performed for many years with **Robert Lockwood**. Schwartz was inducted into the East Coast Drag Times Hall of Fame in **2016**.[^ecgm]
+
+He ran two **E/Gas '52 Chevys**. The first, a Deluxe coupe, was lost in a crash. The second, a '52 sedan "hastily built to compete in the 1966 Nationals," wore psychedelic "Strawberry Fields Forever" paint. He held NHRA ET and mph records in E/Gas. Sam Gellner, also of Cleveland, was his favorite engine builder.[^ecgm]
+
+Hill notes that Schwartz and his brother Glenn are also "world-class blues bass guitar" players who performed for many years with **Robert Lockwood**. Schwartz was inducted into the East Coast Drag Times Hall of Fame in **2016**.[^ecgm]
 
 ### The Hrudka brothers (Cleveland)
+
 Their '55 Chevy won **D/Gas at the 1962 NHRA Nationals**. Their homemade gaskets, sold "out of the trunk of Joe's '57 Chevy," became **Mr. Gasket** (named 1964, incorporated 1967).[^ecmg] See [Mr. Gasket](../companies/mr-gasket.md) for the company history and its conflicts.
 
 ## Around the state
+
 | Place | People and shops (per Jim Hill) |
 |---|---|
 | **Akron** | [Arlen Vanke](../people/arlen-vanke.md), Otie Smith, the Arfons brothers. See [Akron Fulton Airport strip](akron-fulton-airport.md) |
@@ -60,6 +81,7 @@ Their '55 Chevy won **D/Gas at the 1962 NHRA Nationals**. Their homemade gaskets
 **Names:** ⚠ Hill names the Hill brothers "Pete and Bill" in his 2016 Midwest piece, matching Pete Hill's own letter on the [Red Baron](../cars/hill-bros-red-baron.md) page, but "Pete and Tom Hill" in his Mr. Gasket piece.[^ecgm][^ecmg] We use **Pete and Bill**.
 
 ## The money behind class wins
+
 Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15] ◐ *Interested party; figures are his.* This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).
 
 **See also:** [Mr. Gasket](../companies/mr-gasket.md), [Eddie Schartman](../people/eddie-schartman.md), [Arlen Vanke](../people/arlen-vanke.md), [Red Baron](../cars/hill-bros-red-baron.md), [Akron Fulton Airport strip](akron-fulton-airport.md), [Bob Bartel](../people/bob-bartel.md) (World Series at Cordova, where the Moody & Jones '37 Chevy also won), [Midwest & East](midwest-east.md).

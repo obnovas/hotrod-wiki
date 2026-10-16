@@ -1,18 +1,24 @@
-# Upper Midwest: MSRA and Back to the 50's
+# Upper Midwest: Streets Before Strips
+
+*MSRA and Back to the 50's*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> association history, obituary, founder-era recollections (HotRod Hotline) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-year car counts approximate · [How we rate this](../reference/source-standards.md)
 
-
 ## MSRA (1967)
+
 The **Minnesota Street Rod Association** began in 1967, when Jerry Johnson (member #1) proposed uniting the St. Paul and Minneapolis clubs into one body.[^hh50][^jj] By 1970 the MSRA was strong enough to co-host the first Street Rod Nationals at Peoria with the Slo-Pokes.[^rc]
 
 ## Back to the 50's (1974)
-- The first Back to the 50's was held **June 23–25, 1974**, at the **Midway Shopping Center**, St. Paul. It drew about 125–150 cars and included a cruise to Porky's Drive-In (MSRA).[^msra] The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year.[^msra] ◐
-- Eligibility was **1964 and older**, looser than the NSRA's 1948 line.[^msra]
-- It later moved to the State Fairgrounds and became one of the biggest street-rod gatherings anywhere (HotRod Hotline; ClassicCars Journal).[^hh2][^cc] We report no current car count here because we have not verified one.
+
+The first Back to the 50's was held **June 23–25, 1974**, at the **Midway Shopping Center**, St. Paul. It drew about 125–150 cars and included a cruise to Porky's Drive-In (MSRA).[^msra] The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year.[^msra] ◐
+
+Eligibility was **1964 and older**, looser than the NSRA's 1948 line.[^msra]
+
+It later moved to the State Fairgrounds and became one of the biggest street-rod gatherings anywhere (HotRod Hotline; ClassicCars Journal).[^hh2][^cc] We report no current car count here because we have not verified one.
 
 ## How it differed
+
 Here the *street rod association* came first and drag racing came second. A cold climate and long distances shaped a culture of summer driving events and cruises rather than year-round racing.
 
 ## Images
@@ -26,7 +32,6 @@ Here the *street rod association* came first and drag racing came second. A cold
 ![A 1923 T street rod at the State Fairgrounds, St. Paul (2016).](../assets/images/commons-1923-t-street-rod.jpg){ loading=lazy }
 <figcaption markdown>A 1923 T street rod at the State Fairgrounds, St. Paul (2016). Creator: Greg Gjerdingen from Willmar, USA. Date: 2016-07-15 15:22. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1923_Ford_Model_T_Street_Rod_(28288217871).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
-
 
 ## Visual references (external)
 *These images are copyrighted, so we link to them instead.*

@@ -1,22 +1,31 @@
-# Heartland Strips: Detroit Dragway and the World Series at Cordova
+# The Upset at Cordova
+
+*Heartland strips: Detroit Dragway and the World Series of Drag Racing*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> obituary/tribute, local press, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Cordova opening and Detroit closing conflicts · [How we rate this](../reference/source-standards.md)
 
+## 1957: the Garlits upset
+
+In **1957 (Aug 21–25)**, an unknown Don Garlits ran only 133 mph until Emery Cook showed him how to build a hand-operated fuel pressure pump. Garlits then beat Cook & Bedwell in the semis, 9.92/150 against 10.12/160. "Even Garlits admits [it] earned him a 'name.'" Detroit's [Setto Postoian](../people/setto-postoian.md) beat Garlits in the final of both the 1957 and 1958 ATAA World Series (BangShift).[^bs]
+
+Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the AHRA meet at Great Bend and the ATAA World Series were the only true national gatherings of fuel cars before 1959.[^bs]
+
 ## The World Series of Drag Racing
-- **Origin (per Competition Plus):** Bob Bartel and his partner Lamona held the first World Series in **October 1954** on a taxiway at George Field, Lawrenceville, Illinois. Competition Plus calls it "one year before the NHRA... had a similar race." It drew entrants from as far as California and New York. It moved from the taxiway to a full runway in 1955.[^cp] ⚠ Other accounts give **1956** (Bartel's 2009 newspaper interview, as summarized in 2017) or **1953** (IRG). See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series) for the full biography and the date conflict.
-- **Cordova:** Bartel's Quad City Drag Strip opened Labor Day weekend 1956. A late-1956 government mandate pushed racing off airports. The World Series moved to Cordova the weekend before Labor Day 1957, the "first of sixty consecutive" there.[^cp]
-- **⚠ Opening-year conflict:** the Clinton Herald says Cordova was "built in 1955."[^ch] Competition Plus gives an opening in Labor Day 1956.[^cp] A forum poster's recollection that the race moved there in 1955 is unsourced.[^svt]
-- **1957 (Aug 21–25), the Garlits upset:** an unknown Don Garlits ran only 133 mph until Emery Cook showed him how to build a hand-operated fuel pressure pump. Garlits then beat Cook & Bedwell in the semis, 9.92/150 against 10.12/160. "Even Garlits admits [it] earned him a 'name.'" Detroit's [Setto Postoian](../people/setto-postoian.md) beat Garlits in the final of both the 1957 and 1958 ATAA World Series (BangShift).[^bs]
-- Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the AHRA meet at Great Bend and the ATAA World Series were the only true national gatherings of fuel cars before 1959.[^bs]
+
+**Origin (per Competition Plus):** Bob Bartel and his partner Lamona held the first World Series in **October 1954** on a taxiway at George Field, Lawrenceville, Illinois. Competition Plus calls it "one year before the NHRA... had a similar race." It drew entrants from as far as California and New York. It moved from the taxiway to a full runway in 1955.[^cp] ⚠ Other accounts give **1956** (Bartel's 2009 newspaper interview, as summarized in 2017) or **1953** (IRG). See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series) for the full biography and the date conflict.
+
+**Cordova:** Bartel's Quad City Drag Strip opened Labor Day weekend 1956. A late-1956 government mandate pushed racing off airports. The World Series moved to Cordova the weekend before Labor Day 1957, the "first of sixty consecutive" there.[^cp]
+
+**⚠ Opening-year conflict:** the Clinton Herald says Cordova was "built in 1955."[^ch] Competition Plus gives an opening in Labor Day 1956.[^cp] A forum poster's recollection that the race moved there in 1955 is unsourced.[^svt]
 
 ## Detroit's strips
-- **Motor City Dragway (1957):** The Michigan Hot Rod Association used profits from its Detroit Autorama, founded in 1953, to buy land near New Baltimore. Hagerty calls it "the nation's first member-owned strip," with a sign reading "Built, owned, and operated by the youth of Detroit."[^hag] Schartman first drove the flip-top Comet there in December 1965 ([Eddie Schartman](../people/eddie-schartman.md)).
-- **Detroit Dragway (1959–1997/98):** Promoter Gil Kohn opened it at Sibley and Dix in Brownstown Township.[^hag][^dd] It hosted the NHRA Nationals in 1959 (783 entries and about 30,000 spectators, per Hagerty) and 1960.[^hag][^nh] Its radio spot "Sunday! Sunday! Sunday!" made it famous. Kohn: "I've run into people in Times Square... who've heard those commercials" (Detroit News, via RememberMichigan, which also hosts 1964–73 radio spots).[^rm]
-- **⚠ Closing:** "end of 1997" (Detroit Dragway heritage site) vs "1998" (News-Herald, 2011).[^dd][^nh]
 
+**Motor City Dragway (1957):** The Michigan Hot Rod Association used profits from its Detroit Autorama, founded in 1953, to buy land near New Baltimore. Hagerty calls it "the nation's first member-owned strip," with a sign reading "Built, owned, and operated by the youth of Detroit."[^hag] Schartman first drove the flip-top Comet there in December 1965 ([Eddie Schartman](../people/eddie-schartman.md)).
 
-## Images
+**Detroit Dragway (1959–1997/98):** Promoter Gil Kohn opened it at Sibley and Dix in Brownstown Township.[^hag][^dd] It hosted the NHRA Nationals in 1959 (783 entries and about 30,000 spectators, per Hagerty) and 1960.[^hag][^nh] Its radio spot "Sunday! Sunday! Sunday!" made it famous. Kohn: "I've run into people in Times Square... who've heard those commercials" (Detroit News, via RememberMichigan, which also hosts 1964–73 radio spots).[^rm]
+
+**⚠ Closing:** "end of 1997" (Detroit Dragway heritage site) vs "1998" (News-Herald, 2011).[^dd][^nh]
 
 ## Images
 

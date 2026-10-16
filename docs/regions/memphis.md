@@ -1,5 +1,7 @@
 # Memphis and the Mid-South
 
+*A bomber base, a bo-weevil and a missing Sun Records story*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no documented Sun Records link · [How we rate this](../reference/source-standards.md)
 
@@ -8,24 +10,30 @@
 
     — Ray Godman, NHRA.com, 2014. [Full context in Voices](../voices/ray-godman.md)
 
-
-## Memphis Rodders (1947) and the Klyce Motors exhibit
-- The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr] ◐
-- Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr] ◐
-
 ## Halls: racing on an old bomber base
-- The drags ran at an abandoned WWII air base at **Halls, Tennessee**, about 70 miles from the city. **⚠ Start year:** 1953 (NHRA-related account) vs 1955 (Memphis Tech High history).[^mth][^sema]
-- **September 1955 NHRA Drag Safari meet:** 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema] **⚠** Other summaries credit Godman & Dyer with Top Eliminator, and we have not settled which is right.[^mth] Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
+
+The drags ran at an abandoned WWII air base at **Halls, Tennessee**, about 70 miles from the city. **⚠ From the detective's notebook: when did they start?** 1953 (NHRA-related account) vs 1955 (Memphis Tech High history).[^mth][^sema]
+
+**September 1955 NHRA Drag Safari meet:** 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema] **⚠** Other summaries credit Godman & Dyer with Top Eliminator, and we have not settled which is right.[^mth] Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
 
 ## Ray Godman and Lakeland Dragway (1960–79)
-- Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in **Lakeland Dragway**, which opened **July 4, 1960**. Its first starter was **Buster Couch**, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
-- Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971). ◐ We have this from secondary sources only.[^dm][^tl]
-- Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992. ◐ This is from a search summary and needs a primary source; see the Research Trail.
+
+Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in **Lakeland Dragway**, which opened **July 4, 1960**. Its first starter was **Buster Couch**, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
+
+Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971). ◐ We have this from secondary sources only.[^dm][^tl]
+
+Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992. ◐ This is from a search summary and needs a primary source; see the Research Trail.
+
+## The Memphis Rodders (1947)
+
+The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr] ◐ Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr] ◐
 
 ## Street Rod Nationals
+
 Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NSRA](../street-rodding/nsra-early-nationals.md).
 
 ## Sun Records?
+
 We looked for a documented link between Sun Records-era musicians and Memphis builders or clubs and **found none**. We aren't going to invent one. The photo below shows the place and the period only.
 
 ## Images
@@ -39,7 +47,6 @@ We looked for a documented link between Sun Records-era musicians and Memphis bu
 ![An old gas station at 2nd & Vance, Memphis, photographed by John Margolies in 1979, the ye](../assets/images/commons-memphis-gas-station-1979.jpg){ loading=lazy }
 <figcaption markdown>An old gas station at 2nd & Vance, Memphis, photographed by John Margolies in 1979, the year Lakeland Dragway closed. It is a roadside landscape only. Creator: The Library of Congress from Washington, DC, United States. Date: Taken in 1979. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_gas_station,_2nd_%26_Vance,_Memphis,_Tennessee_LOC_37555793280.jpg). License: [No restrictions](https://www.flickr.com/commons/usage/).</figcaption>
 </figure>
-
 
 ## Visual references (external)
 *These images are copyrighted, so we link to them instead.*

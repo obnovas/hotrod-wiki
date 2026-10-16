@@ -1,5 +1,7 @@
 # Beyond California
 
+*Other places, other ways of doing it.*
+
 Hot rodding wasn't only a SoCal export. Other regions built their own scenes on abandoned airfields, through volunteer councils and with fairground shows.
 
 - [Midwest & East Threads](midwest-east.md)
@@ -13,6 +15,7 @@ Hot rodding wasn't only a SoCal export. Other regions built their own scenes on 
 - [Upper Midwest](upper-midwest.md): MSRA and Back to the 50's.
 
 ## How these regions differed from SoCal (summary)
+
 | Region | SoCal had… | They had… |
 |---|---|---|
 | Memphis / Texas | Dry lakes, El Mirador–style surplus airstrips nearby | Distant WWII airbases (Halls, about 70 mi; Caddo Mills); the NHRA Drag Safari as the link to the national scene |
