@@ -1,2 +1,4 @@
 site/
 .venv/
+.cache/
+hooks/__pycache__/design_hook*
