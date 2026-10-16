@@ -1,5 +1,7 @@
 # Street Rodding
 
+*Driving the old cars instead of racing them.*
+
 Street rodding grew out of hot rodding in the late 1960s. It was a hobby of driving old cars long distances, often with the family aboard, rather than racing them.
 
 - [NSRA & the Early Nationals](nsra-early-nationals.md): Peoria 1970, Memphis 1971, St. Paul 1974, and the 1948-and-older rule.

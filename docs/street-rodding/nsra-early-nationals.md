@@ -1,4 +1,6 @@
-# NSRA and the Early Street Rod Nationals (1970–1980s)
+# From a Hayfield to an Association
+
+*NSRA and the early Street Rod Nationals, 1970–1980s*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** participant recollection (Medley, Brizio via R&C), Hagerty, NSRA, MSRA founder recollection · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** 1970 car count; 1971 Memphis count unverified · [How we rate this](../reference/source-standards.md)
@@ -8,20 +10,27 @@
 
     — Jim Clark, first Street Rodder editor, 2012. [Full context in Voices](../voices/street-rodder-founding.md)
 
-
 ## From Peoria to an association
-- Tom Medley recalled that he, Tex Smith, Bud Bryan and Jim "Jake" Jacobs planned the 1970 event, and that the Petersen "7th floor" management said no. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association (MSRA) helped.[^rc] It was held in a hayfield. For more, see [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md).
-- **⚠ Size:** Hagerty says about 600 cars;[^hag] other accounts give much smaller numbers for the cross-country rally. Our 1970 page goes through these.
-- 1970 AMBR winner **Andy Brizio** drove his '23 T to Peoria (R&C sidebar).[^rc]
-- The **NSRA** was formed in the event's wake. Dick Wells was its first president; SEMA later hired him (Hagerty).[^hag] ◐ ⚠ **Conflict (Round 10):** the 99W *Street Rod* history says Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President." Tex Smith's 1978 list of NSRA founders includes Miller. See [*Street Rod* magazine](street-rod-magazine-portland.md#bruce-miller-and-the-nsra). Unresolved.
+
+Tom Medley recalled that he, Tex Smith, Bud Bryan and Jim "Jake" Jacobs planned the 1970 event, and that the Petersen "7th floor" management said no. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association (MSRA) helped.[^rc] It was held in a hayfield. For more, see [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md).
+
+**⚠ Size:** Hagerty says about 600 cars;[^hag] other accounts give much smaller numbers for the cross-country rally. Our 1970 page goes through these. 1970 AMBR winner **Andy Brizio** drove his '23 T to Peoria (R&C sidebar).[^rc]
+
+The **NSRA** was formed in the event's wake. Dick Wells was its first president; SEMA later hired him (Hagerty).[^hag] ◐ ⚠ **From the detective's notebook (Round 10):** the 99W *Street Rod* history says Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President." Tex Smith's 1978 list of NSRA founders includes Miller. See [*Street Rod* magazine](street-rod-magazine-portland.md#bruce-miller-and-the-nsra). Unresolved.
 
 ## Moving Nationals
-- 1971: **Memphis** (the 2nd Nationals); Memphis hosted again in 1975 and 1980 (carnut.com photo index).[^cn] Secondary accounts put 1971 at about 1,200–1,300 rods (TBucketPlans; Hot Rod, Oct 1972 "Street!" is cited in search summaries).[^tb71] ◐
-- 1974: **St. Paul** (5th Nationals). According to MSRA history, the MSRA's first **Back to the 50's** (June 1974) was a test run for the 5th Nationals.[^msra] See [Upper Midwest](../regions/upper-midwest.md).
-- In the 1980s the Nationals rotated with Columbus, Ohio, on a three-year cycle. They moved to **Louisville** in 1988 and settled there permanently in the 1990s (Hagerty).[^hag] ◐
+
+In 1971 the Nationals went to **Memphis** (the 2nd Nationals); Memphis hosted again in 1975 and 1980 (carnut.com photo index).[^cn] Secondary accounts put 1971 at about 1,200–1,300 rods (TBucketPlans; Hot Rod, Oct 1972 "Street!" is cited in search summaries).[^tb71] ◐
+
+In 1974 it was **St. Paul** (5th Nationals). According to MSRA history, the MSRA's first **Back to the 50's** (June 1974) was a test run for the 5th Nationals.[^msra] See [Upper Midwest](../regions/upper-midwest.md).
+
+In the 1980s the Nationals rotated with Columbus, Ohio, on a three-year cycle. They moved to **Louisville** in 1988 and settled there permanently in the 1990s (Hagerty).[^hag] ◐
 
 ## The 1948-and-older rule
-NSRA eligibility was limited to cars built in **1948 and earlier**, and later 1949-and-up cars were handled through a separate street-machine track. Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.[^wp] ◐ This needs an NSRA rulebook or *Street Scene* source. The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra] The KKOA set '62-and-older in 1983.[^hr83] Each group set its own cutoff year.
+
+NSRA eligibility was limited to cars built in **1948 and earlier**, and later 1949-and-up cars were handled through a separate street-machine track. Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.[^wp] ◐ This needs an NSRA rulebook or *Street Scene* source.
+
+The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra] The KKOA set '62-and-older in 1983.[^hr83] Each group set its own cutoff year.
 
 ## Images
 
@@ -39,7 +48,6 @@ NSRA eligibility was limited to cars built in **1948 and earlier**, and later 19
 ![A modern '32 Ford roadster street rod, the most popular NSRA-era base. It is not a car fro](../assets/images/commons-1932-ford-roadster-hot-rod.jpg){ loading=lazy }
 <figcaption markdown>A modern '32 Ford roadster street rod, the most popular NSRA-era base. It is not a car from the period. Creator: Sicnag. Date: 2014-12-17. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1932_Ford_Roadster_Hot_Rod_(16068067015).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
-
 
 ## Visual references (external)
 *These images are copyrighted, so we link to them instead.*
