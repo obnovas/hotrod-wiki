@@ -52,7 +52,7 @@ Pond reports these facts about the track and the money, all from his own article
 
 Pond also describes a club discipline system: "A traffic violator is severely dealt with by his club with additional fines being levied and participation in club activities limited by suspension."[^pond] That is the same idea as the Escanaba club's 30-day suspension (see [The Cop and the Auto Shop](escanaba-dragns.md)).
 
-## What to doubt
+## From the detective's notebook: what to doubt
 - **One voice.** Everything above is Pond writing about his own project, in a magazine of the National Safety Council. We found no second account of the strip, the 32 clubs or the safety-check totals. ◐
 - **"No more hot rodding on the streets."** Pond says that "from the day our drag strip opened for operation, there was no more hot rodding on the streets or country roads of our area." That is a strong claim for a metro area, and it is his own statement, not a police statistic.
 - **The magazine turned.** *Public Safety* was the National Safety Council's own journal. A March 1957 wire survey reported that the council had "a few weeks ago" come out in "direct opposition to drag racing, supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).

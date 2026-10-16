@@ -23,11 +23,10 @@ Most of what is written about hot rodding comes from national magazines and trad
 
 Earlier pages that rest heavily on local sources: [Modesto cruising](../cruising/modesto.md), [Akron Fulton Airport](../regions/akron-fulton-airport.md), [Houston Freeway Dragstrip](../regions/houston-freeway-dragstrip.md), [Bob Bartel](../people/bob-bartel.md), [Jack Engle](../people/jack-engle.md) and [Whittier Boulevard](../cruising/whittier-blvd.md).
 
-Round 12 also added a Nebraska, Illinois and Michigan thread outside this section: [Dick Wells](../people/dick-wells.md), [Half Day, Illinois](../regions/half-day-ataa-maremont.md) and [Woodward's ordinances](../cruising/woodward-ordinances.md).
-
+Three more threads grew outside this section, in Nebraska, Illinois and Michigan: [Dick Wells](../people/dick-wells.md), [Half Day, Illinois](../regions/half-day-ataa-maremont.md) and [Woodward's ordinances](../cruising/woodward-ordinances.md).
 
 ## Where we could not go yet
 
-Digitized local newspapers hold the best period coverage of hot rod arrests, club safety drives and lakes records. In Round 11 several of those archives refused automated access (see the [Research Trail](../research-trail.md)); we did not work around the blocks. Those archives are the top lead for the next rounds.
+Digitized local newspapers hold the best period coverage of hot rod arrests, club safety drives and lakes records. Several of those archives refused automated access (see the [Research Trail](../research-trail.md)), and we did not work around the blocks. The ones that stayed shut are still the top lead for the next rounds.
 
-**Update, Round 12:** three archives did work, and they changed what we could read: Internet Archive's full-text search and page OCR (it holds NewspaperArchive's *Escanaba Daily Press* and period safety and trade journals), Hoosier State Chronicles (Indiana), and per-page OCR from Historic Oregon Newspapers. The blocked archives stayed blocked, and we still do not work around them. See [Grassroots Sources](sources.md#digitized-newspaper-archives-access-status).
+The good news: three archives did work, and they changed what we could read: Internet Archive's full-text search and page OCR (it holds NewspaperArchive's *Escanaba Daily Press* and period safety and trade journals), Hoosier State Chronicles (Indiana), and per-page OCR from Historic Oregon Newspapers. The blocked archives stayed blocked, and we still do not work around them. See [Grassroots Sources](sources.md#digitized-newspaper-archives-access-status).

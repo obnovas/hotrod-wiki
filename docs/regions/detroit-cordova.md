@@ -27,6 +27,8 @@ Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the A
 
 **⚠ Closing:** "end of 1997" (Detroit Dragway heritage site) vs "1998" (News-Herald, 2011).[^dd][^nh]
 
+**Period evidence:** Chilton's *Motor Age* (June 1955, sponsor-written) calls the October 1954 Lawrenceville meet the "first annual" World Series, says it drew about 350 hot rodders and 10,000 spectators, and says the second annual was set for "August 17 through 21," with the Motor City Modifiers of Detroit expected to bring 30 to 40 cars. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
+
 ## Images
 
 <figure markdown>
@@ -43,8 +45,6 @@ Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the A
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [RememberMichigan: Detroit Dragway radio spots, 1964–73 (audio)](http://www.remembermichigan.com/dragway.aspx?id=1335&type=6)
-
-**Period evidence (Round 12):** Chilton's *Motor Age* (June 1955, sponsor-written) calls the October 1954 Lawrenceville meet the "first annual" World Series, says it drew about 350 hot rodders and 10,000 spectators, and says the second annual was set for "August 17 through 21," with the Motor City Modifiers of Detroit expected to bring 30 to 40 cars. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
 
 [^cp]: Competition Plus, "Quad Cities Drag Racing Legend Bob Bartel Passes." https://competitionplus.com/quad-cities-drag-racing-legend-bob-bartel-passes/
 [^ch]: Clinton Herald, "Cordova Dragway Park carries on a popular pastime." https://www.clintonherald.com/archives/cordova-dragway-park-carries-on-a-popular-pastime/article_bbc6f1b7-2b04-5f8c-8f35-d53d319b7ca5.html

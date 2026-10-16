@@ -38,7 +38,7 @@ What this tells us:
 - **Fund-raising looked like any other club's.** A winter car wash, with a notice that gave the club's name as "Road Runners."
 - **The club's spelling varies.** "Roadrunners" in one notice, "Road Runners" in the others.
 
-⚠ **Which "national Hot Rod club"?** The September 12 notice says a "chapter of the national Hot Rod club." No such organization is named, and there were several by 1956 (the NHRA among them). We do not know whether Decatur ever received a charter. ◐
+⚠ **From the detective's notebook: which "national Hot Rod club"?** The September 12 notice says a "chapter of the national Hot Rod club." No such organization is named, and there were several by 1956 (the NHRA among them). We do not know whether Decatur ever received a charter. ◐
 
 **What we could not find.** After the February 1957 car wash we found no item about the Road Runners. Whether they raced, built a strip or faded is unknown.
 

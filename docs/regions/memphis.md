@@ -36,6 +36,8 @@ Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NS
 
 We looked for a documented link between Sun Records-era musicians and Memphis builders or clubs and **found none**. We aren't going to invent one. The photo below shows the place and the period only.
 
+**The 1954 World Series:** Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
+
 ## Images
 
 <figure markdown>
@@ -53,8 +55,6 @@ We looked for a documented link between Sun Records-era musicians and Memphis bu
 
 - [Memphis Rodders history photos (Klyce Motors 1952)](http://www.memphisrodders.com/)
 - [carnut.com Memphis Nationals photos](https://www.carnut.com/show/nats75/memind.html)
-
-**1954 World Series (Round 12):** Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
 
 [^mr]: Memphis Rodders, club history. http://www.memphisrodders.com/
 [^mth]: Memphis Tech High School history site, "Ray Godman." https://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html

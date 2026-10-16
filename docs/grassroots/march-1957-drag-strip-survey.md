@@ -29,7 +29,7 @@ The second claim is a broader version of the "accident-free season" the ATAA's 1
 ## The Denver puzzle
 One item reads like a headline in itself: a drag strip near Denver "is being built by the county commission with public funds. At the same time, an ordinance expressly forbidding drag racing on city streets is expected to be passed by the city council."[^mmt] The writer sets it against cities that "oppose drag strips vigorously," and notes that "in some, public funds have been used to build hot rod racing facilities."[^mmt]
 
-⚠ **We could not identify that strip.** The Denver sources we found describe different projects:
+⚠ **From the detective's notebook: we could not identify that strip.** The Denver sources we found describe different projects:
 
 - The Denver Hot Rod Club (the Strippers) and the Denver Timing Association "promoted safe drag racing in the Denver area in the early and mid '50s," according to a club member's recollection that credits them with helping to build **Continental Divide Raceway**, which opened in 1959.[^strip] ◐
 - Continental Divide was announced in 1956 as a sports complex, the project of Colorado Motor Raceway Inc., which the site says had gone under by 1957. Denver millionaire Sid Langsam bought out the company in March 1959 and opened the half-mile drag strip on **July 19, 1959**, with 8,600 fans and 250 entries.[^rc]
@@ -39,7 +39,7 @@ None of these says a county commission used public money for a strip in 1957. Th
 
 ## What the survey shows
 - **No consensus.** The same month, one city was paying for facilities and another was passing ordinances.
-- **The vocabulary.** "Shot rodder" and "hot rodder" were by then safety-publicity terms in every paper. (A 1954 book review in Greencastle, Indiana, uses the same split. See [Hoosier Roadrunners](indiana-small-town-clubs.md).)
+- **The vocabulary.** "Shot rodder" and "hot rodder" were by then safety-publicity terms in every paper. (A 1954 book review in Greencastle, Indiana, uses the same split. See [Hoosier Road Runners](indiana-small-town-clubs.md).)
 - **The sponsor's role.** The ATAA's founder is the only named defender in the story. The police and safety voices are the critics.
 - **A local paper's role.** The *Medford Mail Tribune* printed it on page 6, beside a United Press "Quotes From the News" column. Only the scanned OCR was read, and the left-to-right column order is scrambled. We quote only phrases that read cleanly. ◐
 

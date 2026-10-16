@@ -25,7 +25,7 @@ A *Detroit News* feature from 2023, which we could read only as a search-result 
 ## The next blow
 The museum calls the 1967 "road rage murder of 18-year-old Michael Sass" the "last blow to mid-20th century cruising culture along Woodward."[^bham] We have no other source on that case. ◐
 
-## What the sources do not give us
+## What the sources don't tell us
 - **Ordinance text.** We have no ordinance number, text, vote count or penalty for any 1960s Woodward-corridor ordinance. A Birmingham city clerk's record or a city commission minute book would settle it.
 - **Ferndale and Pontiac.** We found nothing for either city.
 - **What "banning" did.** Birmingham's 1966 law is described as a ban on drive-ins. Whether it also restricted cruising or loitering is not stated.
@@ -39,7 +39,7 @@ The Dream Cruise began in 1995 as a Ferndale soccer-field fundraiser, according 
 
 The same paper describes the 2022 cruise as "the world's largest one-day automotive event," drawing "up to 1.5 million people" and 40,000 classic cars over a 16-mile route from Ferndale to Pontiac.[^op22]
 
-## Why this matters for the wiki
+## Why Woodward is the odd one out
 Most of our cruising pages describe bans: Modesto's 1990 ordinances, Whittier Boulevard's 1979 closure, Van Nuys's barricades. Woodward's story is different. The 1960s measures these sources describe went after the drive-in restaurants where teenagers gathered, and the museum adds that cities also began "cracking down on cruisers." Yet the avenue itself stayed open, and a pastime that cities once tried to shut down became a tourist event that they now police by the season. Compare [Modesto](modesto.md) and [Whittier Boulevard](whittier-blvd.md).
 
 [^bham]: "Transportation and Transformation: Shaping Birmingham and its People," Birmingham Museum, City of Birmingham, Mich. (exhibit text). https://bhamgov.org/about_birmingham/city_history/birmingham_museum/museum_exhibits/read_more_about_transportation_and_transformation_here.php (accessed 2026-10-15)

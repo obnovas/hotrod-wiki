@@ -45,7 +45,7 @@ The Drag-n's wanted a drag strip, and the paper says where. It was "a quarter mi
 
 The one event we can document is smaller. A notice on **May 21, 1955** says the club would sponsor "a road race to test speed judgment" on Sunday, May 22, starting at noon from the clubhouse. Only members could enter, "although the public is invited to attend," and prizes would be awarded.[^may21] That is a judgment test, not a timed drag run, which fits the club's safety message. We found no report of the result.
 
-**What we could not find.** We searched the readable *Escanaba Daily Press* issues from late April through June 1955 for the strip, the auto show and the race results and found nothing. The July–August issues we tried returned errors, and not every day is in the archive. The OCR also misses words. Treat the strip and the auto show as plans, not events. ◐
+**From the detective's notebook: what we could not find.** We searched the readable *Escanaba Daily Press* issues from late April through June 1955 for the strip, the auto show and the race results and found nothing. The July–August issues we tried returned errors, and not every day is in the archive. The OCR also misses words. Treat the strip and the auto show as plans, not events. ◐
 
 ## Where this fits
 - **The wire story that came first.** In July 1954 the same paper ran a feature headed "Hot Rodders Playing It Safe" about the Chicago-area Automobile Timing Association of America, with the line that the group came into being in 1953. See [Half Day, Illinois](../regions/half-day-ataa-maremont.md).
