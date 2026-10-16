@@ -10,7 +10,7 @@
 
     — C.J. Hart, National Dragster interview, 2001 (quoted by NHRA.com, 2004). [Full context in Voices](../voices/harts-santa-ana.md)
 
-## Routed by bayonets { #routed-by-bayonets }
+## Routed by bayonets
 
 In the late 1940s, Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled the good part: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" The bad part came one Sunday, when a company of U.S. Marines with fixed bayonets ran them off.[^mshf] ◐ *Single source (the Hall of Fame biography); we have not found a period report.*
 
