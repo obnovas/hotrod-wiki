@@ -1,6 +1,6 @@
 # Patents by Hot Rod Figures
 
-These patents were found in Google Patents by searching inventor and assignee names in Round 4. Every row links to the full record. The **Identity** column says how sure we are that the inventor is the hot-rod figure. **Confirmed** means the patent text itself gives a residence or company that matches. A name match is not proof: common names have namesakes.
+We found these patents in Google Patents by searching inventor and assignee names in Round 4. Every row links to the full record. The **Identity** column says how sure we are that the inventor is the hot-rod figure. **Confirmed** means the patent text itself gives a residence or company that matches. A name match is not proof: common names have namesakes.
 
 !!! note "Not found"
     We found no patent under George Riley (searches return only an unrelated George H. Riley sanding device), Howard Johansen, or Joe Hrudka. A null search result does not prove that none exists.

@@ -1,5 +1,7 @@
 # Research Trail: The Investigator's Log
 
+*Where the case stands: the rules we follow each round, what we found, and the leads still open.*
+
 ## Standing standard for every nightly round (set in Round 11)
 1. **Highlights.** Each round adds **2-4 entries** to [`docs/data/highlights.yml`](https://github.com/obnovas/hotrod-wiki/blob/main/docs/data/highlights.yml) for the home-page slider, and **at least half** must be grassroots (local news, oral history, obituaries, club newsletters and club-run pages, municipal records, historical markers, family accounts, local-history sites). Teasers state only what the article states, with the same hedges and a verbatim `evidence` phrase from the article.
 2. **Rotation.** The slider shows the newest 16 by date added. Older entries move to the [Highlights archive](highlights-archive.md) automatically; nothing is deleted.

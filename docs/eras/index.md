@@ -1,4 +1,7 @@
 # Eras
+
+*From the dry lakes to Pro Street.* The table is a map: start anywhere. Status says how far along each chapter is.
+
 | Era | Articles | Status |
 |---|---|---|
 | 1920s–30s: Muroc & the prewar lakes | [Dry Lakes & the SCTA](1930s-dry-lakes-scta.md) | started |
