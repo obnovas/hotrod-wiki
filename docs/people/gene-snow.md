@@ -1,4 +1,6 @@
-# Gene Snow: Fort Worth's *Rambunctious* and the First 200-mph Funny Car
+# Gene Snow: Win on Sunday, Sell on Monday
+
+*Fort Worth's* Rambunctious *and the first 200-mph Funny Car*
 
 !!! abstract "Article record"
     **Confidence:** Medium–High · **Source types:** NHRA Top 50 bio (Snow quoted), NHRA National Dragster history column, *Hot Rod* June 1969 feature (period tech sheet), UPI 1988 wire, Wikipedia (◐) · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ Date of the first 200.88-mph pass (Aug 17, 1968 vs "early 1969" vs "autumn 1969"); no timing slip seen · [How we rate this](../reference/source-standards.md)
@@ -8,25 +10,34 @@
 
     — Gene Snow, quoted in John Jodauga's NHRA Top 50 profile (No. 26, 2001). [More in Voices](../voices/strip-owners-and-door-slammers.md)
 
-**Gene "the Snowman" Snow** was a Fort Worth used-car dealer who raced cars off his own lot. He became one of the early Funny Car's most technical drivers. His Logghe-chassis Dodge Charger *Rambunctious* made the class's first 200-mph pass at Don and Carl Gay's track in Dickinson, Texas, the [Houston Freeway Dragstrip](../regions/houston-freeway-dragstrip.md). He also ran the first official 200-mph Funny Car pass at an NHRA national event (Dallas, May 3, 1970).[^top50][^nd16]
+Gene Snow's sales method was to race cars off his own lot. "I would win a race with a dealership car on Sunday and usually sold the winning entry the next day."[^top50]
 
-## Win on Sunday, sell on Monday
-- Snow left the University of Texas at Arlington after three years of electrical engineering. "I did that because I could make more money [selling used cars] than what engineers were making at General Dynamics," he told NHRA.[^top50]
-- He went into partnership with **L.G. Melton** in Fort Worth and raced cars from the lot to promote sales: "I would win a race with a dealership car on Sunday and usually sold the winning entry the next day."[^top50]
-- His progression: a 348 '58 Chevy Impala, a new 409 Chevy (1962), then a 413 '62 Plymouth Sport Fury midseason, which began the **Rambunctious** Chrysler line. Next came a '63 Max Wedge 426 Dodge and a '64 426 Hemi Dodge.[^top50]
+**Gene "the Snowman" Snow** was a Fort Worth used-car dealer who became one of the early Funny Car's most technical drivers. His Logghe-chassis Dodge Charger *Rambunctious* made the class's first 200-mph pass at Don and Carl Gay's track in Dickinson, Texas, the [Houston Freeway Dragstrip](../regions/houston-freeway-dragstrip.md). He also ran the first official 200-mph Funny Car pass at an NHRA national event (Dallas, May 3, 1970).[^top50][^nd16]
+
+## From engineering to the used-car lot
+
+Snow left the University of Texas at Arlington after three years of electrical engineering. "I did that because I could make more money [selling used cars] than what engineers were making at General Dynamics," he told NHRA.[^top50]
+
+He went into partnership with **L.G. Melton** in Fort Worth and raced cars from the lot to promote sales.[^top50] His progression: a 348 '58 Chevy Impala, a new 409 Chevy (1962), then a 413 '62 Plymouth Sport Fury midseason, which began the **Rambunctious** Chrysler line. Next came a '63 Max Wedge 426 Dodge and a '64 426 Hemi Dodge.[^top50]
 
 ## The altered-wheelbase Dart (1965–68)
-- In 1965 Snow began racing against the new Funny Cars in an **altered-wheelbase Dodge Dart built by fellow Texan Don Hardy**. The chassis was lengthened in 1966 to improve handling.[^top50][^nd16]
-- NHRA did not yet recognize Funny Cars, so the Dart ran as a **C/Fuel Dragster** in Competition eliminator. Snow won Comp at the **1966 Nationals** (9.04) and the new **Super Eliminator** at the 1967 Nationals (8.67).[^top50][^nd16]
-- At the **1968 Winternationals** he switched to gasoline and won **B/Altered** class and Comp.[^top50]
-- The photographs below, which the uploader dates to Austin, Texas, 1967, show the Dart with "Engine by Ted Detar" lettering and a tilt front end. ◐ *The uploader's ID and date; we have not checked them against a race program.*
+
+In 1965 Snow began racing against the new Funny Cars in an **altered-wheelbase Dodge Dart built by fellow Texan Don Hardy**. The chassis was lengthened in 1966 to improve handling.[^top50][^nd16]
+
+NHRA did not yet recognize Funny Cars, so the Dart ran as a **C/Fuel Dragster** in Competition eliminator. Snow won Comp at the **1966 Nationals** (9.04) and the new **Super Eliminator** at the 1967 Nationals (8.67).[^top50][^nd16] At the **1968 Winternationals** he switched to gasoline and won **B/Altered** class and Comp.[^top50]
+
+The photographs below, which the uploader dates to Austin, Texas, 1967, show the Dart with "Engine by Ted Detar" lettering and a tilt front end. ◐ *The uploader's ID and date; we have not checked them against a race program.*
 
 ## Direct drive and the Logghe Charger
-- Snow ran a supercharged '68 Dart, then a '68 Charger body, and dropped the automatic transmission for direct drive. "We worked with Crower to come up with a four-disc Crowerglide centrifugal clutch," he said. "Though it was sluggish off the line, it would mow down the automatic cars, which always nosed-over at about 185 mph."[^top50]
-- National Dragster's Phil Burgess places the direct-drive experiments in **late 1968 and into 1969**.[^nd16]
-- ***Hot Rod*, June 1969** (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic **Jake Johnston** "a job lasting nearly two months and involving over $13,000." Its "backbone" was a **Logghe Stamping Company chassis** on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).
+
+Snow ran a supercharged '68 Dart, then a '68 Charger body, and dropped the automatic transmission for direct drive. "We worked with Crower to come up with a four-disc Crowerglide centrifugal clutch," he said. "Though it was sluggish off the line, it would mow down the automatic cars, which always nosed-over at about 185 mph."[^top50] National Dragster's Phil Burgess places the direct-drive experiments in **late 1968 and into 1969**.[^nd16]
+
+***Hot Rod*, June 1969** (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic **Jake Johnston** "a job lasting nearly two months and involving over $13,000." Its "backbone" was a **Logghe Stamping Company chassis** on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).
 
 ## The first 200 mph: one pass, three dates ⚠
+
+The pass itself is not in dispute. The date is.
+
 | Source | Date given for the 200.88 at Dickinson |
 |---|---|
 | NHRA Top 50 (Jodauga, 2001) | **Aug. 17, 1968**; "that fall" 205.46 at OCIR; 213.78 in Sept 1969[^top50] |
@@ -38,13 +49,20 @@
 **The official one:** match-race times were "considered somewhat unofficial," so the first NHRA national-event 200-mph Funny Car pass was Snow's **7.23/208.71 at the Springnationals, Dallas International Motor Speedway, May 3, 1970**.[^top50][^nd16] Wikipedia's article on the car calls it "NHRA's first official 200 mph pass," citing Bob McClurg in *Drag Racer* (Nov 2016).[^wpr] ◐
 
 ## 1970: the "Super Season"
+
 In 1970, the year NHRA expanded to seven national events, Snow won the **Summernationals** (York, Pa.), the **World Finals** (Dallas) and the postseason **Supernationals** (Ontario). He was runner-up at the Winternationals and Springnationals and also won the **AHRA** championship and its Driver of the Year award. He ran 6.76/218.44 at Lions late in the season. "We carried a spare motor the whole year and never had to use it," he said.[^top50][^nd16]
 
 ## Teams, Top Fuel, and the first four
-- **1971:** one of the first multicar teams, with two mini-Chargers, Jake Johnston driving the second. Then came the **Revell Snowman** colors for a 1/16 kit (1972), a Top Fueler for Chip Woodall, and an injected car for Terry Pringle.[^top50]
-- He left racing after 1978, blaming the gas crisis and poor seasons, and returned in **Top Fuel in 1981**. With Bob Brooks at AFT he developed a direct-drive Top Fuel setup.[^top50]
-- **Oct. 6, 1988, Houston Raceway Park, Baytown:** a **4.997/279.06** on his first pass at the new track, the first sub-five-second run at an NHRA event. "It was neat, it was fun and we've been trying for a long time to achieve this performance," he told UPI.[^upi] (Houston Raceway Park was co-founded by the Gay family. See [Houston Freeway](../regions/houston-freeway-dragstrip.md).)
-- He retired after a crash at the 1992 Dallas national event and returned in 1997 with an A/Fuel dragster run "on a hobby basis."[^top50]
+
+In **1971** Snow ran one of the first multicar teams, with two mini-Chargers and Jake Johnston driving the second. Then came the **Revell Snowman** colors for a 1/16 kit (1972), a Top Fueler for Chip Woodall, and an injected car for Terry Pringle.[^top50]
+
+He left racing after 1978, blaming the gas crisis and poor seasons, and returned in **Top Fuel in 1981**. With Bob Brooks at AFT he developed a direct-drive Top Fuel setup.[^top50]
+
+On **Oct. 6, 1988, at Houston Raceway Park, Baytown**, he ran a **4.997/279.06** on his first pass at the new track, the first sub-five-second run at an NHRA event. "It was neat, it was fun and we've been trying for a long time to achieve this performance," he told UPI.[^upi] (Houston Raceway Park was co-founded by the Gay family. See [Houston Freeway](../regions/houston-freeway-dragstrip.md).)
+
+He retired after a crash at the 1992 Dallas national event and returned in 1997 with an A/Fuel dragster run "on a hobby basis."[^top50]
+
+## Loose ends
 
 **Life dates:** We found no verified obituary for this Gene Snow. A 2018 obituary for a "Thomas Eugene 'Gene' Snow" of Florida is **a different man**, and we do not use it.
 

@@ -1,4 +1,6 @@
-# Al Bergler: Detroit Tin Man, First Ridler, Motown Shaker
+# Al Bergler: The Tin Man Who Bent It Himself
+
+*Detroit builder, first Ridler winner, Motown Shaker*
 
 !!! abstract "Article record"
     **Confidence:** Medium–High · **Source types:** Hagerty interview (2024), MMSHOF bio · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Exact shop street numbers; Motown Shaker chassis serials · [How we rate this](../reference/source-standards.md)
@@ -8,32 +10,38 @@
 
     — Al Bergler on learning aluminum work on a 4-inch pipe, Hagerty, Feb 2024. [Voices](../voices/injection-and-tin.md)
 
+When a Logghe-associated aluminum man quoted **$300** for a digger nose (three weeks' body-shop pay), Al Bergler bent the piece himself over a **4-inch pipe**, and soon did "almost all the aluminum work for Logghe-built dragsters and funny cars."[^hag] MMSHOF: he did the interior tinwork on Logghe Bros. cars.[^mms]
+
 **Al Bergler** (Detroit-born; still building in Shelby Township, Mich., as of Hagerty's Feb 2024 visit at age 87) is the fabricator whose aluminum interiors finished countless [Logghe](../companies/logghe-stamping.md) diggers and Funny Cars, the winner of the **first Don Ridler Memorial Award** (Detroit Autorama, **1964**), and the campaigner of the **Motown Shaker** Funny Cars through the match-race era.[^hag][^mms]
 
 ## Gratiot Avenue kid
-- About age five in **1941**, already playing with wheeled toys (family photo caption).[^hag]
-- Age 16 (**1950**): bought a **'41 Ford convertible** for $75 borrowed from grandparents after polishing cars at a Gratiot used-car lot for 50¢/hour; also sold peanuts at Motor City Speedway.[^hag]
-- Left Pershing High for **Washington Trade School**—mornings academics, afternoons welding and sheetmetal. Chopped a teacher's **'36 Ford** in his last semester.[^hag]
 
-## Aggravation to Ridler
-Early builds: '34 Ford (top cut off, stock Chrysler Hemi, six Strombergs); rear-engine Crosley **"The Exterminator"**; then Bantam-bodied competition coupes.[^hag]
+About age five in **1941**, he was already playing with wheeled toys (family photo caption).[^hag] At 16 (**1950**) he bought a **'41 Ford convertible** for $75 borrowed from grandparents, after polishing cars at a Gratiot used-car lot for 50¢/hour; he also sold peanuts at Motor City Speedway.[^hag]
 
-- First Bantam coupe **Aggravation**: Chassis Research kit rails, a Logghe front axle, near-stock blown Chrysler; ran the **1960** U.S. Nationals in Detroit and Detroit Dragway.[^hag]
-- **Aggravation II**: new Logghe chassis, stroker blown Chrysler bought from Connie Kalitta, Bantam body, Bergler's own finish work. Won the **first Ridler Award** at the **1964** Detroit Autorama; on the strip, Super Eliminator and Best Appearing at the **1966** NHRA SpringNationals (8.10 / 184 mph on gasoline cited by Hagerty). ◐[^hag][^mms]
-- MMSHOF also records Division 3 Super Eliminator points (**1966**), World Finals runner-up (**1966**), and the P.A. Sturtevant Mechanic Hall of Fame award (**1966**).[^mms]
-- A later '23 T-based coupe with canopy won competition coupe and Best Appearing at the **1967** Winternationals; Super Eliminator at the **1967** SpringNationals (MMSHOF/Hagerty).[^hag][^mms]
-
-## Learning tin on a four-inch pipe
-When a Logghe-associated aluminum man quoted **$300** for a digger nose (three weeks' body-shop pay), Bergler bent the piece himself over a **4-inch pipe**—and soon did "almost all the aluminum work for Logghe-built dragsters and funny cars."[^hag] MMSHOF: he did the interior tinwork on Logghe Bros. cars.[^mms]
+He left Pershing High for **Washington Trade School**: mornings academics, afternoons welding and sheetmetal. He chopped a teacher's **'36 Ford** in his last semester.[^hag]
 
 A brief shop on Gratiot hosted touring racers (Tom Ivo worked nights with loud music; neighbors complained; Bergler lost the lease). Later he worked from a shop on **Groesbeck**, around the corner from Logghe.[^hag]
 
+## From Aggravation to Ridler
+
+Early builds were a '34 Ford (top cut off, stock Chrysler Hemi, six Strombergs); a rear-engine Crosley **"The Exterminator"**; then Bantam-bodied competition coupes.[^hag]
+
+His first Bantam coupe, **Aggravation**, had Chassis Research kit rails, a Logghe front axle and a near-stock blown Chrysler. It ran the **1960** U.S. Nationals in Detroit and Detroit Dragway.[^hag]
+
+**Aggravation II** had a new Logghe chassis, a stroker blown Chrysler bought from Connie Kalitta, a Bantam body and Bergler's own finish work. It won the **first Ridler Award** at the **1964** Detroit Autorama; on the strip, Super Eliminator and Best Appearing at the **1966** NHRA SpringNationals (8.10 / 184 mph on gasoline cited by Hagerty). ◐[^hag][^mms]
+
+MMSHOF also records Division 3 Super Eliminator points (**1966**), World Finals runner-up (**1966**), and the P.A. Sturtevant Mechanic Hall of Fame award (**1966**).[^mms] A later '23 T-based coupe with canopy won competition coupe and Best Appearing at the **1967** Winternationals, and Super Eliminator at the **1967** SpringNationals (MMSHOF/Hagerty).[^hag][^mms]
+
 ## Motown Shaker
-- **1971:** Vega-bodied Funny Car on a Logghe chassis with Tom Prock; name inspired by Pete Seaton's **"Seaton's Shaker."** Prock left; **Butch Maas** drove the Coca-Cola Cavalcade circuit in **1972**[^mms]; Bergler drove more from **1973**, with Mustang, then Corvette (**~1977**), then Firebird (**~1980**) bodies.[^hag]
-- Match-race regular (U.S. 30 Gary, Ind., Wednesday night eight-car shows). Retired from driving about **1983** when match-race money dried up.[^hag][^mms]
-- NHRA Hot Rod Reunion honoree (**2004**); MMSHOF **2006**; International Drag Racing Hall of Fame; NHRA Lifetime Achievement (Hagerty summary).[^hag][^mms]
+
+In **1971** came the Vega-bodied Funny Car on a Logghe chassis with Tom Prock, with a name inspired by Pete Seaton's **"Seaton's Shaker."** Prock left; **Butch Maas** drove the Coca-Cola Cavalcade circuit in **1972**;[^mms] Bergler drove more from **1973**, with Mustang, then Corvette (**~1977**), then Firebird (**~1980**) bodies.[^hag]
+
+He was a match-race regular (U.S. 30 Gary, Ind., Wednesday night eight-car shows) and retired from driving about **1983** when match-race money dried up.[^hag][^mms]
+
+Honors: NHRA Hot Rod Reunion honoree (**2004**); MMSHOF **2006**; International Drag Racing Hall of Fame; NHRA Lifetime Achievement (Hagerty summary).[^hag][^mms]
 
 ## Still at the pipe
+
 As of early 2024 he still worked four–five hours a day in a pole-barn shop behind his Shelby Township home, bending aluminum on the same pipe-bench setup, with old Logghe hand **Bob Pacitto** among regular visitors. He has restored and "cackled" Aggravation II and other period cars; the Ridler coupe is in a Nebraska motorsports museum per Hagerty.[^hag]
 
 **See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Detroit Dragway & Cordova](../regions/detroit-cordova.md), [Show Circuit](../customs/show-circuit.md), [Injection & Tin voices](../voices/injection-and-tin.md).
