@@ -30,6 +30,10 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Medford Mail Tribune](https://oregonnews.uoregon.edu/lccn/sn97071090/1957-03-19/ed-1/seq-6/) (Oregon, Mar 19, 1957; page OCR) → a United Press survey of cities and safety groups on drag strips → [March 1957 survey](../drag-racing/march-1957-drag-strip-survey.md).
 - [The Oakland Press](https://www.theoaklandpress.com/2014/07/07/police-step-up-enforcement-on-woodward-cruisers/) (Royal Oak, 2014 and 2022) → ticket counts, parking-lot enforcement and Operation Decrescendo on Woodward → [Woodward ordinances](../places/woodward-ordinances.md).
 
+- [Times-News](https://archive.org/details/The_Times_News_Idaho_Newspaper_1957_06_30) (Twin Falls, Idaho, 1957–72; scanned OCR) → the "drag strip" editorial, fines, the Magic Valley Timing Association and its strip lease → [Twin Falls](../places/twin-falls-main-avenue.md).
+- [Harrisburg Daily Register](https://archive.org/details/harrisburg-daily-register-1957-08-29) (Illinois, 1954 and 1957) → a tombstone blamed on drag-car ballast, and *Street Rod* installments → [Twin Falls](../places/twin-falls-main-avenue.md), [*Street Rod* serial](../media/street-rod-newspaper-serial.md).
+- [Hope Star](https://archive.org/details/hope-star-1954-05-29) (Arkansas, 1954) → *Street Rod* installments, including the city-council scene → [*Street Rod* serial](../media/street-rod-newspaper-serial.md).
+
 ### Obituaries and funeral-home pages
 - [Wendt Funeral Home](https://www.wendtfuneralhome.com/obituaries/robert-j-bartel) (Bob Bartel, 2018) → birthplace, marriage, the 1956 Cordova farm purchase → [Bob Bartel](../people/bob-bartel.md).
 - [Pike County Courier](https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961) (Almquist, 2015) → the 1947 founding date that conflicts with Hemmings → [Ed Almquist](../people/ed-almquist.md).
@@ -73,9 +77,13 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Denver Public Library, "Colorado Auto Racing: A Brief History"](https://history.denverlibrary.org/news/colorado-auto-racing-brief-history) (library blog, 2016) → Bandimere Speedway's 1958 opening and its parts-store origin → [March 1957 survey](../drag-racing/march-1957-drag-strip-survey.md).
 
 
+### School yearbooks and student newspapers
+- [Classmates.com yearbook scans on the Internet Archive](https://archive.org/details/classmates-yearbook-32257-1963-southeast-guilford-high-school) (1955–63: Pensacola, Chillicothe, Portland's Central Catholic, Fort Collins, Tillamook, Imbler, Shawnee Mission, Southeast Guilford) → club rosters, senior entries, a class will and a school paper's car column → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
+
 ### Forum recollections
 - [H.A.M.B., "Lake Street (Mpls, MN) in the 60s"](https://www.jalopyjournal.com/forum/threads/lake-street-mpls-mn-in-the-60s.341268/) → anonymous cruisers' memories → [Lake Street & University](../places/lake-street-university.md).
 - [Lone Star Speedzone, "DRAG-UNS"](https://www.lonestarspeedzone.com/topic/47203-drag-uns/) → a Kerrville police-sponsored club; flagged ◐ → [City planners, 1955](../drag-racing/planners-report-1955.md).
+- [NSRA (UK) forum, "Gasser Fans"](https://forum.nsra.org.uk/archive/index.php/t-28331.html) (May 2009; search excerpt only) → a post dated before May 27 reporting Chuck Finders's death, used to resolve his death date → [Ohio Gassers](../places/ohio-gassers.md).
 
 ## Where we could not go yet
 Digitized local newspapers hold the best period coverage of hot rod arrests, club safety drives and lakes records. Several of those archives refused automated access (see the [Research Trail](../research-trail.md)), and we did not work around the blocks. The ones that stayed shut are still the top lead for the next rounds. The access table below says which archives worked and which did not.
@@ -101,6 +109,15 @@ These hold the period coverage we most want, and none was readable by our fetche
 | California Digital Newspaper Collection, Illinois Digital Newspaper Collections, NYS Historic Newspapers, Colorado Historic Newspapers, Chronicling America | Still blocked or timing out; not retried beyond one polite attempt. |
 | Washington Digital Newspapers (403), Utah Digital Newspapers (418), DigitalNC and Michigan newspaper sites (connection failures) | Not readable. |
 | *The Detroit News* (2023 feature) | Paywalled (HTTP 402); read only as a search-result excerpt. |
+
+
+### Round 14 status
+| Archive | Round 14 status |
+|---|---|
+| Internet Archive newspaper scans | **Readable.** New runs used: *Times-News* (Twin Falls, Idaho), *Hope Star* (Ark.), *Harrisburg Daily Register* (Ill.). Searching with `year:` works; date-range filters returned errors. |
+| Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
+| Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
+| NSRA (UK) forum | Bot check; search excerpt only. |
 
 
 ## Adding to this catalog

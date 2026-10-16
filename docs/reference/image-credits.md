@@ -146,3 +146,14 @@ Text and drawings in U.S. patents are generally free to reproduce. The USPTO's r
 | `commons-great-bend-airport-usgs-2006.jpg` | USGS orthophoto of Great Bend Municipal Airport, Kan., formerly Great Bend Army Airfield | United States Geological Survey (USGS) | 2006 | [Commons](https://commons.wikimedia.org/wiki/File:Great_Bend_Municipal_Airport_KS_2006_USGS.jpg) | Public domain |
 
 Round 10 reuses `commons-1940-willys-gasser.jpg` and `commons-1941-willys-gasser.jpg` (on [The Ohio Gassers](../places/ohio-gassers.md)) and `commons-akron-fulton-airport.jpg` (on [Akron Fulton](../drag-racing/akron-fulton-airport.md)). **Skipped:** no openly licensed photo of the 2016 Akron marker, the Arfons cars, Bob Bartel or Cordova was found on Commons.
+
+## Added in Round 14
+
+| File | Shows | Creator | Date | Source | License |
+|---|---|---|---|---|---|
+| `commons-twin-falls-main-avenue-postcard.jpg` | Main Avenue, Twin Falls, Idaho, linen postcard (earlier than the 1957–65 events; context only) | Tichnor Brothers, publisher (Boston Public Library, Tichnor Brothers collection #78288) | c. 1930–1945 | [Commons](https://commons.wikimedia.org/wiki/File:Main_Avenue,_Twin_Falls,_Idaho_(78288).jpg) | Public domain |
+| `commons-saline-county-courthouse-harrisburg-1917.jpg` | Saline County Courthouse, Harrisburg, Ill., 1917 (context only) | Unknown (uploaded to English Wikipedia by Ruhe1986; Rootsweb) | 1917 | [Commons](https://commons.wikimedia.org/wiki/File:Harrisburg,_IL_1917_Saline_County_Courthouse.jpg) | Public domain |
+| `commons-central-catholic-high-school-portland.jpg` | Central Catholic High School, Portland, Ore. (home of the 1950s Ram Rods; context only) | Tedder | 2009-06-28 | [Commons](https://commons.wikimedia.org/wiki/File:Central_Catholic_High_School_-_Portland_Oregon.jpg) | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0) |
+| `commons-downtown-hope-arkansas-2010.jpg` | Main Street in Hope, Ark. (the *Hope Star* ran *Street Rod* in 1954; context only) | Jay Cross (Flickr: Hope, Arkansas, Family Council) | 2010-09-18 | [Commons](https://commons.wikimedia.org/wiki/File:Downtown_Hope,_AR.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+
+**Skipped (Round 14):** no openly licensed period photos of the Twin Falls clubs, the Ram Rods or Wilmington Automotive Activities were found; yearbook photos are not reused.

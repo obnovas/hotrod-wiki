@@ -294,3 +294,75 @@ highlights:
     grassroots: true
     added: '2026-10-15'
     eras: [1950s]
+
+  - id: twin-falls-main-avenue-drag-strip
+    headline: Twin Falls' own paper called Main Avenue a "drag strip." Then a club asked for a real one
+    teaser: After a 3-year-old's death in 1957, the Times-News blamed officials for shrugging at street
+      racing, and the police judge raised fines. In 1960 the city voted to lease a timing club a strip site
+      at Joslin Field; we found no sign it was built.
+    link: places/twin-falls-main-avenue.md
+    evidence: [voted unanimously, heavier fines]
+    source_type: Local news
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-16'
+    eras: [1950s, 1960s]
+    regions: ["Twin Falls, Idaho"]
+    image: commons-twin-falls-main-avenue-postcard.jpg
+    image_alt: Linen postcard of Main Avenue, Twin Falls, Idaho, with storefronts and parked cars
+    image_note: Postcard from about 1930–45, before these events
+
+  - id: harrisburg-tombstone-drag-car
+    headline: A missing tombstone, blamed on a drag racer who wanted more weight
+    teaser: In 1957 a southern Illinois paper reported a stone missing from a monument works; a man quoted
+      in the item thought it was taken to "add weight" to a drag car run on Liberty road. One small item,
+      and we found no follow-up.
+    link: places/twin-falls-main-avenue.md#the-nickname-traveled
+    evidence: add weight
+    source_type: Local news
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-16'
+    eras: [1950s]
+    regions: ["Harrisburg, Ill."]
+    image: commons-saline-county-courthouse-harrisburg-1917.jpg
+    image_alt: Saline County Courthouse in Harrisburg, Illinois, in 1917
+    image_note: 1917 photo, forty years earlier
+
+  - id: ram-rods-nut-that-holds-the-wheel
+    headline: A high school car club inspected classmates' cars. Then the school paper scolded the drivers
+    teaser: Portland's Central Catholic Ram Rods sponsored a Safe-Teen safe-driving campaign. The paper's
+      editorial joked about rubber strips on the pavement and said the inspectors should have checked "the
+      nut that holds the wheel."
+    link: drag-racing/high-school-hot-rod-clubs.md#the-ram-rods-of-24th-and-stark
+    evidence: nut that holds the wheel
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-16'
+    eras: [1950s]
+    regions: ["Portland, Ore."]
+    image: commons-central-catholic-high-school-portland.jpg
+    image_alt: Brick facade of Central Catholic High School in Portland, Oregon
+    image_note: 2009 photo of the school
+
+  - id: street-rod-small-town-serial
+    headline: A 1953 hot rod novel ran as a daily serial in small-town papers
+    teaser: NEA syndicated Henry Gregor Felsen's Street Rod in 1954, from Escanaba to Hope, Arkansas, where
+      readers watched a teen timing association pitch a strip to the mayor. Which Felsen book carries his
+      Iowa Timing Association dedication is disputed.
+    link: media/street-rod-newspaper-serial.md
+    evidence: [Distributed by NEA Service, Iowa Timing Association]
+    source_type: [Archive, Trade press]
+    confidence: Medium-High
+    flag: conflict
+    grassroots: false
+    added: '2026-10-16'
+    eras: [1950s]
+    regions: ["Escanaba, Mich. / Hope, Ark."]
+    image: commons-downtown-hope-arkansas-2010.jpg
+    image_alt: Main Street in downtown Hope, Arkansas
+    image_note: 2010 photo

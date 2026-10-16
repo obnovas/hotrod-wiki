@@ -3,7 +3,7 @@
 *Cleveland, Dayton, Columbus and the door-slammer Midwest*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; ⚠ Chuck Finders death date (May 17 vs 27, 2009); Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-10-16 (Round 14) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; Chuck Finders's death date resolved as May 17, 2009 (Round 14); Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I'd pay a thousand bucks for a tenth of a second!"
@@ -54,7 +54,7 @@ In **1967**, Ken Kull writes, "I had Chuck come in **from Ohio**," and says Find
 
 In the **1970s** he ran fuel Funny Cars and contended in Division 3. He lost a leg in a late-1970s racing accident. The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys.[^jrt1] ◐
 
-**The dates:** born **July 16, 1939**. ⚠ The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009." May 17, 2009, was a Sunday, so we favor it, pending an obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
+**The dates:** born **July 16, 1939**. The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009."[^jrt1] **Resolved (Round 14): May 17.** May 17, 2009, was a Sunday, and two reports were published before May 27: a UK hot rod forum thread whose first post, dated 19 May 2009, reports his death (seen only as a search excerpt; the forum blocked our fetch ◐), and BangShift's news item "Drag Racing's Chuck Finders Passes," dated May 26, 2009, which also announced a June 7 remembrance at the NHRA Museum.[^nsrauk][^bangshift] "May 27" is most likely a typo. We still haven't found a newspaper obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
 
 ### Gene Schwartz (Cleveland): E/Gas and the blues
 
@@ -108,5 +108,7 @@ Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so mu
 [^ecgm]: Jim Hill, "Gassers Midwest: Fast and Fabulous," East Coast Drag Times Hall of Fame, Aug 4, 2016. Accessed 2026-10-15. https://eastcoastdragtimeshalloffame.com/gassers-midwest-fast-and-fabulous/
 [^ecmg]: Jim Hill, "Mr. Gasket: From The Trunk Of A '57 Chevy To Wall Street," East Coast Drag Times Hall of Fame, Apr 1, 2016. Accessed 2026-10-15. https://eastcoastdragtimeshalloffame.com/mr-gasket-from-the-trunk-of-a-57-chevy-to-wall-street/
 [^hr15]: Jim Hill, "Sportsman Racers Winning Class at Indy Was Their High Mark," *Hot Rod*, Nov 23, 2015. Accessed 2026-10-15. https://www.hotrod.com/news/sportsman-racers-winning-class-at-indy-was-their-high-mark
+[^nsrauk]: "Gasser Fans" thread, NSRA (UK) forum archive; first post dated 19-05-09 reports the death (search excerpt only; the page was behind a bot check). https://forum.nsra.org.uk/archive/index.php/t-28331.html (accessed 2026-10-16)
+[^bangshift]: Brian Lohnes, "Drag Racing's Chuck Finders Passes," BangShift.com, May 26, 2009. https://bangshift.com/general-news/drag-racing-s-chuck-finders-passes/ (accessed 2026-10-16)
 [^jrt1]: JR Thompson, "Gasser Reunion 2002 ~ Chuck Finders," including "Farewell, Chuck Finders" by Chuck Finders Jr. Accessed 2026-10-15. http://www.jrthompson.net/gasserreunionchuckfinders.html
 [^jrthill]: JR Thompson, "Gasser Legends ~ The Hill Bros." (Ken Kull text). Accessed 2026-10-15. http://www.jrthompson.net/hillbroswillys.html

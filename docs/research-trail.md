@@ -10,6 +10,23 @@
 5. **File by topic.** Each new page goes in the one department that matches its subject (see [How the Site Is Organized](taxonomy.md#how-to-choose-a-department)). Sources are shown by the Grassroots badge and the ⚠ and ◐ flags, never by folder. If a page moves, add its old URL to `hooks/redirects.yml`.
 6. **Triage reader mail first.** Open issues labeled `triage` (corrections, source tips, suggestions) are handled before new research: label, verify, add unsettled leads to the breadcrumbs below, credit the reader in the round log, close with a note. See [Contribute](contribute.md) and `CONTRIBUTING.md`.
 
+## Log, Round 14 (Twin Falls; *Street Rod* serial; high school clubs; recreation debate; 2026-10-16)
+- **Reader mail:** no open `triage` issues this round.
+- **New articles:** [Twin Falls, Idaho: The Main Avenue "Drag Strip"](places/twin-falls-main-avenue.md); [*Street Rod* in the Small-Town Paper](media/street-rod-newspaper-serial.md); [Hot Rod Club, Third Row: The High School Car Clubs](drag-racing/high-school-hot-rod-clubs.md); [Would You Rather Have a Picnic? (June 1957)](drag-racing/recreation-1957-pro-and-con.md).
+- **Expanded (additive only):** [The Ohio Gassers](places/ohio-gassers.md) (Chuck Finders's death date); [cruising overview](places/cruising-overview.md) (Twin Falls rows).
+- **Resolved:** Chuck Finders died **Sunday, May 17, 2009**, not May 27; a BangShift item dated May 26, 2009 and a UK forum post dated May 19 both predate the 27th (the forum seen only as a search excerpt ◐).
+- **Found:** a small-town paper calling its own main street a "drag strip" (Twin Falls, 1957), and a downstate Illinois paper using the same nickname for a county road in a missing-tombstone story; a Twin Falls timing association whose city commission voted to lease it a strip site at Joslin Field (1960); NEA serializing Felsen's *Street Rod* in small-town dailies in 1954; school hot rod clubs in yearbooks from Florida to Oregon, including a Portland school paper that praised its car club and then scolded the drivers; a 1957 recreation-journal pro-and-con naming eight sponsoring communities and Wilmington's incorporated club.
+- **New conflicts or single-source flags:** which Felsen book carries the Iowa Timing Association dedication ⚠ (*Street Rod* per scans and a review; *Hot Rod* per a 2009 blog); whether the Joslin Field strip was ever built ◐; the 1960 council story's dollar figure and the judge's name (OCR unreadable); the 1961 Pocatello model years ◐; the Harrisburg tombstone story rests on one item ◐; *Recreation*'s quotes from *Life*, the National Safety Council and others are second-hand ◐.
+- **Blocked or unavailable (not bypassed):** Internet Archive lending-library books (scanned *Street Rod*, Faunce) refuse text download; NSRA (UK) forum bot check.
+
+## Next breadcrumbs (Round 14)
+- **Twin Falls:** *Times-News* 1961–63 for the Joslin Field lease and any strip opening; the Magic Valley Timing Association's later years; the Avenger club; a cleaner scan of the Aug 30, 1960 council story.
+- **Iowa Timing Association:** members, meets and strips before Des Moines Dragway (1957); a first-edition check of the dedications in *Hot Rod* (1950) and *Street Rod* (1953).
+- **Wilmington Automotive Activities:** Delaware newspapers or club records; whether its drag-strip use was at a named strip.
+- **School clubs:** more yearbook club pages (Natick, Brockton, Fryeburg, Katy, Alamo Heights, Velma-Alma, West Bend and Ypsilanti search hits not yet read); the Ram Rods after 1957.
+- **Hope Star and Harrisburg Daily Register:** local hot rod and drag strip items beyond the serial.
+- **Carried from Round 12:** Peggy Hart's own words (CDNC blocked); Kansas City's strip after 1955; Escanaba July–Aug 1955; the Denver county strip; the ATAA and NHRA; the 1957 National Safety Council statement; Decatur Road Runners after 1957.
+
 ## Log, Round 13 (taxonomy; 2026-10-15)
 - **Restructured** the site into 10 topical departments plus Reference, separating topic from source. Old groups that mixed ideas were split: Customs & Media (into Customs & Kustom Kulture and Media & Shows), Beyond California and Cruise Nights (into Places & Scenes, with the strips moved to Drag Racing & Strips), Grassroots Finds (nine articles filed by topic; the badge and a catalog page remain), Cars and Techniques (merged). See [How the Site Is Organized](taxonomy.md) for the audit, the moved pages and the rules.
 - **Redirects** from every old URL to its new one (`hooks/redirects.yml`).

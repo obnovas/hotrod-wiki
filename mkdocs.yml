@@ -110,6 +110,7 @@ nav:
       - Trend Books, Model Kits & Roth: media/trend-books-kits-roth.md
       - "The Show Circuit: Oakland, Detroit, ISCA": media/show-circuit.md
       - Street Rod Magazine (Portland, 1971–73): media/street-rod-magazine-portland.md
+      - "Street Rod in the Small-Town Paper (1954)": media/street-rod-newspaper-serial.md
   - Drag Racing & Strips:
       - drag-racing/index.md
       - Strips:
@@ -125,9 +126,11 @@ nav:
           - "The Cop and the Auto Shop (Escanaba)": drag-racing/escanaba-dragns.md
           - "The Detective Whose Son Was a Dragster (Kansas City)": drag-racing/kansas-city-timing-association.md
           - "Hoosier Road Runners (Indiana)": drag-racing/indiana-small-town-clubs.md
+          - "Hot Rod Club, Third Row (High Schools)": drag-racing/high-school-hot-rod-clubs.md
       - Rules, Safety & Public Opinion:
           - "What the City Planners Wrote (1955)": drag-racing/planners-report-1955.md
           - "March 1957: Drag Strip Survey": drag-racing/march-1957-drag-strip-survey.md
+          - "June 1957: Would You Rather Have a Picnic?": drag-racing/recreation-1957-pro-and-con.md
   - Places & Scenes:
       - places/index.md
       - Regional scenes:
@@ -151,6 +154,7 @@ nav:
           - Lake Street & University Ave: places/lake-street-university.md
           - Westheimer, Houston: places/westheimer-houston.md
           - Central Ave, Albuquerque (later): places/central-avenue-albuquerque.md
+          - "Main Avenue, Twin Falls, Idaho": places/twin-falls-main-avenue.md
   - "Voices: In Their Own Words":
       - voices/index.md
       - Blackie Gold (Muroc, 1930s): voices/blackie-gold.md

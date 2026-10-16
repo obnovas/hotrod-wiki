@@ -7,6 +7,7 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [Trend Books, Model Kits & Roth](trend-books-kits-roth.md): the 1951 Trend Book, AMT's 3-in-1 kits from 1958, and Roth's penny-a-kit Revell deal.
 - [The Show Circuit](show-circuit.md): Oakland (1950), Detroit Autorama (1953), Larivee's Promotions Inc. and ISCA (1963), and the Portland Roadster Show (1956).
 - [*Street Rod* Magazine (Portland, 1971–73)](street-rod-magazine-portland.md): Bruce Miller and Bruce Craig's 20-issue monthly, which took the title first.
+- [*Street Rod* in the Small-Town Paper (1953–54)](street-rod-newspaper-serial.md): Henry Gregor Felsen's novel about a teenage timing association, serialized by NEA in papers from Escanaba to Hope, Arkansas.
 
 **Elsewhere in the wiki**
 

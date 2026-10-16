@@ -17,11 +17,13 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [The Cop and the Auto Shop (Escanaba)](escanaba-dragns.md): a Michigan policeman's club above an auto shop, 1954–55.
 - [The Detective Whose Son Was a Dragster (Kansas City)](kansas-city-timing-association.md): 32 clubs and a $72,000 strip.
 - [Hoosier Road Runners](indiana-small-town-clubs.md): small-town Indiana clubs, 1953–58.
+- [Hot Rod Club, Third Row](high-school-hot-rod-clubs.md): the high school car clubs in 1950s and early-1960s yearbooks, from Pensacola to Portland's Ram Rods.
 
 **Rules, safety and public opinion**
 
 - [What the City Planners Wrote (1955)](planners-report-1955.md): a national survey of small-town clubs.
 - [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md): one wire survey and the National Safety Council against.
+- [Would You Rather Have a Picnic? (June 1957)](recreation-1957-pro-and-con.md): the recreation directors' pro-and-con, with Wilmington's club for everybody.
 
 **Elsewhere in the wiki**
 

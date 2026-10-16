@@ -279,3 +279,26 @@ Tags as above. Most 1950s items are scanned page OCR from the Internet Archive, 
 - [ref] "National Street Rod Association," Wikipedia (search excerpt only). https://en.wikipedia.org/wiki/National_Street_Rod_Association
 - [mag] Rex Roy, "Cruising Woodward during the glory years," Hagerty Media, Jul 27, 2011. https://www.hagerty.com/media/archived/cruising-woodward-during-the-glory-years/
 - **Not reached this round (blocked or unavailable; not bypassed):** California Digital Newspaper Collection, Illinois and NYS and Colorado newspaper portals, Chronicling America, Washington Digital Newspapers (403), Utah (418), DigitalNC and Michigan newspaper sites (connection failures); the Detroit News 2023 feature (paywall).
+
+## Added in Round 14 (accessed 2026-10-16)
+Tags as above. The 1950s–60s newspaper and yearbook items are scanned page OCR on the Internet Archive; quotes are limited to passages that read cleanly. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] *Times-News* (Twin Falls, Idaho): editorial "Our Main Avenue 'Drag Strip,'" June 30, 1957; court items June 30 and July 7, 1957; "Fines Increased for 'Drag Strip' Speed," Dec 6, 1957; police court, Aug 1, 1958; "Meeting Slated," July 27, 1960; "Four Lanes to Drag" ("Pot Shots"), Aug 26, 1960; "Some Encouragement Given 'Drag Racers' by City Council," Aug 30, 1960; "Commission Okays 'Drag Strip' Lease," Oct 18, 1960; "Cars Place for 2 Hollister Men," Oct 19, 1961; "New Car Club Elects Officers," Mar 29, 1964; "Custom Car Show Scheduled Here July 24-25," July 18, 1965; club notice, May 19, 1972. https://archive.org/details/The_Times_News_Idaho_Newspaper_1957_06_30 (and the matching dated IDs)
+- [local] *Harrisburg Daily Register* (Ill.): missing-tombstone item, Aug 29, 1957; *Street Rod* installments, July 1 and 9, 1954. https://archive.org/details/harrisburg-daily-register-1957-08-29
+- [local] *Hope Star* (Ark.): *Street Rod* installments, May 29 and 31, 1954. https://archive.org/details/hope-star-1954-05-29
+- [local] *Escanaba Daily Press* (Mich.): *Street Rod* installment, May 11, 1954. https://archive.org/details/escanaba-daily-press-1954-05-11
+- [local] High school yearbooks (classmates.com scans on the Internet Archive): Pensacola High, 1955; Chillicothe High (Ohio), 1955; Central Catholic, Portland, 1957 (with school-paper pages); Fort Collins High, 1957; Tillamook High, 1958; Imbler High, 1958; Shawnee Mission High, 1958; Southeast Guilford High, Greensboro, 1963. https://archive.org/details/classmates-yearbook-32257-1963-southeast-guilford-high-school (and the IDs cited on the page)
+- [mag] "Would You Rather Have a Picnic?" (pro and con on drag strips), *Recreation*, vol. 50, no. 6, June 1957, pp. 210–211. https://archive.org/details/sim_recreation_1957-06_50_6
+- [mag] Class notes (Harcourt C. "Ace" Vernon), *MIT Technology Review*, Nov 1978. https://archive.org/details/MIT-Technology-Review-1978-11
+- [ref] IRS, *Cumulative List of Organizations* (1985), search snippet. https://archive.org/details/micro_IA41152806_0979
+- [ref] Roland C. Faunce, *Secondary School Administration* (1955), search snippet only (lending-restricted). https://archive.org/details/secondaryschoola00faun
+- [mag] Review of *Street Rod*, *Bulletin from Virginia Kirkus' Bookshop Service*, May 15, 1953. https://archive.org/details/sim_kirkus-reviews_1953-05-15_21_supplement
+- [ref] "Papers of Henry Gregor Felsen" (MsC 601), University of Iowa Libraries Special Collections. https://www.lib.uiowa.edu/scua/msc/tomsc650/msc601/felsen.html
+- [ref] Open Library, *Street rod* (1953). https://openlibrary.org/works/OL6663722W/Street_rod
+- [ref] "Street Rod by Henry Gregor Felsen," EBSCO Research Starters. https://www.ebsco.com/research-starters/literature-and-writing/street-rod-henry-gregor-felsen/
+- [mag] Review of *Street Rod*, Speedreaders. https://speedreaders.info/8720-street-rod/
+- [local] Peter D. Sieruta, "And Tell All the Stars Above...," *Collecting Children's Books* (blog), Apr 23, 2009. http://collectingchildrensbooks.blogspot.com/2009/04/and-tell-all-stars-above.html
+- [mag] Andrew Wolf, "Flashback Friday: Iowa's Des Moines Dragway," Dragzine, July 15, 2011. https://www.dragzine.com/news/flashback-friday-iowas-des-moines-dragway/
+- [mag] Brian Lohnes, "Drag Racing's Chuck Finders Passes," BangShift, May 26, 2009. https://bangshift.com/general-news/drag-racing-s-chuck-finders-passes/
+- [forum] "Gasser Fans" thread, NSRA (UK) forum archive, May 2009 (search excerpt only; bot check). https://forum.nsra.org.uk/archive/index.php/t-28331.html
+- **Restricted (snippets only, not bypassed):** scanned *Street Rod* editions and Faunce (Internet Archive lending library, HTTP 401 on text).
