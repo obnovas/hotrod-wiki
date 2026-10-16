@@ -1,17 +1,20 @@
-# Van Nuys Boulevard, San Fernando Valley (1950s–1980s)
+# Van Nuys Boulevard
+
+*San Fernando Valley, 1950s–1980s*
 
 !!! abstract "Article record"
     **Confidence:** Medium-High · **Source types:** newspaper (LA Times 1986, 2010), period magazine (Hot Rod July 1981; Car Craft 2009), photographer interview (CNN 2017) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure year · [How we rate this](../reference/source-standards.md)
 
+The custom, the LA Times Magazine said in 1986, went back to a "regular Saturday-night parade down the boulevard" in **1912**. It says that by the mid-1950s cruisers came "from as far away as Santa Barbara and San Diego," with crowds of up to 20,000 including onlookers in lawn chairs, and that the RTD rerouted buses on cruise nights.[^lat86]
 
 **Location:** Van Nuys Blvd, Los Angeles. McCloskey gives "a 3-mile stretch from Ventura Boulevard to about Sherman Way," while Hot Rod (1981) describes police closing "two miles."[^cnn][^hr81] · **Peak:** mid-1950s to 1970s, with Wednesday "club nights." · **Revival:** monthly cruises from June 2009 (Van Nuys Cruising Association).
 
-## What happened
-- The LA Times Magazine (1986) traced the custom to a "regular Saturday-night parade down the boulevard" in **1912**. It says that by the mid-1950s cruisers came "from as far away as Santa Barbara and San Diego," with crowds of up to 20,000 including onlookers in lawn chairs, and that the RTD rerouted buses on cruise nights.[^lat86]
-- **Turnarounds:** the Hughes supermarket lot, June Ellen's Donuts and Bob's Big Boy (McCloskey).[^cnn]
-- Hot Rod (July 1981) noted that when police closed the street, "the action picks up at the local McDonald's parking lot." The cars of that era included supercars, VW Beetles and mini-trucks.[^hr81]
+## The turnarounds
+
+The turnarounds were the Hughes supermarket lot, June Ellen's Donuts and Bob's Big Boy (McCloskey).[^cnn] Hot Rod (July 1981) noted that when police closed the street, "the action picks up at the local McDonald's parking lot." The cars of that era included supercars, VW Beetles and mini-trucks.[^hr81]
 
 ## In their own words
+
 > "You had everything from your Mustangs to lowriders and hot rods. ... Essentially you were out there to see your friends, show off your car and just sort of be there. It was the place for young people to be."
 >
 > — **Rick McCloskey**, photographer, recalling summer 1972, CNN (2017).[^cnn]
@@ -25,13 +28,18 @@
 > — **Reid Stolz**, 51, Van Nuys Cruising Association, LA Times (Jan 13, 2010).[^lat10]
 
 ## Policing and the end
-- Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980. The LA Times (1986) says major crime on cruise nights was up "five to 10 times" by 1978.[^lat86]
-- Sjoquist told Hot Rod that earlier captains had tried no-parking signs and ticket sweeps. When "confronted with Wednesday-night crowds of 10,000 to 15,000," the LAPD got permission to close the street at its discretion.[^hr81]
-- **⚠ When it ended:** the LA Times (2010) says 1981; Hot Rod, writing in July 1981, puts the first closures in the previous July (1980); the LA Times (1986) gives full barricading in 1983; Car Craft (2009) says "around 1980."[^lat10][^hr81][^lat86][^cc]
 
-## Ties
-- **The Re-Cruise.** Older rodders moved to a monthly Friday-night "Bob's Drive-In Re-Cruise" at three Bob's Big Boys, one of them the original 1936 Glendale location. Hot Rod (1981) names organizer Joe Marino.[^hr81] It foreshadowed today's [Bob's Burbank Friday nights](bobs-big-boy-river-road.md).
-- The 2009 revival staged from the **Rydell Chevrolet (formerly Paradise Pontiac)** lot. Stolz's announcement began as a post on the H.A.M.B.[^cc]
+Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980. The LA Times (1986) says major crime on cruise nights was up "five to 10 times" by 1978.[^lat86]
+
+Sjoquist told Hot Rod that earlier captains had tried no-parking signs and ticket sweeps. When "confronted with Wednesday-night crowds of 10,000 to 15,000," the LAPD got permission to close the street at its discretion.[^hr81]
+
+**⚠ From the detective's notebook: when did it end?** The LA Times (2010) says 1981; Hot Rod, writing in July 1981, puts the first closures in the previous July (1980); the LA Times (1986) gives full barricading in 1983; Car Craft (2009) says "around 1980."[^lat10][^hr81][^lat86][^cc]
+
+## The Re-Cruise and the comeback
+
+Older rodders moved to a monthly Friday-night "Bob's Drive-In Re-Cruise" at three Bob's Big Boys, one of them the original 1936 Glendale location. Hot Rod (1981) names organizer Joe Marino.[^hr81] It foreshadowed today's [Bob's Burbank Friday nights](bobs-big-boy-river-road.md).
+
+The 2009 revival staged from the **Rydell Chevrolet (formerly Paradise Pontiac)** lot. Stolz's announcement began as a post on the H.A.M.B.[^cc]
 
 ## Images
 
@@ -44,7 +52,6 @@
 ![Van Nuys Boulevard looking south toward the Santa Monica Mountains, March 2008.](../assets/images/commons-van-nuys-blvd-2008.jpg){ loading=lazy }
 <figcaption markdown>Van Nuys Boulevard looking south toward the Santa Monica Mountains, March 2008. Creator: Cbl62 (talk). Date: 2008-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Nuys_Boulevard_Street_Scene.JPG). License: Public domain.</figcaption>
 </figure>
-
 
 ## Visual references (external)
 *These images are copyrighted, so we link to them instead.*

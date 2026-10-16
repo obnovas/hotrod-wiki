@@ -1,16 +1,20 @@
-# Central Avenue (Route 66), Albuquerque: A Later Chapter (2005–2018)
+# Central Avenue, Albuquerque
+
+*A later chapter on Route 66, 2005–2018*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> alt-weekly (Weekly Alibi 2006), Route 66 News (2018, citing Albuquerque Journal) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Pre-1990 cruising history not yet sourced · [How we rate this](../reference/source-standards.md)
 
-
 **Why it's here:** this is the clearest **post-1990 policing story** in our sources, and a useful comparison with the earlier closures. The 2018 repeal was framed as letting Route 66 enthusiasts cruise Central Avenue legally.[^r66]
 
-## What happened
-- **May 2005:** Mayor Martin Chavez signed the "Cruising on Public Streets" ordinance, which was not fully enforced until 2006. In May 2006 APD began logging license plates at "No Cruising" control points from 8 p.m. to 3 a.m. Seeing a car three times in two hours counted as a violation, with a $10 fine that came to about $69 with fees (Weekly Alibi).[^alibi]
-- **2018:** the city council unanimously repealed the ordinance as redundant with a 1994 irresponsible-driving law, and approved a program for recognized special-interest vehicle clubs to coordinate cruise events with businesses (Route 66 News, citing the Albuquerque Journal).[^r66]
+## The ordinance and the repeal
+
+In **May 2005**, Mayor Martin Chavez signed the "Cruising on Public Streets" ordinance, which was not fully enforced until 2006. In May 2006 APD began logging license plates at "No Cruising" control points from 8 p.m. to 3 a.m. Seeing a car three times in two hours counted as a violation, with a $10 fine that came to about $69 with fees (Weekly Alibi).[^alibi]
+
+In **2018**, the city council unanimously repealed the ordinance as redundant with a 1994 irresponsible-driving law, and approved a program for recognized special-interest vehicle clubs to coordinate cruise events with businesses (Route 66 News, citing the Albuquerque Journal).[^r66]
 
 ## In their own words
+
 > "I'm sure after the car show, everybody's going to go cruising."
 >
 > — **Shawnasi Martinez**, a Downtown cruiser, Weekly Alibi (May 25, 2006), on the first weekend of enforcement.[^alibi]
