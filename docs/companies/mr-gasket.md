@@ -1,17 +1,24 @@
-# Mr. Gasket: The Hrudka Brothers and the Ohio Gassers
+# Mr. Gasket: From the Trunk of a '57 Chevy to Wall Street
+
+*The Hrudka brothers and the Ohio Gassers*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, obituary, reference · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Founding dates and sale price conflict · [How we rate this](../reference/source-standards.md)
 
 *Principal source: Jim Hill, East Coast Drag Racing Hall of Fame (2016).*[^ec]
 
-## Gas-class racers first
-Joe and Tom Hrudka of suburban Cleveland raced a '55 Chevy that won D/Gas at the 1962 NHRA Nationals, then a '40 Willys in C and D/Gas.[^ec] SEMA says they were back-to-back NHRA champions in 1961 and 1962.[^sema] They were part of the informal "Ohio Gassers": Eddie Schartman, Ron Hassel, Arlen Vanke, the Hill brothers, Dave Meal and others. They raced at Thompson, Dragway 42, Quaker City and National Trail, often four or five times a week in the short Ohio season.[^ec]
+Store-bought exhaust gaskets wouldn't stay put and blocked ported 283 Chevy heads. Joe Hrudka worked out thicker, larger, one-piece gaskets with his father-in-law, a partner at Manufacturers Gasket in Cleveland. They hand-cut them, then used steel-rule dies in a hand press. They sold them from the trunk of Joe's '57 Chevy tow car, and part numbers **150 (exhaust) and 150A (intake)** remain in the line.[^ec] SEMA says the earliest prototypes were made in his home basement and first sold as **Speed Specialties**.[^sema]
 
-## The gasket
-Store-bought exhaust gaskets wouldn't stay put and blocked ported 283 Chevy heads. Joe worked out thicker, larger, one-piece gaskets with his father-in-law, a partner at Manufacturers Gasket in Cleveland. They hand-cut them, then used steel-rule dies in a hand press. They sold them from the trunk of Joe's '57 Chevy tow car, and part numbers **150 (exhaust) and 150A (intake)** remain in the line.[^ec] SEMA says the earliest prototypes were made in his home basement and first sold as **Speed Specialties**.[^sema]
+## Gas-class racers first
+
+Joe and Tom Hrudka of suburban Cleveland raced a '55 Chevy that won D/Gas at the 1962 NHRA Nationals, then a '40 Willys in C and D/Gas.[^ec] SEMA says they were back-to-back NHRA champions in 1961 and 1962.[^sema]
+
+They were part of the informal "Ohio Gassers": Eddie Schartman, Ron Hassel, Arlen Vanke, the Hill brothers, Dave Meal and others. They raced at Thompson, Dragway 42, Quaker City and National Trail, often four or five times a week in the short Ohio season.[^ec]
 
 ## Dates and money (⚠ conflicts)
+
+Nobody's books quite agree here, and the gap between a $6 million and a $17 million buyout is the best part:
+
 | Item | ECDRHOF (Hill) | Other |
 |---|---|---|
 | Name adopted | 1964[^ec] | Founded 1964 (Encyclopedia.com);[^enc] **founded 1965** (Encyclopedia of Cleveland History)[^ech] |
@@ -25,12 +32,12 @@ Store-bought exhaust gaskets wouldn't stay put and blocked ported 283 Chevy head
 The ECH figure covers what Hrudka realized personally, while Hill's appears to be the price for the remaining shares. The two may not be measuring the same thing.
 
 ## Later
+
 Joe left the company in 1976 under a non-compete and collected Tri-Five Chevys until 1981.[^ec] The company went through Chapter 11 in 1991, was sold to Echlin in 1993, and to Holley in September 2015.[^ec][^enc]
 
 ## Update, Round 4: Joe Hrudka (1938–2026)
+
 NHRA reports that Joe Hrudka was born Nov 29, 1938, in Cleveland and died **May 24, 2026**, at 87. It describes the brothers' results as "Class wins at the 1961 and 1962 NHRA U.S. Nationals." That is narrower than SEMA's "back-to-back NHRA champions."[^nhra26] The same story captions Dave Meal's '40 Willys C/Gasser with an early Mr. Gasket logo. In spring 1967 the Hrudkas bought the unfinished '33 Willys that became the Hill brothers' [Red Baron](../cars/hill-bros-red-baron.md) and sold it on to them, per Dave Hales.
-
-
 
 **See also (Round 10):** [The Ohio Gassers](../regions/ohio-gassers.md) (Hassel, Meal, Schwartz, Finders; ⚠ who built the 1968 Mr. Gasket Camaro), [Akron Fulton Airport strip](../regions/akron-fulton-airport.md).
 
