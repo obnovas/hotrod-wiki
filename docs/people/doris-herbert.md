@@ -3,7 +3,7 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 2) · [How we rate this](../reference/source-standards.md)
 
-The 204.54 mph clocking that Isky promoted for Chris Karamesines at Alton, Illinois, was questionable. Doris Herbert's answer was to set universal timing standards for reputable strips, sanctioned or not, and to keep the national **Drag News Standard 1320 Record List**.[^cp1]
+Isky promoted a questionable 204.54 mph clocking for Chris Karamesines at Alton, Illinois. Doris Herbert's answer was to set universal timing standards for reputable strips, sanctioned or not, and to keep the national **Drag News Standard 1320 Record List**.[^cp1]
 
 The Oct 1, 1960 issue named Garlits officially fastest at a backed-up 182.18 mph (Half Moon Bay).[^cp1] The Hall of Fame credits this with countering promoter-inflated "popcorn" speeds, and credits the **Mr. Eliminator** list's best-of-three challenge races as a root of match racing and pro drag racing.[^hof]
 

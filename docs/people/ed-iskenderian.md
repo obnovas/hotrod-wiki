@@ -1,4 +1,6 @@
-# Ed "Isky" Iskenderian (1921–2026)
+# Ed "Isky" Iskenderian: The Camfather
+
+*1921–2026*
 
 !!! abstract "Article record"
     **Confidence:** High · **Source types:** obituaries (5 agreeing), oral, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · [How we rate this](../reference/source-standards.md)
@@ -8,21 +10,26 @@
 <figcaption markdown>US3301241, "Non-rotating roller tappet," sheet 1. Inventor: Edward Iskenderian, filed 1966-06-21, issued 1967-01-31. Source: [Google Patents](https://patents.google.com/patent/US3301241A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
 </figure>
 
-
 !!! note "Verified"
     His death on **February 4, 2026**, at 104, in Los Angeles is confirmed by NHRA, Hagerty, Car and Driver, SEMA, and Legacy.com.[^nhra][^hag][^cd][^sema][^leg]
 
-- Born **July 10, 1921** in Cutler, Tulare County, California, to Armenian immigrant parents. Frosts ruined the family vineyard, and they moved to Los Angeles when he was a year old.[^nhra][^leg]
-- He attended LA Polytechnic High and built a Model T roadster that is now at the Museum of American Speed. It has a flathead V8 with Maxi heads, which moved the exhaust valves into the head.[^leg][^hag]
-- In 1940 Jimmy Summers "pounded out a few dents" on that T for $10 ([Jimmy Summers](jimmy-summers.md)).[^summers]
-- He served in the Army Air Forces Air Transport Command in the Pacific.[^leg]
-- **Mentored by Ed Winfield** in starting cam grinding.[^hag] This links to [Winfield](ed-winfield.md), whom Hemmings calls the model for Iskenderian.
-- He was a founding member and first president of SEMA (1963), and its last surviving founder.[^sema][^leg]
-- He was the chief instigator of the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md), and his ads brought Don Garlits west in 1959.[^cp59g]
-- His last interview, in a nursing home south of LA in September 2025, ended with "Goodbye, boys!"[^hag]
+Frosts ruined the family vineyard in Cutler, in Tulare County, California. Ed Iskenderian was born there on **July 10, 1921**, to Armenian immigrant parents, and the family moved to Los Angeles when he was a year old.[^nhra][^leg]
+
+He attended LA Polytechnic High and built a Model T roadster that is now at the Museum of American Speed. It has a flathead V8 with Maxi heads, which moved the exhaust valves into the head.[^leg][^hag] In 1940 Jimmy Summers "pounded out a few dents" on that T for $10 ([Jimmy Summers](jimmy-summers.md)).[^summers]
+
+He served in the Army Air Forces Air Transport Command in the Pacific.[^leg]
+
+## Cams, and trouble
+
+He was **mentored by Ed Winfield** in starting cam grinding.[^hag] That links him to [Winfield](ed-winfield.md), whom Hemmings calls the model for Iskenderian.
+
+He was the chief instigator of the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md), and his ads brought Don Garlits west in 1959.[^cp59g]
+
+He was a founding member and first president of SEMA (1963), and its last surviving founder.[^sema][^leg]
+
+His last interview, in a nursing home south of LA in September 2025, ended with "Goodbye, boys!"[^hag]
 
 **Correction:** the earlier wiki note "1921–2026 (unverified)" from the Garlits Museum list is now confirmed.
-
 
 ## Images
 

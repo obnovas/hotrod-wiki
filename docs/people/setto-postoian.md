@@ -1,4 +1,6 @@
-# Serop "Setto" Postoian (1922–1995): Detroit's First Drag Hero
+# Setto Postoian and the Swamp Rat Insult
+
+*Serop Postoian, 1922–1995: Detroit's first drag hero*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** HOF, secondary · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Riverside claim doubtful · [How we rate this](../reference/source-standards.md)
@@ -8,19 +10,29 @@
 <figcaption markdown>Don Garlits in Swamp Rat XXX at Texas Motorplex on April 5, 1987 (uploader's caption). It is the descendant of the "Swamp Rat" name discussed below. Photo: twm1340 (Flickr), 1987-04-05 (per caption; file date 2007). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:DonGarlitsSwampRatXXX.jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
 </figure>
 
+In 1959 Setto Postoian placed a Drag News ad calling Garlits "a swamp rat." Garlits adopted the insult as the name of all his cars.[^aw] The Michigan Motor Sports Hall of Fame calls Postoian an early idol of the teenage Garlits.[^mm]
 
 *Principal source: Michigan Motor Sports Hall of Fame (inducted 1997).*[^mm]
 
-- Before WWII he worked in Ford's engine-rebuilding division in Detroit, then served three and a half years overseas and opened a gas station in Farmington afterward.[^mm]
-- He learned frame and front-end work from a former Bear Manufacturing school instructor. That led to an Indy pit-crew stint and his first ride in a hot rod, Jack McGrath's "full-house" '32 roadster.[^mm]
-- **1950:** he spent six weeks at McGrath's LA shop and met Joe Pisano and Ed Iskenderian.[^mm] This is an early East–West technology transfer.
-- Back home he opened **Farmington Speed Shop** and built a flathead roadster, then a DeSoto Hemi dragster, his first OHV engine.[^mm]
-- **⚠ Possible error:** the MMSHOF says he won the "Riverside Nationals" four years running, 1953–56.[^mm] Needs checking against period results.
-- Won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm]
-- **"Swamp Rat":** in 1959 he placed a Drag News ad calling Garlits "a swamp rat." Garlits adopted the insult as the name of all his cars.[^aw] The MMSHOF calls Postoian an early idol of the teenage Garlits.[^mm]
-- Garlits told NHRA that Iskenderian made two blower kits, "one for me and one for Setto Postoian."[^nhra]
-- Seriously injured at Detroit Dragway in 1960, he never raced again. He had about 250 eliminator wins.[^mm]
+## From Ford's engine shop to LA
 
+Before WWII he worked in Ford's engine-rebuilding division in Detroit, then served three and a half years overseas and opened a gas station in Farmington afterward.[^mm]
+
+He learned frame and front-end work from a former Bear Manufacturing school instructor. That led to an Indy pit-crew stint and his first ride in a hot rod, Jack McGrath's "full-house" '32 roadster.[^mm]
+
+In **1950** he spent six weeks at McGrath's LA shop and met Joe Pisano and Ed Iskenderian.[^mm] That is an early East–West technology transfer.
+
+## Farmington Speed Shop
+
+Back home he opened **Farmington Speed Shop** and built a flathead roadster, then a DeSoto Hemi dragster, his first OHV engine.[^mm]
+
+**⚠ Possible error:** the MMSHOF says he won the "Riverside Nationals" four years running, 1953–56.[^mm] It needs checking against period results.
+
+He won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm]
+
+Garlits told NHRA that Iskenderian made two blower kits, "one for me and one for Setto Postoian."[^nhra]
+
+Postoian was seriously injured at Detroit Dragway in 1960 and never raced again. He had about 250 eliminator wins.[^mm]
 
 ## Images
 

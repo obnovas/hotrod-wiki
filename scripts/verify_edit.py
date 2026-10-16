@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 FN_DEF = re.compile(r"^\[\^([^\]]+)\]:[ \t]*(.*(?:\n(?:[ \t]+.*|))*)", re.M)
-NUM = re.compile(r"(?<![\w/#.-])\$?\d[\d,]*(?:\.\d+)?(?![\w-]*\.(?:png|jpg|jpeg|svg|md))")
+NUM = re.compile(r"(?<![\w/#-])(?<!\d\.)\$?\d[\d,]*(?:\.\d+)?(?![\w-]*\.(?:png|jpg|jpeg|svg|md))")
 QUOTE = re.compile(r"[“\"]([^“”\"\n]+?)[”\"]")
 
 
