@@ -342,3 +342,20 @@ Companies & Shops profiles. Tags as above; **[corp]** marks company-written hist
 - [mag] Gray Baskerville, "Mickey Thompson: The Speed King's Unstoppable Legacy," *Hot Rod*, Dec 1978. https://www.hotrod.com/features/speed-king-mickey-thompson-december-1978-982-1390-78-1
 - [mag] Phil Burgess, "The Thompson Files," NHRA, Mar 1, 2013. https://www.nhra.com/news/2013/thompson-files
 - [ref] Wikipedia (secondary, cross-check only): "Mickey Thompson," "Dick Moroso," "Summit Racing Equipment." https://en.wikipedia.org/wiki/Mickey_Thompson, https://en.wikipedia.org/wiki/Dick_Moroso, https://en.wikipedia.org/wiki/Summit_Racing_Equipment
+
+## Added in Round 16 (accessed 2026-10-17)
+Tags as above, plus **[local]** for local and regional newspapers, local history pages and yearbooks. The 1950s–60s newspaper, magazine and yearbook items are scanned page OCR on the Internet Archive, and we quote only passages that read cleanly. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] Pat Lounsbury, "Welcome Drag Racers," *The Iowan* (Shenandoah, Iowa), vol. 7, no. 3, Feb–Mar 1959, pp. 12–13, 50 (regional magazine; the writer and photographers were from Ames). https://archive.org/details/sim_iowan_february-march-1959_7_3
+- [local] Ames History Museum (Ames Historical Society), "Ames Drag Strip," with a transcription of the *Ames Tribune*, June 2, 1958. https://ameshistory.org/content/ames-drag-strip
+- [local] "Summers at the Ames Drag Strip," *Ames History Newsletter*, June 2013. https://archive.org/details/2013-newsletter-2
+- [local] Northwestern Bell, Ames, Iowa, telephone directory, Dec 1957. https://archive.org/details/1957.12amestelephonedirectory
+- [local] *St. Louis Post-Dispatch*: Gear Jammers feature, June 11, 1956; ads Sept 18, 1955, Apr 21 and May 27, 1956; car-show item, Mar 22, 1957; Strokers Club item, Aug 22, 1955; Drag-ons engine item, Mar 2, 1959; letters Feb 1, 1954 (Naber), Oct 4, 1958 ("Madness, Not Dragging") and Nov 28, 1958 (S.J.G.). https://archive.org/details/per_st-louis-post-dispatch_st-louis-post-dispatch_1956-06-11_78_161 (others linked from [the Gear Jammers page](drag-racing/belleville-gear-jammers.md))
+- [mag] *Car Craft*, vol. 6, no. 8, Dec 1958 (National Drags; Sportsmanship Trophy caption). https://archive.org/details/sim_car-craft_1958-12_6_8
+- [mag] *Hot Rod* 1959 annual index ("Club of the Month"). https://archive.org/details/sim_hot-rod_1959_12_index
+- [ref] "St. Louis Downtown Airport," Wikipedia (history section only). https://en.wikipedia.org/wiki/St._Louis_Downtown_Airport
+- [local] Associated Press, Portsmouth, Ohio, Sept 19, 1956, as printed in the *Circleville Herald* (Sept 19), *Washington C.H. Record-Herald* (Sept 19) and *Hope Star* (Ark., Sept 21). https://archive.org/details/circleville-herald-1956-09-19
+- [mag] Evan Hill, "City of Silence," *The Saturday Evening Post*, June 8, 1957, with the contributor note "Always Mind a Professor." https://archive.org/details/saturday-evening-post-the-1955-1997
+- [local] *Times-News* (Twin Falls, Idaho): MVTA feature, Aug 13, 1961; "Officers Picked At Timing Meet," Sept 17, 1962; blood-drawing report, Mar 19, 1963; "Buhl Man Is President of Timing Group," Feb 23, 1964; "'Red Heads' Ticket Sales Are Outlined," Mar 15, 1964. https://archive.org/details/The_Times_News_Idaho_Newspaper_1961_08_13
+- [local] *Circleville Herald* (Ohio): senior profiles, May 22, 1964; fair-week column, Aug 5, 1964; "Hot Rod Club Elects Officers," Feb 13, 1965; "Editions of the Past," Mar 2, 1974. https://archive.org/details/circleville-herald-1964-05-22
+- [local] High school yearbooks (classmates.com scans on the Internet Archive): Sherman High (Sherman, Tex.), 1956; Logan Elm High (Circleville, Ohio), 1967. https://archive.org/details/classmates-yearbook-59691-1956-sherman-high-school , https://archive.org/details/classmates-yearbook-23753-1967-logan-elm-high-school

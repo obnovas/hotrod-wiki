@@ -10,6 +10,26 @@
 5. **File by topic.** Each new page goes in the one department that matches its subject (see [How the Site Is Organized](taxonomy.md#how-to-choose-a-department)). Sources are shown by the Grassroots badge and the ⚠ and ◐ flags, never by folder. If a page moves, add its old URL to `hooks/redirects.yml`.
 6. **Triage reader mail first.** Open issues labeled `triage` (corrections, source tips, suggestions) are handled before new research: label, verify, add unsettled leads to the breadcrumbs below, credit the reader in the round log, close with a note. See [Contribute](contribute.md) and `CONTRIBUTING.md`.
 
+## Log, Round 16 (club-built strips and small-town clubs: Ames, Belleville and St. Louis, Portsmouth; Twin Falls and Circleville; 2026-10-17)
+- **Numbering note:** the Companies & Shops push on Oct 16 was committed as "Round 15," so this nightly round is Round 16.
+- **Reader mail:** no open `triage` issues this round.
+- **New articles:** [The Professor's Drag Strip: Ames, Iowa, and the Nightcrawlers](drag-racing/ames-drag-strip-nightcrawlers.md) (Strips; grassroots); [Belleville's Gear Jammers and the St. Louis Strip Hunt](drag-racing/belleville-gear-jammers.md) (Clubs; grassroots); [Portsmouth, Ohio, 1956: The Hot Rod Club That Carried the Messages](drag-racing/portsmouth-kustom-kouriers.md) (Clubs).
+- **Expanded (additive only):** [Twin Falls](places/twin-falls-main-avenue.md) (the MVTA in 1961–64: Road Lords and Coachmen lineage, the Timettes, officers, a blood drive and a Redheads basketball benefit); [Hot Rod Club, Third Row](drag-racing/high-school-hot-rod-clubs.md) (Sherman, Tex., 1956 yearbook with marks back to '53; Circleville's Devastators, 1964–65; Logan Elm, 1967).
+- **Advanced:** the Round 14 Twin Falls lead. The *Times-News* shows the MVTA still aiming to build a strip in Aug 1961, discussing land in Sept 1962, and a new club formed in 1964 "to get a drag strip," so the Joslin Field lease likely never produced one. Still ◐: no item says the lease was dropped.
+- **Found:** an Iowa State math professor who served as "track steward" for a club-run strip, and a club member who paid his parking ticket; ATAA sanction still cited in Ames in June 1958, after the ATAA was reportedly absorbed by NHRA in 1957 ◐; a Belleville club that made members pay half of any traffic fine into its treasury; St. Louis "needs a drag strip" bumper stickers (1958); a Normandy, Mo., club selling a crated WWI Hispano Suiza; a Portsmouth, Ohio, hot rod club, renamed the Kustom Kouriers, running messages during a 61-day telephone blackout; a county juvenile probation officer advising Circleville's hot rod club.
+- **New conflicts or single-source flags:** Ames grandstand ⚠, land ownership ⚠, "1st quarter-mile strip in Iowa" vs Des Moines ⚠, closing reason ◐; Walston Field vs Parks Airport naming ⚠; Mehrtens vs Mertens ⚠; the Drag-ons' engine specifications ◐; which Portsmouth blackout the couriers served ⚠; Sherman year marks ◐.
+- **Blocked or unavailable (not bypassed):** an Ames History Museum PDF memoir (download stalled; not retried); one Internet Archive item returned HTTP 401 (skipped).
+
+## Next breadcrumbs (Round 16)
+- **Ames:** the *Ames Tribune* originals for 1957–59 (opening day, the grandstand, the 1959 closing); Dr. Robert Lambert's later life or obituary; the Nevada, Iowa, airport drags he first entered; Dragzine's 2011 "Flashback Friday" photos (trade press, for leads only).
+- **Des Moines Dragway:** a primary source for its opening year, to test the museum's "first quarter-mile strip in Iowa" claim; ties to the Iowa Timing Association.
+- **ATAA after 1957:** other ATAA-sanctioned strips still advertising in 1958–59 (Ames is one); what "absorbed" meant in practice.
+- **St. Louis:** whether the Missouri side got a strip by 1960, and where; the Gear Jammers after Parks Airport closed in 1959; *Hot Rod*'s Jan 1959 Club of the Month write-up; the *New Leader* (June 25, 1956) and Granite City *Press-Record* mentions; Sedalia's Drag-On's and the club forming at Marshall, Mo. (*Sedalia Democrat*, Mar 9, 1958).
+- **Portsmouth:** the *Portsmouth Times*, Sept–Dec 1956, for the club's members and its new name; any later Kustom Kouriers notices.
+- **Twin Falls:** the 1964 Redheads game result; whether the MVTA ever got a strip after 1965; the Burley Charger and Buhl Syndicate clubs.
+- **Circleville:** the *Herald* 1964–67 for Devastators meets or a drag strip trip; Lancaster and Columbus clubs at the 1964 fair exhibit.
+- **Carried:** Kansas City's strip after 1955; Escanaba July–Aug 1955; the Denver county strip; Wilmington Automotive Activities in Delaware papers; more school-club yearbooks (Natick, Brockton, Fryeburg, Katy, Alamo Heights, Velma-Alma, West Bend, Ypsilanti); Peggy Hart's own words.
+
 ## Log, Round 15 (Companies & Shops: ten profiles and the Web of Influence; 2026-10-16)
 - **Reader mail:** no open `triage` issues this round.
 - **New articles (all in [Companies & Shops](companies/index.md)):** [Hurst-Campbell](companies/hurst-campbell.md) (grassroots, built on two Bucks County magazines); [Moon Equipment](companies/moon-equipment.md); [Holley](companies/holley.md); [Summit Racing](companies/summit-racing.md); [COMP Cams & Racing Head Service](companies/comp-cams-rhs.md); [Crane Cams](companies/crane-cams.md) (grassroots, built on a local newspaper and a funeral-home obituary); [Lakewood Industries](companies/lakewood-industries.md); [Moroso](companies/moroso.md); [Hooker Headers](companies/hooker-headers.md); [Mickey Thompson](companies/mickey-thompson.md). The department now has two groups, "The Big Names" and "Garage-born Shops."
@@ -40,10 +60,10 @@
 - **Blocked or unavailable (not bypassed):** Internet Archive lending-library books (scanned *Street Rod*, Faunce) refuse text download; NSRA (UK) forum bot check.
 
 ## Next breadcrumbs (Round 14)
-- **Twin Falls:** *Times-News* 1961–63 for the Joslin Field lease and any strip opening; the Magic Valley Timing Association's later years; the Avenger club; a cleaner scan of the Aug 30, 1960 council story.
+- **Twin Falls:** *Times-News* 1961–63 for the Joslin Field lease and any strip opening; the Magic Valley Timing Association's later years; the Avenger club; a cleaner scan of the Aug 30, 1960 council story. *(Advanced in Round 16: 1961–64 read; no strip found.)*
 - **Iowa Timing Association:** members, meets and strips before Des Moines Dragway (1957); a first-edition check of the dedications in *Hot Rod* (1950) and *Street Rod* (1953).
 - **Wilmington Automotive Activities:** Delaware newspapers or club records; whether its drag-strip use was at a named strip.
-- **School clubs:** more yearbook club pages (Natick, Brockton, Fryeburg, Katy, Alamo Heights, Velma-Alma, West Bend and Ypsilanti search hits not yet read); the Ram Rods after 1957.
+- **School clubs** *(partly advanced in Round 16: Sherman, Circleville, Logan Elm)*: more yearbook club pages (Natick, Brockton, Fryeburg, Katy, Alamo Heights, Velma-Alma, West Bend and Ypsilanti search hits not yet read); the Ram Rods after 1957.
 - **Hope Star and Harrisburg Daily Register:** local hot rod and drag strip items beyond the serial.
 - **Carried from Round 12:** Peggy Hart's own words (CDNC blocked); Kansas City's strip after 1955; Escanaba July–Aug 1955; the Denver county strip; the ATAA and NHRA; the 1957 National Safety Council statement; Decatur Road Runners after 1957.
 

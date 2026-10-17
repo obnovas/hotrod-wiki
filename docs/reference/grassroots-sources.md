@@ -37,6 +37,11 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Panorama: The Magazine of Bucks County](https://archive.org/details/panorama-1965.10-october) (Doylestown, Pa., Oct 1965; scanned) and [Bucks County Life](https://archive.org/details/life-1965.11-november) (Nov 1965, Jan–Feb 1966; scanned) → Hurst-Campbell's "no employees" cover story, the two-car-garage origin and the plant open house → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Orlando Sentinel](https://www.orlandosentinel.com/2013/06/20/harvey-j-crane-jr-his-exacting-work-boosted-race-cars-power/) (Jun 2013 obituary) → Harvey Crane's Florida career as his home paper told it → [Crane Cams](../companies/crane-cams.md).
 
+- [St. Louis Post-Dispatch](https://archive.org/details/per_st-louis-post-dispatch_st-louis-post-dispatch_1956-06-11_78_161) (1954–59; scanned OCR; the local pages of a big-city daily: a feature, club ads, short items and readers' letters) → the Belleville Gear Jammers' rules and money, the Strokers Club, the bumper-sticker campaign for a St. Louis strip, the Drag-ons' crated aero engine → [Gear Jammers](../drag-racing/belleville-gear-jammers.md).
+- [Circleville Herald](https://archive.org/details/circleville-herald-1964-05-22) (Ohio, 1956 and 1964–74; scanned OCR) → the Devastators hot rod club, its advisers and its fair exhibit; also the AP report of Portsmouth's hot rod couriers → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md), [Portsmouth](../drag-racing/portsmouth-kustom-kouriers.md).
+- [The Iowan](https://archive.org/details/sim_iowan_february-march-1959_7_3) (regional magazine, Feb–Mar 1959, written and photographed by Ames locals; scanned OCR) → Dr. Robert Lambert, the Nightcrawlers and the strip's fees and layout → [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md).
+- *Times-News* (Twin Falls), Round 16 additions (1961–64) → the MVTA's lineage, meeting place and fundraisers → [Twin Falls](../places/twin-falls-main-avenue.md).
+
 ### Obituaries and funeral-home pages
 - [Wendt Funeral Home](https://www.wendtfuneralhome.com/obituaries/robert-j-bartel) (Bob Bartel, 2018) → birthplace, marriage, the 1956 Cordova farm purchase → [Bob Bartel](../people/bob-bartel.md).
 - [Pike County Courier](https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961) (Almquist, 2015) → the 1947 founding date that conflicts with Hemmings → [Ed Almquist](../people/ed-almquist.md).
@@ -61,6 +66,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Public Safety, May 1956](https://archive.org/details/sim_traffic-safety_1956-05_48_5) (Kansas City's chief of detectives, Maj. Eugene M. Pond, writing in a National Safety Council magazine) → the timing association, the safety check and the strip's cost and crowds → [Kansas City](../drag-racing/kansas-city-timing-association.md).
 - [Birmingham Museum, City of Birmingham, Mich.](https://bhamgov.org/about_birmingham/city_history/birmingham_museum/museum_exhibits/read_more_about_transportation_and_transformation_here.php) (municipal museum exhibit text) → the 1963 case, the 1966 drive-in ordinance and the end of Woodward cruising → [Woodward ordinances](../places/woodward-ordinances.md).
 
+- [Ames telephone directory, Dec 1957](https://archive.org/details/1957.12amestelephonedirectory) (Northwestern Bell; scanned) → the strip's listing, including under "Race Tracks" in the yellow pages → [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md).
 
 ### Historical markers
 - Ohio History Connection marker 47-77, via [Remarkable Ohio](https://remarkableohio.org/marker/47-77-akron-fulton-airport-champions-raceway/) and [HMdb](https://www.hmdb.org/m.asp?m=142783) → the text we compare with NHRA's account → [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md).
@@ -82,9 +88,12 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 
 - [Denver Public Library, "Colorado Auto Racing: A Brief History"](https://history.denverlibrary.org/news/colorado-auto-racing-brief-history) (library blog, 2016) → Bandimere Speedway's 1958 opening and its parts-store origin → [March 1957 survey](../drag-racing/march-1957-drag-strip-survey.md).
 
+- [Ames History Museum, "Ames Drag Strip"](https://ameshistory.org/content/ames-drag-strip) (historical society page with a transcribed 1958 *Ames Tribune* feature) and its [June 2013 newsletter](https://archive.org/details/2013-newsletter-2) → the site, the owners, the advisory board, the 1957 ad and the closing story ◐ → [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md).
 
 ### School yearbooks and student newspapers
 - [Classmates.com yearbook scans on the Internet Archive](https://archive.org/details/classmates-yearbook-32257-1963-southeast-guilford-high-school) (1955–63, plus Little Rock Central 1978 for a Racing Head Service ad on the [COMP Cams page](../companies/comp-cams-rhs.md): Pensacola, Chillicothe, Portland's Central Catholic, Fort Collins, Tillamook, Imbler, Shawnee Mission, Southeast Guilford) → club rosters, senior entries, a class will and a school paper's car column → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
+
+- Round 16 additions: Sherman High (Sherman, Tex.), 1956, and Logan Elm High (Circleville, Ohio), 1967 → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
 
 ### Forum recollections
 - [H.A.M.B., "Lake Street (Mpls, MN) in the 60s"](https://www.jalopyjournal.com/forum/threads/lake-street-mpls-mn-in-the-60s.341268/) → anonymous cruisers' memories → [Lake Street & University](../places/lake-street-university.md).
@@ -125,6 +134,12 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 16 status
+| Archive | Round 16 status |
+|---|---|
+| Internet Archive newspaper scans | **Readable.** New runs used: *St. Louis Post-Dispatch* (1954–59), *Circleville Herald* (Ohio), plus AP copy in the *Hope Star* and *Washington C.H. Record-Herald*. Full-text search finds club names well; OCR quality varies by page. |
+| ameshistory.org | **Readable** (page text). One PDF memoir download stalled and was not retried. |
+| *Saturday Evening Post* scans (unz.org files on the Internet Archive) | **Readable**, but one item holds decades of issues, so finding an issue means scanning file names. |
 
 ### Round 15 status
 | Source | Round 15 status |

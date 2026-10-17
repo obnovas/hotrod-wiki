@@ -38,11 +38,13 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1952 | First Holiday Inn opens on Summer Avenue, Memphis, a cruising and drive-around strip | [Summer Avenue](../places/summer-avenue-memphis.md) |
 | 1952 | Memphis Rodders exhibit at Klyce Motors (Mar 15) ◐ | [Memphis](../places/memphis.md) |
 | 1952 ⚠ | ATAA's first races at Half Day, Ill. (Maremont Speedway), Apr 6 per NHRA citing Bayshore; the ATAA's 1954 release says 1953 | [Half Day](../drag-racing/half-day-ataa-maremont.md) |
+| 1952 | Belleville Gear Jammers organized in June under the Junior Chamber of Commerce (Belleville, Ill.) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | 1953 | First Detroit Autorama (45–50 cars) | [Show Circuit](../media/show-circuit.md) |
 | 1953 | Godman takes up drag racing and writes to Wally Parks | [Ray Godman](../voices/ray-godman.md) |
 | 1953 | Bartel & Lamona start the ATAA (cash purses). Otie Smith begins racing a '32 roadster at Akron | [Bob Bartel](../people/bob-bartel.md), [Akron Fulton](../drag-racing/akron-fulton-airport.md) |
 | 1953 | First race on the old Great Bend Army Air Field (May 12), per the club | [Great Bend](../drag-racing/great-bend-srca.md) |
 | 1953 | Henry Gregor Felsen's novel *Street Rod* published ($2.50, Kirkus); dedication to the Iowa Timing Association ⚠ (vs *Hot Rod*) | [*Street Rod* serial](../media/street-rod-newspaper-serial.md) |
+| 1953 ◐ | Earliest year mark we have found for a high school hot rod club: Sherman, Tex., seniors' lists run back to '53 | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
 | 1954 ⚠ | First World Series of Drag Racing, Lawrenceville, Ill. (vs 1956/1953; see [Bartel](../people/bob-bartel.md)) Sparkomatic founded | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Almquist](../people/ed-almquist.md) |
 | 1954 | *Motor Age* (Jun 1955) dates the first annual World Series to Oct 1954 at Lawrenceville (~350 hot rodders, ~10,000 spectators); Green Monster 132.35 mph ◐ | [Half Day](../drag-racing/half-day-ataa-maremont.md) |
 | 1954 | Multnomah Hot Rod Council founded. Wescott's begins | [Pacific NW](../places/pacific-northwest.md) |
@@ -57,12 +59,15 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1955 | Escanaba Drag-n's sponsor a members-only road race "to test speed judgment" (May 22) | [Escanaba](../drag-racing/escanaba-dragns.md) |
 | 1955 | Kansas City Timing Association's strip opens (Jul 17; $72,000, "18,000 paid spectators," per its organizer) ◐ | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
 | 1955 | Pensacola High yearbook lists a Hot Rod Club of about thirty; Chillicothe, Ohio, seniors will away a "Model A" Hot Rod Club | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
+| 1955 | Gear Jammers drags at Parks Metropolitan Airport, Cahokia, Ill. (Sept 18); St. Louis's Strokers Club boasts no traffic arrests (Aug) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | 1956 | First Portland Roadster Show | [Pacific NW](../places/pacific-northwest.md) |
 | 1956 | GSTA's first car show, Red Owl lot, Lake St & 22nd Ave S, Minneapolis | [Lake Street](../places/lake-street-university.md) |
 | 1956 | Maj. Eugene Pond's "Give the Hot Rodders a Break" runs in the National Safety Council's *Public Safety* (May) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
 | 1956 | Decatur, Ind., Road Runners hot rod club organized (Sept); 24 enrolled | [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md) |
 | 1956 | Quad City (Cordova) strip opens ⚠. Isky's first patent filed | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Patents](patents.md) |
 | 1956–57 | Portland's Central Catholic Ram Rods run the Safe-Teen safe-driving campaign | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
+| 1956 | 2,000 watch 104 cars at Walston Field near Parks Airport, "the only place in the St. Louis metropolitan area" for authorized drags (June 10) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
+| 1956 | Portsmouth, Ohio, phone strike: a hot rod club carries messages for hospitals (Sept); the 61-day blackout begins Oct 15 ⚠ | [Portsmouth](../drag-racing/portsmouth-kustom-kouriers.md) |
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1957 | UPI survey (Mar 19): the National Safety Council "in direct opposition to drag racing"; Cleveland bans street racing; a county-built strip near Denver reported ⚠ | [March 1957](../drag-racing/march-1957-drag-strip-survey.md) |
 | 1957 | Motor City Dragway opens. Garlits' Cordova upset; Postoian wins the final | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |
@@ -71,16 +76,20 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Twin Falls, Idaho, editorial "Our Main Avenue 'Drag Strip'" after a child's death (June 30); heavier fines (Dec) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | 1957 | *Recreation* magazine's pro-and-con on drag strips (June); Wilmington Automotive Activities held up as a model | [Recreation debate](../drag-racing/recreation-1957-pro-and-con.md) |
 | 1957 | Harrisburg, Ill.: a missing tombstone blamed on drag-car ballast (Aug 29, ◐) | [Twin Falls](../places/twin-falls-main-avenue.md) |
+| 1957 | Ames Drag Strip, Iowa, opens south of town (ATAA-sanctioned; Nightcrawlers club, Dr. Robert Lambert steward) | [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
 | 1958 | Sept *Hot Rod* ad sets off the Gasser Wars, per Isky | [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) |
 | 1958 | Von Dutch quits striping (per Bob Burns) | [Von Dutch](../voices/von-dutch.md) |
 | 1958 | Chuck Finders starts drag racing (Ohio) | [Ohio Gassers](../places/ohio-gassers.md) |
+| 1958 | Belleville Gear Jammers work the National Drags instead of racing and win *Car Craft*'s Sportsmanship Trophy; "St. Louis needs a drag strip" stickers (Nov) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | 1959 | Detroit Dragway opens and hosts the NHRA Nationals (1959–60) | [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
 | 1959 | Larivee brothers form Promotions Inc. | [Show Circuit](../media/show-circuit.md) |
 | 1959 | Otie Smith wins Middle Eliminator at the NHRA Nationals, Detroit (supercharged '23 T) | [Akron Fulton](../drag-racing/akron-fulton-airport.md) |
 | 1959 ◐ | Ed Almquist's reported partnership with Hurst and Campbell on floor shifters (a single local-press source) | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | 1959 ⚠ | Joe Schubeck's own date for the chassis company that becomes Lakewood; Holley's page says "the mid-1960s" | [Lakewood Industries](../companies/lakewood-industries.md) |
+| 1959 | Normandy, Mo., Drag-ons put a crated WWI Hispano Suiza aero engine up for sale (Mar) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
+| 1959 ◐ | Ames Drag Strip closes after the summer season | [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md) |
 | 1960 | Lakeland Dragway opens (Jul 4). Cal Automotive T body | [Memphis](../places/memphis.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1960 | Dick Wells becomes the first editor of *National Dragster* | [Dick Wells](../people/dick-wells.md) |
 | 1960s | Drag News era. Doris Herbert | [Drag Rags](../eras/1960s-drag-rags.md), [Doris Herbert](../people/doris-herbert.md) |
@@ -90,6 +99,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1961–62 | Hrudka brothers' class wins at the U.S. Nationals. Almquist and Hurst shifter patents filed | [Mr. Gasket](../companies/mr-gasket.md), [Patents](patents.md) |
 | 1961 | Carl Gay books Hayden Proffitt's Super Duty Catalina at the Gays' Houston Drag Raceway (bought by then) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
 | 1961 | A meeting with Pontiac's Bunkie Knudsen and Pete Estes puts a Hurst shifter in the Super Duty Catalina; in July Thompson trailers four Pontiac-powered cars to March Air Force Base for record runs | [Hurst-Campbell](../companies/hurst-campbell.md), [Mickey Thompson](../companies/mickey-thompson.md) |
+| 1961 | Twin Falls MVTA feature (Aug): about 30 members, still aiming to build a strip | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | 1962 | Revell's Roth Outlaw kit. Trend Books end and become Spotlite | [Kits & Roth](../media/trend-books-kits-roth.md) |
 | 1962 | The year *American Graffiti* (1973) depicts Modesto cruising | [Modesto](../places/modesto.md) |
 | 1962 | Vanke's Super Duty Pontiac at Knafel Pontiac, Akron | [Arlen Vanke](../people/arlen-vanke.md) |
@@ -101,6 +111,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1964 | Don Gay wins A/Stock at Indy. Altizer-Finders-Kibler "Traveler" B/GS record 9.76/146.57 (Nov, ◐) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
 | 1964 | Twin Falls Avenger Rod and Custom Car club forms "to get a drag strip" (Mar) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | 1964 | Gary Hooker rents a small Southern California shop and builds headers for Super Stock racers (his account ◐) | [Hooker Headers](../companies/hooker-headers.md) |
+| 1964 | Circleville, Ohio, Hot Rod Club (the Devastators) organized with a juvenile probation officer as adviser (Mar); Magic Valley Timing Association shares the gate of a Redheads basketball game (Mar 15) | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md), [Twin Falls](../places/twin-falls-main-avenue.md) |
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
 | 1965 | Gays' *Infinity* GTO Funny Car debuts (July 3, Dickinson). Hassel moves to Florida for Crane Cams. Virgil Cates's NHRA Comp title | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
 | 1965 | First annual MVTA Rod and Custom Show, Twin Falls (July 24–25) | [Twin Falls](../places/twin-falls-main-avenue.md) |

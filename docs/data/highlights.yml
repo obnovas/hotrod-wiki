@@ -426,3 +426,45 @@ highlights:
     added: '2026-10-17'
     eras: [1960s]
     regions: ["Abington, Pa.", "Warminster, Pa."]
+
+  - id: ames-nightcrawler-parking-ticket
+    headline: A hot rodder paid the math professor's parking ticket and left a thank-you on brown paper
+    teaser: Iowa State math professor Robert Lambert was the steward of the Nightcrawlers' club-run strip south
+      of Ames. When he got an overtime ticket while speaking up for the club, a member slipped fifty cents into the envelope.
+    link: drag-racing/ames-drag-strip-nightcrawlers.md
+    evidence: From a Nightcrawler who wants to show some small thanks
+    source_type: [Local news, Local history site]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-17'
+    eras: [1950s]
+    regions: ["Ames, Iowa"]
+
+  - id: belleville-gear-jammers-half-fine
+    headline: A Belleville hot rod club made members pay half of any traffic fine into its treasury
+    teaser: In 1956 the Gear Jammers ran the only authorized drag races in the metro area, at Walston Field near
+      Parks Airport in Cahokia, Illinois. A member arrested for a moving violation owed the club half his fine, and a second arrest meant expulsion.
+    link: drag-racing/belleville-gear-jammers.md
+    evidence: paid the club treasury a sum equal to half his fine
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-17'
+    eras: [1950s]
+    regions: ["Belleville, Ill.", "Cahokia, Ill.", "St. Louis, Mo."]
+
+  - id: portsmouth-hot-rod-couriers
+    headline: When a phone strike silenced Portsmouth, Ohio, the hot rod club carried the messages
+    teaser: In 1956 a violent telephone strike cut off the Ohio River city, and a local hot rod club organized its
+      members as couriers for hospitals. By 1957 it was calling itself the Kustom Kouriers Kar Club.
+    link: drag-racing/portsmouth-kustom-kouriers.md
+    evidence: organized its members to act as couriers for hospitals in the area
+    source_type: Local news
+    confidence: Medium
+    flag: conflict
+    grassroots: false
+    added: '2026-10-17'
+    eras: [1950s]
+    regions: ["Portsmouth, Ohio"]
