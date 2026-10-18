@@ -42,6 +42,10 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [The Iowan](https://archive.org/details/sim_iowan_february-march-1959_7_3) (regional magazine, Feb–Mar 1959, written and photographed by Ames locals; scanned OCR) → Dr. Robert Lambert, the Nightcrawlers and the strip's fees and layout → [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md).
 - *Times-News* (Twin Falls), Round 16 additions (1961–64) → the MVTA's lineage, meeting place and fundraisers → [Twin Falls](../places/twin-falls-main-avenue.md).
 
+- [Sedalia Democrat](https://archive.org/details/sedalia-democrat-1964-11-15) (Sedalia, Mo., 1956–70; scanned OCR) → the Drag-Ons' courtesy cards, letter, bylaws and boys'-ranch truck; eleven years of strip plans ending in the half-built Big S.I.R.; and visitors' and wire reports on Kansas City's strip (1957, 1959, 1966, 1969) → [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md), [Big S.I.R.](../drag-racing/sedalia-big-sir.md), [Kansas City](../drag-racing/kansas-city-timing-association.md).
+- [The Daily Record](https://archive.org/details/stroudsburg-daily-record-1958-05-24) (Stroudsburg, Pa., 1957–64; scanned OCR) → the Ridge Runners' club court, NHRA charter, safety clinic and letter to the editor, with the paper's editorial reply → [Ridge Runners](../drag-racing/stroudsburg-ridge-runners.md).
+- [Kingston Daily Freeman](https://archive.org/details/kingston-daily-freeman-1955-08-16) (Kingston, N.Y., 1955–59; scanned OCR) → the Igniters' founding, officers, strip hunt, home-show roadster and 1959 change to a motor club → [Kingston Igniters](../drag-racing/kingston-igniters.md).
+
 ### Obituaries and funeral-home pages
 - [Wendt Funeral Home](https://www.wendtfuneralhome.com/obituaries/robert-j-bartel) (Bob Bartel, 2018) → birthplace, marriage, the 1956 Cordova farm purchase → [Bob Bartel](../people/bob-bartel.md).
 - [Pike County Courier](https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961) (Almquist, 2015) → the 1947 founding date that conflicts with Hemmings → [Ed Almquist](../people/ed-almquist.md).
@@ -133,6 +137,13 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 17 status
+| Archive | Round 17 status |
+|---|---|
+| Internet Archive newspaper scans | **Readable.** New runs used: *Sedalia Democrat* (Mo.), *The Daily Record* (Stroudsburg, Pa.), *Kingston Daily Freeman* (N.Y.). Restricting full-text search to one paper with a `collection:` filter works well. A few downloads returned HTTP 500 and one came back empty; not retried past a second try. |
+| Internet Archive brochure and catalog scans (car brochures, AMC literature, *Catalog of Copyright Entries*) | **Readable** page OCR; useful for dating company addresses. |
+| Wikimedia Commons | **Readable** through the API; licenses checked file by file. |
 
 ### Round 16 status
 | Archive | Round 16 status |

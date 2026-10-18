@@ -70,6 +70,13 @@ nodes:
   - {id: woodward,   label: Woodward Avenue, type: place,   page: places/woodward.md}
   # ---- clubs, groups, institutions
   - {id: ohiogassers, label: The Ohio Gassers, type: club,  page: places/ohio-gassers.md}
+  # ---- Round 17: Missouri strips and clubs, and two catalogs
+  - {id: dragons,    label: Sedalia Drag-Ons, type: club,   page: drag-racing/sedalia-drag-ons.md}
+  - {id: kcstrip,    label: Kansas City Timing Assn. strip, type: place, page: drag-racing/kansas-city-timing-association.md}
+  - {id: bigsir,     label: "The Big S.I.R. (Sedalia)", type: place, page: drag-racing/sedalia-big-sir.md}
+  - {id: kcir,       label: Kansas City Int'l Raceway, type: place, page: drag-racing/kansas-city-timing-association.md}
+  - {id: dodge62,    label: Dodge (1962 brochure), type: institution, page: companies/hurst-campbell.md}
+  - {id: amc,        label: American Motors (1966-68 list), type: institution, page: companies/hurst-campbell.md}
   - {id: sema,       label: SEMA,            type: institution, page: people/ed-iskenderian.md}
 
 edges:
@@ -231,3 +238,25 @@ edges:
      evidence: ["Kustomrama says Doty bought the Jeep head patterns"]}
   - {from: doty, to: winfield, type: partnered, label: "Doty crewed with Winfield and Jean Marcenac on the 1948 Indy Novis", page: people/julian-doty.md,
      evidence: ["helping Ed Winfield and Jean Marcenac with the Novis"]}
+  # ----- Round 17: Missouri strips and clubs
+  - {from: dragons, to: kcstrip, type: scene, label: "Sedalia club members raced at the Kansas City strip, June 1957", page: drag-racing/sedalia-drag-ons.md,
+     evidence: ["Many of the local boys participated."]}
+  - {from: dragons, to: bigsir, type: scene, label: "The club asked for a Sedalia strip from 1958 on", page: drag-racing/sedalia-big-sir.md,
+     evidence: ["That was the year the [Sedalia Drag-Ons](sedalia-drag-ons.md) were writing to the paper asking for a strip."]}
+  - {from: bigsir, to: kcstrip, type: mentor, label: "Its secretary-treasurer had helped organize the 1955 Kansas City strip (one 1969 story)", page: drag-racing/sedalia-big-sir.md, flag: single-source,
+     evidence: ["was one of the planners and organizers of the first drag strip built in Missouri in 1955"]}
+  - {from: bigsir, to: kcir, type: scene, label: "AHRA World Points Final moved from KCIR to Sedalia, 1969 (never held there, as far as we know)", page: drag-racing/sedalia-big-sir.md,
+     evidence: ["had been moved from Kansas City International Raceway to Sedalia"]}
+  - {from: mthompson, to: kcir, type: promotion, label: "Thompson's Mach 1 Mustang held KCIR's low E.T., August 1969", page: drag-racing/kansas-city-timing-association.md,
+     evidence: ["Mickey Thompson's Mach 1 Mustang held the low E.T. of 7.37 seconds"]}
+  # ----- Round 17: the catalogs that listed Hurst
+  - {from: dodge62, to: hurst, type: promotion, label: "Listed Hurst-Campbell of Glenside, Pa., for shift conversions", page: companies/hurst-campbell.md,
+     evidence: ["Hurst-Campbell Inc., 341 W. Glenside Ave., Glenside, Pa. (shift conversions)"]}
+  - {from: dodge62, to: edelbrock, type: promotion, label: "Listed Edelbrock for manifolds", page: companies/hurst-campbell.md,
+     evidence: ["Edelbrock Equipment Co. in Los Angeles (manifolds)"]}
+  - {from: dodge62, to: isky, type: promotion, label: "Listed Isky for adjustable push rods", page: companies/hurst-campbell.md,
+     evidence: ["Ed Iskenderian in Inglewood"]}
+  - {from: dodge62, to: weiand, type: promotion, label: "Listed Weiand for manifolds", page: companies/hurst-campbell.md,
+     evidence: ["Weiand in Los Angeles (manifolds)"]}
+  - {from: amc, to: hurst, type: promotion, label: "Listed Hurst-Campbell's Warminster address for shift linkage", page: companies/hurst-campbell.md,
+     evidence: ["Hurst-Campbell, Inc. 50 West Street Road Warminster, Pa."]}

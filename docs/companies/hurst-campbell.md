@@ -3,7 +3,7 @@
 *Abington, Warminster, and the Bucks County magazines that watched it happen*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> two Bucks County magazines (*Panorama*, Oct 1965; *Bucks County Life*, Nov 1965 and Jan–Feb 1966), a family account from Bill Campbell's daughter, an enthusiast-press history (Ate Up With Motor), trade press (*Hot Rod*, 2020), patents · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ when the company reached Warminster; ⚠ incorporation date; ⚠ 1965 sales figure; ⚠ who conceived the rescue tool; ◐ Almquist's role · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> two Bucks County magazines (*Panorama*, Oct 1965; *Bucks County Life*, Nov 1965 and Jan–Feb 1966), a family account from Bill Campbell's daughter, an enthusiast-press history (Ate Up With Motor), trade press (*Hot Rod*, 2020), patents, and a Round 17 paper trail (a 1962 Dodge brochure, 1962–63 federal copyright registrations and a 1966 AMC parts list) · **Last verified:** 2026-10-18 (Round 17) · **Open issues:** ⚠ when the company reached Warminster (a 1962 Glenside address now favors the magazines' mid-1960s move, but doesn't rule out an earlier Warminster site); ⚠ incorporation date; ⚠ 1965 sales figure; ⚠ who conceived the rescue tool; ◐ Almquist's role · [How we rate this](../reference/source-standards.md)
 
 Hurst-Campbell, Inc., a Doylestown magazine told its Bucks County readers in October 1965, "has no employees." Everyone was an associate. The company had just opened a new 58,000-square-foot plant across from the Johnsville Naval Air Station in Warminster, and the founder and his partner swung open the doors to "welcome back their 250 vacationing associates."[^pan]
 
@@ -40,6 +40,19 @@ Almquist's own page, built on his Milford, Pennsylvania, obituary and a Port Jer
 | Partners' names | — | Anco Industries (Ate Up With Motor)[^auwm]; Almquist's page says Sparkomatic, with Anchel (obituary)[^alm] |
 
 The $6 million and $20 million figures may be different years, since "mid-sixties" is loose. The magazine has the earlier, contemporary number, and the history has the bigger one.
+
+## The paper trail: where to send your order
+*From the detective's notebook:* the surest way to place a mail-order speed company is to find the address it printed for customers. Three dull documents help with the Warminster question.
+
+**1962: a Dodge brochure.** A 1962 Dodge Dart 440 magazine-insert brochure, scanned by a Facebook group of brochure collectors, closes with "Additional high performance equipment available from independent manufacturers." Among them is "Hurst-Campbell Inc., 341 W. Glenside Ave., Glenside, Pa. (shift conversions)."[^dodge62] The company was in good company. The same list names Edelbrock Equipment Co. in Los Angeles (manifolds), Ed Iskenderian in Inglewood ("adj. push rods"), Weiand in Los Angeles (manifolds), Offenhauser Sales Corp., Howard Cams, Hedman Hedders, Camcraft of Detroit, ForgeTrue Pistons and Auto Marine Laboratories of Wyckoff, New Jersey. Hurst-Campbell is the only Pennsylvania firm on it.[^dodge62] See [Edelbrock](edelbrock-slingshot.md), [Ed Iskenderian](../people/ed-iskenderian.md) and [Barney Navarro](../people/barney-navarro.md) (for Weiand).
+
+Glenside is a census-designated place split between **Abington** and Cheltenham townships.[^glen] So a 1962 Glenside address fits *Panorama*'s "converted two-car garage in Abington," though we can't tell from the address alone which township No. 341 was in, or whether it was the garage.
+
+**1962–63: the copyright office.** The *Catalog of Copyright Entries* shows Hurst-Campbell, Inc., registering its own instruction sheets and folders: a "CV-2-202 conversion mount for '58-'62 Chevrolet 348-409 cubic inch engines" (June 29, 1962); "Competition/plus four speed floor shift" instructions; "Hurst dual pattern S/L shifter instructions"; a Hurst Fiberglas floor tunnel kit for '62 Dodge/Plymouth and Lancer/Valiant (Sept. 26, 1962); and "Hurst mystery shifter instructions" (Dec. 5, 1962).[^cce62] In the first half of 1963 came "Adjustatorque engine conversion mounts" (March 20), a sheet called "Instant success" (March 27), a folder titled "Spotlighting Hurst floor shifts," "Transmission mounts," and a rear crossmember for 1953–57 Studebakers.[^cce63] ◐ We have not seen any of these pieces, and we don't know what the "mystery shifter" was.
+
+**1966–68: American Motors.** AMC's own "Performance Activities" booklet for 1966–68, which lists outside suppliers of performance parts for its cars, gives "Hurst-Campbell, Inc. 50 West Street Road Warminster, Pa." under shift linkage.[^amc66]
+
+So the company was selling from Glenside in the 1962 model year and was in Warminster by the AMC list. That squares with *Panorama* calling the Warminster plant "new" in 1965, and it makes "opened for business in 1959" in Warminster harder to accept as written. It does not prove there was no earlier Warminster shop. A brochure may print an office address, and the brochure itself carries no printing date. ⚠ still open, but narrower.
 
 ## Detroit says yes
 
@@ -87,3 +100,8 @@ Patent drawing and the Lansing parade photo are credited above and in [Image Cre
 [^alm]: See [Ed Almquist](../people/ed-almquist.md), citing his obituary and the Port Jervis *Times Herald-Record*.
 [^pat]: See [Patents by Hot Rod Figures](../reference/patents.md): US 3,082,639 (filed 1962-09-11) and US 3,172,301 (filed 1962-10-15).
 [^hag]: Don Sherman, "These 6 performance parts are true hot rod heroes" ("The Hurst shifter"), Hagerty Media, Dec 3, 2020. https://www.hagerty.com/media/magazine-features/these-6-performance-parts-are-true-hot-rod-heroes/ (accessed 2026-10-16)
+[^dodge62]: *1962 Dodge Dart 440* magazine insert brochure, final page list of independent manufacturers; scanned and uploaded by the Car Brochures & Adverts Facebook Group. https://archive.org/details/1962-dodge-dart-440-magazine-insert-brochure (accessed 2026-10-18)
+[^glen]: "Glenside, Pennsylvania," Wikipedia. https://en.wikipedia.org/wiki/Glenside,_Pennsylvania (accessed 2026-10-18)
+[^cce62]: *Catalog of Copyright Entries*, Third Series, Part 1: Books and Pamphlets, July–Dec. 1962 (vol. 16, no. 2), entries under "Hurst-Campbell, Inc." https://archive.org/details/catalogofcopyrig3161lib (accessed 2026-10-18)
+[^cce63]: *Catalog of Copyright Entries*, Third Series, Part 1: Books and Pamphlets, Jan.–June 1963 (vol. 17, no. 1), entries under "Hurst-Campbell, Inc." https://archive.org/details/catalogofcopyrig31711lib (accessed 2026-10-18)
+[^amc66]: American Motors Corporation, "1966 1968 Performance Activities," supplier list ("Shift Linkage"). https://archive.org/details/1966-1968-performance-activities (accessed 2026-10-18)

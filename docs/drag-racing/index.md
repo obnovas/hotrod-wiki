@@ -11,16 +11,20 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Great Bend, Kansas](great-bend-srca.md): a club, a Chamber of Commerce letter and NHRA's first national event.
 - [Detroit Dragway & Cordova](detroit-cordova.md), [Akron Fulton Airport](akron-fulton-airport.md), [Houston Freeway Dragstrip](houston-freeway-dragstrip.md) and [Half Day, Illinois](half-day-ataa-maremont.md): airfield and purpose-built strips of the Midwest and Texas.
 - [The Professor's Drag Strip (Ames, Iowa)](ames-drag-strip-nightcrawlers.md): a math professor, the Nightcrawlers and 260 feet of pavement, 1957–59.
+- [The Big S.I.R. (Sedalia, Mo.)](sedalia-big-sir.md): eleven years of plans, a world final promised, and half a drag strip, 1958–70.
 
 **Clubs and timing associations**
 
 - [Modesto's Century Toppers](modesto-century-toppers.md): a club that met in a chicken-coop shop.
 - [The Cop and the Auto Shop (Escanaba)](escanaba-dragns.md): a Michigan policeman's club above an auto shop, 1954–55.
-- [The Detective Whose Son Was a Dragster (Kansas City)](kansas-city-timing-association.md): 32 clubs and a $72,000 strip.
+- [The Detective Whose Son Was a Dragster (Kansas City)](kansas-city-timing-association.md): 32 clubs, a $72,000 strip on $2-a-year railroad land, and the Dragettes.
 - [Hoosier Road Runners](indiana-small-town-clubs.md): small-town Indiana clubs, 1953–58.
 - [Hot Rod Club, Third Row](high-school-hot-rod-clubs.md): the high school car clubs in 1950s and 1960s yearbooks, from Sherman, Texas, to Portland's Ram Rods and Circleville's Devastators.
 - [Belleville's Gear Jammers & the St. Louis Strip Hunt](belleville-gear-jammers.md): a club that fined its own members, and a city that wanted a strip.
 - [Portsmouth, Ohio, 1956](portsmouth-kustom-kouriers.md): when a phone strike silenced the city, the hot rod club carried the messages.
+- [The Sedalia Drag-Ons](sedalia-drag-ons.md): courtesy cards, a half-fine bylaw and a truck rebuilt for a boys' ranch, 1957–64.
+- [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md): a Pocono club court, a work detail, and a strip the club offered to buy.
+- [The Kingston Igniters](kingston-igniters.md): four years hunting for a Hudson Valley strip, then a motor club.
 
 **Rules, safety and public opinion**
 

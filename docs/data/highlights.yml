@@ -468,3 +468,68 @@ highlights:
     added: '2026-10-17'
     eras: [1950s]
     regions: ["Portsmouth, Ohio"]
+
+  - id: sedalia-dragons-boys-ranch-truck
+    headline: A Missouri hot rod club rebuilt a 1950 truck for a boys' ranch, and fined ticketed members half the court fine
+    teaser: In 1964 Sedalia's Drag-Ons took on a donated 1950 truck for Tom Butterfield's new boys' ranch near Marshall.
+      Their bylaws made a member with a moving violation pay half his court fine and stand trial before the club.
+    link: drag-racing/sedalia-drag-ons.md
+    evidence: We voted it in pretty quick
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-18'
+    eras: [1950s, 1960s]
+    regions: ["Sedalia, Mo.", "Marshall, Mo."]
+    image: commons-pettis-county-courthouse-sedalia.jpg
+    image_alt: "The domed Pettis County Courthouse in Sedalia, Missouri"
+    image_note: "Pettis County Courthouse, where the club met in 1957; photo 2018."
+
+  - id: big-sir-half-a-drag-strip
+    headline: Sedalia was promised a world drag final and 100,000 fans. It got half a drag strip
+    teaser: In 1969 a Kansas City promoter broke ground on the Big S.I.R. south of Sedalia, Missouri, after neighbors
+      fought it off the State Fairgrounds. By Aug. 31 the builder had pulled out, leaving the strip about one-half completed.
+    link: drag-racing/sedalia-big-sir.md
+    evidence: pulled out and moved south
+    source_type: Local news
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-10-18'
+    eras: [1960s]
+    regions: ["Sedalia, Mo."]
+    image: commons-missouri-state-fair-gate-sedalia.jpg
+    image_alt: "The arched entry gate of the Missouri State Fair in Sedalia"
+    image_note: "Missouri State Fair gate, 2018, not the strip site."
+
+  - id: ridge-runners-work-detail
+    headline: A Pocono hot rod club put two members on trial and sentenced them to a work detail
+    teaser: In December 1957 the Ridge Runners of Stroudsburg, Pennsylvania, held a club court for two members who
+      had broken traffic laws. In 1958 the club told the local paper it was willing to buy its own land for a drag strip.
+    link: drag-racing/stroudsburg-ridge-runners.md
+    evidence: they were sentenced to a work detail
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-18'
+    eras: [1950s]
+    regions: ["Stroudsburg, Pa."]
+
+  - id: kansas-city-strip-two-dollar-lease
+    headline: Kansas City's 1955 drag strip sat on railroad land leased for $2 a year
+    teaser: A 1959 Kansas City Star feature says the Kansas City Southern Lines offered the Timing Association its
+      plot for $2 a year. That season the all-girl Dragettes ran the concession stand.
+    link: drag-racing/kansas-city-timing-association.md
+    evidence: a plot of land for $2 a year
+    source_type: Local news
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-10-18'
+    eras: [1950s]
+    regions: ["Kansas City, Mo."]
+    image: commons-chouteau-bridge-haer-1990.jpg
+    image_alt: "The old Chouteau Bridge across the Missouri River in Kansas City"
+    image_note: "Chouteau Bridge, 1990; the strip is not shown."

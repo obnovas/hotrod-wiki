@@ -10,6 +10,25 @@
 5. **File by topic.** Each new page goes in the one department that matches its subject (see [How the Site Is Organized](taxonomy.md#how-to-choose-a-department)). Sources are shown by the Grassroots badge and the ⚠ and ◐ flags, never by folder. If a page moves, add its old URL to `hooks/redirects.yml`.
 6. **Triage reader mail first.** Open issues labeled `triage` (corrections, source tips, suggestions) are handled before new research: label, verify, add unsettled leads to the breadcrumbs below, credit the reader in the round log, close with a note. See [Contribute](contribute.md) and `CONTRIBUTING.md`.
 
+## Log, Round 17 (strip-hunting clubs: Sedalia and the Big S.I.R., Stroudsburg, Kingston; Kansas City's strip found; Hurst's paper trail; 2026-10-18)
+- **Reader mail:** no open `triage` issues this round (checked on GitHub).
+- **New articles:** [The Sedalia Drag-Ons](drag-racing/sedalia-drag-ons.md) (Clubs; grassroots); [The Big S.I.R.: Sedalia's Eleven-Year Drag Strip Chase](drag-racing/sedalia-big-sir.md) (Strips; grassroots); [The Ridge Runners of Stroudsburg](drag-racing/stroudsburg-ridge-runners.md) (Clubs; grassroots); [The Kingston Igniters](drag-racing/kingston-igniters.md) (Clubs; grassroots).
+- **Expanded (additive only):** [Kansas City](drag-racing/kansas-city-timing-association.md) (second witnesses: a 1957 Sedalia club visit, a 1959 *Kansas City Star*/AP feature, a 1966 AHRA-sanctioned meet and a 1969 site description); [Hurst-Campbell](companies/hurst-campbell.md) (a 1962 Glenside address in a Dodge brochure, 1962–63 copyright registrations, a 1966–68 AMC Warminster listing).
+- **Resolved or narrowed:** Kansas City's strip now has a name, a place and a later life: "the Kansas City Timing Association drag strip" at Chouteau Trafficway and Front Street (1966), near the Chouteau Bridge (1969), on railroad land at $2 a year (1959), still running under AHRA sanction in 1966. Hurst's Warminster date is narrowed: the company printed a Glenside address in the 1962 model year, which favors the magazines' mid-1960s move over "opened for business in 1959" in Warminster, though it doesn't rule out an earlier Warminster shop.
+- **Found:** a Sedalia club courtesy card ("You Have Been Helped By The DRAG-ONS of SEDALIA"); a club president's letter hoping to make Sedalia "the safest city in the state"; a 1964 hot rod club rebuilding a truck for a boys' ranch, with bylaws charging half of any court fine; an oil men's association, a police chief and five clubs planning a strip in 1962; a 1969 strip that broke ground with an AHRA world final promised and ended "one-half completed"; a Pocono club that tried two members and sentenced them to a work detail, then offered to buy its own strip; a Hudson Valley club that showed a rebuilt 1931 Ford at a home show and became a motor club in 1959; Kansas City's all-girl Dragettes running the concession stand (1959); Hurst-Campbell in a 1962 Dodge supplier list beside Edelbrock, Isky and Weiand.
+- **New conflicts or single-source flags:** Kansas City opening day July 15 vs 17 ⚠ and length 3,850 vs 4,850 ft ⚠; "first drag strip built in Missouri" ◐; Weatherly Sr./Jr. and September vs Oct. 3–5 for the lost World Points Finale ⚠; whether the Big S.I.R. ever opened ◐; Carl Cline vs Carl Kline ◐; the Ridge Runners' NHRA "Safety High Point Award" ◐.
+- **Blocked or unavailable (not bypassed):** a few Internet Archive downloads returned HTTP 500 (including the *Sedalia Democrat* of Aug. 6, 1969), and one came back empty; we used other issues instead. Several passages were too garbled in OCR to quote (Stroudsburg's National Safety Council figures, the Allegheny County judge's first name, Sedalia's Jan. 1970 review), so they are paraphrased or left out.
+
+## Next breadcrumbs (Round 17)
+- **Big S.I.R.:** *Sedalia Democrat* 1970–72 for whether the strip ever opened; where the AHRA's 1969 World Points Finals were held; Pettis County lease or deed records for the Highway 65 site.
+- **Kansas City:** the *Kansas City Star* and *Times* of July 1955 (July 15 or 17); when the KCTA strip closed; the Dragettes' names; Kansas City International Raceway's opening year.
+- **Sedalia Drag-Ons:** the 1957 founding; the Marshall *Democrat-News* on the Push Rods; Butterfield Youth Services' own history for the 1964 truck; Whiteman AFB's 1958 drags.
+- **Stroudsburg:** the Northeastern Pennsylvania Timing Association (a *Car Craft*, Dec. 1959 item mentions a booth it built); Wind Gap's Mountain View strip and the Nazareth Fairgrounds strip; the Ridge Runners' officers.
+- **Kingston:** the Poughkeepsie PAL club (1956); whether any Ulster County strip was built; the Igniters after 1959.
+- **Hurst:** a Philadelphia-area city directory for 341 W. Glenside Ave.; the "Hurst mystery shifter" sheets of 1962–63; the first Warminster address in a dated catalog or ad.
+- **Half-fine rule:** whether Belleville's and Sedalia's identical penalty came from a common NHRA model.
+- **Carried:** Escanaba July–Aug 1955; the Denver county strip; Des Moines Dragway's opening year; Wilmington Automotive Activities; more school-club yearbooks; Peggy Hart's own words.
+
 ## Log, Round 16 (club-built strips and small-town clubs: Ames, Belleville and St. Louis, Portsmouth; Twin Falls and Circleville; 2026-10-17)
 - **Numbering note:** the Companies & Shops push on Oct 16 was committed as "Round 15," so this nightly round is Round 16.
 - **Reader mail:** no open `triage` issues this round.
@@ -24,11 +43,11 @@
 - **Ames:** the *Ames Tribune* originals for 1957–59 (opening day, the grandstand, the 1959 closing); Dr. Robert Lambert's later life or obituary; the Nevada, Iowa, airport drags he first entered; Dragzine's 2011 "Flashback Friday" photos (trade press, for leads only).
 - **Des Moines Dragway:** a primary source for its opening year, to test the museum's "first quarter-mile strip in Iowa" claim; ties to the Iowa Timing Association.
 - **ATAA after 1957:** other ATAA-sanctioned strips still advertising in 1958–59 (Ames is one); what "absorbed" meant in practice.
-- **St. Louis:** whether the Missouri side got a strip by 1960, and where; the Gear Jammers after Parks Airport closed in 1959; *Hot Rod*'s Jan 1959 Club of the Month write-up; the *New Leader* (June 25, 1956) and Granite City *Press-Record* mentions; Sedalia's Drag-On's and the club forming at Marshall, Mo. (*Sedalia Democrat*, Mar 9, 1958).
+- **St. Louis:** whether the Missouri side got a strip by 1960, and where; the Gear Jammers after Parks Airport closed in 1959; *Hot Rod*'s Jan 1959 Club of the Month write-up; the *New Leader* (June 25, 1956) and Granite City *Press-Record* mentions; Sedalia's Drag-On's and the club forming at Marshall, Mo. (*Sedalia Democrat*, Mar 9, 1958). *(Done in Round 17: [The Sedalia Drag-Ons](drag-racing/sedalia-drag-ons.md); Marshall's club was the Push Rods.)*
 - **Portsmouth:** the *Portsmouth Times*, Sept–Dec 1956, for the club's members and its new name; any later Kustom Kouriers notices.
 - **Twin Falls:** the 1964 Redheads game result; whether the MVTA ever got a strip after 1965; the Burley Charger and Buhl Syndicate clubs.
 - **Circleville:** the *Herald* 1964–67 for Devastators meets or a drag strip trip; Lancaster and Columbus clubs at the 1964 fair exhibit.
-- **Carried:** Kansas City's strip after 1955; Escanaba July–Aug 1955; the Denver county strip; Wilmington Automotive Activities in Delaware papers; more school-club yearbooks (Natick, Brockton, Fryeburg, Katy, Alamo Heights, Velma-Alma, West Bend, Ypsilanti); Peggy Hart's own words.
+- **Carried:** Kansas City's strip after 1955 *(advanced in Round 17: named, placed and still running in 1966)*; Escanaba July–Aug 1955; the Denver county strip; Wilmington Automotive Activities in Delaware papers; more school-club yearbooks (Natick, Brockton, Fryeburg, Katy, Alamo Heights, Velma-Alma, West Bend, Ypsilanti); Peggy Hart's own words.
 
 ## Log, Round 15 (Companies & Shops: ten profiles and the Web of Influence; 2026-10-16)
 - **Reader mail:** no open `triage` issues this round.
@@ -42,7 +61,7 @@
 ## Next breadcrumbs (Round 15)
 - **Companies not yet profiled:** Weiand (Holley acquisition and merger dates, from excerpts only so far); Offenhauser and Meyer-Drake; Cragar; American Racing; Mallory; JEGS; Mr. Gasket's ownership chain after Hagerty's summary ◐; Edelbrock beyond the slingshot page; Cal Custom and Cal Automotive; B&M and TCI.
 - **Summit:** local Stow, Cuyahoga Falls and Akron papers for the first shop; the 2017 RACER profile; early catalogs.
-- **Hurst:** the Warminster move (1959 versus 1965); a Philadelphia or Bucks County paper on the rescue tool; Joe Schubeck's driving of the Hairy Olds in a period source.
+- **Hurst:** the Warminster move (1959 versus 1965) *(narrowed in Round 17: Glenside address in 1962)*; a Philadelphia or Bucks County paper on the rescue tool; Joe Schubeck's driving of the Hairy Olds in a period source.
 - **Lakewood:** a Cleveland business listing or catalog for the start date; Prestolite and Quick Time ownership; whether the 2004 "Schubeck Joseph J" roller-lifter application is his (US20060005797A1).
 - **COMP:** a Memphis city directory for 706 Union and Marshall in 1968–70; Memphis papers on RHS's founders.
 - **Moroso:** the Guilford factory (1978) and the "Where It All Started" PDF; Connecticut papers on the Greenwich basement years.
