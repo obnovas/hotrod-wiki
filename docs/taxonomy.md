@@ -36,13 +36,13 @@ Each page lives in exactly one department, chosen by topic. A page built on loca
 |---|---|---|---|---|
 | 1 | [Eras](eras/index.md) | `eras/` | 6 | The calendar, decade by decade, from the dry lakes to Pro Street. |
 | 2 | [People & Builders](people/index.md) | `people/` | 28 | Machinists, racers, publishers and the families behind them. |
-| 3 | [Companies & Shops](companies/index.md) | `companies/` | 16 | Garage-born speed shops, the big aftermarket names they grew into, and the map of who connected to whom. |
+| 3 | [Companies & Shops](companies/index.md) | `companies/` | 17 | Garage-born speed shops, the big aftermarket names they grew into, and the map of who connected to whom. |
 | 4 | [Cars & Techniques](cars/index.md) | `cars/` | 3 | Individual cars, and how each period built them. |
 | 5 | [Customs & Kustom Kulture](customs/index.md) | `customs/` | 2 | The style: lead sleds, chops and the builders of customizing. |
 | 6 | [Street Rodding](street-rodding/index.md) | `street-rodding/` | 2 | The hobby of driving old cars: NSRA, the Nationals, fiberglass bodies. |
-| 7 | [Media & Shows](media/index.md) | `media/` | 3 | How the hobby was publicized and sold: magazines, books, kits, shows. |
-| 8 | [Drag Racing & Strips](drag-racing/index.md) | `drag-racing/` | 13 | Strips, clubs and timing associations, and the rules and arguments around them. |
-| 9 | [Places & Scenes](places/index.md) | `places/` | 19 | Regional scenes beyond California, plus cruise strips and hangouts. |
+| 7 | [Media & Shows](media/index.md) | `media/` | 4 | How the hobby was publicized and sold: magazines, books, kits, shows. |
+| 8 | [Drag Racing & Strips](drag-racing/index.md) | `drag-racing/` | 24 | Strips, clubs and timing associations, and the rules and arguments around them. |
+| 9 | [Places & Scenes](places/index.md) | `places/` | 21 | Regional scenes beyond California, plus cruise strips and hangouts. |
 | 10 | [Voices](voices/index.md) | `voices/` | 13 | In their own words: first-person accounts. |
 | 11 | [Reference](reference/index.md) | `reference/` and root pages | 12 | Timeline, index, patents, credits, standards, grassroots catalog, this page, contributing, the research trail and the bibliography. |
 

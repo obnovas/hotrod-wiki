@@ -61,6 +61,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1955 | Pensacola High yearbook lists a Hot Rod Club of about thirty; Chillicothe, Ohio, seniors will away a "Model A" Hot Rod Club | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
 | 1955 | Gear Jammers drags at Parks Metropolitan Airport, Cahokia, Ill. (Sept 18); St. Louis's Strokers Club boasts no traffic arrests (Aug) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | 1955 | Kingston, N.Y., Igniters organize (Aug) at a Hasbrouck Avenue garage and start a four-year hunt for a drag strip; 4,000 Safe Driving Day tags (Dec 1) | [Kingston Igniters](../drag-racing/kingston-igniters.md) |
+| 1955 | Escanaba's Teen Age Safety Conference resolves to steer mechanically inclined boys "into hot-rod clubs" (Jan 14); a "drag racing" ticket on Ludington St. (Jun 10); the Drag-n's last readable meeting notice (Jun 20) | [Escanaba](../drag-racing/escanaba-dragns.md) |
 | 1956 | First Portland Roadster Show | [Pacific NW](../places/pacific-northwest.md) |
 | 1956 | GSTA's first car show, Red Owl lot, Lake St & 22nd Ave S, Minneapolis | [Lake Street](../places/lake-street-university.md) |
 | 1956 | Maj. Eugene Pond's "Give the Hot Rodders a Break" runs in the National Safety Council's *Public Safety* (May) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
@@ -81,6 +82,8 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Ames Drag Strip, Iowa, opens south of town (ATAA-sanctioned; Nightcrawlers club, Dr. Robert Lambert steward) | [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md) |
 | 1957 | Sedalia, Mo., Drag-Ons plan courtesy cards and visit the Kansas City strip; members must join NHRA (June) | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md), [Kansas City](../drag-racing/kansas-city-timing-association.md) |
 | 1957 | Stroudsburg, Pa., Ridge Runners hold a club court and sentence two members to a work detail (Dec); NHRA charter member | [Ridge Runners](../drag-racing/stroudsburg-ridge-runners.md) |
+| 1957 | "Opinions Differ on Hot Rods": a sheriff, a police chief and a safety man at a New York towns convention in Buffalo (UP, Feb 14) | [Opinions Differ](../drag-racing/new-york-towns-panel-1957.md) |
+| 1957–58 | Franklin, N.C., seniors list "dragging Main" as a hobby in *The Laurel Leaf* | [Dragging Main](../places/dragging-main.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
 | 1958 | Sept *Hot Rod* ad sets off the Gasser Wars, per Isky | [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) |
@@ -103,6 +106,8 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1960s | Drag News era. Doris Herbert | [Drag Rags](../eras/1960s-drag-rags.md), [Doris Herbert](../people/doris-herbert.md) |
 | 1960 | "Ohio George" Montgomery wins Little Eliminator at the Nationals, Detroit Dragway | [Ohio Gassers](../places/ohio-gassers.md) |
 | 1960 | Magic Valley Timing Association organizes (July); Twin Falls commission votes to lease a strip site at Joslin Field (Oct 18; ◐ unbuilt?) | [Twin Falls](../places/twin-falls-main-avenue.md) |
+| 1960 | Jeg Coughlin Sr. founds Jeg's Automotive at 751 East Eleventh Avenue, Columbus, Ohio (county resolution) | [JEGS](../companies/jegs.md) |
+| 1960 ◐ | Mountain View drag strip, Wind Gap, Pa., likely opens (inferred from a 1964 "fifth season") | [Pocono strips](../drag-racing/pocono-strips.md) |
 | 1961 | Woodburn Dragstrip opens (eighth-mile) | [Pacific NW](../places/pacific-northwest.md) |
 | 1961–62 | Hrudka brothers' class wins at the U.S. Nationals. Almquist and Hurst shifter patents filed | [Mr. Gasket](../companies/mr-gasket.md), [Patents](patents.md) |
 | 1961 | Carl Gay books Hayden Proffitt's Super Duty Catalina at the Gays' Houston Drag Raceway (bought by then) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
@@ -113,6 +118,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1962 | Vanke's Super Duty Pontiac at Knafel Pontiac, Akron | [Arlen Vanke](../people/arlen-vanke.md) |
 | 1962 | Hurst-Campbell listed at 341 W. Glenside Ave., Glenside, Pa., in a Dodge brochure; first copyright registrations (June 29) | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | 1962 | Oil Men's Association and five Sedalia clubs plan a strip (Mar 4); Sedalia Missouri Timing Association formed (Mar 29), then "scrubbed" | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
+| 1962 | East Stroudsburg council plans locks for the new flood-control levee, which cars had been using "as a drag strip" (Aug) | [Pocono strips](../drag-racing/pocono-strips.md) |
 | 1963 | ISCA founded. AMT Customizing Team | [Show Circuit](../media/show-circuit.md), [Kits](../media/trend-books-kits-roth.md) |
 | 1963 | Southeast Guilford High, Greensboro, N.C., hot rod club (adviser James Russell) | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
 | 1963 | Harvey Crane of Hallandale, Fla., files his non-rotatable tappet patent (Mar 13; issued Oct 29), citing Isky's 1958 patent | [Crane Cams](../companies/crane-cams.md), [Patents](patents.md) |
@@ -123,6 +129,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1964 | Sedalia Drag-Ons rebuild a 1950 truck for Butterfield Boys Ranch; bylaws fine a ticketed member half his court fine (Nov) | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md) |
 | 1964 | Gary Hooker rents a small Southern California shop and builds headers for Super Stock racers (his account ◐) | [Hooker Headers](../companies/hooker-headers.md) |
 | 1964 | Circleville, Ohio, Hot Rod Club (the Devastators) organized with a juvenile probation officer as adviser (Mar); Magic Valley Timing Association shares the gate of a Redheads basketball game (Mar 15) | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md), [Twin Falls](../places/twin-falls-main-avenue.md) |
+| 1964 | A Mount Pocono mother proposes drag racing on the Mount Pocono airport's runway; the Ridge Runners, now incorporated with 18 members, publish their bylaws (Jun 5) | [Pocono strips](../drag-racing/pocono-strips.md), [Ridge Runners](../drag-racing/stroudsburg-ridge-runners.md) |
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
 | 1965 | Gays' *Infinity* GTO Funny Car debuts (July 3, Dickinson). Hassel moves to Florida for Crane Cams. Virgil Cates's NHRA Comp title | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
 | 1965 | First annual MVTA Rod and Custom Show, Twin Falls (July 24–25) | [Twin Falls](../places/twin-falls-main-avenue.md) |
@@ -141,6 +148,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1967 | Three Memphis drag racers open Racing Head Service in a basement, the start of COMP Cams | [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | 1968 ⚠ | Gene Snow's 200.88 mph at Dickinson: first 200-mph Funny Car pass (Aug 17, 1968, vs 1969). Cordova floods; World Series run at 1,000 ft | [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md) |
 | 1968 | A young engineer's discounted hop-up parts for his drag-racing buddies become Summit Racing; Moroso says its company began this year | [Summit Racing](../companies/summit-racing.md), [Moroso](../companies/moroso.md) |
+| 1968 | Pocono Drag Lodge, Bear Creek, Pa.: 220 drivers on one August Sunday; third annual Funny Car, Super Stock and Gas Spectacular. Pocono International Speedway's opening race (Oct), with a drag strip in its plans | [Pocono strips](../drag-racing/pocono-strips.md) |
 | 1969 | Summit opens its first retail store in Akron (RACER) | [Summit Racing](../companies/summit-racing.md) |
 | 1969 | The Big S.I.R.: Sedalia International Dragway announced (May), moved to the old hog barns after neighbors object, ground broken (July 22); builder pulls out with the strip "about one-half completed" (Aug 31) ⚠ | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | 1969 | Mickey Thompson's Mach 1 Mustang holds Kansas City International Raceway's low E.T., 7.37 (Aug) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
@@ -159,6 +167,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1976 | Competition Cams formed by six partners, producing out of RHS's warehouse | [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | 1979 | Merc/Deuce Reunion. Lakeland Dragway closes | [KKOA](../customs/kkoa-lead-sled-revival.md), [Memphis](../places/memphis.md) |
 | 1979 ⚠ | Sheriff closes Whittier Blvd to weekend cruising (Mar 23 or Aug 31) | [Whittier Blvd](../places/whittier-blvd.md) |
+| 1979 | Scottsbluff, Neb., yearbook: "Anyone or anything we looked for was sure to be found while dragging main" | [Dragging Main](../places/dragging-main.md) |
 | 1980 | KKOA founded, Wichita (Oct 1) | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | 1980s | Pro Street | [Pro Street](../eras/1980s-pro-street.md) |
 | 1980–83 ⚠ | LAPD closes and barricades Van Nuys Blvd | [Van Nuys](../places/van-nuys.md) |
@@ -168,12 +177,15 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1986 | Bartel sells Cordova to Bob Gipson | [Bob Bartel](../people/bob-bartel.md) |
 | 1987 ⚠ | Houston Freeway / International Dragway closes (forum working date) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
 | 1987 | Lee McCullough starts Cruise Night at Johnie's Broiler, Downey | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
+| 1987 | Hays, Kan., yearbook maps the dragging-Main route, Fox Theater corner to the Varsity Drive-In ⚠ start point | [Dragging Main](../places/dragging-main.md) |
 | 1988 | Howard Johansen dies (age 78) | [Howard Johansen](../people/howard-johansen.md) |
 | 1988 | Street Rod Nationals first held in Louisville | [NSRA](../street-rodding/nsra-early-nationals.md) |
 | 1988 | Snow's 4.997 at the new Houston Raceway Park, Baytown (Oct 6), co-founded by the Gay family | [Gene Snow](../people/gene-snow.md), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
 | 1988 | Mickey Thompson and his wife Trudy are murdered at their Bradbury, Calif., home, March 16 | [Mickey Thompson](../companies/mickey-thompson.md) |
+| 1989 | First JEGS mail-order catalog (34,000 copies, per a 2015 trade feature) | [JEGS](../companies/jegs.md) |
 | 1990 | Modesto passes anti-cruising ordinances (Mar 27) | [Modesto](../places/modesto.md) |
 | 1997 | LA County anti-cruising ordinance (2 passes in 6 hours) | [Whittier Blvd](../places/whittier-blvd.md) |
+| 1999 | JEGS opens its headquarters and distribution center at 1 Jegs Place, Delaware, Ohio | [JEGS](../companies/jegs.md) |
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../places/central-avenue-albuquerque.md) |
 | 2005 ⚠ | Inyokern strip shut after an FAA threat; date of the last race disputed | [Inyokern](../drag-racing/inyokern-dust-devils.md) |
 | 2010 | Dick Wells dies (Jan 18), NSRA's "first active president" ⚠ | [Dick Wells](../people/dick-wells.md) |

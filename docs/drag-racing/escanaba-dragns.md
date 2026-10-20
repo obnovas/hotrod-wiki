@@ -1,7 +1,7 @@
 # The Cop and the Auto Shop: Escanaba's Drag-n's, 1954–55
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local daily newspaper (*Escanaba Daily Press*, four items Jan–May 1955, read as scanned OCR), wire feature carried by the same paper (Jul 1954) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** OCR is rough and a few names and one address are uncertain (flagged); no report of the club's drag strip, auto show or race results was found in the issues we could read; the Mexican Road Race claim is unverified ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local daily newspaper (*Escanaba Daily Press*, seven club items, a school safety conference and a police-ticket column, Jan–Jun 1955, read as scanned OCR), wire feature carried by the same paper (Jul 1954) · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** OCR is rough and a few names and one address are uncertain (flagged); no report of the club's drag strip, auto show or race results was found in the January–June 1955 issues on the archive (July onward is not on the archive, and four earlier issues would not download); the Mexican Road Race claim is unverified ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "An organized hot rod club is not a group of thrill drivers menacing the streets and highways as most of the people in this area believe."
@@ -10,7 +10,7 @@
 
 A Michigan policeman spent a year driving to another town every weekend to run with its car club. Then he came home and started his own, above an auto shop.
 
-That is the short version of **Kemp Sabourin** and **Bill Miller**, the two men behind the **Drag-n's Auto Club** of Escanaba, a small city whose daily paper billed itself as serving the "Upper Peninsula's Leading Trade Area."[^apr23] The *Escanaba Daily Press* covered them four times in the first five months of 1955. Their small, earnest story has none of the usual hot rod landmarks. There is no dry lake and no famous shop. There is a police officer, an auto shop with a clubroom upstairs, a strict rulebook and, by the paper's account, a town that mostly believed the worst of hot rodders.
+That is the short version of **Kemp Sabourin** and **Bill Miller**, the two men behind the **Drag-n's Auto Club** of Escanaba, a small city whose daily paper billed itself as serving the "Upper Peninsula's Leading Trade Area."[^apr23] The *Escanaba Daily Press* gave them a feature and six shorter notices between January and June 1955. Their small, earnest story has none of the usual hot rod landmarks. There is no dry lake and no famous shop. There is a police officer, an auto shop with a clubroom upstairs, a strict rulebook and, by the paper's account, a town that mostly believed the worst of hot rodders.
 
 ## The weekend commute
 The April 23, 1955 feature says Sabourin, "a member of the city police force," and Miller "decided to organize a local hot rod club after spending a year of traveling to Kingsford every week end" to take part in the activities of a Kingsford car club. The scan reads "Kingsford Shailenger's Auto Club," and we cannot be sure of that spelling (OCR). It adds that Sault Ste. Marie and the Copper Country also had hot rod clubs.[^apr23] ◐ The April 16 notice says Escanaba's club was formed "along the lines of similar clubs in Iron Mountain and other cities."[^apr16]
@@ -45,7 +45,20 @@ The Drag-n's wanted a drag strip, and the paper says where. It was "a quarter mi
 
 The one event we can document is smaller. A notice on **May 21, 1955** says the club would sponsor "a road race to test speed judgment" on Sunday, May 22, starting at noon from the clubhouse. Only members could enter, "although the public is invited to attend," and prizes would be awarded.[^may21] That is a judgment test, not a timed drag run, which fits the club's safety message. We found no report of the result.
 
-**From the detective's notebook: what we could not find.** We searched the readable *Escanaba Daily Press* issues from late April through June 1955 for the strip, the auto show and the race results and found nothing. The July–August issues we tried returned errors, and not every day is in the archive. The OCR also misses words. Treat the strip and the auto show as plans, not events. ◐
+**From the detective's notebook: what we could not find.** We searched every readable *Escanaba Daily Press* issue on the archive from January through June 1955 for the strip, the auto show and the race results and found nothing. The archive's run of this paper for 1955 stops at June 30: the July through September issues we tried do not exist there. Four issues in between (Jan. 1, Feb. 12, Feb. 21 and May 30) returned server errors on every try, so we could not search them. The OCR also misses words. Treat the strip and the auto show as plans, not events. ◐
+
+## More from the paper's small print (added Round 18)
+A second pass through the January–June issues turned up four more mentions. None is a headline. Together they show a club the paper kept on its calendar.
+
+- **The conference that came first.** On **January 14, 1955**, nine days after the club's organization notice, the paper reported on the second annual regional Teen Age Safety Conference at Escanaba Senior High School, with "more than 100" students from area high schools. Among the resolutions the delegates adopted: "that an attempt be made to channel the abilities and interests of boys, who are mechanically inclined, into hot-rod clubs or other constructive programs," and that "the community be informed as to the real purpose of hot-rod clubs and other driver education programs."[^jan14] The Drag-n's rulebook, with its plates and 30-day suspensions, reads like an answer to that second resolution. The paper does not connect the two, and neither do we. ◐
+- **Meeting notices.** On April 13 the paper announced a "special meeting" for Thursday evening at the club room on Washington Avenue, and its April 18 sports column listed the Drag-n's among the evening's meetings.[^apr13][^apr18] April 18, 1955 was a Monday, which fits the Monday-night schedule the January item gave.
+- **June 20, 1955.** A "Briefly Told" item said "a special meeting of the Drag-n's Auto Club will be held at 7:30 tonight" at 1418 Washington Avenue, adding that "the public is invited to attend and all members are requested to be present."[^jun20] It is the last club item we can read, and it shows the club still meeting a month after the May 22 road race. It does not say why the meeting was special. ◐
+- **Street racing in town.** On June 10, 1955 the police-ticket column listed a Green Bay motorist for "speeding and 'drag racing' on Ludington St." The item says nothing about the Drag-n's, and nothing in the paper ties them to it.[^jun10] We mention it because it is the only traffic ticket for "drag racing" that turned up in our search of these issues, and it fell in the same weeks the club was preaching safe driving.
+
+<figure markdown>
+![Brick storefronts along the 1200 block of Ludington Street in downtown Escanaba, Michigan](../assets/images/commons-escanaba-ludington-1200-block.jpg){ loading=lazy }
+<figcaption markdown>The 1200 block of Ludington Street, Escanaba's main street, in 2014. A Green Bay motorist was ticketed in June 1955 for "drag racing" on Ludington St.; the item gives no block, so this photo shows the street, not the spot. Creator: Yooperann. Date: 2014-10-23. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1200_Block_Ludington_Street,_Escanaba,_MI.JPG). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
+</figure>
 
 ## Where this fits
 - **The wire story that came first.** In July 1954 the same paper ran a feature headed "Hot Rodders Playing It Safe" about the Chicago-area Automobile Timing Association of America, with the line that the group came into being in 1953. See [Half Day, Illinois](half-day-ataa-maremont.md).
@@ -58,3 +71,8 @@ Scans of the *Escanaba Daily Press* are on the Internet Archive from the Newspap
 [^apr16]: "Hot Rod Club To Hold Meeting Monday Night," *Escanaba Daily Press*, Apr 16, 1955 (OCR). https://archive.org/details/escanaba-daily-press-1955-04-16 (accessed 2026-10-15)
 [^jan5]: Item on the organization of the Escanaba Drag-n's Auto Club, *Escanaba Daily Press*, Jan 5, 1955 (OCR). https://archive.org/details/escanaba-daily-press-1955-01-05 (accessed 2026-10-15)
 [^may21]: "Drag-n's Auto Club Will Sponsor Race," *Escanaba Daily Press*, May 21, 1955 (OCR). https://archive.org/details/escanaba-daily-press-1955-05-21 (accessed 2026-10-15)
+[^jan14]: "Teen-Agers Discuss Problems Of Safety," *Escanaba Daily Press*, Jan 14, 1955, p. 2 (OCR). https://archive.org/details/escanaba-daily-press-1955-01-14 (accessed 2026-10-18)
+[^apr13]: "Hot Rod Club" notice, *Escanaba Daily Press*, Apr 13, 1955 (OCR). https://archive.org/details/escanaba-daily-press-1955-04-13 (accessed 2026-10-18)
+[^apr18]: Sports column mentioning the Drag-n's meeting, *Escanaba Daily Press*, Apr 18, 1955 (OCR). https://archive.org/details/escanaba-daily-press-1955-04-18 (accessed 2026-10-18)
+[^jun10]: "Motorists Ticketed" item, *Escanaba Daily Press*, Jun 10, 1955 (OCR). https://archive.org/details/escanaba-daily-press-1955-06-10 (accessed 2026-10-18)
+[^jun20]: "Drag-n's Auto Club" item in "Briefly Told," *Escanaba Daily Press*, Jun 20, 1955 (OCR). https://archive.org/details/escanaba-daily-press-1955-06-20 (accessed 2026-10-18)

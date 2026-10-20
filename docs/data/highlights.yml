@@ -533,3 +533,58 @@ highlights:
     image: commons-chouteau-bridge-haer-1990.jpg
     image_alt: "The old Chouteau Bridge across the Missouri River in Kansas City"
     image_note: "Chouteau Bridge, 1990; the strip is not shown."
+
+  - id: ridge-runners-swearing-fine
+    headline: A Pocono hot rod club fined members twenty-five cents a word for swearing in meetings
+    teaser: 'In 1964 a member''s wife quoted the Ridge Runners'' bylaws to the Stroudsburg paper: a member
+      caught drag racing on the highway was fined and expelled for sixty days. She asked the local airport
+      to let the club race on its runway instead.'
+    link: drag-racing/stroudsburg-ridge-runners.md#1964-incorporated-and-still-asking
+    evidence: twenty-five cents per word
+    source_type: [Local news, Family account]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-20'
+    eras: [1960s]
+    regions: ['Stroudsburg, Pa.']
+    image: commons-stroudsburg-main-at-broad-2022.jpg
+    image_alt: Main Street at Broad Street in downtown Stroudsburg, Pennsylvania
+    image_note: Stroudsburg's Main Street, 2022; context only.
+
+  - id: hays-dragging-main-route
+    headline: In 1987 a Kansas yearbook mapped dragging Main, from the Fox Theater corner to the Varsity
+      Drive-In
+    teaser: 'Two Hays High students wrote that it was "very hard to cross Main between 8 p.m. and 12 a.m."
+      on weekend nights. Their verdict: "Frankly, some parents are glad that their kids are on Main rather
+      than getting into trouble somewhere else."'
+    link: places/dragging-main.md#hays-kansas-1987-the-full-route
+    evidence: the Fox Theater corner
+    source_type: [Archive, "Local news"]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-10-20'
+    eras: [1980s]
+    regions: ['Hays, Kan.']
+    image: commons-hays-kansas-700-main-2014.jpg
+    image_alt: A streamlined former filling station at 700 Main Street in Hays, Kansas
+    image_note: 700 Main Street, Hays, 2014; context only.
+
+  - id: stroudsburg-levee-drag-strip
+    headline: A Pennsylvania town's new flood levee doubled as a drag strip until the council talked padlocks
+    teaser: In 1962 East Stroudsburg councilmen found tire marks along the 19-foot-wide levee and heard
+      reports of drivers racing there. Six years later a strip on Route 115 drew 220 drivers on one August
+      Sunday.
+    link: drag-racing/pocono-strips.md#1962-the-flood-levee
+    evidence: using the 19-foot wide area as a drag strip
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-20'
+    eras: [1960s]
+    regions: ['Stroudsburg, Pa.', 'Bear Creek, Pa.']
+    image: commons-pa-115-bear-creek-village-2023.jpg
+    image_alt: Pennsylvania Route 115 curving through woods in Bear Creek Village
+    image_note: PA 115 at Bear Creek, 2023; not the strip site.

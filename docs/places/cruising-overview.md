@@ -19,6 +19,7 @@ This section documents the **cruise strips, drive-ins, parking-lot meets and str
 | Texas | [Westheimer, Houston](westheimer-houston.md) | 1980s | Strip loop | Regional repeat gathering |
 | Southwest | [Central Ave, Albuquerque](central-avenue-albuquerque.md) | (2005–2018 policing) | Later chapter | Car-club program (2018) |
 | Mountain West | [Main Avenue, Twin Falls, Idaho](twin-falls-main-avenue.md) | 1957–1960s | Main-street drags, "dragging Main" | Magic Valley Timing Association; Avenger Rod and Custom Car club |
+| Small towns (N.C., Calif., Neb., Kan.) | [Dragging Main](dragging-main.md) | 1950s–1980s | The loop between drive-ins, in kids' own words | Hays: Fox Theater corner to the Varsity Drive-In |
 
 ## How cruising was policed or ended
 

@@ -17,6 +17,7 @@ The brands every catalog carries, told from their first garage, first ad or firs
 - [Summit Racing](summit-racing.md): a Corvette, a donut-shop basement and two small magazine ads.
 - [Mickey Thompson](mickey-thompson.md): the Times pressman who dug the post holes for Lions himself.
 - [Edelbrock's Slingshot](edelbrock-slingshot.md): how a Breawood Garage mechanic became a manufacturer.
+- [JEGS](jegs.md): a Columbus racer who opened his own speed shop in 1960 and grew it into a mail-order giant.
 
 ## Garage-born shops
 

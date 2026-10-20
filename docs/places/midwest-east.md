@@ -14,7 +14,7 @@ See also [Ed Almquist](../people/ed-almquist.md) (PA), [Setto Postoian](../peopl
 
 ## JEGS: Columbus, Ohio, 1960
 
-Jeg Coughlin was "frustrated by the unavailability of quality car parts in his Midwest hometown." In 1960 he opened **JEGS Automotive** in a 4,000 sq ft Columbus shop, "half garage, half parts store," building engines part-time and hunting down parts to sell.[^jegs] He turned the business over to his four sons in the early 1990s.[^jegs] Search summaries mention earlier borrowed gas-station space and a Bonham Avenue building, then an 11th Avenue store. ◐ *Columbus Dispatch pages were paywalled; not verified.*[^disp]
+Jeg Coughlin was "frustrated by the unavailability of quality car parts in his Midwest hometown." In 1960 he opened **JEGS Automotive** in a 4,000 sq ft Columbus shop, "half garage, half parts store," building engines part-time and hunting down parts to sell.[^jegs] He turned the business over to his four sons in the early 1990s.[^jegs] Search summaries mention earlier borrowed gas-station space and a Bonham Avenue building, then an 11th Avenue store. ◐ *Columbus Dispatch pages were paywalled; not verified.*[^disp] The full company profile, with the county's 1960 address, is at [JEGS](../companies/jegs.md).
 
 ## The Slo-Pokes of Peoria
 

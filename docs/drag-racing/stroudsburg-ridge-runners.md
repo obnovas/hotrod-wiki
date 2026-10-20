@@ -1,7 +1,7 @@
-# The Ridge Runners of Stroudsburg: A Club Court, a Work Detail and a Strip They Offered to Buy (1957–61)
+# The Ridge Runners of Stroudsburg: A Club Court, a Work Detail and a Strip They Offered to Buy (1957–64)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*The Daily Record*, Stroudsburg, Pa.): club meeting notes, a member's report, and the club's own letter to the editor with the paper's editorial reply (May 24, 1958), all read as scanned page OCR · **Last verified:** 2026-10-18 (Round 17) · **Open issues:** no club officers named in the items we read; whether the club ever got its strip is not found; the Allegheny County judge's first name and the National Safety Council figures in the letter are garbled in the scan, so we leave them out · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*The Daily Record*, Stroudsburg, Pa.): club meeting notes, a member's report, the club's own letter to the editor with the paper's editorial reply (May 24, 1958), and a member's wife's letter quoting the club's constitution and bylaws (June 5, 1964), all read as scanned page OCR · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** no club officers named in the items we read; where the half-fine rule came from ◐; whether the club ever got its strip is not found; the Allegheny County judge's first name and the National Safety Council figures in the letter are garbled in the scan, so we leave them out · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We suggest that you would spend a little more time trying to understand and help teenage drivers, work with them instead of condemning them."
@@ -45,10 +45,25 @@ By March 1961 the Ridge Runners were judging a **model-building contest**. The *
 
 The paper also covered a second Monroe County hot rod club, the **Pocono Pacers** of Mountainhome, "a hot rod club" sponsored by the YMCA, whose vice president was Frank Doll.[^dr571114] And the region did get strips, though no source we've read ties them to the Ridge Runners: by April 1964 the Mountain View drag strip in Wind Gap was opening "its fifth season of racing."[^dr640404]
 
-**Related:** [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).
+## 1964: incorporated, and still asking
+Six years after the letter to the judge, the club was still in business and still without a strip. On June 5, 1964, the *Daily Record* printed a letter from the wife of a member, who lived in Mount Pocono. By then the club was the **Ridge Runners Auto Club Inc. of Monroe County**. It had "received its charter from Harrisburg" and was a member of the National Hot Rod Association, she wrote, and it had **eighteen members**, fewer than half the 40 of 1958.[^dr640605] It still met every Tuesday night.
+
+Her letter is the only place we have found the club's own rulebook quoted, and she quoted it generously (the scan is rough; we correct obvious OCR slips):[^dr640605]
+
+- **Who could join** (Article III): the club was "for all young men with a driving permit or license, or whose interests are of a mechanical or administrative nature."
+- **What it was for** (Article II): "to promote safe and sound driving practices on the streets and highways—to acquaint the general public with the joys of motoring as a sport, not merely as a means of transportation,— to help unveil to the public the true meaning of the 'Hot Rod'."
+- **Swearing:** "Any member swearing in council meeting shall be fined twenty-five cents per word . . . to be paid on the spot."
+- **Traffic tickets:** a member who got a traffic violation paid the club "up to one-half of the fine imposed by the local police department."
+- **Highway drag racing:** a member caught at it, "whether by police or members of this organization," was fined $5 for a first offense and $25 for a second, and expelled "for a period of sixty days minimum."
+
+*From the detective's notebook:* that half-fine rule is the third one we have found. [Belleville's Gear Jammers](belleville-gear-jammers.md) made members pay half of any traffic fine into the treasury, and the [Sedalia Drag-Ons](sedalia-drag-ons.md)' bylaws charged half of any court fine. Belleville is in Illinois, Sedalia in Missouri and Stroudsburg in Pennsylvania. Belleville ran NHRA-billed drags and the Ridge Runners belonged to NHRA, but we have no NHRA link for Sedalia. A shared NHRA model rulebook would explain it, but none of the three sources says so, and we have not found such a model. ◐
+
+The letter's real purpose was a strip, and it is told on [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): she proposed that the Mount Pocono Airport Authority let the club race on its runway and keep the proceeds.
+
+**Related:** [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).
 
 ## Next leads
-The Northeastern Pennsylvania Timing Association (a *Car Craft* item of December 1959 mentions a booth it built); Mountain View (Wind Gap) and Nazareth strip histories; the Allegheny County editorial's original source; club officers' names.
+The Northeastern Pennsylvania Timing Association (a *Car Craft* item of December 1959 puts its booth at the NHRA's Detroit custom show; see [the Pocono strips page](pocono-strips.md)); Mountain View (Wind Gap) and Nazareth strip histories; the Allegheny County editorial's original source; club officers' names.
 
 ## Sources
 
@@ -65,3 +80,4 @@ The Northeastern Pennsylvania Timing Association (a *Car Craft* item of December
 [^dr591028]: "Club Plans Inspection," *The Daily Record*, Oct. 28, 1959. Page OCR. https://archive.org/details/stroudsburg-daily-record-1959-10-28 (accessed 2026-10-18)
 [^dr610311]: "Awards Given" photo caption, *The Daily Record*, March 11, 1961. Page OCR. https://archive.org/details/stroudsburg-daily-record-1961-03-11 (accessed 2026-10-18)
 [^dr640404]: "Open Drag Strip," *The Daily Record*, April 4, 1964. Page OCR. https://archive.org/details/stroudsburg-daily-record-1964-04-04 (accessed 2026-10-18)
+[^dr640605]: Mrs. ... Heller (first name garbled in the scan), Mount Pocono, letter to the editor, "Drag Races Suggested At Pocono Airport," *The Daily Record*, June 5, 1964, p. 4. Page OCR. https://archive.org/details/stroudsburg-daily-record-1964-06-05 (accessed 2026-10-20)

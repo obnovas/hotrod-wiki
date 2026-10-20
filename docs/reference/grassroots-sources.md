@@ -45,6 +45,9 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Sedalia Democrat](https://archive.org/details/sedalia-democrat-1964-11-15) (Sedalia, Mo., 1956–70; scanned OCR) → the Drag-Ons' courtesy cards, letter, bylaws and boys'-ranch truck; eleven years of strip plans ending in the half-built Big S.I.R.; and visitors' and wire reports on Kansas City's strip (1957, 1959, 1966, 1969) → [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md), [Big S.I.R.](../drag-racing/sedalia-big-sir.md), [Kansas City](../drag-racing/kansas-city-timing-association.md).
 - [The Daily Record](https://archive.org/details/stroudsburg-daily-record-1958-05-24) (Stroudsburg, Pa., 1957–64; scanned OCR) → the Ridge Runners' club court, NHRA charter, safety clinic and letter to the editor, with the paper's editorial reply → [Ridge Runners](../drag-racing/stroudsburg-ridge-runners.md).
 - [Kingston Daily Freeman](https://archive.org/details/kingston-daily-freeman-1955-08-16) (Kingston, N.Y., 1955–59; scanned OCR) → the Igniters' founding, officers, strip hunt, home-show roadster and 1959 change to a motor club → [Kingston Igniters](../drag-racing/kingston-igniters.md).
+- [The Daily Record / The Pocono Record](https://archive.org/details/stroudsburg-daily-record-1964-06-05) (Stroudsburg, Pa.), Round 18 additions (1962–68): a council report on levee drag racing, a club member's wife's letter with the Ridge Runners' bylaws, and the Pocono Drag Lodge's ads and Monday results → [Pocono strips](../drag-racing/pocono-strips.md), [Ridge Runners](../drag-racing/stroudsburg-ridge-runners.md).
+- *Kingston Daily Freeman*, Round 18 addition: a UP wire story from the 1957 New York towns convention → [Opinions Differ on Hot Rods](../drag-racing/new-york-towns-panel-1957.md).
+- *Escanaba Daily Press*, Round 18 additions (Jan–Jun 1955): a teen safety conference's hot rod resolutions, meeting notices and a police-ticket column → [Escanaba](../drag-racing/escanaba-dragns.md).
 
 ### Obituaries and funeral-home pages
 - [Wendt Funeral Home](https://www.wendtfuneralhome.com/obituaries/robert-j-bartel) (Bob Bartel, 2018) → birthplace, marriage, the 1956 Cordova farm purchase → [Bob Bartel](../people/bob-bartel.md).
@@ -56,6 +59,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 ### Oral history and interviews
 - [Modestoview](https://www.modestoview.com/gene-winfield-interview/) (Chris Murphy's interview with Gene Winfield) → the Century Toppers' founding "in late '47," the coop shop, early racing roads → [Century Toppers](../drag-racing/modesto-century-toppers.md).
 - [Southern Foodways Alliance](https://www.southernfoodways.org/oral-history/summer-avenue-memphis/) (Summer Avenue, Memphis oral history project, 2021) → the avenue's early chain businesses (the first Holiday Inn, 1952) → [Summer Avenue, Memphis](../places/summer-avenue-memphis.md).
+- [Regional Oral History Office, UC Berkeley](https://archive.org/details/longtimeblackfam00willrich) (Harry and Marguerite Williams of Richmond, Calif., interviewed 1985) → kids "dragging the main" on San Pablo and in Richmond in the 1950s → [Dragging Main](../places/dragging-main.md).
 
 ### Club newsletters, club histories and club-run pages
 - [SRCA Dragstrip, "About Us"](https://www.srcadragstrip.com/about-us) (the Sunflower Rod and Custom Association's own page) → the club's timeline, the Chamber of Commerce letter, the 1993 reorganization → [Great Bend](../drag-racing/great-bend-srca.md).
@@ -71,6 +75,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Birmingham Museum, City of Birmingham, Mich.](https://bhamgov.org/about_birmingham/city_history/birmingham_museum/museum_exhibits/read_more_about_transportation_and_transformation_here.php) (municipal museum exhibit text) → the 1963 case, the 1966 drive-in ordinance and the end of Woodward cruising → [Woodward ordinances](../places/woodward-ordinances.md).
 
 - [Ames telephone directory, Dec 1957](https://archive.org/details/1957.12amestelephonedirectory) (Northwestern Bell; scanned) → the strip's listing, including under "Race Tracks" in the yellow pages → [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md).
+- [Delaware County (Ohio) Commissioners Journal, Aug 12, 2010](https://co.delaware.oh.us/wp-content/uploads/commissioners/journal/2010/08_12_10.pdf) (Resolution 10-1059) → JEGS's 1960 founding address and later milestones → [JEGS](../companies/jegs.md).
 
 ### Historical markers
 - Ohio History Connection marker 47-77, via [Remarkable Ohio](https://remarkableohio.org/marker/47-77-akron-fulton-airport-champions-raceway/) and [HMdb](https://www.hmdb.org/m.asp?m=142783) → the text we compare with NHRA's account → [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md).
@@ -98,6 +103,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Classmates.com yearbook scans on the Internet Archive](https://archive.org/details/classmates-yearbook-32257-1963-southeast-guilford-high-school) (1955–63, plus Little Rock Central 1978 for a Racing Head Service ad on the [COMP Cams page](../companies/comp-cams-rhs.md): Pensacola, Chillicothe, Portland's Central Catholic, Fort Collins, Tillamook, Imbler, Shawnee Mission, Southeast Guilford) → club rosters, senior entries, a class will and a school paper's car column → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
 
 - Round 16 additions: Sherman High (Sherman, Tex.), 1956, and Logan Elm High (Circleville, Ohio), 1967 → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
+- Round 18 additions: *The Laurel Leaf* (Franklin High, Franklin, N.C., 1957 and 1958; North Carolina Digital Heritage Center scans), Scottsbluff High (Neb.) 1979 and Hays High (Kan.) 1987 (Classmates.com scans) → [Dragging Main](../places/dragging-main.md).
 
 ### Forum recollections
 - [H.A.M.B., "Lake Street (Mpls, MN) in the 60s"](https://www.jalopyjournal.com/forum/threads/lake-street-mpls-mn-in-the-60s.341268/) → anonymous cruisers' memories → [Lake Street & University](../places/lake-street-university.md).
@@ -137,6 +143,14 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 18 status
+| Archive | Round 18 status |
+|---|---|
+| Internet Archive newspaper scans | **Readable.** *The Pocono Record* (the Stroudsburg paper's later name) is in the same run. The *Escanaba Daily Press* run for 1955 ends at June 30, and four earlier issues (Jan 1, Feb 12, Feb 21, May 30) returned HTTP 500 on every try. |
+| Internet Archive yearbook scans | **Readable,** but one (Colbert, Okla., 1955) returned HTTP 500 on every try. North Carolina Digital Heritage Center yearbooks are also on the archive. |
+| Internet Archive lending library | A book on speedway history returned HTTP 401 (loan only); not read. |
+| JEGS help center | Now behind a bot check; we used the identical text on TeamJEGS. |
 
 ### Round 17 status
 | Archive | Round 17 status |

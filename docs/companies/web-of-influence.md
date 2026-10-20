@@ -27,7 +27,7 @@ Hover over a name, or tab to it, to light up its lines. Click it to open its pag
 
 ## What's not on the map, and why
 
-- Offenhauser, Cragar, American Racing, Mallory, Weiand's later years, Edelbrock after 1962 and JEGS are in the department's backlog because their sources are still thin; see the [Research Trail](../research-trail.md).
+- Offenhauser, Cragar, American Racing, Mallory, Weiand's later years and Edelbrock after 1962 are in the department's backlog because their sources are still thin; see the [Research Trail](../research-trail.md).
 - A tie we suspect but cannot prove stays off the map. For example, Moroso's Palm Beach track and Crane's South Florida base are linked here only through Ron Hassel's photo.
 
 ## All connections (text version)

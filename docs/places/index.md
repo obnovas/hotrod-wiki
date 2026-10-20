@@ -21,5 +21,6 @@ Hot rodding wasn't only a SoCal export, and it didn't happen only on strips. Thi
 - [Van Nuys Boulevard](van-nuys.md), [Bob's Big Boy & the River Road](bobs-big-boy-river-road.md), [Harvey's Broiler](harveys-broiler-downey.md), [Whittier Boulevard](whittier-blvd.md) and [Modesto](modesto.md)
 - [Summer Avenue, Memphis](summer-avenue-memphis.md), [Lake Street & University Ave](lake-street-university.md), [Westheimer, Houston](westheimer-houston.md) and [Central Ave, Albuquerque](central-avenue-albuquerque.md)
 - [Main Avenue, Twin Falls, Idaho](twin-falls-main-avenue.md): the street the local paper called a "drag strip," and the timing association that offered to pay for a real one (1957–65).
+- [Dragging Main](dragging-main.md): the small-town loop in yearbooks and an oral history, from Franklin, N.C., to Hays, Kan. (1950s–1980s).
 
 **Where the racing itself happened** (airfield strips, clubs, timing associations) is in [Drag Racing & Strips](../drag-racing/index.md). People from these places are in [People & Builders](../people/index.md).

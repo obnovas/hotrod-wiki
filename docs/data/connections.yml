@@ -29,6 +29,7 @@ nodes:
   - {id: logghe,     label: Logghe Stamping, type: company, group: garage-born, page: companies/logghe-stamping.md}
   - {id: scplating,  label: So. Cal. Plating, type: company, group: garage-born, page: companies/southern-california-plating.md}
   - {id: bellauto,   label: Bell Auto Parts, type: company, group: garage-born, page: companies/prewar-speed-shops.md}
+  - {id: jegs,       label: JEGS,            type: company, group: big-names,   page: companies/jegs.md}
   # ---- people
   - {id: ghurst,     label: George Hurst,    type: person,  page: companies/hurst-campbell.md}
   - {id: lvaughn,    label: Linda Vaughn,    type: person,  page: companies/hurst-campbell.md}
@@ -54,6 +55,8 @@ nodes:
   - {id: lmiller,    label: Leonard Miller,  type: person,  page: voices/leonard-miller.md}
   - {id: neumayer,   label: LeRoy Neumayer,  type: person,  page: companies/mickey-thompson.md}
   - {id: gaybros,    label: Gay brothers,    type: person,  page: drag-racing/houston-freeway-dragstrip.md}
+  - {id: jeg,        label: Jeg Coughlin Sr., type: person, page: companies/jegs.md}
+  - {id: columbus,   label: Columbus, Ohio,  type: place,   page: companies/jegs.md}
   # ---- places, strips, scenes
   - {id: akronstrip, label: Akron Fulton Airport, type: place, page: drag-racing/akron-fulton-airport.md}
   - {id: bucks,      label: Bucks County, Pa., type: place, page: companies/hurst-campbell.md}
@@ -260,3 +263,14 @@ edges:
      evidence: ["Weiand in Los Angeles (manifolds)"]}
   - {from: amc, to: hurst, type: promotion, label: "Listed Hurst-Campbell's Warminster address for shift linkage", page: companies/hurst-campbell.md,
      evidence: ["Hurst-Campbell, Inc. 50 West Street Road Warminster, Pa."]}
+  # ----- Round 18: JEGS
+  - {from: jegs, to: jeg, type: founded, label: "Founded Jeg's Automotive in 1960 (county resolution)", page: companies/jegs.md,
+     evidence: ["founded Jeg's Automotive, Inc., at"]}
+  - {from: jegs, to: columbus, type: hometown, label: "First shop on East Eleventh Avenue, Columbus", page: companies/jegs.md,
+     evidence: ["751 East Eleventh Avenue, Columbus, Ohio"]}
+  - {from: jeg, to: ohiogassers, type: scene, label: "Raced a '55 Chevy and an Austin gasser in the Ohio gasser years", page: companies/jegs.md,
+     evidence: ["his '55 Chevy and an Austin gasser"]}
+  - {from: jegs, to: moroso, type: customer, label: "Moroso among JEGS' top-selling brands (2015 trade feature)", page: companies/jegs.md,
+     evidence: ["K&N, B&M, Moroso, Mickey Thompson, and MSD"]}
+  - {from: jegs, to: mthompson, type: customer, label: "Mickey Thompson among JEGS' top-selling brands (2015 trade feature)", page: companies/jegs.md,
+     evidence: ["K&N, B&M, Moroso, Mickey Thompson, and MSD"]}

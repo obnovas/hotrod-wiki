@@ -372,3 +372,19 @@ Tags as above. The newspaper, brochure and catalog items are scanned page OCR on
 - [corp] American Motors Corporation, "1966 1968 Performance Activities" (supplier list). https://archive.org/details/1966-1968-performance-activities
 - [ref] *Catalog of Copyright Entries*, Third Series, Part 1: Books and Pamphlets, July–Dec 1962 (vol. 16, no. 2) and Jan–June 1963 (vol. 17, no. 1), Hurst-Campbell, Inc. entries. https://archive.org/details/catalogofcopyrig3161lib , https://archive.org/details/catalogofcopyrig31711lib
 - [ref] "Glenside, Pennsylvania," Wikipedia (location only). https://en.wikipedia.org/wiki/Glenside,_Pennsylvania
+
+## Added in Round 18 (accessed 2026-10-18 to 2026-10-20)
+Tags as above. Newspaper and yearbook items are scanned page OCR on the Internet Archive; we quote only passages that read cleanly and say so where we correct OCR slips. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] *The Daily Record* (Stroudsburg, Pa.): East Stroudsburg council and the flood-control levee, Aug 15, 1962; "Open Drag Strip" (Mountain View, Wind Gap), Apr 4, 1964; Allentown Fairgrounds drag race ad, Apr 16, 1964; Mrs. ... Heller, "Drag Races Suggested At Pocono Airport," June 5, 1964. https://archive.org/details/stroudsburg-daily-record-1964-06-05
+- [local] *The Pocono Record* (Stroudsburg, Pa.): Pocono Drag Lodge ad, May 18, 1968; Bear Creek results, June 24 and Aug 6, 1968; "Third spectacular at Pocono Drag Lodge," Aug 31, 1968; Pocono International Speedway opening, Oct 11, 1968. https://archive.org/details/stroudsburg-pocono-record-1968-08-31
+- [local] *Kingston Daily Freeman* (Kingston, N.Y.), "Opinions Differ on Hot Rods" (UP), Feb 14, 1957. https://archive.org/details/kingston-daily-freeman-1957-02-14
+- [local] *Escanaba Daily Press* (Michigan): "Teen-Agers Discuss Problems Of Safety," Jan 14, 1955; Drag-n's notices Apr 13, Apr 18 and June 20, 1955; "Motorists Ticketed," June 10, 1955. https://archive.org/details/escanaba-daily-press-1955-06-20
+- [local] *The Laurel Leaf* (Franklin High School, Franklin, N.C.), 1957 and 1958. https://archive.org/details/laurelleaf19571957fran
+- [local] *1979 Scottsbluff High School Yearbook* (Scottsbluff, Neb.). https://archive.org/details/classmates-yearbook-49316-1979-scottsbluff-high-school
+- [local] Kathy Lennox and Dawn Shields, "Dragging Main," *1987 Hays High School Yearbook* (Hays, Kan.). https://archive.org/details/classmates-yearbook-10383-1987-hays-high-school
+- [local] Harry Wheaton Williams Sr. and Marguerite Williams, interviewed by Judith Dunning (1985), Regional Oral History Office, The Bancroft Library, UC Berkeley, pp. 143–144. https://archive.org/details/longtimeblackfam00willrich
+- [local] Delaware County (Ohio) Board of Commissioners, Resolution No. 10-1059, Aug 12, 2010. https://co.delaware.oh.us/wp-content/uploads/commissioners/journal/2010/08_12_10.pdf
+- [corp] "JEGS 101," TeamJEGS (2020 anniversary history). https://teamjegs.com/jegs-101/
+- [mag] "Observing The History Of The JEGS Product Catalog," Chevy Hardcore, June 6, 2015. https://www.chevyhardcore.com/features/observing-the-history-of-the-jegs-product-catalog/
+- [mag] *Car Craft*, Dec 1959 (NHRA's first National Champion Custom Car Show) and July 1961 (national drag strip calendar), Internet Archive scans. https://archive.org/details/sim_car-craft_1959-12_7_8

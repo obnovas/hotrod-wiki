@@ -12,6 +12,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Detroit Dragway & Cordova](detroit-cordova.md), [Akron Fulton Airport](akron-fulton-airport.md), [Houston Freeway Dragstrip](houston-freeway-dragstrip.md) and [Half Day, Illinois](half-day-ataa-maremont.md): airfield and purpose-built strips of the Midwest and Texas.
 - [The Professor's Drag Strip (Ames, Iowa)](ames-drag-strip-nightcrawlers.md): a math professor, the Nightcrawlers and 260 feet of pavement, 1957–59.
 - [The Big S.I.R. (Sedalia, Mo.)](sedalia-big-sir.md): eleven years of plans, a world final promised, and half a drag strip, 1958–70.
+- [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): a flood levee, Wind Gap, Bear Creek and a runway offer, 1958–68.
 
 **Clubs and timing associations**
 
@@ -31,6 +32,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [What the City Planners Wrote (1955)](planners-report-1955.md): a national survey of small-town clubs.
 - [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md): one wire survey and the National Safety Council against.
 - [Would You Rather Have a Picnic? (June 1957)](recreation-1957-pro-and-con.md): the recreation directors' pro-and-con, with Wilmington's club for everybody.
+- [Opinions Differ on Hot Rods (Feb. 1957)](new-york-towns-panel-1957.md): a sheriff, a police chief and a safety man on a New York towns panel.
 
 **Elsewhere in the wiki**
 
