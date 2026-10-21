@@ -13,6 +13,8 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [The Professor's Drag Strip (Ames, Iowa)](ames-drag-strip-nightcrawlers.md): a math professor, the Nightcrawlers and 260 feet of pavement, 1957–59.
 - [The Big S.I.R. (Sedalia, Mo.)](sedalia-big-sir.md): eleven years of plans, a world final promised, and half a drag strip, 1958–70.
 - [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): a flood levee, Wind Gap, Bear Creek and a runway offer, 1958–68.
+- [Hey! Anybody Got a Drag Strip?](marin-cotati-strips.md): Marin County's eight-year strip hunt and the Cotati strip a police chief opened and closed, 1955–64.
+- [Memphis Comes to the Bootheel](semo-malden-drag-strip.md): Jaycees, an old Air Force base at Malden, Mo., and Memphis racers taking the trophies, 1961–70.
 
 **Clubs and timing associations**
 
@@ -26,6 +28,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [The Sedalia Drag-Ons](sedalia-drag-ons.md): courtesy cards, a half-fine bylaw and a truck rebuilt for a boys' ranch, 1957–64.
 - [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md): a Pocono club court, a work detail, and a strip the club offered to buy.
 - [The Kingston Igniters](kingston-igniters.md): four years hunting for a Hudson Valley strip, then a motor club.
+- [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md): Hanover, Gettysburg and Taneytown clubs ask permission, 1956–59.
 
 **Rules, safety and public opinion**
 
@@ -33,6 +36,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md): one wire survey and the National Safety Council against.
 - [Would You Rather Have a Picnic? (June 1957)](recreation-1957-pro-and-con.md): the recreation directors' pro-and-con, with Wilmington's club for everybody.
 - [Opinions Differ on Hot Rods (Feb. 1957)](new-york-towns-panel-1957.md): a sheriff, a police chief and a safety man on a New York towns panel.
+- [Tear Gas on the Runways (May 1958)](pennsauken-central-airport-1958.md): 2,000 racers, fire hoses and bulldozers at Camden's old Central Airport.
 
 **Elsewhere in the wiki**
 

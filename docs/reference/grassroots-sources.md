@@ -48,6 +48,9 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [The Daily Record / The Pocono Record](https://archive.org/details/stroudsburg-daily-record-1964-06-05) (Stroudsburg, Pa.), Round 18 additions (1962–68): a council report on levee drag racing, a club member's wife's letter with the Ridge Runners' bylaws, and the Pocono Drag Lodge's ads and Monday results → [Pocono strips](../drag-racing/pocono-strips.md), [Ridge Runners](../drag-racing/stroudsburg-ridge-runners.md).
 - *Kingston Daily Freeman*, Round 18 addition: a UP wire story from the 1957 New York towns convention → [Opinions Differ on Hot Rods](../drag-racing/new-york-towns-panel-1957.md).
 - *Escanaba Daily Press*, Round 18 additions (Jan–Jun 1955): a teen safety conference's hot rod resolutions, meeting notices and a police-ticket column → [Escanaba](../drag-racing/escanaba-dragns.md).
+- [Daily Independent-Journal, San Rafael](https://archive.org/details/san-rafael-daily-independent-journal-1956-07-13) (Marin County, Calif., 1955–64; scanned OCR) → a lawyer's county drag strip plan, garage dragsters, club letters and the Cotati strip → [Marin & Cotati](../drag-racing/marin-cotati-strips.md).
+- [Sikeston Daily Standard](https://archive.org/details/sikeston-daily-standard-1962-07-23) (Sikeston, Mo., 1961–70; scanned OCR) → the SEMO strip at Malden Air Base and its Memphis winners → [SEMO Malden](../drag-racing/semo-malden-drag-strip.md).
+- [Gettysburg Times](https://archive.org/details/gettysburg-times-1959-03-06) (Gettysburg, Pa., 1956–59; scanned OCR) → village columns on Hanover, Gettysburg and Taneytown clubs, and an AP report of Pennsauken → [Gettysburg & Hanover clubs](../drag-racing/hanover-adams-county-clubs.md), [Pennsauken 1958](../drag-racing/pennsauken-central-airport-1958.md).
 
 ### Obituaries and funeral-home pages
 - [Wendt Funeral Home](https://www.wendtfuneralhome.com/obituaries/robert-j-bartel) (Bob Bartel, 2018) → birthplace, marriage, the 1956 Cordova farm purchase → [Bob Bartel](../people/bob-bartel.md).
@@ -143,6 +146,13 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 19 status
+| Archive | Round 19 status |
+|---|---|
+| Internet Archive newspaper scans | **Readable,** with intermittent SSL errors and HTTP 500s from the full-text search, cured by retrying. New runs used: *Daily Independent-Journal* (San Rafael), *Sikeston Daily Standard*, *Gettysburg Times*. Many racers' names in the Sikeston results are too garbled to use. |
+| California State Archives oral histories | **Readable** (PDF). Peter Behr's does not mention the drag strip. |
+| Hanover *Evening Sun*, Santa Rosa *Press Democrat*, Camden *Courier-Post* | Not found in open archives this round; they are the obvious next papers for these stories. |
 
 ### Round 18 status
 | Archive | Round 18 status |

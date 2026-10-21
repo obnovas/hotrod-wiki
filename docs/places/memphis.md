@@ -3,7 +3,7 @@
 *A bomber base, a bo-weevil and a missing Sun Records story*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town newspaper race results (1962), club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15); Bootheel section added 2026-10-21 (Round 19) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I became interested in drag racing in 1953 just as it was starting to come on. … I got in touch with Wally at Hot Rod to offer my help."
@@ -23,6 +23,10 @@ Ray Godman was a Korean War veteran who had been wounded by a sniper, and he bec
 Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971). ◐ We have this from secondary sources only.[^dm][^tl]
 
 Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992. ◐ This is from a search summary and needs a primary source; see the Research Trail.
+
+## Road trips to the Bootheel (1962–65)
+
+Memphis cars went north to race, too. At the SEMO Drag Strip on the old Malden Air Base in Missouri, on July 22, 1962, **Bill Taylor of Memphis** was top eliminator in an AA dragster and **Kenneth McKee of Memphis** was little eliminator in a Chevy-powered B gas Willys, against 97 entries.[^sk62] The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled. ◐ See [Memphis Comes to the Bootheel](../drag-racing/semo-malden-drag-strip.md).
 
 ## The Memphis Rodders (1947)
 
@@ -67,3 +71,4 @@ There is one company claim, and it is about a street corner, not a musician. COM
 [^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html
 [^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)
 [^comp15]: "The History of COMP Cams," COMP Cams (company site). https://www.compcams.com/about-us (accessed 2026-10-16)
+[^sk62]: "Sixteen Area Drivers Take Malden Races," *Sikeston Daily Standard* (Sikeston, Mo.), July 23, 1962. Page OCR. https://archive.org/details/sikeston-daily-standard-1962-07-23 (accessed 2026-10-21)

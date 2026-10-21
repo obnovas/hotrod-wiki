@@ -588,3 +588,68 @@ highlights:
     image: commons-pa-115-bear-creek-village-2023.jpg
     image_alt: Pennsylvania Route 115 curving through woods in Bear Creek Village
     image_note: PA 115 at Bear Creek, 2023; not the strip site.
+
+  - id: cotati-chief-first-through-traps
+    headline: A California police chief drove the first car through a new drag strip's traps, then shut the strip down
+    teaser: More than 2,000 people came to the Cotati strip's opening on an old Navy field in October 1956.
+      In December, after a crash at 129 mph killed a college student, Chief Melvin Flohr closed it "until next summer."
+    link: drag-racing/marin-cotati-strips.md#ten-weeks-at-cotati-octoberdecember-1956
+    evidence: The time wasn't made public.
+    source_type: [Archive, "Local news"]
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-21'
+    eras: [1950s]
+    regions: ['Cotati, Calif.', 'Santa Rosa, Calif.']
+
+  - id: marin-lawyer-drag-strip-plan
+    headline: Marin's hot rodders had six clubs, garage-built dragsters and a lawyer on their side, but no strip
+    teaser: In 1956 attorney Peter Behr told county supervisors a strip would cut accidents "faster, and at less cost, than any
+      other known safety measure." The clubs were still asking in 1960, when someone offered free land.
+    link: drag-racing/marin-cotati-strips.md#the-lawyer-and-the-supervisors-junejuly-1956
+    evidence: than any other known safety measure
+    source_type: [Archive, "Local news"]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-10-21'
+    eras: [1950s, 1960s]
+    regions: ['Marin County, Calif.']
+    image: commons-marin-county-airport-sign-2014.jpg
+    image_alt: Sign reading Welcome to Gnoss Field, Marin County Airport
+    image_note: Gnoss Field, Novato, 2014; strip sites were proposed nearby; context only.
+
+  - id: memphis-racers-malden-air-base
+    headline: Memphis racers drove up to an old Air Force base in the Missouri Bootheel and took home the trophies
+    teaser: On July 22, 1962, Bill Taylor of Memphis won top eliminator in an AA dragster at the Jaycee-run SEMO strip in Malden,
+      Mo., against 97 entries. The base had trained its last class of pilots in 1960.
+    link: drag-racing/semo-malden-drag-strip.md#the-memphis-summer-1962
+    evidence: Top eliminator was
+    source_type: [Archive, "Local news"]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-21'
+    eras: [1960s]
+    regions: ['Malden, Mo.', 'Memphis, Tenn.']
+    image: commons-malden-airport-usgs-2006.jpg
+    image_alt: Aerial photo of Malden Regional Airport with crossing runways
+    image_note: Malden Regional Airport, USGS 2006; context only.
+
+  - id: pennsauken-tear-gas-bulldozers
+    headline: Fire hoses, tear gas and bulldozers ended the drag races on a New Jersey township's abandoned airport
+    teaser: In May 1958 Pennsauken's police chief said "a thousand cars and twice that many teen agers" were racing on Camden's
+      old Central Airport. The next day bulldozers ripped up the runways.
+    link: drag-racing/pennsauken-central-airport-1958.md
+    evidence: a thousand cars and twice that many teen agers
+    source_type: [Archive, "Local news"]
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: false
+    added: '2026-10-21'
+    eras: [1950s]
+    regions: ['Pennsauken, N.J.']
+    image: commons-airport-circle-nj-map.jpg
+    image_alt: Road map of Airport Circle in Pennsauken, New Jersey
+    image_note: Airport Circle map; named for the old Central Airport.
