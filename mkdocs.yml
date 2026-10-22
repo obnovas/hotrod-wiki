@@ -23,13 +23,13 @@ theme:
       primary: custom
       accent: custom
       toggle: {icon: material/weather-sunny, name: "Daylight"}
-extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/print.css, stylesheets/editorial.css]
+extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/editorial.css, stylesheets/flow.css, stylesheets/print.css]
 extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js, javascripts/connections.js]
 extra:
   issues_url: https://github.com/obnovas/hotrod-wiki/issues/new
   feedback_url: https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml
   masthead: Hot Rod History
-  masthead_tag: since the dry lakes
+  masthead_tag: The hometown history of hot rodding
   # Header shortcuts; the full department index lives behind the "Contents" button (built from `nav`).
   primary_nav:
     - {label: Eras, url: eras/}
@@ -37,6 +37,7 @@ extra:
     - {label: Places, url: places/}
     - {label: Voices, url: voices/}
     - {label: Timeline, url: reference/timeline/}
+    - {label: About, url: about/what-makes-this-different/}
 hooks:
   - hooks/design_hook.py   # must stay BEFORE highlights_hook (it peels the home intro off the slider placeholder)
   - hooks/articles_hook.py   # front-matter gate (fails the build), summary standfirst + meta description, first-mention links
