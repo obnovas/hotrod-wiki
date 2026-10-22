@@ -16,18 +16,24 @@ cities:
 - Sedalia, Missouri
 people:
 - Jack Couts
+- Ralph Hamlin
 - Barry Cox
-- Lee Dorrell
-- Vaughn Hart
 - Harry Koockle
-- Jim Tice
 - George O. Weatherly
+- Vaughn Hart
+- Adam Fischer
+- Dexter Davis
+- Lee Dorrell
+- John Ryan
+- Jim Tice
+- Charles Lawrence
 companies:
 - Hamer Construction Co.
-- Iron Horsemen
 places: []
 clubs:
 - Oil Men's Association (Sedalia)
+- Iron Horsemen
+- Sedalia Missouri Timing Association
 strips:
 - Sedalia International Dragway (Big S.I.R.)
 tags:
@@ -72,13 +78,11 @@ In December 1968 a letter to the editor came from the **Rev. Harry Koockle** (as
 
 ## Round four: the Big S.I.R. (1969)
 
-Five months later it suddenly happened, or seemed to.
+Five months later it suddenly happened, or seemed to. On **May 20** the *Democrat* reported that **George O. Weatherly** of Kansas City, his son and two other partners would build "Sedalia International Dragway" on the south edge of the Missouri State Fairgrounds.[^sd690520]
 
-- **May 20.** The *Democrat* reported that **George O. Weatherly** of Kansas City, his son and two other partners would build "Sedalia International Dragway" on the south edge of the Missouri State Fairgrounds.[^sd690520]
-- **May 22.** Sports editor **Vaughn Hart**'s story was headlined "Against New Strip." Residents of the nearby Southwest Village neighborhood, led by attorney **Adam Fischer**, were preparing a formal complaint over noise and dust. Weatherly had hit a snag with a bipartisan committee and **Dexter Davis**, the state secretary of agriculture. The plan was for local cars on Monday and Wednesday nights, plus sanctioned American Hot Rod Association (AHRA) meets.[^sd690522]
-- **May 23–27.** Davis said he would not sign the lease in the face of the opposition, and the strip would have to move.[^sd690523][^sd690527]
-- **June 22.** The new site was on Highway 65 south of the city limits, "where the old 'hog barns' are currently located." All but one barn would come down at once.[^sd690622]
-- **July 22.** The lease was signed. The first meet was set for Aug. 14–16, and Weatherly announced that the AHRA's **World Points Final**, "the second largest drag championship in the United States," had been moved from Kansas City International Raceway to Sedalia for Oct. 3–5. The board said it expected "more than 100,000 spectators" and an estimated 2,000 drivers.[^sd690722]
+Two days later the neighbors objected. Sports editor **Vaughn Hart**'s story was headlined "Against New Strip." Residents of the nearby Southwest Village neighborhood, led by attorney **Adam Fischer**, were preparing a formal complaint over noise and dust. Weatherly had hit a snag with a bipartisan committee and **Dexter Davis**, the state secretary of agriculture. The plan was for local cars on Monday and Wednesday nights, plus sanctioned American Hot Rod Association (AHRA) meets.[^sd690522] Between **May 23 and 27**, Davis said he would not sign the lease in the face of the opposition, and the strip would have to move.[^sd690523][^sd690527]
+
+It moved. On **June 22** the paper reported the new site, on Highway 65 south of the city limits, "where the old 'hog barns' are currently located." All but one barn would come down at once.[^sd690622] On **July 22** the lease was signed. The first meet was set for Aug. 14–16, and Weatherly announced that the AHRA's **World Points Final**, "the second largest drag championship in the United States," had been moved from Kansas City International Raceway to Sedalia for Oct. 3–5. The board said it expected "more than 100,000 spectators" and an estimated 2,000 drivers.[^sd690722]
 
 <figure markdown>
 ![An ornate arched entry gate to a fairgrounds, with a sign reading Missouri State Fair](../assets/images/commons-missouri-state-fair-gate-sedalia.jpg){ loading=lazy }
@@ -93,7 +97,7 @@ State Senator **John Ryan** said: "The new drag strip will prove its worth to th
 
 The paper also gave Dorrell a backstory that matters to the [Kansas City strip](kansas-city-timing-association.md): he "was one of the planners and organizers of the first drag strip built in Missouri in 1955. That strip was built in Kansas City near the Chouteau Bridge and named the Kansas City Timing Association (KCTA)."[^sd690723]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> And AHRA president **Jim Tice** had told Weatherly the World Points meet had "a better than good chance" of coming to Sedalia.[^sd690723]
 
-That summer the paper also announced a "Miss Sedalia Raceway" contest for Pettis County girls. The winner would reign for the rest of the 1969 season and all of 1970, and her prizes included a wardrobe.[^sd690801]
+There was even a queen. That summer the paper announced a "Miss Sedalia Raceway" contest for Pettis County girls. The winner would reign for the rest of the 1969 season and all of 1970, and her prizes included a wardrobe.[^sd690801]
 
 ## Half a drag strip
 
@@ -103,9 +107,7 @@ The 1969 stories name a Jerry Hamer and a Robert Hamer among the corporation's v
 
 In January 1970, Hart's look back at the year ranked it as a top story of a different kind. The Big S.I.R., he wrote, had turned out to be the big flop of the year: the strip was half finished, and "its future is still uncertain."[^sd700118]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-We have not found whether a car ever ran on it.
-
-**Related:** [The Sedalia Drag-Ons](sedalia-drag-ons.md); [Kansas City's 1955 strip](kansas-city-timing-association.md); other towns' strip fights in [Belleville & St. Louis](belleville-gear-jammers.md) and [Ames, Iowa](ames-drag-strip-nightcrawlers.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+*See also:* [The Sedalia Drag-Ons](sedalia-drag-ons.md); [Kansas City's 1955 strip](kansas-city-timing-association.md); other towns' strip fights in [Belleville & St. Louis](belleville-gear-jammers.md) and [Ames, Iowa](ames-drag-strip-nightcrawlers.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 
@@ -120,6 +122,8 @@ We have not found whether a car ever ran on it.
 ### Next leads
 
 *Sedalia Democrat* 1970–72 for the strip's fate; the Pettis County recorder for the Highway 65 lease; AHRA's 1969 World Points Finals (where it was finally held); Marshall Junction and other rejected sites. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+**Did a car ever run on it?** We have not found whether a car ever ran on the half-finished strip.
 
 ## Sources
 

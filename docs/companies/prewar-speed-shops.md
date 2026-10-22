@@ -9,23 +9,43 @@ eras:
 - 1950s
 - 1960s
 - 1970s
+- 1980s
 years:
 - 1923
-- 1976
+- 1987
 region: West
 states:
 - California
-cities: []
+cities:
+- Bell, California
+- Los Angeles, California
+- Culver City, California
+- Oakland, California
 people:
-- Veda & Karl Orr
+- George Wight
+- Lee Chapel
+- Karl Orr
 - Veda Orr
-companies: []
+- Jim White
+- Roy Richter
+- Chuck Strader
+- Harlan Fengler
+- Crane Gartz
+- Nick Harrell
+- Dean Batchelor
+companies:
+- Bell Auto Parts
+- Lee's Speed Shop
+- Orr Speed Shop
+- Jim White's Speed Shop
+- Cragar
 places: []
 clubs: []
 strips: []
 tags:
 - speed-equipment
 - aftermarket-business
+- family-business
 related:
 - people/veda-orr.md
 - people/julian-doty.md
@@ -44,23 +64,23 @@ Dean Batchelor wrote in *The American Hot Rod*: "First there was George Wight, t
 
 ## George Wight and the junkyard (Bell Auto Parts, 1923)
 
-George Wight started a junkyard in Bell, California in **1923**, noticed many incoming Model Ts carried speed equipment, and resold it cleaned up. The building at **3633 Gage Ave.** came in 1928.[^hem] (The Jalopy Journal spells his name "Wright";[^jj] Batchelor and Hemmings use **Wight**.)
+The first came out of a junkyard. George Wight started a junkyard in Bell, California in **1923**, noticed many incoming Model Ts carried speed equipment, and resold it cleaned up. The building at **3633 Gage Ave.** came in 1928.[^hem] (The Jalopy Journal spells his name "Wright";[^jj] Batchelor and Hemmings use **Wight**.)
 
-Per the Jalopy Journal, hot rodders brought back reports on parts they ran, and Wight kept notes on what worked. When **Cragar** (Harlan Fengler and Crane Gartz's company, which had taken over the Miller-Schofield/Goossen "Valve-in-Head" Model A head) failed in 1932, Wight bought the heads, patterns and tooling after six months of negotiation. He got the price under $100 by 1933 and introduced an "Improved Cragar Head" in 1935.[^jj]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+The junkyard became a parts lab. Per the Jalopy Journal, hot rodders brought back reports on parts they ran, and Wight kept notes on what worked. When **Cragar** (Harlan Fengler and Crane Gartz's company, which had taken over the Miller-Schofield/Goossen "Valve-in-Head" Model A head) failed in 1932, Wight bought the heads, patterns and tooling after six months of negotiation. He got the price under $100 by 1933 and introduced an "Improved Cragar Head" in 1935.[^jj]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Wight died in 1943. His widow ran the shop until **Roy Richter** bought it in 1945. Richter built it into an early mail-order speed shop and sold it to Chuck Strader in 1978; Strader ran it in Huntington Beach until 1987.[^hem][^jj]
+The shop outlived him. Wight died in 1943. His widow ran the shop until **Roy Richter** bought it in 1945. Richter built it into an early mail-order speed shop and sold it to Chuck Strader in 1978; Strader ran it in Huntington Beach until 1987.[^hem][^jj]
 
 ## Lee Chapel, c. 1929
 
-A c.1950 catalog posted on the H.A.M.B. claims 21 years in business for Lee's Speed Shop, which implies **1929**.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Lee's was at 3263 San Fernando Rd., LA (sharing a junkyard), moved in 1933 to 4557 Alhambra Ave., closed in 1937 while Chapel toured with a midget, and reopened in 1939 at 1143 E. 14th St., **Oakland**.[^hem]
+Lee Chapel came next. A c.1950 catalog posted on the H.A.M.B. claims 21 years in business for Lee's Speed Shop, which implies **1929**.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Lee's was at 3263 San Fernando Rd., LA (sharing a junkyard), moved in 1933 to 4557 Alhambra Ave., closed in 1937 while Chapel toured with a midget, and reopened in 1939 at 1143 E. 14th St., **Oakland**.[^hem]
 
 ## Karl and Veda Orr, 1940
 
-The Orr Speed Shop opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] See [Veda Orr](../people/veda-orr.md). Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k]
+Then came the Orrs. The Orr Speed Shop opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] See [Veda Orr](../people/veda-orr.md). Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k]
 
 ## Jim White, 1932
 
-Based on Roger Harrell's book: Jim White's Speed Shop opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main, run with brother Nick Harrell until **1976**.[^hem]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+Batchelor's list leaves one out, and Hemmings adds him. Based on Roger Harrell's book, Jim White's Speed Shop opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main, run with brother Nick Harrell until **1976**.[^hem]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 *See also:* [George Riley and the Heads That Cracked](../people/george-riley.md).
 

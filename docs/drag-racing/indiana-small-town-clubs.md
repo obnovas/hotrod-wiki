@@ -10,21 +10,28 @@ years:
 region: Midwest
 states:
 - Indiana
+- Michigan
+- Connecticut
 cities:
 - Decatur, Indiana
+- Greencastle, Indiana
+- Syracuse, Indiana
 people:
+- Margaret O. Hyde
 - William H. Tomlinson
+- Jeanne Smith
 companies: []
 places: []
 clubs:
 - Decatur Road Runners
 - Flying Pistons
+- Detroit Modified Rod and Custom Club
 strips: []
 tags:
 - car-clubs
+- club-rules
 - police-and-safety
 - teenagers-and-schools
-- club-rules
 - grassroots-sources
 related:
 - drag-racing/escanaba-dragns.md
@@ -55,11 +62,11 @@ The review draws a line that the 1950s safety campaigns drew everywhere. There w
 
 ## Safety Second (Decatur, 1953)
 
-Almost two years earlier, a Decatur filler item from United Press had told its readers about Manchester, Connecticut, where youths "who had formed the Hot Rod club and the 100-Mile-an-Hour club were sobered by the deaths of two young motorists." They founded "the 35 Miles Per Hour club."[^dcdd53] It ran under the headline "Safety Second."
+Decatur's own paper had already carried the idea. Almost two years earlier, a Decatur filler item from United Press had told its readers about Manchester, Connecticut, where youths "who had formed the Hot Rod club and the 100-Mile-an-Hour club were sobered by the deaths of two young motorists." They founded "the 35 Miles Per Hour club."[^dcdd53] It ran under the headline "Safety Second."
 
 ## Decatur's Road Runners (1956–57)
 
-The paper's coverage runs over five weeks.
+Three years later Decatur had a club of its own. The paper's coverage of it runs over five weeks.
 
 | Date | What the *Decatur Daily Democrat* printed |
 |---|---|
@@ -69,28 +76,23 @@ The paper's coverage runs over five weeks.
 | **Oct 6** | "A scheduled meeting of the Road Runners, Decatur's hot rod club, has been postponed until further notice."[^d1006] |
 | **Jan 31 and Feb 1, 1957** | A paid notice: "Car wash sponsored by Road Runners Hot Rod Club," Saturday, Feb. 2, 8 a.m. to 8 p.m., at Keith's Marathon, 13th and Nuttman Ave.[^d0201] |
 
-What this tells us:
+The notices tell us more than they mean to. A youth center was the clubhouse: unlike the Escanaba club's shop (see [The Cop and the Auto Shop](escanaba-dragns.md)), Decatur's meetings were held in a town youth and community center. The police pitch came first, too. The organizing notice leads with the police and with "safety on the highways." Compare the small-town clubs in [What the City Planners Wrote](planners-report-1955.md), whose members worked with police departments.
 
-- **A youth center was the clubhouse.** Unlike the Escanaba club's shop (see [The Cop and the Auto Shop](escanaba-dragns.md)), Decatur's meetings were held in a town youth and community center.
-- **The police pitch came first.** The organizing notice leads with the police and with "safety on the highways." Compare the small-town clubs in [What the City Planners Wrote](planners-report-1955.md), whose members worked with police departments.
-- **Fund-raising looked like any other club's.** A winter car wash, with a notice that gave the club's name as "Road Runners."
-- **The club's spelling varies.** "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Fund-raising looked like any other club's: a winter car wash, with a notice that gave the club's name as "Road Runners." Even the spelling varies: "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The Flying Pistons (Syracuse, 1958)
 
-The *Syracuse-Wawasee Journal* of January 23, 1958 ran a student profile of a senior, "Deb," son of Mr. and Mrs. George Thornburg of Syracuse, Ind. Among his athletics (basketball, cross-country and track) it adds: "He is also a member of the Flying Pistons Hot Rod Club." His favorite subject was physics, and his favorite song was "Reddy Teddy" by Little Richard. "Deb says he dislikes girls and sleeping, which we find hard to believe."[^swwj] (OCR; the surname is read from the parents' line.) It is a single line, but it tells us that by 1958 a hot rod club in a small town was an ordinary extracurricular, listed beside basketball letters.
+By 1958 a club could turn up in a school profile. The *Syracuse-Wawasee Journal* of January 23, 1958 ran a student profile of a senior, "Deb," son of Mr. and Mrs. George Thornburg of Syracuse, Ind. Among his athletics (basketball, cross-country and track) it adds: "He is also a member of the Flying Pistons Hot Rod Club." His favorite subject was physics, and his favorite song was "Reddy Teddy" by Little Richard. "Deb says he dislikes girls and sleeping, which we find hard to believe."[^swwj] (OCR; the surname is read from the parents' line.) It is a single line, but it tells us that by 1958 a hot rod club in a small town was an ordinary extracurricular, listed beside basketball letters.
 
 ## A Detroit ticket-writer, in Greencastle (1958)
 
-On February 4, 1958 *The Daily Banner* ran a syndicated column by "Jeanne Smith, Dodge Safety Consultant," about a Detroit patrolman, **William H. Tomlinson**, who "accepted the club sponsorship on one condition — the boys would have to adhere to certain safety rules which he would enforce as strictly as he does traffic laws when he is riding his motorcycle." The result was the **Detroit Modified Rod and Custom Club**, with "more than 100 members, between the ages of 16 and 22." At each meeting a block of new business is set aside for members to declare any traffic tickets since the last meeting; besides paying the fine in traffic court, they pay "a fine to the club fund."[^d58]
+The same winter, Greencastle readers learned how a big-city club kept its members honest. On February 4, 1958 *The Daily Banner* ran a syndicated column by "Jeanne Smith, Dodge Safety Consultant," about a Detroit patrolman, **William H. Tomlinson**, who "accepted the club sponsorship on one condition — the boys would have to adhere to certain safety rules which he would enforce as strictly as he does traffic laws when he is riding his motorcycle." The result was the **Detroit Modified Rod and Custom Club**, with "more than 100 members, between the ages of 16 and 22." At each meeting a block of new business is set aside for members to declare any traffic tickets since the last meeting; besides paying the fine in traffic court, they pay "a fine to the club fund."[^d58]
 
 "What a boy did before he became a member of the club doesn't matter," Tomlinson is quoted as saying. "What he does while he is a member, however, is of interest to all the group." And: "I would say that 50 percent of all the members were ticketed by me before joining this club."[^d58]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## How the sources compare
 
-- **Local items** (Decatur notices, the Syracuse profile) are short, unsigned and plain. They give names, places and times, but not results.
-- **Syndicated items** (the UP filler, the Dodge column) show what ideas reached small towns. They do not describe local clubs.
-- The Hoosier State Chronicles OCR is imperfect. Quotes here are trimmed to phrases that read cleanly.
+The local items (the Decatur notices, the Syracuse profile) are short, unsigned and plain. They give names, places and times, but not results. The syndicated items (the UP filler, the Dodge column) show what ideas reached small towns, but they do not describe local clubs. And the Hoosier State Chronicles OCR is imperfect, so quotes here are trimmed to phrases that read cleanly.
 
 ## Open questions & disputed details
 

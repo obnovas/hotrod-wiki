@@ -3,39 +3,39 @@ title: 'Modesto: Draggin'' 10th'
 summary: Modesto's cruise on 10th Street, the town American Graffiti was set in, and how the city policed and ended it.
 department: places
 eras:
-- 1930s
 - 1940s
 - 1950s
 - 1960s
 - 1970s
 - 1980s
 - 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
-- 1930
-- 2024
+- 1947
+- 1993
 region: West
 states:
 - California
 cities:
 - Modesto, California
 people:
-- Pat Ganahl
 - George Lucas
+- Gerald McKenzie
 - Phillip (Tiny) Stuart
+- Pat Ganahl
+- Dennis Lema
 companies: []
-places: []
+places:
+- 10th Street
+- McHenry Avenue
+- Burge's Drive-In
 clubs: []
 strips: []
 tags:
 - cruising
 - town-politics
-- car-shows
+- police-and-safety
 - teenagers-and-schools
-- family-business
-- grassroots-sources
+- car-clubs
 related:
 - drag-racing/modesto-century-toppers.md
 - places/dragging-main.md
@@ -55,9 +55,11 @@ canonical_for:
 
 **Location:** In George Lucas's teens, a loop of 10th, G, 11th and O Streets, with Burge's Drive-In (the model for Mel's in *American Graffiti*) at the turnaround. From the late 1960s it moved to **McHenry Avenue**.[^gm][^lat90] · **Peak:** 1950s to 1980s. · **Later:** the "Graffiti Summer" events and the Kiwanis American Graffiti car show.
 
-By 1990, according to city officials, up to 6,000 teenagers from around the San Joaquin Valley crowded McHenry Ave on weekend nights.[^lat90b]
+Then the cruise outgrew the town. By 1990, according to city officials, up to 6,000 teenagers from around the San Joaquin Valley crowded McHenry Ave on weekend nights.[^lat90b]
 
 ## In their own words
+
+That year the police chief, a car-club leader and a magazine editor all weighed in:
 
 > "The days are long gone when a couple hundred local guys drove up and down the street looking for girls. … There's too many cruisers out there now and they're causing too much trouble."
 >
@@ -73,11 +75,11 @@ By 1990, according to city officials, up to 6,000 teenagers from around the San 
 
 ## Policing
 
-On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinances. One barred passing the same spot on McHenry more than once every four hours. Dennis Lema of the Central California Coalition of Car Clubs vowed to challenge them.[^lib][^lat90b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The city acted. On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinances. One barred passing the same spot on McHenry more than once every four hours. Dennis Lema of the Central California Coalition of Car Clubs vowed to challenge them.[^lib][^lat90b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-## Ties
+## The film and the main drag
 
-When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). The film's influence on the 1970s [street-rod revival](../street-rodding/index.md) is often claimed, but we haven't sourced it yet. Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
+When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
 
 *See also:* [Woodward](woodward-ordinances.md).
 
@@ -86,6 +88,8 @@ When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Ti
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1993?** The HMdb marker text says that after Graffiti Night grew huge, "Cruising was banned in Modesto; an ordinance that remains in force today." That contradicts the documented 1990 ordinance. It may be a second measure or simply a mistake on the marker.[^hm] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+**Not yet sourced:** the film's influence on the 1970s [street-rod revival](../street-rodding/index.md) is often claimed, but we haven't sourced it yet.
 
 ## Images
 

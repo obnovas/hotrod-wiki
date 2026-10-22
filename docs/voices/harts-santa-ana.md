@@ -19,17 +19,22 @@ states:
 cities:
 - Santa Ana, California
 people:
-- Dale Armstrong
-- Steve Gibbs
-- Gerald Hart
+- C.J. Hart
 - Peggy Hart
+- Gerald Hart
+- Steve Gibbs
+- Dale Armstrong
 companies: []
 places: []
 clubs: []
-strips: []
+strips:
+- Santa Ana Drags (Orange County Airport)
+- Lions Drag Strip
 tags:
 - oral-history
+- drag-strips
 - airport-strips
+- family-business
 related:
 - eras/1950s-santa-ana-drags.md
 - people/peggy-hart.md
@@ -46,21 +51,27 @@ C.J. "Pappy" Hart (1911–2004) and his wife **Peggy Hart** ran the Santa Ana dr
 
 ## Pappy, in his words
 
+Pappy explained the strip in terms of safety:
+
 > "There's been drag racing since cars were invented, but I guess they say I invented drag racing because I was the first one to have a commercial strip. There was one in [Goleta, Calif.], but they charged no fee at the time. I saw a need to get people to stop racing on the streets; that was dangerous."
 >
 > — **C.J. Hart**, 2001 National Dragster interview, as quoted by NHRA.com (Phil Burgess), June 26, 2004.[^wd]
 
-The New York Times obituary noted that this was "a comment seemingly at odds with his widely reported arrest at age 87 for driving 85 in a 55-mph zone."[^wd]
+His own driving was another matter. The New York Times obituary noted that this was "a comment seemingly at odds with his widely reported arrest at age 87 for driving 85 in a 55-mph zone."[^wd]
 
-In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+He also had a quick answer on stage. In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Peggy, as others remembered her
+
+Peggy raced, too:
 
 > "At that time, it was mainly roadsters and coupes. Peggy was going as fast as any of them, and beating a lot of guys. She was a trendsetter, a pioneer."
 >
 > — **Steve Gibbs**, NHRA vice president of competition, to the Press-Enterprise (Lyle Spencer), 2004.[^wd] *Secondhand*: Peggy died in 1980, and we have not found her own words.
 
 ## Gerald Hart, 2015
+
+Eleven years after Pappy died, the family memories came from his son:
 
 > "Races would be held every Sunday except Mother's Day. They tried it once and they wouldn't let that happen again. Their wives wouldn't let them out."
 >
@@ -71,6 +82,8 @@ In April 2004, at a museum panel, a moderator asked why he wasn't driving a Roll
 > — **Gerald Hart**, Press-Enterprise, 2015.[^pe]
 
 ## Dale Armstrong, racer
+
+The racers remembered him too:
 
 > "He knew I would race anything to make few bucks. 'Pappy' - that's what everyone called him - always took good care of me. I was treated better at his track than any other."
 >

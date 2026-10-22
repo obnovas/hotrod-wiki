@@ -9,20 +9,38 @@ eras:
 - 1970s
 - 1980s
 years:
-- 1949
+- 1948
 - 1988
-region: National
-states: []
+region: West
+states:
+- California
 cities: []
 people:
+- Ed Iskenderian
+- Howard Johansen
 - Jack Engle
-companies: []
+- Doug Cook
+- Emery Cook
+- Red Henslee
+- Jazzy Nelson
+- Chet Herbert
+- Don Garlits
+- Ray Giovannoni
+- Dave Wallace
+- Robert C. Post
+companies:
+- Howard's Cams
+- Iskenderian Cams
+- Weber Tool Co.
+- Drag News
 places: []
 clubs: []
 strips: []
 tags:
 - camshafts
-- patents-and-inventions
+- speed-equipment
+- magazines-and-media
+- aftermarket-business
 related:
 - people/jack-engle.md
 - companies/crane-cams.md
@@ -49,17 +67,17 @@ It did not stay that way.
 
 ## How it escalated
 
-**1956.** Howard's Cams called Red Henslee's roadster "The World's Fastest-Accelerating Roadster." Isky answered in the March 1956 HRM with Jazzy Nelson's fuel Fiat as "The World's Fastest-Accelerating Car," on a 9.10 e.t. that historian Robert C. Post says was "almost certainly not" real.[^hr]
+It started with superlatives. In **1956** Howard's Cams called Red Henslee's roadster "The World's Fastest-Accelerating Roadster." Isky answered in the March 1956 HRM with Jazzy Nelson's fuel Fiat as "The World's Fastest-Accelerating Car," on a 9.10 e.t. that historian Robert C. Post says was "almost certainly not" real.[^hr]
 
-**February 1957.** Isky claimed Emery Cook's 166.97 mph at Lions for his "5-Cycle" cam. Howard answered with ads of four bicyclists and a fifth bike ridden by a clown.[^hr]
+In **February 1957** Isky claimed Emery Cook's 166.97 mph at Lions for his "5-Cycle" cam. Howard answered with ads of four bicyclists and a fifth bike ridden by a clown.[^hr]
 
-**September 1958.** This is the ad at the center of our open lead. Per Iskenderian, **Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products** started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
+Then, in **September 1958**, came the ad at the center of our open lead. Per Iskenderian, **Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products** started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
 
-**Jack Engle** opened a third front with type-only ads "signed" by gasser stars, though the satirical style pointed to Engle himself.[^hr]
+Meanwhile **Jack Engle** opened a third front with type-only ads "signed" by gasser stars, though the satirical style pointed to Engle himself.[^hr]
 
-**1959.** Howard countered Isky's five cycles with "eight-cycle" cams, and Chet Herbert became the first serious challenger for Top Eliminator business.[^cp59]
+In **1959** Howard countered Isky's five cycles with "eight-cycle" cams, and Chet Herbert became the first serious challenger for Top Eliminator business.[^cp59]
 
-**1960.** Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+In **1960** it turned personal. Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Was any of it real?
 

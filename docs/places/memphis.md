@@ -7,32 +7,42 @@ eras:
 - 1950s
 - 1960s
 - 1970s
+- 1980s
+- 1990s
 years:
 - 1947
-- 1979
+- 1992
 region: South
 states:
 - Tennessee
 cities:
+- Memphis, Tennessee
 - Halls, Tennessee
 people:
-- Buster Couch
 - Ray Godman
-- Joe Lunati
-- Kenneth McKee
+- Red Dyer
+- Buster Couch
+- Preston Davis
 - Bill Taylor
-companies:
-- Kingfish (blown Barracuda)
+- Kenneth McKee
+- Larry Reyes
+- Joe Lunati
+- Jimmy Fulghum
+- Bob James
+companies: []
 places: []
 clubs:
 - Memphis Rodders
-strips: []
+strips:
+- Halls (WWII air base)
+- Lakeland Dragway
+- SEMO Drag Strip
 tags:
-- car-clubs
 - drag-strips
-- sanctioning-bodies
-- dragsters
 - airport-strips
+- car-clubs
+- dragsters
+- sanctioning-bodies
 - grassroots-sources
 related:
 - voices/ray-godman.md
@@ -58,15 +68,15 @@ canonical_for: []
 
 The drags ran at an abandoned WWII air base at **Halls, Tennessee**, about 70 miles from the city.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**September 1955 NHRA Drag Safari meet:** 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
+The biggest day there was the **September 1955 NHRA Drag Safari meet**: 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
 
 ## Ray Godman and Lakeland Dragway (1960–79)
 
-Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in **Lakeland Dragway**, which opened **July 4, 1960**. Its first starter was **Buster Couch**, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
+By 1960 Memphis had a strip of its own. Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in **Lakeland Dragway**, which opened **July 4, 1960**. Its first starter was **Buster Couch**, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
 
 Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Road trips to the Bootheel (1962–66)
 
@@ -74,13 +84,13 @@ Memphis cars went north to race, too. At the SEMO Drag Strip on the old Malden A
 
 ## The Memphis Rodders (1947)
 
-The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
+The city's car-club scene goes back further. The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
 The club's best-known alumnus in the parts business is **[Joe Lunati](../people/joe-lunati.md)**, who "began drag racing with the Memphis Rodders in the early '60s," opened his own cam shop in 1968 (his family says 1969<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>), and was still showing up at Rodders reunions late in life.[^edel] His family called him "a cornerstone in the Memphis drag racing history."[^lunobit]
 
 ## Street Rod Nationals
 
-Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NSRA](../street-rodding/nsra-early-nationals.md).
+The street-rod crowd came too. Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NSRA](../street-rodding/nsra-early-nationals.md).
 
 ## Sun Records?
 
@@ -88,7 +98,7 @@ We looked for a documented link between Sun Records-era musicians and Memphis bu
 
 There is one company claim, and it is about a street corner, not a musician. COMP Cams says its founders' Racing Head Service rented a shop "at the corner of Union and Marshall, which happened to be Sun Studios, where Elvis was discovered."<sup class="hr-q" id="qr-9"><a href="#q-9" title="Single source so far: see Open questions">◐</a></sup> Read the full story, with its doubts, in [COMP Cams & Racing Head Service](../companies/comp-cams-rhs.md).[^comp15]
 
-**The 1954 World Series:** Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
+The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
 
 ## Open questions & disputed details
 

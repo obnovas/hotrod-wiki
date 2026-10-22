@@ -6,20 +6,35 @@ eras:
 - 1950s
 years:
 - 1952
-- 1955
+- 1957
 region: Midwest
 states:
 - Illinois
+- Missouri
 cities:
 - Half Day, Illinois
+- Chicago, Illinois
+- Lawrenceville, Illinois
+- St. Charles, Missouri
 people:
-- Joseph Di Lorenzo
 - Arnold H. Maremont
+- Joseph Di Lorenzo
+- Andy Granatelli
+- M. Robert Wolfson
+- William Stratton
 - Bob Bartel
-companies: []
+- C. A. Gillespie
+companies:
+- Maremont Automotive Products
 places: []
-clubs: []
-strips: []
+clubs:
+- Automobile Timing Association of America (ATAA)
+- Bean Bandits
+- Memphis Rodders
+- Motor City Modifiers
+strips:
+- Half Day Speedway (Maremont Speedway)
+- Lawrenceville Municipal Airport
 tags:
 - sanctioning-bodies
 - police-and-safety
@@ -54,18 +69,21 @@ Nearly everything we know about the strip's first years comes from Maremont's ow
 
 ## The strip
 
-- **Where.** The NHRA's 2023 Illinois drag-strip primer, summarizing Mel Bayshore's strip list, says Half Day Speedway opened in 1952 on an outlying satellite airfield used by Glenview Naval Air Station in World War II, "part of what was known as Maremont Speedway." It says the ATAA "first conducted drag races there starting on April 6, 1952, but the track was shut down the following year."[^nhra] The primer also credits the strip to "the brainchild of Andy Granatelli," which we have not seen elsewhere.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
-- **How it ran.** A half-mile course on an abandoned airstrip or unused four-lane highway. Two cars ran from a standing start, timed electronically over the first quarter-mile, and the second quarter-mile was for "safe deceleration."[^sm]
-- **Crowds.** *Traffic Digest and Review* and *The Police Chief* both repeat the ATAA's figure that "last summer's" program drew "an average of 300 hot rodders and 3,000 spectators" every Sunday.[^tdr][^pc] *Sales Management* says there were "no accidents in 25 Sundays of racing."[^sm] One detail from the same feature: "One Indiana farmer rode his motorcycle 150 miles each way to compete in each Sunday's events."[^sm]
-- **Cars.** The program said every car had to pass a safety inspection stricter than city or state tests.[^tdr] Classes were set by dividing engine displacement into the car's weight without the driver.[^ma]
+Even the strip's basic history comes secondhand. The NHRA's 2023 Illinois drag-strip primer, summarizing Mel Bayshore's strip list, says Half Day Speedway opened in 1952 on an outlying satellite airfield used by Glenview Naval Air Station in World War II, "part of what was known as Maremont Speedway." It says the ATAA "first conducted drag races there starting on April 6, 1952, but the track was shut down the following year."[^nhra] The primer also credits the strip to "the brainchild of Andy Granatelli," which we have not seen elsewhere.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+
+The format was simple: a half-mile course on an abandoned airstrip or unused four-lane highway. Two cars ran from a standing start, timed electronically over the first quarter-mile, and the second quarter-mile was for "safe deceleration."[^sm]
+
+It drew a crowd. *Traffic Digest and Review* and *The Police Chief* both repeat the ATAA's figure that "last summer's" program drew "an average of 300 hot rodders and 3,000 spectators" every Sunday.[^tdr][^pc] *Sales Management* says there were "no accidents in 25 Sundays of racing."[^sm] One detail from the same feature shows how far some came: "One Indiana farmer rode his motorcycle 150 miles each way to compete in each Sunday's events."[^sm]
+
+The program said every car had to pass a safety inspection stricter than city or state tests.[^tdr] Classes were set by dividing engine displacement into the car's weight without the driver.[^ma]
 
 ## The association
 
-The ATAA was a non-profit that Maremont underwrote. The *Escanaba Daily Press* ran a July 22, 1954 wire feature headed "Hot Rodders Playing It Safe" that says it "came into being in 1953" to operate the Half Day strip and that Maremont, "a Chicago manufacturer of automotive products and racing enthusiast," underwrote its expenses.[^esc] (OCR; spacing normalized.) The headquarters were at 1705 S. Ashland Ave., Chicago, with Joseph Di Lorenzo as national director.[^tdr]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Behind the strip was the association, a non-profit that Maremont underwrote. The *Escanaba Daily Press* ran a July 22, 1954 wire feature headed "Hot Rodders Playing It Safe" that says it "came into being in 1953" to operate the Half Day strip and that Maremont, "a Chicago manufacturer of automotive products and racing enthusiast," underwrote its expenses.[^esc] (OCR; spacing normalized.) The headquarters were at 1705 S. Ashland Ave., Chicago, with Joseph Di Lorenzo as national director.[^tdr]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ### Who signed on
 
-*Traffic Digest and Review* and *The Police Chief* list local endorsements: the Cook County sheriff, John Babb; the Chicago Police Department's traffic chief, Michael J. Ahern; David M. Baldwin, director of the National Safety Council's Traffic Division; and Charles Chaplin, mayor of Northbrook, Ill.[^tdr] They are in the ATAA's own news release, so they are the sponsor's claim that these men endorsed it.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The sponsor wanted official backing, and said it had it. *Traffic Digest and Review* and *The Police Chief* list local endorsements: the Cook County sheriff, John Babb; the Chicago Police Department's traffic chief, Michael J. Ahern; David M. Baldwin, director of the National Safety Council's Traffic Division; and Charles Chaplin, mayor of Northbrook, Ill.[^tdr] They are in the ATAA's own news release, so they are the sponsor's claim that these men endorsed it.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ### The blizzard meeting
 
@@ -73,7 +91,7 @@ The sponsor's best story is about turnout. *Sales Management* (June 1, 1954) say
 
 ## Beyond Illinois: the St. Charles test
 
-In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+The next step was to take the program on the road. In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 | Source | Competitors | Spectators |
 |---|---|---|
@@ -88,11 +106,7 @@ For the 1954 season *Sales Management* says the ATAA would help local hot rodder
 
 The name arrived before the event. *Sales Management* in 1954 and the wire feature both call the **Bonneville National Speed Trials** the "world series of hot-rodding," where Maremont gave a trophy and a college scholarship to the best-engineered entry.[^sm][^esc] By June 1955 the label had moved to the ATAA's own meet.
 
-*Motor Age*, in a piece bylined to M. Robert Wolfson of Maremont Automotive Products, says:[^ma]
-
-- The **first annual** meet was at **Lawrenceville, Ill.**, "last October," meaning October 1954. It "attracted some 350 hot rodders and approximately 10,000 spectators."
-- The **second annual** World Series would be "August 17 through 21" at Lawrenceville.
-- Illinois Gov. William Stratton welcomed hot rodders to "the 1954 World Series of Drag Racing," saying the state was "happy to be able to provide this safe, off-the-street location (Lawrenceville Municipal Airport)."
+*Motor Age*, in a piece bylined to M. Robert Wolfson of Maremont Automotive Products, says the **first annual** meet was at **Lawrenceville, Ill.**, "last October," meaning October 1954. It "attracted some 350 hot rodders and approximately 10,000 spectators." The **second annual** World Series would be "August 17 through 21" at Lawrenceville. Illinois Gov. William Stratton had welcomed hot rodders to "the 1954 World Series of Drag Racing," saying the state was "happy to be able to provide this safe, off-the-street location (Lawrenceville Municipal Airport)."[^ma]
 
 That is the first period evidence we have for the date of the first World Series, and it matches the 1954 date in the Bartel tribute. It undercuts the "1956" (a 2017 newspaper summary) and "1953" (promoter copy) dates. See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series). We still lack a program or an ad, and *Motor Age* is a sponsor's article, so we call it strong but not final.<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -109,7 +123,7 @@ For 1955 the piece expects the Akron club to bring about 25 entries, Detroit's M
 
 ## What changed by 1957
 
-In March 1957, a wire survey on drag strips quoted Arnold H. Maremont as saying "There never has been an accident at a race sponsored by the ATAA," while the National Safety Council had just come out against drag racing, "supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md). Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed.<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
+The safety pitch did not settle the argument. In March 1957, a wire survey on drag strips quoted Arnold H. Maremont as saying "There never has been an accident at a race sponsored by the ATAA," while the National Safety Council had just come out against drag racing, "supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md). Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed.<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Open questions & disputed details
 

@@ -13,17 +13,20 @@ eras:
 - 1980s
 - 1990s
 - 2000s
+- 2010s
 years:
-- 1913
-- 2009
+- 1912
+- 2010
 region: West
 states:
 - California
 cities:
 - Van Nuys, California
 people:
+- Rick McCloskey
 - Arthur Sjoquist
 - Reid Stolz
+- Joe Marino
 companies: []
 places: []
 clubs: []
@@ -31,11 +34,13 @@ strips: []
 tags:
 - cruising
 - police-and-safety
+- teenagers-and-schools
+- street-rods
 related:
 - places/bobs-big-boy-river-road.md
-- drag-racing/modesto-century-toppers.md
+- places/whittier-blvd.md
 - places/cruising-overview.md
-- places/twin-falls-main-avenue.md
+- places/harveys-broiler-downey.md
 canonical_for: []
 ---
 # Van Nuys Boulevard
@@ -51,9 +56,11 @@ The custom, the LA Times Magazine said in 1986, went back to a "regular Saturday
 
 ## The turnarounds
 
-The turnarounds were the Hughes supermarket lot, June Ellen's Donuts and Bob's Big Boy (McCloskey).[^cnn] Hot Rod (July 1981) noted that when police closed the street, "the action picks up at the local McDonald's parking lot." The cars of that era included supercars, VW Beetles and mini-trucks.[^hr81]
+Every cruise needs places to turn around. On Van Nuys they were the Hughes supermarket lot, June Ellen's Donuts and Bob's Big Boy (McCloskey).[^cnn] Hot Rod (July 1981) noted that when police closed the street, "the action picks up at the local McDonald's parking lot." The cars of that era included supercars, VW Beetles and mini-trucks.[^hr81]
 
 ## In their own words
+
+The people who were there, on both sides of the law, mostly remember the fun:
 
 > "You had everything from your Mustangs to lowriders and hot rods. ... Essentially you were out there to see your friends, show off your car and just sort of be there. It was the place for young people to be."
 >
@@ -69,15 +76,15 @@ The turnarounds were the Hughes supermarket lot, June Ellen's Donuts and Bob's B
 
 ## Policing and the end
 
-Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980. The LA Times (1986) says major crime on cruise nights was up "five to 10 times" by 1978.[^lat86]
+The crowds brought the rules. Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980. The LA Times (1986) says major crime on cruise nights was up "five to 10 times" by 1978.[^lat86]
 
 Sjoquist told Hot Rod that earlier captains had tried no-parking signs and ticket sweeps. When "confronted with Wednesday-night crowds of 10,000 to 15,000," the LAPD got permission to close the street at its discretion.[^hr81]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The Re-Cruise and the comeback
 
-Older rodders moved to a monthly Friday-night "Bob's Drive-In Re-Cruise" at three Bob's Big Boys, one of them the original 1936 Glendale location. Hot Rod (1981) names organizer Joe Marino.[^hr81] It foreshadowed today's [Bob's Burbank Friday nights](bobs-big-boy-river-road.md).
+The cruise did not die; it moved. Older rodders moved to a monthly Friday-night "Bob's Drive-In Re-Cruise" at three Bob's Big Boys, one of them the original 1936 Glendale location. Hot Rod (1981) names organizer Joe Marino.[^hr81] It foreshadowed today's [Bob's Burbank Friday nights](bobs-big-boy-river-road.md).
 
-The 2009 revival staged from the **Rydell Chevrolet (formerly Paradise Pontiac)** lot. Stolz's announcement began as a post on the H.A.M.B.[^cc]
+Then it came back to the boulevard. The 2009 revival staged from the **Rydell Chevrolet (formerly Paradise Pontiac)** lot. Stolz's announcement began as a post on the H.A.M.B.[^cc]
 
 ## Open questions & disputed details
 

@@ -13,20 +13,27 @@ states:
 - Missouri
 - Kansas
 cities:
-- City, Missouri
+- Kansas City, Missouri
 people:
-- Peter Behr
-- Lee Dorrell
 - Eugene M. Pond
+- Landon Laird
+- Don Penson
+- Ray Erickson
 - Ed Shook
-companies:
-- Crank Twisters (Kansas City)
-- Dragettes
+- Lee Dorrell
+- Peter Behr
+- Mickey Thompson
+companies: []
 places: []
 clubs:
 - Kansas City Timing Association
-- Kansas City Timing Association strip
+- Crank Twisters
+- Barons
+- Dragettes
+- Draggin Diplomats
+- Gear Jammers (Kansas City)
 strips:
+- Kansas City Timing Association strip
 - Kansas City International Raceway
 tags:
 - police-and-safety
@@ -61,12 +68,9 @@ The man who made that happen was not a juvenile officer or a traffic cop. **Majo
 
 ## The meeting
 
-Pond's account of how it began is short and businesslike.[^pond]
+Pond's account of how it began is short and businesslike.[^pond] First he called a meeting of the "Greater Kansas City law enforcement administrators": police chiefs, sheriffs and the heads of the Missouri and Kansas highway patrols. He presented a plan for a drag strip with "rigid rules and regulations." Then he met the hot rodders themselves. "They went for it in a big way," he wrote, and the result was **32 clubs** from communities around the metro area.
 
-1. He called a meeting of the "Greater Kansas City law enforcement administrators": police chiefs, sheriffs and the heads of the Missouri and Kansas highway patrols. He presented a plan for a drag strip with "rigid rules and regulations."
-2. He then met the hot rodders themselves. "They went for it in a big way," he wrote, and the result was **32 clubs** from communities around the metro area.
-3. Civic clubs, the YMCA and driver-training instructors supplied adult advisers. Pond stresses that the clubs "run their organizations" but accept the advice.
-4. The clubs sent two members each to a new body, the **Kansas City Timing Association**, incorporated in Missouri as a non-profit and later affiliated with the National Hot Rod Association. It adopted NHRA's code of ethics and rules.
+Civic clubs, the YMCA and driver-training instructors supplied adult advisers. Pond stresses that the clubs "run their organizations" but accept the advice. The clubs sent two members each to a new body, the **Kansas City Timing Association**, incorporated in Missouri as a non-profit and later affiliated with the National Hot Rod Association. It adopted NHRA's code of ethics and rules.
 
 This matches the May 1955 planners' survey, which had the Kansas City Timing Association working with the police and trying to lease a site in the Northeast Industrial District.[^aspo] See [What the City Planners Wrote](planners-report-1955.md).
 
@@ -90,14 +94,11 @@ Pond leans on small stories. He relays a column by **Landon Laird** ("About Town
 
 ## The strip
 
-Pond reports these facts about the track and the money, all from his own article:[^pond]
+Pond's own article gives the track and the money.[^pond] The site was a plot in the northeast industrial district, and the facility cost **$72,000**. A contractor agreed to build it "standing one-half of the cost and without profit." Because it looked self-supporting, "no donations were accepted."
 
-- **Site and cost.** A plot in the northeast industrial district. The facility cost **$72,000**. A contractor agreed to build it "standing one-half of the cost and without profit." Because it looked self-supporting, "no donations were accepted."
-- **Opening.** "On July 17, 1955, more than 200 hot rodders and 18,000 paid spectators turned out for the opening of our drag race course."
-- **First season.** Ten meets, and "the profit reached $21,800," paid against the debt. The association gave $500 to the United Fund campaign.
-- **Size.** Asphalt, 3,850 feet long and "wide enough for two cars." Pond planned to widen it and add bleachers.
-- **Safety record.** "More than 10,000 races on the strip without an accident of serious nature."
-- **Members.** More than 1,300 members in 24 clubs, down from the original 32 as some clubs folded and their members moved to others.
+Then came opening day. "On July 17, 1955, more than 200 hot rodders and 18,000 paid spectators turned out for the opening of our drag race course." The first season ran ten meets, and "the profit reached $21,800," paid against the debt. The association gave $500 to the United Fund campaign.
+
+The strip itself was asphalt, 3,850 feet long and "wide enough for two cars." Pond planned to widen it and add bleachers. Its safety record, by his count: "More than 10,000 races on the strip without an accident of serious nature." The association had more than 1,300 members in 24 clubs, down from the original 32 as some clubs folded and their members moved to others.
 
 "The organization of the clubs into the Timing Association has brought all of us into a new relationship with the police," said **Ray Erickson** of the Crank Twisters. "We now have a place where we can compete under safety rules, inspection, and good sportsmanship."[^pond]
 
@@ -107,22 +108,21 @@ Pond also describes a club discipline system: "A traffic violator is severely de
 
 The best checks on Pond came from the *Sedalia Democrat*, which covered Kansas City's strip because its own hot rodders kept driving there.
 
-**June 1957: the visitors.** Members of Sedalia's Drag-On Car Club "saw safety in action" one Sunday at "the Kansas City Drag Strip," and "Many of the local boys participated." The paper described the strip as "65 feet wide and a half mile long," with the cars started "from zero to the one-fourth mile mark."[^sd57] Pond had called it 3,850 feet and "wide enough for two cars." A half mile is 2,640 feet, so the visitors' figure is a rough one. See [The Sedalia Drag-Ons](sedalia-drag-ons.md).
+In **June 1957**, members of Sedalia's Drag-On Car Club "saw safety in action" one Sunday at "the Kansas City Drag Strip," and "Many of the local boys participated." The paper described the strip as "65 feet wide and a half mile long," with the cars started "from zero to the one-fourth mile mark."[^sd57] Pond had called it 3,850 feet and "wide enough for two cars." A half mile is 2,640 feet, so the visitors' figure is a rough one. See [The Sedalia Drag-Ons](sedalia-drag-ons.md).
 
-**April 1959: the AP feature.** A story by **Ed Shook** of *The Kansas City Star*, sent out by the Associated Press and printed in Sedalia under the headline "Hot-Rod Racing Is Legal; Encouraged in Kansas City," fills in Pond's blanks:[^ap59]
+In **April 1959** came the AP feature, a story by **Ed Shook** of *The Kansas City Star*, sent out by the Associated Press and printed in Sedalia under the headline "Hot-Rod Racing Is Legal; Encouraged in Kansas City," fills in Pond's blanks.[^ap59] The Kansas City Southern Lines offered "a plot of land for $2 a year." A $70,000 loan, to be repaid out of the strip's profits, came from a patron group, and a contractor agreed to contribute half the cost of grading and paving. The strip "was finished two months sooner than planned." It was a strip of asphalt 4,850 feet long "in a lonely section of the city," near the Missouri River.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> Pond's figure was 3,850 feet. One of them is probably a misprint, and the scan can't tell us which.
 
-- **The land.** The Kansas City Southern Lines offered "a plot of land for $2 a year." A $70,000 loan, to be repaid out of the strip's profits, came from a patron group, and a contractor agreed to contribute half the cost of grading and paving. The strip "was finished two months sooner than planned."
-- **The place.** A strip of asphalt 4,850 feet long "in a lonely section of the city," near the Missouri River.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> Pond's figure was 3,850 feet. One of them is probably a misprint, and the scan can't tell us which.
-- **Opening day.** "On July 15, the day the strip opened, a crowd of 18,000 persons watched as some 200 racers competed in the first trophy meet."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> Pond wrote July 17, 1955; the crowd and racer counts match his. A 66-year-old motorcyclist ran 93.25 mph in his class.
-- **By 1959.** The association had 500 members and 31 registered clubs, including the **Draggin Diplomats** and the **Gear Jammers** (a Kansas City club, not [Belleville's](belleville-gear-jammers.md)). Trophy meets ran on the first and third Sundays until October; the off Sundays were for "grudge" races. The strip was open seven days a week, and 60 to 100 cars raced on an average summer night.
-- **The Dragettes.** That year "Kansas City's only all-girl hot-rod club," seven wives or sweethearts of members of other clubs, ran the concession stand, and they did some racing too.
-- **The new boss.** The president was **Lee Dorrell**, a Kansas City policeman. Pond had become chief of police at Wichita. Dorrell called the untamed show-offs "squirrels." "A true hot-rodder takes an interest in his car, keeps it looking nice and mechanically perfect," he said.
+The AP's opening day differs too: "On July 15, the day the strip opened, a crowd of 18,000 persons watched as some 200 racers competed in the first trophy meet."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> Pond wrote July 17, 1955; the crowd and racer counts match his. A 66-year-old motorcyclist ran 93.25 mph in his class.
 
-**1966: still running.** A Kansas City dispatch in the *Sedalia Democrat* placed "The Kansas City Timing Association drag strip" at "Chateau Trafficway and Front Street" (the paper's spelling of Chouteau). By then it was sanctioned by the **American Hot Rod Association**, not NHRA, and it hosted the Missouri State Stock Car Championships, with St. Louisan Jim Kerby's 1965 Chevelle against the 1965 Hemi Plymouth of Biggers and Loo of Kansas City.[^sd66]
+By 1959 the association had 500 members and 31 registered clubs, including the **Draggin Diplomats** and the **Gear Jammers** (a Kansas City club, not [Belleville's](belleville-gear-jammers.md)). Trophy meets ran on the first and third Sundays until October; the off Sundays were for "grudge" races. The strip was open seven days a week, and 60 to 100 cars raced on an average summer night. That year "Kansas City's only all-girl hot-rod club," seven wives or sweethearts of members of other clubs, ran the concession stand, and they did some racing too.
 
-**1969: the organizer's memory.** When Lee Dorrell turned up as an officer of a new strip at Sedalia, the *Democrat* wrote that he "was one of the planners and organizers of the first drag strip built in Missouri in 1955. That strip was built in Kansas City near the Chouteau Bridge and named the Kansas City Timing Association (KCTA)."[^sd69]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> By then the big Kansas City meets had moved to a newer track, **Kansas City International Raceway** at 8201 Noland Road, where Mickey Thompson's Mach 1 Mustang held the low E.T. of 7.37 seconds in August 1969.[^kcir] See [Mickey Thompson](../companies/mickey-thompson.md).
+The association also had a new boss. The president was **Lee Dorrell**, a Kansas City policeman. Pond had become chief of police at Wichita. Dorrell called the untamed show-offs "squirrels." "A true hot-rodder takes an interest in his car, keeps it looking nice and mechanically perfect," he said.
 
-**1956: the story travels to California.** Kansas City's results were already being quoted far away within a year. On June 26, 1956, Mill Valley attorney Peter Behr asked the Marin County, California, supervisors to build a strip, and the paper reported that "He quoted figures from Kansas City where police recorded from 75 to 100 'disturbance calls' per month prior to the strip opening, and afterwards 'went 10 months before they had another single call.'"[^ij56]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> See [Hey! Anybody Got a Drag Strip?](marin-cotati-strips.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
+In **1966** it was still running. A Kansas City dispatch in the *Sedalia Democrat* placed "The Kansas City Timing Association drag strip" at "Chateau Trafficway and Front Street" (the paper's spelling of Chouteau). By then it was sanctioned by the **American Hot Rod Association**, not NHRA, and it hosted the Missouri State Stock Car Championships, with St. Louisan Jim Kerby's 1965 Chevelle against the 1965 Hemi Plymouth of Biggers and Loo of Kansas City.[^sd66]
+
+In **1969** the organizer looked back. When Lee Dorrell turned up as an officer of a new strip at Sedalia, the *Democrat* wrote that he "was one of the planners and organizers of the first drag strip built in Missouri in 1955. That strip was built in Kansas City near the Chouteau Bridge and named the Kansas City Timing Association (KCTA)."[^sd69]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> By then the big Kansas City meets had moved to a newer track, **Kansas City International Raceway** at 8201 Noland Road, where Mickey Thompson's Mach 1 Mustang held the low E.T. of 7.37 seconds in August 1969.[^kcir] See [Mickey Thompson](../companies/mickey-thompson.md).
+
+The story had traveled even earlier. Kansas City's results were already being quoted far away within a year. On June 26, 1956, Mill Valley attorney Peter Behr asked the Marin County, California, supervisors to build a strip, and the paper reported that "He quoted figures from Kansas City where police recorded from 75 to 100 'disturbance calls' per month prior to the strip opening, and afterwards 'went 10 months before they had another single call.'"[^ij56]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> See [Hey! Anybody Got a Drag Strip?](marin-cotati-strips.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
 <figure markdown>
 ![A long steel truss bridge across a wide river, seen from the side](../assets/images/commons-chouteau-bridge-haer-1990.jpg){ loading=lazy }

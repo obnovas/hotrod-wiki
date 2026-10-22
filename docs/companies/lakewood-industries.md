@@ -20,26 +20,33 @@ cities:
 - Lakewood, Ohio
 people:
 - Joe Schubeck
-- Ed "Isky" Iskenderian
-- Arlen Vanke
+- Jack Harris
+- Joe Scarpelli
+- Bill Steiskal
+- George Hurst
+- Linda Vaughn
+- Jim Dietz
+- Ross McCombs
 companies:
 - Lakewood Industries
+- Hurst Performance
+- Holley
+- Quick Time
 places: []
 clubs: []
 strips: []
 tags:
+- speed-equipment
 - aftermarket-business
 - dragsters
-- family-business
+- funny-cars
 - police-and-safety
-- speed-equipment
-- airport-strips
 related:
 - drag-racing/akron-fulton-airport.md
-- people/ed-iskenderian.md
 - companies/hurst-campbell.md
-- companies/edelbrock-slingshot.md
+- companies/holley.md
 - places/ohio-gassers.md
+- companies/mr-gasket.md
 canonical_for: []
 ---
 # Lakewood Industries: The Dragster Driver Who Built a Cage for the Clutch
@@ -84,13 +91,7 @@ Holley's brand page says Lakewood is "now part of Holley Performance," and that 
 
 ## Connect the dots
 
-- [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md): the Arfons brothers' strip where Schubeck's first race was a loss.
-- [The Ohio Gassers](../places/ohio-gassers.md): the other Cleveland-area racers of the same years, including a Mr. Gasket sales manager, who also came out of Cleveland garages and high schools.
-- [Arlen Vanke](../people/arlen-vanke.md): the Akron racer who ran the same strip.
-- [Hurst-Campbell](hurst-campbell.md): the Hairy Oldsmobile and Miss Golden Shifter.
-- [Ed Iskenderian](../people/ed-iskenderian.md): one of the catalog names Schubeck read about before he joined them.
-- [Holley](holley.md): the owner of the Lakewood brand today.
-- [Mr. Gasket](mr-gasket.md): the Cleveland parts company of the same period, another Ohio garage story.
+Schubeck's first race was a loss at [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), the Arfons brothers' strip, where [Arlen Vanke](../people/arlen-vanke.md) also ran. [The Ohio Gassers](../places/ohio-gassers.md) were the other Cleveland-area racers of the same years, including a Mr. Gasket sales manager, who also came out of Cleveland garages and high schools; [Mr. Gasket](mr-gasket.md) is the Cleveland parts company of the same period, another Ohio garage story. The Hairy Oldsmobile and Miss Golden Shifter belong to [Hurst-Campbell](hurst-campbell.md). [Ed Iskenderian](../people/ed-iskenderian.md) was one of the catalog names Schubeck read about before he joined them, and [Holley](holley.md) owns the Lakewood brand today.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 
