@@ -18,9 +18,14 @@ The site is organized by **topic**; sources are shown by badges and flags, not f
 ## Writing or extending an article
 1. Cite every claim with a footnote that has a URL. Add the source to `docs/bibliography.md` (new section per round; tag `[local]` for local or homegrown sources).
 2. Quote verbatim, only from pages actually read, with speaker, date and context. Paraphrase the rest.
-3. Mark conflicts with **⚠** and single-sourced claims with **◐**.
+3. Mark conflicts with **⚠** and single-sourced claims with **◐**. Leave the claim and its footnote in the story; the flag becomes a superscript marker and the explanation goes to the page's last section, **Open questions & disputed details** (`python scripts/move_unknowns.py docs/<dept>/<page>.md` builds it). Do not argue a dispute mid-paragraph.
 4. Images: public domain or openly licensed only, as `<figure markdown>` with a rich `<figcaption markdown>`, plus a row in `docs/reference/image-credits.md`. Copyrighted material is linked under "Visual references (external)".
 5. Grassroots articles: if the page rests mainly on local news, oral history, obituaries, club newsletters or club-run pages, municipal or police records, historical markers, family accounts or local-history sites, start the **Source types** line of the article record with `<span class="hr-badge">Grassroots</span>`, and add any new outlet to `docs/reference/grassroots-sources.md`.
+
+6. **Front matter.** Every article opens with the YAML block described in [Article Schema](docs/reference/article-schema.md): title, summary, department, eras, years, region (and states, cities), people, companies, places, clubs, strips, tags, related, canonical_for. Draft it with `python scripts/draft_frontmatter.py --write docs/<dept>/<page>.md`, then correct it by hand. The summary is one or two sentences that say only what the article says; it is the page's standfirst, search snippet and meta description.
+7. **One home per fact.** Before retelling a fact another article already tells, check `docs/data/canonical.yml`. If it is listed, give a one-line mention and link the canonical page ("Full story: ...") or include its snippet with `--8<-- "<key>.md"`. If you find a new repeated fact, give it an entry, a snippet in `snippets/` and a `canonical_for` key on its home page. Disputed numbers and dates are settled on the canonical page only.
+8. **Links.** Link the first mention of anything with its own page (the build does this automatically for names in `docs/data/entities.yml`; add new person, company, club, strip and place pages there). Give the page at least two `related` entries. After building, `python scripts/link_report.py 1` must list nothing.
+9. **Flow.** Write a single arc: short paragraphs joined by transitions, two or three subheads at most, no bullet lists in the story, no asides that break a thought. See the [Editorial Voice](docs/style-guide.md).
 
 ## Highlights (home-page slider)
 The slider is generated at build time from `docs/data/highlights.yml` by `hooks/highlights_hook.py` (registered in `mkdocs.yml`), using `scripts/highlights_lib.py`. Without JavaScript it is a plain list of cards. With JavaScript (`docs/javascripts/highlights.js`) it becomes a carousel with arrows, dots, a pause button, swipe, keyboard support, pause on hover or focus, and no auto-rotation under `prefers-reduced-motion`.
@@ -81,6 +86,6 @@ Readers send corrections, source tips and suggestions through the issue forms in
 0. Start by triaging open issues labeled `triage` (the steps above); fold verified items into this round's work.
 1. Research and write; keep local and homegrown sources first. File each new page in the right department (see above).
 2. Add 2-4 highlights (at least half grassroots); update `docs/reference/grassroots-sources.md` with any new outlet.
-3. `python scripts/check_connections.py` when a round touched `docs/data/connections.yml` or added a company page, then `python scripts/update_highlights.py check` (it also reports the round's batch against the standard). Log credited reader contributions in the Research Trail round entry.
-4. `.venv/bin/mkdocs build --strict`.
+3. `python scripts/check_articles.py` and `python scripts/move_unknowns.py --check --all` (front matter, canonical facts, links and open-questions markers), then `python scripts/check_connections.py` when a round touched `docs/data/connections.yml` or added a company page, then `python scripts/update_highlights.py check` (it also reports the round's batch against the standard). Log credited reader contributions in the Research Trail round entry.
+4. `.venv/bin/mkdocs build --strict` (it runs `check_articles.py` first and fails on any error), then `python scripts/link_report.py 1`.
 5. `git pull --rebase origin main`, commit, push. Do not deploy from the routine.

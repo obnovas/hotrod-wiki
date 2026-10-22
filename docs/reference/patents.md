@@ -7,36 +7,36 @@ We found these patents in Google Patents by searching inventor and assignee name
 
 | Figure | Patent | Title | Filed | Issued | Identity |
 |---|---|---|---|---|---|
-| Ed Winfield | [US1758068](https://patents.google.com/patent/US1758068A/en) | Carburetor reservoir | 1928-06-26 | 1930-05-13 | Name match; carburetor subject fits |
-| Ed Winfield | [US1893920](https://patents.google.com/patent/US1893920A/en) | Carburetor | 1930-01-03 | 1933-01-10 | Name match; carburetor subject fits |
-| Ed Winfield | [US2010170](https://patents.google.com/patent/US2010170A/en) | Internal combustion engine | 1932-10-31 | 1935-08-06 | Name match |
-| Ed Winfield | [US2136959](https://patents.google.com/patent/US2136959A/en) | Fuel supply system | 1934-10-26 | 1938-11-15 | Name match |
-| Ed Winfield | [US2126939](https://patents.google.com/patent/US2126939A/en) | Internal combustion engine head | 1936-06-13 | 1938-08-16 | Name match; cylinder-head subject fits |
-| Ed Winfield | [US2101605](https://patents.google.com/patent/US2101605A/en) | Automatic throttle control (assigned California Machinery & Supply) | 1936-06-13 | see link | Name match |
-| Ed Winfield | [US2246825](https://patents.google.com/patent/US2246825A/en) | Carburetor | 1939-04-24 | see link | Name match |
-| Ed Winfield | [US2394576](https://patents.google.com/patent/US2394576A/en) | Internal-combustion engine head | 1944-09-23 | see link | Name match |
-| Ed Winfield | [US2474878](https://patents.google.com/patent/US2474878A/en) | Engine block and cylinder assembly | 1945-08-17 | see link | Name match |
-| Ed Winfield | [US2474879](https://patents.google.com/patent/US2474879A/en) | Internal-combustion engine | 1945-10-02 | 1949-07-05 | Name match |
-| Ed Iskenderian | [US2846988](https://patents.google.com/patent/US2846988A/en) | Guide means for non rotatable valve lifters | 1956-10-30 | 1958-08-12 | **Confirmed**: text reads "Edward Iskenderian, Inglewood, Calif." |
-| Ed Iskenderian | [US3280806](https://patents.google.com/patent/US3280806A/en) | Helper spring for valve actuating mechanism | 1964-12-08 | 1966-10-25 | Name match (distinctive name) |
-| Ed Iskenderian | [US3301241](https://patents.google.com/patent/US3301241A/en) | Non-rotating roller tappet | 1966-06-21 | 1967-01-31 | Name match (distinctive name) |
-| Harvey Crane | [US3108580](https://patents.google.com/patent/US3108580A/en) | Non-rotatable valve tappet | 1963-03-13 | 1963-10-29 | **Confirmed**: the text names Harvey J. Crane Jr. of Hallandale, Fla. Cites Iskenderian's US2846988 |
-| Crane Cams (assignee) | [US5188068](https://patents.google.com/patent/US5188068A/en) | Roller tappet; cites Crane's US3108580 | 1991-02-04 | 1993-02-23 | Assignee as listed by Google ("Crane Cams"); we have not read the full text |
-| Competition Cams (assignee) | [US6357407B2](https://patents.google.com/patent/US6357407B2/en) | Anti-rotation valve lifter guide apparatus; cites Crane's US3108580 | 1998-12-01 | 2002-03-19 | Assignee as listed by Google ("Competition Cams"); we have not read the full text |
-| Vic Edelbrock Jr. | [US3030819](https://patents.google.com/patent/US3030819A/en) | Linkage for multiple carburetor installation | 1960-09-22 | 1962-04-24 | **Confirmed**: "Otis Victor Edelbrock, Jr., Los Angeles... assignor to Edelbrock Equipment Co." |
-| Ed Almquist | [US3118435](https://patents.google.com/patent/US3118435A/en) | Crank case breather | 1961-10-12 | 1964-01-21 | Name match (Edgar W. Almquist) |
-| Ed Almquist | [US3164451](https://patents.google.com/patent/US3164451A/en) | Fuel atomizing device (assigned Almquist Engineering Co) | 1961-10-12 | 1965-01-05 | Assignee confirms company |
-| Ed Almquist | [US3082639](https://patents.google.com/patent/US3082639A/en) | **Gear shift** (assigned Almquist Engineering Co) | 1962-09-11 | 1963-03-26 | Assignee confirms company. Inventor parsed as "Jr Edgar W Almquist" |
-| Ed & Richard Almquist | [US4046127](https://patents.google.com/patent/US4046127A/en) | Spark boosting device | 1976-01-05 | 1977-09-06 | Name match |
-| George Hurst & Bill Campbell | [US3172301](https://patents.google.com/patent/US3172301A/en) | Gear shift | 1962-10-15 | 1965-03-09 | Name match |
-| George Hurst & Bill Campbell | [US3192793](https://patents.google.com/patent/US3192793A/en) | Gear shift | 1964-03-18 | 1965-07-06 | Name match |
-| Barney Navarro | [US3559397](https://patents.google.com/patent/US3559397A/en) | Turbo supercharger control mechanism | 1969-03-21 | 1971-02-02 | **Confirmed**: "Bernard J. Navarro, 720 Geneva St., Glendale, Calif." (Glendale matches his shop) |
-| Barney Navarro | [US4339922](https://patents.google.com/patent/US4339922A/en) | Dual turbine turbo-supercharger | 1979-07-09 | 1982-07-20 | Name match (Bernard J. Navarro) |
-| Barney Navarro | [US4588336](https://patents.google.com/patent/US4588336A/en) / [US4722238](https://patents.google.com/patent/US4722238A/en) | Rack and pinion gear | 1983 / 1985 | see link | Name match |
-| Chet Herbert (?) | [US4071000](https://patents.google.com/patent/US4071000A/en) | Double crankshaft valved two cycle engine (Chester L. Herbert) | 1975-06-23 | 1978-01-31 | ◐ **Unconfirmed**: we have not verified that Chet Herbert's legal name was Chester L. |
-| Stuart Hilborn | [US3473523](https://patents.google.com/patent/US3473523A/en) | Fuel Injection System (Fuel Injection Engineering Co.) | see link | 1969-01-14 | **Confirmed**: Stuart G. Hilborn; assignee Fuel Injection Engineering Co. |
-| Stuart Hilborn | [US3519407](https://patents.google.com/patent/US3519407A/en) | Fuel Injection Nozzle | see link | 1970-07-07 | **Confirmed**: same inventor/assignee |
-| George DuVall (?) | [US2453746](https://patents.google.com/patent/US2453746A/en) | Wheel and tire locking device (George H. DuVall Jr.) | 1945-03-30 | 1948-11-16 | ◐ **Unconfirmed**: the name and "Jr." match the DuVall on Coachbuilt, but the residence is unchecked |
+| [Ed Winfield](../people/ed-winfield.md) | [US1758068](https://patents.google.com/patent/US1758068A/en) | Carburetor reservoir | 1928-06-26 | 1930-05-13 | Name match; carburetor subject fits |
+| [Ed Winfield](../people/ed-winfield.md) | [US1893920](https://patents.google.com/patent/US1893920A/en) | Carburetor | 1930-01-03 | 1933-01-10 | Name match; carburetor subject fits |
+| [Ed Winfield](../people/ed-winfield.md) | [US2010170](https://patents.google.com/patent/US2010170A/en) | Internal combustion engine | 1932-10-31 | 1935-08-06 | Name match |
+| [Ed Winfield](../people/ed-winfield.md) | [US2136959](https://patents.google.com/patent/US2136959A/en) | Fuel supply system | 1934-10-26 | 1938-11-15 | Name match |
+| [Ed Winfield](../people/ed-winfield.md) | [US2126939](https://patents.google.com/patent/US2126939A/en) | Internal combustion engine head | 1936-06-13 | 1938-08-16 | Name match; cylinder-head subject fits |
+| [Ed Winfield](../people/ed-winfield.md) | [US2101605](https://patents.google.com/patent/US2101605A/en) | Automatic throttle control (assigned California Machinery & Supply) | 1936-06-13 | see link | Name match |
+| [Ed Winfield](../people/ed-winfield.md) | [US2246825](https://patents.google.com/patent/US2246825A/en) | Carburetor | 1939-04-24 | see link | Name match |
+| [Ed Winfield](../people/ed-winfield.md) | [US2394576](https://patents.google.com/patent/US2394576A/en) | Internal-combustion engine head | 1944-09-23 | see link | Name match |
+| [Ed Winfield](../people/ed-winfield.md) | [US2474878](https://patents.google.com/patent/US2474878A/en) | Engine block and cylinder assembly | 1945-08-17 | see link | Name match |
+| [Ed Winfield](../people/ed-winfield.md) | [US2474879](https://patents.google.com/patent/US2474879A/en) | Internal-combustion engine | 1945-10-02 | 1949-07-05 | Name match |
+| [Ed Iskenderian](../people/ed-iskenderian.md) | [US2846988](https://patents.google.com/patent/US2846988A/en) | Guide means for non rotatable valve lifters | 1956-10-30 | 1958-08-12 | **Confirmed**: text reads "Edward Iskenderian, Inglewood, Calif." |
+| [Ed Iskenderian](../people/ed-iskenderian.md) | [US3280806](https://patents.google.com/patent/US3280806A/en) | Helper spring for valve actuating mechanism | 1964-12-08 | 1966-10-25 | Name match (distinctive name) |
+| [Ed Iskenderian](../people/ed-iskenderian.md) | [US3301241](https://patents.google.com/patent/US3301241A/en) | Non-rotating roller tappet | 1966-06-21 | 1967-01-31 | Name match (distinctive name) |
+| [Harvey Crane](../companies/crane-cams.md) | [US3108580](https://patents.google.com/patent/US3108580A/en) | Non-rotatable valve tappet | 1963-03-13 | 1963-10-29 | **Confirmed**: the text names Harvey J. Crane Jr. of Hallandale, Fla. Cites Iskenderian's US2846988 |
+| [Crane Cams](../companies/crane-cams.md) (assignee) | [US5188068](https://patents.google.com/patent/US5188068A/en) | Roller tappet; cites Crane's US3108580 | 1991-02-04 | 1993-02-23 | Assignee as listed by Google ("Crane Cams"); we have not read the full text |
+| [Competition Cams](../companies/comp-cams-rhs.md) (assignee) | [US6357407B2](https://patents.google.com/patent/US6357407B2/en) | Anti-rotation valve lifter guide apparatus; cites Crane's US3108580 | 1998-12-01 | 2002-03-19 | Assignee as listed by Google ("Competition Cams"); we have not read the full text |
+| [Vic Edelbrock Jr.](../companies/edelbrock-slingshot.md) | [US3030819](https://patents.google.com/patent/US3030819A/en) | Linkage for multiple carburetor installation | 1960-09-22 | 1962-04-24 | **Confirmed**: "Otis Victor Edelbrock, Jr., Los Angeles... assignor to Edelbrock Equipment Co." |
+| [Ed Almquist](../people/ed-almquist.md) | [US3118435](https://patents.google.com/patent/US3118435A/en) | Crank case breather | 1961-10-12 | 1964-01-21 | Name match (Edgar W. Almquist) |
+| [Ed Almquist](../people/ed-almquist.md) | [US3164451](https://patents.google.com/patent/US3164451A/en) | Fuel atomizing device (assigned Almquist Engineering Co) | 1961-10-12 | 1965-01-05 | Assignee confirms company |
+| [Ed Almquist](../people/ed-almquist.md) | [US3082639](https://patents.google.com/patent/US3082639A/en) | **Gear shift** (assigned Almquist Engineering Co) | 1962-09-11 | 1963-03-26 | Assignee confirms company. Inventor parsed as "Jr Edgar W Almquist" |
+| [Ed & Richard Almquist](../people/ed-almquist.md) | [US4046127](https://patents.google.com/patent/US4046127A/en) | Spark boosting device | 1976-01-05 | 1977-09-06 | Name match |
+| [George Hurst & Bill Campbell](../companies/hurst-campbell.md) | [US3172301](https://patents.google.com/patent/US3172301A/en) | Gear shift | 1962-10-15 | 1965-03-09 | Name match |
+| [George Hurst & Bill Campbell](../companies/hurst-campbell.md) | [US3192793](https://patents.google.com/patent/US3192793A/en) | Gear shift | 1964-03-18 | 1965-07-06 | Name match |
+| [Barney Navarro](../people/barney-navarro.md) | [US3559397](https://patents.google.com/patent/US3559397A/en) | Turbo supercharger control mechanism | 1969-03-21 | 1971-02-02 | **Confirmed**: "Bernard J. Navarro, 720 Geneva St., Glendale, Calif." (Glendale matches his shop) |
+| [Barney Navarro](../people/barney-navarro.md) | [US4339922](https://patents.google.com/patent/US4339922A/en) | Dual turbine turbo-supercharger | 1979-07-09 | 1982-07-20 | Name match (Bernard J. Navarro) |
+| [Barney Navarro](../people/barney-navarro.md) | [US4588336](https://patents.google.com/patent/US4588336A/en) / [US4722238](https://patents.google.com/patent/US4722238A/en) | Rack and pinion gear | 1983 / 1985 | see link | Name match |
+| [Chet Herbert](../people/chet-herbert.md) (?) | [US4071000](https://patents.google.com/patent/US4071000A/en) | Double crankshaft valved two cycle engine (Chester L. Herbert) | 1975-06-23 | 1978-01-31 | ◐ **Unconfirmed**: we have not verified that Chet Herbert's legal name was Chester L. |
+| [Stuart Hilborn](../people/stu-hilborn.md) | [US3473523](https://patents.google.com/patent/US3473523A/en) | Fuel Injection System (Fuel Injection Engineering Co.) | see link | 1969-01-14 | **Confirmed**: Stuart G. Hilborn; assignee Fuel Injection Engineering Co. |
+| [Stuart Hilborn](../people/stu-hilborn.md) | [US3519407](https://patents.google.com/patent/US3519407A/en) | Fuel Injection Nozzle | see link | 1970-07-07 | **Confirmed**: same inventor/assignee |
+| [George DuVall](../people/george-duvall.md) (?) | [US2453746](https://patents.google.com/patent/US2453746A/en) | Wheel and tire locking device (George H. DuVall Jr.) | 1945-03-30 | 1948-11-16 | ◐ **Unconfirmed**: the name and "Jr." match the DuVall on Coachbuilt, but the residence is unchecked |
 
 ## Findings worth chasing
 - **Hilborn injectors:** US 3,473,523 and 3,519,407 name Stuart G. Hilborn and Fuel Injection Engineering Co. ([Stu Hilborn](../people/stu-hilborn.md)).

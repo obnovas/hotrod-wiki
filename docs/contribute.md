@@ -17,7 +17,7 @@ The same buttons appear at the end of every article, prefilled with the page you
 Every message gets the same handling, whether it is a correction, a source or an idea.
 
 1. **Label.** We tag it `correction`, `source-tip` or `suggestion`, and `triage` until it is handled.
-2. **Verify.** Nothing changes on a page because someone said so. We look for a citable source, check it against the [source standards](reference/source-standards.md), and read the original ourselves. A reader's memory is welcome, and is treated as a lead and flagged ◐ single-sourced until a second source turns up. Where sources disagree, the page shows both with a ⚠.
+2. **Verify.** Nothing changes on a page because someone said so. We look for a citable source, check it against the [source standards](reference/source-standards.md), and read the original ourselves. A reader's memory is welcome, and is treated as a lead and flagged ◐ single-sourced until a second source turns up. Where sources disagree, the page shows both with a ⚠, and the details go in the page's **Open questions & disputed details** section.
 3. **Add to the Research Trail.** A good lead that we cannot settle yet goes onto the [Research Trail](research-trail.md) under "Next breadcrumbs", so it is not lost and can be worked in a later round.
 4. **Credit.** If your tip is used, we name you (or "a reader") in the Research Trail log for that round and cite your source in the article's footnotes. Tell us in the form how you want to be credited, or that you want to stay anonymous.
 5. **Close.** We close the issue with a note saying what we did: fixed, added as a lead, needs another source, or declined and why.

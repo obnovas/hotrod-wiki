@@ -11,7 +11,6 @@ years:
 region: Midwest
 states:
 - Illinois
-- Michigan
 cities:
 - Beardstown, Illinois
 people:

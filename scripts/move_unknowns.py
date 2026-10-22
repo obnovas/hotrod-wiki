@@ -7,7 +7,7 @@ of each article, '## Open questions & disputed details', leaving a small supersc
   python scripts/move_unknowns.py --all                              # every article page
   python scripts/move_unknowns.py --check [--all|files]              # exit 1 if a page still has a mid-prose unknown
 
-Rules (see docs/style-guide.md, "Unknowns live at the bottom"):
+Rules (see docs/style-guide.md, "Keep the detective's notebook at the back"):
   * The Article record box and pull-quote admonitions are left alone.
   * A flag symbol stays in the body as the marker (<sup class="hr-q">), linked to its item; the item text never
     repeats the symbol, so ⚠/◐ counts are unchanged.

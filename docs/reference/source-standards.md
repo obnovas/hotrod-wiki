@@ -16,6 +16,8 @@ This wiki treats hot rod history as detective work. Every claim has to show wher
 | ◐ | Single-sourced, or the source is weak (auction copy, promotional HOF text, an unsourced post). Treat it as provisional. |
 | ~~struck~~ / "resolved" | An earlier conflict, resolved in the noted round. The reasoning is kept. |
 
+In a story the marker is a small superscript ⚠ or ◐ right after the claim and its footnote. It links to the item in the page's last section, **Open questions & disputed details**, which says what is unsettled and which sources say what; each item links back. Facts that several pages tell are settled once, on their canonical page (see [Article Schema](article-schema.md#one-home-for-each-repeated-fact)).
+
 ## Source types (bibliography tags)
 | Tag | Type | Weight |
 |---|---|---|

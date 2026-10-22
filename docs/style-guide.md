@@ -17,8 +17,8 @@ This archive began as a detective's notebook, and it still is one. But a noteboo
 ## The shape of a piece
 
 1. **Open on a scene or a line.** The best opening is the most striking thing the sources actually say: a man chasing racers off an airstrip, a part paid for in labor, a number that two sources cannot agree on. No "X was a notable figure in…" openings, ever.
-2. **Tell it in beats.** Short paragraphs, each carrying one movement of the story: the problem, the workaround, the break, the fallout. Let sentences do the pacing. Subheads are used sparingly (two or three at most), and they should be fun and specific, not labels like "Background" or "Legacy."
-3. **Keep the detective's notebook.** When sources conflict, that is a feature, not a flaw. Mark it with the ⚠ and say plainly what each source says and why the disagreement is interesting. Open the aside with a short signal such as *From the detective's notebook:* and keep it brief.
+2. **Tell it in beats, as one train of thought.** Short paragraphs (two to four sentences, easy on a phone), each carrying one movement of the story: the problem, the workaround, the break, the fallout. Each paragraph should follow from the one before; a transition ("That fall...", "The town said no.", "It did not last.") is better than a new subhead. Subheads are used sparingly (two or three at most), and they should be fun and specific, not labels like "Background" or "Legacy." No bullet lists inside the story.
+3. **Keep the detective's notebook at the back.** When sources conflict, that is a feature, not a flaw, but it is not argued mid-story. The claim stays in place with its footnote and a superscript ⚠ (sources disagree) or ◐ (single source so far). What each source says, and why the disagreement is interesting, goes into the last section, **Open questions & disputed details**, which links back to the spot. A short hedge in the sentence itself ("by one account", "he recalled") stays.
 4. **Land the ending.** Finish on the last true, resonant thing the sources give us: a quote, a consequence, a loose thread. Do not summarize, and do not moralize.
 
 ## The facts (non-negotiable)
@@ -32,7 +32,7 @@ Narrative technique here means **structure, pacing, word choice, and framing. Ne
 - **Uncertainty is never upgraded.** A ⚠ conflict stays a conflict. A ◐ single-source claim stays flagged. "Reportedly," "according to," and "by his own account" keep their jobs. The sources not agreeing is part of the fun, so we say so.
 - **Reference pages stay reference pages.** The Timeline, Patents, Index, Bibliography, Image Credits, Source Standards and Highlights archive are tools, not stories, and are kept clean.
 
-Everything else in [Source Standards](reference/source-standards.md) still applies: confidence ratings, the record box on every article, credited images, and links out for photos we cannot host.
+The fields every page carries, and the one home for each repeated fact, are in [Article Schema](reference/article-schema.md). Everything else in [Source Standards](reference/source-standards.md) still applies: confidence ratings, the record box on every article, credited images, and links out for photos we cannot host.
 
 ## What we avoid
 
@@ -47,9 +47,11 @@ Everything else in [Source Standards](reference/source-standards.md) still appli
 
 1. Could a reader tell the opening apart from a Wikipedia lead? (They should.)
 2. Is every number, date, name and color still traceable to a footnote?
-3. Is each ⚠ and ◐ still there, and still honest?
-4. Did we cut a quote, move a citation off its claim, or add a detail "for color"? If yes, undo it.
-5. Does the last line earn its place?
+3. Is each ⚠ and ◐ still there, and still honest, with its item in Open questions?
+4. Does each paragraph lead into the next? Read it on a phone: if a subhead or aside interrupts a thought, cut it or move it to Open questions.
+5. Is the summary in the front matter true to the article, hedges included? Does a fact told elsewhere link to its one canonical home?
+6. Did we cut a quote, move a citation off its claim, or add a detail "for color"? If yes, undo it.
+7. Does the last line earn its place?
 
 ## Where a new page goes
 File each page in the department that matches its subject, not its source type: see the ten questions in [How the Site Is Organized](taxonomy.md#how-to-choose-a-department). Local or homegrown sourcing is shown with the Grassroots badge in the article record, never with a folder.
