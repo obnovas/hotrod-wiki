@@ -75,7 +75,7 @@ He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to bui
 
 In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick because it had Mercury Comet taillights. He quit match racing in 1975 over rainouts ("The rainout money was like $150") and went into car dealerships and NAPA stores. He was inducted into IDRHOF in 2012.[^nhra]
 
-**See also (Round 10):** [The Ohio Gassers](../places/ohio-gassers.md) (his Cleveland circle) and [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (Roy Gay was runner-up to Schartman at the 1967 Manufacturers Championships).
+*See also:* [The Ohio Gassers](../places/ohio-gassers.md) (his Cleveland circle) and [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (Roy Gay was runner-up to Schartman at the 1967 Manufacturers Championships).
 
 ## Open questions & disputed details
 

@@ -64,7 +64,7 @@ A 2024 LinkedIn post calls her "the first woman dragster driver" (photo dated 19
 
 C.J. briefly retired after her death in 1980 and later joined the NHRA Safety Safari. Shortly before he died he said, "I've waited 24 years. I'm going to see Peggy."[^ocr][^pe04]
 
-## Her cars, in order (Round 10)
+## Her cars, in order { #her-cars-in-order-round-10 }
 
 The International Drag Racing Hall of Fame biography (Class of 1998) gives the fullest list we have found:[^idrbio] "the family **stocker**" in competition; then a "**Cadillac powered Model T roadster**"; then a "**Willys gas coupe**" (other sources call it a 1933 Willys);[^nhra][^pe] and "finally, turned **more than 130 mph** in 'Pappy's' **Cad-powered gas dragster in 1954**."
 

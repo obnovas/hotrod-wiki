@@ -70,9 +70,9 @@ Don Garlits's memoir (quoted on the history site) recounts a July invitation to 
 
 ## Who bought it
 
-**Correction (Round 10):** our local source says **Don Gay** bought the track in **1960** and added lights, a Christmas tree, timing, stands and a PA.[^hfd]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> It later became Houston Int'l Speedway, then Houston Int'l Raceway.[^gay] Don, who died June 30, 2007, at 60, was only about 13 in 1960. We therefore credit the **Gay family (Carl and Marie)** as buyers. The improvements may well be theirs too. The purchase came **no later than 1961**, when Carl booked Hayden Proffitt there (below). The exact year is still open.
+**Correction:** our local source says **Don Gay** bought the track in **1960** and added lights, a Christmas tree, timing, stands and a PA.[^hfd]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> It later became Houston Int'l Speedway, then Houston Int'l Raceway.[^gay] Don, who died June 30, 2007, at 60, was only about 13 in 1960. We therefore credit the **Gay family (Carl and Marie)** as buyers. The improvements may well be theirs too. The purchase came **no later than 1961**, when Carl booked Hayden Proffitt there (below). The exact year is still open.
 
-## The Gay family years (Round 10)
+## The Gay family years { #the-gay-family-years-round-10 }
 
 **Booking the factory cars:** in **1961** Carl Gay booked **Hayden Proffitt** and his Mickey Thompson–owned, 421-powered aluminum **Pontiac Catalina** factory experimental. Don was 14, legal driving age in Texas then. "Within a year" he had an A/Stock Catalina and an A/Modified Production Catalina wagon, and younger brother **Roy** ran a B/Stock GTO.[^gay]
 

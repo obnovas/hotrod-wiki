@@ -57,13 +57,13 @@ It explains "kemp" as late-'50s teen slang for a car that gained national exposu
 
 ## The first Lead Sled Spectacular (1981)
 
-**Street Rodder** (editor Geoff Carter) and Tex Smith attended. The KKOA calls Street Rodder's national coverage "highly unusual those days for a street rodding mag."[^kk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The club's first big show drew the press. **Street Rodder** (editor Geoff Carter) and Tex Smith attended. The KKOA calls Street Rodder's national coverage "highly unusual those days for a street rodding mag."[^kk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The 1981 Hot Rod piece framed the revival as a response to the energy crisis: "If we can't bring back 29-cent gas and 110 octane from the 50s, let's bring back the ultimate cruisemobile... built for comfort, not for speed." It singles out Eldon Titus of Wichita's '49 Buick, with a molded grille and '55 Chevy headlights in candy red.[^hr81]
 
-In 1982 at the Des Moines fairgrounds, turnout roughly doubled. Hot Rod noted a **'62-or-earlier** cutoff and regretted that it kept later cars out. Its slogan: "If it don't go... dechrome it."[^hr83]
+In 1982, at the Des Moines fairgrounds, turnout roughly doubled. Hot Rod noted a **'62-or-earlier** cutoff and regretted that it kept later cars out. Its slogan: "If it don't go... dechrome it."[^hr83]
 
-## Why it matters
+## Not from California
 
 The revival was born in **Kansas and Iowa**, not Southern California. It was nostalgia-driven and self-consciously low-buck ("easy, fun, and relatively inexpensive," Hot Rod 1983). It brought back the KKOA's founding generation of builders (Starbird, Barris, Bailon, Winfield, the Alexander Brothers) as guests of honor.[^kk][^hr83]
 

@@ -62,11 +62,11 @@ In **1950** he spent six weeks at McGrath's LA shop and met Joe Pisano and Ed Is
 
 Back home he opened **Farmington Speed Shop** and built a flathead roadster, then a DeSoto Hemi dragster, his first OHV engine.[^mm]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-He won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm] Full story: [The Upset at Cordova](../drag-racing/detroit-cordova.md#1957-the-garlits-upset).
+Then came the wins. He won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm] Full story: [The Upset at Cordova](../drag-racing/detroit-cordova.md#1957-the-garlits-upset).
 
 Garlits told NHRA that Iskenderian made two blower kits, "one for me and one for Setto Postoian."[^nhra]
 
-Postoian was seriously injured at Detroit Dragway in 1960 and never raced again. He had about 250 eliminator wins.[^mm]
+It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and never raced again. He had about 250 eliminator wins.[^mm]
 
 ## Open questions & disputed details
 

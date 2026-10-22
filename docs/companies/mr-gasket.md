@@ -58,11 +58,11 @@ They were part of the informal "Ohio Gassers": Eddie Schartman, Ron Hassel, Arle
 
 Joe left the company in 1976 under a non-compete and collected Tri-Five Chevys until 1981.[^ec] The company went through Chapter 11 in 1991, was sold to Echlin in 1993, and to Holley in September 2015.[^ec][^enc]
 
-## Update, Round 4: Joe Hrudka (1938–2026)
+## Joe Hrudka (1938–2026) { #update-round-4-joe-hrudka-19382026 }
 
 NHRA reports that Joe Hrudka was born Nov 29, 1938, in Cleveland and died **May 24, 2026**, at 87. It describes the brothers' results as "Class wins at the 1961 and 1962 NHRA U.S. Nationals." That is narrower than SEMA's "back-to-back NHRA champions."[^nhra26] The same story captions Dave Meal's '40 Willys C/Gasser with an early Mr. Gasket logo. In spring 1967 the Hrudkas bought the unfinished '33 Willys that became the Hill brothers' [Red Baron](../cars/hill-bros-red-baron.md) and sold it on to them, per Dave Hales.
 
-**See also (Round 10):** [The Ohio Gassers](../places/ohio-gassers.md) (Hassel, Meal, Schwartz, Finders;<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> who built the 1968 Mr. Gasket Camaro), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md).
+*See also:* [The Ohio Gassers](../places/ohio-gassers.md) (Hassel, Meal, Schwartz, Finders;<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> who built the 1968 Mr. Gasket Camaro), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md).
 
 ## Open questions & disputed details
 

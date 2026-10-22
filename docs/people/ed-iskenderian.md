@@ -58,17 +58,13 @@ canonical_for:
 
 Frosts ruined the family vineyard in Cutler, in Tulare County, California. Ed Iskenderian was born there on **July 10, 1921**, to Armenian immigrant parents, and the family moved to Los Angeles when he was a year old.[^nhra][^leg]
 
-He attended LA Polytechnic High and built a Model T roadster that is now at the Museum of American Speed. It has a flathead V8 with Maxi heads, which moved the exhaust valves into the head.[^leg][^hag] In 1940 Jimmy Summers "pounded out a few dents" on that T for $10 ([Jimmy Summers](jimmy-summers.md)).[^summers]
-
-He served in the Army Air Forces Air Transport Command in the Pacific.[^leg]
+He attended LA Polytechnic High and built a Model T roadster that is now at the Museum of American Speed. It has a flathead V8 with Maxi heads, which moved the exhaust valves into the head.[^leg][^hag] In 1940 Jimmy Summers "pounded out a few dents" on that T for $10 ([Jimmy Summers](jimmy-summers.md)).[^summers] During the war he served in the Army Air Forces Air Transport Command in the Pacific.[^leg]
 
 ## Cams, and trouble
 
-He was **mentored by Ed Winfield** in starting cam grinding.[^hag] That links him to [Winfield](ed-winfield.md), whom Hemmings calls the model for Iskenderian.
+Then came cams. He was **mentored by Ed Winfield** in starting cam grinding.[^hag] That links him to [Winfield](ed-winfield.md), whom Hemmings calls the model for Iskenderian.
 
-He was the chief instigator of the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md), and his ads brought Don Garlits west in 1959.[^cp59g]
-
-He was a founding member and first president of SEMA (1963), and its last surviving founder.[^sema][^leg]
+He also made noise. He was the chief instigator of the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md), and his ads brought Don Garlits west in 1959.[^cp59g] Later he helped organize the industry: he was a founding member and first president of SEMA (1963), and its last surviving founder.[^sema][^leg]
 
 His last interview, in a nursing home south of LA in September 2025, ended with "Goodbye, boys!"[^hag]
 

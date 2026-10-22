@@ -49,21 +49,19 @@ canonical_for: []
 
 Hemmings says Arlen Vanke built cars "in a residential garage that didn't even have a proper lift."[^hem]
 
-## Akron Municipal Airport
+## Akron
 
-NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Akron's strip has its own place in history. NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-## The '56 Chevy gasser
-
-MMSHOF: Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+Then came the '56 Chevy gasser. MMSHOF: Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Knafel Pontiac and the Tin Indians
 
-In fall 1961 he went into Bill Knafel Pontiac in Akron, asked about a Super Duty 421, and ordered a 1962 Catalina Super Duty.[^tin][^hem] Hemmings says he set an NHRA A/Stock record with it, and Knafel hired him as service manager on weekdays and racer on weekends.[^hem]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
+Then he switched to Pontiacs. In fall 1961 he went into Bill Knafel Pontiac in Akron, asked about a Super Duty 421, and ordered a 1962 Catalina Super Duty.[^tin][^hem] Hemmings says he set an NHRA A/Stock record with it, and Knafel hired him as service manager on weekdays and racer on weekends.[^hem]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Mopar, the "Vanked" Hemi, and Pro Stock
 
-In 1964 he bought both a Max Wedge and a Hemi Belvedere.[^hem]
+Chrysler was next. In 1964 he bought both a Max Wedge and a Hemi Belvedere.[^hem]
 
 Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the word "Vanked." It also traces the nickname to his calls to Chrysler, where he introduced himself as "Arlen Vanke from Akron, Ohio."[^hem2]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -71,7 +69,7 @@ NHRA results: Jr. Stock at the 1966 Springnationals and Super Stock at the 1968 
 
 He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Midwest & East Threads](../places/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
 
-**See also (Round 10):** [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../places/ohio-gassers.md).
+*See also:* [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../places/ohio-gassers.md).
 
 ## Open questions & disputed details
 

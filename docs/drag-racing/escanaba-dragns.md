@@ -83,7 +83,7 @@ The Drag-n's wanted a drag strip, and the paper says where. It was "a quarter mi
 
 The one event we can document is smaller. A notice on **May 21, 1955** says the club would sponsor "a road race to test speed judgment" on Sunday, May 22, starting at noon from the clubhouse. Only members could enter, "although the public is invited to attend," and prizes would be awarded.[^may21] That is a judgment test, not a timed drag run, which fits the club's safety message. We found no report of the result.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
-## More from the paper's small print (added Round 18)
+## More from the paper's small print { #more-from-the-papers-small-print-added-round-18 }
 
 A second pass through the January–June issues turned up four more mentions. None is a headline. Together they show a club the paper kept on its calendar.
 
