@@ -9,31 +9,43 @@ eras:
 - 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1913
-- 2006
+- 1968
 region: West
 states:
 - California
+- Montana
 cities:
 - Los Angeles, California
+- Lewistown, Montana
 people:
 - Jimmy Summers
+- Bill Summers
+- Lee Summers
+- Alex Xydias
+- Tom Sparks
+- Roy Hagy
+- Bob "Barbells" Fairman
+- Tony Nancy
+- Sondre Kvipt
+- Pat Ganahl
 companies: []
-places: []
+places:
+- 7919 Melrose Avenue
+- Fairfax High School
 clubs: []
 strips: []
 tags:
+- customs
 - teenagers-and-schools
+- family-business
+- dry-lakes
 related:
+- people/roy-hagy.md
 - people/alex-xydias.md
-- people/ed-iskenderian.md
-- companies/comp-cams-rhs.md
-- companies/crane-cams.md
+- cars/techniques-and-styles.md
+- customs/hirohata-mercury.md
 canonical_for: []
 ---
 # Jimmy Summers: The Customizer Across from Fairfax High
@@ -51,13 +63,13 @@ James Merlin Traft Summers was born **September 22, 1913**, in Lewistown, Montan
 
 By the late 1930s, his shop was at **7919 Melrose Ave.**, across from Fairfax High School.[^k] Alex Xydias, a Fairfax student, recalled "just four plastered walls, a bare concrete floor, and a gas jet" lit on cold mornings,[^k] and in a later interview said he watched the shop guys for hours "until they'd kick me out."[^sm] Tom Sparks (who worked for Roy Hagy c.1942–43) told Pat Ganahl that Summers "was like a god to us."[^k]
 
-Xydias described the customer mindset: they "did not want Summers to provide them with a hot Ford as much as they wanted him to provide them with a fake Cord."[^k]
+His customers knew what they wanted. Xydias described the customer mindset: they "did not want Summers to provide them with a hot Ford as much as they wanted him to provide them with a fake Cord."[^k]
 
 ## What came out of the shop
 
 *Motor Life* (May 1955) credited Summers with the **first channeling job**.[^k]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Shop employee **Bob "Barbells" Fairman** built a chopped '36 Ford with full fadeaway fenders, the first Xydias had seen.[^k]
 
-From 1946–47 Summers sold stamped **"Summers Fender Extensions"** for 1942–48 Chevrolets, Pontiacs and junior Buicks; a 1948 Hot Rod ad lists $69.50 per primered set.[^k] *Popular Mechanics* (May 1947) reported about one hand-tailored car per week.[^k]
+After the war he added a product line. From 1946–47 Summers sold stamped **"Summers Fender Extensions"** for 1942–48 Chevrolets, Pontiacs and junior Buicks; a 1948 Hot Rod ad lists $69.50 per primered set.[^k] *Popular Mechanics* (May 1947) reported about one hand-tailored car per week.[^k]
 
 In 1962 he built the body for Tony Nancy's dragster.[^k] And somewhere in the family albums sits his 1938 Muroc timing tag: 94.73 mph with a stock V8.[^k]
 

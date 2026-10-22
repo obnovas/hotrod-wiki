@@ -3,7 +3,6 @@ title: 'Leonard Miller: From a Paoli Junkyard to Team Owner'
 summary: Leonard Miller raced at Bucks County strips in the 1960s and in 1973 co-founded the Black American Racers Association. Here he tells it in his own words.
 department: voices
 eras:
-- 1920s
 - 1930s
 - 1940s
 - 1950s
@@ -14,20 +13,30 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1924
+- 1939
 - 2018
-region: National
-states: []
-cities: []
+region: Northeast
+states:
+- Pennsylvania
+cities:
+- Paoli, Pennsylvania
+- Philadelphia, Pennsylvania
 people:
 - Leonard Miller
+- Bill Jones
+- Wendell Scott
+- Malcolm Durham
+- Ron Hines
 companies: []
 places: []
 clubs:
 - Black American Racers Association
-strips: []
+strips:
+- Vargo's Dragway
 tags:
 - oral-history
+- drag-strips
+- sanctioning-bodies
 related:
 - places/midwest-east.md
 - people/malcolm-durham.md
@@ -42,13 +51,19 @@ Miller (born about 1934; WHYY says he was 5 in 1939) grew up on Philadelphia's M
 
 ## In his words
 
+The cars caught him early:
+
 > "I learned how wonderful the world was. … When they had a Memorial Day parade – this was before World War II – you'd see Stutz Bearcats, Cords, Duesenbergs in yellow, red and blue. I was taken in by it."
 >
 > — **Leonard Miller**, WHYY, 2018, recalling 1939. *Told about 79 years later.*[^why]
 
+His first car came out of a junkyard:
+
 > "Bill Jones had a junkyard on Route 30 coming out of Paoli. He was a big African-American numbers writer and gambler. He had the junkyard as a front."
 >
 > — **Leonard Miller**, 2018, on where he found parts for his first car, a chopped '40 Ford club coupe with a Mercury engine and a Lincoln transmission.[^why] Jones remembered that Miller's father had always been civil to him and told the boy to take what he needed.
+
+He remembers Vargo in the 1960s this way:
 
 > "They were all Army vets like myself. Everyone got along. They were mature. You didn't have any racial animosities or silly stuff going on. … You're going close to dying, putting it all on the line. That was more important than anything else."
 >
@@ -60,7 +75,7 @@ Miller describes **Vargo** as free of racial hostility. Elsewhere in the same in
 
 NMAH notes that Black drivers were barred from competing against white drivers in the 1920s, which led to the Colored Speedway Association (1924).[^nmah]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Malcolm Durham, the BARA co-founder and an East Coast Chevy match racer, has no first-person source in the wiki yet. He is on the [Research Trail](../research-trail.md).
+For Malcolm Durham, the BARA co-founder and an East Coast Chevy match racer, see [Malcolm Durham](../people/malcolm-durham.md).
 
 ## Open questions & disputed details
 

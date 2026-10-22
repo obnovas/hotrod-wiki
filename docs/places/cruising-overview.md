@@ -12,11 +12,20 @@ eras:
 - 2010s
 - 2020s
 years:
-- 1958
-- 2023
-region: West
+- 1950
+- 2024
+region: National
 states:
 - California
+- Michigan
+- Minnesota
+- Tennessee
+- Texas
+- New Mexico
+- Idaho
+- North Carolina
+- Nebraska
+- Kansas
 cities: []
 people: []
 companies: []
@@ -26,9 +35,9 @@ strips: []
 tags:
 - cruising
 - town-politics
-- car-clubs
 - police-and-safety
-- drag-strips
+- car-clubs
+- street-racing
 related:
 - places/woodward.md
 - places/van-nuys.md
@@ -76,14 +85,13 @@ Every city found its own way to shut the party down. Here is the scorecard:
 | Twin Falls (ID) | Coroner's jury, newspaper editorial, then heavier fines from the police judge; the city voted to lease a strip site | 1957–1960 | Club formed; <sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> no evidence the strip was built |
 | California statewide | **AB 436** (Alvarez et al.), Stats. 2023 ch. 803: amends Vehicle Code 21100 to remove local authority to regulate cruising; repeals 24008 (low-frame ban) | Chaptered Oct 13, 2023; effective **Jan 1, 2024** | Old local cruising ordinances unenforceable (LAist; LA City Attorney memo Oct 2024) |
 
-**AB 436 (resolved Round 9):** Assembly Bill 436 (authors Alvarez, Ramos, Luz Rivas; Chapter 803, Statutes of 2023) was approved by the Governor on Oct 13, 2023, and took effect Jan 1, 2024. It removed the Vehicle Code authorization for local cruising ordinances and repealed the statewide low-frame height prohibition in section 24008. Sponsors included lowrider organizations (Assembly analysis). Sources: [LegiScan AB436 text](https://legiscan.com/CA/text/AB436/2023), [bill status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB436), [LA City Attorney report](https://cityclerk.lacity.org/onlinedocs/2024/24-0037_rpt_atty_10-10-24.pdf) (accessed 2026-10-14).
+The statewide change came through Assembly Bill 436 (authors Alvarez, Ramos, Luz Rivas; Chapter 803, Statutes of 2023) was approved by the Governor on Oct 13, 2023, and took effect Jan 1, 2024. It removed the Vehicle Code authorization for local cruising ordinances and repealed the statewide low-frame height prohibition in section 24008. Sponsors included lowrider organizations (Assembly analysis). Sources: [LegiScan AB436 text](https://legiscan.com/CA/text/AB436/2023), [bill status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB436), [LA City Attorney report](https://cityclerk.lacity.org/onlinedocs/2024/24-0037_rpt_atty_10-10-24.pdf) (accessed 2026-10-14).
 
-**The pattern:** California cities and counties mostly used **physical closures** (barricades and roadblocks) first and **pass-limit ordinances** later. These defined "cruising" as passing a checkpoint a set number of times within a set window: 2 times in 6 hours in LA County, 1997; once per 4 hours in Modesto, 1990; 3 times in 2 hours in Albuquerque, 2005. Woodward and Houston ended through enforcement and changing conditions. The sources rarely say whether the dated measures were formally repealed. Sources are on each page.
+A pattern runs through the table. California cities and counties mostly used **physical closures** (barricades and roadblocks) first and **pass-limit ordinances** later. These defined "cruising" as passing a checkpoint a set number of times within a set window: 2 times in 6 hours in LA County, 1997; once per 4 hours in Modesto, 1990; 3 times in 2 hours in Albuquerque, 2005. Woodward and Houston ended through enforcement and changing conditions. The sources rarely say whether the dated measures were formally repealed. Sources are on each page.
 
 ## Also mentioned elsewhere
 
-- Porky's and the MSRA "Back to the 50's" cruise: [Upper Midwest](upper-midwest.md)
-- Drag strips that grew out of street racing: [Regions](regional-scenes.md)
+Porky's and the MSRA "Back to the 50's" cruise are on the [Upper Midwest](upper-midwest.md) page, and the drag strips that grew out of street racing are under [Regions](regional-scenes.md).
 
 ## Open questions & disputed details
 

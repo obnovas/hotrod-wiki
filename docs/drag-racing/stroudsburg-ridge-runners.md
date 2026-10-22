@@ -13,15 +13,24 @@ states:
 - Pennsylvania
 cities:
 - Stroudsburg, Pennsylvania
+- East Stroudsburg, Pennsylvania
+- Mount Pocono, Pennsylvania
+- Mountainhome, Pennsylvania
+- Wind Gap, Pennsylvania
 people:
-- Mrs. (first name garbled) Heller
 - Bernard Lawler
-companies:
-- Pocono Pacers
+- Dopey Duncan
+- Floyd Pugh
+- Charles Drummond
+- Mrs. (first name garbled) Heller
+companies: []
 places: []
 clubs:
 - Ridge Runners Hot Rod Club (Ridge Runners Auto Club Inc.)
-strips: []
+- Pocono Pacers
+- Northeastern Pennsylvania Timing Assn.
+strips:
+- Mountain View drag strip (Wind Gap)
 tags:
 - car-clubs
 - police-and-safety
@@ -73,7 +82,7 @@ Club courts were common. Belleville's Gear Jammers fined their own members, and 
 
 ## The letter to the judge
 
-In spring 1958 the Ridge Runners voted to join the **Northeastern Pennsylvania Timing Assn.**[^dr580416] Members met at the home of **Floyd Pugh**, 562 Fifth St., to talk over a drag strip "to be constructed this Summer," and a float for the Four-County Firemen's Convention parade.[^dr580522]
+The strip stayed the goal. In spring 1958 the Ridge Runners voted to join the **Northeastern Pennsylvania Timing Assn.**[^dr580416] Members met at the home of **Floyd Pugh**, 562 Fifth St., to talk over a drag strip "to be constructed this Summer," and a float for the Four-County Firemen's Convention parade.[^dr580522]
 
 Then the *Daily Record* ran an editorial quoting an Allegheny County judge named Lewis. As the club's letter quotes it, the editorial warned that a couple of hot rodders staging a drag race on a public highway were "endangering the life and limb of every pedestrian" in sight. (The scan of that passage is rough, so we quote only the clean words.) The club wrote back.[^dr580524]
 
@@ -93,17 +102,13 @@ The paper also covered a second Monroe County hot rod club, the **Pocono Pacers*
 
 Six years after the letter to the judge, the club was still in business and still without a strip. On June 5, 1964, the *Daily Record* printed a letter from the wife of a member, who lived in Mount Pocono. By then the club was the **Ridge Runners Auto Club Inc. of Monroe County**. It had "received its charter from Harrisburg" and was a member of the National Hot Rod Association, she wrote, and it had **eighteen members**, fewer than half the 40 of 1958.[^dr640605] It still met every Tuesday night.
 
-Her letter is the only place we have found the club's own rulebook quoted, and she quoted it generously (the scan is rough; we correct obvious OCR slips):[^dr640605]
+Her letter is the only place we have found the club's own rulebook quoted, and she quoted it generously (the scan is rough; we correct obvious OCR slips).[^dr640605] Under Article III, the club was "for all young men with a driving permit or license, or whose interests are of a mechanical or administrative nature." Article II gave its purpose: "to promote safe and sound driving practices on the streets and highways—to acquaint the general public with the joys of motoring as a sport, not merely as a means of transportation,— to help unveil to the public the true meaning of the 'Hot Rod'."
 
-- **Who could join** (Article III): the club was "for all young men with a driving permit or license, or whose interests are of a mechanical or administrative nature."
-- **What it was for** (Article II): "to promote safe and sound driving practices on the streets and highways—to acquaint the general public with the joys of motoring as a sport, not merely as a means of transportation,— to help unveil to the public the true meaning of the 'Hot Rod'."
-- **Swearing:** "Any member swearing in council meeting shall be fined twenty-five cents per word . . . to be paid on the spot."
-- **Traffic tickets:** a member who got a traffic violation paid the club "up to one-half of the fine imposed by the local police department."
-- **Highway drag racing:** a member caught at it, "whether by police or members of this organization," was fined $5 for a first offense and $25 for a second, and expelled "for a period of sixty days minimum."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+The penalties were specific. "Any member swearing in council meeting shall be fined twenty-five cents per word . . . to be paid on the spot." A member who got a traffic violation paid the club "up to one-half of the fine imposed by the local police department." A member caught drag racing on the highway, "whether by police or members of this organization," was fined $5 for a first offense and $25 for a second, and expelled "for a period of sixty days minimum."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 The letter's real purpose was a strip, and it is told on [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): she proposed that the Mount Pocono Airport Authority let the club race on its runway and keep the proceeds.
 
-**Related:** [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Tear Gas on the Runways](pennsauken-central-airport-1958.md); [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).
+*See also:* [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Tear Gas on the Runways](pennsauken-central-airport-1958.md); [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).
 
 ## Open questions & disputed details
 

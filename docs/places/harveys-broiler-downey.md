@@ -13,21 +13,31 @@ eras:
 - 2020s
 years:
 - 1958
-- 2023
+- 2024
 region: West
 states:
 - California
-cities: []
+cities:
+- Downey, California
 people:
+- Harvey Ortner
+- Minnie Ortner
+- Paul B. Clayton
+- Tom Wolfe
 - Jim Louder
+- Marty Krumm
 - Lee McCullough
 companies: []
-places: []
+places:
+- Harvey's Broiler (Johnie's Broiler)
+- Firestone Boulevard
 clubs: []
 strips: []
 tags:
 - cruising
 - customs
+- car-shows
+- town-politics
 related:
 - drag-racing/modesto-century-toppers.md
 - people/george-duvall.md
@@ -48,9 +58,13 @@ Harvey and Minnie Ortner opened **Harvey's Broiler** in 1958 on a former chicken
 
 ## In their own words
 
+The drive-in's purpose, as later told:
+
 > "It was where kids got together to find out what was going on. … they would find out where's the party, where's the race, where's something going on that they wanted to go to."
 >
 > — **Jim Louder**, current owner (Bob's Big Boy Broiler), LAist (Jan 7, 2024). He is retelling the site's history, not his own memory.[^laist]
+
+At the 1989 revival, the people who had been there remembered:
 
 > "This was our old stomping ground. … You got your cherry Cokes and hamburgers and circled around Harvey's."
 >
@@ -60,11 +74,11 @@ Harvey and Minnie Ortner opened **Harvey's Broiler** in 1958 on a former chicken
 >
 > — **Lee McCullough**, 46, who started cruise night and had cruised Harvey's when it opened, 1989.[^lat89]
 
-## Ties
+## The custom-car neighborhood
 
-Louder: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard."[^laist]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The quote doesn't name any shops; that is the next lead.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Louder puts the drive-in at the center of a scene: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard."[^laist]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The quote doesn't name any shops.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**A new California law, in effect from January 2024,** means "cities can no longer ban lowriders and cruising," according to LAist. LAist does not give the bill number.[^laist]
+Cruising has since come back into the law's favor. A new California law, in effect from January 2024, means "cities can no longer ban lowriders and cruising," according to LAist. LAist does not give the bill number.[^laist]
 
 ## Open questions & disputed details
 
@@ -73,6 +87,8 @@ Louder: "This area in the late '50s was considered sort of the heartbeat of the 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far:** Louder: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard." <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who owned it, and when?** The LA Times (1989) says Ortner sold to Smyriniotis in **1965**. The 2007 LA Times quotes the owner as saying he bought it "in 1968." LAist says the name changed "in the late '60s."[^lat89][^lat07][^laist] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+**Which shops?** Louder's quote about customizers and painters on Firestone Boulevard doesn't name any shops; that is the next lead.
 
 ## Images
 

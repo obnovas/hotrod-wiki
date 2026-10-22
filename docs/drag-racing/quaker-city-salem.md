@@ -13,26 +13,35 @@ region: Midwest
 states:
 - Ohio
 - Michigan
+- Kentucky
 cities:
 - Salem, Ohio
+- Alliance, Ohio
+- Akron, Ohio
 people:
-- J. Leo Collins
-- Francis "Krutch" Crider
-- Malcolm Durham
-- Glenn Miller
 - Dick (Richard) Mossey
 - Vivian Mossey
+- Glenn Miller
+- Robert Hoperich
+- Francis "Krutch" Crider
 - Arlen Vanke
+- Joe Schubeck
+- Malcolm Durham
+- Don Prudhomme
+- Norm Fox
 companies: []
 places: []
 clubs:
 - Oilers Car Club
 - Quaker City Timing Association
-strips: []
+strips:
+- Quaker City Dragway (Quaker City Motorsports Park)
 tags:
 - drag-strips
 - airport-strips
 - sanctioning-bodies
+- family-business
+- funny-cars
 - grassroots-sources
 related:
 - drag-racing/akron-fulton-airport.md
@@ -71,7 +80,7 @@ On a Wednesday in June 1958, Glenn Miller of Brighton, Michigan, co-owner of a d
 
 That summer the paper ran short results from "the Quaker City Timing Association drag strip located on Rt. 165 between Rt. 62 and Rt. 45." Robert Hoperich of Salem took three trophies in July, for top speed, top eliminator and his class. In August, Canton men won the eliminator trophies two weeks running, with a third double winner from Gibson, Pa., and then one from Alexandria.[^sn580722][^sn580804][^sn580818]
 
-In December 1958 the Salem Players, an amateur theater group, considered "an offer made by Mrs. Nell Mossey for the Players to use the barn on the Quaker Timing Association property as a future home and stage." A committee of nine was named, Mrs. Mossey among them.[^sn581203]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> *Dick Mossey's wife, in later sources, is Vivian.*
+The barn found other uses. In December 1958 the Salem Players, an amateur theater group, considered "an offer made by Mrs. Nell Mossey for the Players to use the barn on the Quaker Timing Association property as a future home and stage." A committee of nine was named, Mrs. Mossey among them.[^sn581203]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> *Dick Mossey's wife, in later sources, is Vivian.*
 
 ## Silo tower, headlight poles
 

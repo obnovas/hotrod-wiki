@@ -11,22 +11,33 @@ years:
 region: West
 states:
 - California
-cities: []
+cities:
+- Cotati, California
+- Santa Rosa, California
+- San Rafael, California
+- Novato, California
+- Mill Valley, California
 people:
-- Ray Alpeter
-- Mario Aquilino
-- Leland E. "Lee" Baum
 - Peter Behr
-- Dick Berndt
-- Melvin Flohr
+- Mario Aquilino
 - John France
-- Eddie Mullen
 - Bob Sletten
+- Eddie Mullen
+- Melvin Flohr
+- Dick Berndt
+- Ray Alpeter
+- Leland E. "Lee" Baum
+- Ken Molino
+- Bill Rush
+- Thomas W. Beyer
+- Don Garlits
 companies: []
 places: []
 clubs:
 - Marin County Timing Assn.
 - Redwood Empire Timing Association (RETA)
+- Marin Coupe and Roadster Club
+- Road Runners of Marin
 strips:
 - Cotati Drag Strip (Santa Rosa Drag Strip)
 tags:
@@ -95,10 +106,13 @@ The strip came back. By December 1959 the paper was previewing the end of Cotati
 
 ## Marin keeps asking (1957–60)
 
-- **Labor's plan, May 1957.** Thomas W. Beyer of Machinists Lodge 238 (the paper also spells him Beyers) asked the Marin Central Labor Council to join management in a donated-labor project: a five-eighths-mile oval plus a drag strip, at about $75,000 "exclusive of land," with "a committee of the younger generation" given real parts to play.[^ij570516]
-- **Seven clubs in a courtroom, June 1959.** Seven Marin car clubs met in the Superior Court room of Judge N. Charles Brusatori, with the sheriff and a San Rafael police captain invited, to push for a strip in North Marin. Eli Foure of the Marin Coupe and Roadster Club chaired. They had formed the **Marin County Timing Assn.** to run it and had hopes of acreage near Novato owned by the Dons Club of San Francisco. The clubs: the Marin Coupe and Roadster Club, Eliminators, Sleepers, Strip Pacers, Rumblers, Road Runners and the Twisters of Novato.[^ij590601]
-- **A carnival, July 1959.** Novato's American Legion post was to get a share of a carnival's profits "toward construction of a public drag strip and recreational area north of Novato," until a district attorney's investigator shut three wheels of fortune as gambling.[^ij590731]
-- **A car show and a free 20 acres, 1960.** By June 1960 the timing association had "between 250 and 300" members in eight clubs (the paper then lists nine names, adding the Lancers, the Gentleman and the new Quick Changers of Fairfax) and was holding its first car show.[^ij600604] In July its adviser, **Leland E. "Lee" Baum**, asked the county recreation commission for a site, ideally a mile and a half long, and said club members would do the work.[^ij600707] Days later he announced that Mervin Goodman of a San Francisco real estate firm had offered 20 acres by the Smith Brothers ranch, southeast of St. Vincent's School for Boys, on condition it be used only for drag racing, sports cars, karts and quarter-midgets. Marin's enthusiasts (the paper called them "sports car" fans) would get a strip "without the cost of a penny of taxpayers' money," he said, with work to start in August.[^ij600711]
+Marin kept trying for its own strip. In **May 1957** labor offered a plan: Thomas W. Beyer of Machinists Lodge 238 (the paper also spells him Beyers) asked the Marin Central Labor Council to join management in a donated-labor project: a five-eighths-mile oval plus a drag strip, at about $75,000 "exclusive of land," with "a committee of the younger generation" given real parts to play.[^ij570516]
+
+Two years later the clubs met in a courtroom. In **June 1959** seven Marin car clubs met in the Superior Court room of Judge N. Charles Brusatori, with the sheriff and a San Rafael police captain invited, to push for a strip in North Marin. Eli Foure of the Marin Coupe and Roadster Club chaired. They had formed the **Marin County Timing Assn.** to run it and had hopes of acreage near Novato owned by the Dons Club of San Francisco. The clubs: the Marin Coupe and Roadster Club, Eliminators, Sleepers, Strip Pacers, Rumblers, Road Runners and the Twisters of Novato.[^ij590601]
+
+A carnival tried next. In **July 1959** Novato's American Legion post was to get a share of a carnival's profits "toward construction of a public drag strip and recreational area north of Novato," until a district attorney's investigator shut three wheels of fortune as gambling.[^ij590731]
+
+By **1960** the clubs had grown, and land was on offer. By June 1960 the timing association had "between 250 and 300" members in eight clubs (the paper then lists nine names, adding the Lancers, the Gentleman and the new Quick Changers of Fairfax) and was holding its first car show.[^ij600604] In July its adviser, **Leland E. "Lee" Baum**, asked the county recreation commission for a site, ideally a mile and a half long, and said club members would do the work.[^ij600707] Days later he announced that Mervin Goodman of a San Francisco real estate firm had offered 20 acres by the Smith Brothers ranch, southeast of St. Vincent's School for Boys, on condition it be used only for drag racing, sports cars, karts and quarter-midgets. Marin's enthusiasts (the paper called them "sports car" fans) would get a strip "without the cost of a penny of taxpayers' money," he said, with work to start in August.[^ij600711]
 
 ## The clubs at a funeral
 

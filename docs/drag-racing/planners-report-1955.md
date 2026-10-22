@@ -8,24 +8,42 @@ eras:
 years:
 - 1947
 - 1955
-region: Midwest
+region: National
 states:
 - California
-- Michigan
 - Missouri
-cities: []
-people: []
+- South Dakota
+- New York
+- Michigan
+- Ohio
+- Texas
+cities:
+- Columbia, Missouri
+- Sioux Falls, South Dakota
+- Glen Cove, New York
+- Grand Rapids, Michigan
+- Toledo, Ohio
+- Kansas City, Missouri
+- Kerrville, Texas
+people:
+- Geraldine Macelwane
 companies: []
 places: []
 clubs:
 - Columbia Motor Sports Club
+- Igniters (Sioux Falls)
+- Long Island Hot Rod Association
+- Glen Cove Road Panthers
+- Grand Valley Timing Association
+- Kansas City Timing Association
+- Drag-Uns (Kerrville)
 strips: []
 tags:
 - car-clubs
 - police-and-safety
 - teenagers-and-schools
 - drag-strips
-- dry-lakes
+- town-politics
 - airport-strips
 - grassroots-sources
 related:
@@ -49,7 +67,7 @@ In May 1955 the American Society of Planning Officials (Chicago) sent its member
 
 ## The state program that ended
 
-The report says the **California Highway Patrol** ran a program from **1948 until 1953**, picking advisers for their interest in the sport to work with existing clubs. In 1953 "a new order from headquarters" barred patrol members from taking part in speed events or advising clubs "whose chief purpose was to promote speed events." Local police and civic groups carried on.[^aspo]
+California had tried a statewide approach first. The report says the **California Highway Patrol** ran a program from **1948 until 1953**, picking advisers for their interest in the sport to work with existing clubs. In 1953 "a new order from headquarters" barred patrol members from taking part in speed events or advising clubs "whose chief purpose was to promote speed events." Local police and civic groups carried on.[^aspo]
 
 It says drag strips "were not sponsored or run by the highway patrol, but by local police forces and civic groups."[^aspo] Local police programs it lists include Pomona (see [Pomona's Choppers](pomona-choppers-fontana.md)), Los Angeles County, Pasadena and Madera.[^aspo]
 
@@ -68,17 +86,17 @@ Municipal Judge Geraldine Macelwane, quoted on the Toledo program: "The list of 
 
 ## Small details worth keeping
 
-Club names like "Sideswipers," "Hell Drivers" and "Fender Rippers" were "once common" but by 1955 were "considered to be bad public relations," and no club with such a name could affiliate with either national organization.[^aspo]
+The report also caught how clubs were changing. Club names like "Sideswipers," "Hell Drivers" and "Fender Rippers" were "once common" but by 1955 were "considered to be bad public relations," and no club with such a name could affiliate with either national organization.[^aspo]
 
 About forty percent of clubs admitted girls, and a room in the police station was sometimes the clubhouse.[^aspo]
 
-Texas example (forum,<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>): a forum researcher says the **Drag-Uns** of Kerrville were an NHRA-chartered club "sponsored by the Kerrville Police Department," formed in 1953 with 27 members, and held their first race on March 29, 1953 at Louis Schreiner Airport.[^kerr] Another poster says the Alamo Timing Association ran a Kerrville race on Aug. 23, 1953.[^kerr]
+A Texas example comes from a forum,<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> where a researcher says the **Drag-Uns** of Kerrville were an NHRA-chartered club "sponsored by the Kerrville Police Department," formed in 1953 with 27 members, and held their first race on March 29, 1953 at Louis Schreiner Airport.[^kerr] Another poster says the Alamo Timing Association ran a Kerrville race on Aug. 23, 1953.[^kerr]
 
 ## What came after
 
-**Kansas City:** the Kansas City Timing Association's strip opened July 17, 1955, according to the detective who organized it. See [The Detective Whose Son Was a Dragster](kansas-city-timing-association.md).
+Kansas City got its strip. The Kansas City Timing Association's strip opened July 17, 1955, according to the detective who organized it. See [The Detective Whose Son Was a Dragster](kansas-city-timing-association.md).
 
-**Small-town clubs the report did not list:** [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both from local newspapers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Other small-town clubs never made the report, among them [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both known from local newspapers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 *See also:* [Hot Rod Club, Third Row](high-school-hot-rod-clubs.md); [Street Rod in the Small-Town Paper](../media/street-rod-newspaper-serial.md).
 

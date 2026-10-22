@@ -6,31 +6,45 @@ eras:
 - 1950s
 - 1960s
 - 1970s
+- 1980s
 years:
-- 1958
-- 1970
+- 1954
+- 1986
 region: Northeast
 states:
 - Pennsylvania
-cities: []
+cities:
+- Abington, Pennsylvania
+- Glenside, Pennsylvania
+- Warminster, Pennsylvania
+- Doylestown, Pennsylvania
 people:
 - George Hurst
 - Bill Campbell
-- Linda Vaughn
 - Ed Almquist
-- Ed "Isky" Iskenderian
-- Barney Navarro
-companies: []
+- Jonas Anchel
+- Jack Watson
+- Bunkie Knudsen
+- Pete Estes
+- Bob Kenny
+- Linda Vaughn
+- Joe Schubeck
+- Jim Wangers
+- Bob D'Olivo
+companies:
+- Hurst-Campbell
+- Anco Industries
+- Mr. Gasket
+- Holley
+- Sunbeam
 places: []
 clubs: []
 strips: []
 tags:
-- magazines-and-media
-- patents-and-inventions
-- aftermarket-business
 - speed-equipment
-- town-politics
-- airport-strips
+- aftermarket-business
+- patents-and-inventions
+- magazines-and-media
 - grassroots-sources
 related:
 - people/ed-almquist.md
@@ -85,15 +99,15 @@ The $6 million and $20 million figures may be different years, since "mid-sixtie
 
 The surest way to place a mail-order speed company is to find the address it printed for customers. Three dull documents help with the Warminster question.
 
-**1962: a Dodge brochure.** A 1962 Dodge Dart 440 magazine-insert brochure, scanned by a Facebook group of brochure collectors, closes with "Additional high performance equipment available from independent manufacturers." Among them is "Hurst-Campbell Inc., 341 W. Glenside Ave., Glenside, Pa. (shift conversions)."[^dodge62] The company was in good company. The same list names Edelbrock Equipment Co. in Los Angeles (manifolds), Ed Iskenderian in Inglewood ("adj. push rods"), Weiand in Los Angeles (manifolds), Offenhauser Sales Corp., Howard Cams, Hedman Hedders, Camcraft of Detroit, ForgeTrue Pistons and Auto Marine Laboratories of Wyckoff, New Jersey. Hurst-Campbell is the only Pennsylvania firm on it.[^dodge62] See [Edelbrock](edelbrock-slingshot.md), [Ed Iskenderian](../people/ed-iskenderian.md) and [Barney Navarro](../people/barney-navarro.md) (for Weiand).
+The first is a 1962 Dodge Dart 440 magazine-insert brochure, scanned by a Facebook group of brochure collectors, closes with "Additional high performance equipment available from independent manufacturers." Among them is "Hurst-Campbell Inc., 341 W. Glenside Ave., Glenside, Pa. (shift conversions)."[^dodge62] The company was in good company. The same list names Edelbrock Equipment Co. in Los Angeles (manifolds), Ed Iskenderian in Inglewood ("adj. push rods"), Weiand in Los Angeles (manifolds), Offenhauser Sales Corp., Howard Cams, Hedman Hedders, Camcraft of Detroit, ForgeTrue Pistons and Auto Marine Laboratories of Wyckoff, New Jersey. Hurst-Campbell is the only Pennsylvania firm on it.[^dodge62] See [Edelbrock](edelbrock-slingshot.md), [Ed Iskenderian](../people/ed-iskenderian.md) and [Barney Navarro](../people/barney-navarro.md) (for Weiand).
 
 Glenside is a census-designated place split between **Abington** and Cheltenham townships.[^glen] So a 1962 Glenside address fits *Panorama*'s "converted two-car garage in Abington," though we can't tell from the address alone which township No. 341 was in, or whether it was the garage.
 
-**1962–63: the copyright office.** The *Catalog of Copyright Entries* shows Hurst-Campbell, Inc., registering its own instruction sheets and folders: a "CV-2-202 conversion mount for '58-'62 Chevrolet 348-409 cubic inch engines" (June 29, 1962); "Competition/plus four speed floor shift" instructions; "Hurst dual pattern S/L shifter instructions"; a Hurst Fiberglas floor tunnel kit for '62 Dodge/Plymouth and Lancer/Valiant (Sept. 26, 1962); and "Hurst mystery shifter instructions" (Dec. 5, 1962).[^cce62] In the first half of 1963 came "Adjustatorque engine conversion mounts" (March 20), a sheet called "Instant success" (March 27), a folder titled "Spotlighting Hurst floor shifts," "Transmission mounts," and a rear crossmember for 1953–57 Studebakers.[^cce63]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+The second is the copyright office. For 1962–63 the *Catalog of Copyright Entries* shows Hurst-Campbell, Inc., registering its own instruction sheets and folders: a "CV-2-202 conversion mount for '58-'62 Chevrolet 348-409 cubic inch engines" (June 29, 1962); "Competition/plus four speed floor shift" instructions; "Hurst dual pattern S/L shifter instructions"; a Hurst Fiberglas floor tunnel kit for '62 Dodge/Plymouth and Lancer/Valiant (Sept. 26, 1962); and "Hurst mystery shifter instructions" (Dec. 5, 1962).[^cce62] In the first half of 1963 came "Adjustatorque engine conversion mounts" (March 20), a sheet called "Instant success" (March 27), a folder titled "Spotlighting Hurst floor shifts," "Transmission mounts," and a rear crossmember for 1953–57 Studebakers.[^cce63]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-**1966–68: American Motors.** AMC's own "Performance Activities" booklet for 1966–68, which lists outside suppliers of performance parts for its cars, gives "Hurst-Campbell, Inc. 50 West Street Road Warminster, Pa." under shift linkage.[^amc66]
+The third comes from American Motors. AMC's own "Performance Activities" booklet for 1966–68, which lists outside suppliers of performance parts for its cars, gives "Hurst-Campbell, Inc. 50 West Street Road Warminster, Pa." under shift linkage.[^amc66]
 
-So the company was selling from Glenside in the 1962 model year and was in Warminster by the AMC list. That squares with *Panorama* calling the Warminster plant "new" in 1965, and it makes "opened for business in 1959" in Warminster harder to accept as written. It does not prove there was no earlier Warminster shop. A brochure may print an office address, and the brochure itself carries no printing date.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> still open, but narrower.
+So the company was selling from Glenside in the 1962 model year and was in Warminster by the AMC list. That squares with *Panorama* calling the Warminster plant "new" in 1965, and it makes "opened for business in 1959" in Warminster harder to accept as written. It does not prove there was no earlier Warminster shop. A brochure may print an office address, and the brochure itself carries no printing date. The Warminster date is still open, but narrower.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Detroit says yes
 
@@ -118,12 +132,7 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 
 ## Connect the dots
 
-- [Ed Almquist](../people/ed-almquist.md): the Milford mail-order man who built shifters with Hurst and Campbell in 1959 per his local paper, and filed his own gear-shift patent a month before theirs.
-- [Patents](../reference/patents.md): both Hurst and Campbell shifter patents (US 3,172,301 and 3,192,793) and Almquist's US 3,082,639.
-- [Mr. Gasket](mr-gasket.md): bought what was left of Hurst Performance in 1986, per Hagerty<sup class="hr-q" id="qr-11"><a href="#q-11" title="Single source so far: see Open questions">◐</a></sup>.
-- [Lakewood Industries](lakewood-industries.md): Hurst's hired driver for the Hairy Olds was Lakewood's "Gentleman Joe" Schubeck.
-- [Woodward Avenue](../places/woodward.md): Pontiac ad man Jim Wangers, who appears on that page driving Woodward GTOs, helped Hurst put together the 1967 Firebird pitch for Pontiac's John DeLorean.[^auwm]
-- [Midwest & East Threads](../places/midwest-east.md) and [Leonard Miller](../voices/leonard-miller.md): the Bucks County drag scene of the 1960s, the same county and decade as the Warminster plant. No source ties Miller to Hurst; the link is place and time.
+[Ed Almquist](../people/ed-almquist.md) was the Milford mail-order man who built shifters with Hurst and Campbell in 1959, per his local paper, and filed his own gear-shift patent a month before theirs; [Patents](../reference/patents.md) lists both Hurst and Campbell shifter patents (US 3,172,301 and 3,192,793) and Almquist's US 3,082,639. [Mr. Gasket](mr-gasket.md) bought what was left of Hurst Performance in 1986, per Hagerty<sup class="hr-q" id="qr-11"><a href="#q-11" title="Single source so far: see Open questions">◐</a></sup>. Hurst's hired driver for the Hairy Olds was "Gentleman Joe" Schubeck of [Lakewood Industries](lakewood-industries.md). Pontiac ad man Jim Wangers, who appears on the [Woodward Avenue](../places/woodward.md) page driving Woodward GTOs, helped Hurst put together the 1967 Firebird pitch for Pontiac's John DeLorean.[^auwm] And [Midwest & East Threads](../places/midwest-east.md) and [Leonard Miller](../voices/leonard-miller.md) cover the Bucks County drag scene of the 1960s, the same county and decade as the Warminster plant. No source ties Miller to Hurst; the link is place and time.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

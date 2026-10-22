@@ -3,27 +3,30 @@ title: 'Portsmouth, Ohio, 1956: The Phones Went Dead and the Hot Rod Club Carrie
 summary: When the telephones went dead in Portsmouth, Ohio, in 1956, the Kustom Kouriers hot rod club carried messages for the city.
 department: drag-racing
 eras:
-- 1930s
-- 1940s
 - 1950s
 years:
-- 1930
+- 1956
 - 1957
 region: Midwest
 states:
 - Ohio
 cities:
 - Portsmouth, Ohio
+- Sciotoville, Ohio
 people:
 - Evan Hill
+- Hugh Rudity
 companies: []
 places: []
 clubs:
 - Kustom Kouriers Kar Club
+- Portsmouth Motorcycle Club
 strips: []
 tags:
 - car-clubs
 - police-and-safety
+- town-politics
+- magazines-and-media
 related:
 - drag-racing/belleville-gear-jammers.md
 - drag-racing/escanaba-dragns.md
@@ -55,7 +58,7 @@ That was only a rehearsal. Twice, Hill wrote, the main exchange was evacuated an
 
 Hill's list of what Portsmouth improvised reads like a civil-defense drill run by volunteers. Twenty-three auxiliary police were deputized to patrol all night in their own cars. Four old police call boxes downtown were wired open. The Yellow Cab Company put its 21 radio cabs at the disposal of the police, some as cruisers and some parked at key spots to relay messages. Detroit Steel took a radio out of a yard locomotive and lent it to the city. The two radio stations, WNXT and WPAY, went on the air around the clock to broadcast emergency calls, and funeral homes parked their ambulances at the police station. In all of Portsmouth, he wrote, only three telephones worked.[^sep]
 
-Two clubs offered to run messages: the Portsmouth Motorcycle Club and the "Kustom Kouriers Kar Club—formerly the Hot Rod Club."[^sep] (The scan garbles the verb, but the sense is that they volunteered to rush messages.)<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+The car clubs had a part in it. Two clubs offered to run messages: the Portsmouth Motorcycle Club and the "Kustom Kouriers Kar Club—formerly the Hot Rod Club."[^sep] (The scan garbles the verb, but the sense is that they volunteered to rush messages.)<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 <figure markdown>
 ![A linen postcard of a long steel bridge over a wide river, with a small city on the far bank](../assets/images/commons-portsmouth-ohio-grant-bridge-postcard.jpg){ loading=lazy }

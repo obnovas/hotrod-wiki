@@ -3,6 +3,8 @@ title: 'Peggy Hart: The Racer Who Beat the Winners'
 summary: Peggy Hart co-founded the Santa Ana drags with her husband C.J. and raced there, often challenging the winners at the end of the day.
 department: people
 eras:
+- 1910s
+- 1920s
 - 1930s
 - 1940s
 - 1950s
@@ -11,29 +13,38 @@ eras:
 - 1980s
 - 1990s
 years:
-- 1933
+- 1914
 - 1998
 region: West
 states:
 - California
 cities:
 - Santa Ana, California
+- Lake Elsinore, California
 people:
 - Peggy Hart
-- C.J. & Peggy Hart
-- Veda Orr
-- Doris Herbert
+- C.J. Hart
+- Steve Gibbs
+- Richard Parks
+- Dave Wallace
+- Frank Stillwell
+- Creighton Hunter
+- Don Tuttle
 companies: []
 places: []
 clubs: []
-strips: []
+strips:
+- Santa Ana Drags (Orange County Airport)
+- El Mirage
+- Bonneville Salt Flats
 tags:
-- drag-strips
-- dry-lakes
 - women
-- gassers
-- dragsters
+- drag-strips
 - airport-strips
+- dry-lakes
+- land-speed
+- dragsters
+- gassers
 related:
 - eras/1950s-santa-ana-drags.md
 - voices/harts-santa-ana.md
@@ -62,7 +73,7 @@ She was born Mary Margaret "Peggy" Riley, and she married Cloyce J. Hart in 1934
 
 A 2024 LinkedIn post calls her "the first woman dragster driver" (photo dated 1951).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-C.J. briefly retired after her death in 1980 and later joined the NHRA Safety Safari. Shortly before he died he said, "I've waited 24 years. I'm going to see Peggy."[^ocr][^pe04]
+Her death ended a long partnership. C.J. briefly retired after her death in 1980 and later joined the NHRA Safety Safari. Shortly before he died he said, "I've waited 24 years. I'm going to see Peggy."[^ocr][^pe04]
 
 ## Her cars, in order { #her-cars-in-order-round-10 }
 
@@ -76,13 +87,15 @@ It adds: "She even drove at **El Mirage** dry lake and the **Bonneville Salt Fla
 
 This is the only first-hand source for the Bonneville attempt. "Number Seven" is most likely a cylinder (the car lost a cylinder on the return run). That reading is ours, not Hart's.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-**"Supercharged" or not?** C.J. says "blown"; the hall of fame says "Cad-powered gas dragster." The two don't strictly conflict, but only C.J.'s account says it had a supercharger.
+The accounts differ on one detail, a supercharger. C.J. says "blown"; the hall of fame says "Cad-powered gas dragster." The two don't strictly conflict, but only C.J.'s account says it had a supercharger.
 
 ## Founder of the strip, not just the wife of one
 
 In the Long & Tuttle clipping pamphlet ***Every Sunday Drag Races: Orange County Airport, Santa Ana***, "three men and one woman are given credit for opening this dragstrip": C.J. Hart, Frank Stillwell, Creighton Hunter and **Peggy Hart**. That is Richard Parks's summary in his 2012 review. Parks adds that "Peggy would take on all comers on the dragstrip and usually beat them handily."[^parksrev]
 
-The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect." **We have not seen a copy.**<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+
+*See also:* [Santa Ana Drags](../eras/1950s-santa-ana-drags.md), [Voices: the Harts at Santa Ana](../voices/harts-santa-ana.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Veda Orr](veda-orr.md), [Doris Herbert](doris-herbert.md). <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ## Open questions & disputed details
 
@@ -98,13 +111,11 @@ The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When did the strip open?** C.J. told *Hot Rod* he opened "on **June 19, 1950**," and our [Santa Ana](../eras/1950s-santa-ana-drags.md) page follows that date.[^hr80] Yet the pamphlet's "first race" is July 2, 1950. June 19, 1950, was a **Monday**; July 2 was a Sunday. This may mean the strip opened (with its lease or a first practice) on June 19 and held its first Sunday race on July 2. Until a dated 1950 clipping is found, that is only a suggestion. **Unresolved.** <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>
+<a id="q-6" class="hr-q-anchor"></a>**The Long & Tuttle pamphlet:** we have not seen a copy of *Every Sunday Drag Races: Orange County Airport, Santa Ana*; everything here about it comes from Richard Parks's 2012 review.[^parksrev] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ### Still missing
 
-None of **Peggy's own words** from the 1950s have turned up. Every quotation of her racing is secondhand (Gibbs, Parks, C.J.). Round 10 tried the California Digital Newspaper Collection for Santa Ana–area coverage from 1950 to 1959, but the site blocked our fetcher. The Long & Tuttle pamphlet is the best lead. Her Willys's class and times and any dry-lakes timing tags are also still open.
-
-**See also:** [Santa Ana Drags](../eras/1950s-santa-ana-drags.md), [Voices: the Harts at Santa Ana](../voices/harts-santa-ana.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Veda Orr](veda-orr.md), [Doris Herbert](doris-herbert.md). <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+None of **Peggy's own words** from the 1950s have turned up. Every quotation of her racing is secondhand (Gibbs, Parks, C.J.). We tried the California Digital Newspaper Collection for Santa Ana–area coverage from 1950 to 1959, but the site blocked our fetcher. The Long & Tuttle pamphlet is the best lead. Her Willys's class and times and any dry-lakes timing tags are also still open.
 
 ## Images
 
