@@ -13,15 +13,13 @@ The boys' real workplace was the garage out back. "Not that it was a real garage
 
 After the Merchant Marines and a $400 '34 Ford five-window coupe, Dean reworked the fuel block, and he and his younger brother "Buzz" began selling copies "to Bell Auto Parts and other local speed shops."[^shop] That is the **Bell Auto Parts** of the [prewar speed-shop story](prewar-speed-shops.md), and it is exactly how Moon Equipment was born: not in a catalog, but over a speed-shop counter. *THE SHOP* adds that the company existed only "unofficially" at first.[^shop]
 
-His day job in 1949 was at Urich-Gibbs, "the local Lincoln Mercury dealer." There he worked on cars for the Carrera Panamericana and helped fellow Whittier racer **Ak Miller**. He and Buzz bought a chopped '32 Ford Tudor, ran it fenderless at the **inaugural Santa Ana Drags, July 2, 1950**, and won the Racing Sedan class. The car was lettered "Urich-Gibbs," which *THE SHOP* calls "one of the earliest examples of corporate sponsorship."[^shop] That date and strip are the ones on the wiki's own [Santa Ana Drags page](../eras/1950s-santa-ana-drags.md), where a clippings pamphlet's July 2 is already weighed against a June 19 date. *THE SHOP* gives July 2 for the same meet, a second source for that date.
-
-**⚠ From the detective's notebook: when did Moon Equipment start?** The anniversary pieces say 1950 (*Hot Rod*: "around 1950"; *THE SHOP*'s 75-year feature). *THE SHOP*'s own narrative says that in **October 1953** Dean "decided to go full time" and operate the company from 10935 S. Bloomfield Ave., "right next to Pop's Café," and describes him as having founded Moon Automotive Equipment Co. that year.[^shop][^hr25] Both can be true: 1950 for the first sales, 1953 for the business. The sources do not say so outright.
+His day job in 1949 was at Urich-Gibbs, "the local Lincoln Mercury dealer." There he worked on cars for the Carrera Panamericana and helped fellow Whittier racer **Ak Miller**. He and Buzz bought a chopped '32 Ford Tudor, ran it fenderless at the **inaugural Santa Ana Drags, July 2, 1950**, and won the Racing Sedan class. The car was lettered "Urich-Gibbs," which *THE SHOP* calls "one of the earliest examples of corporate sponsorship."[^shop] That date and strip are the ones on the wiki's own [Santa Ana Drags page](../eras/1950s-santa-ana-drags.md), where a clippings pamphlet's July 2 is already weighed against a June 19 date. *THE SHOP* gives July 2 for the same meet, a second source for that date.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## A catalog, a logo and a spun-aluminum fortune
 
 By the mid-1950s Dean was advertising in the Bonneville Nationals program and sponsoring a trophy, and in 1955 he published a 32-page pocket catalog.[^shop] The Mooneyes came next. *Hot Rod* says the eyes were inspired by how Dean typed the company name, replacing the O with a capital Q ("MQQN") or adding periods ("MO.O.N"), and that the logo was drawn by "one of the area's many Disney artists looking to pick up a little freelance work."[^hr25] The earliest documented use on a race car, per *THE SHOP*, was Creighton Hunter's "Hunter Oil Company Special" T, which had "Moon Equipt" on the cowl; the eyes then appeared on Hunter's "Slice-O-Pie" sidewinder dragster.[^shop]
 
-The wheel discs are the part everybody remembers. *Hot Rod* says the spun-aluminum covers outsold everything else, "with 10,000 units heading out the door per month" ◐ (one source), and that they gave the custom vocabulary "moon caps." *THE SHOP* suspects Dean was influenced by the discs on a needle-nose roadster that ran Bonneville in 1951.[^hr25][^shop]
+The wheel discs are the part everybody remembers. *Hot Rod* says the spun-aluminum covers outsold everything else, "with 10,000 units heading out the door per month"<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> *THE SHOP* suspects Dean was influenced by the discs on a needle-nose roadster that ran Bonneville in 1951.[^hr25][^shop]
 
 <figure markdown>
 ![An aerial view of El Mirage Dry Lake, a pale dry lakebed in the Mojave Desert.](../assets/images/commons-el-mirage-blm.jpg){ loading=lazy }
@@ -30,19 +28,17 @@ The wheel discs are the part everybody remembers. *Hot Rod* says the spun-alumin
 
 ## The second president
 
-Dean was drafted in the Korean War. *THE SHOP* has him reporting to Hill Air Force Base, Utah, in spring 1951 and learning photography, which gave him a marketing edge at home. *Hot Rod* says he served "overseas."[^shop][^hr25] ⚠ The records are lost in a fire, *THE SHOP* says, so the dates are unknown.
+Dean was drafted in the Korean War. *THE SHOP* has him reporting to Hill Air Force Base, Utah, in spring 1951 and learning photography, which gave him a marketing edge at home. *Hot Rod* says he served "overseas."[^shop][^hr25]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 By the early 1960s he was everywhere. The Mooneyes dragster was on *Hot Rod*'s cover in 1961. In 1962 Carroll Shelby asked him to assemble the first Cobra in his shop. He bought Chuck Potvin's line of speed equipment. In 1963 Gary Cagle won Middle Eliminator at the Winternationals in the Mooneyes dragster at 9.52 seconds and 153.06 mph.[^shop] He became the second president of the Speed Equipment Manufacturers Association, after **Ed Iskenderian**, the organization's founding president.[^shop][^isky]
 
-Eric Grant, SEMA's first executive director, remembered the early regulatory meetings: "I sat down with Willie Garner, Dean Moon and a whole bunch of other people and said, 'Look, I've already put in the law, but if you can build a better product, you're going to be legal.'"[^sema13]
-
-**⚠ Brighton, 1963.** *THE SHOP* says Dean let Las Vegas speed-shop owner **Dante Duce** take the Mooneyes dragster to England for exhibition runs against Sydney Allard, and that "Moonbeam," a flathead-Ford, Devin-bodied sports car, won the Brighton Speed Trials with Duce at 167 mph.[^shop] Wikipedia's account of **Mickey Thompson** says Thompson and Duce demonstrated Thompson's *Harvey Aluminum Special* dragster at Brighton that year.[^wp] They may both be true, and see [Mickey Thompson](mickey-thompson.md). The sources do not say.
+Eric Grant, SEMA's first executive director, remembered the early regulatory meetings: "I sat down with Willie Garner, Dean Moon and a whole bunch of other people and said, 'Look, I've already put in the law, but if you can build a better product, you're going to be legal.'"[^sema13]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## "Pay me later"
 
 Buzz Moon died in 1981 at 51. Dean followed in 1987, and *Hot Rod* says his wife Shirley kept the company going for a few years before shuttering it.[^shop][^hr25] *THE SHOP* says she tried to keep the doors open until her death in 1990.[^shop]
 
-Enter a customer. Shige Suganuma came to California as a young man to buy Moon discs for his brother-in-law. Dean liked him and shipped 24 discs to Japan that Suganuma hadn't ordered, "simply saying, 'pay me later.'" Suganuma sold all of them and came back for more, eventually becoming Moon's biggest dealer. In 1992 he bought what was left from Dean's eldest daughter, Becky, and with partner Chico Kadoma (*Hot Rod*: "Kodama") ⚠ reopened it as Mooneyes USA. Santa Fe Springs required a 30-foot setback that took out part of the original building. The Mooneyes sign now sits on the ground.[^shop][^hr25] Today the company is headquartered in Yokohama and holds Japan's largest hot rod meet there every year; *Hot Rod* says it draws 25,000 people.[^hr25]
+Enter a customer. Shige Suganuma came to California as a young man to buy Moon discs for his brother-in-law. Dean liked him and shipped 24 discs to Japan that Suganuma hadn't ordered, "simply saying, 'pay me later.'" Suganuma sold all of them and came back for more, eventually becoming Moon's biggest dealer. In 1992 he bought what was left from Dean's eldest daughter, Becky, and with partner Chico Kadoma (*Hot Rod*: "Kodama")<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> reopened it as Mooneyes USA. Santa Fe Springs required a 30-foot setback that took out part of the original building. The Mooneyes sign now sits on the ground.[^shop][^hr25] Today the company is headquartered in Yokohama and holds Japan's largest hot rod meet there every year; *Hot Rod* says it draws 25,000 people.[^hr25]
 
 ## Connect the dots
 
@@ -52,6 +48,20 @@ Enter a customer. Shige Suganuma came to California as a young man to buy Moon d
 - [Whittier Boulevard](../places/whittier-blvd.md): Whittier is the town of Moon's high school and of fellow racer Ak Miller. No source ties Moon to the boulevard's cruising, so the link is geographic only.
 - [Mickey Thompson](mickey-thompson.md): the 1963 Brighton story, as told from the other side.
 - [Hooker Headers](hooker-headers.md) and [Crane Cams](crane-cams.md): neighbors at the first SEMA show.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did Moon Equipment start?** The anniversary pieces say 1950 (*Hot Rod*: "around 1950"; *THE SHOP*'s 75-year feature). *THE SHOP*'s own narrative says that in **October 1953** Dean "decided to go full time" and operate the company from 10935 S. Bloomfield Ave., "right next to Pop's Café," and describes him as having founded Moon Automotive Equipment Co. that year.[^shop][^hr25] Both can be true: 1950 for the first sales, 1953 for the business. The sources do not say so outright. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** (one source), and that they gave the custom vocabulary "moon caps." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** The records are lost in a fire, *THE SHOP* says, so the dates are unknown. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Brighton, 1963.** *THE SHOP* says Dean let Las Vegas speed-shop owner **Dante Duce** take the Mooneyes dragster to England for exhibition runs against Sydney Allard, and that "Moonbeam," a flathead-Ford, Devin-bodied sports car, won the Brighton Speed Trials with Duce at 167 mph.[^shop] Wikipedia's account of **Mickey Thompson** says Thompson and Duce demonstrated Thompson's *Harvey Aluminum Special* dragster at Brighton that year.[^wp] They may both be true, and see [Mickey Thompson](mickey-thompson.md). The sources do not say. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed:** In 1992 he bought what was left from Dean's eldest daughter, Becky, and with partner Chico Kadoma (*Hot Rod*: "Kodama") reopened it as Mooneyes USA. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 [^shop]: Tony Thacker, "All Eyes on Moon Equipment Co. as Classic Speed Shop Marks 75 Years," *THE SHOP*, Jun 16, 2025 (the page text says it first appeared in the June 2026 issue; we cite the web date). https://theshopmag.com/features/all-eyes-on-moon-equipment-co-as-classic-speed-shop-marks-75-years/ (accessed 2026-10-16)
 [^hr25]: Benjamin Hunting, "Mooneyes History: More Than an Iconic Hot-Rodding Logo," *Hot Rod*, Feb 10, 2025. https://www.hotrod.com/features/mooneyes-history (accessed 2026-10-16)

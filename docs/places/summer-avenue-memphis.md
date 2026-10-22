@@ -19,9 +19,15 @@ Prewitt also reports that VW mechanic **John Bain** (MoonBugs) "drag-raced on Su
 
 ## Notes
 
-**Robilio's:** Marshall Robilio was a Memphis Rodders racer (see [Ray Godman](../voices/ray-godman.md) and [Memphis](memphis.md)). We have not confirmed whether the restaurant was connected to his family. ⚠ Unverified, so we don't claim it.
+**Robilio's:** Marshall Robilio was a Memphis Rodders racer (see [Ray Godman](../voices/ray-godman.md) and [Memphis](memphis.md)). We have not confirmed whether the restaurant was connected to his family.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Next lead: the Commercial Appeal archives (1955–70) for police action on Summer.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Unverified, so we don't claim it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

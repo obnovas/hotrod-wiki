@@ -12,7 +12,7 @@
 
 Ed Winfield's formal schooling ended at the eighth grade.[^mshf] At 14 he joined Harry A. Miller's shop, starting in the carburetor department at 60¢ an hour per the Motorsports Hall of Fame (Hemmings says sweeping floors). He learned alongside draftsman Leo Goossen and machinist Fred Offenhauser.[^mshf][^hem1]
 
-Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1] **⚠** The International Drag Racing Hall of Fame list gives **1910–1982**,[^idrhof] which is probably an error, since three other sources give 1901.
+Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## A motorcycle that could climb anything
 
@@ -26,13 +26,19 @@ Pete Crane relayed Winfield's own account of how a term hot rodders still use go
 
 ## Carburetors and Indy
 
-The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]
-
-**⚠ From the detective's notebook: how long was the Indy winning streak?** The IMS Museum says every Indy 500 winner 1933–1946 used Winfields except Wilbur Shaw's Maserati (1939–40).[^ims] Another Hemmings piece says every winner **1927–1937**.[^hem1]
+The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1]
 
 He died in 1982.[^hem2] Hemmings names him the model for Ed Iskenderian and Ed Donovan,[^hem2] and Hagerty's 2026 Isky obituary says Winfield mentored him into cam grinding. (See [Iskenderian](ed-iskenderian.md).)
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** The International Drag Racing Hall of Fame list gives **1910–1982**,[^idrhof] which is probably an error, since three other sources give 1901. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **How long was the Indy winning streak?** The IMS Museum says every Indy 500 winner 1933–1946 used Winfields except Wilbur Shaw's Maserati (1939–40).[^ims] Another Hemmings piece says every winner **1927–1937**.[^hem1] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

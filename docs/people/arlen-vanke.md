@@ -9,29 +9,43 @@ Hemmings says Arlen Vanke built cars "in a residential garage that didn't even h
 
 ## Akron Municipal Airport
 
-**⚠ From the detective's notebook: when did he start?** MMSHOF says his first race was in **1953**, at sixteen, at Akron Municipal Airport in a 1940 flathead Ford sedan.[^mm] Hemmings says that in **1951** his mother watched him lose and then wrote a $600 check for parts.[^hem] The Knafel Pontiac fan site gives the car's times as 14.80 at 87 mph with tri-carbs. It says he raced B/Gas every weekend in summer 1953 and usually lost to George Montgomery's Cadillac-powered '34 Ford.[^tin]
-
-NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra] ◐ The Knafel site says the strip opened in 1951 and ran until 1959.[^tin]
+NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The '56 Chevy gasser
 
-MMSHOF: Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm] ◐ Single source.
+MMSHOF: Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Knafel Pontiac and the Tin Indians
 
-In fall 1961 he went into Bill Knafel Pontiac in Akron, asked about a Super Duty 421, and ordered a 1962 Catalina Super Duty.[^tin][^hem] Hemmings says he set an NHRA A/Stock record with it, and Knafel hired him as service manager on weekdays and racer on weekends.[^hem] **⚠** The Knafel site says "salesman" and calls it an eight-year relationship.[^tin]
+In fall 1961 he went into Bill Knafel Pontiac in Akron, asked about a Super Duty 421, and ordered a 1962 Catalina Super Duty.[^tin][^hem] Hemmings says he set an NHRA A/Stock record with it, and Knafel hired him as service manager on weekdays and racer on weekends.[^hem]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Mopar, the "Vanked" Hemi, and Pro Stock
 
 In 1964 he bought both a Max Wedge and a Hemi Belvedere.[^hem]
 
-Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the word "Vanked." It also traces the nickname to his calls to Chrysler, where he introduced himself as "Arlen Vanke from Akron, Ohio."[^hem2] ◐
+Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the word "Vanked." It also traces the nickname to his calls to Chrysler, where he introduced himself as "Arlen Vanke from Akron, Ohio."[^hem2]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
-NHRA results: Jr. Stock at the 1966 Springnationals and Super Stock at the 1968 U.S. Nationals.[^nhra] MMSHOF says he won all five 1970 SWC points meets in a Duster and calls him the first man to do so.[^mm] ◐ *This is a promotional HOF claim and needs checking.*
+NHRA results: Jr. Stock at the 1966 Springnationals and Super Stock at the 1968 U.S. Nationals.[^nhra] MMSHOF says he won all five 1970 SWC points meets in a Duster and calls him the first man to do so.[^mm]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
 He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Midwest & East Threads](../places/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
 
 **See also (Round 10):** [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../places/ohio-gassers.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did he start?** MMSHOF says his first race was in **1953**, at sixteen, at Akron Municipal Airport in a 1940 flathead Ford sedan.[^mm] Hemmings says that in **1951** his mother watched him lose and then wrote a $600 check for parts.[^hem] The Knafel Pontiac fan site gives the car's times as 14.80 at 87 mph with tri-carbs. It says he raced B/Gas every weekend in summer 1953 and usually lost to George Montgomery's Cadillac-powered '34 Ford.[^tin] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The Knafel site says the strip opened in 1951 and ran until 1959.[^tin] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Single source. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** The Knafel site says "salesman" and calls it an eight-year relationship.[^tin] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the word "Vanked." It also traces the nickname to his calls to Chrysler, where he introduced himself as "Arlen Vanke from Akron, Ohio." <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *This is a promotional HOF claim and needs checking.* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ## Images
 
@@ -41,6 +55,7 @@ He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives 
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Hemmings, Vanke stories (period race photos)](https://www.hemmings.com/stories/akron-arlen-vanke/)

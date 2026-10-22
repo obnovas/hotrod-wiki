@@ -12,7 +12,7 @@
 
 ## Routed by bayonets
 
-In the late 1940s, Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled the good part: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" The bad part came one Sunday, when a company of U.S. Marines with fixed bayonets ran them off.[^mshf] ◐ *Single source (the Hall of Fame biography); we have not found a period report.*
+In the late 1940s, Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled the good part: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" The bad part came one Sunday, when a company of U.S. Marines with fixed bayonets ran them off.[^mshf]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Hart's answer was a real strip.
 
@@ -40,13 +40,21 @@ Chet Herbert's stripped Harley "The Beast" ran 121 and then 129 mph at Santa Ana
 
 The strip ran until **June 21, 1959**, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of **Lions Drag Strip**, staying until 1971. There he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe]
 
-**Hart's death date (resolved in Round 3): June 25, 2004.** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers.
+**Hart's death date (resolved in Round 3): June 25, 2004.** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-## From the detective's notebook
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Single source (the Hall of Fame biography); we have not found a period report.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>
+
+### More from the notebook
 
 **⚠ Lions tenure** is still in conflict: 1965–71 per MSHF and SEMA, 1963–1970 per the OC Register.[^nhra04] See also [Peggy Hart](../people/peggy-hart.md).
 
-⚠ **Round 10 notes:** (1) June 19, 1950, was a Monday. The Long & Tuttle clippings pamphlet dates the "first race" to Sunday, **July 2, 1950**. See [Peggy Hart](../people/peggy-hart.md#founder-of-the-strip-not-just-the-wife-of-one). (2) The same January 1980 *Hot Rod* profile that dates Hart's Lions start to "'65" also refers to "his very first act in '63." The 1965 date fits its own statement that he succeeded Mickey Thompson, who left in 1963.[^hr80]
+⚠ **Round 10 notes:** (1) June 19, 1950, was a Monday. The Long & Tuttle clippings pamphlet dates the "first race" to Sunday, **July 2, 1950**. See [Peggy Hart](../people/peggy-hart.md#founder-of-the-strip-not-just-the-wife-of-one). (2) The same January 1980 *Hot Rod* profile that dates Hart's Lions start to "'65" also refers to "his very first act in '63." The 1965 date fits its own statement that he succeeded Mickey Thompson, who left in 1963.[^hr80] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
@@ -61,6 +69,7 @@ The strip ran until **June 21, 1959**, when the county evicted Hart to expand th
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [LOC, LOOK magazine job 55-6363 "Drag races" (1956, Bob Sandberg). Rights restricted; location not stated](https://www.loc.gov/pictures/item/2016713335)

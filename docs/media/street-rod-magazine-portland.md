@@ -18,41 +18,31 @@ Before ***Street Rodder*** there was ***Street Rod***. It was a 64-page, 75-cent
 
 Miller moved to Portland in **1971** to work for United Medical Lab. He met Craig **at church**. Craig offered to help because his wife "had experience with typesetting."[^99w]
 
-The 99W history calls Miller "a real 'schmoozer'" who connected with **Tex Smith**. That connection "ultimately yielded a contract with **Kable News Service** for Street Rod's printing and distribution."[^99w] ◐
-
-## Where the idea came from (⚠ disputed)
-
-99W: Miller "was part of a conversation with other founders of the street rod movement — Tex Smith, Tom Medley, Bud Bryan and others." Talk turned to a street-rod magazine and to rumors that Petersen might close *Rod & Custom*. "After everyone left the brainstorming session, **many believe that Miller took ideas and even the magazine title** name and launched the magazine. This was apparently a source of frustration for some involved."[^99w] ◐ *Reported belief, not a documented fact.*
-
-⚠ **Venue and date:** 99W places that talk "at the first Street Rod Nationals in **Memphis**, Tennessee in **1970**." The first Nationals was held at **Peoria, Ill., in August 1970**, and the second at Memphis in 1971. See [NSRA and the early Nationals](../street-rodding/nsra-early-nationals.md). The conversation probably took place at Peoria in 1970, or around the 1971 Memphis event, before *Street Rod*'s October 1971 debut. Either way, the 99W date and place cannot both be right.
-
-Jim Clark's account matches the title story from the other side. *Street Rodder* "originally intended to call it Street Rod," but Miller's magazine came out first, "so we changed our name. It was released in **May 1972**."[^sr40]
+The 99W history calls Miller "a real 'schmoozer'" who connected with **Tex Smith**. That connection "ultimately yielded a contract with **Kable News Service** for Street Rod's printing and distribution."[^99w]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Bruce Miller and the NSRA
 
-99W: "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w] ◐
+99W: "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap] ◐
-
-⚠ **From the detective's notebook:** Hagerty's 2024 Nationals history, cited on our [NSRA page](../street-rodding/nsra-early-nationals.md), says **Dick Wells** was the NSRA's first president.[^hag] The two claims could be reconciled if Miller held the office first and Wells the first salaried post, or the reverse. We have not found an NSRA document that settles it. **Unresolved.**
+In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Making the magazine
 
 The first issue drew heavily on a **June 1971** trip Miller and Craig made to the **Yellowstone Rod Run** in a group of six to eight cars. The group included **John Slaughter**, "another church member, fellow hot rodder and investor." "Both Bruce's wrote copy and took photographs."[^99w]
 
-Miller "funded the first year of production largely with his credit card."[^99w] **Spence Murray** traveled to Portland to help Craig produce the first issue.[^99w] ◐
+Miller "funded the first year of production largely with his credit card."[^99w] **Spence Murray** traveled to Portland to help Craig produce the first issue.[^99w]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
 The first issue ran **10,000 copies**. Production moved from Craig's apartment to Miller's (until March 1972), then to rented offices in Portland's **Sellwood** neighborhood. 99W places that "near Milwaukee, Oregon," meaning neighboring **Milwaukie**.[^99w]
 
 **Dale Moreau** was the photographer. Miller met him at United Medical Labs, and Moreau later became Freightliner's corporate photographer. **Russ Meeks**, "another well known Portland hot rodder," was technical editor.[^99w]
 
-Sales were about **40,000 per month** net paid, as 99W tells it. Its own data note adds that the publisher "did not provide net paid circulation data to N.W. Ayer," so the figure cannot be checked against Ayer's directory.[^99w] ◐ The format was 64 pages at $0.75, with coverage of "how-to-do-its, rod run coverage, rodding trends, car features and club activities."[^99w]
+Sales were about **40,000 per month** net paid, as 99W tells it. Its own data note adds that the publisher "did not provide net paid circulation data to N.W. Ayer," so the figure cannot be checked against Ayer's directory.[^99w]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> The format was 64 pages at $0.75, with coverage of "how-to-do-its, rod run coverage, rodding trends, car features and club activities."[^99w]
 
 ## The end (1973)
 
 In **January 1973** Craig "had not been paid." In a restructuring he took an ownership percentage and **a '39 Ford**. Miller's ownership "was ended by trading for a **Model A truck**." Slaughter, who owned a business that designed and installed golf courses, took control as publisher and editor.[^99w]
 
-Craig later explained that the magazine bought paper on 90-day credit. During the **mid-1973 paper shortage**, with no supply contract, the printer required three months' prepayment, "and cash flow did not allow them to keep the magazine operating." It folded **after the July 1973 issue**.[^99w] ◐ *Craig's recollection, as relayed by 99W.*
+Craig later explained that the magazine bought paper on 90-day credit. During the **mid-1973 paper shortage**, with no supply contract, the printer required three months' prepayment, "and cash flow did not allow them to keep the magazine operating." It folded **after the July 1973 issue**.[^99w]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
 
 ### Issue run (per the 99W cover index)
 
@@ -66,6 +56,34 @@ That is 20 issues, which matches 99W's count. There is no Vol 3 No 2, apparently
 
 **See also:** [Street Rodder founding voices](../voices/street-rodder-founding.md), [NSRA and the early Nationals](../street-rodding/nsra-early-nationals.md), [Pacific Northwest](../places/pacific-northwest.md), [Street Rod Nationals era](../eras/1970s-street-rod-nationals.md), [The drag rags](../eras/1960s-drag-rags.md).
 
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** That connection "ultimately yielded a contract with **Kable News Service** for Street Rod's printing and distribution." <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>
+
+### Where the idea came from (⚠ disputed)
+
+99W: Miller "was part of a conversation with other founders of the street rod movement — Tex Smith, Tom Medley, Bud Bryan and others." Talk turned to a street-rod magazine and to rumors that Petersen might close *Rod & Custom*. "After everyone left the brainstorming session, **many believe that Miller took ideas and even the magazine title** name and launched the magazine. This was apparently a source of frustration for some involved."[^99w] ◐ *Reported belief, not a documented fact.*
+
+⚠ **Venue and date:** 99W places that talk "at the first Street Rod Nationals in **Memphis**, Tennessee in **1970**." The first Nationals was held at **Peoria, Ill., in August 1970**, and the second at Memphis in 1971. See [NSRA and the early Nationals](../street-rodding/nsra-early-nationals.md). The conversation probably took place at Peoria in 1970, or around the 1971 Memphis event, before *Street Rod*'s October 1971 debut. Either way, the 99W date and place cannot both be right.
+
+Jim Clark's account matches the title story from the other side. *Street Rodder* "originally intended to call it Street Rod," but Miller's magazine came out first, "so we changed our name. It was released in **May 1972**."[^sr40] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Bruce Miller and the NSRA* rests on one source so far. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA." <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **** Hagerty's 2024 Nationals history, cited on our [NSRA page](../street-rodding/nsra-early-nationals.md), says **Dick Wells** was the NSRA's first president.[^hag] The two claims could be reconciled if Miller held the office first and Wells the first salaried post, or the reverse. We have not found an NSRA document that settles it. **Unresolved.** <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** Miller "funded the first year of production largely with his credit card." **Spence Murray** traveled to Portland to help Craig produce the first issue. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Making the magazine* rests on one source so far. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far.** *Craig's recollection, as relayed by 99W.* <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+
 ## Images
 
 <figure markdown>
@@ -74,6 +92,7 @@ That is 20 issues, which matches 99W's count. There is no Vol 3 No 2, apparently
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [99W Speed Shop, *Street Rod* covers and tables of contents, 1971–73](http://99wspeedshop.com/streetrod.html)

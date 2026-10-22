@@ -11,7 +11,8 @@
 Beardstown sits on the Illinois River in Cass County, a packing-house town with a lift bridge. In the spring of 1967 its newspaper correspondent noticed something new about Sundays.
 
 ## 2,000 on opening day (1967)
-The town, the column said, had "apparently done everything possible to establish a reputation as 'hog butcher of Illinois' on weekdays." On weekends it was packed with bowlers for the annual KC tournament, "and for the past two weeks additional sports fans have been crowding in for drag races. The Seward Drag strip on the Arenzville road attracted 2,000 people on opening day, and apparently did just as well or better the following Sunday." Spectators paid $1.50 apiece. The strip "had cars parked for more than a mile along each side of the entrance — on both sides of the Arenzville blacktop."[^jdj670528] ◐ *That's all the column says about the strip: no owner, no length, no clubs.*
+
+The town, the column said, had "apparently done everything possible to establish a reputation as 'hog butcher of Illinois' on weekdays." On weekends it was packed with bowlers for the annual KC tournament, "and for the past two weeks additional sports fans have been crowding in for drag races. The Seward Drag strip on the Arenzville road attracted 2,000 people on opening day, and apparently did just as well or better the following Sunday." Spectators paid $1.50 apiece. The strip "had cars parked for more than a mile along each side of the entrance — on both sides of the Arenzville blacktop."[^jdj670528]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 <figure markdown>
 ![Steel vertical-lift bridge over the Illinois River at Beardstown](../assets/images/commons-beardstown-lift-bridge.jpg){ loading=lazy }
@@ -19,15 +20,30 @@ The town, the column said, had "apparently done everything possible to establish
 </figure>
 
 ## The Michigan Madman comes to Cass County (1970)
+
 By 1970 ads in the Jacksonville paper billed the **Beardstown Drag Strip** for an A.H.R.A. Super Stock Circuit date, with a car show, time trials from 9 a.m. to 1:30 p.m. and races at 2. Children under 12 got in free with an adult.[^jdj700501] That May, "E. J. Potter presented the feature attraction at Sunday's drag racing program at the Beardstown Drag Strip. Potter made three runs on his Chevy-powered" machine (the rest of the line is lost in the scan).[^jdj700520] Potter, the "Michigan Madman" from Ithaca, Mich., toured the strips for 13 years with motorcycles built around V8 engines.[^wikipotter]
 
 ## Ken Dobson's strip (1972)
-In May 1972 the ads read "DRAG RACING EVERY SUNDAY … Beardstown DRAG STRIP New Owner & Operator" Ken Dobson, with "AHRA SANCTIONED DRAGS."[^jdj720527] Two weeks later the Jacksonville sports column told fans they had "a treat in store this weekend at the Beardstown Drag Strip, promoted by Ken Dobson of Jacksonville." There would be racing Friday and Saturday nights and Sunday afternoon, "with perhaps the top name in all of drag racing, 'Big Daddy' Don Gorlits [*sic*] pitted against Dobson in a special match race Friday evening."[^jdj720609] ◐ *We have not found the result.*
 
-*From the detective's notebook:* a small river town drew a crowd of 2,000 to a country-road strip, and five years later had Garlits on the bill. Like [Malden, Mo.](semo-malden-drag-strip.md) in the same years, it ran under AHRA rather than NHRA sanction. Compare [Sedalia's unfinished strip](sedalia-big-sir.md) for a Midwestern town that never got that far. The 1967 page also ran a story on Beardstown's wartime Civilian Pilot Training program and a newly opened airport. ◐ *Nothing ties the strip to either field.*
+In May 1972 the ads read "DRAG RACING EVERY SUNDAY … Beardstown DRAG STRIP New Owner & Operator" Ken Dobson, with "AHRA SANCTIONED DRAGS."[^jdj720527] Two weeks later the Jacksonville sports column told fans they had "a treat in store this weekend at the Beardstown Drag Strip, promoted by Ken Dobson of Jacksonville." There would be racing Friday and Saturday nights and Sunday afternoon, "with perhaps the top name in all of drag racing, 'Big Daddy' Don Gorlits [*sic*] pitted against Dobson in a special match race Friday evening."[^jdj720609]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-## Next leads
-The *Beardstown Illinoian-Star* and the Cass County Historical Society, for who built the Seward strip and where it was; Ken Dobson's own story; whether the Garlits match happened; when the strip closed.
+A small river town drew a crowd of 2,000 to a country-road strip, and five years later had Garlits on the bill. Like [Malden, Mo.](semo-malden-drag-strip.md) in the same years, it ran under AHRA rather than NHRA sanction. Compare [Sedalia's unfinished strip](sedalia-big-sir.md) for a Midwestern town that never got that far. The 1967 page also ran a story on Beardstown's wartime Civilian Pilot Training program and a newly opened airport.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *That's all the column says about the strip: no owner, no length, no clubs.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We have not found the result.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Nothing ties the strip to either field.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>
+
+### Next leads
+
+The *Beardstown Illinoian-Star* and the Cass County Historical Society, for who built the Seward strip and where it was; Ken Dobson's own story; whether the Garlits match happened; when the strip closed. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Sources
 

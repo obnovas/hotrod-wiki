@@ -22,18 +22,14 @@ The day's program was one of 13 that year, held on alternate Sundays. Cars were 
 
 The same page carried an AP item from San Diego, where a hot rod with a broken axle had gone into the crowd at an authorized strip the day before, injuring 12 spectators.[^pd1956]
 
-*From the detective's notebook:* the money is worth a look. By the paper's figures the club paid $400 a Sunday for the strip and charged $1.50 per car and 50 cents per spectator. (The sentence giving its average gate is split across columns in the scan, but it appears to say about $1,300.) Proceeds bought scales, a judges' truck and an automatic timer, and that spring the club had given $550 to the National Heart Fund.[^pd1956] ◐
+The money is worth a look. By the paper's figures the club paid $400 a Sunday for the strip and charged $1.50 per car and 50 cents per spectator. (The sentence giving its average gate is split across columns in the scan, but it appears to say about $1,300.) Proceeds bought scales, a judges' truck and an automatic timer, and that spring the club had given $550 to the National Heart Fund.[^pd1956]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Twelve clubs came that day, from around St. Louis and from as far as Mattoon and Canton, Illinois, and Springfield, Missouri. The ones the paper named were the Vagabonds, Cavaliers, Strokers, Auto Jammers, Dusters, Roadrunners and Axle Breakers.[^pd1956]
+Twelve clubs came that day, from around St. Louis and from as far as Mattoon and Canton, Illinois, and Springfield, Missouri. The ones the paper named were the Vagabonds, Cavaliers, Strokers, Auto Jammers, Dusters, Roadrunners and Axle Breakers.[^pd1956]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 <figure markdown>
 ![The arched front of a brick and concrete aircraft hangar with large doors](../assets/images/commons-curtiss-wright-hangar-st-louis-downtown.jpg){ loading=lazy }
 <figcaption markdown>One of the 1928 Curtiss-Wright hangars at today's St. Louis Downtown Airport in Cahokia, Ill., the field once called Parks Metropolitan Airport. Photographed in 2014; it shows the airport, not the strip. Creator: Nyttend. Date: 2014-05-26. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Curtiss-Wright_hangar_at_St_Louis_Downtown.jpg). License: Public domain (released by the photographer).</figcaption>
 </figure>
-
-## Where exactly? ⚠
-
-The club's own ads can't agree on a name for the place. In September 1955 the Gear Jammers advertised drags "At Parks Metropolitan Air Port," on Upper Cahokia Road, with a rain date of October 2.[^ad1955] By April 1956 the ads promised NHRA-sanctioned racing every second and fourth Sunday until October 28 at a field "formerly Parks Airport."[^ad1956a] The May ad read "WALSTON (Parks) AIRPORT near Rt. 157 and 3."[^ad1956b] The June story said Walston Field, *near* Parks Airport, and its photo caption put it in Cahokia.[^pd1956] Today the airport is St. Louis Downtown Airport. Wikipedia says it was named Parks Metropolitan Airport in 1940, closed in 1959 and reopened in 1965.[^wiki] Whether Walston Field was part of the old airport or a strip next to it, we can't tell from these pages.
 
 ## The Missouri side wanted one too
 
@@ -41,7 +37,7 @@ Across the river, the St. Louis clubs spent the decade asking for a strip of the
 
 In February 1954 **Joseph R. Naber**, president of the **Midwest Hot Rod Club** of Brentwood, answered a letter-writer who doubted the new cars were safe. Detroit could add safety belts, he wrote, but 99 per cent of people wouldn't bother to use them, and it couldn't build in the best safety device of all: "The cautious and courteous driver."[^naber]
 
-In August 1955 the paper reported that fifteen north St. Louis youths in the **Strokers Club** had gone eight months, since the club formed the previous December, without a single traffic arrest among them. Their president, **Edwin Styffe Jr.**, 17, said: "Some mixed-up adults don't realize that a true hot rodder is interested in speed racing on supervised tracks only." (The scan doubles the word "is.") The boys hoped a "drag strip" would open there. Styffe was spending his summer driving a delivery truck: "So far I haven't put any scratches on it or broken any eggs."[^strokers] A club called the Strokers raced at the Gear Jammers' meet the next June; the paper doesn't say whether it was the same club.[^pd1956] ◐
+In August 1955 the paper reported that fifteen north St. Louis youths in the **Strokers Club** had gone eight months, since the club formed the previous December, without a single traffic arrest among them. Their president, **Edwin Styffe Jr.**, 17, said: "Some mixed-up adults don't realize that a true hot rodder is interested in speed racing on supervised tracks only." (The scan doubles the word "is.") The boys hoped a "drag strip" would open there. Styffe was spending his summer driving a delivery truck: "So far I haven't put any scratches on it or broken any eggs."[^strokers] A club called the Strokers raced at the Gear Jammers' meet the next June; the paper doesn't say whether it was the same club.[^pd1956]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 By November 1958 the campaign was on bumper stickers. A letter signed S.J.G. quoted two of them: "St. Louis needs a drag strip." and "A drag strip will mean safer streets." The writer saw a threat in the second one: "If you don't let us have a drag strip you may get slaughtered by our speeding cars." The letter set the stickers beside a newspaper headline from the weekend before: "Three youths burned beyond recognition in climax to drag race."[^sjg]
 
@@ -49,11 +45,29 @@ The hot rodders had their own letter-writers. That October a physician who said 
 
 ## The engine in the crate
 
-The best St. Louis story of all appeared in March 1959. The **Drag-ons Hot Rod Club of Normandy** had "reluctantly put up for sale" a World War I Hispano Suiza airplane engine. It was still crated and unused, water-cooled, with 12 cylinders in a V. Club member **Gary Evans** said they had meant to convert it for a "dragster," but they had no garage to do the work. The club had got it two years before, "from a man who had two of them in his basement."[^dragons] ◐ *We give the paper's description, including its "1000 horsepower," as printed. We have not identified the engine.*
+The best St. Louis story of all appeared in March 1959. The **Drag-ons Hot Rod Club of Normandy** had "reluctantly put up for sale" a World War I Hispano Suiza airplane engine. It was still crated and unused, water-cooled, with 12 cylinders in a V. Club member **Gary Evans** said they had meant to convert it for a "dragster," but they had no garage to do the work. The club had got it two years before, "from a man who had two of them in his basement."[^dragons]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The Gear Jammers go national
 
-The Belleville club kept a higher profile than the clubs on the Missouri side. In March 1957 it put on a show of custom machines, classics, antiques and sports cars at Ainad Temple in East St. Louis.[^show1957] In its December 1958 issue, *Car Craft* covered what it called "the fourth annual National Drags" and reported that the Gear Jammers had given up running their own cars to work the event. **Wayne Mertens** (the magazine's spelling) accepted the *Car Craft* Sportsmanship Trophy for the club from NHRA field director Tex Smith. The magazine praised the members "who gave up running their cars in competition in order to become invaluable event personnel."[^cc1958] ⚠ *Mehrtens or Mertens: the newspaper and the magazine spell it differently.* *Hot Rod*'s 1959 index lists the "Belleville Gear Jammers" as Club of the Month for January.[^hr1959]
+The Belleville club kept a higher profile than the clubs on the Missouri side. In March 1957 it put on a show of custom machines, classics, antiques and sports cars at Ainad Temple in East St. Louis.[^show1957] In its December 1958 issue, *Car Craft* covered what it called "the fourth annual National Drags" and reported that the Gear Jammers had given up running their own cars to work the event. **Wayne Mertens** (the magazine's spelling) accepted the *Car Craft* Sportsmanship Trophy for the club from NHRA field director Tex Smith. The magazine praised the members "who gave up running their cars in competition in order to become invaluable event personnel."[^cc1958]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> *Hot Rod*'s 1959 index lists the "Belleville Gear Jammers" as Club of the Month for January.[^hr1959]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The club with the half-fine rule* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>
+
+### Where exactly? ⚠
+
+The club's own ads can't agree on a name for the place. In September 1955 the Gear Jammers advertised drags "At Parks Metropolitan Air Port," on Upper Cahokia Road, with a rain date of October 2.[^ad1955] By April 1956 the ads promised NHRA-sanctioned racing every second and fourth Sunday until October 28 at a field "formerly Parks Airport."[^ad1956a] The May ad read "WALSTON (Parks) AIRPORT near Rt. 157 and 3."[^ad1956b] The June story said Walston Field, *near* Parks Airport, and its photo caption put it in Cahokia.[^pd1956] Today the airport is St. Louis Downtown Airport. Wikipedia says it was named Parks Metropolitan Airport in 1940, closed in 1959 and reopened in 1965.[^wiki] Whether Walston Field was part of the old airport or a strip next to it, we can't tell from these pages. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The Missouri side wanted one too* rests on one source so far. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *We give the paper's description, including its "1000 horsepower," as printed. We have not identified the engine.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** *Mehrtens or Mertens: the newspaper and the magazine spell it differently.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Sources
 

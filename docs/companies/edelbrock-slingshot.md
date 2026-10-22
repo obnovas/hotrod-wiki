@@ -14,17 +14,23 @@ Vic Edelbrock drove his roadster to Muroc, pulled the fenders and windshield, ra
 
 ## A kid from Kansas
 
-Vic Edelbrock Sr. (1913–1962; **⚠** the International Drag Racing Hall of Fame lists 1912[^idrhof]) was born in Kansas. He went to work full time at 14 after a fire destroyed his father's grocery store, and came to California in 1931.[^enc][^ed] He opened a repair shop on Wilshire Blvd. in Beverly Hills with his brother-in-law, then moved to Venice & Hoover in 1934.[^ed]
+Vic Edelbrock Sr. (1913–1962;<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> the International Drag Racing Hall of Fame lists 1912[^idrhof]) was born in Kansas. He went to work full time at 14 after a fire destroyed his father's grocery store, and came to California in 1931.[^enc][^ed] He opened a repair shop on Wilshire Blvd. in Beverly Hills with his brother-in-law, then moved to Venice & Hoover in 1934.[^ed]
 
 ## The Thickstun detour
 
-In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun on the "Thickstun" manifold, wasn't satisfied, and designed his own: a 180° aluminum two-Stromberg-97 flathead manifold called the **Slingshot**, the first product with the Edelbrock name. About 100 were made before the war.[^ed][^enc]
-
-**⚠ From the detective's notebook: how fast was the roadster?** Edelbrock's own history says "racing speeds of 112 mph";[^ed] Encyclopedia.com says over 120 mph;[^enc] Wikipedia cites 121.45 mph on November 16, 1941 in one article and puts a 121.42 run at **Bonneville** in another.[^wp] Bonneville seems unlikely for a lakes roadster in 1941 and needs a period SCTA record source.
+In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun on the "Thickstun" manifold, wasn't satisfied, and designed his own: a 180° aluminum two-Stromberg-97 flathead manifold called the **Slingshot**, the first product with the Edelbrock name. About 100 were made before the war.[^ed][^enc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## After the war
 
 Edelbrock modified "Denver" iron heads, introduced the first aluminum heads and a 1946 catalog, and fielded a flathead midget credited with breaking the Offenhauser midgets' streak in the late '40s.[^hemm]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed:** Vic Edelbrock Sr. (1913–1962; the International Drag Racing Hall of Fame lists 1912) was born in Kansas. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **How fast was the roadster?** Edelbrock's own history says "racing speeds of 112 mph";[^ed] Encyclopedia.com says over 120 mph;[^enc] Wikipedia cites 121.45 mph on November 16, 1941 in one article and puts a 121.42 run at **Bonneville** in another.[^wp] Bonneville seems unlikely for a lakes roadster in 1941 and needs a period SCTA record source. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

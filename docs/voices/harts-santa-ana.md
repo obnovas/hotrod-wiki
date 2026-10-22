@@ -13,17 +13,13 @@ C.J. "Pappy" Hart (1911–2004) and his wife **Peggy Hart** ran the Santa Ana dr
 
 The New York Times obituary noted that this was "a comment seemingly at odds with his widely reported arrest at age 87 for driving 85 in a 55-mph zone."[^wd]
 
-In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]
+In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Peggy, as others remembered her
 
 > "At that time, it was mainly roadsters and coupes. Peggy was going as fast as any of them, and beating a lot of guys. She was a trendsetter, a pioneer."
 >
 > — **Steve Gibbs**, NHRA vice president of competition, to the Press-Enterprise (Lyle Spencer), 2004.[^wd] *Secondhand*: Peggy died in 1980, and we have not found her own words.
-
-**From the detective's notebook:** ⚠ The Orange County Register obituary (Robin Hinch) called Peggy "the only woman racer." That is a tribute-piece superlative we cannot verify, and we treat it as a claim only.[^wd]
-
-⚠ **Opening attendance:** the LA Times (Shav Glick) gives about 500 spectators and about 50 cars, and quotes Hart that the final day drew more than 4,000.[^wd] Compare [Santa Ana](../eras/1950s-santa-ana-drags.md).
 
 ## Gerald Hart, 2015
 
@@ -40,6 +36,14 @@ In April 2004, at a museum panel, a moderator asked why he wasn't driving a Roll
 > "He knew I would race anything to make few bucks. 'Pappy' - that's what everyone called him - always took good care of me. I was treated better at his track than any other."
 >
 > — **Dale Armstrong**, who raced at Lions under Hart from 1964 to 1979, to the Press-Enterprise, 2004.[^wd]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** The Orange County Register obituary (Robin Hinch) called Peggy "the only woman racer." That is a tribute-piece superlative we cannot verify, and we treat it as a claim only.[^wd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Opening attendance:** the LA Times (Shav Glick) gives about 500 spectators and about 50 cars, and quotes Hart that the final day drew more than 4,000.[^wd] Compare [Santa Ana](../eras/1950s-santa-ana-drags.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 [^wd]: We Did It For Love, "CJ 'Pappy' Hart – The Passing of a Legend" (reprints NHRA.com 6/26/2004; Orange County Register; LA Times 6/30/2004; NYT 7/4/2004; AP; Press-Enterprise; Richard Parks). http://wediditforlove.com/cj-2.html (accessed 2026-10-13)
 [^pe]: Press-Enterprise, "Santa Ana Drags: 65 years after the strip was founded, it still brings back fond racing memories" (Oct 1, 2015). https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/ (accessed 2026-10-13)

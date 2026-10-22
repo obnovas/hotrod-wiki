@@ -22,22 +22,28 @@ That was only a rehearsal. Twice, Hill wrote, the main exchange was evacuated an
 
 Hill's list of what Portsmouth improvised reads like a civil-defense drill run by volunteers. Twenty-three auxiliary police were deputized to patrol all night in their own cars. Four old police call boxes downtown were wired open. The Yellow Cab Company put its 21 radio cabs at the disposal of the police, some as cruisers and some parked at key spots to relay messages. Detroit Steel took a radio out of a yard locomotive and lent it to the city. The two radio stations, WNXT and WPAY, went on the air around the clock to broadcast emergency calls, and funeral homes parked their ambulances at the police station. In all of Portsmouth, he wrote, only three telephones worked.[^sep]
 
-Two clubs offered to run messages: the Portsmouth Motorcycle Club and the "Kustom Kouriers Kar Club—formerly the Hot Rod Club."[^sep] (The scan garbles the verb, but the sense is that they volunteered to rush messages.)
+Two clubs offered to run messages: the Portsmouth Motorcycle Club and the "Kustom Kouriers Kar Club—formerly the Hot Rod Club."[^sep] (The scan garbles the verb, but the sense is that they volunteered to rush messages.)<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 <figure markdown>
 ![A linen postcard of a long steel bridge over a wide river, with a small city on the far bank](../assets/images/commons-portsmouth-ohio-grant-bridge-postcard.jpg){ loading=lazy }
 <figcaption markdown>The U.S. Grant Bridge over the Ohio River, with Portsmouth in the background, on a linen postcard from about 1930–45, before the events on this page. Creator: Portsmouth News Agency, publisher; Tichnor Bros., printer (Boston Public Library, Tichnor Brothers collection #73184). Date: c. 1930–1945. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:U.S._Grant_Bridge,_Portsmouth,_Ohio._Connecting_Kentucky_and_Ohio,_U.S._Route_23_showing_Portsmouth,_Ohio,_in_background_(73184).jpg). License: Public domain.</figcaption>
 </figure>
 
-## Which blackout? ⚠
+## Open questions & disputed details
 
-*From the detective's notebook:* the AP put the couriers in the September shutdown; Hill listed them among the volunteers of the long blackout that began October 15. The two accounts don't have to conflict. A club that had done the job in September would be a natural one to call on again in October. But no source says that, and neither one names a single member.
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### Which blackout? ⚠
+
+The AP put the couriers in the September shutdown; Hill listed them among the volunteers of the long blackout that began October 15. The two accounts don't have to conflict. A club that had done the job in September would be a natural one to call on again in October. But no source says that, and neither one names a single member.
 
 The name matters too. By the time Hill wrote in 1957, the club had stopped calling itself "the Hot Rod Club" and become the **Kustom Kouriers**.[^sep] Whether the courier work gave it the name, the *Post* doesn't say.
 
 Hill wasn't a passing big-city reporter. The *Post*'s contributor note says he taught journalism at Ohio State, urged his students to go research the strike, and went himself when none volunteered.[^sep]
 
-**Related:** clubs that set out to prove themselves to their towns, such as [Belleville's Gear Jammers](belleville-gear-jammers.md), [Escanaba's Drag-n's](escanaba-dragns.md) and [Kansas City](kansas-city-timing-association.md), and the [Ohio Gassers](../places/ohio-gassers.md).
+**Related:** clubs that set out to prove themselves to their towns, such as [Belleville's Gear Jammers](belleville-gear-jammers.md), [Escanaba's Drag-n's](escanaba-dragns.md) and [Kansas City](kansas-city-timing-association.md), and the [Ohio Gassers](../places/ohio-gassers.md). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Sources
 

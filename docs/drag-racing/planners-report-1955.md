@@ -35,23 +35,31 @@ Club names like "Sideswipers," "Hell Drivers" and "Fender Rippers" were "once co
 
 About forty percent of clubs admitted girls, and a room in the police station was sometimes the clubhouse.[^aspo]
 
-Texas example (forum, ◐): a forum researcher says the **Drag-Uns** of Kerrville were an NHRA-chartered club "sponsored by the Kerrville Police Department," formed in 1953 with 27 members, and held their first race on March 29, 1953 at Louis Schreiner Airport.[^kerr] Another poster says the Alamo Timing Association ran a Kerrville race on Aug. 23, 1953.[^kerr]
+Texas example (forum,<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>): a forum researcher says the **Drag-Uns** of Kerrville were an NHRA-chartered club "sponsored by the Kerrville Police Department," formed in 1953 with 27 members, and held their first race on March 29, 1953 at Louis Schreiner Airport.[^kerr] Another poster says the Alamo Timing Association ran a Kerrville race on Aug. 23, 1953.[^kerr]
 
 ## What came after
 
 **Kansas City:** the Kansas City Timing Association's strip opened July 17, 1955, according to the detective who organized it. See [The Detective Whose Son Was a Dragster](kansas-city-timing-association.md).
 
-**Small-town clubs the report did not list:** [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both from local newspapers.
+**Small-town clubs the report did not list:** [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both from local newspapers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-## ⚠ Claims we could not verify
+## Open questions & disputed details
 
-*From the detective's notebook: the report is vivid, and unsourced.*
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Small details worth keeping* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>
+
+### ⚠ Claims we could not verify
+
+*The report is vivid, and unsourced.*
 
 The report says "in one day of hot rod racing at Muroc Dry Lake, California, twenty-seven hot rodders were killed" and that on another night county police arrested 187 hot rodders. It gives no date or source, and nothing else in this wiki supports the Muroc figure. Treat both as unverified.[^aspo]
 
 It dates the California law against taking part in or watching a race to **1947**. Chief Parker's article describes the same law but gives no year.[^aspo]
 
-It says hot rodding "first began in California in the late 1920's." That is a general claim with no source.[^aspo]
+It says hot rodding "first began in California in the late 1920's." That is a general claim with no source.[^aspo] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 [^aspo]: American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955), hosted in the APA's historic PAS report archive. https://www.planning.org/pas/reports/report74.htm (accessed 2026-10-15)
 [^kerr]: "DRAG-UNS," Texas Racing History forum, Lone Star Speedzone, posts by Agent1320 and Harlin Covert (March 2012). https://www.lonestarspeedzone.com/topic/47203-drag-uns/ (accessed 2026-10-15)

@@ -21,7 +21,7 @@ He was born **March 22, 1922**, in Los Angeles. His first hot rod was a '29 road
 
 ## The name
 
-He liked the name of a speed shop in Culver City (very likely Orr's, ◐ inference, not stated) and coined "So-Cal": "then I was the only one."[^css]
+He liked the name of a speed shop in Culver City (very likely Orr's,<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> inference, not stated) and coined "So-Cal": "then I was the only one."[^css]
 
 He opened on Olive Avenue, Burbank, on his discharge day, **March 3, 1946**, with borrowed money.[^yum] That name came with an obligation: "If I had 'speed shop' in the name I had to start to race."[^css]
 
@@ -30,6 +30,12 @@ He opened on Olive Avenue, Burbank, on his discharge day, **March 3, 1946**, wit
 His V8-60 belly tank lakester ran 136 mph in 1948 and made the cover of Hot Rod. A Batchelor-designed streamliner topped 210 mph in 1952. He closed the shop in 1961 as OHV engines overtook flatheads.[^fc]
 
 He went on to produce films, edit Car Craft and Hot Rod Industry News, and help start the SEMA Show. And he revived So-Cal with Pete Chapouris after Bruce Meyer and Chapouris restored the belly tank.[^fc][^css]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** He liked the name of a speed shop in Culver City (very likely Orr's, inference, not stated) and coined "So-Cal": "then I was the only one." <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^yum]: "Alex Xydias – SO-CAL Speed Shop" (company bio, references American Rodder Oct 1991). https://www.yumpu.com/en/document/view/34870683/alex-xydias-so-cal-speed-shop
 [^sm]: StreetMuscle, "The Garage With Dennis Episode 14." https://www.streetmusclemag.com/news/video-the-garage-with-dennis-episode-14-so-cal-speed-shop/

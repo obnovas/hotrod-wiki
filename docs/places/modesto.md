@@ -27,13 +27,17 @@ By 1990, according to city officials, up to 6,000 teenagers from around the San 
 
 ## Policing
 
-On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinances. One barred passing the same spot on McHenry more than once every four hours. Dennis Lema of the Central California Coalition of Car Clubs vowed to challenge them.[^lib][^lat90b]
-
-**⚠ From the detective's notebook: 1993?** The HMdb marker text says that after Graffiti Night grew huge, "Cruising was banned in Modesto; an ordinance that remains in force today." That contradicts the documented 1990 ordinance. It may be a second measure or simply a mistake on the marker.[^hm]
+On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinances. One barred passing the same spot on McHenry more than once every four hours. Dennis Lema of the Central California Coalition of Car Clubs vowed to challenge them.[^lib][^lat90b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Ties
 
 When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). The film's influence on the 1970s [street-rod revival](../street-rodding/index.md) is often claimed, but we haven't sourced it yet. Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1993?** The HMdb marker text says that after Graffiti Night grew huge, "Cruising was banned in Modesto; an ordinance that remains in force today." That contradicts the documented 1990 ordinance. It may be a second measure or simply a mistake on the marker.[^hm] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

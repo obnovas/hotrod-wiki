@@ -11,9 +11,11 @@
 Gettysburg's paper is mostly about the battlefield, the farms and the churches. But in the late 1950s its small columns from the surrounding towns show something else going on: a hot rod club in Hanover asking a whole neighborhood for permission to meet, a Hanover man touring the Lions clubs to explain how such clubs worked, and teenagers in Gettysburg and across the Maryland line picking jacket colors and promising to stay out of traffic court.
 
 ## Hanover asks the neighbors (1956)
+
 In May 1956 the Littlestown column reported that the **Hanover Hot Kustom Klub** had decided to petition the people living near **Lincoln Speedway** in Berwick Township, Adams County, "asking that they do not oppose" the speedway's use as a Sunday afternoon meeting place for the club. The owner had already said yes, "with the provision that members first petition the residents."[^gt560510] Lincoln Speedway was a stock-car track on the Hanover side of the county. The request was a polite one: Sunday afternoons in a churchgoing county, at a track that was already noisy the rest of the week.
 
 ## The Hanover experience, on tour (1958)
+
 In April 1958 the Lions Club at York Springs, at the other end of Adams County, had a guest. "Jimmy Price, Hanover" spoke "on the advantages of a well supervised hot rod club in a community and gave the experiences of Hanover and some other communities and explained how they are operated."[^gt580418] We do not know what Hanover's experiences were. That a service club wanted to hear about them suggests Hanover's clubs were seen as something worth copying.
 
 That September, just south of the state line, three Frederick County, Maryland, youths were fined on charges of driving faster than "reasonable and proper" as state police "began a crack down on drag racing in the county."[^gt580922]
@@ -24,19 +26,32 @@ That September, just south of the state line, three Frederick County, Maryland, 
 </figure>
 
 ## Turquoise jackets in Taneytown (February 1959)
-Across the line in Taneytown, Maryland, a "recently organized hot rod club" chose turquoise and blue as its colors. Members planned to buy turquoise jackets with black trim, "featuring the club insignia, three carburetors with flames."[^gt590227] ◐ *The OCR gives the club's name as the "Taneytown Flaming Carte"; with carburetors on the jacket, "Flaming Carbs" is almost certainly right, and the headline reads "CARBS CHOOSE COLORS."*
+
+Across the line in Taneytown, Maryland, a "recently organized hot rod club" chose turquoise and blue as its colors. Members planned to buy turquoise jackets with black trim, "featuring the club insignia, three carburetors with flames."[^gt590227]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The Fly-Wheels (March 1959)
-Two weeks later the paper introduced the **Fly-Wheels of Adams County**, "a newly organized club," which planned a paper and scrap drive to raise money. President **William Moorehead** said the members met weekly at his grandparents' motel on Lincolnway West and hoped to rent a garage in Gettysburg as a permanent clubhouse. The club existed "to help fellow travelers in distress along the highway," and a member who was arrested for any traffic violation was out.[^gt590306] ◐ *A garbled line says the club was "under the auspices of the National ... Hanover Hot Rod Club"; the words in between are lost.*
 
-On March 25 the paper announced the organization of "the 'Fly Wheels,' a Gettysburg 'hot-rod' Club," giving the president of the "three-week old group" as **Francis L. Althoff Jr.** of Hanover Street. This club planned "to race its vehicles at the airport at Thomasville," and its first event was a car wash at the Hunt Avenue service station, where members would pick up the cars, wash them and bring them back.[^gt590325] The next day the club ran a classified ad: "FLY-WHEELS GETTYSBURG HOT ROD CLUB Will Wash Cars at Hunt Avenue, Inc., Saturday, March 28," for $1.50 a car with pickup and delivery, and with the profits going to the club (the last words of the ad are garbled in the scan).[^gt590326]
+Two weeks later the paper introduced the **Fly-Wheels of Adams County**, "a newly organized club," which planned a paper and scrap drive to raise money. President **William Moorehead** said the members met weekly at his grandparents' motel on Lincolnway West and hoped to rent a garage in Gettysburg as a permanent clubhouse. The club existed "to help fellow travelers in distress along the highway," and a member who was arrested for any traffic violation was out.[^gt590306]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-⚠ *Two presidents in three weeks.* It could be a change of officers, two reports about different people, or two groups using the same name. One version is about roadside good deeds and a clean record; the other is about racing at an airport. Both were probably true of most clubs in 1959.
+On March 25 the paper announced the organization of "the 'Fly Wheels,' a Gettysburg 'hot-rod' Club," giving the president of the "three-week old group" as **Francis L. Althoff Jr.** of Hanover Street. This club planned "to race its vehicles at the airport at Thomasville," and its first event was a car wash at the Hunt Avenue service station, where members would pick up the cars, wash them and bring them back.[^gt590325] The next day the club ran a classified ad: "FLY-WHEELS GETTYSBURG HOT ROD CLUB Will Wash Cars at Hunt Avenue, Inc., Saturday, March 28," for $1.50 a car with pickup and delivery, and with the profits going to the club (the last words of the ad are garbled in the scan).[^gt590326]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
-*From the detective's notebook:* this is the small-town East in miniature. There is no strip yet, only a borrowed stock-car track, a country airfield and a car wash, and every step needed someone's permission: the neighbors, the Lions, the police. Compare the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md), the [Kingston Igniters](kingston-igniters.md) and the [Indiana small-town clubs](indiana-small-town-clubs.md).
+This is the small-town East in miniature. There is no strip yet, only a borrowed stock-car track, a country airfield and a car wash, and every step needed someone's permission: the neighbors, the Lions, the police. Compare the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md), the [Kingston Igniters](kingston-igniters.md) and the [Indiana small-town clubs](indiana-small-town-clubs.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
-## Next leads
-The Hanover *Evening Sun*, 1955–60, for the Hot Kustom Klub, Jimmy Price and the Hanover Hot Rod Club; the Thomasville airport and whether drags were run there; the *Carroll County Times* for the Taneytown club; any surviving Fly-Wheels jacket or plaque.
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The OCR gives the club's name as the "Taneytown Flaming Carte"; with carburetors on the jacket, "Flaming Carbs" is almost certainly right, and the headline reads "CARBS CHOOSE COLORS."* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *A garbled line says the club was "under the auspices of the National ... Hanover Hot Rod Club"; the words in between are lost.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** *Two presidents in three weeks.* It could be a change of officers, two reports about different people, or two groups using the same name. One version is about roadside good deeds and a clean record; the other is about racing at an airport. Both were probably true of most clubs in 1959. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>
+
+### Next leads
+
+The Hanover *Evening Sun*, 1955–60, for the Hot Kustom Klub, Jimmy Price and the Hanover Hot Rod Club; the Thomasville airport and whether drags were run there; the *Carroll County Times* for the Taneytown club; any surviving Fly-Wheels jacket or plaque. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Sources
 

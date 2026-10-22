@@ -18,19 +18,17 @@ That is the opening of Lakewood Industries, as SEMA tells it. It begins in a mag
 
 Schubeck says he fell in love with drag racing in Petersen's *Hot Rod* at 13, reading everything Wally Parks wrote. While still in high school he heard about "a speed shop that just opened in Lakewood, Ohio," and met its owner, **Jack Harris**, who had started a dragster he couldn't find time to finish. Schubeck "inherited" it. The Akron strip in the story is the one on the wiki's [Akron Fulton Airport page](../drag-racing/akron-fulton-airport.md), where the Arfons half-brothers raced.[^sema]
 
-By his third year racing, he met **Joe Scarpelli**, "an expert on Chrysler Hemi engines from Cleveland," and the two built a Double A gas dragster with a blown Hemi.[^sema] ⚠ SEMA's Hall of Fame page spells the Cleveland Hemi man "Sparatelli."[^hof] Whichever spelling is right, the point is that a chassis and a Hemi came from two Cleveland-area garages, not from a catalog.
+By his third year racing, he met **Joe Scarpelli**, "an expert on Chrysler Hemi engines from Cleveland," and the two built a Double A gas dragster with a blown Hemi.[^sema]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 "I built my own tubular chassis in 1958," Schubeck said. "Our success created sales, so in 1959 I found myself in business. I called it Lakewood Chassis Company."[^sema]
 
 ## The bellhousing
 
-The hardest part of a chassis to make was the aluminum direct-drive bellhousing, which needed a lot of welding. Visiting a fabrication shop in Cleveland he learned of hydroforming, found time on a machine, and made a die. "Just 24 seconds after the operator had hit the button," SEMA says, he was "holding a gorgeous, seamless, aluminum bellhousing." (⚠ The Hall of Fame page says 20 seconds and has the machine run by "the engineer.")[^sema][^hof]
+The hardest part of a chassis to make was the aluminum direct-drive bellhousing, which needed a lot of welding. Visiting a fabrication shop in Cleveland he learned of hydroforming, found time on a machine, and made a die. "Just 24 seconds after the operator had hit the button," SEMA says, he was "holding a gorgeous, seamless, aluminum bellhousing."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^sema][^hof]
 
-Then the danger. The article says that across the country "drag racing was plagued with flywheel and clutch explosions," with chunks of cast iron flying into grandstands and, in the Hall of Fame page's words, "blowing cars in half—sometimes proving fatal for drivers and spectators." His old friend Jack Harris, by then "running 'Rush Sales,'" said that if a bellhousing could contain a clutch, Schubeck would have "a multi-million dollar product." The secret, SEMA says, was ductile quarter-inch steel in place of aluminum, and "in-house testing proved that it held the shrapnel from an exploding flywheel."[^sema][^hof] ◐ The test claim is Schubeck's; we have found no independent test report or accident tally.
+Then the danger. The article says that across the country "drag racing was plagued with flywheel and clutch explosions," with chunks of cast iron flying into grandstands and, in the Hall of Fame page's words, "blowing cars in half—sometimes proving fatal for drivers and spectators." His old friend Jack Harris, by then "running 'Rush Sales,'" said that if a bellhousing could contain a clutch, Schubeck would have "a multi-million dollar product." The secret, SEMA says, was ductile quarter-inch steel in place of aluminum, and "in-house testing proved that it held the shrapnel from an exploding flywheel."[^sema][^hof]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-The product had a price. Schubeck had to retire as a driver. "Before long," SEMA says, he and partner **Bill Steiskal** had "two shifts going seven days a week," and "Lakewood Chassis Company had now transitioned into Lakewood Industries." ◐ Steiskal appears only in the longer article.[^sema] "All the manufacturers that I read about through Petersen's magazines, i.e., Iskenderian, Edelbrock, now, I was a player with them," Schubeck said.[^sema] See [Ed Iskenderian](../people/ed-iskenderian.md) and [Edelbrock](edelbrock-slingshot.md).
-
-**⚠ From the detective's notebook: when did Lakewood start?** Schubeck's own account has the chassis company in **1959** and a steel bellhousing after that. Holley's brand page says Schubeck "formed the company just outside Cleveland in Lakewood, Ohio," and dates "those earliest days" to "the mid-1960s." Holley's 2016 blog says only that it began "in a suburb of Cleveland way back in the 1960s."[^lkw][^blog] These can be reconciled if 1959 was the chassis shop and the mid-'60s the bellhousing business, but nobody says so. We have not seen a catalog or a Cleveland business listing.
+The product had a price. Schubeck had to retire as a driver. "Before long," SEMA says, he and partner **Bill Steiskal** had "two shifts going seven days a week," and "Lakewood Chassis Company had now transitioned into Lakewood Industries."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> "All the manufacturers that I read about through Petersen's magazines, i.e., Iskenderian, Edelbrock, now, I was a player with them," Schubeck said.[^sema] See [Ed Iskenderian](../people/ed-iskenderian.md) and [Edelbrock](edelbrock-slingshot.md).<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The hired driver
 
@@ -49,6 +47,20 @@ Holley's brand page says Lakewood is "now part of Holley Performance," and that 
 - [Ed Iskenderian](../people/ed-iskenderian.md): one of the catalog names Schubeck read about before he joined them.
 - [Holley](holley.md): the owner of the Lakewood brand today.
 - [Mr. Gasket](mr-gasket.md): the Cleveland parts company of the same period, another Ohio garage story.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** SEMA's Hall of Fame page spells the Cleveland Hemi man "Sparatelli."[^hof] Whichever spelling is right, the point is that a chassis and a Hemi came from two Cleveland-area garages, not from a catalog. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** The Hall of Fame page says 20 seconds and has the machine run by "the engineer." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** The test claim is Schubeck's; we have found no independent test report or accident tally. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** Steiskal appears only in the longer article.[^sema] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When did Lakewood start?** Schubeck's own account has the chassis company in **1959** and a steel bellhousing after that. Holley's brand page says Schubeck "formed the company just outside Cleveland in Lakewood, Ohio," and dates "those earliest days" to "the mid-1960s." Holley's 2016 blog says only that it began "in a suburb of Cleveland way back in the 1960s."[^lkw][^blog] These can be reconciled if 1959 was the chassis shop and the mid-'60s the bellhousing business, but nobody says so. We have not seen a catalog or a Cleveland business listing. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 [^sema]: Mike Imlay and Carr Winn, "Four Who Made a Difference" ("'Gentleman Joe' Schubeck: Innovator of the Lakewood Scattershield Bellhousing"), SEMA News, Aug 2013. https://www.sema.org/news-media/magazine/2013/31/four-who-made-difference (accessed 2026-10-16)
 [^hof]: "HOF - Joe Schubeck," SEMA Hall of Fame, 2013. https://www.sema.org/hof/2013/joe-schubeck (accessed 2026-10-16)

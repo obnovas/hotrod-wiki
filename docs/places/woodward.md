@@ -23,7 +23,7 @@ A writer for Hi-Performance Cars recalled for Hemmings (2018) that "we never str
 
 **Royal Bobcat** GTOs were tuned by Milt Schornack and others at Royal. The first Bobcat was a 1961 Catalina, and the program ended when Ace Wilson Sr. sold the dealership around 1970 (Hagerty 2020).[^hag2]
 
-**The "Silver Bullet" GTX.** The rumor was that it was a Mopar engineer's car. It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings).[^hem] ◐
+**The "Silver Bullet" GTX.** The rumor was that it was a Mopar engineer's car. It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings).[^hem]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Clubs such as the **Ramchargers** and Drag-Ons came out of the same suburban scene (Hagerty).[^hag] See also [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md).
 
@@ -43,9 +43,17 @@ Clubs such as the **Ramchargers** and Drag-Ons came out of the same suburban sce
 
 ## Policing
 
-Johnson remembers **"Sheriff Irons"** in a big black Chrysler who would pull racers over and ask to look under their hoods ("I think it was," he hedges). Hagerty mentions "lot cops." Hot Rod (2014) says that by the late 1960s "laws were soon enacted that limited the cruising and long-term parking," which led to "demonstrations and a few arrests." It adds that rising muscle-car insurance ("more a month for insurance than their car payment") and then the OPEC oil crisis finished the era off. We have not identified the specific ordinances. ◐[^op][^hag][^hr]
+Johnson remembers **"Sheriff Irons"** in a big black Chrysler who would pull racers over and ask to look under their hoods ("I think it was," he hedges). Hagerty mentions "lot cops." Hot Rod (2014) says that by the late 1960s "laws were soon enacted that limited the cruising and long-term parking," which led to "demonstrations and a few arrests." It adds that rising muscle-car insurance ("more a month for insurance than their car payment") and then the OPEC oil crisis finished the era off. We have not identified the specific ordinances.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^op][^hag][^hr]
 
 How it ended is its own story: the 1960s ordinances, the 1963 case that led to them, and the policing that followed are in [Woodward: The City That Banned the Drive-Ins It Didn't Have](woodward-ordinances.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** We have not identified the specific ordinances. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
@@ -60,6 +68,7 @@ How it ended is its own story: the 1960s ordinances, the 1963 case that led to t
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [Hagerty: "Cruising Woodward during the glory years" (period photos)](https://www.hagerty.com/media/archived/cruising-woodward-during-the-glory-years/)

@@ -13,6 +13,7 @@ The photo caption in the magazine says it all in ten words: "Kansas City police,
 The man who made that happen was not a juvenile officer or a traffic cop. **Major Eugene M. Pond** was the department's chief of detectives, and he had a personal reason. "My son was a teen-age dragster," he wrote, "so I had both a personal and professional interest in providing a drag strip facility where these young hot rodders could compete without endangering lives on city streets and country roads."[^pond] A caption names the boy as Gene, 16, and says he had recently won a drag race trophy.[^pond]
 
 ## The meeting
+
 Pond's account of how it began is short and businesslike.[^pond]
 
 1. He called a meeting of the "Greater Kansas City law enforcement administrators": police chiefs, sheriffs and the heads of the Missouri and Kansas highway patrols. He presented a plan for a drag strip with "rigid rules and regulations."
@@ -23,6 +24,7 @@ Pond's account of how it began is short and businesslike.[^pond]
 This matches the May 1955 planners' survey, which had the Kansas City Timing Association working with the police and trying to lease a site in the Northeast Industrial District.[^aspo] See [What the City Planners Wrote](planners-report-1955.md).
 
 ## The month the hot rodders checked everyone else's cars
+
 Before there was a strip, Pond got the clubs to volunteer for the **National Vehicle Safety Check Program**. His figures for May 1955, as printed:[^pond]
 
 | Item | Pond's figure |
@@ -36,9 +38,11 @@ Before there was a strip, Pond got the clubs to volunteer for the **National Veh
 The hot rodders checked brakes, lights, steering, tires, exhaust, glass, wipers, mirrors and horns. Girlfriends and the wives of married members recorded the results on tally cards. The program ran with the Kansas City Safety Council, the Kansas City Timing Association and the Motor Car Dealers Association.[^pond]
 
 ## Two flat tires
-Pond leans on small stories. He relays a column by **Landon Laird** ("About Town," *The Kansas City Star*), which we have not read, about **Don Penson**, a teenage member of the Barons Club. Penson changed a tire for a woman driver and refused her $5. He said it was against his club's rules and handed her a card reading "You have been assisted by the Barons of Kansas City."[^pond] Pond says another woman wrote the paper that two youths changed her blowout in Johnson County, Kansas, and left a card signed Barry Baxter of the same club.[^pond] ◐ *Both items are Pond's retelling of newspaper pieces.*
+
+Pond leans on small stories. He relays a column by **Landon Laird** ("About Town," *The Kansas City Star*), which we have not read, about **Don Penson**, a teenage member of the Barons Club. Penson changed a tire for a woman driver and refused her $5. He said it was against his club's rules and handed her a card reading "You have been assisted by the Barons of Kansas City."[^pond] Pond says another woman wrote the paper that two youths changed her blowout in Johnson County, Kansas, and left a card signed Barry Baxter of the same club.[^pond]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The strip
+
 Pond reports these facts about the track and the money, all from his own article:[^pond]
 
 - **Site and cost.** A plot in the northeast industrial district. The facility cost **$72,000**. A contractor agreed to build it "standing one-half of the cost and without profit." Because it looked self-supporting, "no donations were accepted."
@@ -50,41 +54,62 @@ Pond reports these facts about the track and the money, all from his own article
 
 "The organization of the clubs into the Timing Association has brought all of us into a new relationship with the police," said **Ray Erickson** of the Crank Twisters. "We now have a place where we can compete under safety rules, inspection, and good sportsmanship."[^pond]
 
-Pond also describes a club discipline system: "A traffic violator is severely dealt with by his club with additional fines being levied and participation in club activities limited by suspension."[^pond] That is the same idea as the Escanaba club's 30-day suspension (see [The Cop and the Auto Shop](escanaba-dragns.md)).
-
-## From the detective's notebook: what to doubt
-- **One voice, until Round 17.** Everything above is Pond writing about his own project, in a magazine of the National Safety Council. In Round 17 we found second witnesses for the strip itself (below), but still none for the 32 clubs or the safety-check totals. ◐
-- **"No more hot rodding on the streets."** Pond says that "from the day our drag strip opened for operation, there was no more hot rodding on the streets or country roads of our area." That is a strong claim for a metro area, and it is his own statement, not a police statistic.
-- **The magazine turned.** *Public Safety* was the National Safety Council's own journal. A March 1957 wire survey reported that the council had "a few weeks ago" come out in "direct opposition to drag racing, supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).
-- **Missing facts.** Pond never names the strip. The answer turned up in a small-town paper down the road in Sedalia (next section).
+Pond also describes a club discipline system: "A traffic violator is severely dealt with by his club with additional fines being levied and participation in club activities limited by suspension."[^pond] That is the same idea as the Escanaba club's 30-day suspension (see [The Cop and the Auto Shop](escanaba-dragns.md)).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Second witnesses: a Sedalia club, the AP and the Chouteau Bridge
-*From the detective's notebook:* the best checks on Pond came from the *Sedalia Democrat*, which covered Kansas City's strip because its own hot rodders kept driving there.
+
+The best checks on Pond came from the *Sedalia Democrat*, which covered Kansas City's strip because its own hot rodders kept driving there.
 
 **June 1957: the visitors.** Members of Sedalia's Drag-On Car Club "saw safety in action" one Sunday at "the Kansas City Drag Strip," and "Many of the local boys participated." The paper described the strip as "65 feet wide and a half mile long," with the cars started "from zero to the one-fourth mile mark."[^sd57] Pond had called it 3,850 feet and "wide enough for two cars." A half mile is 2,640 feet, so the visitors' figure is a rough one. See [The Sedalia Drag-Ons](sedalia-drag-ons.md).
 
 **April 1959: the AP feature.** A story by **Ed Shook** of *The Kansas City Star*, sent out by the Associated Press and printed in Sedalia under the headline "Hot-Rod Racing Is Legal; Encouraged in Kansas City," fills in Pond's blanks:[^ap59]
 
 - **The land.** The Kansas City Southern Lines offered "a plot of land for $2 a year." A $70,000 loan, to be repaid out of the strip's profits, came from a patron group, and a contractor agreed to contribute half the cost of grading and paving. The strip "was finished two months sooner than planned."
-- **The place.** A strip of asphalt 4,850 feet long "in a lonely section of the city," near the Missouri River. ⚠ Pond's figure was 3,850 feet. One of them is probably a misprint, and the scan can't tell us which.
-- **Opening day.** "On July 15, the day the strip opened, a crowd of 18,000 persons watched as some 200 racers competed in the first trophy meet." ⚠ Pond wrote July 17, 1955; the crowd and racer counts match his. A 66-year-old motorcyclist ran 93.25 mph in his class.
+- **The place.** A strip of asphalt 4,850 feet long "in a lonely section of the city," near the Missouri River.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> Pond's figure was 3,850 feet. One of them is probably a misprint, and the scan can't tell us which.
+- **Opening day.** "On July 15, the day the strip opened, a crowd of 18,000 persons watched as some 200 racers competed in the first trophy meet."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> Pond wrote July 17, 1955; the crowd and racer counts match his. A 66-year-old motorcyclist ran 93.25 mph in his class.
 - **By 1959.** The association had 500 members and 31 registered clubs, including the **Draggin Diplomats** and the **Gear Jammers** (a Kansas City club, not [Belleville's](belleville-gear-jammers.md)). Trophy meets ran on the first and third Sundays until October; the off Sundays were for "grudge" races. The strip was open seven days a week, and 60 to 100 cars raced on an average summer night.
 - **The Dragettes.** That year "Kansas City's only all-girl hot-rod club," seven wives or sweethearts of members of other clubs, ran the concession stand, and they did some racing too.
 - **The new boss.** The president was **Lee Dorrell**, a Kansas City policeman. Pond had become chief of police at Wichita. Dorrell called the untamed show-offs "squirrels." "A true hot-rodder takes an interest in his car, keeps it looking nice and mechanically perfect," he said.
 
 **1966: still running.** A Kansas City dispatch in the *Sedalia Democrat* placed "The Kansas City Timing Association drag strip" at "Chateau Trafficway and Front Street" (the paper's spelling of Chouteau). By then it was sanctioned by the **American Hot Rod Association**, not NHRA, and it hosted the Missouri State Stock Car Championships, with St. Louisan Jim Kerby's 1965 Chevelle against the 1965 Hemi Plymouth of Biggers and Loo of Kansas City.[^sd66]
 
-**1969: the organizer's memory.** When Lee Dorrell turned up as an officer of a new strip at Sedalia, the *Democrat* wrote that he "was one of the planners and organizers of the first drag strip built in Missouri in 1955. That strip was built in Kansas City near the Chouteau Bridge and named the Kansas City Timing Association (KCTA)."[^sd69] ◐ "First in Missouri" is the paper's claim, not something we have checked. See [The Big S.I.R.](sedalia-big-sir.md). By then the big Kansas City meets had moved to a newer track, **Kansas City International Raceway** at 8201 Noland Road, where Mickey Thompson's Mach 1 Mustang held the low E.T. of 7.37 seconds in August 1969.[^kcir] See [Mickey Thompson](../companies/mickey-thompson.md).
+**1969: the organizer's memory.** When Lee Dorrell turned up as an officer of a new strip at Sedalia, the *Democrat* wrote that he "was one of the planners and organizers of the first drag strip built in Missouri in 1955. That strip was built in Kansas City near the Chouteau Bridge and named the Kansas City Timing Association (KCTA)."[^sd69]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> By then the big Kansas City meets had moved to a newer track, **Kansas City International Raceway** at 8201 Noland Road, where Mickey Thompson's Mach 1 Mustang held the low E.T. of 7.37 seconds in August 1969.[^kcir] See [Mickey Thompson](../companies/mickey-thompson.md).
 
-**1956: the story travels to California.** Kansas City's results were already being quoted far away within a year. On June 26, 1956, Mill Valley attorney Peter Behr asked the Marin County, California, supervisors to build a strip, and the paper reported that "He quoted figures from Kansas City where police recorded from 75 to 100 'disturbance calls' per month prior to the strip opening, and afterwards 'went 10 months before they had another single call.'"[^ij56] ◐ *These are Behr's figures as reported; they are not in Pond's article, and we have not found their original source. Pond's own claim was stronger and less exact ("no more hot rodding on the streets").* See [Hey! Anybody Got a Drag Strip?](marin-cotati-strips.md).
+**1956: the story travels to California.** Kansas City's results were already being quoted far away within a year. On June 26, 1956, Mill Valley attorney Peter Behr asked the Marin County, California, supervisors to build a strip, and the paper reported that "He quoted figures from Kansas City where police recorded from 75 to 100 'disturbance calls' per month prior to the strip opening, and afterwards 'went 10 months before they had another single call.'"[^ij56]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> See [Hey! Anybody Got a Drag Strip?](marin-cotati-strips.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
 <figure markdown>
 ![A long steel truss bridge across a wide river, seen from the side](../assets/images/commons-chouteau-bridge-haer-1990.jpg){ loading=lazy }
 <figcaption markdown>The old Chouteau Bridge over the Missouri River at Chouteau Trafficway, photographed in 1990 for the Historic American Engineering Record (HAER MO-93-12). In 1969 the *Sedalia Democrat* placed the 1955 strip "near the Chouteau Bridge"; this photo does not show the strip. Creator: Trey Cambern, photographer. Date: 1990. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francois_Chouteau_Bridge,_Spanning_Missouri_River_at_Chouteau_Traffic_Way,_Kansas_City,_Jackson_County,_MO_(cropped).jpg). License: Public domain.</figcaption>
 </figure>
 
-## Next leads
-The *Kansas City Star* and *Times* for July 1955, to settle July 15 or 17; Landon Laird's column; Kansas City Safety Council records for the May 1955 check campaign; when the strip closed, and when the association switched from NHRA to AHRA; and the Dragettes' own names.
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Both items are Pond's retelling of newspaper pieces.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>
+
+### What to doubt
+
+- **One voice, until Round 17.** Everything above is Pond writing about his own project, in a magazine of the National Safety Council. In Round 17 we found second witnesses for the strip itself (below), but still none for the 32 clubs or the safety-check totals. ◐
+- **"No more hot rodding on the streets."** Pond says that "from the day our drag strip opened for operation, there was no more hot rodding on the streets or country roads of our area." That is a strong claim for a metro area, and it is his own statement, not a police statistic.
+- **The magazine turned.** *Public Safety* was the National Safety Council's own journal. A March 1957 wire survey reported that the council had "a few weeks ago" come out in "direct opposition to drag racing, supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).
+- **Missing facts.** Pond never names the strip. The answer turned up in a small-town paper down the road in Sedalia (next section). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed:** **The place.** A strip of asphalt 4,850 feet long "in a lonely section of the city," near the Missouri River. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Disputed:** **Opening day.** "On July 15, the day the strip opened, a crowd of 18,000 persons watched as some 200 racers competed in the first trophy meet." <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** "First in Missouri" is the paper's claim, not something we have checked. See [The Big S.I.R.](sedalia-big-sir.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *These are Behr's figures as reported; they are not in Pond's article, and we have not found their original source. Pond's own claim was stronger and less exact ("no more hot rodding on the streets").* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>
+
+### Next leads
+
+The *Kansas City Star* and *Times* for July 1955, to settle July 15 or 17; Landon Laird's column; Kansas City Safety Council records for the May 1955 check campaign; when the strip closed, and when the association switched from NHRA to AHRA; and the Dragettes' own names. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 [^pond]: Major Eugene M. Pond, "Give the Hot Rodders a Break," *Public Safety* (National Safety Council) 48, no. 5 (May 1956). Scanned periodical, OCR text. https://archive.org/details/sim_traffic-safety_1956-05_48_5 (accessed 2026-10-15)
 [^aspo]: American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955). https://www.planning.org/pas/reports/report74.htm (accessed 2026-10-15)

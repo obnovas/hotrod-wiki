@@ -7,7 +7,7 @@
 
 His son Lee remembered how it began: Jimmy and his brother Bill worked as street-corner fender men. "They had tools in a bag, and they would go from block to block looking for cars that needed a fender repair."[^k]
 
-James Merlin Traft Summers was born **September 22, 1913**, in Lewistown, Montana, and died **October 24, 1968**.[^k] Most of what we know comes from Sondre Kvipt's interviews with his children (Lee, Kris, Karen) and family albums, published in *The Rodder's Journal* #83 (2020) and on Kustomrama.[^k] **Nearly everything below comes from that one family-sourced research project.** ◐
+James Merlin Traft Summers was born **September 22, 1913**, in Lewistown, Montana, and died **October 24, 1968**.[^k] Most of what we know comes from Sondre Kvipt's interviews with his children (Lee, Kris, Karen) and family albums, published in *The Rodder's Journal* #83 (2020) and on Kustomrama.[^k] **Nearly everything below comes from that one family-sourced research project.**<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## 7919 Melrose Avenue
 
@@ -17,11 +17,19 @@ Xydias described the customer mindset: they "did not want Summers to provide the
 
 ## What came out of the shop
 
-*Motor Life* (May 1955) credited Summers with the **first channeling job**.[^k] ◐ Shop employee **Bob "Barbells" Fairman** built a chopped '36 Ford with full fadeaway fenders, the first Xydias had seen.[^k]
+*Motor Life* (May 1955) credited Summers with the **first channeling job**.[^k]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Shop employee **Bob "Barbells" Fairman** built a chopped '36 Ford with full fadeaway fenders, the first Xydias had seen.[^k]
 
 From 1946–47 Summers sold stamped **"Summers Fender Extensions"** for 1942–48 Chevrolets, Pontiacs and junior Buicks; a 1948 Hot Rod ad lists $69.50 per primered set.[^k] *Popular Mechanics* (May 1947) reported about one hand-tailored car per week.[^k]
 
 In 1962 he built the body for Tony Nancy's dragster.[^k] And somewhere in the family albums sits his 1938 Muroc timing tag: 94.73 mph with a stock V8.[^k]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** **Nearly everything below comes from that one family-sourced research project.** <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** *Motor Life* (May 1955) credited Summers with the **first channeling job**. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
@@ -31,6 +39,7 @@ In 1962 he built the body for Tony Nancy's dragster.[^k] And somewhere in the fa
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Kustomrama, Jimmy Summers (family album photos)](https://kustomrama.com/wiki/Jimmy_Summers)

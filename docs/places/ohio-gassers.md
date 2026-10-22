@@ -16,7 +16,7 @@
 
 Hill describes the Midwest as a region of heavy industry where men "brought with them a strong love of the auto." There, "full-bodied, full-fendered vehicles were preferred for racing, first on deserted streets and rural roads, later on circle tracks and drag strips."[^ecgm]
 
-In *Hot Rod* he argues that class racing drew full grandstands "on the east side of the Rockies," while "over on the Left Coast, nitro and dragsters were tradition." He says the term **"door-slammer"** originated in the West and was "originally intended as a negative."[^hr15] ◐ *Hill's opinion as a participant-journalist.*
+In *Hot Rod* he argues that class racing drew full grandstands "on the east side of the Rockies," while "over on the Left Coast, nitro and dragsters were tradition." He says the term **"door-slammer"** originated in the West and was "originally intended as a negative."[^hr15]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 **The tracks:** the Hrudkas' circle raced at **Thompson, Dragway 42 (West Salem), [Quaker City](../drag-racing/quaker-city-salem.md) and National Trail Raceway**. In the short northern Ohio season "an ambitious racer could run 4–5 times per week."[^ecmg]
 
@@ -28,7 +28,7 @@ Jim Hill's list of the group includes Eddie Schartman, Ron Hassel, Sam Gellner, 
 
 Hassel got the street name "Ronnie Red Wheels" because he "loved to paint stock steel rims that bright color." He began with a **'56 Chevy two-door** and held "numerous NHRA class records."[^hr15]
 
-He then ran the **Hassel & Vogelsong '40 Willys** in B and C/Gas. Hill's photo shows him "during B/Gas class runs at The Nationals, 1963."[^ecgm] ⚠ *Hot Rod* says that in 1963 "he won **C/Gas** with a 1940 Willys."[^hr15] We have not seen the 1963 class-winner list.
+He then ran the **Hassel & Vogelsong '40 Willys** in B and C/Gas. Hill's photo shows him "during B/Gas class runs at The Nationals, 1963."[^ecgm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 In **1965** he left Ohio for South Florida as **sales manager for Crane Cams**. There he teamed with **Ronnie Cox** and won **B/Gas at the 1966 Nationals** in a **'48 Anglia**. The Hrudkas also loaned him their Dave Meal–built **'48 Thames "Pie Wagon"** A/Gas panel, which he ran in Florida with his own engine and transmission: high-nine-second ETs at 140 mph. Hill's photo of it is from Palm Beach International Raceway.[^ecgm][^ecmg]
 
@@ -38,23 +38,21 @@ In **1967** he returned to Cleveland "shortly after the Nationals" as **Mr. Gask
 
 Hill calls him "the notably talented Cleveland race car builder."[^ecgm] He built the Hrudkas' **'40 Willys C/Gasser**: injected small-block Chevy, four-speed, "8,000 rpm power," 11-second, 120-mph runs at Dragway 42, with the front wheels up "through first two gears." It carried an early Mr. Gasket logo.[^ecmg]
 
-In **1965** he built the A/Gas **'48 Thames panel "Pie Wagon,"** "very light, flimsy and flexy."[^ecmg]
-
-**⚠ From the detective's notebook: who built the 1968 Mr. Gasket Test Car?** It was a blown big-block Camaro, A/GS. One Hill piece says "Joe Hrudka had **Dave Meal** build" it. His Mr. Gasket history says it "was built by **Hrudka Bros.**"[^ecgm][^ecmg] Both may be true: Meal as fabricator, the Hrudkas as owners. The car "saw little racing action" before A/GS faded in favor of Funny Car match-race money.[^ecgm]
+In **1965** he built the A/Gas **'48 Thames panel "Pie Wagon,"** "very light, flimsy and flexy."[^ecmg]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ### Chuck Finders (chassis builder)
 
 His son's farewell, posted by JR Thompson, says Finders started drag racing in **1958**, made his last full run "in the 90's," and owned **CF Engineering**, "builder of Chassis and Bodies of 1933–1941 Willys."[^jrt1]
 
-The **"Dark Horse"** was a '33 Willys with a **Tim Woods** engine, painted to match **Stone-Woods-Cook** colors and "added to the SWC team to help meet booking commitments." The farewell says it was sometimes "quicker than the SWC 'A' car."[^jrt1] ◐ *Family account.*
+The **"Dark Horse"** was a '33 Willys with a **Tim Woods** engine, painted to match **Stone-Woods-Cook** colors and "added to the SWC team to help meet booking commitments." The farewell says it was sometimes "quicker than the SWC 'A' car."[^jrt1]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> *Family account.*
 
-The **"Traveler"** was the same car, rebuilt with partners **Bill Altizer and Neal Kibler**. It "set and held both speed and low ET in B/GS (**146.57 MPH in 9.76 ET**) in November 1964."[^jrt1] ◐ *No record sheet seen.*
+The **"Traveler"** was the same car, rebuilt with partners **Bill Altizer and Neal Kibler**. It "set and held both speed and low ET in B/GS (**146.57 MPH in 9.76 ET**) in November 1964."[^jrt1]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
 In **1967**, Ken Kull writes, "I had Chuck come in **from Ohio**," and says Finders built the Hill brothers' **Red Baron** in eleven days while "Pete and Bill just kept bringing him fried chicken."[^jrthill] See [Red Baron](../cars/hill-bros-red-baron.md).
 
-In the **1970s** he ran fuel Funny Cars and contended in Division 3. He lost a leg in a late-1970s racing accident. The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys.[^jrt1] ◐
+In the **1970s** he ran fuel Funny Cars and contended in Division 3. He lost a leg in a late-1970s racing accident. The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys.[^jrt1]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
-**The dates:** born **July 16, 1939**. The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009."[^jrt1] **Resolved (Round 14): May 17.** May 17, 2009, was a Sunday, and two reports were published before May 27: a UK hot rod forum thread whose first post, dated 19 May 2009, reports his death (seen only as a search excerpt; the forum blocked our fetch ◐), and BangShift's news item "Drag Racing's Chuck Finders Passes," dated May 26, 2009, which also announced a June 7 remembrance at the NHRA Museum.[^nsrauk][^bangshift] "May 27" is most likely a typo. We still haven't found a newspaper obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
+**The dates:** born **July 16, 1939**. The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009."[^jrt1] **Resolved (Round 14): May 17.** May 17, 2009, was a Sunday, and two reports were published before May 27: a UK hot rod forum thread whose first post, dated 19 May 2009, reports his death (seen only as a search excerpt; the forum blocked our fetch<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>), and BangShift's news item "Drag Racing's Chuck Finders Passes," dated May 26, 2009, which also announced a June 7 remembrance at the NHRA Museum.[^nsrauk][^bangshift] "May 27" is most likely a typo. We still haven't found a newspaper obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
 
 ### Gene Schwartz (Cleveland): E/Gas and the blues
 
@@ -72,19 +70,43 @@ Their '55 Chevy won **D/Gas at the 1962 NHRA Nationals**. Their homemade gaskets
 |---|---|
 | **Akron** | [Arlen Vanke](../people/arlen-vanke.md), Otie Smith, the Arfons brothers. See [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) |
 | **Dayton** | Jerry Ault (Ault & James Speed Shop; Model T B/Gas; '63 Corvette F/Gas). **"Ohio George" Montgomery** of George's Speed Shop ('33 Willys A/GS, Cadillac, then blown Chevy, then SOHC Ford). Montgomery was nicknamed "The Easter Bunny" because he rarely went west and "only ran at the Nationals." He won Little Eliminator at the **1960 Nationals, Detroit Dragway**, taking a Ford Falcon Ranchero as the prize. Also the Stoltz & Velasquez '40 Willys (Paul's Automotive)[^ecgm] |
-| **Mansfield** | **Virgil Cates**, "The Flying Junkman": one '33 Willys run as C/Gas, then C/Altered, with which "Cates won the NHRA World Championship Comp Eliminator title in **1965**"[^ecgm] ◐ |
+| **Mansfield** | **Virgil Cates**, "The Flying Junkman": one '33 Willys run as C/Gas, then C/Altered, with which "Cates won the NHRA World Championship Comp Eliminator title in **1965**"[^ecgm] <sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup> |
 | **Columbus** | **Gil Kirk's Rod Shop** team, later the Nationwise-Rod Shop team: Stickel & Riffle, Jim Thompson–Bob Riffle Anglias, Eckard & Kirk. **Jeg Coughlin** (JEGS; blown Hemi Austin A/GS). See [Midwest & East](midwest-east.md)[^ecgm] |
 | **Cleveland** | The Hill brothers ([Red Baron](../cars/hill-bros-red-baron.md)); the Rodriguez brothers' '56 D/Gas; Ron Hutter's "Hut's Dyno Shop"; Mickey Hart's Hart Automotive A/GS Willys; Tim McDonald's Corvette[^ecgm] |
 | **Toledo / Cincinnati** | Dick Titsworth's Seaport Automotive Anglia; Dick Weinle, racer and later owner of **Edgewater** raceway, Cleves[^ecgm] |
-| **Statewide** | **Barbara Hamilton**: "the first woman licensed by NHRA to drive a supercharged race car in competition" ('37 Willys), ECDT HOF 2004[^ecgm] ◐ *"first" is a tribute claim.* **Fred Hurst**: candy-apple-red '40 Willys, then a Barracuda and an Opel GT with Hemi power[^ecgm] |
-
-**Names:** ⚠ Hill names the Hill brothers "Pete and Bill" in his 2016 Midwest piece, matching Pete Hill's own letter on the [Red Baron](../cars/hill-bros-red-baron.md) page, but "Pete and Tom Hill" in his Mr. Gasket piece.[^ecgm][^ecmg] We use **Pete and Bill**.
+| **Statewide** | **Barbara Hamilton**: "the first woman licensed by NHRA to drive a supercharged race car in competition" ('37 Willys), ECDT HOF 2004[^ecgm] <sup class="hr-q" id="qr-9"><a href="#q-9" title="Single source so far: see Open questions">◐</a></sup> *"first" is a tribute claim.* **Fred Hurst**: candy-apple-red '40 Willys, then a Barracuda and an Opel GT with Hemi power[^ecgm] |
 
 ## The money behind class wins
 
-Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15] ◐ *Interested party; figures are his.* This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).
+Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15]<sup class="hr-q" id="qr-11"><a href="#q-11" title="Single source so far: see Open questions">◐</a></sup> This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).<sup class="hr-q" id="qr-10"><a href="#q-10" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **See also:** [Mr. Gasket](../companies/mr-gasket.md), [Eddie Schartman](../people/eddie-schartman.md), [Arlen Vanke](../people/arlen-vanke.md), [Red Baron](../cars/hill-bros-red-baron.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md), [Bob Bartel](../people/bob-bartel.md) (World Series at Cordova, where the Moody & Jones '37 Chevy also won), [Midwest & East](midwest-east.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Hill's opinion as a participant-journalist.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** *Hot Rod* says that in 1963 "he won **C/Gas** with a 1940 Willys."[^hr15] We have not seen the 1963 class-winner list. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Who built the 1968 Mr. Gasket Test Car?** It was a blown big-block Camaro, A/GS. One Hill piece says "Joe Hrudka had **Dave Meal** build" it. His Mr. Gasket history says it "was built by **Hrudka Bros.**"[^ecgm][^ecmg] Both may be true: Meal as fabricator, the Hrudkas as owners. The car "saw little racing action" before A/GS faded in favor of Funny Car match-race money.[^ecgm] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Chuck Finders (chassis builder)* rests on one source so far. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No record sheet seen.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Chuck Finders (chassis builder)* rests on one source so far. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Mansfield*: **Virgil Cates**, "The Flying Junkman": one '33 Willys run as C/Gas, then C/Altered, with which "Cates won the NHRA World Championship Comp Eliminator title in **1965**" <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Statewide*: **Barbara Hamilton**: "the first woman licensed by NHRA to drive a supercharged race car in competition" ('37 Willys), ECDT HOF 2004 *"first" is a tribute claim.* **Fred Hurst**: candy-apple-red '40 Willys, then a Barracuda and an Opel GT with Hemi power <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
+
+<a id="q-10" class="hr-q-anchor"></a>**Disputed.** **Names:** Hill names the Hill brothers "Pete and Bill" in his 2016 Midwest piece, matching Pete Hill's own letter on the [Red Baron](../cars/hill-bros-red-baron.md) page, but "Pete and Tom Hill" in his Mr. Gasket piece.[^ecgm][^ecmg] We use **Pete and Bill**. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
+
+<a id="q-11" class="hr-q-anchor"></a>**Single source so far.** *Interested party; figures are his.* <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
 
 ## Images
 
@@ -99,6 +121,7 @@ Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so mu
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [East Coast Drag Times HOF, "Gassers Midwest: Fast and Fabulous" (Jim Hill photos: Hassel, Montgomery, Cates, Schwartz, Rod Shop)](https://eastcoastdragtimeshalloffame.com/gassers-midwest-fast-and-fabulous/)

@@ -13,22 +13,38 @@
 Joe Lunati rode the city bus downtown as a kid to work at his Uncle Pete's grocery, sweated in the Kroger bakery, and raced with a Memphis car club. He ended up with his name on a line of camshafts. His family called him "the ultimate prankster": "when you saw that grin you knew something was up."[^obit]
 
 ## A Memphis kid
-His family's obituary says Joe was born in Memphis on August 7, 1935, and attended Catholic High School, and that he "grew up from very humble beginnings."[^obit] The company that now owns his brand agrees on Memphis and 1935, and says he "began drag racing with the Memphis Rodders in the early '60s."[^edel] (For the club, which dates to 1947, see [Memphis](../places/memphis.md).) ⚠ *NHRA's 2023 In Memoriam says instead that he was "Born in New Orleans, Louisiana, in 1939" and moved to Memphis in the early 1960s.[^nhra] We go with the family's account, which the company's matches. A birth record or the 1940 census would settle it.*
+
+His family's obituary says Joe was born in Memphis on August 7, 1935, and attended Catholic High School, and that he "grew up from very humble beginnings."[^obit] The company that now owns his brand agrees on Memphis and 1935, and says he "began drag racing with the Memphis Rodders in the early '60s."[^edel] (For the club, which dates to 1947, see [Memphis](../places/memphis.md).)<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Trouble Maker, Dixie Devil and a Corvair
-According to his family, his "home built and nationally known race cars, Trouble Maker and Dixie Devil," won him "5 NHRA national Champion titles, 9 class speed records, and 2 U.S. National Wins."[^obit] The company says he was a "five-time NHRA national champion title holder in AM/SP" who put himself on the map by winning Indy in 1964 in "his unique Devin drag car."[^edel] ⚠ *NHRA says "three-time." Its national records would show which count is right.*[^nhra]
+
+According to his family, his "home built and nationally known race cars, Trouble Maker and Dixie Devil," won him "5 NHRA national Champion titles, 9 class speed records, and 2 U.S. National Wins."[^obit] The company says he was a "five-time NHRA national champion title holder in AM/SP" who put himself on the map by winning Indy in 1964 in "his unique Devin drag car."[^edel]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The local papers show him on the road. On Easter Sunday 1966, a Sikeston, Mo., paper advertised "JOE LUNATI'S 1966 427 CORVAIR" against the Kingfish, a blown Barracuda, at the old air base strip in [Malden, Missouri](../drag-racing/semo-malden-drag-strip.md). Hundreds came. The Kingfish won the first run, and "Joe Lunati tore up his differential while warming up for the second race."[^sk660408][^sk660412]
 
 ## The cam shop
-By day he rebuilt production engines. In the evenings, the company says, he experimented "with different cam grinds using the shop's cam grinder and found his calling." "In 1968, Lunati made the leap to open his own cam shop," and by 1970 it was serving "weekend sportsman drag racers and local Memphis area circle track racers." Crankshafts, rods and pistons followed.[^edel] ⚠ *His family dates it to 1969: "Joe founded Lunati Cams in 1969, later Lunati Crankshaft and Lunati Taylor Pistons."[^obit]* By the mid-1990s he sold the company to Holley. It went to COMP Performance Group in 2007, and in 2023 it became Edelbrock Group's sixth "power brand."[^edel] COMP, another Memphis cam maker, has its own Memphis roots; see [COMP Cams and RHS](../companies/comp-cams-rhs.md).
 
-He kept racing go-karts with his children and won a World Karting Association Mechanic of the Year award. He also kept going to the Memphis Rodders reunions "until his health declined."[^obit][^edel] He died in Germantown, Tenn., on September 13, 2023, at 88. His family's last word on him was local: "He was a cornerstone in the Memphis drag racing history."[^obit]
+By day he rebuilt production engines. In the evenings, the company says, he experimented "with different cam grinds using the shop's cam grinder and found his calling." "In 1968, Lunati made the leap to open his own cam shop," and by 1970 it was serving "weekend sportsman drag racers and local Memphis area circle track racers." Crankshafts, rods and pistons followed.[^edel]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> By the mid-1990s he sold the company to Holley. It went to COMP Performance Group in 2007, and in 2023 it became Edelbrock Group's sixth "power brand."[^edel] COMP, another Memphis cam maker, has its own Memphis roots; see [COMP Cams and RHS](../companies/comp-cams-rhs.md).
 
-*From the detective's notebook:* Lunati's story runs from a 1947 car club to a Bootheel air base to a cam shop selling to local oval racers. That's the kind of grassroots-to-industry thread this wiki follows. The ⚠ marks show how even 2023 obituaries can disagree on basics.
+He kept racing go-karts with his children and won a World Karting Association Mechanic of the Year award. He also kept going to the Memphis Rodders reunions "until his health declined."[^obit][^edel] He died in Germantown, Tenn., on September 13, 2023, at 88. His family's last word on him was local: "He was a cornerstone in the Memphis drag racing history."[^obit]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
 
-## Next leads
-Lunati's 1964 Indy win and AM/SP records in *National Dragster*; the *Commercial Appeal* on Trouble Maker and Dixie Devil; the shop he worked in before 1968; a Memphis Rodders reunion account; a birth record to settle Memphis vs. New Orleans.
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** *NHRA's 2023 In Memoriam says instead that he was "Born in New Orleans, Louisiana, in 1939" and moved to Memphis in the early 1960s.[^nhra] We go with the family's account, which the company's matches. A birth record or the 1940 census would settle it.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** *NHRA says "three-time." Its national records would show which count is right.*[^nhra] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** *His family dates it to 1969: "Joe founded Lunati Cams in 1969, later Lunati Crankshaft and Lunati Taylor Pistons."[^obit]* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Open question.** Lunati's story runs from a 1947 car club to a Bootheel air base to a cam shop selling to local oval racers. That's the kind of grassroots-to-industry thread this wiki follows. The ⚠ marks show how even 2023 obituaries can disagree on basics. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>
+
+### Next leads
+
+Lunati's 1964 Indy win and AM/SP records in *National Dragster*; the *Commercial Appeal* on Trouble Maker and Dixie Devil; the shop he worked in before 1968; a Memphis Rodders reunion account; a birth record to settle Memphis vs. New Orleans. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Sources
 

@@ -26,8 +26,12 @@ The wire writer added a one-sentence definition for readers who did not know one
 
 Glen Cove had been a name in this story before. In 1955 a city-planners' survey described a Long Island association of 19 clubs whose races were supervised by a Glen Cove traffic patrolman, with a city street blocked off for them until the association got a strip (see [What the City Planners Wrote](planners-report-1955.md)). In June 1957 the recreation directors' magazine listed Glen Cove among the towns where local groups had sponsored clubs and strips (see [Would You Rather Have a Picnic?](recreation-1957-pro-and-con.md)).
 
-So when the town's police chief told a statewide audience that regulating hot rodders would be "just picking on the kids," he was speaking from a town that had spent years working with them.
+So when the town's police chief told a statewide audience that regulating hot rodders would be "just picking on the kids," he was speaking from a town that had spent years working with them.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
-**From the detective's notebook: what we could not find.** The story names no sponsor of the panel beyond the Association of Towns convention and gives no vote or resolution. We looked for a state law to match the sheriff's proposals and found none in what we read. We have not read the *Record-Pilot* of Glen Cove, which would be the place to learn what the chief's town actually did. ◐
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** **What we could not find.** The story names no sponsor of the panel beyond the Association of Towns convention and gives no vote or resolution. We looked for a state law to match the sheriff's proposals and found none in what we read. We have not read the *Record-Pilot* of Glen Cove, which would be the place to learn what the chief's town actually did. ◐ <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^kf570214]: "Opinions Differ on Hot Rods" (Buffalo, N.Y., Feb. 14 wire story), *Kingston Daily Freeman*, Feb. 14, 1957 (OCR of the scanned issue). https://archive.org/details/kingston-daily-freeman-1957-02-14 (accessed 2026-10-18)

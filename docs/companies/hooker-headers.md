@@ -22,13 +22,11 @@ He was working for General Dynamics as an electronics technician, "around age 20
 
 The story that follows is Hooker's own. Before racing the car he took it to **Jack Bayer** to be dyno-tuned, where Bayer had just finished testing a customer's car with the same motor. Hooker's made more horsepower. "Jack said to me, 'It's got to be those headers,'" Hooker recalled, and asked for a set. "I told him, 'No, those are the only ones I've made. But if you give me a ride home, we can take the headers off my car and put them on your 409.'" That night, with Hooker's headers, the customer's car "raced a couple of mph faster and a tenth quicker." "I more or less went into business right then," he said.[^hof]
 
-He sold the car to buy equipment and, "while still living at home," made headers. In 1964 he rented a small shop and a racer, **Elwin Westbrook**, shared the space, building race cars while Hooker built headers. Within a few months, Hooker said, "six of the top 10 Super Stock racers had my headers."[^hof] (Hagerty repeats the claim, probably from the same source.)[^hag] ◐ We have not seen a contemporary Super Stock list.
+He sold the car to buy equipment and, "while still living at home," made headers. In 1964 he rented a small shop and a racer, **Elwin Westbrook**, shared the space, building race cars while Hooker built headers. Within a few months, Hooker said, "six of the top 10 Super Stock racers had my headers."[^hof] (Hagerty repeats the claim, probably from the same source.)[^hag]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Around then he had a booth at the first SEMA Show. His wife, Gail, was eight months pregnant and worked the table; they had no catalogs. "We weren't really even in business," Hooker said. "We went by the finance company and borrowed money so we could go to the show."[^hof] That show is described on the wiki's [Dick Wells page](../people/dick-wells.md) and on [Crane Cams](crane-cams.md).
+Around then he had a booth at the first SEMA Show. His wife, Gail, was eight months pregnant and worked the table; they had no catalogs. "We weren't really even in business," Hooker said. "We went by the finance company and borrowed money so we could go to the show."[^hof] That show is described on the wiki's [Dick Wells page](../people/dick-wells.md) and on [Crane Cams](crane-cams.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**⚠ From the detective's notebook: when and where?** Hooker's own site says that "the Hooker legacy began in 1962 in Sioux City, Iowa," when Gary "designed a custom header for his own 1962 Chevrolet 409."[^site] SEMA says his story began in Sioux City, that the family moved to Pomona when he was about five, and that he made the headers as a young adult working in Southern California, with his first rented shop in **1964**.[^hof] *Mopar Connection* says the company was "founded in 1962" and "located in South Ontario, CA."[^mc] The best reading is that the 409 and the first headers date to 1962 and the business to 1964, and the Iowa line is a muddle of birth and founding. The company site is the odd one out.
-
-In the summer of 1965 he rented a bigger shop, but "faulty welding cylinders exploded one night, and it burned to the ground." He had no insurance. His neighbor **Bill Casler**, "already known for his racing slicks," "came to my rescue and we formed a partnership. He put in money and bought half the business." He also hired **Gil George**, who "knocked on Hooker's door asking for a job"; the two designed and built headers for "rich guys" who "would drive their Jeeps out in the morning," charging $150 and "done by noon."[^hof] From 1966 to 1969, SEMA says, Hooker Headers "grew from a $100,000 business to $3 million."[^hof] ⚠ Hagerty puts the $3 million mark at "By 1970."[^hag]
+In the summer of 1965 he rented a bigger shop, but "faulty welding cylinders exploded one night, and it burned to the ground." He had no insurance. His neighbor **Bill Casler**, "already known for his racing slicks," "came to my rescue and we formed a partnership. He put in money and bought half the business." He also hired **Gil George**, who "knocked on Hooker's door asking for a job"; the two designed and built headers for "rich guys" who "would drive their Jeeps out in the morning," charging $150 and "done by noon."[^hof] From 1966 to 1969, SEMA says, Hooker Headers "grew from a $100,000 business to $3 million."[^hof]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 His explanation for the growth is plain: "I think I was successful because I changed early on from having an emphasis on racing to an emphasis on building the product. It was always a customer-driven company."[^hof]
 
@@ -40,14 +38,32 @@ So a Pomona kid's headers rode on an Akron backyard builder's Duster. Both stori
 
 ## What it became
 
-SEMA says Hooker sold the business to Holley Performance Products in **2000**; Hagerty agrees. The Pennsylvania historical marker for Holley, by contrast, says the roll-up came in "the 1990s." ⚠ See [Holley](holley.md). The brand's site calls Hooker "the first header manufacturer to receive a CARB E.O. (California Air Resources Board Executive Order) exemption" ◐, a firm's own claim.[^site] Gary Hooker says the Hall of Fame honor is "a salute to those people who worked together each day," and calls it "collaborating energy."[^hof] ⚠ Hagerty says SEMA inducted him in **2012**; SEMA's page is headed 2016.[^hag][^hof]
+SEMA says Hooker sold the business to Holley Performance Products in **2000**; Hagerty agrees. The Pennsylvania historical marker for Holley, by contrast, says the roll-up came in "the 1990s."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> The brand's site calls Hooker "the first header manufacturer to receive a CARB E.O. (California Air Resources Board Executive Order) exemption"<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>, a firm's own claim.[^site] Gary Hooker says the Hall of Fame honor is "a salute to those people who worked together each day," and calls it "collaborating energy."[^hof]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Connect the dots
 
 - [Arlen Vanke](../people/arlen-vanke.md): the Akron racer whose 1970 Division Three title Hooker's ad saluted.
 - [Pomona's Choppers & the Fontana Strip](../drag-racing/pomona-choppers-fontana.md): Hooker's hometown, whose 1951 police-chief story is documented there; the tie is place only.
-- [Holley](holley.md): the owner since 2000 (or the 1990s ⚠).
+- [Holley](holley.md): the owner since 2000 (or the 1990s<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>).
 - [Crane Cams](crane-cams.md) and [Dick Wells](../people/dick-wells.md): the 1967 first trade show where Hooker, like Crane, set up a booth.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not seen a contemporary Super Stock list. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When and where?** Hooker's own site says that "the Hooker legacy began in 1962 in Sioux City, Iowa," when Gary "designed a custom header for his own 1962 Chevrolet 409."[^site] SEMA says his story began in Sioux City, that the family moved to Pomona when he was about five, and that he made the headers as a young adult working in Southern California, with his first rented shop in **1964**.[^hof] *Mopar Connection* says the company was "founded in 1962" and "located in South Ontario, CA."[^mc] The best reading is that the 409 and the first headers date to 1962 and the business to 1964, and the Iowa line is a muddle of birth and founding. The company site is the odd one out. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** Hagerty puts the $3 million mark at "By 1970."[^hag] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** See [Holley](holley.md). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** The marked point in *What it became* rests on one source so far. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Disputed.** Hagerty says SEMA inducted him in **2012**; SEMA's page is headed 2016.[^hag][^hof] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>**Disputed:** [Holley](holley.md): the owner since 2000 (or the 1990s ). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 [^hof]: "HOF - Gary Hooker," SEMA Hall of Fame, 2016. https://www.sema.org/hof/2016/gary-hooker (accessed 2026-10-16)
 [^mc]: Chris Holley, "Gallery: Hooker Headers Production Pipes Propel Akron Arlen," *Mopar Connection Magazine*, Feb 13, 2023. https://moparconnectionmagazine.com/hooker-headers-production-pipes-propel-akron-arlen/ (accessed 2026-10-16)

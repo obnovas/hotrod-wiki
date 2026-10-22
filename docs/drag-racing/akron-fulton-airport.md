@@ -26,11 +26,11 @@ The marker was erected by the Akron Airport Racing Pioneers and The Ohio History
 
 ## The 2016 dedication
 
-OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**." ◐ *Event-publicity claim, echoed by NHRA's 2017 Vanke obituary (see [Arlen Vanke](../people/arlen-vanke.md)); we have no NHRA sanction list to check it.* Vanke's biographers call the field "Akron Municipal Airport." It credited the marker drive to **Randy Lipscomb** of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. **Mary Taylor** was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac]
+OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Vanke's biographers call the field "Akron Municipal Airport." It credited the marker drive to **Randy Lipscomb** of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. **Mary Taylor** was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac]
 
 Lipscomb: "This is the spot where these local heroes became drag racing innovators back in the 50's and 60's... we believe that honoring these racing pioneers is long overdue."[^oac]
 
-**Land-speed footnote, per the same piece:** Walt's *Wingfoot Express*, driven by **Tom Green**, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached **576.553 mph** in 1965.[^oac] ◐ *Figures as given in the 2016 report; not checked against FIA lists this round.*
+**Land-speed footnote, per the same piece:** Walt's *Wingfoot Express*, driven by **Tom Green**, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached **576.553 mph** in 1965.[^oac]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Otis "Otie" Smith (1919/20–2014)
 
@@ -40,7 +40,7 @@ Smith was "an avowed lifelong car nut" who drove his father's '29 Model A before
 
 Burgess calls him "an early supporter of NHRA, running the regional in his hometown before the Nationals was even established." He raced across the Midwest and traveled to Florida, Maine and California, with "about 100 NHRA events in his 13-year career" by his own estimate.[^nhra]
 
-In **1959** he won **Middle Eliminator at the NHRA Nationals in Detroit** in "a very cool supercharged '23-T."[^nhra] ⚠ The marker calls this "the National Hot Rod Association's 1959 championship." It was an eliminator title at the Nationals, which NHRA then promoted as its national championship meet. We keep NHRA's wording.
+In **1959** he won **Middle Eliminator at the NHRA Nationals in Detroit** in "a very cool supercharged '23-T."[^nhra]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> It was an eliminator title at the Nationals, which NHRA then promoted as its national championship meet. We keep NHRA's wording.
 
 He was the first president of the **Cam Jammers** car club of Akron (marker).[^ro] He ran **Otie's Automotive Specialties** in Akron for 33 years, until 1988 (NHRA). OnAllCylinders says Otie's Automotive was in **Kenmore**, an Akron neighborhood.[^nhra][^oac]
 
@@ -54,6 +54,16 @@ Akron belongs alongside the other early airport strips of the Midwest and East: 
 
 **See also:** [Arlen Vanke](../people/arlen-vanke.md), [The Ohio Gassers](../places/ohio-gassers.md), [Midwest & East](../places/midwest-east.md), [Bob Bartel](../people/bob-bartel.md), [Santa Ana drags](../eras/1950s-santa-ana-drags.md) (the California airport model).
 
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Event-publicity claim, echoed by NHRA's 2017 Vanke obituary (see [Arlen Vanke](../people/arlen-vanke.md)); we have no NHRA sanction list to check it.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Figures as given in the 2016 report; not checked against FIA lists this round.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** The marker calls this "the National Hot Rod Association's 1959 championship." <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
 ## Images
 
 <figure markdown>
@@ -62,6 +72,7 @@ Akron belongs alongside the other early airport strips of the Midwest and East: 
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [HMdb marker 142783 photos](https://www.hmdb.org/m.asp?m=142783)

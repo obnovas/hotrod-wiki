@@ -20,9 +20,7 @@ It explains "kemp" as late-'50s teen slang for a car that gained national exposu
 
 ## The first Lead Sled Spectacular (1981)
 
-**⚠ Turnout:** "Four hundred customs, some old, some new, cruised in from all over the country" (Hot Rod, Dec 1981).[^hr81] "Over 300" (KKOA) and "300-plus" (Hot Rod, May 1983).[^kk][^hr83]
-
-**Street Rodder** (editor Geoff Carter) and Tex Smith attended. The KKOA calls Street Rodder's national coverage "highly unusual those days for a street rodding mag."[^kk]
+**Street Rodder** (editor Geoff Carter) and Tex Smith attended. The KKOA calls Street Rodder's national coverage "highly unusual those days for a street rodding mag."[^kk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The 1981 Hot Rod piece framed the revival as a response to the energy crisis: "If we can't bring back 29-cent gas and 110 octane from the 50s, let's bring back the ultimate cruisemobile... built for comfort, not for speed." It singles out Eldon Titus of Wichita's '49 Buick, with a molded grille and '55 Chevy headlights in candy red.[^hr81]
 
@@ -33,6 +31,12 @@ In 1982 at the Des Moines fairgrounds, turnout roughly doubled. Hot Rod noted a 
 The revival was born in **Kansas and Iowa**, not Southern California. It was nostalgia-driven and self-consciously low-buck ("easy, fun, and relatively inexpensive," Hot Rod 1983). It brought back the KKOA's founding generation of builders (Starbird, Barris, Bailon, Winfield, the Alexander Brothers) as guests of honor.[^kk][^hr83]
 
 Compare the NSRA's [1948-and-older line](../street-rodding/nsra-early-nationals.md). Both groups drew a calendar boundary around what counts.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Turnout:** "Four hundred customs, some old, some new, cruised in from all over the country" (Hot Rod, Dec 1981).[^hr81] "Over 300" (KKOA) and "300-plus" (Hot Rod, May 1983).[^kk][^hr83] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 
@@ -47,6 +51,7 @@ Compare the NSRA's [1948-and-older line](../street-rodding/nsra-early-nationals.
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [Hot Rod, "Lead Sleds" (Dec 1981)](https://www.hotrod.com/features/lead-sleds-december-1981-982-1180-39-1)

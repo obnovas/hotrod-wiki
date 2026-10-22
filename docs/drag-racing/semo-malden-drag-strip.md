@@ -11,6 +11,7 @@
 Malden, Missouri, is a small town in the Bootheel, the state's southeastern corner. It had an Air Force flight school until 1960. A year after the last class of pilots left, local drag racers and the Jaycees had a quarter-mile marked out on the back runway, and within a year Memphis cars were driving up to collect the trophies.
 
 ## The airfield
+
 The field opened as **Malden Army Airfield** in January 1943 and was handed to local government in 1948. In 1951 it was reopened as **Malden Air Base**, where a civilian contractor trained Air Force pilots, and the last class finished on June 29, 1960. Today it is the city-owned Malden Regional Airport, with two runways of about 5,000 feet.[^wikimalden] By the fall of 1961 the paper was describing the base buildings as "the property of the City of Malden."[^sk610928]
 
 <figure markdown>
@@ -19,37 +20,62 @@ The field opened as **Malden Army Airfield** in January 1943 and was handed to l
 </figure>
 
 ## Opening day (July 30, 1961)
+
 The *Sikeston Daily Standard* announced that "the first running of the S.E. Mo Drag Strip at Malden" would be at noon on Sunday, July 30, 1961. It was sponsored by the **Southeast Missouri Dragsters** and the **Malden Junior Chamber of Commerce**, on "a 3,000-foot runway on the back of the Malden Air Base," reached by a turnoff one mile north of the main base gate on Highway 25. At first only stock and super stock cars would race. Drivers had to be at least 16, and "all spectators and participators will be completely covered by insurance."[^sk610728]
 
-By August the strip was running alongside a destruction derby at Malden Speedway,[^sk610805] and drivers were coming from out of state. A mid-August report had Ron Dent of Mascoutah, Illinois, east of St. Louis, taking top honors with a B dragster.[^sk610815][^sk610911] ◐ *The OCR of these results is garbled; we take only the name and town.*
+By August the strip was running alongside a destruction derby at Malden Speedway,[^sk610805] and drivers were coming from out of state. A mid-August report had Ron Dent of Mascoutah, Illinois, east of St. Louis, taking top honors with a B dragster.[^sk610815][^sk610911]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The Memphis summer (1962)
+
 The track ran again in the spring of 1962 as the "SEMO Drag Strip, Malden Air Base."[^sk620421] On July 22, 1962, 97 cars entered and 43 trophies were given. Top eliminator was **Bill Taylor of Memphis** in an AA dragster. Little eliminator was **Kenneth McKee of Memphis** in a B gas Willys "with a Chevy power plant." Middle eliminator went to **Al and Calvin Hartsfield** of South Side Oil in Malden, and stock eliminator to Andy French of Bertrand in a 1961 Dodge. Sixteen Sikeston-area drivers took trophies home, including Wade's Body Shop of Sikeston in C altered with "a 365 Chevy mill in a '39 Ford."[^sk620723] In late August the paper billed the meet as the "Malden Jaycee Drag Races."[^sk620827]
 
 The Memphis names matter. Memphis had its own drags at an old bomber base at Halls and, from 1960, at Lakeland Dragway (see [Memphis](../places/memphis.md)). Malden is a few hours' drive north. A Sunday at an unfamiliar strip was worth the drive for a Memphis racer, and it made the Bootheel part of a Mid-South circuit.
 
 ## Prize money and a final race (1963–64)
+
 The 1963 season opened in April with too few cars for two of the five classes. The $100 top stock eliminator prize went to Andy French, now of Oran, "and his Dodge with a 426 cu. in. motor," and $40 to the Hartsfield brothers.[^sk630409] At the last meet of 1964, **Jim Satterfield of Sikeston** won top eliminator in "a 1949 Chevy powered Angelia" (that is, an English Ford Anglia), two straight in a best-of-three, for $75 and a trophy, with an 11.75-second E.T. A Memphis racer brought a Chevy-powered station wagon to "take on all challengers."[^sk641028]
 
 ## NHRA and the Jaycees (1965)
-The 1965 opening-day ad read: "SEMO DRAGSTRIP Malden Air Base, Malden, Mo. NHRA SANCTIONED - SPONSORED BY JAYCEES," for Sunday, April 11, with trophies to all class winners and a rain phone number. The featured car was a Tennessee AA fuel dragster. ◐ *The scan reads "La;. Hodman's Rouble A Fuel Dragster, The Tennessee IV-Weevil," which looks very much like Memphis racer Ray Godman's Bo-Weevil, but we cannot read it cleanly.*[^sk650409]
+
+The 1965 opening-day ad read: "SEMO DRAGSTRIP Malden Air Base, Malden, Mo. NHRA SANCTIONED - SPONSORED BY JAYCEES," for Sunday, April 11, with trophies to all class winners and a rain phone number. The featured car was a Tennessee AA fuel dragster.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Easter 1966: the Kingfish and Joe Lunati's Corvair
+
 The Easter 1966 ad went big: "MALDEN DRAG STRIP EASTER SUNDAY JOE LUNATI'S 1966 427 CORVAIR" against "THE KINGFISH BLOWN BARRACUDA." The Sunday before, it said, Larry Reyes had run the Lakeland strip in Memphis in 9.02 seconds at 157 miles per hour for a new track record, then come back and run so hard the car stood straight up on its back bumper. "This Sunday at Malden I may take off for the moon!" Reyes promised. The strip was "Located on North Side of the Malden Airport."[^sk660408]
 
-Hundreds came. Time trials ran until 2:30 because of the turnout, and fans were warned to get behind the starting line "because of the danger of an engine blowing up." In the first run the Kingfish beat the Corvair to the line. Then "Joe Lunati tore up his differential while warming up for the second race," so Reyes ran alone. On his next pass he broke two strip records for his class, best E.T. and top speed.[^sk660412] ◐ *The report calls the strip "Lakeland Drag Strip at Malden," probably mixing it up with the Memphis track.* Joe Lunati was the Memphis racer who founded [Lunati Cams](../people/joe-lunati.md) a few years later.
+Hundreds came. Time trials ran until 2:30 because of the turnout, and fans were warned to get behind the starting line "because of the danger of an engine blowing up." In the first run the Kingfish beat the Corvair to the line. Then "Joe Lunati tore up his differential while warming up for the second race," so Reyes ran alone. On his next pass he broke two strip records for his class, best E.T. and top speed.[^sk660412]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Joe Lunati was the Memphis racer who founded [Lunati Cams](../people/joe-lunati.md) a few years later.
 
-A month later the ad was Ford vs. Chevy: Chester Andrews' injected fuel-burning Mustang from Orange, Texas (9.98 at 134.56) against Jim Kirby's fuel Chevy II from Festus, Mo., three out of five, with $50 eliminator purses and a $15 bike eliminator. "For further information call: Jim New … Risco, Mo." The ad also promised "The Teleflex Trick Truck Is Coming To Malden Drag Strip Soon."[^sk660506] ◐ *Jim New is the first contact person we've found in a Malden ad; we don't yet know his role.*
+A month later the ad was Ford vs. Chevy: Chester Andrews' injected fuel-burning Mustang from Orange, Texas (9.98 at 134.56) against Jim Kirby's fuel Chevy II from Festus, Mo., three out of five, with $50 eliminator purses and a $15 bike eliminator. "For further information call: Jim New … Risco, Mo." The ad also promised "The Teleflex Trick Truck Is Coming To Malden Drag Strip Soon."[^sk660506]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-In June a trick truck did come (◐ whether it was the Teleflex truck the ad promised is not stated): about 500 people watched Dick Belletti's "Trick Truck" try to do a wheelstand the whole quarter mile, "a feat never before done at the Malden Drag Strip." On his last run he came down about 600 feet short. The same day's results list a "Batman A-Go-Go" car and a Sikeston street racer billed only as "Mr. X."[^sk660627] ◐ *The paper spells him "Beltetti."* ## Easter 1966: the Kingfish and Joe Lunati's Corvair
+In June a trick truck did come<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>: about 500 people watched Dick Belletti's "Trick Truck" try to do a wheelstand the whole quarter mile, "a feat never before done at the Malden Drag Strip." On his last run he came down about 600 feet short. The same day's results list a "Batman A-Go-Go" car and a Sikeston street racer billed only as "Mr. X."[^sk660627]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> ## Easter 1966: the Kingfish and Joe Lunati's Corvair
 
 ## Still running (1970–71)
+
 In October 1970 the strip was still holding "a big altered meet" with $150 for the first-round winner.[^sk701028] Its last meet of that season, at "The Malden Dragstrip on Highway 25 North," paid $200, $100 and $50 by round; admission was $2.[^sk701114] In March 1971 the paper reported that "Southeast Missouri's drag racing season gets started at the Dragstrip Sunday as the strip opens its gates for a big racing season under the sanction of the American Hot Rod Association."[^sk710312] By then the NHRA sanction of 1965 had given way to the AHRA.
 
-*From the detective's notebook:* Malden fits the pattern of the old-airfield strips: a town that suddenly owned a lot of empty concrete, and a civic club willing to take the insurance risk. Compare [Akron's Fulton Airport](akron-fulton-airport.md), [Cotati](marin-cotati-strips.md) and the [Pocono strips](pocono-strips.md).
+Malden fits the pattern of the old-airfield strips: a town that suddenly owned a lot of empty concrete, and a civic club willing to take the insurance risk. Compare [Akron's Fulton Airport](akron-fulton-airport.md), [Cotati](marin-cotati-strips.md) and the [Pocono strips](pocono-strips.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
-## Next leads
-The Southeast Missouri Dragsters' officers; Jim New of Risco (1966 contact); the *Dunklin Democrat* (Kennett) and Malden's own paper; when racing at the base ended (after 1971); a 1970 news item about a "dragstrip area" north of Miner, Mo.; a firsthand account of the Memphis racers' Bootheel trips; which runway was the strip.
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The OCR of these results is garbled; we take only the name and town.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *The scan reads "La;. Hodman's Rouble A Fuel Dragster, The Tennessee IV-Weevil," which looks very much like Memphis racer Ray Godman's Bo-Weevil, but we cannot read it cleanly.*[^sk650409] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *The report calls the strip "Lakeland Drag Strip at Malden," probably mixing it up with the Memphis track.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Jim New is the first contact person we've found in a Malden ad; we don't yet know his role.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** Whether it was the Teleflex truck the ad promised is not stated <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *The paper spells him "Beltetti."* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>
+
+### Next leads
+
+The Southeast Missouri Dragsters' officers; Jim New of Risco (1966 contact); the *Dunklin Democrat* (Kennett) and Malden's own paper; when racing at the base ended (after 1971); a 1970 news item about a "dragstrip area" north of Miner, Mo.; a firsthand account of the Memphis racers' Bootheel trips; which runway was the strip. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 ## Sources
 

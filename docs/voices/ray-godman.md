@@ -29,19 +29,25 @@ Raymond Godman (Memphis) ran the **Tennessee Bo-Weevil** cars, co-founded Lakela
 >
 > — **Preston Davis**, 2014.[^nh]
 
-## From the detective's notebook
-
-⚠ **Halls start year.** NHRA's 2014 narration says the Rodders began racing at Halls in **1953**, and that they bought Chrondek timers, set up the track for a Sunday of racing, then tore it down and held their club meeting that evening. Memphis Tech's history says the first sanctioned meet was in 1955.[^nh]
-
-⚠ **Drag Safari month.** NHRA says the Safari came "in the summer of 1955, just before the first Nationals in Great Bend." SEMA, citing Hot Rod (Dec 1955), describes a "September weekend." The first Nationals were in September 1955, so the two accounts do not agree.[^nh]
-
 ## A fan's memory: Lakeland, 2008
 
-On Feb 25, 2008, a Memphis Rodders blogger (signed "LK") reacted to a *Commercial Appeal* feature on Lakeland's redevelopment:
+On Feb 25, 2008, a Memphis Rodders blogger (signed "LK") reacted to a *Commercial Appeal* feature on Lakeland's redevelopment:<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 > "Does anyone remember that Lakeland was actually out in the boondocks when it was an active racetrack? … Note the packed bleachers in the shot above, or the humanity hanging off the crossover bridge as 'Big Daddy' smokes in the starting line somewhere around 1975 (if my memory serves me.)"
 >
 > — **"LK," Memphis Rodders site**, 2008.[^tl] He flags his own memory as uncertain.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### More from the notebook
+
+⚠ **Halls start year.** NHRA's 2014 narration says the Rodders began racing at Halls in **1953**, and that they bought Chrondek timers, set up the track for a Sunday of racing, then tore it down and held their club meeting that evening. Memphis Tech's history says the first sanctioned meet was in 1955.[^nh]
+
+⚠ **Drag Safari month.** NHRA says the Safari came "in the summer of 1955, just before the first Nationals in Great Bend." SEMA, citing Hot Rod (Dec 1955), describes a "September weekend." The first Nationals were in September 1955, so the two accounts do not agree.[^nh] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^nh]: NHRA.com, "The Tennessee Bo-Weevil" (2014). https://www.nhra.com/news/2014/tennessee-bo-weevil (accessed 2026-10-13)
 [^bs]: Brian Lohnes, "Pioneering Drag Racing Legend Raymond Godman Has Died," BangShift, Jan 3, 2018. https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/ (accessed 2026-10-13)

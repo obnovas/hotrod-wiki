@@ -27,15 +27,7 @@ NHRA's retrospective (2021) says Hot Rod's August 1955 issue announced Great Ben
 
 **Inspections.** NHRA's tech team disqualified several winners, mostly in Stock classes. In one class "the first three finishers were found to be running 'out of class.'"[^nhra]
 
-**Ties to our other pages.** NHRA lists Howard Johansen as "C" Gas Coupe class winner (see [Howard Johansen](../people/howard-johansen.md)) and Raymond Godman as "A" Modified Roadster winner (see [Ray Godman](../voices/ray-godman.md)).[^nhra]
-
-### ⚠ Discrepancies
-
-*From the detective's notebook: one likely typo and two meanings of "first."*
-
-**Fastest speed.** The SRCA page says Art Chrisman ran **146.16** mph; NHRA's retrospective says his second run "netted a speed of 145.16 mph." Both say Lloyd Scott later reached 151 mph.[^srca][^nhra] One is likely a typo.
-
-**"First."** The Tribune says "the first NHRA drag race" and "birthplace of drag racing." NHRA's own retrospective says "first national event," and a separate NHRA feature credits Pomona with "the first NHRA-sanctioned event" in April 1953 (see [Pomona's Choppers](pomona-choppers-fontana.md)). These are different claims.[^gbt][^nhra][^pom]
+**Ties to our other pages.** NHRA lists Howard Johansen as "C" Gas Coupe class winner (see [Howard Johansen](../people/howard-johansen.md)) and Raymond Godman as "A" Modified Roadster winner (see [Ray Godman](../voices/ray-godman.md)).[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## What kept it going
 
@@ -50,6 +42,20 @@ The Tribune calls it a "National Hot Rod Association member city-leased track" a
 ![USGS orthophoto of Great Bend Municipal Airport (the former Army airfield), 2006. We have ](../assets/images/commons-great-bend-airport-usgs-2006.jpg){ loading=lazy }
 <figcaption markdown>USGS orthophoto of Great Bend Municipal Airport (the former Army airfield), 2006. We have not identified the drag strip in this image. Creator: United States Geological Survey (USGS). Date: 2006. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_Bend_Municipal_Airport_KS_2006_USGS.jpg). License: Public domain.</figcaption>
 </figure>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### ⚠ Discrepancies
+
+*One likely typo and two meanings of "first."*
+
+**Fastest speed.** The SRCA page says Art Chrisman ran **146.16** mph; NHRA's retrospective says his second run "netted a speed of 145.16 mph." Both say Lloyd Scott later reached 151 mph.[^srca][^nhra] One is likely a typo.
+
+**"First."** The Tribune says "the first NHRA drag race" and "birthplace of drag racing." NHRA's own retrospective says "first national event," and a separate NHRA feature credits Pomona with "the first NHRA-sanctioned event" in April 1953 (see [Pomona's Choppers](pomona-choppers-fontana.md)). These are different claims.[^gbt][^nhra][^pom] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^srca]: SRCA Dragstrip, "About Us." https://www.srcadragstrip.com/about-us (accessed 2026-10-15)
 [^gbt]: "1955: Back to where it all began," Great Bend Tribune (2011, Hot Rod Drag Week preview). https://www.gbtribune.com/sports/local_sports/1955-back-to-where-it-all-began/ (accessed 2026-10-15)

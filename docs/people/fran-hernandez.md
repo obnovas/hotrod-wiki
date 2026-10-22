@@ -28,7 +28,7 @@ Family and Detroit News: born in Chihuahua; family moved to California; lakes ra
 
 After discharge he partnered with **Fred C. Offenhauser** in Offenhauser Sales, then sold his share and joined **Vic Edelbrock** around the late-1948 move to West Jefferson Blvd. Classmate **Bobby Meeks** is credited with bringing him in; Tom Madigan's Edelbrock book (via Hemmings) places him with Meeks and Don Towle in Vic's inner circle.[^hem]
 
-He raced with Meeks's Coupes Club in the Rusetta Timing Association and held lakes records. ◐[^hem]
+He raced with Meeks's Coupes Club in the Rusetta Timing Association and held lakes records.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^hem]
 
 ## Stroppe, Autolite, Lincoln-Mercury
 
@@ -36,19 +36,27 @@ In the late 1950s he was with Bill Stroppe's team and an Autolite consultant. Af
 
 As head of Lincoln-Mercury racing, he ran A/FX Comets with drivers including Dyno Don Nicholson and Ronnie Sox. Trans-Am contacts went through Dearborn Steel Tubing and then [Logghe Stamping](../companies/logghe-stamping.md) for the **1966** flip-top Comets with Al Turner.[^hem][^gar]
 
-Family and obituary circles credit him with helping coin **"Funny Car"** and with the first-generation Mercury Comet Cyclone GT floppers. ◐ *Attributional; not a sole documented coinage.*[^dn]
+Family and obituary circles credit him with helping coin **"Funny Car"** and with the first-generation Mercury Comet Cyclone GT floppers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 In **1969–70** he managed Ford's Brighton (Kar Kraft) facility for the **Boss 429** Mustang program with Roy Lunn.[^dn][^hem] Later came Ford fabrication/build (family says presidential limousines for Reagan and G.H.W. Bush), retirement in the 1990s, and consulting.[^dn]
 
 ## Which year did he die?
 
-The **working date** is Jan 5, 2011, age 88, Tecumseh, Mich. (Detroit News, Jan 20, 2011; family funeral text posted on H.A.M.B. Jan 2011).[^dn]
-
-⚠ **From the detective's notebook:** Daniel Strohl's Hemmings profile ends with "when he died in **2005**." That conflicts with the contemporaneous 2011 obituaries and with Hot Rod's "passed away in January 2011." We treat **2011** as correct and flag the Hemmings line as erroneous until Hemmings corrects it.[^hem][^hr]
+The **working date** is Jan 5, 2011, age 88, Tecumseh, Mich. (Detroit News, Jan 20, 2011; family funeral text posted on H.A.M.B. Jan 2011).[^dn]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Survivors named in the News: wife Patricia (68 years), sons Randy and Rick, daughter Nancy, brother Luis, seven grandchildren.[^dn]
 
 **See also:** [Edelbrock's Slingshot](../companies/edelbrock-slingshot.md), [Logghe Stamping](../companies/logghe-stamping.md), [Eddie Schartman](eddie-schartman.md), [Stu Hilborn](stu-hilborn.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** He raced with Meeks's Coupes Club in the Rusetta Timing Association and held lakes records. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Attributional; not a sole documented coinage.*[^dn] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **** Daniel Strohl's Hemmings profile ends with "when he died in **2005**." That conflicts with the contemporaneous 2011 obituaries and with Hot Rod's "passed away in January 2011." We treat **2011** as correct and flag the Hemmings line as erroneous until Hemmings corrects it.[^hem][^hr] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 
@@ -68,6 +76,7 @@ Survivors named in the News: wife Patricia (68 years), sons Randy and Rick, daug
 </figure>
 
 ## Visual references (external)
+
 - [Hemmings, "Fran Hernandez"](https://www.hemmings.com/stories/fran-hernandez/)
 - [Hemmings, "Fran Hernandez: A Life in Pictures"](https://www.hemmings.com/stories/fran-hernandez-a-life-in-pictures/)
 - [H.A.M.B. thread with Detroit News obituary text](https://www.jalopyjournal.com/forum/threads/hot-rod-legend-from-the-greatest-generation-fran-hernandez-rip.555417/)

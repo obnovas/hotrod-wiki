@@ -14,7 +14,7 @@
 
 ## "WE'RE SORRY"
 
-Pete Hill's mock apology letter to Drag News (dated Oct 7, 1967) needled the West Coast AA/GS teams: the Kohler Bros., Stone-Woods-Cook, Shores & Hess and Mazmanian. It promised to come west on Nov 1. Pete later wrote: "I wrote the enclosed letter... just to piss everyone off... I ran two runs....162- and 163.63. That record stood for two years."[^jrt] ◐ Hot Rod/Mopar Muscle connects the 163.63 to an Orange County record in 1968.[^mm] We have not seen a period timing slip.
+Pete Hill's mock apology letter to Drag News (dated Oct 7, 1967) needled the West Coast AA/GS teams: the Kohler Bros., Stone-Woods-Cook, Shores & Hess and Mazmanian. It promised to come west on Nov 1. Pete later wrote: "I wrote the enclosed letter... just to piss everyone off... I ran two runs....162- and 163.63. That record stood for two years."[^jrt]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Hot Rod/Mopar Muscle connects the 163.63 to an Orange County record in 1968.[^mm] We have not seen a period timing slip.
 
 ## How it got to Cleveland (per Dave Hales)
 
@@ -34,9 +34,18 @@ The Red Baron raced until late 1969, then bracket-raced under another name. It s
 
 Related: the East Coast Drag Racing HOF's Midwest gasser roundup (not yet read in full).[^ec]
 
-**Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, ⚠ death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
+**Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys,<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *"WE'RE SORRY"* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed:** **Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [JR Thompson, Hill Bros. page: original 1967 photos, the pre-build photo from Dave Hales, and the restoration](http://www.jrthompson.net/hillbroswillys.html)

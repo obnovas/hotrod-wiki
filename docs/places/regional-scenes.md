@@ -10,7 +10,7 @@ Hot rodding wasn't only a SoCal export. Other regions built their own scenes on 
 - [Akron Fulton Airport Strip](../drag-racing/akron-fulton-airport.md): 1951 "Champions Raceway," Otie Smith, the Arfons brothers and the 2016 state marker.
 - [Memphis & the Mid-South](memphis.md): Memphis Rodders (1947), Halls airbase drags, Lakeland Dragway, the 1971 Nationals.
 - [Texas](texas.md): Caddo Mills (1951), the Chaparrals, the Fort Worth Turtles.
-- [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md): purpose-built strip on I-45 near Dickinson (1957–⚠1987).
+- [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md): purpose-built strip on I-45 near Dickinson (1957–<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> 1987).
 - [Pacific Northwest](pacific-northwest.md): MHRC, Portland Roadster Show, Woodburn, Wescott's.
 - [Upper Midwest](upper-midwest.md): MSRA and Back to the 50's.
 
@@ -23,3 +23,9 @@ Hot rodding wasn't only a SoCal export. Other regions built their own scenes on 
 | Upper Midwest | Racing-first culture | A street-rod association (MSRA, 1967) that helped found the Nationals itself |
 | Midwest/KS–IA | Original customs | The 1980s lead-sled *revival* (KKOA, Wichita) |
 | Ohio / Illinois | NHRA's California base | An informal gasser circle racing 4–5 nights a week; a rival cash-purse body (ATAA) and its World Series |
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed:** [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md): purpose-built strip on I-45 near Dickinson (1957– 1987). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>

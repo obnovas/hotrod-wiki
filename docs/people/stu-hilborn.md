@@ -14,7 +14,7 @@ In **August 1947**, during a carbureted test, a rear wheel on Stu Hilborn's stre
 
 He promised his mother he would not drive again, so **Howard (Howie) Wilson** drove. By SEMA's account, Hot Rod put Hilborn and the car on the cover of its **fourth issue (April 1948)** at about **136 mph**, and in **July 1948** Wilson ran **150.5 mph** at El Mirage, the first documented 150 mph lakes pass in that account.[^sema]
 
-Hilborn's own company-site text (quoted by Autoweek) says that after the rebuild the car "became the first car to break 150 mph," without naming the driver in that sentence. ◐ *SEMA's Wilson credit is the clearer race-day attribution.*[^aw]
+Hilborn's own company-site text (quoted by Autoweek) says that after the rebuild the car "became the first car to break 150 mph," without naming the driver in that sentence.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The man behind the stacks
 
@@ -24,7 +24,7 @@ Hilborn's own company-site text (quoted by Autoweek) says that after the rebuild
 
 His first trip to the dry lakes was **Muroc, 1938**. He told AHRF he was struck that unpaid engine builders were doubling Detroit horsepower.[^aw]
 
-Neighbor **Eddie Miller** (Indy veteran) helped him build a flathead Model A. Autoweek: about **123 mph**; SEMA: about **120 mph** on the lakes. ⚠ A minor speed conflict between summaries.[^aw][^sema]
+Neighbor **Eddie Miller** (Indy veteran) helped him build a flathead Model A. Autoweek: about **123 mph**; SEMA: about **120 mph** on the lakes.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 On Dec 7, 1941, he picked up a narrow streamliner previously raced by **Bill Warth**, then entered the **Army Air Corps** as a gunnery instructor. SEMA: only a couple of runs before service.[^sema]
 
@@ -40,9 +40,19 @@ U.S. **3,473,523**, "Fuel Injection System," inventor Stuart G. Hilborn, assigne
 
 He died Dec 16, 2013, age 96, in Aliso Viejo, Calif.; survived by wife Ginny, children Edris and Duane.[^aw]
 
-The company was later acquired by Holley (**2019** per Wikipedia summary); Holley announced ending Hilborn mechanical production in **Feb 2024**. ◐ *Post-1990 corporate history; cite secondary until Holley press is read in full.*[^wp]
+The company was later acquired by Holley (**2019** per Wikipedia summary); Holley announced ending Hilborn mechanical production in **Feb 2024**.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 **See also:** [Dry Lakes & the SCTA](../eras/1930s-dry-lakes-scta.md), [Patents](../reference/patents.md), [Fran Hernandez](fran-hernandez.md) (Cobbs dyno'd at Hilborn's shop per Hot Rod), [Injection & Tin voices](../voices/injection-and-tin.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *SEMA's Wilson credit is the clearer race-day attribution.*[^aw] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** A minor speed conflict between summaries.[^aw][^sema] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Post-1990 corporate history; cite secondary until Holley press is read in full.*[^wp] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 
@@ -72,6 +82,7 @@ The company was later acquired by Holley (**2019** per Wikipedia summary); Holle
 </figure>
 
 ## Visual references (external)
+
 - [SEMA News, "Stu Hilborn" (Petersen Archives cover photo)](https://www.sema.org/news-media/magazine/2014/18/stu-hilborn)
 - [Hot Rod, Hilborn streamliner feature](https://www.hotrod.com/features/150-mph-stu-hillborn-streamliner-changed-history)
 

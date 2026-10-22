@@ -17,9 +17,7 @@ Soon, COMP says, they rented a real shop "at the corner of Union and Marshall, w
 
 The Little Rock shop has a local witness. The 1978 Little Rock Central High School yearbook carries an ad for "Racing Head Service, Memphis/Little Rock, 3901 S. University, L.R." (read from the scan's OCR text; the ad's other copy is garbled). A yearbook ad is a quiet piece of evidence: a Memphis head shop advertising to a Little Rock high-school audience.[^yb]
 
-The wiki's [Memphis page](../places/memphis.md) says outright that it looked for a link between Sun Records-era Memphis and the builders and "found none." COMP's history gives a place link, not a musician link: a speed shop on what COMP calls Sun Studios' corner. ◐ It is the company's own history and nothing else. The address needs a city directory or a Memphis newspaper.
-
-**⚠ From the detective's notebook: where did RHS move first?** SEMA says that by the time Lang visited in late 1970, RHS "had outgrown the basement and moved to bigger digs in a Memphis suburb," with another move to near the airport not long after.[^sema] COMP's account has the Union and Marshall shop in between. They may be the same shop described two ways, or two steps. We can't tell.
+The wiki's [Memphis page](../places/memphis.md) says outright that it looked for a link between Sun Records-era Memphis and the builders and "found none." COMP's history gives a place link, not a musician link: a speed shop on what COMP calls Sun Studios' corner.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The address needs a city directory or a Memphis newspaper.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 <figure markdown>
 ![Sun Records Studio, a small corner storefront with a sign and a neon guitar on Union Avenue in Memphis.](../assets/images/commons-sun-studio-highsmith.jpg){ loading=lazy }
@@ -30,7 +28,7 @@ The wiki's [Memphis page](../places/memphis.md) says outright that it looked for
 
 To go with the head work RHS needed cams. In 1972 it recruited Memphis cam designer Mark Heffington and **Tom Woitesek, then the shop foreman at Crane Cams in Florida**, to form Cam Dynamics. Ivars's brother Russ joined, and local racer Scooter Brothers became a minor owner. In 1975 the partnership came apart over ownership, and "Cam Dynamics eventually going to Crane Cams."[^comp] Read that twice: Crane Cams lost its foreman to a Memphis head shop, then got the cam company the foreman had helped found. See [Crane Cams](crane-cams.md).
 
-In 1976 Competition Cams was formed by six partners: Smiltnieks, Woodard, McWhirter, Woitesek, Russ Smiltnieks and Ron Coleman, producing out of RHS's warehouse. Woodard sold his stake in 1979. By then RHS, COMP says, had "evolved into one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines" ◐.[^comp] SEMA agrees on the 1970s step, saying the trio "would join with Tom Woitesek, Russ Smiltnieks and Ron Coleman to form Competition Cams."[^sema]
+In 1976 Competition Cams was formed by six partners: Smiltnieks, Woodard, McWhirter, Woitesek, Russ Smiltnieks and Ron Coleman, producing out of RHS's warehouse. Woodard sold his stake in 1979. By then RHS, COMP says, had "evolved into one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines"<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>.[^comp] SEMA agrees on the 1970s step, saying the trio "would join with Tom Woitesek, Russ Smiltnieks and Ron Coleman to form Competition Cams."[^sema]
 
 ## Memphis in the 1980s
 
@@ -51,6 +49,16 @@ So a company that began when three men raced Oldsmobiles now sits in the same gr
 - [Summit Racing](summit-racing.md): a COMP hydraulic roller cam sits in the restored founder's Corvette.
 - [Edelbrock's Slingshot](edelbrock-slingshot.md): the Edelbrock Group, formed 2020 by merging Edelbrock and COMP's parent.
 - [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md): the earlier California cam makers this Memphis trade grew up behind.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** It is the company's own history and nothing else. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Where did RHS move first?** SEMA says that by the time Lang visited in late 1970, RHS "had outgrown the basement and moved to bigger digs in a Memphis suburb," with another move to near the airport not long after.[^sema] COMP's account has the Union and Marshall shop in between. They may be the same shop described two ways, or two steps. We can't tell. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** By then RHS, COMP says, had "evolved into one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines" . <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^comp]: "The History of COMP Cams," COMP Cams (company site). https://www.compcams.com/about-us (accessed 2026-10-16)
 [^sema]: Drew Hardin, "Turning Valve Jobs Into Science," SEMA News, Oct 2011 (retelling Bud Lang, *Hot Rod*, Feb 1971). https://www.sema.org/news-media/magazine/2011/39/turning-valve-jobs-science (accessed 2026-10-16)

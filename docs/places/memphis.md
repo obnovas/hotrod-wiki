@@ -12,27 +12,27 @@
 
 ## Halls: racing on an old bomber base
 
-The drags ran at an abandoned WWII air base at **Halls, Tennessee**, about 70 miles from the city. **⚠ From the detective's notebook: when did they start?** 1953 (NHRA-related account) vs 1955 (Memphis Tech High history).[^mth][^sema]
+The drags ran at an abandoned WWII air base at **Halls, Tennessee**, about 70 miles from the city.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**September 1955 NHRA Drag Safari meet:** 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema] **⚠** Other summaries credit Godman & Dyer with Top Eliminator, and we have not settled which is right.[^mth] Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
+**September 1955 NHRA Drag Safari meet:** 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
 
 ## Ray Godman and Lakeland Dragway (1960–79)
 
 Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in **Lakeland Dragway**, which opened **July 4, 1960**. Its first starter was **Buster Couch**, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
 
-Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971). ◐ We have this from secondary sources only.[^dm][^tl]
+Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992. ◐ This is from a search summary and needs a primary source; see the Research Trail.
+Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Road trips to the Bootheel (1962–66)
 
-Memphis cars went north to race, too. At the SEMO Drag Strip on the old Malden Air Base in Missouri, on July 22, 1962, **Bill Taylor of Memphis** was top eliminator in an AA dragster and **Kenneth McKee of Memphis** was little eliminator in a Chevy-powered B gas Willys, against 97 entries.[^sk62] The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled. ◐ On Easter Sunday 1966 Malden's ad brought the Kingfish blown Barracuda north. The Sunday before, Larry Reyes had run 9.02 seconds at 157 mph in it for a new Lakeland track record. It raced "JOE LUNATI'S 1966 427 CORVAIR," and Lunati broke his differential warming up for the rematch.[^sk66a][^sk66b] See [Memphis Comes to the Bootheel](../drag-racing/semo-malden-drag-strip.md).
+Memphis cars went north to race, too. At the SEMO Drag Strip on the old Malden Air Base in Missouri, on July 22, 1962, **Bill Taylor of Memphis** was top eliminator in an AA dragster and **Kenneth McKee of Memphis** was little eliminator in a Chevy-powered B gas Willys, against 97 entries.[^sk62] The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> On Easter Sunday 1966 Malden's ad brought the Kingfish blown Barracuda north. The Sunday before, Larry Reyes had run 9.02 seconds at 157 mph in it for a new Lakeland track record. It raced "JOE LUNATI'S 1966 427 CORVAIR," and Lunati broke his differential warming up for the rematch.[^sk66a][^sk66b] See [Memphis Comes to the Bootheel](../drag-racing/semo-malden-drag-strip.md).
 
 ## The Memphis Rodders (1947)
 
-The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr] ◐ Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr] ◐
+The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
-The club's best-known alumnus in the parts business is **[Joe Lunati](../people/joe-lunati.md)**, who "began drag racing with the Memphis Rodders in the early '60s," opened his own cam shop in 1968 (his family says 1969 ⚠), and was still showing up at Rodders reunions late in life.[^edel] His family called him "a cornerstone in the Memphis drag racing history."[^lunobit]
+The club's best-known alumnus in the parts business is **[Joe Lunati](../people/joe-lunati.md)**, who "began drag racing with the Memphis Rodders in the early '60s," opened his own cam shop in 1968 (his family says 1969<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>), and was still showing up at Rodders reunions late in life.[^edel] His family called him "a cornerstone in the Memphis drag racing history."[^lunobit]
 
 ## Street Rod Nationals
 
@@ -42,9 +42,31 @@ Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NS
 
 We looked for a documented link between Sun Records-era musicians and Memphis builders or clubs and **found none**. We aren't going to invent one. The photo below shows the place and the period only.
 
-There is one company claim, and it is about a street corner, not a musician. COMP Cams says its founders' Racing Head Service rented a shop "at the corner of Union and Marshall, which happened to be Sun Studios, where Elvis was discovered." ◐ That is the company's own history, we have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb," without naming the corner. Read the full story, with its doubts, in [COMP Cams & Racing Head Service](../companies/comp-cams-rhs.md).[^comp15]
+There is one company claim, and it is about a street corner, not a musician. COMP Cams says its founders' Racing Head Service rented a shop "at the corner of Union and Marshall, which happened to be Sun Studios, where Elvis was discovered."<sup class="hr-q" id="qr-9"><a href="#q-9" title="Single source so far: see Open questions">◐</a></sup> Read the full story, with its doubts, in [COMP Cams & Racing Head Service](../companies/comp-cams-rhs.md).[^comp15]
 
 **The 1954 World Series:** Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did they start?** 1953 (NHRA-related account) vs 1955 (Memphis Tech High history).[^mth][^sema] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** Other summaries credit Godman & Dyer with Top Eliminator, and we have not settled which is right.[^mth] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have this from secondary sources only.[^dm][^tl] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** This is from a search summary and needs a primary source; see the Research Trail. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The Memphis Rodders (1947)* rests on one source so far. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+
+<a id="q-8" class="hr-q-anchor"></a>**Disputed:** The marked point in *The Memphis Rodders (1947)*. The sources disagree; the details are in the text and its notes. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is the company's own history, we have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb," without naming the corner. <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
 ## Images
 
@@ -59,6 +81,7 @@ There is one company claim, and it is about a street corner, not a musician. COM
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [Memphis Rodders history photos (Klyce Motors 1952)](http://www.memphisrodders.com/)

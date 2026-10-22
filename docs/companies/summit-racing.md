@@ -20,9 +20,7 @@ RACER's version has the founder as "a drag racer who was frustrated by the lack 
 
 Advertising in the local newspaper came next, then a choice between his full-time job and the business. RACER says that by 1969 demand had grown enough for a first retail store in Akron, and that "three years later" Summit tested mail order "by placing small ads for Mickey Thompson ET wheels in *Hot Rod* and *Car Craft* magazines. Orders began rolling in from all over the country."[^racer] The wheels in those first ads were [Mickey Thompson](mickey-thompson.md)'s, from a company the Southern California drag racer had founded in 1963.
 
-The catalog followed. RACER says Summit printed its own catalog and hired sales and customer-service representatives by 1976; Classic American counts "nearly 200 editions" of the "Big Book" since "the first one appeared in 1974," annual until 1987, when it went to six a year.[^racer][^ca] The 1987 move was to a four-building facility in Akron, and by 1992 it had a new three-story headquarters in Tallmadge. SummitRacing.com launched in 1997, a Sparks, Nevada, distribution center in 1998, and big retail stores in Tallmadge and McDonough, Georgia, followed.[^racer] The Garlits write-up says the company's first mail-order catalog was created as Sergi placed small ads in national magazines, and adds the **Handshake Guarantee**, the 24/7 order line and the website.[^garlits]
-
-**⚠ From the detective's notebook: where was the first store?**
+The catalog followed. RACER says Summit printed its own catalog and hired sales and customer-service representatives by 1976; Classic American counts "nearly 200 editions" of the "Big Book" since "the first one appeared in 1974," annual until 1987, when it went to six a year.[^racer][^ca] The 1987 move was to a four-building facility in Akron, and by 1992 it had a new three-story headquarters in Tallmadge. SummitRacing.com launched in 1997, a Sparks, Nevada, distribution center in 1998, and big retail stores in Tallmadge and McDonough, Georgia, followed.[^racer] The Garlits write-up says the company's first mail-order catalog was created as Sergi placed small ads in national magazines, and adds the **Handshake Guarantee**, the 24/7 order line and the website.[^garlits]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 | Item | RACER (2016) | Classic American (2018) | Wikipedia |
 |---|---|---|---|
@@ -52,6 +50,12 @@ Summit also bought the naming rights to Norwalk Raceway Park in 2007, becoming S
 - [Mickey Thompson](mickey-thompson.md): the ET wheels of Summit's first mail-order ads.
 - [COMP Cams and Racing Head Service](comp-cams-rhs.md): the cam brand in the restored Corvette.
 - [Holley](holley.md): since 2015 the owner of the Mr. Gasket brand.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Where was the first store?** <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

@@ -25,14 +25,20 @@ In **2006** the Pancho Barnes Trust Estate Archive interviewed Hyman "Blackie" G
 
 ## The rest, in brief
 
-Gold says he started racing Model Ts and As in 1931. He bought a '32 roadster for $75 in 1935 and ran it at Muroc from 1936, reaching about 90 mph in 1939. Around 1936 he founded the **Night Flyers**, which he says was one of the first SCTA member clubs (SCTA founded 1937, in his account). He says Pancho Barnes brought racers "cold desert punch" and sandwiches, and that after the war the racers became honorary members of her Happy Bottom Riding Club.[^g]
+Gold says he started racing Model Ts and As in 1931. He bought a '32 roadster for $75 in 1935 and ran it at Muroc from 1936, reaching about 90 mph in 1939. Around 1936 he founded the **Night Flyers**, which he says was one of the first SCTA member clubs (SCTA founded 1937, in his account). He says Pancho Barnes brought racers "cold desert punch" and sandwiches, and that after the war the racers became honorary members of her Happy Bottom Riding Club.[^g]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
-## From the detective's notebook
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### More from the notebook
 
 ⚠ **"Hot rod" etymology.** Gold says the term came from Model T connecting rods coming loose, and calls other explanations "malarkey." We have found no documentary support for this. It is a folk explanation, and we do not adopt it.
 
 ⚠ **"The very first person to race the Ford 1932 roadster on the dry lake at Muroc"** and the Knight Riders as "the very first hot rod club in the US": we cannot verify either. He spells the club both "Knight Riders" and "Night Riders" in the same interview.
 
-⚠ **SCTA founding date:** he says 1937. Other sources give 1937 or 1938 (see [Kong Jackson](kong-jackson.md)).
+⚠ **SCTA founding date:** he says 1937. Other sources give 1937 or 1938 (see [Kong Jackson](kong-jackson.md)). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^g]: Pancho Barnes Trust Estate Archive, "Interview with Blackie Gold" (2006), Happy Bottom Riding Club website. https://happybottomridingclub.com/interview-with-blackie-gold/ (accessed 2026-10-13)

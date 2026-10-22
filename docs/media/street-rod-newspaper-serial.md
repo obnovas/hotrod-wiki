@@ -24,9 +24,15 @@ The newspaper version keeps the book's civic argument front and center. In the *
 
 By the May 31 installment Ricky is in front of the mayor, explaining the new Dellville Timing Association. "We're trying to help solve a problem," he says, and he explains that a drag race is an acceleration race: "It tests cars." Gus Vorkle, at the meeting, isn't buying it: "You want the city to give you a race track and encourage hot-rod driving."[^hope0531] In the novel the council turns the boys down, and *Kirkus* says an out-of-town wreck makes the town's elders so wary that they forbid dating in cars.[^ebsco][^kirkus]
 
-*From the detective's notebook:* none of that is history; it's a novel. But the argument is the one real towns were having that same year. In June 1954 the police of Columbia, Missouri, started the Motor Sports Club ([City planners, 1955](../drag-racing/planners-report-1955.md)), and that December eight members organized the Drag-n's in Escanaba, the same town whose paper had run *Street Rod* in May ([The Cop and the Auto Shop](../drag-racing/escanaba-dragns.md)). We have found nothing that connects the serial to either club.
+None of that is history; it's a novel. But the argument is the one real towns were having that same year. In June 1954 the police of Columbia, Missouri, started the Motor Sports Club ([City planners, 1955](../drag-racing/planners-report-1955.md)), and that December eight members organized the Drag-n's in Escanaba, the same town whose paper had run *Street Rod* in May ([The Cop and the Auto Shop](../drag-racing/escanaba-dragns.md)). We have found nothing that connects the serial to either club.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
-## ⚠ Whose dedication?
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### ⚠ Whose dedication?
 
 The Internet Archive's scans of *Street Rod* (1953 and a 1962 printing) can't be read in full, but their full-text search shows the dedication at the front: "To my fellow members of the Iowa Timing Association." A 2010s review of the 1962 Bantam paperback quotes the same line for *Street Rod*.[^iasnip][^speed]
 
@@ -39,7 +45,7 @@ Felsen calls himself a member, so an Iowa Timing Association existed by early 19
 <figcaption markdown>Main Street in Hope, Arkansas, in 2010. The *Hope Star* ran *Street Rod* as a daily serial in May and June 1954; context only. Creator: Jay Cross (Flickr: Hope, Arkansas, Family Council). Date: 2010-09-18. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Downtown_Hope,_AR.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
 
-**Visual references (external):** book covers of the 1953 Random House and 1962 Bantam editions are on the [Open Library record](https://openlibrary.org/works/OL6663722W/Street_rod) and the [Speedreaders review](https://speedreaders.info/8720-street-rod/) (copyrighted, linked only).
+**Visual references (external):** book covers of the 1953 Random House and 1962 Bantam editions are on the [Open Library record](https://openlibrary.org/works/OL6663722W/Street_rod) and the [Speedreaders review](https://speedreaders.info/8720-street-rod/) (copyrighted, linked only). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^esc0511]: *Street Rod* installment whose synopsis says Ricky feels lost because his friends have hot rods while he has only a bicycle, *Escanaba Daily Press* (Mich.), May 11, 1954, read as page OCR. https://archive.org/details/escanaba-daily-press-1954-05-11 (accessed 2026-10-16)
 [^harr0701]: *Street Rod* installment, *Harrisburg Daily Register* (Ill.), July 1, 1954 (also July 9, 1954). https://archive.org/details/harrisburg-daily-register-1954-07-01 (accessed 2026-10-16)

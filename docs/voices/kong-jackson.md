@@ -11,7 +11,7 @@ Tom Medley interviewed Charles "Kong" Jackson in **1988** for *Tex Smith's Hot R
 
 > "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."
 >
-> — **Kong Jackson** to Tom Medley (1988), quoted in Fuel Curve.[^fc] ⚠ He dates the SCTA to 1938. Other sources say late 1937.
+> — **Kong Jackson** to Tom Medley (1988), quoted in Fuel Curve.[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> He dates the SCTA to 1938. Other sources say late 1937.
 
 ## Jeeps and bayonets
 
@@ -28,5 +28,11 @@ Tom Medley interviewed Charles "Kong" Jackson in **1988** for *Tex Smith's Hot R
 ## A friend remembers
 
 Alex Xydias told Fuel Curve that Kong "was a really, really smart guy, who was president of the Sidewinders car club and timer at the lakes." He said So-Cal sold Jackson's ignitions: "Think we charged 49 bucks."[^fc]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed:** — **Kong Jackson** to Tom Medley (1988), quoted in Fuel Curve. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^fc]: Fuel Curve, "'Kong' Jackson – The King of Early Flathead Ignitions" (quoting Medley's 1988 interview in *Tex Smith's Hot Rod History*). https://fuelcurve.com/kong-jackson/ (accessed 2026-10-13)

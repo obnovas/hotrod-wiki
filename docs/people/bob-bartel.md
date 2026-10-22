@@ -18,18 +18,56 @@ When Bob Bartel's car clubs couldn't afford a drag strip, he cashed Sears stock 
 
 Born **Aug. 5, 1921, in Sterling, Ill.**, to Joseph and Ethal (Logsdon) Bartel, he graduated from Sterling schools and attended the University of Illinois.[^obit] He married **Dawn Sheridan** at Sacred Heart Church, Moline, **Nov. 28, 1946**, and they were married more than 71 years.[^obit]
 
-He worked for **Sears Roebuck**. "In 1956, Bob, his brother, Don, and two local businessmen, purchased a farm in Cordova, IL. This venture became the Cordova Dragstrip." He retired in **1986**.[^obit] He was a member of the Antique Car Club and the "Over The Hill Coffee Group," and died **Feb. 18, 2018**, at Friendship Manor, Rock Island, aged 96.[^obit]
-
-⚠ The Competition Plus tribute calls him a "Moline, Illinois, native." The obituary's **Sterling** birthplace is the stronger record. He married and lived in Moline.[^cp][^obit]
+He worked for **Sears Roebuck**. "In 1956, Bob, his brother, Don, and two local businessmen, purchased a farm in Cordova, IL. This venture became the Cordova Dragstrip." He retired in **1986**.[^obit] He was a member of the Antique Car Club and the "Over The Hill Coffee Group," and died **Feb. 18, 2018**, at Friendship Manor, Rock Island, aged 96.[^obit]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The ATAA and a Midwest national meet
 
 The tribute's text (bylined Bobby Bennett at Competition Plus and credited to **Bret Kepner** on BangShift) makes several claims:[^cp][^bs]
 
-- In **1953**, at 31, Bartel and **Jim Lamona** began hosting races under the **Automobile Timing Association of America (ATAA)**. Unlike NHRA, which posted "only trophies and contingency prizes," the ATAA "paid cash purses." ◐
+- In **1953**, at 31, Bartel and **Jim Lamona** began hosting races under the **Automobile Timing Association of America (ATAA)**. Unlike NHRA, which posted "only trophies and contingency prizes," the ATAA "paid cash purses."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 - In **October 1954** they held the **first World Series of Drag Racing** on a taxiway at **George Field, Lawrenceville, Ill.**, which the tribute calls "one year before the NHRA... had a similar race." Entries came "from as far away as California and New York." The meet moved to a full runway in 1955 and stayed at Lawrenceville "for two more seasons."
-- Bartel and **Ed Otto** brokered a deal with **Bill France Sr.** for a NASCAR drag-racing branch. The tribute says it "continued to sanction drag races all over the eastern seaboard for another fifteen years." ◐
-- NHRA "absorbed" (bought out) the ATAA in **1957**, "a takeover which required the vast majority of cash assets of the NHRA." Bartel then formed the **National Association of Drag Strips**, which sanctioned Midwest and East Coast tracks through the 1960s. ◐ *Single tribute source; we have seen no NHRA record of the purchase.*
+- Bartel and **Ed Otto** brokered a deal with **Bill France Sr.** for a NASCAR drag-racing branch. The tribute says it "continued to sanction drag races all over the eastern seaboard for another fifteen years."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+- NHRA "absorbed" (bought out) the ATAA in **1957**, "a takeover which required the vast majority of cash assets of the NHRA." Bartel then formed the **National Association of Drag Strips**, which sanctioned Midwest and East Coast tracks through the 1960s.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
+
+## Building Cordova
+
+Bartel belonged to the **Moline Moons** car club (formed late 1940s). The tribute says street racing in the Quad Cities "eventually led to the fatalities of several of his childhood friends," and the nearest strips were in Chicago. He proposed a strip "paid for and operated by a union of local car clubs." When the clubs couldn't afford it, he cashed Sears stock and bought the farmland (above).[^cp]
+
+**Quad City Drag Strip opened Labor Day weekend 1956.** It hosted the ATAA North Central Regional that fall. The new asphalt then shifted, and Bartel paid to resurface it himself.[^cp]
+
+A late-1956 government mandate pushed racing off airports, and the World Series came to Cordova the weekend before Labor Day **1957**: the "first of sixty consecutive" there.[^cp] (The local paper, from the 2009 interview, says "old timing equipment and scales were given to Cordova" when the track took over the event.[^qc]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>)
+
+**Prize money:** Bartel told the paper that early racers ran "for merchandise and maybe scholarships," with total prize packages of "$500 to $1,000." Cordova was "the first track to put up good money: $1,000 to win in a number of different classes."[^qc]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
+
+**Promotion:** he brought the current winner of TV's *The $64,000 Question* to the track for the whole meet. The tribute says "as many people came to the track to meet the TV personality as came to see the drag racers."[^cp]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
+
+In **1957** Don Garlits beat Emery Cook in the semifinal. Per the tribute, Garlits "proudly states he was 'nobody'" until that win. See [Detroit & Cordova](../drag-racing/detroit-cordova.md).[^cp]
+
+In **1968**, floods washed out the surface, so Bartel shortened the World Series to **1,000 feet** for the fastest classes. The tribute says he was also "the first to offer a true National Title for Funny Car competitors."<sup class="hr-q" id="qr-9"><a href="#q-9" title="Single source so far: see Open questions">◐</a></sup>[^cp] The track hosted events from "nine different drag racing associations" over its life.[^cp]
+
+## Later owners and the name fight
+
+Cordova was sold to racer **Bob Gipson (1986)**, then **Scott Gardner (1996)**. The **IHRA** (IRG Sports + Entertainment) bought it in late **2014**.[^cp]
+
+IRG moved the **2016** World Series to Memphis International Raceway. Bartel was "emotionally crushed," and the event returned to Cordova in **2017**, which Bartel attended at 96.[^cp]
+
+Bartel and racer **Ron Colson** said they owned the World Series name, citing a USPTO document dated **Oct. 11, 2016**. Colson said the name had never been contested under Gipson or Gardner.[^qc]<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup> (Colson raced a B/Gas '41 Studebaker before driving the *Chi-Town Hustler*. See [Ohio & Midwest Gassers](../places/ohio-gassers.md).)
+
+**See also:** [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Setto Postoian](setto-postoian.md) (1957–58 World Series final), [Ohio & Midwest Gassers](../places/ohio-gassers.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (another early airport strip).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** The Competition Plus tribute calls him a "Moline, Illinois, native." The obituary's **Sterling** birthplace is the stronger record. He married and lived in Moline.[^cp][^obit] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Unlike NHRA, which posted "only trophies and contingency prizes," the ATAA "paid cash purses." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The tribute says it "continued to sanction drag races all over the eastern seaboard for another fifteen years." <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Single tribute source; we have seen no NHRA record of the purchase.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>
 
 ### ⚠ When was the first World Series?
 
@@ -43,33 +81,17 @@ The sources can't agree on the year, and the disagreement is worth a look:
 
 **Working position:** 1954 (Lawrenceville), with 1956 kept open, until a dated program or newspaper ad turns up. The tribute's own note that Illinois racer **Dave Jamison** attended "all but the 1955" World Series, having been "at the inaugural," fits a pre-1956 start.[^cp] ◐
 
-**A period source, sponsor-written but dated:** a June 1955 Chilton's *Motor Age* article bylined to a Maremont Automotive Products staffer says the first annual World Series was held at Lawrenceville "last October" (October 1954) and "attracted some 350 hot rodders and approximately 10,000 spectators," and that the second annual would run "August 17 through 21." It also quotes Gov. William Stratton welcoming hot rodders to "the 1954 World Series of Drag Racing." That supports 1954 over the 1953 and 1956 claims, though it is the ATAA's own publicity and we still lack a program or ad. It dates the ATAA's founding to **1952**, not 1953. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
+**A period source, sponsor-written but dated:** a June 1955 Chilton's *Motor Age* article bylined to a Maremont Automotive Products staffer says the first annual World Series was held at Lawrenceville "last October" (October 1954) and "attracted some 350 hot rodders and approximately 10,000 spectators," and that the second annual would run "August 17 through 21." It also quotes Gov. William Stratton welcoming hot rodders to "the 1954 World Series of Drag Racing." That supports 1954 over the 1953 and 1956 claims, though it is the ATAA's own publicity and we still lack a program or ad. It dates the ATAA's founding to **1952**, not 1953. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-## Building Cordova
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Building Cordova* rests on one source so far. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-Bartel belonged to the **Moline Moons** car club (formed late 1940s). The tribute says street racing in the Quad Cities "eventually led to the fatalities of several of his childhood friends," and the nearest strips were in Chicago. He proposed a strip "paid for and operated by a union of local car clubs." When the clubs couldn't afford it, he cashed Sears stock and bought the farmland (above).[^cp]
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Building Cordova* rests on one source so far. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-**Quad City Drag Strip opened Labor Day weekend 1956.** It hosted the ATAA North Central Regional that fall. The new asphalt then shifted, and Bartel paid to resurface it himself.[^cp]
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far:** The tribute says "as many people came to the track to meet the TV personality as came to see the drag racers." <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
-A late-1956 government mandate pushed racing off airports, and the World Series came to Cordova the weekend before Labor Day **1957**: the "first of sixty consecutive" there.[^cp] (The local paper, from the 2009 interview, says "old timing equipment and scales were given to Cordova" when the track took over the event.[^qc] ◐)
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far:** The tribute says he was also "the first to offer a true National Title for Funny Car competitors." <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
-**Prize money:** Bartel told the paper that early racers ran "for merchandise and maybe scholarships," with total prize packages of "$500 to $1,000." Cordova was "the first track to put up good money: $1,000 to win in a number of different classes."[^qc] ◐
-
-**Promotion:** he brought the current winner of TV's *The $64,000 Question* to the track for the whole meet. The tribute says "as many people came to the track to meet the TV personality as came to see the drag racers."[^cp] ◐
-
-In **1957** Don Garlits beat Emery Cook in the semifinal. Per the tribute, Garlits "proudly states he was 'nobody'" until that win. See [Detroit & Cordova](../drag-racing/detroit-cordova.md).[^cp]
-
-In **1968**, floods washed out the surface, so Bartel shortened the World Series to **1,000 feet** for the fastest classes. The tribute says he was also "the first to offer a true National Title for Funny Car competitors." ◐[^cp] The track hosted events from "nine different drag racing associations" over its life.[^cp]
-
-## Later owners and the name fight
-
-Cordova was sold to racer **Bob Gipson (1986)**, then **Scott Gardner (1996)**. The **IHRA** (IRG Sports + Entertainment) bought it in late **2014**.[^cp]
-
-IRG moved the **2016** World Series to Memphis International Raceway. Bartel was "emotionally crushed," and the event returned to Cordova in **2017**, which Bartel attended at 96.[^cp]
-
-Bartel and racer **Ron Colson** said they owned the World Series name, citing a USPTO document dated **Oct. 11, 2016**. Colson said the name had never been contested under Gipson or Gardner.[^qc] ◐ (Colson raced a B/Gas '41 Studebaker before driving the *Chi-Town Hustler*. See [Ohio & Midwest Gassers](../places/ohio-gassers.md).)
-
-**See also:** [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Setto Postoian](setto-postoian.md) (1957–58 World Series final), [Ohio & Midwest Gassers](../places/ohio-gassers.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (another early airport strip).
+<a id="q-10" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Later owners and the name fight* rests on one source so far. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 
 ## Images
 
@@ -84,6 +106,7 @@ Bartel and racer **Ron Colson** said they owned the World Series name, citing a 
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [SVTPerformance forum, "Quad Cities Drag Racing photos from the 50's"](https://www.svtperformance.com/threads/quad-cities-drag-racing-photos-from-the-50s.737744/)

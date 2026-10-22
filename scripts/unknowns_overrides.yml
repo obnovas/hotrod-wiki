@@ -1,0 +1,13 @@
+# Hand decisions for scripts/move_unknowns.py, one [page, phrase] pair per entry.
+# keep:  a "notebook" or flag-led paragraph that is really part of the story; it stays in the body
+#        (label stripped, flag turned into a marker).
+# split: inside a moved tail, the phrase where the story resumes; text from there on stays in the body.
+# move:  a notebook paragraph the heuristics would keep that is really an open question.
+keep:
+  - [drag-racing/beardstown-drag-strip.md, "a small river town drew a crowd"]
+  - [drag-racing/belleville-gear-jammers.md, "the money is worth a look"]
+  - [drag-racing/quaker-city-salem.md, "Quaker City is still running"]
+  - [places/twin-falls-main-avenue.md, "that answers part of the question"]
+  - [street-rodding/fiberglass-suppliers.md, "According to Wescott's company history"]
+split: []
+move: []

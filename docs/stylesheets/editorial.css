@@ -1,0 +1,17 @@
+/* Editorial structure: unknown markers, the "Open questions" section, summaries, related/backlinks. */
+
+/* Superscript marker at a claim; points to its item in "Open questions & disputed details". */
+.hr-q{font-size:.72em;line-height:0;margin-left:.08em;white-space:nowrap}
+.hr-q a{text-decoration:none;border-bottom:1px dotted currentColor;padding:0 .1em;color:var(--hr-candy, #b3261e)}
+.hr-q a:hover,.hr-q a:focus{background:var(--hr-mustard, #f2c14e);color:var(--hr-ink, #111)}
+.hr-q-anchor,.hr-q{scroll-margin-top:5rem}
+
+/* The bottom section */
+h2#open-questions-disputed-details{border-top:3px double var(--hr-ink, #111);padding-top:.8rem;margin-top:2.4rem}
+h2#open-questions-disputed-details ~ p:has(> .hr-q-anchor),
+h2#open-questions-disputed-details ~ ul:has(.hr-q-anchor){
+  border-left:4px solid var(--hr-mustard, #f2c14e);padding:.35rem .8rem;margin:.6rem 0;
+  background:var(--hr-surface, rgba(0,0,0,.03));font-size:.92em}
+p:has(> .hr-q-anchor):target,p:has(> .hr-q-anchor:target){outline:3px solid var(--hr-mustard, #f2c14e);outline-offset:2px}
+.hr-q-back{text-decoration:none;margin-left:.3em;font-size:.9em}
+h2#open-questions-disputed-details ~ h3{font-size:1rem;margin-top:1.2rem}

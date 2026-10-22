@@ -9,7 +9,7 @@ SCTA Racing News had been co-edited by Eldon Snapp and Wally Parks. When both en
 
 ## The newsletter (1943–45)
 
-Dean Batchelor wrote that the 1943–45 issues "were filled with letters from SCTA members writing from Europe, North America, and the Pacific Theater."[^fc] Circulation reportedly passed **750 servicemen**, and she personally corresponded with hundreds.[^fc] ◐ *The 750 figure is from one article.*
+Dean Batchelor wrote that the 1943–45 issues "were filled with letters from SCTA members writing from Europe, North America, and the Pacific Theater."[^fc] Circulation reportedly passed **750 servicemen**, and she personally corresponded with hundreds.[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Tom Medley drew covers for several issues while serving in the postwar occupation in Berlin. He called her "the glue that held hot rodding together during the war years."[^fc][^hem-orr] Per Batchelor (via Hemmings), the newsletter made Orr's the first stop for returning GIs.[^hem-orr] And Alex Xydias, about 100 at the time, put it plainly: "the best thing that Veda ever did was sending those newsletters to G.I.s."[^fc]
 
@@ -19,9 +19,7 @@ Karl Orr was born in Missouri in 1906, raced Model Ts from 1921, and came to Los
 
 ## On the lakebed
 
-Veda set a Full Fendered Roadster record of 104.40 mph at Muroc in her '32 Ford, which was also her daily driver. She later raised it to 114.24 mph and ran 131-plus mph in the Taylor-Blair modified.[^fc]
-
-**⚠ From the detective's notebook: when did she join the SCTA?** Fuel Curve says Karl's standing persuaded organizers to let her race and that she became the first woman SCTA member, which implies before the war.[^fc] A Hot Rod Hotline review says women were forbidden to join the SCTA before WWII and that the clubs voted her in as an exception *after* the war.[^hrh] Both can't be right, and the question is still open.
+Veda set a Full Fendered Roadster record of 104.40 mph at Muroc in her '32 Ford, which was also her daily driver. She later raised it to 114.24 mph and ran 131-plus mph in the Taylor-Blair modified.[^fc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The Pictorials
 
@@ -32,6 +30,14 @@ She also photographed for *California Timing News*; her photos of the Jimmy Summ
 ## Later
 
 The Orrs divorced and later reunited, reopening the shop in Mint Canyon. Karl died in 1988 and Veda in 1989.[^fc]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The 750 figure is from one article.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did she join the SCTA?** Fuel Curve says Karl's standing persuaded organizers to let her race and that she became the first woman SCTA member, which implies before the war.[^fc] A Hot Rod Hotline review says women were forbidden to join the SCTA before WWII and that the clubs voted her in as an exception *after* the war.[^hrh] Both can't be right, and the question is still open. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
@@ -46,6 +52,7 @@ The Orrs divorced and later reunited, reopening the shop in Mint Canyon. Karl di
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Fuel Curve, "Veda Orr" (period photos)](https://fuelcurve.com/veda-orr/)

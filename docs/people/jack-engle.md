@@ -15,9 +15,7 @@ In 1939 he ran 113 mph at El Mirage in a Model T roadster on Model A rails with 
 
 ## A homemade grinder before Isky?
 
-In 2018 his son Mark told Kustomrama that "he and Isky both bought their first cams from Ed Winfield."[^kr] ◐ *This is family oral history, single-sourced. The Winfield link fits the mentoring story on the [Iskenderian](ed-iskenderian.md) page.*
-
-**⚠ From the detective's notebook: when did the business start?** The sources give four versions:
+In 2018 his son Mark told Kustomrama that "he and Isky both bought their first cams from Ed Winfield."[^kr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 | Claim | Source |
 |---|---|
@@ -28,13 +26,25 @@ In 2018 his son Mark told Kustomrama that "he and Isky both bought their first c
 
 These can be reconciled as a hobby in 1939–41, a business name in 1941–42, and a full-time cam shop after the war, but that reading is ours, not the sources'.
 
-Wikipedia says he worked at North American Aviation and went back there after the war.[^wiki] ◐ Single-sourced.
+Wikipedia says he worked at North American Aviation and went back there after the war.[^wiki]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Reputation
 
-Wikipedia credits his Oldsmobile cams with beating the Chryslers on the strip, which "really put him on the map."[^wiki] ◐ This needs a period source such as Drag News results. Engle was one of the three camgrinders in the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) story.
+Wikipedia credits his Oldsmobile cams with beating the Chryslers on the strip, which "really put him on the map."[^wiki]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> Engle was one of the three camgrinders in the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) story.
 
 He died in Santa Monica on Nov 14, 2008.[^wiki][^obit] Engle Racing Cams now operates from Long Beach.[^site]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *This is family oral history, single-sourced. The Winfield link fits the mentoring story on the [Iskenderian](ed-iskenderian.md) page.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did the business start?** The sources give four versions: <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Single-sourced. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** This needs a period source such as Drag News results. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Images
 
@@ -44,6 +54,7 @@ He died in Santa Monica on Nov 14, 2008.[^wiki][^obit] Engle Racing Cams now ope
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Kustomrama, Jack Engle (family photos: his T roadster, the Low Flyers, the homemade grinder)](https://kustomrama.com/wiki/Jack_Engle)

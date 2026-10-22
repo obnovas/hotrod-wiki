@@ -344,7 +344,7 @@ def process_quotes(html, info):
             who = text_of(sm.group(1)) if sm else None
             ctx = clean_inline(re.sub(r"<strong>.*?</strong>", "", attr, count=1, flags=re.S))
             ctx = re.sub(r"^[\s,.:;—–-]+", "", ctx)
-            ctx = re.split(r"\.\s", ctx, 1)[0].rstrip(".")
+            ctx = re.split(r"\.\s", ctx, maxsplit=1)[0].rstrip(".")
             if who:
                 quotes.append({"text": qt, "who": who, "ctx": truncate(ctx, 90)})
         return '<blockquote class="hr-quote%s">%s</blockquote>' % (" hr-quote--by" if attr else "", "\n".join(body))

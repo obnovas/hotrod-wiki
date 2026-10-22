@@ -27,17 +27,23 @@ It did not stay that way.
 
 **1959.** Howard countered Isky's five cycles with "eight-cycle" cams, and Chet Herbert became the first serious challenger for Top Eliminator business.[^cp59]
 
-**1960.** Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]
-
-## From the detective's notebook
-
-**Still open:** the September 1958 ad itself (page, wording). Wallace's 1958 Drag Rags installment should reproduce it.
+**1960.** Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Was any of it real?
 
 Engle, looking back: "There was some hostility, but I would say the intent was competitive in nature... it was more or less a game."[^hr] Isky never visited Johansen, thinking he was angry.
 
 Then, at Johansen's funeral (c.1988), someone told him: "Howard used to get a kick out of reading your ads!"[^hr]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### More from the notebook
+
+**Still open:** the September 1958 ad itself (page, wording). Wallace's 1958 Drag Rags installment should reproduce it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 
@@ -52,6 +58,7 @@ Then, at Johansen's funeral (c.1988), someone told him: "Howard used to get a ki
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Dave Wallace, "Who Started The Camgrinder Wars? – Part 1" (period ads)](https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1)

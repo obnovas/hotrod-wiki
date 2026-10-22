@@ -28,7 +28,7 @@ Early builds were a '34 Ford (top cut off, stock Chrysler Hemi, six Strombergs);
 
 His first Bantam coupe, **Aggravation**, had Chassis Research kit rails, a Logghe front axle and a near-stock blown Chrysler. It ran the **1960** U.S. Nationals in Detroit and Detroit Dragway.[^hag]
 
-**Aggravation II** had a new Logghe chassis, a stroker blown Chrysler bought from Connie Kalitta, a Bantam body and Bergler's own finish work. It won the **first Ridler Award** at the **1964** Detroit Autorama; on the strip, Super Eliminator and Best Appearing at the **1966** NHRA SpringNationals (8.10 / 184 mph on gasoline cited by Hagerty). ◐[^hag][^mms]
+**Aggravation II** had a new Logghe chassis, a stroker blown Chrysler bought from Connie Kalitta, a Bantam body and Bergler's own finish work. It won the **first Ridler Award** at the **1964** Detroit Autorama; on the strip, Super Eliminator and Best Appearing at the **1966** NHRA SpringNationals (8.10 / 184 mph on gasoline cited by Hagerty).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^hag][^mms]
 
 MMSHOF also records Division 3 Super Eliminator points (**1966**), World Finals runner-up (**1966**), and the P.A. Sturtevant Mechanic Hall of Fame award (**1966**).[^mms] A later '23 T-based coupe with canopy won competition coupe and Best Appearing at the **1967** Winternationals, and Super Eliminator at the **1967** SpringNationals (MMSHOF/Hagerty).[^hag][^mms]
 
@@ -46,6 +46,12 @@ As of early 2024 he still worked four–five hours a day in a pole-barn shop beh
 
 **See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Show Circuit](../media/show-circuit.md), [Injection & Tin voices](../voices/injection-and-tin.md).
 
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** It won the **first Ridler Award** at the **1964** Detroit Autorama; on the strip, Super Eliminator and Best Appearing at the **1966** NHRA SpringNationals (8.10 / 184 mph on gasoline cited by Hagerty). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
 ## Images
 
 <figure markdown>
@@ -59,6 +65,7 @@ As of early 2024 he still worked four–five hours a day in a pole-barn shop beh
 </figure>
 
 ## Visual references (external)
+
 - [Hagerty, "The Ridler Award's First Winner..." (Bergler family archive photos)](https://www.hagerty.com/media/motorsports/al-bergler-first-ridler-award-winner-profile/)
 - [MMSHOF, Al Bergler](https://www.mmshof.org/index.php/inductees/inductees/27-al-bergler)
 

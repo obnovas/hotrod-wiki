@@ -19,7 +19,7 @@ These are first-hand and near-first-hand words from the Round 9 people: lakes in
 
 — Hilborn, company website text quoted in the same Autoweek obituary. Access 2026-10-14.
 
-**Label:** Told years later / company-site memoir. ⚠ SEMA's heritage piece credits **Howard Wilson** as the driver of the July 1948 **150.5 mph** El Mirage pass; Hilborn's sentence does not name the driver.
+**Label:** Told years later / company-site memoir.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 > "I began to build fuel injectors for the Offenhauser midget engine and these were doing so well, I eventually had to quit racing and start my manufacturing career."
 
@@ -73,7 +73,16 @@ These are first-hand and near-first-hand words from the Round 9 people: lakes in
 
 — Letter from a Freeway Drag Strip promoter to Garlits, as quoted in Garlits's memoir and reprinted on houstonfreewaydragstrip.com history page. Access 2026-10-14. https://www.houstonfreewaydragstrip.com/houston-international-speedway-history.htm
 
-**Label:** Secondhand via memoir quotation on a fan history site; we have not opened the original Garlits book page in this round. ◐
+**Label:** Secondhand via memoir quotation on a fan history site; we have not opened the original Garlits book page in this round.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Related pull-quotes already on other pages
+
 - Eddie Schartman on the first Logghe flip-top: [Show & Custom Voices](show-custom-voices.md) / [Schartman](../people/eddie-schartman.md)
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** SEMA's heritage piece credits **Howard Wilson** as the driver of the July 1948 **150.5 mph** El Mirage pass; Hilborn's sentence does not name the driver. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** **Label:** Secondhand via memoir quotation on a fan history site; we have not opened the original Garlits book page in this round. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>

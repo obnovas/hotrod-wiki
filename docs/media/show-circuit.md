@@ -16,7 +16,7 @@ Hot Rod describes the first National Roadster Show this way: rope barriers held 
 
 Promoter Al Slonaker first slipped some track roadsters and Barris customs into an "International Car Show" of new cars. Mary Slonaker recalled: "We didn't know rods from roller skates, but people liked them so much that Al decided the next year to hold a hot-rod-only car show." She added that "'hot rod' was still a no-no, so he substituted 'roadster'" (Hot Rod, "Golden Oldie").[^go]
 
-The show ran **Jan 19–22, 1950**, at the Oakland Exposition Building.[^go] **⚠ Attendance:** 27,625 (Hot Rod) vs "more than 25,000" (Kustomrama).[^go][^k50]
+The show ran **Jan 19–22, 1950**, at the Oakland Exposition Building.[^go]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **The first AMBR:** Bill Niekamp's lakes-bred '29 Ford roadster of Long Beach. Larry Neves (Oakland) and Fred Ige (West LA) were runners-up, and a roadster was built on the floor in 32 hours under Ben Hubbard.[^k50] "Grand" was added to the name in 1963.[^hr]
 
@@ -28,13 +28,21 @@ According to SEMA's Hall of Fame bio of Bob Larivee Sr., the first Autorama (195
 
 Promoter **Don Ridler** brought in musical acts: "Little Anthony & the Imperials, the Big Bopper and the Kalin Twins." The cars were now sharing the bill with pop music.[^sema]
 
-In 1959 Larivee and his brother Marvin Jr. formed **Promotions Inc.** Their first shows were with Ontario clubs (the Piston Pushers of Hamilton and the Tecumseh Hot Rod association of Windsor), and Toronto in 1960 made a $10,000 profit.[^sema] In 1962 he went west to court Edelbrock, Weiand's Ed Cholakian, Roth and Wally Parks. In **1963** he created the **International Show Car Association (ISCA)** to standardize judging.[^sema] SEMA says Promotions Inc. was putting on 100 shows a year twenty years later.[^sema] Detroit's automakers used his shows for debuts, such as the Mustang.[^sema] ◐
+In 1959 Larivee and his brother Marvin Jr. formed **Promotions Inc.** Their first shows were with Ontario clubs (the Piston Pushers of Hamilton and the Tecumseh Hot Rod association of Windsor), and Toronto in 1960 made a $10,000 profit.[^sema] In 1962 he went west to court Edelbrock, Weiand's Ed Cholakian, Roth and Wally Parks. In **1963** he created the **International Show Car Association (ISCA)** to standardize judging.[^sema] SEMA says Promotions Inc. was putting on 100 shows a year twenty years later.[^sema] Detroit's automakers used his shows for debuts, such as the Mustang.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 The circuit was a Midwest–Canada invention that pulled California cars east, not the other way round.
 
 ## Portland Roadster Show (1956)
 
 The Multnomah Hot Rod Council was founded in 1954 by Dee Wescott, "community members and elected officials." It produces the **Portland Roadster Show**, which it has owned and produced since 1956. MHRC calls it "the only [large show] that is ran entirely by volunteers."[^mhrc] See [Pacific Northwest](../places/pacific-northwest.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Attendance:** 27,625 (Hot Rod) vs "more than 25,000" (Kustomrama).[^go][^k50] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Detroit's automakers used his shows for debuts, such as the Mustang. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
@@ -54,6 +62,7 @@ The Multnomah Hot Rod Council was founded in 1954 by Dee Wescott, "community mem
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [Kustomrama: 1950 National Roadster Show photos](https://kustomrama.com/wiki/National_Roadster_Show_1950)

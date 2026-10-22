@@ -12,11 +12,11 @@ Flip through a 1950s yearbook and, somewhere between the Glee Club and the Futur
 
 ## The line under the photo
 
-The earliest date we have found comes from Sherman, Texas. In the 1956 yearbook, seniors' activity lists put "Hot Rod Club" beside the Scrabble, Bridge and Horseshoes and Washers clubs, with year marks running back to '53.[^sher] ◐ *Years as the scan reads them.* In Pensacola, Florida, the 1955 yearbook gave the HOT ROD CLUB its own roster, about thirty names long, and seniors listed it among their activities next to Allied Youth and the Monitor staff.[^pens] In Tillamook, Oregon, in 1958, the senior class president listed football, wrestling, DeMolay and the **Coasters Hot Rod Club**, and the line chosen for his photo was "Let me tell you [a]bout that car."[^till] In Imbler, Oregon, two 1958 seniors listed Future Farmers of America, boxing and "Hot Rod Club 2."[^imb] In Shawnee Mission, Kansas, a 1958 senior's list began "Hot Rod Club Pres. 1."[^sm] Fort Collins, Colorado, seniors listed "Hot Rod Club 4" in 1957.[^fc]
+The earliest date we have found comes from Sherman, Texas. In the 1956 yearbook, seniors' activity lists put "Hot Rod Club" beside the Scrabble, Bridge and Horseshoes and Washers clubs, with year marks running back to '53.[^sher]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> In Pensacola, Florida, the 1955 yearbook gave the HOT ROD CLUB its own roster, about thirty names long, and seniors listed it among their activities next to Allied Youth and the Monitor staff.[^pens] In Tillamook, Oregon, in 1958, the senior class president listed football, wrestling, DeMolay and the **Coasters Hot Rod Club**, and the line chosen for his photo was "Let me tell you [a]bout that car."[^till] In Imbler, Oregon, two 1958 seniors listed Future Farmers of America, boxing and "Hot Rod Club 2."[^imb] In Shawnee Mission, Kansas, a 1958 senior's list began "Hot Rod Club Pres. 1."[^sm] Fort Collins, Colorado, seniors listed "Hot Rod Club 4" in 1957.[^fc]
 
 Then there's Chillicothe, Ohio, where the 1955 class will had Hal Watts handing down "his most honored and cherished position as President of the 'Model A' Hot Rod Club" to "Lightning Louie" Ahlen, along with what the will called the "next to the fastest car in our fair city."[^chil]
 
-Search the Internet Archive's yearbook scans for the phrase and the hits keep coming, from Massachusetts and Maine to Texas, Oklahoma, Wisconsin and Michigan. We opened only the yearbooks cited on this page, so we won't put a number on it.[^search] ◐
+Search the Internet Archive's yearbook scans for the phrase and the hits keep coming, from Massachusetts and Maine to Texas, Oklahoma, Wisconsin and Michigan. We opened only the yearbooks cited on this page, so we won't put a number on it.[^search]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The Ram Rods of 24th and Stark
 
@@ -37,7 +37,7 @@ Then the paper's own editorial took the air out of it. Passing the inspection, i
 
 By the early 1960s the purpose statement had settled into a formula. At **Southeast Guilford High School** in Greensboro, North Carolina, in the school's first yearbook (1963), the Hot Rod Club "was organized under the leadership of Mr. James Russell." Its purpose "was to promote safe driving habits among the students and to give students a better understanding of the maintenance of their vehicle." The club ran a Christmas clothing drive, earned money with a car-inspection service, and hoped "to buy a car for their club project."[^seg]
 
-The idea had reached the textbooks, too. A 1955 book on secondary-school administration by Roland C. Faunce includes, in a numbered list, "Hot-rod club (to promote safe driving)," right between comfortable library chairs and a visitor's locker room. We could see only that search snippet, not what the list was for.[^faunce] ◐
+The idea had reached the textbooks, too. A 1955 book on secondary-school administration by Roland C. Faunce includes, in a numbered list, "Hot-rod club (to promote safe driving)," right between comfortable library chairs and a visitor's locker room. We could see only that search snippet, not what the list was for.[^faunce]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Circleville, Ohio, 1964–1967
 
@@ -49,9 +49,19 @@ That August the **Devastators** had their own exhibit under the grandstand at th
 
 Three years later, the line under the photo turns up again just outside town. In the 1967 yearbook of **Logan Elm High School**, Circleville, several seniors listed the Hot Rod Club, one of them for three years running, next to 4-H, the Grange and the Farm Bureau Youth Organization.[^le1967]
 
-*From the detective's notebook:* the school clubs show up in the same years as the town clubs the police and planners were sponsoring (see [What the City Planners Wrote](planners-report-1955.md), [The Cop and the Auto Shop](escanaba-dragns.md) and [Hoosier Road Runners](indiana-small-town-clubs.md)), and they use the same safety language. What the yearbooks add is the other side: a kid's car of the month, a will that passes down a Model A presidency, and an editorial that noticed the inspection checked the cars and not the drivers. For the novel that made a high school timing association its plot in 1953, see [*Street Rod* in the Small-Town Paper](../media/street-rod-newspaper-serial.md).
+The school clubs show up in the same years as the town clubs the police and planners were sponsoring (see [What the City Planners Wrote](planners-report-1955.md), [The Cop and the Auto Shop](escanaba-dragns.md) and [Hoosier Road Runners](indiana-small-town-clubs.md)), and they use the same safety language. What the yearbooks add is the other side: a kid's car of the month, a will that passes down a Model A presidency, and an editorial that noticed the inspection checked the cars and not the drivers. For the novel that made a high school timing association its plot in 1953, see [*Street Rod* in the Small-Town Paper](../media/street-rod-newspaper-serial.md).
 
 **Visual references (external):** the yearbook pages themselves, linked in the footnotes (Internet Archive scans of copyrighted yearbooks; linked, not copied).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Years as the scan reads them.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** We opened only the yearbooks cited on this page, so we won't put a number on it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** We could see only that search snippet, not what the list was for. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^cc]: Central Catholic High School (Portland, Ore.) 1957 yearbook scan, including pages of the school paper: Tom Joyce's car column, "Ram Rods: Theme of Club Safe Driving," a club photo caption, and the editorial "Something Overlooked." https://archive.org/details/classmates-yearbook-34055-1957-central-catholic-high-school (accessed 2026-10-16)
 [^pens]: Pensacola High School (Pensacola, Fla.) 1955 yearbook. https://archive.org/details/classmates-yearbook-36688-1955-pensacola-high-school (accessed 2026-10-16)

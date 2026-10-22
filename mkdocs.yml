@@ -23,7 +23,7 @@ theme:
       primary: custom
       accent: custom
       toggle: {icon: material/weather-sunny, name: "Daylight"}
-extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/print.css]
+extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/print.css, stylesheets/editorial.css]
 extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js, javascripts/connections.js]
 extra:
   issues_url: https://github.com/obnovas/hotrod-wiki/issues/new

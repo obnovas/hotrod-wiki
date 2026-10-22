@@ -15,13 +15,15 @@ He was sixteen in Lincoln, Nebraska, and his friend Dale had decided to paint hi
 He decided not to repaint his own. Decades later he would help invent some of the institutions of American hot rodding.
 
 ## From Lincoln to Hollywood
+
 Wells told his own story with a lot of jokes, and the sketch he wrote in March 2007 is the best source for the early part of it.[^hof]
 
 - **The cars.** At 16 his father gave him the family's 1936 Chevy two-door, which "jumped out of high gear," so a friend had to hold the floor shifter down while they cruised. In high school he also owned a 1948 Crosley station wagon that would not start on cold Nebraska mornings but was "small, light and easy to push." One day the Lincoln High football team carried the Crosley up the stairs and left it crosswise in front of the school's main doors. His friend Paul, a tuba player in the marching band, was told he could ride home, or the tuba could, but not both. Paul never spoke to him again.[^hof]
 - **The hot rod.** "Eventually Dick got the hot rod bug": a black 1948 Ford two-door, lowered, with dual exhaust, box-style fender skirts and "the 'cat's meow' of the day: twin Appleton spotlights."[^hof]
-- **The store.** He started as a stockroom clerk at **Hank's Auto Store** in Lincoln, then salesman, then manager. It sold parts and speed equipment. Later he was assistant manager at Speedway Motors.[^hof] The Nebraska Auto Racing Hall of Fame adds a local detail: the store "became a gathering place of hot rod enthusiasts who eventually persuaded Wells to organize a club for Lincoln's hot rodders." The **Rebels** car club, "which is still in existence today," was established in **1955**.[^narhof] ◐ *The hall's page is the only source for the Rebels' founding.*
+- **The store.** He started as a stockroom clerk at **Hank's Auto Store** in Lincoln, then salesman, then manager. It sold parts and speed equipment. Later he was assistant manager at Speedway Motors.[^hof] The Nebraska Auto Racing Hall of Fame adds a local detail: the store "became a gathering place of hot rod enthusiasts who eventually persuaded Wells to organize a club for Lincoln's hot rodders." The **Rebels** car club, "which is still in existence today," was established in **1955**.[^narhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## National Dragster, number one
+
 In 1960 he moved to Southern California, hoping for a job with a major speed-equipment maker. Instead, the NHRA hired him as the first editor of its new paper, *National Dragster*, "handpicked by NHRA founder Wally Parks." He edited it through 1960 and returned for a second stint in 1961–63.[^nd10][^narhof]
 
 A few of his stories survive in NHRA columns:
@@ -30,30 +32,43 @@ A few of his stories survive in NHRA columns:
 - **Parks Wengard.** At the same event Wells told how Parks "used to send critical letters to Drag News, DRAGSTER's scrappy rival," under the pen name Parks Wengard. Burgess, who had assumed that was just Parks's name, worked out the joke: "Parks Wengard spelled backwards is, well .... Drag News Krap, Wally's own little dig at his main competitor."[^nd09] For the rival paper, see [Doris Herbert](doris-herbert.md).
 
 ## Hot Rod, Motor Trend and a stadium of speed parts
+
 At Tex Smith's urging he became managing editor, then feature editor, of *Hot Rod*, and later executive editor of *Motor Trend*. At Petersen Publishing he moved into special events. In 1967, with Ray Brock and [Alex Xydias](alex-xydias.md), he produced the first trade show of what became the SEMA Show, with 98 booths under the grandstands at Dodger Stadium.[^hof][^narhof]
 
 In an email Burgess quotes, Wells recalled that when he was *Hot Rod*'s feature editor and covered the Nationals, a reader wrote "I felt like I was there," and Tex Smith told the staff, "That's what we must all strive to accomplish."[^nd10]
 
 ## The street rod years, and the president question
-Wells helped bring the Street Rod Nationals and the National Street Rod Association to life. What the sources do and don't say about his title is awkward:
+
+Wells helped bring the Street Rod Nationals and the National Street Rod Association to life. What the sources do and don't say about his title is awkward:<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 | Source | What it says about Wells and the NSRA |
 |---|---|
 | Wells's own 2007 sketch | He "was the first active president of the National Street Rod Association," and "started the Street Rod Nationals."[^hof] |
 | Daniel Strohl's obituary note, republished with the NHRA text | "one of the men who, in the early 1970s, put together the first Street Rod Nationals and founded the National Street Rod Association, of which he served as its first active president."[^hof] |
 | Nebraska Auto Racing Hall of Fame (2009) | "Several years later, Wells took a position with the National Street Rod Association (NSRA) and later became the organization's President."[^narhof] |
-| Wikipedia | "Dick Wells was the first president and CEO," with the NSRA's headquarters in the offices of *Rod Action*, where he was Ray Brock's partner.[^wiki] ◐ |
+| Wikipedia | "Dick Wells was the first president and CEO," with the NSRA's headquarters in the offices of *Rod Action*, where he was Ray Brock's partner.[^wiki] <sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> |
 | 99W Speed Shop's *Street Rod* magazine history | Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President."[^w99] |
 | Gray Baskerville (*Rod & Custom*, 2001) | A couple of years before 1971, Tom Medley, Bud Bryan and Tex Smith "decided to emulate the National Hot Rod Association and create a parallel organization that they called the National Street Rod Association." Petersen "supplied the dough and publicity," and out-of-state friends, "namely Cotton Werksman, Dick Royer, Bruce Miller, Bugg, and Walker chipped in, became a part of the NSRA." Werksman, he later writes, was "one of the five original NSRA members."[^gb] |
 
-⚠ **From the detective's notebook: the president question (unresolved).** Four of these sources name Wells and one names Miller; Baskerville names no president. The Miller source is the 99W page, which also misdates the first Nationals (it says Memphis 1970; it was Peoria, as other pages here document). Baskerville never mentions Wells at all, and he lists five people, Miller among them, who "chipped in." A **reconciliation** is possible: if Miller was the nominal first president and member #1 when the association formed, Wells could have been the first president who actually ran it, hence "first *active*." But the word "active" appears only in Wells's own account and in an obituary built on it, and no source says anyone else held the title earlier. We keep Wells as the best-supported first president and Miller's claim open. See [NSRA early Nationals](../street-rodding/nsra-early-nationals.md) and [*Street Rod* magazine (Portland)](../media/street-rod-magazine-portland.md).
-
-Wikipedia also says that by 1973 Wells had set up thirty volunteer state representatives, that SEMA adopted the system in 1975, and that SEMA then hired him away.[^wiki] ◐ The hall's page agrees that he later rejoined SEMA and that he moved its show from California to Las Vegas.[^narhof]
+Wikipedia also says that by 1973 Wells had set up thirty volunteer state representatives, that SEMA adopted the system in 1975, and that SEMA then hired him away.[^wiki]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> The hall's page agrees that he later rejoined SEMA and that he moved its show from California to Las Vegas.[^narhof]
 
 ## Honors and the end
+
 SEMA's executive director in the 1970s, he was SEMA Person of the Year in 1977 and entered the SEMA Hall of Fame in 1993. He received the ISCA Founder's Award in 1994, an industry award from the Street Rod Marketing Alliance in 1996, and the NHRA Pioneer Award in 2001. He sat on the NHRA board from 1979, and was inducted into the Nebraska Auto Racing Hall of Fame in 2009.[^hof][^narhof]
 
 He died on January 18, 2010, "10 days short of his 76th birthday," after complications from heart surgery.[^hof][^nd10] Phil Burgess opened his tribute with a question: "How do you say goodbye to the guy who invented your job?"[^nd10]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The hall's page is the only source for the Rebels' founding.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Wikipedia*: "Dick Wells was the first president and CEO," with the NSRA's headquarters in the offices of *Rod Action*, where he was Ray Brock's partner. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **The president question (unresolved).** Four of these sources name Wells and one names Miller; Baskerville names no president. The Miller source is the 99W page, which also misdates the first Nationals (it says Memphis 1970; it was Peoria, as other pages here document). Baskerville never mentions Wells at all, and he lists five people, Miller among them, who "chipped in." A **reconciliation** is possible: if Miller was the nominal first president and member #1 when the association formed, Wells could have been the first president who actually ran it, hence "first *active*." But the word "active" appears only in Wells's own account and in an obituary built on it, and no source says anyone else held the title earlier. We keep Wells as the best-supported first president and Miller's claim open. See [NSRA early Nationals](../street-rodding/nsra-early-nationals.md) and [*Street Rod* magazine (Portland)](../media/street-rod-magazine-portland.md). <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Wikipedia also says that by 1973 Wells had set up thirty volunteer state representatives, that SEMA adopted the system in 1975, and that SEMA then hired him away. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 [^hof]: "Dick Wells (1934–2010)," Hot Rod Hall of Fame site (Greg Wapling), reproducing NHRA's Jan 19, 2010 "In his own words" biography (written by Wells in March 2007) and Daniel Strohl's obituary note. https://gregwapling.com/hotrod/hot-rod-hall-of-fame/dick-wells.html (accessed 2026-10-15)
 [^narhof]: Nebraska Auto Racing Hall of Fame, Class of 2009 inductees ("Media: Dick Wells"). https://www.narhof.com/inductees/2009 (accessed 2026-10-15)

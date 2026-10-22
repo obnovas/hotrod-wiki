@@ -11,7 +11,7 @@ The **Minnesota Street Rod Association** began in 1967, when Jerry Johnson (memb
 
 ## Back to the 50's (1974)
 
-The first Back to the 50's was held **June 23–25, 1974**, at the **Midway Shopping Center**, St. Paul. It drew about 125–150 cars and included a cruise to Porky's Drive-In (MSRA).[^msra] The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year.[^msra] ◐
+The first Back to the 50's was held **June 23–25, 1974**, at the **Midway Shopping Center**, St. Paul. It drew about 125–150 cars and included a cruise to Porky's Drive-In (MSRA).[^msra] The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year.[^msra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Eligibility was **1964 and older**, looser than the NSRA's 1948 line.[^msra]
 
@@ -20,6 +20,12 @@ It later moved to the State Fairgrounds and became one of the biggest street-rod
 ## How it differed
 
 Here the *street rod association* came first and drag racing came second. A cold climate and long distances shaped a culture of summer driving events and cruises rather than year-round racing.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 
@@ -34,6 +40,7 @@ Here the *street rod association* came first and drag racing came second. A cold
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [HotRod Hotline: History of Back to the Fifties, Part II](https://hotrodhotline.com/history-of-back-to-the-fifties-part-ii/)

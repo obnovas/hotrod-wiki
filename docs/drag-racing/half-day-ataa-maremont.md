@@ -15,24 +15,27 @@ That is the core of the **Automobile Timing Association of America (ATAA)** stor
 Nearly everything we know about the strip's first years comes from Maremont's own publicity, reprinted by magazines and local papers that liked a good safety story. We say so each time.
 
 ## The strip
-- **Where.** The NHRA's 2023 Illinois drag-strip primer, summarizing Mel Bayshore's strip list, says Half Day Speedway opened in 1952 on an outlying satellite airfield used by Glenview Naval Air Station in World War II, "part of what was known as Maremont Speedway." It says the ATAA "first conducted drag races there starting on April 6, 1952, but the track was shut down the following year."[^nhra] The primer also credits the strip to "the brainchild of Andy Granatelli," which we have not seen elsewhere. ◐
+
+- **Where.** The NHRA's 2023 Illinois drag-strip primer, summarizing Mel Bayshore's strip list, says Half Day Speedway opened in 1952 on an outlying satellite airfield used by Glenview Naval Air Station in World War II, "part of what was known as Maremont Speedway." It says the ATAA "first conducted drag races there starting on April 6, 1952, but the track was shut down the following year."[^nhra] The primer also credits the strip to "the brainchild of Andy Granatelli," which we have not seen elsewhere.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 - **How it ran.** A half-mile course on an abandoned airstrip or unused four-lane highway. Two cars ran from a standing start, timed electronically over the first quarter-mile, and the second quarter-mile was for "safe deceleration."[^sm]
 - **Crowds.** *Traffic Digest and Review* and *The Police Chief* both repeat the ATAA's figure that "last summer's" program drew "an average of 300 hot rodders and 3,000 spectators" every Sunday.[^tdr][^pc] *Sales Management* says there were "no accidents in 25 Sundays of racing."[^sm] One detail from the same feature: "One Indiana farmer rode his motorcycle 150 miles each way to compete in each Sunday's events."[^sm]
 - **Cars.** The program said every car had to pass a safety inspection stricter than city or state tests.[^tdr] Classes were set by dividing engine displacement into the car's weight without the driver.[^ma]
 
 ## The association
-The ATAA was a non-profit that Maremont underwrote. The *Escanaba Daily Press* ran a July 22, 1954 wire feature headed "Hot Rodders Playing It Safe" that says it "came into being in 1953" to operate the Half Day strip and that Maremont, "a Chicago manufacturer of automotive products and racing enthusiast," underwrote its expenses.[^esc] (OCR; spacing normalized.) The headquarters were at 1705 S. Ashland Ave., Chicago, with Joseph Di Lorenzo as national director.[^tdr]
 
-⚠ **From the detective's notebook: 1952 or 1953?** *Motor Age* (June 1955) says "the non-profit ATAA was founded in 1952 by Maremont Automotive Products, Inc."[^ma] The NHRA primer dates the first races to April 6, 1952.[^nhra] The 1954 wire feature says 1953.[^esc] [Bob Bartel's](../people/bob-bartel.md) tribute dates his first ATAA races to 1953.[^bart] A plausible reconciliation is a 1952 start with a 1953 formal incorporation or main season, but no source says that. We keep 1952 for the first races and flag the association date.
+The ATAA was a non-profit that Maremont underwrote. The *Escanaba Daily Press* ran a July 22, 1954 wire feature headed "Hot Rodders Playing It Safe" that says it "came into being in 1953" to operate the Half Day strip and that Maremont, "a Chicago manufacturer of automotive products and racing enthusiast," underwrote its expenses.[^esc] (OCR; spacing normalized.) The headquarters were at 1705 S. Ashland Ave., Chicago, with Joseph Di Lorenzo as national director.[^tdr]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ### Who signed on
-*Traffic Digest and Review* and *The Police Chief* list local endorsements: the Cook County sheriff, John Babb; the Chicago Police Department's traffic chief, Michael J. Ahern; David M. Baldwin, director of the National Safety Council's Traffic Division; and Charles Chaplin, mayor of Northbrook, Ill.[^tdr] They are in the ATAA's own news release, so they are the sponsor's claim that these men endorsed it. ◐
+
+*Traffic Digest and Review* and *The Police Chief* list local endorsements: the Cook County sheriff, John Babb; the Chicago Police Department's traffic chief, Michael J. Ahern; David M. Baldwin, director of the National Safety Council's Traffic Division; and Charles Chaplin, mayor of Northbrook, Ill.[^tdr] They are in the ATAA's own news release, so they are the sponsor's claim that these men endorsed it.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ### The blizzard meeting
-The sponsor's best story is about turnout. *Sales Management* (June 1, 1954) says that when the ATAA invited 26 hot rodders to a planning meeting in Chicago, "53 enthusiasts showed up, despite a raging blizzard that stalled motorists all over the city."[^sm] The wire feature in the Escanaba paper says Maremont put it as "28 hot-rod leaders" and "53 showed up."[^esc] ⚠ *The two scans differ on the invitation count (26 vs 28; both OCR), and both repeat Maremont.*
+
+The sponsor's best story is about turnout. *Sales Management* (June 1, 1954) says that when the ATAA invited 26 hot rodders to a planning meeting in Chicago, "53 enthusiasts showed up, despite a raging blizzard that stalled motorists all over the city."[^sm] The wire feature in the Escanaba paper says Maremont put it as "28 hot-rod leaders" and "53 showed up."[^esc]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Beyond Illinois: the St. Charles test
-In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree.
+
+In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 | Source | Competitors | Spectators |
 |---|---|---|
@@ -41,11 +44,10 @@ In mid-November (1953, from context), the ATAA tried a one-day event at **St. Ch
 | *Traffic Digest and Review* and *The Police Chief*, July 1954 | "more than 200" | 2,000 |
 | *Motor Age*, June 1955 | "200 entries" | 2,000 |
 
-⚠ The numbers grow as the story is retold, from 140 competitors to "more than 200" and from 1,500 spectators to 2,000. We cannot tell which is right. The earliest and most detailed account says 140 and 1,500.[^sm][^esc][^tdr][^pc][^ma]
-
-For the 1954 season *Sales Management* says the ATAA would help local hot rodders pick a strip and then "send a crew of specialists" (an electrician for timing and public-address systems, a safety manager to inspect and classify vehicles, and a track manager) to run the first program in each area, then leave the local unit to carry on.[^sm] The wire feature says Maremont claimed the ATAA then represented "some 5,000 hot-rodders in Illinois, Wisconsin and Indiana."[^esc] ◐ By mid-1955 *Motor Age* says ATAA chapters existed in places as scattered as Corpus Christi, Texas, Washington, D.C., and Puyallup, Wash. (printed "Payallupe"), and that the ATAA published its own paper, *The Dragster*.[^ma]
+For the 1954 season *Sales Management* says the ATAA would help local hot rodders pick a strip and then "send a crew of specialists" (an electrician for timing and public-address systems, a safety manager to inspect and classify vehicles, and a track manager) to run the first program in each area, then leave the local unit to carry on.[^sm] The wire feature says Maremont claimed the ATAA then represented "some 5,000 hot-rodders in Illinois, Wisconsin and Indiana."[^esc]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The "World Series"
+
 The name arrived before the event. *Sales Management* in 1954 and the wire feature both call the **Bonneville National Speed Trials** the "world series of hot-rodding," where Maremont gave a trophy and a college scholarship to the best-engineered entry.[^sm][^esc] By June 1955 the label had moved to the ATAA's own meet.
 
 *Motor Age*, in a piece bylined to M. Robert Wolfson of Maremont Automotive Products, says:[^ma]
@@ -54,9 +56,10 @@ The name arrived before the event. *Sales Management* in 1954 and the wire featu
 - The **second annual** World Series would be "August 17 through 21" at Lawrenceville.
 - Illinois Gov. William Stratton welcomed hot rodders to "the 1954 World Series of Drag Racing," saying the state was "happy to be able to provide this safe, off-the-street location (Lawrenceville Municipal Airport)."
 
-That is the first period evidence we have for the date of the first World Series, and it matches the 1954 date in the Bartel tribute. It undercuts the "1956" (a 2017 newspaper summary) and "1953" (promoter copy) dates. See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series). We still lack a program or an ad, and *Motor Age* is a sponsor's article, so we call it strong but not final. ◐
+That is the first period evidence we have for the date of the first World Series, and it matches the 1954 date in the Bartel tribute. It undercuts the "1956" (a 2017 newspaper summary) and "1953" (promoter copy) dates. See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series). We still lack a program or an ad, and *Motor Age* is a sponsor's article, so we call it strong but not final.<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
 ### What won in 1954 (as *Motor Age* reports it)
+
 | Award | Winner |
 |---|---|
 | Maremont Trophy and $1,000 scholarship (top speed) | "Green Monster," built by the three Arfons brothers of Akron, Ohio: six wheels, a 12-cylinder, 1,450 hp Allison aircraft engine, two Ford truck rear ends facing each other, two '40 Ford hoods for a nose. 132.35 mph, 4,000 pounds[^ma] |
@@ -67,9 +70,31 @@ That is the first period evidence we have for the date of the first World Series
 For 1955 the piece expects the Akron club to bring about 25 entries, Detroit's Motor City Modifiers 30 to 40 cars, and clubs from Michigan (it counts 3,000 members in 40 clubs), Washington, D.C., and Memphis.[^ma] See [Akron Fulton Airport](akron-fulton-airport.md), [Memphis](../places/memphis.md) and [Detroit & Cordova](detroit-cordova.md).
 
 ## What changed by 1957
-In March 1957, a wire survey on drag strips quoted Arnold H. Maremont as saying "There never has been an accident at a race sponsored by the ATAA," while the National Safety Council had just come out against drag racing, "supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md). Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed. ◐
+
+In March 1957, a wire survey on drag strips quoted Arnold H. Maremont as saying "There never has been an accident at a race sponsored by the ATAA," while the National Safety Council had just come out against drag racing, "supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md). Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed.<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The strip* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **1952 or 1953?** *Motor Age* (June 1955) says "the non-profit ATAA was founded in 1952 by Maremont Automotive Products, Inc."[^ma] The NHRA primer dates the first races to April 6, 1952.[^nhra] The 1954 wire feature says 1953.[^esc] [Bob Bartel's](../people/bob-bartel.md) tribute dates his first ATAA races to 1953.[^bart] A plausible reconciliation is a 1952 start with a 1953 formal incorporation or main season, but no source says that. We keep 1952 for the first races and flag the association date. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** They are in the ATAA's own news release, so they are the sponsor's claim that these men endorsed it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The two scans differ on the invitation count (26 vs 28; both OCR), and both repeat Maremont.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** The numbers grow as the story is retold, from 140 competitors to "more than 200" and from 1,500 spectators to 2,000. We cannot tell which is right. The earliest and most detailed account says 140 and 1,500.[^sm][^esc][^tdr][^pc][^ma] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** By mid-1955 *Motor Age* says ATAA chapters existed in places as scattered as Corpus Christi, Texas, Washington, D.C., and Puyallup, Wash. (printed "Payallupe"), and that the ATAA published its own paper, *The Dragster*.[^ma] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** We still lack a program or an ad, and *Motor Age* is a sponsor's article, so we call it strong but not final. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far:** Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 ## Sources and caveats
+
 - *Sales Management*, *Traffic Digest and Review*, *The Police Chief* and *Motor Age* are trade or association periodicals. The ATAA story in them is from a news release or a sponsor's staff writer, so we treat claims about safety, attendance and endorsements as promotional.
 - We read scanned OCR from the Internet Archive. Spacing was normalized and quotes kept short.
 

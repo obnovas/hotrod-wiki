@@ -14,7 +14,7 @@ In 1951 the chief of a Southern California city police department wrote up, for 
 
 Parker opens with the dispatcher's call: "KMA 384—to motors—20, 21, 22, 23, and 24 . . . Vicinity of Holt and White Avenues—Hot Rods Racing and Creating Disturbance." He calls this "typical of the nightly broadcast," and says that in some cases traffic court judges rode along with officers from several Los Angeles-area cities "to make mass arrests." The state legislature had also made it unlawful to take part in, or be present at, illegal races, which he says "had negative results" for control.[^leb]
 
-A 1947 item from a blog that posts daily 1947 news shows the older approach in a neighboring city. In Compton, police blockaded a street on July 8 and caught 20 boys racing. Justice Harry R. Simon fined nine of them $2 to $5 and warned, "If we catch you racing your hot rods in Compton again … I am going to throw you all in jail."[^c47] ◐ *The blog does not name the newspaper it summarizes.*
+A 1947 item from a blog that posts daily 1947 news shows the older approach in a neighboring city. In Compton, police blockaded a street on July 8 and caught 20 boys racing. Justice Harry R. Simon fined nine of them $2 to $5 and warned, "If we catch you racing your hot rods in Compton again … I am going to throw you all in jail."[^c47]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## What the police tried instead
 
@@ -36,9 +36,7 @@ The "Choppers" Club "dug in" on **April 1, 1951**, with the program's operating 
 
 ## Later: the fairgrounds
 
-A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the **Pomona Valley Timing Association**, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in **April 1953**. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]
-
-**From the detective's notebook:** ⚠ We found no source for exactly when the club moved from Fontana to the fairgrounds, and none that confirms that "E. J. Coons" and "Bud Coons" are the same officer. They probably are.
+A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the **Pomona Valley Timing Association**, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in **April 1953**. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Why it matters
 
@@ -51,7 +49,16 @@ Compare the other local programs in [What the City Planners Wrote (1955)](planne
 <figcaption markdown>The Pomona strip in February 2008, at what is now Auto Club Raceway at Pomona on the Fairplex grounds. It is the successor site to the fairgrounds strip the Choppers raced on; it is not the Fontana airport strip. Creator: mbtrama. Date: 2008-02-09 12:42:45. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pomona_Drag_Strip.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
 
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The blog does not name the newspaper it summarizes.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** We found no source for exactly when the club moved from Fontana to the fairgrounds, and none that confirms that "E. J. Coons" and "Bud Coons" are the same officer. They probably are. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
 ## Visual references (external)
+
 *Period photos are not clearly free of copyright, so we link to them instead.*
 
 - [FBI Law Enforcement Bulletin, December 1951 (PDF)](https://leb.fbi.gov/file-repository/archives/december-1951.pdf). Parker's article starts on bulletin page 2 and includes a photo, "Two hot rods being flagged to a start for a drag race," and a track diagram.

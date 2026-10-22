@@ -16,13 +16,13 @@
 
 His first ride came in December 1965 at Motor City Dragway. "I said, 'What the hell is this?' It was a dragster with a body on it and the driver in the back seat... On my first pass, I went 166 mph and took out the [finish-line] lights."[^nhra]
 
-The cars had a [Logghe](../companies/logghe-stamping.md) chromoly chassis with a 116-in. wheelbase. Al Turner said they were the first drag car with coil-over shocks. The bodies came from Plastigage of Jackson, Mich., and the hinged "flopper" idea is credited to Ron Logghe (per John Logghe). Al Bergler did the tin work.[^nhra] ◐ *These are attributions within one article.*
+The cars had a [Logghe](../companies/logghe-stamping.md) chromoly chassis with a 116-in. wheelbase. Al Turner said they were the first drag car with coil-over shocks. The bodies came from Plastigage of Jackson, Mich., and the hinged "flopper" idea is credited to Ron Logghe (per John Logghe). Al Bergler did the tin work.[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 At the 1966 World Finals in Tulsa he beat Nicholson (8.38/174.08) for **NHRA's first Funny Car eliminator win**.[^nhra]
 
 In 1967 came Air Lift sponsorship, with "Famous Amos" Satterlee as crew chief. He claimed the first seven-second run in a stock-bodied car at **Detroit Dragway** in April, though he "doesn't put a lot of stock" in such firsts.[^nhra]
 
-His claim to an accidental rear spoiler, from Maple Grove in 1967: angle iron bolted to the trunk. "It went straight and picked up 5 mph. We'd invented the [rear-deck] spoiler and didn't even know it."[^nhra] ◐ *Self-reported "first."*
+His claim to an accidental rear spoiler, from Maple Grove in 1967: angle iron bolted to the trunk. "It went straight and picked up 5 mph. We'd invented the [rear-deck] spoiler and didn't even know it."[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Wrecking yard kid
 
@@ -38,6 +38,14 @@ In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick becaus
 
 **See also (Round 10):** [The Ohio Gassers](../places/ohio-gassers.md) (his Cleveland circle) and [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (Roy Gay was runner-up to Schartman at the 1967 Manufacturers Championships).
 
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *These are attributions within one article.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Self-reported "first."* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
 ## Images
 
 <figure markdown>
@@ -46,6 +54,7 @@ In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick becaus
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [NHRA, "'Fast Eddie' Schartman" (period photos of the A/FX Comet, the flip-top Comet and the Air Lift Cougar)](https://www.nhra.com/news/2016/fast-eddie-schartman)

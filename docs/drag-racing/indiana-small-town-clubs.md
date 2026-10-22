@@ -13,14 +13,17 @@ In September 1956 twenty-four young men in Decatur, Indiana, signed up for a hot
 Decatur is a small Adams County town of the kind that never makes a hot rod history. There was no dry lake and no famous shop, and the *Decatur Daily Democrat* gave the club a few lines at a time between a cross-country meet and a grocery-store ad. Those lines are worth reading precisely because nobody was trying to make history. They show what a small town did when a handful of teenagers wanted to talk about cars.
 
 ## A teen-driving book in Greencastle (1954)
+
 On December 9, 1954 *The Daily Banner* in Greencastle ran a column reviewing *Driving Today and Tomorrow* by Margaret O. Hyde. The columnist decided to trust the kids: "I would take the youngster, provided he had read a certain little book."[^banner]
 
 The review draws a line that the 1950s safety campaigns drew everywhere. There was "a good deal of criticism and disparagement of the 'Hot Rod' cult by those who confuse it with 'shot rod.'" The scan's description of "shot rodders" is partly garbled, but it plainly means souped-up jalopies and ignored traffic rules. In contrast, "The Hot Rod Club is an entirely different story, as the author of this well-illustrated book points out." Its members were "true 'auto enthusiasts' with a definite code of driving technique," who agreed "to observe motor vehicle laws wherever they travel, and to show courtesy and consideration to fellow drivers and pedestrians."[^banner] (OCR garbles part of the passage; only phrases that read cleanly are quoted.)
 
 ## Safety Second (Decatur, 1953)
+
 Almost two years earlier, a Decatur filler item from United Press had told its readers about Manchester, Connecticut, where youths "who had formed the Hot Rod club and the 100-Mile-an-Hour club were sobered by the deaths of two young motorists." They founded "the 35 Miles Per Hour club."[^dcdd53] It ran under the headline "Safety Second."
 
 ## Decatur's Road Runners (1956–57)
+
 The paper's coverage runs over five weeks.
 
 | Date | What the *Decatur Daily Democrat* printed |
@@ -36,26 +39,33 @@ What this tells us:
 - **A youth center was the clubhouse.** Unlike the Escanaba club's shop (see [The Cop and the Auto Shop](escanaba-dragns.md)), Decatur's meetings were held in a town youth and community center.
 - **The police pitch came first.** The organizing notice leads with the police and with "safety on the highways." Compare the small-town clubs in [What the City Planners Wrote](planners-report-1955.md), whose members worked with police departments.
 - **Fund-raising looked like any other club's.** A winter car wash, with a notice that gave the club's name as "Road Runners."
-- **The club's spelling varies.** "Roadrunners" in one notice, "Road Runners" in the others.
-
-⚠ **From the detective's notebook: which "national Hot Rod club"?** The September 12 notice says a "chapter of the national Hot Rod club." No such organization is named, and there were several by 1956 (the NHRA among them). We do not know whether Decatur ever received a charter. ◐
-
-**What we could not find.** After the February 1957 car wash we found no item about the Road Runners. Whether they raced, built a strip or faded is unknown.
+- **The club's spelling varies.** "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The Flying Pistons (Syracuse, 1958)
+
 The *Syracuse-Wawasee Journal* of January 23, 1958 ran a student profile of a senior, "Deb," son of Mr. and Mrs. George Thornburg of Syracuse, Ind. Among his athletics (basketball, cross-country and track) it adds: "He is also a member of the Flying Pistons Hot Rod Club." His favorite subject was physics, and his favorite song was "Reddy Teddy" by Little Richard. "Deb says he dislikes girls and sleeping, which we find hard to believe."[^swwj] (OCR; the surname is read from the parents' line.) It is a single line, but it tells us that by 1958 a hot rod club in a small town was an ordinary extracurricular, listed beside basketball letters.
 
 ## A Detroit ticket-writer, in Greencastle (1958)
+
 On February 4, 1958 *The Daily Banner* ran a syndicated column by "Jeanne Smith, Dodge Safety Consultant," about a Detroit patrolman, **William H. Tomlinson**, who "accepted the club sponsorship on one condition — the boys would have to adhere to certain safety rules which he would enforce as strictly as he does traffic laws when he is riding his motorcycle." The result was the **Detroit Modified Rod and Custom Club**, with "more than 100 members, between the ages of 16 and 22." At each meeting a block of new business is set aside for members to declare any traffic tickets since the last meeting; besides paying the fine in traffic court, they pay "a fine to the club fund."[^d58]
 
-"What a boy did before he became a member of the club doesn't matter," Tomlinson is quoted as saying. "What he does while he is a member, however, is of interest to all the group." And: "I would say that 50 percent of all the members were ticketed by me before joining this club."[^d58]
-
-◐ This is an automaker's public relations column. It does not say when or where in Detroit the club met, and we have not found a Detroit paper confirming Tomlinson. It is useful here because Greencastle readers saw it. For Detroit's own scene see [Detroit Dragway & Cordova](detroit-cordova.md) and [Woodward](../places/woodward.md).
+"What a boy did before he became a member of the club doesn't matter," Tomlinson is quoted as saying. "What he does while he is a member, however, is of interest to all the group." And: "I would say that 50 percent of all the members were ticketed by me before joining this club."[^d58]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## How the sources compare
+
 - **Local items** (Decatur notices, the Syracuse profile) are short, unsigned and plain. They give names, places and times, but not results.
 - **Syndicated items** (the UP filler, the Dodge column) show what ideas reached small towns. They do not describe local clubs.
 - The Hoosier State Chronicles OCR is imperfect. Quotes here are trimmed to phrases that read cleanly.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Which "national Hot Rod club"?** The September 12 notice says a "chapter of the national Hot Rod club." No such organization is named, and there were several by 1956 (the NHRA among them). We do not know whether Decatur ever received a charter. ◐ <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** **What we could not find.** After the February 1957 car wash we found no item about the Road Runners. Whether they raced, built a strip or faded is unknown. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** This is an automaker's public relations column. It does not say when or where in Detroit the club met, and we have not found a Detroit paper confirming Tomlinson. It is useful here because Greencastle readers saw it. For Detroit's own scene see [Detroit Dragway & Cordova](detroit-cordova.md) and [Woodward](../places/woodward.md). <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^banner]: "Margaret Latrobe" [name as OCR reads], book column on Margaret O. Hyde, *Driving Today and Tomorrow*, *The Daily Banner* (Greencastle, Ind.), Dec 9, 1954, p. 5. https://newspapers.library.in.gov/?a=d&d=TDB19541209-01.1.5 (accessed 2026-10-15)
 [^dcdd53]: "Safety Second" (UP), *Decatur Daily Democrat*, Mar 12, 1953, p. 10. https://newspapers.library.in.gov/?a=d&d=DCDD19530312.1.10 (accessed 2026-10-15)

@@ -11,13 +11,21 @@ Sullivan, a self-taught builder working from a small shop in Dayton, Ohio since 
 
 ## Who named it
 
-Sullivan dates the label to **1979**, when photographer-writer **Steve Reyes** wrote an article featuring Sullivan's '66 Nova, a '66 Chevelle called "Goldenrod," and others, and called the trend "Pro Street." Sullivan admits the real start is "much harder to pin down": in **1974** he tucked 15x9 Cragars and 11.5-wide tires under a '71 Demon by tubbing it.[^hr] ◐ *The 1979 Reyes article is not yet identified by magazine/issue; open lead.*
+Sullivan dates the label to **1979**, when photographer-writer **Steve Reyes** wrote an article featuring Sullivan's '66 Nova, a '66 Chevelle called "Goldenrod," and others, and called the trend "Pro Street." Sullivan admits the real start is "much harder to pin down": in **1974** he tucked 15x9 Cragars and 11.5-wide tires under a '71 Demon by tubbing it.[^hr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 In 1988 he drove his '55 Chevy "Cheez Whiz" cross-country with photographer Jeff Smith.[^hr]
 
 ## The look (1979–late 80s)
 
-Large rear tires under stock-looking bodies via wheel tubs, back-halved or tube chassis, roll cages, and often superchargers.[^hr2] ◐ *Trait list from magazine summaries; to be expanded with period features.*
+Large rear tires under stock-looking bodies via wheel tubs, back-halved or tube chassis, roll cages, and often superchargers.[^hr2]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The 1979 Reyes article is not yet identified by magazine/issue; open lead.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Trait list from magazine summaries; to be expanded with period features.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

@@ -8,17 +8,7 @@
 
     — **Gene Winfield**, interviewed by Chris Murphy for Modestoview (undated, about the Modesto Cruise Route opening).[^int]
 
-The Century Toppers were Modesto's first hot rod club, named for cars that could top 100 mph. They matter here because the same garage where they met launched one of the country's best-known customizers, and because their 1949 paper trail shows a small-town club working **with** the California Highway Patrol rather than against it.[^mv]
-
-## ⚠ When was it founded?
-
-*From the detective's notebook: three sources, three starting lines.*
-
-- **Late 1947:** Gene Winfield says "We put the Century Toppers together in late '47," and names Dick Petz, his brother Frank Winfield, Bob Petz, Ray Rossin and Tommy McGee as early members, with Evelyn Horn, who lived next door to his mother, as secretary "for the entire time."[^int]
-- **1947:** Modestoview's "The Birth of Cruising" also says 1947.[^mv]
-- **1946:** Kustomrama says the club was "formed in Modesto, California in 1946" when Charlie Bell "got together with some friends," and that Winfield was voted first president because most members "were bringing their cars to Gene Winfield for custom work."[^kr]
-
-We favor late 1947 because it comes from the founder himself, but the 1946 account names a different founder and may describe an earlier informal group. We have not seen a contemporary document.
+The Century Toppers were Modesto's first hot rod club, named for cars that could top 100 mph. They matter here because the same garage where they met launched one of the country's best-known customizers, and because their 1949 paper trail shows a small-town club working **with** the California Highway Patrol rather than against it.[^mv]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The coop, the jackets and the lakes
 
@@ -40,7 +30,7 @@ We favor late 1947 because it comes from the founder himself, but the 1946 accou
 
 ## The paper trail (via Kustomrama)
 
-Kustomrama summarizes newspaper items; we have not seen the original pages. ◐
+Kustomrama summarizes newspaper items; we have not seen the original pages.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 - **March 1949, Tracy Press:** Winfield, as club president, wrote a letter after accusations at a Tracy City Council meeting about racing at the Jerusalem Airport on March 6. Kustomrama says he wrote that club members were not involved and that the incident was a misunderstanding involving non-members.[^kr]
 - **April 30, 1949, Modesto Bee:** the club and the Highway Patrol hosted a traffic-safety evening with films at Modesto Junior College.[^kr]
@@ -51,7 +41,7 @@ This matches the pattern in [What the City Planners Wrote (1955)](planners-repor
 
 ## The first show
 
-The Century Toppers held their first car show December 10–11, 1949 at the Griswold & Wight Ford dealership, with Orvel "Speed" Reichert in charge. Kustomrama adds that Winfield remembers **Al Slonaker**, the man behind the Oakland Roadster Show, visiting to choose cars for his first show.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side of that story. ◐ single source.
+The Century Toppers held their first car show December 10–11, 1949 at the Griswold & Wight Ford dealership, with Orvel "Speed" Reichert in charge. Kustomrama adds that Winfield remembers **Al Slonaker**, the man behind the Oakland Roadster Show, visiting to choose cars for his first show.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side of that story.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> single source.
 
 <figure markdown>
 ![Gene Winfield demonstrating metalwork to students at the Milwaukee World of Wheels show, 2](../assets/images/commons-gene-winfield-milwaukee-2013.jpg){ loading=lazy }
@@ -62,6 +52,26 @@ The Century Toppers held their first car show December 10–11, 1949 at the Gris
 ![Winfield's Reactor (Citroën DS chassis, Corvair turbo engine), seen at a 2020 show in Vale](../assets/images/commons-winfield-reactor.jpg){ loading=lazy }
 <figcaption markdown>Winfield's *Reactor* (Citroën DS chassis, Corvair turbo engine), seen at a 2020 show in Valencia, California. Modestoview says it visited Modesto in recent years. It is later than the club years. Creator: PLawrence99cx. Date: 2020-08-27 19:45:39. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reactor_by_Gene_Winfield.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### ⚠ When was it founded?
+
+*Three sources, three starting lines.*
+
+- **Late 1947:** Gene Winfield says "We put the Century Toppers together in late '47," and names Dick Petz, his brother Frank Winfield, Bob Petz, Ray Rossin and Tommy McGee as early members, with Evelyn Horn, who lived next door to his mother, as secretary "for the entire time."[^int]
+- **1947:** Modestoview's "The Birth of Cruising" also says 1947.[^mv]
+- **1946:** Kustomrama says the club was "formed in Modesto, California in 1946" when Charlie Bell "got together with some friends," and that Winfield was voted first president because most members "were bringing their cars to Gene Winfield for custom work."[^kr]
+
+We favor late 1947 because it comes from the founder himself, but the 1946 account names a different founder and may describe an earlier informal group. We have not seen a contemporary document. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Kustomrama summarizes newspaper items; we have not seen the original pages. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** See [the show circuit](../media/show-circuit.md) for the Oakland side of that story. single source. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^int]: Chris Murphy, "InterView: Gene Winfield," Modestoview. https://www.modestoview.com/gene-winfield-interview/ (accessed 2026-10-15)
 [^mv]: Chris Murphy, "BigView – Late 1940s Modesto – The Birth of Cruising," Modestoview. https://www.modestoview.com/bigview-late-1940s-modesto-the-birth-of-cruising/ (accessed 2026-10-15)

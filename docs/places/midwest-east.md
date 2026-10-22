@@ -14,23 +14,21 @@ See also [Ed Almquist](../people/ed-almquist.md) (PA), [Setto Postoian](../peopl
 
 ## JEGS: Columbus, Ohio, 1960
 
-Jeg Coughlin was "frustrated by the unavailability of quality car parts in his Midwest hometown." In 1960 he opened **JEGS Automotive** in a 4,000 sq ft Columbus shop, "half garage, half parts store," building engines part-time and hunting down parts to sell.[^jegs] He turned the business over to his four sons in the early 1990s.[^jegs] Search summaries mention earlier borrowed gas-station space and a Bonham Avenue building, then an 11th Avenue store. ◐ *Columbus Dispatch pages were paywalled; not verified.*[^disp] The full company profile, with the county's 1960 address, is at [JEGS](../companies/jegs.md).
+Jeg Coughlin was "frustrated by the unavailability of quality car parts in his Midwest hometown." In 1960 he opened **JEGS Automotive** in a 4,000 sq ft Columbus shop, "half garage, half parts store," building engines part-time and hunting down parts to sell.[^jegs] He turned the business over to his four sons in the early 1990s.[^jegs] Search summaries mention earlier borrowed gas-station space and a Bonham Avenue building, then an 11th Avenue store.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The full company profile, with the county's 1960 address, is at [JEGS](../companies/jegs.md).
 
 ## The Slo-Pokes of Peoria
 
-They are the club that hosted the 1970 Nationals ([Peoria](../eras/1970s-street-rod-nationals.md)). **The spelling varies:** "Slo-Pokes" (Rod & Custom, Peoria Magazine), "Slo Poks" (Modern Rodding).[^rc][^pm][^mr] Peoria Magazine reports 1,200 participants under the banner "All roads lead to Peoria." Chuck McCarty credits the club with introducing him to cruise-ins in the '60s.[^pm]
-
-**⚠ From the detective's notebook: the Best Car puzzle.** Andy Brizio complained that "a guy wins the Best Car Award with a car that got there on a trailer."[^rc] Modern Rodding identifies the Best Overall winner as **Orv Elgie** ('37 Ford sedan delivery), with a plaque showing his 8,000-mile drive California–Ontario–Peoria.[^mr] These may be different awards. Unresolved.
+They are the club that hosted the 1970 Nationals ([Peoria](../eras/1970s-street-rod-nationals.md)). **The spelling varies:** "Slo-Pokes" (Rod & Custom, Peoria Magazine), "Slo Poks" (Modern Rodding).[^rc][^pm][^mr] Peoria Magazine reports 1,200 participants under the banner "All roads lead to Peoria." Chuck McCarty credits the club with introducing him to cruise-ins in the '60s.[^pm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Modern Rodding adds: "Technically the National Street Rod Association wasn't created until after the first event."[^mr]
 
 ## The Torrid Torkers (Buffalo, NY)
 
-Jim Oddy joined the club at 16 in 1957, per the International Drag Racing Hall of Fame list.[^idr] Other club details (a '36 Chevy, cruises to Canadian strips) come only from a search summary. ◐ *Needs a direct source.*
+Jim Oddy joined the club at 16 in 1957, per the International Drag Racing Hall of Fame list.[^idr] Other club details (a '36 Chevy, cruises to Canadian strips) come only from a search summary.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Kentucky / NSRA
 
-The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the NSRA's Louisville era: the first Louisville Nationals in 1988, a record 25 consecutive years through 2022, and the Kentucky Safety Team ranked #1 nationally in 1986.[^ky] The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body. ◐
+The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the NSRA's Louisville era: the first Louisville Nationals in 1988, a record 25 consecutive years through 2022, and the Kentucky Safety Team ranked #1 nationally in 1986.[^ky] The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Detroit chassis & tin (Round 9)
 
@@ -39,6 +37,18 @@ The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the N
 - [Malcolm Durham](../people/malcolm-durham.md): East Coast Strip Blazer; later Logghe Camaro.
 
 See also: [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob Bartel](../people/bob-bartel.md), [The Ohio Gassers](ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Columbus Dispatch pages were paywalled; not verified.*[^disp] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **The Best Car puzzle.** Andy Brizio complained that "a guy wins the Best Car Award with a car that got there on a trailer."[^rc] Modern Rodding identifies the Best Overall winner as **Orv Elgie** ('37 Ford sedan delivery), with a plaque showing his 8,000-mile drive California–Ontario–Peoria.[^mr] These may be different awards. Unresolved. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Needs a direct source.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Images
 

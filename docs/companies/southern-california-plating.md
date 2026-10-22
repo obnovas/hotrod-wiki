@@ -21,15 +21,23 @@ Coachbuilt gives detailed credits: a lift-up rear hatch by Chad Schultz of Joe N
 
 ## The parts business
 
-**Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb] **⚠** Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr]
+**Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb] ◐ *Claim repeated by both sources without a primary citation.*
+Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The car that vanished
 
 Julian Doty told Pat Ganahl he last saw the phaeton around 1963–64, dusty in a body shop DeBell owned on Melrose one block east of Vermont. He tried to buy it from DeBell's son Tony and failed. "The car has not been seen since."[^cb]
 
 **Not yet read:** Pat Ganahl's feature on this car, "The Mystery Wagon," *The Rodder's Journal* No. 36, has not been checked first-hand. The quote above comes through Coachbuilt. A copy of RJ #36 is a priority request (see [Research Trail](../research-trail.md)).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Claim repeated by both sources without a primary citation.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
@@ -39,6 +47,7 @@ Julian Doty told Pat Ganahl he last saw the phaeton around 1963–64, dusty in a
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Coachbuilt.com DuVall/DeBell page: period photos of the So. Cal. Plating trucks and phaeton](http://www.coachbuilt.com/des/d/duvall/duvall.htm)

@@ -26,27 +26,13 @@ In 1965 Snow began racing against the new Funny Cars in an **altered-wheelbase D
 
 NHRA did not yet recognize Funny Cars, so the Dart ran as a **C/Fuel Dragster** in Competition eliminator. Snow won Comp at the **1966 Nationals** (9.04) and the new **Super Eliminator** at the 1967 Nationals (8.67).[^top50][^nd16] At the **1968 Winternationals** he switched to gasoline and won **B/Altered** class and Comp.[^top50]
 
-The photographs below, which the uploader dates to Austin, Texas, 1967, show the Dart with "Engine by Ted Detar" lettering and a tilt front end. ◐ *The uploader's ID and date; we have not checked them against a race program.*
+The photographs below, which the uploader dates to Austin, Texas, 1967, show the Dart with "Engine by Ted Detar" lettering and a tilt front end.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Direct drive and the Logghe Charger
 
 Snow ran a supercharged '68 Dart, then a '68 Charger body, and dropped the automatic transmission for direct drive. "We worked with Crower to come up with a four-disc Crowerglide centrifugal clutch," he said. "Though it was sluggish off the line, it would mow down the automatic cars, which always nosed-over at about 185 mph."[^top50] National Dragster's Phil Burgess places the direct-drive experiments in **late 1968 and into 1969**.[^nd16]
 
-***Hot Rod*, June 1969** (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic **Jake Johnston** "a job lasting nearly two months and involving over $13,000." Its "backbone" was a **Logghe Stamping Company chassis** on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).
-
-## The first 200 mph: one pass, three dates ⚠
-
-The pass itself is not in dispute. The date is.
-
-| Source | Date given for the 200.88 at Dickinson |
-|---|---|
-| NHRA Top 50 (Jodauga, 2001) | **Aug. 17, 1968**; "that fall" 205.46 at OCIR; 213.78 in Sept 1969[^top50] |
-| NHRA National Dragster (Burgess, 2016) | "**Early in 1969**"; then 205.46 at OCIR and 213.78 in September[^nd16] |
-| Wikipedia, "Gene Snow" | "the **autumn of 1969**" ◐[^wp] |
-
-**Our reading (inference, not settled):** *Hot Rod*'s June 1969 issue, which went to press in spring 1969, already reports "205-mph blasts." That fits the Top 50's 1968 date better than "autumn 1969." We have not seen a timing slip or a period *Drag News* or *National Dragster* report. Everyone agrees on the track: **"Don and Carl Gay's track in Dickinson, Texas,"** Snow's own explanation ("sea level"), and the figure **200.88**.
-
-**The official one:** match-race times were "considered somewhat unofficial," so the first NHRA national-event 200-mph Funny Car pass was Snow's **7.23/208.71 at the Springnationals, Dallas International Motor Speedway, May 3, 1970**.[^top50][^nd16] Wikipedia's article on the car calls it "NHRA's first official 200 mph pass," citing Bob McClurg in *Drag Racer* (Nov 2016).[^wpr] ◐
+***Hot Rod*, June 1969** (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic **Jake Johnston** "a job lasting nearly two months and involving over $13,000." Its "backbone" was a **Logghe Stamping Company chassis** on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## 1970: the "Super Season"
 
@@ -66,9 +52,33 @@ He retired after a crash at the 1992 Dallas national event and returned in 1997 
 
 **Life dates:** We found no verified obituary for this Gene Snow. A 2018 obituary for a "Thomas Eugene 'Gene' Snow" of Florida is **a different man**, and we do not use it.
 
-**Editorial note:** Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp] ◐ *We could not open the WFAA report (the archive copy did not load) and have not verified it independently.* This page covers his racing record.
+**Editorial note:** Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> This page covers his racing record.
 
 **See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), [Texas](../places/texas.md), [Eddie Schartman](eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The uploader's ID and date; we have not checked them against a race program.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>
+
+### The first 200 mph: one pass, three dates ⚠
+
+The pass itself is not in dispute. The date is.
+
+| Source | Date given for the 200.88 at Dickinson |
+|---|---|
+| NHRA Top 50 (Jodauga, 2001) | **Aug. 17, 1968**; "that fall" 205.46 at OCIR; 213.78 in Sept 1969[^top50] |
+| NHRA National Dragster (Burgess, 2016) | "**Early in 1969**"; then 205.46 at OCIR and 213.78 in September[^nd16] |
+| Wikipedia, "Gene Snow" | "the **autumn of 1969**" ◐[^wp] |
+
+**Our reading (inference, not settled):** *Hot Rod*'s June 1969 issue, which went to press in spring 1969, already reports "205-mph blasts." That fits the Top 50's 1968 date better than "autumn 1969." We have not seen a timing slip or a period *Drag News* or *National Dragster* report. Everyone agrees on the track: **"Don and Carl Gay's track in Dickinson, Texas,"** Snow's own explanation ("sea level"), and the figure **200.88**.
+
+**The official one:** match-race times were "considered somewhat unofficial," so the first NHRA national-event 200-mph Funny Car pass was Snow's **7.23/208.71 at the Springnationals, Dallas International Motor Speedway, May 3, 1970**.[^top50][^nd16] Wikipedia's article on the car calls it "NHRA's first official 200 mph pass," citing Bob McClurg in *Drag Racer* (Nov 2016).[^wpr] ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *We could not open the WFAA report (the archive copy did not load) and have not verified it independently.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 
@@ -88,6 +98,7 @@ He retired after a crash at the 1992 Dallas national event and returned in 1997 
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Hot Rod, June 1969, "Rambunctious" (Don Green photos of the Logghe Charger)](https://www.hotrod.com/features/rambunctious-june-1969-982-684-84-1)

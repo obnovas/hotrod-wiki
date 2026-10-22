@@ -12,7 +12,7 @@
 
 *A rare non-California founder.*
 
-One of his early products was a water/alcohol vapor injector made from a Mason jar that cost 50¢ to make and sold for $6. He also sold a two-carb "log manifold" for $12.95. He started in a $35 rented room, then moved to a partitioned gymnasium. (Port Jervis *Times Herald-Record*, via search excerpt ◐.)[^thr] The paper said that while California makers had the West Coast, Almquist equipment was the choice in the Midwest and East.[^thr]
+One of his early products was a water/alcohol vapor injector made from a Mason jar that cost 50¢ to make and sold for $6. He also sold a two-carb "log manifold" for $12.95. He started in a $35 rented room, then moved to a partitioned gymnasium. (Port Jervis *Times Herald-Record*, via search excerpt<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.)[^thr] The paper said that while California makers had the West Coast, Almquist equipment was the choice in the Midwest and East.[^thr]
 
 ## From celery farm to ship's engine room
 
@@ -22,19 +22,27 @@ He served in the U.S. Maritime Service 1943–47 per his obituary.[^obit] He bec
 
 ## The manual
 
-He printed two small books on a borrowed mimeograph and advertised the *Speed and Mileage Manual* with a **$12 ad in Popular Mechanics**. He estimated more than 10,000 copies sold.[^hem] He is credited with the first widely circulated performance how-to, copyrighted **1946**.[^hem][^hof]
-
-**⚠ From the detective's notebook: what year did the business start?** Hemmings and the Hall of Fame say Almquist Engineering started in 1946;[^hem][^hof] his obituary says he moved to Milford and created it in 1947.[^obit]
+He printed two small books on a borrowed mimeograph and advertised the *Speed and Mileage Manual* with a **$12 ad in Popular Mechanics**. He estimated more than 10,000 copies sold.[^hem] He is credited with the first widely circulated performance how-to, copyrighted **1946**.[^hem][^hof]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Shifters, shifts in the market
 
 Hemmings says the mail-order business declined after the 1955 small-block Chevy, which "Ed wasn't ready for."[^hem]
 
-Almquist started Sparkomatic in 1954, with partner Jonas Anchel. A 1959 partnership with **George Hurst and Bill Campbell** on floor shifters dissolved, and the Times Herald-Record calls him co-designer of the Hurst shifter.[^thr] ◐ *Single local-press source; Hurst histories should be checked.*
+Almquist started Sparkomatic in 1954, with partner Jonas Anchel. A 1959 partnership with **George Hurst and Bill Campbell** on floor shifters dissolved, and the Times Herald-Record calls him co-designer of the Hurst shifter.[^thr]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 The obituary lists Almquist Engineering, Sparkomatic and **Offy Products** "through 1965," more than 100 products, and 7 U.S. patents. He later wrote *Hot Rod Pioneers*.[^obit] He received the International Drag Racing Hall of Fame Founder's Award in 2011.[^hof]
 
 Ed Almquist also appears in period custom literature: a pamphlet from "Pennsylvania speed merchant Ed Almquist" taught restyling techniques alongside Dan Post's *Blue Book*.[^revs]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point near the top of the story rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **What year did the business start?** Hemmings and the Hall of Fame say Almquist Engineering started in 1946;[^hem][^hof] his obituary says he moved to Milford and created it in 1947.[^obit] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Single local-press source; Hurst histories should be checked.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 

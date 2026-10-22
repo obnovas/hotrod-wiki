@@ -18,25 +18,37 @@ He was raised in Goldsboro and based around Washington, D.C. He became an East C
 
 He moved to Washington, D.C., took trade-school auto courses, and ran the '56 with success at **Aquasco Speedway** (Md.).[^top50]
 
-In **1962** he was a mechanic at Hicks Chevrolet and campaigned a **409** '62 Chevy with Z-11 heads; the Top 50 text says he won nearly **90%** of races entered. ◐[^top50] He moved into car sales and ran the first **427** Z-11 '63 Chevy available in D.C. as **Strip Blazer I**. Its first outing at 75-80 Drag-A-Way improved on his 409 best (12.26 → 12.01 per Top 50). ◐[^top50]
+In **1962** he was a mechanic at Hicks Chevrolet and campaigned a **409** '62 Chevy with Z-11 heads; the Top 50 text says he won nearly **90%** of races entered.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^top50] He moved into car sales and ran the first **427** Z-11 '63 Chevy available in D.C. as **Strip Blazer I**. Its first outing at 75-80 Drag-A-Way improved on his 409 best (12.26 → 12.01 per Top 50).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^top50]
 
 He match-raced Don Nicholson, Sox & Martin, the Ramchargers, Hayden Proffitt, Dave Strickler, Bill Jenkins, and others on the East Coast circuit.[^top50] After Chevrolet withdrew from racing (end of **1963**), he put the Z-11 into a midsize **'64 Chevelle** (**Strip Blazer II**) and beat Sox & Martin multiple times in match races that year.[^top50]
 
 ## Funny Car and Logghe
 
-In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cites bests of **9.56 / 150 mph**. ◐[^top50] In **1966** came a tube-frame Camaro and a UDRA Nationals win at U.S. 30, then a wheelbase stretch into the eights.[^top50]
+In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cites bests of **9.56 / 150 mph**.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^top50] In **1966** came a tube-frame Camaro and a UDRA Nationals win at U.S. 30, then a wheelbase stretch into the eights.[^top50]
 
-In **1967** he added a supercharger and ran **7.98 / 178**. In the off-season came a new **[Logghe](../companies/logghe-stamping.md)-chassised Camaro**, one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50. ◐[^top50]
+In **1967** he added a supercharger and ran **7.98 / 178**. In the off-season came a new **[Logghe](../companies/logghe-stamping.md)-chassised Camaro**, one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^top50]
 
 Later: a Pro Stock **'73 Vega** (9.17 best cited); a conversion to B/EA; a pause in racing to send eldest son Bernard to college; a brief **1984** Pro Stock Camaro, crashed at Rockingham **1985**; and a nostalgia '65 Chevelle return in **1989**.[^top50]
 
 ## What he said about the road
 
-Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on using visibility as a booking advantage ($800 average appearance fees in the late 1960s). The same column notes he inspired other Black Funny Car racers including **Lee Jones** (later drove Strip Blazer floppers for Durham) and mentions **Western Bunns**'s Soul Twister cars as part of that East Coast scene.[^fred]
-
-⚠ **From the detective's notebook:** Burgess's 2009 column calls his Top 50 slot **No. 46**; the 2001 Auto Channel reprint of the NHRA text is headed **Number 48**. We flag it until the original National Dragster list is checked.[^fred][^top50]
+Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on using visibility as a booking advantage ($800 average appearance fees in the late 1960s). The same column notes he inspired other Black Funny Car racers including **Lee Jones** (later drove Strip Blazer floppers for Durham) and mentions **Western Bunns**'s Soul Twister cars as part of that East Coast scene.[^fred]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Leonard Miller](../voices/leonard-miller.md), [Midwest & East](../places/midwest-east.md), [Injection & Tin voices](../voices/injection-and-tin.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** In **1962** he was a mechanic at Hicks Chevrolet and campaigned a **409** '62 Chevy with Z-11 heads; the Top 50 text says he won nearly **90%** of races entered. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Its first outing at 75-80 Drag-A-Way improved on his 409 best (12.26 → 12.01 per Top 50). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cites bests of **9.56 / 150 mph**. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** In the off-season came a new **[Logghe](../companies/logghe-stamping.md)-chassised Camaro**, one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **** Burgess's 2009 column calls his Top 50 slot **No. 46**; the 2001 Auto Channel reprint of the NHRA text is headed **Number 48**. We flag it until the original National Dragster list is checked.[^fred][^top50] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Images
 
@@ -46,6 +58,7 @@ Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on us
 </figure>
 
 ## Visual references (external)
+
 - [NHRA, "The Final Fred Files" (Durham Strip Blazer photo by Fred von Sholly)](https://www.nhra.com/news/2009/final-fred-files)
 - [Auto Channel reprint, NHRA Top 50: Malcolm Durham](https://www.theautochannel.com/news/2001/02/09/014436.html)
 

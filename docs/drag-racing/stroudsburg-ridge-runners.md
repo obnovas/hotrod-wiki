@@ -11,6 +11,7 @@
 In the Pocono Mountains of eastern Pennsylvania, a hot rod club put two of its own members on trial for traffic violations and sentenced them to manual labor. Then it told a judge on the other side of the state how to do his job.
 
 ## A meeting behind 39 Broad Street
+
 The first trace in the *Daily Record* is a notice in September 1957. "The Ridge Runners, local hot rod club," would meet at the rear of 39 Broad St. A State Police representative was to speak, the police of Stroudsburg and East Stroudsburg would attend, and the meeting was sponsored by the Junior Chamber of Commerce.[^dr570910]
 
 By late November, member **Bernard Lawler** was writing up the meetings for the paper. He listed jackets, secret ballots ("a constructive idea of a club member himself") and "a top priority project for construction of a drag strip outside of Stroudsburg." The highlight was a recording by a radio announcer, **Dopey Duncan**, "who discussed the true meaning of hotrodding."[^dr571130]
@@ -21,15 +22,17 @@ By late November, member **Bernard Lawler** was writing up the meetings for the 
 </figure>
 
 ## Club court
+
 On Dec. 11, 1957, the paper reported that two new members brought the club to 25. Then came the line that makes this club stand out: "A court was held for two members who disobeyed traffic laws during the past week and they were sentenced to a work detail."[^dr571211]
 
-The same report said the club had been "accepted as a charter member of the National Hot Rod Assn., with headquarters in Los Angeles," with a renewal running to January 1959. The renewal came after the parent body investigated "the Monroe County club's safety record," and the club would also receive its "1958 Safety High Point Award Plaque."[^dr571211] ◐ We have not found the award in any NHRA source.
+The same report said the club had been "accepted as a charter member of the National Hot Rod Assn., with headquarters in Los Angeles," with a renewal running to January 1959. The renewal came after the parent body investigated "the Monroe County club's safety record," and the club would also receive its "1958 Safety High Point Award Plaque."[^dr571211]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 A week later the club planned a **safety clinic** for Feb. 11 and 16 to check members' brakes, wiring, lights, front ends, tires, appearance and exhaust systems, with a session on Pennsylvania traffic laws. "Parents are particularly invited."[^dr571218]
 
-*From the detective's notebook:* club courts were common. Belleville's Gear Jammers fined their own members, and Sedalia's Drag-Ons made a ticketed member stand trial at the next meeting. A work detail is the first labor sentence we've found. See [Belleville's Gear Jammers](belleville-gear-jammers.md) and [The Sedalia Drag-Ons](sedalia-drag-ons.md).
+Club courts were common. Belleville's Gear Jammers fined their own members, and Sedalia's Drag-Ons made a ticketed member stand trial at the next meeting. A work detail is the first labor sentence we've found. See [Belleville's Gear Jammers](belleville-gear-jammers.md) and [The Sedalia Drag-Ons](sedalia-drag-ons.md).
 
 ## The letter to the judge
+
 In spring 1958 the Ridge Runners voted to join the **Northeastern Pennsylvania Timing Assn.**[^dr580416] Members met at the home of **Floyd Pugh**, 562 Fifth St., to talk over a drag strip "to be constructed this Summer," and a float for the Four-County Firemen's Convention parade.[^dr580522]
 
 Then the *Daily Record* ran an editorial quoting an Allegheny County judge named Lewis. As the club's letter quotes it, the editorial warned that a couple of hot rodders staging a drag race on a public highway were "endangering the life and limb of every pedestrian" in sight. (The scan of that passage is rough, so we quote only the clean words.) The club wrote back.[^dr580524]
@@ -39,6 +42,7 @@ The Ridge Runners described themselves as a club of 40 members "dedicated to saf
 The paper printed the letter on its editorial page beside a reply, "Concerning Drag Strips." The editors said they "gladly" published it and praised a group of 40 members, 30 of them teenagers, because "not one member has been involved with the law since joining the club."[^dr580524] They agreed that highway officials, safety authorities and the public should give the club's request for a strip serious consideration, but they repeated their own stand: license revocation, even jail, for anyone convicted of racing on public roads.[^dr580524]
 
 ## Races, a club car and a model contest
+
 In June 1958 the club discussed summer drag races "under the sanction of the Northeastern Pennsylvania Timing Assn.," open to all competitors.[^dr580604] In September 1959 members were working on a club car, a committee was named to look for land for a proposed drag strip, and Capt. Charles Drummond of the Salvation Army was booked to speak.[^dr590924] That October the club announced a Sunday-morning inspection of every member's car for safety and cleanliness, at its own clubhouse.[^dr591028]
 
 By March 1961 the Ridge Runners were judging a **model-building contest**. The *Daily Record* photo names the winners: David Smith, Allan Ravito, Mike Van Why, Herbert Leshowitz (Best in Show) and Lester Doll.[^dr610311]
@@ -46,6 +50,7 @@ By March 1961 the Ridge Runners were judging a **model-building contest**. The *
 The paper also covered a second Monroe County hot rod club, the **Pocono Pacers** of Mountainhome, "a hot rod club" sponsored by the YMCA, whose vice president was Frank Doll.[^dr571114] And the region did get strips, though no source we've read ties them to the Ridge Runners: by April 1964 the Mountain View drag strip in Wind Gap was opening "its fifth season of racing."[^dr640404]
 
 ## 1964: incorporated, and still asking
+
 Six years after the letter to the judge, the club was still in business and still without a strip. On June 5, 1964, the *Daily Record* printed a letter from the wife of a member, who lived in Mount Pocono. By then the club was the **Ridge Runners Auto Club Inc. of Monroe County**. It had "received its charter from Harrisburg" and was a member of the National Hot Rod Association, she wrote, and it had **eighteen members**, fewer than half the 40 of 1958.[^dr640605] It still met every Tuesday night.
 
 Her letter is the only place we have found the club's own rulebook quoted, and she quoted it generously (the scan is rough; we correct obvious OCR slips):[^dr640605]
@@ -54,16 +59,25 @@ Her letter is the only place we have found the club's own rulebook quoted, and s
 - **What it was for** (Article II): "to promote safe and sound driving practices on the streets and highways—to acquaint the general public with the joys of motoring as a sport, not merely as a means of transportation,— to help unveil to the public the true meaning of the 'Hot Rod'."
 - **Swearing:** "Any member swearing in council meeting shall be fined twenty-five cents per word . . . to be paid on the spot."
 - **Traffic tickets:** a member who got a traffic violation paid the club "up to one-half of the fine imposed by the local police department."
-- **Highway drag racing:** a member caught at it, "whether by police or members of this organization," was fined $5 for a first offense and $25 for a second, and expelled "for a period of sixty days minimum."
-
-*From the detective's notebook:* that half-fine rule is the third one we have found. [Belleville's Gear Jammers](belleville-gear-jammers.md) made members pay half of any traffic fine into the treasury, and the [Sedalia Drag-Ons](sedalia-drag-ons.md)' bylaws charged half of any court fine. Belleville is in Illinois, Sedalia in Missouri and Stroudsburg in Pennsylvania. Belleville ran NHRA-billed drags and the Ridge Runners belonged to NHRA, but we have no NHRA link for Sedalia. A shared NHRA model rulebook would explain it, but none of the three sources says so, and we have not found such a model. ◐
+- **Highway drag racing:** a member caught at it, "whether by police or members of this organization," was fined $5 for a first offense and $25 for a second, and expelled "for a period of sixty days minimum."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 The letter's real purpose was a strip, and it is told on [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): she proposed that the Mount Pocono Airport Authority let the club race on its runway and keep the proceeds.
 
-**Related:** [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).
+**Related:** [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
-## Next leads
-The Northeastern Pennsylvania Timing Association (a *Car Craft* item of December 1959 puts its booth at the NHRA's Detroit custom show; see [the Pocono strips page](pocono-strips.md)); Mountain View (Wind Gap) and Nazareth strip histories; the Allegheny County editorial's original source; club officers' names.
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not found the award in any NHRA source. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** That half-fine rule is the third one we have found. [Belleville's Gear Jammers](belleville-gear-jammers.md) made members pay half of any traffic fine into the treasury, and the [Sedalia Drag-Ons](sedalia-drag-ons.md)' bylaws charged half of any court fine. Belleville is in Illinois, Sedalia in Missouri and Stroudsburg in Pennsylvania. Belleville ran NHRA-billed drags and the Ridge Runners belonged to NHRA, but we have no NHRA link for Sedalia. A shared NHRA model rulebook would explain it, but none of the three sources says so, and we have not found such a model. ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>
+
+### Next leads
+
+The Northeastern Pennsylvania Timing Association (a *Car Craft* item of December 1959 puts its booth at the NHRA's Detroit custom show; see [the Pocono strips page](pocono-strips.md)); Mountain View (Wind Gap) and Nazareth strip histories; the Allegheny County editorial's original source; club officers' names. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Sources
 

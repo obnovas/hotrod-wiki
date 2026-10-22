@@ -25,11 +25,17 @@ Harvey and Minnie Ortner opened **Harvey's Broiler** in 1958 on a former chicken
 
 ## Ties
 
-Louder: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard."[^laist] ◐ The quote doesn't name any shops; that is the next lead.
-
-**⚠ From the detective's notebook: who owned it, and when?** The LA Times (1989) says Ortner sold to Smyriniotis in **1965**. The 2007 LA Times quotes the owner as saying he bought it "in 1968." LAist says the name changed "in the late '60s."[^lat89][^lat07][^laist]
+Louder: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard."[^laist]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The quote doesn't name any shops; that is the next lead.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **A new California law, in effect from January 2024,** means "cities can no longer ban lowriders and cruising," according to LAist. LAist does not give the bill number.[^laist]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** Louder: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard." <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who owned it, and when?** The LA Times (1989) says Ortner sold to Smyriniotis in **1965**. The 2007 LA Times quotes the owner as saying he bought it "in 1968." LAist says the name changed "in the late '60s."[^lat89][^lat07][^laist] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

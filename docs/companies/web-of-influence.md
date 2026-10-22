@@ -21,7 +21,7 @@ Hover over a name, or tab to it, to light up its lines. Click it to open its pag
 
 **3. Ohio, from trunk to bellhousing.** [Mr. Gasket](mr-gasket.md) began in the trunk of a '57 Chevy; [Lakewood](lakewood-industries.md) began in the Cleveland suburb of that name. One of the Ohio Gassers, [Ron Hassel](../places/ohio-gassers.md), went to Crane Cams in 1965 and later returned as Mr. Gasket's sales manager. Lakewood's founder lost his first race to the Arfons brothers on the Akron strip where Vanke raced; Hooker Headers later ran an ad saluting Vanke. [Summit](summit-racing.md) grew in the same part of the state.
 
-**4. Holley, the collector.** [Holley](holley.md) began as a bicycle-motor shop in Bradford, Pa. Per the pages here, it now owns Mr. Gasket (2015), Hooker (2000, though the Pennsylvania marker says the 1990s ⚠), Lakewood and, per a Wikipedia summary, Hilborn ◐. Most of the garages on this map are brands today, and many of them are Holley's.
+**4. Holley, the collector.** [Holley](holley.md) began as a bicycle-motor shop in Bradford, Pa. Per the pages here, it now owns Mr. Gasket (2015), Hooker (2000, though the Pennsylvania marker says the 1990s<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>), Lakewood and, per a Wikipedia summary, Hilborn<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>. Most of the garages on this map are brands today, and many of them are Holley's.
 
 **5. Strip owners and the people who ran them.** Mickey Thompson, by his own account, built and ran Lions in Southern California; a Santa Ana hot rodder named his slingshot; a Houston strip owner booked his Pontiac in 1961; and Santa Ana's Hart succeeded him at Lions in 1965. The strip, not the factory, is where these connections happened.
 
@@ -39,3 +39,11 @@ The same data as a table, for screen readers and for anyone who would rather rea
 ## Add a connection
 
 Open `docs/data/connections.yml`, add the two names under `nodes` if they are new, and add an edge with a `page` and `evidence`. The evidence must be a phrase that already appears in that page, so write the article first. Run `python scripts/check_connections.py`; the same check runs in the build. Suggest a connection with the [feedback form](https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed:** Gasket (2015), Hooker (2000, though the Pennsylvania marker says the 1990s ), Lakewood and, per a Wikipedia summary, Hilborn . <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Gasket (2015), Hooker (2000, though the Pennsylvania marker says the 1990s), Lakewood and, per a Wikipedia summary, Hilborn . <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>

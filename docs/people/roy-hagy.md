@@ -5,7 +5,7 @@
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (via Ganahl), secondary · **Last verified:** 2026-10-12 (Round 2) · [How we rate this](../reference/source-standards.md)
 
-*Almost everything known here comes from one oral source: Tom Sparks, interviewed by Pat Ganahl for* The American Custom Car*, as relayed by Kustomrama.*[^k] ◐
+*Almost everything known here comes from one oral source: Tom Sparks, interviewed by Pat Ganahl for* The American Custom Car*, as relayed by Kustomrama.*[^k]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Tom Sparks worked for him around 1942–43, at about 15, and remembered the rule of the shop: "Hagy worked mostly on what we call fat-fender cars today: '36s, '39-'40s. He did mostly filling, removing handles, recessing license plates, and chopping tops. **Hagy didn't like to use much lead; he'd metal-finish everything.** ... And he always worked alone."[^k]
 
@@ -23,6 +23,12 @@ On where chopping came from, Sparks said, "It had to start sometime in the mid- 
 
 Metal-finishing rather than leading puts Hagy against the grain of the "lead sled" era that followed ([Techniques](../cars/techniques-and-styles.md)).
 
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** *Almost everything known here comes from one oral source: Tom Sparks, interviewed by Pat Ganahl for* The American Custom Car*, as relayed by Kustomrama.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
 ## Images
 
 <figure markdown>
@@ -31,6 +37,7 @@ Metal-finishing rather than leading puts Hagy against the grain of the "lead sle
 </figure>
 
 ## Visual references (external)
+
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*
 
 - [Kustomrama, Roy Hagy](https://kustomrama.com/wiki/Roy_Hagy)

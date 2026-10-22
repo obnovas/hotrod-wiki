@@ -25,9 +25,7 @@ These are first-hand and near-first-hand words from the Round 10 people: the fam
 
 > "The sea level location gave us extra horsepower, and we went 200.88 mph on the first pass. I didn't think it such a big deal at the time, but we kept running more than 200 mph at just about every race after that."
 
-— Snow, on the first 200-mph Funny Car pass at the Gays' Dickinson track, same NHRA bio. Access 2026-10-15.
-
-**Label:** Told years later. ⚠ The date of the pass is disputed (Aug. 17, 1968, in this bio; "early 1969" and "autumn 1969" elsewhere). See [Gene Snow](../people/gene-snow.md).
+— Snow, on the first 200-mph Funny Car pass at the Gays' Dickinson track, same NHRA bio. Access 2026-10-15.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 > "We carried a spare motor the whole year and never had to use it."
 
@@ -45,7 +43,7 @@ These are first-hand and near-first-hand words from the Round 10 people: the fam
 
 — Don Gay, on touring Funny Car racers at the family's Houston Drag Raceway, as quoted by Phil Burgess, "Drag racing's teen terrors," NHRA.com, Aug 14, 2015. Access 2026-10-15. https://www.nhra.com/news/2015/drag-racing-s-teen-terrors
 
-**Label:** Told years later and secondhand. Gay died in 2007, so Burgess is quoting an earlier interview he does not date. ◐
+**Label:** Told years later and secondhand. Gay died in 2007, so Burgess is quoting an earlier interview he does not date.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Bob Bartel: Cordova (tribute, 2018)
 
@@ -97,9 +95,7 @@ These are first-hand and near-first-hand words from the Round 10 people: the fam
 
 — Hart, on Sunday bracket racing at Lions, same article. Access 2026-10-15.
 
-**Label:** Told years later (1950–71 events; told 1979). This is the earliest long interview with Hart we have opened. On Peggy, the article paraphrases him: "she ran a blown Cadillac dragster back in 1954 that went 130 mph, says Hart with obvious pride," and quotes him that she missed a Bonneville two-way record "when we lost Number Seven on the way back." ⚠ The same article dates his Lions start to both "'65" and "'63." See [Santa Ana](../eras/1950s-santa-ana-drags.md).
-
-**Still missing:** Peggy Hart's own words. See [Peggy Hart](../people/peggy-hart.md#still-missing).
+**Label:** Told years later (1950–71 events; told 1979). This is the earliest long interview with Hart we have opened. On Peggy, the article paraphrases him: "she ran a blown Cadillac dragster back in 1954 that went 130 mph, says Hart with obvious pride," and quotes him that she missed a Bonneville two-way record "when we lost Number Seven on the way back."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> The same article dates his Lions start to both "'65" and "'63." See [Santa Ana](../eras/1950s-santa-ana-drags.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Jim Clark: losing the *Street Rod* title (2012/2014)
 
@@ -110,6 +106,19 @@ These are first-hand and near-first-hand words from the Round 10 people: the fam
 **Label:** Told about 40 years later. Confirmed by the *Street Rod* issue run (first issue October 1971). See [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 ## Related pull-quotes on other pages
+
 - Ken Kull and Pete Hill on the Red Baron: [Red Baron](../cars/hill-bros-red-baron.md)
 - Eddie Schartman on the first flip-top Funny Car: [Show & Custom Voices](show-custom-voices.md)
 - Steve Gibbs and Gerald Hart on Peggy: [The Harts of Santa Ana](harts-santa-ana.md)
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Label:** Told years later. The date of the pass is disputed (Aug. 17, 1968, in this bio; "early 1969" and "autumn 1969" elsewhere). See [Gene Snow](../people/gene-snow.md). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Gay died in 2007, so Burgess is quoting an earlier interview he does not date. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed:** The marked point in *C.J. Hart: Santa Ana, Lions, and Peggy (Hot Rod, January 1980)*. The sources disagree; the details are in the text and its notes. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Open question.** **Still missing:** Peggy Hart's own words. See [Peggy Hart](../people/peggy-hart.md#still-missing). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>

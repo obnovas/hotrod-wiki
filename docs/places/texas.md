@@ -9,11 +9,11 @@
 
 The first organized race on the abandoned WWII airfield at **Caddo Mills** was held **Aug 19, 1951**. It was arranged by Dallas's **Chaparral Roadster Club** with local officials. There were 56 cars at a **$1 entry**, timed with **three hand-held stopwatches** (Dragzine).[^dz] The strip became Texas's first NHRA-sanctioned drag strip.[^dz]
 
-Later the North Texas Timing Association ran it with Chrondek timers.[^dz] ◐ Recollections on Drag List add detail from people who were there.[^dl]
+Later the North Texas Timing Association ran it with Chrondek timers.[^dz]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Recollections on Drag List add detail from people who were there.[^dl]
 
 ## Clubs
 
-The **Chaparral Roadster Club** (Dallas) was founded 1949 per club lore, by Jim Overbey. ◐ This is from a search summary only. The **Fort Worth Turtles** date to 1948. ◐
+The **Chaparral Roadster Club** (Dallas) was founded 1949 per club lore, by Jim Overbey.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The **Fort Worth Turtles** date to 1948.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
 
@@ -26,6 +26,16 @@ Purpose-built quarter-mile on I-45 near Dickinson. See the dedicated page: [Hous
 Racing was concentrated on **ex-military airfields away from the city**, run by clubs. The same thing happened at Halls (TN) and on SoCal's own airstrips. The difference is distance: Texans drove 40+ miles to race, and SoCal's dry lakes had no counterpart.
 
 **See also (Round 10):** [Gene Snow](../people/gene-snow.md) (Fort Worth; *Rambunctious*), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (the Gay family's track at Dickinson).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** Later the North Texas Timing Association ran it with Chrondek timers. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** This is from a search summary only. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The **Fort Worth Turtles** date to 1948. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 
@@ -40,6 +50,7 @@ Racing was concentrated on **ex-military airfields away from the city**, run by 
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [Dragzine: Caddo Mills photos](https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/)

@@ -23,36 +23,35 @@ The best story about that showmanship comes from *Hot Rod*. Petersen's chief pho
 
 After some setbacks Hurst and Campbell teamed with Jonas Anchel and **Ed Almquist**, "founders of the speed shop Anco Industries," on an engine mount called Adjusta-Torque and a floor-mounted linkage for three-speed transmissions. George installed the first in his own 1956 Chevrolet. Almquist and Anchel would not put up the capital to market it, so Hurst and Campbell borrowed $20,000 and set up Hurst-Campbell, Inc., in Warminster, "opened for business in 1959," says Ate Up With Motor.[^auwm]
 
-Almquist's own page, built on his Milford, Pennsylvania, obituary and a Port Jervis paper, says a 1959 partnership with Hurst and Campbell on floor shifters dissolved, and that the paper calls him co-designer of the Hurst shifter ◐. That is a single local-press source. The patent record is suggestive and no more: Almquist Engineering's gear-shift patent was filed in September 1962, a month before Hurst and Campbell filed theirs.[^alm][^pat]
+Almquist's own page, built on his Milford, Pennsylvania, obituary and a Port Jervis paper, says a 1959 partnership with Hurst and Campbell on floor shifters dissolved, and that the paper calls him co-designer of the Hurst shifter<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>. That is a single local-press source. The patent record is suggestive and no more: Almquist Engineering's gear-shift patent was filed in September 1962, a month before Hurst and Campbell filed theirs.[^alm][^pat]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 <figure markdown>
 ![Patent drawing US 3,172,301, Gear shift, by George H. Hurst Jr. and William G. Campbell.](../assets/images/patent-US3172301-hurst-gearshift.png){ width="300" loading=lazy }
 <figcaption markdown>US 3,172,301, "Gear shift," by George H. Hurst Jr. and William G. Campbell, filed 1962-10-15, issued 1965-03-09. Source: [Google Patents](https://patents.google.com/patent/US3172301A/en). License: public domain (U.S. patent drawing). Compare Almquist Engineering's US 3,082,639 on [Ed Almquist](../people/ed-almquist.md).</figcaption>
 </figure>
 
-**⚠ From the detective's notebook: when did the company reach Warminster?** The sources do not line up, and they may be describing different steps:
-
 | Item | Local magazines | Other sources |
 |---|---|---|
 | Warminster | The plant is "new" in Oct 1965; *Bucks County Life* (Jan–Feb 1966) says "This past year the Hurst-Campbell company breezed into Warminster and started production of gear shifts and other equipment for auto builders."[^pan][^bclj] | "Opened for business in 1959" (Ate Up With Motor)[^auwm] |
-| Incorporation | — | May 1958, "after two years" of part-time die design, per Campbell's daughter ◐[^jacg]; "opened for business in 1959"[^auwm] |
+| Incorporation | — | May 1958, "after two years" of part-time die design, per Campbell's daughter <sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^jacg]; "opened for business in 1959"[^auwm] |
 | Sales | "in excess of six million dollars per year" (1965)[^pan] | "more than $20 million a year" by "the mid-sixties"[^auwm] |
 | Partners' names | — | Anco Industries (Ate Up With Motor)[^auwm]; Almquist's page says Sparkomatic, with Anchel (obituary)[^alm] |
 
 The $6 million and $20 million figures may be different years, since "mid-sixties" is loose. The magazine has the earlier, contemporary number, and the history has the bigger one.
 
 ## The paper trail: where to send your order
-*From the detective's notebook:* the surest way to place a mail-order speed company is to find the address it printed for customers. Three dull documents help with the Warminster question.
+
+The surest way to place a mail-order speed company is to find the address it printed for customers. Three dull documents help with the Warminster question.
 
 **1962: a Dodge brochure.** A 1962 Dodge Dart 440 magazine-insert brochure, scanned by a Facebook group of brochure collectors, closes with "Additional high performance equipment available from independent manufacturers." Among them is "Hurst-Campbell Inc., 341 W. Glenside Ave., Glenside, Pa. (shift conversions)."[^dodge62] The company was in good company. The same list names Edelbrock Equipment Co. in Los Angeles (manifolds), Ed Iskenderian in Inglewood ("adj. push rods"), Weiand in Los Angeles (manifolds), Offenhauser Sales Corp., Howard Cams, Hedman Hedders, Camcraft of Detroit, ForgeTrue Pistons and Auto Marine Laboratories of Wyckoff, New Jersey. Hurst-Campbell is the only Pennsylvania firm on it.[^dodge62] See [Edelbrock](edelbrock-slingshot.md), [Ed Iskenderian](../people/ed-iskenderian.md) and [Barney Navarro](../people/barney-navarro.md) (for Weiand).
 
 Glenside is a census-designated place split between **Abington** and Cheltenham townships.[^glen] So a 1962 Glenside address fits *Panorama*'s "converted two-car garage in Abington," though we can't tell from the address alone which township No. 341 was in, or whether it was the garage.
 
-**1962–63: the copyright office.** The *Catalog of Copyright Entries* shows Hurst-Campbell, Inc., registering its own instruction sheets and folders: a "CV-2-202 conversion mount for '58-'62 Chevrolet 348-409 cubic inch engines" (June 29, 1962); "Competition/plus four speed floor shift" instructions; "Hurst dual pattern S/L shifter instructions"; a Hurst Fiberglas floor tunnel kit for '62 Dodge/Plymouth and Lancer/Valiant (Sept. 26, 1962); and "Hurst mystery shifter instructions" (Dec. 5, 1962).[^cce62] In the first half of 1963 came "Adjustatorque engine conversion mounts" (March 20), a sheet called "Instant success" (March 27), a folder titled "Spotlighting Hurst floor shifts," "Transmission mounts," and a rear crossmember for 1953–57 Studebakers.[^cce63] ◐ We have not seen any of these pieces, and we don't know what the "mystery shifter" was.
+**1962–63: the copyright office.** The *Catalog of Copyright Entries* shows Hurst-Campbell, Inc., registering its own instruction sheets and folders: a "CV-2-202 conversion mount for '58-'62 Chevrolet 348-409 cubic inch engines" (June 29, 1962); "Competition/plus four speed floor shift" instructions; "Hurst dual pattern S/L shifter instructions"; a Hurst Fiberglas floor tunnel kit for '62 Dodge/Plymouth and Lancer/Valiant (Sept. 26, 1962); and "Hurst mystery shifter instructions" (Dec. 5, 1962).[^cce62] In the first half of 1963 came "Adjustatorque engine conversion mounts" (March 20), a sheet called "Instant success" (March 27), a folder titled "Spotlighting Hurst floor shifts," "Transmission mounts," and a rear crossmember for 1953–57 Studebakers.[^cce63]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 **1966–68: American Motors.** AMC's own "Performance Activities" booklet for 1966–68, which lists outside suppliers of performance parts for its cars, gives "Hurst-Campbell, Inc. 50 West Street Road Warminster, Pa." under shift linkage.[^amc66]
 
-So the company was selling from Glenside in the 1962 model year and was in Warminster by the AMC list. That squares with *Panorama* calling the Warminster plant "new" in 1965, and it makes "opened for business in 1959" in Warminster harder to accept as written. It does not prove there was no earlier Warminster shop. A brochure may print an office address, and the brochure itself carries no printing date. ⚠ still open, but narrower.
+So the company was selling from Glenside in the 1962 model year and was in Warminster by the AMC list. That squares with *Panorama* calling the Warminster plant "new" in 1965, and it makes "opened for business in 1959" in Warminster harder to accept as written. It does not prove there was no earlier Warminster shop. A brochure may print an office address, and the brochure itself carries no printing date.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> still open, but narrower.
 
 ## Detroit says yes
 
@@ -60,17 +59,15 @@ Detroit "tended to ignore or disdain the aftermarket," Ate Up With Motor says, u
 
 Back home, the local press noticed. *Bucks County Life*'s editor attended the open house at the new plant, was shown around, found himself talking to "business people from all over the country," and called Hurst-Campbell "the leading designer and manufacturer of original equipment for these Detroit auto builders." He added that "we of this area, should count ourselves most fortunate indeed to have this industry pick Bucks County to settle in."[^bcl] *Panorama* put it more bluntly: the name Hurst on a shifter handle was "the only trademark name to appear inside a Detroit product."[^pan]
 
-A 1961 offer from the family account is a good small detail ◐: Campbell's daughter says George put up **$1,000** for anyone who could design a better 4-speed in-line shifter than the one they were then using in Detroit, and that Bob Kenny won it.[^jacg]
+A 1961 offer from the family account is a good small detail<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>: Campbell's daughter says George put up **$1,000** for anyone who could design a better 4-speed in-line shifter than the one they were then using in Detroit, and that Bob Kenny won it.[^jacg]
 
 ## Guaranteed forever
 
-"Every Hurst product is guaranteed forever," *Panorama* wrote, and the promise shaped the product: when the firm moved into custom wheels, it chose forged aluminum rather than a conventional design, because nothing else would hold up to the guarantee.[^pan] Hurst "tied his promotional activities strongly into the auto racing fraternity," supplying services "at no cost to the participants" at major events and sponsoring cars, from the Indianapolis 500 runner-up Agajanian Special to an in-line four-Chrysler land-speed project whose two transmissions, 18 feet apart, were shifted together by Hurst controls. Panorama does not name the car or the driver ◐.[^pan]
+"Every Hurst product is guaranteed forever," *Panorama* wrote, and the promise shaped the product: when the firm moved into custom wheels, it chose forged aluminum rather than a conventional design, because nothing else would hold up to the guarantee.[^pan] Hurst "tied his promotional activities strongly into the auto racing fraternity," supplying services "at no cost to the participants" at major events and sponsoring cars, from the Indianapolis 500 runner-up Agajanian Special to an in-line four-Chrysler land-speed project whose two transmissions, 18 feet apart, were shifted together by Hurst controls. Panorama does not name the car or the driver<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>.[^pan]
 
-The same article, in October 1965, describes a **hydraulic Line/Loc** for hill-holding and drag-strip safety, and a rescue device "under development," built to take a wrecked car apart "in a matter of seconds" to reach an injured driver, already on hand "but fortunately unneeded" at recent racing events.[^pan] *Panorama* never calls it the Jaws of Life; that this was the tool's ancestor is our inference ◐.
+The same article, in October 1965, describes a **hydraulic Line/Loc** for hill-holding and drag-strip safety, and a rescue device "under development," built to take a wrecked car apart "in a matter of seconds" to reach an injured driver, already on hand "but fortunately unneeded" at recent racing events.[^pan] *Panorama* never calls it the Jaws of Life; that this was the tool's ancestor is our inference<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>.<sup class="hr-q" id="qr-9"><a href="#q-9" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**⚠ Who thought of it?** *Hot Rod* calls the Jaws of Life "George's greatest contribution to society."[^hr20] Campbell's daughter writes that her father read a Philadelphia *Bulletin* story about a dump-truck driver who bled to death in a train-crossing wreck, sketched a cutting tool that would not throw sparks, and that George added the spreading tool over a hamburger. She says the tool "never really got off the ground" until after Campbell left Hurst in 1969.[^jacg] ◐ A family account, with no second source yet.
-
-The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen Linda Vaughn as "Miss Hurst Golden Shifter."[^auwm] SEMA's Hall of Fame piece on Joe Schubeck says George Hurst talked the Ohio bellhousing maker into driving the Hurst Hairy Oldsmobile, by laying down photographs of "the new girl I've hired for Miss Golden Shifter."[^sema13] George Hurst died in 1986, at 59.[^hr20] Hagerty's later summary says Hurst-Campbell went public in 1968 and that appliance maker Sunbeam bought Campbell's stock in 1970, after which Hurst walked out in December 1970. It adds that in 1986 "the Mr. Gasket company purchased what was left of Hurst Performance," and that those remains "made their way to Holley in 2015."[^hag] ◐ That is a single trade-press summary; the corporate paper trail is on the [Research Trail](../research-trail.md).
+The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen Linda Vaughn as "Miss Hurst Golden Shifter."[^auwm] SEMA's Hall of Fame piece on Joe Schubeck says George Hurst talked the Ohio bellhousing maker into driving the Hurst Hairy Oldsmobile, by laying down photographs of "the new girl I've hired for Miss Golden Shifter."[^sema13] George Hurst died in 1986, at 59.[^hr20] Hagerty's later summary says Hurst-Campbell went public in 1968 and that appliance maker Sunbeam bought Campbell's stock in 1970, after which Hurst walked out in December 1970. It adds that in 1986 "the Mr. Gasket company purchased what was left of Hurst Performance," and that those remains "made their way to Holley in 2015."[^hag]<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup>
 
 <figure markdown>
 ![A 1972 parade car, an Oldsmobile Hurst/Olds pace car, with a figure standing on its trunk beside a giant shifter handle.](../assets/images/commons-linda-vaughn-hurst-2008.jpg){ loading=lazy }
@@ -81,10 +78,36 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 
 - [Ed Almquist](../people/ed-almquist.md): the Milford mail-order man who built shifters with Hurst and Campbell in 1959 per his local paper, and filed his own gear-shift patent a month before theirs.
 - [Patents](../reference/patents.md): both Hurst and Campbell shifter patents (US 3,172,301 and 3,192,793) and Almquist's US 3,082,639.
-- [Mr. Gasket](mr-gasket.md): bought what was left of Hurst Performance in 1986, per Hagerty ◐.
+- [Mr. Gasket](mr-gasket.md): bought what was left of Hurst Performance in 1986, per Hagerty<sup class="hr-q" id="qr-11"><a href="#q-11" title="Single source so far: see Open questions">◐</a></sup>.
 - [Lakewood Industries](lakewood-industries.md): Hurst's hired driver for the Hairy Olds was Lakewood's "Gentleman Joe" Schubeck.
 - [Woodward Avenue](../places/woodward.md): Pontiac ad man Jim Wangers, who appears on that page driving Woodward GTOs, helped Hurst put together the 1967 Firebird pitch for Pontiac's John DeLorean.[^auwm]
 - [Midwest & East Threads](../places/midwest-east.md) and [Leonard Miller](../voices/leonard-miller.md): the Bucks County drag scene of the 1960s, the same county and decade as the Warminster plant. No source ties Miller to Hurst; the link is place and time.
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *From Anco to Warminster* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did the company reach Warminster?** The sources do not line up, and they may be describing different steps: <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Incorporation*: May 1958, "after two years" of part-time die design, per Campbell's daughter ; "opened for business in 1959" <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** We have not seen any of these pieces, and we don't know what the "mystery shifter" was. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed:** A brochure may print an office address, and the brochure itself carries no printing date. still open, but narrower. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Detroit says yes* rests on one source so far. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** Panorama does not name the car or the driver . <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far:** *Panorama* never calls it the Jaws of Life; that this was the tool's ancestor is our inference . <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+
+<a id="q-9" class="hr-q-anchor"></a>**Disputed.** **Who thought of it?** *Hot Rod* calls the Jaws of Life "George's greatest contribution to society."[^hr20] Campbell's daughter writes that her father read a Philadelphia *Bulletin* story about a dump-truck driver who bled to death in a train-crossing wreck, sketched a cutting tool that would not throw sparks, and that George added the spreading tool over a hamburger. She says the tool "never really got off the ground" until after Campbell left Hurst in 1969.[^jacg] ◐ A family account, with no second source yet. <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
+
+<a id="q-10" class="hr-q-anchor"></a>**Single source so far.** That is a single trade-press summary; the corporate paper trail is on the [Research Trail](../research-trail.md). <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
+
+<a id="q-11" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Connect the dots* rests on one source so far. <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
 
 ## Images
 

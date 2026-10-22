@@ -23,25 +23,15 @@ Pat Ganahl, who visited in 2003, wrote: "But if you want a '50s drag race experi
 
 ## The shutdown
 
-The LA Times says the FAA threatened the county-owned airport's certification and federal funding if "non-aviation activity such as drag racing continues," after a routine inspection of the airport, a move that "puzzled and saddened locals." Club president Garrett: "We're just regular working folks in an isolated place."[^lat]
+The LA Times says the FAA threatened the county-owned airport's certification and federal funding if "non-aviation activity such as drag racing continues," after a routine inspection of the airport, a move that "puzzled and saddened locals." Club president Garrett: "We're just regular working folks in an isolated place."[^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 > "So many things don't work in our society. … Yet here's something positive that does, and some guy wants to crush it. I don't understand."
 >
 > — **Steve Parsons**, local champion, LA Times (2005).[^lat]
 
-### ⚠ When was the last race?
-
-*From the detective's notebook: three sources, three answers.*
-
-- **April 9, 2005.** Ganahl's 2022 post says that day's "First Annual Standard 1320 Invitational Drag Race" was the last. He writes that "nobody knew it was Inyokern's last drag race," and that the FAA decision came days later.[^pg]
-- **October 2005 or later.** The LA Times piece of Oct 10, 2005 says racing would be allowed through "the next meet, a major regional race for young drivers set for Friday and Saturday," which would be Oct 14–15.[^lat]
-- The Dust Devils held their final awards banquet on Feb 4, 2006, according to a drag-racing news blog.[^dl]
-
-Ganahl assumed the LA Times story came "just after this last meet," so he may have dated the closure too early. We have not found the FAA order or a club record to settle it. The 2005 event's name, "Standard 1320," also appears in our [Doris Herbert article](../people/doris-herbert.md) (the 1960 record list). We found no source that connects the two.
-
 ## The man at the microphone
 
-**Bernie Partridge** joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals." ◐ We found that nickname claim only there.[^sb]
+**Bernie Partridge** joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 At his 2012 memorial, NHRA's report quotes David Leighton, who worked with his father Gus and Partridge, "Dust Devils Auto Club alumni all," setting up impromptu airport tracks: "We opened and closed more racetracks than Steve Evans did."[^nhra]
 
@@ -53,6 +43,24 @@ In April 2025 the Historical Society of the Upper Mojave Desert announced a talk
 ![The runway at Inyokern Airport, 2011. The drag strip was on a taxiway at this airport, not](../assets/images/commons-inyokern-airport.jpg){ loading=lazy }
 <figcaption markdown>The runway at Inyokern Airport, 2011. The drag strip was on a taxiway at this airport, not the runway shown. Creator: Pintsmasher. Date: 12 September 2011 (original upload date). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inyokern_Airport_-_panoramio.jpg). License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).</figcaption>
 </figure>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>
+
+### ⚠ When was the last race?
+
+*Three sources, three answers.*
+
+- **April 9, 2005.** Ganahl's 2022 post says that day's "First Annual Standard 1320 Invitational Drag Race" was the last. He writes that "nobody knew it was Inyokern's last drag race," and that the FAA decision came days later.[^pg]
+- **October 2005 or later.** The LA Times piece of Oct 10, 2005 says racing would be allowed through "the next meet, a major regional race for young drivers set for Friday and Saturday," which would be Oct 14–15.[^lat]
+- The Dust Devils held their final awards banquet on Feb 4, 2006, according to a drag-racing news blog.[^dl]
+
+Ganahl assumed the LA Times story came "just after this last meet," so he may have dated the closure too early. We have not found the FAA order or a club record to settle it. The 2005 event's name, "Standard 1320," also appears in our [Doris Herbert article](../people/doris-herbert.md) (the 1960 record list). We found no source that connects the two. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** We found that nickname claim only there.[^sb] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 [^lat]: Andrew H. Malcolm, "Finish Line Comes Early," Los Angeles Times, Oct 10, 2005. https://www.latimes.com/archives/la-xpm-2005-oct-10-me-dragstrip10-story.html (accessed 2026-10-15)
 [^pg]: Pat Ganahl, "Last Drag at Inyokern," Pat Ganahl's Rod and Custom, Feb 7, 2022. https://patganahl.com/2022/02/07/last-drag-at-inyokern/ (accessed 2026-10-15)

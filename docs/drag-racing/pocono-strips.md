@@ -11,27 +11,31 @@
 In May 1958 the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md) told their local paper they would buy land for a drag strip if someone would sell it to them.[^dr580524] They never got their own. This page follows the question every Monroe County hot rodder had to answer for the next ten years: if not on the highway, then where?
 
 ## 1962: the flood levee
+
 The kids found their own answer first. In August 1962, East Stroudsburg's councilmen inspected the new $1,500,000 Stroudsburg–East Stroudsburg flood control project. They talked about the control gates, the grass on the levees, and chains and locks for the maintenance gates. The locks, the *Daily Record* reported, "would also stop cars from using the 19-foot wide area as a drag strip. Tire marks in many places showed cars have been using the strip and councilmen said they had reports of drivers racing there."[^dr620815]
 
 It was a two-town drag strip that nobody built on purpose, and the council's answer was a padlock.
 
 ## Wind Gap: Mountain View
-The nearest real strip we can find in the paper was at Wind Gap. On April 4, 1964, a sports brief announced that "the Mountain View drag strip in Wind Gap" would open its fifth season of racing on Sunday, with pits at 10 a.m., time trials at noon and eliminations at 2 p.m.[^dr640404] ◐ A fifth season in 1964 points to a first one in 1960, but we have not found an opening notice.
 
-*From the detective's notebook:* *Car Craft*'s national strip calendar for July 1961 lists only two Pennsylvania strips, Vargo's Dragway in Bucks County and the U.S. 30 Drag-O-Way near York. Wind Gap isn't on it.[^cc6107] Those calendars printed what strips sent in, so the absence proves nothing, but it does show how small a strip like Mountain View was.
+The nearest real strip we can find in the paper was at Wind Gap. On April 4, 1964, a sports brief announced that "the Mountain View drag strip in Wind Gap" would open its fifth season of racing on Sunday, with pits at 10 a.m., time trials at noon and eliminations at 2 p.m.[^dr640404]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+
+*Car Craft*'s national strip calendar for July 1961 lists only two Pennsylvania strips, Vargo's Dragway in Bucks County and the U.S. 30 Drag-O-Way near York. Wind Gap isn't on it.[^cc6107] Those calendars printed what strips sent in, so the absence proves nothing, but it does show how small a strip like Mountain View was.
 
 The Stroudsburg paper also carried ads for Friday-night drag races at the **Allentown Fairgrounds**: "OPENING NIGHT DRAG RACES FRIDAY, APRIL 17," with spectator admission at $1.00.[^dr640416]
 
 ## 1964: a mother's proposal
+
 On June 5, 1964, under the headline "Drag Races Suggested At Pocono Airport," the *Daily Record* printed a letter from a Mount Pocono woman (the signature reads "Mrs. ... Heller," with the first name garbled in the scan). "My husband is a member of the Ridge Runners Auto Club Inc. of Monroe County," she wrote. The club had "received its charter from Harrisburg" and belonged to the National Hot Rod Association.[^dr640605] She and her husband had "become very concerned about the teenagers who drag (race) on the side roads and even on the highways."[^dr640605] (Quotes from this letter correct obvious OCR slips, such as "Chib" for "Club" and "11" for "it.")
 
 She quoted the club's constitution and bylaws at length (see [the Ridge Runners page](stroudsburg-ridge-runners.md#1964-incorporated-and-still-asking) for the rules). Then she made her pitch. The **Mount Pocono Airport Authority**, she understood, needed money. "I feel that it would be very helpful to this local club and its eighteen members if the Mount Pocono Airport Authority would consider allowing the use of their airstrip for drag racing." The club was non-profit, so "they would turn over the proceeds from such a race (or races) to the authority."[^dr640605]
 
 Anyone who wanted to see how a drag race was run, she added, could go to **Island Dragway** at Great Meadows, N.J., or the **Pocono Drag Lodge** at Bear Creek, Pa.[^dr640605] Island Dragway, on Route 46, was in *Car Craft*'s 1961 calendar for "Every Sunday, weather permitting."[^cc6107]
 
-We have found no reply from the airport authority, and no drag race at the Mount Pocono airport. ◐
+We have found no reply from the airport authority, and no drag race at the Mount Pocono airport.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Bear Creek: the Pocono Drag Lodge
+
 By 1968 the Pocono Drag Lodge on Route 115 at Bear Creek was advertising in the Stroudsburg paper, by then called *The Pocono Record*, almost every week. Its "1968 SEASON'S OPENER" on Sunday, May 19, matched the funny cars **Limefire** and **Jungle Jim**, with $50 to the top eliminator, "Plus 200 Cars Drag Racing."[^pr680518]
 
 The paper's Monday briefs named the local winners. On Sunday, June 23, Harry Smith of Saylorsburg was "among the 62 class winners."[^pr680624] On Sunday, Aug. 4, Rich Everitt of Stroudsburg was one of 56, with others from Saylorsburg, Bangor, Moscow, Jim Thorpe and Palmerton; "A total of 220 drivers took part in the races."[^pr680806] That is the shape of a working local strip: a few professional funny cars to sell tickets, and a couple of hundred weekend racers from the surrounding towns running for class wins.
@@ -44,17 +48,30 @@ On Saturday, Aug. 31, the paper previewed the Drag Lodge's **third annual Funny 
 </figure>
 
 ## October 1968: the big track arrives
+
 That October the *Pocono Record* announced the opening race of the **Pocono International Speedway**, four miles south of Blakeslee on Route 115, with a $13,600 purse for a 200-lap super-modified race. The story described a 1,000-acre, multi-million-dollar complex with five tracks in one, including a 2½-mile championship oval and a road course, and it listed a drag strip among them.[^pr681011] (The scan garbles the strip's length.)
 
 Ten years after the Ridge Runners offered to buy a patch of land, the Poconos were getting a racing plant on a scale the club's 1958 letter never imagined. We have not found whether its drag strip was ever built or run.
 
 ## The club that put Pennsylvania on a stage
+
 One more trace. In December 1959 *Car Craft* covered the NHRA's first National Champion Custom Car Show in Detroit, held with that year's Labor Day Nationals. Among the displays was a booth "built by Northeastern Pennsylvania Timing Association," with three club members' cars, including Mike Coffee's street rod, plus live models, club trophies and a stereo hi-fi system.[^cc5912] The Ridge Runners had voted to join that association in 1958 (see [the Ridge Runners page](stroudsburg-ridge-runners.md)). The item does not say whether any Monroe County car was in the booth.
 
-**Related:** [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md); [The Kingston Igniters](kingston-igniters.md), another club with no strip; the airfield strips at [Akron](akron-fulton-airport.md) and [Ames](ames-drag-strip-nightcrawlers.md); [Hurst-Campbell](../companies/hurst-campbell.md), the speed-parts company of the Philadelphia suburbs.
+**Related:** [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md); [The Kingston Igniters](kingston-igniters.md), another club with no strip; the airfield strips at [Akron](akron-fulton-airport.md) and [Ames](ames-drag-strip-nightcrawlers.md); [Hurst-Campbell](../companies/hurst-campbell.md), the speed-parts company of the Philadelphia suburbs.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
-## Next leads
-The Wind Gap borough and *Easton Express* for Mountain View's owners and opening day; the Pocono Drag Lodge's first season and owners (Luzerne County papers); the Mount Pocono Airport Authority's minutes for 1964; whether Pocono's drag strip opened; the NEPTA's member clubs.
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** A fifth season in 1964 points to a first one in 1960, but we have not found an opening notice. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** We have found no reply from the airport authority, and no drag race at the Mount Pocono airport. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>
+
+### Next leads
+
+The Wind Gap borough and *Easton Express* for Mountain View's owners and opening day; the Pocono Drag Lodge's first season and owners (Luzerne County papers); the Mount Pocono Airport Authority's minutes for 1964; whether Pocono's drag strip opened; the NEPTA's member clubs. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Sources
 

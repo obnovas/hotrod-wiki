@@ -20,25 +20,33 @@ Kustomrama's index of the book shows how *national* the first annual already was
 - Antioch, Illinois: Ray Birky.
 - Grand Island, Nebraska: Woody's Body Shop.
 - Indianapolis: Rudy Makela's '42 Cadillac.
-- Denver, Seattle, Vermont, Augusta (Georgia), Miami Springs, Chicago and Pennsylvania.
+- Denver, Seattle, Vermont, Augusta (Georgia), Miami Springs, Chicago and Pennsylvania.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-◐ That is evidence that regional builders were working, and being published, by 1951. Many of them seem to be forgotten now.
-
-According to the 99W Speed Shop list (and Kustomrama), the Custom Cars annuals ran from No. 101 (1951) to No. 206 (1962). The line was then rebranded **Spotlite Books**.[^99w] ◐
+According to the 99W Speed Shop list (and Kustomrama), the Custom Cars annuals ran from No. 101 (1951) to No. 206 (1962). The line was then rebranded **Spotlite Books**.[^99w]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## AMT's 3-in-1 (1958): customizing becomes a toy
 
 In 1958 AMT took unassembled promotional models, "add[ed] some extra parts," and sold them as kits that could be built **stock, competition or custom**. The custom parts were skirts, continental kits and spotlights (Promotex, 2002).[^px] Round2, today's owner of the AMT brand, says the response was "phenomenal" and that AMT built its own plant in Troy, Michigan, by 1961.[^r2]
 
-The 1959 custom options included louvers, spotlights, moon discs, bubble skirts, lowering blocks, lake pipes, and flame and scallop decals (Centerline Hobbies).[^cl] This was a mail-order vocabulary of 1950s customizing, sold to teenagers nationwide.
-
-**⚠ From the detective's notebook: who invented the "annual" kit?** The Crittenden Automotive Library, citing Doty (2007), says **SMP** created the 3-in-1 annual kit and its logo, and AMT adopted them when it bought SMP in 1961.[^cal] Promotex and Round2 credit AMT, from 1958.[^px][^r2]
+The 1959 custom options included louvers, spotlights, moon discs, bubble skirts, lowering blocks, lake pipes, and flame and scallop decals (Centerline Hobbies).[^cl] This was a mail-order vocabulary of 1950s customizing, sold to teenagers nationwide.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **Customizers on the box:** Coachbuilt's interview with Gene Winfield says AMT included Barris tips in 1961 and 1962. From 1963 there was an "AMT Customizing Team": Barris, the Alexander Brothers, Bill Cushenbery and Winfield.[^cbw] Winfield said he was a consultant from 1962 and later ran AMT's **Speed & Custom Division**.[^cbw] Round2 says that division was founded in 1965 and based in Phoenix.[^r2] AMT kitted replicas of real show cars, including the Ala Kart.[^r2]
 
 ## Roth and Revell
 
-Revell's first Roth car kit, the **Outlaw** (kit 1282), came out in 1962 (Museum of American Speed; Scalemates).[^mas] Several sources report that Roth earned **one cent per kit** and made about **$32,000 in 1963**. Hemmings is reported to call the figure debated; we have not read the Hemmings text first-hand.[^rf] ◐
+Revell's first Roth car kit, the **Outlaw** (kit 1282), came out in 1962 (Museum of American Speed; Scalemates).[^mas] Several sources report that Roth earned **one cent per kit** and made about **$32,000 in 1963**. Hemmings is reported to call the figure debated; we have not read the Hemmings text first-hand.[^rf]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** That is evidence that regional builders were working, and being published, by 1951. Many of them seem to be forgotten now. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** The line was then rebranded **Spotlite Books**. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Who invented the "annual" kit?** The Crittenden Automotive Library, citing Doty (2007), says **SMP** created the 3-in-1 annual kit and its logo, and AMT adopted them when it bought SMP in 1961.[^cal] Promotex and Round2 credit AMT, from 1958.[^px][^r2] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Hemmings is reported to call the figure debated; we have not read the Hemmings text first-hand. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Images
 
@@ -63,6 +71,7 @@ Revell's first Roth car kit, the **Outlaw** (kit 1282), came out in 1962 (Museum
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [Kustomrama: Trend Book 101 page scans](https://www.kustomrama.com/wiki/Custom_Cars_Trend_Book_No._101)

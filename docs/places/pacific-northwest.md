@@ -11,7 +11,7 @@ In the Portland area, clubs organized through a **council**. The MHRC was founde
 
 ## Woodburn Dragstrip (1961)
 
-Woodburn opened in **June 1961** as an **eighth-mile** strip operated jointly by the MHRC and the **Northwest Timing Association**. It was lengthened to a quarter mile in 1963, and Jim Livingston bought it in 1972 (Wikipedia; track site).[^wd][^wda] ◐ Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61).[^pir] ◐
+Woodburn opened in **June 1961** as an **eighth-mile** strip operated jointly by the MHRC and the **Northwest Timing Association**. It was lengthened to a quarter mile in 1963, and Jim Livingston bought it in 1972 (Wikipedia; track site).[^wd][^wda]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61).[^pir]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The fiberglass connection
 
@@ -23,6 +23,14 @@ Shows and strips were run by **civic-minded volunteer councils** with elected of
 
 **See also (Round 10):** [*Street Rod* magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), Bruce Miller and Bruce Craig's monthly, with technical editor Russ Meeks and photographer Dale Moreau.
 
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** It was lengthened to a quarter mile in 1963, and Jim Livingston bought it in 1972 (Wikipedia; track site). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
 ## Images
 
 <figure markdown>
@@ -31,6 +39,7 @@ Shows and strips were run by **civic-minded volunteer councils** with elected of
 </figure>
 
 ## Visual references (external)
+
 *These images are copyrighted, so we link to them instead.*
 
 - [Jefferson61: PIR history photos](https://www.jefferson61.com/PIR-Part-1.htm)

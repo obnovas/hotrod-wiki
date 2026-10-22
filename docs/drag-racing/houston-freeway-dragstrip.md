@@ -16,21 +16,21 @@ The strip south of Houston on the east side of **I-45 / Gulf Freeway** near **Di
 
 ## Before the strip
 
-Houston-area street racing fed the track: Road Kings activity, unfinished Westbury subdivision pavement, Richmond & Post Oak, the Greater Houston Timing Association, and events at the Hitchcock blimp base and Ellington Field (local site: 20,000+ at an Ellington event). ◐ *Club chronology is enthusiast-compiled.*[^hfd]
+Houston-area street racing fed the track: Road Kings activity, unfinished Westbury subdivision pavement, Richmond & Post Oak, the Greater Houston Timing Association, and events at the Hitchcock blimp base and Ellington Field (local site: 20,000+ at an Ellington event).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Land for the strip was donated by the **Fingers Furniture** family, per the same local history site. ◐[^hfd]
+Land for the strip was donated by the **Fingers Furniture** family, per the same local history site.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^hfd]
 
 ## Opening and the 1958 showdown
 
 The strip opened in **fall 1957**, described as the region's first known **purpose-built** drag strip (as opposed to airports).[^hfd]
 
-Houston Chronicle Magazine, **March 1, 1959** ("The Flag Says Go"): starter Tim Evers; Bobby Langley's Scorpion II and Lin Huiet among those "zooming over 160 mph." ◐ *Quoted on the history site; Chronicle PDF not yet read here.*[^hfd]
+Houston Chronicle Magazine, **March 1, 1959** ("The Flag Says Go"): starter Tim Evers; Bobby Langley's Scorpion II and Lin Huiet among those "zooming over 160 mph."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 Don Garlits's memoir (quoted on the history site) recounts a July invitation to a California/Florida/Texas fuel showdown at Freeway: Pete Ogden in a Palamides streamliner, Jack Ewell in Kamboor's Jado Special, Red Case, and Texas star Bobby Langley in Scorpion II. It was Garlits against the field.[^hfd]
 
 ## Who bought it
 
-**Correction (Round 10):** our local source says **Don Gay** bought the track in **1960** and added lights, a Christmas tree, timing, stands and a PA.[^hfd] ◐ NHRA's Phil Burgess says instead that Don's **parents, Carl and Marie Gay**, owners of **Gay Pontiac** on the Gulf Highway in Dickinson, bought "nearby Freeway Drag Strip, which they rechristened **Houston Drag Raceway**." It later became Houston Int'l Speedway, then Houston Int'l Raceway.[^gay] Don, who died June 30, 2007, at 60, was only about 13 in 1960. We therefore credit the **Gay family (Carl and Marie)** as buyers. The improvements may well be theirs too. The purchase came **no later than 1961**, when Carl booked Hayden Proffitt there (below). The exact year is still open.
+**Correction (Round 10):** our local source says **Don Gay** bought the track in **1960** and added lights, a Christmas tree, timing, stands and a PA.[^hfd]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> It later became Houston Int'l Speedway, then Houston Int'l Raceway.[^gay] Don, who died June 30, 2007, at 60, was only about 13 in 1960. We therefore credit the **Gay family (Carl and Marie)** as buyers. The improvements may well be theirs too. The purchase came **no later than 1961**, when Carl booked Hayden Proffitt there (below). The exact year is still open.
 
 ## The Gay family years (Round 10)
 
@@ -42,7 +42,7 @@ In **1964**, Don, still a Dickinson High student, won **A/Stock class at the Ind
 
 **A home for touring racers:** that two-story house is where racers stayed (see Don's quote above). See [Voices](../voices/strip-owners-and-door-slammers.md).
 
-**The Gay–Snow connection:** Fort Worth's [Gene Snow](../people/gene-snow.md) made what NHRA calls Funny Car's first 200-mph pass, **200.88 mph**, "at Don and Carl Gay's track in Dickinson, Texas." ⚠ It is dated variously to Aug. 17, 1968, or 1969.[^snow]
+**The Gay–Snow connection:** Fort Worth's [Gene Snow](../people/gene-snow.md) made what NHRA calls Funny Car's first 200-mph pass, **200.88 mph**, "at Don and Carl Gay's track in Dickinson, Texas."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **Roy Gay** was runner-up to [Eddie Schartman](../people/eddie-schartman.md) at the 1967 Manufacturers Championships at OCIR. He was killed in a 1972 motorcycle accident.[^gay]
 
@@ -52,13 +52,31 @@ In **1964**, Don, still a Dickinson High student, won **A/Stock class at the Ind
 
 Tower and sanctioning names shifted (NHRA / AHRA labels appear on different-era photos). Treat the name list as a photo-caption census, not a legal chain of title.[^hfd]
 
-**Kent Chatagnier** (Beaumont, "Kent's Speed Shop" fueler): local historians and Standard 1320 researchers argue he ran **197–201+ mph** at Houston in **1960** under then Drag News rules, later "forgotten" when record-keeping was reset. ◐ *Disputed historiography; flag, do not assert as NHRA-recognized first 200.*[^hfd]
+**Kent Chatagnier** (Beaumont, "Kent's Speed Shop" fueler): local historians and Standard 1320 researchers argue he ran **197–201+ mph** at Houston in **1960** under then Drag News rules, later "forgotten" when record-keeping was reset.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
 NHRA.com "Ghost tracks" (2008): by **2000** the site was largely demolished; reader note that a Walmart sat on the old starting line.[^nhra]
 
-**Closing:** Yellow Bullet forum recollection says end of **1987**, with Houston Raceway Park (Baytown) opening **1988**. Other secondary text says "unknown date." ⚠ We prefer **1987** as the working date, marked single-sourced to forum memory until a Chronicle closing notice is found.[^yb][^hfd]
+**Closing:** Yellow Bullet forum recollection says end of **1987**, with Houston Raceway Park (Baytown) opening **1988**. Other secondary text says "unknown date."<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **See also:** [Gene Snow](../people/gene-snow.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Texas: Caddo Mills...](../places/texas.md), [Westheimer cruising](../places/westheimer-houston.md), [Detroit & Cordova](detroit-cordova.md) (other early purpose-built strips).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Club chronology is enthusiast-compiled.*[^hfd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Land for the strip was donated by the **Fingers Furniture** family, per the same local history site. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Quoted on the history site; Chronicle PDF not yet read here.*[^hfd] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** NHRA's Phil Burgess says instead that Don's **parents, Carl and Marie Gay**, owners of **Gay Pontiac** on the Gulf Highway in Dickinson, bought "nearby Freeway Drag Strip, which they rechristened **Houston Drag Raceway**." <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** It is dated variously to Aug. 17, 1968, or 1969.[^snow] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *Disputed historiography; flag, do not assert as NHRA-recognized first 200.*[^hfd] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+<a id="q-7" class="hr-q-anchor"></a>**Disputed.** We prefer **1987** as the working date, marked single-sourced to forum memory until a Chronicle closing notice is found.[^yb][^hfd] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 ## Images
 
@@ -73,6 +91,7 @@ NHRA.com "Ghost tracks" (2008): by **2000** the site was largely demolished; rea
 </figure>
 
 ## Visual references (external)
+
 - [houstonfreewaydragstrip.com photo archive](http://www.houstonfreewaydragstrip.com/)
 - [NHRA, "Ghost tracks, the scary sequel"](https://www.nhra.com/news/2008/ghost-tracks-scary-sequel)
 - [Dragzine Flashback Friday: Houston International Raceway](https://www.dragzine.com/news/flashback-friday-the-houston-international-raceway/)

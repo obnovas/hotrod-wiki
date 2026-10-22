@@ -41,19 +41,31 @@ Lambert told the magazine the money side was what made the strip unusual. Entrie
 
 ## Courtesy cards
 
-The *Tribune* gave the club's aims in the order the club gave them: "Safety, education and fun -- in that order." Each Nightcrawler carried a membership-courtesy card. Rules came from the national headquarters of the Automobile Timing Association of America, with 30 points of safety inspection, according to the *Tribune*. The paper also quoted a letter to the police chief from a Northrup King advertising manager. His starter had failed while he was passing through Ames late one evening, and some club members went out of their way to get his car going. He praised "their most refreshing courtesy and thoughtfulness."[^ahs]
-
-*From the detective's notebook:* that ATAA line matters beyond Ames. Elsewhere in this wiki, the [ATAA](half-day-ataa-maremont.md) is said to have been "absorbed" by the NHRA in 1957 ([Bob Bartel](../people/bob-bartel.md)), and that claim is single-source ◐. Yet an ATAA ad ran in Ames in August 1957, and the club was still citing ATAA rules in June 1958. Both can be true if the strips kept running under the old rules after the merger, but neither page settles it.
+The *Tribune* gave the club's aims in the order the club gave them: "Safety, education and fun -- in that order." Each Nightcrawler carried a membership-courtesy card. Rules came from the national headquarters of the Automobile Timing Association of America, with 30 points of safety inspection, according to the *Tribune*. The paper also quoted a letter to the police chief from a Northrup King advertising manager. His starter had failed while he was passing through Ames late one evening, and some club members went out of their way to get his car going. He praised "their most refreshing courtesy and thoughtfulness."[^ahs]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Three things the sources disagree on
 
-- **The grandstand.** *The Iowan*: "There are no grandstands or bleachers." The museum says the strip "featured a grandstand," along with pits, the starting tower and a concession stand run by **Helen Overland**.[^iowan][^ahs] ⚠ *The Iowan* writer seems to describe 1958 while the museum covers all three summers, so a grandstand added late would fit both. No source says that, though.
-- **The land.** *The Iowan* says Armstrong donated the land rent-free. The *Tribune* puts the strip on the J. D. Armstrong property but says it was "owned by Bud Overland," and the museum says the land belonged to Armstrong and to Bud and Gunner Overland.[^iowan][^ahs] ⚠
-- **"First."** The museum calls Ames "the 1st quarter-mile strip in Iowa." Lambert himself told *The Iowan* about a permanent strip at Des Moines, owned by a private investor.[^ahs][^iowan] ⚠ We have not dated the Des Moines strip from a primary source.
+- **The grandstand.** *The Iowan*: "There are no grandstands or bleachers." The museum says the strip "featured a grandstand," along with pits, the starting tower and a concession stand run by **Helen Overland**.[^iowan][^ahs]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> *The Iowan* writer seems to describe 1958 while the museum covers all three summers, so a grandstand added late would fit both. No source says that, though.
+- **The land.** *The Iowan* says Armstrong donated the land rent-free. The *Tribune* puts the strip on the J. D. Armstrong property but says it was "owned by Bud Overland," and the museum says the land belonged to Armstrong and to Bud and Gunner Overland.[^iowan][^ahs]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+- **"First."** The museum calls Ames "the 1st quarter-mile strip in Iowa." Lambert himself told *The Iowan* about a permanent strip at Des Moines, owned by a private investor.[^ahs][^iowan]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## After the summer of 1959
 
-The museum's page ends the story in one sentence. When Bud Overland lost both his best friend and his brother in automobile accidents, he lost interest in the drag strip, and it closed after the summer of 1959.[^ahs] ◐
+The museum's page ends the story in one sentence. When Bud Overland lost both his best friend and his brother in automobile accidents, he lost interest in the drag strip, and it closed after the summer of 1959.[^ahs]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** That ATAA line matters beyond Ames. Elsewhere in this wiki, the [ATAA](half-day-ataa-maremont.md) is said to have been "absorbed" by the NHRA in 1957 ([Bob Bartel](../people/bob-bartel.md)), and that claim is single-source ◐. Yet an ATAA ad ran in Ames in August 1957, and the club was still citing ATAA rules in June 1958. Both can be true if the strips kept running under the old rules after the merger, but neither page settles it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed:** **The grandstand.** *The Iowan*: "There are no grandstands or bleachers." The museum says the strip "featured a grandstand," along with pits, the starting tower and a concession stand run by **Helen Overland**. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed:** Armstrong property but says it was "owned by Bud Overland," and the museum says the land belonged to Armstrong and to Bud and Gunner Overland. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** We have not dated the Des Moines strip from a primary source. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** When Bud Overland lost both his best friend and his brother in automobile accidents, he lost interest in the drag strip, and it closed after the summer of 1959. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Sources
 

@@ -23,9 +23,15 @@ Miller (born about 1934; WHYY says he was 5 in 1939) grew up on Philadelphia's M
 
 Miller describes **Vargo** as free of racial hostility. Elsewhere in the same interview he is sharply critical of corporate sponsorship and of NASCAR's record on Black driver development.[^why] One good local experience does not tell us what Black racers faced nationally.
 
-NMAH notes that Black drivers were barred from competing against white drivers in the 1920s, which led to the Colored Speedway Association (1924).[^nmah] ◐ We haven't been able to open that page directly yet (it blocked our fetch), so this point waits on confirmation.
+NMAH notes that Black drivers were barred from competing against white drivers in the 1920s, which led to the Colored Speedway Association (1924).[^nmah]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Malcolm Durham, the BARA co-founder and an East Coast Chevy match racer, has no first-person source in the wiki yet. He is on the [Research Trail](../research-trail.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We haven't been able to open that page directly yet (it blocked our fetch), so this point waits on confirmation. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^why]: Peter Crimmins, "Blazing a trail for African-American racers," WHYY, June 22, 2018. https://whyy.org/segments/blazing-a-trail-for-african-american-racers/ (accessed 2026-10-13)
 [^nmah]: National Museum of American History, "The Black American Racers fought for equity in auto racing." https://americanhistory.si.edu/explore/stories/equity-auto-racing (fetch blocked 2026-10-13)

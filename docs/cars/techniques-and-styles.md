@@ -11,7 +11,7 @@
 
 Early customizing was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k]
 
-The vocabulary: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] And channeling: Summers is credited with the first channel job by *Motor Life*, 1955 ◐.[^k]
+The vocabulary: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] And channeling: Summers is credited with the first channel job by *Motor Life*, 1955<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.[^k]
 
 Techniques were spread by Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs]
 
@@ -30,6 +30,12 @@ Lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sect
 ## Pro Street, 1979–late 1980s
 
 See [Pro Street](../eras/1980s-pro-street.md).
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** And channeling: Summers is credited with the first channel job by *Motor Life*, 1955 . <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 
