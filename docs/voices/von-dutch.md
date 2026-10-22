@@ -3,8 +3,6 @@ title: 'Von Dutch: "Nothing Is Original"'
 summary: Kenneth "Von Dutch" Howard is credited with reviving pinstriping. Here we separate his own few words from his friends' stories.
 department: voices
 eras:
-- 1930s
-- 1940s
 - 1950s
 - 1960s
 - 1970s
@@ -12,19 +10,24 @@ eras:
 - 1990s
 - 2000s
 years:
-- 1938
+- 1950
 - 2002
-region: National
-states: []
-cities: []
+region: West
+states:
+- California
+cities:
+- Lynwood, California
 people:
 - Kenneth "Von Dutch" Howard
+- Bob Burns
+- Al Titus
 companies: []
 places: []
 clubs: []
 strips: []
 tags:
 - oral-history
+- customs
 related:
 - media/trend-books-kits-roth.md
 - voices/show-custom-voices.md
@@ -41,15 +44,19 @@ Kenneth "Von Dutch" Howard (died 1992, aged 63, per the LA Times) is widely cred
 
 ## Poor on purpose (1965)
 
+The longest passage in his own words is about money:
+
 > "I make a point of staying right at the edge of poverty. I don't have a pair of pants without a hole in them, and the only pair of boots I have are on my feet. … There's a 'struggle' you have to go through, and if you make a lot of money it doesn't make the 'struggle' go away. It just makes it more complicated. If you keep poor, the struggle is simple."
 >
 > — **Von Dutch**, "a 1965 article," as reprinted by Bob Burns (Letterville). The LA Times (2002) also quotes the final two sentences.[^bb][^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The sign
 
-Late in life, according to the LA Times, he lettered a sign urging viewers to "use any of my stuff you want to. Nothing is original. Everything is in the subconscious, we just 'tap' it sometimes and think we have originated something." The sign was shown at Cal State Northridge in 2002.[^lat]
+He said much the same about ideas. Late in life, according to the LA Times, he lettered a sign urging viewers to "use any of my stuff you want to. Nothing is original. Everything is in the subconscious, we just 'tap' it sometimes and think we have originated something." The sign was shown at Cal State Northridge in 2002.[^lat]
 
 ## A friend remembers (Bob Burns)
+
+The rest comes through friends. Bob Burns remembered him putting metal ahead of paint:
 
 > "I'm a mechanic first. … If I had my way I'd be a gunsmith! I like to make things out of metal, because metal is forever. When you paint something, how long does it last? A few years, and then it's gone!"
 >

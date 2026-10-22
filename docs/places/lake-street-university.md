@@ -6,26 +6,29 @@ eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
 years:
 - 1956
-- 1993
+- 1974
 region: Midwest
 states:
 - Minnesota
-- Illinois
 cities:
 - Minneapolis, Minnesota
-- Chicago, Illinois
+- St. Paul, Minnesota
 people: []
 companies: []
-places: []
+places:
+- Lake Street
+- University Avenue
+- Porky's
+- Flat Top drive-in
 clubs:
 - Gopher State Timing Association (GSTA)
 strips: []
 tags:
 - cruising
+- car-clubs
+- car-shows
 - grassroots-sources
 related:
 - places/upper-midwest.md
@@ -45,9 +48,13 @@ canonical_for: []
 
 ## How cruising turned into racing
 
+The local club's own history admits where cruising led:
+
 > "Unfortunately, this cruising activity often led to impromptu street races to see whose car was best, or fastest. The one-way streets that crossed Lake Street, Portland and Park, were the best because they were wide, with no oncoming traffic. Had to watch the cross streets carefully though."
 >
 > — **Gopher State Timing Association**, club history (undated; drawing on "The GSTA Story," 1957).[^gsta]
+
+Forum posters remember the places:
 
 > "We cruised Lake Street a lot in the early 60's....never thought to take any pictures. I remember Porky's, the BigWheel, the Avalon theater, Sears, etc."
 >
@@ -57,11 +64,11 @@ canonical_for: []
 >
 > — Another poster, same thread.[^hamb]
 
-## Ties
+## The club and the loop
 
-**GSTA**, the Gopher State Timing Association: its own history ties street cruising to the clubs' effort to get racing off the streets, and its first car show, on September 16, 1956, was held in the Red Owl parking lot at Lake St. and 22nd Ave. So.[^gsta] It belongs to the same Upper Midwest network as the [MSRA and Back to the 50's](upper-midwest.md).
+The Gopher State Timing Association (GSTA) was part of the same scene. Its own history ties street cruising to the clubs' effort to get racing off the streets, and its first car show, on September 16, 1956, was held in the Red Owl parking lot at Lake St. and 22nd Ave. So.[^gsta] It belongs to the same Upper Midwest network as the [MSRA and Back to the 50's](upper-midwest.md).
 
-Porky's on University Avenue appears again in the MSRA's 1974 Back to the 50's cruise ([Upper Midwest](upper-midwest.md)).
+Porky's on University Avenue turns up again in the MSRA's 1974 Back to the 50's cruise ([Upper Midwest](upper-midwest.md)).
 
 ## Images
 

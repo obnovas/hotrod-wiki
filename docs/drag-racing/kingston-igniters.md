@@ -12,22 +12,30 @@ states:
 - New York
 cities:
 - Kingston, New York
+- Stone Ridge, New York
+- Poughkeepsie, New York
 people:
-- Carl Cline (Kline)
-- Richard Cooney
 - William Locke
-- Gus (Augustus) Lovy
+- Arthur H. Wicks
 - Howard C. St. John
-- Sen. Arthur H. Wicks
+- Carl Cline (Kline)
+- Gus (Augustus) Lovy
+- LeRoy "Pappy" Wells
+- Amos MacCreery
+- George Mustaparta
+- Richard Cooney
+- Kenneth Lamphere
 companies: []
 places: []
 clubs:
 - Igniters (Kingston Igniters)
+- Poughkeepsie Police Athletic League
 strips: []
 tags:
 - car-clubs
-- drag-strips
+- club-rules
 - police-and-safety
+- drag-strips
 - car-shows
 - grassroots-sources
 related:
@@ -71,13 +79,13 @@ That night the club had 35 members, had applied to join the National Hot Rod Ass
 
 ## Good deeds, on the record
 
-- **September 1955:** after a one-car crash on Route 28 knocked down and set fire to the gasoline pumps at Art's Esso station, a Mr. Granquist thanked the Igniters for helping clear the wreckage: "the boys did a good job and I'm grateful to them."[^kf550923] The club now met weekly at the Kingston Recreation Center, 97 Broadway, and had about 40 members.[^kf550915]
-- **November 1955:** for Safe Driving Day on Dec. 1, the club volunteered to pay for and hand out **4,000 lapel tags**.[^kf551112]
-- **March 1956:** Deputy Sheriff Carl Cline, "founder of the organization," announced safe-driving trophies for members with perfect driving records, with a campaign starting April 1. LeRoy Wells of the White Star Transfer Co. would present the trophies.[^kf560312]
+The paper kept track of the club's good deeds. In **September 1955**, after a one-car crash on Route 28 knocked down and set fire to the gasoline pumps at Art's Esso station, a Mr. Granquist thanked the Igniters for helping clear the wreckage: "the boys did a good job and I'm grateful to them."[^kf550923] The club now met weekly at the Kingston Recreation Center, 97 Broadway, and had about 40 members.[^kf550915] In **November**, for Safe Driving Day on Dec. 1, the club volunteered to pay for and hand out **4,000 lapel tags**.[^kf551112]
+
+In **March 1956** Deputy Sheriff Carl Cline, "founder of the organization," announced safe-driving trophies for members with perfect driving records, with a campaign starting April 1. LeRoy Wells of the White Star Transfer Co. would present the trophies.[^kf560312]
 
 ## A 1931 Ford at the home show
 
-At the Kingston Lions Industrial Exposition and Home Show at the state armory in March 1956, the Igniters showed what a hot rod club actually did. A *Freeman* photo shows Amos McCreery Jr., Robert Powell, LeRoy Wells and Gus Lovy, now president, beside "a completely rebuilt car": a **1931 Ford roadster with a 1948 engine and dual carburetion**. The caption called the project part of a club safety campaign "to acquaint club members with the operation of a car and to realize its power."[^kf560321]
+That same month, at the Kingston Lions Industrial Exposition and Home Show at the state armory in March 1956, the Igniters showed what a hot rod club actually did. A *Freeman* photo shows Amos McCreery Jr., Robert Powell, LeRoy Wells and Gus Lovy, now president, beside "a completely rebuilt car": a **1931 Ford roadster with a 1948 engine and dual carburetion**. The caption called the project part of a club safety campaign "to acquaint club members with the operation of a car and to realize its power."[^kf560321]
 
 ## Still looking
 
@@ -85,13 +93,13 @@ By May 1956 the headline said it all: "'Drag Strip' Is Still Sought by Igniters 
 
 ## From hot rod club to motor club
 
-In November 1958 **Richard Cooney** was elected president at a meeting in the supervisors' room of the Ulster County Courthouse. He stressed safe driving and paying dues on time, and the advisers told the members to look for a meeting place "which they could call their own."[^kf581125]
+After that the club changed course. In November 1958 **Richard Cooney** was elected president at a meeting in the supervisors' room of the Ulster County Courthouse. He stressed safe driving and paying dues on time, and the advisers told the members to look for a meeting place "which they could call their own."[^kf581125]
 
 Two months later the board met at Wells's home and changed the operation of the club "from a hot rod to a motor club." The name stayed. Members got new club plates (purple, with aluminum lettering), and the first road rally, a 17-mile run around the county from Hasbrouck Avenue near the Strand to Dietz Stadium, went to **Kenneth Lamphere** with co-pilot George Bilyou.[^kf590114][^kf590130] By November 1959 the Igniters were running a newspaper collection drive.[^kf591107]
 
 The papers never say why the change happened. The timing suggests a club that had waited four years for a strip that never came and found something else to do with its cars. That is our reading, not the *Freeman*'s. Sedalia's Drag-Ons and Stroudsburg's Ridge Runners hunted for strips at the same time. See [The Sedalia Drag-Ons](sedalia-drag-ons.md) and [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md).
 
-**Related:** [Escanaba's Drag-n's](escanaba-dragns.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the 1955 [planners' survey](planners-report-1955.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>; [Portsmouth, Ohio, 1956](portsmouth-kustom-kouriers.md); ["Opinions Differ on Hot Rods"](new-york-towns-panel-1957.md).
+*See also:* [Escanaba's Drag-n's](escanaba-dragns.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the 1955 [planners' survey](planners-report-1955.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>; [Portsmouth, Ohio, 1956](portsmouth-kustom-kouriers.md); ["Opinions Differ on Hot Rods"](new-york-towns-panel-1957.md).
 
 ## Open questions & disputed details
 

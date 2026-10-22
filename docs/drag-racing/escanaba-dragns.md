@@ -10,11 +10,22 @@ years:
 region: Midwest
 states:
 - Michigan
-cities: []
+cities:
+- Escanaba, Michigan
+- Kingsford, Michigan
 people:
 - Kemp Sabourin
+- Bill Miller
+- Earl Anderson
+- Wayne Berthaume
+- Bill Kolich
+- Jerry Larson
+- John Lasnoski Jr.
+- John Moore
 companies: []
-places: []
+places:
+- 1418 Washington Avenue
+- Ludington Street
 clubs:
 - Drag-n's Auto Club
 strips: []
@@ -59,19 +70,19 @@ On **January 5, 1955** the paper reported that organization "has been completed 
 
 ## The rules
 
-The Drag-n's looked a lot like the safety clubs the city planners described in 1955 (see [What the City Planners Wrote](planners-report-1955.md)). The paper lists the following rules.
+The Drag-n's looked a lot like the safety clubs the city planners described in 1955 (see [What the City Planners Wrote](planners-report-1955.md)). The paper lists the rules, and they start with the cars themselves. Members got aluminum plates with "a black background and a hot rod and the name Drag-n's and Escanaba." The plates were meant to tell other drivers which hot rods belonged to the club and which belonged to other drivers. Members said this would "help abate undue criticism."[^apr23] A member's plate stayed on only if his car met standards for lights, brakes, front end, rear end, exhaust and wiring.[^apr23]
 
-- **Plates.** Members got aluminum plates with "a black background and a hot rod and the name Drag-n's and Escanaba." The plates were meant to tell other drivers which hot rods belonged to the club and which belonged to other drivers. Members said this would "help abate undue criticism."[^apr23]
-- **Inspection.** A member's plate stayed on only if his car met standards for lights, brakes, front end, rear end, exhaust and wiring.[^apr23]
-- **Discipline.** "A moving violation ticket automatically suspends a member from the club for 30 days." Missing meetings without an excuse was a second ground for suspension. In January the officers said a member who broke the safe-driving policy "is expelled."[^apr23][^jan5]
-- **Money.** A $2.50 membership fee and weekly dues of 35 cents. The treasury could be spent only on items that benefited the whole club, by majority vote. Members needed a driver's license, and a current member had to bring them in.[^apr23]
-- **Police.** A January item says Escanaba police officers "attended a recent meeting to speak on driving safety and safe automobiles."[^jan5] In April the club invited a police representative, service clubs and business people to an open meeting to explain its by-laws and its drag strip plan.[^apr16]
+Discipline was strict. "A moving violation ticket automatically suspends a member from the club for 30 days." Missing meetings without an excuse was a second ground for suspension. In January the officers said a member who broke the safe-driving policy "is expelled."[^apr23][^jan5]
+
+Membership cost a $2.50 fee and weekly dues of 35 cents. The treasury could be spent only on items that benefited the whole club, by majority vote. Members needed a driver's license, and a current member had to bring them in.[^apr23]
+
+The police took part as well. A January item says Escanaba police officers "attended a recent meeting to speak on driving safety and safe automobiles."[^jan5] In April the club invited a police representative, service clubs and business people to an open meeting to explain its by-laws and its drag strip plan.[^apr16]
 
 The club also said it was not for teenagers only. "Any person of good character," including "persons of an older age group," could apply.[^apr23]
 
 ## The cars
 
-The feature is blunt about money. "The cars that are being built by the club members are being built correctly," Sabourin said, "but the work is slow because of the high expense involved." It describes a '49 Oldsmobile engine and Hydra-Matic in a '33 Plymouth frame, and a '39 Ford engine in a '32 Chevrolet frame. Sabourin and Miller were building a dragster, a car "with no body," which they said was "begun right from the rails."[^apr23]
+The cars came slowly, and the feature is blunt about money. "The cars that are being built by the club members are being built correctly," Sabourin said, "but the work is slow because of the high expense involved." It describes a '49 Oldsmobile engine and Hydra-Matic in a '33 Plymouth frame, and a '39 Ford engine in a '32 Chevrolet frame. Sabourin and Miller were building a dragster, a car "with no body," which they said was "begun right from the rails."[^apr23]
 
 Of the dragster the paper quotes them: "Putting a motor in a car is one of the easiest steps, but hooking up the many parts of the car proves a bit more difficult."[^apr23]
 
@@ -85,12 +96,13 @@ The one event we can document is smaller. A notice on **May 21, 1955** says the 
 
 ## More from the paper's small print { #more-from-the-papers-small-print-added-round-18 }
 
-A second pass through the January–June issues turned up four more mentions. None is a headline. Together they show a club the paper kept on its calendar.
+Four more mentions turn up in the January–June issues. None is a headline, but together they show a club the paper kept on its calendar.
 
-- **The conference that came first.** On **January 14, 1955**, nine days after the club's organization notice, the paper reported on the second annual regional Teen Age Safety Conference at Escanaba Senior High School, with "more than 100" students from area high schools. Among the resolutions the delegates adopted: "that an attempt be made to channel the abilities and interests of boys, who are mechanically inclined, into hot-rod clubs or other constructive programs," and that "the community be informed as to the real purpose of hot-rod clubs and other driver education programs."[^jan14] The Drag-n's rulebook, with its plates and 30-day suspensions, reads like an answer to that second resolution. The paper does not connect the two, and neither do we.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
-- **Meeting notices.** On April 13 the paper announced a "special meeting" for Thursday evening at the club room on Washington Avenue, and its April 18 sports column listed the Drag-n's among the evening's meetings.[^apr13][^apr18] April 18, 1955 was a Monday, which fits the Monday-night schedule the January item gave.
-- **June 20, 1955.** A "Briefly Told" item said "a special meeting of the Drag-n's Auto Club will be held at 7:30 tonight" at 1418 Washington Avenue, adding that "the public is invited to attend and all members are requested to be present."[^jun20] It is the last club item we can read, and it shows the club still meeting a month after the May 22 road race. It does not say why the meeting was special.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
-- **Street racing in town.** On June 10, 1955 the police-ticket column listed a Green Bay motorist for "speeding and 'drag racing' on Ludington St." The item says nothing about the Drag-n's, and nothing in the paper ties them to it.[^jun10] We mention it because it is the only traffic ticket for "drag racing" that turned up in our search of these issues, and it fell in the same weeks the club was preaching safe driving. Full story: [Belleville's Gear Jammers and the St. Louis Strip Hunt (1952–1959)](belleville-gear-jammers.md#the-club-with-the-half-fine-rule).
+The first came from the schools. On **January 14, 1955**, nine days after the club's organization notice, the paper reported on the second annual regional Teen Age Safety Conference at Escanaba Senior High School, with "more than 100" students from area high schools. Among the resolutions the delegates adopted: "that an attempt be made to channel the abilities and interests of boys, who are mechanically inclined, into hot-rod clubs or other constructive programs," and that "the community be informed as to the real purpose of hot-rod clubs and other driver education programs."[^jan14] The Drag-n's rulebook, with its plates and 30-day suspensions, reads like an answer to that second resolution. The paper does not connect the two, and neither do we.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+
+The rest are meeting notices. On April 13 the paper announced a "special meeting" for Thursday evening at the club room on Washington Avenue, and its April 18 sports column listed the Drag-n's among the evening's meetings.[^apr13][^apr18] April 18, 1955 was a Monday, which fits the Monday-night schedule the January item gave. On **June 20, 1955**, a "Briefly Told" item said "a special meeting of the Drag-n's Auto Club will be held at 7:30 tonight" at 1418 Washington Avenue, adding that "the public is invited to attend and all members are requested to be present."[^jun20] It is the last club item we can read, and it shows the club still meeting a month after the May 22 road race. It does not say why the meeting was special.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+
+One ticket from those weeks stands out. On June 10, 1955 the police-ticket column listed a Green Bay motorist for "speeding and 'drag racing' on Ludington St." The item says nothing about the Drag-n's, and nothing in the paper ties them to it.[^jun10] We mention it because it is the only traffic ticket for "drag racing" that turned up in our search of these issues, and it fell in the same weeks the club was preaching safe driving. Full story: [Belleville's Gear Jammers and the St. Louis Strip Hunt (1952–1959)](belleville-gear-jammers.md#the-club-with-the-half-fine-rule).
 
 <figure markdown>
 ![Brick storefronts along the 1200 block of Ludington Street in downtown Escanaba, Michigan](../assets/images/commons-escanaba-ludington-1200-block.jpg){ loading=lazy }
@@ -99,8 +111,7 @@ A second pass through the January–June issues turned up four more mentions. No
 
 ## Where this fits
 
-- **The wire story that came first.** In July 1954 the same paper ran a feature headed "Hot Rodders Playing It Safe" about the Chicago-area Automobile Timing Association of America, with the line that the group came into being in 1953. See [Half Day, Illinois](half-day-ataa-maremont.md).
-- **Other small-town clubs.** [Decatur, Indiana](indiana-small-town-clubs.md) formed its own chapter in 1956 with a police blessing. [Kansas City](kansas-city-timing-association.md) was building a 32-club timing association in 1955, the year the Drag-n's got their plates.
+The paper had already run the safety pitch. In July 1954 the same paper ran a feature headed "Hot Rodders Playing It Safe" about the Chicago-area Automobile Timing Association of America, with the line that the group came into being in 1953. See [Half Day, Illinois](half-day-ataa-maremont.md). Other clubs were working the same way: [Decatur, Indiana](indiana-small-town-clubs.md) formed its own chapter in 1956 with a police blessing. [Kansas City](kansas-city-timing-association.md) was building a 32-club timing association in 1955, the year the Drag-n's got their plates.
 
 ## Open questions & disputed details
 

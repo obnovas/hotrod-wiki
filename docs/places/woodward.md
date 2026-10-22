@@ -3,6 +3,7 @@ title: 'Woodward Avenue: Back In, Keep an Eye on the Action'
 summary: On Woodward Avenue you backed into the drive-in so you could watch the action. The loop, the racing and how Detroit's showrooms joined in.
 department: places
 eras:
+- 1950s
 - 1960s
 - 1970s
 - 1980s
@@ -10,25 +11,39 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1963
+- 1955
 - 2018
 region: Midwest
 states:
 - Michigan
 cities:
+- Ferndale, Michigan
+- Royal Oak, Michigan
 - Birmingham, Michigan
+- Bloomfield Hills, Michigan
+- Pontiac, Michigan
 people:
-- Jimmie Addison
-- Milt Schornack
 - Jim Wangers
-- Ace Wilson
+- Ace Wilson Sr.
+- Milt Schornack
+- Jimmie Addison
+- Les Johnson
+- Dick Krause
+- Eric Schiffer
 companies:
 - Royal Pontiac
-places: []
-clubs: []
+places:
+- Woodward Avenue
+- Ted's Drive-In
+- Totem Pole
+- Hedge's Wigwam
+clubs:
+- Ramchargers
 strips: []
 tags:
 - cruising
+- street-racing
+- police-and-safety
 - town-politics
 related:
 - drag-racing/detroit-cordova.md
@@ -54,19 +69,21 @@ Hagerty (2011) describes the loop as running "between Ferndale … and Pontiac."
 
 ## The racing
 
-A writer for Hi-Performance Cars recalled for Hemmings (2018) that "we never street-raced south of Eight Mile Road … But north of Eight Mile … that's where the action was." He also said "little, if any money changed hands on Woodward" compared with the Connecting Highway in Queens.[^hem]
+Then there was the racing. A writer for Hi-Performance Cars recalled for Hemmings (2018) that "we never street-raced south of Eight Mile Road … But north of Eight Mile … that's where the action was." He also said "little, if any money changed hands on Woodward" compared with the Connecting Highway in Queens.[^hem]
 
 ## From the street to the showroom
 
-**Royal Pontiac, Royal Oak (Ace Wilson).** Hemmings: "Pontiac definitely had more than one GTO set up for Woodward. They ran out of Royal Pontiac … and were often piloted by Jim Wangers himself," the Pontiac ad man who wanted to "keep in touch" with the street. Hemmings dates Wangers' Woodward-median GTO ad ("The Great One by Pontiac. You know the rest of the story.") to the December 1967 Motor Trend.[^hem]
+Detroit's carmakers were watching, and one dealer in particular was in on it: Ace Wilson's **Royal Pontiac** in Royal Oak. Hemmings says, "Pontiac definitely had more than one GTO set up for Woodward. They ran out of Royal Pontiac … and were often piloted by Jim Wangers himself," the Pontiac ad man who wanted to "keep in touch" with the street. Hemmings dates Wangers' Woodward-median GTO ad ("The Great One by Pontiac. You know the rest of the story.") to the December 1967 Motor Trend.[^hem]
 
-**Royal Bobcat** GTOs were tuned by Milt Schornack and others at Royal. The first Bobcat was a 1961 Catalina, and the program ended when Ace Wilson Sr. sold the dealership around 1970 (Hagerty 2020).[^hag2]
+The dealer's **Royal Bobcat** GTOs were tuned by Milt Schornack and others at Royal. The first Bobcat was a 1961 Catalina, and the program ended when Ace Wilson Sr. sold the dealership around 1970 (Hagerty 2020).[^hag2]
 
-**The "Silver Bullet" GTX.** The rumor was that it was a Mopar engineer's car. It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings).[^hem]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+Some legends were homegrown. The rumor was that the **"Silver Bullet" GTX** was a Mopar engineer's car. It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings).[^hem]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Clubs such as the **Ramchargers** and Drag-Ons came out of the same suburban scene (Hagerty).[^hag] See also [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md).
 
 ## In their own words
+
+The people who were there remember the loop:
 
 > "Those were drag racing days. … We'd ride from The Totem Pole to Ted's and back again all day and night."
 >
@@ -82,7 +99,7 @@ Clubs such as the **Ramchargers** and Drag-Ons came out of the same suburban sce
 
 ## Policing
 
-Johnson remembers **"Sheriff Irons"** in a big black Chrysler who would pull racers over and ask to look under their hoods ("I think it was," he hedges). Hagerty mentions "lot cops." Hot Rod (2014) says that by the late 1960s "laws were soon enacted that limited the cruising and long-term parking," which led to "demonstrations and a few arrests." It adds that rising muscle-car insurance ("more a month for insurance than their car payment") and then the OPEC oil crisis finished the era off. We have not identified the specific ordinances.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^op][^hag][^hr]
+The police were part of the scene too. Johnson remembers **"Sheriff Irons"** in a big black Chrysler who would pull racers over and ask to look under their hoods ("I think it was," he hedges). Hagerty mentions "lot cops." Hot Rod (2014) says that by the late 1960s "laws were soon enacted that limited the cruising and long-term parking," which led to "demonstrations and a few arrests." It adds that rising muscle-car insurance ("more a month for insurance than their car payment") and then the OPEC oil crisis finished the era off. We have not identified the specific ordinances.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^op][^hag][^hr]
 
 How it ended is its own story: the 1960s ordinances, the 1963 case that led to them, and the policing that followed are in [Woodward: The City That Banned the Drive-Ins It Didn't Have](woodward-ordinances.md).
 

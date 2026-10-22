@@ -11,20 +11,34 @@ eras:
 years:
 - 1955
 - 1993
-region: Midwest
+region: National
 states:
+- California
 - Illinois
 cities:
 - Alton, Illinois
+- Half Moon Bay, California
 people:
 - Doris Herbert
+- Chet Herbert
+- Dean Brown
+- Dick McMullen
+- Dan Raulston
+- Bud DeBoer
+- Chris Karamesines
+- Don Garlits
+- Wally Parks
 - Dick Wells
-companies: []
+- Ed Iskenderian
+companies:
+- Drag News
 places: []
 clubs: []
 strips: []
 tags:
 - magazines-and-media
+- women
+- sanctioning-bodies
 related:
 - people/dick-wells.md
 - companies/crane-cams.md
@@ -43,9 +57,9 @@ The Oct 1, 1960 issue named Garlits officially fastest at a backed-up 182.18 mph
 
 ## The paper
 
-**Drag News** began on **March 4, 1955** as an eight-page biweekly, founded by Dean Brown (publisher-editor) and Dick McMullen (ad sales). It soon went weekly on newsprint.[^cp1]
+She did not start the paper. **Drag News** began on **March 4, 1955** as an eight-page biweekly, founded by Dean Brown (publisher-editor) and Dick McMullen (ad sales). It soon went weekly on newsprint.[^cp1]
 
-Her brother **Chet Herbert** arranged and funded her purchase in 1959.[^hem] She replaced editor Dan Raulston in **April 1959**.[^cp1] Raulston launched a rival, *Drag Racer*, two months later; seven issues came out June–October 1959.[^cp1]
+She bought it four years later. Her brother **Chet Herbert** arranged and funded her purchase in 1959.[^hem] She replaced editor Dan Raulston in **April 1959**.[^cp1] Raulston launched a rival, *Drag Racer*, two months later; seven issues came out June–October 1959.[^cp1]
 
 ## Nobody's pet paper
 
@@ -57,7 +71,7 @@ In 1967, *Drag News* outlasted *Drag Sport Illustrated*, *Drag World* and *Drag 
 
 She was the first journalist inducted into the International Drag Racing Hall of Fame (1993) and sold the paper in **1976** after 17 years.[^hof]
 
-**A rival's pen name:** NHRA's *National Dragster* editor wrote in 2009 that, per Dick Wells, Wally Parks sent critical letters to *Drag News* under the pen name "Parks Wengard," which spelled backwards is "Drag News Krap."[^r12nd] See [Dick Wells](dick-wells.md).
+She had critics. NHRA's *National Dragster* editor wrote in 2009 that, per Dick Wells, Wally Parks sent critical letters to *Drag News* under the pen name "Parks Wengard," which spelled backwards is "Drag News Krap."[^r12nd] See [Dick Wells](dick-wells.md).
 
 *See also:* [Inyokern](../drag-racing/inyokern-dust-devils.md).
 

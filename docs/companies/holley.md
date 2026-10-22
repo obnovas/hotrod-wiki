@@ -14,27 +14,45 @@ eras:
 - 1980s
 - 1990s
 - 2000s
+- 2010s
 years:
 - 1901
-- 2008
+- 2015
 region: National
 states:
 - Pennsylvania
+- New York
+- Michigan
+- Tennessee
 - Kentucky
-- Ohio
 cities:
 - Bradford, Pennsylvania
+- Buffalo, New York
+- Detroit, Michigan
+- Warren, Michigan
+- Bowling Green, Kentucky
 people:
+- George Holley
+- Earl Holley
+- Frank Holley
+- Henry Ford
+- Gary Hooker
 - Stu Hilborn
 companies:
 - Holley (Holley Brothers)
+- Colt Industries
+- Borg-Warner
+- Hooker Headers
+- Mr. Gasket
+- Lakewood Industries
 places: []
 clubs: []
 strips: []
 tags:
 - speed-equipment
-- family-business
 - aftermarket-business
+- family-business
+- patents-and-inventions
 related:
 - companies/hooker-headers.md
 - companies/mr-gasket.md
@@ -55,9 +73,8 @@ On a summer day in 1901 at the Pan-American Exposition in Buffalo, twenty-three-
 
 Holley came to Buffalo from **Bradford, Pennsylvania**, an oil boomtown in McKean County, where his father Frank ran the Holley House, a four-story, 70-room hotel. The marker essay says the boomtown culture "spawned a host of refiners, dealers, brokers, and others all seeking to 'strike it rich'," and that in that "fertile environment for entrepreneurial innovation" George and his brother Earl, "natural-born mechanics and tinkerers," did the rest.[^mk]
 
-In 1896 George attached a motor to a bicycle, making the motor "an integral part of the bike frame." In 1897, he was nineteen and Earl sixteen, they built a three-wheeled single-cylinder car they called the Runabout, which hit thirty miles an hour. They formed the Holley Motor Company two years later, with Earl on administration and George on engineering, building engines on Davis Street and then whole motorcycles "in response to customer demand." George raced them to promote the business, and in July 1902 he won the first Motorcycle Endurance Contest, Boston to New York.[^mk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+It started with bicycles. In 1896 George attached a motor to a bicycle, making the motor "an integral part of the bike frame." In 1897, he was nineteen and Earl sixteen, they built a three-wheeled single-cylinder car they called the Runabout, which hit thirty miles an hour. They formed the Holley Motor Company two years later, with Earl on administration and George on engineering, building engines on Davis Street and then whole motorcycles "in response to customer demand." George raced them to promote the business, and in July 1902 he won the first Motorcycle Endurance Contest, Boston to New York.[^mk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Both place Henry Ford's request for a Model T carburetor before the 1907 move to Detroit. The marker says that Ford asked them to produce a carburetor "for his new Model T," and that it "soon became standard on all Ford automobiles."[^mk] We have not checked that sequence against a Ford source.
 
 <figure markdown>
 ![A 1916 advertisement for the Holley Model H carburetor, in a red-spattered frame, with the line "Holley Brothers Co., Detroit, Mich."](../assets/images/commons-holley-brothers-ad-1916.jpg){ width="360" loading=lazy }
@@ -66,7 +83,7 @@ Both place Henry Ford's request for a Model T carburetor before the 1907 move to
 
 ## Detroit, and a war
 
-The brothers moved their headquarters to Detroit in 1907 and opened their first plant there late that year. In 1917 they sold Ford the car-carburetor business and refocused on tractors, selling to International Harvester and Chevrolet as the Holley Carburetor Company. Aviation followed in 1927. The marker says that during World War II "almost half the vehicles in the U.S. armed forces had a Holley carburetor and fuel-metering device." Penn State says "more than half" of all the carburetors and carburetion devices used in the war carried the Holley trademark, and adds Holley fuel-metering on the B-25s of the Doolittle raid.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Then the business followed the car industry. The brothers moved their headquarters to Detroit in 1907 and opened their first plant there late that year. In 1917 they sold Ford the car-carburetor business and refocused on tractors, selling to International Harvester and Chevrolet as the Holley Carburetor Company. Aviation followed in 1927. The marker says that during World War II "almost half the vehicles in the U.S. armed forces had a Holley carburetor and fuel-metering device." Penn State says "more than half" of all the carburetors and carburetion devices used in the war carried the Holley trademark, and adds Holley fuel-metering on the B-25s of the Doolittle raid.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Into the aftermarket
 
@@ -85,10 +102,7 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 
 ## Connect the dots
 
-- [Mr. Gasket](mr-gasket.md): Cleveland's Hrudka brothers' company, sold to Holley in 2015.
-- [Hooker Headers](hooker-headers.md): Gary Hooker's header shop, a Holley brand since 2000 (or earlier, per the marker); the sale date is a<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> conflict.
-- [Lakewood Industries](lakewood-industries.md): the Ohio bellhousing maker, now a Holley brand.
-- [Stu Hilborn](../people/stu-hilborn.md): the fuel-injection pioneer's company is reported to have been acquired by Holley (2019,<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> per that page's Wikipedia summary).
+[Mr. Gasket](mr-gasket.md), Cleveland's Hrudka brothers' company, was sold to Holley in 2015. [Hooker Headers](hooker-headers.md), Gary Hooker's header shop, has been a Holley brand since 2000 (or earlier, per the marker); the sale date is a<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> conflict. [Lakewood Industries](lakewood-industries.md), the Ohio bellhousing maker, is now a Holley brand too. And the company of [Stu Hilborn](../people/stu-hilborn.md), the fuel-injection pioneer, is reported to have been acquired by Holley (2019,<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> per that page's Wikipedia summary).
 
 *See also:* [The Web of Influence](web-of-influence.md).
 
@@ -107,6 +121,8 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 <a id="q-5" class="hr-q-anchor"></a>**Disputed:** [Hooker Headers](hooker-headers.md): Gary Hooker's header shop, a Holley brand since 2000 (or earlier, per the marker); the sale date is a conflict. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far:** [Stu Hilborn](../people/stu-hilborn.md): the fuel-injection pioneer's company is reported to have been acquired by Holley (2019, per that page's Wikipedia summary). <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+**Ford's request:** Both the marker essay and the Penn State feature place Henry Ford's request for a Model T carburetor before the 1907 move to Detroit. The marker says that Ford asked them to produce a carburetor "for his new Model T," and that it "soon became standard on all Ford automobiles."[^mk] We have not checked that sequence against a Ford source.
 
 [^mk]: "Holley Motor Company Historical Marker," Pennsylvania Historical and Museum Commission, Explore PA History (marker at 57 Holley Ave., Bradford, dedicated Sept 13, 2008; "Behind the Marker" essay). https://explorepahistory.com/hmarker.php?markerId=1-A-3A3 (accessed 2026-10-16)
 [^psu]: Pierre LeClair, supplemented by Christine A. Hawthorne, "From Motorized Bicycle to Muscle Car," Pennsylvania Center for the Book, Penn State University Libraries (McKean County, Spring 2010, Spring 2011); illustrated with the Holley Foundation's help. https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/motorized-bicycle-muscle-car (accessed 2026-10-16)

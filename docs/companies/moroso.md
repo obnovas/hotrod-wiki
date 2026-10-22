@@ -3,31 +3,49 @@ title: 'Moroso: A Basement in Greenwich and a Dragstrip He Bought on a Whim'
 summary: 'Dick Moroso started in a basement in Greenwich, Conn., and in 1983 explained why he had bought a falling-down dragstrip in Florida: "We have too many industrial parks and not enough racetracks."'
 department: companies
 eras:
+- 1930s
+- 1940s
 - 1950s
 - 1960s
 - 1970s
 - 1980s
 - 1990s
-- 2000s
 years:
-- 1953
-- 2003
+- 1939
+- 1998
 region: Northeast
 states:
 - Connecticut
 - Florida
-cities: []
+cities:
+- Greenwich, Connecticut
+- Stamford, Connecticut
+- Guilford, Connecticut
+- Branford, Connecticut
 people:
-- Dick / Moroso Performance Products Moroso
-companies: []
+- Dick Moroso
+- Hank Dietrich
+- Rick Moroso
+- Tom Wright
+- Doug Bryant
+- Paul Smith
+- Jack Woltemar
+companies:
+- Moroso Performance Products
+- Speed Associates
+- Performance Automotive
+- Competition Engineering
+- Pratt & Whitney
 places: []
 clubs: []
-strips: []
+strips:
+- Palm Beach International Raceway (Moroso Motorsports Park)
 tags:
+- speed-equipment
+- aftermarket-business
 - drag-strips
 - gassers
-- teenagers-and-schools
-- funny-cars
+- family-business
 related:
 - places/ohio-gassers.md
 - companies/crane-cams.md
@@ -81,11 +99,7 @@ One local detail made it work: across the highway stood a large **Pratt & Whitne
 
 ## Connect the dots
 
-- [The Ohio Gassers](../places/ohio-gassers.md): Cleveland gasser racer Ron Hassel ran a '48 Thames in South Florida, and Jim Hill's photo of it comes from Palm Beach International Raceway, the track Moroso later bought.
-- [Crane Cams](crane-cams.md): Hassel's employer was a South Florida performance company, in the same corner of the state.
-- [Midwest & East](../places/midwest-east.md): the wiki's regional page for the Northeast and Midwest scenes Moroso sold into.
-- [Indiana's small-town clubs](../drag-racing/indiana-small-town-clubs.md): its 1953 "Safety Second" item concerns a different Connecticut town, Manchester, a decade before Moroso's start and with no documented tie to him; it shows what Connecticut teenage car clubs looked like in his youth.
-- [Mickey Thompson](mickey-thompson.md): another racer-turned-manufacturer-turned-track-promoter.
+[The Ohio Gassers](../places/ohio-gassers.md) page has a Cleveland gasser racer, Ron Hassel, who ran a '48 Thames in South Florida; Jim Hill's photo of it comes from Palm Beach International Raceway, the track Moroso later bought. Hassel's employer, [Crane Cams](crane-cams.md), was a South Florida performance company in the same corner of the state. [Midwest & East](../places/midwest-east.md) is the wiki's regional page for the Northeast and Midwest scenes Moroso sold into. The 1953 "Safety Second" item in [Indiana's small-town clubs](../drag-racing/indiana-small-town-clubs.md) concerns a different Connecticut town, Manchester, a decade before Moroso's start and with no documented tie to him; it shows what Connecticut teenage car clubs looked like in his youth. And [Mickey Thompson](mickey-thompson.md) was another racer-turned-manufacturer-turned-track-promoter.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

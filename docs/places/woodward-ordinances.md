@@ -9,17 +9,30 @@ eras:
 - 1990s
 - 2000s
 - 2010s
+- 2020s
 years:
 - 1963
-- 2014
+- 2023
 region: Midwest
 states:
 - Michigan
 cities:
 - Birmingham, Michigan
-people: []
+- Royal Oak, Michigan
+- Bloomfield Hills, Michigan
+- Ferndale, Michigan
+- Berkley, Michigan
+people:
+- Connie Crossland
+- Michael Sass
+- Corrigan O'Donohue
+- Jay Harbin
+- Andrew Hadfield
 companies: []
-places: []
+places:
+- Woodward Avenue
+- Ted's Drive-In
+- Totem Pole
 clubs: []
 strips: []
 tags:
@@ -63,14 +76,13 @@ A *Detroit News* feature from 2023, which we could read only as a search-result 
 
 ## The next blow
 
-The museum calls the 1967 "road rage murder of 18-year-old Michael Sass" the "last blow to mid-20th century cruising culture along Woodward."[^bham] We have no other source on that case.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+A second killing followed. The museum calls the 1967 "road rage murder of 18-year-old Michael Sass" the "last blow to mid-20th century cruising culture along Woodward."[^bham] We have no other source on that case.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The long hangover: Woodward since the Dream Cruise
 
-The Dream Cruise began in 1995 as a Ferndale soccer-field fundraiser, according to the museum, and grew into an event that "draws over 1 million people and 40,000 cars."[^bham] The tension never fully left, and the local paper keeps score.
+The Dream Cruise began in 1995 as a Ferndale soccer-field fundraiser, according to the museum, and grew into an event that "draws over 1 million people and 40,000 cars."[^bham] The tension never fully left, and the local paper keeps score. In **2014** *The Oakland Press* reported that Royal Oak police "logged 117 calls on complaints about cruisers between April and June 23" and "wrote 91 tickets" in the same period. The chief, Corrigan O'Donohue, said the biggest issue was "large groups of car owners gathering in business parking lots near Woodward and Normandy." About a dozen businesses had given police power of attorney "so that officers can issue parking tickets or have vehicles towed."[^op14] A cruiser quoted in the story, Jay Harbin, 81, recalled: "When I was young I used to like to go out there and race from light to light."[^op14]
 
-- **2014.** *The Oakland Press* reported that Royal Oak police "logged 117 calls on complaints about cruisers between April and June 23" and "wrote 91 tickets" in the same period. The chief, Corrigan O'Donohue, said the biggest issue was "large groups of car owners gathering in business parking lots near Woodward and Normandy." About a dozen businesses had given police power of attorney "so that officers can issue parking tickets or have vehicles towed."[^op14] A cruiser quoted in the story, Jay Harbin, 81, recalled: "When I was young I used to like to go out there and race from light to light."[^op14]
-- **2022.** Royal Oak joined Berkley, Pleasant Ridge, Birmingham, Huntington Woods, Bloomfield Hills and the Oakland County Sheriff's Department in a campaign called **Operation Decrescendo**, with noise enforcement and traffic tickets. A state law, the paper says, limits vehicle noise to 90 decibels on roads posted at 35 mph or higher. Berkley's Lt. Andrew Hadfield said the challenge was the early-season cruisers, and "it doesn't mean there should be a five-month speedway along Woodward."[^op22]
+By **2022** the response was regional. Royal Oak joined Berkley, Pleasant Ridge, Birmingham, Huntington Woods, Bloomfield Hills and the Oakland County Sheriff's Department in a campaign called **Operation Decrescendo**, with noise enforcement and traffic tickets. A state law, the paper says, limits vehicle noise to 90 decibels on roads posted at 35 mph or higher. Berkley's Lt. Andrew Hadfield said the challenge was the early-season cruisers, and "it doesn't mean there should be a five-month speedway along Woodward."[^op22]
 
 The same paper describes the 2022 cruise as "the world's largest one-day automotive event," drawing "up to 1.5 million people" and 40,000 classic cars over a 16-mile route from Ferndale to Pontiac.[^op22]
 

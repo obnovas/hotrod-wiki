@@ -10,24 +10,32 @@ years:
 - 1964
 region: Midwest
 states:
-- Kansas
 - Missouri
+- Kansas
+- Indiana
 cities:
-- Great Bend, Kansas
 - Sedalia, Missouri
+- Marshall, Missouri
+- Kansas City, Missouri
+- Great Bend, Kansas
 people:
-- Bill Bottcher
-- Tom Butterfield
-- Larry Embry
-- Larry Rennison
-- D. Kelly Scruton
 - Jr. Vasquez
+- D. Kelly Scruton
+- Sue Wilson
+- Bill Bottcher
+- Larry Embry
+- Tom Butterfield
+- Larry Rennison
+- Walter McClure
+- Dick Schultz
 companies: []
 places: []
 clubs:
-- Push Rods
 - Sedalia Drag-Ons
-strips: []
+- Push Rods (Marshall)
+strips:
+- Kansas City strip (KCTA)
+- Whiteman Air Force Base
 tags:
 - car-clubs
 - club-rules
@@ -69,7 +77,7 @@ Two weeks later the members went to the Kansas City strip, where "Many of the lo
 
 ## Three laws and a second chance
 
-In March 1958 *Democrat* sports editor **D. Kelly Scruton** gave his column to a letter from the club's president, **Jr. Vasquez**. The Drag-Ons, Vasquez wrote, had three laws: obey the motor vehicle laws, be courteous to other drivers and pedestrians, and "publicize the sport of drag racing in its true light."[^sd580309]
+The next spring the club made its case in print. In March 1958 *Democrat* sports editor **D. Kelly Scruton** gave his column to a letter from the club's president, **Jr. Vasquez**. The Drag-Ons, Vasquez wrote, had three laws: obey the motor vehicle laws, be courteous to other drivers and pedestrians, and "publicize the sport of drag racing in its true light."[^sd580309]
 
 The penalty system was blunt. A member found guilty of breaking the rules "is fined by the club, but given one more chance to prove himself worthy of membership. If caught again, he is fined by the club, the city police, and disregarded as a club member."[^sd580309]
 
@@ -77,7 +85,7 @@ Vasquez's real point was the strip. Only a strip could take racing off the highw
 
 ## Car washes, Air Force drags and a record hop
 
-That spring the club read and approved its constitution at its own clubhouse.[^sd580430] Sue Wilson, chairman of the Sedalia cancer drive, signed the members up, and their "Operation Simo-Wash" car wash at the Wayne Richardson Service Station on May 10 raised **$60.40** for the Cancer Society.[^sd580514]
+The club was busy that spring. It read and approved its constitution at its own clubhouse.[^sd580430] Sue Wilson, chairman of the Sedalia cancer drive, signed the members up, and their "Operation Simo-Wash" car wash at the Wayne Richardson Service Station on May 10 raised **$60.40** for the Cancer Society.[^sd580514]
 
 In June 1958 the guests at a meeting were the **Push Rods** of Marshall, probably the new club Vasquez had mentioned. The Drag-Ons planned to go to drag races at **Whiteman Air Force Base** on Sunday, June 8, sponsored by the base's club, with cars expected from Kansas City and Great Bend, Kansas. They also booked a July 4 "Record Hop" at the Liberty Park Convention Hall: $1 stag, $1.50 drag.[^sd580604] For Great Bend, see [Great Bend, Kansas](great-bend-srca.md).
 
@@ -93,20 +101,15 @@ The best story came last. In November 1964, the *Democrat*'s Sunday feature sect
 
 **Tom Butterfield** was setting up a boys' ranch near Marshall on the old Marshall Country Club property, and he had only a station wagon. "We voted it in pretty quick," said club president **Larry Rennison**. **Walter McClure**, who lived northeast of Sedalia and hadn't been able to sell his 1950 truck, gave it to the club. The members worked on it in **Dick Schultz**'s garage on East Third: new upholstery, an overhauled motor, a new bed floor and a repaint in the original color. The truck was due at the ranch in December.[^sd641115]
 
-Embry also printed the club's rules, which had grown teeth since 1958:[^sd641115]
+Embry also printed the club's rules, which had grown teeth since 1958.[^sd641115] The club's purpose was "to promote road safety and courtesy on American highways," and to show the public what organized hot rod clubs can do. Members were mostly in their late teens and early 20s, aged 17 to 27.
 
-- **Purpose:** "to promote road safety and courtesy on American highways," and to show the public what organized hot rod clubs can do.
-- **Members:** mostly in their late teens and early 20s, aged 17 to 27.
-- **Tickets:** a moving violation "means a fine of one-half his court fine," and the member then had to stand trial before his fellow club members at the next meeting.
-- **Wrecks:** a member in an accident had to report it, and three members investigated.
-- **Expulsion:** a two-thirds vote.
-- **Money and duty:** $2 to join, which covered the plaque, then 50 cents a week. Members were fined for missing meetings, and two absences in four weeks put membership at risk.
-- **Inspection:** every member's car got a safety check every three months.
-- **Badge:** the club insignia was a cast aluminum license plate.
+The discipline was spelled out. A moving violation "means a fine of one-half his court fine," and the member then had to stand trial before his fellow club members at the next meeting. A member in an accident had to report it, and three members investigated. Expulsion took a two-thirds vote. Every member's car got a safety check every three months.
+
+So were the dues: $2 to join, which covered the plaque, then 50 cents a week. Members were fined for missing meetings, and two absences in four weeks put membership at risk. The club insignia was a cast aluminum license plate.
 
 The 1964 officers were Rennison (president), Gary Hayden (vice president), Dennis Smethers (secretary), Dick Schultz (treasurer), Gary Deuel (reporter) and Steve Bottcher (sergeant-at-arms).[^sd641115]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-**Related:** [Kansas City's strip and Timing Association](kansas-city-timing-association.md), [The Big S.I.R.](sedalia-big-sir.md), [Escanaba's Drag-n's](escanaba-dragns.md), [Stroudsburg's Ridge Runners](stroudsburg-ridge-runners.md) and [Kingston's Igniters](kingston-igniters.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Flares, Tow Chains and a Broken Gasket](fox-valley-road-deacons-gas-ketts.md).
+*See also:* [Kansas City's strip and Timing Association](kansas-city-timing-association.md), [The Big S.I.R.](sedalia-big-sir.md), [Escanaba's Drag-n's](escanaba-dragns.md), [Stroudsburg's Ridge Runners](stroudsburg-ridge-runners.md) and [Kingston's Igniters](kingston-igniters.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Flares, Tow Chains and a Broken Gasket](fox-valley-road-deacons-gas-ketts.md).
 
 ## Open questions & disputed details
 

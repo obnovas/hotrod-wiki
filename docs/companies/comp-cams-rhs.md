@@ -8,19 +8,42 @@ eras:
 - 1980s
 - 1990s
 - 2000s
+- 2010s
+- 2020s
 years:
 - 1967
-- 2008
+- 2020
 region: South
 states:
-- Florida
+- Tennessee
+- Arkansas
 - Mississippi
-cities: []
+- Florida
+cities:
+- Memphis, Tennessee
+- Little Rock, Arkansas
+- Jackson, Mississippi
+- Olive Branch, Mississippi
 people:
+- Ivars Smiltnieks
+- Bob Woodard
+- John McWhirter
+- Bud Lang
+- Mark Heffington
 - Tom Woitesek
+- Russ Smiltnieks
+- Scooter Brothers
+- Ron Coleman
+- Bob Glidden
 companies:
-- Competition Cams / Racing Head Service (COMP Cams)
-places: []
+- Racing Head Service
+- COMP Cams
+- Cam Dynamics
+- Crane Cams
+- TCI
+- Edelbrock
+places:
+- Union Avenue and Marshall (Sun Studio corner)
 clubs: []
 strips: []
 tags:
@@ -50,13 +73,13 @@ In 1967 three drag racers who loved tinkering with Oldsmobile engines bought a h
 
 Smiltnieks, Bob Woodard and John McWhirter had found, COMP Cams says, "the art of head porting and trick valve jobs" and were "very successful in NHRA's Stock and Jr. Stock classes." Racers kept asking them to do the same for theirs, so they made a company to meet the demand.[^comp] SEMA's retelling of a February 1971 *Hot Rod* profile adds why a trio would race old Oldsmobiles at all. Writer Bud Lang quoted them: "One reason was that they were a lot of fun, but the main reason was they were ideal test cars." Because of their low horsepower rating, the Olds engines "would react favorably (or disagreeably) to any small change." Many of the shop's "speed secrets," Lang wrote, found their way "into Chevys, Fords, Ponchos, and who knows what else."[^sema]
 
-SEMA also quotes Lang on why head work was a science in Junior and Super Stock: the NHRA rules were so restrictive that the few shops specializing in the work had "turned otherwise standard valve jobs into a science."[^sema]
+Lang also explained why head work was a science in Junior and Super Stock: the NHRA rules were so restrictive that the few shops specializing in the work had "turned otherwise standard valve jobs into a science."[^sema]
 
 ## The corner of Union and Marshall
 
 Soon, COMP says, they rented a real shop "at the corner of Union and Marshall, which happened to be Sun Studios, where Elvis was discovered." By 1969 RHS was a full speed shop, "machining and building engines in the back while selling speed parts up front." It outgrew Union Avenue, moved to a bigger building near the airport on Hangar Road, and opened two more shops, in Little Rock and in Jackson, Mississippi.[^comp]
 
-The Little Rock shop has a local witness. The 1978 Little Rock Central High School yearbook carries an ad for "Racing Head Service, Memphis/Little Rock, 3901 S. University, L.R." (read from the scan's OCR text; the ad's other copy is garbled). A yearbook ad is a quiet piece of evidence: a Memphis head shop advertising to a Little Rock high-school audience.[^yb]
+The Little Rock shop shows up in a local source. The 1978 Little Rock Central High School yearbook carries an ad for "Racing Head Service, Memphis/Little Rock, 3901 S. University, L.R." (read from the scan's OCR text; the ad's other copy is garbled). A yearbook ad is a quiet piece of evidence: a Memphis head shop advertising to a Little Rock high-school audience.[^yb]
 
 The wiki's [Memphis page](../places/memphis.md) says outright that it looked for a link between Sun Records-era Memphis and the builders and "found none." COMP's history gives a place link, not a musician link: a speed shop on what COMP calls Sun Studios' corner.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The address needs a city directory or a Memphis newspaper.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -83,13 +106,7 @@ So a company that began when three men raced Oldsmobiles now sits in the same gr
 
 ## Connect the dots
 
-- [Memphis and the Mid-South](../places/memphis.md): the scene COMP says it dominated; the Sun Records section now has a place link, with caveats.
-- [Summer Avenue, Memphis](../places/summer-avenue-memphis.md): the cruising street of the same city; no source ties it to RHS.
-- [Ray Godman](../voices/ray-godman.md): Lakeland Dragway's partner and NHRA advisor, Memphis's other drag-racing backbone.
-- [Crane Cams](crane-cams.md): Woitesek's old employer, and the eventual owner of Cam Dynamics.
-- [Summit Racing](summit-racing.md): a COMP hydraulic roller cam sits in the restored founder's Corvette.
-- [Edelbrock's Slingshot](edelbrock-slingshot.md): the Edelbrock Group, formed 2020 by merging Edelbrock and COMP's parent.
-- [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md): the earlier California cam makers this Memphis trade grew up behind.
+[Memphis and the Mid-South](../places/memphis.md) is the scene COMP says it dominated; its Sun Records section now has a place link, with caveats. [Summer Avenue](../places/summer-avenue-memphis.md) was the cruising street of the same city, though no source ties it to RHS. [Ray Godman](../voices/ray-godman.md), Lakeland Dragway's partner and an NHRA advisor, was Memphis's other drag-racing backbone. [Crane Cams](crane-cams.md) was Woitesek's old employer and the eventual owner of Cam Dynamics. A COMP hydraulic roller cam sits in the restored founder's Corvette at [Summit Racing](summit-racing.md). The [Edelbrock](edelbrock-slingshot.md) Group was formed in 2020 by merging Edelbrock and COMP's parent. And [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md) tells the story of the earlier California cam makers this Memphis trade grew up behind.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

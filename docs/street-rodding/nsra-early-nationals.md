@@ -3,35 +3,49 @@ title: From a Hayfield to an Association
 summary: How the 1970 Street Rod Nationals in a Peoria hayfield led to the National Street Rod Association, and where the Nationals moved after that.
 department: street-rodding
 eras:
-- 1940s
-- 1950s
-- 1960s
 - 1970s
 - 1980s
 - 1990s
 - 2000s
+- 2010s
 years:
-- 1948
-- 2001
+- 1970
+- 2010
 region: Midwest
 states:
 - Illinois
-- Minnesota
 - Tennessee
+- Minnesota
 - Ohio
+- Kentucky
 cities:
 - Peoria, Illinois
 - Memphis, Tennessee
 - St. Paul, Minnesota
+- Columbus, Ohio
+- Louisville, Kentucky
 people:
-- Andy Brizio
+- Tom Medley
+- Tex Smith
+- Bud Bryan
+- Jim "Jake" Jacobs
 - Dick Wells
+- Bruce Miller
+- Andy Brizio
+- Jim Clark
 companies: []
 places: []
-clubs: []
+clubs:
+- Slo-Pokes (Peoria)
+- Minnesota Street Rod Association (MSRA)
+- National Street Rod Association (NSRA)
+- Kustom Kemps of America
 strips: []
 tags:
 - street-rods
+- sanctioning-bodies
+- car-clubs
+- car-shows
 related:
 - voices/street-rodder-founding.md
 - eras/1970s-street-rod-nationals.md
@@ -56,23 +70,21 @@ canonical_for: []
 
 Tom Medley recalled that he, Tex Smith, Bud Bryan and Jim "Jake" Jacobs planned the 1970 event, and that the Petersen "7th floor" management said no. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association (MSRA) helped.[^rc] It was held in a hayfield. For more, see [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-The **NSRA** was formed in the event's wake. Dick Wells was its first president; SEMA later hired him (Hagerty).[^hag]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> Tex Smith's 1978 list of NSRA founders includes Miller. See [*Street Rod* magazine](../media/street-rod-magazine-portland.md#bruce-miller-and-the-nsra). Unresolved.
+The **NSRA** was formed in the event's wake. Dick Wells was its first president; SEMA later hired him (Hagerty).[^hag]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Moving Nationals
 
-In 1971 the Nationals went to **Memphis** (the 2nd Nationals); Memphis hosted again in 1975 and 1980 (carnut.com photo index).[^cn] Secondary accounts put 1971 at about 1,200–1,300 rods (TBucketPlans; Hot Rod, Oct 1972 "Street!" is cited in search summaries).[^tb71]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+The event did not stay put. In 1971 the Nationals went to **Memphis** (the 2nd Nationals); Memphis hosted again in 1975 and 1980 (carnut.com photo index).[^cn] Secondary accounts put 1971 at about 1,200–1,300 rods (TBucketPlans; Hot Rod, Oct 1972 "Street!" is cited in search summaries).[^tb71]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-In 1974 it was **St. Paul** (5th Nationals). According to MSRA history, the MSRA's first **Back to the 50's** (June 1974) was a test run for the 5th Nationals.[^msra] See [Upper Midwest](../places/upper-midwest.md).
+Three years later it was **St. Paul** (the 5th Nationals, 1974). According to MSRA history, the MSRA's first **Back to the 50's** (June 1974) was a test run for the 5th Nationals.[^msra] See [Upper Midwest](../places/upper-midwest.md).
 
 In the 1980s the Nationals rotated with Columbus, Ohio, on a three-year cycle. They moved to **Louisville** in 1988 and settled there permanently in the 1990s (Hagerty).[^hag]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The 1948-and-older rule
 
-NSRA eligibility was limited to cars built in **1948 and earlier**, and later 1949-and-up cars were handled through a separate street-machine track. Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.[^wp]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
+The association also drew a line by model year. NSRA eligibility was limited to cars built in **1948 and earlier**, and later 1949-and-up cars were handled through a separate street-machine track. Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.[^wp]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
 The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra] The KKOA set '62-and-older in 1983.[^hr83] Each group set its own cutoff year.
-
-**The president question, in full:** [Dick Wells](../people/dick-wells.md) sets out every source. Wells's own sketch says he was "the first active president"; Gray Baskerville's 2001 recollection lists Bruce Miller among five out-of-state friends who "chipped in" and names no president. The conflict stays open.
 
 *See also:* [Peoria 1970](../voices/peoria-1970.md).
 
@@ -91,6 +103,8 @@ The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra]
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far:** They moved to **Louisville** in 1988 and settled there permanently in the 1990s (Hagerty). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** This needs an NSRA rulebook or *Street Scene* source. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
+**Who was the first president?** Tex Smith's 1978 list of NSRA founders includes Bruce Miller; see [*Street Rod* magazine](../media/street-rod-magazine-portland.md#bruce-miller-and-the-nsra). [Dick Wells](../people/dick-wells.md) sets out every source. Wells's own sketch says he was "the first active president"; Gray Baskerville's 2001 recollection lists Bruce Miller among five out-of-state friends who "chipped in" and names no president. The conflict stays open.
 
 ## Images
 
