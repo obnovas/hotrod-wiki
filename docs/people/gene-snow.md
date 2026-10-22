@@ -7,28 +7,40 @@ eras:
 - 1970s
 - 1980s
 - 1990s
-- 2000s
 years:
-- 1966
-- 2007
+- 1962
+- 1997
 region: Southwest
 states:
 - Texas
 cities:
-- Austin, Texas
+- Fort Worth, Texas
 - Dickinson, Texas
+- Dallas, Texas
+- Baytown, Texas
 people:
 - Gene Snow
-- Eddie Schartman
-companies: []
+- L.G. Melton
+- Don Hardy
+- Jake Johnston
+- Chip Woodall
+- Terry Pringle
+- Bob Brooks
+- Don Gay
+- Carl Gay
+companies:
+- Logghe Stamping
+- Revell
 places: []
 clubs: []
-strips: []
+strips:
+- Houston Freeway Dragstrip
+- Houston Raceway Park
 tags:
 - funny-cars
-- sanctioning-bodies
 - dragsters
 - drag-strips
+- sanctioning-bodies
 related:
 - drag-racing/houston-freeway-dragstrip.md
 - voices/strip-owners-and-door-slammers.md
@@ -64,15 +76,15 @@ He went into partnership with **L.G. Melton** in Fort Worth and raced cars from 
 
 In 1965 Snow began racing against the new Funny Cars in an **altered-wheelbase Dodge Dart built by fellow Texan Don Hardy**. The chassis was lengthened in 1966 to improve handling.[^top50][^nd16]
 
-NHRA did not yet recognize Funny Cars, so the Dart ran as a **C/Fuel Dragster** in Competition eliminator. Snow won Comp at the **1966 Nationals** (9.04) and the new **Super Eliminator** at the 1967 Nationals (8.67).[^top50][^nd16] At the **1968 Winternationals** he switched to gasoline and won **B/Altered** class and Comp.[^top50]
+The class had no NHRA home yet. NHRA did not recognize Funny Cars, so the Dart ran as a **C/Fuel Dragster** in Competition eliminator. Snow won Comp at the **1966 Nationals** (9.04) and the new **Super Eliminator** at the 1967 Nationals (8.67).[^top50][^nd16] At the **1968 Winternationals** he switched to gasoline and won **B/Altered** class and Comp.[^top50]
 
 The photographs below, which the uploader dates to Austin, Texas, 1967, show the Dart with "Engine by Ted Detar" lettering and a tilt front end.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Direct drive and the Logghe Charger
 
-Snow ran a supercharged '68 Dart, then a '68 Charger body, and dropped the automatic transmission for direct drive. "We worked with Crower to come up with a four-disc Crowerglide centrifugal clutch," he said. "Though it was sluggish off the line, it would mow down the automatic cars, which always nosed-over at about 185 mph."[^top50] National Dragster's Phil Burgess places the direct-drive experiments in **late 1968 and into 1969**.[^nd16]
+Then the cars got faster. Snow ran a supercharged '68 Dart, then a '68 Charger body, and dropped the automatic transmission for direct drive. "We worked with Crower to come up with a four-disc Crowerglide centrifugal clutch," he said. "Though it was sluggish off the line, it would mow down the automatic cars, which always nosed-over at about 185 mph."[^top50] National Dragster's Phil Burgess places the direct-drive experiments in **late 1968 and into 1969**.[^nd16]
 
-***Hot Rod*, June 1969** (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic **Jake Johnston** "a job lasting nearly two months and involving over $13,000." Its "backbone" was a **Logghe Stamping Company chassis** on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+In June 1969 *Hot Rod* (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic **Jake Johnston** "a job lasting nearly two months and involving over $13,000." Its "backbone" was a **Logghe Stamping Company chassis** on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## 1970: the "Super Season"
 
@@ -88,13 +100,11 @@ On **Oct. 6, 1988, at Houston Raceway Park, Baytown**, he ran a **4.997/279.06**
 
 He retired after a crash at the 1992 Dallas national event and returned in 1997 with an A/Fuel dragster run "on a hobby basis."[^top50]
 
-## Loose ends
+## Off the track
 
-**Life dates:** We found no verified obituary for this Gene Snow. A 2018 obituary for a "Thomas Eugene 'Gene' Snow" of Florida is **a different man**, and we do not use it.
+Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> This page covers his racing record.
 
-**Editorial note:** Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> This page covers his racing record.
-
-**See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), [Texas](../places/texas.md), [Eddie Schartman](eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md).
+*See also:* [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), [Texas](../places/texas.md), [Eddie Schartman](eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md).
 
 ## Open questions & disputed details
 
@@ -119,6 +129,8 @@ The pass itself is not in dispute. The date is.
 **The official one:** match-race times were "considered somewhat unofficial," so the first NHRA national-event 200-mph Funny Car pass was Snow's **7.23/208.71 at the Springnationals, Dallas International Motor Speedway, May 3, 1970**.[^top50][^nd16] Wikipedia's article on the car calls it "NHRA's first official 200 mph pass," citing Bob McClurg in *Drag Racer* (Nov 2016).[^wpr] ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *We could not open the WFAA report (the archive copy did not load) and have not verified it independently.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+**Life dates:** We found no verified obituary for this Gene Snow. A 2018 obituary for a "Thomas Eugene 'Gene' Snow" of Florida is **a different man**, and we do not use it.
 
 ## Images
 

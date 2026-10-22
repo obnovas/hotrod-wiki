@@ -3,26 +3,33 @@ title: Whittier Boulevard
 summary: Cruising Whittier Boulevard in East Los Angeles, which the LA Times called "an odd ritual" in 1979, until the Sheriff's Department closed it.
 department: places
 eras:
+- 1960s
 - 1970s
 - 1980s
 - 1990s
 - 2000s
 - 2010s
 years:
-- 1979
+- 1960
 - 2017
 region: West
 states:
 - California
-cities: []
+cities:
+- East Los Angeles, California
 people:
+- Eli Garcia
+- Gina Jojola
 - Roberto Rodriguez
 companies: []
-places: []
+places:
+- Whittier Boulevard
 clubs: []
 strips: []
 tags:
 - cruising
+- police-and-safety
+- town-politics
 - grassroots-sources
 related:
 - places/cruising-overview.md
@@ -44,6 +51,8 @@ The LA Times called cruising Whittier "an odd ritual–a cross among a harmless 
 
 ## In their own words
 
+Nearly forty years later the cruise came back, and the voices were mixed:
+
 > "It's like a way of life for us. … It did die out for maybe 15 years or so. … We've started bringing it back."
 >
 > — **Eli Garcia**, organizer of the revived cruises, LA Times (July 2017). He says the events have run since 2015.[^lat17]
@@ -52,9 +61,9 @@ The LA Times called cruising Whittier "an odd ritual–a cross among a harmless 
 >
 > — **Gina Jojola**, CHP public information officer, 2017.[^lat17]
 
-## Ties
+## How it fits
 
-This is a regional repeat gathering, documented for its policing history more than for links to specific shops or builders. The later lowrider scene and its magazine (*Lowrider*, mentioned through Rodriguez) are a separate thread we haven't yet researched.
+This is a regional repeat gathering, documented for its policing history more than for links to specific shops or builders.
 
 *See also:* [The Ruelas Brothers and the Dukes](../voices/ruelas-dukes.md).
 
@@ -69,6 +78,8 @@ This is a regional repeat gathering, documented for its policing history more th
 The LA Times archive feature (2017) says: "On Aug. 31, 1979, the Sheriff's Department closed Whittier between Atlantic and Eastern." A 2017 news article says barricades went up "in September 1979."[^lat79][^lat17]
 
 Barrio Boychik (2015) dates a ban to **Friday, March 23, 1979**, the night of a confrontation it describes through former *Lowrider* reporter **Roberto Rodriguez**. Rodriguez says he was beaten by deputies while taking photographs and won his criminal trial more than seven years later, and the blog quotes his count of "538 people … arrested." *Secondhand, quoted from his own account; not independently verified.*[^bb] Both dates may be right: a crackdown in March and formal barricades from late August. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+**Not yet researched:** the later lowrider scene and its magazine (*Lowrider*, mentioned through Rodriguez) are a separate thread we haven't yet researched.
 
 ## Images
 

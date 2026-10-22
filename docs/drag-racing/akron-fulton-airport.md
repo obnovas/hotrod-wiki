@@ -17,22 +17,28 @@ region: Midwest
 states:
 - Ohio
 cities:
-- Lawrenceville, Illinois
+- Akron, Ohio
 people:
-- Walt & Art Arfons
-- Randy Lipscomb
+- Art Arfons
+- Walt Arfons
 - Otis "Otie" Smith
 - Arlen Vanke
-- Bob Bartel
-companies: []
+- Randy Lipscomb
+- Tom Green
+- Mary Taylor
+- Phil Burgess
+companies:
+- Otie's Automotive Specialties
 places: []
-clubs: []
-strips: []
+clubs:
+- Cam Jammers (Akron)
+strips:
+- Akron Fulton Airport (Champions Raceway)
 tags:
 - airport-strips
-- sanctioning-bodies
 - drag-strips
-- family-business
+- sanctioning-bodies
+- land-speed
 - gassers
 - grassroots-sources
 related:
@@ -67,15 +73,15 @@ Ohio History Connection marker **47-77**, "Akron Fulton Airport Champions Racewa
 
 The marker was erected by the Akron Airport Racing Pioneers and The Ohio History Connection. It was cast in 2015 and dedicated **June 19, 2016**.[^hmdb][^ro] It stands at the Triplett Boulevard / Massillon Road intersection near the airport. Remarkable Ohio places it in Christopher Columbus Memorial Park, about 50 feet north of the original terminal.[^hmdb][^ro]
 
-"For the next eight years" means the strip ran from 1951 to about 1959. We have not found a closing notice.
+"For the next eight years" means the strip ran from 1951 to about 1959.
 
 ## The 2016 dedication
 
-OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Vanke's biographers call the field "Akron Municipal Airport." It credited the marker drive to **Randy Lipscomb** of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. **Mary Taylor** was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac]
+OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The piece credited the marker drive to **Randy Lipscomb** of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. **Mary Taylor** was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac] (Vanke's biographers call the field "Akron Municipal Airport.")
 
 Lipscomb: "This is the spot where these local heroes became drag racing innovators back in the 50's and 60's... we believe that honoring these racing pioneers is long overdue."[^oac]
 
-**Land-speed footnote, per the same piece:** Walt's *Wingfoot Express*, driven by **Tom Green**, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached **576.553 mph** in 1965.[^oac]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+The same piece recalls the land-speed years. Walt's *Wingfoot Express*, driven by **Tom Green**, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached **576.553 mph** in 1965.[^oac]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Otis "Otie" Smith (1919/20–2014)
 
@@ -89,15 +95,15 @@ In **1959** he won **Middle Eliminator at the NHRA Nationals in Detroit** in "a 
 
 He was the first president of the **Cam Jammers** car club of Akron (marker).[^ro] He ran **Otie's Automotive Specialties** in Akron for 33 years, until 1988 (NHRA). OnAllCylinders says Otie's Automotive was in **Kenmore**, an Akron neighborhood.[^nhra][^oac]
 
-He was survived by wife Betty, son Bill, and daughters Debbie Hughes and Laurie Smith. Bill raced gas dragsters with his father "for years after 'Otie' stopped driving."[^nhra] Burgess points to a short video about Smith made in 2013 by Randy Lipscomb. We have not reviewed it.[^nhra]
+He was survived by wife Betty, son Bill, and daughters Debbie Hughes and Laurie Smith. Bill raced gas dragsters with his father "for years after 'Otie' stopped driving."[^nhra]
 
 ## How it fits
 
 Akron belongs alongside the other early airport strips of the Midwest and East: the George Field taxiway at Lawrenceville, Ill., where [Bob Bartel](../people/bob-bartel.md)'s World Series began, and the circuit of [Ohio gasser](../places/ohio-gassers.md) tracks (Thompson, Dragway 42, Quaker City, National Trail) that followed. Jim Hill writes that Vanke built his reputation as "a Chevy Gasser racer" before Chrysler backed him.[^ecgm]
 
-**Back at Lawrenceville:** Chilton's *Motor Age* (June 1955, sponsor-written) says the Arfons brothers' six-wheeled "Green Monster" won the top-speed award at the 1954 World Series of Drag Racing at Lawrenceville, Ill., at 132.35 mph, taking the Maremont Trophy and a $1,000 scholarship, and that the Akron group expected about 25 entries in 1955. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
+The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June 1955, sponsor-written) says the Arfons brothers' six-wheeled "Green Monster" won the top-speed award at the 1954 World Series of Drag Racing at Lawrenceville, Ill., at 132.35 mph, taking the Maremont Trophy and a $1,000 scholarship, and that the Akron group expected about 25 entries in 1955. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
 
-**See also:** [Arlen Vanke](../people/arlen-vanke.md), [The Ohio Gassers](../places/ohio-gassers.md), [Midwest & East](../places/midwest-east.md), [Bob Bartel](../people/bob-bartel.md), [Santa Ana drags](../eras/1950s-santa-ana-drags.md) (the California airport model).
+*See also:* [Arlen Vanke](../people/arlen-vanke.md), [The Ohio Gassers](../places/ohio-gassers.md), [Midwest & East](../places/midwest-east.md), [Bob Bartel](../people/bob-bartel.md), [Santa Ana drags](../eras/1950s-santa-ana-drags.md) (the California airport model).
 
 ## Open questions & disputed details
 
@@ -108,6 +114,10 @@ Akron belongs alongside the other early airport strips of the Midwest and East: 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Figures as given in the 2016 report; not checked against FIA lists this round.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** The marker calls this "the National Hot Rod Association's 1959 championship." <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+**When did it close?** "For the next eight years" means the strip ran from 1951 to about 1959. We have not found a closing notice.
+
+**Not yet reviewed:** Burgess points to a short video about Smith made in 2013 by Randy Lipscomb. We have not reviewed it.[^nhra]
 
 ## Images
 

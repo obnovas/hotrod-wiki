@@ -3,6 +3,7 @@ title: 'Moon Equipment: The Café, the Fuel Block and the Eyes'
 summary: From Moon's Café in Santa Fe Springs to the fuel block and the Mooneyes logo, this is the story of Dean Moon and its rebirth as Mooneyes USA.
 department: companies
 eras:
+- 1930s
 - 1940s
 - 1950s
 - 1960s
@@ -10,27 +11,49 @@ eras:
 - 1980s
 - 1990s
 years:
-- 1941
-- 1990
+- 1936
+- 1992
 region: West
 states:
 - California
 - Minnesota
+- Utah
 cities:
+- Santa Fe Springs, California
+- Whittier, California
 - New Richland, Minnesota
+- Yokohama, Japan
 people:
-- Dean / Moon Equipment Moon
-- Ed "Isky" Iskenderian
-companies: []
+- Dean Moon
+- Dallas "Pop" Moon
+- Buzz Moon
+- Ak Miller
+- Creighton Hunter
+- Carroll Shelby
+- Chuck Potvin
+- Gary Cagle
+- Ed Iskenderian
+- Eric Grant
+- Willie Garner
+- Shirley Moon
+- Shige Suganuma
+- Chico Kadoma
+companies:
+- Moon Equipment
+- Mooneyes USA
+- Bell Auto Parts
+- Urich-Gibbs
+- Shaffer Tool Works
 places: []
 clubs: []
-strips: []
+strips:
+- Santa Ana Drags (Orange County Airport)
 tags:
-- dry-lakes
 - speed-equipment
 - aftermarket-business
+- family-business
+- dry-lakes
 - dragsters
-- land-speed
 related:
 - companies/prewar-speed-shops.md
 - eras/1950s-santa-ana-drags.md
@@ -52,7 +75,7 @@ The boys' real workplace was the garage out back. "Not that it was a real garage
 
 ## Selling copies to Bell Auto Parts
 
-After the Merchant Marines and a $400 '34 Ford five-window coupe, Dean reworked the fuel block, and he and his younger brother "Buzz" began selling copies "to Bell Auto Parts and other local speed shops."[^shop] That is the **Bell Auto Parts** of the [prewar speed-shop story](prewar-speed-shops.md), and it is exactly how Moon Equipment was born: not in a catalog, but over a speed-shop counter. *THE SHOP* adds that the company existed only "unofficially" at first.[^shop]
+The fuel block became a business after the war. After the Merchant Marines and a $400 '34 Ford five-window coupe, Dean reworked the fuel block, and he and his younger brother "Buzz" began selling copies "to Bell Auto Parts and other local speed shops."[^shop] That is the **Bell Auto Parts** of the [prewar speed-shop story](prewar-speed-shops.md), and it is exactly how Moon Equipment was born: not in a catalog, but over a speed-shop counter. *THE SHOP* adds that the company existed only "unofficially" at first.[^shop]
 
 His day job in 1949 was at Urich-Gibbs, "the local Lincoln Mercury dealer." There he worked on cars for the Carrera Panamericana and helped fellow Whittier racer **Ak Miller**. He and Buzz bought a chopped '32 Ford Tudor, ran it fenderless at the **inaugural Santa Ana Drags, July 2, 1950**, and won the Racing Sedan class. The car was lettered "Urich-Gibbs," which *THE SHOP* calls "one of the earliest examples of corporate sponsorship."[^shop] That date and strip are the ones on the wiki's own [Santa Ana Drags page](../eras/1950s-santa-ana-drags.md), where a clippings pamphlet's July 2 is already weighed against a June 19 date. *THE SHOP* gives July 2 for the same meet, a second source for that date.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -69,7 +92,7 @@ The wheel discs are the part everybody remembers. *Hot Rod* says the spun-alumin
 
 ## The second president
 
-Dean was drafted in the Korean War. *THE SHOP* has him reporting to Hill Air Force Base, Utah, in spring 1951 and learning photography, which gave him a marketing edge at home. *Hot Rod* says he served "overseas."[^shop][^hr25]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+Then came the draft. Dean was drafted in the Korean War. *THE SHOP* has him reporting to Hill Air Force Base, Utah, in spring 1951 and learning photography, which gave him a marketing edge at home. *Hot Rod* says he served "overseas."[^shop][^hr25]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 By the early 1960s he was everywhere. The Mooneyes dragster was on *Hot Rod*'s cover in 1961. In 1962 Carroll Shelby asked him to assemble the first Cobra in his shop. He bought Chuck Potvin's line of speed equipment. In 1963 Gary Cagle won Middle Eliminator at the Winternationals in the Mooneyes dragster at 9.52 seconds and 153.06 mph.[^shop] He became the second president of the Speed Equipment Manufacturers Association, after **Ed Iskenderian**, the organization's founding president.[^shop][^isky]
 
@@ -79,16 +102,11 @@ Eric Grant, SEMA's first executive director, remembered the early regulatory mee
 
 Buzz Moon died in 1981 at 51. Dean followed in 1987, and *Hot Rod* says his wife Shirley kept the company going for a few years before shuttering it.[^shop][^hr25] *THE SHOP* says she tried to keep the doors open until her death in 1990.[^shop]
 
-Enter a customer. Shige Suganuma came to California as a young man to buy Moon discs for his brother-in-law. Dean liked him and shipped 24 discs to Japan that Suganuma hadn't ordered, "simply saying, 'pay me later.'" Suganuma sold all of them and came back for more, eventually becoming Moon's biggest dealer. In 1992 he bought what was left from Dean's eldest daughter, Becky, and with partner Chico Kadoma (*Hot Rod*: "Kodama")<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> reopened it as Mooneyes USA. Santa Fe Springs required a 30-foot setback that took out part of the original building. The Mooneyes sign now sits on the ground.[^shop][^hr25] Today the company is headquartered in Yokohama and holds Japan's largest hot rod meet there every year; *Hot Rod* says it draws 25,000 people.[^hr25]
+The company's second life came from a customer. Shige Suganuma came to California as a young man to buy Moon discs for his brother-in-law. Dean liked him and shipped 24 discs to Japan that Suganuma hadn't ordered, "simply saying, 'pay me later.'" Suganuma sold all of them and came back for more, eventually becoming Moon's biggest dealer. In 1992 he bought what was left from Dean's eldest daughter, Becky, and with partner Chico Kadoma (*Hot Rod*: "Kodama")<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> reopened it as Mooneyes USA. Santa Fe Springs required a 30-foot setback that took out part of the original building. The Mooneyes sign now sits on the ground.[^shop][^hr25] Today the company is headquartered in Yokohama and holds Japan's largest hot rod meet there every year; *Hot Rod* says it draws 25,000 people.[^hr25]
 
 ## Connect the dots
 
-- [Prewar Speed Shops](prewar-speed-shops.md): Bell Auto Parts, where the first fuel-block copies were sold.
-- [Santa Ana Drags](../eras/1950s-santa-ana-drags.md): the July 2, 1950 inaugural meet where Moon's Tudor won Racing Sedan.
-- [Ed Iskenderian](../people/ed-iskenderian.md): SEMA's founding president, followed by Moon.
-- [Whittier Boulevard](../places/whittier-blvd.md): Whittier is the town of Moon's high school and of fellow racer Ak Miller. No source ties Moon to the boulevard's cruising, so the link is geographic only.
-- [Mickey Thompson](mickey-thompson.md): the 1963 Brighton story, as told from the other side.
-- [Hooker Headers](hooker-headers.md) and [Crane Cams](crane-cams.md): neighbors at the first SEMA show.
+The first fuel-block copies were sold at Bell Auto Parts, one of the [prewar speed shops](prewar-speed-shops.md). Moon's Tudor won Racing Sedan at the July 2, 1950 inaugural meet of the [Santa Ana Drags](../eras/1950s-santa-ana-drags.md). [Ed Iskenderian](../people/ed-iskenderian.md) was SEMA's founding president, and Moon followed him. Whittier is the town of Moon's high school and of fellow racer Ak Miller, but no source ties Moon to the cruising on [Whittier Boulevard](../places/whittier-blvd.md), so that link is geographic only. The 1963 Brighton story is told from the other side on the [Mickey Thompson](mickey-thompson.md) page. And [Hooker Headers](hooker-headers.md) and [Crane Cams](crane-cams.md) were neighbors at the first SEMA show.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

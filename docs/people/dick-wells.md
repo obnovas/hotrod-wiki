@@ -19,24 +19,41 @@ region: Midwest
 states:
 - Nebraska
 - California
+- Nevada
 cities:
 - Lincoln, Nebraska
+- Los Angeles, California
+- Las Vegas, Nevada
 people:
 - Dick Wells
-- Doris Herbert
+- Wally Parks
+- Phil Burgess
+- Tex Smith
+- Ray Brock
 - Alex Xydias
+- Bruce Miller
+- Gray Baskerville
+- Tom Medley
+- Bud Bryan
+- Doris Herbert
 companies:
-- Parks Wengard
+- Hank's Auto Store
+- Speedway Motors
+- National Dragster
+- Petersen Publishing
+- SEMA
+- Rod Action
 places: []
-clubs: []
+clubs:
+- Rebels (Lincoln)
+- National Street Rod Association (NSRA)
 strips: []
 tags:
-- street-rods
-- aftermarket-business
-- sanctioning-bodies
 - magazines-and-media
-- speed-equipment
-- dragsters
+- street-rods
+- sanctioning-bodies
+- aftermarket-business
+- car-clubs
 related:
 - people/doris-herbert.md
 - people/alex-xydias.md
@@ -65,22 +82,23 @@ He decided not to repaint his own. Decades later he would help invent some of th
 
 Wells told his own story with a lot of jokes, and the sketch he wrote in March 2007 is the best source for the early part of it.[^hof]
 
-- **The cars.** At 16 his father gave him the family's 1936 Chevy two-door, which "jumped out of high gear," so a friend had to hold the floor shifter down while they cruised. In high school he also owned a 1948 Crosley station wagon that would not start on cold Nebraska mornings but was "small, light and easy to push." One day the Lincoln High football team carried the Crosley up the stairs and left it crosswise in front of the school's main doors. His friend Paul, a tuba player in the marching band, was told he could ride home, or the tuba could, but not both. Paul never spoke to him again.[^hof]
-- **The hot rod.** "Eventually Dick got the hot rod bug": a black 1948 Ford two-door, lowered, with dual exhaust, box-style fender skirts and "the 'cat's meow' of the day: twin Appleton spotlights."[^hof]
-- **The store.** He started as a stockroom clerk at **Hank's Auto Store** in Lincoln, then salesman, then manager. It sold parts and speed equipment. Later he was assistant manager at Speedway Motors.[^hof] The Nebraska Auto Racing Hall of Fame adds a local detail: the store "became a gathering place of hot rod enthusiasts who eventually persuaded Wells to organize a club for Lincoln's hot rodders." The **Rebels** car club, "which is still in existence today," was established in **1955**.[^narhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+It starts with the cars. At 16 his father gave him the family's 1936 Chevy two-door, which "jumped out of high gear," so a friend had to hold the floor shifter down while they cruised. In high school he also owned a 1948 Crosley station wagon that would not start on cold Nebraska mornings but was "small, light and easy to push." One day the Lincoln High football team carried the Crosley up the stairs and left it crosswise in front of the school's main doors. His friend Paul, a tuba player in the marching band, was told he could ride home, or the tuba could, but not both. Paul never spoke to him again.[^hof]
+
+"Eventually Dick got the hot rod bug." His was a black 1948 Ford two-door, lowered, with dual exhaust, box-style fender skirts and "the 'cat's meow' of the day: twin Appleton spotlights."[^hof]
+
+Work brought him into the parts trade. He started as a stockroom clerk at **Hank's Auto Store** in Lincoln, then salesman, then manager. It sold parts and speed equipment. Later he was assistant manager at Speedway Motors.[^hof] The Nebraska Auto Racing Hall of Fame adds a local detail: the store "became a gathering place of hot rod enthusiasts who eventually persuaded Wells to organize a club for Lincoln's hot rodders." The **Rebels** car club, "which is still in existence today," was established in **1955**.[^narhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## National Dragster, number one
 
 In 1960 he moved to Southern California, hoping for a job with a major speed-equipment maker. Instead, the NHRA hired him as the first editor of its new paper, *National Dragster*, "handpicked by NHRA founder Wally Parks." He edited it through 1960 and returned for a second stint in 1961–63.[^nd10][^narhof]
 
-A few of his stories survive in NHRA columns:
+A few of his stories survive in NHRA columns. At a 2009 museum exhibit celebrating 50 years of the paper, Wells told the crowd that "the print-shop foreman refused to print the first issue because they hadn't been paid." Wells "had to roust Wally out of bed in the wee hours of the morning," and Parks "paid with a personal check to get the first issue printed."[^nd09] Burgess's other column recalls the same story: "how Wally had to write a personal check to the printer before he'd roll the presses."[^nd10]
 
-- **The unpaid printer.** At a 2009 museum exhibit celebrating 50 years of the paper, Wells told the crowd that "the print-shop foreman refused to print the first issue because they hadn't been paid." Wells "had to roust Wally out of bed in the wee hours of the morning," and Parks "paid with a personal check to get the first issue printed."[^nd09] Burgess's other column recalls the same story: "how Wally had to write a personal check to the printer before he'd roll the presses."[^nd10]
-- **Parks Wengard.** At the same event Wells told how Parks "used to send critical letters to Drag News, DRAGSTER's scrappy rival," under the pen name Parks Wengard. Burgess, who had assumed that was just Parks's name, worked out the joke: "Parks Wengard spelled backwards is, well .... Drag News Krap, Wally's own little dig at his main competitor."[^nd09] For the rival paper, see [Doris Herbert](doris-herbert.md).
+At the same event Wells told how Parks "used to send critical letters to Drag News, DRAGSTER's scrappy rival," under the pen name Parks Wengard. Burgess, who had assumed that was just Parks's name, worked out the joke: "Parks Wengard spelled backwards is, well .... Drag News Krap, Wally's own little dig at his main competitor."[^nd09] For the rival paper, see [Doris Herbert](doris-herbert.md).
 
 ## Hot Rod, Motor Trend and a stadium of speed parts
 
-At Tex Smith's urging he became managing editor, then feature editor, of *Hot Rod*, and later executive editor of *Motor Trend*. At Petersen Publishing he moved into special events. In 1967, with Ray Brock and [Alex Xydias](alex-xydias.md), he produced the first trade show of what became the SEMA Show, with 98 booths under the grandstands at Dodger Stadium.[^hof][^narhof]
+Then came the magazines. At Tex Smith's urging he became managing editor, then feature editor, of *Hot Rod*, and later executive editor of *Motor Trend*. At Petersen Publishing he moved into special events. In 1967, with Ray Brock and [Alex Xydias](alex-xydias.md), he produced the first trade show of what became the SEMA Show, with 98 booths under the grandstands at Dodger Stadium.[^hof][^narhof]
 
 In an email Burgess quotes, Wells recalled that when he was *Hot Rod*'s feature editor and covered the Nationals, a reader wrote "I felt like I was there," and Tex Smith told the staff, "That's what we must all strive to accomplish."[^nd10]
 
@@ -101,7 +119,7 @@ Wikipedia also says that by 1973 Wells had set up thirty volunteer state represe
 
 ## Honors and the end
 
-SEMA's executive director in the 1970s, he was SEMA Person of the Year in 1977 and entered the SEMA Hall of Fame in 1993. He received the ISCA Founder's Award in 1994, an industry award from the Street Rod Marketing Alliance in 1996, and the NHRA Pioneer Award in 2001. He sat on the NHRA board from 1979, and was inducted into the Nebraska Auto Racing Hall of Fame in 2009.[^hof][^narhof]
+The honors followed his SEMA years. SEMA's executive director in the 1970s, he was SEMA Person of the Year in 1977 and entered the SEMA Hall of Fame in 1993. He received the ISCA Founder's Award in 1994, an industry award from the Street Rod Marketing Alliance in 1996, and the NHRA Pioneer Award in 2001. He sat on the NHRA board from 1979, and was inducted into the Nebraska Auto Racing Hall of Fame in 2009.[^hof][^narhof]
 
 He died on January 18, 2010, "10 days short of his 76th birthday," after complications from heart surgery.[^hof][^nd10] Phil Burgess opened his tribute with a question: "How do you say goodbye to the guy who invented your job?"[^nd10]
 

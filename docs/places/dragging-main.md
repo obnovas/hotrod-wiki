@@ -3,37 +3,43 @@ title: 'Dragging Main: The Small-Town Loop, in the Kids'' Own Words (1950s–198
 summary: In towns with one main street, teenagers drove from one end to the other and back until midnight and called it dragging Main. Here it is in their own words (1950s–1980s).
 department: places
 eras:
-- 1940s
 - 1950s
 - 1960s
 - 1970s
 - 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
-- 1946
-- 2010
+- 1957
+- 1987
 region: National
 states:
-- Kansas
-- Nebraska
-- California
 - North Carolina
+- California
+- Nebraska
+- Kansas
+- Idaho
 cities:
-- Hays, Kansas
+- Franklin, North Carolina
+- Richmond, California
 - Scottsbluff, Nebraska
+- Hays, Kansas
+- Twin Falls, Idaho
 people:
 - Kathy Lennox
 - Dawn Shields
 - Marguerite Williams
+- Harry Williams
+- Judith Dunning
 companies: []
-places: []
+places:
+- Main Street (Hays)
+- Broadway (Scottsbluff)
+- San Pablo Avenue
+- Varsity Drive-In
 clubs: []
 strips: []
 tags:
-- teenagers-and-schools
 - cruising
+- teenagers-and-schools
 - town-politics
 - grassroots-sources
 related:
@@ -70,7 +76,7 @@ That is the whole record, and it says a lot. In a small North Carolina town in 1
 
 ## Richmond, California (1950s): "You would have a hard time getting across"
 
-In 1985 the University of California's Regional Oral History Office interviewed a longtime Richmond couple, **Harry and Marguerite Williams**, for a series on the city's history. The interviewer, Judith Dunning, asked about the 1950s. Marguerite Williams, born in 1924, remembered the cruise as a traffic problem.
+On the West Coast, the record is an adult's. In 1985 the University of California's Regional Oral History Office interviewed a longtime Richmond couple, **Harry and Marguerite Williams**, for a series on the city's history. The interviewer, Judith Dunning, asked about the 1950s. Marguerite Williams, born in 1924, remembered the cruise as a traffic problem.
 
 "These kids would tie the streets up dragging the main. You would have a hard time getting across," she said. The town had little else for teenagers to do, she said, with no movie theaters, and "they were dragging the main over on San Pablo, but they didn't want them to do it in Richmond."[^rich85] She recalled police stopping drivers, checking identification and looking for beer, and she said the tickets did not fall evenly on every group of kids, a complaint that came up at the city council more than once.[^rich85]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -78,7 +84,7 @@ Hers is the only adult voice on this page, and the only one who did not enjoy it
 
 ## Scottsbluff, Nebraska (1979): Broadway and McDonald's
 
-The 1979 Scottsbluff High School yearbook gave a page to Saturday nights. One caption shows a senior who "spends his Saturday evening in the usual manner by dragging main." Another shows a junior who "escapes the usual routine of dragging main by attending the show," and says "A long line at the show is the usual Saturday night Broadway scene."[^sb79]
+Two decades later, the kids were writing it down again. The 1979 Scottsbluff High School yearbook gave a page to Saturday nights. One caption shows a senior who "spends his Saturday evening in the usual manner by dragging main." Another shows a junior who "escapes the usual routine of dragging main by attending the show," and says "A long line at the show is the usual Saturday night Broadway scene."[^sb79]
 
 The page's text is written as a carload of teenagers talking, with a red Camaro to chase, a yellow light to make, and a one-way alley ("That's okay, we're only going one way."). Then the writers step back: "Anyone or anything we looked for was sure to be found while dragging main." Mainstreet and McDonald's "were our favorite weekend hangouts," and McDonald's "saw everything from traffic jams to jams of people, from fights to laughter of friends."[^sb79] Their verdict on the grown-ups: "Our parents thought we were just wasting gas but we knew better. It was worth it."[^sb79]
 
@@ -106,11 +112,11 @@ Not everyone was charmed. The older generation thought it "a waste of gas and ti
 
 ## What the four towns share
 
-- **A fixed route between two landmarks.** A theater at one end and a drive-in at the other (Hays); a main street and a McDonald's (Scottsbluff); one avenue and not the next town's (Richmond).
-- **The same adult complaint.** Wasted gas, and a street you couldn't cross. Richmond in the 1950s and Hays in 1987 say nearly the same thing about the traffic, 30 years apart.
-- **A sense of inheritance.** "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier.
+Three of them had a fixed route between two landmarks: a theater at one end and a drive-in at the other (Hays); a main street and a McDonald's (Scottsbluff); one avenue and not the next town's (Richmond). The adults complained the same way, about wasted gas and a street you couldn't cross. Richmond in the 1950s and Hays in 1987 say nearly the same thing about the traffic, 30 years apart.
 
-**Related:** [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>; [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
+There was a sense of inheritance, too. "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier.
+
+*See also:* [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>; [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
 
 ## Open questions & disputed details
 

@@ -8,25 +8,36 @@ eras:
 - 1980s
 - 1990s
 - 2000s
+- 2010s
 years:
 - 1962
-- 2000
+- 2016
 region: West
 states:
 - California
 - Iowa
+- Ohio
 cities:
+- Pomona, California
 - Sioux City, Iowa
 people:
-- Gary / Hooker Headers Hooker
-- Dick Wells
+- Gary Hooker
+- Gail Hooker
+- Jack Bayer
+- Elwin Westbrook
+- Bill Casler
+- Gil George
 - Arlen Vanke
-companies: []
+companies:
+- Hooker Headers
+- Holley
 places: []
 clubs: []
 strips: []
 tags:
+- speed-equipment
 - aftermarket-business
+- family-business
 related:
 - companies/holley.md
 - drag-racing/pomona-choppers-fontana.md
@@ -60,11 +71,11 @@ He was working for General Dynamics as an electronics technician, "around age 20
 
 The story that follows is Hooker's own. Before racing the car he took it to **Jack Bayer** to be dyno-tuned, where Bayer had just finished testing a customer's car with the same motor. Hooker's made more horsepower. "Jack said to me, 'It's got to be those headers,'" Hooker recalled, and asked for a set. "I told him, 'No, those are the only ones I've made. But if you give me a ride home, we can take the headers off my car and put them on your 409.'" That night, with Hooker's headers, the customer's car "raced a couple of mph faster and a tenth quicker." "I more or less went into business right then," he said.[^hof]
 
-He sold the car to buy equipment and, "while still living at home," made headers. In 1964 he rented a small shop and a racer, **Elwin Westbrook**, shared the space, building race cars while Hooker built headers. Within a few months, Hooker said, "six of the top 10 Super Stock racers had my headers."[^hof] (Hagerty repeats the claim, probably from the same source.)[^hag]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+The 409 became the seed money. He sold the car to buy equipment and, "while still living at home," made headers. In 1964 he rented a small shop and a racer, **Elwin Westbrook**, shared the space, building race cars while Hooker built headers. Within a few months, Hooker said, "six of the top 10 Super Stock racers had my headers."[^hof] (Hagerty repeats the claim, probably from the same source.)[^hag]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Around then he had a booth at the first SEMA Show. His wife, Gail, was eight months pregnant and worked the table; they had no catalogs. "We weren't really even in business," Hooker said. "We went by the finance company and borrowed money so we could go to the show."[^hof] That show is described on the wiki's [Dick Wells page](../people/dick-wells.md) and on [Crane Cams](crane-cams.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-In the summer of 1965 he rented a bigger shop, but "faulty welding cylinders exploded one night, and it burned to the ground." He had no insurance. His neighbor **Bill Casler**, "already known for his racing slicks," "came to my rescue and we formed a partnership. He put in money and bought half the business." He also hired **Gil George**, who "knocked on Hooker's door asking for a job"; the two designed and built headers for "rich guys" who "would drive their Jeeps out in the morning," charging $150 and "done by noon."[^hof] From 1966 to 1969, SEMA says, Hooker Headers "grew from a $100,000 business to $3 million."[^hof]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+Then disaster struck. In the summer of 1965 he rented a bigger shop, but "faulty welding cylinders exploded one night, and it burned to the ground." He had no insurance. His neighbor **Bill Casler**, "already known for his racing slicks," "came to my rescue and we formed a partnership. He put in money and bought half the business." He also hired **Gil George**, who "knocked on Hooker's door asking for a job"; the two designed and built headers for "rich guys" who "would drive their Jeeps out in the morning," charging $150 and "done by noon."[^hof] From 1966 to 1969, SEMA says, Hooker Headers "grew from a $100,000 business to $3 million."[^hof]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 His explanation for the growth is plain: "I think I was successful because I changed early on from having an emphasis on racing to an emphasis on building the product. It was always a customer-driven company."[^hof]
 
@@ -80,10 +91,8 @@ SEMA says Hooker sold the business to Holley Performance Products in **2000**; H
 
 ## Connect the dots
 
-- [Arlen Vanke](../people/arlen-vanke.md): the Akron racer whose 1970 Division Three title Hooker's ad saluted.
-- [Pomona's Choppers & the Fontana Strip](../drag-racing/pomona-choppers-fontana.md): Hooker's hometown, whose 1951 police-chief story is documented there; the tie is place only.
-- [Holley](holley.md): the owner since 2000 (or the 1990s<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>).
-- [Crane Cams](crane-cams.md) and [Dick Wells](../people/dick-wells.md): the 1967 first trade show where Hooker, like Crane, set up a booth.
+Hooker's ad saluted [Arlen Vanke](../people/arlen-vanke.md), the Akron racer, for his 1970 Division Three title. [Pomona's Choppers & the Fontana Strip](../drag-racing/pomona-choppers-fontana.md) documents the 1951 police-chief story from Hooker's hometown; the tie is place only. [Holley](holley.md) has owned the company since 2000 (or the 1990s<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>).
+And the 1967 first trade show, where Hooker set up a booth like [Crane Cams](crane-cams.md), is told on the [Dick Wells](../people/dick-wells.md) page.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

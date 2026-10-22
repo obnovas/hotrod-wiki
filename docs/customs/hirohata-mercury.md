@@ -13,17 +13,36 @@ eras:
 years:
 - 1951
 - 2017
-region: National
-states: []
+region: West
+states:
+- California
+- Indiana
+- District of Columbia
 cities:
-- National Mall, Washington
-people: []
-companies: []
+- Los Angeles, California
+- Temple City, California
+- Indianapolis, Indiana
+- Washington, D.C.
+people:
+- Bob Hirohata
+- Sam Barris
+- George Barris
+- Jim McNeil
+- Pat Ganahl
+- Von Dutch
+- Dick Lyon
+- Glen Houser
+- Nick Matranga
+companies:
+- Barris Kustom
+- Carson Top Shop
+- Lyon Engineering
 places: []
 clubs: []
 strips: []
 tags:
 - customs
+- car-shows
 related:
 - cars/techniques-and-styles.md
 - customs/kkoa-lead-sled-revival.md
@@ -45,7 +64,7 @@ canonical_for: []
 
 "I had to sell everything I owned and put my great aunt in hock to pay for the car," said Bob Hirohata.[^revs]
 
-**Owner:** Robert "Bob" Hirohata, Los Angeles. **Builder:** Sam & George Barris, Barris Kustom. **Base:** 1951 Mercury coupe, bought barely used from an older couple.[^revs]
+The car belonged to Robert "Bob" Hirohata of Los Angeles and was built by Sam and George Barris at Barris Kustom. It started as a 1951 Mercury coupe, bought barely used from an older couple.[^revs]
 
 ## The build
 
@@ -57,11 +76,11 @@ Cost was "about $3,500" per George Barris. Hirohata won his class at the 1952 Mo
 
 ## Afterlife
 
-Jim McNeil bought it in **1959 for $500** from a used-car lot and kept it for decades. When he took the dash apart he found Hirohata's and Barris's business cards wedged behind the radio speaker: "I never touched them... I wanted to feel their presence."[^revs]
+By 1959 it was on a used-car lot. Jim McNeil bought it in **1959 for $500** from a used-car lot and kept it for decades. When he took the dash apart he found Hirohata's and Barris's business cards wedged behind the radio speaker: "I never touched them... I wanted to feel their presence."[^revs]
 
 Bob Hirohata was murdered on May 14, 1981, in Temple City, and the case was never solved.[^revs]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-Pat Ganahl at Rod & Custom pushed the restoration with original crew (Barris, Frank Sonzogni, Junior Conway). It won its class at Pebble Beach in 2015 and was displayed on the National Mall by the HVA in 2017.[^revs]
+Decades later the car came back. Pat Ganahl at Rod & Custom pushed the restoration with original crew (Barris, Frank Sonzogni, Junior Conway). It won its class at Pebble Beach in 2015 and was displayed on the National Mall by the HVA in 2017.[^revs]
 
 ## Open questions & disputed details
 

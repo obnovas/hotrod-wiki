@@ -3,30 +3,46 @@ title: 'Malcolm Durham: Strip Blazer'
 summary: 'Malcolm Durham learned mechanics on tractors in Goldsboro, N.C., and raced from 1957: 409 Chevys in Washington, then a Logghe-chassised Funny Car.'
 department: people
 eras:
+- 1950s
 - 1960s
 - 1970s
 - 1980s
 - 1990s
 - 2000s
 years:
-- 1962
-- 2001
+- 1957
+- 2009
 region: South
 states:
 - North Carolina
-- Texas
+- Maryland
+- District of Columbia
 cities:
 - Goldsboro, North Carolina
 - Newton Grove, North Carolina
+- Washington, D.C.
 people:
 - Malcolm Durham
-companies: []
+- Don Nicholson
+- Bill Jenkins
+- Dave Strickler
+- Hayden Proffitt
+- Lee Jones
+- Western Bunns
+companies:
+- Hicks Chevrolet
+- Logghe Stamping
 places: []
 clubs: []
-strips: []
+strips:
+- Easy Street Dragstrip
+- Aquasco Speedway
+- 75-80 Drag-A-Way
+- U.S. 30 Dragstrip
 tags:
-- sanctioning-bodies
 - funny-cars
+- sanctioning-bodies
+- drag-strips
 related:
 - companies/logghe-stamping.md
 - voices/injection-and-tin.md
@@ -48,7 +64,7 @@ canonical_for: []
 
 Malcolm Durham learned mechanics on tractors, on the family farm in Goldsboro, N.C.[^top50] He began racing in **1957** at Easy Street Dragstrip, Newton Grove, N.C., in a 225-hp **'56 Chevy**.[^top50]
 
-He was raised in Goldsboro and based around Washington, D.C. He became an East Coast stocker-to-Funny Car match racer whose **Strip Blazer** cars made him one of the most visible Black professional drag racers of the 1960s. NHRA ranked him among its Top 50 Drivers in **2001**.[^top50][^fred]
+From that start he became an East Coast stocker-to-Funny Car match racer whose **Strip Blazer** cars made him one of the most visible Black professional drag racers of the 1960s. NHRA ranked him among its Top 50 Drivers in **2001**.[^top50][^fred]
 
 ## Washington and the 409 years
 
@@ -64,13 +80,13 @@ In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cite
 
 In **1967** he added a supercharger and ran **7.98 / 178**. In the off-season came a new **[Logghe](../companies/logghe-stamping.md)-chassised Camaro**, one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^top50]
 
-Later: a Pro Stock **'73 Vega** (9.17 best cited); a conversion to B/EA; a pause in racing to send eldest son Bernard to college; a brief **1984** Pro Stock Camaro, crashed at Rockingham **1985**; and a nostalgia '65 Chevelle return in **1989**.[^top50]
+Later came a Pro Stock **'73 Vega** (9.17 best cited) and a conversion to B/EA. He paused racing to send his eldest son, Bernard, to college, came back with a brief **1984** Pro Stock Camaro that he crashed at Rockingham in **1985**, and returned in **1989** with a nostalgia '65 Chevelle.[^top50]
 
 ## What he said about the road
 
 Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on using visibility as a booking advantage ($800 average appearance fees in the late 1960s). The same column notes he inspired other Black Funny Car racers including **Lee Jones** (later drove Strip Blazer floppers for Durham) and mentions **Western Bunns**'s Soul Twister cars as part of that East Coast scene.[^fred]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**See also:** [Logghe Stamping](../companies/logghe-stamping.md), [Leonard Miller](../voices/leonard-miller.md), [Midwest & East](../places/midwest-east.md), [Injection & Tin voices](../voices/injection-and-tin.md).
+*See also:* [Logghe Stamping](../companies/logghe-stamping.md), [Leonard Miller](../voices/leonard-miller.md), [Midwest & East](../places/midwest-east.md), [Injection & Tin voices](../voices/injection-and-tin.md).
 
 ## Open questions & disputed details
 
