@@ -1,3 +1,48 @@
+---
+title: 'Ed Almquist: Speed by Mail from Milford, Pennsylvania'
+summary: Ed Almquist sold speed parts by mail from Milford, Pennsylvania, starting with a vapor injector made from a Mason jar and a $12.95 log manifold.
+department: people
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1921
+- 2011
+region: National
+states:
+- Minnesota
+- California
+- Pennsylvania
+cities:
+- Milford, Pennsylvania
+people:
+- Ed Almquist
+- George Hurst
+- Bill Campbell
+companies:
+- Almquist Engineering Co.
+places: []
+clubs: []
+strips: []
+tags:
+- patents-and-inventions
+- grassroots-sources
+related:
+- companies/hurst-campbell.md
+- places/midwest-east.md
+- cars/techniques-and-styles.md
+- companies/crane-cams.md
+canonical_for:
+- hurst-almquist-1959
+---
 # Ed Almquist: Speed by Mail from Milford, Pennsylvania
 
 *1921–2015*
@@ -33,6 +78,8 @@ Almquist started Sparkomatic in 1954, with partner Jonas Anchel. A 1959 partners
 The obituary lists Almquist Engineering, Sparkomatic and **Offy Products** "through 1965," more than 100 products, and 7 U.S. patents. He later wrote *Hot Rod Pioneers*.[^obit] He received the International Drag Racing Hall of Fame Founder's Award in 2011.[^hof]
 
 Ed Almquist also appears in period custom literature: a pamphlet from "Pennsylvania speed merchant Ed Almquist" taught restyling techniques alongside Dan Post's *Blue Book*.[^revs]
+
+*See also:* [Techniques & Styles](../cars/techniques-and-styles.md).
 
 ## Open questions & disputed details
 

@@ -1,3 +1,46 @@
+---
+title: Where Could a Pocono Hot Rodder Race? A Flood Levee, Wind Gap, Bear Creek and the Airport That Wasn't (1958–68)
+summary: The Ridge Runners never got their own strip. From 1958 to 1968 Monroe County hot rodders tried a flood levee, Wind Gap, Bear Creek and an airport that wasn't.
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+years:
+- 1958
+- 1968
+region: Northeast
+states:
+- Pennsylvania
+cities:
+- Bear Creek, Pennsylvania
+people:
+- Rich Everitt
+- Mrs. (first name garbled) Heller
+- Harry Smith
+companies: []
+places: []
+clubs:
+- Northeastern Pennsylvania Timing Association
+strips:
+- Island Dragway
+- Mountain View drag strip
+- Pocono Drag Lodge
+- Pocono International Speedway
+tags:
+- drag-strips
+- car-clubs
+- airport-strips
+- funny-cars
+- town-politics
+- grassroots-sources
+related:
+- drag-racing/stroudsburg-ridge-runners.md
+- drag-racing/kingston-igniters.md
+- drag-racing/akron-fulton-airport.md
+- drag-racing/ames-drag-strip-nightcrawlers.md
+- companies/hurst-campbell.md
+canonical_for: []
+---
 # Where Could a Pocono Hot Rodder Race? A Flood Levee, Wind Gap, Bear Creek and the Airport That Wasn't (1958–68)
 
 !!! abstract "Article record"

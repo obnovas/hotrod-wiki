@@ -1,3 +1,40 @@
+---
+title: 'Woodward: The City That Banned the Drive-Ins It Didn''t Have'
+summary: Woodward Avenue's cruising did not end in one raid. It ended through a run of decisions by small cities, including one that banned drive-ins it did not have.
+department: places
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1963
+- 2014
+region: Midwest
+states:
+- Michigan
+cities:
+- Birmingham, Michigan
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- town-politics
+- police-and-safety
+- teenagers-and-schools
+- grassroots-sources
+related:
+- places/woodward.md
+- places/modesto.md
+- places/whittier-blvd.md
+- drag-racing/kansas-city-timing-association.md
+canonical_for: []
+---
 # Woodward: The City That Banned the Drive-Ins It Didn't Have
 
 !!! abstract "Article record"

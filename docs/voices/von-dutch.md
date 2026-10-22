@@ -1,3 +1,35 @@
+---
+title: 'Von Dutch: "Nothing Is Original"'
+summary: Kenneth "Von Dutch" Howard is credited with reviving pinstriping. Here we separate his own few words from his friends' stories.
+department: voices
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1938
+- 2002
+region: National
+states: []
+cities: []
+people:
+- Kenneth "Von Dutch" Howard
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+related:
+- media/trend-books-kits-roth.md
+- voices/show-custom-voices.md
+canonical_for: []
+---
 # Von Dutch: "Nothing Is Original"
 
 *His own words are few. Everyone else's stories are many.*

@@ -1,3 +1,44 @@
+---
+title: 'Mickey Thompson: The Pressman Who Dug the Post Holes Himself'
+summary: Mickey Thompson dug the post holes for his own drag strip after his shift at the Los Angeles Times. This page follows him from El Monte to tires, wheels and the Pontiac years.
+department: companies
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1955
+- 1988
+region: West
+states:
+- California
+- Ohio
+cities: []
+people:
+- LeRoy Neumayer
+- Mickey Thompson
+- Ed "Isky" Iskenderian
+companies: []
+places: []
+clubs: []
+strips:
+- Kansas City International Raceway
+tags:
+- dragsters
+- aftermarket-business
+- sanctioning-bodies
+- drag-strips
+- land-speed
+- family-business
+related:
+- eras/1950s-santa-ana-drags.md
+- companies/lakewood-industries.md
+- companies/summit-racing.md
+- drag-racing/houston-freeway-dragstrip.md
+- people/ed-iskenderian.md
+canonical_for: []
+---
 # Mickey Thompson: The Pressman Who Dug the Post Holes Himself
 
 *From a Los Angeles Times pressroom to the Lions strip, the slick, the slingshot and a mail-order wheel in Ohio*
@@ -63,6 +104,8 @@ After the Indianapolis years and the Ford-backed Mustang Funny Cars of the late 
 - [Summit Racing](summit-racing.md): the Akron company whose first mail-order ads were for his wheels.
 - [Lakewood Industries](lakewood-industries.md): the Ohio bellhousing maker, another response to drivetrain explosions at the strips.
 - [Moroso](moroso.md): another racer-turned-parts-maker who ended up owning a track.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

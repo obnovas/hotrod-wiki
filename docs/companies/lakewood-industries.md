@@ -1,3 +1,47 @@
+---
+title: 'Lakewood Industries: The Dragster Driver Who Built a Cage for the Clutch'
+summary: Joe Schubeck raced a dragster out of Lakewood, Ohio, and built a steel bellhousing to hold the shrapnel from an exploding flywheel. It became Lakewood Industries.
+department: companies
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1958
+- 2016
+region: Midwest
+states:
+- Ohio
+cities:
+- Lakewood, Ohio
+people:
+- Joe Schubeck
+- Ed "Isky" Iskenderian
+- Akron" Arlen Vanke
+companies:
+- Lakewood Industries
+places: []
+clubs: []
+strips: []
+tags:
+- aftermarket-business
+- dragsters
+- family-business
+- police-and-safety
+- speed-equipment
+- airport-strips
+related:
+- drag-racing/akron-fulton-airport.md
+- people/ed-iskenderian.md
+- companies/hurst-campbell.md
+- companies/edelbrock-slingshot.md
+- places/ohio-gassers.md
+canonical_for: []
+---
 # Lakewood Industries: The Dragster Driver Who Built a Cage for the Clutch
 
 *A speed shop in a Cleveland suburb, a hydroform press and the bellhousing that keeps the shrapnel in*
@@ -47,6 +91,8 @@ Holley's brand page says Lakewood is "now part of Holley Performance," and that 
 - [Ed Iskenderian](../people/ed-iskenderian.md): one of the catalog names Schubeck read about before he joined them.
 - [Holley](holley.md): the owner of the Lakewood brand today.
 - [Mr. Gasket](mr-gasket.md): the Cleveland parts company of the same period, another Ohio garage story.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

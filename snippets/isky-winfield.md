@@ -1,0 +1,1 @@
+**Isky and Winfield.** Hemmings names Ed Winfield the model for Ed Iskenderian, and Hagerty says Winfield mentored Isky into cam grinding. Jack Engle's son told Kustomrama that Engle and Isky both bought their first cams from Winfield. Full story: [Ed "Isky" Iskenderian](../people/ed-iskenderian.md#cams-and-trouble) and [Ed Winfield](../people/ed-winfield.md).

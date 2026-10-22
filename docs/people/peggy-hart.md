@@ -1,3 +1,47 @@
+---
+title: 'Peggy Hart: The Racer Who Beat the Winners'
+summary: Peggy Hart co-founded the Santa Ana drags with her husband C.J. and raced there, often challenging the winners at the end of the day.
+department: people
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1933
+- 1998
+region: West
+states:
+- California
+cities:
+- Santa Ana, California
+people:
+- Peggy Hart
+- C.J. & Peggy Hart
+- Veda Orr
+- Doris Herbert
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- drag-strips
+- dry-lakes
+- women
+- gassers
+- dragsters
+- airport-strips
+related:
+- eras/1950s-santa-ana-drags.md
+- voices/harts-santa-ana.md
+- voices/strip-owners-and-door-slammers.md
+- people/veda-orr.md
+- people/doris-herbert.md
+canonical_for: []
+---
 # Peggy Hart: The Racer Who Beat the Winners
 
 *1914–1980, Santa Ana's racer-promoter*

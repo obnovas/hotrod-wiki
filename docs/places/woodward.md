@@ -1,3 +1,42 @@
+---
+title: 'Woodward Avenue: Back In, Keep an Eye on the Action'
+summary: On Woodward Avenue you backed into the drive-in so you could watch the action. The loop, the racing and how Detroit's showrooms joined in.
+department: places
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1963
+- 2018
+region: Midwest
+states:
+- Michigan
+cities:
+- Birmingham, Michigan
+people:
+- Jimmie Addison
+- Milt Schornack
+- Jim Wangers
+- Ace Wilson
+companies:
+- Royal Pontiac
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- town-politics
+related:
+- drag-racing/detroit-cordova.md
+- places/woodward-ordinances.md
+- places/central-avenue-albuquerque.md
+- places/cruising-overview.md
+canonical_for: []
+---
 # Woodward Avenue: Back In, Keep an Eye on the Action
 
 *Detroit's suburban strip, 1950s–1970s*

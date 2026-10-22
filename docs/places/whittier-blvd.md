@@ -1,3 +1,36 @@
+---
+title: Whittier Boulevard
+summary: Cruising Whittier Boulevard in East Los Angeles, which the LA Times called "an odd ritual" in 1979, until the Sheriff's Department closed it.
+department: places
+eras:
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1979
+- 2017
+region: West
+states:
+- California
+cities: []
+people:
+- Roberto Rodriguez
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- grassroots-sources
+related:
+- places/cruising-overview.md
+- places/harveys-broiler-downey.md
+- places/modesto.md
+- drag-racing/modesto-century-toppers.md
+canonical_for: []
+---
 # Whittier Boulevard
 
 *East Los Angeles, 1960s–1979; 2017 revival*
@@ -22,6 +55,8 @@ The LA Times called cruising Whittier "an odd ritual–a cross among a harmless 
 ## Ties
 
 This is a regional repeat gathering, documented for its policing history more than for links to specific shops or builders. The later lowrider scene and its magazine (*Lowrider*, mentioned through Rodriguez) are a separate thread we haven't yet researched.
+
+*See also:* [The Ruelas Brothers and the Dukes](../voices/ruelas-dukes.md).
 
 ## Open questions & disputed details
 

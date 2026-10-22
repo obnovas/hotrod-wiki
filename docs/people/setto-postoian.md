@@ -1,3 +1,39 @@
+---
+title: Setto Postoian and the Swamp Rat Insult
+summary: Detroit's Setto Postoian beat Garlits twice and in 1959 called him "a swamp rat" in a Drag News ad. Garlits named his cars after the insult.
+department: people
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1950
+- 2015
+region: Midwest
+states:
+- Michigan
+- Texas
+cities: []
+people:
+- Don Garlits
+- Setto Postoian
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- car-clubs
+related:
+- drag-racing/detroit-cordova.md
+- drag-racing/beardstown-drag-strip.md
+- places/midwest-east.md
+- people/bob-bartel.md
+canonical_for: []
+---
 # Setto Postoian and the Swamp Rat Insult
 
 *Serop Postoian, 1922–1995: Detroit's first drag hero*
@@ -26,7 +62,7 @@ In **1950** he spent six weeks at McGrath's LA shop and met Joe Pisano and Ed Is
 
 Back home he opened **Farmington Speed Shop** and built a flathead roadster, then a DeSoto Hemi dragster, his first OHV engine.[^mm]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-He won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm]
+He won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm] Full story: [The Upset at Cordova](../drag-racing/detroit-cordova.md#1957-the-garlits-upset).
 
 Garlits told NHRA that Iskenderian made two blower kits, "one for me and one for Setto Postoian."[^nhra]
 

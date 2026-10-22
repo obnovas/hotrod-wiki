@@ -1,3 +1,40 @@
+---
+title: Bob's Big Boy and the "River Road"
+summary: In the 1950s Burbank high schoolers met at Bob's Big Boy to show off their jalopies, then settled challenges on the River Road.
+department: places
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1952
+- 2014
+region: West
+states:
+- California
+cities:
+- Burbank, California
+people:
+- Tommy Ivo
+companies: []
+places: []
+clubs:
+- Road Kings (Burbank)
+strips: []
+tags:
+- car-shows
+- grassroots-sources
+related:
+- cars/techniques-and-styles.md
+- companies/logghe-stamping.md
+- drag-racing/detroit-cordova.md
+- drag-racing/fox-valley-road-deacons-gas-ketts.md
+canonical_for: []
+---
 # Bob's Big Boy and the "River Road"
 
 *Burbank, 1950s–60s*
@@ -30,6 +67,8 @@ Sebern said he gave up racing after a Hoover High senior was killed in a '32 For
 **The Road Kings** (Burbank, founded 1952). The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming **Don Prudhomme**, Kenny Stafford, Tom Jandt, **Tony Nancy**, **Bob Muravez** and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
 
 The restaurant history page says Friday-night car shows and weekend carhop service were brought back during the restoration of the building.[^bob] An LA Times columnist (2013) quotes a regular: "I tell them I lived 'American Graffiti' right here."[^lat13]
+
+*See also:* [Harvey's Broiler](harveys-broiler-downey.md).
 
 ## Images
 

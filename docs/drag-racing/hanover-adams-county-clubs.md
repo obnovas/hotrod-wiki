@@ -1,3 +1,41 @@
+---
+title: 'Petitions, Jackets and a No-Ticket Rule: Hot Rod Clubs Around Gettysburg and Hanover (1956–59)'
+summary: The Gettysburg paper's small columns show hot rod clubs around Hanover and Gettysburg asking neighbors for permission to meet, touring the Lions clubs and picking jacket colors (1956–59).
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1956
+- 1959
+region: Northeast
+states:
+- Maryland
+cities:
+- Hanover, Pennsylvania
+people:
+- Francis L. Althoff Jr.
+- William Moorehead
+- Jimmy Price
+companies:
+- Hanover Hot Kustom Klub
+places: []
+clubs:
+- Flaming Carbs (Taneytown)
+- Fly-Wheels (Gettysburg)
+strips: []
+tags:
+- car-clubs
+- airport-strips
+- police-and-safety
+- town-politics
+- grassroots-sources
+related:
+- drag-racing/stroudsburg-ridge-runners.md
+- drag-racing/kingston-igniters.md
+- drag-racing/indiana-small-town-clubs.md
+- drag-racing/pennsauken-central-airport-1958.md
+canonical_for: []
+---
 # Petitions, Jackets and a No-Ticket Rule: Hot Rod Clubs Around Gettysburg and Hanover (1956–59)
 
 !!! abstract "Article record"
@@ -36,6 +74,8 @@ Two weeks later the paper introduced the **Fly-Wheels of Adams County**, "a newl
 On March 25 the paper announced the organization of "the 'Fly Wheels,' a Gettysburg 'hot-rod' Club," giving the president of the "three-week old group" as **Francis L. Althoff Jr.** of Hanover Street. This club planned "to race its vehicles at the airport at Thomasville," and its first event was a car wash at the Hunt Avenue service station, where members would pick up the cars, wash them and bring them back.[^gt590325] The next day the club ran a classified ad: "FLY-WHEELS GETTYSBURG HOT ROD CLUB Will Wash Cars at Hunt Avenue, Inc., Saturday, March 28," for $1.50 a car with pickup and delivery, and with the profits going to the club (the last words of the ad are garbled in the scan).[^gt590326]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 This is the small-town East in miniature. There is no strip yet, only a borrowed stock-car track, a country airfield and a car wash, and every step needed someone's permission: the neighbors, the Lions, the police. Compare the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md), the [Kingston Igniters](kingston-igniters.md) and the [Indiana small-town clubs](indiana-small-town-clubs.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+
+*See also:* [Tear Gas on the Runways](pennsauken-central-airport-1958.md).
 
 ## Open questions & disputed details
 

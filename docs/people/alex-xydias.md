@@ -1,3 +1,44 @@
+---
+title: 'Alex Xydias: Hanging Out the So-Cal Shingle'
+summary: On Army furlough in the 1940s Alex Xydias watched San Fernando Valley street races and decided to open a speed shop. He named it So-Cal.
+department: people
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1922
+- 2019
+region: West
+states:
+- California
+cities:
+- San Fernando, California
+people:
+- Alex Xydias
+- Jimmy Summers
+companies:
+- So-Cal Speed Shop
+places: []
+clubs: []
+strips: []
+tags:
+- land-speed
+- speed-equipment
+related:
+- people/jimmy-summers.md
+- people/dick-wells.md
+- people/kong-jackson.md
+- people/ed-iskenderian.md
+canonical_for: []
+---
 # Alex Xydias: Hanging Out the So-Cal Shingle
 
 *Born 1922*

@@ -1,3 +1,41 @@
+---
+title: 'Al Bergler: The Tin Man Who Bent It Himself'
+summary: Rather than pay $300 for a digger nose, Al Bergler bent one himself over a pipe. He did the aluminum work on Logghe cars, won the first Ridler Award in 1964 and campaigned the Motown Shaker.
+department: people
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1960
+- 2009
+region: Midwest
+states:
+- Michigan
+cities:
+- Detroit, Michigan
+people:
+- Al Bergler
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- car-shows
+- drag-strips
+- town-politics
+- funny-cars
+- sanctioning-bodies
+- dragsters
+related:
+- voices/injection-and-tin.md
+- companies/logghe-stamping.md
+- drag-racing/detroit-cordova.md
+- media/show-circuit.md
+canonical_for: []
+---
 # Al Bergler: The Tin Man Who Bent It Himself
 
 *Detroit builder, first Ridler winner, Motown Shaker*

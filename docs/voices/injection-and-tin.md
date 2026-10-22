@@ -1,3 +1,46 @@
+---
+title: 'Voices: Injection, Factory Racing & Detroit Tin'
+summary: First-hand words on lakes fuel injection, Lincoln-Mercury racing, Detroit aluminum work and East Coast match racing, from Stu Hilborn, Al Bergler, Malcolm Durham and others.
+department: voices
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1952
+- 2026
+region: Midwest
+states:
+- Michigan
+- California
+cities:
+- Detroit, Michigan
+people:
+- Stu Hilborn
+- Fran Hernandez
+- Al Bergler
+- Malcolm Durham
+- Fast Eddie" Schartman
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+- drag-strips
+related:
+- people/stu-hilborn.md
+- people/fran-hernandez.md
+- people/al-bergler.md
+- people/malcolm-durham.md
+- companies/logghe-stamping.md
+canonical_for: []
+---
 # Voices: Injection, Factory Racing & Detroit Tin
 
 *Fuel injectors, factory racing and aluminum noses, told by the people who made them*

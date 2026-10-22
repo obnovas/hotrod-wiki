@@ -1,3 +1,42 @@
+---
+title: Techniques & Styles
+summary: 'A short guide to how customizing and hot rod styles changed: from 1930s "restyling" and the "fake Cord" to metal-finish versus lead, the lead-sled era and Pro Street.'
+department: cars
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1939
+- 2015
+region: National
+states: []
+cities: []
+people:
+- Ed Almquist
+- Roy Hagy
+- Ed Winfield
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- customs
+- car-shows
+related:
+- people/ed-almquist.md
+- people/roy-hagy.md
+- people/ed-winfield.md
+- eras/1980s-pro-street.md
+- customs/hirohata-mercury.md
+canonical_for: []
+---
 # Techniques & Styles
 
 *Period-correct traits, and who got there first*
@@ -30,6 +69,8 @@ Lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sect
 ## Pro Street, 1979–late 1980s
 
 See [Pro Street](../eras/1980s-pro-street.md).
+
+*See also:* [Customs on Paper and in Plastic](../media/trend-books-kits-roth.md).
 
 ## Open questions & disputed details
 

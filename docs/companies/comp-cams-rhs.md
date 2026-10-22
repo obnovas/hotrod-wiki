@@ -1,3 +1,44 @@
+---
+title: 'COMP Cams and Racing Head Service: Three Oldsmobile Tinkerers on Sun Studio''s Corner'
+summary: In 1967 three Memphis drag racers who liked tinkering with Oldsmobile engines set up Racing Head Service in a basement. It grew into COMP Cams.
+department: companies
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1967
+- 2008
+region: South
+states:
+- Florida
+- Mississippi
+cities: []
+people:
+- Tom Woitesek
+companies:
+- Competition Cams / Racing Head Service (COMP Cams)
+places: []
+clubs: []
+strips: []
+tags:
+- camshafts
+- aftermarket-business
+- speed-equipment
+- family-business
+- teenagers-and-schools
+- airport-strips
+related:
+- places/memphis.md
+- companies/crane-cams.md
+- companies/edelbrock-slingshot.md
+- places/summer-avenue-memphis.md
+- voices/ray-godman.md
+canonical_for:
+- rhs-founding-1967
+---
 # COMP Cams and Racing Head Service: Three Oldsmobile Tinkerers on Sun Studio's Corner
 
 *A Memphis basement, a head-porting machine and the cam company that took over the Edelbrock family*
@@ -49,6 +90,8 @@ So a company that began when three men raced Oldsmobiles now sits in the same gr
 - [Summit Racing](summit-racing.md): a COMP hydraulic roller cam sits in the restored founder's Corvette.
 - [Edelbrock's Slingshot](edelbrock-slingshot.md): the Edelbrock Group, formed 2020 by merging Edelbrock and COMP's parent.
 - [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md): the earlier California cam makers this Memphis trade grew up behind.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

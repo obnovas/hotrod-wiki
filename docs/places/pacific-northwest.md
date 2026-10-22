@@ -1,3 +1,39 @@
+---
+title: 'Pacific Northwest: Councils, Woodburn and Fiberglass'
+summary: In the Portland area the clubs organized through a council, the MHRC, which ran the Roadster Show and helped open Woodburn Dragstrip in 1961.
+department: places
+eras:
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1954
+- 1972
+region: Northwest
+states:
+- Oregon
+cities:
+- Portland, Oregon
+- Woodburn, Oregon
+people:
+- Dee Wescott
+companies:
+- Multnomah Hot Rod Council
+places: []
+clubs: []
+strips: []
+tags:
+- drag-strips
+- town-politics
+- fiberglass
+- grassroots-sources
+related:
+- street-rodding/fiberglass-suppliers.md
+- media/street-rod-magazine-portland.md
+- companies/hurst-campbell.md
+- companies/logghe-stamping.md
+canonical_for: []
+---
 # Pacific Northwest: Councils, Woodburn and Fiberglass
 
 *Where the volunteers ran the show*

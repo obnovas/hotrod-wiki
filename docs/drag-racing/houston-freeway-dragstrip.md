@@ -1,3 +1,43 @@
+---
+title: Houston Freeway Dragstrip
+summary: 'Houston Freeway Dragstrip, near Dickinson, Texas: the 1958 showdown, the Gay family years and the touring racers who stayed at their house.'
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1958
+- 1988
+region: Southwest
+states:
+- Texas
+cities:
+- Dickinson, Texas
+people:
+- Carl & Marie Gay
+- Don & Roy Gay
+- Gene Snow
+- Fast Eddie" Schartman
+companies: []
+places: []
+clubs: []
+strips:
+- Houston Freeway Dragstrip
+tags:
+- drag-strips
+- sanctioning-bodies
+- cruising
+- grassroots-sources
+related:
+- people/gene-snow.md
+- voices/strip-owners-and-door-slammers.md
+- places/westheimer-houston.md
+- voices/injection-and-tin.md
+- people/eddie-schartman.md
+canonical_for: []
+---
 # Houston Freeway Dragstrip
 
 *Purpose-built on the Gulf Freeway at Dickinson*
@@ -59,6 +99,8 @@ NHRA.com "Ghost tracks" (2008): by **2000** the site was largely demolished; rea
 **Closing:** Yellow Bullet forum recollection says end of **1987**, with Houston Raceway Park (Baytown) opening **1988**. Other secondary text says "unknown date."<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **See also:** [Gene Snow](../people/gene-snow.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Texas: Caddo Mills...](../places/texas.md), [Westheimer cruising](../places/westheimer-houston.md), [Detroit & Cordova](detroit-cordova.md) (other early purpose-built strips).
+
+*See also:* [Regional Scenes](../places/regional-scenes.md).
 
 ## Open questions & disputed details
 

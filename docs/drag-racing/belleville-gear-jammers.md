@@ -1,3 +1,47 @@
+---
+title: Belleville's Gear Jammers and the St. Louis Strip Hunt (1952–1959)
+summary: The Belleville Gear Jammers made members pay half of any traffic fine to the club and ran airfield drags. Their hunt for a strip across the river from St. Louis ran from 1952 to 1959.
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1952
+- 1959
+region: Midwest
+states:
+- Illinois
+- Missouri
+cities:
+- Cahokia, Illinois
+- Belleville, Illinois
+people:
+- Wayne Mehrtens (Mertens)
+- Joseph R. Naber
+- Edwin Styffe Jr.
+companies: []
+places: []
+clubs:
+- Belleville Gear Jammers
+- Drag-ons Hot Rod Club
+- Midwest Hot Rod Club
+- Strokers Club
+strips: []
+tags:
+- car-clubs
+- airport-strips
+- police-and-safety
+- drag-strips
+- magazines-and-media
+- club-rules
+- grassroots-sources
+related:
+- drag-racing/half-day-ataa-maremont.md
+- drag-racing/planners-report-1955.md
+- drag-racing/sedalia-drag-ons.md
+- places/twin-falls-main-avenue.md
+canonical_for:
+- club-fine-rules
+---
 # Belleville's Gear Jammers and the St. Louis Strip Hunt (1952–1959)
 
 !!! abstract "Article record"

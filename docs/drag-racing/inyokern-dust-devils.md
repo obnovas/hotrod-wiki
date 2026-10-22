@@ -1,3 +1,43 @@
+---
+title: 'Inyokern: The Sheriff''s Strip and the Dust Devils (1954–2005)'
+summary: 'A sheriff started it and a federal agency ended it: for about 51 years a volunteer car club, the Dust Devils, ran a quarter-mile at the Inyokern airport in Kern County (1954–2005).'
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1954
+- 2005
+region: West
+states:
+- California
+cities:
+- Inyokern, California
+people:
+- Bernie Partridge
+- Doris Herbert
+companies: []
+places: []
+clubs:
+- Dust Devils Auto Club
+strips: []
+tags:
+- airport-strips
+- car-clubs
+- drag-strips
+- police-and-safety
+- grassroots-sources
+related:
+- people/doris-herbert.md
+- people/peggy-hart.md
+- people/dick-wells.md
+- companies/lakewood-industries.md
+canonical_for: []
+---
 # Inyokern: The Sheriff's Strip and the Dust Devils (1954–2005)
 
 !!! abstract "Article record"

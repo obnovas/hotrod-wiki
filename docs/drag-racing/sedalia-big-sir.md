@@ -1,3 +1,47 @@
+---
+title: 'The Big S.I.R.: Sedalia''s Eleven-Year Drag Strip Chase (1958–70)'
+summary: Sedalia, Missouri, argued about a drag strip for more than a decade. When the Big S.I.R. finally broke ground, the result was half a strip (1958–70).
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1958
+- 1970
+region: Midwest
+states:
+- Missouri
+cities:
+- Sedalia, Missouri
+people:
+- Jack Couts
+- Barry Cox
+- Lee Dorrell
+- Vaughn Hart
+- Harry Koockle
+- Jim Tice
+- George O. Weatherly
+companies:
+- Hamer Construction Co.
+- Iron Horsemen
+places: []
+clubs:
+- Oil Men's Association (Sedalia)
+strips:
+- Sedalia International Dragway (Big S.I.R.)
+tags:
+- drag-strips
+- sanctioning-bodies
+- police-and-safety
+- grassroots-sources
+related:
+- drag-racing/sedalia-drag-ons.md
+- drag-racing/kansas-city-timing-association.md
+- drag-racing/belleville-gear-jammers.md
+- drag-racing/ames-drag-strip-nightcrawlers.md
+canonical_for: []
+---
 # The Big S.I.R.: Sedalia's Eleven-Year Drag Strip Chase (1958–70)
 
 !!! abstract "Article record"

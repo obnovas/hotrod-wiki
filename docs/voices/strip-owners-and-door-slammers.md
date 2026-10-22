@@ -1,3 +1,44 @@
+---
+title: 'Voices: Strip Owners & Door-Slammers'
+summary: 'Strip owners and door-slammer racers in their own words: the Harts, the Gays, Bob Bartel, Gene Snow and others, each quote labeled by when it was told.'
+department: voices
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1969
+- 2026
+region: Midwest
+states:
+- Ohio
+- Texas
+cities: []
+people:
+- Gene Snow
+- Bob Bartel
+- Peggy Hart
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+- sanctioning-bodies
+- street-rods
+- funny-cars
+related:
+- people/gene-snow.md
+- people/peggy-hart.md
+- media/street-rod-magazine-portland.md
+- people/bob-bartel.md
+- drag-racing/houston-freeway-dragstrip.md
+canonical_for: []
+---
 # Voices: Strip Owners & Door-Slammers
 
 *The people who ran the tracks, and the people who filled them*

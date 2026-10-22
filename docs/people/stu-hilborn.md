@@ -1,3 +1,44 @@
+---
+title: 'Stu Hilborn: A Tumbling Streamliner and a Promise to Mom'
+summary: Stu Hilborn's streamliner tumbled in 1947, and he spent time in a body cast. From that car came Hilborn fuel injection and a business.
+department: people
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1938
+- 2015
+region: West
+states:
+- California
+cities: []
+people:
+- Stu Hilborn
+- Stuart Hilborn
+- Fran Hernandez
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- dry-lakes
+- patents-and-inventions
+- aftermarket-business
+- land-speed
+related:
+- voices/injection-and-tin.md
+- eras/1930s-dry-lakes-scta.md
+- people/fran-hernandez.md
+- companies/holley.md
+canonical_for: []
+---
 # Stu Hilborn: A Tumbling Streamliner and a Promise to Mom
 
 *Stuart Garfield Hilborn, Oct 9, 1917 – Dec 16, 2013*

@@ -1,3 +1,47 @@
+---
+title: Memphis and the Mid-South
+summary: Memphis racers ran at an old air base at Halls, Tennessee, and drove to meets across the Mid-South. The Memphis Rodders date from 1947.
+department: places
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1947
+- 1979
+region: South
+states:
+- Tennessee
+cities:
+- Halls, Tennessee
+people:
+- Buster Couch
+- Ray Godman
+- Joe Lunati
+- Kenneth McKee
+- Bill Taylor
+companies:
+- Kingfish (blown Barracuda)
+places: []
+clubs:
+- Memphis Rodders
+strips: []
+tags:
+- car-clubs
+- drag-strips
+- sanctioning-bodies
+- dragsters
+- airport-strips
+- grassroots-sources
+related:
+- voices/ray-godman.md
+- drag-racing/semo-malden-drag-strip.md
+- people/joe-lunati.md
+- street-rodding/nsra-early-nationals.md
+- companies/comp-cams-rhs.md
+canonical_for: []
+---
 # Memphis and the Mid-South
 
 *A bomber base, a bo-weevil and a missing Sun Records story*

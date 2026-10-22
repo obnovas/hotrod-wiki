@@ -1,3 +1,36 @@
+---
+title: The Hirohata Mercury
+summary: 'Bob Hirohata''s 1951 Mercury, chopped by Sam and George Barris of Barris Kustom: how it was built, and what became of the car and its owner.'
+department: customs
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1951
+- 2017
+region: National
+states: []
+cities:
+- National Mall, Washington
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- customs
+related:
+- cars/techniques-and-styles.md
+- customs/kkoa-lead-sled-revival.md
+- drag-racing/fox-valley-road-deacons-gas-ketts.md
+- drag-racing/modesto-century-toppers.md
+canonical_for: []
+---
 # The Hirohata Mercury
 
 *Barris Kustom's ice-green Merc, and the argument over how long it took*

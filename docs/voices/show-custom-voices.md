@@ -1,3 +1,42 @@
+---
+title: 'Show & Custom Voices: Oakland, the KKOA and the First Funny Cars'
+summary: 'Voices from the show and custom world: Mary Slonaker on Oakland in 1949–50, Jerry Titus on the KKOA in Wichita and Eddie Schartman on the first Funny Car.'
+department: voices
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1949
+- 2016
+region: West
+states:
+- California
+cities:
+- Oakland, California
+people:
+- Tom Prufer
+- Mary Slonaker
+- Fast Eddie" Schartman
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+- funny-cars
+related:
+- media/show-circuit.md
+- customs/kkoa-lead-sled-revival.md
+- people/eddie-schartman.md
+- companies/logghe-stamping.md
+canonical_for: []
+---
 # Show & Custom Voices: Oakland, the KKOA and the First Funny Cars
 
 *Three rooms, three decades, and a driver in the wrong seat*

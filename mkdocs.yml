@@ -39,10 +39,11 @@ extra:
     - {label: Timeline, url: reference/timeline/}
 hooks:
   - hooks/design_hook.py   # must stay BEFORE highlights_hook (it peels the home intro off the slider placeholder)
+  - hooks/articles_hook.py   # front-matter gate (fails the build), summary standfirst + meta description, first-mention links
   - hooks/connections_hook.py   # Web of influence graph; fails the build on an unsupported edge
   - hooks/highlights_hook.py
   - hooks/redirects_hook.py
-markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables]
+markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables, pymdownx.snippets: {base_path: [snippets], check_paths: true}]
 plugins:
   - search
   - glightbox

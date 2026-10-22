@@ -1,3 +1,37 @@
+---
+title: Doris Herbert and "The Drag Racer's Bible"
+summary: Doris Herbert's Drag News kept the national Standard 1320 Record List and set timing standards for reputable strips, sanctioned or not.
+department: people
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1955
+- 1993
+region: Midwest
+states:
+- Illinois
+cities:
+- Alton, Illinois
+people:
+- Doris Herbert
+- Dick Wells
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- magazines-and-media
+related:
+- people/dick-wells.md
+- companies/crane-cams.md
+- companies/hooker-headers.md
+- drag-racing/inyokern-dust-devils.md
+canonical_for: []
+---
 # Doris Herbert and "The Drag Racer's Bible"
 
 !!! abstract "Article record"
@@ -24,6 +58,8 @@ In 1967, *Drag News* outlasted *Drag Sport Illustrated*, *Drag World* and *Drag 
 She was the first journalist inducted into the International Drag Racing Hall of Fame (1993) and sold the paper in **1976** after 17 years.[^hof]
 
 **A rival's pen name:** NHRA's *National Dragster* editor wrote in 2009 that, per Dick Wells, Wally Parks sent critical letters to *Drag News* under the pen name "Parks Wengard," which spelled backwards is "Drag News Krap."[^r12nd] See [Dick Wells](dick-wells.md).
+
+*See also:* [Inyokern](../drag-racing/inyokern-dust-devils.md).
 
 ## Visual references (external)
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*

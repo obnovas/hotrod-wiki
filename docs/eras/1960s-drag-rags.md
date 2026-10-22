@@ -1,3 +1,33 @@
+---
+title: The Drag Rags
+summary: The "drag rags", Drag News and the other cheap weekly tabloids, were controlled neither by a sanctioning body nor by Petersen. Dave Wallace argues they recorded the truest accounts of drag racing's growth.
+department: eras
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1957
+- 1983
+region: National
+states: []
+cities: []
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- magazines-and-media
+- funny-cars
+related:
+- voices/esparza-brothers.md
+- eras/1950s-camgrinder-wars.md
+- companies/logghe-stamping.md
+- companies/moroso.md
+canonical_for: []
+---
 # The Drag Rags
 
 *The 1960s and the independent press that wrote it down*

@@ -1,3 +1,40 @@
+---
+title: 'What the City Planners Wrote (1955): Hot Rod Clubs in Small-Town America'
+summary: In May 1955 the American Society of Planning Officials told city planners they would have to find sites for drag strips. Its report names small towns and clubs that rarely appear in magazine histories.
+department: drag-racing
+eras:
+- 1940s
+- 1950s
+years:
+- 1947
+- 1955
+region: Midwest
+states:
+- California
+- Michigan
+- Missouri
+cities: []
+people: []
+companies: []
+places: []
+clubs:
+- Columbia Motor Sports Club
+strips: []
+tags:
+- car-clubs
+- police-and-safety
+- teenagers-and-schools
+- drag-strips
+- dry-lakes
+- airport-strips
+- grassroots-sources
+related:
+- drag-racing/pomona-choppers-fontana.md
+- drag-racing/kansas-city-timing-association.md
+- drag-racing/escanaba-dragns.md
+- drag-racing/indiana-small-town-clubs.md
+canonical_for: []
+---
 # What the City Planners Wrote (1955): Hot Rod Clubs in Small-Town America
 
 !!! abstract "Article record"
@@ -42,6 +79,8 @@ Texas example (forum,<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single so
 **Kansas City:** the Kansas City Timing Association's strip opened July 17, 1955, according to the detective who organized it. See [The Detective Whose Son Was a Dragster](kansas-city-timing-association.md).
 
 **Small-town clubs the report did not list:** [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both from local newspapers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+
+*See also:* [Hot Rod Club, Third Row](high-school-hot-rod-clubs.md); [Street Rod in the Small-Town Paper](../media/street-rod-newspaper-serial.md).
 
 ## Open questions & disputed details
 

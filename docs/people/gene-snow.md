@@ -1,3 +1,43 @@
+---
+title: 'Gene Snow: Win on Sunday, Sell on Monday'
+summary: 'Gene Snow raced cars off his own used-car lot: "I would win a race with a dealership car on Sunday and usually sold the winning entry the next day."'
+department: people
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1966
+- 2007
+region: Southwest
+states:
+- Texas
+cities:
+- Austin, Texas
+- Dickinson, Texas
+people:
+- Gene Snow
+- Fast Eddie" Schartman
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- funny-cars
+- sanctioning-bodies
+- dragsters
+- drag-strips
+related:
+- drag-racing/houston-freeway-dragstrip.md
+- voices/strip-owners-and-door-slammers.md
+- companies/logghe-stamping.md
+- places/texas.md
+- people/eddie-schartman.md
+canonical_for:
+- snow-200-mph
+---
 # Gene Snow: Win on Sunday, Sell on Monday
 
 *Fort Worth's* Rambunctious *and the first 200-mph Funny Car*

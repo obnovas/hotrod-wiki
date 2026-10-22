@@ -1,3 +1,41 @@
+---
+title: 'Muroc: Where Everybody Raced at Once'
+summary: In the 1920s and 1930s Los Angeles racers drove to Muroc Dry Lake and raced side by side in unruly lineups, until the timing associations and the SCTA brought the stopwatch.
+department: eras
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1938
+- 2006
+region: West
+states:
+- California
+cities: []
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- dry-lakes
+- car-clubs
+- sanctioning-bodies
+- airport-strips
+related:
+- voices/blackie-gold.md
+- drag-racing/planners-report-1955.md
+- people/howard-johansen.md
+- companies/mickey-thompson.md
+canonical_for:
+- scta-founding
+---
 # Muroc: Where Everybody Raced at Once
 
 *The 1930s dry lakes and the founding of the SCTA*

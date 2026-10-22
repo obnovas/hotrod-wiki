@@ -1,0 +1,1 @@
+**Muroc, 1941.** Kong Jackson told Tom Medley that an Army Jeep pulled up to a Muroc meet in 1941 and "out jumped these guys with bayonets." This is a different event from the Santa Ana airstrip story. Full story: [Kong Jackson](../people/kong-jackson.md#muroc-1941).

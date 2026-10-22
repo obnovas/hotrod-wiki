@@ -1,3 +1,55 @@
+---
+title: The Ohio Gassers
+summary: '"The Ohio Gassers" was never a chartered club: it was a loose circle of Cleveland high-school friends and their rivals across Ohio who ran gas-class cars.'
+department: places
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1940
+- 2016
+region: Midwest
+states:
+- Ohio
+cities: []
+people:
+- Virgil Cates
+- Chuck Finders
+- Barbara Hamilton
+- Ron Hassel
+- Gil (Rod Shop) Kirk
+- Dave Meal
+- '"Ohio George" Montgomery'
+- Gene Schwartz
+- Fast Eddie" Schartman
+- Akron" Arlen Vanke
+- Bob Bartel
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- gassers
+- sanctioning-bodies
+- family-business
+- drag-strips
+- funny-cars
+- airport-strips
+- grassroots-sources
+related:
+- cars/hill-bros-red-baron.md
+- companies/mr-gasket.md
+- people/eddie-schartman.md
+- people/arlen-vanke.md
+- drag-racing/akron-fulton-airport.md
+canonical_for: []
+---
 # The Ohio Gassers
 
 *Cleveland, Dayton, Columbus and the door-slammer Midwest*

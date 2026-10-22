@@ -1,3 +1,38 @@
+---
+title: 'Hog Butcher on Weekdays, Fun Capital on Sundays: the Beardstown Drag Strip (Beardstown, Ill., 1967–72)'
+summary: Beardstown, a packing-house town on the Illinois River, drew 2,000 people to its new drag strip in 1967. By 1970 Garlits was on the bill.
+department: drag-racing
+eras:
+- 1960s
+- 1970s
+years:
+- 1967
+- 1972
+region: Midwest
+states:
+- Illinois
+- Michigan
+cities:
+- Beardstown, Illinois
+people:
+- Ken Dobson
+- Don Garlits
+- E. J. Potter
+companies: []
+places: []
+clubs: []
+strips:
+- Seward Drag strip
+tags:
+- drag-strips
+- grassroots-sources
+related:
+- drag-racing/semo-malden-drag-strip.md
+- drag-racing/sedalia-big-sir.md
+- drag-racing/detroit-cordova.md
+- people/setto-postoian.md
+canonical_for: []
+---
 # Hog Butcher on Weekdays, Fun Capital on Sundays: the Beardstown Drag Strip (Beardstown, Ill., 1967–72)
 
 !!! abstract "Article record"

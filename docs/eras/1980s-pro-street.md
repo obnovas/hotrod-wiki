@@ -1,3 +1,39 @@
+---
+title: Pro Street, from a Dayton Garage
+summary: Pro Street grew out of a Dayton garage in 1979. Who named it, what it looked like, and why it was not simply a Pro Stocker for the street.
+department: eras
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1933
+- 2011
+region: Midwest
+states:
+- Ohio
+cities:
+- Dayton, Ohio
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- car-clubs
+related:
+- cars/techniques-and-styles.md
+- eras/1970s-street-rod-nationals.md
+- cars/hill-bros-red-baron.md
+- companies/jegs.md
+canonical_for: []
+---
 # Pro Street, from a Dayton Garage
 
 *The 1980s*

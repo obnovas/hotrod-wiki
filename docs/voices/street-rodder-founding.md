@@ -1,3 +1,42 @@
+---
+title: 'Founding Street Rodder (1972): Tex Smith and Jim Clark Remember'
+summary: Tex Smith and Jim Clark remember how Street Rodder magazine got started in 1972 at Tom and Rose McMullen's TRM Publications.
+department: voices
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1948
+- 2012
+region: Northwest
+states:
+- Oregon
+cities: []
+people:
+- Jim Clark
+- Tom & Rose McMullen
+- LeRoi "Tex" Smith
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+- street-rods
+- magazines-and-media
+related:
+- media/street-rod-magazine-portland.md
+- street-rodding/nsra-early-nationals.md
+- places/pacific-northwest.md
+- customs/kkoa-lead-sled-revival.md
+canonical_for: []
+---
 # Founding Street Rodder (1972): Tex Smith and Jim Clark Remember
 
 *A motorcycle publisher, a dropped magazine, and a name that was already taken*

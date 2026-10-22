@@ -1,3 +1,40 @@
+---
+title: Pappy Hart and the Bayonets
+summary: Orange County hot rodders raced on abandoned airstrips until, by one account, a company of U.S. Marines with fixed bayonets ran them off. Then C.J. "Pappy" Hart opened the Santa Ana drags in 1950.
+department: eras
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1950
+- 2004
+region: West
+states:
+- California
+cities:
+- Santa Ana, California
+people:
+- C.J. & Peggy Hart
+- Peggy Hart
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- airport-strips
+- drag-strips
+related:
+- people/peggy-hart.md
+- voices/harts-santa-ana.md
+- voices/strip-owners-and-door-slammers.md
+- companies/comp-cams-rhs.md
+canonical_for:
+- santa-ana-bayonets
+---
 # Pappy Hart and the Bayonets
 
 *Santa Ana and the first commercial drag strip, 1950–59*

@@ -1,3 +1,39 @@
+---
+title: Peoria, and the Boss Who Never Said Yes
+summary: In 1970 the Rod & Custom crew organized the first Street Rod Nationals in Peoria, though their bosses never said yes. Here is why Peoria, and how many came.
+department: eras
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1932
+- 2007
+region: Midwest
+states:
+- Illinois
+cities:
+- Peoria, Illinois
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- street-rods
+related:
+- voices/peoria-1970.md
+- places/midwest-east.md
+- customs/kkoa-lead-sled-revival.md
+- media/street-rod-magazine-portland.md
+canonical_for:
+- peoria-1970-turnout
+---
 # Peoria, and the Boss Who Never Said Yes
 
 *The 1970s street rod resurgence*
@@ -29,6 +65,8 @@ See [Midwest & East Threads](../places/midwest-east.md) for the Slo-Pokes and th
 ## The numbers
 
 Hagerty, citing MotorTrend, gives **August 14–16, 1970** and **600 street rods**. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] *(Verified on the page in Round 2; still secondary.)* The NSRA's founding date is not yet confirmed from an NSRA source.
+
+*See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md).
 
 ## Images
 

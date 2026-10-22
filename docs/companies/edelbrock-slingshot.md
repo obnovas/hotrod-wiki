@@ -1,3 +1,45 @@
+---
+title: Edelbrock's Slingshot
+summary: Vic Edelbrock drove his roadster to Muroc, pulled the fenders off to race and bolted them back on to drive home. This is the story of the kid from Kansas, the Thickstun detour and the shop after the war.
+department: companies
+eras:
+- 1910s
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1912
+- 2012
+region: Midwest
+states:
+- Kansas
+cities: []
+people:
+- Vic Sr. & Edelbrock Jr.
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- patents-and-inventions
+- speed-equipment
+- dry-lakes
+- aftermarket-business
+- land-speed
+related:
+- companies/moon-equipment.md
+- people/stu-hilborn.md
+- companies/hurst-campbell.md
+- people/barney-navarro.md
+canonical_for: []
+---
 # Edelbrock's Slingshot
 
 *A mechanic becomes a manufacturer*
@@ -23,6 +65,8 @@ In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun 
 ## After the war
 
 Edelbrock modified "Denver" iron heads, introduced the first aluminum heads and a 1946 catalog, and fielded a flathead midget credited with breaking the Offenhauser midgets' streak in the late '40s.[^hemm]
+
+*See also:* [Beast III](../cars/beast-iii.md).
 
 ## Open questions & disputed details
 

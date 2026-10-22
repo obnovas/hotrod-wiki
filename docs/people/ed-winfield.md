@@ -1,3 +1,40 @@
+---
+title: 'Ed Winfield: Three-Quarters of the Way to Full Race'
+summary: Ed Winfield left school after the eighth grade and joined Harry A. Miller's shop at 14. He went on to cams, carburetors, patents and a long run of Indy 500 winners.
+department: people
+eras:
+- 1900s
+- 1910s
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1901
+- 1982
+region: National
+states: []
+cities: []
+people:
+- Ed Winfield
+- Ed "Isky" Iskenderian
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- patents-and-inventions
+- speed-equipment
+related:
+- people/ed-iskenderian.md
+- companies/web-of-influence.md
+- companies/hurst-campbell.md
+- companies/crane-cams.md
+canonical_for: []
+---
 # Ed Winfield: Three-Quarters of the Way to Full Race
 
 *1901–1982*
@@ -31,6 +68,8 @@ The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]<sup class="hr-
 Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1]
 
 He died in 1982.[^hem2] Hemmings names him the model for Ed Iskenderian and Ed Donovan,[^hem2] and Hagerty's 2026 Isky obituary says Winfield mentored him into cam grinding. (See [Iskenderian](ed-iskenderian.md).)
+
+*See also:* [George Riley and the Heads That Cracked](george-riley.md).
 
 ## Open questions & disputed details
 

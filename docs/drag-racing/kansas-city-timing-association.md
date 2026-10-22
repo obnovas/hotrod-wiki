@@ -1,3 +1,50 @@
+---
+title: 'The Detective Whose Son Was a Dragster: Kansas City, 1955–66'
+summary: '"Kansas City police, unable to coerce Hot Rodders, joined them." How a police detective, whose son raced, helped Kansas City''s hot rodders get a strip (1955–66).'
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+years:
+- 1955
+- 1966
+region: Midwest
+states:
+- Missouri
+- Kansas
+cities:
+- City, Missouri
+people:
+- Peter Behr
+- Lee Dorrell
+- Eugene M. Pond
+- Ed Shook
+companies:
+- Crank Twisters (Kansas City)
+- Dragettes
+places: []
+clubs:
+- Kansas City Timing Association
+- Kansas City Timing Association strip
+strips:
+- Kansas City International Raceway
+tags:
+- police-and-safety
+- car-clubs
+- drag-strips
+- town-politics
+- sanctioning-bodies
+- teenagers-and-schools
+- grassroots-sources
+related:
+- drag-racing/planners-report-1955.md
+- drag-racing/escanaba-dragns.md
+- drag-racing/sedalia-drag-ons.md
+- drag-racing/belleville-gear-jammers.md
+- companies/mickey-thompson.md
+canonical_for:
+- kansas-city-strip-1955
+---
 # The Detective Whose Son Was a Dragster: Kansas City, 1955–66
 
 !!! abstract "Article record"
@@ -81,6 +128,8 @@ The best checks on Pond came from the *Sedalia Democrat*, which covered Kansas C
 ![A long steel truss bridge across a wide river, seen from the side](../assets/images/commons-chouteau-bridge-haer-1990.jpg){ loading=lazy }
 <figcaption markdown>The old Chouteau Bridge over the Missouri River at Chouteau Trafficway, photographed in 1990 for the Historic American Engineering Record (HAER MO-93-12). In 1969 the *Sedalia Democrat* placed the 1955 strip "near the Chouteau Bridge"; this photo does not show the strip. Creator: Trey Cambern, photographer. Date: 1990. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francois_Chouteau_Bridge,_Spanning_Missouri_River_at_Chouteau_Traffic_Way,_Kansas_City,_Jackson_County,_MO_(cropped).jpg). License: Public domain.</figcaption>
 </figure>
+
+*See also:* [A Strip in a Ravine](kk-sports-arena-kaukauna.md).
 
 ## Open questions & disputed details
 

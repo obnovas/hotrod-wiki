@@ -1,3 +1,47 @@
+---
+title: 'The Sedalia Drag-Ons: Courtesy Cards, Half Fines and a Truck for a Boys'' Ranch (1957–64)'
+summary: Sedalia's Drag-Ons spent seven years trying to earn a drag strip and never got one. They left one of the most detailed small-town club rulebooks we have found (1957–64).
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+years:
+- 1957
+- 1964
+region: Midwest
+states:
+- Kansas
+- Missouri
+cities:
+- Great Bend, Kansas
+- Sedalia, Missouri
+people:
+- Bill Bottcher
+- Tom Butterfield
+- Larry Embry
+- Larry Rennison
+- D. Kelly Scruton
+- Jr. Vasquez
+companies: []
+places: []
+clubs:
+- Push Rods
+- Sedalia Drag-Ons
+strips: []
+tags:
+- car-clubs
+- club-rules
+- police-and-safety
+- drag-strips
+- grassroots-sources
+related:
+- drag-racing/kansas-city-timing-association.md
+- drag-racing/sedalia-big-sir.md
+- drag-racing/great-bend-srca.md
+- drag-racing/escanaba-dragns.md
+- drag-racing/stroudsburg-ridge-runners.md
+canonical_for: []
+---
 # The Sedalia Drag-Ons: Courtesy Cards, Half Fines and a Truck for a Boys' Ranch (1957–64)
 
 !!! abstract "Article record"
@@ -62,7 +106,7 @@ Embry also printed the club's rules, which had grown teeth since 1958:[^sd641115
 
 The 1964 officers were Rennison (president), Gary Hayden (vice president), Dennis Smethers (secretary), Dick Schultz (treasurer), Gary Deuel (reporter) and Steve Bottcher (sergeant-at-arms).[^sd641115]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-**Related:** [Kansas City's strip and Timing Association](kansas-city-timing-association.md), [The Big S.I.R.](sedalia-big-sir.md), [Escanaba's Drag-n's](escanaba-dragns.md), [Stroudsburg's Ridge Runners](stroudsburg-ridge-runners.md) and [Kingston's Igniters](kingston-igniters.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+**Related:** [Kansas City's strip and Timing Association](kansas-city-timing-association.md), [The Big S.I.R.](sedalia-big-sir.md), [Escanaba's Drag-n's](escanaba-dragns.md), [Stroudsburg's Ridge Runners](stroudsburg-ridge-runners.md) and [Kingston's Igniters](kingston-igniters.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Flares, Tow Chains and a Broken Gasket](fox-valley-road-deacons-gas-ketts.md).
 
 ## Open questions & disputed details
 
@@ -70,7 +114,9 @@ The 1964 officers were Rennison (president), Gary Hayden (vice president), Denni
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** That was the club's talking point, not a statistic the paper checked. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** The half-fine rule is the same one we found at [Belleville's Gear Jammers](belleville-gear-jammers.md) in Illinois. No source says either club got it from the other. It may have come from a common model, such as NHRA's club materials, but we haven't found that model. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** Where did the half-fine rule come from? No source says any club got it from another. It may have come from a common model, such as NHRA's club materials, but we haven't found that model. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+--8<-- "club-fine-rules.md"
 
 <a id="q-3" class="hr-q-anchor"></a>
 

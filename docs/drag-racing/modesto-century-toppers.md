@@ -1,3 +1,39 @@
+---
+title: 'Modesto''s Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946–50)'
+summary: Modesto's first hot rod club, the Century Toppers, met in the garage that launched a famous customizer and worked with the California Highway Patrol in 1949 (1946–50).
+department: drag-racing
+eras:
+- 1940s
+- 1950s
+years:
+- 1946
+- 1950
+region: West
+states:
+- California
+cities:
+- Modesto, California
+people: []
+companies: []
+places: []
+clubs:
+- Century Toppers
+strips: []
+tags:
+- car-clubs
+- police-and-safety
+- cruising
+- customs
+- dry-lakes
+- car-shows
+- grassroots-sources
+related:
+- media/show-circuit.md
+- places/modesto.md
+- drag-racing/planners-report-1955.md
+- places/cruising-overview.md
+canonical_for: []
+---
 # Modesto's Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946–50)
 
 !!! abstract "Article record"

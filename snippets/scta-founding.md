@@ -1,0 +1,1 @@
+**When the SCTA began.** The usual date for the SCTA's founding is late 1937; Kong Jackson remembered 1938. Its first official meet at Muroc is dated May 15, 1938, by the Road Runners and March 15, 1938, by a 2014 article. Full story: [Muroc](../eras/1930s-dry-lakes-scta.md#may-or-march).

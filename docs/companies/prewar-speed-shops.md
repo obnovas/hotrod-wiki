@@ -1,3 +1,38 @@
+---
+title: Before Everyone Got into the Act
+summary: 'Before everyone got into the act there were George Wight''s Bell Auto Parts, Lee Chapel, Karl and Veda Orr, and Jim White: the first speed shops.'
+department: companies
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1923
+- 1976
+region: West
+states:
+- California
+cities: []
+people:
+- Veda & Karl Orr
+- Veda Orr
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- speed-equipment
+- aftermarket-business
+related:
+- people/veda-orr.md
+- people/julian-doty.md
+- people/peggy-hart.md
+- companies/moon-equipment.md
+canonical_for: []
+---
 # Before Everyone Got into the Act
 
 *The prewar speed shops: Bell, Lee's, Orr, and Jim White*
@@ -26,6 +61,8 @@ The Orr Speed Shop opened in 1940 at **11140 Washington Place, Culver City**. It
 ## Jim White, 1932
 
 Based on Roger Harrell's book: Jim White's Speed Shop opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main, run with brother Nick Harrell until **1976**.[^hem]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+
+*See also:* [George Riley and the Heads That Cracked](../people/george-riley.md).
 
 ## Open questions & disputed details
 

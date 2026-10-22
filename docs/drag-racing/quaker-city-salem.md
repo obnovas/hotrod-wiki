@@ -1,3 +1,48 @@
+---
+title: 'Headlights on a Pole: Quaker City Drag Strip, Salem, Ohio (1957–77)'
+summary: Dick Mossey laid out Quaker City Drag Strip on farmland north of Salem, Ohio, with a silo for a timing tower and headlights on a pole for night racing (1957–77).
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1957
+- 1977
+region: Midwest
+states:
+- Ohio
+- Michigan
+cities:
+- Salem, Ohio
+people:
+- J. Leo Collins
+- Francis "Krutch" Crider
+- Malcolm Durham
+- Glenn Miller
+- Dick (Richard) Mossey
+- Vivian Mossey
+- Arlen Vanke
+- Akron" Arlen Vanke
+companies: []
+places: []
+clubs:
+- Oilers Car Club
+- Quaker City Timing Association
+strips: []
+tags:
+- drag-strips
+- airport-strips
+- sanctioning-bodies
+- grassroots-sources
+related:
+- drag-racing/akron-fulton-airport.md
+- people/arlen-vanke.md
+- people/malcolm-durham.md
+- drag-racing/semo-malden-drag-strip.md
+- drag-racing/marin-cotati-strips.md
+canonical_for: []
+---
 # Headlights on a Pole: Quaker City Drag Strip, Salem, Ohio (1957–77)
 
 !!! abstract "Article record"
@@ -46,6 +91,8 @@ In the mid-1960s, the 2016 story says, Quaker City "hosted top names across the 
 By the 1970s the strip ran on bracket money. On July 3, 1977, more than 2,000 people watched over 400 racers from seven states and Canada race "for $10,000 in prizes" at the Bracket Bonanza. Two weeks later Don "The Snake" Prudhomme, the track record holder, beat a four-car funny car field, with Bob Pickett's Mickey Thompson–backed Marines car, Denny Savage's Chi-Town Hustler and Canton's Stan Bowman, at 213 mph after a 90-minute thunderstorm delay.[^sn770705][^sn770718] That September about 30 Quaker City regulars drove to Beech Bend in Kentucky for the NHRA Division III meet; the paper called the strip "a hot bed of NHRA Division III activity."[^sn770928]
 
 Quaker City is still running. Norm Fox bought it (in 2011 per the track, 2010 per *Drag Illustrated*)<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> and rebuilt it as Quaker City Motorsports Park.[^qcmp] It is the rare small-town strip in this wiki that outlived its founders, perhaps because it never depended on borrowed runway. Compare the airfield strips at [Malden](semo-malden-drag-strip.md) and [Cotati](marin-cotati-strips.md), and the Ohio circuit in [Ohio Gassers](../places/ohio-gassers.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+
+*See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md).
 
 ## Open questions & disputed details
 

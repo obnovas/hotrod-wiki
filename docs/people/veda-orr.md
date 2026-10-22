@@ -1,3 +1,40 @@
+---
+title: 'Veda Orr: The Glue That Held It Together'
+summary: When the SCTA's editors went to war, Veda Orr took over the Racing News and mailed it free to racers wherever they were stationed.
+department: people
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1921
+- 1990
+region: West
+states:
+- California
+cities: []
+people:
+- Veda Orr
+- Veda & Karl Orr
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- dry-lakes
+- sanctioning-bodies
+related:
+- companies/prewar-speed-shops.md
+- people/julian-doty.md
+- people/peggy-hart.md
+- eras/1930s-dry-lakes-scta.md
+canonical_for: []
+---
 # Veda Orr: The Glue That Held It Together
 
 *The wartime newsletter and the first hot rod journalist*

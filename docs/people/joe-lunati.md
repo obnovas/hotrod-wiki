@@ -1,3 +1,46 @@
+---
+title: 'Joe Lunati: Eighth-Grade Math'
+summary: Joe Lunati raced with a Memphis car club, ran Trouble Maker and Dixie Devil, and put his name on a line of camshafts.
+department: people
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1935
+- 2023
+region: Midwest
+states:
+- Missouri
+cities: []
+people:
+- Joe Lunati
+companies:
+- Lunati Cams
+places: []
+clubs:
+- Memphis Rodders
+strips: []
+tags:
+- camshafts
+- sanctioning-bodies
+- airport-strips
+- grassroots-sources
+related:
+- places/memphis.md
+- drag-racing/semo-malden-drag-strip.md
+- companies/comp-cams-rhs.md
+- companies/summit-racing.md
+canonical_for:
+- joe-lunati-birth
+---
 # Joe Lunati: Eighth-Grade Math
 
 *From the Memphis Rodders to Lunati Cams*

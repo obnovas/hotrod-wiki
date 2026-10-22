@@ -1,3 +1,38 @@
+---
+title: 'March 1957: America Argues About Drag Strips'
+summary: In March 1957 newspapers across the country argued about drag strips. Here are the cases for and against, and a Denver puzzle we have not solved.
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1954
+- 1959
+region: Northwest
+states:
+- Oregon
+cities:
+- Medford, Oregon
+people: []
+companies: []
+places: []
+clubs:
+- Strippers (Denver Hot Rod Club)
+strips: []
+tags:
+- town-politics
+- police-and-safety
+- drag-strips
+- car-clubs
+- sanctioning-bodies
+- street-racing
+- grassroots-sources
+related:
+- drag-racing/half-day-ataa-maremont.md
+- drag-racing/kansas-city-timing-association.md
+- drag-racing/indiana-small-town-clubs.md
+- drag-racing/ames-drag-strip-nightcrawlers.md
+canonical_for: []
+---
 # March 1957: America Argues About Drag Strips
 
 !!! abstract "Article record"

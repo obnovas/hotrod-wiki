@@ -1,3 +1,35 @@
+---
+title: The Plating Shop with the Rolling Billboards
+summary: Leonard DeBell's Southern California Plating Co. advertised itself with customized delivery trucks wearing DuVall-designed grilles, bumpers and V-windshields.
+department: companies
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+years:
+- 1930
+- 1963
+region: West
+states:
+- California
+cities:
+- Los Angeles, California
+people:
+- Leonard K. DeBell
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- car-clubs
+related:
+- people/george-duvall.md
+- people/julian-doty.md
+- people/jimmy-summers.md
+- voices/ruelas-dukes.md
+canonical_for: []
+---
 # The Plating Shop with the Rolling Billboards
 
 *Southern California Plating Co. and Leonard K. DeBell*

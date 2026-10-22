@@ -1,3 +1,39 @@
+---
+title: Lake Street and University Avenue
+summary: The Twin Cities cruised Lake Street in Minneapolis and University Avenue in St. Paul, from the 1950s into the early 1970s.
+department: places
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1956
+- 1993
+region: Midwest
+states:
+- Minnesota
+- Illinois
+cities:
+- Minneapolis, Minnesota
+- Chicago, Illinois
+people: []
+companies: []
+places: []
+clubs:
+- Gopher State Timing Association (GSTA)
+strips: []
+tags:
+- cruising
+- grassroots-sources
+related:
+- places/upper-midwest.md
+- drag-racing/houston-freeway-dragstrip.md
+- drag-racing/modesto-century-toppers.md
+- places/central-avenue-albuquerque.md
+canonical_for: []
+---
 # Lake Street and University Avenue
 
 *Cruising "the loop" in the Twin Cities, 1950s–1970s*

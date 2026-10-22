@@ -1,3 +1,42 @@
+---
+title: 'A Strip in a Ravine: the Fox Valley''s Drag Strip Hunt and the KK Sports Arena (Appleton–Kaukauna, Wis., 1960–68)'
+summary: Wisconsin's Fox River valley asked for a drag strip for four years. The answer was KK Sports Arena, in a farmer's ravine south of Kaukauna (1960–68).
+department: drag-racing
+eras:
+- 1960s
+years:
+- 1960
+- 1968
+region: Midwest
+states:
+- Wisconsin
+cities:
+- Kaukauna, Wisconsin
+people:
+- Norman Beyer
+- Thomas J. Broas
+- Clarence DeLeeuw
+- Clyde Schumacher
+- D. R. Seeger
+companies: []
+places: []
+clubs:
+- Road Deacons Rod and Custom Club
+strips: []
+tags:
+- drag-strips
+- car-clubs
+- airport-strips
+- police-and-safety
+- town-politics
+- grassroots-sources
+related:
+- drag-racing/fox-valley-road-deacons-gas-ketts.md
+- drag-racing/kansas-city-timing-association.md
+- drag-racing/semo-malden-drag-strip.md
+- drag-racing/ames-drag-strip-nightcrawlers.md
+canonical_for: []
+---
 # A Strip in a Ravine: the Fox Valley's Drag Strip Hunt and the KK Sports Arena (Appleton–Kaukauna, Wis., 1960–68)
 
 !!! abstract "Article record"

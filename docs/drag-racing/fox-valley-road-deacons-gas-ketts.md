@@ -1,3 +1,44 @@
+---
+title: 'Flares, Tow Chains and a Broken Gasket: the Road Deacons, the Gas-Ketts and the Fox Valley Rod and Custom Association (Appleton, Wis., 1962–68)'
+summary: Appleton, Wisconsin's car clubs, one of them all girls, ran a car show in a shopping mall, helped stranded motorists and wrote to the paper asking for a drag strip (1962–68).
+department: drag-racing
+eras:
+- 1960s
+years:
+- 1962
+- 1968
+region: Midwest
+states:
+- Wisconsin
+cities:
+- Appleton, Wisconsin
+people:
+- Marilyn Bruce
+- Karen Enwall
+- Lori Schelfhout
+- Delores Schumacher
+companies: []
+places: []
+clubs:
+- Fox Valley Rod and Custom Association
+- Gas-Ketts
+- Road Deacons Rod and Custom Club
+strips: []
+tags:
+- car-clubs
+- women
+- customs
+- car-shows
+- drag-strips
+- police-and-safety
+- grassroots-sources
+related:
+- drag-racing/kk-sports-arena-kaukauna.md
+- drag-racing/sedalia-drag-ons.md
+- drag-racing/stroudsburg-ridge-runners.md
+- drag-racing/kansas-city-timing-association.md
+canonical_for: []
+---
 # Flares, Tow Chains and a Broken Gasket: the Road Deacons, the Gas-Ketts and the Fox Valley Rod and Custom Association (Appleton, Wis., 1962–68)
 
 !!! abstract "Article record"

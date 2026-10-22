@@ -1,3 +1,42 @@
+---
+title: '"Fast Eddie" Schartman: Taking Out the Finish-Line Lights'
+summary: '"Fast Eddie" Schartman took out the finish-line lights on his first pass in a Logghe flip-top Comet in December 1965. This is his story in his own words.'
+department: people
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1964
+- 2016
+region: Midwest
+states:
+- Ohio
+cities: []
+people:
+- '"Fast Eddie" Schartman'
+- Ron & Gene / Logghe Stamping Logghe
+- '"Dyno Don" Nicholson'
+- Eddie Schartman
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- sanctioning-bodies
+- gassers
+- funny-cars
+related:
+- voices/show-custom-voices.md
+- companies/logghe-stamping.md
+- companies/mr-gasket.md
+- places/ohio-gassers.md
+- drag-racing/houston-freeway-dragstrip.md
+canonical_for: []
+---
 # "Fast Eddie" Schartman: Taking Out the Finish-Line Lights
 
 *Cleveland gasser to the first Funny Car title*

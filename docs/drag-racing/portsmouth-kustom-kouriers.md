@@ -1,3 +1,36 @@
+---
+title: 'Portsmouth, Ohio, 1956: The Phones Went Dead and the Hot Rod Club Carried the Messages'
+summary: When the telephones went dead in Portsmouth, Ohio, in 1956, the Kustom Kouriers hot rod club carried messages for the city.
+department: drag-racing
+eras:
+- 1930s
+- 1940s
+- 1950s
+years:
+- 1930
+- 1957
+region: Midwest
+states:
+- Ohio
+cities:
+- Portsmouth, Ohio
+people:
+- Evan Hill
+companies: []
+places: []
+clubs:
+- Kustom Kouriers Kar Club
+strips: []
+tags:
+- car-clubs
+- police-and-safety
+related:
+- drag-racing/belleville-gear-jammers.md
+- drag-racing/escanaba-dragns.md
+- drag-racing/kansas-city-timing-association.md
+- places/ohio-gassers.md
+canonical_for: []
+---
 # Portsmouth, Ohio, 1956: The Phones Went Dead and the Hot Rod Club Carried the Messages
 
 !!! abstract "Article record"

@@ -1,0 +1,1 @@
+**The ATAA's end.** Bob Bartel's tribute says the NHRA "absorbed" the Automobile Timing Association of America in 1957. We have not confirmed it independently. Full story: [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md#what-changed-by-1957).

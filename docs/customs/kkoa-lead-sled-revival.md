@@ -1,3 +1,40 @@
+---
+title: Lead Sleds Come Back, by Way of Wichita
+summary: The Kustom Kemps of America started with 14 charter members in Wichita in 1980 and brought the lead sled back with its first Lead Sled Spectacular in 1981.
+department: customs
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1949
+- 2012
+region: National
+states: []
+cities: []
+people:
+- Jerry Titus
+companies: []
+places: []
+clubs:
+- Kustom Kemps of America (KKOA)
+strips: []
+tags:
+- customs
+- street-rods
+- grassroots-sources
+related:
+- voices/show-custom-voices.md
+- street-rodding/nsra-early-nationals.md
+- customs/hirohata-mercury.md
+- cars/techniques-and-styles.md
+canonical_for: []
+---
 # Lead Sleds Come Back, by Way of Wichita
 
 *KKOA and the revival, 1979–83*

@@ -1,3 +1,44 @@
+---
+title: 'Moon Equipment: The Café, the Fuel Block and the Eyes'
+summary: From Moon's Café in Santa Fe Springs to the fuel block and the Mooneyes logo, this is the story of Dean Moon and its rebirth as Mooneyes USA.
+department: companies
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1941
+- 1990
+region: West
+states:
+- California
+- Minnesota
+cities:
+- New Richland, Minnesota
+people:
+- Dean / Moon Equipment Moon
+- Ed "Isky" Iskenderian
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- dry-lakes
+- speed-equipment
+- aftermarket-business
+- dragsters
+- land-speed
+related:
+- companies/prewar-speed-shops.md
+- eras/1950s-santa-ana-drags.md
+- people/ed-iskenderian.md
+- companies/mickey-thompson.md
+- places/whittier-blvd.md
+canonical_for: []
+---
 # Moon Equipment: The Café, the Fuel Block and the Eyes
 
 *Santa Fe Springs, a roofless garage behind Pop's café, and the dealer who reopened it*
@@ -48,6 +89,8 @@ Enter a customer. Shige Suganuma came to California as a young man to buy Moon d
 - [Whittier Boulevard](../places/whittier-blvd.md): Whittier is the town of Moon's high school and of fellow racer Ak Miller. No source ties Moon to the boulevard's cruising, so the link is geographic only.
 - [Mickey Thompson](mickey-thompson.md): the 1963 Brighton story, as told from the other side.
 - [Hooker Headers](hooker-headers.md) and [Crane Cams](crane-cams.md): neighbors at the first SEMA show.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

@@ -1,3 +1,41 @@
+---
+title: 'Chet Herbert: Roller Cams from a Sears Lathe'
+summary: Polio left Chet Herbert paralyzed from the chest down in 1948. He designed roller cams on a Sears lathe and raced through hired drivers.
+department: people
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1928
+- 2009
+region: West
+states:
+- California
+cities:
+- Santa Ana, California
+people:
+- Chet Herbert
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- land-speed
+- airport-strips
+related:
+- cars/beast-iii.md
+- companies/comp-cams-rhs.md
+- companies/edelbrock-slingshot.md
+- companies/hurst-campbell.md
+canonical_for: []
+---
 # Chet Herbert: Roller Cams from a Sears Lathe
 
 *1928–2009*

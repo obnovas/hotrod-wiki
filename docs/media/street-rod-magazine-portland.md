@@ -1,3 +1,40 @@
+---
+title: Street Rod Before Street Rodder
+summary: Before Street Rodder there was Street Rod, a 64-page monthly made in Portland, Oregon, apartments. It ran 20 issues, from October 1971 to July 1973.
+department: media
+eras:
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1970
+- 2014
+region: Northwest
+states:
+- Oregon
+cities:
+- Portland, Oregon
+people:
+- Bruce Craig
+- Bruce Miller
+- John Slaughter
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- street-rods
+- magazines-and-media
+related:
+- voices/street-rodder-founding.md
+- street-rodding/nsra-early-nationals.md
+- places/pacific-northwest.md
+- eras/1970s-street-rod-nationals.md
+- eras/1960s-drag-rags.md
+canonical_for: []
+---
 # Street Rod Before *Street Rodder*
 
 *The Portland magazine (1971–73) and Bruce Miller*
@@ -22,7 +59,7 @@ The 99W history calls Miller "a real 'schmoozer'" who connected with **Tex Smith
 
 ## Bruce Miller and the NSRA
 
-99W: "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+99W: "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Full story: [Dick Wells (1934–2010)](../people/dick-wells.md#the-street-rod-years-and-the-president-question).
 
 In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 

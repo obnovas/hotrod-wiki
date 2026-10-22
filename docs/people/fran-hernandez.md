@@ -1,3 +1,42 @@
+---
+title: 'Fran Hernandez: From Goleta Nitro to Lincoln-Mercury Racing'
+summary: Fran Hernandez won a 1949 grudge race at Goleta on nitro and went on to Edelbrock, Stroppe, Autolite and Lincoln-Mercury racing.
+department: people
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1948
+- 2011
+region: Midwest
+states:
+- Michigan
+cities:
+- Tecumseh, Michigan
+people:
+- Fran Hernandez
+- Stu Hilborn
+- Fast Eddie" Schartman
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- funny-cars
+related:
+- companies/logghe-stamping.md
+- people/stu-hilborn.md
+- voices/injection-and-tin.md
+- companies/edelbrock-slingshot.md
+- people/eddie-schartman.md
+canonical_for: []
+---
 # Fran Hernandez: From Goleta Nitro to Lincoln-Mercury Racing
 
 *Francisco "Fran" Hernandez, Feb 8, 1922 – Jan 5, 2011*

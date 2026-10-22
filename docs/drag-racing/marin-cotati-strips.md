@@ -1,3 +1,49 @@
+---
+title: '"Hey! Anybody Got a Drag Strip?" Marin County and the Cotati Strip (1955–64)'
+summary: Marin County's hot rodders had six clubs and a lawyer, but nowhere to run. A strip at an old Navy field at Cotati lasted ten weeks in 1956, and Marin kept asking until 1964.
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+years:
+- 1955
+- 1964
+region: West
+states:
+- California
+cities: []
+people:
+- Ray Alpeter
+- Mario Aquilino
+- Leland E. "Lee" Baum
+- Peter Behr
+- Dick Berndt
+- Melvin Flohr
+- John France
+- Eddie Mullen
+- Bob Sletten
+companies: []
+places: []
+clubs:
+- Marin County Timing Assn.
+- Redwood Empire Timing Association (RETA)
+strips:
+- Cotati Drag Strip (Santa Rosa Drag Strip)
+tags:
+- car-clubs
+- drag-strips
+- town-politics
+- airport-strips
+- police-and-safety
+- teenagers-and-schools
+- grassroots-sources
+related:
+- drag-racing/kansas-city-timing-association.md
+- drag-racing/sedalia-big-sir.md
+- drag-racing/kingston-igniters.md
+- drag-racing/pocono-strips.md
+canonical_for: []
+---
 # "Hey! Anybody Got a Drag Strip?" Marin County and the Cotati Strip (1955–64)
 
 !!! abstract "Article record"

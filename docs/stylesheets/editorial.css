@@ -15,3 +15,16 @@ h2#open-questions-disputed-details ~ ul:has(.hr-q-anchor){
 p:has(> .hr-q-anchor):target,p:has(> .hr-q-anchor:target){outline:3px solid var(--hr-mustard, #f2c14e);outline-offset:2px}
 .hr-q-back{text-decoration:none;margin-left:.3em;font-size:.9em}
 h2#open-questions-disputed-details ~ h3{font-size:1rem;margin-top:1.2rem}
+
+/* Summary standfirst at the top of every article (also the meta description and the search teaser) */
+.hr-summary{font-size:1.08em;line-height:1.5;font-style:italic;border-left:4px solid var(--hr-candy, #b3261e);
+  padding:.2rem 0 .2rem .9rem;margin:0 0 1.2rem;color:var(--md-default-fg-color--light, #444)}
+
+/* First-mention links added at build time */
+a.hr-autolink{text-decoration-style:dotted}
+
+/* "Mentioned in" backlinks */
+.hr-backlinks{list-style:none;margin:0;padding:0;columns:2 16rem;column-gap:2rem}
+.hr-backlinks li{break-inside:avoid;margin:0 0 .45rem;padding-left:.9rem;position:relative}
+.hr-backlinks li::before{content:"↳";position:absolute;left:0;color:var(--hr-candy, #b3261e)}
+.hr-backlinks__dept{font-size:.78em;text-transform:uppercase;letter-spacing:.04em;opacity:.7;margin-left:.3rem}

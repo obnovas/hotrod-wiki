@@ -1,3 +1,52 @@
+---
+title: 'Bob Bartel: The Sears Man Who Built Cordova'
+summary: When his clubs could not afford a drag strip, Bob Bartel cashed his Sears stock and, with local businessmen, bought farmland near the Mississippi to build Cordova.
+department: people
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1945
+- 2016
+region: Midwest
+states:
+- Illinois
+- Mississippi
+cities:
+- Moline, Illinois
+- Cordova, Illinois
+- Davenport, Iowa
+people:
+- Bob Bartel
+- Jim Lamona
+- Setto Postoian
+companies: []
+places: []
+clubs:
+- Automobile Timing Association of America (ATAA)
+strips: []
+tags:
+- sanctioning-bodies
+- drag-strips
+- car-clubs
+- airport-strips
+- town-politics
+- gassers
+- grassroots-sources
+related:
+- drag-racing/detroit-cordova.md
+- places/ohio-gassers.md
+- voices/strip-owners-and-door-slammers.md
+- people/setto-postoian.md
+- drag-racing/akron-fulton-airport.md
+canonical_for: []
+---
 # Bob Bartel: The Sears Man Who Built Cordova
 
 *1921–2018: the World Series of Drag Racing and the Midwest's own national meet*

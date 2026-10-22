@@ -1,0 +1,1 @@
+**Hurst and Almquist.** Ed Almquist's local paper says a 1959 partnership with George Hurst and Bill Campbell on floor shifters dissolved, and calls him a co-designer of the Hurst shifter; Almquist filed his own gear-shift patent a month before theirs. Full story: [Ed Almquist](../people/ed-almquist.md#shifters-shifts-in-the-market).

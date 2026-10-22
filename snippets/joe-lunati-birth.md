@@ -1,0 +1,1 @@
+**Joe Lunati's birth.** His family and his company say Joe Lunati was born in Memphis in 1935; NHRA's 2023 In Memoriam says New Orleans, 1939. We follow the family. Full story: [Joe Lunati](../people/joe-lunati.md#a-memphis-kid).

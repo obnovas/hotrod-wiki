@@ -1,3 +1,50 @@
+---
+title: 'Beyond California: Midwest & East Threads'
+summary: 'Threads from the Midwest and East: JEGS in Columbus, Bucks County strips and other scenes far from California.'
+department: places
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1960
+- 2018
+region: National
+states:
+- California
+- Kentucky
+- Michigan
+- Ohio
+cities:
+- Columbus, Ohio
+people:
+- Jeg Sr. JEGS / Coughlin
+- Ed Almquist
+- Setto Postoian
+- Al Bergler
+- Malcolm Durham
+- Bob Bartel
+- Akron" Arlen Vanke
+- Fast Eddie" Schartman
+companies: []
+places: []
+clubs:
+- Slo-Pokes
+strips: []
+tags:
+- car-clubs
+- car-shows
+related:
+- voices/leonard-miller.md
+- people/ed-almquist.md
+- people/setto-postoian.md
+- companies/mr-gasket.md
+- companies/jegs.md
+canonical_for: []
+---
 # Beyond California: Midwest & East Threads
 
 *A working index of everybody who wasn't in California*

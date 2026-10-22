@@ -1,3 +1,44 @@
+---
+title: 'The Professor''s Drag Strip: Ames, Iowa, and the Nightcrawlers (1957–1959)'
+summary: An Iowa State College math professor stood up for the Nightcrawlers hot rod club and served as steward of the Ames Drag Strip, which ran from 1957 to 1959.
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1957
+- 1959
+region: Midwest
+states:
+- Iowa
+cities:
+- Ames, Iowa
+people:
+- J. D. Armstrong
+- Robert Lambert
+- Bud Overland
+- Margaret White
+- Bob Bartel
+companies: []
+places: []
+clubs:
+- Nightcrawlers
+strips:
+- Ames Drag Strip
+tags:
+- drag-strips
+- car-clubs
+- police-and-safety
+- sanctioning-bodies
+- town-politics
+- airport-strips
+- grassroots-sources
+related:
+- drag-racing/half-day-ataa-maremont.md
+- people/bob-bartel.md
+- drag-racing/detroit-cordova.md
+- drag-racing/akron-fulton-airport.md
+canonical_for: []
+---
 # The Professor's Drag Strip: Ames, Iowa, and the Nightcrawlers (1957–1959)
 
 !!! abstract "Article record"

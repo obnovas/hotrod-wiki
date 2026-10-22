@@ -1,3 +1,36 @@
+---
+title: 'The Cop and the Auto Shop: Escanaba''s Drag-n''s, 1954–55'
+summary: Kemp Sabourin and Bill Miller started Escanaba's Drag-n's hot rod club above an auto shop in Michigan, with rules that stressed safe driving (1954–55).
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1954
+- 1955
+region: Midwest
+states:
+- Michigan
+cities: []
+people:
+- Kemp Sabourin
+companies: []
+places: []
+clubs:
+- Drag-n's Auto Club
+strips: []
+tags:
+- car-clubs
+- police-and-safety
+- drag-strips
+- teenagers-and-schools
+- grassroots-sources
+related:
+- drag-racing/planners-report-1955.md
+- drag-racing/half-day-ataa-maremont.md
+- drag-racing/indiana-small-town-clubs.md
+- drag-racing/kansas-city-timing-association.md
+canonical_for: []
+---
 # The Cop and the Auto Shop: Escanaba's Drag-n's, 1954–55
 
 !!! abstract "Article record"
@@ -57,7 +90,7 @@ A second pass through the January–June issues turned up four more mentions. No
 - **The conference that came first.** On **January 14, 1955**, nine days after the club's organization notice, the paper reported on the second annual regional Teen Age Safety Conference at Escanaba Senior High School, with "more than 100" students from area high schools. Among the resolutions the delegates adopted: "that an attempt be made to channel the abilities and interests of boys, who are mechanically inclined, into hot-rod clubs or other constructive programs," and that "the community be informed as to the real purpose of hot-rod clubs and other driver education programs."[^jan14] The Drag-n's rulebook, with its plates and 30-day suspensions, reads like an answer to that second resolution. The paper does not connect the two, and neither do we.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 - **Meeting notices.** On April 13 the paper announced a "special meeting" for Thursday evening at the club room on Washington Avenue, and its April 18 sports column listed the Drag-n's among the evening's meetings.[^apr13][^apr18] April 18, 1955 was a Monday, which fits the Monday-night schedule the January item gave.
 - **June 20, 1955.** A "Briefly Told" item said "a special meeting of the Drag-n's Auto Club will be held at 7:30 tonight" at 1418 Washington Avenue, adding that "the public is invited to attend and all members are requested to be present."[^jun20] It is the last club item we can read, and it shows the club still meeting a month after the May 22 road race. It does not say why the meeting was special.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
-- **Street racing in town.** On June 10, 1955 the police-ticket column listed a Green Bay motorist for "speeding and 'drag racing' on Ludington St." The item says nothing about the Drag-n's, and nothing in the paper ties them to it.[^jun10] We mention it because it is the only traffic ticket for "drag racing" that turned up in our search of these issues, and it fell in the same weeks the club was preaching safe driving.
+- **Street racing in town.** On June 10, 1955 the police-ticket column listed a Green Bay motorist for "speeding and 'drag racing' on Ludington St." The item says nothing about the Drag-n's, and nothing in the paper ties them to it.[^jun10] We mention it because it is the only traffic ticket for "drag racing" that turned up in our search of these issues, and it fell in the same weeks the club was preaching safe driving. Full story: [Belleville's Gear Jammers and the St. Louis Strip Hunt (1952–1959)](belleville-gear-jammers.md#the-club-with-the-half-fine-rule).
 
 <figure markdown>
 ![Brick storefronts along the 1200 block of Ludington Street in downtown Escanaba, Michigan](../assets/images/commons-escanaba-ludington-1200-block.jpg){ loading=lazy }

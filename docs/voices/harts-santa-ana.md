@@ -1,3 +1,42 @@
+---
+title: 'The Harts of Santa Ana: Pappy, Peggy and Gerald'
+summary: C.J. "Pappy" Hart and Peggy Hart ran the Santa Ana drags from 1950 to 1959. Here are their own words and those of people who knew them.
+department: voices
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1950
+- 2015
+region: West
+states:
+- California
+cities:
+- Santa Ana, California
+people:
+- Dale Armstrong
+- Steve Gibbs
+- Gerald Hart
+- Peggy Hart
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+- airport-strips
+related:
+- eras/1950s-santa-ana-drags.md
+- people/peggy-hart.md
+- voices/strip-owners-and-door-slammers.md
+- companies/comp-cams-rhs.md
+canonical_for: []
+---
 # The Harts of Santa Ana: Pappy, Peggy and Gerald
 
 !!! abstract "Article record"
@@ -36,6 +75,8 @@ In April 2004, at a museum panel, a moderator asked why he wasn't driving a Roll
 > "He knew I would race anything to make few bucks. 'Pappy' - that's what everyone called him - always took good care of me. I was treated better at his track than any other."
 >
 > — **Dale Armstrong**, who raced at Lions under Hart from 1964 to 1979, to the Press-Enterprise, 2004.[^wd]
+
+*See also:* [The "Mexican Express" at Lions](esparza-brothers.md).
 
 ## Open questions & disputed details
 

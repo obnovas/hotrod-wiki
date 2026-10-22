@@ -1,3 +1,43 @@
+---
+title: 'Summit Racing: A Corvette, a Donut-Shop Basement and Two Little Ads'
+summary: Summit Racing's first store was the basement of a donut shop in Stow, Ohio, in 1968. The story runs through two little ads and a Corvette that stayed.
+department: companies
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1967
+- 2015
+region: Midwest
+states:
+- Ohio
+cities:
+- Norwalk, Ohio
+- Stow, Ohio
+people:
+- Paul / Summit Racing Equipment Sergi
+- Akron" Arlen Vanke
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- aftermarket-business
+- camshafts
+- speed-equipment
+- airport-strips
+related:
+- companies/mickey-thompson.md
+- companies/comp-cams-rhs.md
+- drag-racing/akron-fulton-airport.md
+- people/arlen-vanke.md
+- places/ohio-gassers.md
+canonical_for: []
+---
 # Summit Racing: A Corvette, a Donut-Shop Basement and Two Little Ads
 
 *How a Northeast Ohio drag-racing buddy discount became the World's Speed Shop*
@@ -50,6 +90,8 @@ Summit also bought the naming rights to Norwalk Raceway Park in 2007, becoming S
 - [Mickey Thompson](mickey-thompson.md): the ET wheels of Summit's first mail-order ads.
 - [COMP Cams and Racing Head Service](comp-cams-rhs.md): the cam brand in the restored Corvette.
 - [Holley](holley.md): since 2015 the owner of the Mr. Gasket brand.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

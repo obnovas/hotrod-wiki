@@ -1,3 +1,47 @@
+---
+title: 'Holley: A Bicycle Motor from Bradford and the Carburetor That Followed Everybody'
+summary: Holley began with George Holley's motor bicycle at the 1901 Pan-American Exposition in Buffalo. The Bradford, Pa., brothers' company went on to carburetors, Detroit and the aftermarket.
+department: companies
+eras:
+- 1900s
+- 1910s
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1901
+- 2008
+region: National
+states:
+- Pennsylvania
+- Kentucky
+- Ohio
+cities:
+- Bradford, Pennsylvania
+people:
+- Stu Hilborn
+companies:
+- Holley (Holley Brothers)
+places: []
+clubs: []
+strips: []
+tags:
+- speed-equipment
+- family-business
+- aftermarket-business
+related:
+- companies/hooker-headers.md
+- companies/mr-gasket.md
+- people/stu-hilborn.md
+- companies/lakewood-industries.md
+canonical_for: []
+---
 # Holley: A Bicycle Motor from Bradford and the Carburetor That Followed Everybody
 
 *An oil-boom hotel, a Pan-American track and a state historical marker*
@@ -45,6 +89,8 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 - [Hooker Headers](hooker-headers.md): Gary Hooker's header shop, a Holley brand since 2000 (or earlier, per the marker); the sale date is a<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> conflict.
 - [Lakewood Industries](lakewood-industries.md): the Ohio bellhousing maker, now a Holley brand.
 - [Stu Hilborn](../people/stu-hilborn.md): the fuel-injection pioneer's company is reported to have been acquired by Holley (2019,<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> per that page's Wikipedia summary).
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

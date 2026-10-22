@@ -1,0 +1,1 @@
+**Racing Head Service.** In 1967 three Memphis drag racers put a head-resurfacing machine and a dip tank in the basement of Ivars Smiltnieks's house and called it Racing Head Service; it grew into COMP Cams. Full story: [COMP Cams and Racing Head Service](../companies/comp-cams-rhs.md).

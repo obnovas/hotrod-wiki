@@ -1,3 +1,40 @@
+---
+title: 'JEGS: A Columbus Racer Who Got Tired of Waiting for the Mail'
+summary: Jeg Coughlin Sr. got tired of waiting for parts to come by mail from far away, so in 1960 he opened JEGS on East Eleventh Avenue in Columbus, Ohio, half garage and half parts store.
+department: companies
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1960
+- 2010
+region: Midwest
+states:
+- Ohio
+- Delaware
+cities:
+- Columbus, Ohio
+people:
+- Jeg Sr. JEGS / Coughlin
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- aftermarket-business
+- gassers
+related:
+- places/midwest-east.md
+- places/ohio-gassers.md
+- companies/moroso.md
+- companies/mickey-thompson.md
+- companies/holley.md
+canonical_for: []
+---
 # JEGS: A Columbus Racer Who Got Tired of Waiting for the Mail
 
 *Jeg Coughlin Sr., a West Coast parts habit, a shop on 11th Avenue, and a county resolution that put the story on the record*
@@ -49,6 +86,8 @@ The story behind the founder's retail instincts comes from Stagg: "Jeg Sr.'s dad
 - [The Ohio Gassers](../places/ohio-gassers.md): Coughlin's Austin A/GS and the Columbus teams around him.
 - [Moroso](moroso.md) and [Mickey Thompson](mickey-thompson.md): two of the brands JEGS built its catalog on, both founder-racer companies too.
 - [Holley](holley.md): the other road a speed-parts name can take, ending up as the parent of other garage-born brands; JEGS's own history says its founder sold to his sons.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

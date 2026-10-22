@@ -1,3 +1,48 @@
+---
+title: Akron's "Champions Raceway"
+summary: Akron's Fulton Airport gave northeast Ohio one of the Midwest's earliest organized drag strips. A 2016 Ohio historical marker honors it and its racers.
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1951
+- 2016
+region: Midwest
+states:
+- Ohio
+cities:
+- Lawrenceville, Illinois
+people:
+- Walt & Art Arfons
+- Randy Lipscomb
+- Otis "Otie" Smith
+- Akron" Arlen Vanke
+- Bob Bartel
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- airport-strips
+- sanctioning-bodies
+- drag-strips
+- family-business
+- gassers
+- grassroots-sources
+related:
+- people/arlen-vanke.md
+- people/bob-bartel.md
+- places/ohio-gassers.md
+- voices/strip-owners-and-door-slammers.md
+- drag-racing/half-day-ataa-maremont.md
+canonical_for: []
+---
 # Akron's "Champions Raceway"
 
 *Fulton Airport, Otie Smith and Ohio's first racing marker*

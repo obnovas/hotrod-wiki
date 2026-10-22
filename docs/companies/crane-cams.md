@@ -1,3 +1,48 @@
+---
+title: 'Crane Cams: The Machinist''s Son Who Ground His Own'
+summary: Harvey Crane decided a store-bought camshaft "wasn't accurately made," ground his own, and built Crane Cams in Florida, from Hallandale to Daytona.
+department: companies
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1939
+- 1991
+region: National
+states:
+- Ohio
+- California
+- Florida
+cities: []
+people:
+- Harvey Jr. / Crane Cams Crane
+- Dick Wells
+- Ed "Isky" Iskenderian
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- camshafts
+- aftermarket-business
+- patents-and-inventions
+- gassers
+- teenagers-and-schools
+- family-business
+- grassroots-sources
+related:
+- places/ohio-gassers.md
+- people/dick-wells.md
+- people/ed-iskenderian.md
+- companies/comp-cams-rhs.md
+- eras/1950s-camgrinder-wars.md
+canonical_for: []
+---
 # Crane Cams: The Machinist's Son Who Ground His Own
 
 *Hallandale, a bad cam from California and a refund for the little guys*
@@ -49,6 +94,8 @@ He started a **cam school** at his Port Orange home, and more than 100 students 
 - [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md): the California cam trade that, in the *Sentinel*'s story, sold Crane the inaccurate cam (the maker is unnamed).
 - [Dick Wells](../people/dick-wells.md): the first SEMA show at Dodger Stadium, where Crane exhibited.
 - [Moroso](moroso.md): South Florida's other big performance name, whose Palm Beach raceway appears in Hill's Hassel photo.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

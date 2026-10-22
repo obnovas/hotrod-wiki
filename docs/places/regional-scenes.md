@@ -1,3 +1,38 @@
+---
+title: 'Regional Scenes: Beyond California'
+summary: Hot rodding was not only a SoCal export. Other regions built their own scenes on abandoned airfields, through volunteer councils and at fairground shows.
+department: places
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1947
+- 1987
+region: National
+states:
+- California
+- Ohio
+- Texas
+cities: []
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- drag-strips
+- airport-strips
+related:
+- drag-racing/houston-freeway-dragstrip.md
+- places/midwest-east.md
+- drag-racing/detroit-cordova.md
+- places/ohio-gassers.md
+- drag-racing/akron-fulton-airport.md
+canonical_for: []
+---
 # Regional Scenes: Beyond California
 
 *Other places, other ways of doing it.*

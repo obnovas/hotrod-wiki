@@ -1,3 +1,44 @@
+---
+title: 'Kong Jackson: "No organization. No nuthin''."'
+summary: Charles "Kong" Jackson raced the lakes before the SCTA existed, recalled Army Jeeps breaking up a Muroc meet in 1941 and gave his name to an ignition. When he died is disputed.
+department: people
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1938
+- 2002
+region: West
+states:
+- California
+cities: []
+people:
+- Kong Jackson
+- Charles "Kong" Jackson
+- Alex Xydias
+- Julian Doty
+companies: []
+places: []
+clubs:
+- Sidewinders
+strips: []
+tags:
+- dry-lakes
+- speed-equipment
+related:
+- voices/kong-jackson.md
+- people/alex-xydias.md
+- people/julian-doty.md
+- eras/1930s-dry-lakes-scta.md
+canonical_for:
+- muroc-1941-jeeps
+---
 # Kong Jackson: "No organization. No nuthin'."
 
 *Charles "Kong" Jackson, Sidewinders president and ignition maker*

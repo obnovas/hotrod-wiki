@@ -1,3 +1,42 @@
+---
+title: 'Mr. Gasket: From the Trunk of a ''57 Chevy to Wall Street'
+summary: Joe Hrudka made better exhaust gaskets with his father-in-law in Cleveland and sold them from the trunk of his '57 Chevy tow car. Mr. Gasket went from that trunk to Wall Street.
+department: companies
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1938
+- 2017
+region: Midwest
+states:
+- Ohio
+cities: []
+people:
+- Joe & Tom Hrudka
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- gassers
+- sanctioning-bodies
+- aftermarket-business
+- family-business
+related:
+- cars/hill-bros-red-baron.md
+- places/ohio-gassers.md
+- drag-racing/akron-fulton-airport.md
+- companies/crane-cams.md
+canonical_for: []
+---
 # Mr. Gasket: From the Trunk of a '57 Chevy to Wall Street
 
 *The Hrudka brothers and the Ohio Gassers*

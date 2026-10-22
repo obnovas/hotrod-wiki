@@ -1,3 +1,35 @@
+---
+title: Central Avenue, Albuquerque
+summary: Albuquerque's cruising ban on Central Avenue and its 2018 repeal, framed as letting Route 66 enthusiasts cruise legally.
+department: places
+eras:
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1990
+- 2018
+region: Southwest
+states:
+- New Mexico
+cities:
+- Albuquerque, New Mexico
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- town-politics
+- grassroots-sources
+related:
+- places/cruising-overview.md
+- places/dragging-main.md
+- places/modesto.md
+- places/woodward-ordinances.md
+canonical_for: []
+---
 # Central Avenue, Albuquerque
 
 *A later chapter on Route 66, 2005–2018*

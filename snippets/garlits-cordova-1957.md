@@ -1,0 +1,1 @@
+**Garlits at Cordova.** At Cordova in August 1957 an unknown Don Garlits learned from Emery Cook how to build a hand-operated fuel pump and beat Cook & Bedwell in the semis; Detroit's Setto Postoian beat him in the final of both the 1957 and 1958 ATAA World Series. Full story: [The Upset at Cordova](../drag-racing/detroit-cordova.md#1957-the-garlits-upset).

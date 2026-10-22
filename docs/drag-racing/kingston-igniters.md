@@ -1,3 +1,43 @@
+---
+title: 'The Kingston Igniters: Four Years Looking for a Drag Strip (1955–59)'
+summary: The Kingston Igniters spent four years looking for a legal place to run in New York's Hudson Valley. Along the way they handed out safety tags and helped Poughkeepsie start a club (1955–59).
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1955
+- 1959
+region: Northeast
+states:
+- New York
+cities:
+- Kingston, New York
+people:
+- Carl Cline (Kline)
+- Richard Cooney
+- William Locke
+- Gus (Augustus) Lovy
+- Howard C. St. John
+- Sen. Arthur H. Wicks
+companies: []
+places: []
+clubs:
+- Igniters (Kingston Igniters)
+strips: []
+tags:
+- car-clubs
+- drag-strips
+- police-and-safety
+- car-shows
+- grassroots-sources
+related:
+- drag-racing/sedalia-drag-ons.md
+- drag-racing/stroudsburg-ridge-runners.md
+- drag-racing/escanaba-dragns.md
+- drag-racing/belleville-gear-jammers.md
+- drag-racing/planners-report-1955.md
+canonical_for: []
+---
 # The Kingston Igniters: Four Years Looking for a Drag Strip (1955–59)
 
 !!! abstract "Article record"
@@ -51,7 +91,7 @@ Two months later the board met at Wells's home and changed the operation of the 
 
 The papers never say why the change happened. The timing suggests a club that had waited four years for a strip that never came and found something else to do with its cars. That is our reading, not the *Freeman*'s. Sedalia's Drag-Ons and Stroudsburg's Ridge Runners hunted for strips at the same time. See [The Sedalia Drag-Ons](sedalia-drag-ons.md) and [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md).
 
-**Related:** [Escanaba's Drag-n's](escanaba-dragns.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the 1955 [planners' survey](planners-report-1955.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+**Related:** [Escanaba's Drag-n's](escanaba-dragns.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the 1955 [planners' survey](planners-report-1955.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>; [Portsmouth, Ohio, 1956](portsmouth-kustom-kouriers.md); ["Opinions Differ on Hot Rods"](new-york-towns-panel-1957.md).
 
 ## Open questions & disputed details
 

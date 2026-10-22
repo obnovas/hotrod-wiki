@@ -1,3 +1,49 @@
+---
+title: 'Dragging Main: The Small-Town Loop, in the Kids'' Own Words (1950s–1980s)'
+summary: In towns with one main street, teenagers drove from one end to the other and back until midnight and called it dragging Main. Here it is in their own words (1950s–1980s).
+department: places
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1946
+- 2010
+region: National
+states:
+- Kansas
+- Nebraska
+- California
+- North Carolina
+cities:
+- Hays, Kansas
+- Scottsbluff, Nebraska
+people:
+- Kathy Lennox
+- Dawn Shields
+- Marguerite Williams
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- teenagers-and-schools
+- cruising
+- town-politics
+- grassroots-sources
+related:
+- places/twin-falls-main-avenue.md
+- places/woodward.md
+- places/van-nuys.md
+- places/cruising-overview.md
+- places/summer-avenue-memphis.md
+canonical_for: []
+---
 # Dragging Main: The Small-Town Loop, in the Kids' Own Words (1950s–1980s)
 
 !!! abstract "Article record"
@@ -64,7 +110,7 @@ Not everyone was charmed. The older generation thought it "a waste of gas and ti
 - **The same adult complaint.** Wasted gas, and a street you couldn't cross. Richmond in the 1950s and Hays in 1987 say nearly the same thing about the traffic, 30 years apart.
 - **A sense of inheritance.** "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier.
 
-**Related:** [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+**Related:** [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>; [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
 
 ## Open questions & disputed details
 

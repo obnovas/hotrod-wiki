@@ -1,3 +1,38 @@
+---
+title: 'Roy Hagy: The Man Who Wouldn''t Use Lead'
+summary: Roy Hagy was a customizer who wouldn't use lead. Almost everything known about him comes from one oral source.
+department: people
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1939
+- 2016
+region: National
+states: []
+cities: []
+people:
+- Roy Hagy
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- customs
+related:
+- cars/techniques-and-styles.md
+- customs/hirohata-mercury.md
+- customs/kkoa-lead-sled-revival.md
+- drag-racing/fox-valley-road-deacons-gas-ketts.md
+canonical_for: []
+---
 # Roy Hagy: The Man Who Wouldn't Use Lead
 
 *The other prewar top-chopper*

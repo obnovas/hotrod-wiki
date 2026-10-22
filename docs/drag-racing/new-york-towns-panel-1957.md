@@ -1,3 +1,35 @@
+---
+title: '"Opinions Differ on Hot Rods": A Sheriff, a Police Chief and a Safety Man in Buffalo (February 1957)'
+summary: In February 1957 a sheriff, a police chief and a safety man argued at a convention of the New York State Association of Towns over whether hot rodders were "becoming too hot to handle."
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1955
+- 1957
+region: Northeast
+states:
+- New York
+cities: []
+people:
+- Harold Calkins
+- William Keeler
+- Frank McCue
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- police-and-safety
+- car-clubs
+- drag-strips
+related:
+- drag-racing/kingston-igniters.md
+- drag-racing/planners-report-1955.md
+- drag-racing/recreation-1957-pro-and-con.md
+- drag-racing/hanover-adams-county-clubs.md
+canonical_for: []
+---
 # "Opinions Differ on Hot Rods": A Sheriff, a Police Chief and a Safety Man in Buffalo (February 1957)
 
 !!! abstract "Article record"

@@ -1,3 +1,37 @@
+---
+title: 'Kong Jackson: "No Organization. No Nuthin''."'
+summary: Kong Jackson on the lakes before the SCTA, Army Jeeps at Muroc and flatheads, from Tom Medley's 1988 interview as quoted by Fuel Curve.
+department: voices
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1937
+- 1988
+region: West
+states:
+- California
+cities: []
+people:
+- Kong Jackson
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+- dry-lakes
+related:
+- people/kong-jackson.md
+- companies/edelbrock-slingshot.md
+- companies/moon-equipment.md
+- drag-racing/modesto-century-toppers.md
+canonical_for: []
+---
 # Kong Jackson: "No Organization. No Nuthin'."
 
 *Three people between us and the man himself*
@@ -11,7 +45,7 @@ Tom Medley interviewed Charles "Kong" Jackson in **1988** for *Tex Smith's Hot R
 
 > "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."
 >
-> — **Kong Jackson** to Tom Medley (1988), quoted in Fuel Curve.[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> He dates the SCTA to 1938. Other sources say late 1937.
+> — **Kong Jackson** to Tom Medley (1988), quoted in Fuel Curve.[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> He dates the SCTA to 1938. Other sources say late 1937. Full story: [Muroc](../eras/1930s-dry-lakes-scta.md#may-or-march).
 
 ## Jeeps and bayonets
 
@@ -28,6 +62,8 @@ Tom Medley interviewed Charles "Kong" Jackson in **1988** for *Tex Smith's Hot R
 ## A friend remembers
 
 Alex Xydias told Fuel Curve that Kong "was a really, really smart guy, who was president of the Sidewinders car club and timer at the lakes." He said So-Cal sold Jackson's ignitions: "Think we charged 49 bucks."[^fc]
+
+*See also:* [Blackie Gold](blackie-gold.md).
 
 ## Open questions & disputed details
 

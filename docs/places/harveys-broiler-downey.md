@@ -1,3 +1,40 @@
+---
+title: 'Harvey''s Broiler: Teenage Paris on a Former Chicken Farm'
+summary: Harvey and Minnie Ortner opened Harvey's Broiler in Downey in 1958, a Googie drive-in with a 65-foot sign that Tom Wolfe called "Teenage Paris."
+department: places
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1958
+- 2023
+region: West
+states:
+- California
+cities: []
+people:
+- Jim Louder
+- Lee McCullough
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- customs
+related:
+- drag-racing/modesto-century-toppers.md
+- people/george-duvall.md
+- places/cruising-overview.md
+- places/modesto.md
+canonical_for: []
+---
 # Harvey's Broiler: Teenage Paris on a Former Chicken Farm
 
 *Harvey's Broiler / Johnie's, Downey, 1958–1970; revived 1987–90*

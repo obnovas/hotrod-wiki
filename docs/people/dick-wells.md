@@ -1,3 +1,50 @@
+---
+title: 'Dick Wells (1934–2010): The Man Who Was the "First Active" President'
+summary: Dick Wells (1934–2010) went from Lincoln, Nebraska, to National Dragster, Hot Rod, SEMA and the NSRA. Whether he was its first president is still debated.
+department: people
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1934
+- 2010
+region: Midwest
+states:
+- Nebraska
+- California
+cities:
+- Lincoln, Nebraska
+people:
+- Dick Wells
+- Doris Herbert
+- Alex Xydias
+companies:
+- Parks Wengard
+places: []
+clubs: []
+strips: []
+tags:
+- street-rods
+- aftermarket-business
+- sanctioning-bodies
+- magazines-and-media
+- speed-equipment
+- dragsters
+related:
+- people/doris-herbert.md
+- people/alex-xydias.md
+- street-rodding/nsra-early-nationals.md
+- media/street-rod-magazine-portland.md
+canonical_for:
+- nsra-first-president
+---
 # Dick Wells (1934–2010): The Man Who Was the "First Active" President
 
 !!! abstract "Article record"

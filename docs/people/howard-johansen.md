@@ -1,3 +1,42 @@
+---
+title: 'Howard Johansen: Lead on the Pistons, Twin Bears on the Strip'
+summary: Howard Johansen founded Howards Power & Racing Equipment, ran a twin-tank streamliner at the first SCTA Bonneville meet and raced Twin Bears on the strip.
+department: people
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1941
+- 1989
+region: West
+states:
+- Utah
+- Nebraska
+cities:
+- Bonneville Salt Flats, Utah
+people:
+- Howard Johansen
+- Jack Chrisman
+- Howard & Jerry Johansen
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- dry-lakes
+- camshafts
+- land-speed
+- sanctioning-bodies
+related:
+- eras/1950s-camgrinder-wars.md
+- drag-racing/great-bend-srca.md
+- people/tom-beatty.md
+- companies/mickey-thompson.md
+canonical_for: []
+---
 # Howard Johansen: Lead on the Pistons, Twin Bears on the Strip
 
 *Howard's Cams, c. 1910–1988*

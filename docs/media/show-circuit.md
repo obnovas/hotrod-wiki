@@ -1,3 +1,45 @@
+---
+title: Rope Barriers, Water Drums and the Show Circuit
+summary: The first National Roadster Show in Oakland had rope barriers on water drums and about 100 cars. From there, Detroit's Autorama and Portland's Roadster Show built the show circuit.
+department: media
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1950
+- 2008
+region: National
+states:
+- California
+- Michigan
+- Oregon
+cities:
+- Detroit, Michigan
+- Oakland, California
+- Portland, Oregon
+- Pomona, California
+- Peoria, Illinois
+people:
+- Bob Sr. Larivee
+- Bill Niekamp
+- Al Slonaker
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- car-shows
+related:
+- voices/show-custom-voices.md
+- eras/1970s-street-rod-nationals.md
+- drag-racing/detroit-cordova.md
+- places/pacific-northwest.md
+canonical_for: []
+---
 # Rope Barriers, Water Drums and the Show Circuit
 
 *Oakland, Detroit, ISCA and Portland*
@@ -35,6 +77,8 @@ The circuit was a Midwest–Canada invention that pulled California cars east, n
 ## Portland Roadster Show (1956)
 
 The Multnomah Hot Rod Council was founded in 1954 by Dee Wescott, "community members and elected officials." It produces the **Portland Roadster Show**, which it has owned and produced since 1956. MHRC calls it "the only [large show] that is ran entirely by volunteers."[^mhrc] See [Pacific Northwest](../places/pacific-northwest.md).
+
+*See also:* [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
 
 ## Open questions & disputed details
 

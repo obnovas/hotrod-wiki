@@ -1,3 +1,41 @@
+---
+title: 'Hooker Headers: The Pipes He Couldn''t Afford to Buy'
+summary: Gary Hooker couldn't afford headers for his new 1962 Chevrolet 409, so he made his own, longer and with larger tubing, and turned them into a business.
+department: companies
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1962
+- 2000
+region: West
+states:
+- California
+- Iowa
+cities:
+- Sioux City, Iowa
+people:
+- Gary / Hooker Headers Hooker
+- Dick Wells
+- Akron" Arlen Vanke
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- aftermarket-business
+related:
+- companies/holley.md
+- drag-racing/pomona-choppers-fontana.md
+- people/dick-wells.md
+- companies/crane-cams.md
+- people/arlen-vanke.md
+canonical_for:
+- hooker-to-holley
+---
 # Hooker Headers: The Pipes He Couldn't Afford to Buy
 
 *A Pomona kid, a new 409 with its heads off and a header ad for an Akron racer*
@@ -46,6 +84,8 @@ SEMA says Hooker sold the business to Holley Performance Products in **2000**; H
 - [Pomona's Choppers & the Fontana Strip](../drag-racing/pomona-choppers-fontana.md): Hooker's hometown, whose 1951 police-chief story is documented there; the tie is place only.
 - [Holley](holley.md): the owner since 2000 (or the 1990s<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>).
 - [Crane Cams](crane-cams.md) and [Dick Wells](../people/dick-wells.md): the 1967 first trade show where Hooker, like Crane, set up a booth.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

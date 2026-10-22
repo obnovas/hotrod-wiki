@@ -1,3 +1,39 @@
+---
+title: 'Julian Doty: Seventy Years on the Lakes'
+summary: Julian Doty first went to Muroc in 1934 with his uncle George DuVall and spent seventy years on the lakes, from a head on layaway to the DuVall windshield patterns.
+department: people
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1922
+- 1976
+region: West
+states:
+- California
+cities:
+- Hollywood, California
+people:
+- Julian Doty
+- Veda Orr
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- dry-lakes
+- sanctioning-bodies
+related:
+- people/veda-orr.md
+- people/kong-jackson.md
+- people/peggy-hart.md
+- companies/prewar-speed-shops.md
+canonical_for: []
+---
 # Julian Doty: Seventy Years on the Lakes
 
 *1922–2012*
@@ -37,7 +73,7 @@ From 1972 he made and signed official SCTA timing slips. Mike Cook: "if your tim
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was he at the founding?** Coachbuilt says DuVall and Doty were **charter members of the Hollywood Throttlers** and "were present when the SCTA was founded in November of 1937," and that Doty was a founding member of the **Sidewinders**.[^cb] Doty would have been about 14 at the founding. ◐ *Single-sourced; AHRF does not repeat it.* AHRF places the Hollywood Throttlers clubhouse next door to the original B&S garage.[^ahrf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was he at the founding?** Coachbuilt says DuVall and Doty were **charter members of the Hollywood Throttlers** and "were present when the SCTA was founded in November of 1937," and that Doty was a founding member of the **Sidewinders**.[^cb] Doty would have been about 14 at the founding. ◐ *Single-sourced; AHRF does not repeat it.* AHRF places the Hollywood Throttlers clubhouse next door to the original B&S garage.[^ahrf] Full story: [Muroc](../eras/1930s-dry-lakes-scta.md#may-or-march). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far:** As SCTA starters in 1947–48, Doty and Sidewinders president Kong Jackson "stole some traffic signals, set them up and voila! more efficient starting." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

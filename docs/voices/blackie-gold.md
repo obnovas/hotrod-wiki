@@ -1,3 +1,42 @@
+---
+title: 'Blackie Gold: Grease Monkey at Ten'
+summary: Hyman "Blackie" Gold, interviewed in 2006, remembers starting as a grease monkey at ten, Muroc, the founding of the SCTA and Pancho Barnes' ranch.
+department: voices
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1924
+- 2006
+region: West
+states:
+- California
+cities: []
+people:
+- Hyman "Blackie" Gold
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+- dry-lakes
+- sanctioning-bodies
+- car-clubs
+related:
+- voices/kong-jackson.md
+- eras/1930s-dry-lakes-scta.md
+- people/howard-johansen.md
+- people/julian-doty.md
+canonical_for: []
+---
 # Blackie Gold: Grease Monkey at Ten
 
 *Muroc before the SCTA*

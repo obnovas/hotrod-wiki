@@ -1,3 +1,45 @@
+---
+title: 'Hurst-Campbell: The Shifter King''s Two-Car Garage'
+summary: Hurst-Campbell, the shifter company in Warminster, Pa., called everyone an "associate." Here is how George Hurst and Bill Campbell got from a two-car garage to a 58,000-square-foot plant.
+department: companies
+eras:
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1958
+- 1970
+region: Northeast
+states:
+- Pennsylvania
+cities: []
+people:
+- George Hurst
+- Bill Campbell
+- Linda Vaughn
+- Ed Almquist
+- Ed "Isky" Iskenderian
+- Barney Navarro
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- magazines-and-media
+- patents-and-inventions
+- aftermarket-business
+- speed-equipment
+- town-politics
+- airport-strips
+- grassroots-sources
+related:
+- people/ed-almquist.md
+- companies/edelbrock-slingshot.md
+- people/ed-iskenderian.md
+- people/barney-navarro.md
+- companies/mr-gasket.md
+canonical_for: []
+---
 # Hurst-Campbell: The Shifter King's Two-Car Garage
 
 *Abington, Warminster, and the Bucks County magazines that watched it happen*
@@ -82,6 +124,8 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 - [Lakewood Industries](lakewood-industries.md): Hurst's hired driver for the Hairy Olds was Lakewood's "Gentleman Joe" Schubeck.
 - [Woodward Avenue](../places/woodward.md): Pontiac ad man Jim Wangers, who appears on that page driving Woodward GTOs, helped Hurst put together the 1967 Firebird pitch for Pontiac's John DeLorean.[^auwm]
 - [Midwest & East Threads](../places/midwest-east.md) and [Leonard Miller](../voices/leonard-miller.md): the Bucks County drag scene of the 1960s, the same county and decade as the Warminster plant. No source ties Miller to Hurst; the link is place and time.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

@@ -1,3 +1,42 @@
+---
+title: 'The Web of Influence: Who Fed Whom'
+summary: 'An interactive map of who fed whom: every line between two names is backed by a quoted passage on one of this wiki''s pages, checked at every build.'
+department: companies
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1961
+- 2015
+region: National
+states:
+- Pennsylvania
+- Florida
+- Ohio
+cities: []
+people:
+- Akron" Arlen Vanke
+- Ed Winfield
+- Ed "Isky" Iskenderian
+companies:
+- Web of Influence (map)
+places: []
+clubs: []
+strips: []
+tags:
+- patents-and-inventions
+related:
+- companies/hurst-campbell.md
+- people/arlen-vanke.md
+- companies/mickey-thompson.md
+- people/ed-winfield.md
+- people/ed-iskenderian.md
+canonical_for: []
+---
 # The Web of Influence: Who Fed Whom
 
 *Companies, shops, people, strips and clubs, and the lines between them that a wiki page can prove*

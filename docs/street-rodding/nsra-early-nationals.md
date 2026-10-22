@@ -1,3 +1,45 @@
+---
+title: From a Hayfield to an Association
+summary: How the 1970 Street Rod Nationals in a Peoria hayfield led to the National Street Rod Association, and where the Nationals moved after that.
+department: street-rodding
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1948
+- 2001
+region: Midwest
+states:
+- Illinois
+- Minnesota
+- Tennessee
+- Ohio
+cities:
+- Peoria, Illinois
+- Memphis, Tennessee
+- St. Paul, Minnesota
+people:
+- Andy Brizio
+- Dick Wells
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- street-rods
+related:
+- voices/street-rodder-founding.md
+- eras/1970s-street-rod-nationals.md
+- media/street-rod-magazine-portland.md
+- places/upper-midwest.md
+- people/dick-wells.md
+canonical_for: []
+---
 # From a Hayfield to an Association
 
 *NSRA and the early Street Rod Nationals, 1970–1980s*
@@ -32,6 +74,8 @@ The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra]
 
 **The president question, in full:** [Dick Wells](../people/dick-wells.md) sets out every source. Wells's own sketch says he was "the first active president"; Gray Baskerville's 2001 recollection lists Bruce Miller among five out-of-state friends who "chipped in" and names no president. The conflict stays open.
 
+*See also:* [Peoria 1970](../voices/peoria-1970.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
@@ -40,7 +84,7 @@ The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra]
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Dick Wells was its first president; SEMA later hired him (Hagerty). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **(Round 10):** the 99W *Street Rod* history says Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President." <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** The 99W *Street Rod* history says Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President." <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Secondary accounts put 1971 at about 1,200–1,300 rods (TBucketPlans; Hot Rod, Oct 1972 "Street!" is cited in search summaries). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

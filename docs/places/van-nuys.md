@@ -1,3 +1,43 @@
+---
+title: Van Nuys Boulevard
+summary: Cruising Van Nuys Boulevard went back to a Saturday-night parade in 1912 and drew crowds of up to 20,000 by the 1950s, until it was closed in the early 1980s.
+department: places
+eras:
+- 1910s
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1913
+- 2009
+region: West
+states:
+- California
+cities:
+- Van Nuys, California
+people:
+- Arthur Sjoquist
+- Reid Stolz
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- police-and-safety
+related:
+- places/bobs-big-boy-river-road.md
+- drag-racing/modesto-century-toppers.md
+- places/cruising-overview.md
+- places/twin-falls-main-avenue.md
+canonical_for: []
+---
 # Van Nuys Boulevard
 
 *San Fernando Valley, 1950s–1980s*

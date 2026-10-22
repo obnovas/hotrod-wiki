@@ -1,3 +1,34 @@
+---
+title: Westheimer Road, Houston
+summary: Houston's 1980s cruise on Westheimer Road, east through Montrose to a turnaround at Elgin and back.
+department: places
+eras:
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1986
+- 2009
+region: Southwest
+states:
+- Texas
+cities:
+- Houston, Texas
+people:
+- John Nova Lomax
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- teenagers-and-schools
+related:
+- companies/comp-cams-rhs.md
+- companies/crane-cams.md
+- companies/moroso.md
+- people/jimmy-summers.md
+canonical_for: []
+---
 # Westheimer Road, Houston
 
 *The teenage ritual of the late 1970s to 1986*

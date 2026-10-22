@@ -1,3 +1,35 @@
+---
+title: The Camgrinder Wars
+summary: The cam advertisers' war in the pages of HOT ROD, from the mild headlines of 1948 to the escalating claims of the 1950s, and how much of it was real.
+department: eras
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+years:
+- 1949
+- 1988
+region: National
+states: []
+cities: []
+people:
+- Jack Engle
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- camshafts
+- patents-and-inventions
+related:
+- people/jack-engle.md
+- companies/crane-cams.md
+- companies/comp-cams-rhs.md
+- companies/edelbrock-slingshot.md
+canonical_for: []
+---
 # The Camgrinder Wars
 
 *1956–64: how a polite page of cam ads turned into a brawl*

@@ -1,3 +1,41 @@
+---
+title: 'Half Day, Illinois: The Muffler Maker''s Drag Strip (1952–55)'
+summary: A Chicago muffler maker put its name on a drag strip at Half Day, Illinois, and then insisted on seat belts. This is the story of the Automobile Timing Association of America (1952–55).
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1952
+- 1955
+region: Midwest
+states:
+- Illinois
+cities:
+- Half Day, Illinois
+people:
+- Joseph Di Lorenzo
+- Arnold H. Maremont
+- Bob Bartel
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- sanctioning-bodies
+- police-and-safety
+- drag-strips
+- airport-strips
+- car-clubs
+- town-politics
+related:
+- people/bob-bartel.md
+- drag-racing/akron-fulton-airport.md
+- places/memphis.md
+- drag-racing/detroit-cordova.md
+- drag-racing/march-1957-drag-strip-survey.md
+canonical_for:
+- ataa-absorbed-1957
+---
 # Half Day, Illinois: The Muffler Maker's Drag Strip (1952–55)
 
 !!! abstract "Article record"

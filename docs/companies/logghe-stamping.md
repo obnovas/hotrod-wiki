@@ -1,3 +1,50 @@
+---
+title: 'Logghe Stamping: Fraser''s Flip-Top Chassis Shop'
+summary: The Logghe brothers turned their father's Fraser, Michigan, bracketry shop into a chassis house for dragsters and the flip-top Funny Cars of 1966.
+department: companies
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1955
+- 2020
+region: Midwest
+states:
+- Michigan
+cities:
+- Fraser, Michigan
+people:
+- Ron & Gene / Logghe Stamping Logghe
+- Fast Eddie" Schartman
+- Al Bergler
+- Fran Hernandez
+- Malcolm Durham
+- Gene Snow
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- funny-cars
+- dragsters
+- sanctioning-bodies
+- fiberglass
+- family-business
+- car-shows
+related:
+- people/al-bergler.md
+- people/eddie-schartman.md
+- people/fran-hernandez.md
+- drag-racing/detroit-cordova.md
+- people/malcolm-durham.md
+canonical_for: []
+---
 # Logghe Stamping: Fraser's Flip-Top Chassis Shop
 
 !!! abstract "Article record"

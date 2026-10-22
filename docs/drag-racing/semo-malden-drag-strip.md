@@ -1,3 +1,51 @@
+---
+title: 'Memphis Comes to the Bootheel: the SEMO Drag Strip at Malden Air Base (1961–71)'
+summary: A year after the Air Force flight school left Malden, Missouri, local racers and the Jaycees marked a quarter-mile on the back runway, and Memphis cars came north for the trophies (1961–71).
+department: drag-racing
+eras:
+- 1960s
+- 1970s
+years:
+- 1961
+- 1971
+region: Midwest
+states:
+- Missouri
+cities:
+- Malden, Missouri
+people:
+- Chester Andrews
+- Dick Belletti
+- Andy French
+- Al & Calvin Hartsfield
+- Jim Kirby
+- Joe Lunati
+- Kenneth McKee
+- Jim New
+- Larry Reyes
+- Jim Satterfield
+- Bill Taylor
+companies:
+- Kingfish (blown Barracuda)
+- Southeast Missouri Dragsters
+places: []
+clubs: []
+strips:
+- SEMO Drag Strip (Malden)
+tags:
+- airport-strips
+- drag-strips
+- dragsters
+- sanctioning-bodies
+- grassroots-sources
+related:
+- places/memphis.md
+- people/joe-lunati.md
+- drag-racing/akron-fulton-airport.md
+- drag-racing/marin-cotati-strips.md
+- drag-racing/pocono-strips.md
+canonical_for: []
+---
 # Memphis Comes to the Bootheel: the SEMO Drag Strip at Malden Air Base (1961–71)
 
 !!! abstract "Article record"
@@ -54,6 +102,8 @@ In June a trick truck did come<sup class="hr-q" id="qr-5"><a href="#q-5" title="
 In October 1970 the strip was still holding "a big altered meet" with $150 for the first-round winner.[^sk701028] Its last meet of that season, at "The Malden Dragstrip on Highway 25 North," paid $200, $100 and $50 by round; admission was $2.[^sk701114] In March 1971 the paper reported that "Southeast Missouri's drag racing season gets started at the Dragstrip Sunday as the strip opens its gates for a big racing season under the sanction of the American Hot Rod Association."[^sk710312] By then the NHRA sanction of 1965 had given way to the AHRA.
 
 Malden fits the pattern of the old-airfield strips: a town that suddenly owned a lot of empty concrete, and a civic club willing to take the insurance risk. Compare [Akron's Fulton Airport](akron-fulton-airport.md), [Cotati](marin-cotati-strips.md) and the [Pocono strips](pocono-strips.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
+
+*See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md).
 
 ## Open questions & disputed details
 

@@ -1,3 +1,37 @@
+---
+title: 'Great Bend, Kansas: A Club, a Chamber of Commerce and the First Nationals (1953–1955)'
+summary: How a Kansas car club and its city brought NHRA's first national event, the 1955 National Championship Drags, to Great Bend.
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1953
+- 1955
+region: Midwest
+states:
+- Kansas
+cities:
+- Great Bend, Kansas
+people:
+- Howard Johansen
+companies: []
+places: []
+clubs:
+- Sunflower Rod and Custom Association (SRCA)
+strips: []
+tags:
+- sanctioning-bodies
+- airport-strips
+- car-clubs
+- drag-strips
+- grassroots-sources
+related:
+- people/howard-johansen.md
+- voices/ray-godman.md
+- drag-racing/pomona-choppers-fontana.md
+- drag-racing/sedalia-drag-ons.md
+canonical_for: []
+---
 # Great Bend, Kansas: A Club, a Chamber of Commerce and the First Nationals (1953–1955)
 
 !!! abstract "Article record"

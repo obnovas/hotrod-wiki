@@ -1,3 +1,43 @@
+---
+title: 'Pomona''s Choppers & the Fontana Strip: "If You Can''t Control Them, Join Them"'
+summary: In 1951 Pomona's police chief told the FBI bulletin how his department stopped fighting its hot rodders and helped the Choppers club get a legal drag strip at Fontana.
+department: drag-racing
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1947
+- 2008
+region: West
+states:
+- California
+cities:
+- Pomona, California
+people:
+- E. J. (Bud) Coons
+- Ralph E. Parker
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- police-and-safety
+- car-clubs
+- airport-strips
+- drag-strips
+- grassroots-sources
+related:
+- eras/1950s-santa-ana-drags.md
+- drag-racing/planners-report-1955.md
+- drag-racing/inyokern-dust-devils.md
+- drag-racing/marin-cotati-strips.md
+canonical_for: []
+---
 # Pomona's Choppers & the Fontana Strip: "If You Can't Control Them, Join Them"
 
 !!! abstract "Article record"

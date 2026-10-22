@@ -1,3 +1,38 @@
+---
+title: George Riley and the Heads That Cracked
+summary: George Riley was an inventor who raced cars, planes and boats, and opened a shop in 1919 to make Model T speed equipment. Owners on a Ford forum still describe his heads.
+department: people
+eras:
+- 1910s
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1919
+- 1998
+region: National
+states: []
+cities: []
+people:
+- George Riley
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- speed-equipment
+related:
+- companies/comp-cams-rhs.md
+- companies/edelbrock-slingshot.md
+- companies/holley.md
+- companies/hurst-campbell.md
+canonical_for: []
+---
 # George Riley and the Heads That Cracked
 
 *The Two-Port and Four-Port Model A/B conversions*

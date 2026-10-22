@@ -1,3 +1,39 @@
+---
+title: 'Malcolm Durham: Strip Blazer'
+summary: 'Malcolm Durham learned mechanics on tractors in Goldsboro, N.C., and raced from 1957: 409 Chevys in Washington, then a Logghe-chassised Funny Car.'
+department: people
+eras:
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1962
+- 2001
+region: South
+states:
+- North Carolina
+- Texas
+cities:
+- Goldsboro, North Carolina
+- Newton Grove, North Carolina
+people:
+- Malcolm Durham
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- sanctioning-bodies
+- funny-cars
+related:
+- companies/logghe-stamping.md
+- voices/injection-and-tin.md
+- voices/leonard-miller.md
+- places/midwest-east.md
+canonical_for: []
+---
 # Malcolm Durham: Strip Blazer
 
 *From Aquasco to the match-race circuit*

@@ -1,0 +1,1 @@
+**The NSRA's first president.** Most sources name Dick Wells, who called himself "the first active president"; a Portland history names Bruce Miller. The question is open. Full story: [Dick Wells](../people/dick-wells.md#the-street-rod-years-and-the-president-question).

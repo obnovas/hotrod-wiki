@@ -1,3 +1,47 @@
+---
+title: The Upset at Cordova
+summary: In 1957 an unknown Don Garlits learned to build a fuel pump at Cordova and earned a "name" there. The page also covers the ATAA World Series of Drag Racing and Detroit's strips.
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+years:
+- 1953
+- 1998
+region: Midwest
+states:
+- Illinois
+- Texas
+cities: []
+people:
+- Bob Bartel
+- Don Garlits
+- Gil Kohn
+- Setto Postoian
+- Fast Eddie" Schartman
+companies:
+- Michigan Hot Rod Assn.
+places: []
+clubs: []
+strips: []
+tags:
+- drag-strips
+- sanctioning-bodies
+- town-politics
+- car-shows
+- airport-strips
+- grassroots-sources
+related:
+- people/setto-postoian.md
+- people/eddie-schartman.md
+- drag-racing/half-day-ataa-maremont.md
+- people/bob-bartel.md
+canonical_for:
+- garlits-cordova-1957
+---
 # The Upset at Cordova
 
 *Heartland strips: Detroit Dragway and the World Series of Drag Racing*

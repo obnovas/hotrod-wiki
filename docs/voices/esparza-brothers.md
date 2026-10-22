@@ -1,3 +1,41 @@
+---
+title: The "Mexican Express" at Lions
+summary: Rick and Fred Esparza built a 1941 Willys truck into the Mexican Express and raced it at Lions Drag Strip for seven years.
+department: voices
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1941
+- 2022
+region: West
+states:
+- California
+cities:
+- Long Beach, California
+people:
+- Rick & Fred Esparza
+- Kenny Youngblood
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+related:
+- eras/1950s-santa-ana-drags.md
+- voices/harts-santa-ana.md
+- eras/1960s-drag-rags.md
+- voices/ruelas-dukes.md
+canonical_for: []
+---
 # The "Mexican Express" at Lions
 
 *Rick and Fred Esparza and a 1941 Willys truck*
@@ -26,5 +64,7 @@ Rick and Fred Esparza, whose father, a Navy man, moved the family to West Long B
 The reviewer notes that the film "doesn't dive as deeply into the cultural significance or challenges of the minority experience." Historian Claudine Burnett supplies some of the context on West Long Beach.[^lb]
 
 C.J. Hart managed Lions from the mid-1960s ([The Harts](harts-santa-ana.md)), which was the brothers' era.
+
+*See also:* [The Ruelas Brothers and the Dukes](ruelas-dukes.md); [The Drag Rags](../eras/1960s-drag-rags.md).
 
 [^lb]: The Hi-lo (Long Beach Post), "'Mexican Express' tells the story of West Long Beach's drag racing history" (Aug 21, 2022). https://staging-live.lbpost.com/hi-lo/mexican-express-drag-racing-documentary-lions-drag-strip/ (accessed 2026-10-13)

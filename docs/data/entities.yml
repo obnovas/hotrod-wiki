@@ -1,0 +1,96 @@
+# Names that have their own article. The first mention of a name on any other article is linked
+# automatically at build time (hooks/articles_hook.py). One entry per article; list the forms the
+# name takes in prose under `names` (longest first is not required). Avoid bare surnames shared
+# by more than one person.
+people/al-bergler.md: {names: ["Al Bergler"]}
+people/alex-xydias.md: {names: ["Alex Xydias"]}
+people/arlen-vanke.md: {names: ["Arlen Vanke"]}
+people/barney-navarro.md: {names: ["Barney Navarro"]}
+people/bob-bartel.md: {names: ["Bob Bartel"]}
+people/chet-herbert.md: {names: ["Chet Herbert"]}
+people/dick-wells.md: {names: ["Dick Wells"]}
+people/doris-herbert.md: {names: ["Doris Herbert"]}
+people/ed-almquist.md: {names: ["Ed Almquist"]}
+people/ed-iskenderian.md: {names: ["Ed Iskenderian", "Ed \"Isky\" Iskenderian", "Iskenderian"]}
+people/ed-winfield.md: {names: ["Ed Winfield"]}
+people/eddie-schartman.md: {names: ["Eddie Schartman", "\"Fast Eddie\" Schartman"]}
+people/fran-hernandez.md: {names: ["Fran Hernandez"]}
+people/gene-snow.md: {names: ["Gene Snow"]}
+people/george-duvall.md: {names: ["George DuVall"]}
+people/george-riley.md: {names: ["George Riley"]}
+people/howard-johansen.md: {names: ["Howard Johansen"]}
+people/jack-engle.md: {names: ["Jack Engle"]}
+people/jimmy-summers.md: {names: ["Jimmy Summers"]}
+people/joe-lunati.md: {names: ["Joe Lunati"]}
+people/julian-doty.md: {names: ["Julian Doty"]}
+people/kong-jackson.md: {names: ["Kong Jackson", "Charles \"Kong\" Jackson"]}
+people/malcolm-durham.md: {names: ["Malcolm Durham"]}
+people/peggy-hart.md: {names: ["Peggy Hart"]}
+people/roy-hagy.md: {names: ["Roy Hagy"]}
+people/setto-postoian.md: {names: ["Setto Postoian"]}
+people/stu-hilborn.md: {names: ["Stu Hilborn", "Stuart Hilborn"]}
+people/tom-beatty.md: {names: ["Tom Beatty"]}
+people/veda-orr.md: {names: ["Veda Orr"]}
+companies/comp-cams-rhs.md: {names: ["COMP Cams", "Racing Head Service"]}
+companies/crane-cams.md: {names: ["Crane Cams", "Harvey Crane"]}
+companies/edelbrock-slingshot.md: {names: ["Vic Edelbrock", "Edelbrock"]}
+companies/holley.md: {names: ["Holley"]}
+companies/hooker-headers.md: {names: ["Hooker Headers", "Gary Hooker"]}
+companies/hurst-campbell.md: {names: ["Hurst-Campbell", "George Hurst"]}
+companies/jegs.md: {names: ["JEGS", "Jeg Coughlin"]}
+companies/lakewood-industries.md: {names: ["Lakewood Industries", "Joe Schubeck"]}
+companies/logghe-stamping.md: {names: ["Logghe Stamping", "Logghe"]}
+companies/mickey-thompson.md: {names: ["Mickey Thompson"]}
+companies/moon-equipment.md: {names: ["Moon Equipment", "Dean Moon", "Mooneyes"]}
+companies/moroso.md: {names: ["Moroso", "Dick Moroso"]}
+companies/mr-gasket.md: {names: ["Mr. Gasket", "Joe Hrudka"]}
+companies/southern-california-plating.md: {names: ["Southern California Plating", "So. Cal. Plating"]}
+companies/summit-racing.md: {names: ["Summit Racing"]}
+customs/hirohata-mercury.md: {names: ["Hirohata Mercury", "Bob Hirohata"]}
+customs/kkoa-lead-sled-revival.md: {names: ["Kustom Kemps of America", "KKOA"]}
+cars/hill-bros-red-baron.md: {names: ["Red Baron"]}
+cars/beast-iii.md: {names: ["Beast III"]}
+drag-racing/detroit-cordova.md: {names: ["Cordova"]}
+drag-racing/akron-fulton-airport.md: {names: ["Fulton Airport"]}
+drag-racing/half-day-ataa-maremont.md: {names: ["Automobile Timing Association of America", "ATAA", "Half Day"]}
+drag-racing/houston-freeway-dragstrip.md: {names: ["Houston Freeway Dragstrip", "Freeway Drag Strip"]}
+drag-racing/quaker-city-salem.md: {names: ["Quaker City Drag Strip", "Quaker City"]}
+drag-racing/kk-sports-arena-kaukauna.md: {names: ["KK Sports Arena"]}
+drag-racing/sedalia-big-sir.md: {names: ["Big S.I.R."]}
+drag-racing/sedalia-drag-ons.md: {names: ["Sedalia Drag-Ons", "Drag-Ons"]}
+drag-racing/belleville-gear-jammers.md: {names: ["Gear Jammers"]}
+drag-racing/stroudsburg-ridge-runners.md: {names: ["Ridge Runners"]}
+drag-racing/kingston-igniters.md: {names: ["Kingston Igniters", "Igniters"]}
+drag-racing/escanaba-dragns.md: {names: ["Drag-n's"]}
+drag-racing/modesto-century-toppers.md: {names: ["Century Toppers"]}
+drag-racing/inyokern-dust-devils.md: {names: ["Dust Devils", "Inyokern"]}
+drag-racing/ames-drag-strip-nightcrawlers.md: {names: ["Ames Drag Strip", "Nightcrawlers"]}
+drag-racing/portsmouth-kustom-kouriers.md: {names: ["Kustom Kouriers"]}
+drag-racing/fox-valley-road-deacons-gas-ketts.md: {names: ["Road Deacons", "Gas-Ketts"]}
+drag-racing/semo-malden-drag-strip.md: {names: ["SEMO Drag Strip", "Malden Air Base"]}
+drag-racing/pennsauken-central-airport-1958.md: {names: ["Pennsauken"]}
+drag-racing/great-bend-srca.md: {names: ["Great Bend"]}
+drag-racing/kansas-city-timing-association.md: {names: ["Kansas City Timing Association"]}
+drag-racing/marin-cotati-strips.md: {names: ["Cotati"]}
+drag-racing/pomona-choppers-fontana.md: {names: ["Pomona Choppers"]}
+drag-racing/beardstown-drag-strip.md: {names: ["Beardstown"]}
+places/woodward.md: {names: ["Woodward Avenue"]}
+places/van-nuys.md: {names: ["Van Nuys Boulevard"]}
+places/whittier-blvd.md: {names: ["Whittier Boulevard"]}
+places/harveys-broiler-downey.md: {names: ["Harvey's Broiler"]}
+places/summer-avenue-memphis.md: {names: ["Summer Avenue"]}
+places/westheimer-houston.md: {names: ["Westheimer Road"]}
+places/bobs-big-boy-river-road.md: {names: ["Bob's Big Boy"]}
+places/ohio-gassers.md: {names: ["Ohio Gassers"]}
+places/twin-falls-main-avenue.md: {names: ["Twin Falls"]}
+places/modesto.md: {names: ["Modesto"]}
+places/texas.md: {names: ["Caddo Mills"]}
+media/street-rod-magazine-portland.md: {names: ["Street Rod magazine"]}
+media/show-circuit.md: {names: ["National Roadster Show", "Detroit Autorama"]}
+street-rodding/nsra-early-nationals.md: {names: ["National Street Rod Association", "NSRA"]}
+eras/1960s-drag-rags.md: {names: ["drag rags"]}
+eras/1950s-santa-ana-drags.md: {names: ["Santa Ana drags", "Santa Ana strip"]}
+eras/1970s-street-rod-nationals.md: {names: ["Street Rod Nationals"]}
+voices/von-dutch.md: {names: ["Von Dutch"]}
+voices/leonard-miller.md: {names: ["Leonard Miller"]}
+voices/blackie-gold.md: {names: ["Blackie Gold"]}

@@ -1,0 +1,1 @@
+**The first 200 mph.** Gene Snow's 200.88 mph Funny Car pass at the Gays' track in Dickinson, Texas, is not in dispute; its date is (Aug. 17, 1968, in the NHRA Top 50 bio; 1969 elsewhere). Full story: [Gene Snow](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates).

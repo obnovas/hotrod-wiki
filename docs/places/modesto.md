@@ -1,3 +1,49 @@
+---
+title: 'Modesto: Draggin'' 10th'
+summary: Modesto's cruise on 10th Street, the town American Graffiti was set in, and how the city policed and ended it.
+department: places
+eras:
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1930
+- 2024
+region: West
+states:
+- California
+cities:
+- Modesto, California
+people:
+- Pat Ganahl
+- George Lucas
+- Phillip (Tiny) Stuart
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- town-politics
+- car-shows
+- teenagers-and-schools
+- family-business
+- grassroots-sources
+related:
+- drag-racing/modesto-century-toppers.md
+- places/dragging-main.md
+- drag-racing/marin-cotati-strips.md
+- places/cruising-overview.md
+canonical_for:
+- modesto-cruise-ban
+---
 # Modesto: Draggin' 10th
 
 *10th Street and McHenry Avenue, 1950s–1993*
@@ -32,6 +78,8 @@ On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinanc
 ## Ties
 
 When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). The film's influence on the 1970s [street-rod revival](../street-rodding/index.md) is often claimed, but we haven't sourced it yet. Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
+
+*See also:* [Woodward](woodward-ordinances.md).
 
 ## Open questions & disputed details
 

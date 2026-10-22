@@ -1,3 +1,41 @@
+---
+title: 'Jimmy Summers: The Customizer Across from Fairfax High'
+summary: Jimmy Summers and his brother started as street-corner fender men and opened a custom shop on Melrose Avenue across from Fairfax High.
+department: people
+eras:
+- 1910s
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1913
+- 2006
+region: West
+states:
+- California
+cities:
+- Los Angeles, California
+people:
+- Jimmy Summers
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- teenagers-and-schools
+related:
+- people/alex-xydias.md
+- people/ed-iskenderian.md
+- companies/comp-cams-rhs.md
+- companies/crane-cams.md
+canonical_for: []
+---
 # Jimmy Summers: The Customizer Across from Fairfax High
 
 *1913–1968*

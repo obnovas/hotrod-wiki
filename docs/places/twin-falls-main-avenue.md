@@ -1,3 +1,45 @@
+---
+title: 'Twin Falls, Idaho: The Main Avenue "Drag Strip" and the Club That Wanted a Real One (1957–1965)'
+summary: In 1957 the Twin Falls paper put Main Avenue's nickname, the "drag strip," in quotation marks. A local club then offered to pay for a real one (1957–1965).
+department: places
+eras:
+- 1950s
+- 1960s
+years:
+- 1957
+- 1965
+region: Northwest
+states:
+- Idaho
+- Illinois
+cities:
+- Twin Falls, Idaho
+- Harrisburg, Illinois
+people:
+- Merlin Hudson
+- Gary Nelson
+- J. O. Pumphrey
+companies: []
+places: []
+clubs:
+- Avenger Rod and Custom Car club
+- Magic Valley Timing Association
+strips: []
+tags:
+- car-clubs
+- drag-strips
+- police-and-safety
+- cruising
+- club-rules
+- town-politics
+- grassroots-sources
+related:
+- drag-racing/planners-report-1955.md
+- drag-racing/march-1957-drag-strip-survey.md
+- drag-racing/recreation-1957-pro-and-con.md
+- places/cruising-overview.md
+canonical_for: []
+---
 # Twin Falls, Idaho: The Main Avenue "Drag Strip" and the Club That Wanted a Real One (1957–1965)
 
 !!! abstract "Article record"
@@ -59,6 +101,8 @@ Twin Falls wasn't the only town where the paper put a public road in quotation m
 For other towns that argued about a strip in the same years, see [What the City Planners Wrote (1955)](../drag-racing/planners-report-1955.md), [March 1957: America Argues About Drag Strips](../drag-racing/march-1957-drag-strip-survey.md) and [Would You Rather Have a Picnic? (June 1957)](../drag-racing/recreation-1957-pro-and-con.md). For the other cruise streets we have sourced, see the [cruising overview](cruising-overview.md).
 
 **Visual references (external):** the *Times-News* pages themselves, linked in the footnotes, are scans on the Internet Archive.
+
+*See also:* [Portsmouth, Ohio, 1956](../drag-racing/portsmouth-kustom-kouriers.md); [Dragging Main](dragging-main.md).
 
 ## Open questions & disputed details
 

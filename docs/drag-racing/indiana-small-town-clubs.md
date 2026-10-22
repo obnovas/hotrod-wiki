@@ -1,3 +1,38 @@
+---
+title: 'Hoosier Road Runners: Hot Rod Clubs in Small-Town Indiana, 1953–58'
+summary: In 1956 twenty-four young men in Decatur, Indiana, joined a hot rod club that said it had police blessing. This page follows small-town Indiana clubs from 1953 to 1958.
+department: drag-racing
+eras:
+- 1950s
+years:
+- 1953
+- 1958
+region: Midwest
+states:
+- Indiana
+cities:
+- Decatur, Indiana
+people:
+- William H. Tomlinson
+companies: []
+places: []
+clubs:
+- Decatur Road Runners
+- Flying Pistons
+strips: []
+tags:
+- car-clubs
+- police-and-safety
+- teenagers-and-schools
+- club-rules
+- grassroots-sources
+related:
+- drag-racing/escanaba-dragns.md
+- drag-racing/planners-report-1955.md
+- drag-racing/detroit-cordova.md
+- places/woodward.md
+canonical_for: []
+---
 # Hoosier Road Runners: Hot Rod Clubs in Small-Town Indiana, 1953–58
 
 !!! abstract "Article record"

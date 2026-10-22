@@ -1,3 +1,39 @@
+---
+title: Tom Beatty and the "Rust Bucket"
+summary: Tom Beatty's unpainted, rusty 1929 Ford roadster ran 154.63 mph in 1951. He also built a belly tank and raced with the Glendale club.
+department: people
+eras:
+- 1940s
+- 1950s
+- 1960s
+years:
+- 1940
+- 1962
+region: West
+states:
+- California
+cities:
+- Glendale, California
+people:
+- Tom Beatty
+companies: []
+places: []
+clubs:
+- Sidewinders
+strips: []
+tags:
+- land-speed
+- car-clubs
+- dry-lakes
+- sanctioning-bodies
+- speed-equipment
+related:
+- people/barney-navarro.md
+- people/kong-jackson.md
+- companies/edelbrock-slingshot.md
+- companies/moon-equipment.md
+canonical_for: []
+---
 # Tom Beatty and the "Rust Bucket"
 
 *The Glendale Strokers, a channeled roadster and a record-setting belly tank*

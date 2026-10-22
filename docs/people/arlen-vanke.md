@@ -1,3 +1,45 @@
+---
+title: '"Akron" Arlen Vanke: Backyard Racer from Ohio'
+summary: '"Akron" Arlen Vanke started racing at the Akron airport strip and went on to Knafel Pontiac, Mopar and Pro Stock. Hemmings says his dual-quad Hemi work coined the word "Vanked."'
+department: people
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1940
+- 2017
+region: Midwest
+states:
+- Ohio
+cities:
+- Akron, Ohio
+- Fulton International Airport, Ohio
+people:
+- '"Akron" Arlen Vanke'
+- Walt & Art Arfons
+- Arlen Vanke
+companies:
+- Knafel Pontiac
+places: []
+clubs: []
+strips: []
+tags:
+- airport-strips
+- gassers
+- sanctioning-bodies
+related:
+- places/midwest-east.md
+- companies/mr-gasket.md
+- drag-racing/akron-fulton-airport.md
+- places/ohio-gassers.md
+canonical_for: []
+---
 # "Akron" Arlen Vanke: Backyard Racer from Ohio
 
 *c. 1937–2017*

@@ -1,3 +1,46 @@
+---
+title: 'Ed "Isky" Iskenderian: The Camfather'
+summary: Ed "Isky" Iskenderian was born in 1921 in Cutler, California, to Armenian immigrant parents and became the camshaft maker known as the Camfather.
+department: people
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1921
+- 2026
+region: West
+states:
+- California
+cities:
+- Tulare County, California
+people:
+- Ed "Isky" Iskenderian
+- Ed Iskenderian
+- Jimmy Summers
+- Ed Winfield
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- patents-and-inventions
+related:
+- people/jimmy-summers.md
+- people/ed-winfield.md
+- eras/1950s-camgrinder-wars.md
+- companies/web-of-influence.md
+canonical_for:
+- isky-winfield
+---
 # Ed "Isky" Iskenderian: The Camfather
 
 *1921–2026*
@@ -30,6 +73,8 @@ He was a founding member and first president of SEMA (1963), and its last surviv
 His last interview, in a nursing home south of LA in September 2025, ended with "Goodbye, boys!"[^hag]
 
 **Correction:** the earlier wiki note "1921–2026 (unverified)" from the Garlits Museum list is now confirmed.
+
+*See also:* [Jack Engle](jack-engle.md).
 
 ## Images
 

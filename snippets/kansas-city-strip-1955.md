@@ -1,0 +1,1 @@
+**Kansas City, 1955.** The Kansas City Timing Association's strip opened in July 1955. Pond's own account gives July 17, 1955, with more than 200 hot rodders and 18,000 paid spectators; an AP account says July 15. Full story: [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md#the-strip).

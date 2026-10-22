@@ -1,3 +1,37 @@
+---
+title: The Ruelas Brothers and the Dukes
+summary: The Ruelas brothers came from Tijuana to South Los Angeles in the mid-1950s, built cars with the Dukes car club, and in 2006 were still working on them in their yard.
+department: voices
+eras:
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1980
+- 2006
+region: West
+states:
+- California
+cities:
+- Los Angeles, California
+- Long Beach, California
+people:
+- Richard "Chivo" Ceniceros
+- Fernando, Julio, Oscar & Ernie Ruelas
+companies: []
+places: []
+clubs:
+- Dukes (car club)
+strips: []
+tags:
+- oral-history
+related:
+- voices/esparza-brothers.md
+- places/cruising-overview.md
+- people/jimmy-summers.md
+- companies/southern-california-plating.md
+canonical_for: []
+---
 # The Ruelas Brothers and the Dukes
 
 *A South LA family shop*

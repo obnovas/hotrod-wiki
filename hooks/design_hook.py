@@ -30,6 +30,10 @@ from pathlib import Path
 log = logging.getLogger("mkdocs.hooks.design")
 
 INFO = {}      # src_uri -> dict
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+import related_lib  # noqa: E402  (front-matter overlap scoring)
+
 SITE = {}      # site-wide, filled lazily in on_page_context
 IMG_DIMS = {}  # abs path -> (w, h)
 
@@ -678,13 +682,20 @@ def on_page_content(html, page, config, files):
     info["minutes"] = max(1, round(words / 230))
     info["fn"] = len(re.findall(r'<li id="fn:', html))
     info["images"] = len(re.findall(r"<figure", html))
-    info["blurb"] = pick_blurb(html)
+    info["blurb"] = truncate(str(meta["summary"]).strip(), 240) if meta.get("summary") else pick_blurb(html)
     info["margin"] = bool(re.search(r"hr-fig--(plate|tall|small|wide)", html)) or src.startswith("voices/")
     era = FRONT_ERA.get(str(meta.get("era", "")).strip().lower()) if meta.get("era") else None
+    yrs = meta.get("years")
+    if not era and isinstance(yrs, list) and len(yrs) == 2 and all(isinstance(y, int) for y in yrs):
+        mid = (yrs[0] + yrs[1]) // 2
+        era = FRONT_ERA.get(f"{max(1930, min(1990, mid // 10 * 10))}s")
     info["era_explicit"] = bool(era)
     info["era"] = era or (guess_era(html) if info["kind"] in ("story",) else None)
     info["deck"] = meta.get("deck")
     info["region"] = meta.get("region")
+    cities, states = meta.get("cities") or [], meta.get("states") or []
+    info["region_label"] = (cities[0] if len(cities) == 1 else ", ".join(states[:2]) if states else
+                            (meta.get("region") if meta.get("region") not in (None, "National") else None))
     info["links"] = []
     base = page.url
     for hm in re.finditer(r'<a [^>]*href="([^"#?]+)(?:#[^"]*)?"', html):
@@ -806,6 +817,8 @@ def build_site(nav, config):
     # backlinks
     inbound = {}
     outbound = {}
+    by_src_all = {p.file.src_uri: p for p in nav.pages}
+    SITE["metas"] = {p.file.src_uri: (p.meta or {}) for p in nav.pages if (p.meta or {}).get("summary")}
     for p in nav.pages:
         i = INFO.get(p.file.src_uri)
         if not i:
@@ -815,6 +828,10 @@ def build_site(nav, config):
             u = resolve(h, p.url)
             if u in pages and u != p.url:
                 seen[u] = seen.get(u, 0) + 1
+        for t in (p.meta or {}).get("_autolinks") or []:
+            tp = by_src_all.get(t)
+            if tp is not None and tp.url != p.url:
+                seen[tp.url] = seen.get(tp.url, 0) + 1
         outbound[p.url] = seen
         for u, c in seen.items():
             inbound.setdefault(u, {})[p.url] = c
@@ -918,11 +935,34 @@ def on_page_context(context, page, config, nav):
             ii = INFO.get(pages[u].file.src_uri, {})
             if ii.get("kind") not in ("story",) and not (ii.get("kind") == "section"):
                 del score[u]
+        # front-matter overlap: shared people, companies, clubs, strips, places, tags; explicit `related` counts most
+        metas = SITE.get("metas") or {}
+        me = metas.get(page.file.src_uri)
+        if me:
+            by_src = {p.file.src_uri: p for p in pages.values()}
+            for rel_src in (me.get("related") or []):
+                rp = by_src.get(rel_src)
+                if rp is not None:
+                    score[rp.url] = score.get(rp.url, 0) + 6
+            for rel_src, m in metas.items():
+                if rel_src == page.file.src_uri or rel_src not in by_src:
+                    continue
+                ov, _ = related_lib.overlap(me, m)
+                if ov > 1.0:
+                    u = by_src[rel_src].url
+                    score[u] = score.get(u, 0) + ov
         both = set(outbound.get(page.url, {})) & set(inbound.get(page.url, {}))
         ranked = sorted(score, key=lambda u: (-(u in both), -score[u], u))
         skip = {(hr.get("prev") or {}).get("url"), (hr.get("next") or {}).get("url")}
-        rel = [u for u in ranked if u not in skip and not pages[u].is_index][:3]
+        rel = [u for u in ranked if u not in skip and not pages[u].is_index][:4]
         hr["related"] = [cardf(u) for u in rel]
+        # "Mentioned in": every story that links here (by hand or by a first-mention link)
+        bl = []
+        for u in sorted(inbound.get(page.url, {}), key=lambda u: (INFO.get(pages[u].file.src_uri, {}).get("title") or "")):
+            ii = INFO.get(pages[u].file.src_uri, {})
+            if ii.get("kind") == "story" and not pages[u].is_index:
+                bl.append({"title": ii.get("title") or pages[u].title, "url": u, "dept": ii.get("dept_title")})
+        hr["backlinks"] = bl
     if kind == "section" and d:
         kids = [p for p in d["pages"] if not p.is_index]
         hr["children"] = [card(p, INFO.get(p.file.src_uri, {})) for p in kids]

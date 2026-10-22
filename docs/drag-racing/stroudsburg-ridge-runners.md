@@ -1,3 +1,43 @@
+---
+title: 'The Ridge Runners of Stroudsburg: A Club Court, a Work Detail and a Strip They Offered to Buy (1957–64)'
+summary: In the Pocono Mountains, the Ridge Runners of Stroudsburg tried their own members for traffic violations, sentenced them to work details and offered to buy land for a strip (1957–64).
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+years:
+- 1957
+- 1964
+region: Northeast
+states:
+- Pennsylvania
+cities:
+- Stroudsburg, Pennsylvania
+people:
+- Mrs. (first name garbled) Heller
+- Bernard Lawler
+companies:
+- Pocono Pacers
+places: []
+clubs:
+- Ridge Runners Hot Rod Club (Ridge Runners Auto Club Inc.)
+strips: []
+tags:
+- car-clubs
+- police-and-safety
+- club-rules
+- drag-strips
+- sanctioning-bodies
+- teenagers-and-schools
+- grassroots-sources
+related:
+- drag-racing/belleville-gear-jammers.md
+- drag-racing/sedalia-drag-ons.md
+- drag-racing/pocono-strips.md
+- drag-racing/kingston-igniters.md
+- drag-racing/march-1957-drag-strip-survey.md
+canonical_for: []
+---
 # The Ridge Runners of Stroudsburg: A Club Court, a Work Detail and a Strip They Offered to Buy (1957–64)
 
 !!! abstract "Article record"
@@ -63,7 +103,7 @@ Her letter is the only place we have found the club's own rulebook quoted, and s
 
 The letter's real purpose was a strip, and it is told on [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): she proposed that the Mount Pocono Airport Authority let the club race on its runway and keep the proceeds.
 
-**Related:** [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+**Related:** [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Tear Gas on the Runways](pennsauken-central-airport-1958.md); [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).
 
 ## Open questions & disputed details
 
@@ -71,7 +111,9 @@ The letter's real purpose was a strip, and it is told on [Where Could a Pocono H
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not found the award in any NHRA source. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** That half-fine rule is the third one we have found. [Belleville's Gear Jammers](belleville-gear-jammers.md) made members pay half of any traffic fine into the treasury, and the [Sedalia Drag-Ons](sedalia-drag-ons.md)' bylaws charged half of any court fine. Belleville is in Illinois, Sedalia in Missouri and Stroudsburg in Pennsylvania. Belleville ran NHRA-billed drags and the Ridge Runners belonged to NHRA, but we have no NHRA link for Sedalia. A shared NHRA model rulebook would explain it, but none of the three sources says so, and we have not found such a model. ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** That half-fine rule is the third one we have found. Belleville ran NHRA-billed drags, the Ridge Runners belonged to NHRA, and the [Sedalia Drag-Ons](sedalia-drag-ons.md) voted in 1957 that every member must belong to it. A shared NHRA model rulebook would explain the rule, but none of the three sources says so, and we have not found such a model. ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+--8<-- "club-fine-rules.md"
 
 <a id="q-3" class="hr-q-anchor"></a>
 

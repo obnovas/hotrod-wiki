@@ -1,3 +1,43 @@
+---
+title: '"Would You Rather Have a Picnic?" The Recreation Directors'' Drag Strip Debate (June 1957)'
+summary: In June 1957 the recreation directors' trade magazine asked whether towns should sponsor drag racing, and printed a case for and a case against.
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+- 1970s
+years:
+- 1955
+- 1978
+region: Northeast
+states:
+- Delaware
+- New York
+cities:
+- Wilmington, Delaware
+people:
+- George Sargisson
+- Harcourt C. "Ace" Vernon
+companies:
+- Wilmington Automotive Activities
+places: []
+clubs:
+- Rod Buddies Club
+strips: []
+tags:
+- car-clubs
+- police-and-safety
+- drag-strips
+- magazines-and-media
+- teenagers-and-schools
+- town-politics
+related:
+- drag-racing/planners-report-1955.md
+- drag-racing/kansas-city-timing-association.md
+- drag-racing/pomona-choppers-fontana.md
+- drag-racing/march-1957-drag-strip-survey.md
+canonical_for: []
+---
 # "Would You Rather Have a Picnic?" The Recreation Directors' Drag Strip Debate (June 1957)
 
 !!! abstract "Article record"

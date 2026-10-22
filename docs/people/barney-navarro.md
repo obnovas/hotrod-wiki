@@ -1,3 +1,41 @@
+---
+title: 'Barney Navarro: Paying for Parts with Labor'
+summary: Barney Navarro paid for parts with his labor, machining Phil Weiand's first castings, and raced with the Glendale Strokers, a belly tank and his own manifolds.
+department: people
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1940
+- 2007
+region: West
+states:
+- California
+cities:
+- Glendale, California
+people:
+- Barney Navarro
+- Tom Beatty
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- dry-lakes
+- patents-and-inventions
+- land-speed
+related:
+- people/tom-beatty.md
+- companies/hurst-campbell.md
+- companies/edelbrock-slingshot.md
+- people/stu-hilborn.md
+canonical_for: []
+---
 # Barney Navarro: Paying for Parts with Labor
 
 *1919–2007, Glendale's blower pioneer*

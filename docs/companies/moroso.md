@@ -1,3 +1,41 @@
+---
+title: 'Moroso: A Basement in Greenwich and a Dragstrip He Bought on a Whim'
+summary: 'Dick Moroso started in a basement in Greenwich, Conn., and in 1983 explained why he had bought a falling-down dragstrip in Florida: "We have too many industrial parks and not enough racetracks."'
+department: companies
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1953
+- 2003
+region: Northeast
+states:
+- Connecticut
+- Florida
+cities: []
+people:
+- Dick / Moroso Performance Products Moroso
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- drag-strips
+- gassers
+- teenagers-and-schools
+- funny-cars
+related:
+- places/ohio-gassers.md
+- companies/crane-cams.md
+- places/midwest-east.md
+- drag-racing/indiana-small-town-clubs.md
+- companies/mickey-thompson.md
+canonical_for: []
+---
 # Moroso: A Basement in Greenwich and a Dragstrip He Bought on a Whim
 
 *A Connecticut racer who sold racers what they needed, then bought the track they needed*
@@ -48,6 +86,8 @@ One local detail made it work: across the highway stood a large **Pratt & Whitne
 - [Midwest & East](../places/midwest-east.md): the wiki's regional page for the Northeast and Midwest scenes Moroso sold into.
 - [Indiana's small-town clubs](../drag-racing/indiana-small-town-clubs.md): its 1953 "Safety Second" item concerns a different Connecticut town, Manchester, a decade before Moroso's start and with no documented tie to him; it shows what Connecticut teenage car clubs looked like in his youth.
 - [Mickey Thompson](mickey-thompson.md): another racer-turned-manufacturer-turned-track-promoter.
+
+*See also:* [The Web of Influence](web-of-influence.md).
 
 ## Open questions & disputed details
 

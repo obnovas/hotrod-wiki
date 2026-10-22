@@ -1,3 +1,37 @@
+---
+title: 'Peoria 1970: The People Who Drove There'
+summary: The Rod & Custom crew who organized the first Street Rod Nationals in Peoria in 1970 remember the people who drove there.
+department: voices
+eras:
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+years:
+- 1970
+- 2007
+region: Midwest
+states:
+- Illinois
+cities:
+- Peoria, Illinois
+people:
+- Bud Bryan
+- Jim "Jake" Jacobs
+- Tom Medley
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- oral-history
+related:
+- eras/1970s-street-rod-nationals.md
+- street-rodding/nsra-early-nationals.md
+- media/show-circuit.md
+- drag-racing/beardstown-drag-strip.md
+canonical_for: []
+---
 # Peoria 1970: The People Who Drove There
 
 *Why Peoria? Because it was nearly the center of the population.*

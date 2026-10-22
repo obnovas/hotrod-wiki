@@ -1,3 +1,45 @@
+---
+title: Fiberglass for the Fenderless
+summary: Fiberglass bodies for fenderless rods, from Diablo's $149.50 T roadster body in 1957 to Cal Automotive and Wescott's of Boring, Oregon.
+department: street-rodding
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1923
+- 2010
+region: Midwest
+states:
+- Minnesota
+- Oregon
+cities:
+- St. Paul, Minnesota
+people:
+- Dee Wescott
+companies:
+- Cal Automotive
+- Diablo Speed Shop
+places: []
+clubs: []
+strips: []
+tags:
+- fiberglass
+- street-rods
+related:
+- places/pacific-northwest.md
+- companies/logghe-stamping.md
+- customs/kkoa-lead-sled-revival.md
+- eras/1970s-street-rod-nationals.md
+canonical_for: []
+---
 # Fiberglass for the Fenderless
 
 *Early street rod body suppliers, 1957–1980s*

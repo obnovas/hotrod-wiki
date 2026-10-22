@@ -1,3 +1,41 @@
+---
+title: 'Hot Rod Club, Third Row: The High School Car Clubs (1953–1967)'
+summary: In 1950s and 1960s yearbooks, the Hot Rod Club sits between the Glee Club and the Future Business Leaders. Here is what the schools and their advisers recorded (1953–1967).
+department: drag-racing
+eras:
+- 1950s
+- 1960s
+years:
+- 1953
+- 1967
+region: National
+states:
+- Oregon
+- Texas
+- Ohio
+cities:
+- Portland, Oregon
+people:
+- Norton Barnes
+- James Russell
+companies:
+- Ram Rods
+places: []
+clubs:
+- Devastators Hot Rod Club
+strips: []
+tags:
+- car-clubs
+- teenagers-and-schools
+- police-and-safety
+- grassroots-sources
+related:
+- drag-racing/planners-report-1955.md
+- drag-racing/escanaba-dragns.md
+- drag-racing/indiana-small-town-clubs.md
+- media/street-rod-newspaper-serial.md
+canonical_for: []
+---
 # Hot Rod Club, Third Row: The High School Car Clubs (1953–1967)
 
 !!! abstract "Article record"

@@ -1,3 +1,42 @@
+---
+title: 'Texas: Three Stopwatches at Caddo Mills'
+summary: 'Texas''s first organized drags ran on the abandoned airfield at Caddo Mills on Aug 19, 1951: 56 cars, a $1 entry and three hand-held stopwatches.'
+department: places
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1948
+- 2015
+region: Southwest
+states:
+- Texas
+cities:
+- Caddo Mills, Texas
+people:
+- Gene Snow
+companies: []
+places: []
+clubs:
+- Chaparral Roadster Club
+strips: []
+tags:
+- drag-strips
+- car-clubs
+- airport-strips
+related:
+- drag-racing/houston-freeway-dragstrip.md
+- places/memphis.md
+- people/gene-snow.md
+- voices/strip-owners-and-door-slammers.md
+canonical_for: []
+---
 # Texas: Three Stopwatches at Caddo Mills
 
 *The Chaparrals, the Turtles and the distance problem*

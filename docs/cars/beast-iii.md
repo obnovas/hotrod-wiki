@@ -1,3 +1,37 @@
+---
+title: 'Beast III: Three Days Without Sleep'
+summary: 'Chet Herbert''s Beast III was finished in a rush: its body arrived after the 1952 Nationals had started, volunteers assembled it at Chrisman & Sons Garage in Compton, and Herbert went three or four days without sleep.'
+department: cars
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1951
+- 2010
+region: West
+states:
+- California
+cities:
+- Compton, California
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- land-speed
+related:
+- companies/edelbrock-slingshot.md
+- companies/mickey-thompson.md
+- companies/moon-equipment.md
+- people/alex-xydias.md
+canonical_for: []
+---
 # Beast III: Three Days Without Sleep
 
 *Chet Herbert's streamliner, 1952*

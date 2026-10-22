@@ -1,0 +1,1 @@
+**Peoria, 1970.** Hagerty, citing MotorTrend, gives August 14–16, 1970, and 600 street rods for the first Street Rod Nationals; other accounts give smaller numbers for the cross-country rally. Full story: [Peoria, and the Boss Who Never Said Yes](../eras/1970s-street-rod-nationals.md#the-numbers).

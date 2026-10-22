@@ -1,3 +1,45 @@
+---
+title: 'Upper Midwest: Streets Before Strips'
+summary: The Minnesota Street Rod Association began in 1967 and by 1970 co-hosted the first Street Rod Nationals at Peoria.
+department: places
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1923
+- 2016
+region: Midwest
+states:
+- Minnesota
+cities:
+- St. Paul, Minnesota
+- Minneapolis, Minnesota
+people:
+- Jerry Johnson
+companies: []
+places: []
+clubs:
+- Minnesota Street Rod Association
+strips: []
+tags:
+- street-rods
+- cruising
+- grassroots-sources
+related:
+- places/lake-street-university.md
+- street-rodding/fiberglass-suppliers.md
+- street-rodding/nsra-early-nationals.md
+- eras/1970s-street-rod-nationals.md
+canonical_for: []
+---
 # Upper Midwest: Streets Before Strips
 
 *MSRA and Back to the 50's*
@@ -20,6 +62,8 @@ It later moved to the State Fairgrounds and became one of the biggest street-rod
 ## How it differed
 
 Here the *street rod association* came first and drag racing came second. A cold climate and long distances shaped a culture of summer driving events and cruises rather than year-round racing.
+
+*See also:* [Lake Street and University Avenue](lake-street-university.md).
 
 ## Open questions & disputed details
 

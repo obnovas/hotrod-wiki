@@ -1,3 +1,41 @@
+---
+title: 'The "Red Baron": A Mock Apology on Wheels'
+summary: The Hill brothers' "Red Baron" Willys gasser and Pete Hill's 1967 mock apology letter to Drag News, told mostly through oral history and documents gathered on a Gasser Legends page.
+department: cars
+eras:
+- 1940s
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+years:
+- 1941
+- 2017
+region: Midwest
+states:
+- Ohio
+cities: []
+people:
+- Fred Bear
+- Chuck Finders
+- Pete & Bill Hill
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- gassers
+- family-business
+related:
+- places/ohio-gassers.md
+- companies/mr-gasket.md
+- drag-racing/akron-fulton-airport.md
+- companies/crane-cams.md
+canonical_for: []
+---
 # The "Red Baron": A Mock Apology on Wheels
 
 *The Hill brothers' '33 Willys, 1967–69*

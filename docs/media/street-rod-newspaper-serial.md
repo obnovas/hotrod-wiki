@@ -1,3 +1,40 @@
+---
+title: 'Street Rod in the Small-Town Paper: Henry Gregor Felsen''s Serial (1953–1954)'
+summary: In 1954 small-town papers ran Henry Gregor Felsen's novel Street Rod as a daily serial, so a kid in Hope, Arkansas, could follow a hot rodder's fight with city hall.
+department: media
+eras:
+- 1950s
+years:
+- 1953
+- 1954
+region: Midwest
+states:
+- Iowa
+- Arkansas
+cities:
+- Hope, Arkansas
+people:
+- Henry Gregor Felsen
+companies: []
+places: []
+clubs:
+- Iowa Timing Association
+strips: []
+tags:
+- street-rods
+- magazines-and-media
+- car-clubs
+- drag-strips
+- town-politics
+- family-business
+- grassroots-sources
+related:
+- drag-racing/planners-report-1955.md
+- drag-racing/escanaba-dragns.md
+- drag-racing/ames-drag-strip-nightcrawlers.md
+- places/modesto.md
+canonical_for: []
+---
 # *Street Rod* in the Small-Town Paper: Henry Gregor Felsen's Serial (1953–1954)
 
 !!! abstract "Article record"

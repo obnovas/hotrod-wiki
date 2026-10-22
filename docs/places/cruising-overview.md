@@ -1,3 +1,42 @@
+---
+title: 'Cruising & Hangouts: Overview'
+summary: 'An overview of the cruise strips, drive-ins and street-racing spots we can source from about 1940 to 1990: where they were and how each was policed or ended.'
+department: places
+eras:
+- 1950s
+- 1960s
+- 1970s
+- 1980s
+- 1990s
+- 2000s
+- 2010s
+- 2020s
+years:
+- 1958
+- 2023
+region: West
+states:
+- California
+cities: []
+people: []
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- cruising
+- town-politics
+- car-clubs
+- police-and-safety
+- drag-strips
+related:
+- places/woodward.md
+- places/van-nuys.md
+- places/bobs-big-boy-river-road.md
+- places/harveys-broiler-downey.md
+- places/whittier-blvd.md
+canonical_for: []
+---
 # Cruising & Hangouts: Overview
 
 *Before the strips, and alongside them, the street was the showroom.*

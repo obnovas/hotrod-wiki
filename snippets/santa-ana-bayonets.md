@@ -1,0 +1,1 @@
+**Routed by bayonets.** In the late 1940s Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's Mile Square until, by one account, a company of U.S. Marines with fixed bayonets ran them off. C.J. "Pappy" Hart opened the Santa Ana drags in 1950. Full story: [Pappy Hart and the Bayonets](../eras/1950s-santa-ana-drags.md#routed-by-bayonets).

@@ -1,3 +1,40 @@
+---
+title: 'Tear Gas on the Runways: Pennsauken''s Central Airport, May 1958'
+summary: On a Tuesday night in May 1958, Pennsauken's police chief used fire hoses and tear gas on street racers at Camden's old airport. The next day bulldozers tore up the runways.
+department: drag-racing
+eras:
+- 1920s
+- 1930s
+- 1940s
+- 1950s
+years:
+- 1927
+- 1958
+region: Northeast
+states:
+- Pennsylvania
+- New Jersey
+cities: []
+people:
+- Russell Walton
+companies: []
+places: []
+clubs: []
+strips: []
+tags:
+- airport-strips
+- town-politics
+- car-clubs
+- police-and-safety
+- teenagers-and-schools
+related:
+- drag-racing/stroudsburg-ridge-runners.md
+- drag-racing/hanover-adams-county-clubs.md
+- drag-racing/marin-cotati-strips.md
+- drag-racing/semo-malden-drag-strip.md
+- drag-racing/akron-fulton-airport.md
+canonical_for: []
+---
 # Tear Gas on the Runways: Pennsauken's Central Airport, May 1958
 
 !!! abstract "Article record"
