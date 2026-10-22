@@ -9,7 +9,7 @@ eras:
 - 1960s
 years:
 - 1930
-- 1963
+- 1964
 region: West
 states:
 - California
@@ -17,12 +17,18 @@ cities:
 - Los Angeles, California
 people:
 - Leonard K. DeBell
+- George DuVall
+- Julian Doty
+- Frank Kurtis
+- Tony DeBell
 companies: []
 places: []
 clubs: []
 strips: []
 tags:
-- car-clubs
+- customs
+- speed-equipment
+- aftermarket-business
 related:
 - people/george-duvall.md
 - people/julian-doty.md
@@ -43,25 +49,23 @@ Leonard DeBell promoted his shop with customized delivery trucks: whitewalls, wh
 
 ## The owner and the shop
 
-Leonard K. DeBell was born April 23, 1904, in Louisville, Colorado, to Italian-born parents (father Stefano Zarlengo), and died January 24, 1992, in Los Angeles. The 1930 census lists him as "salesman, nickel-plating" and the 1940 census as "proprietor, electro-plating."[^cb] *(The name change from Zarlengo is implied by the census, not explained.)*
+The man behind the trucks had a long paper trail. Leonard K. DeBell was born April 23, 1904, in Louisville, Colorado, to Italian-born parents (father Stefano Zarlengo), and died January 24, 1992, in Los Angeles. The 1930 census lists him as "salesman, nickel-plating" and the 1940 census as "proprietor, electro-plating."[^cb] The census implies the name change from Zarlengo but does not explain it.
 
 The shop was at 4444 Sunset Blvd., later 3434 San Fernando Rd., Los Angeles.[^cb] Much of its work was building and plating grilles and accessories for midget racers.[^cb]
 
 ## The 1935 Ford phaeton delivery
 
-Coachbuilt gives detailed credits: a lift-up rear hatch by Chad Schultz of Joe Newell's body shop; a brass Cord-style grille by Frank Kurtis; a padded top by George Thomas (Ivar & Cahuenga); sea-foam green paint by Charles Remidi; a 1936 Cadillac front bumper, and Wood-Lites behind chrome openings.[^cb] Period photos ran in *Motor Life*, May 1955.[^cb]
+One of the trucks was a 1935 Ford phaeton, and Coachbuilt gives detailed credits: a lift-up rear hatch by Chad Schultz of Joe Newell's body shop; a brass Cord-style grille by Frank Kurtis; a padded top by George Thomas (Ivar & Cahuenga); sea-foam green paint by Charles Remidi; a 1936 Cadillac front bumper, and Wood-Lites behind chrome openings.[^cb] Period photos ran in *Motor Life*, May 1955.[^cb]
 
 ## The parts business
 
-**Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The shop also made parts. **Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The car that vanished
 
-Julian Doty told Pat Ganahl he last saw the phaeton around 1963–64, dusty in a body shop DeBell owned on Melrose one block east of Vermont. He tried to buy it from DeBell's son Tony and failed. "The car has not been seen since."[^cb]
-
-**Not yet read:** Pat Ganahl's feature on this car, "The Mystery Wagon," *The Rodder's Journal* No. 36, has not been checked first-hand. The quote above comes through Coachbuilt. A copy of RJ #36 is a priority request (see [Research Trail](../research-trail.md)).
+The phaeton itself is gone. Julian Doty told Pat Ganahl he last saw the phaeton around 1963–64, dusty in a body shop DeBell owned on Melrose one block east of Vermont. He tried to buy it from DeBell's son Tony and failed. "The car has not been seen since."[^cb]
 
 ## Open questions & disputed details
 
@@ -69,7 +73,9 @@ Julian Doty told Pat Ganahl he last saw the phaeton around 1963–64, dusty in a
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Claim repeated by both sources without a primary citation.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The Terraplane-grille credit is repeated by both sources without a primary citation. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+**Not yet read:** Pat Ganahl's feature on this car, "The Mystery Wagon," *The Rodder's Journal* No. 36, has not been checked first-hand. The Doty quote comes through Coachbuilt. A copy of RJ #36 is a priority request (see [Research Trail](../research-trail.md)).
 
 ## Images
 

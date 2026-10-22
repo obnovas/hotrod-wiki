@@ -20,8 +20,10 @@ states:
 cities: []
 people:
 - Kong Jackson
-- Charles "Kong" Jackson
+- Tom Medley
 - Alex Xydias
+- Clay Smith
+- Ed Winfield
 - Julian Doty
 companies: []
 places: []
@@ -53,11 +55,11 @@ canonical_for:
 
 ## Before the SCTA
 
-Fuel Curve (2023) quotes Jackson from Tom Medley's interview in Tex Smith's *Hot Rod History*: "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Jackson raced the lakes when there were no rules at all. Fuel Curve (2023) quotes Jackson from Tom Medley's interview in Tex Smith's *Hot Rod History*: "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Muroc, 1941
 
-"Here came a Jeep and out jumped these guys with bayonets. Man, we just split!" The Army Air Corps camp was downwind of the racers' dust. Jackson told Medley that about 90 percent of the men racing that day were in the service within two months.[^fc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Then the war reached the lakebed. "Here came a Jeep and out jumped these guys with bayonets. Man, we just split!" The Army Air Corps camp was downwind of the racers' dust. Jackson told Medley that about 90 percent of the men racing that day were in the service within two months.[^fc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Kong ignition
 
@@ -67,9 +69,7 @@ Alex Xydias, quoted by Fuel Curve: "Kong was a really, really smart guy, who was
 
 ## When did he die?
 
-The contemporaneous post (death Sept 4, 2000) is the stronger evidence, and we treat **2000** as the working date. A follow-up on the same list (Sept 2000) repeats the loss; Fuel Curve's "2002" remains unexplained. **Round 9:** still no LA Times/Daily News obituary found; list posts stand.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
-
-**Next breadcrumbs:** his 1988 interview with Tom Medley; the "stolen traffic-signal starting lights" story ([Julian Doty](julian-doty.md)); Sidewinders banquet records.
+Even his death date is argued. The contemporaneous post (death Sept 4, 2000) is the stronger evidence, and we treat **2000** as the working date. A follow-up on the same list (Sept 2000) repeats the loss; Fuel Curve's "2002" remains unexplained. We have still found no LA Times or Daily News obituary; the list posts stand.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Open questions & disputed details
 
@@ -82,6 +82,8 @@ The contemporaneous post (death Sept 4, 2000) is the stronger evidence, and we t
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far:** Fuel Curve says Clay Smith used this feature on the Lincoln team in the 1953 Mexican Road Race. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **The sources disagree.** A land-speed mailing-list post of **Sept 10, 2000**, by Katie Young Cortez, says he "passed away Monday (9/4)." She describes the funeral her father attended and says he left 8 children, 14 grandchildren and 2 great-grandchildren. It adds that he "began racing in 1938, I believe" and served in WWII and Korea.[^ls] Fuel Curve (2023) says he was at El Mirage "until his death in **2002**."[^fc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+**Next breadcrumbs:** his 1988 interview with Tom Medley; the "stolen traffic-signal starting lights" story ([Julian Doty](julian-doty.md)); Sidewinders banquet records.
 
 ## Images
 

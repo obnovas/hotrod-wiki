@@ -19,7 +19,7 @@ cities:
 - Dickinson, Texas
 people:
 - Gene Snow
-- Fast Eddie" Schartman
+- Eddie Schartman
 companies: []
 places: []
 clubs: []

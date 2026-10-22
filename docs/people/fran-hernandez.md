@@ -3,6 +3,8 @@ title: 'Fran Hernandez: From Goleta Nitro to Lincoln-Mercury Racing'
 summary: Fran Hernandez won a 1949 grudge race at Goleta on nitro and went on to Edelbrock, Stroppe, Autolite and Lincoln-Mercury racing.
 department: people
 eras:
+- 1920s
+- 1930s
 - 1940s
 - 1950s
 - 1960s
@@ -12,23 +14,43 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1948
+- 1922
 - 2011
-region: Midwest
+region: National
 states:
+- California
 - Michigan
 cities:
+- Goleta, California
 - Tecumseh, Michigan
 people:
 - Fran Hernandez
+- Tom Cobbs
 - Stu Hilborn
-- Fast Eddie" Schartman
-companies: []
+- Vic Edelbrock
+- Fred C. Offenhauser
+- Bobby Meeks
+- Bill Stroppe
+- Don Nicholson
+- Ronnie Sox
+- Roy Lunn
+- Al Turner
+companies:
+- Edelbrock
+- Offenhauser Sales
+- Autolite
+- Lincoln-Mercury
+- Logghe Stamping
+- Kar Kraft
 places: []
 clubs: []
 strips: []
 tags:
+- speed-equipment
 - funny-cars
+- dry-lakes
+- airport-strips
+- aftermarket-business
 related:
 - companies/logghe-stamping.md
 - people/stu-hilborn.md
@@ -57,13 +79,11 @@ Hot Rod and family obituaries call this among the first sanctioned drag races an
 
 Hot Rod notes Cobbs dyno'd engines at [Stu Hilborn](stu-hilborn.md)'s injection shop, a cross-link between the two scenes.[^hr]
 
-## Who he was
-
-Hernandez (born in Chihuahua, Mexico; died in Tecumseh, Mich.) grew up in Los Angeles, raced the dry lakes, helped put nitromethane into early drag racing, then ran Lincoln-Mercury's performance program that ordered the first [Logghe](../companies/logghe-stamping.md) flip-top Comets.[^dn][^hem]
+The man who won that grudge race went a long way from Goleta. Hernandez (born in Chihuahua, Mexico; died in Tecumseh, Mich.) grew up in Los Angeles, raced the dry lakes, helped put nitromethane into early drag racing, then ran Lincoln-Mercury's performance program that ordered the first [Logghe](../companies/logghe-stamping.md) flip-top Comets.[^dn][^hem]
 
 ## Lakes, Navy, Edelbrock
 
-Family and Detroit News: born in Chihuahua; family moved to California; lakes racing as a teen; WWII Navy first-class machinist's mate on **USS Cabot (CVL-28)** in the Pacific.[^dn]
+The family and the Detroit News fill in the early years: born in Chihuahua, the family's move to California, lakes racing as a teen, and WWII service as a Navy first-class machinist's mate on **USS Cabot (CVL-28)** in the Pacific.[^dn]
 
 After discharge he partnered with **Fred C. Offenhauser** in Offenhauser Sales, then sold his share and joined **Vic Edelbrock** around the late-1948 move to West Jefferson Blvd. Classmate **Bobby Meeks** is credited with bringing him in; Tom Madigan's Edelbrock book (via Hemmings) places him with Meeks and Don Towle in Vic's inner circle.[^hem]
 
@@ -71,7 +91,7 @@ He raced with Meeks's Coupes Club in the Rusetta Timing Association and held lak
 
 ## Stroppe, Autolite, Lincoln-Mercury
 
-In the late 1950s he was with Bill Stroppe's team and an Autolite consultant. After Ford bought Autolite (**1961**), Hernandez became director of Autolite Racing while Stroppe stayed independent.[^hem]
+Then came the factories. In the late 1950s he was with Bill Stroppe's team and an Autolite consultant. After Ford bought Autolite (**1961**), Hernandez became director of Autolite Racing while Stroppe stayed independent.[^hem]
 
 As head of Lincoln-Mercury racing, he ran A/FX Comets with drivers including Dyno Don Nicholson and Ronnie Sox. Trans-Am contacts went through Dearborn Steel Tubing and then [Logghe Stamping](../companies/logghe-stamping.md) for the **1966** flip-top Comets with Al Turner.[^hem][^gar]
 
@@ -79,13 +99,13 @@ Family and obituary circles credit him with helping coin **"Funny Car"** and wit
 
 In **1969–70** he managed Ford's Brighton (Kar Kraft) facility for the **Boss 429** Mustang program with Roy Lunn.[^dn][^hem] Later came Ford fabrication/build (family says presidential limousines for Reagan and G.H.W. Bush), retirement in the 1990s, and consulting.[^dn]
 
-## Which year did he die?
+## The end of the road
 
-The **working date** is Jan 5, 2011, age 88, Tecumseh, Mich. (Detroit News, Jan 20, 2011; family funeral text posted on H.A.M.B. Jan 2011).[^dn]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+Our **working date** for his death is Jan 5, 2011, at age 88, in Tecumseh, Mich. (Detroit News, Jan 20, 2011; family funeral text posted on H.A.M.B. Jan 2011).[^dn]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Survivors named in the News: wife Patricia (68 years), sons Randy and Rick, daughter Nancy, brother Luis, seven grandchildren.[^dn]
+The News named his survivors: wife Patricia (68 years), sons Randy and Rick, daughter Nancy, brother Luis, seven grandchildren.[^dn]
 
-**See also:** [Edelbrock's Slingshot](../companies/edelbrock-slingshot.md), [Logghe Stamping](../companies/logghe-stamping.md), [Eddie Schartman](eddie-schartman.md), [Stu Hilborn](stu-hilborn.md).
+*See also:* [Edelbrock's Slingshot](../companies/edelbrock-slingshot.md), [Logghe Stamping](../companies/logghe-stamping.md), [Eddie Schartman](eddie-schartman.md), [Stu Hilborn](stu-hilborn.md).
 
 ## Open questions & disputed details
 

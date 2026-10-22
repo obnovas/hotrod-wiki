@@ -22,7 +22,7 @@ people:
 - Walt & Art Arfons
 - Randy Lipscomb
 - Otis "Otie" Smith
-- Akron" Arlen Vanke
+- Arlen Vanke
 - Bob Bartel
 companies: []
 places: []

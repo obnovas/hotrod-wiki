@@ -23,7 +23,6 @@ people:
 - Dick (Richard) Mossey
 - Vivian Mossey
 - Arlen Vanke
-- Akron" Arlen Vanke
 companies: []
 places: []
 clubs:

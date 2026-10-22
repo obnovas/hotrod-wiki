@@ -5,32 +5,36 @@ department: people
 eras:
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1939
-- 2016
-region: National
-states: []
-cities: []
+- 1943
+region: West
+states:
+- California
+cities:
+- Los Angeles, California
 people:
 - Roy Hagy
+- Tom Sparks
+- Pat Ganahl
+- Jimmy Summers
+- George Bistagne
+- Tom Bistagne
+- Tommy Winship
+- Earl Bruce
+- Russell Johnson
 companies: []
 places: []
 clubs: []
 strips: []
 tags:
 - customs
+- oral-history
 related:
+- people/jimmy-summers.md
 - cars/techniques-and-styles.md
+- people/george-duvall.md
 - customs/hirohata-mercury.md
-- customs/kkoa-lead-sled-revival.md
-- drag-racing/fox-valley-road-deacons-gas-ketts.md
 canonical_for: []
 ---
 # Roy Hagy: The Man Who Wouldn't Use Lead
@@ -48,15 +52,15 @@ Sparks was an unpaid "sand boy" and learned gas welding and painting there.[^k]
 
 ## Where he fits
 
-Hagy and Jimmy Summers are named as two of the first LA shops to specialize in customizing production cars, as opposed to coachbuilders like Bohman & Schwartz or Coachcraft.[^k] His shop was on Vermont at Second Street. When Sparks worked there, Hagy was working out of a back room at Russell Johnson's paint shop.[^k]
+That makes Hagy one of the pioneers. Hagy and Jimmy Summers are named as two of the first LA shops to specialize in customizing production cars, as opposed to coachbuilders like Bohman & Schwartz or Coachcraft.[^k] His shop was on Vermont at Second Street. When Sparks worked there, Hagy was working out of a back room at Russell Johnson's paint shop.[^k]
 
-George and Tom Bistagne learned bodywork from Hagy around 1939–40.[^k] One known car is Tommy Winship's 1940 Ford coupe (later Earl Bruce's), with a chopped top, filled quarter windows, rounded door corners, and dechromed trim.[^k]
+Others learned from him too. George and Tom Bistagne learned bodywork from Hagy around 1939–40.[^k] One known car is Tommy Winship's 1940 Ford coupe (later Earl Bruce's), with a chopped top, filled quarter windows, rounded door corners, and dechromed trim.[^k]
 
-On where chopping came from, Sparks said, "It had to start sometime in the mid- to late-1930s." He added a caveat: "We weren't in Hollywood, and we didn't go very far."[^k]
+Sparks also had a view on where chopping came from: "It had to start sometime in the mid- to late-1930s." He added a caveat: "We weren't in Hollywood, and we didn't go very far."[^k]
 
 ## Why it matters
 
-Metal-finishing rather than leading puts Hagy against the grain of the "lead sled" era that followed ([Techniques](../cars/techniques-and-styles.md)).
+That one rule is what sets him apart. Metal-finishing rather than leading puts Hagy against the grain of the "lead sled" era that followed ([Techniques](../cars/techniques-and-styles.md)).
 
 ## Open questions & disputed details
 

@@ -18,6 +18,8 @@ states:
 cities: []
 people:
 - Kong Jackson
+- Tom Medley
+- Alex Xydias
 companies: []
 places: []
 clubs: []
@@ -25,6 +27,8 @@ strips: []
 tags:
 - oral-history
 - dry-lakes
+- car-clubs
+- speed-equipment
 related:
 - people/kong-jackson.md
 - companies/edelbrock-slingshot.md
@@ -43,11 +47,15 @@ Tom Medley interviewed Charles "Kong" Jackson in **1988** for *Tex Smith's Hot R
 
 ## Before the SCTA
 
+Jackson started with the years before anyone was in charge:
+
 > "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."
 >
 > — **Kong Jackson** to Tom Medley (1988), quoted in Fuel Curve.[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> He dates the SCTA to 1938. Other sources say late 1937. Full story: [Muroc](../eras/1930s-dry-lakes-scta.md#may-or-march).
 
 ## Jeeps and bayonets
+
+Then the Army ended the racing at Muroc:
 
 > "We saw 'em coming and we knew what they were there for because the U.S. Army Air Corp was southwest of where we were running, and all our dust was blowing over their camp. We were working on our cars when here came a Jeep and out jumped these guys with bayonets. Man, we just split!"
 >
@@ -55,13 +63,15 @@ Tom Medley interviewed Charles "Kong" Jackson in **1988** for *Tex Smith's Hot R
 
 ## Still crazy about Flatheads
 
+He closed the interview looking back on all of it:
+
 > "When you start thinking about all the wild things we did in those days, you kind of wonder how we ever made it. I'm still as crazy as ever about Flatheads."
 >
 > — **Kong Jackson**, closing the 1988 interview.[^fc]
 
 ## A friend remembers
 
-Alex Xydias told Fuel Curve that Kong "was a really, really smart guy, who was president of the Sidewinders car club and timer at the lakes." He said So-Cal sold Jackson's ignitions: "Think we charged 49 bucks."[^fc]
+The last word goes to a friend. Alex Xydias told Fuel Curve that Kong "was a really, really smart guy, who was president of the Sidewinders car club and timer at the lakes." He said So-Cal sold Jackson's ignitions: "Think we charged 49 bucks."[^fc]
 
 *See also:* [Blackie Gold](blackie-gold.md).
 

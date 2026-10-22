@@ -18,18 +18,27 @@ states:
 cities:
 - Inyokern, California
 people:
+- Mac McKernan
+- Dennis Garrett
+- Steve Parsons
 - Bernie Partridge
-- Doris Herbert
+- David Leighton
+- Gus Leighton
+- Pat Ganahl
+- Mark Pahuta
+- Don Garlits
 companies: []
 places: []
 clubs:
 - Dust Devils Auto Club
-strips: []
+strips:
+- Inyokern Dragstrip
 tags:
 - airport-strips
-- car-clubs
 - drag-strips
+- car-clubs
 - police-and-safety
+- teenagers-and-schools
 - grassroots-sources
 related:
 - people/doris-herbert.md
@@ -52,18 +61,15 @@ A sheriff started it, and a federal agency ended it. In between, a quarter-mile 
 
 ## How a club ran a strip
 
-Details from the LA Times feature:[^lat]
+The LA Times feature shows how a club kept a strip alive for half a century.[^lat] The racers paid the airport about **$1,000 per racing day** (the airport manager's figure) and gave other funds, such as entry fees, to local charities including the Boy Scouts. To meet insurance requirements, volunteers erected two guardrails "begged from other tracks" nearly 20 years earlier.
 
-- The racers paid the airport about **$1,000 per racing day** (the airport manager's figure) and gave other funds, such as entry fees, to local charities including the Boy Scouts.
-- To meet insurance requirements, volunteers erected two guardrails "begged from other tracks" nearly 20 years earlier.
-- Club members spoke to Ridgecrest shop classes and invited students to "high school days" on the taxiway; the club's public address system was loaned to local clubs and parades.
-- They bought modern timing equipment with volunteer fundraising, sold sponsorships on hubcaps, and rented the timing gear to other tracks.
+The club also worked the town. Members spoke to Ridgecrest shop classes and invited students to "high school days" on the taxiway; the club's public address system was loaned to local clubs and parades. They bought modern timing equipment with volunteer fundraising, sold sponsorships on hubcaps, and rented the timing gear to other tracks.[^lat]
 
-Pat Ganahl, who visited in 2003, wrote: "But if you want a '50s drag race experience today, go to Inyokern. It's a time warp." He described a bare track with one small bleacher, no timing stand, two outhouses and an old Cadillac ambulance.[^pg]
+What they kept was old-fashioned. Pat Ganahl, who visited in 2003, wrote: "But if you want a '50s drag race experience today, go to Inyokern. It's a time warp." He described a bare track with one small bleacher, no timing stand, two outhouses and an old Cadillac ambulance.[^pg]
 
 ## The shutdown
 
-The LA Times says the FAA threatened the county-owned airport's certification and federal funding if "non-aviation activity such as drag racing continues," after a routine inspection of the airport, a move that "puzzled and saddened locals." Club president Garrett: "We're just regular working folks in an isolated place."[^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+Then came the inspection. The LA Times says the FAA threatened the county-owned airport's certification and federal funding if "non-aviation activity such as drag racing continues," after a routine inspection of the airport, a move that "puzzled and saddened locals." Club president Garrett: "We're just regular working folks in an isolated place."[^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 > "So many things don't work in our society. … Yet here's something positive that does, and some guy wants to crush it. I don't understand."
 >
@@ -71,13 +77,13 @@ The LA Times says the FAA threatened the county-owned airport's certification an
 
 ## The man at the microphone
 
-**Bernie Partridge** joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+The strip also launched a career. **Bernie Partridge** joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 At his 2012 memorial, NHRA's report quotes David Leighton, who worked with his father Gus and Partridge, "Dust Devils Auto Club alumni all," setting up impromptu airport tracks: "We opened and closed more racetracks than Steve Evans did."[^nhra]
 
 ## The town's own history
 
-In April 2025 the Historical Society of the Upper Mojave Desert announced a talk on Mark Pahuta's two-hour film *The Hot Rod Years*, built from interviews with twenty local hot rodders. The release says "racing on Trona Hill and cruising China Lake Boulevard between A&W, and Foster's Freeze was the stuff of local racing legend." It calls the Inyokern strip "the longest continuously running drag strip in the country" and lists interviewees including Don Waldron, J.D. Williams, Tex Whitson, Bob Cram, Billie Raglin and Dave Leighton.[^hs] We have not seen the film.
+The town still tells the story. In April 2025 the Historical Society of the Upper Mojave Desert announced a talk on Mark Pahuta's two-hour film *The Hot Rod Years*, built from interviews with twenty local hot rodders. The release says "racing on Trona Hill and cruising China Lake Boulevard between A&W, and Foster's Freeze was the stuff of local racing legend." It calls the Inyokern strip "the longest continuously running drag strip in the country" and lists interviewees including Don Waldron, J.D. Williams, Tex Whitson, Bob Cram, Billie Raglin and Dave Leighton.[^hs] We have not seen the film.
 
 <figure markdown>
 ![The runway at Inyokern Airport, 2011. The drag strip was on a taxiway at this airport, not](../assets/images/commons-inyokern-airport.jpg){ loading=lazy }

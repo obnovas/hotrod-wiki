@@ -3,25 +3,35 @@ title: 'Muroc: Where Everybody Raced at Once'
 summary: In the 1920s and 1930s Los Angeles racers drove to Muroc Dry Lake and raced side by side in unruly lineups, until the timing associations and the SCTA brought the stopwatch.
 department: eras
 eras:
+- 1920s
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
-- 1938
-- 2006
+- 1920
+- 1946
 region: West
 states:
 - California
 cities: []
-people: []
-companies: []
-places: []
-clubs: []
+people:
+- George Wight
+- Wally Parks
+- Ak Miller
+- George DuVall
+- Julian Doty
+- Barney Navarro
+- Blackie Gold
+companies:
+- Bell Auto
+- Gilmore Oil
+places:
+- Muroc Dry Lake
+- El Mirage
+clubs:
+- Road Runners
+- Hollywood Throttlers
+- 90MPH Club
+- Sidewinders
 strips: []
 tags:
 - dry-lakes
@@ -60,7 +70,7 @@ canonical_for:
 
 In the 1920s, the weekend racers of greater Los Angeles drove roughly 100 miles north to Muroc Dry Lake, partly to get away from the police. They brought modified four-cylinder Fords and raced them side by side across the lakebed in unruly "lineups."[^mojave]
 
-Bell Auto's George Wight is said to have worked with the young Gilmore Oil company to organize dry-lakes events at Muroc in the early 1930s.[^jj-bell]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+By the early 1930s someone was trying to organize it. Bell Auto's George Wight is said to have worked with the young Gilmore Oil company to organize dry-lakes events at Muroc in the early 1930s.[^jj-bell]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Enter the stopwatch
 
@@ -68,16 +78,15 @@ The Southern California Timing Association was organized on **November 29, 1937*
 
 Who was in the room is where it gets good.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-- **Drake's *Flat Out***: Hollywood Throttlers, 90MPH Club, Road Runners, Bungholers, Night Owls, Mercuries & Centuries, meeting at the Throttlers' clubhouse.
-- **Carrol's book**: Knight Riders, Sidewinders, Throttlers, Idlers, Ramblers, Road Runners and 90MPH Club.
+Drake's *Flat Out* lists the Hollywood Throttlers, 90MPH Club, Road Runners, Bungholers, Night Owls, and Mercuries & Centuries, meeting at the Throttlers' clubhouse. Carrol's book has the Knight Riders, Sidewinders, Throttlers, Idlers, Ramblers, Road Runners and 90MPH Club.
 
 Only three names show up in every account: **Throttlers, 90MPH Club, Road Runners**. Of the charter clubs, the Road Runners and the Sidewinders are still around today.[^rr]
 
-Coachbuilt.com adds that George DuVall and Julian Doty were charter Hollywood Throttlers "present when the SCTA was founded."[^cb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> (The packet doesn't fully cite "Drake" and "Carrol." Running those books down is on the [Research Trail](../research-trail.md).)
+Coachbuilt.com adds that George DuVall and Julian Doty were charter Hollywood Throttlers "present when the SCTA was founded."[^cb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## May or March?
 
-By mid-1938 the SCTA had 23 member clubs and 451 members. The Road Runners, with Wally Parks coordinating patrols at the first meet, were the third largest club with 31 members.[^rrpdf] Wally Parks and Ak Miller were founding Road Runners; Miller later became SCTA president, and Parks went on to found the NHRA in 1951.[^rr]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
+The new association grew fast, though even its first meet has two dates. By mid-1938 the SCTA had 23 member clubs and 451 members. The Road Runners, with Wally Parks coordinating patrols at the first meet, were the third largest club with 31 members.[^rrpdf] Wally Parks and Ak Miller were founding Road Runners; Miller later became SCTA president, and Parks went on to found the NHRA in 1951.[^rr]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The lakebed gets drafted
 
@@ -94,6 +103,8 @@ Then Muroc was gone. It became restricted and was absorbed into what is now Edwa
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** That backs the Throttlers' claim to a seat at the table. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **The first meet has two dates.** The Road Runners' history puts the first official SCTA meet at Muroc on **May 15, 1938**.[^rr] A 2014 StreetMuscle article says **March 15, 1938**.[^sm] The tiebreaker is a 1938 Muroc timing tag in the Jimmy Summers family album that reads "May 15, 1938, Muroc Roadster Races" (94.73 mph, stock V8).[^summers] That is primary-ish physical evidence for May, so **our working conclusion is May 15, 1938.** <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+**The club lists' sources:** the packet doesn't fully cite "Drake" and "Carrol." Running those books down is on the [Research Trail](../research-trail.md).
 
 [^mojave]: The Mojave Project, "Land Speeding at El Mirage." https://mojaveproject.org/dispatches-item/el-mirage-land-speed/
 [^jj-bell]: Ryan, "The History Of Bell Auto," The Jalopy Journal, May 12, 2010. https://www.jalopyjournal.com/?p=8704

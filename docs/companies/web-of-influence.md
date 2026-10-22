@@ -19,7 +19,7 @@ states:
 - Ohio
 cities: []
 people:
-- Akron" Arlen Vanke
+- Arlen Vanke
 - Ed Winfield
 - Ed "Isky" Iskenderian
 companies:

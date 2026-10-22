@@ -27,8 +27,8 @@ people:
 - Al Bergler
 - Malcolm Durham
 - Bob Bartel
-- Akron" Arlen Vanke
-- Fast Eddie" Schartman
+- Arlen Vanke
+- Eddie Schartman
 companies: []
 places: []
 clubs:

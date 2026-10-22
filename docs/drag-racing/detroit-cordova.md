@@ -21,7 +21,7 @@ people:
 - Don Garlits
 - Gil Kohn
 - Setto Postoian
-- Fast Eddie" Schartman
+- Eddie Schartman
 companies:
 - Michigan Hot Rod Assn.
 places: []

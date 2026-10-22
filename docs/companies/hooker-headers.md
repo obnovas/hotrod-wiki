@@ -20,7 +20,7 @@ cities:
 people:
 - Gary / Hooker Headers Hooker
 - Dick Wells
-- Akron" Arlen Vanke
+- Arlen Vanke
 companies: []
 places: []
 clubs: []

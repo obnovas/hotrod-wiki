@@ -3,29 +3,38 @@ title: Peoria, and the Boss Who Never Said Yes
 summary: In 1970 the Rod & Custom crew organized the first Street Rod Nationals in Peoria, though their bosses never said yes. Here is why Peoria, and how many came.
 department: eras
 eras:
-- 1930s
-- 1940s
-- 1950s
 - 1960s
 - 1970s
 - 1980s
-- 1990s
-- 2000s
 years:
-- 1932
-- 2007
+- 1968
+- 1988
 region: Midwest
 states:
 - Illinois
 cities:
 - Peoria, Illinois
-people: []
-companies: []
+people:
+- Tom Medley
+- Bud Bryan
+- Jim Jacobs
+- Tex Smith
+- Gary Magner
+- Forest Lemmons
+- Andy Brizio
+- Orv Elgie
+companies:
+- Petersen Publishing
 places: []
-clubs: []
+clubs:
+- Slo-Pokes
+- Minnesota Street Rod Association
 strips: []
 tags:
 - street-rods
+- car-shows
+- magazines-and-media
+- car-clubs
 related:
 - voices/peoria-1970.md
 - places/midwest-east.md
@@ -50,21 +59,21 @@ By the late 1960s, street rodders were again "lightning rods, much like the hot 
 
 ## Why Peoria
 
-Medley picked the **Slo-Pokes** club of Peoria, Illinois because Peoria "was almost the center of the population of the U.S." He met the mayor and council to assure them "we weren't a bunch of greasy fingered motorcycle guys."
+The first question was where. Medley picked the **Slo-Pokes** club of Peoria, Illinois because Peoria "was almost the center of the population of the U.S." He met the mayor and council to assure them "we weren't a bunch of greasy fingered motorcycle guys."
 
-Petersen management ("the 7th floor") never approved it. The staff went ahead anyway. Gary Magner of the **Minnesota Street Rod Association** co-hosted.[^rc]
+The second was permission, and it never came: Petersen management ("the 7th floor") never approved it. The staff went ahead anyway. Gary Magner of the **Minnesota Street Rod Association** co-hosted.[^rc]
 
 ## A hayfield, a rally and a long way home
 
-A hayfield loaned by a Mr. Forest Lemmons hosted the show. There was a swap meet, a ~45-minute driving rally that about 200 rodders ran, and an improvised cone slalom Tex Smith called a "Streetkhana."[^rc]
+The event itself was homemade. A hayfield loaned by a Mr. Forest Lemmons hosted the show. There was a swap meet, a ~45-minute driving rally that about 200 rodders ran, and an improvised cone slalom Tex Smith called a "Streetkhana."[^rc]
 
-Andy Brizio drove his America's Most Beautiful Roadster-winning '23 T-bucket ~2,000 miles from San Francisco with four friends, towing a broken car 740 miles to Cheyenne. Then he watched Best Car go to a trailered car.[^rc]
+Some came a very long way. Andy Brizio drove his America's Most Beautiful Roadster-winning '23 T-bucket ~2,000 miles from San Francisco with four friends, towing a broken car 740 miles to Cheyenne. Then he watched Best Car go to a trailered car.[^rc]
 
-See [Midwest & East Threads](../places/midwest-east.md) for the Slo-Pokes and the Best Car puzzle (Orv Elgie's 8,000-mile drive vs Brizio's "trailer" complaint).
+That Best Car call is still a puzzle; see [Midwest & East Threads](../places/midwest-east.md) for the Slo-Pokes and the two stories (Orv Elgie's 8,000-mile drive vs Brizio's "trailer" complaint).
 
 ## The numbers
 
-Hagerty, citing MotorTrend, gives **August 14–16, 1970** and **600 street rods**. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] *(Verified on the page in Round 2; still secondary.)* The NSRA's founding date is not yet confirmed from an NSRA source.
+How many came is harder to pin down. Hagerty, citing MotorTrend, gives **August 14–16, 1970** and **600 street rods**. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] We checked those figures on Hagerty's page, but they are still secondary. The NSRA's founding date is not yet confirmed from an NSRA source.
 
 *See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md).
 

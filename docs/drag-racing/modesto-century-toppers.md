@@ -7,13 +7,18 @@ eras:
 - 1950s
 years:
 - 1946
-- 1950
+- 1951
 region: West
 states:
 - California
 cities:
 - Modesto, California
-people: []
+people:
+- Gene Winfield
+- Orvel Reichert
+- Ezra Earhart
+- Don Halterman
+- Al Slonaker
 companies: []
 places: []
 clubs:
@@ -28,10 +33,10 @@ tags:
 - car-shows
 - grassroots-sources
 related:
-- media/show-circuit.md
 - places/modesto.md
 - drag-racing/planners-report-1955.md
-- places/cruising-overview.md
+- media/show-circuit.md
+- voices/show-custom-voices.md
 canonical_for: []
 ---
 # Modesto's Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946–50)
@@ -48,17 +53,21 @@ The Century Toppers were Modesto's first hot rod club, named for cars that could
 
 ## The coop, the jackets and the lakes
 
-**The shop.** Winfield began customizing in his mother's converted chicken coop on Figaro Street, and the club met at his "Windy's Custom Shop," per Modestoview and Kustomrama. Later he moved to 451 Tully Road, across from Modesto Junior College.[^int][^kr]
+It started in a chicken coop. Winfield began customizing in his mother's converted chicken coop on Figaro Street, and the club met at his "Windy's Custom Shop," per Modestoview and Kustomrama. Later he moved to 451 Tully Road, across from Modesto Junior College.[^int][^kr]
 
-**Membership.** Orvel Reichert said you did not need a hot rod, custom or car to join. The white jackets had Kelly-green trim and a top-hat logo, and members sometimes wore "a cheap black top hat" while driving.[^kr]
+The club was open. Orvel Reichert said you did not need a hot rod, custom or car to join. The white jackets had Kelly-green trim and a top-hat logo, and members sometimes wore "a cheap black top hat" while driving.[^kr]
 
-**The lakes.** "Several members" ran dry-lakes events through the Valley Timing Association. Winfield says he built fast cars "and go to El Mirage and then Bonneville in '51."[^kr][^int]
+Some of them went racing. "Several members" ran dry-lakes events through the Valley Timing Association. Winfield says he built fast cars "and go to El Mirage and then Bonneville in '51."[^kr][^int]
 
 ## In their own words: racing and cruising
+
+Closer to home, the racing was on county roads:
 
 > "We did some out racing out on Paradise road and later we had a county road out by Empire. We would go out at night and do all kinds of racing, and we marked off a ¼ mile and a full mile track."
 >
 > — **Gene Winfield**, Modestoview interview.[^int]
+
+And the cruising was on 10th Street:
 
 > "At first it was only 10th back and forth, and then later they opened it up and made 10th one way and 11th back and it was a loop."
 >
@@ -66,18 +75,17 @@ The Century Toppers were Modesto's first hot rod club, named for cars that could
 
 ## The paper trail (via Kustomrama)
 
-Kustomrama summarizes newspaper items; we have not seen the original pages.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+In 1949 the club turned up in the papers, and the stories show it on the side of the law. Kustomrama summarizes the items; we have not seen the original pages.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-- **March 1949, Tracy Press:** Winfield, as club president, wrote a letter after accusations at a Tracy City Council meeting about racing at the Jerusalem Airport on March 6. Kustomrama says he wrote that club members were not involved and that the incident was a misunderstanding involving non-members.[^kr]
-- **April 30, 1949, Modesto Bee:** the club and the Highway Patrol hosted a traffic-safety evening with films at Modesto Junior College.[^kr]
-- **October 18, 1949, Modesto Bee:** a safety session with Highway Patrolman Ezra Earhart and Captain Don Halterman. Stockton and Sacramento clubs attended, and Earhart announced plans to help the club incorporate.[^kr]
-- **April 20, 1950, Modesto Bee:** the club's incorporation was announced, with a stated mission of promoting sportsmanship and safety.[^kr]
+In March 1949 the *Tracy Press* reported accusations at a Tracy City Council meeting about racing at the Jerusalem Airport on March 6. Winfield, as club president, wrote a letter in reply. Kustomrama says he wrote that club members were not involved and that the incident was a misunderstanding involving non-members.[^kr]
+
+A month later the club was working with the police. On April 30, 1949, the *Modesto Bee* reported, the club and the Highway Patrol hosted a traffic-safety evening with films at Modesto Junior College.[^kr] On October 18 the *Bee* covered a safety session with Highway Patrolman Ezra Earhart and Captain Don Halterman. Stockton and Sacramento clubs attended, and Earhart announced plans to help the club incorporate.[^kr] On April 20, 1950, the *Bee* announced the club's incorporation, with a stated mission of promoting sportsmanship and safety.[^kr]
 
 This matches the pattern in [What the City Planners Wrote (1955)](planners-report-1955.md), which says the CHP worked with clubs from 1948 until a 1953 order ended it.
 
 ## The first show
 
-The Century Toppers held their first car show December 10–11, 1949 at the Griswold & Wight Ford dealership, with Orvel "Speed" Reichert in charge. Kustomrama adds that Winfield remembers **Al Slonaker**, the man behind the Oakland Roadster Show, visiting to choose cars for his first show.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side of that story.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> single source.
+The club also put cars on display. The Century Toppers held their first car show December 10–11, 1949 at the Griswold & Wight Ford dealership, with Orvel "Speed" Reichert in charge. Kustomrama adds that Winfield remembers **Al Slonaker**, the man behind the Oakland Roadster Show, visiting to choose cars for his first show.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side of that story.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 <figure markdown>
 ![Gene Winfield demonstrating metalwork to students at the Milwaukee World of Wheels show, 2](../assets/images/commons-gene-winfield-milwaukee-2013.jpg){ loading=lazy }

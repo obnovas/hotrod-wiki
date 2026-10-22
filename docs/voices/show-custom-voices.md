@@ -22,7 +22,7 @@ cities:
 people:
 - Tom Prufer
 - Mary Slonaker
-- Fast Eddie" Schartman
+- Eddie Schartman
 companies: []
 places: []
 clubs: []

@@ -20,7 +20,7 @@ cities:
 - Stow, Ohio
 people:
 - Paul / Summit Racing Equipment Sergi
-- Akron" Arlen Vanke
+- Arlen Vanke
 companies: []
 places: []
 clubs: []

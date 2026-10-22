@@ -21,7 +21,7 @@ cities:
 - Fraser, Michigan
 people:
 - Ron & Gene / Logghe Stamping Logghe
-- Fast Eddie" Schartman
+- Eddie Schartman
 - Al Bergler
 - Fran Hernandez
 - Malcolm Durham

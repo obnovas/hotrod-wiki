@@ -21,7 +21,7 @@ cities:
 people:
 - Joe Schubeck
 - Ed "Isky" Iskenderian
-- Akron" Arlen Vanke
+- Arlen Vanke
 companies:
 - Lakewood Industries
 places: []

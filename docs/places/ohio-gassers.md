@@ -27,8 +27,8 @@ people:
 - Dave Meal
 - '"Ohio George" Montgomery'
 - Gene Schwartz
-- Fast Eddie" Schartman
-- Akron" Arlen Vanke
+- Eddie Schartman
+- Arlen Vanke
 - Bob Bartel
 companies: []
 places: []

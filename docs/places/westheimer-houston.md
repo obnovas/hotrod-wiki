@@ -3,11 +3,12 @@ title: Westheimer Road, Houston
 summary: Houston's 1980s cruise on Westheimer Road, east through Montrose to a turnaround at Elgin and back.
 department: places
 eras:
+- 1970s
 - 1980s
 - 1990s
 - 2000s
 years:
-- 1986
+- 1977
 - 2009
 region: Southwest
 states:
@@ -21,12 +22,15 @@ places: []
 clubs: []
 strips: []
 tags:
+- cruising
 - teenagers-and-schools
+- police-and-safety
+- town-politics
 related:
-- companies/comp-cams-rhs.md
-- companies/crane-cams.md
-- companies/moroso.md
-- people/jimmy-summers.md
+- places/cruising-overview.md
+- places/summer-avenue-memphis.md
+- places/central-avenue-albuquerque.md
+- places/dragging-main.md
 canonical_for: []
 ---
 # Westheimer Road, Houston
@@ -38,7 +42,9 @@ canonical_for: []
 
 **Location:** Westheimer Rd. Cruisers drove east from west Houston through Montrose, turned around at Elgin and drove back out. · **Peak:** the 1980s, "Oil Bust Houston." · **Status:** a **regional repeat gathering**, with no documented builder or company links.
 
-## In his words
+## The ritual
+
+The best account comes from a man who drove it as a teenager:
 
 > "For such a big city, '80s Houston was in some ways still a small town. Case in point: the teenage ritual of cruising Westheimer, in which the fourth largest city in America did its best to impersonate a one-Dairy Queen town, one where all you can do is drive down the strip and then turn back around."
 >
@@ -48,11 +54,13 @@ Lomax describes suburban teenagers in "Blazers and Cutlasses" gawking at the Mon
 
 ## The end
 
+The city ended it, quickly:
+
 > "In about 1986, the City decided enough was enough and cracked down on the pastime by setting up roadblocks and banning turning off of side-streets, and the whole phenomenon vanished in about a month."
 >
 > — **Lomax**, 2009.[^hp]
 
-He says the scene then moved to the Richmond Strip, Shepherd Plaza, downtown, Midtown and Washington Avenue.[^hp]
+The kids did not stop cruising. He says the scene then moved to the Richmond Strip, Shepherd Plaza, downtown, Midtown and Washington Avenue.[^hp]
 
 ## Images
 

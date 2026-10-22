@@ -19,7 +19,7 @@ people:
 - Carl & Marie Gay
 - Don & Roy Gay
 - Gene Snow
-- Fast Eddie" Schartman
+- Eddie Schartman
 companies: []
 places: []
 clubs: []

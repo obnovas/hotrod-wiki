@@ -62,7 +62,7 @@ In **1950** he spent six weeks at McGrath's LA shop and met Joe Pisano and Ed Is
 
 Back home he opened **Farmington Speed Shop** and built a flathead roadster, then a DeSoto Hemi dragster, his first OHV engine.[^mm]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Then came the wins. He won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm] Full story: [The Upset at Cordova](../drag-racing/detroit-cordova.md#1957-the-garlits-upset).
+Then came the wins. He won back-to-back Top Fuel at the **World Series of Drag Racing** in 1957 and 1958 with a 392 Chrysler.[^mm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Full story: [The Upset at Cordova](../drag-racing/detroit-cordova.md#1957-the-garlits-upset).
 
 Garlits told NHRA that Iskenderian made two blower kits, "one for me and one for Setto Postoian."[^nhra]
 
@@ -72,7 +72,9 @@ It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Possible error:** the MMSHOF says he won the "Riverside Nationals" four years running, 1953–56.[^mm] It needs checking against period results. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Possible error:** the MMSHOF says he won the "Riverside Nationals" four years running, 1953–56.[^mm] It needs checking against period results. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Sources disagree: which engine won the World Series?** The MMSHOF says he won the 1957 and 1958 titles "after switching to a 392 cubic inch Chrysler."[^mm] BangShift describes the car that beat Garlits in both finals as an "unblown, carbureted 359-inch 354 Chrysler Hemi-powered nitro dragster."[^bs] Period results or photos would settle it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
@@ -83,4 +85,5 @@ It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and
 
 [^mm]: Michigan Motor Sports Hall of Fame, "Serop 'Setto' Postoian." https://www.mmshof.org/index.php/inductees/inductees/326-serop-setto-postoian
 [^aw]: Autoweek, "Swamp Rat Is a One-of-a-Kind Drag-Racing Treasure." https://www.autoweek.com/racing/nhra/a30456374/swamp-rat-is-a-one-of-a-kind-drag-racing-treasure/
+[^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/ (read 2026-10-22)
 [^nhra]: NHRA, "Two legends: 'Big' and Bakersfield" (2025, search excerpt). https://nhra.sport/news/2025/two-legends-big-and-bakersfield
