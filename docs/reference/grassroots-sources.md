@@ -49,10 +49,14 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - *Kingston Daily Freeman*, Round 18 addition: a UP wire story from the 1957 New York towns convention → [Opinions Differ on Hot Rods](../drag-racing/new-york-towns-panel-1957.md).
 - *Escanaba Daily Press*, Round 18 additions (Jan–Jun 1955): a teen safety conference's hot rod resolutions, meeting notices and a police-ticket column → [Escanaba](../drag-racing/escanaba-dragns.md).
 - [Daily Independent-Journal, San Rafael](https://archive.org/details/san-rafael-daily-independent-journal-1956-07-13) (Marin County, Calif., 1955–64; scanned OCR) → a lawyer's county drag strip plan, garage dragsters, club letters and the Cotati strip → [Marin & Cotati](../drag-racing/marin-cotati-strips.md).
-- [Sikeston Daily Standard](https://archive.org/details/sikeston-daily-standard-1962-07-23) (Sikeston, Mo., 1961–70; scanned OCR) → the SEMO strip at Malden Air Base and its Memphis winners → [SEMO Malden](../drag-racing/semo-malden-drag-strip.md).
+- [Sikeston Daily Standard](https://archive.org/details/sikeston-daily-standard-1962-07-23) (Sikeston, Mo., 1961–71; scanned OCR) → the SEMO strip at Malden Air Base, its Memphis winners, and (Round 20) Joe Lunati's 1966 Corvair match and the 1971 AHRA season → [SEMO Malden](../drag-racing/semo-malden-drag-strip.md).
+- [The Salem News](https://archive.org/details/salem-news-1958-06-20) (Salem, Ohio, 1958–77; scanned OCR) → a plane landing on the drag strip, trophy dances, the 1964 NHRA rebuild and the 1977 seasons → [Quaker City](../drag-racing/quaker-city-salem.md).
+- [Appleton Post-Crescent](https://archive.org/details/appleton-post-crescent-1964-08-06) (Appleton, Wis., 1960–68; scanned OCR) → readers' and a club's letters, a county board's airport debate, a girls' car club, the Road Deacons and the KK Sports Arena → [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md), [Road Deacons & Gas-Ketts](../drag-racing/fox-valley-road-deacons-gas-ketts.md).
+- [Jacksonville Daily Journal](https://archive.org/details/jacksonville-daily-journal-1967-05-28) (Jacksonville, Ill., 1967–72; scanned OCR) → a Beardstown correspondent's column and strip ads → [Beardstown](../drag-racing/beardstown-drag-strip.md).
 - [Gettysburg Times](https://archive.org/details/gettysburg-times-1959-03-06) (Gettysburg, Pa., 1956–59; scanned OCR) → village columns on Hanover, Gettysburg and Taneytown clubs, and an AP report of Pennsauken → [Gettysburg & Hanover clubs](../drag-racing/hanover-adams-county-clubs.md), [Pennsauken 1958](../drag-racing/pennsauken-central-airport-1958.md).
 
 ### Obituaries and funeral-home pages
+- [Memphis Funeral Home, Joe Lunati](https://www.dignitymemorial.com/obituaries/memphis-tn/joe-lunati-11461265) (2023, via Dignity Memorial) → the family's birth date and place, the 1969 founding date and title count, both in conflict with other sources ⚠ → [Joe Lunati](../people/joe-lunati.md).
 - [Wendt Funeral Home](https://www.wendtfuneralhome.com/obituaries/robert-j-bartel) (Bob Bartel, 2018) → birthplace, marriage, the 1956 Cordova farm purchase → [Bob Bartel](../people/bob-bartel.md).
 - [Pike County Courier](https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961) (Almquist, 2015) → the 1947 founding date that conflicts with Hemmings → [Ed Almquist](../people/ed-almquist.md).
 - [Engle Racing Cams obituary page](https://doczz.net/doc/1013817/engle-cams---engle-racing-cams) (company's obituary flyer, mirrored) → Jack Engle's 1939 and 1941 dates → [Jack Engle](../people/jack-engle.md).
@@ -93,6 +97,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [JR Thompson's Gasser Reunion page](http://www.jrthompson.net/gasserreunionchuckfinders.html) (includes "Farewell, Chuck Finders" by his son) → Chuck Finders's racing start and shop, told by his son (family account, ◐) → [The Ohio Gassers](../places/ohio-gassers.md).
 
 ### Local history sites, historical societies and blogs
+- [Salem Public Library, *Yesteryears*](http://history.salem.lib.oh.us/SalemHistory/Yesteryears/1992/Vol1No39Mar2op.pdf) (the *Salem News*'s 1990s local-history journal, digitized by the library) → the Mosseys' own story of Quaker City, 1957 onward → [Quaker City](../drag-racing/quaker-city-salem.md).
 - [houstonfreewaydragstrip.com](https://www.houstonfreewaydragstrip.com/houston-international-speedway-history.htm) → the strip's local chronology and quoted 1959 Chronicle text, with its own claim that Don Gay bought it → [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md).
 - [Historical Society of the Upper Mojave Desert](https://www.ridgecrestca.com/news/hsumd-april-meeting-drag-racing-in-old-ridgecrest/article_7bc2f56d-951b-4f93-8b58-eba04720b1bd.html) (2025 talk announcement) → local memories of racing around Ridgecrest, and the claim that Inyokern was the longest-running strip → [Inyokern](../drag-racing/inyokern-dust-devils.md).
 - [1947project](http://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html) (a blog that posts daily 1947 news) → a July 1947 Compton court item → [Pomona](../drag-racing/pomona-choppers-fontana.md).
@@ -146,6 +151,13 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 20 status
+| Archive | Round 20 status |
+|---|---|
+| Internet Archive newspaper scans | **Readable.** New runs used: *The Salem News* (Ohio), *Appleton Post-Crescent* (Wis.), *Jacksonville Daily Journal* (Ill.), more *Sikeston Daily Standard*. The full-text search only ranks the top hits, so for Salem we downloaded every 1957–58 issue and searched them locally; a few downloads returned HTTP 500 or timed out (one Appleton issue, Apr. 22, 1966, never loaded). Many pages have interleaved columns; we quote only clean passages. |
+| Salem Public Library history site | Timed out from our server's shell; the same PDF loaded through the fetch tool. |
+| Hanover *Evening Sun*, Santa Rosa *Press Democrat*, Camden *Courier-Post* | Still not found in open archives; carried forward. |
 
 ### Round 19 status
 | Archive | Round 19 status |

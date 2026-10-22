@@ -1,7 +1,7 @@
-# Memphis Comes to the Bootheel: the SEMO Drag Strip at Malden Air Base (1961–70)
+# Memphis Comes to the Bootheel: the SEMO Drag Strip at Malden Air Base (1961–71)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*Sikeston Daily Standard*, Sikeston, Mo.): race reports, results lists and display ads, 1961–70, read as scanned page OCR; Wikipedia and a USGS photo for the airfield's history · **Last verified:** 2026-10-21 (Round 19) · **Open issues:** many racers' names are mangled in the OCR, so we name only those that read cleanly; the 1965 ad's headline car reads like Ray Godman's "Bo-Weevil" but the scan is garbled ◐; Dick Belletti's name is spelled "Beltetti" in the paper ◐; when the strip closed is not known · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*Sikeston Daily Standard*, Sikeston, Mo.): race reports, results lists and display ads, 1961–71, read as scanned page OCR; Wikipedia and a USGS photo for the airfield's history · **Last verified:** 2026-10-22 (Round 20; Easter 1966 match race, 1966 promoter contact and 1970–71 seasons added) · **Open issues:** many racers' names are mangled in the OCR, so we name only those that read cleanly; the 1965 ad's headline car reads like Ray Godman's "Bo-Weevil" but the scan is garbled ◐; Dick Belletti's name is spelled "Beltetti" in the paper ◐; the April 1966 report calls the Malden strip "Lakeland Drag Strip," the name of the Memphis track, probably a slip ◐; when the strip closed is not known (it was still racing in 1971) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "After great interest was shown throughout Southeast Missouri in drag racing, the decision was made to open the Malden Strip."
@@ -31,15 +31,25 @@ The Memphis names matter. Memphis had its own drags at an old bomber base at Hal
 ## Prize money and a final race (1963–64)
 The 1963 season opened in April with too few cars for two of the five classes. The $100 top stock eliminator prize went to Andy French, now of Oran, "and his Dodge with a 426 cu. in. motor," and $40 to the Hartsfield brothers.[^sk630409] At the last meet of 1964, **Jim Satterfield of Sikeston** won top eliminator in "a 1949 Chevy powered Angelia" (that is, an English Ford Anglia), two straight in a best-of-three, for $75 and a trophy, with an 11.75-second E.T. A Memphis racer brought a Chevy-powered station wagon to "take on all challengers."[^sk641028]
 
-## NHRA, the Jaycees and the trick truck (1965–70)
+## NHRA and the Jaycees (1965)
 The 1965 opening-day ad read: "SEMO DRAGSTRIP Malden Air Base, Malden, Mo. NHRA SANCTIONED - SPONSORED BY JAYCEES," for Sunday, April 11, with trophies to all class winners and a rain phone number. The featured car was a Tennessee AA fuel dragster. ◐ *The scan reads "La;. Hodman's Rouble A Fuel Dragster, The Tennessee IV-Weevil," which looks very much like Memphis racer Ray Godman's Bo-Weevil, but we cannot read it cleanly.*[^sk650409]
 
-In June 1966, about 500 people watched Dick Belletti's "Trick Truck" try to do a wheelstand the whole quarter mile, "a feat never before done at the Malden Drag Strip." On his last run he came down about 600 feet short. The same day's results list a "Batman A-Go-Go" car and a Sikeston street racer billed only as "Mr. X."[^sk660627] ◐ *The paper spells him "Beltetti."* In October 1970 the strip was still holding "a big altered meet" with $150 for the first-round winner.[^sk701028]
+## Easter 1966: the Kingfish and Joe Lunati's Corvair
+The Easter 1966 ad went big: "MALDEN DRAG STRIP EASTER SUNDAY JOE LUNATI'S 1966 427 CORVAIR" against "THE KINGFISH BLOWN BARRACUDA." The Sunday before, it said, Larry Reyes had run the Lakeland strip in Memphis in 9.02 seconds at 157 miles per hour for a new track record, then come back and run so hard the car stood straight up on its back bumper. "This Sunday at Malden I may take off for the moon!" Reyes promised. The strip was "Located on North Side of the Malden Airport."[^sk660408]
+
+Hundreds came. Time trials ran until 2:30 because of the turnout, and fans were warned to get behind the starting line "because of the danger of an engine blowing up." In the first run the Kingfish beat the Corvair to the line. Then "Joe Lunati tore up his differential while warming up for the second race," so Reyes ran alone. On his next pass he broke two strip records for his class, best E.T. and top speed.[^sk660412] ◐ *The report calls the strip "Lakeland Drag Strip at Malden," probably mixing it up with the Memphis track.* Joe Lunati was the Memphis racer who founded [Lunati Cams](../people/joe-lunati.md) a few years later.
+
+A month later the ad was Ford vs. Chevy: Chester Andrews' injected fuel-burning Mustang from Orange, Texas (9.98 at 134.56) against Jim Kirby's fuel Chevy II from Festus, Mo., three out of five, with $50 eliminator purses and a $15 bike eliminator. "For further information call: Jim New … Risco, Mo." The ad also promised "The Teleflex Trick Truck Is Coming To Malden Drag Strip Soon."[^sk660506] ◐ *Jim New is the first contact person we've found in a Malden ad; we don't yet know his role.*
+
+In June a trick truck did come (◐ whether it was the Teleflex truck the ad promised is not stated): about 500 people watched Dick Belletti's "Trick Truck" try to do a wheelstand the whole quarter mile, "a feat never before done at the Malden Drag Strip." On his last run he came down about 600 feet short. The same day's results list a "Batman A-Go-Go" car and a Sikeston street racer billed only as "Mr. X."[^sk660627] ◐ *The paper spells him "Beltetti."* ## Easter 1966: the Kingfish and Joe Lunati's Corvair
+
+## Still running (1970–71)
+In October 1970 the strip was still holding "a big altered meet" with $150 for the first-round winner.[^sk701028] Its last meet of that season, at "The Malden Dragstrip on Highway 25 North," paid $200, $100 and $50 by round; admission was $2.[^sk701114] In March 1971 the paper reported that "Southeast Missouri's drag racing season gets started at the Dragstrip Sunday as the strip opens its gates for a big racing season under the sanction of the American Hot Rod Association."[^sk710312] By then the NHRA sanction of 1965 had given way to the AHRA.
 
 *From the detective's notebook:* Malden fits the pattern of the old-airfield strips: a town that suddenly owned a lot of empty concrete, and a civic club willing to take the insurance risk. Compare [Akron's Fulton Airport](akron-fulton-airport.md), [Cotati](marin-cotati-strips.md) and the [Pocono strips](pocono-strips.md).
 
 ## Next leads
-The Southeast Missouri Dragsters' officers; the *Dunklin Democrat* (Kennett) and Malden's own paper; when racing at the base ended; a firsthand account of the Memphis racers' Bootheel trips; which runway was the strip.
+The Southeast Missouri Dragsters' officers; Jim New of Risco (1966 contact); the *Dunklin Democrat* (Kennett) and Malden's own paper; when racing at the base ended (after 1971); a 1970 news item about a "dragstrip area" north of Miner, Mo.; a firsthand account of the Memphis racers' Bootheel trips; which runway was the strip.
 
 ## Sources
 
@@ -55,5 +65,10 @@ The Southeast Missouri Dragsters' officers; the *Dunklin Democrat* (Kennett) and
 [^sk641028]: "The Malden Drag Strip held its final races of the season...," *Sikeston Daily Standard*, Oct. 28, 1964. Page OCR. https://archive.org/details/sikeston-daily-standard-1964-10-28 (accessed 2026-10-21)
 [^sk650409]: SEMO Dragstrip display ad, *Sikeston Daily Standard*, Apr. 9, 1965. Page OCR, partly garbled. https://archive.org/details/sikeston-daily-standard-1965-04-09 (accessed 2026-10-21)
 [^sk660627]: "'Trick Truck' Thrills Crowd," *Sikeston Daily Standard*, June 27, 1966. Page OCR. https://archive.org/details/sikeston-daily-standard-1966-06-27 (accessed 2026-10-21)
+[^sk660408]: Malden Drag Strip Easter display ad, *Sikeston Daily Standard*, Apr. 8, 1966. Page OCR (the ad ran three times on the day's pages). https://archive.org/details/sikeston-daily-standard-1966-04-08 (accessed 2026-10-22)
+[^sk660412]: "Hundreds See Kingfish Set Strip Record," *Sikeston Daily Standard*, Apr. 12, 1966. Page OCR. https://archive.org/details/sikeston-daily-standard-1966-04-12 (accessed 2026-10-22)
+[^sk660506]: Malden Drag Strip display ad, *Sikeston Daily Standard*, May 6, 1966. Page OCR. https://archive.org/details/sikeston-daily-standard-1966-05-06 (accessed 2026-10-22)
 [^sk701028]: "Top Drag Meet Set Sunday," *Sikeston Daily Standard*, Oct. 28, 1970. Page OCR, columns interleaved (quote corrected for OCR slips). https://archive.org/details/sikeston-daily-standard-1970-10-28 (accessed 2026-10-21)
+[^sk701114]: Outdoors column item, *Sikeston Daily Standard*, Nov. 14, 1970. Page OCR. https://archive.org/details/sikeston-daily-standard-1970-11-14 (accessed 2026-10-22)
+[^sk710312]: "Drag Racing To Begin Sun.," *Sikeston Daily Standard*, Mar. 12, 1971. Page OCR. https://archive.org/details/sikeston-daily-standard-1971-03-12 (accessed 2026-10-22)
 [^wikimalden]: "Malden Regional Airport," Wikipedia. https://en.wikipedia.org/wiki/Malden_Regional_Airport (accessed 2026-10-21)

@@ -653,3 +653,59 @@ highlights:
     image: commons-airport-circle-nj-map.jpg
     image_alt: Road map of Airport Circle in Pennsauken, New Jersey
     image_note: Airport Circle map; named for the old Central Airport.
+
+  - id: salem-tri-pacer-drag-strip
+    headline: With no airport in town, a Michigan pilot landed his Tri-Pacer on Salem, Ohio's farm-field
+      drag strip
+    teaser: In June 1958 a drilling-company owner flew in for a pump and "landed perfectly in his Tri-Pacer"
+      on Dick Mossey's 3,000-foot strip. Its night races ran under car headlights on poles, timed from a
+      silo.
+    link: drag-racing/quaker-city-salem.md
+    evidence: [landed perfectly in his Tri-Pacer, We made some haphazard things out of car headlights]
+    source_type: [Local news, Local history site]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s]
+    regions: ['Salem, Ohio']
+    image: commons-salem-ohio-quaker-city-postcard.jpg
+    image_alt: Large-letter postcard reading Greetings from Salem, Ohio, The Quaker City
+    image_note: 1953 postcard of Salem, the Quaker City; context only.
+
+  - id: gas-ketts-girls-car-club
+    headline: The boys laughed at the Fox Cities' first girls' car club, until it organized every club in
+      the valley
+    teaser: The Gas-Ketts of Appleton, Wis., formed in 1962 with jackets showing a girl holding a broken
+      gasket. Then the girls took the initiative in organizing the Fox Valley Rod and Custom Association,
+      which pushed for a dragway.
+    link: drag-racing/fox-valley-road-deacons-gas-ketts.md
+    evidence: the girls took the initiative in organizing the Fox Valley Rod and Custom Association
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Appleton, Wis.']
+    image: commons-kaukauna-downtown.jpg
+    image_alt: Brick storefronts in downtown Kaukauna, Wisconsin
+    image_note: Downtown Kaukauna, 2006; context only.
+
+  - id: lunati-corvair-kingfish-malden
+    headline: Joe Lunati's 427 Corvair met the Kingfish Barracuda on Easter Sunday 1966 at an old Missouri
+      air base
+    teaser: Hundreds came to Malden, Mo., to see the Memphis track-record holder race the Corvair. The Kingfish won the first run, and
+      then "Joe Lunati tore up his differential while warming up for the second race."
+    link: drag-racing/semo-malden-drag-strip.md#easter-1966-the-kingfish-and-joe-lunatis-corvair
+    evidence: Joe Lunati tore up his differential
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Malden, Mo.', 'Memphis, Tenn.']
+    image: commons-malden-airport-usgs-2006.jpg
+    image_alt: Aerial photo of Malden Regional Airport with crossing runways
+    image_note: Malden Regional Airport, USGS 2006; context only.
