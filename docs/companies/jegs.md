@@ -3,6 +3,7 @@ title: 'JEGS: A Columbus Racer Who Got Tired of Waiting for the Mail'
 summary: Jeg Coughlin Sr. got tired of waiting for parts to come by mail from far away, so in 1960 he opened JEGS on East Eleventh Avenue in Columbus, Ohio, half garage and half parts store.
 department: companies
 eras:
+- 1950s
 - 1960s
 - 1970s
 - 1980s
@@ -10,23 +11,29 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1960
+- 1959
 - 2010
 region: Midwest
 states:
 - Ohio
-- Delaware
 cities:
 - Columbus, Ohio
+- Delaware, Ohio
 people:
-- Jeg Sr. JEGS / Coughlin
+- Jeg Coughlin Sr.
+- Jeg Coughlin Jr.
+- Ray Stagg
+- Gordon Collett
+- Windell Wheeler
 companies: []
 places: []
 clubs: []
 strips: []
 tags:
 - aftermarket-business
+- family-business
 - gassers
+- dragsters
 related:
 - places/midwest-east.md
 - places/ohio-gassers.md
@@ -55,17 +62,11 @@ It is a neat origin story and the company tells it that way. What the independen
 
 ## 751 East Eleventh Avenue
 
-The best-sourced date in the whole JEGS timeline comes from a local government. On August 12, 2010, the Delaware County Board of Commissioners adopted Resolution 10-1059, "recognizing Jeg's High Performance Automotive Parts for fifty years of business." Its first "Whereas": "in 1960, Jeg Coughlin, Sr., founded Jeg's Automotive, Inc., at **751 East Eleventh Avenue, Columbus, Ohio**." Then, in order:[^res]
+The best-sourced date in the whole JEGS timeline comes from a local government. On August 12, 2010, the Delaware County Board of Commissioners adopted Resolution 10-1059, "recognizing Jeg's High Performance Automotive Parts for fifty years of business." Its first "Whereas": "in 1960, Jeg Coughlin, Sr., founded Jeg's Automotive, Inc., at **751 East Eleventh Avenue, Columbus, Ohio**." Then it runs through the milestones in order.[^res] In 1989 "the premier issue of Jegs Mail Order Catalog is printed"; in 1996 "Jegs goes on-line with jegs.com"; in 1999 JEGS "opened a state-of-the-art distribution and headquarters at 1 Jegs Place in Delaware, Ohio." In 2003 the Coughlin family established the JEGS Foundation, "Racing for Cancer Research," and in 2004 "Jegs Mail Order ships over one million packages to customers."
 
-- 1989: "the premier issue of Jegs Mail Order Catalog is printed";
-- 1996: "Jegs goes on-line with jegs.com";
-- 1999: JEGS "opened a state-of-the-art distribution and headquarters at 1 Jegs Place in Delaware, Ohio";
-- 2003: the Coughlin family established the JEGS Foundation, "Racing for Cancer Research";
-- 2004: "Jegs Mail Order ships over one million packages to customers";
-- 2006: "Sameday Shipping for orders placed before 9:00 PM" debuts, and, "in recognition of Jeg's National Hot Rod Association leadership and racing on home turf," during the Spring Nationals in Kirkersville that May, "Delaware Mayor Windell Wheeler proclaimed Jegs Week throughout the city of Delaware";
-- 2010: "currently, JEGS generates over $200 million in annual revenue."
+In 2006 "Sameday Shipping for orders placed before 9:00 PM" debuted, and, "in recognition of Jeg's National Hot Rod Association leadership and racing on home turf," during the Spring Nationals in Kirkersville that May, "Delaware Mayor Windell Wheeler proclaimed Jegs Week throughout the city of Delaware." By 2010, "currently, JEGS generates over $200 million in annual revenue."
 
-The company's own history (TeamJEGS, the same text as its help center) says Coughlin "opened JEGS Speed Shop in 1960 on 11th Avenue in downtown Columbus," with "two employees and a big dream" (Jeg Jr.), and that the small shop on 11th Avenue "is still serving customers" and makes a line of suspension parts.[^hc] JEGS' "About Us" page, as quoted on [Midwest & East Threads](../places/midwest-east.md), describes the first shop as 4,000 square feet, "half garage, half parts store."
+The company tells the founding the same way. Its own history (TeamJEGS, the same text as its help center) says Coughlin "opened JEGS Speed Shop in 1960 on 11th Avenue in downtown Columbus," with "two employees and a big dream" (Jeg Jr.), and that the small shop on 11th Avenue "is still serving customers" and makes a line of suspension parts.[^hc] JEGS' "About Us" page, as quoted on [Midwest & East Threads](../places/midwest-east.md), describes the first shop as 4,000 square feet, "half garage, half parts store."
 
 <figure markdown>
 ![A downtown street corner with brick commercial buildings, a traffic signal and a U.S. 23 North sign, in Delaware, Ohio.](../assets/images/commons-delaware-ohio-sandusky-st.jpg){ loading=lazy }
@@ -82,10 +83,7 @@ The story behind the founder's retail instincts comes from Stagg: "Jeg Sr.'s dad
 
 ## Connect the dots
 
-- [Midwest & East Threads](../places/midwest-east.md): the original JEGS section, including the paywalled *Columbus Dispatch* 50th-anniversary article we have not read.
-- [The Ohio Gassers](../places/ohio-gassers.md): Coughlin's Austin A/GS and the Columbus teams around him.
-- [Moroso](moroso.md) and [Mickey Thompson](mickey-thompson.md): two of the brands JEGS built its catalog on, both founder-racer companies too.
-- [Holley](holley.md): the other road a speed-parts name can take, ending up as the parent of other garage-born brands; JEGS's own history says its founder sold to his sons.
+JEGS's story runs into several others here. [Midwest & East Threads](../places/midwest-east.md) has the original JEGS section, including the paywalled *Columbus Dispatch* 50th-anniversary article we have not read. [The Ohio Gassers](../places/ohio-gassers.md) has Coughlin's Austin A/GS and the Columbus teams around him. [Moroso](moroso.md) and [Mickey Thompson](mickey-thompson.md) are two of the brands JEGS built its catalog on, both founder-racer companies too. And [Holley](holley.md) shows the other road a speed-parts name can take, ending up as the parent of other garage-born brands; JEGS's own history says its founder sold to his sons.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

@@ -7,24 +7,30 @@ eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1947
-- 2008
+- 1979
 region: West
 states:
 - California
 cities:
 - Pomona, California
+- Fontana, California
+- Compton, California
 people:
-- E. J. (Bud) Coons
 - Ralph E. Parker
+- E. J. (Bud) Coons
+- Harry R. Simon
+- Phil Burgess
 companies: []
 places: []
-clubs: []
-strips: []
+clubs:
+- Choppers
+- Pomona Valley Timing Association
+- Fontana Racing Association
+strips:
+- Fontana Airport
+- Pomona fairgrounds strip
 tags:
 - police-and-safety
 - car-clubs
@@ -58,29 +64,25 @@ A 1947 item from a blog that posts daily 1947 news shows the older approach in a
 
 ## What the police tried instead
 
-**1949:** young owners formed clubs with names such as "Spooks," "Choppers" and "Cam Twirlers."[^leb]
+In **1949** young owners formed clubs with names such as "Spooks," "Choppers" and "Cam Twirlers."[^leb]
 
-**A police liaison.** Traffic Officer **E. J. Coons**, "a racing enthusiast himself," met the clubs and explained the complaints. The department then donated its **Officers Club rooms** one evening a week as a meeting place, and he showed safety films and gave talks.[^leb]
+Pomona's police met them halfway. Traffic Officer **E. J. Coons**, "a racing enthusiast himself," met the clubs and explained the complaints. The department then donated its **Officers Club rooms** one evening a week as a meeting place, and he showed safety films and gave talks.[^leb]
 
-**A point system.** Poker runs, secret-destination runs and time runs earned points: five for winning a run, one for taking part. A moving-violation citation cost **10 points**, and under the honor system each member reported his own citations at the next meeting. A donated "Perpetual Activity Trophy" went to the semiannual winner. Parker says membership "tripled" and citations and complaints fell.[^leb]
+The clubs also got a point system. Poker runs, secret-destination runs and time runs earned points: five for winning a run, one for taking part. A moving-violation citation cost **10 points**, and under the honor system each member reported his own citations at the next meeting. A donated "Perpetual Activity Trophy" went to the semiannual winner. Parker says membership "tripled" and citations and complaints fell.[^leb]
 
 ## The strip, and the red tape
 
-After about 15 months the club wanted "a runway trial strip." The first sites were rejected for safety, and the club finally **leased an air strip at Fontana Airport**. Then came the red tape:[^leb]
-
-1. San Bernardino County had an ordinance against racing. It took two meetings with the supervisors, with letters from police chiefs and highway patrol officials, to get it amended.
-2. The regional Civil Aeronautics Administration office also had to approve.
-3. Insurers refused until "a Pomona insurance broker" wrote **$100,000/300,000 public liability and $50,000 property damage** coverage.
+After about 15 months the club wanted "a runway trial strip." The first sites were rejected for safety, and the club finally **leased an air strip at Fontana Airport**. Then came the red tape.[^leb] San Bernardino County had an ordinance against racing, and it took two meetings with the supervisors, with letters from police chiefs and highway patrol officials, to get it amended. The regional Civil Aeronautics Administration office also had to approve. And insurers refused until "a Pomona insurance broker" wrote **$100,000/300,000 public liability and $50,000 property damage** coverage.
 
 The "Choppers" Club "dug in" on **April 1, 1951**, with the program's operating body appearing in the bulletin as the **Fontana Racing Association**. Admission was 25 cents, and the best crowd so far was eleven hundred. Parker's closing line: "The hot rodder is no longer a problem in Pomona—he is part of a program."[^leb]
 
 ## Later: the fairgrounds
 
-A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the **Pomona Valley Timing Association**, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in **April 1953**. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Fontana was not the end. A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the **Pomona Valley Timing Association**, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in **April 1953**. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Why it matters
 
-It ties a **police department** directly to the strip that later became NHRA's Pomona Raceway and the Winternationals home. See also [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) for the county-airport deal that preceded it.
+This story ties a **police department** directly to the strip that later became NHRA's Pomona Raceway and the Winternationals home. See also [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) for the county-airport deal that preceded it.
 
 Compare the other local programs in [What the City Planners Wrote (1955)](planners-report-1955.md) and the sheriff-backed strip at [Inyokern](inyokern-dust-devils.md).
 

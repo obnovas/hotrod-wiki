@@ -7,17 +7,32 @@ eras:
 years:
 - 1954
 - 1959
-region: Northwest
+region: National
 states:
 - Oregon
+- Illinois
+- Georgia
+- Washington
+- Ohio
+- Colorado
 cities:
 - Medford, Oregon
-people: []
-companies: []
+- Denver, Colorado
+people:
+- John McCormick
+- Arnold H. Maremont
+- Robert Leopold
+- Sid Langsam
+companies:
+- Automobile Timing Association of America
+- Maremont Automotive Products
 places: []
 clubs:
 - Strippers (Denver Hot Rod Club)
-strips: []
+- Denver Timing Association
+strips:
+- Continental Divide Raceway
+- Bandimere Speedway
 tags:
 - town-politics
 - police-and-safety
@@ -49,36 +64,33 @@ The Chicago-datelined United Press story is a rare cross-section. In March 1957 
 
 ## The case for the strip
 
-The most "potent advocate of drag racing," the story says, is the **Automobile Timing Association of America**, founded by **Arnold H. Maremont**, president of Maremont Automotive Products. (For the ATAA's own beginnings see [Half Day, Illinois](half-day-ataa-maremont.md).) Maremont, the story says, "contends a youth who builds a hot rod is expressing traditional Yankee inventiveness, and one who joins a bona fide hot rod club is an unlikely candidate for juvenile delinquency."[^mmt] He also made two claims we cannot check:
-
-- A drag race "by definition is a race against the clock, not against another car."
-- "There never has been an accident at a race sponsored by the ATAA."
+The most "potent advocate of drag racing," the story says, is the **Automobile Timing Association of America**, founded by **Arnold H. Maremont**, president of Maremont Automotive Products. (For the ATAA's own beginnings see [Half Day, Illinois](half-day-ataa-maremont.md).) Maremont, the story says, "contends a youth who builds a hot rod is expressing traditional Yankee inventiveness, and one who joins a bona fide hot rod club is an unlikely candidate for juvenile delinquency."[^mmt] He also made two claims we cannot check: that a drag race "by definition is a race against the clock, not against another car," and that "There never has been an accident at a race sponsored by the ATAA."
 
 The second claim is a broader version of the "accident-free season" the ATAA's 1954 releases claimed for Maremont Speedway.[^mmt] It is still the sponsor's word.
 
 ## The case against
 
-- **The National Safety Council.** The story says the council "came out a few weeks ago in direct opposition to drag racing, supervised or otherwise." It conceded that "many activities of hot rod clubs may be commendable," but "the overall emphasis is on getting more speed out of a car."[^mmt] That is a turn. In June 1955, a *Motor Age* article credited the council with saying supervised hot rodding "is one of the best answers" to the "shot-rod" problem,[^ma] and the council's own magazine ran a Kansas City detective's account in May 1956 under the title [Give the Hot Rodders a Break](kansas-city-timing-association.md).[^pond] We have not seen the council's 1957 statement itself.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
-- **Atlanta.** **Robert Leopold**, manager of the citizens' group called the Traffic and Safety Council of Atlanta, said: "I cannot quarrel with the ideals of hot rod clubs on paper. But given a souped up car and the opportunity, many youths will succumb to temptation on the public streets and highways." Atlanta had "two commercial drag strips on private property just outside" the city, "but none within the city limits."[^mmt]
-- **Seattle area.** The Automobile Club of Washington said it was "not sure we stand behind it anymore. It does not generate the right safety attitude. Kids and in some cases adults are carrying drag racing from the strips to the highways."[^mmt] The same story says two strips were being considered near Seattle and "several" existed in the state, with events "usually" sponsored by what the scan prints as the "West Washington Timing Association," which required participants to be insured.
-- **Cleveland.** Safety director McCormick had banned drag racing on any city street.[^mmt]
+The critics had more voices. First came the **National Safety Council**. The story says the council "came out a few weeks ago in direct opposition to drag racing, supervised or otherwise." It conceded that "many activities of hot rod clubs may be commendable," but "the overall emphasis is on getting more speed out of a car."[^mmt] That is a turn. In June 1955, a *Motor Age* article credited the council with saying supervised hot rodding "is one of the best answers" to the "shot-rod" problem,[^ma] and the council's own magazine ran a Kansas City detective's account in May 1956 under the title [Give the Hot Rodders a Break](kansas-city-timing-association.md).[^pond] We have not seen the council's 1957 statement itself.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+Local safety groups agreed. In **Atlanta**, **Robert Leopold**, manager of the citizens' group called the Traffic and Safety Council of Atlanta, said: "I cannot quarrel with the ideals of hot rod clubs on paper. But given a souped up car and the opportunity, many youths will succumb to temptation on the public streets and highways." Atlanta had "two commercial drag strips on private property just outside" the city, "but none within the city limits."[^mmt]
+Near **Seattle**, the Automobile Club of Washington said it was "not sure we stand behind it anymore. It does not generate the right safety attitude. Kids and in some cases adults are carrying drag racing from the strips to the highways."[^mmt] The same story says two strips were being considered near Seattle and "several" existed in the state, with events "usually" sponsored by what the scan prints as the "West Washington Timing Association," which required participants to be insured.
+And in **Cleveland**, safety director McCormick had banned drag racing on any city street.[^mmt]
 
 ## The Denver puzzle
 
 One item reads like a headline in itself: a drag strip near Denver "is being built by the county commission with public funds. At the same time, an ordinance expressly forbidding drag racing on city streets is expected to be passed by the city council."[^mmt] The writer sets it against cities that "oppose drag strips vigorously," and notes that "in some, public funds have been used to build hot rod racing facilities."[^mmt]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-- The Denver Hot Rod Club (the Strippers) and the Denver Timing Association "promoted safe drag racing in the Denver area in the early and mid '50s," according to a club member's recollection that credits them with helping to build **Continental Divide Raceway**, which opened in 1959.[^strip]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
-- Continental Divide was announced in 1956 as a sports complex, the project of Colorado Motor Raceway Inc., which the site says had gone under by 1957. Denver millionaire Sid Langsam bought out the company in March 1959 and opened the half-mile drag strip on **July 19, 1959**, with 8,600 fans and 250 entries.[^rc]
-- **Bandimere Speedway** opened in 1958 west of Denver, "originally built to help promote his auto parts store," in the Denver Public Library's words.[^dpl]
+Denver's own history does not settle it. The Denver Hot Rod Club (the Strippers) and the Denver Timing Association "promoted safe drag racing in the Denver area in the early and mid '50s," according to a club member's recollection that credits them with helping to build **Continental Divide Raceway**, which opened in 1959.[^strip]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+Continental Divide was announced in 1956 as a sports complex, the project of Colorado Motor Raceway Inc., which the site says had gone under by 1957. Denver millionaire Sid Langsam bought out the company in March 1959 and opened the half-mile drag strip on **July 19, 1959**, with 8,600 fans and 250 entries.[^rc]
+**Bandimere Speedway** opened in 1958 west of Denver, "originally built to help promote his auto parts store," in the Denver Public Library's words.[^dpl]
 
 None of these says a county commission used public money for a strip in 1957. The UPI line may describe a project that never opened, a different county, or a garbled report.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## What the survey shows
 
-- **No consensus.** The same month, one city was paying for facilities and another was passing ordinances.
-- **The vocabulary.** "Shot rodder" and "hot rodder" were by then safety-publicity terms in every paper. (A 1954 book review in Greencastle, Indiana, uses the same split. See [Hoosier Road Runners](indiana-small-town-clubs.md).)
-- **The sponsor's role.** The ATAA's founder is the only named defender in the story. The police and safety voices are the critics.
-- **A local paper's role.** The *Medford Mail Tribune* printed it on page 6, beside a United Press "Quotes From the News" column. Only the scanned OCR was read, and the left-to-right column order is scrambled. We quote only phrases that read cleanly.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+Read together, the survey shows no consensus. The same month, one city was paying for facilities and another was passing ordinances.
+It also shows the vocabulary. "Shot rodder" and "hot rodder" were by then safety-publicity terms in every paper. (A 1954 book review in Greencastle, Indiana, uses the same split. See [Hoosier Road Runners](indiana-small-town-clubs.md).)
+And it shows who spoke for whom. The ATAA's founder is the only named defender in the story. The police and safety voices are the critics.
+As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside a United Press "Quotes From the News" column. Only the scanned OCR was read, and the left-to-right column order is scrambled. We quote only phrases that read cleanly.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Open questions & disputed details
 

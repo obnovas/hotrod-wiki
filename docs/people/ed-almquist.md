@@ -15,24 +15,29 @@ eras:
 - 2010s
 years:
 - 1921
-- 2011
-region: National
+- 2015
+region: Northeast
 states:
-- Minnesota
-- California
 - Pennsylvania
+- Minnesota
 cities:
 - Milford, Pennsylvania
 people:
 - Ed Almquist
+- Jonas Anchel
 - George Hurst
 - Bill Campbell
 companies:
 - Almquist Engineering Co.
+- Sparkomatic
+- Offy Products
 places: []
 clubs: []
 strips: []
 tags:
+- speed-equipment
+- aftermarket-business
+- magazines-and-media
 - patents-and-inventions
 - grassroots-sources
 related:
@@ -55,29 +60,27 @@ canonical_for:
 <figcaption markdown>US3082639, "Gear shift (Almquist Engineering Co.)," sheet 1. Inventor: Edgar W. Almquist, filed 1962-09-11, issued 1963-03-26. Source: [Google Patents](https://patents.google.com/patent/US3082639A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
 </figure>
 
-*A rare non-California founder.*
-
-One of his early products was a water/alcohol vapor injector made from a Mason jar that cost 50¢ to make and sold for $6. He also sold a two-carb "log manifold" for $12.95. He started in a $35 rented room, then moved to a partitioned gymnasium. (Port Jervis *Times Herald-Record*, via search excerpt<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.)[^thr] The paper said that while California makers had the West Coast, Almquist equipment was the choice in the Midwest and East.[^thr]
+*A rare non-California founder.* One of his early products was a water/alcohol vapor injector made from a Mason jar that cost 50¢ to make and sold for $6. He also sold a two-carb "log manifold" for $12.95. He started in a $35 rented room, then moved to a partitioned gymnasium. (Port Jervis *Times Herald-Record*, via search excerpt<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.)[^thr] The paper said that while California makers had the West Coast, Almquist equipment was the choice in the Midwest and East.[^thr]
 
 ## From celery farm to ship's engine room
 
-He was born Nov 24, 1921, in Zim, Minnesota, and died July 22, 2015, at home in Milford, PA.[^obit] Before the war he farmed celery and worked as a part-time railroad brakeman, raced "jalopies" on weekends, and took University of Minnesota extension courses in diesel engineering.[^hem]
+He came to it from Minnesota. He was born Nov 24, 1921, in Zim, Minnesota, and died July 22, 2015, at home in Milford, PA.[^obit] Before the war he farmed celery and worked as a part-time railroad brakeman, raced "jalopies" on weekends, and took University of Minnesota extension courses in diesel engineering.[^hem]
 
-He served in the U.S. Maritime Service 1943–47 per his obituary.[^obit] He became a licensed marine engineering officer and wrote down his Minnesota racing hop-up knowledge while aboard ship.[^hem]
+The war took him to sea. He served in the U.S. Maritime Service 1943–47 per his obituary.[^obit] He became a licensed marine engineering officer and wrote down his Minnesota racing hop-up knowledge while aboard ship.[^hem]
 
 ## The manual
 
-He printed two small books on a borrowed mimeograph and advertised the *Speed and Mileage Manual* with a **$12 ad in Popular Mechanics**. He estimated more than 10,000 copies sold.[^hem] He is credited with the first widely circulated performance how-to, copyrighted **1946**.[^hem][^hof]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Those shipboard notes became a business. He printed two small books on a borrowed mimeograph and advertised the *Speed and Mileage Manual* with a **$12 ad in Popular Mechanics**. He estimated more than 10,000 copies sold.[^hem] He is credited with the first widely circulated performance how-to, copyrighted **1946**.[^hem][^hof]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Shifters, shifts in the market
 
-Hemmings says the mail-order business declined after the 1955 small-block Chevy, which "Ed wasn't ready for."[^hem]
+The market moved on. Hemmings says the mail-order business declined after the 1955 small-block Chevy, which "Ed wasn't ready for."[^hem]
 
-Almquist started Sparkomatic in 1954, with partner Jonas Anchel. A 1959 partnership with **George Hurst and Bill Campbell** on floor shifters dissolved, and the Times Herald-Record calls him co-designer of the Hurst shifter.[^thr]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+He had already diversified: Almquist started Sparkomatic in 1954, with partner Jonas Anchel. A 1959 partnership with **George Hurst and Bill Campbell** on floor shifters dissolved, and the Times Herald-Record calls him co-designer of the Hurst shifter.[^thr]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 The obituary lists Almquist Engineering, Sparkomatic and **Offy Products** "through 1965," more than 100 products, and 7 U.S. patents. He later wrote *Hot Rod Pioneers*.[^obit] He received the International Drag Racing Hall of Fame Founder's Award in 2011.[^hof]
 
-Ed Almquist also appears in period custom literature: a pamphlet from "Pennsylvania speed merchant Ed Almquist" taught restyling techniques alongside Dan Post's *Blue Book*.[^revs]
+His name also turns up in period custom literature: a pamphlet from "Pennsylvania speed merchant Ed Almquist" taught restyling techniques alongside Dan Post's *Blue Book*.[^revs]
 
 *See also:* [Techniques & Styles](../cars/techniques-and-styles.md).
 

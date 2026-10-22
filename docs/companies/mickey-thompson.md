@@ -3,34 +3,47 @@ title: 'Mickey Thompson: The Pressman Who Dug the Post Holes Himself'
 summary: Mickey Thompson dug the post holes for his own drag strip after his shift at the Los Angeles Times. This page follows him from El Monte to tires, wheels and the Pontiac years.
 department: companies
 eras:
+- 1920s
+- 1930s
+- 1940s
 - 1950s
 - 1960s
 - 1970s
 - 1980s
+- 1990s
+- 2000s
 years:
-- 1955
-- 1988
+- 1928
+- 2007
 region: West
 states:
 - California
 - Ohio
 cities: []
 people:
-- LeRoy Neumayer
 - Mickey Thompson
-- Ed "Isky" Iskenderian
+- LeRoy Neumayer
+- Don Garlits
+- Don Prudhomme
+- Jack Chrisman
+- Hayden Proffitt
+- Carl Gay
+- Dante Duce
+- Dean Moon
+- Ed Iskenderian
+- Trudy Thompson
 companies: []
 places: []
 clubs: []
 strips:
-- Kansas City International Raceway
+- Lions Drag Strip
 tags:
 - dragsters
 - aftermarket-business
-- sanctioning-bodies
-- drag-strips
+- speed-equipment
 - land-speed
-- family-business
+- drag-strips
+- sanctioning-bodies
 related:
 - eras/1950s-santa-ana-drags.md
 - companies/lakewood-industries.md
@@ -65,13 +78,13 @@ Without parts he could afford, he built everything: a hot A-bone roadster, a twi
 
 Thompson is "widely credited," NHRA's *National Dragster* editor wrote in 2013, with the slingshot dragster design on his 1954 car, "although there's some fuzziness on the issue." NHRA quotes Thompson's explanation of the layout and then adds that "a Santa Ana hot rodder, LeRoy Neumayer, said it reminded him of a slingshot, and the name not only stuck, but the design was quickly adapted by everyone else."[^nhra] That Santa Ana tie is the one that pulls Thompson into this wiki's [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) story, the strip where Hart ran the show until 1959 and later, in 1965, succeeded Thompson at Lions.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**Lions.** Thompson says he "built and ran Lions Drag Strip for eight years."[^hr78] Wikipedia calls him the strip's first manager, in 1955.[^wp] The same strip is where, *Hot Rod* writes, Don Garlits "lost a portion of his foot from an exploding 2-speed transmission," which "ended the popularity of Thompson's famed slingshots."[^hr78] Explosions of drivetrain parts are the hazard that [Lakewood's steel bellhousing](lakewood-industries.md) was marketed against, though SEMA describes flywheel-and-clutch failures, not a transmission case.
+Then there was Lions. Thompson says he "built and ran Lions Drag Strip for eight years."[^hr78] Wikipedia calls him the strip's first manager, in 1955.[^wp] The same strip is where, *Hot Rod* writes, Don Garlits "lost a portion of his foot from an exploding 2-speed transmission," which "ended the popularity of Thompson's famed slingshots."[^hr78] Explosions of drivetrain parts are the hazard that [Lakewood's steel bellhousing](lakewood-industries.md) was marketed against, though SEMA describes flywheel-and-clutch failures, not a transmission case.
 
 ## The tire, the wheel and the testing
 
 In 1963, per SEMA and Wikipedia, he launched **Mickey Thompson Performance Tires**. SEMA lists among his innovations "S/S Cheater Slicks and raised white letter tires," and he told *Hot Rod* he "built some of the first, if not the first set of drag slicks out of recapped '47 Indy tires" and "used the first super-wide, low-profile tires."[^sema][^wp][^hr78]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Wikipedia adds that he "went into the performance aftermarket business in the early 1960s." Don Prudhomme, quoted by NHRA from a biography, said Thompson "was the first guy I ever heard who would take his cars to the dragstrip during the week to test. None of us could afford to test, so when Mickey showed up on the weekend, his cars were ready to kick ass."[^nhra] That is a racer's view of what a parts maker with a test fleet could do.
+The tires were part of a bigger business. Wikipedia adds that he "went into the performance aftermarket business in the early 1960s." Don Prudhomme, quoted by NHRA from a biography, said Thompson "was the first guy I ever heard who would take his cars to the dragstrip during the week to test. None of us could afford to test, so when Mickey showed up on the weekend, his cars were ready to kick ass."[^nhra] That is a racer's view of what a parts maker with a test fleet could do.
 
 His name also reached Ohio. RACER's company history says that, three years after Summit Racing opened its first Akron store in 1969, Summit tested mail order "by placing small ads for Mickey Thompson ET wheels in *Hot Rod* and *Car Craft* magazines."[^racer] See [Summit Racing](summit-racing.md).
 
@@ -88,7 +101,7 @@ And a grassroots footprint appears in the wiki's [Houston Freeway Dragstrip page
 
 ## Friends and a mix-up
 
-*Hot Rod* opens its 1978 profile by calling Thompson and Ed Iskenderian "close personal friends" who "happen to be the ultimate parts magnates." [^hr78] See [Ed Iskenderian](../people/ed-iskenderian.md). Elsewhere, a Brighton, England, speed-trial story is told twice: Wikipedia has Thompson and Dante Duce demonstrating Thompson's Harvey Aluminum Special dragster there in 1963, while *THE SHOP* has Dean Moon sending his own dragster and a sports car with Duce.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+*Hot Rod* opens its 1978 profile by calling Thompson and Ed Iskenderian "close personal friends" who "happen to be the ultimate parts magnates."[^hr78] See [Ed Iskenderian](../people/ed-iskenderian.md). Elsewhere, a Brighton, England, speed-trial story is told twice: Wikipedia has Thompson and Dante Duce demonstrating Thompson's Harvey Aluminum Special dragster there in 1963, while *THE SHOP* has Dean Moon sending his own dragster and a sports car with Duce.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Late career and an ending
 
@@ -96,14 +109,9 @@ After the Indianapolis years and the Ford-backed Mustang Funny Cars of the late 
 
 ## Connect the dots
 
-- [Santa Ana Drags](../eras/1950s-santa-ana-drags.md): where a local hot rodder named the slingshot, and where Hart later succeeded Thompson at Lions.
-- [Great Bend and the SRCA](../drag-racing/great-bend-srca.md): the 1955 Nationals where Wikipedia says the Panorama City Special debuted.
-- [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md): Proffitt's Mickey Thompson-owned Pontiac Catalina.
-- [Moon Equipment](moon-equipment.md): the Brighton mix-up and the California shops of the era.
-- [Ed Iskenderian](../people/ed-iskenderian.md): the friend *Hot Rod* paired with Thompson as a parts magnate.
-- [Summit Racing](summit-racing.md): the Akron company whose first mail-order ads were for his wheels.
-- [Lakewood Industries](lakewood-industries.md): the Ohio bellhousing maker, another response to drivetrain explosions at the strips.
-- [Moroso](moroso.md): another racer-turned-parts-maker who ended up owning a track.
+Thompson's trail crosses many other stories here. [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) is where a local hot rodder named the slingshot, and its Hart later succeeded Thompson at Lions. [Great Bend and the SRCA](../drag-racing/great-bend-srca.md) hosted the 1955 Nationals where Wikipedia says the Panorama City Special debuted, and [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) booked Proffitt's Mickey Thompson-owned Pontiac Catalina. [Moon Equipment](moon-equipment.md) has the Brighton mix-up and the California shops of the era; [Ed Iskenderian](../people/ed-iskenderian.md) is the friend *Hot Rod* paired with Thompson as a parts magnate.
+
+In Ohio, [Summit Racing](summit-racing.md)'s first mail-order ads were for his wheels, and [Lakewood Industries](lakewood-industries.md), the bellhousing maker, was another response to drivetrain explosions at the strips. And [Moroso](moroso.md) is another racer-turned-parts-maker who ended up owning a track.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

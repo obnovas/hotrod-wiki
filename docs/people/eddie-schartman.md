@@ -3,6 +3,7 @@ title: '"Fast Eddie" Schartman: Taking Out the Finish-Line Lights'
 summary: '"Fast Eddie" Schartman took out the finish-line lights on his first pass in a Logghe flip-top Comet in December 1965. This is his story in his own words.'
 department: people
 eras:
+- 1950s
 - 1960s
 - 1970s
 - 1980s
@@ -10,25 +11,31 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1964
+- 1956
 - 2016
 region: Midwest
 states:
 - Ohio
 cities: []
 people:
-- '"Fast Eddie" Schartman'
-- Ron & Gene / Logghe Stamping Logghe
-- '"Dyno Don" Nicholson'
 - Eddie Schartman
-companies: []
+- Ron Logghe
+- Don Nicholson
+- Al Turner
+- Al Bergler
+- Amos Satterlee
+companies:
+- Logghe Stamping
+- Plastigage
+- Air Lift
+- Jackshaw Chevrolet
 places: []
 clubs: []
 strips: []
 tags:
-- sanctioning-bodies
-- gassers
 - funny-cars
+- gassers
+- oral-history
 related:
 - voices/show-custom-voices.md
 - companies/logghe-stamping.md
@@ -55,25 +62,25 @@ canonical_for: []
 
 His first ride came in December 1965 at Motor City Dragway. "I said, 'What the hell is this?' It was a dragster with a body on it and the driver in the back seat... On my first pass, I went 166 mph and took out the [finish-line] lights."[^nhra]
 
-The cars had a [Logghe](../companies/logghe-stamping.md) chromoly chassis with a 116-in. wheelbase. Al Turner said they were the first drag car with coil-over shocks. The bodies came from Plastigage of Jackson, Mich., and the hinged "flopper" idea is credited to Ron Logghe (per John Logghe). Al Bergler did the tin work.[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+It was a new kind of car. It had a [Logghe](../companies/logghe-stamping.md) chromoly chassis with a 116-in. wheelbase. Al Turner said they were the first drag car with coil-over shocks. The bodies came from Plastigage of Jackson, Mich., and the hinged "flopper" idea is credited to Ron Logghe (per John Logghe). Al Bergler did the tin work.[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-At the 1966 World Finals in Tulsa he beat Nicholson (8.38/174.08) for **NHRA's first Funny Car eliminator win**.[^nhra]
+Within a year it was a winner. At the 1966 World Finals in Tulsa he beat Nicholson (8.38/174.08) for **NHRA's first Funny Car eliminator win**.[^nhra]
 
 In 1967 came Air Lift sponsorship, with "Famous Amos" Satterlee as crew chief. He claimed the first seven-second run in a stock-bodied car at **Detroit Dragway** in April, though he "doesn't put a lot of stock" in such firsts.[^nhra]
 
-His claim to an accidental rear spoiler, from Maple Grove in 1967: angle iron bolted to the trunk. "It went straight and picked up 5 mph. We'd invented the [rear-deck] spoiler and didn't even know it."[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+That season also produced his claim to an accidental rear spoiler, from Maple Grove in 1967: angle iron bolted to the trunk. "It went straight and picked up 5 mph. We'd invented the [rear-deck] spoiler and didn't even know it."[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Wrecking yard kid
 
-His father, Ed Sr., raced dirt tracks, and the family owned a wrecking yard. Eddie built a flathead '40 Ford drag car at 14. He finished Berea High School in 1956 and drove a street '56 Chevy (338 ci) to Daytona Speed Week, where he "won everything in sight." He then set the NHRA B/Gas record in a '55 Chevy.[^nhra] He was one of the "Ohio Gassers" (see [Mr. Gasket](../companies/mr-gasket.md)).
+He started young. His father, Ed Sr., raced dirt tracks, and the family owned a wrecking yard. Eddie built a flathead '40 Ford drag car at 14. He finished Berea High School in 1956 and drove a street '56 Chevy (338 ci) to Daytona Speed Week, where he "won everything in sight." He then set the NHRA B/Gas record in a '55 Chevy.[^nhra] He was one of the "Ohio Gassers" (see [Mr. Gasket](../companies/mr-gasket.md)).
 
 ## Jackshaw Chevrolet, Dyno Don, and the Comet wagon
 
-He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to build engines for "Dyno Don" Nicholson. He drove Nicholson's '62 Chevy for 50 percent of the winnings, then got the A/FX Comet wagon "The Ugly Duckling." Mercury later gave him his own Comet and $5,000 from Cleveland-area Mercury dealers.[^nhra]
+The road to the Comet ran through a Chevy dealer. He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to build engines for "Dyno Don" Nicholson. He drove Nicholson's '62 Chevy for 50 percent of the winnings, then got the A/FX Comet wagon "The Ugly Duckling." Mercury later gave him his own Comet and $5,000 from Cleveland-area Mercury dealers.[^nhra]
 
 ## Later
 
-In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick because it had Mercury Comet taillights. He quit match racing in 1975 over rainouts ("The rainout money was like $150") and went into car dealerships and NAPA stores. He was inducted into IDRHOF in 2012.[^nhra]
+The end came in small ways. In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick because it had Mercury Comet taillights. He quit match racing in 1975 over rainouts ("The rainout money was like $150") and went into car dealerships and NAPA stores. He was inducted into IDRHOF in 2012.[^nhra]
 
 *See also:* [The Ohio Gassers](../places/ohio-gassers.md) (his Cleveland circle) and [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (Roy Gay was runner-up to Schartman at the 1967 Manufacturers Championships).
 

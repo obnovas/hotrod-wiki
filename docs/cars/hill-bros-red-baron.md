@@ -3,32 +3,37 @@ title: 'The "Red Baron": A Mock Apology on Wheels'
 summary: The Hill brothers' "Red Baron" Willys gasser and Pete Hill's 1967 mock apology letter to Drag News, told mostly through oral history and documents gathered on a Gasser Legends page.
 department: cars
 eras:
-- 1940s
-- 1950s
 - 1960s
 - 1970s
 - 1980s
 - 1990s
 - 2000s
-- 2010s
 years:
-- 1941
-- 2017
+- 1966
+- 2000
 region: Midwest
 states:
 - Ohio
 cities: []
 people:
+- Pete Hill
+- Bill Hill
 - Fred Bear
+- Dave Hales
+- Joe Hrudka
+- Tom Hrudka
 - Chuck Finders
-- Pete & Bill Hill
-companies: []
+- Ken Kull
+- Big John Mazmanian
+companies:
+- Mr. Gasket
 places: []
 clubs: []
 strips: []
 tags:
 - gassers
 - family-business
+- oral-history
 related:
 - places/ohio-gassers.md
 - companies/mr-gasket.md
@@ -56,23 +61,19 @@ Pete Hill's mock apology letter to Drag News (dated Oct 7, 1967) needled the Wes
 
 ## How it got to Cleveland (per Dave Hales)
 
-The car was partly built by **Fred Bear** (S&S Racing Team) in his Virginia garage in 1966–67. He left to go NASCAR racing. Bear and Hales delivered it to **Joe and Tom Hrudka** ([Mr. Gasket](../companies/mr-gasket.md)) in Ohio in spring 1967.
+The car behind the letter had come a long way. It was partly built by **Fred Bear** (S&S Racing Team) in his Virginia garage in 1966–67. He left to go NASCAR racing. Bear and Hales delivered it to **Joe and Tom Hrudka** ([Mr. Gasket](../companies/mr-gasket.md)) in Ohio in spring 1967.
 
 The Hrudkas "immediately sold it to the Hill Bros." According to Kull, the deal was that the Hills would run the Mr. Gasket logo. Hales next saw it at the King of Kings AA/GS meet at Capitol Raceway, Maryland, "about two weeks" later, "completely finished and beautiful."[^jrt]
 
 ## The build
 
-Chassis builder **Chuck Finders** and the Hills built it in eleven days. Finders said he worked around the clock while "Pete and Bill just kept bringing him fried chicken." It had a blown, injected 426 Hemi. Pete drove and tuned; Bill ran the business and promotion. They had earlier raced a '40 Willys bought from Big John Mazmanian.[^jrt]
+The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills built it in eleven days. Finders said he worked around the clock while "Pete and Bill just kept bringing him fried chicken." It had a blown, injected 426 Hemi. Pete drove and tuned; Bill ran the business and promotion. They had earlier raced a '40 Willys bought from Big John Mazmanian.[^jrt]
 
 ## After
 
 The Red Baron raced until late 1969, then bracket-raced under another name. It sat about 30 years before Ken Kull and his father George bought it in spring 2000 and restored it to 1967 specification "in just eleven weeks."[^jrt]
 
-**Names:** JR Thompson's page, which includes Pete's own letter, names the brothers **Pete and Bill** Hill.[^jrt]
-
-Related: the East Coast Drag Racing HOF's Midwest gasser roundup (not yet read in full).[^ec]
-
-**Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys,<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
+JR Thompson's page, which includes Pete's own letter, names the brothers **Pete and Bill** Hill.[^jrt] Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys,<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
 
 ## Open questions & disputed details
 
@@ -81,6 +82,8 @@ Related: the East Coast Drag Racing HOF's Midwest gasser roundup (not yet read i
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *"WE'RE SORRY"* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed:** **Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+**Not yet read:** the East Coast Drag Racing HOF's Midwest gasser roundup, not yet read in full.[^ec]
 
 ## Visual references (external)
 
