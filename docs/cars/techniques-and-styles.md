@@ -46,29 +46,21 @@ canonical_for: []
 <figcaption markdown>A 1941 Ford V8-11A flathead in a Super DeLuxe. The uploader notes the tubes may come from a 1939 91A engine. This is a stock engine, the starting point for the speed-equipment era. Photo: Mr.choppers, 2015-07-12. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Ford_V8-11A_flathead_engine_in_a_Super_DeLuxe.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
 </figure>
 
-## A fake Cord, not a hot Ford (c.1935–1946)
+## From fake Cords to lead sleds
 
-Early customizing was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k]
+Early customizing (c.1935–1946) was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k]
 
-The vocabulary: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] And channeling: Summers is credited with the first channel job by *Motor Life*, 1955<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.[^k]
+The vocabulary grew with the work: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] Then channeling: Summers is credited with the first channel job by *Motor Life*, 1955<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.[^k] The know-how traveled on paper, in Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs]
 
-Techniques were spread by Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs]
+Not every builder reached for the same material. Roy Hagy "didn't like to use much lead; he'd metal-finish everything" (Tom Sparks via Pat Ganahl).[^hagy] See [Roy Hagy](../people/roy-hagy.md).
 
-## Metal-finish vs. lead
+The next era was named for the lead. From about 1949 to 1955 the look was lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sectioning, with seams and holes finished in tin and lead (hence "lead sleds").[^revs] The chopped '49–'51 Mercury became the defining canvas after Sam Barris's '49.[^revs]
 
-Roy Hagy "didn't like to use much lead; he'd metal-finish everything" (Tom Sparks via Pat Ganahl).[^hagy] See [Roy Hagy](../people/roy-hagy.md).
+## Under the hood
 
-## The lead-sled era (c.1949–1955)
+The engine side had its own words. "Semi," "three-quarter," and "full race" cam grades come from Winfield's master cams ([Ed Winfield](../people/ed-winfield.md)).[^w] Add multi-carb intakes (Thickstun, Weiand, Edelbrock Slingshot, Navarro), milled or aluminum heads, and the GMC blower by 1948.[^ahrf]
 
-Lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sectioning, with seams and holes finished in tin and lead (hence "lead sleds").[^revs] The chopped '49–'51 Mercury became the defining canvas after Sam Barris's '49.[^revs]
-
-## Flathead talk
-
-"Semi," "three-quarter," and "full race" cam grades come from Winfield's master cams ([Ed Winfield](../people/ed-winfield.md)).[^w] Add multi-carb intakes (Thickstun, Weiand, Edelbrock Slingshot, Navarro), milled or aluminum heads, and the GMC blower by 1948.[^ahrf]
-
-## Pro Street, 1979–late 1980s
-
-See [Pro Street](../eras/1980s-pro-street.md).
+Decades later the street got a style of its own, [Pro Street](../eras/1980s-pro-street.md), from 1979 to the late 1980s.
 
 *See also:* [Customs on Paper and in Plastic](../media/trend-books-kits-roth.md).
 
@@ -76,7 +68,7 @@ See [Pro Street](../eras/1980s-pro-street.md).
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** And channeling: Summers is credited with the first channel job by *Motor Life*, 1955 . <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** And channeling: Summers is credited with the first channel job by *Motor Life*, 1955. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

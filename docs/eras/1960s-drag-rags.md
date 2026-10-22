@@ -54,19 +54,13 @@ In April 1959, Doris Herbert bought *Drag News*. That same year, Raulston's *Dra
 
 It did not last. In 1966, *Drag Sport Illustrated* shut down and *Drag World* was sold to the AHRA.[^cp67] By 1967 only *Drag News* and *Drag Digest* ("the Drag Racer's New Testament") remained; Digest's last archived issues are dated June 1967.[^cp67] That summer, Orange County International Raceway opened.[^cp67]
 
-## Breadcrumbs from the rags
+## What the rags caught
 
-A few crumbs from the rags:
+Wallace's season series also turns up smaller stories. Isky believed a tiny ad in the September 1958 *Hot Rod* set off the **Gasser Wars**: Howard Johansen's ad on Doug Cook's defection. See [the Camgrinder Wars](1950s-camgrinder-wars.md).[^cp1] Bob Muravez raced as "Floyd Lippencott Jr.," and the press kept his real name and face out of print for years.[^cp1] And Pete Millar had his *Drag Cartoons* and his National Association For The Advancement Of Flatheads.[^cp1]
 
-- Isky believed a tiny ad in the September 1958 *Hot Rod* set off the **Gasser Wars**: Howard Johansen's ad on Doug Cook's defection. See [the Camgrinder Wars](1950s-camgrinder-wars.md).[^cp1]
-- Bob Muravez raced as "Floyd Lippencott Jr.," and the press kept his real name and face out of print for years.[^cp1]
-- Pete Millar's *Drag Cartoons* and his National Association For The Advancement Of Flatheads.[^cp1]
-- By 1967 Funny Cars were drawing a new generation of fans, while supercharged gassers still held the doorslammer crowd.[^cp67]
-- OCIR (1967–83), designed and managed by Mike Jones, is credited with stadium seating, electronic scoreboards and the Manufacturers Meet. The Irvine Company did not renew the lease after 1983.[^cp67]
+By 1967 the sport the rags had covered was changing. Funny Cars were drawing a new generation of fans, while supercharged gassers still held the doorslammer crowd.[^cp67] OCIR (1967–83), designed and managed by Mike Jones, is credited with stadium seating, electronic scoreboards and the Manufacturers Meet. The Irvine Company did not renew the lease after 1983.[^cp67]
 
-## Where to dig next
-
-The Wallace Family Archives offers duplicate issues of many drag rags, per Competition Plus.[^cp67] That is a potential primary source for future rounds.
+The rags themselves survive in boxes. The Wallace Family Archives offers duplicate issues of many drag rags, per Competition Plus.[^cp67] That is a potential primary source for future rounds.
 
 ## Images
 

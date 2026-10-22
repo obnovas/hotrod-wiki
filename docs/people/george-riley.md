@@ -50,7 +50,7 @@ The **Two-Port** ("Valve-In-Head") was marketed from **1930**, advertised at 80 
 
 ## Back from the dead
 
-Charlie Yapp's Secrets of Speed Society reproduced the Two-Port in cast iron from an original bought in 1998, with a redesigned water jacket.[^hemm]
+Decades later the Two-Port came back. Charlie Yapp's Secrets of Speed Society reproduced the Two-Port in cast iron from an original bought in 1998, with a redesigned water jacket.[^hemm]
 
 ## Open questions & disputed details
 

@@ -46,25 +46,23 @@ canonical_for: []
 
 ## Caddo Mills (1951)
 
-The first organized race on the abandoned WWII airfield at **Caddo Mills** was held **Aug 19, 1951**. It was arranged by Dallas's **Chaparral Roadster Club** with local officials. There were 56 cars at a **$1 entry**, timed with **three hand-held stopwatches** (Dragzine).[^dz] The strip became Texas's first NHRA-sanctioned drag strip.[^dz]
+Caddo Mills was an old airfield before it was a strip. The first organized race on the abandoned WWII airfield at **Caddo Mills** was held **Aug 19, 1951**. It was arranged by Dallas's **Chaparral Roadster Club** with local officials. There were 56 cars at a **$1 entry**, timed with **three hand-held stopwatches** (Dragzine).[^dz] The strip became Texas's first NHRA-sanctioned drag strip.[^dz]
 
 Later the North Texas Timing Association ran it with Chrondek timers.[^dz]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Recollections on Drag List add detail from people who were there.[^dl]
 
-## Clubs
+## The clubs and the road
 
-The **Chaparral Roadster Club** (Dallas) was founded 1949 per club lore, by Jim Overbey.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The **Fort Worth Turtles** date to 1948.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The clubs were older than the strip. The **Chaparral Roadster Club** (Dallas) was founded 1949 per club lore, by Jim Overbey.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The **Fort Worth Turtles** date to 1948.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
+Texas teams also travelled. The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
 
-## Houston Freeway Dragstrip (1957)
-
-Purpose-built quarter-mile on I-45 near Dickinson. See the dedicated page: [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md). It complements Caddo's airfield model with a Gulf Freeway-side commercial strip (NHRA Division 4).
+By 1957 there was a different model on the Gulf Coast: [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), a purpose-built quarter-mile on I-45 near Dickinson. It complements Caddo's airfield model with a Gulf Freeway-side commercial strip (NHRA Division 4).
 
 ## How Texas differed
 
-Racing was concentrated on **ex-military airfields away from the city**, run by clubs. The same thing happened at Halls (TN) and on SoCal's own airstrips. The difference is distance: Texans drove 40+ miles to race, and SoCal's dry lakes had no counterpart.
+Still, racing was concentrated on **ex-military airfields away from the city**, run by clubs. The same thing happened at Halls (TN) and on SoCal's own airstrips. The difference is distance: Texans drove 40+ miles to race, and SoCal's dry lakes had no counterpart.
 
-**See also (Round 10):** [Gene Snow](../people/gene-snow.md) (Fort Worth; *Rambunctious*), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (the Gay family's track at Dickinson).
+*See also:* [Gene Snow](../people/gene-snow.md) (Fort Worth; *Rambunctious*), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (the Gay family's track at Dickinson).
 
 ## Open questions & disputed details
 

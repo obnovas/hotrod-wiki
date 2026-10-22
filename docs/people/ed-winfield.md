@@ -55,7 +55,7 @@ Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Fl
 
 At 16, with hand tools, he reworked the cam in his single-cylinder motorcycle: "I could climb any mountain road around here in high gear!"[^mshf]
 
-In **1919** Winfield converted a used grinding machine into a cam grinder.[^mshf]
+The cams came next. In **1919** Winfield converted a used grinding machine into a cam grinder.[^mshf]
 
 ## The origin of "three-quarter race"
 
@@ -63,7 +63,7 @@ Pete Crane relayed Winfield's own account of how a term hot rodders still use go
 
 ## Carburetors and Indy
 
-The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Cams led to carburetors. The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1]
 

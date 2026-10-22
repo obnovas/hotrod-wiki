@@ -47,21 +47,17 @@ canonical_for: []
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> association history, obituary, founder-era recollections (HotRod Hotline) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-year car counts approximate · [How we rate this](../reference/source-standards.md)
 
-## MSRA (1967)
+In Minnesota the street came before the strip. The **Minnesota Street Rod Association** began in 1967, when Jerry Johnson (member #1) proposed uniting the St. Paul and Minneapolis clubs into one body.[^hh50][^jj] By 1970 the MSRA was strong enough to co-host the first Street Rod Nationals at Peoria with the Slo-Pokes.[^rc]
 
-The **Minnesota Street Rod Association** began in 1967, when Jerry Johnson (member #1) proposed uniting the St. Paul and Minneapolis clubs into one body.[^hh50][^jj] By 1970 the MSRA was strong enough to co-host the first Street Rod Nationals at Peoria with the Slo-Pokes.[^rc]
+## Back to the 50's
 
-## Back to the 50's (1974)
-
-The first Back to the 50's was held **June 23–25, 1974**, at the **Midway Shopping Center**, St. Paul. It drew about 125–150 cars and included a cruise to Porky's Drive-In (MSRA).[^msra] The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year.[^msra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+Four years after Peoria, the MSRA held an event of its own. The first Back to the 50's was held **June 23–25, 1974**, at the **Midway Shopping Center**, St. Paul. It drew about 125–150 cars and included a cruise to Porky's Drive-In (MSRA).[^msra] The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year.[^msra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Eligibility was **1964 and older**, looser than the NSRA's 1948 line.[^msra]
 
 It later moved to the State Fairgrounds and became one of the biggest street-rod gatherings anywhere (HotRod Hotline; ClassicCars Journal).[^hh2][^cc] We report no current car count here because we have not verified one.
 
-## How it differed
-
-Here the *street rod association* came first and drag racing came second. A cold climate and long distances shaped a culture of summer driving events and cruises rather than year-round racing.
+That order is what set the region apart. Here the *street rod association* came first and drag racing came second. A cold climate and long distances shaped a culture of summer driving events and cruises rather than year-round racing.
 
 *See also:* [Lake Street and University Avenue](lake-street-university.md).
 

@@ -60,11 +60,9 @@ Vic Edelbrock Sr. (1913–1962;<sup class="hr-q" id="qr-1"><a href="#q-1" title=
 
 ## The Thickstun detour
 
-In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun on the "Thickstun" manifold, wasn't satisfied, and designed his own: a 180° aluminum two-Stromberg-97 flathead manifold called the **Slingshot**, the first product with the Edelbrock name. About 100 were made before the war.[^ed][^enc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+The roadster came first. In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun on the "Thickstun" manifold, wasn't satisfied, and designed his own: a 180° aluminum two-Stromberg-97 flathead manifold called the **Slingshot**, the first product with the Edelbrock name. About 100 were made before the war.[^ed][^enc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-## After the war
-
-Edelbrock modified "Denver" iron heads, introduced the first aluminum heads and a 1946 catalog, and fielded a flathead midget credited with breaking the Offenhauser midgets' streak in the late '40s.[^hemm]
+After the war Edelbrock modified "Denver" iron heads, introduced the first aluminum heads and a 1946 catalog, and fielded a flathead midget credited with breaking the Offenhauser midgets' streak in the late '40s.[^hemm]
 
 *See also:* [Beast III](../cars/beast-iii.md).
 

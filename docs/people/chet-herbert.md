@@ -45,23 +45,15 @@ canonical_for: []
 
 His parents bought him a trumpet to curb his interest in speed. He traded it for a Cushman scooter.[^h]
 
-Chet Herbert was born in March 1928 in Glenbar, Arizona, and raised in Los Angeles.[^h]
+Chet Herbert was born in March 1928 in Glenbar, Arizona, and raised in Los Angeles.[^h] In 1948 he got polio. Six months in an iron lung left him paralyzed from the chest down. He used the time to design parts, and from then on he raced through hired drivers.[^h]
 
-## Six months in an iron lung
-
-In 1948 he got polio. Six months in an iron lung left him paralyzed from the chest down. He used the time to design parts and raced through hired drivers.[^h]
-
-In 1950, **The Beast**, a stripped Harley, ran 121, then 129 mph at Santa Ana, beating every bike and four-wheeler there.[^h]
+Results came quickly. In 1950, **The Beast**, a stripped Harley, ran 121, then 129 mph at Santa Ana, beating every bike and four-wheeler there.[^h]
 
 ## The lathe
 
-Harley engines had used roller lifters since 1929. No SoCal grinder knew how to grind a roller cam, so Herbert bought a lathe at Sears and converted it. The Chevy six he built reached **275 hp**, more than the Offys it raced. That started Chet Herbert Cams.[^h]
+The Harley pointed the way. Harley engines had used roller lifters since 1929, but no SoCal grinder knew how to grind a roller cam, so Herbert bought a lathe at Sears and converted it. The Chevy six he built reached **275 hp**, more than the Offys it raced. That started Chet Herbert Cams.[^h]
 
-## Streamliners and zoomies
-
-**Beast III** was a fiberglass Bonneville streamliner designed with Caltech wind-tunnel consultant Rod Schapel. **Art Chrisman** drove it to 235.991 mph in 1952. See [Beast III](../cars/beast-iii.md).[^kr]
-
-On the drag strip, Herbert pioneered twin inline V8 dragsters (1962) and is credited with the "zoomie" header.[^h]
+Then came bigger machines. **Beast III** was a fiberglass Bonneville streamliner designed with Caltech wind-tunnel consultant Rod Schapel. **Art Chrisman** drove it to 235.991 mph in 1952. See [Beast III](../cars/beast-iii.md).[^kr] On the drag strip, Herbert pioneered twin inline V8 dragsters (1962) and is credited with the "zoomie" header.[^h]
 
 ## His sister's newspaper
 
