@@ -9,27 +9,41 @@ eras:
 - 1990s
 - 2000s
 - 2010s
+- 2020s
 years:
 - 1967
-- 2015
+- 2025
 region: Midwest
 states:
 - Ohio
+- New Jersey
+- Nevada
+- Georgia
 cities:
-- Norwalk, Ohio
 - Stow, Ohio
+- Akron, Ohio
+- Cuyahoga Falls, Ohio
+- Tallmadge, Ohio
+- Norwalk, Ohio
+- Sparks, Nevada
+- McDonough, Georgia
 people:
-- Paul / Summit Racing Equipment Sergi
+- Paul Sergi
+- Mickey Thompson
 - Arlen Vanke
-companies: []
+companies:
+- Summit Racing Equipment
+- Mickey Thompson
+- COMP Cams
 places: []
 clubs: []
-strips: []
+strips:
+- Summit Racing Equipment Motorsports Park (Norwalk)
 tags:
-- aftermarket-business
-- camshafts
 - speed-equipment
-- airport-strips
+- aftermarket-business
+- family-business
+- drag-strips
 related:
 - companies/mickey-thompson.md
 - companies/comp-cams-rhs.md
@@ -68,7 +82,7 @@ The catalog followed. RACER says Summit printed its own catalog and hired sales 
 | 1969 | first retail store in **Akron**[^racer] | first true store, 1,500 sq ft and 20 feet wide, next to a Midas Muffler and a pizza shop in **Cuyahoga Falls**[^ca] | — |
 | First catalog | own catalog by **1976**[^racer] | first Big Book **1974**[^ca] | — |
 
-Wikipedia's text puts the start in Akron, while its infobox gives the founding place as Tallmadge, which is the headquarters town.[^wp] These are not necessarily contradictions: the store could have been on the Akron-Cuyahoga Falls line, and a "catalog" could mean a price sheet in 1974 and a printed book by 1976. We have not seen the early catalogs themselves.
+Wikipedia's text puts the start in Akron, while its infobox gives the founding place as Tallmadge, which is the headquarters town.[^wp] These are not necessarily contradictions: the store could have been on the Akron-Cuyahoga Falls line, and a "catalog" could mean a price sheet in 1974 and a printed book by 1976.
 
 ## A Corvette that stayed
 
@@ -83,13 +97,7 @@ Summit also bought the naming rights to Norwalk Raceway Park in 2007, becoming S
 
 ## Connect the dots
 
-- [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md): the Akron runways where the Arfons brothers, Otie Smith and Arlen Vanke raced, a few years before Summit began in the same part of the state. The link is place, not documented contact.
-- [Arlen Vanke](../people/arlen-vanke.md): an Akron racer who ordered a Pontiac Super Duty Catalina from a local dealer in 1961, the kind of customer Summit's early drag-racing buddies were.
-- [The Ohio Gassers](../places/ohio-gassers.md): the same state's racers, including Columbus's Jeg Coughlin, listed in Hill's account with "JEGS"; a JEGS profile is on the Research Trail.
-- [Mr. Gasket](mr-gasket.md): another Ohio parts business that began in a trunk and a basement, a few years earlier.
-- [Mickey Thompson](mickey-thompson.md): the ET wheels of Summit's first mail-order ads.
-- [COMP Cams and Racing Head Service](comp-cams-rhs.md): the cam brand in the restored Corvette.
-- [Holley](holley.md): since 2015 the owner of the Mr. Gasket brand.
+The [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) is where the Arfons brothers, Otie Smith and Arlen Vanke raced, a few years before Summit began in the same part of the state; the link is place, not documented contact. [Arlen Vanke](../people/arlen-vanke.md) was an Akron racer who ordered a Pontiac Super Duty Catalina from a local dealer in 1961, the kind of customer Summit's early drag-racing buddies were. [The Ohio Gassers](../places/ohio-gassers.md) were the same state's racers, including Columbus's Jeg Coughlin, listed in Hill's account with "JEGS"; a JEGS profile is on the Research Trail. [Mr. Gasket](mr-gasket.md) was another Ohio parts business that began in a trunk and a basement, a few years earlier, and [Holley](holley.md) has owned that brand since 2015. Summit's first mail-order ads sold [Mickey Thompson](mickey-thompson.md)'s ET wheels, and the cam in the restored Corvette is from [COMP Cams and Racing Head Service](comp-cams-rhs.md).
 
 *See also:* [The Web of Influence](web-of-influence.md).
 
@@ -98,6 +106,8 @@ Summit also bought the naming rights to Norwalk Raceway Park in 2007, becoming S
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Where was the first store?** <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+**The early catalogs:** we have not seen the early catalogs themselves, so the 1974 and 1976 dates in the comparison table stay unreconciled.
 
 ## Images
 

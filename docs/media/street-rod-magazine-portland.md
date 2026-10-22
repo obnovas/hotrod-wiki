@@ -9,7 +9,7 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1970
+- 1971
 - 2014
 region: Northwest
 states:
@@ -17,16 +17,25 @@ states:
 cities:
 - Portland, Oregon
 people:
-- Bruce Craig
 - Bruce Miller
+- Bruce Craig
 - John Slaughter
-companies: []
+- Tex Smith
+- Spence Murray
+- Dale Moreau
+- Russ Meeks
+- Jim Clark
+companies:
+- Street Rod magazine
+- Kable News Service
+- United Medical Lab
 places: []
 clubs: []
 strips: []
 tags:
-- street-rods
 - magazines-and-media
+- street-rods
+- grassroots-sources
 related:
 - voices/street-rodder-founding.md
 - street-rodding/nsra-early-nationals.md
@@ -47,7 +56,7 @@ canonical_for: []
 
     — Jim Clark, first editor of *Street Rodder*, recalled for its 40th anniversary (posted Apr 8, 2014). *Told about 40 years later.* [More in Voices](../voices/street-rodder-founding.md)
 
-Before ***Street Rodder*** there was ***Street Rod***. It was a 64-page, 75-cent monthly put together in Portland, Oregon, apartments by two men who met at church. It ran for **20 issues, October 1971 to July 1973**, and its title forced the California founders of *Street Rodder* to rename their magazine. That makes it one of the first periodicals devoted entirely to the new street-rod movement, and a Pacific Northwest one. Round 7 left it as an open question on our [Street Rodder founding](../voices/street-rodder-founding.md) page; this article answers it.
+Before ***Street Rodder*** there was ***Street Rod***. It was a 64-page, 75-cent monthly put together in Portland, Oregon, apartments by two men who met at church. It ran for **20 issues, October 1971 to July 1973**, and its title forced the California founders of *Street Rodder* to rename their magazine. That makes it one of the first periodicals devoted entirely to the new street-rod movement, and a Pacific Northwest one. It was an open question on our [Street Rodder founding](../voices/street-rodder-founding.md) page; this article answers it.
 
 ## The founders
 
@@ -59,7 +68,7 @@ The 99W history calls Miller "a real 'schmoozer'" who connected with **Tex Smith
 
 ## Bruce Miller and the NSRA
 
-99W: "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Full story: [Dick Wells (1934–2010)](../people/dick-wells.md#the-street-rod-years-and-the-president-question).
+The 99W history says, "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Full story: [Dick Wells (1934–2010)](../people/dick-wells.md#the-street-rod-years-and-the-president-question).
 
 In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -71,13 +80,13 @@ Miller "funded the first year of production largely with his credit card."[^99w]
 
 The first issue ran **10,000 copies**. Production moved from Craig's apartment to Miller's (until March 1972), then to rented offices in Portland's **Sellwood** neighborhood. 99W places that "near Milwaukee, Oregon," meaning neighboring **Milwaukie**.[^99w]
 
-**Dale Moreau** was the photographer. Miller met him at United Medical Labs, and Moreau later became Freightliner's corporate photographer. **Russ Meeks**, "another well known Portland hot rodder," was technical editor.[^99w]
+Others filled out the masthead. **Dale Moreau** was the photographer. Miller met him at United Medical Labs, and Moreau later became Freightliner's corporate photographer. **Russ Meeks**, "another well known Portland hot rodder," was technical editor.[^99w]
 
 Sales were about **40,000 per month** net paid, as 99W tells it. Its own data note adds that the publisher "did not provide net paid circulation data to N.W. Ayer," so the figure cannot be checked against Ayer's directory.[^99w]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> The format was 64 pages at $0.75, with coverage of "how-to-do-its, rod run coverage, rodding trends, car features and club activities."[^99w]
 
 ## The end (1973)
 
-In **January 1973** Craig "had not been paid." In a restructuring he took an ownership percentage and **a '39 Ford**. Miller's ownership "was ended by trading for a **Model A truck**." Slaughter, who owned a business that designed and installed golf courses, took control as publisher and editor.[^99w]
+The money ran short. In **January 1973** Craig "had not been paid." In a restructuring he took an ownership percentage and **a '39 Ford**. Miller's ownership "was ended by trading for a **Model A truck**." Slaughter, who owned a business that designed and installed golf courses, took control as publisher and editor.[^99w]
 
 Craig later explained that the magazine bought paper on 90-day credit. During the **mid-1973 paper shortage**, with no supply contract, the printer required three months' prepayment, "and cash flow did not allow them to keep the magazine operating." It folded **after the July 1973 issue**.[^99w]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -91,7 +100,7 @@ Craig later explained that the magazine bought paper on 90-day credit. During th
 
 That is 20 issues, which matches 99W's count. There is no Vol 3 No 2, apparently because the combined January/February 1973 issue took that number.[^99w]
 
-**See also:** [Street Rodder founding voices](../voices/street-rodder-founding.md), [NSRA and the early Nationals](../street-rodding/nsra-early-nationals.md), [Pacific Northwest](../places/pacific-northwest.md), [Street Rod Nationals era](../eras/1970s-street-rod-nationals.md), [The drag rags](../eras/1960s-drag-rags.md).
+*See also:* [Street Rodder founding voices](../voices/street-rodder-founding.md), [NSRA and the early Nationals](../street-rodding/nsra-early-nationals.md), [Pacific Northwest](../places/pacific-northwest.md), [Street Rod Nationals era](../eras/1970s-street-rod-nationals.md), [The drag rags](../eras/1960s-drag-rags.md).
 
 ## Open questions & disputed details
 

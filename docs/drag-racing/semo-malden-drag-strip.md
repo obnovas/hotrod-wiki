@@ -11,25 +11,30 @@ years:
 region: Midwest
 states:
 - Missouri
+- Tennessee
 cities:
 - Malden, Missouri
+- Sikeston, Missouri
+- Memphis, Tennessee
 people:
-- Chester Andrews
-- Dick Belletti
-- Andy French
-- Al & Calvin Hartsfield
-- Jim Kirby
-- Joe Lunati
-- Kenneth McKee
-- Jim New
-- Larry Reyes
-- Jim Satterfield
 - Bill Taylor
-companies:
-- Kingfish (blown Barracuda)
-- Southeast Missouri Dragsters
+- Kenneth McKee
+- Al Hartsfield
+- Calvin Hartsfield
+- Andy French
+- Jim Satterfield
+- Larry Reyes
+- Joe Lunati
+- Chester Andrews
+- Jim Kirby
+- Jim New
+- Dick Belletti
+- Ron Dent
+companies: []
 places: []
-clubs: []
+clubs:
+- Southeast Missouri Dragsters
+- Malden Junior Chamber of Commerce (Jaycees)
 strips:
 - SEMO Drag Strip (Malden)
 tags:
@@ -81,11 +86,11 @@ The Memphis names matter. Memphis had its own drags at an old bomber base at Hal
 
 ## Prize money and a final race (1963–64)
 
-The 1963 season opened in April with too few cars for two of the five classes. The $100 top stock eliminator prize went to Andy French, now of Oran, "and his Dodge with a 426 cu. in. motor," and $40 to the Hartsfield brothers.[^sk630409] At the last meet of 1964, **Jim Satterfield of Sikeston** won top eliminator in "a 1949 Chevy powered Angelia" (that is, an English Ford Anglia), two straight in a best-of-three, for $75 and a trophy, with an 11.75-second E.T. A Memphis racer brought a Chevy-powered station wagon to "take on all challengers."[^sk641028]
+By 1963 there was prize money. The 1963 season opened in April with too few cars for two of the five classes. The $100 top stock eliminator prize went to Andy French, now of Oran, "and his Dodge with a 426 cu. in. motor," and $40 to the Hartsfield brothers.[^sk630409] At the last meet of 1964, **Jim Satterfield of Sikeston** won top eliminator in "a 1949 Chevy powered Angelia" (that is, an English Ford Anglia), two straight in a best-of-three, for $75 and a trophy, with an 11.75-second E.T. A Memphis racer brought a Chevy-powered station wagon to "take on all challengers."[^sk641028]
 
 ## NHRA and the Jaycees (1965)
 
-The 1965 opening-day ad read: "SEMO DRAGSTRIP Malden Air Base, Malden, Mo. NHRA SANCTIONED - SPONSORED BY JAYCEES," for Sunday, April 11, with trophies to all class winners and a rain phone number. The featured car was a Tennessee AA fuel dragster.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+By 1965 the strip had a national sanction. The opening-day ad read: "SEMO DRAGSTRIP Malden Air Base, Malden, Mo. NHRA SANCTIONED - SPONSORED BY JAYCEES," for Sunday, April 11, with trophies to all class winners and a rain phone number. The featured car was a Tennessee AA fuel dragster.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Easter 1966: the Kingfish and Joe Lunati's Corvair
 
@@ -95,7 +100,7 @@ Hundreds came. Time trials ran until 2:30 because of the turnout, and fans were 
 
 A month later the ad was Ford vs. Chevy: Chester Andrews' injected fuel-burning Mustang from Orange, Texas (9.98 at 134.56) against Jim Kirby's fuel Chevy II from Festus, Mo., three out of five, with $50 eliminator purses and a $15 bike eliminator. "For further information call: Jim New … Risco, Mo." The ad also promised "The Teleflex Trick Truck Is Coming To Malden Drag Strip Soon."[^sk660506]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-In June a trick truck did come<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>: about 500 people watched Dick Belletti's "Trick Truck" try to do a wheelstand the whole quarter mile, "a feat never before done at the Malden Drag Strip." On his last run he came down about 600 feet short. The same day's results list a "Batman A-Go-Go" car and a Sikeston street racer billed only as "Mr. X."[^sk660627]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> ## Easter 1966: the Kingfish and Joe Lunati's Corvair
+In June a trick truck did come<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>: about 500 people watched Dick Belletti's "Trick Truck" try to do a wheelstand the whole quarter mile, "a feat never before done at the Malden Drag Strip." On his last run he came down about 600 feet short. The same day's results list a "Batman A-Go-Go" car and a Sikeston street racer billed only as "Mr. X."[^sk660627]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Still running (1970–71)
 

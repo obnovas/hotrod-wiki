@@ -3,7 +3,6 @@ title: The Ohio Gassers
 summary: '"The Ohio Gassers" was never a chartered club: it was a loose circle of Cleveland high-school friends and their rivals across Ohio who ran gas-class cars.'
 department: places
 eras:
-- 1940s
 - 1950s
 - 1960s
 - 1970s
@@ -12,35 +11,53 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1940
+- 1955
 - 2016
 region: Midwest
 states:
 - Ohio
-cities: []
+cities:
+- Cleveland, Ohio
+- Akron, Ohio
+- Dayton, Ohio
+- Columbus, Ohio
+- Mansfield, Ohio
+- West Salem, Ohio
 people:
-- Virgil Cates
-- Chuck Finders
-- Barbara Hamilton
+- Jim Hill
 - Ron Hassel
-- Gil (Rod Shop) Kirk
-- Dave Meal
-- '"Ohio George" Montgomery'
-- Gene Schwartz
+- Joe Hrudka
+- Tom Hrudka
 - Eddie Schartman
+- Sam Gellner
+- Gene Schwartz
+- Dave Meal
+- Chuck Finders
+- Virgil Cates
+- '"Ohio George" Montgomery'
+- Gil Kirk
+- Jeg Coughlin
+- Barbara Hamilton
 - Arlen Vanke
-- Bob Bartel
-companies: []
+- Harvey Crane
+companies:
+- Mr. Gasket
+- Crane Cams
+- CF Engineering
+- George's Speed Shop
+- Rod Shop
 places: []
 clubs: []
-strips: []
+strips:
+- Thompson Drag Raceway
+- Dragway 42
+- Quaker City Dragway
+- National Trail Raceway
 tags:
 - gassers
-- sanctioning-bodies
-- family-business
 - drag-strips
-- funny-cars
-- airport-strips
+- sanctioning-bodies
+- women
 - grassroots-sources
 related:
 - cars/hill-bros-red-baron.md
@@ -70,7 +87,7 @@ Hill describes the Midwest as a region of heavy industry where men "brought with
 
 In *Hot Rod* he argues that class racing drew full grandstands "on the east side of the Rockies," while "over on the Left Coast, nitro and dragsters were tradition." He says the term **"door-slammer"** originated in the West and was "originally intended as a negative."[^hr15]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-**The tracks:** the Hrudkas' circle raced at **Thompson, Dragway 42 (West Salem), [Quaker City](../drag-racing/quaker-city-salem.md) and National Trail Raceway**. In the short northern Ohio season "an ambitious racer could run 4–5 times per week."[^ecmg]
+The Hrudkas' circle raced at **Thompson, Dragway 42 (West Salem), [Quaker City](../drag-racing/quaker-city-salem.md) and National Trail Raceway**. In the short northern Ohio season "an ambitious racer could run 4–5 times per week."[^ecmg]
 
 ## Who was in it
 
@@ -104,7 +121,7 @@ In **1967**, Ken Kull writes, "I had Chuck come in **from Ohio**," and says Find
 
 In the **1970s** he ran fuel Funny Cars and contended in Division 3. He lost a leg in a late-1970s racing accident. The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys.[^jrt1]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
-**The dates:** born **July 16, 1939**. The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009."[^jrt1] **Resolved (Round 14): May 17.** May 17, 2009, was a Sunday, and two reports were published before May 27: a UK hot rod forum thread whose first post, dated 19 May 2009, reports his death (seen only as a search excerpt; the forum blocked our fetch<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>), and BangShift's news item "Drag Racing's Chuck Finders Passes," dated May 26, 2009, which also announced a June 7 remembrance at the NHRA Museum.[^nsrauk][^bangshift] "May 27" is most likely a typo. We still haven't found a newspaper obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
+Finders was born **July 16, 1939**. The same page gives his death as both **May 27, 2009** and "Sunday, **May 17**, 2009."[^jrt1] **Resolved: May 17.** May 17, 2009, was a Sunday, and two reports were published before May 27: a UK hot rod forum thread whose first post, dated 19 May 2009, reports his death (seen only as a search excerpt; the forum blocked our fetch<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>), and BangShift's news item "Drag Racing's Chuck Finders Passes," dated May 26, 2009, which also announced a June 7 remembrance at the NHRA Museum.[^nsrauk][^bangshift] "May 27" is most likely a typo. We still haven't found a newspaper obituary. A memorial was held at the NHRA Museum, Pomona, June 7, 2009.[^jrt1]
 
 ### Gene Schwartz (Cleveland): E/Gas and the blues
 
@@ -130,9 +147,9 @@ Their '55 Chevy won **D/Gas at the 1962 NHRA Nationals**. Their homemade gaskets
 
 ## The money behind class wins
 
-Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15]<sup class="hr-q" id="qr-11"><a href="#q-11" title="Single source so far: see Open questions">◐</a></sup> This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).<sup class="hr-q" id="qr-10"><a href="#q-10" title="Sources disagree: see Open questions">⚠</a></sup>
+There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15]<sup class="hr-q" id="qr-11"><a href="#q-11" title="Single source so far: see Open questions">◐</a></sup> This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).<sup class="hr-q" id="qr-10"><a href="#q-10" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**See also:** [Mr. Gasket](../companies/mr-gasket.md), [Eddie Schartman](../people/eddie-schartman.md), [Arlen Vanke](../people/arlen-vanke.md), [Red Baron](../cars/hill-bros-red-baron.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md), [Bob Bartel](../people/bob-bartel.md) (World Series at Cordova, where the Moody & Jones '37 Chevy also won), [Midwest & East](midwest-east.md).
+*See also:* [Mr. Gasket](../companies/mr-gasket.md), [Eddie Schartman](../people/eddie-schartman.md), [Arlen Vanke](../people/arlen-vanke.md), [Red Baron](../cars/hill-bros-red-baron.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md), [Bob Bartel](../people/bob-bartel.md) (World Series at Cordova, where the Moody & Jones '37 Chevy also won), [Midwest & East](midwest-east.md).
 
 ## Open questions & disputed details
 

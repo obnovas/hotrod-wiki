@@ -8,27 +8,46 @@ eras:
 - 1970s
 - 1980s
 years:
-- 1958
+- 1957
 - 1988
 region: Southwest
 states:
 - Texas
 cities:
 - Dickinson, Texas
+- Houston, Texas
+- Baytown, Texas
+- Beaumont, Texas
 people:
-- Carl & Marie Gay
-- Don & Roy Gay
+- Carl Gay
+- Marie Gay
+- Don Gay
+- Roy Gay
+- James Osteen
+- Jay Howell
+- Hayden Proffitt
+- Arnie Beswick
+- Don Nicholson
 - Gene Snow
 - Eddie Schartman
+- Don Garlits
+- Bobby Langley
+- Tim Evers
+- Kent Chatagnier
 companies: []
 places: []
-clubs: []
+clubs:
+- Road Kings (Houston)
+- Greater Houston Timing Association
 strips:
 - Houston Freeway Dragstrip
+- Houston Raceway Park
 tags:
 - drag-strips
 - sanctioning-bodies
-- cruising
+- family-business
+- funny-cars
+- street-racing
 - grassroots-sources
 related:
 - people/gene-snow.md
@@ -64,43 +83,41 @@ Land for the strip was donated by the **Fingers Furniture** family, per the same
 
 The strip opened in **fall 1957**, described as the region's first known **purpose-built** drag strip (as opposed to airports).[^hfd]
 
-Houston Chronicle Magazine, **March 1, 1959** ("The Flag Says Go"): starter Tim Evers; Bobby Langley's Scorpion II and Lin Huiet among those "zooming over 160 mph."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The *Houston Chronicle Magazine* of **March 1, 1959** ("The Flag Says Go") named starter Tim Evers, with Bobby Langley's Scorpion II and Lin Huiet among those "zooming over 160 mph."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Don Garlits's memoir (quoted on the history site) recounts a July invitation to a California/Florida/Texas fuel showdown at Freeway: Pete Ogden in a Palamides streamliner, Jack Ewell in Kamboor's Jado Special, Red Case, and Texas star Bobby Langley in Scorpion II. It was Garlits against the field.[^hfd]
+The strip drew outside racers early. Don Garlits's memoir (quoted on the history site) recounts a July invitation to a California/Florida/Texas fuel showdown at Freeway: Pete Ogden in a Palamides streamliner, Jack Ewell in Kamboor's Jado Special, Red Case, and Texas star Bobby Langley in Scorpion II. It was Garlits against the field.[^hfd]
 
 ## Who bought it
 
-**Correction:** our local source says **Don Gay** bought the track in **1960** and added lights, a Christmas tree, timing, stands and a PA.[^hfd]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> It later became Houston Int'l Speedway, then Houston Int'l Raceway.[^gay] Don, who died June 30, 2007, at 60, was only about 13 in 1960. We therefore credit the **Gay family (Carl and Marie)** as buyers. The improvements may well be theirs too. The purchase came **no later than 1961**, when Carl booked Hayden Proffitt there (below). The exact year is still open.
+Our local source says **Don Gay** bought the track in **1960** and added lights, a Christmas tree, timing, stands and a PA.[^hfd]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> It later became Houston Int'l Speedway, then Houston Int'l Raceway.[^gay] Don, who died June 30, 2007, at 60, was only about 13 in 1960. We therefore credit the **Gay family (Carl and Marie)** as buyers. The improvements may well be theirs too. The purchase came **no later than 1961**, when Carl booked Hayden Proffitt there (below). The exact year is still open.
 
 ## The Gay family years { #the-gay-family-years-round-10 }
 
-**Booking the factory cars:** in **1961** Carl Gay booked **Hayden Proffitt** and his Mickey Thompson–owned, 421-powered aluminum **Pontiac Catalina** factory experimental. Don was 14, legal driving age in Texas then. "Within a year" he had an A/Stock Catalina and an A/Modified Production Catalina wagon, and younger brother **Roy** ran a B/Stock GTO.[^gay]
+The Gays brought in the factory cars. In **1961** Carl Gay booked **Hayden Proffitt** and his Mickey Thompson–owned, 421-powered aluminum **Pontiac Catalina** factory experimental. Don was 14, legal driving age in Texas then. "Within a year" he had an A/Stock Catalina and an A/Modified Production Catalina wagon, and younger brother **Roy** ran a B/Stock GTO.[^gay]
 
 In **1964**, Don, still a Dickinson High student, won **A/Stock class at the Indy Nationals**. That year Carl booked **Arnie Beswick**'s blown GTO, and the family decided to build their own.[^gay]
 
-***Infinity*:** with lead mechanic **James Osteen** they took a **'65 GTO** off the lot, moved the front wheels forward four to five inches, and added a fiberglass front end, hood and doors. The name came from the opening of TV's *Ben Casey*. It debuted **July 3, 1965, at the family track** and lost to "Dyno Don" Nicholson that day when the transmission broke.[^gay] *Infinity II* (1966) had a **Jay Howell** tube chassis. The series ended with ***Infinity V***, a 1970 Firebird.[^gay]
+The result was ***Infinity***. With lead mechanic **James Osteen** they took a **'65 GTO** off the lot, moved the front wheels forward four to five inches, and added a fiberglass front end, hood and doors. The name came from the opening of TV's *Ben Casey*. It debuted **July 3, 1965, at the family track** and lost to "Dyno Don" Nicholson that day when the transmission broke.[^gay] *Infinity II* (1966) had a **Jay Howell** tube chassis. The series ended with ***Infinity V***, a 1970 Firebird.[^gay]
 
-**A home for touring racers:** that two-story house is where racers stayed (see Don's quote above). See [Voices](../voices/strip-owners-and-door-slammers.md).
+The family's two-story house was where touring racers stayed (see Don's quote above and [Voices](../voices/strip-owners-and-door-slammers.md)).
 
-**The Gay–Snow connection:** Fort Worth's [Gene Snow](../people/gene-snow.md) made what NHRA calls Funny Car's first 200-mph pass, **200.88 mph**, "at Don and Carl Gay's track in Dickinson, Texas."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+The track also saw a milestone. Fort Worth's [Gene Snow](../people/gene-snow.md) made what NHRA calls Funny Car's first 200-mph pass, **200.88 mph**, "at Don and Carl Gay's track in Dickinson, Texas."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 **Roy Gay** was runner-up to [Eddie Schartman](../people/eddie-schartman.md) at the 1967 Manufacturers Championships at OCIR. He was killed in a 1972 motorcycle accident.[^gay]
 
-**Next generation and the next track:** in the late 1980s the Gay family and the **Angel brothers** (Greg, Gary and Glenn) founded **Houston Raceway Park in Baytown**, on an old rice farm.[^gay] On Oct. 6, 1988, Gene Snow ran the first sub-five-second pass at an NHRA event there (see [Gene Snow](../people/gene-snow.md)). This supports the Yellow Bullet memory below that the Dickinson track closed about 1987.
+The family went on to a new track. In the late 1980s the Gay family and the **Angel brothers** (Greg, Gary and Glenn) founded **Houston Raceway Park in Baytown**, on an old rice farm.[^gay] On Oct. 6, 1988, Gene Snow ran the first sub-five-second pass at an NHRA event there (see [Gene Snow](../people/gene-snow.md)). This supports the Yellow Bullet memory below that the Dickinson track closed about 1987.
 
 ## Names, records and closing
 
 Tower and sanctioning names shifted (NHRA / AHRA labels appear on different-era photos). Treat the name list as a photo-caption census, not a legal chain of title.[^hfd]
 
-**Kent Chatagnier** (Beaumont, "Kent's Speed Shop" fueler): local historians and Standard 1320 researchers argue he ran **197–201+ mph** at Houston in **1960** under then Drag News rules, later "forgotten" when record-keeping was reset.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
+The records are disputed too. Local historians and Standard 1320 researchers argue that **Kent Chatagnier** of Beaumont ("Kent's Speed Shop" fueler) ran **197–201+ mph** at Houston in **1960** under then Drag News rules, later "forgotten" when record-keeping was reset.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
-NHRA.com "Ghost tracks" (2008): by **2000** the site was largely demolished; reader note that a Walmart sat on the old starting line.[^nhra]
+NHRA.com's "Ghost tracks" (2008) says that by **2000** the site was largely demolished, and a reader noted that a Walmart sat on the old starting line.[^nhra]
 
-**Closing:** Yellow Bullet forum recollection says end of **1987**, with Houston Raceway Park (Baytown) opening **1988**. Other secondary text says "unknown date."<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>
+As for the closing, a Yellow Bullet forum recollection says it came at the end of **1987**, with Houston Raceway Park (Baytown) opening **1988**. Other secondary text says "unknown date."<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>
 
-**See also:** [Gene Snow](../people/gene-snow.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Texas: Caddo Mills...](../places/texas.md), [Westheimer cruising](../places/westheimer-houston.md), [Detroit & Cordova](detroit-cordova.md) (other early purpose-built strips).
-
-*See also:* [Regional Scenes](../places/regional-scenes.md).
+*See also:* [Gene Snow](../people/gene-snow.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Texas: Caddo Mills...](../places/texas.md), [Westheimer cruising](../places/westheimer-houston.md), [Detroit & Cordova](detroit-cordova.md) (other early purpose-built strips), [Regional Scenes](../places/regional-scenes.md).
 
 ## Open questions & disputed details
 

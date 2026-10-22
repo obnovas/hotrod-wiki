@@ -16,21 +16,30 @@ eras:
 years:
 - 1935
 - 2023
-region: Midwest
+region: South
 states:
+- Tennessee
 - Missouri
-cities: []
+cities:
+- Memphis, Tennessee
+- Germantown, Tennessee
+- Malden, Missouri
 people:
 - Joe Lunati
 companies:
 - Lunati Cams
+- Holley
+- COMP Performance Group
+- Edelbrock Group
 places: []
 clubs:
 - Memphis Rodders
-strips: []
+strips:
+- SEMO Drag Strip (Malden)
 tags:
 - camshafts
-- sanctioning-bodies
+- speed-equipment
+- family-business
 - airport-strips
 - grassroots-sources
 related:
@@ -61,15 +70,15 @@ His family's obituary says Joe was born in Memphis on August 7, 1935, and attend
 
 ## Trouble Maker, Dixie Devil and a Corvair
 
-According to his family, his "home built and nationally known race cars, Trouble Maker and Dixie Devil," won him "5 NHRA national Champion titles, 9 class speed records, and 2 U.S. National Wins."[^obit] The company says he was a "five-time NHRA national champion title holder in AM/SP" who put himself on the map by winning Indy in 1964 in "his unique Devin drag car."[^edel]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+The racing made his name. According to his family, his "home built and nationally known race cars, Trouble Maker and Dixie Devil," won him "5 NHRA national Champion titles, 9 class speed records, and 2 U.S. National Wins."[^obit] The company says he was a "five-time NHRA national champion title holder in AM/SP" who put himself on the map by winning Indy in 1964 in "his unique Devin drag car."[^edel]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The local papers show him on the road. On Easter Sunday 1966, a Sikeston, Mo., paper advertised "JOE LUNATI'S 1966 427 CORVAIR" against the Kingfish, a blown Barracuda, at the old air base strip in [Malden, Missouri](../drag-racing/semo-malden-drag-strip.md). Hundreds came. The Kingfish won the first run, and "Joe Lunati tore up his differential while warming up for the second race."[^sk660408][^sk660412]
 
 ## The cam shop
 
-By day he rebuilt production engines. In the evenings, the company says, he experimented "with different cam grinds using the shop's cam grinder and found his calling." "In 1968, Lunati made the leap to open his own cam shop," and by 1970 it was serving "weekend sportsman drag racers and local Memphis area circle track racers." Crankshafts, rods and pistons followed.[^edel]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> By the mid-1990s he sold the company to Holley. It went to COMP Performance Group in 2007, and in 2023 it became Edelbrock Group's sixth "power brand."[^edel] COMP, another Memphis cam maker, has its own Memphis roots; see [COMP Cams and RHS](../companies/comp-cams-rhs.md).
+Then came cams. By day he rebuilt production engines. In the evenings, the company says, he experimented "with different cam grinds using the shop's cam grinder and found his calling." "In 1968, Lunati made the leap to open his own cam shop," and by 1970 it was serving "weekend sportsman drag racers and local Memphis area circle track racers." Crankshafts, rods and pistons followed.[^edel]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> By the mid-1990s he sold the company to Holley. It went to COMP Performance Group in 2007, and in 2023 it became Edelbrock Group's sixth "power brand."[^edel] COMP, another Memphis cam maker, has its own Memphis roots; see [COMP Cams and RHS](../companies/comp-cams-rhs.md).
 
-He kept racing go-karts with his children and won a World Karting Association Mechanic of the Year award. He also kept going to the Memphis Rodders reunions "until his health declined."[^obit][^edel] He died in Germantown, Tenn., on September 13, 2023, at 88. His family's last word on him was local: "He was a cornerstone in the Memphis drag racing history."[^obit]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
+He never left the sport. He kept racing go-karts with his children and won a World Karting Association Mechanic of the Year award. He also kept going to the Memphis Rodders reunions "until his health declined."[^obit][^edel] He died in Germantown, Tenn., on September 13, 2023, at 88. His family's last word on him was local: "He was a cornerstone in the Memphis drag racing history."[^obit]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 

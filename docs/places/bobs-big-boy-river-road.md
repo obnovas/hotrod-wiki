@@ -18,15 +18,29 @@ states:
 - California
 cities:
 - Burbank, California
+- Toluca Lake, California
 people:
 - Tommy Ivo
+- Ted Sebern
+- Don Prudhomme
+- Kenny Stafford
+- Tom Jandt
+- Tony Nancy
+- Bob Muravez
 companies: []
-places: []
+places:
+- Bob's Big Boy (Riverside Drive)
+- River Road (Los Angeles River)
 clubs:
 - Road Kings (Burbank)
+- Road Knights
 strips: []
 tags:
+- cruising
+- street-racing
+- car-clubs
 - car-shows
+- teenagers-and-schools
 - grassroots-sources
 related:
 - cars/techniques-and-styles.md
@@ -48,6 +62,8 @@ In the 1950s Burbank high schoolers met at the newly opened Bob's "to show off t
 
 ## In their own words
 
+Tommy Ivo described the routine:
+
 > "At Bob's you'd choose somebody off and then head over to the River Road. … We'd race and get out of there in a hurry. … If somebody called the L.A. cops on us, we'd scoot back across the river to Burbank before they could catch us."
 >
 > — **Tommy Ivo**, 78, Burbank Leader (June 5, 2014).[^bl]
@@ -55,6 +71,8 @@ In the 1950s Burbank high schoolers met at the newly opened Bob's "to show off t
 > "It wasn't a money deal. We didn't race for pink slips. It was a matter of pride. You'd race and go back to Bob's Big Boy."
 >
 > — **Tommy Ivo**, 2014.[^bl]
+
+In the river bottom, the police were part of the audience:
 
 > "Police would come down to drink coffee and watch us. They figured at least we weren't on the streets. … He told us they were going to get coffee and doughnuts and come back in 20 minutes to raid us."
 >
@@ -64,9 +82,9 @@ Sebern said he gave up racing after a Hoover High senior was killed in a '32 For
 
 ## From a parking lot to the pros
 
-**The Road Kings** (Burbank, founded 1952). The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming **Don Prudhomme**, Kenny Stafford, Tom Jandt, **Tony Nancy**, **Bob Muravez** and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
+Ivo's club was the **Road Kings** of Burbank, founded in 1952. The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming **Don Prudhomme**, Kenny Stafford, Tom Jandt, **Tony Nancy**, **Bob Muravez** and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
 
-The restaurant history page says Friday-night car shows and weekend carhop service were brought back during the restoration of the building.[^bob] An LA Times columnist (2013) quotes a regular: "I tell them I lived 'American Graffiti' right here."[^lat13]
+Bob's itself is still there. The restaurant history page says Friday-night car shows and weekend carhop service were brought back during the restoration of the building.[^bob] An LA Times columnist (2013) quotes a regular: "I tell them I lived 'American Graffiti' right here."[^lat13]
 
 *See also:* [Harvey's Broiler](harveys-broiler-downey.md).
 
