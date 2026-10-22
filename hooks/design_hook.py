@@ -59,7 +59,7 @@ DEPT = {
     "reference": ("book", "Timeline, index, patents, credits, standards, the research trail and the bibliography."),
 }
 NO_THUMB = {"reference", "index"}
-REF_PAGES = ("reference/", "bibliography.md", "research-trail.md", "highlights-archive.md", "taxonomy.md", "contribute.md", "style-guide.md")
+REF_PAGES = ("about/", "reference/", "bibliography.md", "research-trail.md", "highlights-archive.md", "taxonomy.md", "contribute.md", "style-guide.md")
 
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -627,7 +627,7 @@ def on_page_markdown(markdown, page, config, files):
 
 def on_page_content(html, page, config, files):
     src = page.file.src_uri
-    info = {"src": src, "kind": page_kind(page)}
+    info = {"src": src, "kind": page_kind(page), "url": page.url}
     INFO[src] = info
     meta = page.meta or {}
     # some plugins (glightbox) hand over a full-document wrapper; peel it so our block-level regexes see clean content
@@ -696,10 +696,49 @@ def on_page_content(html, page, config, files):
     cities, states = meta.get("cities") or [], meta.get("states") or []
     info["region_label"] = (cities[0] if len(cities) == 1 else ", ".join(states[:2]) if states else
                             (meta.get("region") if meta.get("region") not in (None, "National") else None))
+    info["summary"] = str(meta.get("summary") or "").strip() or None
+    info["eras_list"] = [str(e) for e in (meta.get("eras") or [])]
+    info["tags"] = [str(t) for t in (meta.get("tags") or [])]
+    info["place"] = info["region_label"]
+    info["years"] = yrs if isinstance(yrs, list) else None
+    html = wrap_end_sections(html, info)
     info["links"] = []
     base = page.url
     for hm in re.finditer(r'<a [^>]*href="([^"#?]+)(?:#[^"]*)?"', html):
         info["links"].append(hm.group(1))
+    return html
+
+
+# ---------------------------------------------------------------- end-of-story sections
+OQ_RE = re.compile(r'(<h2 id="open-questions-disputed-details">.*?</h2>)(.*?)(?=<h2 |<div class="footnote"|\Z)', re.S)
+SRC_H_RE = re.compile(r'<h2 id="sources">.*?</h2>\s*(?=<div class="footnote")', re.S)
+
+
+def wrap_end_sections(html, info):
+    """Open questions -> a distinct, collapsible end section; sources -> a collapsible ledger (open by default,
+    JS folds it on phones). Headings keep their ids so every existing link still lands."""
+    m = OQ_RE.search(html)
+    info["oq_count"] = 0
+    if m:
+        n = len(re.findall(r'class="hr-q-anchor"', m.group(2))) or len(re.findall(r"<li", m.group(2)))
+        info["oq_count"] = n
+        cnt = f'<span class="hr-oq__count">{n} item{"s" if n != 1 else ""}</span>' if n else ""
+        block = (f'<details class="hr-oq" data-hr-oq><summary class="hr-oq__sum">{m.group(1)}{cnt}'
+                 f'<span class="hr-oq__hint" aria-hidden="true">Show</span></summary><div class="hr-oq__body">{m.group(2)}</div></details>')
+        html = html[:m.start()] + block + html[m.end():]
+    fm = re.search(r'<div class="footnote" id="hr-sources"', html)
+    if fm:
+        hm = SRC_H_RE.search(html)
+        start = hm.start() if hm and hm.end() == fm.start() else fm.start()
+        head = hm.group(0) if hm and hm.end() == fm.start() else ""
+        tail = html[start + len(head):]
+        n = len(re.findall(r'<li id="fn:', tail))
+        title = re.sub(r'<a class="headerlink".*?</a>', "", head, flags=re.S) if head else ""
+        ttl = text_of(title) or "Sources & notes"
+        hid = 'id="sources"' if head else 'id="hr-sources-h"'
+        html = (html[:start] + f'<details class="hr-src" open data-hr-src><summary class="hr-src__sum"><h2 {hid}>{htmlmod.escape(ttl)}</h2>'
+                f'<span class="hr-src__count">{n} note{"s" if n != 1 else ""}</span><span class="hr-oq__hint" aria-hidden="true">Show</span></summary>'
+                + tail + "</details>")
     return html
 
 
@@ -731,7 +770,9 @@ def card(page, info):
             "thumb": thumb_for(info), "level": (info.get("record") or {}).get("level"),
             "conf": (info.get("record") or {}).get("conf_word"), "era": info.get("era"),
             "grass": bool((info.get("record") or {}).get("grassroots")), "minutes": info.get("minutes"),
-            "dept": info.get("dept_title"), "kind": info.get("kind"),
+            "dept": info.get("dept_title"), "kind": info.get("kind"), "summary": info.get("summary"),
+            "eras": info.get("eras_list") or [], "place": info.get("place"), "region": info.get("region"),
+            "tags": info.get("tags") or [], "years": info.get("years"),
             "plate": Path(info.get("thumb") or "").name.startswith(("patent-", "loc-haer"))}
 
 
@@ -872,6 +913,13 @@ def build_site(nav, config):
     SITE["built"] = datetime.date.today()
 
 
+def slugify(t):
+    return re.sub(r"[^a-z0-9]+", "-", str(t).lower()).strip("-")
+
+
+TAG_LABEL = lambda t: str(t).replace("-", " ")
+
+
 def rel_url(target, here):
     import posixpath
     t = posixpath.relpath(target or ".", here.rstrip("/") or ".") if target else "."
@@ -920,7 +968,15 @@ def on_page_context(context, page, config, nav):
         # siblings in department
         if d and d["is_section"]:
             sibs = [p for p in d["pages"] if not p.is_index]
+            grp = info.get("group")
+            if grp:
+                gs = [p for p in sibs if INFO.get(p.file.src_uri, {}).get("group") == grp]
+                if len(gs) > 1:
+                    sibs = gs
+            hr["series"] = grp or d["title"]
             ids = [p.url for p in sibs]
+            if page.url in ids:
+                hr["series_pos"] = (ids.index(page.url) + 1, len(ids))
             if page.url in ids:
                 i = ids.index(page.url)
                 hr["prev"] = card(sibs[i - 1], INFO.get(sibs[i - 1].file.src_uri, {})) if i > 0 else None
@@ -1013,6 +1069,50 @@ def on_page_context(context, page, config, nav):
         hr["picks"] = picks
     if page.file.src_uri == "reference/grassroots-sources.md" and "<!-- hr:grassroots-articles -->" in (page.content or ""):
         page.content = page.content.replace("<!-- hr:grassroots-articles -->", grassroots_table(pages, page.url))
+    # breadcrumbs: Home > department > series (sub-group of the department)
+    crumbs = []
+    if kind != "home":
+        crumbs.append({"t": "Home", "u": ""})
+        if d and d.get("url") != page.url:
+            crumbs.append({"t": d["title"], "u": d["url"]})
+            if info.get("group"):
+                crumbs.append({"t": info["group"], "u": d["url"] + "#" + slugify(info["group"])})
+    hr["crumbs"] = crumbs
+    # the summary standfirst is rendered in the story head; the search index has already read it from the content
+    if page.content and '<p class="hr-summary"' in page.content:
+        page.content = re.sub(r'<p class="hr-summary"[^>]*>.*?</p>\s*', "", page.content, count=1, flags=re.S)
+    hr["standfirst"] = (page.meta or {}).get("deck") or info.get("summary")
+    toc_n = 0
+    if page.toc:
+        items = page.toc.items[0].children if page.toc.items and page.toc.items[0].level == 1 else page.toc.items
+        skip_ids = set(info.get("removed_ids") or []) | {"open-questions-disputed-details", "sources"}
+        toc_n = len([t for t in items if t.id not in skip_ids])
+    hr["toc_n"] = toc_n
+    hr["long"] = kind == "ref" or (toc_n >= 3 and (info.get("words") or 0) >= 900)
+    # hubs: intro paragraph(s) on top, metadata cards with filters, then the editor's listing folded underneath
+    if kind == "section" and page.content:
+        c = page.content
+        mm = re.search(r"<p><strong>|<h2[ >]|<h3[ >]|<ul[ >]|<ol[ >]|<table|<div class=\"admonition", c)
+        if mm:
+            hr["hub_intro"], hr["hub_listing"] = c[:mm.start()], c[mm.start():]
+        else:
+            hr["hub_intro"], hr["hub_listing"] = c, ""
+        page.content = ""
+        facets = {"eras": {}, "regions": {}, "tags": {}}
+        for ch in hr.get("children") or []:
+            for e in ch.get("eras") or []:
+                facets["eras"][e] = facets["eras"].get(e, 0) + 1
+            if ch.get("region"):
+                facets["regions"][ch["region"]] = facets["regions"].get(ch["region"], 0) + 1
+            for t in ch.get("tags") or []:
+                facets["tags"][t] = facets["tags"].get(t, 0) + 1
+        hr["facets"] = {
+            "eras": sorted(facets["eras"].items()),
+            "regions": sorted(facets["regions"].items(), key=lambda x: (-x[1], x[0])),
+            "tags": sorted([x for x in facets["tags"].items() if x[1] >= 2], key=lambda x: (-x[1], x[0]))[:14],
+        }
+        for g in hr.get("child_groups") or []:
+            g["id"] = slugify(g["title"]) if g.get("title") else None
     context["hr"] = hr
     context["hr_site"] = SITE
     return context
@@ -1047,7 +1147,24 @@ def seed_date(config):
     SITE["quotes"] = qs
 
 
+def write_cards_json(config):
+    import json
+    out = {}
+    for src, i in INFO.items():
+        if i.get("kind") not in ("story", "section", "ref"):
+            continue
+        u = i.get("url")
+        if u is None:
+            continue
+        out[u] = {"s": i.get("summary") or i.get("blurb") or "", "d": i.get("dept_title") or "",
+                  "e": i.get("eras_list") or [], "p": i.get("place") or "", "k": i.get("kind")}
+    f = Path(config["site_dir"]) / "assets" / "hr-cards.json"
+    f.parent.mkdir(parents=True, exist_ok=True)
+    f.write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")))
+
+
 def on_post_build(config):
+    write_cards_json(config)
     if not SITE.get("thumbs_enabled"):
         return
     try:
