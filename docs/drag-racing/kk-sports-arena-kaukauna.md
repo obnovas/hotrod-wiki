@@ -12,12 +12,14 @@ states:
 - Wisconsin
 cities:
 - Kaukauna, Wisconsin
+- Appleton, Wisconsin
 people:
 - Norman Beyer
 - Thomas J. Broas
 - Clarence DeLeeuw
 - Clyde Schumacher
 - D. R. Seeger
+- George Else
 companies: []
 places: []
 clubs:

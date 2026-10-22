@@ -14,10 +14,13 @@ states:
 cities:
 - Cahokia, Illinois
 - Belleville, Illinois
+- St. Louis, Missouri
 people:
 - Wayne Mehrtens (Mertens)
 - Joseph R. Naber
 - Edwin Styffe Jr.
+- Gary Evans
+- Tex Smith
 companies: []
 places: []
 clubs:

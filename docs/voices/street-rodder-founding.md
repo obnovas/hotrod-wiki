@@ -3,8 +3,6 @@ title: 'Founding Street Rodder (1972): Tex Smith and Jim Clark Remember'
 summary: Tex Smith and Jim Clark remember how Street Rodder magazine got started in 1972 at Tom and Rose McMullen's TRM Publications.
 department: voices
 eras:
-- 1940s
-- 1950s
 - 1960s
 - 1970s
 - 1980s
@@ -12,9 +10,9 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1948
+- 1963
 - 2012
-region: Northwest
+region: National
 states:
 - Oregon
 cities: []
@@ -22,6 +20,8 @@ people:
 - Jim Clark
 - Tom & Rose McMullen
 - LeRoi "Tex" Smith
+- Bruce Miller
+- Brian Brennan
 companies: []
 places: []
 clubs: []
@@ -48,17 +48,25 @@ canonical_for: []
 
 ## How it got started
 
+Smith remembered pushing for a new kind of magazine.
+
 > "One day I announced to Tom and Rose that we needed to diversify the motorcycle magazines, and that the most obvious magazine would be in the emerging hobby of street rodding. Tom resisted. Rose was only concerned about how we would fund it. We did so by dropping our newest magazine, Hot Bike."
 >
 > — **Tex Smith**, recalled for SR's 40th anniversary (2012). *Told 40 years later.*[^sr]
+
+Clark explained the name.
 
 > "We originally intended to call it Street Rod, but not long before we went to print Bruce Miller in Portland, Oregon, came out with Street Rod magazine. So we changed our name. It was released in May 1972. At the time I was listed as the editor, but Tex was my mentor."
 >
 > — **Jim Clark**, SR's first editor, 2012.[^sr]
 
+He also described the magazine's scope.
+
 > "STREET RODDER originally covered the whole spectrum of street activity. … There was no 1948 cut-off year."
 >
 > — **Jim Clark**, 2012.[^sr] Compare the NSRA's [1948 rule](../street-rodding/nsra-early-nationals.md). The first issue covered the 2nd Nationals, which was the 1971 Memphis event.
+
+Smith also recalled how he hired Brian Brennan.
 
 > "I found Brian working at Disneyland as a sweeper. He had worked for one of the area's hot racing enterprises and he could almost spell."
 >

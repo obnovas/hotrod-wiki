@@ -19,12 +19,17 @@ people:
 - Bud Bryan
 - Jim "Jake" Jacobs
 - Tom Medley
+- Tex Smith
+- Dick Martin
 companies: []
 places: []
 clubs: []
 strips: []
 tags:
 - oral-history
+- street-rods
+- car-shows
+- magazines-and-media
 related:
 - eras/1970s-street-rod-nationals.md
 - street-rodding/nsra-early-nationals.md
@@ -43,21 +48,31 @@ The first Street Rod Nationals (Peoria, Aug 1970) is covered in [1970s: Peoria](
 
 ## Five voices, one road trip
 
+Medley began with the choice of town.
+
 > "We picked out a bunch of guys who were in this car club called the Slo-Pokes in Peoria, Illinois. The reason we picked Peoria was it was almost the center of the population of the U.S."
 >
 > — **Tom Medley**, 2007.[^rc]
+
+He also said they went ahead without management's OK.
 
 > "We couldn't get an OK from the 7th floor (Petersen Publishing upper management), but we were already into this thing so we went ahead and did it."
 >
 > — **Tom Medley**, 2007.[^rc]
 
+Bryan described a sport split by region.
+
 > "The sport, at that point, was fragmented nationally. The Midwest and the East Coast guys didn't know much about the West Coast guys, and visa versa. … Everybody was talking about cruises, but not many ventured out of state."
 >
 > — **Bud Bryan**, 2007.[^rc]
 
+Jacobs drove there from California.
+
 > "America was different then. … You could sleep by the side of the road without worrying about getting robbed or worse."
 >
 > — **Jim "Jake" Jacobs**, on driving his Model A from California, 2007.[^rc]
+
+Smith remembered an improvised event.
 
 > "Some of the guys went out and found traffic cones to set up a slalom course. … We called it a Streetkhana."
 >

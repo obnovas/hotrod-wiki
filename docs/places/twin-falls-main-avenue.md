@@ -5,9 +5,10 @@ department: places
 eras:
 - 1950s
 - 1960s
+- 1970s
 years:
 - 1957
-- 1965
+- 1972
 region: Northwest
 states:
 - Idaho
@@ -19,11 +20,18 @@ people:
 - Merlin Hudson
 - Gary Nelson
 - J. O. Pumphrey
+- Terry Thornton
+- Calvin Gould
+- Ed Boss
+- William Barrett
 companies: []
 places: []
 clubs:
 - Avenger Rod and Custom Car club
 - Magic Valley Timing Association
+- Road Lords
+- Coachmen
+- Magic Valley Timettes
 strips: []
 tags:
 - car-clubs
@@ -81,7 +89,7 @@ The paper checked in on the club in August 1961, ten months after the lease vote
 
 The paper said the club's main goal was still to build a drag strip somewhere in the Magic Valley. Until then, members went to the "drags" at Boise and Pocatello. The feature called the MVTA small, energetic and controversial. Gary Nelson, still president, said that although plenty of people linked the group with "dragging Main," "the club looks down on such activities," and a member cited for a driving violation was penalized by the club.[^feat1961]
 
-** That answers part of the question this page left open. Ten months after the Joslin Field vote, the club was still talking about building a strip, not running one. In October 1961 two members took prizes at the season's last drag races, held at **Pocatello**. Nelson won his gas class with a Corvette-powered Ford pickup, and Ed Boss won altered coupe with a Model A coupe and an Oldsmobile engine, then took best overall construction at the Pocatello car show.[^poc1961]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> In September 1962 the members met at Nelson's home and re-elected him, with **Terry Thornton** as vice president and **Calvin Gould** as secretary. They talked about engines, about merchandise members had to sell or trade, and, in a garbled line, about land for a drag strip.[^off1962]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+That answers part of the question this page left open. Ten months after the Joslin Field vote, the club was still talking about building a strip, not running one. In October 1961 two members took prizes at the season's last drag races, held at **Pocatello**. Nelson won his gas class with a Corvette-powered Ford pickup, and Ed Boss won altered coupe with a Model A coupe and an Oldsmobile engine, then took best overall construction at the Pocatello car show.[^poc1961]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> In September 1962 the members met at Nelson's home and re-elected him, with **Terry Thornton** as vice president and **Calvin Gould** as secretary. They talked about engines, about merchandise members had to sell or trade, and, in a garbled line, about land for a drag strip.[^off1962]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 The club did what other clubs in town did. At the March 1963 Red Cross blood drawing, the MVTA gave six pints, tying the power company, the typographical union and Sears Roebuck.[^blood1963] In February 1964, with car clubs from Twin Falls, Buhl and Burley at the meeting, members elected **Merlin Hudson** of Buhl president. Four Buhl Lions came to explain a fundraiser: **Moore's All-American Redheads**, a touring women's basketball team, would play the Faux Cigar store team in the Buhl high school gym on March 15, and the proceeds would be split, half to the Redheads and half to the timing association.[^hudson1964] Tickets were sold at service stations, the Twin Falls Cigar store, and by any MVTA member.[^redheads1964]
 

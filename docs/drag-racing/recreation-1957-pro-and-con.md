@@ -6,9 +6,10 @@ eras:
 - 1950s
 - 1960s
 - 1970s
+- 1980s
 years:
 - 1955
-- 1978
+- 1985
 region: Northeast
 states:
 - Delaware

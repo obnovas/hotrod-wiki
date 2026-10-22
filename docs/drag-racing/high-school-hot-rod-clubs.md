@@ -13,16 +13,33 @@ states:
 - Oregon
 - Texas
 - Ohio
+- Florida
+- Kansas
+- Colorado
+- North Carolina
 cities:
 - Portland, Oregon
+- Sherman, Texas
+- Pensacola, Florida
+- Tillamook, Oregon
+- Imbler, Oregon
+- Shawnee Mission, Kansas
+- Fort Collins, Colorado
+- Chillicothe, Ohio
+- Greensboro, North Carolina
+- Circleville, Ohio
 people:
 - Norton Barnes
+- Forrest Easterday Jr.
 - James Russell
-companies:
-- Ram Rods
+- Tom Joyce
+- Roland C. Faunce
+companies: []
 places: []
 clubs:
 - Devastators Hot Rod Club
+- Ram Rods
+- Coasters Hot Rod Club
 strips: []
 tags:
 - car-clubs

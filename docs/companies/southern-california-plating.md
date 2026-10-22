@@ -45,7 +45,7 @@ canonical_for: []
 
 *Main source: Coachbuilt.com's census-based research.*[^cb]
 
-Leonard DeBell promoted his shop with customized delivery trucks: whitewalls, wheel discs, V-windshields and DuVall-designed grilles and bumpers.[^cb][^kr]
+Leonard DeBell promoted his shop with customized delivery trucks: whitewalls, wheel discs, V-windshields and [DuVall](../people/george-duvall.md)-designed grilles and bumpers.[^cb][^kr]
 
 ## The owner and the shop
 

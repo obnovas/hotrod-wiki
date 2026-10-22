@@ -11,8 +11,12 @@ region: Midwest
 states:
 - Iowa
 - Arkansas
+- Michigan
+- Illinois
 cities:
 - Hope, Arkansas
+- Escanaba, Michigan
+- Harrisburg, Illinois
 people:
 - Henry Gregor Felsen
 companies: []

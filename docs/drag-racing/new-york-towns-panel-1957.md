@@ -10,7 +10,12 @@ years:
 region: Northeast
 states:
 - New York
-cities: []
+cities:
+- Buffalo, New York
+- Schenectady, New York
+- Glen Cove, New York
+- Rochester, New York
+- Kingston, New York
 people:
 - Harold Calkins
 - William Keeler
@@ -23,6 +28,8 @@ tags:
 - police-and-safety
 - car-clubs
 - drag-strips
+- town-politics
+- magazines-and-media
 related:
 - drag-racing/kingston-igniters.md
 - drag-racing/planners-report-1955.md
@@ -46,11 +53,11 @@ The Kingston paper that carried it was the same one that had been following the 
 
 ## Three speakers, three answers
 
-**The sheriff.** Sheriff Harold Calkins of Schenectady County said a brake should be put on the hot rodders "before they 'get out of hand.'" He allowed that some good comes from hot rod clubs. Even so, he recommended a state law requiring special licenses for drag strip driving. He also suggested special permits for hot rod owners and a ban on driving hot rod cars on public highways. He thought the energy would be better burned up in "Boys Clubs, Boy Scouts or similar organizations."[^kf570214]
+Sheriff Harold Calkins of Schenectady County said a brake should be put on the hot rodders "before they 'get out of hand.'" He allowed that some good comes from hot rod clubs. Even so, he recommended a state law requiring special licenses for drag strip driving. He also suggested special permits for hot rod owners and a ban on driving hot rod cars on public highways. He thought the energy would be better burned up in "Boys Clubs, Boy Scouts or similar organizations."[^kf570214]
 
-**The police chief.** Chief Frank McCue of Glen Cove, on Long Island, said laws to regulate hot rodders would be "just picking on the kids." In his view it was "[b]etter for kids to be interested in hot rods than to hang around gin mills somewhere and get into trouble." He added that in his town the hot rodders had put on shows that raised $1,600 for the Community Chest.[^kf570214]
+The police chief saw it differently. Chief Frank McCue of Glen Cove, on Long Island, said laws to regulate hot rodders would be "just picking on the kids." In his view it was "[b]etter for kids to be interested in hot rods than to hang around gin mills somewhere and get into trouble." He added that in his town the hot rodders had put on shows that raised $1,600 for the Community Chest.[^kf570214]
 
-**The safety man.** William Keeler, manager of the Rochester Safety Council, had "a good word for the hot rodders." "They have done many wonderful things," he said, and auto engineers "have taken many tips from hot rodders." He singled out dual exhausts and dual carburetors as features that first showed up in hot rods. He thought "hot rodder" was an unfortunate name but offered no better one. On strips he was firm: "We cannot sponsor or advocate them."[^kf570214]
+William Keeler, manager of the Rochester Safety Council, had "a good word for the hot rodders." "They have done many wonderful things," he said, and auto engineers "have taken many tips from hot rodders." He singled out dual exhausts and dual carburetors as features that first showed up in hot rods. He thought "hot rodder" was an unfortunate name but offered no better one. On strips he was firm: "We cannot sponsor or advocate them."[^kf570214]
 
 The wire writer added a one-sentence definition for readers who did not know one: a drag strip is "a measured strip of highway on which the drivers demonstrate the power of their vehicles." He ended with a line that has aged well: the hot rodders themselves were "yet to be heard from," but "if you listen you may hear their answer in the roar of their motors."[^kf570214]
 

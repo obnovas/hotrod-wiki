@@ -17,12 +17,17 @@ people:
 - Karen Enwall
 - Lori Schelfhout
 - Delores Schumacher
+- Fern Smith
+- N. J. Neis
 companies: []
 places: []
 clubs:
 - Fox Valley Rod and Custom Association
 - Gas-Ketts
 - Road Deacons Rod and Custom Club
+- Venturi Car Club
+- Coachmen Car Club
+- Ghost Rods
 strips: []
 tags:
 - car-clubs
