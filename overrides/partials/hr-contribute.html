@@ -3,7 +3,7 @@
 {% set pg_title = (hr.title | d(page.title) | d("")) | striptags | urlencode %}
 {% set pg_url = ("/" ~ page.url) | urlencode %}
 <aside class="hr-help" aria-labelledby="hr-help-h">
-  <h2 class="hr-help__h" id="hr-help-h"><span class="hr-script">Know something we don't?</span> Help make this page better</h2>
+  <h2 class="hr-help__h" id="hr-help-h"><span class="hr-script">Were you there? Know better?</span> Help make this page better</h2>
   <p class="hr-help__p">This wiki is a running investigation. Send a fix, a source or an idea and we will check it against the standards before anything changes.</p>
   <ul class="hr-help__btns">
     <li><a class="hr-btn" href="{{ issues }}?template=correction.yml&amp;title=%5BCorrection%5D%20{{ pg_title }}&amp;page={{ pg_url }}" rel="noopener">Report a correction</a></li>

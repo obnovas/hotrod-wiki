@@ -25,4 +25,14 @@
     </article>
   </div>
 {% endblock %}
-{% block footer %}{% include "partials/footer.html" %}{% endblock %}
+{% block footer %}
+  <a class="hr-totop" href="#" data-hr-top hidden><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-up"/></svg><span>Top</span></a>
+  <div class="hr-sheet" id="hr-sheet" role="dialog" aria-modal="true" aria-labelledby="hr-sheet-h" hidden>
+    <div class="hr-sheet__card">
+      <div class="hr-sheet__head"><p class="hr-sheet__h" id="hr-sheet-h">Note</p><button type="button" class="hr-sheet__close" aria-label="Close note"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-close"/></svg></button></div>
+      <div class="hr-sheet__body md-typeset"></div>
+      <a class="hr-sheet__all" href="#hr-sources">All sources &amp; notes</a>
+    </div>
+  </div>
+  {% include "partials/footer.html" %}
+{% endblock %}

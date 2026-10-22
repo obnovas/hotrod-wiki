@@ -282,7 +282,7 @@ def card(h: dict, page_url: str, idx: int, total: int, creds: dict, eager: bool)
         f'<h3 class="hr-hl-headline"><a href="{esc(href)}">{esc(h["headline"])}</a></h3>'
         f'<p class="hr-hl-teaser">{esc(h["teaser"])}</p>'
         f'<p class="hr-hl-meta">{meta}{" · " if meta else ""}Added {added}</p>'
-        f'<a class="hr-hl-more" href="{esc(href)}">Read the article <span aria-hidden="true">→</span></a>'
+        f'<a class="hr-hl-more" href="{esc(href)}">Read the full story <span aria-hidden="true">→</span></a>'
         "</div></article></li>"
     )
 

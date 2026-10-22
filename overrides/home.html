@@ -7,7 +7,7 @@
   <div class="hr-cover__inner">
     <p class="hr-cover__strip"><span>Vol. 1</span><span>An investigator's archive</span><span>{{ months[hr_site.built.month] }} {{ hr_site.built.year }}</span></p>
     <h1 class="hr-mast" id="hr-cover-title"><span class="hr-mast__a">Hot Rod</span><span class="hr-mast__b">History</span><span class="hr-sr">Wiki</span></h1>
-    <p class="hr-cover__script">{{ config.extra.masthead_tag | d("since the dry lakes") }}</p>
+    <p class="hr-cover__pos"><span class="hr-cover__tagline">{{ config.extra.masthead_tag | d("The hometown history of hot rodding") }}</span> <span class="hr-cover__tagline-2">Every claim cited. Every doubt shown.</span></p>
     <div class="hr-cover__intro">{{ hr.intro_html | safe }}</div>
     <ul class="hr-cover__stats" role="list">
       <li><b>{{ st.stories }}</b><span>stories</span></li>
@@ -26,6 +26,17 @@
     {{ page.content }}
   </section>
 
+  {% set about = 'about/what-makes-this-different/' %}
+  <section class="hr-diff" aria-labelledby="hr-diff-h">
+    <header class="hr-diff__head"><p class="hr-script">Below the hall of fame</p><h2 id="hr-diff-h">How we&rsquo;re different</h2></header>
+    <ol class="hr-diff__list">
+      <li><a href="{{ about | url }}#what-we-do-differently"><span class="hr-diff__n" aria-hidden="true">1</span><strong>We read the local paper first</strong><span>Small-town dailies, school papers, council minutes, obituaries and club newsletters come before the national magazines.</span></a></li>
+      <li><a href="{{ about | url }}#what-we-do-differently"><span class="hr-diff__n" aria-hidden="true">2</span><strong>Every doubt is shown</strong><span>A footnote on every claim. When sources disagree we print both and flag it; each story states its confidence.</span></a></li>
+      <li><a href="{{ about | url }}#what-we-do-differently"><span class="hr-diff__n" aria-hidden="true">3</span><strong>From the club room to the catalog</strong><span>We trace how a club strip in Ohio or a shop in Memphis fed the companies and names everyone remembers.</span></a></li>
+    </ol>
+    <p class="hr-diff__more"><a href="{{ about | url }}">What makes this archive different <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a></p>
+  </section>
+
   {% if hr.featured %}{% set f = hr.featured %}
   <section class="hr-feature{% if f.era %}" data-era="{{ f.era }}{% endif %}" aria-labelledby="hr-feat-h">
     <a class="hr-feature__link" href="{{ f.url | url }}">
@@ -35,7 +46,7 @@
         <span class="hr-feature__dept">{{ f.dept }}{% if f.era_label %} · {{ f.era_label }}{% endif %}</span>
         <h2 id="hr-feat-h" class="hr-feature__title">{{ f.title }}</h2>
         <span class="hr-feature__blurb">{{ f.blurb }}</span>
-        <span class="hr-feature__go">Read the story <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg>{% if f.conf %}<span class="hr-conf hr-conf--{{ f.level }}">{{ f.conf }} confidence</span>{% endif %}</span>
+        <span class="hr-feature__go">Read the full story <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg>{% if f.conf %}<span class="hr-conf hr-conf--{{ f.level }}">{{ f.conf }} confidence</span>{% endif %}</span>
       </span>
     </a>
   </section>
@@ -107,7 +118,7 @@
       <li class="hr-poster"{% if c.era %} data-era="{{ c.era }}"{% endif %}>
         <a href="{{ c.url | url }}">
           {% if c.thumb %}<img src="{{ c.thumb | url }}" alt="" loading="lazy" decoding="async">{% endif %}
-          <span class="hr-poster__cap"><small>{{ c.dept }}</small><strong>{{ c.title }}</strong></span>
+          <span class="hr-poster__cap"><small>{{ c.place or c.dept }}</small><strong>{{ c.title }}</strong><em class="hr-poster__go">Read the full story &rarr;</em></span>
         </a>
       </li>
       {% endfor %}

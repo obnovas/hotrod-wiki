@@ -1,13 +1,20 @@
-{#- one story card; expects `c` -#}
-<li class="hr-sc{% if c.era %} hr-sc--{{ c.era }}{% endif %}" {% if c.era %}data-era="{{ c.era }}"{% endif %}>
+{#- one story card; expects `c`. Every card says where it goes: "Read the full story". -#}
+{% set ce = c.eras | d([]) %}{% set eras_txt = (ce[0] ~ "–" ~ ce[-1]) if ce | length > 2 else (ce | join(", ")) %}
+{% set meta_bits = [] %}{% if c.dept and not hide_dept %}{% set _ = meta_bits.append(c.dept) %}{% endif %}{% if eras_txt %}{% set _ = meta_bits.append(eras_txt) %}{% endif %}{% if c.place %}{% set _ = meta_bits.append(c.place) %}{% endif %}
+<li class="hr-sc{% if c.era %} hr-sc--{{ c.era }}{% endif %}{% if not c.thumb %} hr-sc--noimg{% endif %}" {% if c.era %}data-era="{{ c.era }}"{% endif %}
+    data-eras="{{ (c.eras | d([])) | join(' ') }}" data-region="{{ c.region | d('') }}" data-tags="{{ (c.tags | d([])) | join(' ') }}">
   <a class="hr-sc__link" href="{{ c.url | url }}">
-    <span class="hr-sc__media{% if not c.thumb %} hr-sc__media--none{% elif c.plate %} hr-sc__media--plate{% endif %}">
-      {% if c.thumb %}<img src="{{ c.thumb | url }}" alt="" loading="lazy" decoding="async">{% else %}<span class="hr-sc__mono" aria-hidden="true">{{ (c.title or "?")[:1] }}</span>{% endif %}
+    <span class="hr-sc__media{% if not c.thumb %} hr-sc__media--none{% elif c.plate %} hr-sc__media--plate{% endif %}" aria-hidden="true">
+      {% if c.thumb %}<img src="{{ c.thumb | url }}" alt="" loading="lazy" decoding="async">{% else %}<span class="hr-sc__mono">{{ (c.title or "?")[:1] }}</span>{% endif %}
     </span>
     <span class="hr-sc__body">
-      <span class="hr-sc__meta">{% if c.dept %}<span>{{ c.dept }}</span>{% endif %}{% if c.conf %}<span class="hr-conf hr-conf--{{ c.level }}">{{ c.conf }}</span>{% endif %}{% if c.grass %}<span class="hr-badge">Grassroots</span>{% endif %}</span>
+      {% if meta_bits %}<span class="hr-sc__meta">{{ meta_bits | join(" · ") }}</span>{% endif %}
       <strong class="hr-sc__title">{{ c.title }}</strong>
-      {% if c.blurb %}<span class="hr-sc__blurb">{{ c.blurb }}</span>{% endif %}
+      {% set sm = c.summary or c.blurb %}{% if sm %}<span class="hr-sc__blurb">{{ sm }}</span>{% endif %}
+      <span class="hr-sc__foot">
+        <span class="hr-sc__go">Read the full story<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></span>
+        {% if c.conf %}<span class="hr-conf hr-conf--{{ c.level }}" title="Confidence">{{ c.conf }}</span>{% endif %}{% if c.grass %}<span class="hr-badge">Grassroots</span>{% endif %}
+      </span>
     </span>
   </a>
 </li>

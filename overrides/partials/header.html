@@ -20,7 +20,7 @@
     </ul>
     <a class="hr-bar__feedback" href="{{ config.extra.feedback_url }}" rel="noopener" title="Send feedback or a suggestion">Feedback</a>
     <button type="button" class="hr-bar__contents" aria-expanded="false" aria-controls="hr-contents" data-hr-contents-toggle>
-      <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-menu"/></svg><span>Contents</span>
+      <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-menu"/></svg><span>Contents</span><span class="hr-bar__menu-m">Menu</span>
     </button>
     {% if config.theme.palette %}{% if not config.theme.palette is mapping %}{% include "partials/palette.html" %}{% endif %}{% endif %}
     {% if not config.theme.palette is mapping %}{% include "partials/javascripts/palette.html" %}{% endif %}
@@ -37,35 +37,39 @@
   <div class="hr-bar__stripe" aria-hidden="true"></div>
   <div class="hr-progress" aria-hidden="true"><span></span></div>
 </header>
-{#- The table of contents "garage sign index" -#}
+{#- The contents panel: departments as fold-out drawers (all open on wide screens, one at a time on phones). -#}
 <div class="hr-contents" id="hr-contents" role="dialog" aria-modal="false" aria-label="Contents" hidden>
   <div class="hr-contents__inner">
     <div class="hr-contents__head">
       <p class="hr-contents__title"><span class="hr-script">In this issue</span><b>Contents</b></p>
       <button type="button" class="hr-contents__close" data-hr-contents-toggle aria-label="Close contents"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-close"/></svg></button>
     </div>
+    <ul class="hr-contents__quick" role="list">
+      <li><a href="{{ '' | url }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-home"/></svg>Front page</a></li>
+      {% for l in config.extra.primary_nav %}<li><a href="{{ l.url | url }}">{{ l.label }}</a></li>{% endfor %}
+    </ul>
     <ol class="hr-contents__list">
-      {% for item in nav.items %}
+      {% for item in nav.items %}{% if not item.is_page %}
         {% set d = namespace(first=none) %}
-        <li class="hr-dept-block">
-          {% if item.is_page %}
-            <a class="hr-dept-block__title" href="{{ item.url | url }}"><span>{{ item.title }}</span></a>
-          {% else %}
-            {% set kids = [] %}
-            {% for c in item.children %}{% if c.is_page and not c.is_index %}{% set _ = kids.append(c) %}{% elif c.is_page %}{% set d.first = c %}{% endif %}{% endfor %}
-            {% set groups = [] %}
-            {% for c in item.children %}{% if not c.is_page %}{% set _ = groups.append(c) %}{% endif %}{% endfor %}
-            <a class="hr-dept-block__title" href="{{ (d.first.url if d.first else (item.children | first).url) | url }}"><span class="hr-dept-block__num">{{ "%02d" | format(loop.index - 1) }}</span><span>{{ item.title }}</span></a>
-            <ul>
-              {% for c in kids %}<li><a href="{{ c.url | url }}">{{ c.title }}</a></li>{% endfor %}
-            </ul>
+        {% set kids = [] %}
+        {% for c in item.children %}{% if c.is_page and not c.is_index %}{% set _ = kids.append(c) %}{% elif c.is_page %}{% set d.first = c %}{% endif %}{% endfor %}
+        {% set groups = [] %}
+        {% for c in item.children %}{% if not c.is_page %}{% set _ = groups.append(c) %}{% endif %}{% endfor %}
+        {% set ns = namespace(n=kids | length) %}
+        {% for g in groups %}{% for c in g.children %}{% if c.is_page %}{% set ns.n = ns.n + 1 %}{% endif %}{% endfor %}{% endfor %}
+        {% set hub = (d.first.url if d.first else (item.children | first).url) %}
+        <li class="hr-dept-block" data-hr-hub="{{ hub }}">
+          <details class="hr-dept-block__d" open>
+            <summary class="hr-dept-block__title"><span class="hr-dept-block__num">{{ "%02d" | format(loop.index - 1) }}</span><span class="hr-dept-block__name">{{ item.title }}</span><span class="hr-dept-block__n">{{ ns.n }}</span><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-down"/></svg></summary>
+            <a class="hr-dept-block__hub" href="{{ hub | url }}">Department front page<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a>
+            {% if kids %}<ul>{% for c in kids %}<li><a href="{{ c.url | url }}">{{ c.title }}</a></li>{% endfor %}</ul>{% endif %}
             {% for g in groups %}
             <p class="hr-dept-block__group">{{ g.title }}</p>
             <ul>{% for c in g.children %}{% if c.is_page %}<li><a href="{{ c.url | url }}">{{ c.title }}</a></li>{% endif %}{% endfor %}</ul>
             {% endfor %}
-          {% endif %}
+          </details>
         </li>
-      {% endfor %}
+      {% endif %}{% endfor %}
     </ol>
   </div>
 </div>

@@ -1,34 +1,46 @@
-{#- Feature-story layout used by every article, section front and reference page. -#}
+{#- Feature-story layout used by every article, department hub and reference page. -#}
 {% set kind = hr.kind | d("story") %}
 {% set rec = hr.record %}
 {% set d = hr.dept %}
 <header class="hr-head hr-head--{{ kind }}{% if hr.hero %} hr-head--hero{% endif %}">
   <div class="hr-head__art" aria-hidden="true"></div>
   <div class="hr-head__inner">
+    {% if hr.crumbs %}
+    <nav class="hr-crumbs" aria-label="Breadcrumb">
+      <ol>
+        {% for c in hr.crumbs %}<li><a href="{{ c.u | url }}">{% if loop.first %}<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-home"/></svg><span class="hr-sr">{{ c.t }}</span>{% else %}{{ c.t }}{% endif %}</a></li>{% endfor %}
+      </ol>
+    </nav>
+    {% endif %}
+    {% if kind == "story" and (hr.era_label or hr.region_label or (rec and rec.grassroots)) %}
     <p class="hr-kicker">
-      {% if d %}<a class="hr-kicker__dept" href="{{ d.url | url }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-{{ d.icon }}"/></svg>{{ d.title }}</a>{% endif %}
-      {% if hr.era_label and kind == "story" %}<span class="hr-kicker__era">{{ hr.era_label }}</span>{% endif %}
+      {% if d %}<span class="hr-kicker__dept"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-{{ d.icon }}"/></svg>{{ d.title }}</span>{% endif %}
+      {% if hr.era_label %}<span class="hr-kicker__era">{{ hr.era_label }}</span>{% endif %}
       {% if hr.region_label %}<span class="hr-kicker__region"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-pin"/></svg>{{ hr.region_label }}</span>{% endif %}
       {% if rec and rec.grassroots %}<span class="hr-badge">Grassroots</span>{% endif %}
     </p>
-    <h1 class="hr-headline">{{ (hr.title_html | d(page.title | e)) | safe }}</h1>
-    {% if page.meta.deck %}<p class="hr-deck">{{ page.meta.deck }}</p>{% endif %}
-    {% if rec %}
-    <div class="hr-slip" role="group" aria-label="Article record"><dl class="hr-slip__dl">
-      <div class="hr-slip__tag hr-slip__tag--{{ rec.level }}">
-        <dt>Confidence</dt>
-        <dd>{{ rec.conf_word }}</dd>
-      </div>
-      {% for k, v in rec.fields %}{% if k | lower != "confidence" %}
-      <div class="hr-slip__f hr-slip__f--{{ k | lower | replace(' ', '-') }}"><dt>{{ k }}</dt><dd>{{ v | safe }}</dd></div>
-      {% endif %}{% endfor %}
-      {% if rec.conf_note %}<div class="hr-slip__f hr-slip__f--note"><dt>Note</dt><dd>{{ rec.conf_note }}</dd></div>{% endif %}
-    </dl>
-      {% if rec.link %}<div class="hr-slip__more">{{ rec.link | safe }}</div>{% endif %}
-    </div>
     {% endif %}
+    <h1 class="hr-headline">{{ (hr.title_html | d(page.title | e)) | safe }}</h1>
+    {% if hr.standfirst and kind != "section" %}<p class="hr-deck">{{ hr.standfirst }}</p>{% endif %}
     {% if kind == "story" and hr.minutes %}
-    <p class="hr-meta"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-clock"/></svg>{{ hr.minutes }} min read{% if hr.fn %} · {{ hr.fn }} cited notes{% endif %}{% if hr.images %} · {{ hr.images }} image{{ "s" if hr.images != 1 }}{% endif %}</p>
+    <p class="hr-meta"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-clock"/></svg>{{ hr.minutes }} min read{% if hr.fn %} · {{ hr.fn }} cited notes{% endif %}{% if hr.oq_count %} · <a href="#open-questions-disputed-details">{{ hr.oq_count }} open question{{ "s" if hr.oq_count != 1 }}</a>{% endif %}{% if hr.series_pos %} · <span class="hr-meta__series">{{ hr.series_pos[0] }} of {{ hr.series_pos[1] }} in {{ hr.series }}</span>{% endif %}</p>
+    {% endif %}
+    {% if rec %}
+    <details class="hr-rec" open data-hr-rec>
+      <summary class="hr-rec__sum"><span class="hr-rec__conf hr-slip__tag--{{ rec.level }}"><small>Confidence</small> {{ rec.conf_word }}</span><span class="hr-rec__more">How we know this<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-down"/></svg></span></summary>
+      <div class="hr-slip" role="group" aria-label="Article record"><dl class="hr-slip__dl">
+        <div class="hr-slip__tag hr-slip__tag--{{ rec.level }}">
+          <dt>Confidence</dt>
+          <dd>{{ rec.conf_word }}</dd>
+        </div>
+        {% for k, v in rec.fields %}{% if k | lower != "confidence" %}
+        <div class="hr-slip__f hr-slip__f--{{ k | lower | replace(' ', '-') }}"><dt>{{ k }}</dt><dd>{{ v | safe }}</dd></div>
+        {% endif %}{% endfor %}
+        {% if rec.conf_note %}<div class="hr-slip__f hr-slip__f--note"><dt>Note</dt><dd>{{ rec.conf_note }}</dd></div>{% endif %}
+      </dl>
+        {% if rec.link %}<div class="hr-slip__more">{{ rec.link | safe }}</div>{% endif %}
+      </div>
+    </details>
     {% endif %}
   </div>
   {% if hr.hero %}<div class="hr-head__hero">{{ hr.hero | safe }}</div>{% endif %}
@@ -38,67 +50,108 @@
 {% set toc = page.toc.items if page.toc and page.toc.items else [] %}
 {% if toc and toc[0].level == 1 %}{% set toc = toc[0].children %}{% endif %}
 {% set toc = toc | rejectattr("id", "in", hr.removed_ids | d([])) | list %}
-{% set show_rail = toc | length >= 3 and kind in ("story", "ref") %}
+{% set show_rail = hr.long and toc | length >= 3 and kind in ("story", "ref") %}
 <div class="hr-story{% if not show_rail %} hr-story--norail{% endif %}{% if hr.margin %} hr-story--m{% endif %}">
   {% if show_rail %}
   <aside class="hr-rail" aria-label="In this story">
-    <p class="hr-rail__h">In this story</p>
-    <ol class="hr-rail__list">
-      {% for t in toc %}{% if t.id not in (hr.removed_ids | d([])) %}<li><a href="{{ t.url }}">{{ t.title | striptags }}</a></li>{% endif %}{% endfor %}
-      {% if hr.fn %}<li><a href="#hr-sources">Sources &amp; notes</a></li>{% endif %}
-    </ol>
+    <details class="hr-jump" open data-hr-jump>
+      <summary class="hr-rail__h">In this story <span class="hr-jump__n">{{ toc | length }} parts</span><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-down"/></svg></summary>
+      <ol class="hr-rail__list">
+        {% for t in toc %}<li><a href="{{ t.url }}">{{ t.title | striptags }}</a></li>{% endfor %}
+      </ol>
+    </details>
   </aside>
   {% endif %}
   <div class="hr-body md-typeset">
-    {% if kind == "section" and hr.children %}
-    <section class="hr-stories" aria-label="Stories in this department">
-      {% if hr.child_groups %}
-      {% for g in hr.child_groups %}
-      {% if g.title %}<h2 class="hr-stories__group">{{ g.title }}</h2>{% endif %}
-      <ul class="hr-grid-cards">
-        {% for c in g.cards %}{% include "partials/hr-card.html" %}{% endfor %}
-      </ul>
-      {% endfor %}
-      {% else %}
-      <ul class="hr-grid-cards">
-        {% for c in hr.children %}{% include "partials/hr-card.html" %}{% endfor %}
-      </ul>
+    {% if kind == "section" %}
+      {% if hr.hub_intro %}<div class="hr-hub__intro">{{ hr.hub_intro }}</div>{% endif %}
+      {% if hr.children %}{% set hide_dept = true %}
+      <section class="hr-stories" aria-labelledby="hr-stories-h" data-hr-hub>
+        <h2 class="hr-stories__h" id="hr-stories-h">{{ hr.children | length }} stories in {{ d.title if d else "this department" }}</h2>
+        {% set fx = hr.facets | d({}) %}
+        {% if (fx.eras | d([]) | length) > 1 or (fx.regions | d([]) | length) > 1 or (fx.tags | d([]) | length) > 1 %}
+        <form class="hr-filter" data-hr-filter hidden aria-label="Filter these stories" onsubmit="return false">
+          {% if (fx.eras | length) > 1 %}
+          <fieldset class="hr-filter__set"><legend>Era</legend><div class="hr-filter__chips">
+            <label class="hr-fchip"><input type="radio" name="era" value="" checked><span>All</span></label>
+            {% for e, n in fx.eras %}<label class="hr-fchip"><input type="radio" name="era" value="{{ e }}"><span>{{ e }}</span></label>{% endfor %}
+          </div></fieldset>
+          {% endif %}
+          {% if (fx.regions | length) > 1 %}
+          <fieldset class="hr-filter__set"><legend>Region</legend><div class="hr-filter__chips">
+            <label class="hr-fchip"><input type="radio" name="region" value="" checked><span>All</span></label>
+            {% for r, n in fx.regions %}<label class="hr-fchip"><input type="radio" name="region" value="{{ r }}"><span>{{ r }}</span></label>{% endfor %}
+          </div></fieldset>
+          {% endif %}
+          {% if (fx.tags | length) > 1 %}
+          <div class="hr-filter__set hr-filter__set--tag"><label for="hr-ftag">Topic</label>
+            <select id="hr-ftag" name="tag"><option value="">All topics</option>{% for t, n in fx.tags %}<option value="{{ t }}">{{ t | replace('-', ' ') }} ({{ n }})</option>{% endfor %}</select>
+          </div>
+          {% endif %}
+          <p class="hr-filter__out" role="status" aria-live="polite"></p>
+          <button type="button" class="hr-filter__reset" hidden>Clear filters</button>
+        </form>
+        {% endif %}
+        {% if hr.child_groups %}
+        {% for g in hr.child_groups %}
+        <div class="hr-stories__grp" {% if g.id %}id="{{ g.id }}"{% endif %}>
+          {% if g.title %}<h3 class="hr-stories__group">{{ g.title }} <span>{{ g.cards | length }}</span></h3>{% endif %}
+          <ul class="hr-grid-cards">{% for c in g.cards %}{% include "partials/hr-card.html" %}{% endfor %}</ul>
+        </div>
+        {% endfor %}
+        {% else %}
+        <ul class="hr-grid-cards">{% for c in hr.children %}{% include "partials/hr-card.html" %}{% endfor %}</ul>
+        {% endif %}
+        <p class="hr-filter__none" hidden>No stories match those filters. <button type="button" class="hr-linkbtn" data-hr-filter-reset>Clear filters</button></p>
+      </section>
       {% endif %}
-    </section>
-    <h2 class="hr-ledger-h" id="the-full-listing">The full listing</h2>
+      {% if hr.hub_listing %}
+      <details class="hr-listing" id="the-full-listing">
+        <summary><h2>The editor's guide to this department</h2><span class="hr-oq__hint" aria-hidden="true">Show</span></summary>
+        <div class="hr-listing__body">{{ hr.hub_listing }}</div>
+      </details>
+      {% endif %}
     {% endif %}
     {{ page.content }}
-    {% if kind in ("story", "ref", "section") and page.file.src_uri != "contribute.md" %}{% include "partials/hr-contribute.html" %}{% endif %}
     {% include "partials/source-file.html" %}
   </div>
 </div>
 
-{% if kind in ("story", "ref") and (hr.prev or hr.next or hr.related or hr.backlinks) %}
-<footer class="hr-more">
+{% if kind in ("story", "ref") %}
+<footer class="hr-more" aria-labelledby="hr-more-h">
+  <div class="hr-more__inner">
+  <h2 class="hr-more__title" id="hr-more-h"><span class="hr-script">Where next?</span> Keep reading</h2>
   {% if hr.prev or hr.next %}
-  <nav class="hr-more__next" aria-label="More in {{ d.title if d else 'this department' }}">
-    <h2 class="hr-more__h">Story continues<span>{% if d %} in {{ d.title }}{% endif %}</span></h2>
-    <div class="hr-more__pair">
-      {% if hr.prev %}{% set c = hr.prev %}<div class="hr-more__cell hr-more__cell--prev"><p class="hr-more__dir">← Previous</p><ul class="hr-grid-cards hr-grid-cards--one">{% include "partials/hr-card.html" %}</ul></div>{% endif %}
-      {% if hr.next %}{% set c = hr.next %}<div class="hr-more__cell hr-more__cell--next"><p class="hr-more__dir">Next →</p><ul class="hr-grid-cards hr-grid-cards--one">{% include "partials/hr-card.html" %}</ul></div>{% endif %}
-    </div>
+  <nav class="hr-more__next" aria-label="More in {{ hr.series | d(d.title if d else 'this department') }}">
+    <p class="hr-more__h">{% if hr.series %}In {{ hr.series }}{% else %}More in {{ d.title if d else "this department" }}{% endif %}{% if hr.series_pos %} <span>· story {{ hr.series_pos[0] }} of {{ hr.series_pos[1] }}</span>{% endif %}</p>
+    <ul class="hr-pn">
+      {% if hr.prev %}<li class="hr-pn__prev"><a href="{{ hr.prev.url | url }}" rel="prev"><span class="hr-pn__dir"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg>Previous</span><strong>{{ hr.prev.title }}</strong></a></li>{% endif %}
+      {% if hr.next %}<li class="hr-pn__next"><a href="{{ hr.next.url | url }}" rel="next"><span class="hr-pn__dir">Next story<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></span><strong>{{ hr.next.title }}</strong>{% set sm = hr.next.summary or hr.next.blurb %}{% if sm %}<span class="hr-pn__sum">{{ sm }}</span>{% endif %}</a></li>{% endif %}
+    </ul>
   </nav>
   {% endif %}
   {% if hr.related %}
-  <section class="hr-more__rel" aria-label="Related stories">
-    <h2 class="hr-more__h">Follow the trail<span> related stories</span></h2>
-    <ul class="hr-grid-cards">
+  <section class="hr-more__rel" aria-labelledby="hr-rel-h">
+    <h3 class="hr-more__h" id="hr-rel-h">Related stories</h3>
+    <ul class="hr-grid-cards hr-grid-cards--rel">
       {% for c in hr.related %}{% include "partials/hr-card.html" %}{% endfor %}
     </ul>
   </section>
   {% endif %}
   {% if hr.backlinks %}
-  <section class="hr-more__back" aria-label="Mentioned in">
-    <h2 class="hr-more__h">Mentioned in<span> {{ hr.backlinks | length }} other {{ "story" if hr.backlinks | length == 1 else "stories" }}</span></h2>
+  <section class="hr-more__back" aria-labelledby="hr-bl-h">
+    <h3 class="hr-more__h" id="hr-bl-h">Mentioned in <span>{{ hr.backlinks | length }} other {{ "story" if hr.backlinks | length == 1 else "stories" }}</span></h3>
     <ul class="hr-backlinks">
       {% for b in hr.backlinks %}<li><a href="{{ b.url | url }}">{{ b.title }}</a>{% if b.dept %} <span class="hr-backlinks__dept">{{ b.dept }}</span>{% endif %}</li>{% endfor %}
     </ul>
   </section>
   {% endif %}
+  <p class="hr-more__hub">
+    {% if d and d.url != page.url %}<a class="hr-btn hr-btn--solid" href="{{ d.url | url }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-{{ d.icon }}"/></svg>All {{ d.title }} stories</a>{% endif %}
+    <a class="hr-btn" href="{{ '' | url }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-home"/></svg>Front page</a>
+    <a class="hr-btn" href="#" data-hr-top><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-up"/></svg>Back to top</a>
+  </p>
+  </div>
 </footer>
 {% endif %}
+{% if kind in ("story", "ref", "section") and page.file.src_uri != "contribute.md" %}<div class="hr-help-wrap">{% include "partials/hr-contribute.html" %}</div>{% endif %}
