@@ -90,17 +90,13 @@ It moved. On **June 22** the paper reported the new site, on Highway 65 south of
 <figcaption markdown>The Missouri State Fair entry gate in Sedalia (photo 2018). The first site proposed for the 1969 strip was on the fairgrounds' southern edge; this photo shows the gate, not that site. Creator: 25or6to4. Date: 2018-02-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Missouri_State_Fair_Entry_Gate,_Sedalia,_MO.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
 
-## Groundbreaking day
-
-The July 23 story opened: "The idea of a drag strip has been kicked around in the Sedalia area since 1958."[^sd690723] The corporation's officers included **Lee Dorrell Jr.** (secretary-treasurer), **Lee Dorrell Sr.**, **Curtis Dorrell**, **Jerry Hamer**, **Robert Hamer**, Leonard Johnson, and **George O. Weatherly Jr.**, a vice president then serving in Vietnam.[^sd690723]
+The groundbreaking story of July 23 opened: "The idea of a drag strip has been kicked around in the Sedalia area since 1958."[^sd690723] The corporation's officers included **Lee Dorrell Jr.** (secretary-treasurer), **Lee Dorrell Sr.**, **Curtis Dorrell**, **Jerry Hamer**, **Robert Hamer**, Leonard Johnson, and **George O. Weatherly Jr.**, a vice president then serving in Vietnam.[^sd690723]
 
 State Senator **John Ryan** said: "The new drag strip will prove its worth to the community and surrounding area just by keeping the children from hot-rodding on the streets and highways."[^sd690723] Dorrell promised that "80 to 90 percent of the meets" would be for drivers from the Sedalia and Pettis County area.[^sd690723]
 
 The paper also gave Dorrell a backstory that matters to the [Kansas City strip](kansas-city-timing-association.md): he "was one of the planners and organizers of the first drag strip built in Missouri in 1955. That strip was built in Kansas City near the Chouteau Bridge and named the Kansas City Timing Association (KCTA)."[^sd690723]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> And AHRA president **Jim Tice** had told Weatherly the World Points meet had "a better than good chance" of coming to Sedalia.[^sd690723]
 
 There was even a queen. That summer the paper announced a "Miss Sedalia Raceway" contest for Pettis County girls. The winner would reign for the rest of the 1969 season and all of 1970, and her prizes included a wardrobe.[^sd690801]
-
-## Half a drag strip
 
 On Aug. 31 the news turned. Construction had stopped. The prime builder, the **Hamer Construction Co.** of Kansas City, had, in Weatherly's words, "pulled out and moved south." He said the stockholders had paid Hamer "an amount in the five figure bracket" for the subcontracted earth-moving work, and "That money was never passed on to the subcontractors." The strip was "about one-half completed." Weatherly hoped the Howard Construction Co. of Sedalia would finish it in time to keep the World Points Finale.[^sd690831]
 

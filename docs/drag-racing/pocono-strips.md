@@ -71,7 +71,7 @@ The kids found their own answer first. In August 1962, East Stroudsburg's counci
 
 It was a two-town drag strip that nobody built on purpose, and the council's answer was a padlock.
 
-## Wind Gap: Mountain View
+## 1964: Wind Gap, Allentown and a mother's proposal
 
 The nearest real strip we can find in the paper was at Wind Gap. On April 4, 1964, a sports brief announced that "the Mountain View drag strip in Wind Gap" would open its fifth season of racing on Sunday, with pits at 10 a.m., time trials at noon and eliminations at 2 p.m.[^dr640404]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -79,9 +79,7 @@ The nearest real strip we can find in the paper was at Wind Gap. On April 4, 196
 
 There was racing to the south, too. The Stroudsburg paper carried ads for Friday-night drag races at the **Allentown Fairgrounds**: "OPENING NIGHT DRAG RACES FRIDAY, APRIL 17," with spectator admission at $1.00.[^dr640416]
 
-## 1964: a mother's proposal
-
-On June 5, 1964, under the headline "Drag Races Suggested At Pocono Airport," the *Daily Record* printed a letter from a Mount Pocono woman (the signature reads "Mrs. ... Heller," with the first name garbled in the scan). "My husband is a member of the Ridge Runners Auto Club Inc. of Monroe County," she wrote. The club had "received its charter from Harrisburg" and belonged to the National Hot Rod Association.[^dr640605] She and her husband had "become very concerned about the teenagers who drag (race) on the side roads and even on the highways."[^dr640605] (Quotes from this letter correct obvious OCR slips, such as "Chib" for "Club" and "11" for "it.")
+Closer to home, someone had a better idea. On June 5, 1964, under the headline "Drag Races Suggested At Pocono Airport," the *Daily Record* printed a letter from a Mount Pocono woman (the signature reads "Mrs. ... Heller," with the first name garbled in the scan). "My husband is a member of the Ridge Runners Auto Club Inc. of Monroe County," she wrote. The club had "received its charter from Harrisburg" and belonged to the National Hot Rod Association.[^dr640605] She and her husband had "become very concerned about the teenagers who drag (race) on the side roads and even on the highways."[^dr640605] (Quotes from this letter correct obvious OCR slips, such as "Chib" for "Club" and "11" for "it.")
 
 She quoted the club's constitution and bylaws at length (see [the Ridge Runners page](stroudsburg-ridge-runners.md#1964-incorporated-and-still-asking) for the rules). Then she made her pitch. The **Mount Pocono Airport Authority**, she understood, needed money. "I feel that it would be very helpful to this local club and its eighteen members if the Mount Pocono Airport Authority would consider allowing the use of their airstrip for drag racing." The club was non-profit, so "they would turn over the proceeds from such a race (or races) to the authority."[^dr640605]
 
@@ -89,7 +87,7 @@ Anyone who wanted to see how a drag race was run, she added, could go to **Islan
 
 We have found no reply from the airport authority, and no drag race at the Mount Pocono airport.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-## Bear Creek: the Pocono Drag Lodge
+## 1968: the Drag Lodge and the big track
 
 By 1968 the Pocono Drag Lodge on Route 115 at Bear Creek was advertising in the Stroudsburg paper, by then called *The Pocono Record*, almost every week. Its "1968 SEASON'S OPENER" on Sunday, May 19, matched the funny cars **Limefire** and **Jungle Jim**, with $50 to the top eliminator, "Plus 200 Cars Drag Racing."[^pr680518]
 
@@ -101,8 +99,6 @@ On Saturday, Aug. 31, the paper previewed the Drag Lodge's **third annual Funny 
 ![A two-lane highway curving through wooded hills in Bear Creek Village, Pennsylvania](../assets/images/commons-pa-115-bear-creek-village-2023.jpg){ loading=lazy }
 <figcaption markdown>Pennsylvania Route 115 northbound in Bear Creek Village, 2023. The Pocono Drag Lodge's ads gave its address as Route 115, Bear Creek; this photo shows the road, not the strip site. Creator: Mr. Matté. Date: 2023-09-16. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PA_115_nb_in_Bear_Creek_Village_(1),_Sept._2023.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
-
-## October 1968: the big track arrives
 
 That October the *Pocono Record* announced the opening race of the **Pocono International Speedway**, four miles south of Blakeslee on Route 115, with a $13,600 purse for a 200-lap super-modified race. The story described a 1,000-acre, multi-million-dollar complex with five tracks in one, including a 2½-mile championship oval and a road course, and it listed a drag strip among them.[^pr681011] (The scan garbles the strip's length.)
 
