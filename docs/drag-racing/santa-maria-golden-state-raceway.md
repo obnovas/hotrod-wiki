@@ -29,7 +29,7 @@ people:
 - Gene Gillespie
 - Skip Allington
 - Gail Allington
-- Bob Saucek
+- Bob Sauzek
 - Jim Seaman
 - Rich Riola
 - Martin D. U'Ren
@@ -80,7 +80,7 @@ The fields grew quickly. In March about 200 machines were expected, including De
 
 ## Lompoc's racers (1971–77)
 
-By the early 1970s Lompoc drivers were winning regularly at Santa Maria. In August 1971 the paper reported that "six Lompoc drag racers took honors" in front of 1,400 spectators. Bob Saucek was runner-up in Bracket Three in his Chevy II, Jim Seaman won Bracket Four in a '68 El Camino, Gene Gillespie beat Gail Allington in Bracket Five, and her husband, Skip Allington, won Bracket Six.[^lr710823] Not everyone in Lompoc approved. In 1972 a letter-writer, tired of cars with their mufflers off on Friday and Saturday nights, suggested building "a drag-strip far out of town down wind of Lompoc," adding that "maybe Ocean Avenue would get a rest."[^lr720817] In 1974 the paper photographed Gillespie, with his daughter, being congratulated by "Golden State Raceway starter Rich Riola" after winning the strip's Bracket 2 points title.[^lr740827] That November a news brief placed "the Santa Maria Dragstrip" near the south side of the airport.[^lr741114]
+By the early 1970s Lompoc drivers were winning regularly at Santa Maria. In August 1971 the paper reported that "six Lompoc drag racers took honors" in front of 1,400 spectators. Bob Sauzek was runner-up in Bracket Three in his Chevy II, Jim Seaman won Bracket Four in a '68 El Camino, Gene Gillespie beat Gail Allington in Bracket Five, and her husband, Skip Allington, won Bracket Six.[^lr710823] Not everyone in Lompoc approved. In 1972 a letter-writer, tired of cars with their mufflers off on Friday and Saturday nights, suggested building "a drag-strip far out of town down wind of Lompoc," adding that "maybe Ocean Avenue would get a rest."[^lr720817] In 1974 the paper photographed Gillespie, with his daughter, being congratulated by "Golden State Raceway starter Rich Riola" after winning the strip's Bracket 2 points title.[^lr740827] That November a news brief placed "the Santa Maria Dragstrip" near the south side of the airport.[^lr741114]
 
 ![USGS aerial photograph of Santa Maria Public Airport, California, on Sept. 3, 1994, showing its runways among farm fields](../assets/images/commons-santa-maria-airport-1994-usgs.jpg){ loading=lazy }
 
