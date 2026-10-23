@@ -48,6 +48,9 @@ related:
 - people/peggy-hart.md
 - companies/prewar-speed-shops.md
 canonical_for: []
+principal_source:
+  - "Coachbuilt.com (census and directory research).[^cb]"
+  - "An AHRF profile built on Doty's recollections.[^ahrf]"
 ---
 # Julian Doty: Seventy Years on the Lakes
 
@@ -55,8 +58,6 @@ canonical_for: []
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (AHRF), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
-
-*Sources: Coachbuilt.com (census and directory research) and an AHRF profile built on Doty's recollections.*[^cb][^ahrf]
 
 In 1934 Julian Doty made his first trip to Muroc with his uncle George, in George's Cragar-powered '29 Model A roadster.[^ahrf] He was born **December 10, 1922**, and died **May 2, 2012**. His mother Evelyn was George DuVall's sister.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 

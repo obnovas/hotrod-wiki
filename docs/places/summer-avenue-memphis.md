@@ -30,6 +30,9 @@ related:
 - places/memphis.md
 - street-rodding/nsra-early-nationals.md
 canonical_for: []
+location: "Summer Ave (US 70, once the \"Broadway of America\"[^sfa]), east from North Parkway."
+peak: "1950s to 1960s."
+status: "we treat it as a **regional repeat gathering**. We have found no documented link to particular builders or companies yet."
 ---
 # Summer Avenue, Memphis
 
@@ -37,8 +40,6 @@ canonical_for: []
 
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> literary nonfiction with interviews (storySouth, Ellen Morris Prewitt), oral history project description (Southern Foodways Alliance, 2021) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** No contemporary newspaper source yet; ties to clubs unproven; the first McDonald's in Memphis ⚠ · [How we rate this](../reference/source-standards.md)
-
-**Location:** Summer Ave (US 70, once the "Broadway of America"[^sfa]), east from North Parkway. · **Peak:** 1950s to 1960s. · **Status:** we treat it as a **regional repeat gathering**. We have found no documented link to particular builders or companies yet.
 
 Summer Avenue was lined with drive-ins, motels and some of the first chain businesses: the first Holiday Inn (1952) and "one of the first" Memphis McDonald's locations.[^sfa]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 

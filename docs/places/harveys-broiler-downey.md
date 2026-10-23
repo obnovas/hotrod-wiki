@@ -44,6 +44,9 @@ related:
 - places/cruising-overview.md
 - places/modesto.md
 canonical_for: []
+location: "Firestone Blvd at Old River School/Pomering Rd, Downey."
+peak: "1958 to the mid-1960s."
+later: "\"Cruise Night\" from March 1987 (Lee McCullough), reported in 1989; partly demolished in 2007; rebuilt as Bob's Big Boy Broiler."
 ---
 # Harvey's Broiler: Teenage Paris on a Former Chicken Farm
 
@@ -53,8 +56,6 @@ canonical_for: []
     **Confidence:** Medium · **Source types:** LA Conservancy, newspaper (LA Times 1989, 2007), LAist (2024) owner interview · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Drive-in end date not re-verified · [How we rate this](../reference/source-standards.md)
 
 Harvey and Minnie Ortner opened **Harvey's Broiler** in 1958 on a former chicken farm. Architect Paul B. Clayton designed it in the Googie style with a 65-foot sign, and the LA Conservancy calls it "the largest drive-in restaurant in Southern California" when it opened.[^lac][^laist] Tom Wolfe used it as a setting: "Teenage Paris! Harvey's Drive-in!" (quoted by LAist).[^laist]
-
-**Location:** Firestone Blvd at Old River School/Pomering Rd, Downey. · **Peak:** 1958 to the mid-1960s. · **Later:** "Cruise Night" from March 1987 (Lee McCullough), reported in 1989; partly demolished in 2007; rebuilt as Bob's Big Boy Broiler.
 
 ## In their own words
 

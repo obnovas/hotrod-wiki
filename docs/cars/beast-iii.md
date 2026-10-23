@@ -35,6 +35,7 @@ related:
 - people/howard-johansen.md
 - people/tom-beatty.md
 canonical_for: []
+principal_source: "Kustomrama, which compiles this from *Merchants of Speed*, *Sports Car Digest*, and *Rod & Custom*.[^k]"
 ---
 # Beast III: Three Days Without Sleep
 
@@ -42,8 +43,6 @@ canonical_for: []
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, auction/collection · **Last verified:** 2026-10-12 (Round 2) · **Open issues:** Some details single-sourced · [How we rate this](../reference/source-standards.md)
-
-*Kustomrama compiles this from* Merchants of Speed*, Sports Car Digest, and* Rod & Custom.[^k]
 
 The body arrived after the 1952 Nationals had started. Volunteers assembled the car at **Chrisman & Sons Garage**, Compton. Herbert stayed up three or four days and finally had to be belted into his wheelchair so he wouldn't fall out.[^k]
 

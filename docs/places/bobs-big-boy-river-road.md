@@ -48,6 +48,9 @@ related:
 - drag-racing/detroit-cordova.md
 - drag-racing/fox-valley-road-deacons-gas-ketts.md
 canonical_for: []
+location: "Bob's Big Boy, 4211 Riverside Dr, Burbank (Toluca Lake edge), and \"the River Road,\" a lightly used road along the Los Angeles River."
+peak: "1950s to early 1960s."
+revival: "a Friday-night classic car show at Bob's, still running."
 ---
 # Bob's Big Boy and the "River Road"
 
@@ -57,8 +60,6 @@ canonical_for: []
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper interviews (Burbank Leader/LA Times 2014; LA Times 2013), restaurant history page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Told 55–60 years later · [How we rate this](../reference/source-standards.md)
 
 In the 1950s Burbank high schoolers met at the newly opened Bob's "to show off their jalopies," then settled challenges on the River Road. Some later raced in the river bed itself, which Life magazine photographed in 1957.[^bl]
-
-**Location:** Bob's Big Boy, 4211 Riverside Dr, Burbank (Toluca Lake edge), and "the River Road," a lightly used road along the Los Angeles River. · **Peak:** 1950s to early 1960s. · **Revival:** a Friday-night classic car show at Bob's, still running.
 
 ## In their own words
 

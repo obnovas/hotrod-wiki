@@ -42,6 +42,9 @@ related:
 - places/cruising-overview.md
 - places/harveys-broiler-downey.md
 canonical_for: []
+location: "Van Nuys Blvd, Los Angeles. McCloskey gives \"a 3-mile stretch from Ventura Boulevard to about Sherman Way,\" while Hot Rod (1981) describes police closing \"two miles.\"[^cnn][^hr81]"
+peak: "mid-1950s to 1970s, with Wednesday \"club nights.\""
+revival: "monthly cruises from June 2009 (Van Nuys Cruising Association)."
 ---
 # Van Nuys Boulevard
 
@@ -51,8 +54,6 @@ canonical_for: []
     **Confidence:** Medium · **Source types:** newspaper (LA Times 1986, 2010), period magazine (Hot Rod July 1981; Car Craft 2009), photographer interview (CNN 2017) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure year · [How we rate this](../reference/source-standards.md)
 
 The custom, the LA Times Magazine said in 1986, went back to a "regular Saturday-night parade down the boulevard" in **1912**. It says that by the mid-1950s cruisers came "from as far away as Santa Barbara and San Diego," with crowds of up to 20,000 including onlookers in lawn chairs, and that the RTD rerouted buses on cruise nights.[^lat86]
-
-**Location:** Van Nuys Blvd, Los Angeles. McCloskey gives "a 3-mile stretch from Ventura Boulevard to about Sherman Way," while Hot Rod (1981) describes police closing "two miles."[^cnn][^hr81] · **Peak:** mid-1950s to 1970s, with Wednesday "club nights." · **Revival:** monthly cruises from June 2009 (Van Nuys Cruising Association).
 
 ## The turnarounds
 

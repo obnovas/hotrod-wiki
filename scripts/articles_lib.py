@@ -48,7 +48,22 @@ TAGS = {
 
 REQUIRED = ["title", "summary", "department", "eras", "years", "region", "tags", "related"]
 LISTS = ["eras", "states", "cities", "people", "companies", "places", "clubs", "strips", "tags", "related", "canonical_for"]
-KNOWN = set(REQUIRED + LISTS + ["template", "hide", "era", "deck", "featured", "no_hero", "search", "description"])
+# Record-box notes: short field lines and source notes shown inside the Article record box instead of opening the
+# story. Markdown strings (footnote refs [^id], links and open-question markers allowed); principal_source may be a list.
+RECORD_NOTES = [("location", "Location"), ("peak", "Peak"), ("status", "Status"), ("later", "Later"), ("revival", "Revival"),
+                ("principal_source", "Principal source")]
+KNOWN = set(REQUIRED + LISTS + ["template", "hide", "era", "deck", "featured", "no_hero", "search", "description"]
+            + [k for k, _ in RECORD_NOTES])
+
+
+def record_notes_text(meta):
+    """The Markdown of the record-box note fields, one per line (so checks can treat it as part of the body)."""
+    out = []
+    for k, _ in RECORD_NOTES:
+        v = (meta or {}).get(k)
+        for x in (v if isinstance(v, list) else [v] if v else []):
+            out.append(str(x))
+    return "\n\n".join(out)
 
 EXEMPT_PREFIXES = ("about/", "reference/", "data/", "assets/", "stylesheets/", "javascripts/")
 

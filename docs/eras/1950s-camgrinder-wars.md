@@ -47,6 +47,7 @@ related:
 - companies/comp-cams-rhs.md
 - companies/edelbrock-slingshot.md
 canonical_for: []
+principal_source: "Dave Wallace, who interviewed the surviving \"generals\" (Iskenderian, Engle, others) in 1994.[^hr]"
 ---
 # The Camgrinder Wars
 
@@ -58,8 +59,6 @@ canonical_for: []
 In the first issue of HOT ROD, January 1948, Weber Tool Co. was the only cam advertiser. By the second issue the others had shown up, and the headlines were still mild: "Winners Use Iskenderian Cams" and "CRA Track Cars 5 and 66 Use Howard Cams."[^hr]
 
 It did not stay that way.
-
-*Principal source: Dave Wallace, who interviewed the surviving "generals" (Iskenderian, Engle, others) in 1994.*[^hr]
 
 ## The paper that didn't blink
 

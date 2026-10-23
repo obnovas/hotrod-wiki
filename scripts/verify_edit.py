@@ -47,7 +47,21 @@ def norm(s):
 
 
 def split(text):
+    # front matter is dropped, except the record-box note fields (location, peak, status, later, revival,
+    # principal_source), which carry story text, footnote refs and markers: they are compared as part of the body
+    fm = re.match(r"^---\n(.*?)\n---\n", text, re.S)
+    notes = ""
+    if fm:
+        import yaml
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from articles_lib import record_notes_text
+        try:
+            notes = record_notes_text(yaml.safe_load(fm.group(1)) or {})
+        except Exception:
+            notes = ""
     text = re.sub(r"^---\n.*?\n---\n", "", text, count=1, flags=re.S)
+    if notes:
+        text = notes + "\n\n" + text
     defs = {m.group(1): norm(m.group(2)) for m in FN_DEF.finditer(text)}
     body = FN_DEF.sub("", text)
     return body, defs

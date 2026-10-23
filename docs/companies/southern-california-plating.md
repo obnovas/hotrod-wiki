@@ -35,6 +35,7 @@ related:
 - people/jimmy-summers.md
 - voices/ruelas-dukes.md
 canonical_for: []
+principal_source: "Coachbuilt.com's census-based research.[^cb]"
 ---
 # The Plating Shop with the Rolling Billboards
 
@@ -42,8 +43,6 @@ canonical_for: []
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary (census-based), oral (Doty via Ganahl) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** RJ #36 not read first-hand · [How we rate this](../reference/source-standards.md)
-
-*Main source: Coachbuilt.com's census-based research.*[^cb]
 
 Leonard DeBell promoted his shop with customized delivery trucks: whitewalls, wheel discs, V-windshields and [DuVall](../people/george-duvall.md)-designed grilles and bumpers.[^cb][^kr]
 

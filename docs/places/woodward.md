@@ -51,6 +51,9 @@ related:
 - places/central-avenue-albuquerque.md
 - places/cruising-overview.md
 canonical_for: []
+location: "Woodward Ave (M-1), north of Eight Mile Road, through Ferndale, Royal Oak, Birmingham and Bloomfield Hills, to Pontiac."
+peak: "mid-1950s to about 1970."
+revival: "the Woodward Dream Cruise, held every August since the 1990s."
 ---
 # Woodward Avenue: Back In, Keep an Eye on the Action
 
@@ -60,8 +63,6 @@ canonical_for: []
     **Confidence:** Medium (High for the setting, Medium for the anecdotes) · **Source types:** enthusiast press (Hagerty 2011, 2020; Hemmings 2018; Hot Rod 2014), newspaper (Oakland Press 2007) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Factory-car stories are mostly from memory · [How we rate this](../reference/source-standards.md)
 
 The drive-in etiquette on Woodward was simple: "You'd back in so you could keep an eye on the action − only parents and nerds pulled in grill first."[^hag]
-
-**Location:** Woodward Ave (M-1), north of Eight Mile Road, through Ferndale, Royal Oak, Birmingham and Bloomfield Hills, to Pontiac. · **Peak:** mid-1950s to about 1970. · **Revival:** the Woodward Dream Cruise, held every August since the 1990s.
 
 ## The loop
 

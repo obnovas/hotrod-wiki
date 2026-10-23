@@ -43,6 +43,9 @@ related:
 - places/cruising-overview.md
 canonical_for:
 - modesto-cruise-ban
+location: "In George Lucas's teens, a loop of 10th, G, 11th and O Streets, with Burge's Drive-In (the model for Mel's in *American Graffiti*) at the turnaround. From the late 1960s it moved to **McHenry Avenue**.[^gm][^lat90]"
+peak: "1950s to 1980s."
+later: "the \"Graffiti Summer\" events and the Kiwanis American Graffiti car show."
 ---
 # Modesto: Draggin' 10th
 
@@ -52,8 +55,6 @@ canonical_for:
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times Feb & Mar 1990), city ordinance record (Stanislaus County Library), historical marker (HMdb), museum page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ ban year (1990 ordinance vs 1993 "banned") · [How we rate this](../reference/source-standards.md)
 
 *American Graffiti* (1973) was set in a 1962 version of Modesto, which the LA Times describes as "a small valley town of about 30,000," though most of the film was shot elsewhere.[^lat90]
-
-**Location:** In George Lucas's teens, a loop of 10th, G, 11th and O Streets, with Burge's Drive-In (the model for Mel's in *American Graffiti*) at the turnaround. From the late 1960s it moved to **McHenry Avenue**.[^gm][^lat90] · **Peak:** 1950s to 1980s. · **Later:** the "Graffiti Summer" events and the Kiwanis American Graffiti car show.
 
 Then the cruise outgrew the town. By 1990, according to city officials, up to 6,000 teenagers from around the San Joaquin Valley crowded McHenry Ave on weekend nights.[^lat90b]
 

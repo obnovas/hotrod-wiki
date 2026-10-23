@@ -40,6 +40,7 @@ related:
 - drag-racing/akron-fulton-airport.md
 - companies/crane-cams.md
 canonical_for: []
+principal_source: "JR Thompson's Gasser Legends page, which includes Ken Kull's history, a letter from Dave Hales, and Pete Hill's own note and 1967 Drag News letter.[^jrt] This is mostly oral history and documents. The car was copyrighted and **no photos are copied here**; follow the link."
 ---
 # The "Red Baron": A Mock Apology on Wheels
 
@@ -52,8 +53,6 @@ canonical_for: []
 ![A 1941 Willys Americar gasser-style coupe at a 2017 show](../assets/images/commons-1941-willys-gasser.jpg){ loading=lazy }
 <figcaption markdown>A 1941 Willys Americar gasser-style coupe at a 2017 show. **It is not the Red Baron.** It shows the Willys gasser type only. Photo: Sicnag (Flickr), 2017-01-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Willys_Americar_441_Gasser_Coupe_(32189280151).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
-
-*Principal source: JR Thompson's Gasser Legends page, which includes Ken Kull's history, a letter from Dave Hales, and Pete Hill's own note and 1967 Drag News letter.*[^jrt] This is mostly oral history and documents. The car was copyrighted and **no photos are copied here**; follow the link.
 
 ## "WE'RE SORRY"
 

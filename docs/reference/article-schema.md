@@ -42,7 +42,11 @@ canonical_for: []
 | `related` | yes | Paths of other articles (`dept/page.md`). These are always shown first under "Related stories"; the build fills the remaining cards by shared people, companies, clubs, strips, places, tags, era and region. Aim for at least two. |
 | `canonical_for` | no | Keys from `docs/data/canonical.yml` this page is the home of. |
 
-Also allowed: `template`, `hide`, `era`, `deck`, `featured`, `no_hero`, `search`, `description`. Any other key fails the build.
+| `era` | no | The decade the story is mainly about (`1950s`, ...), when that is not the first entry of `eras`. It sets the era badge and the colour of the page header. Without it the badge uses the first entry of `eras` (on an Eras page, the decade in its file name). |
+| `location`, `peak`, `status`, `later`, `revival` | no | Short field lines shown inside the Article record box, not at the top of the story: where a cruise or strip was, its peak years, what we treat it as, what came after. Markdown, with footnote refs (`[^id]`) and open-question markers kept exactly as in the text. |
+| `principal_source` | no | The source note ("Principal source: ...") shown inside the Article record box. A string, or a list for two or more sources. Markdown with footnote refs. |
+
+Also allowed: `template`, `hide`, `deck`, `featured`, `no_hero`, `search`, `description`. Any other key fails the build.
 
 `scripts/draft_frontmatter.py` drafts the fields for a new page from its text (`--write` to save; `--only field,field` to refresh some fields). Always read and correct its output: it guesses.
 

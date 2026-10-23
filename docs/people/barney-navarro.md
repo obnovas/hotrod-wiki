@@ -48,6 +48,7 @@ related:
 - companies/edelbrock-slingshot.md
 - people/stu-hilborn.md
 canonical_for: []
+principal_source: "Tony Thacker's American Hot Rod Foundation biography, built on Navarro's recollections.[^ahrf]"
 ---
 # Barney Navarro: Paying for Parts with Labor
 
@@ -60,8 +61,6 @@ canonical_for: []
 ![Patent drawing US3559397](../assets/images/patent-US3559397-navarro-turbo.png){ width="300" loading=lazy }
 <figcaption markdown>US3559397, "Turbo supercharger control mechanism," sheet 1. Inventor: Bernard J. Navarro, Glendale, filed 1969-03-21, issued 1971-02-02. Source: [Google Patents](https://patents.google.com/patent/US3559397A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
 </figure>
-
-*Principal source: Tony Thacker's American Hot Rod Foundation biography, built on Navarro's recollections.*[^ahrf]
 
 His '39 Tudor ran **the first Weiand intake Phil Weiand ever made**, and Navarro paid for it by machining Weiand's first batch of 10 castings.[^ahrf]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 

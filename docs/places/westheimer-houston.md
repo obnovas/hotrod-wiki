@@ -30,6 +30,9 @@ related:
 - places/central-avenue-albuquerque.md
 - places/dragging-main.md
 canonical_for: []
+location: "Westheimer Rd. Cruisers drove east from west Houston through Montrose, turned around at Elgin and drove back out."
+peak: "the 1980s, \"Oil Bust Houston.\""
+status: "a **regional repeat gathering**, with no documented builder or company links."
 ---
 # Westheimer Road, Houston
 
@@ -37,8 +40,6 @@ canonical_for: []
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** first-person newspaper column (John Nova Lomax, Houston Press, Aug 12, 2009) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** One source; the crackdown date is approximate ("about 1986") · [How we rate this](../reference/source-standards.md)
-
-**Location:** Westheimer Rd. Cruisers drove east from west Houston through Montrose, turned around at Elgin and drove back out. · **Peak:** the 1980s, "Oil Bust Houston." · **Status:** a **regional repeat gathering**, with no documented builder or company links.
 
 ## The ritual
 

@@ -45,6 +45,7 @@ related:
 - people/kong-jackson.md
 - drag-racing/modesto-century-toppers.md
 canonical_for: []
+principal_source: "Kustomrama, drawing mainly on *Rod & Custom*, August 1990.[^k]<sup class=\"hr-q\" id=\"qr-1\"><a href=\"#q-1\" title=\"Single source so far: see Open questions\">◐</a></sup>"
 ---
 # George DuVall: A Windshield, a Hubcap and a Plating Shop
 
@@ -52,8 +53,6 @@ canonical_for: []
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary (census-based), oral · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Pattern sale date conflict · [How we rate this](../reference/source-standards.md)
-
-*Principal source: Kustomrama, drawing mainly on* Rod & Custom*, August 1990.*[^k]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 George DuVall saw a newspaper photo of a Southern California Plating Co. truck with the first Goodyear balloon tires sold in LA, and took a part-time delivery job there.[^k]
 

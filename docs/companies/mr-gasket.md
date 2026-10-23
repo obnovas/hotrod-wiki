@@ -54,6 +54,7 @@ related:
 - drag-racing/akron-fulton-airport.md
 - companies/crane-cams.md
 canonical_for: []
+principal_source: "Jim Hill, East Coast Drag Racing Hall of Fame (2016).[^ec]"
 ---
 # Mr. Gasket: From the Trunk of a '57 Chevy to Wall Street
 
@@ -61,8 +62,6 @@ canonical_for: []
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, obituary, reference · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Founding dates and sale price conflict · [How we rate this](../reference/source-standards.md)
-
-*Principal source: Jim Hill, East Coast Drag Racing Hall of Fame (2016).*[^ec]
 
 Store-bought exhaust gaskets wouldn't stay put and blocked ported 283 Chevy heads. Joe Hrudka worked out thicker, larger, one-piece gaskets with his father-in-law, a partner at Manufacturers Gasket in Cleveland. They hand-cut them, then used steel-rule dies in a hand press. They sold them from the trunk of Joe's '57 Chevy tow car, and part numbers **150 (exhaust) and 150A (intake)** remain in the line.[^ec] SEMA says the earliest prototypes were made in his home basement and first sold as **Speed Specialties**.[^sema]
 

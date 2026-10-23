@@ -37,6 +37,9 @@ related:
 - places/modesto.md
 - drag-racing/modesto-century-toppers.md
 canonical_for: []
+location: "Whittier Blvd, East LA. The mile between Atlantic Blvd and Eastern Ave was the core."
+peak: "1960s to 1970s; the street drew national attention through the film *Boulevard Nights* (1979)."
+later: "cruising returned in 2017, under a 1997 county ordinance.<sup class=\"hr-q\" id=\"qr-1\"><a href=\"#q-1\" title=\"Open question: see the bottom of the page\">?</a></sup>"
 ---
 # Whittier Boulevard
 
@@ -46,8 +49,6 @@ canonical_for: []
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times 1979 via 2017 archive feature; LA Times 2017), local history blog (Barrio Boychik 2015) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure date; violence figures come from the Sheriff's Dept · [How we rate this](../reference/source-standards.md)
 
 The LA Times called cruising Whittier "an odd ritual–a cross among a harmless urban mating dance, a California car obsession, a relief from boredom and a senseless flirtation with death" in 1979, and "a tradition gone sour, tarnished by gang violence." It quoted the Sheriff's Department: 16 homicides on Whittier in the past year and a half, half of all gang-related deaths in its East LA jurisdiction.[^lat79] Every Friday, Saturday and Sunday, from 9:30 p.m. to 5 a.m., all vehicles were barred from the mile-long stretch.[^lat17]
-
-**Location:** Whittier Blvd, East LA. The mile between Atlantic Blvd and Eastern Ave was the core. · **Peak:** 1960s to 1970s; the street drew national attention through the film *Boulevard Nights* (1979). · **Later:** cruising returned in 2017, under a 1997 county ordinance.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## In their own words
 

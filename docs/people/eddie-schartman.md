@@ -43,6 +43,7 @@ related:
 - places/ohio-gassers.md
 - drag-racing/houston-freeway-dragstrip.md
 canonical_for: []
+principal_source: "Phil Burgess's 2016 interview with Schartman, then 78, in National Dragster/NHRA.com.[^nhra] This is first-person oral history."
 ---
 # "Fast Eddie" Schartman: Taking Out the Finish-Line Lights
 
@@ -55,8 +56,6 @@ canonical_for: []
     "On my first pass, I went 166 mph and took out the [finish-line] lights."
 
     — Eddie Schartman, NHRA.com, 2016. [Full context in Voices](../voices/show-custom-voices.md)
-
-*Principal source: Phil Burgess's 2016 interview with Schartman, then 78, in National Dragster/NHRA.com.*[^nhra] This is first-person oral history.
 
 ## The flip-top Comet
 
