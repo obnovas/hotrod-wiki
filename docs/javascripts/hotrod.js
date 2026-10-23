@@ -163,7 +163,7 @@
 
   document.addEventListener("click", function (e) {
     var t = e.target;
-    var fr = t.closest && t.closest(".hr-body a.footnote-ref");
+    var fr = t.closest && t.closest(".hr-body a.footnote-ref, .hr-slip a.footnote-ref");
     if (fr && narrow()) { if (openSheet(fr)) { e.preventDefault(); e.stopPropagation(); } return; }
     if (t.closest && t.closest(".hr-sheet__close")) { closeSheet(); return; }
     if (t.classList && t.classList.contains("hr-sheet")) { closeSheet(); return; }
@@ -237,7 +237,34 @@
     var inp = $(".md-search__input"); if (inp) inp.addEventListener("focus", loadCards, { once: true });
   }
 
-  function boot() { setContents(false); markNav(); initSpy(); tableFilters(); chips(); progress(); folds(); hubFilters(); watchSearch(); closeSheet(); topBtn(); if (location.hash) onHash(); }
+  /* wide tables: a swipe hint, an edge fade and a sticky first column when a table really overflows */
+  function wideTables() {
+    $$(".hr-tw").forEach(function (tw) {
+      var sc = $(".md-typeset__scrollwrap", tw) || tw, t = $("table", tw); if (!t) return;
+      if (tw.classList.contains("hr-tw--stack")) {
+        tw.classList.remove("is-stacked");
+        if (getComputedStyle(t).display !== "block" && sc.scrollWidth > sc.clientWidth + 4) tw.classList.add("is-stacked");
+      }
+      var wide = sc.scrollWidth > sc.clientWidth + 4 && getComputedStyle(t).display !== "block";
+      tw.classList.toggle("is-wide", wide);
+      var hint = $(".hr-tw__hint", tw);
+      if (wide && !hint) {
+        hint = document.createElement("p"); hint.className = "hr-tw__hint"; hint.setAttribute("aria-hidden", "true");
+        hint.innerHTML = "<span>" + (matchMedia("(pointer:coarse)").matches ? "Swipe" : "Scroll") + " the table sideways for all " + (tw.dataset.cols || "") + " columns</span><b>→</b>";
+        tw.insertBefore(hint, tw.firstChild);
+      }
+      if (hint) hint.hidden = !wide;
+      if (wide) tw.style.setProperty("--hr-tw-top", (sc.offsetTop || 0) + "px");
+      if (!sc.dataset.hrs) {
+        sc.dataset.hrs = 1;
+        sc.addEventListener("scroll", function () { tw.classList.toggle("is-end", sc.scrollLeft + sc.clientWidth >= sc.scrollWidth - 4); tw.classList.toggle("is-moved", sc.scrollLeft > 8); }, { passive: true });
+      }
+      tw.classList.toggle("is-end", sc.scrollLeft + sc.clientWidth >= sc.scrollWidth - 4);
+    });
+  }
+  var wtT; window.addEventListener("resize", function () { clearTimeout(wtT); wtT = setTimeout(wideTables, 150); });
+
+  function boot() { setContents(false); markNav(); initSpy(); tableFilters(); chips(); progress(); folds(); hubFilters(); watchSearch(); closeSheet(); topBtn(); wideTables(); setTimeout(wideTables, 60); if (location.hash) onHash(); }
   if (window.document$ && window.document$.subscribe) window.document$.subscribe(boot);
   else if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", boot); else boot();
 })();

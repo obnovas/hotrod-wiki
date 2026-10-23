@@ -25,6 +25,7 @@
     {% if kind == "story" and hr.minutes %}
     <p class="hr-meta"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-clock"/></svg>{{ hr.minutes }} min read{% if hr.fn %} · {{ hr.fn }} cited notes{% endif %}{% if hr.oq_count %} · <a href="#open-questions-disputed-details">{{ hr.oq_count }} open question{{ "s" if hr.oq_count != 1 }}</a>{% endif %}{% if hr.series_pos %} · <span class="hr-meta__series">{{ hr.series_pos[0] }} of {{ hr.series_pos[1] }} in {{ hr.series }}</span>{% endif %}</p>
     {% endif %}
+    {% if hr.path and kind == "story" %}{% include "partials/hr-path.html" %}{% endif %}
     {% if rec %}
     <details class="hr-rec" open data-hr-rec>
       <summary class="hr-rec__sum"><span class="hr-rec__conf hr-slip__tag--{{ rec.level }}"><small>Confidence</small> {{ rec.conf_word }}</span><span class="hr-rec__more">How we know this<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-down"/></svg></span></summary>
@@ -36,6 +37,9 @@
         {% for k, v in rec.fields %}{% if k | lower != "confidence" %}
         <div class="hr-slip__f hr-slip__f--{{ k | lower | replace(' ', '-') }}"><dt>{{ k }}</dt><dd>{{ v | safe }}</dd></div>
         {% endif %}{% endfor %}
+        {% for lab, v, key in rec.notes | d([]) %}
+        <div class="hr-slip__f hr-slip__f--wide hr-slip__f--{{ key | replace('_', '-') }}"><dt>{{ lab }}</dt><dd>{{ v | safe }}</dd></div>
+        {% endfor %}
         {% if rec.conf_note %}<div class="hr-slip__f hr-slip__f--note"><dt>Note</dt><dd>{{ rec.conf_note }}</dd></div>{% endif %}
       </dl>
         {% if rec.link %}<div class="hr-slip__more">{{ rec.link | safe }}</div>{% endif %}
@@ -113,6 +117,7 @@
       {% endif %}
     {% endif %}
     {{ page.content }}
+    {% if hr.paths_index %}{% include "partials/hr-paths-index.html" %}{% endif %}
     {% include "partials/source-file.html" %}
   </div>
 </div>
@@ -121,6 +126,21 @@
 <footer class="hr-more" aria-labelledby="hr-more-h">
   <div class="hr-more__inner">
   <h2 class="hr-more__title" id="hr-more-h"><span class="hr-script">Where next?</span> Keep reading</h2>
+  {% if hr.path and kind == "story" %}{% set pa = hr.path %}
+  <section class="hr-more__path" aria-labelledby="hr-path-h">
+    <p class="hr-more__h" id="hr-path-h"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-road"/></svg>Reading path{% if pa.letter %} {{ pa.letter }}{% endif %}: <a href="{{ pa.url | url }}">{{ pa.short }}</a> <span>· part {{ pa.n }} of {{ pa.of }}</span></p>
+    {% if pa.next %}
+    <a class="hr-pnext" href="{{ pa.next.url | url }}">
+      <span class="hr-pnext__k">Next on the path · part {{ pa.next.n }}</span>
+      <strong class="hr-pnext__t">{{ pa.next.title }}</strong>
+      {% if pa.next.why %}<span class="hr-pnext__why">{{ pa.next.why }}</span>{% endif %}
+      <span class="hr-sc__go">Read the full story<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></span>
+    </a>
+    {% else %}
+    <p class="hr-pnext hr-pnext--end"><span class="hr-pnext__k">End of the path</span><strong class="hr-pnext__t">You have read all {{ pa.of }} parts.</strong><a href="{{ 'reference/reading-paths/' | url }}">Choose another reading path →</a>{% if pa.n > 1 %} · <a href="{{ pa.first.url | url }}">Back to part 1</a>{% endif %}</p>
+    {% endif %}
+  </section>
+  {% endif %}
   {% if hr.prev or hr.next %}
   <nav class="hr-more__next" aria-label="More in {{ hr.series | d(d.title if d else 'this department') }}">
     <p class="hr-more__h">{% if hr.series %}In {{ hr.series }}{% else %}More in {{ d.title if d else "this department" }}{% endif %}{% if hr.series_pos %} <span>· story {{ hr.series_pos[0] }} of {{ hr.series_pos[1] }}</span>{% endif %}</p>
