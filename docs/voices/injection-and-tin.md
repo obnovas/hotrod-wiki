@@ -144,6 +144,6 @@ The last voice is a letter, an invitation to settle an East–West argument:
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** Only SEMA's heritage piece names **Howard Wilson** as the driver of the July 1948 **150.5 mph** El Mirage pass; Hilborn's sentence does not name the driver. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Who drove the 150.5 mph pass?** Only SEMA's heritage piece (https://www.sema.org/news-media/magazine/2014/18/stu-hilborn) names **Howard Wilson** as the driver of the July 1948 El Mirage run; Hilborn's own sentence, quoted in Autoweek (https://www.autoweek.com/news/a1946706/fuel-injection-pioneer-stuart-hilborn-1917-2013/), does not name the driver. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** Secondhand via memoir quotation on a fan history site; we have not opened the original Garlits book page in this round. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Is the letter quoted accurately?** We have it secondhand: Garlits's memoir as quoted on the Houston Freeway Drag Strip history page (https://www.houstonfreewaydragstrip.com/houston-international-speedway-history.htm). We have not opened the Garlits book itself. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>

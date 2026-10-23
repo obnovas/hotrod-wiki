@@ -88,7 +88,7 @@ See also: [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob B
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **The Best Car puzzle.** Andy Brizio complained that "a guy wins the Best Car Award with a car that got there on a trailer."[^rc] Modern Rodding identifies the Best Overall winner as **Orv Elgie** ('37 Ford sedan delivery), with a plaque showing his 8,000-mile drive California–Ontario–Peoria.[^mr] These may be different awards. Unresolved. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Needs a direct source.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Needs a direct source.*[^idr] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **What is "NSTRA"?** The Kentucky Motorsports Hall of Fame page is titled "NSTRA" but is about the NSRA's Louisville era.[^ky] We read it as the NSRA's state program, not a drag-racing body, but the page doesn't say. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

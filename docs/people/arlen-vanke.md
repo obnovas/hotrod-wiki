@@ -74,13 +74,13 @@ He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives 
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The Knafel site says the strip opened in 1951 and ran until 1959.[^tin] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Single source. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Single source.[^mm] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** The Knafel site says "salesman" and calls it an eight-year relationship.[^tin] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Where did "Vanked" come from?** Only Hemmings' obituary explains it, and it gives two stories: his dual-quad intake work on the 426 Hemi, and his calls to Chrysler as "Arlen Vanke from Akron, Ohio."[^hem2] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *This is a promotional HOF claim and needs checking.* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *This is a promotional HOF claim and needs checking.*[^mm] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ## Images
 

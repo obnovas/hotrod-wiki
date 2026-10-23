@@ -106,7 +106,7 @@ Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal char
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The uploader's ID and date; we have not checked them against a race program.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Austin, 1967?** The place and date come only from the Flickr uploader's description on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rambunctious_(dragster)_photo_1.jpg); we have not checked them against a race program. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 
@@ -124,7 +124,7 @@ The pass itself is not in dispute. The date is.
 
 **The official one:** match-race times were "considered somewhat unofficial," so the first NHRA national-event 200-mph Funny Car pass was Snow's **7.23/208.71 at the Springnationals, Dallas International Motor Speedway, May 3, 1970**.[^top50][^nd16] Wikipedia's article on the car calls it "NHRA's first official 200 mph pass," citing Bob McClurg in *Drag Racer* (Nov 2016).[^wpr] ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *We could not open the WFAA report (the archive copy did not load) and have not verified it independently.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *We could not open the WFAA report (the archive copy did not load) and have not verified it independently.*[^wp] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 **Life dates:** We found no verified obituary for this Gene Snow. A 2018 obituary for a "Thomas Eugene 'Gene' Snow" of Florida is **a different man**, and we do not use it.
 

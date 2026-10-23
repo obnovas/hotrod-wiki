@@ -82,9 +82,9 @@ The end came in small ways. In Pro Stock, the 1972 Gatornationals tech crew disq
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *These are attributions within one article.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *These are attributions within one article.*[^nhra] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Self-reported "first."* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Self-reported "first."*[^nhra] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

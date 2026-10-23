@@ -124,9 +124,9 @@ There was a sense of inheritance, too. "Our parents dragged Main, and our parent
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not found a Franklin newspaper item about it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Was dragging Main more than a yearbook hobby in Franklin?** The *Laurel Leaf* entries are all we have; we have not found a Franklin newspaper item about it.[^ff57][^ff58] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** It is one witness's memory, recorded some 30 years later. We have not found the council minutes. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** It is one witness's memory, recorded some 30 years later. We have not found the council minutes.[^rich85] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Where did the drag start?** One source, two versions: the 1987 Hays yearbook says draggers entered Main around Thirteenth Street, and a caption on the same spread says "starting from about Eighth and Main."[^hays87] Both end at the Varsity. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

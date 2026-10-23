@@ -74,7 +74,7 @@ For Malcolm Durham, the BARA co-founder and an East Coast Chevy match racer, see
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We haven't been able to open that page directly yet (it blocked our fetch), so this point waits on confirmation. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **What exactly does NMAH say?** The point about the 1920s ban and the Colored Speedway Association (1924) comes from the Smithsonian page, which blocked our fetch, so it waits on confirmation.[^nmah] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^why]: Peter Crimmins, "Blazing a trail for African-American racers," WHYY, June 22, 2018. https://whyy.org/segments/blazing-a-trail-for-african-american-racers/ (accessed 2026-10-13)
 [^nmah]: National Museum of American History, "The Black American Racers fought for equity in auto racing." https://americanhistory.si.edu/explore/stories/equity-auto-racing (fetch blocked 2026-10-13)

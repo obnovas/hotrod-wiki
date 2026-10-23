@@ -113,7 +113,7 @@ He died on January 18, 2010, "10 days short of his 76th birthday," after complic
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The hall's page is the only source for the Rebels' founding.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The hall's page is the only source for the Rebels' founding.*[^narhof] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** ***Rod Action* and Ray Brock.** Only Wikipedia puts the NSRA's first headquarters in the offices of *Rod Action* and makes Wells Ray Brock's partner there.[^wiki] It cites Lucsko's *The Business of Speed*, pp. 228–29. Leads: that book; *Rod Action* mastheads, 1971–73. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

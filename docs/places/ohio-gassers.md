@@ -151,7 +151,7 @@ There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals clas
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Hill's opinion as a participant-journalist.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Hill's opinion as a participant-journalist.*[^hr15] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** *Hot Rod* says that in 1963 "he won **C/Gas** with a 1940 Willys."[^hr15] We have not seen the 1963 class-winner list. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -159,7 +159,7 @@ There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals clas
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The Dark Horse.** The car's Tim Woods engine, its Stone-Woods-Cook colors, its booking role and "quicker than the SWC 'A' car" all come from Chuck Finders Jr.'s farewell on JR Thompson's site.[^jrt1] Lead: *Drag News* booking ads for Stone-Woods-Cook in the 1960s. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No record sheet seen.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No record sheet seen.*[^jrt1] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Did Garlits stop to pray?** The story that Garlits ran to the wreck, then to the tower to ask everyone "to pray for Chuck," and came back to win his class comes only from the farewell page.[^jrt1] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
@@ -171,7 +171,7 @@ There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals clas
 
 <a id="q-10" class="hr-q-anchor"></a>**Disputed.** **Names:** Hill names the Hill brothers "Pete and Bill" in his 2016 Midwest piece, matching Pete Hill's own letter on the [Red Baron](../cars/hill-bros-red-baron.md) page, but "Pete and Tom Hill" in his Mr. Gasket piece.[^ecgm][^ecmg] We use **Pete and Bill**. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 
-<a id="q-11" class="hr-q-anchor"></a>**Single source so far.** *Interested party; figures are his.* <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
+<a id="q-11" class="hr-q-anchor"></a>**Single source so far.** *Interested party; figures are his.*[^hr15] <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
 
 ## Images
 

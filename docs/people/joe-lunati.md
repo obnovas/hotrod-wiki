@@ -98,7 +98,7 @@ He never left the sport. He kept racing go-karts with his children and won a Wor
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *A promoter's ad, not a record book. Its "3 Time" matches NHRA's count as of May 1967; the family's five could include later titles. A 1968 book on funny cars, seen only as a search excerpt, adds that "Lunati continued at the top, capturing the Nationals Street Eliminator crown," which fits the 1966 wire report.*[^cbfc] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Open question.** Lunati's story runs from a 1947 car club to a Bootheel air base to a cam shop selling to local oval racers. That's the kind of grassroots-to-industry thread this wiki follows. The ⚠ marks show how even 2023 obituaries can disagree on basics. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Open question.** Lunati's story runs from a 1947 car club to a Bootheel air base to a cam shop selling to local oval racers. That's the kind of grassroots-to-industry thread this wiki follows. The ⚠ marks show how even 2023 obituaries can disagree on basics.[^obit] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>
 

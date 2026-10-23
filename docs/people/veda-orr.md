@@ -61,7 +61,7 @@ The Orrs divorced and later reunited, reopening the shop in Mint Canyon. Karl di
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The 750 figure is from one article.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The 750 figure is from one article.*[^fc] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did she join the SCTA?** Fuel Curve says Karl's standing persuaded organizers to let her race and that she became the first woman SCTA member, which implies before the war.[^fc] A Hot Rod Hotline review says women were forbidden to join the SCTA before WWII and that the clubs voted her in as an exception *after* the war.[^hrh] Both can't be right, and the question is still open. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

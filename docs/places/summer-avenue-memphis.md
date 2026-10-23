@@ -53,7 +53,7 @@ One name on Burge's list has a racing echo. Marshall Robilio was a Memphis Rodde
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Open question.** **Was Robilio's restaurant connected to Marshall Robilio's family?** No source we have read says so, so we don't claim it. Lead: a Memphis city directory or the restaurant's own history. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** **Was Robilio's restaurant connected to Marshall Robilio's family?** Burge names the restaurant;[^ss] Marshall Robilio raced with the Memphis Rodders (see [Memphis](memphis.md)). No source we have read connects the two. Lead: a Memphis city directory or the restaurant's own history. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **The first McDonald's in Memphis?** The Southern Foodways Alliance says that when McDonald's came to Memphis, "one of the first locations opened here";[^sfa] Jim Burge, quoted by storySouth, says "The first McDonald's in Memphis was next door to here."[^ss] A city directory or the company's opening list would settle it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

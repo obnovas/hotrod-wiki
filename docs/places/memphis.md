@@ -74,7 +74,7 @@ By 1960 Memphis had a strip of its own. Ray Godman was a Korean War veteran who 
 
 Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992.[^hr92][^hr12]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Road trips to the Bootheel (1962–66)
 
@@ -106,7 +106,7 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have this from secondary sources only.[^dm][^tl] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** This is from a search summary and needs a primary source; see the Research Trail. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The first Shootout, at Memphis in 1992?** Only *Hot Rod*, which ran the event, reports it: its December 1992 story and its 2012 anniversary piece put the first Fastest Street Car Shootout at Memphis on Sept. 19–20, 1992.[^hr92][^hr12] We have no independent account. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Was the Bo-Weevil on the 1965 bill?** The SEMO Drag Strip's 1965 opening-day ad seems to headline a Tennessee fuel dragster that reads like Godman's Bo-Weevil, but the scan is garbled.[^sk62] See [SEMO Drag Strip](../drag-racing/semo-malden-drag-strip.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
@@ -116,7 +116,7 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 
 <a id="q-8" class="hr-q-anchor"></a>**Disputed.** **1968 or 1969?** Edelbrock's 2023 statement dates Lunati's cam shop to 1968,[^edel] and his family's obituary says 1969.[^lunobit] See [Joe Lunati](../people/joe-lunati.md#q-3). <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
-<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is the company's own history, we have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb," without naming the corner. <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is the company's own history, we have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb," without naming the corner.[^comp15] <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
 ## Images
 
@@ -151,3 +151,5 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 [^sk66b]: "Hundreds See Kingfish Set Strip Record," *Sikeston Daily Standard*, Apr. 12, 1966. Page OCR. https://archive.org/details/sikeston-daily-standard-1966-04-12 (accessed 2026-10-22)
 [^edel]: "Edelbrock Group Mourns Lunati Cams Founder, Joe Lunati," Edelbrock Group, Sept. 14, 2023. https://www.edelbrockgroup.com/corporate-news/2023/09/14/edelbrock-group-mourns-lunati-cams-founder-joe-lunati/ (accessed 2026-10-22)
 [^lunobit]: "Joe Lunati, August 7, 1935 – September 13, 2023," obituary, Memphis Funeral Home, via Dignity Memorial. https://www.dignitymemorial.com/obituaries/memphis-tn/joe-lunati-11461265 (accessed 2026-10-22)
+[^hr92]: Jeff Smith and David Freiburger, "8 Seconds Over Memphis: The Fastest Street Car in America Shootout!," *Hot Rod*, Dec 1992 (web reprint Jan 1, 2023). https://www.hotrod.com/features/8-seconds-over-memphis-december-1992-982-1492-24-1 (accessed 2026-10-22)
+[^hr12]: "20th Anniversary of Fastest Street Car Shootout: Memories From Memphis," *Hot Rod*, 2012. https://www.hotrod.com/news/hrdp-1211-20th-anniversary-hot-rod-fastest-street-car-shootout-1992 (accessed 2026-10-22)

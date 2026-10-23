@@ -96,13 +96,13 @@ The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *"Only woman racer" appears in one source.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *"Only woman racer" appears in one source.*[^ocr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Unsourced claim; not adopted.*[^li] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *One source for the order of cars.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *One source for the order of cars.*[^idrbio] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *No year or class given; no SCTA record entry seen.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Which Bonneville record did she miss?** C.J. Hart's 1980 *Hot Rod* interview is the only source, and it gives no year or class; we have seen no SCTA record entry.[^hr80] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When did the strip open?** C.J. told *Hot Rod* he opened "on **June 19, 1950**," and our [Santa Ana](../eras/1950s-santa-ana-drags.md) page follows that date.[^hr80] Yet the pamphlet's "first race" is July 2, 1950. June 19, 1950, was a **Monday**; July 2 was a Sunday. This may mean the strip opened (with its lease or a first practice) on June 19 and held its first Sunday race on July 2. Until a dated 1950 clipping is found, that is only a suggestion. **Unresolved.** <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

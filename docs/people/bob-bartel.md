@@ -124,7 +124,7 @@ Bartel and racer **Ron Colson** said they owned the World Series name, citing a 
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Fifteen years of NASCAR drag racing?** The tribute credits Bartel and Ed Otto with a NASCAR drag-racing branch that sanctioned races on the eastern seaboard "for another fifteen years."[^cp] We have no NASCAR record of it. Lead: NASCAR Drag Racing Division results, late 1950s. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Single tribute source; we have seen no NHRA record of the purchase.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Did NHRA buy out the ATAA in 1957?** The "absorbed" (bought out) story is the tribute's alone; we have seen no NHRA record of the purchase.[^cp] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>
 

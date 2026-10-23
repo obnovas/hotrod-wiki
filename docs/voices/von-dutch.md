@@ -69,7 +69,7 @@ Burns adds that when Dutch quit striping in 1958, customers did not say what the
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** The original magazine is not identified. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Which magazine ran the 1965 article?** Bob Burns reprints it only as "a 1965 article"; the *Los Angeles Times* quotes two sentences without naming it either.[^bb][^lat] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 

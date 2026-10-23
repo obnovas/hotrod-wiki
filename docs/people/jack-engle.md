@@ -78,9 +78,9 @@ He died in Santa Monica on Nov 14, 2008.[^wiki][^obit] Engle Racing Cams now ope
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did the business start?** Four versions, in the table above: grinding from 1939 and Engle Manufacturing Co. from 1941 (the company's obituary flyer[^obit]); "since 1941" (englecams.com[^site]); 1942 (Kustomrama[^kr]); Engle Racing Cams in 1950 (Wikipedia[^wiki]). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Single-sourced. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Single-sourced.[^wiki] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** This needs a period source such as Drag News results. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** This needs a period source such as Drag News results.[^wiki] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 **When did he start?** The sources give four versions:
 

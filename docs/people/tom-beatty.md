@@ -79,7 +79,7 @@ By then Beatty was in business. He opened **Tom Beatty Automotive Engineering**,
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **1951 Bonneville.** AHRF gives a Class D Lakester *record* of 185.80 mph;[^ahrf] the RM Auctions text on Kustomrama gives a 188.284 mph *run*.[^tank] These may be a two-way record and a one-way best, which is unconfirmed. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Auction-catalog source; check against SCTA/BNI records.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Auction-catalog source; check against SCTA/BNI records.*[^tank] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 **Unresolved:** the RM text says Beatty "died later that year" after the tank was sold, but the sale date is unclear. **Death date unverified.**
 

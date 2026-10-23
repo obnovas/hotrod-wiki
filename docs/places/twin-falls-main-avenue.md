@@ -117,17 +117,17 @@ For other towns that argued about a strip in the same years, see [What the City 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The scan is badly garbled here: the dollar figure looks like $3,500 and the judge's name is unreadable, so we give neither as fact.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The scan is badly garbled here: the dollar figure looks like $3,500 and the judge's name is unreadable, so we give neither as fact.*[^council1960] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *The scan is rough. The garage's name and some of the car names are our best reading.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *The scan is rough. The garage's name and some of the car names are our best reading.*[^feat1961] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *The model years in the scan are illegible.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *The model years in the scan are illegible.*[^poc1961] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** We still find no strip. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** We still find no strip.[^off1962] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No source we read says outright that the lease was dropped.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No source we read says outright that the lease was dropped.*[^aveng1964] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *One paper, one person's guess, and an OCR scan with the columns run together.* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *One paper, one person's guess, and an OCR scan with the columns run together.*[^harris1957] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 [^ed1957]: Editorial, "Our Main Avenue 'Drag Strip,'" *Times-News* (Twin Falls, Idaho), Sunday, June 30, 1957, read as page OCR. https://archive.org/details/The_Times_News_Idaho_Newspaper_1957_06_30 (accessed 2026-10-16)
 [^pc1957]: Justice-court items, *Times-News*, June 30, 1957 (Carrol Cunningham of Jerome; Joseph Hopper of Twin Falls) and July 7, 1957 (the Main avenue west "drag strip"). https://archive.org/details/The_Times_News_Idaho_Newspaper_1957_06_30 ; https://archive.org/details/The_Times_News_Idaho_Newspaper_1957_07_07 (accessed 2026-10-16)
