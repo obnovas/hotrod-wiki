@@ -125,7 +125,7 @@ Jim Clark's account matches the title story from the other side. *Street Rodder*
 
 <a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **40,000 a month?** The circulation figure is 99W's alone, and its own note says the publisher "did not provide net paid circulation data to N.W. Ayer," so the directory can't check it.[^99w] Lead: the annual postal statement of ownership and circulation printed in the magazine. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-<a id="q-8" class="hr-q-anchor"></a>**Single source so far.** *Craig's recollection, as relayed by 99W.* <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far.** *Craig's recollection, as relayed by 99W.*[^99w] <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 ## Images
 

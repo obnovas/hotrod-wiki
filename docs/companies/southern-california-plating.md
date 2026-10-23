@@ -72,7 +72,7 @@ The phaeton itself is gone. Julian Doty told Pat Ganahl he last saw the phaeton 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The Terraplane-grille credit is repeated by both sources without a primary citation. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The Terraplane-grille credit is repeated by both sources without a primary citation.[^cb] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 **Not yet read:** Pat Ganahl's feature on this car, "The Mystery Wagon," *The Rodder's Journal* No. 36, has not been checked first-hand. The Doty quote comes through Coachbuilt. A copy of RJ #36 is a priority request (see [Research Trail](../research-trail.md)).
 

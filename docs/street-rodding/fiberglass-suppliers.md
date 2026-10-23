@@ -72,7 +72,7 @@ That northern start is the point. The street-rod parts business is usually assoc
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **A coupe in 1969, a roadster about 1971?** Both dates come from Wescott's company history.[^wes] Lead: Wescott's catalogs and ads. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Open question.** We have not confirmed which company had the first fiberglass Ford body. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Open question.** **Who had the first fiberglass Ford body?** Wescott's and Cal Automotive each tell their own early history;[^wes][^cal] neither account settles which body came first, and we have not confirmed it. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Images
 

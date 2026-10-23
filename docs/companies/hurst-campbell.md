@@ -137,9 +137,9 @@ Hurst's "Hemi-Under-Glass" exhibition car was booked at a Georgia strip in 1965;
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Incorporated in 1958?** Only Campbell's daughter, in an email printed by Just A Car Guy, dates the incorporation to May 1958, "after two years" of part-time die design.[^jacg] Ate Up With Motor says only that the company "opened for business in 1959."[^auwm] Both can be true. Lead: the Pennsylvania corporation record. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have not seen any of these pieces, and we don't know what the "mystery shifter" was. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have not seen any of these pieces, and we don't know what the "mystery shifter" was.[^cce63] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Both come to us only as search excerpts from lending-library books we cannot open in full, so we quote nothing beyond the address lines. The resolution above does not depend on them alone.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Both come to us only as search excerpts from lending-library books we cannot open in full, so we quote nothing beyond the address lines. The resolution above does not depend on them alone.*[^wq65][^gtoad] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **The $1,000 prize.** George's offer for a better 4-speed in-line shifter, and Bob Kenny's win, come only from Campbell's daughter's email, as printed by Just A Car Guy.[^jacg] We have found no period report of the prize. Lead: *Hot Rod* or the trade press for 1961–62. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

@@ -113,9 +113,9 @@ The first fuel-block copies were sold at Bell Auto Parts, one of the [prewar spe
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did Moon Equipment start?** The anniversary pieces say 1950 (*Hot Rod*: "around 1950"; *THE SHOP*'s 75-year feature). *THE SHOP*'s own narrative says that in **October 1953** Dean "decided to go full time" and operate the company from 10935 S. Bloomfield Ave., "right next to Pop's Café," and describes him as having founded Moon Automotive Equipment Co. that year.[^shop][^hr25] Both can be true: 1950 for the first sales, 1953 for the business. The sources do not say so outright. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** (one source), and that they gave the custom vocabulary "moon caps." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** (one source), and that they gave the custom vocabulary "moon caps."[^hr25][^shop] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** The records are lost in a fire, *THE SHOP* says, so the dates are unknown. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** The records are lost in a fire, *THE SHOP* says, so the dates are unknown.[^shop][^hr25] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Brighton, 1963.** *THE SHOP* says Dean let Las Vegas speed-shop owner **Dante Duce** take the Mooneyes dragster to England for exhibition runs against Sydney Allard, and that "Moonbeam," a flathead-Ford, Devin-bodied sports car, won the Brighton Speed Trials with Duce at 167 mph.[^shop] Wikipedia's account of **Mickey Thompson** says Thompson and Duce demonstrated Thompson's *Harvey Aluminum Special* dragster at Brighton that year.[^wp] They may both be true, and see [Mickey Thompson](mickey-thompson.md). The sources do not say. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

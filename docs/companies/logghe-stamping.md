@@ -117,7 +117,7 @@ The honors came later: inducted MMSHOF **2010**; Garlits Museum / IDRHOF class o
 
 <a id="q-7" class="hr-q-anchor"></a>**Single source so far.** *Verify against period ads before treating as settled.*[^wp] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-<a id="q-8" class="hr-q-anchor"></a>**Disputed.** Garlits Museum bio still said Gene "resides in Michigan" at the time of that page's text; the MMSHOF update is the stronger death record. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+<a id="q-8" class="hr-q-anchor"></a>**Disputed.** Garlits Museum bio still said Gene "resides in Michigan" at the time of that page's text; the MMSHOF update is the stronger death record.[^mms][^gar] <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 ## Images
 

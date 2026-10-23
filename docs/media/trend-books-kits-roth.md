@@ -67,7 +67,7 @@ Revell's customizer was Roth. Revell's first Roth car kit, the **Outlaw** (kit 1
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** That is evidence that regional builders were working, and being published, by 1951. Many of them seem to be forgotten now. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** That is evidence that regional builders were working, and being published, by 1951. Many of them seem to be forgotten now.[^tb] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **When did Trend become Spotlite?** The rebranding after No. 206 (1962) comes from the 99W Speed Shop list.[^99w] Lead: the books' own imprint pages. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

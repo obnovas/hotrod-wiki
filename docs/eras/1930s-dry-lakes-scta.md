@@ -96,11 +96,11 @@ Then Muroc was gone. It became restricted and was absorbed into what is now Edwa
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Single-sourced (Jalopy Journal); needs a period source.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Single-sourced (Jalopy Journal); needs a period source.*[^jj-bell] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Which clubs founded it?** The Road Runners' research packet reports that two books disagree: Drake's *Flat Out* and Carrol's book give different lists, and only the Throttlers, 90MPH Club and Road Runners are on both.[^rrpdf] Coachbuilt puts charter Throttlers George DuVall and Julian Doty at the founding.[^cb] We have not read either book. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** That backs the Throttlers' claim to a seat at the table. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** That backs the Throttlers' claim to a seat at the table.[^cb] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **The first meet has two dates.** The Road Runners' history puts the first official SCTA meet at Muroc on **May 15, 1938**.[^rr] A 2014 StreetMuscle article says **March 15, 1938**.[^sm] The tiebreaker is a 1938 Muroc timing tag in the Jimmy Summers family album that reads "May 15, 1938, Muroc Roadster Races" (94.73 mph, stock V8).[^summers] That is primary-ish physical evidence for May, so **our working conclusion is May 15, 1938.** <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

@@ -101,7 +101,7 @@ And the 1967 first trade show, where Hooker set up a booth like [Crane Cams](cra
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not seen a contemporary Super Stock list. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not seen a contemporary Super Stock list.[^hag] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When and where?** Hooker's own site says that "the Hooker legacy began in 1962 in Sioux City, Iowa," when Gary "designed a custom header for his own 1962 Chevrolet 409."[^site] SEMA says his story began in Sioux City, that the family moved to Pomona when he was about five, and that he made the headers as a young adult working in Southern California, with his first rented shop in **1964**.[^hof] *Mopar Connection* says the company was "founded in 1962" and "located in South Ontario, CA."[^mc] The best reading is that the 409 and the first headers date to 1962 and the business to 1964, and the Iowa line is a muddle of birth and founding. The company site is the odd one out. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

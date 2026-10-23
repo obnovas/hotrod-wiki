@@ -109,11 +109,11 @@ One local detail made it work: across the highway stood a large **Pratt & Whitne
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Designing engines or selling parts is a real difference; Wikipedia's account cites a 1990 *Chicago Tribune* profile we have not read. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Designing engines or selling parts is a real difference; Wikipedia's account cites a 1990 *Chicago Tribune* profile we have not read.[^wp] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The numbers are from the book, which we did not see. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The numbers are from the book, which we did not see.[^cbs][^wp] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** These are the firm's own claims and we have not checked them against patents, magazine tests or catalogs. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** These are the firm's own claims and we have not checked them against patents, magazine tests or catalogs.[^co] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** Wikipedia says he bought it in **1981** and spent **$100,000** to ready it for the 1983 SCCA Trans Am opener.[^wp] We trust the 1983 magazine, written within a year of the purchase, over the later summary, but note the gap. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

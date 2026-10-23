@@ -98,7 +98,7 @@ Schubeck's first race was a loss at [Akron Fulton Airport](../drag-racing/akron-
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **24 seconds or 20?** SEMA's story says 24 seconds after "the operator" hit the button;[^sema] the SEMA Hall of Fame page says 20 seconds and has the machine run by "the engineer."[^hof] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** The test claim is Schubeck's; we have found no independent test report or accident tally. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** The test claim is Schubeck's; we have found no independent test report or accident tally.[^sema][^hof] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** Steiskal appears only in the longer article.[^sema] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

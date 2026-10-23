@@ -113,13 +113,13 @@ In Ohio, [Summit Racing](summit-racing.md)'s first mail-order ads were for his w
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** A boast, not a documented first. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** A boast, not a documented first.[^hr78] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** Thompson's 1978 account says he "built the first slingshot-style dragster" and, of that '54 car, that "we turned over 150 with Brown's Chrysler at San Fernando, which wasn't too bad for 1955." Wikipedia says the Panorama City Special debuted at the first NHRA U.S. Nationals at Great Bend, Kansas, in 1955, citing a Thom Taylor *Hot Rod* piece we did not see.[^hr78][^wp] See [Great Bend and the SRCA](../drag-racing/great-bend-srca.md). ◐ We found no Great Bend entry list naming the car. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Again, his own claims. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Again, his own claims.[^sema][^wp][^hr78] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** That one is his recollection. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** That one is his recollection.[^hr78] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** See [Moon Equipment](moon-equipment.md); the sources do not reconcile.[^wp] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

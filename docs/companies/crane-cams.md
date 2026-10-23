@@ -115,7 +115,7 @@ He started a **cam school** at his Port Orange home, and more than 100 students 
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** (a name match we have not tied to Lakewood's Joe Schubeck).[^pat] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Disputed.** That is three words for one event. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Disputed.** That is three words for one event.[^lohman][^os][^semaob] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 [^os]: "Harvey J. Crane Jr.: His exacting work boosted race cars' power," *Orlando Sentinel*, Jun 20, 2013 (updated Nov 3, 2021). https://www.orlandosentinel.com/2013/06/20/harvey-j-crane-jr-his-exacting-work-boosted-race-cars-power/ (accessed 2026-10-16)
 [^lohman]: "Harvey J. Crane Obituary," Lohman Funeral Homes, May 31, 2013. https://obituaries.lohmanfuneralhomes.com/obituaries/harvey-crane (accessed 2026-10-16)
