@@ -247,6 +247,16 @@ themes:
         link: drag-racing/high-school-hot-rod-clubs.md
         also: [media/street-rod-newspaper-serial.md]
 
+      - id: why-did-kk-sports-arena-close
+        q: Why did Kaukauna's KK Sports Arena close?
+        a: >-
+          It went bankrupt. On July 17, 1970, KK Sports Arena, Inc. filed a voluntary bankruptcy petition
+          listing $780,799 in debts and $14,081 in assets, and the arena closed the next day, after five summers
+          that had brought A. J. Foyt and the northern Illinois nitro cars to a farmer's ravine. Its president,
+          Joseph Van Daalwyk, owned a large construction company, and that November a trustee auctioned off
+          everything from the race equipment to the ambulances.
+        link: drag-racing/kk-sports-arena-hospitality-bankruptcy.md#ninety-six-creditors-1970
+        also: [drag-racing/kk-sports-arena-kaukauna.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -361,7 +371,7 @@ themes:
         a: >-
           Hurst-Campbell started in a two-car garage in Abington, Pennsylvania, and a former GM man got Hurst a
           1961 meeting with Pontiac's Bunkie Knudsen and Pete Estes. The company grew into a
-          58,000-square-foot plant in Warminster.
+          58,000-square-foot plant in Warminster, which it moved into in 1965.
         link: companies/hurst-campbell.md
         also: [people/ed-almquist.md#shifters-shifts-in-the-market, companies/web-of-influence.md]
       - id: how-did-comp-cams-start
@@ -389,6 +399,25 @@ themes:
         link: companies/logghe-stamping.md#the-1966-flip-top-comets
         also: [people/eddie-schartman.md, people/gene-snow.md]
 
+      - id: when-did-hurst-move-to-warminster
+        q: When did Hurst-Campbell move to Warminster?
+        a: >-
+          In 1965. Hurst was still printing a Glenside, Pennsylvania, address in the spring of 1965 (◐ see Open
+          questions), and that October a Bucks County magazine called its 58,000-square-foot Warminster plant
+          "new." The often-quoted "opened for business in 1959" fits the company's start, not its Warminster address.
+        link: companies/hurst-campbell.md#the-paper-trail-where-to-send-your-order
+        also: [companies/hurst-campbell.md#from-anco-to-warminster]
+        flag: companies/hurst-campbell.md#q-4
+      - id: lunati-vs-moroso-1966
+        q: What happened when Joe Lunati met Dick Moroso at the 1966 Nationals?
+        a: >-
+          They met in the Street Eliminator final at the NHRA national championships in Indianapolis over Labor
+          Day weekend 1966, and Lunati of Memphis won, 10.244 seconds at 133.53 mph to Moroso's 13.61 at 77.38.
+          Neither man had a company yet: Moroso started his two years later, and Lunati's cam shop opened in 1968
+          or 1969, depending on the account (⚠ see Open questions).
+        link: people/joe-lunati.md
+        also: [companies/moroso.md]
+        flag: people/joe-lunati.md#q-3
   - id: people
     title: People
     questions:
@@ -457,6 +486,17 @@ themes:
         link: people/alex-xydias.md
         also: [people/jimmy-summers.md]
 
+      - id: who-was-setto-postoian
+        q: Who was Setto Postoian, and what did he win at Cordova?
+        a: >-
+          Serop "Setto" Postoian was a Detroit speed shop owner, a former Ford engine man who opened the
+          Farmington Speed Shop and became Detroit's first drag hero. At the World Series of Drag Racing in
+          Cordova, Illinois, he beat Don Garlits in the final and won top eliminator in 1957 and again in 1958,
+          though a 1958 preview reads as 1956 and 1957 (⚠ see Open questions); his prize in 1957 was a $500
+          savings bond.
+        link: people/setto-postoian.md#cordova-and-a-savings-bond
+        also: [drag-racing/detroit-cordova.md#1957-the-garlits-upset, people/bob-bartel.md]
+        flag: people/setto-postoian.md#q-4
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
