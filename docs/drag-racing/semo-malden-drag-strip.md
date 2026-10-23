@@ -63,7 +63,7 @@ canonical_for: []
 
 Malden, Missouri, is a small town in the Bootheel, the state's southeastern corner. It had an Air Force flight school until 1960. A year after the last class of pilots left, local drag racers and the Jaycees had a quarter-mile marked out on the back runway, and within a year Memphis cars were driving up to collect the trophies.
 
-## The airfield
+## From air base to drag strip (1943–61)
 
 The field opened as **Malden Army Airfield** in January 1943 and was handed to local government in 1948. In 1951 it was reopened as **Malden Air Base**, where a civilian contractor trained Air Force pilots, and the last class finished on June 29, 1960. Today it is the city-owned Malden Regional Airport, with two runways of about 5,000 feet.[^wikimalden] By the fall of 1961 the paper was describing the base buildings as "the property of the City of Malden."[^sk610928]
 
@@ -72,25 +72,21 @@ The field opened as **Malden Army Airfield** in January 1943 and was handed to l
 <figcaption markdown>Malden Regional Airport from the air in 2006. The 1961 strip ran on a 3,000-foot runway "on the back of the Malden Air Base"; we have not worked out which runway that was. Creator: United States Geological Survey. Date: 2006. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Malden_Regional_Airport_2006_USGS.jpg). License: public domain (U.S. government work).</figcaption>
 </figure>
 
-## Opening day (July 30, 1961)
-
 The *Sikeston Daily Standard* announced that "the first running of the S.E. Mo Drag Strip at Malden" would be at noon on Sunday, July 30, 1961. It was sponsored by the **Southeast Missouri Dragsters** and the **Malden Junior Chamber of Commerce**, on "a 3,000-foot runway on the back of the Malden Air Base," reached by a turnoff one mile north of the main base gate on Highway 25. At first only stock and super stock cars would race. Drivers had to be at least 16, and "all spectators and participators will be completely covered by insurance."[^sk610728]
 
 By August the strip was running alongside a destruction derby at Malden Speedway,[^sk610805] and drivers were coming from out of state. A mid-August report had Ron Dent of Mascoutah, Illinois, east of St. Louis, taking top honors with a B dragster.[^sk610815][^sk610911]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-## The Memphis summer (1962)
+## The Memphis summer and the Jaycees (1962–65) { #the-memphis-summer-1962 }
 
 The track ran again in the spring of 1962 as the "SEMO Drag Strip, Malden Air Base."[^sk620421] On July 22, 1962, 97 cars entered and 43 trophies were given. Top eliminator was **Bill Taylor of Memphis** in an AA dragster. Little eliminator was **Kenneth McKee of Memphis** in a B gas Willys "with a Chevy power plant." Middle eliminator went to **Al and Calvin Hartsfield** of South Side Oil in Malden, and stock eliminator to Andy French of Bertrand in a 1961 Dodge. Sixteen Sikeston-area drivers took trophies home, including Wade's Body Shop of Sikeston in C altered with "a 365 Chevy mill in a '39 Ford."[^sk620723] In late August the paper billed the meet as the "Malden Jaycee Drag Races."[^sk620827]
 
 The Memphis names matter. Memphis had its own drags at an old bomber base at Halls and, from 1960, at Lakeland Dragway (see [Memphis](../places/memphis.md)). Malden is a few hours' drive north. A Sunday at an unfamiliar strip was worth the drive for a Memphis racer, and it made the Bootheel part of a Mid-South circuit.
 
-## Prize money, a sanction and the Jaycees (1963–65)
-
 By 1963 there was prize money. The 1963 season opened in April with too few cars for two of the five classes. The $100 top stock eliminator prize went to Andy French, now of Oran, "and his Dodge with a 426 cu. in. motor," and $40 to the Hartsfield brothers.[^sk630409] At the last meet of 1964, **Jim Satterfield of Sikeston** won top eliminator in "a 1949 Chevy powered Angelia" (that is, an English Ford Anglia), two straight in a best-of-three, for $75 and a trophy, with an 11.75-second E.T. A Memphis racer brought a Chevy-powered station wagon to "take on all challengers."[^sk641028]
 
 By 1965 the strip had a national sanction. The opening-day ad read: "SEMO DRAGSTRIP Malden Air Base, Malden, Mo. NHRA SANCTIONED - SPONSORED BY JAYCEES," for Sunday, April 11, with trophies to all class winners and a rain phone number. The featured car was a Tennessee AA fuel dragster.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-## Easter 1966: the Kingfish and Joe Lunati's Corvair
+## Easter 1966 and the last seasons (1966–71) { #easter-1966-the-kingfish-and-joe-lunatis-corvair }
 
 The Easter 1966 ad went big: "MALDEN DRAG STRIP EASTER SUNDAY JOE LUNATI'S 1966 427 CORVAIR" against "THE KINGFISH BLOWN BARRACUDA." The Sunday before, it said, Larry Reyes had run the Lakeland strip in Memphis in 9.02 seconds at 157 miles per hour for a new track record, then come back and run so hard the car stood straight up on its back bumper. "This Sunday at Malden I may take off for the moon!" Reyes promised. The strip was "Located on North Side of the Malden Airport."[^sk660408]
 
@@ -100,9 +96,7 @@ A month later the ad was Ford vs. Chevy: Chester Andrews' injected fuel-burning 
 
 In June a trick truck did come<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>: about 500 people watched Dick Belletti's "Trick Truck" try to do a wheelstand the whole quarter mile, "a feat never before done at the Malden Drag Strip." On his last run he came down about 600 feet short. The same day's results list a "Batman A-Go-Go" car and a Sikeston street racer billed only as "Mr. X."[^sk660627]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
-## Still running (1970–71)
-
-In October 1970 the strip was still holding "a big altered meet" with $150 for the first-round winner.[^sk701028] Its last meet of that season, at "The Malden Dragstrip on Highway 25 North," paid $200, $100 and $50 by round; admission was $2.[^sk701114] In March 1971 the paper reported that "Southeast Missouri's drag racing season gets started at the Dragstrip Sunday as the strip opens its gates for a big racing season under the sanction of the American Hot Rod Association."[^sk710312] By then the NHRA sanction of 1965 had given way to the AHRA.
+The strip outlasted the decade. In October 1970 the strip was still holding "a big altered meet" with $150 for the first-round winner.[^sk701028] Its last meet of that season, at "The Malden Dragstrip on Highway 25 North," paid $200, $100 and $50 by round; admission was $2.[^sk701114] In March 1971 the paper reported that "Southeast Missouri's drag racing season gets started at the Dragstrip Sunday as the strip opens its gates for a big racing season under the sanction of the American Hot Rod Association."[^sk710312] By then the NHRA sanction of 1965 had given way to the AHRA.
 
 Malden fits the pattern of the old-airfield strips: a town that suddenly owned a lot of empty concrete, and a civic club willing to take the insurance risk. Compare [Akron's Fulton Airport](akron-fulton-airport.md), [Cotati](marin-cotati-strips.md) and the [Pocono strips](pocono-strips.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
