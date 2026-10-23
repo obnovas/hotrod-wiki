@@ -109,11 +109,11 @@ Then Muroc was gone. It became restricted and was absorbed into what is now Edwa
 **The club lists' sources:** the packet doesn't fully cite "Drake" and "Carrol." Running those books down is on the [Research Trail](../research-trail.md).
 
 [^fc]: Fuel Curve, "'Kong' Jackson – The King of Early Flathead Ignitions" (quoting Medley's 1988 interview in *Tex Smith's Hot Rod History*). https://fuelcurve.com/kong-jackson/ (accessed 2026-10-13)
-[^mojave]: The Mojave Project, "Land Speeding at El Mirage." https://mojaveproject.org/dispatches-item/el-mirage-land-speed/
-[^jj-bell]: Ryan, "The History Of Bell Auto," The Jalopy Journal, May 12, 2010. https://www.jalopyjournal.com/?p=8704
-[^rr]: Road Runners SCTA Est. 1937 (club site). http://www.ussarcherfish.com/roadrunners/
-[^rrpdf]: Road Runners "RR Info Package" (PDF), notes & research section. http://www.ussarcherfish.com/roadrunners/RR%20Info%20Package.PDF
-[^sm]: "Brief History Of SCTA And The 2014 El Mirage Dry Lake Racing Season," StreetMuscle. https://www.streetmusclemag.com/news/brief-history-of-scta-and-the-2014-el-mirage-dry-lake-racing-season/
-[^summers]: Kustomrama, "Jimmy Summers" (Jimmy Summers Photo Collection). https://kustomrama.com/wiki/Jimmy_Summers
-[^navarro]: Tony Thacker, "Barney Navarro," American Hot Rod Foundation. https://ahrf.com/pioneer/barney-navarro/
-[^cb]: Coachbuilt.com, "George DuVall." http://www.coachbuilt.com/des/d/duvall/duvall.htm
+[^mojave]: The Mojave Project, "Land Speeding at El Mirage." https://mojaveproject.org/dispatches-item/el-mirage-land-speed/ (accessed 2026-10-12)
+[^jj-bell]: Ryan, "The History Of Bell Auto," The Jalopy Journal, May 12, 2010. https://www.jalopyjournal.com/?p=8704 (accessed 2026-10-12)
+[^rr]: Road Runners SCTA Est. 1937 (club site). http://www.ussarcherfish.com/roadrunners/ (accessed 2026-10-12)
+[^rrpdf]: Road Runners "RR Info Package" (PDF), notes & research section. http://www.ussarcherfish.com/roadrunners/RR%20Info%20Package.PDF (accessed 2026-10-12)
+[^sm]: "Brief History Of SCTA And The 2014 El Mirage Dry Lake Racing Season," StreetMuscle. https://www.streetmusclemag.com/news/brief-history-of-scta-and-the-2014-el-mirage-dry-lake-racing-season/ (accessed 2026-10-12)
+[^summers]: Kustomrama, "Jimmy Summers" (Jimmy Summers Photo Collection). https://kustomrama.com/wiki/Jimmy_Summers (accessed 2026-10-12)
+[^navarro]: Tony Thacker, "Barney Navarro," American Hot Rod Foundation. https://ahrf.com/pioneer/barney-navarro/ (accessed 2026-10-12)
+[^cb]: Coachbuilt.com, "George DuVall." http://www.coachbuilt.com/des/d/duvall/duvall.htm (accessed 2026-10-13)

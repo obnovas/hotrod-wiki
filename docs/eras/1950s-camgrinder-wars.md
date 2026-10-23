@@ -110,6 +110,6 @@ Then, at Johansen's funeral (c.1988), someone told him: "Howard used to get a ki
 
 - [Dave Wallace, "Who Started The Camgrinder Wars? – Part 1" (period ads)](https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1)
 
-[^hr]: Dave Wallace, "Who Started The Camgrinder Wars? – Part 1," Hot Rod, Dec 29, 2014. https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1
+[^hr]: Dave Wallace, "Who Started The Camgrinder Wars? – Part 1," Hot Rod, Dec 29, 2014. https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1 (accessed 2026-10-12)
 [^cp59]: Dave Wallace, "Drag Rags: 1959, Part 2 — How the Smokers Beat the Fuel Ban," Competition Plus. https://competitionplus.com/drag-rags-1959-part-2-how-the-smokers-beat-the-fuel-ban/ (accessed 2026-10-22)
 [^cp60]: Dave Wallace, "Drag Rags of 1960 – Tragedy, Popcorn Speeds and a Camshaft Rivalry," Competition Plus. https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/ (accessed 2026-10-22)

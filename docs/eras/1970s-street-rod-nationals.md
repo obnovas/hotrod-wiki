@@ -93,6 +93,6 @@ The count holds up. Hagerty, citing MotorTrend, gives **August 14–16, 1970** a
 
 - [Peoria Magazine, "Hot Rods & Cool Cruisin'" (1970 photos)](https://www.peoriamagazine.com/archive/as_article/hot-rods-cool-cruisin/)
 
-[^rc]: Dick Martin, "1st Street Rod Nationals – The Road to Peoria," Rod & Custom, Aug 7, 2007 (web). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals
+[^rc]: Dick Martin, "1st Street Rod Nationals – The Road to Peoria," Rod & Custom, Aug 7, 2007 (web). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals (accessed 2026-10-12)
 [^hr72]: "Street!", *Hot Rod*, October 1972 (web). https://www.hotrod.com/features/street-october-1972-982-698-120-1 (accessed 2026-10-22)
-[^nsra]: Wikipedia, "National Street Rod Association." https://en.wikipedia.org/wiki/National_Street_Rod_Association ; Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals." https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/
+[^nsra]: Wikipedia, "National Street Rod Association." https://en.wikipedia.org/wiki/National_Street_Rod_Association ; Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals." https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/ (accessed 2026-10-12)

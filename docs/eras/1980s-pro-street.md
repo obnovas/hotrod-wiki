@@ -68,5 +68,5 @@ The recipe: large rear tires under stock-looking bodies via wheel tubs, back-hal
 <figcaption markdown>A 1933 Willys built "into a Pro Street dragster with a Chevrolet 355cid V8" (uploader). It shows the tubbed, big-rear-tire stance. Photographed in 2011; build date unknown. Creator: dave_7 from Lethbridge, Canada. Date: 2011-09-25 15:20. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1933_Willys_Coupe_Pro_Street_(6239182633).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
 
-[^hr]: John McGann, "What is Pro Street? Builder Scott Sullivan Answers the Question," Hot Rod, Apr 1, 2024. https://www.hotrod.com/features/pro-street-pioneer-scott-sullivan-interview
-[^hr2]: Hot Rod, "What Is the Definition of Pro Street?" https://www.hotrod.com/features/where-it-all-began-what-is-pro-street
+[^hr]: John McGann, "What is Pro Street? Builder Scott Sullivan Answers the Question," Hot Rod, Apr 1, 2024. https://www.hotrod.com/features/pro-street-pioneer-scott-sullivan-interview (accessed 2026-10-12)
+[^hr2]: Hot Rod, "What Is the Definition of Pro Street?" https://www.hotrod.com/features/where-it-all-began-what-is-pro-street (accessed 2026-10-12)

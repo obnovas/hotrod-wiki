@@ -113,12 +113,12 @@ There is also period evidence for the World Series' early years. Chilton's *Moto
 
 - [RememberMichigan: Detroit Dragway radio spots, 1964–73 (audio)](https://www.remembermichigan.com/dragway.aspx?id=1335&type=6)
 
-[^cp]: Competition Plus, "Quad Cities Drag Racing Legend Bob Bartel Passes." https://competitionplus.com/quad-cities-drag-racing-legend-bob-bartel-passes/
-[^ch]: Clinton Herald, "Cordova Dragway Park carries on a popular pastime." https://www.clintonherald.com/archives/cordova-dragway-park-carries-on-a-popular-pastime/article_bbc6f1b7-2b04-5f8c-8f35-d53d319b7ca5.html
-[^svt]: SVTPerformance forum, "Quad Cities Drag Racing photos from the 50's," 2010. https://www.svtperformance.com/threads/quad-cities-drag-racing-photos-from-the-50s.737744/
-[^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/
-[^hag]: Hagerty, "Detroit's lost dragstrips." https://www.hagerty.com/media/archived/detroit-drag-strips/
-[^dd]: DetroitDragway.com, "History of Detroit Dragway." https://detroitdragway.com/history-of-detroit-dragway/
-[^nh]: The News-Herald, "Second Dragway reunion is May 21," May 5, 2011. https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/
-[^rm]: RememberMichigan / WaterWinterWonderland, "Detroit Dragway." https://www.remembermichigan.com/dragway.aspx?id=1335&type=6
+[^cp]: Competition Plus, "Quad Cities Drag Racing Legend Bob Bartel Passes." https://competitionplus.com/quad-cities-drag-racing-legend-bob-bartel-passes/ (accessed 2026-10-13)
+[^ch]: Clinton Herald, "Cordova Dragway Park carries on a popular pastime." https://www.clintonherald.com/archives/cordova-dragway-park-carries-on-a-popular-pastime/article_bbc6f1b7-2b04-5f8c-8f35-d53d319b7ca5.html (accessed 2026-10-13)
+[^svt]: SVTPerformance forum, "Quad Cities Drag Racing photos from the 50's," 2010. https://www.svtperformance.com/threads/quad-cities-drag-racing-photos-from-the-50s.737744/ (accessed 2026-10-13)
+[^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/ (accessed 2026-10-13)
+[^hag]: Hagerty, "Detroit's lost dragstrips." https://www.hagerty.com/media/archived/detroit-drag-strips/ (accessed 2026-10-13)
+[^dd]: DetroitDragway.com, "History of Detroit Dragway." https://detroitdragway.com/history-of-detroit-dragway/ (accessed 2026-10-13)
+[^nh]: The News-Herald, "Second Dragway reunion is May 21," May 5, 2011. https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/ (accessed 2026-10-13)
+[^rm]: RememberMichigan / WaterWinterWonderland, "Detroit Dragway." https://www.remembermichigan.com/dragway.aspx?id=1335&type=6 (accessed 2026-10-13)
 [^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)

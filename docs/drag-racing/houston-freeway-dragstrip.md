@@ -155,8 +155,8 @@ As for the closing, a Yellow Bullet forum recollection says it came at the end o
 - [NHRA, "Ghost tracks, the scary sequel"](https://www.nhra.com/news/2008/ghost-tracks-scary-sequel)
 - [Dragzine Flashback Friday: Houston International Raceway](https://www.dragzine.com/news/flashback-friday-the-houston-international-raceway/)
 
-[^hfd]: houstonfreewaydragstrip.com (home + history pages), compiled by Sean S. and contributors; quotes Houston Chronicle Magazine Mar 1, 1959 and Don Garlits memoir text. https://www.houstonfreewaydragstrip.com/ and https://www.houstonfreewaydragstrip.com/houston-international-speedway-history.htm
-[^nhra]: Phil Burgess, "Ghost tracks, the scary sequel," NHRA.com, 2008. https://www.nhra.com/news/2008/ghost-tracks-scary-sequel
+[^hfd]: houstonfreewaydragstrip.com (home + history pages), compiled by Sean S. and contributors; quotes Houston Chronicle Magazine Mar 1, 1959 and Don Garlits memoir text. https://www.houstonfreewaydragstrip.com/ and https://www.houstonfreewaydragstrip.com/houston-international-speedway-history.htm (accessed 2026-10-14)
+[^nhra]: Phil Burgess, "Ghost tracks, the scary sequel," NHRA.com, 2008. https://www.nhra.com/news/2008/ghost-tracks-scary-sequel (accessed 2026-10-14)
 [^gay]: Phil Burgess, "Drag racing's teen terrors," NHRA.com, Aug 14, 2015. Accessed 2026-10-15. https://www.nhra.com/news/2015/drag-racing-s-teen-terrors
-[^snow]: John Jodauga, "No. 26: Gene Snow," NHRA Top 50 (2001), and Phil Burgess, "1970: A 'Super' season for Funny Car," NHRA.com, 2016. See [Gene Snow](../people/gene-snow.md) for the date conflict. https://www.nhra.net/50th/top50/G_Snow26.html
-[^yb]: Yellow Bullet Forums thread "Houston Raceway park no more" (user recollection of Freeway/HI closing end of 1987). https://www.yellowbullet.com/threads/houston-raceway-park-no-more.2663559/
+[^snow]: John Jodauga, "No. 26: Gene Snow," NHRA Top 50 (2001), and Phil Burgess, "1970: A 'Super' season for Funny Car," NHRA.com, 2016. See [Gene Snow](../people/gene-snow.md) for the date conflict. https://www.nhra.net/50th/top50/G_Snow26.html (accessed 2026-10-15)
+[^yb]: Yellow Bullet Forums thread "Houston Raceway park no more" (user recollection of Freeway/HI closing end of 1987). https://www.yellowbullet.com/threads/houston-raceway-park-no-more.2663559/ (accessed 2026-10-14)

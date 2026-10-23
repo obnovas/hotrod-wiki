@@ -119,11 +119,11 @@ Hart died on **June 25, 2004**. NHRA, the Orange County Register, the NYT, AP an
 
 - [LOC, LOOK magazine job 55-6363 "Drag races" (1956, Bob Sandberg). Rights restricted; location not stated](https://www.loc.gov/pictures/item/2016713335)
 
-[^mshf]: Dave Wallace, "C. J. Hart," Motorsports Hall of Fame of America. https://www.mshf.com/hall-of-fame/inductees/c-j-hart.html
-[^pe]: Johan Moreno, "Santa Ana Drags: 65 years after...," Press-Enterprise, Oct 1, 2015. https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/
-[^sema]: SEMA Hall of Fame 1981, "C.J. Hart." https://www.sema.org/hof/1981/cj-hart
-[^herbert]: Daniel Strohl, "Chet Herbert," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/chet-herbert/
-[^lat]: Shav Glick, LA Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html
-[^nyt]: New York Times obituary, July 4, 2004, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
-[^nhra04]: Phil Burgess, NHRA.com, 2004, and the OC Register / AP obituaries, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
+[^mshf]: Dave Wallace, "C. J. Hart," Motorsports Hall of Fame of America. https://www.mshf.com/hall-of-fame/inductees/c-j-hart.html (accessed 2026-10-12)
+[^pe]: Johan Moreno, "Santa Ana Drags: 65 years after...," Press-Enterprise, Oct 1, 2015. https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/ (accessed 2026-10-13)
+[^sema]: SEMA Hall of Fame 1981, "C.J. Hart." https://www.sema.org/hof/1981/cj-hart (accessed 2026-10-12)
+[^herbert]: Daniel Strohl, "Chet Herbert," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/chet-herbert/ (accessed 2026-10-12)
+[^lat]: Shav Glick, LA Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html (accessed 2026-10-13)
+[^nyt]: New York Times obituary, July 4, 2004, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
+[^nhra04]: Phil Burgess, NHRA.com, 2004, and the OC Register / AP obituaries, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
 [^hr80]: Dave Wallace, "The Hart of Drag Racing," *Hot Rod*, January 1980 (web reprint 2023). Accessed 2026-10-15. https://www.hotrod.com/features/the-hart-of-drag-racing-january-1980-982-1130-22-1

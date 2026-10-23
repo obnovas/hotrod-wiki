@@ -73,6 +73,6 @@ The rags themselves survive in boxes. The Wallace Family Archives offers duplica
 
 - [Competition Plus, Dave Wallace's Drag Rags season series (period Drag News pages)](https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/)
 
-[^cp1]: Dave Wallace, "Drag Rags ... Earliest Editions," Competition Plus, 2019. https://competitionplus.com/drag-rags-with-dave-wallace-earliest-editions/
-[^cp65]: Dave Wallace, "Drag Rags of Early '65: Explosion of Weekly Publications," Competition Plus. https://competitionplus.com/drag-rags-of-early-65-explosion-of-weekly-publications/
-[^cp67]: Dave Wallace, "Drag Rags: Early 1967 – War of Early Independents Ends," Competition Plus, 2024. https://competitionplus.com/drag-rags-early-1967-war-of-early-independents-ends/
+[^cp1]: Dave Wallace, "Drag Rags ... Earliest Editions," Competition Plus, 2019. https://competitionplus.com/drag-rags-with-dave-wallace-earliest-editions/ (accessed 2026-10-13)
+[^cp65]: Dave Wallace, "Drag Rags of Early '65: Explosion of Weekly Publications," Competition Plus. https://competitionplus.com/drag-rags-of-early-65-explosion-of-weekly-publications/ (accessed 2026-10-12)
+[^cp67]: Dave Wallace, "Drag Rags: Early 1967 – War of Early Independents Ends," Competition Plus, 2024. https://competitionplus.com/drag-rags-early-1967-war-of-early-independents-ends/ (accessed 2026-10-13)
