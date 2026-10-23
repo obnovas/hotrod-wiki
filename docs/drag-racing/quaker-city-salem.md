@@ -114,7 +114,7 @@ Quaker City is still running. Norm Fox bought it (in 2011 per the track,[^qcmp] 
 
 <a id="q-4" class="hr-q-anchor"></a>
 
-### E.T. racing, by one account ◐
+### Did E.T. racing begin at Quaker City? ◐ { #et-racing-by-one-account }
 
 The 1992 history makes a big claim: that E.T. (bracket) racing "began at Quaker City and was the brainchild of longtime racer J. Leo Collins," then of Alliance, an Indianapolis class winner. Vivian Mossey remembered Collins coming in and saying "there are some people who just can't compete. I have an idea, can I give it a try?" Dick Mossey's verdict: "It was fairer for everyone involved."[^yest] ◐ *This is the owners' memory in a local paper. Other tracks claim bracket racing too, and we have not found a dated 1960s Quaker City notice for the first E.T. program.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

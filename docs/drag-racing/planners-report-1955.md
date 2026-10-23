@@ -109,7 +109,7 @@ Other small-town clubs never made the report, among them [Escanaba, Mich.](escan
 
 <a id="q-2" class="hr-q-anchor"></a>
 
-### ⚠ Claims we could not verify
+### ⚠ Can we trust the report's figures? { #claims-we-could-not-verify }
 
 *The report is vivid, and unsourced.*
 

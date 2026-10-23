@@ -80,7 +80,7 @@ NHRA reports that Joe Hrudka was born Nov 29, 1938, in Cleveland and died **May 
 
 <a id="q-1" class="hr-q-anchor"></a>
 
-### Dates and money (⚠ conflicts)
+### When was it founded, and what was it worth? ⚠ { #dates-and-money-conflicts }
 
 Nobody's books quite agree here, and the gap between a $6 million and a $17 million buyout is the best part:
 

@@ -138,7 +138,7 @@ The story had traveled even earlier. Kansas City's results were already being qu
 
 <a id="q-2" class="hr-q-anchor"></a>
 
-### What to doubt
+### How far can we trust Pond? { #what-to-doubt }
 
 - **One voice, until Round 17.** Everything above is Pond writing about his own project, in a magazine of the National Safety Council. In Round 17 we found second witnesses for the strip itself (below), but still none for the 32 clubs or the safety-check totals. ◐
 - **"No more hot rodding on the streets."** Pond says that "from the day our drag strip opened for operation, there was no more hot rodding on the streets or country roads of our area." That is a strong claim for a metro area, and it is his own statement, not a police statistic.

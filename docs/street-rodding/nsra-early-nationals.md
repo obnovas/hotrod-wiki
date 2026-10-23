@@ -95,13 +95,13 @@ The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra]
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Was Wells the first president?** Hagerty says so;[^hag] other accounts give the title to Bruce Miller or call Wells the first *active* president. See [Dick Wells](../people/dick-wells.md) for the sources side by side. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** The 99W *Street Rod* history says Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President"; Hagerty and three other sources name Dick Wells.[^hag] The sources are on [Dick Wells](../people/dick-wells.md#q-3). <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Miller or Wells?** The 99W *Street Rod* history says Portland publisher **Bruce Miller** "held NSRA membership number #1 as he was the first President"; Hagerty and three other sources name Dick Wells.[^hag] The sources are on [Dick Wells](../people/dick-wells.md#q-3). <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **1,200–1,300 rods in 1971?** The count comes from TBucketPlans; the *Hot Rod* report it is said to rest on (Oct 1972, "Street!") we know only from search summaries.[^tb71] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Louisville for good in the 1990s?** The 1988 move and the later permanent settling come only from Hagerty.[^hag] The Kentucky page on [Midwest & East](../places/midwest-east.md) dates the first Louisville Nationals to 1988 too. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** This needs an NSRA rulebook or *Street Scene* source.[^wp] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **A "30 years and older" rule from 2010?** Only Wikipedia reports it; it needs an NSRA rulebook or *Street Scene* source.[^wp] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 **Who was the first president?** Tex Smith's 1978 list of NSRA founders includes Bruce Miller; see [*Street Rod* magazine](../media/street-rod-magazine-portland.md#bruce-miller-and-the-nsra). [Dick Wells](../people/dick-wells.md) sets out every source. Wells's own sketch says he was "the first active president"; Gray Baskerville's 2001 recollection lists Bruce Miller among five out-of-state friends who "chipped in" and names no president. The conflict stays open.
 

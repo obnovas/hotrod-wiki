@@ -88,7 +88,7 @@ The strip outlasted the nationals. The Tribune calls it a "National Hot Rod Asso
 
 <a id="q-1" class="hr-q-anchor"></a>
 
-### ⚠ Discrepancies
+### ⚠ How fast, and first at what? { #discrepancies }
 
 *One likely typo and two meanings of "first."*
 

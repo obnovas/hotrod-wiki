@@ -59,7 +59,7 @@ The recipe: large rear tires under stock-looking bodies via wheel tubs, back-hal
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Which 1979 magazine ran the Reyes article?** Sullivan cites it in *Hot Rod*, but we have not identified the magazine or issue.[^hr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Trait list from magazine summaries; to be expanded with period features.*[^hr2] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Is that the Pro Street recipe?** The trait list comes from magazine summaries in *Hot Rod*; it needs period features to confirm it.[^hr2] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
