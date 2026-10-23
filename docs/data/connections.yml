@@ -358,9 +358,9 @@ edges:
   # ----- Round 23-West
   - {from: roadrunners, to: deerpark, type: scene, label: "Club president LeRoy Morin raced and won trophies at Deer Park, 1962", page: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md, flag: single-source,
      evidence: ["By the summer of 1962 the Road Runners' president was racing as far away as Deer Park, Washington"]}
-  - {from: karbs, to: phxstrip, type: scene, label: "A Larry Towle of the KARBS ran its concession, and a Larry Towle set a record there", page: drag-racing/phoenix-west-side-karbs-litchfield-road.md, flag: single-source,
-     evidence: ["A Larry Towle of Buckeye set a record on the strip on Aug. 28, 1959"]}
-  - {from: arfons, to: phxstrip, type: promotion, label: "Green Monster jet booked in 1961 under a garbled Arfons name", page: drag-racing/phoenix-west-side-karbs-litchfield-road.md, flag: single-source,
+  - {from: karbs, to: phxstrip, type: scene, label: "A Larry Towle ran its concession (1959) and one set a record there; KARBS link unproven (◐)", page: drag-racing/phoenix-west-side-karbs-litchfield-road.md, flag: single-source,
+     evidence: ["A Larry Towle of Buckeye set a record"]}
+  - {from: arfons, to: phxstrip, type: promotion, label: "Walt Arfons's jet Green Monster booked in 1961 (◐)", page: drag-racing/phoenix-west-side-karbs-litchfield-road.md, flag: single-source,
      evidence: ["Larson booked the jet-powered **Green Monster**"]}
   - {from: alamota, to: castroville, type: promotion, label: "March of Dimes charity drags, February 1957", page: drag-racing/medina-county-castroville-drags.md,
      evidence: ["held March of Dimes charity drag races at the Castroville Municipal Airfield"]}
