@@ -69,8 +69,6 @@ He also went east. In 1948 he crewed at Indy, helping Ed Winfield and Jean Marce
 
 At home there was the shop. The **B&S garage** (Baldwin & Sommerfeld), behind a Seaside station at Santa Monica & Spalding, built the Danny Sakai modified. It moved to Genesee Street in 1946 and ran until 1976.[^ahrf]
 
-## The windshield patterns
-
 Family work came too. In the late 1940s he did machine work at **Pacific Metal Products** (his uncle's employer) on intakes for Eddie Meyer, Tattersfield and Edmonds, plus the brightwork on the Muntz Jet.[^ahrf]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The lakester and the autograph

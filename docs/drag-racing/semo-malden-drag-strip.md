@@ -84,11 +84,9 @@ The track ran again in the spring of 1962 as the "SEMO Drag Strip, Malden Air Ba
 
 The Memphis names matter. Memphis had its own drags at an old bomber base at Halls and, from 1960, at Lakeland Dragway (see [Memphis](../places/memphis.md)). Malden is a few hours' drive north. A Sunday at an unfamiliar strip was worth the drive for a Memphis racer, and it made the Bootheel part of a Mid-South circuit.
 
-## Prize money and a final race (1963–64)
+## Prize money, a sanction and the Jaycees (1963–65)
 
 By 1963 there was prize money. The 1963 season opened in April with too few cars for two of the five classes. The $100 top stock eliminator prize went to Andy French, now of Oran, "and his Dodge with a 426 cu. in. motor," and $40 to the Hartsfield brothers.[^sk630409] At the last meet of 1964, **Jim Satterfield of Sikeston** won top eliminator in "a 1949 Chevy powered Angelia" (that is, an English Ford Anglia), two straight in a best-of-three, for $75 and a trophy, with an 11.75-second E.T. A Memphis racer brought a Chevy-powered station wagon to "take on all challengers."[^sk641028]
-
-## NHRA and the Jaycees (1965)
 
 By 1965 the strip had a national sanction. The opening-day ad read: "SEMO DRAGSTRIP Malden Air Base, Malden, Mo. NHRA SANCTIONED - SPONSORED BY JAYCEES," for Sunday, April 11, with trophies to all class winners and a rain phone number. The featured car was a Tennessee AA fuel dragster.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 

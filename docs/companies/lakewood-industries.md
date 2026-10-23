@@ -78,15 +78,13 @@ Then the danger. The article says that across the country "drag racing was plagu
 
 The product had a price. Schubeck had to retire as a driver. "Before long," SEMA says, he and partner **Bill Steiskal** had "two shifts going seven days a week," and "Lakewood Chassis Company had now transitioned into Lakewood Industries."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> "All the manufacturers that I read about through Petersen's magazines, i.e., Iskenderian, Edelbrock, now, I was a player with them," Schubeck said.[^sema] See [Ed Iskenderian](../people/ed-iskenderian.md) and [Edelbrock](edelbrock-slingshot.md).<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
-## The hired driver
+## The hired driver, and Holley
 
 The track pulled him back. George Hurst, SEMA says, reached out with an offer to drive an exhibition Funny Car, the **Hurst Hairy Oldsmobile**, with two blown nitro engines and "at least 5,000 hp." Schubeck wasn't interested until Hurst "laid a few photographs down on the table" of "the new girl I've hired for Miss Golden Shifter," and the girl was Linda Vaughn. (SEMA's two versions of the quotation differ slightly: "I've hired" in the feature, "I'm going to hire" on the induction page.) Jim Dietz made a tuxedo-style fire suit for the nickname "Gentleman Joe," bow tie included, and for two seasons Schubeck "was back where he started, rocketing down local dragstrips."[^sema][^hof] See [Hurst-Campbell](hurst-campbell.md).
 
-## What it became
-
 Holley's brand page says Lakewood is "now part of Holley Performance," and that safety has been its priority since Schubeck formed it.[^lkw] The 2016 Holley blog says Lakewood had become "a proud sister company of Quick Time," whose Ross McCombs "now runs Lakewood too," and that the bellhousings were rebuilt with annealing, shot-peening and Blanchard grinding.[^blog] A retailer's brand page adds a rule of thumb: "A S.F.I. approved safety bellhousing is required for vehicles running 11.49 seconds or quicker in quarter mile competition."[^ss] SEMA calls Schubeck "a pioneer of the SEMA Safety Committee," and says that "after 50 years" the design "is still saving lives at tracks all across the country."[^sema] That last line is the trade association's tribute, not a counted statistic.
 
-## Connect the dots
+## Cleveland and Akron neighbors
 
 Schubeck's first race was a loss at [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), the Arfons brothers' strip, where [Arlen Vanke](../people/arlen-vanke.md) also ran. [The Ohio Gassers](../places/ohio-gassers.md) were the other Cleveland-area racers of the same years, including a Mr. Gasket sales manager, who also came out of Cleveland garages and high schools; [Mr. Gasket](mr-gasket.md) is the Cleveland parts company of the same period, another Ohio garage story. The Hairy Oldsmobile and Miss Golden Shifter belong to [Hurst-Campbell](hurst-campbell.md). [Ed Iskenderian](../people/ed-iskenderian.md) was one of the catalog names Schubeck read about before he joined them, and [Holley](holley.md) owns the Lakewood brand today.
 

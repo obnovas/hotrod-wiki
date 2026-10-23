@@ -60,7 +60,7 @@ Howard Johansen's first hop-up was raising the compression on his father's Model
 
 ## From a Nebraska Model T to Los Angeles
 
-That Model T was in Nebraska, where He moved to Los Angeles in 1941, and after the war he briefly raced roadsters with the California Roadster Association.[^wiki]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+That Model T was in Nebraska. He moved to Los Angeles in 1941, and after the war he briefly raced roadsters with the California Roadster Association.[^wiki]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The business
 
@@ -79,8 +79,6 @@ Hot Rod's obituary also lists a chopped '36 five-window streamliner with a Marmo
 ## The Twin Bears
 
 His best-known car was a drag racer. The obituary calls the **Twin-Bear** dragster, driven by Jack Chrisman, his "crowning achievement." It ran two blown small-blocks side by side with their flywheel ring gears meshed, one engine running backward, so a single driveshaft could be used. It "won Top Eliminator at the first NHRA Winternationals."[^hr89]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
-
-## Dates
 
 His dates are still loose. Hot Rod's "Finish Line" (Jan 1989) says he died aged 78.[^hr89] Earlier rounds cited IDRHOF's "1910–1988." The two are consistent but we have no exact dates yet. For his role in the Gasser Wars and the Doug Cook ad, see [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).
 

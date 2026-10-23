@@ -83,8 +83,6 @@ A month later the club was working with the police. On April 30, 1949, the *Mode
 
 This matches the pattern in [What the City Planners Wrote (1955)](planners-report-1955.md), which says the CHP worked with clubs from 1948 until a 1953 order ended it.
 
-## The first show
-
 The club also put cars on display. The Century Toppers held their first car show December 10–11, 1949 at the Griswold & Wight Ford dealership, with Orvel "Speed" Reichert in charge. Kustomrama adds that Winfield remembers **Al Slonaker**, the man behind the Oakland Roadster Show, visiting to choose cars for his first show.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side of that story.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 <figure markdown>

@@ -96,8 +96,6 @@ The second is the land. *The Iowan* says Armstrong donated the land rent-free. T
 
 The third is the word "first." The museum calls Ames "the 1st quarter-mile strip in Iowa." Lambert himself told *The Iowan* about a permanent strip at Des Moines, owned by a private investor.[^ahs][^iowan]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
-## After the summer of 1959
-
 The strip lasted only three summers. The museum's page ends the story in one sentence. When Bud Overland lost both his best friend and his brother in automobile accidents, he lost interest in the drag strip, and it closed after the summer of 1959.[^ahs]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Open questions & disputed details

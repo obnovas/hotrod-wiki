@@ -46,11 +46,9 @@ principal_source: "Kustomrama, which compiles this from *Merchants of Speed*, *S
 
 The body arrived after the 1952 Nationals had started. Volunteers assembled the car at **Chrisman & Sons Garage**, Compton. Herbert stayed up three or four days and finally had to be belted into his wheelchair so he wouldn't fall out.[^k]
 
-## Drawn in a wind tunnel
+## Drawn in a wind tunnel, built from borrowed parts
 
 The rush came at the end of a careful start. Herbert teamed with Caltech wind-tunnel consultant **Rod Schapel**, who had never seen a streamliner or Bonneville. A 1/10-scale aluminum model was wind-tunnel tested, and the fiberglass body was laid up over a male mold lofted in Schapel's backyard. The mold was cut up afterward, so the body is one of a kind.[^k]
-
-## Borrowed power
 
 Under the body, much of it was borrowed. The car had a partial chassis from Paul Sylvia of Inglewood, 108-in. wheelbase. A planned aluminum Franklin six blew up on the dyno, so Dana Fuller loaned the 1951 Chrysler Hemi from his new Imperial, which happened to be in Herbert's shop for a roller cam. It ran Hilborn-Travers injection and a Vertex magneto.[^k] Herbert, in his wheelchair, was on the cover of Hot Rod in December 1952.[^k]
 

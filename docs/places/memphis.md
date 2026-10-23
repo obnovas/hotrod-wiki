@@ -80,13 +80,11 @@ Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the
 
 Memphis cars went north to race, too. At the SEMO Drag Strip on the old Malden Air Base in Missouri, on July 22, 1962, **Bill Taylor of Memphis** was top eliminator in an AA dragster and **Kenneth McKee of Memphis** was little eliminator in a Chevy-powered B gas Willys, against 97 entries.[^sk62] The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> On Easter Sunday 1966 Malden's ad brought the Kingfish blown Barracuda north. The Sunday before, Larry Reyes had run 9.02 seconds at 157 mph in it for a new Lakeland track record. It raced "JOE LUNATI'S 1966 427 CORVAIR," and Lunati broke his differential warming up for the rematch.[^sk66a][^sk66b] See [Memphis Comes to the Bootheel](../drag-racing/semo-malden-drag-strip.md).
 
-## The Memphis Rodders (1947)
+## The Memphis Rodders (1947) and the Street Rod Nationals
 
 The city's car-club scene goes back further. The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
 The club's best-known alumnus in the parts business is **[Joe Lunati](../people/joe-lunati.md)**, who "began drag racing with the Memphis Rodders in the early '60s," opened his own cam shop in 1968 (his family says 1969<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>), and was still showing up at Rodders reunions late in life.[^edel] His family called him "a cornerstone in the Memphis drag racing history."[^lunobit]
-
-## Street Rod Nationals
 
 The street-rod crowd came too. Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NSRA](../street-rodding/nsra-early-nationals.md).
 

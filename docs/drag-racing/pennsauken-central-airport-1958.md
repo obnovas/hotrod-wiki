@@ -60,13 +60,11 @@ Camden Central Airport, in Pennsauken Township just outside Camden, New Jersey, 
 <figcaption markdown>Airport Circle in Pennsauken today, where US 30, US 130 and Route 38 meet. It is named for Camden Central Airport, whose terminal stood beside the circle to the southeast. Creator: Mr. Matté. Date: 2013-03-09. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Airport_Circle_NJ_map.svg) (rendered from SVG). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
 </figure>
 
-## Tuesday night (May 27, 1958)
+## Tuesday night and Wednesday morning (May 27–28, 1958)
 
 By 1958 the airport was closed, and the racers had found it. Township police chief **Russell Walton** said drag racers had been using the field "in the last week or so," and he was tipped off that they would turn out in force. He sent two officers, who found 100 cars racing on the landing strips. For every car they chased, they said, at least three more came onto the field. Walton came out and "declared a state of emergency." By then, he said, "a thousand cars and twice that many teen agers" were racing up and down the runways.
 
 It did not go quietly. Some of the boys threw stones, and some police cars were hit. The rest moved on when told to, but only to the next runway. Firemen turned hoses on the racers, which moved a few. "Walton then used tear gas. That worked." Two young men were held on $105 bail on disorderly conduct charges, and two teenagers were released to their parents. Walton said the racing "was well organized," with cars from Pennsylvania, Delaware and Maryland as well as New Jersey.[^gt580529]
-
-## Wednesday morning: the bulldozers
 
 The next day "bulldozers and road graders ripped up three long asphalt runways at the old Central Airport," the AP reported, along with the pavement around the abandoned hangars. Pennsauken Township directed the job. A representative of the New York development company that owned the field said trespassers would be prosecuted. As the last racers had been driven off the night before, one of them shouted, "We'll be back." The AP's answer: "They can't now."[^dr580529]
 

@@ -82,8 +82,6 @@ He was a match-race regular (U.S. 30 Gary, Ind., Wednesday night eight-car shows
 
 The honors followed: NHRA Hot Rod Reunion honoree (**2004**); MMSHOF **2006**; International Drag Racing Hall of Fame; NHRA Lifetime Achievement (Hagerty summary).[^hag][^mms]
 
-## Still at the pipe
-
 He is still at it. As of early 2024 he still worked four–five hours a day in a pole-barn shop behind his Shelby Township home, bending aluminum on the same pipe-bench setup, with old Logghe hand **Bob Pacitto** among regular visitors. He has restored and "cackled" Aggravation II and other period cars; the Ridler coupe is in a Nebraska motorsports museum per Hagerty.[^hag]
 
 *See also:* [Logghe Stamping](../companies/logghe-stamping.md), [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Show Circuit](../media/show-circuit.md), [Injection & Tin voices](../voices/injection-and-tin.md).

@@ -90,8 +90,6 @@ The same winter, Greencastle readers learned how a big-city club kept its member
 
 "What a boy did before he became a member of the club doesn't matter," Tomlinson is quoted as saying. "What he does while he is a member, however, is of interest to all the group." And: "I would say that 50 percent of all the members were ticketed by me before joining this club."[^d58]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-## How the sources compare
-
 The local items (the Decatur notices, the Syracuse profile) are short, unsigned and plain. They give names, places and times, but not results. The syndicated items (the UP filler, the Dodge column) show what ideas reached small towns, but they do not describe local clubs. And the Hoosier State Chronicles OCR is imperfect, so quotes here are trimmed to phrases that read cleanly.
 
 ## Open questions & disputed details

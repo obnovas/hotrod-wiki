@@ -109,8 +109,6 @@ One ticket from those weeks stands out. On June 10, 1955 the police-ticket colum
 <figcaption markdown>The 1200 block of Ludington Street, Escanaba's main street, in 2014. A Green Bay motorist was ticketed in June 1955 for "drag racing" on Ludington St.; the item gives no block, so this photo shows the street, not the spot. Creator: Yooperann. Date: 2014-10-23. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1200_Block_Ludington_Street,_Escanaba,_MI.JPG). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).</figcaption>
 </figure>
 
-## Where this fits
-
 The paper had already run the safety pitch. In July 1954 the same paper ran a feature headed "Hot Rodders Playing It Safe" about the Chicago-area Automobile Timing Association of America, with the line that the group came into being in 1953. See [Half Day, Illinois](half-day-ataa-maremont.md). Other clubs were working the same way: [Decatur, Indiana](indiana-small-town-clubs.md) formed its own chapter in 1956 with a police blessing. [Kansas City](kansas-city-timing-association.md) was building a 32-club timing association in 1955, the year the Drag-n's got their plates.
 
 ## Open questions & disputed details

@@ -83,8 +83,6 @@ The paper kept track of the club's good deeds. In **September 1955**, after a on
 
 In **March 1956** Deputy Sheriff Carl Cline, "founder of the organization," announced safe-driving trophies for members with perfect driving records, with a campaign starting April 1. LeRoy Wells of the White Star Transfer Co. would present the trophies.[^kf560312]
 
-## A 1931 Ford at the home show
-
 That same month, at the Kingston Lions Industrial Exposition and Home Show at the state armory in March 1956, the Igniters showed what a hot rod club actually did. A *Freeman* photo shows Amos McCreery Jr., Robert Powell, LeRoy Wells and Gus Lovy, now president, beside "a completely rebuilt car": a **1931 Ford roadster with a 1948 engine and dual carburetion**. The caption called the project part of a club safety campaign "to acquaint club members with the operation of a car and to realize its power."[^kf560321]
 
 ## Still looking

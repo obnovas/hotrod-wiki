@@ -95,7 +95,7 @@ Crane Cams built a new Daytona Beach facility in 1980 and closed the Hallandale 
 
 He started a **cam school** at his Port Orange home, and more than 100 students from racing, automotive, industrial and marine work came; SEMA says many of the leading racing cam designers today are graduates.[^semaob] A Carolina cam-shop owner told the *Sentinel*: "He had an excellent reputation for integrity."[^os] Crane died May 31, 2013, at 81, was inducted into the SEMA Hall of Fame (1981, per SEMA News) and the East Coast Drag Racing Hall of Fame in Henderson, North Carolina (per SEMA's obituary), and the family asked that memorial gifts go to the Darrell Gwynn Foundation.[^semaob][^first][^lohman]
 
-## Connect the dots
+## A gasser, a patent and a foreman bound for Memphis
 
 [The Ohio Gassers](../places/ohio-gassers.md) tells of Ron Hassel's move to Crane Cams in 1965 and Hill's story of the 1966 class-winner refunds. [Ed Iskenderian](../people/ed-iskenderian.md) and [Patents](../reference/patents.md) cover the lifter-guide patent that Crane's tappet patent cites. Crane's shop foreman Tom Woitesek left for Memphis in 1972 and became a founder of [COMP Cams and RHS](comp-cams-rhs.md), and Cam Dynamics ended up with Crane Cams. In the *Sentinel*'s story, the inaccurate cam came from the California trade of [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md), though the maker is unnamed. The first SEMA show at Dodger Stadium, where Crane exhibited, is on the [Dick Wells](../people/dick-wells.md) page. And [Moroso](moroso.md), South Florida's other big performance name, owned the Palm Beach raceway that appears in Hill's Hassel photo.
 

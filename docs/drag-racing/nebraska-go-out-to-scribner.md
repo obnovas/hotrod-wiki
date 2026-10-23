@@ -103,8 +103,6 @@ The timing association spent the next year proving it was a civic group. A month
 
 Elsewhere in the state, local groups were already running drags. When a new stretch of Highway 10 opened near Minden in November 1958, "drag races were featured, sponsored by the Franklin Junior Chamber of Commerce."[^ls581126] In September 1959, 101 cars and a crowd of 1,400 came to the Jaycee Timing Association drags at Grand Island, where Don Moss of Omaha won top eliminator at 135.73 mph.[^ls590915]
 
-## Afterward
-
 By 1968 Omaha had a dragway of its own, and Jim Davis, "longtime president of the Missouri Valley Timing Association," became its manager.[^ls680210] By 1973 a sanctioned strip near Millard was drawing hundreds of spectators every summer.[^ls730531] Wells, by then a "former Lincolnite," was named president of the National Street Rod Association in 1971, after he "helped organize and produced the 1971 Street Rod Nationals in Memphis."[^ls711205]
 
 ## Open questions & disputed details

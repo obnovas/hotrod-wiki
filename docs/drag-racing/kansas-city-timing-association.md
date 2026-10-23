@@ -89,8 +89,6 @@ Before there was a strip, Pond got the clubs to volunteer for the **National Veh
 
 The hot rodders checked brakes, lights, steering, tires, exhaust, glass, wipers, mirrors and horns. Girlfriends and the wives of married members recorded the results on tally cards. The program ran with the Kansas City Safety Council, the Kansas City Timing Association and the Motor Car Dealers Association.[^pond]
 
-## Two flat tires
-
 Pond leans on small stories. He relays a column by **Landon Laird** ("About Town," *The Kansas City Star*), which we have not read, about **Don Penson**, a teenage member of the Barons Club. Penson changed a tire for a woman driver and refused her $5. He said it was against his club's rules and handed her a card reading "You have been assisted by the Barons of Kansas City."[^pond] Pond says another woman wrote the paper that two youths changed her blowout in Johnson County, Kansas, and left a card signed Barry Baxter of the same club.[^pond]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The strip

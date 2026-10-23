@@ -90,7 +90,7 @@ So a Pomona kid's headers rode on an Akron backyard builder's Duster. Both stori
 
 SEMA says Hooker sold the business to Holley Performance Products in **2000**; Hagerty agrees. The Pennsylvania historical marker for Holley, by contrast, says the roll-up came in "the 1990s."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> The brand's site calls Hooker "the first header manufacturer to receive a CARB E.O. (California Air Resources Board Executive Order) exemption"<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>, a firm's own claim.[^site] Gary Hooker says the Hall of Fame honor is "a salute to those people who worked together each day," and calls it "collaborating energy."[^hof]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Sources disagree: see Open questions">⚠</a></sup>
 
-## Connect the dots
+## Vanke, Pomona and the 1967 show
 
 Hooker's ad saluted [Arlen Vanke](../people/arlen-vanke.md), the Akron racer, for his 1970 Division Three title. [Pomona's Choppers & the Fontana Strip](../drag-racing/pomona-choppers-fontana.md) documents the 1951 police-chief story from Hooker's hometown; the tie is place only. [Holley](holley.md) has owned the company since 2000 (or the 1990s<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>).
 And the 1967 first trade show, where Hooker set up a booth like [Crane Cams](crane-cams.md), is told on the [Dick Wells](../people/dick-wells.md) page.

@@ -71,11 +71,9 @@ The police were watching too. That September, just south of the state line, thre
 <figcaption markdown>"Sentry," the 1904 Civil War statue in Center Square, Hanover, Pa. (photo 2013). The Hanover clubs met a few miles away, in Adams County. Creator: Smallbones. Date: 2013-06-25. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sentry_1904_Hanover_York_County_PA.JPG). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
-## Turquoise jackets in Taneytown (February 1959)
-
 By early 1959 new clubs were forming. Across the line in Taneytown, Maryland, a "recently organized hot rod club" chose turquoise and blue as its colors. Members planned to buy turquoise jackets with black trim, "featuring the club insignia, three carburetors with flames."[^gt590227]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-## The Fly-Wheels (March 1959)
+## Turquoise jackets and the Fly-Wheels (February–March 1959)
 
 Two weeks later the paper introduced the **Fly-Wheels of Adams County**, "a newly organized club," which planned a paper and scrap drive to raise money. President **William Moorehead** said the members met weekly at his grandparents' motel on Lincolnway West and hoped to rent a garage in Gettysburg as a permanent clubhouse. The club existed "to help fellow travelers in distress along the highway," and a member who was arrested for any traffic violation was out.[^gt590306]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 

@@ -95,15 +95,13 @@ And a grassroots footprint appears in the wiki's [Houston Freeway Dragstrip page
 <figcaption markdown>Challenger I, Thompson's 1960 Bonneville record car, at the Wally Parks NHRA Motorsports Museum (2008). Creator: Wally Parks NHRA Motorsports Museum. Date: 2008-07-07. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mickey_Thompson_Challenger_I_(2967316249).jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
 </figure>
 
-## Friends and a mix-up
+## A friend, a mix-up and an ending
 
 *Hot Rod* opens its 1978 profile by calling Thompson and Ed Iskenderian "close personal friends" who "happen to be the ultimate parts magnates."[^hr78] See [Ed Iskenderian](../people/ed-iskenderian.md). Elsewhere, a Brighton, England, speed-trial story is told twice: Wikipedia has Thompson and Dante Duce demonstrating Thompson's Harvey Aluminum Special dragster there in 1963, while *THE SHOP* has Dean Moon sending his own dragster and a sports car with Duce.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
-## Late career and an ending
-
 After the Indianapolis years and the Ford-backed Mustang Funny Cars of the late 1960s, Thompson founded the off-road sanctioning body SCORE; "Hell, the best part of the show was out there in the desert," he said.[^hr78] SEMA says he later formed SCORE International and the Mickey Thompson Entertainment Group.[^sema] Thompson and his wife Trudy were murdered at their Bradbury, California, home on March 16, 1988, in a case SEMA says went unsolved until 2007.[^sema][^wp]
 
-## Connect the dots
+## From Santa Ana to Summit
 
 Thompson's trail crosses many other stories here. [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) is where a local hot rodder named the slingshot, and its Hart later succeeded Thompson at Lions. [Great Bend and the SRCA](../drag-racing/great-bend-srca.md) hosted the 1955 Nationals where Wikipedia says the Panorama City Special debuted, and [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) booked Proffitt's Mickey Thompson-owned Pontiac Catalina. [Moon Equipment](moon-equipment.md) has the Brighton mix-up and the California shops of the era; [Ed Iskenderian](../people/ed-iskenderian.md) is the friend *Hot Rod* paired with Thompson as a parts magnate.
 

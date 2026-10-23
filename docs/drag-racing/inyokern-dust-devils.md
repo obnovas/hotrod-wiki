@@ -82,8 +82,6 @@ The strip also launched a career. **Bernie Partridge** joined the Dust Devils Au
 
 At his 2012 memorial, NHRA's report quotes David Leighton, who worked with his father Gus and Partridge, "Dust Devils Auto Club alumni all," setting up impromptu airport tracks: "We opened and closed more racetracks than Steve Evans did."[^nhra]
 
-## The town's own history
-
 The town still tells the story. In April 2025 the Historical Society of the Upper Mojave Desert announced a talk on Mark Pahuta's two-hour film *The Hot Rod Years*, built from interviews with twenty local hot rodders. The release says "racing on Trona Hill and cruising China Lake Boulevard between A&W, and Foster's Freeze was the stuff of local racing legend." It calls the Inyokern strip "the longest continuously running drag strip in the country" and lists interviewees including Don Waldron, J.D. Williams, Tex Whitson, Bob Cram, Billie Raglin and Dave Leighton.[^hs] We have not seen the film.
 
 <figure markdown>

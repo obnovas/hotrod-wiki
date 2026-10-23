@@ -84,8 +84,6 @@ That summer the paper ran short results from "the Quaker City Timing Association
 
 The barn found other uses. In December 1958 the Salem Players, an amateur theater group, considered "an offer made by Mrs. Nell Mossey for the Players to use the barn on the Quaker Timing Association property as a future home and stage." A committee of nine was named, Mrs. Mossey among them.[^sn581203]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> *Dick Mossey's wife, in later sources, is Vivian.*
 
-## Silo tower, headlight poles
-
 *Yesteryears* walked through the early-1960s strip with the Mosseys and a box of track photos (still the track's and not reproduced here). The timing tower was "a silo attached to the big barn just west of the track." Each car got its own return road and picked up a time card on the way back. Night racing came almost from the start, and the first lights were homemade: "We made some haphazard things out of car headlights," Mossey said. "I put ten of them in a series and plugged them into 110." At first, he added, the finish-line men "used a flashlight."[^yest]
 
 ## NHRA, a drag net and a guard rail (1964)

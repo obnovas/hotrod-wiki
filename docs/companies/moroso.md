@@ -99,7 +99,7 @@ One local detail made it work: across the highway stood a large **Pratt & Whitne
 <figcaption markdown>Aerial view of Palm Beach International Raceway (2016), the site Moroso bought and renamed in the early 1980s. Creator: formulanone. Date: 2016-02-12. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Palm_Beach_International_Raceway.jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
 </figure>
 
-## Connect the dots
+## South Florida neighbors
 
 [The Ohio Gassers](../places/ohio-gassers.md) page has a Cleveland gasser racer, Ron Hassel, who ran a '48 Thames in South Florida; Jim Hill's photo of it comes from Palm Beach International Raceway, the track Moroso later bought. Hassel's employer, [Crane Cams](crane-cams.md), was a South Florida performance company in the same corner of the state. [Midwest & East](../places/midwest-east.md) is the wiki's regional page for the Northeast and Midwest scenes Moroso sold into. The 1953 "Safety Second" item in [Indiana's small-town clubs](../drag-racing/indiana-small-town-clubs.md) concerns a different Connecticut town, Manchester, a decade before Moroso's start and with no documented tie to him; it shows what Connecticut teenage car clubs looked like in his youth. And [Mickey Thompson](mickey-thompson.md) was another racer-turned-manufacturer-turned-track-promoter.
 

@@ -66,11 +66,9 @@ In 1967 came Air Lift sponsorship, with "Famous Amos" Satterlee as crew chief. H
 
 That season also produced his claim to an accidental rear spoiler, from Maple Grove in 1967: angle iron bolted to the trunk. "It went straight and picked up 5 mph. We'd invented the [rear-deck] spoiler and didn't even know it."[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-## Wrecking yard kid
+## Wrecking yard kid to Jackshaw Chevrolet
 
 He started young. His father, Ed Sr., raced dirt tracks, and the family owned a wrecking yard. Eddie built a flathead '40 Ford drag car at 14. He finished Berea High School in 1956 and drove a street '56 Chevy (338 ci) to Daytona Speed Week, where he "won everything in sight." He then set the NHRA B/Gas record in a '55 Chevy.[^nhra] He was one of the "Ohio Gassers" (see [Mr. Gasket](../companies/mr-gasket.md)).
-
-## Jackshaw Chevrolet, Dyno Don, and the Comet wagon
 
 The road to the Comet ran through a Chevy dealer. He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to build engines for "Dyno Don" Nicholson. He drove Nicholson's '62 Chevy for 50 percent of the winnings, then got the A/FX Comet wagon "The Ugly Duckling." Mercury later gave him his own Comet and $5,000 from Cleveland-area Mercury dealers.[^nhra]
 

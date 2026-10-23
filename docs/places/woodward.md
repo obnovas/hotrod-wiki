@@ -61,11 +61,9 @@ revival: "the Woodward Dream Cruise, held every August since the 1990s."
 
 The drive-in etiquette on Woodward was simple: "You'd back in so you could keep an eye on the action − only parents and nerds pulled in grill first."[^hag]
 
-## The loop
+## The loop and the racing
 
 Hagerty (2011) describes the loop as running "between Ferndale … and Pontiac." It started at Hedge's Wigwam and the Totem Pole near 10 Mile, where an intercom "Teletray" let you order from the car, and ended at **Ted's** drive-in at Square Lake Road (19 Mile). Hagerty says Ted's "was a favorite of General Motors' engineers" because it sat on the way to GM sites in Pontiac.[^hag] Along the way were Richards, Suzie-Q, the Bel-Aire, Big Town and Maverick's.[^hag][^hr]
-
-## The racing
 
 Then there was the racing. A writer for Hi-Performance Cars recalled for Hemmings (2018) that "we never street-raced south of Eight Mile Road … But north of Eight Mile … that's where the action was." He also said "little, if any money changed hands on Woodward" compared with the Connecting Highway in Queens.[^hem]
 

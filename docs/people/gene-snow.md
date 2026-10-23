@@ -80,17 +80,15 @@ The class had no NHRA home yet. NHRA did not recognize Funny Cars, so the Dart r
 
 The photographs below, which the uploader dates to Austin, Texas, 1967, show the Dart with "Engine by Ted Detar" lettering and a tilt front end.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-## Direct drive and the Logghe Charger
+## Direct drive, the Logghe Charger and 1970
 
 Then the cars got faster. Snow ran a supercharged '68 Dart, then a '68 Charger body, and dropped the automatic transmission for direct drive. "We worked with Crower to come up with a four-disc Crowerglide centrifugal clutch," he said. "Though it was sluggish off the line, it would mow down the automatic cars, which always nosed-over at about 185 mph."[^top50] National Dragster's Phil Burgess places the direct-drive experiments in **late 1968 and into 1969**.[^nd16]
 
 In June 1969 *Hot Rod* (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic **Jake Johnston** "a job lasting nearly two months and involving over $13,000." Its "backbone" was a **Logghe Stamping Company chassis** on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-## 1970: the "Super Season"
-
 In 1970, the year NHRA expanded to seven national events, Snow won the **Summernationals** (York, Pa.), the **World Finals** (Dallas) and the postseason **Supernationals** (Ontario). He was runner-up at the Winternationals and Springnationals and also won the **AHRA** championship and its Driver of the Year award. He ran 6.76/218.44 at Lions late in the season. "We carried a spare motor the whole year and never had to use it," he said.[^top50][^nd16]
 
-## Teams, Top Fuel, and the first four
+## Teams, Top Fuel, the first four, and later
 
 In **1971** Snow ran one of the first multicar teams, with two mini-Chargers and Jake Johnston driving the second. Then came the **Revell Snowman** colors for a 1/16 kit (1972), a Top Fueler for Chip Woodall, and an injected car for Terry Pringle.[^top50]
 
@@ -99,8 +97,6 @@ He left racing after 1978, blaming the gas crisis and poor seasons, and returned
 On **Oct. 6, 1988, at Houston Raceway Park, Baytown**, he ran a **4.997/279.06** on his first pass at the new track, the first sub-five-second run at an NHRA event. "It was neat, it was fun and we've been trying for a long time to achieve this performance," he told UPI.[^upi] (Houston Raceway Park was co-founded by the Gay family. See [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md).)
 
 He retired after a crash at the 1992 Dallas national event and returned in 1997 with an A/Fuel dragster run "on a hobby basis."[^top50]
-
-## Off the track
 
 Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> This page covers his racing record.
 

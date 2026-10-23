@@ -63,13 +63,11 @@ He had been around machines since boyhood. He got his start at 10, as a gofer du
 
 Then came the club and the lakes. In 1940 came the **Glendale Strokers**: Navarro with Tom Beatty, George Hill and Doane Spencer.[^ahrf]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> At the last prewar Muroc meet, in November 1941, he ran 107 mph.[^ahrf]
 
-## Business, on credit
+## Business on credit, and a belly tank
 
 After the war came the business, built on credit. In 1947 he went into business, with patterns by Hermann Husbey and castings on credit from Victor Caliva's Aircraft Foundry ("pay for them as he sold them").[^ahrf]
 
 His own engine was the advertisement. His **blown flathead** was advertised in the first issue of HOT ROD (1948). It was a de-stroked 176 ci '41 block with Winfield cam, Kurten ignition and a 3-71 GMC blower driven by four V-belts, with four Strombergs mounted back-to-back. It ran 139.75 mph at El Mirage, Sept 25–26, 1948.[^ahrf]
-
-## The belly tank
 
 The old club friendship produced a record car. With Tom Beatty, he built a 4-71-blown 295 ci Merc belly tank that set a Class D Lakester record of 185.80 mph at the 1951 Bonneville Nationals<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>, and 197.17 mph two-way in 1952.[^ahrf]
 

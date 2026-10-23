@@ -93,7 +93,7 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 <figcaption markdown>Main Street, looking west from Chestnut Street, Bradford, Pa. Linen postcard, c. 1930–1945 (Tichnor Bros., Boston, for the Bradford News Co.). Later than the Holleys' years there; context only. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Main_street,_looking_west_from_Chestnut_Street,_Bradford,_Pa_(69701).jpg). License: public domain.</figcaption>
 </figure>
 
-## Connect the dots
+## The brands Holley collected
 
 [Mr. Gasket](mr-gasket.md), Cleveland's Hrudka brothers' company, was sold to Holley in 2015. [Hooker Headers](hooker-headers.md), Gary Hooker's header shop, has been a Holley brand since 2000 (or earlier, per the marker); the sale date is a<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> conflict. [Lakewood Industries](lakewood-industries.md), the Ohio bellhousing maker, is now a Holley brand too. And the company of [Stu Hilborn](../people/stu-hilborn.md), the fuel-injection pioneer, is reported to have been acquired by Holley (2019,<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> per that page's Wikipedia summary).
 

@@ -65,8 +65,6 @@ The car behind the letter had come a long way. It was partly built by **Fred Bea
 
 The Hrudkas "immediately sold it to the Hill Bros." According to Kull, the deal was that the Hills would run the Mr. Gasket logo. Hales next saw it at the King of Kings AA/GS meet at Capitol Raceway, Maryland, "about two weeks" later, "completely finished and beautiful."[^jrt]
 
-## The build
-
 The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills built it in eleven days. Finders said he worked around the clock while "Pete and Bill just kept bringing him fried chicken." It had a blown, injected 426 Hemi. Pete drove and tuned; Bill ran the business and promotion. They had earlier raced a '40 Willys bought from Big John Mazmanian.[^jrt]
 
 ## After

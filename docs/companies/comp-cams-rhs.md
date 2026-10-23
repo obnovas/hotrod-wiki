@@ -92,17 +92,15 @@ To go with the head work RHS needed cams. In 1972 it recruited Memphis cam desig
 
 In 1976 Competition Cams was formed by six partners: Smiltnieks, Woodard, McWhirter, Woitesek, Russ Smiltnieks and Ron Coleman, producing out of RHS's warehouse. Woodard sold his stake in 1979. By then RHS, COMP says, had "evolved into one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines"<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>.[^comp] SEMA agrees on the 1970s step, saying the trio "would join with Tom Woitesek, Russ Smiltnieks and Ron Coleman to form Competition Cams."[^sema]
 
-## Memphis in the 1980s
+## Memphis in the 1980s, and after
 
 "The Memphis area dominated drag racing in the late 1970s and '80s," COMP says, with racers like **Bob Glidden** winning on Memphis-based equipment, and NASCAR "eventually" accepting "the superior hardware coming out of Memphis."[^comp] That is a company's own boast, but it matches the Mid-South scene on the wiki's [Memphis page](../places/memphis.md), from the Halls bomber-base drags to **Lakeland Dragway** (1960–79). RHS declined, COMP says, in the mid-1980s with GM's crate-engine program; in 1988 Smiltnieks took RHS and Brothers traded his RHS stock for a stake in COMP. Woitesek retired in 1995, leaving ownership to Coleman and Brothers.[^comp]
-
-## What it became
 
 Coleman and Brothers bought Powerhouse Tools, started VThunder (motorcycles) and GoParts (karts) in 1999, bought transmission maker **TCI** in 2001, and formed FAST Electronics and ZEX Nitrous; in 2002 they revived RHS for cylinder heads, and bought Inglese Injection (2007) and Quarter Master (2008). In 2020, after 44 years of ownership, they sold COMP Performance Group to private-equity firm Industrial Opportunity Partners, which already owned **Edelbrock**. The Edelbrock Group was created that year.[^comp] COMP's headquarters are in Olive Branch, Mississippi; its manufacturing and R&D are still on Democrat Road in Memphis.[^comp]
 
 So a company that began when three men raced Oldsmobiles now sits in the same group as the family firm whose founder, [Vic Edelbrock](edelbrock-slingshot.md), raced a roadster to Muroc and bolted the fenders back on.
 
-## Connect the dots
+## Memphis neighbors
 
 [Memphis and the Mid-South](../places/memphis.md) is the scene COMP says it dominated; its Sun Records section now has a place link, with caveats. [Summer Avenue](../places/summer-avenue-memphis.md) was the cruising street of the same city, though no source ties it to RHS. [Ray Godman](../voices/ray-godman.md), Lakeland Dragway's partner and an NHRA advisor, was Memphis's other drag-racing backbone. [Crane Cams](crane-cams.md) was Woitesek's old employer and the eventual owner of Cam Dynamics. A COMP hydraulic roller cam sits in the restored founder's Corvette at [Summit Racing](summit-racing.md). The [Edelbrock](edelbrock-slingshot.md) Group was formed in 2020 by merging Edelbrock and COMP's parent. And [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md) tells the story of the earlier California cam makers this Memphis trade grew up behind.
 
