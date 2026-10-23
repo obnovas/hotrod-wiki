@@ -175,7 +175,7 @@ These hold the period coverage we most want, and none was readable by our fetche
 | [Chronicling America](https://chroniclingamerica.loc.gov/), [NYS Historic Newspapers](https://nyshistoricnewspapers.org/), [Virginia Chronicle](https://virginiachronicle.com/) | Blocked by a Cloudflare challenge. Not bypassed. |
 | [DigitalNC](https://www.digitalnc.org/) | Timed out from our machine and returned HTTP 500 to the fetch tool. |
 | GeorgiaDragRacing.com, Georgia Racing Hall of Fame | Readable; used as family and hall-of-fame accounts, not as local news. |
-| Old Life Magazines (dealer listing) | HTTP 500; search excerpt only, flagged ◐. |
+| Old Life Magazines (dealer listing) | HTTP 500; the search excerpt was dropped in review. Google Books holds *Life*, June 13, 1960, but its search answered with a robot check (not bypassed). |
 
 ### Round 21 status
 | Archive | Round 21 status |

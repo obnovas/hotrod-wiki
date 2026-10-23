@@ -14,15 +14,7 @@ years:
 - 1947
 - 1987
 region: National
-states:
-- California
-- Georgia
-- Maryland
-- Nebraska
-- Ohio
-- Pennsylvania
-- Tennessee
-- Texas
+states: []
 cities: []
 people: []
 companies: []
@@ -59,7 +51,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md).
 
-**Tennessee and the Mid-South.** [Memphis and the Mid-South](memphis.md) · [Summer Avenue, Memphis](summer-avenue-memphis.md) · [Ray Godman and Preston Davis](../voices/ray-godman.md) · [The SEMO Drag Strip at Malden](../drag-racing/semo-malden-drag-strip.md).
+**Tennessee and the Mid-South.** [Memphis and the Mid-South](memphis.md) · [Summer Avenue, Memphis](summer-avenue-memphis.md) · [Ray Godman and Preston Davis](../voices/ray-godman.md).
 
 ## Midwest, Southwest and Northwest
 
@@ -67,7 +59,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Michigan, Indiana and Illinois.** [The Upset at Cordova](../drag-racing/detroit-cordova.md) · [Woodward Avenue](woodward.md) · [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md).
 
-**Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
+**Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [The SEMO Drag Strip at Malden, Mo.](../drag-racing/semo-malden-drag-strip.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
 
 **Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
 

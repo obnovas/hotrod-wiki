@@ -454,5 +454,4 @@ Tags as above. Georgia newspapers are page OCR returned by the Georgia Historic 
 - [local] David Dilbeck, "Julius Hughes, Jr.," memorial page with details from Elaine Jape, GeorgiaDragRacing.com, 2003. http://www.georgiadragracing.com/photos/persons/person-hughesjuliusjr.html
 - [local] Marvin T. Smith, "A History of the Atlanta $10,000 Drag Race: The 1964 event," draft chapter with A. B. Shuman's captions, GeorgiaDragRacing.com, 2003. http://www.georgiadragracing.com/articles/1964atlantatenkrace.html
 - [org] "Julius Hughes," Georgia Racing Hall of Fame. https://georgiaracinghof.com/inductees/julius-hughes/
-- [mag] ◐ "Life Magazine, June 13, 1960," dealer listing, Old Life Magazines (search excerpt only). https://oldlifemagazine.com/june-13-1960-life-magazine.html
 
