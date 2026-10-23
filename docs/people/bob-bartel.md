@@ -120,9 +120,9 @@ Bartel and racer **Ron Colson** said they owned the World Series name, citing a 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** The Competition Plus tribute calls him a "Moline, Illinois, native." The obituary's **Sterling** birthplace is the stronger record. He married and lived in Moline.[^cp][^obit] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Unlike NHRA, which posted "only trophies and contingency prizes," the ATAA "paid cash purses." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did the ATAA pay cash when NHRA didn't?** The contrast ("only trophies and contingency prizes" against "cash purses") is the tribute's.[^cp][^bs] The *Motor Age* coverage on [Half Day](../drag-racing/half-day-ataa-maremont.md) mentions prizes but not purses. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The tribute says it "continued to sanction drag races all over the eastern seaboard for another fifteen years." <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Fifteen years of NASCAR drag racing?** The tribute credits Bartel and Ed Otto with a NASCAR drag-racing branch that sanctioned races on the eastern seaboard "for another fifteen years."[^cp] We have no NASCAR record of it. Lead: NASCAR Drag Racing Division results, late 1950s. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Single tribute source; we have seen no NHRA record of the purchase.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
@@ -146,9 +146,9 @@ The sources can't agree on the year, and the disagreement is worth a look:
 
 <a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **The prize money.** Bartel's "$500 to $1,000" packages and Cordova's "$1,000 to win" come only from the same 2017 *Dispatch-Argus* story.[^qc] Lead: Cordova's own ads in the Quad Cities papers, 1957–60, which would print the purses. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-<a id="q-8" class="hr-q-anchor"></a>**Single source so far:** The tribute says "as many people came to the track to meet the TV personality as came to see the drag racers." <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far.** **Did the TV winner draw the crowd?** The tribute's line that "as many people came to the track to meet the TV personality as came to see the drag racers" has no attendance figure behind it.[^cp] <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
-<a id="q-9" class="hr-q-anchor"></a>**Single source so far:** The tribute says he was also "the first to offer a true National Title for Funny Car competitors." <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** **The first national Funny Car title?** Only the tribute calls Bartel "the first to offer a true National Title for Funny Car competitors."[^cp] Lead: the 1960s World Series programs. <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
 <a id="q-10" class="hr-q-anchor"></a>**Single source so far.** **Who owns the World Series name?** Bartel and Ron Colson's claim, and the USPTO document of Oct. 11, 2016, are reported only in the 2017 *Dispatch-Argus* story.[^qc] Lead: a USPTO trademark search for "World Series of Drag Racing." <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 

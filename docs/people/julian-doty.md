@@ -83,7 +83,7 @@ His signature mattered too. From 1972 he made and signed official SCTA timing sl
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was he at the founding?** Coachbuilt says DuVall and Doty were **charter members of the Hollywood Throttlers** and "were present when the SCTA was founded in November of 1937," and that Doty was a founding member of the **Sidewinders**.[^cb] Doty would have been about 14 at the founding. ◐ *Single-sourced; AHRF does not repeat it.* AHRF places the Hollywood Throttlers clubhouse next door to the original B&S garage.[^ahrf] Full story: [Muroc](../eras/1930s-dry-lakes-scta.md#may-or-march). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** As SCTA starters in 1947–48, Doty and Sidewinders president Kong Jackson "stole some traffic signals, set them up and voila! more efficient starting." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Stolen traffic signals?** The story of Doty and Kong Jackson rigging stolen signals as SCTA starters in 1947–48 comes only from the AHRF profile.[^ahrf] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **When did he buy them?** Kustomrama says he bought them from So. Cal. Plating in **1946**;[^kr] Coachbuilt says "in the late 1940s." Coachbuilt quotes his ad: "Original DuVall V-Windshields For Any Car - $17.50, 6211 Banner Ave., Hollywood."[^cb] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

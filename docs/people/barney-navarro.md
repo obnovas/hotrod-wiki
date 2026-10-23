@@ -81,7 +81,7 @@ He died **August 20, 2007**, his 88th birthday. His patterns went to Mike Herman
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** His '39 Tudor ran **the first Weiand intake Phil Weiand ever made**, and Navarro paid for it by machining Weiand's first batch of 10 castings. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The first Weiand intake?** That Navarro's '39 Tudor ran the first intake Phil Weiand made, paid for by machining Weiand's first ten castings, comes only from the AHRF profile.[^ahrf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed: Strokers or Stokers?** AHRF writes "Glendale Strokers";[^ahrf] Kustomrama spells it "Stokers" (see [Tom Beatty](tom-beatty.md)). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

@@ -82,7 +82,7 @@ His name also turns up in period custom literature: a pamphlet from "Pennsylvani
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point near the top of the story rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **A Mason-jar injector and a $35 room?** The 50¢ vapor injector, the $12.95 log manifold, the rented room and the gymnasium all come from the Port Jervis *Times Herald-Record* obituary, which we could read only in a search excerpt.[^thr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **What year did the business start?** Hemmings and the Hall of Fame say Almquist Engineering started in 1946;[^hem][^hof] his obituary says he moved to Milford and created it in 1947.[^obit] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

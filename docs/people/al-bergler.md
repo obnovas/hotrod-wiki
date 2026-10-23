@@ -90,7 +90,7 @@ He is still at it. As of early 2024 he still worked four–five hours a day in a
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** It won the **first Ridler Award** at the **1964** Detroit Autorama; on the strip, Super Eliminator and Best Appearing at the **1966** NHRA SpringNationals (8.10 / 184 mph on gasoline cited by Hagerty). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The first Ridler, and 184 mph on gas?** The 1964 Ridler Award and the 1966 SpringNationals results come from Hagerty and the Michigan Motor Sports Hall of Fame; the 8.10 / 184 mph on gasoline is Hagerty's alone.[^hag][^mms] Lead: 1966 *Drag News* results. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

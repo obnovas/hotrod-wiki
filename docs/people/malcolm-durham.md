@@ -93,13 +93,13 @@ Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on us
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** In **1962** he was a mechanic at Hicks Chevrolet and campaigned a **409** '62 Chevy with Z-11 heads; the Top 50 text says he won nearly **90%** of races entered. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Nearly 90% wins?** The 1962 record with the 409 comes only from NHRA's Top 50 text.[^top50] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Its first outing at 75-80 Drag-A-Way improved on his 409 best (12.26 → 12.01 per Top 50). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **12.26 to 12.01?** The *Strip Blazer I* times come only from NHRA's Top 50 text.[^top50] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cites bests of **9.56 / 150 mph**. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **9.56 / 150 in 1965?** The Chevelle's best times come only from NHRA's Top 50 text.[^top50] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** In the off-season came a new **[Logghe](../companies/logghe-stamping.md)-chassised Camaro**, one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Regular 7.5s and 200 mph?** The Logghe Camaro's 1968 times and the 1969 200 mph come only from NHRA's Top 50 text.[^top50] Lead: *Drag News*, 1968–69. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **** Burgess's 2009 column calls his Top 50 slot **No. 46**; the 2001 Auto Channel reprint of the NHRA text is headed **Number 48**. We flag it until the original National Dragster list is checked.[^fred][^top50] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

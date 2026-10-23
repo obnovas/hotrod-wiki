@@ -105,7 +105,7 @@ The News named his survivors: wife Patricia (68 years), sons Randy and Rick, dau
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** He raced with Meeks's Coupes Club in the Rusetta Timing Association and held lakes records. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Meeks's Coupes Club and lakes records?** Only Hemmings places him with the club in the Russetta Timing Association and gives him lakes records.[^hem] Lead: Russetta results in the late 1940s. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Attributional; not a sole documented coinage.*[^dn] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

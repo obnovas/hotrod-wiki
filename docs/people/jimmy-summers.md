@@ -75,9 +75,9 @@ In 1962 he built the body for Tony Nancy's dragster.[^k] And somewhere in the fa
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** **Nearly everything below comes from that one family-sourced research project.** <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How much rests on the family?** Nearly everything on this page comes from Sondre Kvipt's interviews with Summers's children and the family albums, published in *The Rodder's Journal* #83 and on Kustomrama.[^k] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** *Motor Life* (May 1955) credited Summers with the **first channeling job**. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The first channel job?** Only *Motor Life* (May 1955), as Kustomrama reports it, credits Summers with it.[^k] We have not seen the magazine or a rival claim. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

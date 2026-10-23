@@ -106,7 +106,7 @@ The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When did the strip open?** C.J. told *Hot Rod* he opened "on **June 19, 1950**," and our [Santa Ana](../eras/1950s-santa-ana-drags.md) page follows that date.[^hr80] Yet the pamphlet's "first race" is July 2, 1950. June 19, 1950, was a **Monday**; July 2 was a Sunday. This may mean the strip opened (with its lease or a first practice) on June 19 and held its first Sunday race on July 2. Until a dated 1950 clipping is found, that is only a suggestion. **Unresolved.** <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**The Long & Tuttle pamphlet:** we have not seen a copy of *Every Sunday Drag Races: Orange County Airport, Santa Ana*; everything here about it comes from Richard Parks's 2012 review.[^parksrev] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **What does the Long & Tuttle pamphlet say?** We have not seen a copy of *Every Sunday Drag Races: Orange County Airport, Santa Ana*; everything here about it comes from Richard Parks's 2012 review, which warns that "the data is sometimes suspect."[^parksrev] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ### Still missing
 

@@ -132,7 +132,7 @@ What each source says:
 | Gray Baskerville (*Rod & Custom*, 2001) | A couple of years before 1971, Tom Medley, Bud Bryan and Tex Smith "decided to emulate the National Hot Rod Association and create a parallel organization that they called the National Street Rod Association." Petersen "supplied the dough and publicity," and out-of-state friends, "namely Cotton Werksman, Dick Royer, Bruce Miller, Bugg, and Walker chipped in, became a part of the NSRA." Werksman, he later writes, was "one of the five original NSRA members."[^gb] |
 
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Wikipedia also says that by 1973 Wells had set up thirty volunteer state representatives, that SEMA adopted the system in 1975, and that SEMA then hired him away. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Thirty state representatives?** That Wells had thirty volunteer state representatives by 1973, that SEMA adopted the system in 1975 and then hired him comes only from Wikipedia.[^wiki] Lead: NSRA and SEMA newsletters, 1973–75. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 [^hof]: "Dick Wells (1934–2010)," Hot Rod Hall of Fame site (Greg Wapling), reproducing NHRA's Jan 19, 2010 "In his own words" biography (written by Wells in March 2007) and Daniel Strohl's obituary note. https://gregwapling.com/hotrod/hot-rod-hall-of-fame/dick-wells.html (accessed 2026-10-15)
 [^narhof]: Nebraska Auto Racing Hall of Fame, Class of 2009 inductees ("Media: Dick Wells"). https://www.narhof.com/inductees/2009 (accessed 2026-10-15)

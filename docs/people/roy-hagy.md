@@ -65,7 +65,7 @@ That one rule is what sets him apart. Metal-finishing rather than leading puts H
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** *Almost everything known here comes from one oral source: Tom Sparks, interviewed by Pat Ganahl for* The American Custom Car*, as relayed by Kustomrama.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How much rests on Tom Sparks?** Almost everything here comes from one oral source: Tom Sparks, interviewed by Pat Ganahl for *The American Custom Car*, as Kustomrama relays it.[^k] We have not seen the book itself. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

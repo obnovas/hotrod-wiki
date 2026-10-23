@@ -74,7 +74,7 @@ After the shop he went on to produce films, edit Car Craft and Hot Rod Industry 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** He liked the name of a speed shop in Culver City (very likely Orr's, inference, not stated) and coined "So-Cal": "then I was the only one." <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Which Culver City shop?** Xydias says he liked the name of a Culver City speed shop and coined "So-Cal" because "then I was the only one."[^css] He doesn't name it. Orr's, at Culver City, is our guess, not his statement. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 **To verify:** his current status and any date of death are not yet confirmed from a source; do not add from memory.
 

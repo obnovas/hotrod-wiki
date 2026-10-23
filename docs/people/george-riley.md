@@ -49,7 +49,7 @@ Decades later the Two-Port came back. Charlie Yapp's Secrets of Speed Society re
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** Hot Rod credits him with the inboard/outboard boat engine configuration and says he opened his shop in **1919** to make Model T speed equipment. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **A shop in 1919 and the inboard/outboard?** Both claims come only from *Hot Rod*.[^hr] Lead: Riley's patents and Los Angeles directories, 1919–20. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 

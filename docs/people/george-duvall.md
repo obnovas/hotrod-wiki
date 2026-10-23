@@ -72,7 +72,7 @@ Xydias put DuVall in company: "Jimmy Summers and George DuVall were two of the b
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** *Principal source: Kustomrama, drawing mainly on* Rod & Custom*, August 1990.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How much rests on Kustomrama?** Most of this page comes from Kustomrama's DuVall entry, which draws mainly on *Rod & Custom*, August 1990.[^k] Coachbuilt adds a little.[^cb] We have not seen the 1990 article. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Unattributed claim.*[^k] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
