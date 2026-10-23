@@ -143,9 +143,9 @@ Hurst's "Hemi-Under-Glass" exhibition car was booked at a Georgia strip in 1965;
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **The $1,000 prize.** George's offer for a better 4-speed in-line shifter, and Bob Kenny's win, come only from Campbell's daughter's email, as printed by Just A Car Guy.[^jacg] We have found no period report of the prize. Lead: *Hot Rod* or the trade press for 1961–62. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** Panorama does not name the car or the driver . <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Whose car was the four-Chrysler land-speed project?** *Panorama* describes the in-line four-Chrysler car with two transmissions shifted together by Hurst controls, but names neither the car nor the driver, and we have no other account of it.[^pan] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** *Panorama* never calls it the Jaws of Life; that this was the tool's ancestor is our inference . <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Was the 1965 rescue device the Jaws of Life?** *Panorama* describes a tool "under development" to take a wrecked car apart and reach an injured driver, but never calls it the Jaws of Life; the link is our inference.[^pan] See q-8 for who thought of the tool. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>**Disputed.** **Who thought of it?** *Hot Rod* calls the Jaws of Life "George's greatest contribution to society."[^hr20] Campbell's daughter writes that her father read a Philadelphia *Bulletin* story about a dump-truck driver who bled to death in a train-crossing wreck, sketched a cutting tool that would not throw sparks, and that George added the spreading tool over a hamburger. She says the tool "never really got off the ground" until after Campbell left Hurst in 1969.[^jacg] ◐ A family account, with no second source yet. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 

@@ -63,7 +63,7 @@ Decades later the street got a style of its own, [Pro Street](../eras/1980s-pro-
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** And channeling: Summers is credited with the first channel job by *Motor Life*, 1955. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Was Summers first to channel a body?** Only *Motor Life* (May 1955) says so, as Kustomrama reports it; we have not seen the magazine or any earlier claim.[^k] See [Jimmy Summers](../people/jimmy-summers.md). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

@@ -97,7 +97,7 @@ In Portland, volunteers run the show. The Multnomah Hot Rod Council was founded 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Attendance:** 27,625 (Hot Rod) vs "more than 25,000" (Kustomrama).[^go][^k50] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Detroit's automakers used his shows for debuts, such as the Mustang. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The Mustang's debut?** That Detroit used Larivee's shows for debuts such as the Mustang comes only from SEMA's profile.[^sema] Lead: Ford's 1964 press releases. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

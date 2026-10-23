@@ -125,7 +125,7 @@ As for the closing, a Yellow Bullet forum recollection says it came at the end o
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Club chronology is enthusiast-compiled.*[^hfd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Land for the strip was donated by the **Fingers Furniture** family, per the same local history site. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Who gave the land?** That the Fingers Furniture family donated the land comes only from the local history site.[^hfd] Lead: Harris County deed records for 1957. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Quoted on the history site; Chronicle PDF not yet read here.*[^hfd] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

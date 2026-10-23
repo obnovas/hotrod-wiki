@@ -114,9 +114,9 @@ The school clubs show up in the same years as the town clubs the police and plan
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Years as the scan reads them.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** We opened only the yearbooks cited on this page, so we won't put a number on it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **How common were the clubs?** An Internet Archive search turns up the phrase in yearbooks from Massachusetts to Texas and Michigan, but we opened only the yearbooks cited here, so we won't put a number on it.[^search] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** We could see only that search snippet, not what the list was for. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **What was the Faunce list for?** We saw only a search snippet: "Hot-rod club (to promote safe driving)" in a numbered list between library chairs and a visitor's locker room.[^faunce] Lead: the full Faunce text. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^cc]: Central Catholic High School (Portland, Ore.) 1957 yearbook scan, including pages of the school paper: Tom Joyce's car column, "Ram Rods: Theme of Club Safe Driving," a club photo caption, and the editorial "Something Overlooked." https://archive.org/details/classmates-yearbook-34055-1957-central-catholic-high-school (accessed 2026-10-16)
 [^pens]: Pensacola High School (Pensacola, Fla.) 1955 yearbook. https://archive.org/details/classmates-yearbook-36688-1955-pensacola-high-school (accessed 2026-10-16)

@@ -118,13 +118,13 @@ The paper had already run the safety pitch. In July 1954 the same paper ran a fe
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** The April 16 notice says Escanaba's club was formed "along the lines of similar clubs in Iron Mountain and other cities."[^apr16] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** We repeat it as the paper's claim only. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Who made the claim?** The April 23, 1955 feature gives it with no name or car, and nothing else here supports it, so we repeat it only as the paper's claim.[^apr23] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Open question.** **What we could not find.** We searched every readable *Escanaba Daily Press* issue on the archive from January through June 1955 for the strip, the auto show and the race results and found nothing. The archive's run of this paper for 1955 stops at June 30: the July through September issues we tried do not exist there. Four issues in between (Jan. 1, Feb. 12, Feb. 21 and May 30) returned server errors on every try, so we could not search them. The OCR also misses words. Treat the strip and the auto show as plans, not events. ◐ <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** The paper does not connect the two, and neither do we. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Was the rulebook an answer to the resolution?** The resolutions printed in January 1955 called for hot-rod clubs and for telling the community what they were for.[^jan14] The Drag-n's rulebook reads like a reply, but the paper never connects the two, and neither do we. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** It does not say why the meeting was special. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Why the special meeting?** The June 20, 1955 notice calls a "special meeting" with "all members ... requested to be present" but gives no reason, and it is the last club item we can read.[^jun20] Lead: the *Daily Press* for late June and July 1955. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Sources and notes
 

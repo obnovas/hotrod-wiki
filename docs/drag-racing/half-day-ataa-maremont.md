@@ -126,7 +126,7 @@ The safety pitch did not settle the argument. In March 1957, a wire survey on dr
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **1952 or 1953?** *Motor Age* (June 1955) says "the non-profit ATAA was founded in 1952 by Maremont Automotive Products, Inc."[^ma] The NHRA primer dates the first races to April 6, 1952.[^nhra] The 1954 wire feature says 1953.[^esc] [Bob Bartel's](../people/bob-bartel.md) tribute dates his first ATAA races to 1953.[^bart] A plausible reconciliation is a 1952 start with a 1953 formal incorporation or main season, but no source says that. We keep 1952 for the first races and flag the association date. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** They are in the ATAA's own news release, so they are the sponsor's claim that these men endorsed it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did these men endorse the ATAA?** Their names come from the ATAA's own news release as printed in *Traffic Digest and Review*, so the endorsement is the sponsor's claim.[^tdr] Lead: the National Safety Council's own publications for 1954. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The two scans differ on the invitation count (26 vs 28; both OCR), and both repeat Maremont.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
@@ -142,9 +142,9 @@ The safety pitch did not settle the argument. In March 1957, a wire survey on dr
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** By mid-1955 *Motor Age* says ATAA chapters existed in places as scattered as Corpus Christi, Texas, Washington, D.C., and Puyallup, Wash. (printed "Payallupe"), and that the ATAA published its own paper, *The Dragster*.[^ma] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** We still lack a program or an ad, and *Motor Age* is a sponsor's article, so we call it strong but not final. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Was the first World Series in 1954?** The June 1955 *Motor Age* article is our only period evidence, and it is a sponsor's piece; it matches the Bartel tribute's 1954 against the "1956" and "1953" dates elsewhere.[^ma][^bart] We still lack a program or an ad. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-<a id="q-8" class="hr-q-anchor"></a>**Single source so far:** Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far.** **Did NHRA absorb the ATAA in 1957?** Only Bob Bartel's tribute says so.[^bart] We have found no NHRA or ATAA announcement. Lead: *Drag News* and *Motor Age*, 1957. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 ## Sources and caveats
 

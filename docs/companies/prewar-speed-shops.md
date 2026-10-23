@@ -85,11 +85,11 @@ Batchelor's list leaves one out, and Hemmings adds him. Based on Roger Harrell's
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** He got the price under $100 by 1933 and introduced an "Improved Cragar Head" in 1935. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Under $100 by 1933?** Wight's price cut and the 1935 "Improved Cragar Head" come only from the Jalopy Journal history.[^jj] Lead: Bell Auto Parts catalogs and ads, 1933–35. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *This is an inference from a catalog.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** Main, run with brother Nick Harrell until **1976**. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Run until 1976?** That Jim White's shop at 10924 S. Main ran with his brother Nick Harrell until 1976 comes only from Hemmings, drawing on Roger Harrell's book.[^hem] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 

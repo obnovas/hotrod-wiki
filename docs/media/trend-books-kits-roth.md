@@ -69,11 +69,11 @@ Revell's customizer was Roth. Revell's first Roth car kit, the **Outlaw** (kit 1
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** That is evidence that regional builders were working, and being published, by 1951. Many of them seem to be forgotten now. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** The line was then rebranded **Spotlite Books**. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **When did Trend become Spotlite?** The rebranding after No. 206 (1962) comes from the 99W Speed Shop list.[^99w] Lead: the books' own imprint pages. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Who invented the "annual" kit?** The Crittenden Automotive Library, citing Doty (2007), says **SMP** created the 3-in-1 annual kit and its logo, and AMT adopted them when it bought SMP in 1961.[^cal] Promotex and Round2 credit AMT, from 1958.[^px][^r2] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Hemmings is reported to call the figure debated; we have not read the Hemmings text first-hand. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **One cent a kit?** The "one cent per kit" and "$32,000 in 1963" figures are widely repeated, and Hemmings is reported to call them debated; we have not read the Hemmings text.[^rf] Lead: Revell's or Roth's own accounts. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Images
 

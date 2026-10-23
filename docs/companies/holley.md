@@ -113,7 +113,7 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When did Holley buy Hooker?** SEMA and Hagerty say 2000; the Pennsylvania historical marker for Holley says "the 1990s." The sources are on [Hooker Headers](hooker-headers.md#q-4). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** [Stu Hilborn](../people/stu-hilborn.md): the fuel-injection pioneer's company is reported to have been acquired by Holley (2019, per that page's Wikipedia summary). <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Did Holley buy Hilborn in 2019?** The only source is the Wikipedia summary on [Stu Hilborn](../people/stu-hilborn.md); we have no Holley or trade-press announcement. Lead: Holley's brand pages and 2019 trade news. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 **Ford's request:** Both the marker essay and the Penn State feature place Henry Ford's request for a Model T carburetor before the 1907 move to Detroit. The marker says that Ford asked them to produce a carburetor "for his new Model T," and that it "soon became standard on all Ford automobiles."[^mk] We have not checked that sequence against a Ford source.
 

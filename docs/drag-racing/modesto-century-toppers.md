@@ -111,9 +111,9 @@ The club also put cars on display. The Century Toppers held their first car show
 
 We favor late 1947 because it comes from the founder himself, but the 1946 account names a different founder and may describe an earlier informal group. We have not seen a contemporary document. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Kustomrama summarizes newspaper items; we have not seen the original pages. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **What did the 1949 papers say?** We know the club's 1949 press only from Kustomrama's summaries; we have not seen the original pages.[^kr] Lead: the *Modesto Bee*, 1949. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** See [the show circuit](../media/show-circuit.md) for the Oakland side of that story. single source. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Slonaker pick Winfield's cars?** That Al Slonaker came to choose cars for his first Oakland show is Winfield's memory as Kustomrama relays it.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^int]: Chris Murphy, "InterView: Gene Winfield," Modestoview. https://www.modestoview.com/gene-winfield-interview/ (accessed 2026-10-15)
 [^mv]: Chris Murphy, "BigView – Late 1940s Modesto – The Birth of Cruising," Modestoview. https://www.modestoview.com/bigview-late-1940s-modesto-the-birth-of-cruising/ (accessed 2026-10-15)

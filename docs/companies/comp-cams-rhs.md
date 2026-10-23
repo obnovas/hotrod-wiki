@@ -114,7 +114,7 @@ So a company that began when three men raced Oldsmobiles now sits in the same gr
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Where did RHS move first?** SEMA says that by the time Lang visited in late 1970, RHS "had outgrown the basement and moved to bigger digs in a Memphis suburb," with another move to near the airport not long after.[^sema] COMP's account has the Union and Marshall shop in between.[^comp] They may be the same shop described two ways, or two steps. We can't tell. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** By then RHS, COMP says, had "evolved into one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines" . <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **One of the first crate-engine sellers?** The claim that RHS had become "one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines" by 1979 is COMP's own.[^comp] Lead: 1970s RHS ads in the drag papers. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The founding.** The year 1967, the basement of Smiltnieks's house and the three founders all come from COMP Cams' own history.[^comp] We have not yet found a period source for the year or the basement. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

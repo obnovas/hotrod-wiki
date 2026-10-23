@@ -97,7 +97,7 @@ As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** We have not seen the council's 1957 statement itself. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **What did the council say in 1957?** We know the National Safety Council's position only through the United Press story; in 1955–56 it had spoken well of supervised hot rodding.[^mmt][^ma][^pond] We have not seen the council's 1957 statement itself. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Which strip was it?** The county-built strip near Denver comes from one UPI line in the survey.[^mmt] The Denver projects we found don't fit: Continental Divide opened in 1959 as a private venture,[^rc] and Bandimere (1958) was built to promote an auto parts store.[^dpl] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -105,7 +105,7 @@ As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **One wire story's claim.** Until a Denver paper turns up, treat "county-built strip near Denver, 1957" as the UPI report's claim alone.[^mmt] Lead: the *Denver Post* and *Rocky Mountain News*, early 1957. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** We quote only phrases that read cleanly. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Did we read it right?** The whole page rests on one United Press story, read only in scrambled OCR of the *Medford Mail Tribune*, so we quote only phrases that read cleanly.[^mmt] Lead: a cleaner printing of the same wire story in another paper. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Sources
 

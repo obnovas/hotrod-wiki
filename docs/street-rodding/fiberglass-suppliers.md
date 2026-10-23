@@ -64,13 +64,13 @@ That northern start is the point. The street-rod parts business is usually assoc
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** It was bought by Buzz Pitzen (Kustomrama). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did Buzz Pitzen buy the first Diablo body?** Only Kustomrama says so.[^dia] Lead: the August 1957 *Hot Rod* ad and Pitzen's own accounts. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** The first buyer was reportedly "Wild Willy" Borsch. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Was Borsch the first buyer?** That "Wild Willy" Borsch bought the first body is reported only by TBucketPlans.[^cal] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** Ford complained, and Wescott's "Fenders FOR Fords" flyer followed. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Ford complain?** The story that Ford objected and Wescott's answered with its "Fenders FOR Fords" flyer is Wescott's own.[^wes] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** According to Wescott's company history, it added a 1931 coupe body (1969) and a roadster (about 1971). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **A coupe in 1969, a roadster about 1971?** Both dates come from Wescott's company history.[^wes] Lead: Wescott's catalogs and ads. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Open question.** We have not confirmed which company had the first fiberglass Ford body. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

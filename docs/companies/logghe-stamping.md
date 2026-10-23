@@ -105,13 +105,13 @@ The honors came later: inducted MMSHOF **2010**; Garlits Museum / IDRHOF class o
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **The founding year.** The Michigan Motor Sports Hall of Fame says **1947** in Fraser; Hot Rod's family feature says **1946**, starting in a home garage before moving to a Fraser plant.[^mms][^hr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Partnership with employees **Jim Marsh** and **Roy Steffey** produced the injected Chevy digger nicknamed **"the Giant Killer."** MMSHOF: in **1964** it became the first non-supercharged car into the sevens. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The first non-supercharged car into the sevens?** Only the Michigan Motor Sports Hall of Fame credits the Marsh–Steffey "Giant Killer" with that in 1964.[^mms] Lead: 1964 *Drag News* records lists. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** In **1965** Maynard Rupp drove their blown Chrysler **"the Prussian"** (tuned by Steffey) to what Garlits Museum calls the first NHRA points championship for that team. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **A points championship in 1965?** Only the Garlits Museum biography says Maynard Rupp drove "the Prussian" to the team's first NHRA points championship.[^gar] Lead: NHRA's 1965 division standings. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Garlits Museum: the shop later turned out **over 600** race cars (Funny Cars, diggers, Pro Stocks, Altereds, Bonneville cars, even go-karts). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Over 600 race cars?** The figure is the Garlits Museum biography's; we have not seen a build list or another count.[^gar] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** *Car Craft* named Logghe Funny Car Chassis Builder of the Year **1967–70**. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Chassis Builder of the Year, 1967–70?** The *Car Craft* awards come to us through the Garlits Museum biography; we have not seen the magazine.[^gar] Lead: *Car Craft* award issues, 1967–70. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *A strong claim; treat as self-attribution.*[^mms] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
