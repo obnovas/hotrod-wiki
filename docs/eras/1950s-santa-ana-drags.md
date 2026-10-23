@@ -93,13 +93,13 @@ Hart died on **June 25, 2004**. NHRA, the Orange County Register, the NYT, AP an
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Single source (the Hall of Fame biography); we have not found a period report.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** **June 25 or June 26, 2004?** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise give June 25 for Hart's death, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26), and MSHF gives June 26. We follow the majority; a death record would settle it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### More from the notebook
 
 **⚠ Lions tenure** is still in conflict: 1965–71 per MSHF and SEMA, 1963–1970 per the OC Register.[^nhra04] See also [Peggy Hart](../people/peggy-hart.md).
 
-⚠ **Round 10 notes:** (1) June 19, 1950, was a Monday. The Long & Tuttle clippings pamphlet dates the "first race" to Sunday, **July 2, 1950**. See [Peggy Hart](../people/peggy-hart.md#founder-of-the-strip-not-just-the-wife-of-one). (2) The same January 1980 *Hot Rod* profile that dates Hart's Lions start to "'65" also refers to "his very first act in '63." The 1965 date fits its own statement that he succeeded Mickey Thompson, who left in 1963.[^hr80] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+⚠ **Round 10 notes:** (1) June 19, 1950, was a Monday. The Long & Tuttle clippings pamphlet dates the "first race" to Sunday, **July 2, 1950**. See [Peggy Hart](../people/peggy-hart.md#founder-of-the-strip-not-just-the-wife-of-one). (2) The same January 1980 *Hot Rod* profile that dates Hart's Lions start to "'65" also refers to "his very first act in '63." The 1965 date fits its own statement that he succeeded Mickey Thompson, who left in 1963.[^hr80]
 
 ## Images
 
