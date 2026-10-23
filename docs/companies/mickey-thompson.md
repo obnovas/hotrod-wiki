@@ -105,7 +105,7 @@ Thompson's trail crosses many other stories here. [Santa Ana Drags](../eras/1950
 
 In Ohio, [Summit Racing](summit-racing.md)'s first mail-order ads were for his wheels, and [Lakewood Industries](lakewood-industries.md), the bellhousing maker, was another response to drivetrain explosions at the strips. And [Moroso](moroso.md) is another racer-turned-parts-maker who ended up owning a track.
 
-*See also:* [The Web of Influence](web-of-influence.md).
+*See also:* [The Web of Influence](web-of-influence.md); [Golden State Raceway, Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md), where a Mickey Thompson fuel dragster held the 1969 AA-Fuel record.
 
 ## Open questions & disputed details
 

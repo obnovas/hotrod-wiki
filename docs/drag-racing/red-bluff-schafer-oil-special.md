@@ -81,7 +81,7 @@ Two weeks later the Shasta Roadsters opened their 1969 season at the Redding Mun
 
 The strip was still a shared runway. A May 1970 feature on a sailplane contest at the airport described campers lined up along "the far runway that is used occasionally as a drag strip by the Redding Roadsters."[^rb700525] Red Bluff had no strip of its own. In December 1971 the Red Bluff Jaycees announced that Tehama County Sheriff Lyle Williams would talk to them about "the possibilities of constructing a drag strip and round track in Red Bluff."[^rb711230]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-Northern California clubs also hunted for strips at [Modesto](modesto-century-toppers.md) and in [Marin and Cotati](marin-cotati-strips.md). Redding had a runway the club could borrow, and Red Bluff had a local team that took its runway car to Bakersfield.
+Northern California clubs also hunted for strips at [Modesto](modesto-century-toppers.md) and in [Marin and Cotati](marin-cotati-strips.md), and on the Central Coast the Jaycees ran [Santa Maria's airport strip](santa-maria-golden-state-raceway.md). Redding had a runway the club could borrow, and Red Bluff had a local team that took its runway car to Bakersfield.
 
 ## Open questions & disputed details
 

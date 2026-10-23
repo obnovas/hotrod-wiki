@@ -101,6 +101,18 @@ nodes:
   - {id: hopestrip,  label: "Hope Drag Strip (Hope, Ark.)", type: place, page: drag-racing/hope-airport-drag-strip.md}
   - {id: semo,       label: "SEMO Drag Strip (Malden, Mo.)", type: place, page: drag-racing/semo-malden-drag-strip.md}
   - {id: fairburn,   label: "Ted Edwards / Houston Bros. strip (Fairburn, Ga.)", type: place, page: drag-racing/fairburn-atlanta-daily-world.md}
+  # ---- Round 23-West: Montana, Arizona, Medina County, Santa Maria
+  - {id: roadrunners, label: "Road Runners Rod and Kustom (Arlee, Mont.)", type: club, page: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md}
+  - {id: deerpark,   label: "Deer Park, Wash., drag strip", type: place, page: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md}
+  - {id: karbs,      label: "KARBS (Goodyear, Ariz.)", type: club, page: drag-racing/phoenix-west-side-karbs-litchfield-road.md}
+  - {id: phxstrip,   label: "Phoenix Drag Strip (Litchfield Road)", type: place, page: drag-racing/phoenix-west-side-karbs-litchfield-road.md}
+  - {id: alamota,    label: Alamo Timing Assn., type: club, page: drag-racing/medina-county-castroville-drags.md}
+  - {id: castroville, label: "Castroville Municipal Airfield (Tex.)", type: place, page: drag-racing/medina-county-castroville-drags.md}
+  - {id: goldenstate, label: "Golden State Raceway (Santa Maria, Calif.)", type: place, page: drag-racing/santa-maria-golden-state-raceway.md}
+  - {id: smjaycees,  label: Santa Maria Valley Jaycees, type: club, page: drag-racing/santa-maria-golden-state-raceway.md}
+  - {id: nhra,       label: NHRA, type: institution, page: drag-racing/palm-springs-timing-association.md}
+  - {id: hondo,      label: "Hondo, Tex.", type: place, page: drag-racing/medina-county-castroville-drags.md}
+  - {id: clearsprings, label: "Clear Springs Air Strip (New Braunfels, Tex.)", type: place, page: drag-racing/medina-county-castroville-drags.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -343,3 +355,26 @@ edges:
      evidence: ["at Yellow River drag strip Saturday night"]}
   - {from: hplatt, to: fairburn, type: scene, label: "Named in a 1963 report with Fox Jones's 'Georgia Shaker No. 2'", page: drag-racing/fairburn-atlanta-daily-world.md, flag: single-source,
      evidence: ["in a report that also names Hubert Platt"]}
+  # ----- Round 23-West
+  - {from: roadrunners, to: deerpark, type: scene, label: "Club president LeRoy Morin raced and won trophies at Deer Park, 1962", page: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md, flag: single-source,
+     evidence: ["By the summer of 1962 the Road Runners' president was racing as far away as Deer Park, Washington"]}
+  - {from: karbs, to: phxstrip, type: scene, label: "A Larry Towle of the KARBS ran its concession, and a Larry Towle set a record there", page: drag-racing/phoenix-west-side-karbs-litchfield-road.md, flag: single-source,
+     evidence: ["A Larry Towle of Buckeye set a record on the strip on Aug. 28, 1959"]}
+  - {from: arfons, to: phxstrip, type: promotion, label: "Green Monster jet booked in 1961 under a garbled Arfons name", page: drag-racing/phoenix-west-side-karbs-litchfield-road.md, flag: single-source,
+     evidence: ["Larson booked the jet-powered **Green Monster**"]}
+  - {from: alamota, to: castroville, type: promotion, label: "March of Dimes charity drags, February 1957", page: drag-racing/medina-county-castroville-drags.md,
+     evidence: ["held March of Dimes charity drag races at the Castroville Municipal Airfield"]}
+  - {from: smjaycees, to: goldenstate, type: promotion, label: "Ran the monthly drags on Santa Maria Airport land", page: drag-racing/santa-maria-golden-state-raceway.md,
+     evidence: ["the Jaycees moved the meets to the last Sunday of the month on the airport property"]}
+  - {from: mthompson, to: goldenstate, type: scene, label: "Carl Olsen's 1969 AA-Fuel track record in a Mickey Thompson dragster", page: drag-racing/santa-maria-golden-state-raceway.md,
+     evidence: ["driving a Mickey Thompson Fuel Dragster"]}
+  - {from: coons, to: nhra, type: employed, label: "NHRA's executive manager by 1954", page: drag-racing/palm-springs-timing-association.md,
+     evidence: ["the Pomona police sergeant whom NHRA hired as executive manager by 1954"]}
+  - {from: roadrunners, to: nhra, type: scene, label: "Cited NHRA's 90,000 members and 900 chartered clubs, 1960", page: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md,
+     evidence: ["over 900 chartered clubs"]}
+  - {from: nhra, to: clearsprings, type: promotion, label: "Sanctioned the New Braunfels Jaycee drags, 1956", page: drag-racing/medina-county-castroville-drags.md,
+     evidence: ["The races ran under NHRA sanction"]}
+  - {from: hondo, to: clearsprings, type: scene, label: "Hondo racers invited to the first Clear Springs meet, Oct. 1956", page: drag-racing/medina-county-castroville-drags.md,
+     evidence: ["Hondo racers were invited to New Braunfels"]}
+  - {from: hondo, to: castroville, type: scene, label: "Jerry Koch of Hondo won a D-Gas trophy, Oct. 1957", page: drag-racing/medina-county-castroville-drags.md,
+     evidence: ["Jerry Koch of Hondo won a trophy in D-Gas"]}

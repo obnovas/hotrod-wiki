@@ -99,7 +99,7 @@ Akron belongs alongside the other early airport strips of the Midwest and East: 
 
 The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June 1955, sponsor-written) says the Arfons brothers' six-wheeled "Green Monster" won the top-speed award at the 1954 World Series of Drag Racing at Lawrenceville, Ill., at 132.35 mph, taking the Maremont Trophy and a $1,000 scholarship, and that the Akron group expected about 25 entries in 1955. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
 
-*See also:* [Arlen Vanke](../people/arlen-vanke.md), [The Ohio Gassers](../places/ohio-gassers.md), [Midwest & East](../places/midwest-east.md), [Bob Bartel](../people/bob-bartel.md), [Santa Ana drags](../eras/1950s-santa-ana-drags.md) (the California airport model).
+*See also:* [Arlen Vanke](../people/arlen-vanke.md), [The Ohio Gassers](../places/ohio-gassers.md), [Midwest & East](../places/midwest-east.md), [Bob Bartel](../people/bob-bartel.md), [Santa Ana drags](../eras/1950s-santa-ana-drags.md) (the California airport model), [the Phoenix Drag Strip](phoenix-west-side-karbs-litchfield-road.md) (a 1961 jet booking under a garbled Arfons name).
 
 ## Open questions & disputed details
 

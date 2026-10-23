@@ -311,6 +311,37 @@ themes:
         link: drag-racing/sanford-cain-bannister.md
         also: [drag-racing/pennsauken-central-airport-1958.md]
         flag: drag-racing/sanford-cain-bannister.md#q-2
+      - id: where-was-the-1955-nationals-finish
+        q: Where did the first NHRA Nationals finish, and what did the local paper see?
+        a: >-
+          After rain washed out the finals at Great Bend, the 1955 championship was finished at Perryville,
+          near Phoenix. The West Valley weekly reported that a local teen club, the KARBS, placed third after
+          a head gasket failure and a wiring fire.
+        link: drag-racing/phoenix-west-side-karbs-litchfield-road.md
+        also: [drag-racing/great-bend-srca.md]
+      - id: who-raced-at-castroville-airfield
+        q: Who ran drag races on a Texas town airfield for charity?
+        a: >-
+          The Alamo Timing Association, with Air Force and city officials, held March of Dimes drags at the
+          Castroville Municipal Airfield in February 1957. They drew about 200 cars, 30 motorcycles and an
+          estimated 2,500 spectators.
+        link: drag-racing/medina-county-castroville-drags.md
+        also: [drag-racing/cameron-accelerators.md]
+      - id: who-ran-santa-marias-strip
+        q: Who ran the drag strip at Santa Maria's airport?
+        a: >-
+          By 1969 the Santa Maria Valley Jaycees ran monthly drags on airport property at what they called the
+          Golden State Raceway. In 1975 a reader wrote that the strip seemed doomed, but Lompoc racers were still
+          winning there in 1977.
+        link: drag-racing/santa-maria-golden-state-raceway.md
+        also: [drag-racing/red-bluff-schafer-oil-special.md]
+      - id: what-did-montana-clubs-promise
+        q: What did small-town Montana hot rod clubs promise their towns?
+        a: >-
+          Safe driving, and fines for members who broke the rules. Poplar's Hoodoos doubled traffic fines for
+          members in 1955, and Arlee's Road Runners limited racing of any kind to sanctioned and insured drag strips.
+        link: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md
+        also: [places/twin-falls-main-avenue.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:

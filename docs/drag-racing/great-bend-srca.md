@@ -62,7 +62,7 @@ NHRA did not keep it. From **1956 to 1959** the new AHRA held its nationals ther
 
 NHRA's retrospective (2021) says Hot Rod's August 1955 issue announced Great Bend as the site, using an 8,000-foot runway at the municipal airport, Sept. 29 to Oct. 2, with a $5 entry fee and 30 classes.[^nhra]
 
-Then it rained. "The worst rainstorm in 30 years" hit on the third day and washed out Sunday's finals. The championship was finished on Nov. 19–20 at the Southwest Regional in Perryville, near Phoenix, where Calvin Rice, a 25-year-old from Santa Ana, became NHRA's first national champion.[^nhra]
+Then it rained. "The worst rainstorm in 30 years" hit on the third day and washed out Sunday's finals. The championship was finished on Nov. 19–20 at the Southwest Regional in Perryville, near Phoenix, where Calvin Rice, a 25-year-old from Santa Ana, became NHRA's first national champion.[^nhra] For what the local West Valley weekly printed about that Perryville meet, see [the KARBS and the strip on Litchfield Road](phoenix-west-side-karbs-litchfield-road.md).
 
 The inspectors were no kinder. NHRA's tech team disqualified several winners, mostly in Stock classes. In one class "the first three finishers were found to be running 'out of class.'"[^nhra]
 

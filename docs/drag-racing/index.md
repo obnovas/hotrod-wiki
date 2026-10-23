@@ -29,6 +29,9 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Hog Butcher on Weekdays, Fun Capital on Sundays (Beardstown, Ill.)](beardstown-drag-strip.md): 2,000 on opening day, the Michigan Madman and a Garlits match race, 1967–72.
 - ["Go Out to Scribner" (Lincoln, Neb.)](nebraska-go-out-to-scribner.md): an air base, a highway, a borrowed runway and a timing association asking for a sanctioned strip, 1951–59.
 - ["A Little Town Near the Oregon Border" (Red Bluff and Redding, Calif.)](red-bluff-schafer-oil-special.md): a father-and-son dragster from a valley town, a Bakersfield final and the Shasta Roadsters' airport strip, 1968–71.
+- [Golden State Raceway (Santa Maria, Calif.)](santa-maria-golden-state-raceway.md): a 1959 calendar listing, the Jaycees' strip on airport land, a pump-gas record, Lompoc's bracket racers and a letter calling it doomed, 1959–77.
+- [The KARBS and the Strip on Litchfield Road (Phoenix's West Side)](phoenix-west-side-karbs-litchfield-road.md): a teen club's '39 Ford at the 1955 Perryville Nationals, a reopened strip with a guard rail, prize shirts and a jet, 1953–63.
+- [March of Dimes at the Castroville Airfield (Medina County, Tex.)](medina-county-castroville-drags.md): a Devine club asks for a strip, an Ardun-Merc wins before 2,500, and a Hondo mother counts trophies, 1956–57.
 
 **Clubs and timing associations**
 
@@ -49,6 +52,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Not a Police Dragnet (Palm Springs, Calif.)](palm-springs-timing-association.md): two Pomona policemen, 35 desert youths and an NHRA promise, 1951–59.
 - [Orchids, Plugs and Celtics (Canyon, Tex.)](canyon-orchids-celtics-amarillo.md): three Panhandle clubs, a book club panel, a quarterly safety check and the Amarillo strip, 1956–66.
 - [A Car Fixed the Way a Person Likes It (Cameron, Tex.)](cameron-accelerators.md): a club at Krenek's garage that gave the police its license numbers and was offered a farm for a strip, 1956–63.
+- ["Angels Behind the Wheel" (Montana)](montana-hoodoos-road-runners-royal-coachmen.md): Poplar's skull-emblem Hoodoos, Arlee's Road Runners, Ronan's Royal Coachmen and a trophy-winning family car, 1955–62.
 
 **Rules, safety and public opinion**
 

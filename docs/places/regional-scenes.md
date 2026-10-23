@@ -65,10 +65,12 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [The SEMO Drag Strip at Malden, Mo.](../drag-racing/semo-malden-drag-strip.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
 
-**Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
+**Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md) · [The Castroville airfield drags (Medina County)](../drag-racing/medina-county-castroville-drags.md).
 
-**Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md).
+**Arizona.** [The KARBS and the strip on Litchfield Road (Phoenix's West Side)](../drag-racing/phoenix-west-side-karbs-litchfield-road.md).
 
-**California beyond the Los Angeles basin.** [The Palm Springs Timing Association](../drag-racing/palm-springs-timing-association.md) · [The Schafer Oil Special and the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md).
+**Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md) · [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md).
+
+**California beyond the Los Angeles basin.** [The Palm Springs Timing Association](../drag-racing/palm-springs-timing-association.md) · [The Schafer Oil Special and the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md) · [Golden State Raceway, Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md).
 
 **Everywhere.** [Dragging Main](dragging-main.md), the small-town loop in the kids' own words.

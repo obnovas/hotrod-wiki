@@ -877,3 +877,60 @@ highlights:
     added: '2026-10-22'
     eras: [1940s, 1950s]
     regions: ['Sanford, Maine', 'Wilmington, Mass.']
+  - id: montana-family-car-1962
+    headline: '"Angels behind the wheel": a Montana club president won his 20th trophy in the family car'
+    teaser: Poplar's Hoodoos explained their skull emblem in 1955. By 1962 the president of Arlee's Road
+      Runners was taking his wife and two children to Deer Park, Wash., in the C/Gas car the family drove.
+    link: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md
+    evidence: his 20th trophy since April 1
+    source_type: Local news
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s, 1960s]
+    regions: ['Arlee, Montana']
+
+  - id: castroville-ardun-merc-1957
+    headline: An Ardun-Merc won March of Dimes drags before 2,500 at a Texas town airfield
+    teaser: In February 1957 the Alamo Timing Association raced at Castroville Municipal Airfield with Air
+      Force and city officials. Bobby Joe Rutledge's Ardun stormed away in high gear to beat a Chevy-powered
+      '32 Ford coupe.
+    link: drag-racing/medina-county-castroville-drags.md
+    evidence: but the mighty Ardun driven by Rutledge stormed away in high to win
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s]
+    regions: ['Castroville, Texas']
+
+  - id: karbs-perryville-1955
+    headline: A teen club's '39 Ford placed third at the 1955 Perryville Nationals after a wiring fire
+    teaser: The KARBS of Arizona's West Valley built a Mercury-powered coupe with Harman-Collins ignition
+      and a Union 76 sponsor. One member later ran the strip's concession stand, and a man with the same
+      name set a record there.
+    link: drag-racing/phoenix-west-side-karbs-litchfield-road.md
+    evidence: the local boys ran third, and stayed third for the state
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s]
+    regions: ['Goodyear, Arizona']
+
+  - id: santa-maria-pump-gas-1969
+    headline: A homemade dragster on pump gas set a 7.50-second record at a Jaycee airport strip
+    teaser: In 1969 Roger Gates's blown 427 Chevy turned 191.08 mph at Santa Maria's Golden State Raceway.
+      Six years later a reader wrote that the strip, on airport land, seemed doomed.
+    link: drag-racing/santa-maria-golden-state-raceway.md
+    evidence: a blown 427 Chevy in a homemade dragster that burned pump gasoline
+    source_type: Local news
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s, 1970s]
+    regions: ['Santa Maria, California']
