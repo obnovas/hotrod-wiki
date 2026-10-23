@@ -7,8 +7,8 @@ For every distinct http(s) URL in docs/**/*.md it:
   2. falls back to the original URL;
   3. if both fail with a 404/410/5xx or a connection error, asks the Wayback Machine for the closest
      snapshot and reports it as the suggested replacement ("dead, use <snapshot>").
-403/429 answers are reported as "blocked": many sites refuse scripts, which says nothing about
-whether the page exists. A connection error (DNS, TLS, timeout) is reported as "unreachable", since
+401/402/403/429 answers are reported as "blocked" (402 is a paywall): many sites refuse scripts, which says nothing about
+whether the page exists. Only a 404 or 410 counts as "dead". A 5xx or a connection error (DNS, TLS, timeout) is reported as "unreachable", since
 it can be the checker's own network; confirm it from a browser before replacing the link. Wayback links themselves are only checked with --check-archive.
 
 It also lists footnote definitions that cite a URL without an "(accessed YYYY-MM-DD)" date.
@@ -34,7 +34,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 UA = "Mozilla/5.0 (compatible; hotrod-history-linkcheck/1.0)"
-URL_RE = re.compile(r"https?://[^\s<>()\"'\]]+[^\s<>()\"'\].,;:!?*_]")
+# a URL may contain balanced parentheses (Wikimedia and Wikipedia titles do); trailing punctuation is not part of it
+URL_RE = re.compile(r"https?://(?:[^\s<>()\"'\]]|\([^\s<>()\"']*\))+(?<![.,;:!?*_])")
 FOOTDEF_RE = re.compile(r"^\[\^[\w-]+\]:.*$", re.M)
 ACCESSED_RE = re.compile(r"accessed \d{4}-\d{2}-\d{2}", re.I)
 WAYBACK = "web.archive.org"
@@ -112,11 +113,12 @@ def check(url, timeout, check_archive):
     s = fetch(url, timeout)
     if ok(s):
         return {"url": url, "result": "ok", "status": s}
-    if s in (401, 403, 429):
+    if s in (401, 402, 403, 429):  # 402: paywall
         return {"url": url, "result": "blocked", "status": s}
     snap = wayback(url, timeout)
     # a connection error may be the checker's network, not the site: report it apart from a 404
-    kind = "dead" if isinstance(s, int) else "unreachable"
+    # only 404/410 mean the page is gone; a 5xx or a connection error may be temporary or the checker's network
+    kind = "dead" if s in (404, 410) else "unreachable"
     return {"url": url, "result": kind, "status": s, "suggest": snap}
 
 
