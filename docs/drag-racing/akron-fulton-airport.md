@@ -119,7 +119,7 @@ The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June
 
 <figure markdown>
 ![Aerial view of Akron Fulton International Airport (KAKR), Ohio, in January 2026: the runways where the 1951–c.1959 Champions Raceway drags were held.](../assets/images/commons-akron-fulton-airport.jpg){ loading=lazy }
-<figcaption markdown>Akron Fulton International Airport (KAKR), aerial view, January 2026. The 1950s drag strip ran on this airport's paving. **This is a modern view; the drag strip itself is not visible.** Creator: Designism. Date: 2026-01-24. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akron_Fulton_International_Airport_(KAKR)_20260124_(3).jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>Akron Fulton International Airport (KAKR), aerial view, January 2026. The 1950s drag strip ran on this airport's paving. **This is a modern view; the drag strip itself is not visible.** Creator: Designism. Date: 2026-01-24. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akron_Fulton_International_Airport_(KAKR)_20260124_(3).jpg). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## Visual references (external)

@@ -86,7 +86,7 @@ He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives 
 
 <figure markdown>
 ![Akron Fulton International Airport, Ohio, from the air in January 2026. This is the former](../assets/images/commons-akron-fulton-airport.jpg){ loading=lazy }
-<figcaption markdown>Akron Fulton International Airport, Ohio, from the air in January 2026. The airport was formerly called Akron Municipal Airport (per [Wikipedia](https://en.wikipedia.org/wiki/Akron_Fulton_International_Airport)), where Vanke first raced in the 1950s. **We have not identified which pavement the drags used.** Creator: Designism. Date: 2026-01-24 15:58:13. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akron_Fulton_International_Airport_(KAKR)_20260124_(3).jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>Akron Fulton International Airport, Ohio, from the air in January 2026. The airport was formerly called Akron Municipal Airport (per [Wikipedia](https://en.wikipedia.org/wiki/Akron_Fulton_International_Airport)), where Vanke first raced in the 1950s. **We have not identified which pavement the drags used.** Creator: Designism. Date: 2026-01-24 15:58:13. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akron_Fulton_International_Airport_(KAKR)_20260124_(3).jpg). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## Visual references (external)

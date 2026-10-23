@@ -91,7 +91,7 @@ His signature mattered too. From 1972 he made and signed official SCTA timing sl
 
 <figure markdown>
 ![A stock 1929 Ford Model A roadster (Kampen, Netherlands). It shows the body type of George](../assets/images/commons-model-a-roadster-1929.jpg){ loading=lazy }
-<figcaption markdown>A stock 1929 Ford Model A roadster (Kampen, Netherlands). It shows the body type of George DuVall's Cragar-powered '29, in which Doty first went to Muroc in 1934. **It is not that car.** Creator: Alfvanbeem. Date: 2010-07-10. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1929_Ford_Model_A_roadster_AE-74-91.jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>A stock 1929 Ford Model A roadster (Kampen, Netherlands). It shows the body type of George DuVall's Cragar-powered '29, in which Doty first went to Muroc in 1934. **It is not that car.** Creator: Alfvanbeem. Date: 2010-07-10. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1929_Ford_Model_A_roadster_AE-74-91.jpg). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## Visual references (external)

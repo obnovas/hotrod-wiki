@@ -69,7 +69,7 @@ The police were watching too. That September, just south of the state line, thre
 
 <figure markdown>
 ![Bronze statue of a Civil War soldier on a stone base in Hanover's town square](../assets/images/commons-hanover-pa-sentry-1904.jpg){ loading=lazy }
-<figcaption markdown>"Sentry," the 1904 Civil War statue in Center Square, Hanover, Pa. (photo 2013). The Hanover clubs met a few miles away, in Adams County. Creator: Smallbones. Date: 2013-06-25. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sentry_1904_Hanover_York_County_PA.JPG). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>"Sentry," the 1904 Civil War statue in Center Square, Hanover, Pa. (photo 2013). The Hanover clubs met a few miles away, in Adams County. Creator: Smallbones. Date: 2013-06-25. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sentry_1904_Hanover_York_County_PA.JPG). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 By early 1959 new clubs were forming. Across the line in Taneytown, Maryland, a "recently organized hot rod club" chose turquoise and blue as its colors. Members planned to buy turquoise jackets with black trim, "featuring the club insignia, three carburetors with flames."[^gt590227]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>

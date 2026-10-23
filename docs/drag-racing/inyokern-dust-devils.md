@@ -109,7 +109,7 @@ Ganahl assumed the LA Times story came "just after this last meet," so he may ha
 
 [^lat]: Andrew H. Malcolm, "Finish Line Comes Early," Los Angeles Times, Oct 10, 2005. https://www.latimes.com/archives/la-xpm-2005-oct-10-me-dragstrip10-story.html (accessed 2026-10-15)
 [^pg]: Pat Ganahl, "Last Drag at Inyokern," Pat Ganahl's Rod and Custom, Feb 7, 2022. https://patganahl.com/2022/02/07/last-drag-at-inyokern/ (accessed 2026-10-15)
-[^dl]: Bill Pratt, "Dust Devils Celebrate 51 Years of Racing with a Final Banquet," Drag Racing News Daily (blog), Feb 7, 2006. http://draglist.blogspot.com/2006/02/dust-devils-celebrate-51-years-of.html (accessed 2026-10-15)
+[^dl]: Bill Pratt, "Dust Devils Celebrate 51 Years of Racing with a Final Banquet," Drag Racing News Daily (blog), Feb 7, 2006. https://draglist.blogspot.com/2006/02/dust-devils-celebrate-51-years-of.html (accessed 2026-10-15)
 [^sb]: "MOTOR RACING: Services for two racing legends this weekend," San Bernardino Sun, April 18, 2012. https://www.sbsun.com/sports/20120418/motor-racing-services-for-two-racing-legends-this-weekend/ (accessed 2026-10-15)
 [^nhra]: Phil Burgess, "Remembering 'the Bird,'" NHRA, 2012. https://www.nhra.com/news/2012/remembering-bird (accessed 2026-10-15)
 [^hs]: "HSUMD April meeting: drag racing in old Ridgecrest," news release, Ridgecrest Daily Independent (ridgecrestca.com), Apr 11, 2025. https://www.ridgecrestca.com/news/hsumd-april-meeting-drag-racing-in-old-ridgecrest/article_7bc2f56d-951b-4f93-8b58-eba04720b1bd.html (accessed 2026-10-15)

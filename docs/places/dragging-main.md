@@ -109,7 +109,7 @@ Not everyone was charmed. The older generation thought it "a waste of gas and ti
 
 <figure markdown>
 ![A white streamlined former filling station with rounded corners at 700 Main Street in Hays, Kansas](../assets/images/commons-hays-kansas-700-main-2014.jpg){ loading=lazy }
-<figcaption markdown>A streamlined former filling station at 700 Main Street, Hays, Kansas, in 2014, on the stretch of Main between Thirteenth and Fourth streets that the 1987 yearbook says the draggers drove. The yearbook does not mention this building. Creator: Ammodramus. Date: 2014-09-22. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hays,_Kansas_700_Main_Street_from_SW_1.JPG). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>A streamlined former filling station at 700 Main Street, Hays, Kansas, in 2014, on the stretch of Main between Thirteenth and Fourth streets that the 1987 yearbook says the draggers drove. The yearbook does not mention this building. Creator: Ammodramus. Date: 2014-09-22. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hays,_Kansas_700_Main_Street_from_SW_1.JPG). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## What the four towns share

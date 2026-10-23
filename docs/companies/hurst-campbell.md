@@ -166,7 +166,7 @@ Patent drawing and the Lansing parade photo are credited above and in [Image Cre
 [^bclj]: "Warminster Industry Expands," *Bucks County Life*, January–February 1966, p. 18. Internet Archive scan "Life 1966.1 Jan and Feb." https://archive.org/details/life-1966.1-jan-and-feb (accessed 2026-10-16)
 [^auwm]: "George Hurst and the Hurst Olds," Ate Up With Motor, Mar 6, 2010. https://ateupwithmotor.com/model-histories/hurst-olds-history/ (accessed 2026-10-16). Comments on the page contradict each other on Hurst's birthplace and are not used.
 [^hr20]: Dave Wallace, "From the Archives: How George Hurst became Synonymous with Performance," *Hot Rod*, Jun 1, 2020. https://www.hotrod.com/news/hurst-performance-shifters-marketing (accessed 2026-10-16)
-[^jacg]: "Bill Campbell, the quiet engineer partner with George Hurst…," Just A Car Guy, Jan 14, 2023 (an email from Campbell's daughter, quoted). http://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html (accessed 2026-10-16)
+[^jacg]: "Bill Campbell, the quiet engineer partner with George Hurst…," Just A Car Guy, Jan 14, 2023 (an email from Campbell's daughter, quoted). https://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html (accessed 2026-10-16)
 [^sema13]: Mike Imlay and Carr Winn, "Four Who Made a Difference" (Joe Schubeck), SEMA News, Aug 2013. https://www.sema.org/news-media/magazine/2013/31/four-who-made-difference (accessed 2026-10-16)
 [^alm]: See [Ed Almquist](../people/ed-almquist.md), citing his obituary and the Port Jervis *Times Herald-Record*.
 [^pat]: See [Patents by Hot Rod Figures](../reference/patents.md): US 3,082,639 (filed 1962-09-11) and US 3,172,301 (filed 1962-10-15).

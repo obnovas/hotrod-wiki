@@ -80,7 +80,7 @@ Sources actually consulted (Round 1). Type tags: **[club]** club or primary, **[
 - [mag] BangShift, "...Nitro Ban." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/
 - [mag] Clinton Herald, Cordova Dragway Park. https://www.clintonherald.com/archives/cordova-dragway-park-carries-on-a-popular-pastime/article_bbc6f1b7-2b04-5f8c-8f35-d53d319b7ca5.html
 - [mag] Hagerty, "Detroit's lost dragstrips." https://www.hagerty.com/media/archived/detroit-drag-strips/
-- [ref] DetroitDragway.com history; News-Herald 2011; RememberMichigan (Detroit News quote, radio spots). https://detroitdragway.com/history-of-detroit-dragway/ ; https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/ ; http://www.remembermichigan.com/dragway.aspx?id=1335&type=6
+- [ref] DetroitDragway.com history; News-Herald 2011; RememberMichigan (Detroit News quote, radio spots). https://detroitdragway.com/history-of-detroit-dragway/ ; https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/ ; https://www.remembermichigan.com/dragway.aspx?id=1335&type=6
 - [obit] NHRA, Joe Hrudka obituary, May 28, 2026. https://www.nhra.com/news/2026/joseph-joe-hrudka-founder-mr-gasket-passes-away-age-87
 - [primary] U.S. patents via Google Patents: see [Patents](reference/patents.md) (25 records).
 - [ref] Robert C. Post, *High Performance* (JHU Press, 1994; rev. 1996), WorldCat record. https://search.worldcat.org/title/28212724 (not yet read)
@@ -90,7 +90,7 @@ Sources actually consulted (Round 1). Type tags: **[club]** club or primary, **[
 - [oral] Dave Wallace, "Who Started The Camgrinder Wars? – Part 1," Hot Rod, 2014 (1994 interviews). https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1
 - [mag] Dave Wallace, Drag Rags 1959 Part 2; 1959 Garlits; 1960 (Competition Plus; read 2026-10-22). https://competitionplus.com/drag-rags-1959-part-2-how-the-smokers-beat-the-fuel-ban/ ; https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/ ; https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/
 - [obit] NHRA, Hagerty, Car and Driver, SEMA, Legacy.com: Ed Iskenderian obituaries, Feb 2026 (URLs on the [Iskenderian](people/ed-iskenderian.md) page).
-- [obit] C.J. Hart obituaries (NHRA, OC Register, NYT, AP, Press-Enterprise, Richard Parks), compiled at wediditforlove.com. http://wediditforlove.com/cj-2.html
+- [obit] C.J. Hart obituaries (NHRA, OC Register, NYT, AP, Press-Enterprise, Richard Parks), compiled at wediditforlove.com. https://wediditforlove.com/cj-2.html
 - [obit] Shav Glick, LA Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html
 - [oral] AHRF, "Julian Doty." https://ahrf.com/pioneer/julian-doty/
 - [ref] Coachbuilt.com, "George DuVall (1913–1999)" (census/directory research; DeBell, Doty). http://www.coachbuilt.com/des/d/duvall/duvall.htm
@@ -130,7 +130,7 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 ## Added in Round 7 (Voices)
 - Pancho Barnes Trust Estate Archive, "Interview with Blackie Gold" (2006). https://happybottomridingclub.com/interview-with-blackie-gold/
 - Fuel Curve, "'Kong' Jackson" (quoting Medley's 1988 interview). https://fuelcurve.com/kong-jackson/
-- We Did It For Love, "CJ 'Pappy' Hart – The Passing of a Legend" (obituary compilation, 2004). http://wediditforlove.com/cj-2.html
+- We Did It For Love, "CJ 'Pappy' Hart – The Passing of a Legend" (obituary compilation, 2004). https://wediditforlove.com/cj-2.html
 - Press-Enterprise, "Santa Ana Drags: 65 years after…" (2015). https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/
 - The Hi-lo, "'Mexican Express'…" (2022). https://staging-live.lbpost.com/hi-lo/mexican-express-drag-racing-documentary-lions-drag-strip/
 - Lynell George, "Under the Hood," LA Times (2006). https://www.latimes.com/archives/la-xpm-2006-jul-16-tm-dukes29-story.html
@@ -188,13 +188,13 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 - [oral] Mark Hicks, Detroit News obituary of Fran Hernandez, Jan 20, 2011 (via H.A.M.B.). https://www.jalopyjournal.com/forum/threads/hot-rod-legend-from-the-greatest-generation-fran-hernandez-rip.555417/
 - [mag] Anthony Vestal / NHRA, "NHRA 50 Greatest Drivers: Malcolm Durham," Auto Channel, 2001. https://www.theautochannel.com/news/2001/02/09/014436.html
 - [oral] Phil Burgess, "The Final Fred Files," NHRA.com, July 31, 2009 (Durham quote). https://www.nhra.com/news/2009/final-fred-files
-- [ref] houstonfreewaydragstrip.com (home + history). http://www.houstonfreewaydragstrip.com/
+- [ref] houstonfreewaydragstrip.com (home + history). https://www.houstonfreewaydragstrip.com/
 - [mag] Phil Burgess, "Ghost tracks, the scary sequel," NHRA.com, 2008. https://www.nhra.com/news/2008/ghost-tracks-scary-sequel
 - [ref] CA AB 436 (2023–24), LegiScan / California Legislature. https://legiscan.com/CA/text/AB436/2023 ; https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB436
 - [ref] LA City Attorney report on AB 436 / LAMC 80.36.10 (Oct 10, 2024). https://cityclerk.lacity.org/onlinedocs/2024/24-0037_rpt_atty_10-10-24.pdf
 
 ## Added in Round 10 (Ohio and Midwest strips, Snow/Bartel/Gay, *Street Rod*; accessed 2026-10-15)
-- [museum] John Jodauga, "No. 26: Gene Snow," NHRA 50th Anniversary Top 50 Drivers (2001). http://www.nhra.net/50th/top50/G_Snow26.html
+- [museum] John Jodauga, "No. 26: Gene Snow," NHRA 50th Anniversary Top 50 Drivers (2001). https://www.nhra.net/50th/top50/G_Snow26.html
 - [mag] Phil Burgess, "1970: A 'Super' season for Funny Car," NHRA.com, Mar 4, 2016. https://www.nhra.com/news/2016/1970-super-season-funny-car
 - [mag] "Rambunctious," *Hot Rod*, June 1969 (Don Green photos; web reprint 2023). https://www.hotrod.com/features/rambunctious-june-1969-982-684-84-1
 - [mag] UPI, Baytown, Tex., Oct 6, 1988 (Snow 4.997). https://www.upi.com/Archives/1988/10/06/Top-Fuel-driver-Gene-Snow-of-Ft-Worth-Texas/4826592113600/
@@ -227,7 +227,7 @@ Type tag **[local]** marks local or homegrown sources: local news, club or munic
 
 - [local] Ralph E. Parker, "Pomona Police Join Forces With 'Hot Rodders,'" FBI Law Enforcement Bulletin, Dec 1951. https://leb.fbi.gov/file-repository/archives/december-1951.pdf
 - [local] American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955). https://www.planning.org/pas/reports/report74.htm
-- [local] "Hot Rod Boys Spend Afternoon in Court," 1947project (blog, for July 15, 1947). http://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html
+- [local] "Hot Rod Boys Spend Afternoon in Court," 1947project (blog, for July 15, 1947). https://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html
 - [local] "DRAG-UNS," Texas Racing History forum, Lone Star Speedzone (March 2012). https://www.lonestarspeedzone.com/topic/47203-drag-uns/
 - [local] Chris Murphy, "InterView: Gene Winfield," Modestoview. https://www.modestoview.com/gene-winfield-interview/
 - [local] Chris Murphy, "BigView – Late 1940s Modesto – The Birth of Cruising," Modestoview. https://www.modestoview.com/bigview-late-1940s-modesto-the-birth-of-cruising/
@@ -236,7 +236,7 @@ Type tag **[local]** marks local or homegrown sources: local news, club or munic
 - [local] "MOTOR RACING: Services for two racing legends this weekend," San Bernardino Sun, April 18, 2012. https://www.sbsun.com/sports/20120418/motor-racing-services-for-two-racing-legends-this-weekend/
 - [local] "HSUMD April meeting: drag racing in old Ridgecrest," news release, Ridgecrest Daily Independent, Apr 11, 2025. https://www.ridgecrestca.com/news/hsumd-april-meeting-drag-racing-in-old-ridgecrest/article_7bc2f56d-951b-4f93-8b58-eba04720b1bd.html
 - [mag] Pat Ganahl, "Last Drag at Inyokern," Pat Ganahl's Rod and Custom, Feb 7, 2022. https://patganahl.com/2022/02/07/last-drag-at-inyokern/
-- [forum] Bill Pratt, "Dust Devils Celebrate 51 Years of Racing with a Final Banquet," Drag Racing News Daily (blog), Feb 7, 2006. http://draglist.blogspot.com/2006/02/dust-devils-celebrate-51-years-of.html
+- [forum] Bill Pratt, "Dust Devils Celebrate 51 Years of Racing with a Final Banquet," Drag Racing News Daily (blog), Feb 7, 2006. https://draglist.blogspot.com/2006/02/dust-devils-celebrate-51-years-of.html
 - [local] SRCA Dragstrip, "About Us" (the Sunflower Rod and Custom Association's own history). https://www.srcadragstrip.com/about-us
 - [local] "1955: Back to where it all began," Great Bend Tribune (2011). https://www.gbtribune.com/sports/local_sports/1955-back-to-where-it-all-began/
 - [mag] Phil Burgess, "Reliving NHRA's first race: the 1955 National Championship Drags in Great Bend," NHRA, Oct 27, 2021. https://www.nhra.com/news/2021/reliving-nhra-s-first-race-1955-national-championship-drags-great-bend
@@ -297,7 +297,7 @@ Tags as above. The 1950s–60s newspaper and yearbook items are scanned page OCR
 - [ref] Open Library, *Street rod* (1953). https://openlibrary.org/works/OL6663722W/Street_rod
 - [ref] "Street Rod by Henry Gregor Felsen," EBSCO Research Starters. https://www.ebsco.com/research-starters/literature-and-writing/street-rod-henry-gregor-felsen/
 - [mag] Review of *Street Rod*, Speedreaders. https://speedreaders.info/8720-street-rod/
-- [local] Peter D. Sieruta, "And Tell All the Stars Above...," *Collecting Children's Books* (blog), Apr 23, 2009. http://collectingchildrensbooks.blogspot.com/2009/04/and-tell-all-stars-above.html
+- [local] Peter D. Sieruta, "And Tell All the Stars Above...," *Collecting Children's Books* (blog), Apr 23, 2009. https://collectingchildrensbooks.blogspot.com/2009/04/and-tell-all-stars-above.html
 - [mag] Andrew Wolf, "Flashback Friday: Iowa's Des Moines Dragway," Dragzine, July 15, 2011. https://www.dragzine.com/news/flashback-friday-iowas-des-moines-dragway/
 - [mag] Brian Lohnes, "Drag Racing's Chuck Finders Passes," BangShift, May 26, 2009. https://bangshift.com/general-news/drag-racing-s-chuck-finders-passes/
 - [forum] "Gasser Fans" thread, NSRA (UK) forum archive, May 2009 (search excerpt only; bot check). https://forum.nsra.org.uk/archive/index.php/t-28331.html
@@ -308,7 +308,7 @@ Companies & Shops profiles. Tags as above; **[corp]** marks company-written hist
 
 - [local] "Warminster Firm," *Panorama: The Magazine of Bucks County* (Doylestown, Pa.), Oct 1965, pp. 3–6. https://archive.org/details/panorama-1965.10-october
 - [local] *Bucks County Life*, Nov 1965 (editor's column, p. 18) and "Warminster Industry Expands," Jan–Feb 1966, p. 18. https://archive.org/details/life-1965.11-november and https://archive.org/details/life-1966.1-jan-and-feb
-- [oral] "Bill Campbell, the quiet engineer partner with George Hurst…" (email from Campbell's daughter), Just A Car Guy, Jan 14, 2023. http://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html
+- [oral] "Bill Campbell, the quiet engineer partner with George Hurst…" (email from Campbell's daughter), Just A Car Guy, Jan 14, 2023. https://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html
 - [mag] "George Hurst and the Hurst Olds," Ate Up With Motor, Mar 6, 2010. https://ateupwithmotor.com/model-histories/hurst-olds-history/
 - [mag] Dave Wallace, "From the Archives: How George Hurst became Synonymous with Performance," *Hot Rod*, Jun 1, 2020. https://www.hotrod.com/news/hurst-performance-shifters-marketing
 - [mag] Don Sherman, "These 6 performance parts are true hot rod heroes," Hagerty Media, Dec 3, 2020. https://www.hagerty.com/media/magazine-features/these-6-performance-parts-are-true-hot-rod-heroes/

@@ -94,5 +94,5 @@ The racers remembered him too:
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Opening attendance:** the LA Times (Shav Glick) gives about 500 spectators and about 50 cars, and quotes Hart that the final day drew more than 4,000.[^wd] Compare [Santa Ana](../eras/1950s-santa-ana-drags.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-[^wd]: We Did It For Love, "CJ 'Pappy' Hart – The Passing of a Legend" (reprints NHRA.com 6/26/2004; Orange County Register; LA Times 6/30/2004; NYT 7/4/2004; AP; Press-Enterprise; Richard Parks). http://wediditforlove.com/cj-2.html (accessed 2026-10-13)
+[^wd]: We Did It For Love, "CJ 'Pappy' Hart – The Passing of a Legend" (reprints NHRA.com 6/26/2004; Orange County Register; LA Times 6/30/2004; NYT 7/4/2004; AP; Press-Enterprise; Richard Parks). https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
 [^pe]: Press-Enterprise, "Santa Ana Drags: 65 years after the strip was founded, it still brings back fond racing memories" (Oct 1, 2015). https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/ (accessed 2026-10-13)

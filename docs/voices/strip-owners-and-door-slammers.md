@@ -62,7 +62,7 @@ Snow came to racing through the used-car lot:
 
 > "I did that because I could make more money than what engineers were making at General Dynamics."
 
-— Gene Snow, on quitting electrical engineering at UT-Arlington to sell used cars, quoted by John Jodauga, "No. 26: Gene Snow," NHRA Top 50 (2001). Access 2026-10-15. http://www.nhra.net/50th/top50/G_Snow26.html
+— Gene Snow, on quitting electrical engineering at UT-Arlington to sell used cars, quoted by John Jodauga, "No. 26: Gene Snow," NHRA Top 50 (2001). Access 2026-10-15. https://www.nhra.net/50th/top50/G_Snow26.html
 
 > "I would win a race with a dealership car on Sunday and usually sold the winning entry the next day."
 

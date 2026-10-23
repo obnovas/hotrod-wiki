@@ -89,7 +89,7 @@ Bob's itself is still there. The restaurant history page says Friday-night car s
 
 <figure markdown>
 ![Bob's Big Boy, 4211 Riverside Drive, Burbank, Jan 2014. The uploader calls it the oldest r](../assets/images/commons-bobs-big-boy-burbank-2014.jpg){ loading=lazy }
-<figcaption markdown>Bob's Big Boy, 4211 Riverside Drive, Burbank, Jan 2014. The uploader calls it the oldest remaining Bob's Big Boy. Creator: Junkyardsparkle. Date: 2014-01-21 12:55:33. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bobs_big_boy_burbank_2014-01-21_1.jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>Bob's Big Boy, 4211 Riverside Drive, Burbank, Jan 2014. The uploader calls it the oldest remaining Bob's Big Boy. Creator: Junkyardsparkle. Date: 2014-01-21 12:55:33. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bobs_big_boy_burbank_2014-01-21_1.jpg). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## Visual references (external)

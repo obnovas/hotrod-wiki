@@ -102,7 +102,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 
 
 ### Family accounts
-- [Just A Car Guy, "Bill Campbell, the quiet engineer partner…"](http://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html) (2023; an email from Campbell's daughter, quoted) → the $1,000 shifter prize and her account of the rescue tool, both flagged ◐ → [Hurst-Campbell](../companies/hurst-campbell.md).
+- [Just A Car Guy, "Bill Campbell, the quiet engineer partner…"](https://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html) (2023; an email from Campbell's daughter, quoted) → the $1,000 shifter prize and her account of the rescue tool, both flagged ◐ → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Kustomrama, Jack Engle](https://kustomrama.com/wiki/Jack_Engle) (photos and captions courtesy Mark Engle) → the homemade cam-grinder story and "he and Isky both bought their first cams from Ed Winfield" → [Jack Engle](../people/jack-engle.md).
 - [JR Thompson's Gasser Reunion page](http://www.jrthompson.net/gasserreunionchuckfinders.html) (includes "Farewell, Chuck Finders" by his son) → Chuck Finders's racing start and shop, told by his son (family account, ◐) → [The Ohio Gassers](../places/ohio-gassers.md).
 
@@ -110,7 +110,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Salem Public Library, *Yesteryears*](http://history.salem.lib.oh.us/SalemHistory/Yesteryears/1992/Vol1No39Mar2op.pdf) (the *Salem News*'s 1990s local-history journal, digitized by the library) → the Mosseys' own story of Quaker City, 1957 onward → [Quaker City](../drag-racing/quaker-city-salem.md).
 - [houstonfreewaydragstrip.com](https://www.houstonfreewaydragstrip.com/houston-international-speedway-history.htm) → the strip's local chronology and quoted 1959 Chronicle text, with its own claim that Don Gay bought it → [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md).
 - [Historical Society of the Upper Mojave Desert](https://www.ridgecrestca.com/news/hsumd-april-meeting-drag-racing-in-old-ridgecrest/article_7bc2f56d-951b-4f93-8b58-eba04720b1bd.html) (2025 talk announcement) → local memories of racing around Ridgecrest, and the claim that Inyokern was the longest-running strip → [Inyokern](../drag-racing/inyokern-dust-devils.md).
-- [1947project](http://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html) (a blog that posts daily 1947 news) → a July 1947 Compton court item → [Pomona](../drag-racing/pomona-choppers-fontana.md).
+- [1947project](https://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html) (a blog that posts daily 1947 news) → a July 1947 Compton court item → [Pomona](../drag-racing/pomona-choppers-fontana.md).
 - [Barrio Boychik](https://barrioboychik.wordpress.com/2015/12/29/the-cruising-culture-of-east-los-angeles/) (local-history blog, 2015) → a dated account of the March 23, 1979 Whittier Boulevard ban → [Whittier Boulevard](../places/whittier-blvd.md).
 
 - [Denver Public Library, "Colorado Auto Racing: A Brief History"](https://history.denverlibrary.org/news/colorado-auto-racing-brief-history) (library blog, 2016) → Bandimere Speedway's 1958 opening and its parts-store origin → [March 1957 survey](../drag-racing/march-1957-drag-strip-survey.md).

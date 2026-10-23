@@ -101,7 +101,7 @@ When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Ti
 
 <figure markdown>
 ![Car show at the American Graffiti festival, Modesto, June 2024. This is the revival.](../assets/images/commons-american-graffiti-festival-2024.jpg){ loading=lazy }
-<figcaption markdown>Car show at the American Graffiti festival, Modesto, June 2024. This is the revival. Creator: Andy Alfaro. Date: 2024-06-04. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:American_Graffiti_Festival_Modesto,_CA.jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>Car show at the American Graffiti festival, Modesto, June 2024. This is the revival. Creator: Andy Alfaro. Date: 2024-06-04. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:American_Graffiti_Festival_Modesto,_CA.jpg). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 [^gm]: Graffiti USA Classic Car Museum, "Modesto Historic Cruise Route." https://www.graffitiusamuseum.com/cruise_route/ (accessed 2026-10-13)

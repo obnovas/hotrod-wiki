@@ -116,7 +116,7 @@ None of **Peggy's own words** from the 1950s have turned up. Every quotation of 
 
 <figure markdown>
 ![A 1933 Willys Model 77 coupe, the model Peggy Hart raced at Santa Ana. It is not her car.](../assets/images/commons-1933-willys-77-coupe.jpg){ loading=lazy }
-<figcaption markdown>A 1933 Willys Model 77 coupe, the model Peggy Hart raced at Santa Ana. **It is not her car.** Creator: Mustang Joe. Date: 2011-03-13 14:38. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1933_Willys_Model_77_Coupe_(5750458011).jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>A 1933 Willys Model 77 coupe, the model Peggy Hart raced at Santa Ana. **It is not her car.** Creator: Mustang Joe. Date: 2011-03-13 14:38. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1933_Willys_Model_77_Coupe_(5750458011).jpg). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 <figure markdown>
@@ -124,10 +124,10 @@ None of **Peggy's own words** from the 1950s have turned up. Every quotation of 
 <figcaption markdown>Orange County Airport in the 1950s, site of the Santa Ana Drags that she co-promoted. Creator: Orange County Archives. Date: 1950s (archive's date). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orange_County_Airport,_1950s.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Courtesy line requested by the archive: "Photo courtesy Orange County Archives."</figcaption>
 </figure>
 
-[^ocr]: Robin Hinch, Orange County Register (2004), reproduced at wediditforlove.com. http://wediditforlove.com/cj-2.html
-[^nhra]: Phil Burgess, NHRA.com, June 26, 2004, reproduced at wediditforlove.com. http://wediditforlove.com/cj-2.html
-[^pe04]: Lyle Spencer, Press-Enterprise (2004), reproduced at wediditforlove.com. http://wediditforlove.com/cj-2.html
-[^parks]: Richard Parks, "Gone Racin'... To say goodbye to C.J. Hart" (2004), reproduced at wediditforlove.com. http://wediditforlove.com/cj-2.html
+[^ocr]: Robin Hinch, Orange County Register (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
+[^nhra]: Phil Burgess, NHRA.com, June 26, 2004, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
+[^pe04]: Lyle Spencer, Press-Enterprise (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
+[^parks]: Richard Parks, "Gone Racin'... To say goodbye to C.J. Hart" (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
 [^pe]: Johan Moreno, Press-Enterprise, Oct 1, 2015. https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/
 [^mshf]: MSHF, "C. J. Hart." https://www.mshf.com/hall-of-fame/inductees/c-j-hart.html
 [^lat]: Shav Glick, "C.J. 'Pappy' Hart, 93," Los Angeles Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html

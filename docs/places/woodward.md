@@ -116,7 +116,7 @@ How it ended is its own story: the 1960s ordinances, the 1963 case that led to t
 
 <figure markdown>
 ![A 1967 Pontiac GTO Royal Bobcat convertible, a dealer-tuned package from Royal Pontiac of ](../assets/images/commons-royal-bobcat-gto-1967.jpg){ loading=lazy }
-<figcaption markdown>A 1967 Pontiac GTO Royal Bobcat convertible, a dealer-tuned package from Royal Pontiac of Royal Oak, photographed in Aug 2018 (Dream Cruise week, per the uploader's date). Creator: Mustang Joe. Date: Taken on 18 August 2018, 17:14. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1967_Pontiac_GTO_Royal_Bobcat_Convertible_(53777644236).jpg). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>A 1967 Pontiac GTO Royal Bobcat convertible, a dealer-tuned package from Royal Pontiac of Royal Oak, photographed in Aug 2018 (Dream Cruise week, per the uploader's date). Creator: Mustang Joe. Date: Taken on 18 August 2018, 17:14. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1967_Pontiac_GTO_Royal_Bobcat_Convertible_(53777644236).jpg). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## Visual references (external)

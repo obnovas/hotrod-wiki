@@ -110,4 +110,4 @@ Compare the other local programs in [What the City Planners Wrote (1955)](planne
 [^leb]: Ralph E. Parker, "Pomona Police Join Forces With 'Hot Rodders,'" FBI Law Enforcement Bulletin, Dec 1951, pp. 2–5 and 11. https://leb.fbi.gov/file-repository/archives/december-1951.pdf (accessed 2026-10-15)
 [^aspo]: American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955). https://www.planning.org/pas/reports/report74.htm (accessed 2026-10-15)
 [^nhra]: Phil Burgess, "Pomona: SoCal drag racing's lifelong love," NHRA, Feb 1, 2012. https://www.nhra.com/news/2012/pomona-socal-drag-racing-s-lifelong-love (accessed 2026-10-15)
-[^c47]: "Hot Rod Boys Spend Afternoon in Court," 1947project (blog), posted July 15, 2005, for July 15, 1947. http://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html (accessed 2026-10-15)
+[^c47]: "Hot Rod Boys Spend Afternoon in Court," 1947project (blog), posted July 15, 2005, for July 15, 1947. https://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html (accessed 2026-10-15)

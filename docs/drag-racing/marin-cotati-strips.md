@@ -90,7 +90,7 @@ A week later the hot rodders' committee picked seven possible sites in the **Nov
 
 <figure markdown>
 ![Sign reading Welcome to Gnoss Field, Marin County Airport](../assets/images/commons-marin-county-airport-sign-2014.jpg){ loading=lazy }
-<figcaption markdown>Gnoss Field, the county airport at Novato (photo 2014). Wikipedia says the Wright family opened an airport just west of the present site after World War II, and the county bought it in 1968.[^wikignoss] The 1956 and 1960 strip sites were proposed "in the vicinity of Novato airport"; this photo shows the place today, not a strip. Creator: Mx. Granger. Date: 2014-06-25. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marin_County_Airport_sign.JPG). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>Gnoss Field, the county airport at Novato (photo 2014). Wikipedia says the Wright family opened an airport just west of the present site after World War II, and the county bought it in 1968.[^wikignoss] The 1956 and 1960 strip sites were proposed "in the vicinity of Novato airport"; this photo shows the place today, not a strip. Creator: Mx. Granger. Date: 2014-06-25. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marin_County_Airport_sign.JPG). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## Garage dragsters (August 1956)

@@ -153,7 +153,7 @@ The pass itself is not in dispute. The date is.
 - [NHRA, "1970: A 'Super' season for Funny Car" (Charger and Dart photos)](https://www.nhra.com/news/2016/1970-super-season-funny-car)
 - [NHRA, "Charging into Funny Car history" (second-generation Rambunctious Chargers)](https://www.nhra.com/news/2021/charging-funny-car-history)
 
-[^top50]: John Jodauga, "No. 26: Gene Snow," NHRA 50th Anniversary Top 50 Drivers (2001). Accessed 2026-10-15. http://www.nhra.net/50th/top50/G_Snow26.html
+[^top50]: John Jodauga, "No. 26: Gene Snow," NHRA 50th Anniversary Top 50 Drivers (2001). Accessed 2026-10-15. https://www.nhra.net/50th/top50/G_Snow26.html
 [^nd16]: Phil Burgess, "1970: A 'Super' season for Funny Car," NHRA.com, Mar 4, 2016. Accessed 2026-10-15. https://www.nhra.com/news/2016/1970-super-season-funny-car
 [^hr69]: "Rambunctious," *Hot Rod*, June 1969 (photos Don Green), web reprint Jan 1, 2023. Accessed 2026-10-15. https://www.hotrod.com/features/rambunctious-june-1969-982-684-84-1
 [^upi]: UPI, "Top Fuel driver Gene Snow of Ft. Worth, Texas...," Baytown, Tex., Oct 6, 1988. Accessed 2026-10-15. https://www.upi.com/Archives/1988/10/06/Top-Fuel-driver-Gene-Snow-of-Ft-Worth-Texas/4826592113600/

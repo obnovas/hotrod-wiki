@@ -98,5 +98,5 @@ Felsen calls himself a member, so an Iowa Timing Association existed by early 19
 [^ebsco]: "Street Rod by Henry Gregor Felsen," EBSCO Research Starters (plot summary). https://www.ebsco.com/research-starters/literature-and-writing/street-rod-henry-gregor-felsen/ (accessed 2026-10-16)
 [^iasnip]: Internet Archive full-text search results for "Iowa Timing Association," showing the dedication in scans of *Street Rod* (1953 Random House; 1962 printing). https://archive.org/details/streetrod00fels ; https://archive.org/details/bwb_T4-AKE-303 (accessed 2026-10-16; text lending-restricted, snippet only)
 [^speed]: Review of *Street Rod* (1962 Bantam paperback), Speedreaders. https://speedreaders.info/8720-street-rod/ (accessed 2026-10-16)
-[^ccb]: Peter D. Sieruta, "And Tell All the Stars Above...," *Collecting Children's Books* (blog), April 23, 2009. http://collectingchildrensbooks.blogspot.com/2009/04/and-tell-all-stars-above.html (accessed 2026-10-16)
+[^ccb]: Peter D. Sieruta, "And Tell All the Stars Above...," *Collecting Children's Books* (blog), April 23, 2009. https://collectingchildrensbooks.blogspot.com/2009/04/and-tell-all-stars-above.html (accessed 2026-10-16)
 [^dmd]: Andrew Wolf, "Flashback Friday: Iowa's Des Moines Dragway," Dragzine, July 15, 2011. https://www.dragzine.com/news/flashback-friday-iowas-des-moines-dragway/ (accessed 2026-10-16)

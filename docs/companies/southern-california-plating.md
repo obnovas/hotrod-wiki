@@ -80,7 +80,7 @@ The phaeton itself is gone. Julian Doty told Pat Ganahl he last saw the phaeton 
 
 <figure markdown>
 ![A stock 1935 Ford 750 Phaeton at the Den Hartogh Ford Museum. It shows the body type of So](../assets/images/commons-1935-ford-phaeton.jpg){ loading=lazy }
-<figcaption markdown>A stock 1935 Ford 750 Phaeton at the Den Hartogh Ford Museum. It shows the body type of So. Cal. Plating's lost promotional phaeton. **It is not that car**, which had a '36 front end and a custom grille and is missing. Creator: Alf van Beem. Date: 2013-03-02 13:32:26. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1935_Ford_750_Phaeton_pic1.JPG). License: [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
+<figcaption markdown>A stock 1935 Ford 750 Phaeton at the Den Hartogh Ford Museum. It shows the body type of So. Cal. Plating's lost promotional phaeton. **It is not that car**, which had a '36 front end and a custom grille and is missing. Creator: Alf van Beem. Date: 2013-03-02 13:32:26. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1935_Ford_750_Phaeton_pic1.JPG). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
 ## Visual references (external)
