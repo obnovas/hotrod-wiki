@@ -87,13 +87,13 @@ Most of our cruising pages describe bans: Modesto's 1990 ordinances, Whittier Bo
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *We paraphrase because we have not read the page.*[^dn] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did Ted's closing end the era?** We paraphrase the *Detroit News* story because we have not read the page.[^dn] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The "last blow"?** The Birmingham Museum calls the 1967 road-rage murder of 18-year-old Michael Sass the "last blow" to Woodward's mid-century cruising; we have no other source on the case.[^bham] Lead: the *Birmingham Eccentric* and Detroit papers, 1967. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>
 
-### What the sources don't tell us
+### What don't the sources tell us? { #what-the-sources-dont-tell-us }
 
 - **Ordinance text.** We have no ordinance number, text, vote count or penalty for any 1960s Woodward-corridor ordinance. A Birmingham city clerk's record or a city commission minute book would settle it.
 - **Ferndale and Pontiac.** We found nothing for either city.

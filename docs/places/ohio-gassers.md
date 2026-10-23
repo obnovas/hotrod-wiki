@@ -151,27 +151,27 @@ There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals clas
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Hill's opinion as a participant-journalist.*[^hr15] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Was "door-slammer" a Western insult?** That is Jim Hill's opinion, as a participant-journalist.[^hr15] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** *Hot Rod* says that in 1963 "he won **C/Gas** with a 1940 Willys."[^hr15] We have not seen the 1963 class-winner list. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **B/Gas or C/Gas in 1963?** Hill's photo caption puts him in B/Gas class runs at the 1963 Nationals;[^ecgm] *Hot Rod* says that in 1963 "he won **C/Gas** with a 1940 Willys."[^hr15] We have not seen the 1963 class-winner list. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Who built the 1968 Mr. Gasket Test Car?** It was a blown big-block Camaro, A/GS. One Hill piece says "Joe Hrudka had **Dave Meal** build" it. His Mr. Gasket history says it "was built by **Hrudka Bros.**"[^ecgm][^ecmg] Both may be true: Meal as fabricator, the Hrudkas as owners. The car "saw little racing action" before A/GS faded in favor of Funny Car match-race money.[^ecgm] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The Dark Horse.** The car's Tim Woods engine, its Stone-Woods-Cook colors, its booking role and "quicker than the SWC 'A' car" all come from Chuck Finders Jr.'s farewell on JR Thompson's site.[^jrt1] Lead: *Drag News* booking ads for Stone-Woods-Cook in the 1960s. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Was the Dark Horse quicker than the SWC car?** The car's Tim Woods engine, its Stone-Woods-Cook colors, its booking role and "quicker than the SWC 'A' car" all come from Chuck Finders Jr.'s farewell on JR Thompson's site.[^jrt1] Lead: *Drag News* booking ads for Stone-Woods-Cook in the 1960s. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No record sheet seen.*[^jrt1] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **146.57 mph in 9.76?** The B/GS records come from the farewell page; we have seen no record sheet.[^jrt1] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Did Garlits stop to pray?** The story that Garlits ran to the wreck, then to the tower to ask everyone "to pray for Chuck," and came back to win his class comes only from the farewell page.[^jrt1] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **The forum post.** The May 19, 2009 report of Finders's death comes to us only as a search excerpt, because the forum blocked our fetch.[^nsrauk] BangShift's May 26 item is readable and supports the date.[^bangshift] A newspaper obituary would settle it. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Did Finders die in May 2009?** The May 19, 2009 report of Finders's death comes to us only as a search excerpt, because the forum blocked our fetch.[^nsrauk] BangShift's May 26 item is readable and supports the date.[^bangshift] A newspaper obituary would settle it. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>**Single source so far.** **A 1965 world title for Cates?** That Virgil Cates won the NHRA World Championship Comp Eliminator title in 1965 comes only from Jim Hill's East Coast Drag Times Hall of Fame article.[^ecgm] Lead: NHRA's 1965 World Finals results. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 <a id="q-9" class="hr-q-anchor"></a>**Single source so far.** **The first woman licensed for a supercharged car?** Barbara Hamilton's "first" comes from her East Coast Drag Times Hall of Fame entry (2004), a tribute claim, as relayed in Jim Hill's article.[^ecgm] <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
-<a id="q-10" class="hr-q-anchor"></a>**Disputed.** **Names:** Hill names the Hill brothers "Pete and Bill" in his 2016 Midwest piece, matching Pete Hill's own letter on the [Red Baron](../cars/hill-bros-red-baron.md) page, but "Pete and Tom Hill" in his Mr. Gasket piece.[^ecgm][^ecmg] We use **Pete and Bill**. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
+<a id="q-10" class="hr-q-anchor"></a>**Disputed.** **Pete and Bill, or Pete and Tom?** Hill names the Hill brothers "Pete and Bill" in his 2016 Midwest piece, matching Pete Hill's own letter on the [Red Baron](../cars/hill-bros-red-baron.md) page, but "Pete and Tom Hill" in his Mr. Gasket piece.[^ecgm][^ecmg] We use **Pete and Bill**. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 
-<a id="q-11" class="hr-q-anchor"></a>**Single source so far.** *Interested party; figures are his.*[^hr15] <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
+<a id="q-11" class="hr-q-anchor"></a>**Single source so far.** **Nearly $2,000 a class win?** Hill wrote Crane's ad copy, so he is an interested party, and the figures are his.[^hr15] <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
 
 ## Images
 

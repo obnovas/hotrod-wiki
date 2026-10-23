@@ -75,7 +75,7 @@ This is a regional repeat gathering, documented for its policing history more th
 
 <a id="q-1" class="hr-q-anchor"></a>
 
-### Closure, ⚠ two dates
+### When was the closure? ⚠ { #closure-two-dates }
 
 The LA Times archive feature (2017) says: "On Aug. 31, 1979, the Sheriff's Department closed Whittier between Atlantic and Eastern." A 2017 news article says barricades went up "in September 1979."[^lat79][^lat17]
 

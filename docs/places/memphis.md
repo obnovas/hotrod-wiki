@@ -104,19 +104,19 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Who won the September 1955 meet?** Only SEMA News, citing *Hot Rod* (Dec 1955), gives the result: Bob James of the Dallas Custom Racing Team over the Godman & Dyer A/MR Model T.[^sema] An earlier draft said other summaries gave Godman & Dyer Top Eliminator. Neither the Memphis Tech High page (read in its 2024 Wayback copy) nor the BangShift obituary says so, so we have dropped that. The Tech High page has Godman and Dyer winning their *class* at the 1955 Great Bend Nationals, a different event.[^mth][^bs] We still want the *Hot Rod* report itself. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have this from secondary sources only.[^dm][^tl] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Was Lakeland in *Two-Lane Blacktop*?** We have this from secondary sources only.[^dm][^tl] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The first Shootout, at Memphis in 1992?** Only *Hot Rod*, which ran the event, reports it: its December 1992 story and its 2012 anniversary piece put the first Fastest Street Car Shootout at Memphis on Sept. 19–20, 1992.[^hr92][^hr12] We have no independent account. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Was the Bo-Weevil on the 1965 bill?** The SEMO Drag Strip's 1965 opening-day ad seems to headline a Tennessee fuel dragster that reads like Godman's Bo-Weevil, but the scan is garbled.[^sk62] See [SEMO Drag Strip](../drag-racing/semo-malden-drag-strip.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **The club's early dates.** The 1947 founding and the March 15, 1952 exhibit at Klyce Motors come from the Memphis Rodders' own site, which reproduces a *Commercial Appeal* photo.[^mr] We have not seen the photo in the paper itself. Lead: the *Commercial Appeal* for March 1952. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Founded 1947, at Klyce Motors in 1952?** The 1947 founding and the March 15, 1952 exhibit at Klyce Motors come from the Memphis Rodders' own site, which reproduces a *Commercial Appeal* photo.[^mr] We have not seen the photo in the paper itself. Lead: the *Commercial Appeal* for March 1952. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Does Fulghum's '32 survive?** That the club car survives, owned by David Kelley, comes only from the Memphis Rodders' own site.[^mr] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>**Disputed.** **1968 or 1969?** Edelbrock's 2023 statement dates Lunati's cam shop to 1968,[^edel] and his family's obituary says 1969.[^lunobit] See [Joe Lunati](../people/joe-lunati.md#q-3). <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
-<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is the company's own history, we have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb," without naming the corner.[^comp15] <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** **Was RHS on Sun Studios' corner?** The Union-and-Marshall location is the company's own history.[^comp15] We have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb." <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
 ## Images
 

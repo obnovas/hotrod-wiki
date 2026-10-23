@@ -66,7 +66,7 @@ The kids did not stop cruising. He says the scene then moved to the Richmond Str
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The crackdown.** The whole page rests on John Nova Lomax's 2009 column, written from memory; the roadblocks, the side-street ban and "about 1986" are his.[^hp] We have found no city ordinance or newspaper report from the time. Lead: the *Houston Chronicle* and *Houston Post* for 1985–87 (the Houston Public Library holds the *Post*). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did Houston really end Westheimer cruising in 1986?** The whole page rests on John Nova Lomax's 2009 column, written from memory; the roadblocks, the side-street ban and "about 1986" are his.[^hp] We have found no city ordinance or newspaper report from the time. Lead: the *Houston Chronicle* and *Houston Post* for 1985–87 (the Houston Public Library holds the *Post*). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

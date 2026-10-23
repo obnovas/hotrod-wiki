@@ -90,9 +90,9 @@ The racers remembered him too:
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** The Orange County Register obituary (Robin Hinch) called Peggy "the only woman racer." That is a tribute-piece superlative we cannot verify, and we treat it as a claim only.[^wd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The only woman racer?** The *Orange County Register* obituary (Robin Hinch) called Peggy that; it is a tribute-piece superlative we cannot verify.[^wd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Opening attendance:** the LA Times (Shav Glick) gives about 500 spectators and about 50 cars, and quotes Hart that the final day drew more than 4,000.[^wd] Compare [Santa Ana](../eras/1950s-santa-ana-drags.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **How many came to the opening?** The LA Times (Shav Glick) gives about 500 spectators and about 50 cars, and quotes Hart that the final day drew more than 4,000.[^wd] Compare [Santa Ana](../eras/1950s-santa-ana-drags.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 [^wd]: We Did It For Love, "CJ 'Pappy' Hart – The Passing of a Legend" (reprints NHRA.com 6/26/2004; Orange County Register; LA Times 6/30/2004; NYT 7/4/2004; AP; Press-Enterprise; Richard Parks). https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
 [^pe]: Press-Enterprise, "Santa Ana Drags: 65 years after the strip was founded, it still brings back fond racing memories" (Oct 1, 2015). https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/ (accessed 2026-10-13)
