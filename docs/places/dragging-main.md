@@ -66,8 +66,6 @@ Every town with one main street and too many teenagers invented the same thing a
 
 The big cruise strips on this wiki, from [Woodward](woodward.md) to [Van Nuys](van-nuys.md), have books and documentaries. The small ones mostly have yearbooks. This page collects what the kids themselves wrote down, town by town. None of these loops is tied to a famous builder or company. They are recorded here as what they were: **regional repeat gatherings**, every Friday and Saturday night, for decades.
 
-## Two meanings of one word
-
 The phrase could mean two different things. In **Twin Falls, Idaho**, in 1957, a woman told the local paper that some girls had invited her to go "dragging Main," which they said meant racing any other carload of teenagers down the avenue (see [Main Avenue, Twin Falls](twin-falls-main-avenue.md)). Everywhere else in this file, it means a slow parade. The yearbooks below describe looking, honking and turning around, not racing. When an old-timer says he "dragged Main," it is worth asking which kind.
 
 ## Franklin, North Carolina (1957–58): a hobby you could list
