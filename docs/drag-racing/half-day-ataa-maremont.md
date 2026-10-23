@@ -91,14 +91,7 @@ The sponsor's best story is about turnout. *Sales Management* (June 1, 1954) say
 
 ## Beyond Illinois: the St. Charles test
 
-The next step was to take the program on the road. In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
-
-| Source | Competitors | Spectators |
-|---|---|---|
-| *Sales Management*, June 1, 1954 | "some 140" | "approximately 1,500" |
-| *Escanaba Daily Press* wire feature, Jul 22, 1954 (OCR, partly garbled) | reads "140" | reads "2,000" |
-| *Traffic Digest and Review* and *The Police Chief*, July 1954 | "more than 200" | 2,000 |
-| *Motor Age*, June 1955 | "200 entries" | 2,000 |
+The next step was to take the program on the road. In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree on its size: "some 140" competitors and "approximately 1,500" spectators in the earliest report, "more than 200" and 2,000 in later retellings.[^sm][^tdr]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 For the 1954 season *Sales Management* says the ATAA would help local hot rodders pick a strip and then "send a crew of specialists" (an electrician for timing and public-address systems, a safety manager to inspect and classify vehicles, and a track manager) to run the first program in each area, then leave the local unit to carry on.[^sm] The wire feature says Maremont claimed the ATAA then represented "some 5,000 hot-rodders in Illinois, Wisconsin and Indiana."[^esc]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -138,6 +131,14 @@ The safety pitch did not settle the argument. In March 1957, a wire survey on dr
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The two scans differ on the invitation count (26 vs 28; both OCR), and both repeat Maremont.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** The numbers grow as the story is retold, from 140 competitors to "more than 200" and from 1,500 spectators to 2,000. We cannot tell which is right. The earliest and most detailed account says 140 and 1,500.[^sm][^esc][^tdr][^pc][^ma] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
+| Source | Competitors | Spectators |
+|---|---|---|
+| *Sales Management*, June 1, 1954 | "some 140" | "approximately 1,500" |
+| *Escanaba Daily Press* wire feature, Jul 22, 1954 (OCR, partly garbled) | reads "140" | reads "2,000" |
+| *Traffic Digest and Review* and *The Police Chief*, July 1954 | "more than 200" | 2,000 |
+| *Motor Age*, June 1955 | "200 entries" | 2,000 |
+
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** By mid-1955 *Motor Age* says ATAA chapters existed in places as scattered as Corpus Christi, Texas, Washington, D.C., and Puyallup, Wash. (printed "Payallupe"), and that the ATAA published its own paper, *The Dragster*.[^ma] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
