@@ -2,14 +2,9 @@
 title: 'The Harts of Santa Ana: Pappy, Peggy and Gerald'
 summary: C.J. "Pappy" Hart and Peggy Hart ran the Santa Ana drags from 1950 to 1959. Here are their own words and those of people who knew them.
 department: voices
+era: 1950s
 eras:
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1950
 - 2015

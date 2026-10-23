@@ -2,14 +2,10 @@
 title: The Ohio Gassers
 summary: '"The Ohio Gassers" was never a chartered club: it was a loose circle of Cleveland high-school friends and their rivals across Ohio who ran gas-class cars.'
 department: places
+era: 1960s
 eras:
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1955
 - 2016

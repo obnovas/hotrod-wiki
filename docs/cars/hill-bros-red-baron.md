@@ -2,6 +2,7 @@
 title: 'The "Red Baron": A Mock Apology on Wheels'
 summary: The Hill brothers' "Red Baron" Willys gasser and Pete Hill's 1967 mock apology letter to Drag News, told mostly through oral history and documents gathered on a Gasser Legends page.
 department: cars
+era: 1960s
 eras:
 - 1960s
 - 1970s

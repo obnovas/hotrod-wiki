@@ -2,14 +2,11 @@
 title: 'Moon Equipment: The Café, the Fuel Block and the Eyes'
 summary: From Moon's Café in Santa Fe Springs to the fuel block and the Mooneyes logo, this is the story of Dean Moon and its rebirth as Mooneyes USA.
 department: companies
+era: 1950s
 eras:
-- 1930s
 - 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
 years:
 - 1936
 - 1992

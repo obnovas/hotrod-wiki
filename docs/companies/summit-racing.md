@@ -2,14 +2,11 @@
 title: 'Summit Racing: A Corvette, a Donut-Shop Basement and Two Little Ads'
 summary: Summit Racing began in 1968 as a Northeast Ohio drag racer's parts discount; one account puts its first "store" in a donut-shop basement in Stow. The story runs through two little ads and a Corvette that stayed.
 department: companies
+era: 1970s
 eras:
 - 1960s
 - 1970s
 - 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1967
 - 2025

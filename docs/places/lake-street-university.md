@@ -2,6 +2,7 @@
 title: Lake Street and University Avenue
 summary: The Twin Cities cruised Lake Street in Minneapolis and University Avenue in St. Paul, from the 1950s into the early 1970s.
 department: places
+era: 1950s
 eras:
 - 1950s
 - 1960s

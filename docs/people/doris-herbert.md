@@ -2,6 +2,7 @@
 title: Doris Herbert and "The Drag Racer's Bible"
 summary: Doris Herbert's Drag News kept the national Standard 1320 Record List and set timing standards for reputable strips, sanctioned or not.
 department: people
+era: 1950s
 eras:
 - 1950s
 - 1960s

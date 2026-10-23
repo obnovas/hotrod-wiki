@@ -2,14 +2,9 @@
 title: 'Woodward: The City That Banned the Drive-Ins It Didn''t Have'
 summary: Woodward Avenue's cruising did not end in one raid. It ended through a run of decisions by small cities, including one that banned drive-ins it did not have.
 department: places
+era: 1960s
 eras:
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1963
 - 2023

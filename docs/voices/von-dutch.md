@@ -2,6 +2,7 @@
 title: 'Von Dutch: "Nothing Is Original"'
 summary: Kenneth "Von Dutch" Howard is credited with reviving pinstriping. Here we separate his own few words from his friends' stories.
 department: voices
+era: 1950s
 eras:
 - 1950s
 - 1960s

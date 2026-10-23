@@ -2,15 +2,10 @@
 title: 'Kong Jackson: "No organization. No nuthin''."'
 summary: Charles "Kong" Jackson raced the lakes before the SCTA existed, recalled Army Jeeps breaking up a Muroc meet in 1941 and gave his name to an ignition. When he died is disputed.
 department: people
+era: 1930s
 eras:
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1938
 - 2002

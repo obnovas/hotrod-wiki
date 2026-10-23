@@ -2,18 +2,10 @@
 title: Van Nuys Boulevard
 summary: Cruising Van Nuys Boulevard went back to a Saturday-night parade in 1912 and drew crowds of up to 20,000 by the 1950s, until it was closed in the early 1980s.
 department: places
+era: 1970s
 eras:
-- 1910s
-- 1920s
-- 1930s
-- 1940s
-- 1950s
-- 1960s
 - 1970s
 - 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1912
 - 2010

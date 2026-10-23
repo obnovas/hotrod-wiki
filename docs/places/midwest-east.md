@@ -2,6 +2,7 @@
 title: 'Beyond California: Midwest & East Threads'
 summary: 'Threads from the Midwest and East: JEGS in Columbus, Bucks County strips and other scenes far from California.'
 department: places
+era: 1960s
 eras:
 - 1960s
 - 1970s

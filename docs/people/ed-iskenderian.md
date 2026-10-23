@@ -2,18 +2,11 @@
 title: 'Ed "Isky" Iskenderian: The Camfather'
 summary: Ed "Isky" Iskenderian was born in 1921 in Cutler, California, to Armenian immigrant parents and became the camshaft maker known as the Camfather.
 department: people
+era: 1950s
 eras:
-- 1920s
-- 1930s
 - 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1921
 - 2026

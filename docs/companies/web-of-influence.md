@@ -2,15 +2,11 @@
 title: 'The Web of Influence: Who Fed Whom'
 summary: 'An interactive map of who fed whom: every line between two names is backed by a quoted passage on one of this wiki''s pages, checked at every build.'
 department: companies
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1958
 - 2020

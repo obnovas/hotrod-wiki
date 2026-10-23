@@ -2,16 +2,10 @@
 title: 'George DuVall: A Windshield, a Hubcap and a Plating Shop'
 summary: George DuVall took a delivery job at Southern California Plating and ended up designing its bumpers, grilles, the DuVall windshield and the Hollywood Hubcap.
 department: people
+era: 1930s
 eras:
-- 1910s
-- 1920s
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
 years:
 - 1913
 - 1999

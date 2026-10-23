@@ -2,15 +2,12 @@
 title: 'Crane Cams: The Machinist''s Son Who Ground His Own'
 summary: Harvey Crane decided a store-bought camshaft "wasn't accurately made," ground his own, and built Crane Cams in Florida, from Hallandale to Daytona.
 department: companies
+era: 1960s
 eras:
-- 1940s
 - 1950s
 - 1960s
 - 1970s
 - 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1946
 - 2013

@@ -2,14 +2,10 @@
 title: Bob's Big Boy and the "River Road"
 summary: In the 1950s Burbank high schoolers met at Bob's Big Boy to show off their jalopies, then settled challenges on the River Road.
 department: places
+era: 1950s
 eras:
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1952
 - 2014

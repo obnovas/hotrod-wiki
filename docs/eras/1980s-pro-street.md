@@ -2,8 +2,8 @@
 title: Pro Street, from a Dayton Garage
 summary: Pro Street grew out of a Dayton garage in 1979. Who named it, what it looked like, and why it was not simply a Pro Stocker for the street.
 department: eras
+era: 1980s
 eras:
-- 1970s
 - 1980s
 years:
 - 1974

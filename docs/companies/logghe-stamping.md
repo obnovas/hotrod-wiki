@@ -2,15 +2,11 @@
 title: 'Logghe Stamping: Fraser''s Flip-Top Chassis Shop'
 summary: The Logghe brothers turned their father's Fraser, Michigan, bracketry shop into a chassis house for dragsters and the flip-top Funny Cars of 1966.
 department: companies
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1955
 - 2021

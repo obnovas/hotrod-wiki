@@ -2,17 +2,10 @@
 title: 'Mr. Gasket: From the Trunk of a ''57 Chevy to Wall Street'
 summary: Joe Hrudka made better exhaust gaskets with his father-in-law in Cleveland and sold them from the trunk of his '57 Chevy tow car. Mr. Gasket went from that trunk to Wall Street.
 department: companies
+era: 1960s
 eras:
-- 1930s
-- 1940s
-- 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1938
 - 2026

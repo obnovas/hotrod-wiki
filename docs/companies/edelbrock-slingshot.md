@@ -2,18 +2,10 @@
 title: Edelbrock's Slingshot
 summary: Vic Edelbrock drove his roadster to Muroc, pulled the fenders off to race and bolted them back on to drive home. This is the story of the kid from Kansas, the Thickstun detour and the shop after the war.
 department: companies
+era: 1930s
 eras:
-- 1910s
-- 1920s
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1912
 - 2012

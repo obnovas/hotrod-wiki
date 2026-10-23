@@ -2,16 +2,11 @@
 title: 'Ed Winfield: Three-Quarters of the Way to Full Race'
 summary: Ed Winfield left school after the eighth grade and joined Harry A. Miller's shop at 14. He went on to cams, carburetors, patents and a long run of Indy 500 winners.
 department: people
+era: 1920s
 eras:
-- 1900s
 - 1910s
 - 1920s
 - 1930s
-- 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
 years:
 - 1901
 - 1982

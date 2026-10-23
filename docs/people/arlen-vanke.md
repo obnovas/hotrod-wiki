@@ -2,15 +2,10 @@
 title: '"Akron" Arlen Vanke: Backyard Racer from Ohio'
 summary: '"Akron" Arlen Vanke started racing at the Akron airport strip and went on to Knafel Pontiac, Mopar and Pro Stock. Hemmings says his dual-quad Hemi work coined the word "Vanked."'
 department: people
+era: 1960s
 eras:
-- 1940s
-- 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1940
 - 2017

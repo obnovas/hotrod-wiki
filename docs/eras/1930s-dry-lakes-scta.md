@@ -2,8 +2,8 @@
 title: 'Muroc: Where Everybody Raced at Once'
 summary: In the 1920s and 1930s Los Angeles racers drove to Muroc Dry Lake and raced side by side in unruly lineups, until the timing associations and the SCTA brought the stopwatch.
 department: eras
+era: 1930s
 eras:
-- 1920s
 - 1930s
 - 1940s
 years:

@@ -2,17 +2,11 @@
 title: 'Joe Lunati: Eighth-Grade Math'
 summary: Joe Lunati raced with a Memphis car club, ran Trouble Maker and Dixie Devil, and put his name on a line of camshafts.
 department: people
+era: 1960s
 eras:
-- 1930s
-- 1940s
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1935
 - 2023

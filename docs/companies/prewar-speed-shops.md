@@ -2,14 +2,11 @@
 title: Before Everyone Got into the Act
 summary: 'Before everyone got into the act there were George Wight''s Bell Auto Parts, Lee Chapel, Karl and Veda Orr, and Jim White: the first speed shops.'
 department: companies
+era: 1930s
 eras:
 - 1920s
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
 years:
 - 1923
 - 1987

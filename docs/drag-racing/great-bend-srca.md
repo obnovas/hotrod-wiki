@@ -2,15 +2,9 @@
 title: 'Great Bend, Kansas: A Club, a Chamber of Commerce and the First Nationals (1953–1955)'
 summary: How a Kansas car club and its city brought NHRA's first national event, the 1955 National Championship Drags, to Great Bend.
 department: drag-racing
+era: 1950s
 eras:
-- 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1946
 - 2011

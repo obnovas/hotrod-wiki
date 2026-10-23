@@ -2,14 +2,9 @@
 title: The Hirohata Mercury
 summary: 'Bob Hirohata''s 1951 Mercury, chopped by Sam and George Barris of Barris Kustom: how it was built, and what became of the car and its owner.'
 department: customs
+era: 1950s
 eras:
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1951
 - 2017

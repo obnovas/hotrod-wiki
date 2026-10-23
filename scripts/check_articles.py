@@ -88,6 +88,13 @@ def main():
         for k in meta:
             if k not in KNOWN:
                 E(f"unknown field '{k}' (see docs/reference/article-schema.md)")
+        eras_l = [str(e) for e in meta.get("eras") or []]
+        if eras_l and not meta.get("era"):
+            dec = sorted(int(e[:4]) for e in eras_l if e[:4].isdigit())
+            if dec and (dec[-1] - dec[0]) // 10 + 1 >= 5:
+                warns.append(f"{rel}: `eras` spans {(dec[-1] - dec[0]) // 10 + 1} decades ({dec[0]}s–{dec[-1]}s) with no `era`; set `era:` to the decade the story is mainly about, or trim `eras` to the decades it covers")
+        if meta.get("era") and str(meta["era"]) not in eras_l:
+            E(f"era '{meta['era']}' is not in `eras`")
         for k, _lab in RECORD_NOTES:
             v = meta.get(k)
             if v is not None and not (isinstance(v, str) and v.strip() or (k == "principal_source" and isinstance(v, list) and v and all(isinstance(x, str) for x in v))):

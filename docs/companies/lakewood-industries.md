@@ -2,14 +2,11 @@
 title: 'Lakewood Industries: The Dragster Driver Who Built a Cage for the Clutch'
 summary: Joe Schubeck raced a dragster out of Lakewood, Ohio, and built a steel bellhousing to hold the shrapnel from an exploding flywheel. It became Lakewood Industries.
 department: companies
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1958
 - 2016

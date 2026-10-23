@@ -2,14 +2,9 @@
 title: Pappy Hart and the Bayonets
 summary: Orange County hot rodders raced on abandoned airstrips until, by one account, a company of U.S. Marines with fixed bayonets ran them off. Then C.J. "Pappy" Hart opened the Santa Ana drags in 1950.
 department: eras
+era: 1950s
 eras:
-- 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1949
 - 2004

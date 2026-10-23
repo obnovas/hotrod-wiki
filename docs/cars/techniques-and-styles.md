@@ -2,16 +2,11 @@
 title: Techniques & Styles
 summary: 'A short guide to how customizing and hot rod styles changed: from 1930s "restyling" and the "fake Cord" to metal-finish versus lead, the lead-sled era and Pro Street.'
 department: cars
+era: 1940s
 eras:
 - 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1939
 - 2015

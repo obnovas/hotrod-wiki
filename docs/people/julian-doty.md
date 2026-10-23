@@ -2,17 +2,11 @@
 title: 'Julian Doty: Seventy Years on the Lakes'
 summary: Julian Doty first went to Muroc in 1934 with his uncle George DuVall and spent seventy years on the lakes, from a head on layaway to the DuVall windshield patterns.
 department: people
+era: 1940s
 eras:
-- 1920s
 - 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1922
 - 2012

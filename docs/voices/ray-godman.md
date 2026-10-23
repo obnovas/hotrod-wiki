@@ -2,14 +2,11 @@
 title: 'Ray Godman and Preston Davis: Memphis in Their Own Words'
 summary: Ray Godman, who ran the Tennessee Bo-Weevil cars and co-founded Lakeland Dragway, and his driver Preston Davis remember Memphis drag racing.
 department: voices
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1951
 - 2018

@@ -2,17 +2,11 @@
 title: 'Fran Hernandez: From Goleta Nitro to Lincoln-Mercury Racing'
 summary: Fran Hernandez won a 1949 grudge race at Goleta on nitro and went on to Edelbrock, Stroppe, Autolite and Lincoln-Mercury racing.
 department: people
+era: 1950s
 eras:
-- 1920s
-- 1930s
 - 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1922
 - 2011

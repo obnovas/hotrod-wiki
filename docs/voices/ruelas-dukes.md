@@ -2,6 +2,7 @@
 title: The Ruelas Brothers and the Dukes
 summary: The Ruelas brothers came from Tijuana to South Los Angeles in the mid-1950s, built cars with the Dukes car club, and in 2006 were still working on them in their yard.
 department: voices
+era: 1950s
 eras:
 - 1950s
 - 1960s

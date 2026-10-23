@@ -2,16 +2,11 @@
 title: 'Dick Wells (1934–2010): The Man Who Was the "First Active" President'
 summary: Dick Wells (1934–2010) went from Lincoln, Nebraska, to National Dragster, Hot Rod, SEMA and the NSRA. Whether he was its first president is still debated.
 department: people
+era: 1960s
 eras:
-- 1930s
-- 1940s
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1934
 - 2010

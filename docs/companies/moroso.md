@@ -2,14 +2,12 @@
 title: 'Moroso: A Basement in Greenwich and a Dragstrip He Bought on a Whim'
 summary: 'Dick Moroso started in a basement in Greenwich, Conn., and in 1983 explained why he had bought a falling-down dragstrip in Florida: "We have too many industrial parks and not enough racetracks."'
 department: companies
+era: 1960s
 eras:
-- 1930s
-- 1940s
 - 1950s
 - 1960s
 - 1970s
 - 1980s
-- 1990s
 years:
 - 1939
 - 1998

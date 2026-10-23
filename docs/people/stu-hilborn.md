@@ -2,19 +2,11 @@
 title: 'Stu Hilborn: A Tumbling Streamliner and a Promise to Mom'
 summary: Stu Hilborn's streamliner tumbled in 1947, and he spent time in a body cast. From that car came Hilborn fuel injection and a business.
 department: people
+era: 1940s
 eras:
-- 1910s
-- 1920s
 - 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1917
 - 2024

@@ -2,17 +2,10 @@
 title: Fiberglass for the Fenderless
 summary: Fiberglass bodies for fenderless rods, from Diablo's $149.50 T roadster body in 1957 to Cal Automotive and Wescott's of Boring, Oregon.
 department: street-rodding
+era: 1950s
 eras:
-- 1920s
-- 1930s
-- 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1923
 - 2010

@@ -2,17 +2,10 @@
 title: 'Alex Xydias: Hanging Out the So-Cal Shingle'
 summary: On Army furlough in the 1940s Alex Xydias watched San Fernando Valley street races and decided to open a speed shop. He named it So-Cal.
 department: people
+era: 1940s
 eras:
-- 1920s
-- 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1922
 - 2019

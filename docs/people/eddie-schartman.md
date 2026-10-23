@@ -2,14 +2,11 @@
 title: '"Fast Eddie" Schartman: Taking Out the Finish-Line Lights'
 summary: '"Fast Eddie" Schartman took out the finish-line lights on his first pass in a Logghe flip-top Comet in December 1965. This is his story in his own words.'
 department: people
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1956
 - 2016

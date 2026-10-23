@@ -2,6 +2,7 @@
 title: Whittier Boulevard
 summary: Cruising Whittier Boulevard in East Los Angeles, which the LA Times called "an odd ritual" in 1979, until the Sheriff's Department closed it.
 department: places
+era: 1970s
 eras:
 - 1960s
 - 1970s

@@ -2,13 +2,11 @@
 title: 'Jimmy Summers: The Customizer Across from Fairfax High'
 summary: Jimmy Summers and his brother started as street-corner fender men and opened a custom shop on Melrose Avenue across from Fairfax High.
 department: people
+era: 1940s
 eras:
-- 1910s
-- 1920s
 - 1930s
 - 1940s
 - 1950s
-- 1960s
 years:
 - 1913
 - 1968

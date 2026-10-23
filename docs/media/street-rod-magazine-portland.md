@@ -2,12 +2,9 @@
 title: Street Rod Before Street Rodder
 summary: Before Street Rodder there was Street Rod, a 64-page monthly made in Portland, Oregon, apartments. It ran 20 issues, from October 1971 to July 1973.
 department: media
+era: 1970s
 eras:
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1971
 - 2014

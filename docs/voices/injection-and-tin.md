@@ -2,16 +2,11 @@
 title: 'Voices: Injection, Factory Racing & Detroit Tin'
 summary: First-hand words on lakes fuel injection, Lincoln-Mercury racing, Detroit aluminum work and East Coast match racing, from Stu Hilborn, Al Bergler, Malcolm Durham and others.
 department: voices
+era: 1950s
 eras:
 - 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1945
 - 2024

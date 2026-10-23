@@ -43,7 +43,7 @@ canonical_for: []
 | `canonical_for` | no | Keys from `docs/data/canonical.yml` this page is the home of. |
 
 | `hub` | no | `true` on a page inside a department that only points the way to other pages (Cruising & Hangouts: Overview, Regional Scenes). A hub states no facts of its own, and a Quick answer's Full story link may not go to it (nor to any `index.md`). |
-| `era` | no | The decade the story is mainly about (`1950s`, ...), when that is not the first entry of `eras`. It sets the era badge and the colour of the page header. Without it the badge uses the first entry of `eras` (on an Eras page, the decade in its file name). |
+| `era` | no | The decade the story is mainly about (`1950s`, ...), when that is not the first entry of `eras`. It sets the era badge and the colour of the page header. Without it the badge uses the first entry of `eras` (on an Eras page, the decade in its file name). `era` must be one of `eras`, and the build warns when `eras` spans five or more decades with no `era`. `eras` lists the decades the story actually covers, not every decade in `years` (a birth or an obituary year doesn't add a decade); an Eras page starts at its own decade. |
 | `location`, `peak`, `status`, `later`, `revival` | no | Short field lines shown inside the Article record box, not at the top of the story: where a cruise or strip was, its peak years, what we treat it as, what came after. Markdown, with footnote refs (`[^id]`) and open-question markers kept exactly as in the text. |
 | `principal_source` | no | The source note ("Principal source: ...") shown inside the Article record box. A string, or a list for two or more sources. Markdown with footnote refs. |
 

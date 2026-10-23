@@ -2,14 +2,10 @@
 title: Akron's "Champions Raceway"
 summary: Akron's Fulton Airport gave northeast Ohio one of the Midwest's earliest organized drag strips. A 2016 Ohio historical marker honors it and its racers.
 department: drag-racing
+era: 1950s
 eras:
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1951
 - 2016

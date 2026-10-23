@@ -2,6 +2,7 @@
 title: 'Inyokern: The Sheriff''s Strip and the Dust Devils (1954–2005)'
 summary: 'A sheriff started it and a federal agency ended it: for about 51 years a volunteer car club, the Dust Devils, ran a quarter-mile at the Inyokern airport in Kern County (1954–2005).'
 department: drag-racing
+era: 1950s
 eras:
 - 1950s
 - 1960s

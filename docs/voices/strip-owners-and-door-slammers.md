@@ -2,14 +2,11 @@
 title: 'Voices: Strip Owners & Door-Slammers'
 summary: 'Strip owners and door-slammer racers in their own words: the Harts, the Gays, Bob Bartel, Gene Snow and others, each quote labeled by when it was told.'
 department: voices
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1950
 - 2016

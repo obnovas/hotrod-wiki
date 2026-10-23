@@ -2,6 +2,7 @@
 title: 'Malcolm Durham: Strip Blazer'
 summary: 'Malcolm Durham learned mechanics on tractors in Goldsboro, N.C., and raced from 1957: 409 Chevys in Washington, then a Logghe-chassised Funny Car.'
 department: people
+era: 1960s
 eras:
 - 1950s
 - 1960s

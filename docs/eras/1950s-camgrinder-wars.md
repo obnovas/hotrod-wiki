@@ -2,12 +2,10 @@
 title: The Camgrinder Wars
 summary: The cam advertisers' war in the pages of HOT ROD, from the mild headlines of 1948 to the escalating claims of the 1950s, and how much of it was real.
 department: eras
+era: 1950s
 eras:
-- 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
 years:
 - 1948
 - 1988

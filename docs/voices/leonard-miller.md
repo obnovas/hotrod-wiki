@@ -2,16 +2,9 @@
 title: 'Leonard Miller: From a Paoli Junkyard to Team Owner'
 summary: Leonard Miller raced at Bucks County strips in the 1960s and in 1973 co-founded the Black American Racers Association. Here he tells it in his own words.
 department: voices
+era: 1960s
 eras:
-- 1930s
-- 1940s
-- 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1939
 - 2018

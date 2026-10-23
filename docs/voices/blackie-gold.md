@@ -2,16 +2,11 @@
 title: 'Blackie Gold: Grease Monkey at Ten'
 summary: Hyman "Blackie" Gold, interviewed in 2006, remembers starting as a grease monkey at ten, Muroc, the founding of the SCTA and Pancho Barnes' ranch.
 department: voices
+era: 1930s
 eras:
 - 1920s
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1924
 - 2006

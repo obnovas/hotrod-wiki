@@ -2,17 +2,10 @@
 title: 'Bob Bartel: The Sears Man Who Built Cordova'
 summary: When his clubs could not afford a drag strip, Bob Bartel cashed his Sears stock and, with local businessmen, bought farmland near the Mississippi to build Cordova.
 department: people
+era: 1950s
 eras:
-- 1920s
-- 1930s
-- 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1921
 - 2018

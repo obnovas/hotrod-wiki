@@ -2,16 +2,9 @@
 title: George Riley and the Heads That Cracked
 summary: George Riley was an inventor who raced cars, planes and boats, and opened a shop in 1919 to make Model T speed equipment. Owners on a Ford forum still describe his heads.
 department: people
+era: 1930s
 eras:
-- 1910s
-- 1920s
 - 1930s
-- 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
 years:
 - 1919
 - 1998

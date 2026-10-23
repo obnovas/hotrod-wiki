@@ -2,17 +2,10 @@
 title: 'Upper Midwest: Streets Before Strips'
 summary: The Minnesota Street Rod Association began in 1967 and by 1970 co-hosted the first Street Rod Nationals at Peoria.
 department: places
+era: 1970s
 eras:
-- 1920s
-- 1930s
-- 1940s
-- 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1923
 - 2016

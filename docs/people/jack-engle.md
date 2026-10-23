@@ -2,16 +2,11 @@
 title: 'Jack Engle: The Low Flyers'' Cam Grinder'
 summary: Jack Engle of the Low Flyers ground cams by hand before Isky and became one of the three camgrinders of the 1950s cam wars.
 department: people
+era: 1930s
 eras:
 - 1920s
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1920
 - 2008

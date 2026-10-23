@@ -2,6 +2,7 @@
 title: Rope Barriers, Water Drums and the Show Circuit
 summary: The first National Roadster Show in Oakland had rope barriers on water drums and about 100 cars. From there, Detroit's Autorama and Portland's Roadster Show built the show circuit.
 department: media
+era: 1950s
 eras:
 - 1950s
 - 1960s

@@ -2,15 +2,9 @@
 title: 'Texas: Three Stopwatches at Caddo Mills'
 summary: 'Texas''s first organized drags ran on the abandoned airfield at Caddo Mills on Aug 19, 1951: 56 cars, a $1 entry and three hand-held stopwatches.'
 department: places
+era: 1950s
 eras:
-- 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1948
 - 2015

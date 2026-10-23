@@ -2,19 +2,12 @@
 title: 'Holley: A Bicycle Motor from Bradford and the Carburetor That Followed Everybody'
 summary: Holley began with George Holley's motor bicycle at the 1901 Pan-American Exposition in Buffalo. The Bradford, Pa., brothers' company went on to carburetors, Detroit and the aftermarket.
 department: companies
+era: 1900s
 eras:
 - 1900s
 - 1910s
-- 1920s
-- 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1901
 - 2015

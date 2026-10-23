@@ -2,6 +2,7 @@
 title: The Upset at Cordova
 summary: In 1957 an unknown Don Garlits learned to build a fuel pump at Cordova and earned a "name" there. The page also covers the ATAA World Series of Drag Racing and Detroit's strips.
 department: drag-racing
+era: 1950s
 eras:
 - 1950s
 - 1960s

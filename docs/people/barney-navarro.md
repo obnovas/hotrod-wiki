@@ -2,17 +2,10 @@
 title: 'Barney Navarro: Paying for Parts with Labor'
 summary: Barney Navarro paid for parts with his labor, machining Phil Weiand's first castings, and raced with the Glendale Strokers, a belly tank and his own manifolds.
 department: people
+era: 1940s
 eras:
-- 1910s
-- 1920s
-- 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1919
 - 2007

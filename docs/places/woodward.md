@@ -2,14 +2,11 @@
 title: 'Woodward Avenue: Back In, Keep an Eye on the Action'
 summary: On Woodward Avenue you backed into the drive-in so you could watch the action. The loop, the racing and how Detroit's showrooms joined in.
 department: places
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1955
 - 2018

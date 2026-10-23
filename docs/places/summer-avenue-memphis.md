@@ -2,14 +2,10 @@
 title: Summer Avenue, Memphis
 summary: Memphis cruised Summer Avenue, US 70, a road of drive-ins and motels, in the 1950s and 1960s.
 department: places
+era: 1950s
 eras:
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1952
 - 2010

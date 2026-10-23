@@ -2,10 +2,9 @@
 title: Peoria, and the Boss Who Never Said Yes
 summary: In 1970 the Rod & Custom crew organized the first Street Rod Nationals in Peoria, though their bosses never said yes. Here is why Peoria, and how many came.
 department: eras
+era: 1970s
 eras:
-- 1960s
 - 1970s
-- 1980s
 years:
 - 1968
 - 1988

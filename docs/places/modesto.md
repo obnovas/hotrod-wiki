@@ -2,8 +2,8 @@
 title: 'Modesto: Draggin'' 10th'
 summary: Modesto's cruise on 10th Street, the town American Graffiti was set in, and how the city policed and ended it.
 department: places
+era: 1960s
 eras:
-- 1940s
 - 1950s
 - 1960s
 - 1970s

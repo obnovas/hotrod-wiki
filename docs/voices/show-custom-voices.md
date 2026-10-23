@@ -2,15 +2,12 @@
 title: 'Show & Custom Voices: Oakland, the KKOA and the First Funny Cars'
 summary: 'Voices from the show and custom world: Mary Slonaker on Oakland in 1949–50, Jerry Titus on the KKOA in Wichita and Eddie Schartman on the first Funny Car.'
 department: voices
+era: 1950s
 eras:
 - 1940s
 - 1950s
 - 1960s
-- 1970s
 - 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1949
 - 2016

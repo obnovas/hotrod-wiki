@@ -2,13 +2,9 @@
 title: 'Founding Street Rodder (1972): Tex Smith and Jim Clark Remember'
 summary: Tex Smith and Jim Clark remember how Street Rodder magazine got started in 1972 at Tom and Rose McMullen's TRM Publications.
 department: voices
+era: 1970s
 eras:
-- 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1963
 - 2012

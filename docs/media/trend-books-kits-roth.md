@@ -2,14 +2,10 @@
 title: Customs on Paper and in Plastic
 summary: 'How customs reached readers and kids: Petersen''s 1951 Custom Cars Trend Book, AMT''s 3-in-1 kits from 1958, and Roth and Revell.'
 department: media
+era: 1950s
 eras:
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1951
 - 2015

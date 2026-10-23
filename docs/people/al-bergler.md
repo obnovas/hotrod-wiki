@@ -2,16 +2,11 @@
 title: 'Al Bergler: The Tin Man Who Bent It Himself'
 summary: Rather than pay $300 for a digger nose, Al Bergler bent one himself over a pipe. He did the aluminum work on Logghe cars, won the first Ridler Award in 1964 and campaigned the Motown Shaker.
 department: people
+era: 1960s
 eras:
-- 1940s
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1941
 - 2024

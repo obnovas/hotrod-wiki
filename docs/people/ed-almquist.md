@@ -2,17 +2,11 @@
 title: 'Ed Almquist: Speed by Mail from Milford, Pennsylvania'
 summary: Ed Almquist sold speed parts by mail from Milford, Pennsylvania, starting with a vapor injector made from a Mason jar and a $12.95 log manifold.
 department: people
+era: 1950s
 eras:
-- 1920s
-- 1930s
 - 1940s
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1921
 - 2015

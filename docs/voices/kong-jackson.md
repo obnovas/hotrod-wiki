@@ -2,13 +2,10 @@
 title: 'Kong Jackson: "No Organization. No Nuthin''."'
 summary: Kong Jackson on the lakes before the SCTA, Army Jeeps at Muroc and flatheads, from Tom Medley's 1988 interview as quoted by Fuel Curve.
 department: voices
+era: 1930s
 eras:
 - 1930s
 - 1940s
-- 1950s
-- 1960s
-- 1970s
-- 1980s
 years:
 - 1937
 - 1988

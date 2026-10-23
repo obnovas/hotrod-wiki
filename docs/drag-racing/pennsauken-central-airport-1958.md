@@ -2,10 +2,8 @@
 title: 'Tear Gas on the Runways: Pennsauken''s Central Airport, May 1958'
 summary: On a Tuesday night in May 1958, Pennsauken's police chief used fire hoses and tear gas on street racers at Camden's old airport. The next day bulldozers tore up the runways.
 department: drag-racing
+era: 1950s
 eras:
-- 1920s
-- 1930s
-- 1940s
 - 1950s
 years:
 - 1927

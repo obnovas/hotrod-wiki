@@ -2,6 +2,7 @@
 title: 'Dragging Main: The Small-Town Loop, in the Kids'' Own Words (1950s–1980s)'
 summary: In towns with one main street, teenagers drove from one end to the other and back until midnight and called it dragging Main. Here it is in their own words (1950s–1980s).
 department: places
+era: 1950s
 eras:
 - 1950s
 - 1960s

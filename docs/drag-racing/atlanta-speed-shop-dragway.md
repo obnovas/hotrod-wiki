@@ -2,6 +2,7 @@
 title: 'From Speed Shop to Strip: Julius Hughes and the Atlanta Speed Shop Dragway (Covington, Ga., 1959–91)'
 summary: Julius Hughes, who ran an Atlanta speed shop, took over the NHRA-sanctioned Newton County Drag Strip near Covington, Ga., in 1964, renamed it Atlanta Speed Shop Dragway and started the Atlanta $10,000 Drag Race. A family-sourced account says the strip ran until 1991.
 department: drag-racing
+era: 1960s
 eras:
 - 1950s
 - 1960s

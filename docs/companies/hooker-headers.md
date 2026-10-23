@@ -2,6 +2,7 @@
 title: 'Hooker Headers: The Pipes He Couldn''t Afford to Buy'
 summary: Gary Hooker couldn't afford headers for his new 1962 Chevrolet 409, so he made his own, longer and with larger tubing, and turned them into a business.
 department: companies
+era: 1960s
 eras:
 - 1960s
 - 1970s

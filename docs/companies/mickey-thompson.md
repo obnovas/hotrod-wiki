@@ -2,16 +2,12 @@
 title: 'Mickey Thompson: The Pressman Who Dug the Post Holes Himself'
 summary: Mickey Thompson dug the post holes for his own drag strip after his shift at the Los Angeles Times. This page follows him from El Monte to tires, wheels and the Pontiac years.
 department: companies
+era: 1960s
 eras:
-- 1920s
-- 1930s
-- 1940s
 - 1950s
 - 1960s
 - 1970s
 - 1980s
-- 1990s
-- 2000s
 years:
 - 1928
 - 2007

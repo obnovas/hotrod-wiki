@@ -2,15 +2,11 @@
 title: 'Harvey''s Broiler: Teenage Paris on a Former Chicken Farm'
 summary: Harvey and Minnie Ortner opened Harvey's Broiler in Downey in 1958, a Googie drive-in with a 65-foot sign that Tom Wolfe called "Teenage Paris."
 department: places
+era: 1950s
 eras:
 - 1950s
 - 1960s
-- 1970s
 - 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1958
 - 2024

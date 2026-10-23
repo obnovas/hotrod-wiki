@@ -2,14 +2,12 @@
 title: 'COMP Cams and Racing Head Service: Three Oldsmobile Tinkerers on Sun Studio''s Corner'
 summary: In 1967 three Memphis drag racers who liked tinkering with Oldsmobile engines set up Racing Head Service in a basement. It grew into COMP Cams.
 department: companies
+era: 1970s
 eras:
 - 1960s
 - 1970s
 - 1980s
 - 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1967
 - 2020

@@ -2,13 +2,11 @@
 title: Memphis and the Mid-South
 summary: Memphis racers ran at an old air base at Halls, Tennessee, and drove to meets across the Mid-South. The Memphis Rodders date from 1947.
 department: places
+era: 1960s
 eras:
-- 1940s
 - 1950s
 - 1960s
 - 1970s
-- 1980s
-- 1990s
 years:
 - 1947
 - 1992

@@ -2,6 +2,7 @@
 title: 'Howard Johansen: Lead on the Pistons, Twin Bears on the Strip'
 summary: Howard Johansen founded Howards Power & Racing Equipment, ran a twin-tank streamliner at the first SCTA Bonneville meet and raced Twin Bears on the strip.
 department: people
+era: 1940s
 eras:
 - 1940s
 - 1950s

@@ -2,15 +2,10 @@
 title: The "Mexican Express" at Lions
 summary: Rick and Fred Esparza built a 1941 Willys truck into the Mexican Express and raced it at Lions Drag Strip for seven years.
 department: voices
+era: 1960s
 eras:
 - 1950s
 - 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
-- 2020s
 years:
 - 1958
 - 2022

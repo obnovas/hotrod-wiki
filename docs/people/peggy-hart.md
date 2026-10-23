@@ -2,16 +2,11 @@
 title: 'Peggy Hart: The Racer Who Beat the Winners'
 summary: Peggy Hart co-founded the Santa Ana drags with her husband C.J. and raced there, often challenging the winners at the end of the day.
 department: people
+era: 1950s
 eras:
-- 1910s
-- 1920s
 - 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
 years:
 - 1914
 - 1998

@@ -2,6 +2,7 @@
 title: From a Hayfield to an Association
 summary: How the 1970 Street Rod Nationals in a Peoria hayfield led to the National Street Rod Association, and where the Nationals moved after that.
 department: street-rodding
+era: 1970s
 eras:
 - 1970s
 - 1980s

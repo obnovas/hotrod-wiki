@@ -2,16 +2,10 @@
 title: 'Chet Herbert: Roller Cams from a Sears Lathe'
 summary: Polio left Chet Herbert paralyzed from the chest down in 1948. He designed roller cams on a Sears lathe and raced through hired drivers.
 department: people
+era: 1950s
 eras:
-- 1920s
-- 1930s
 - 1940s
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
 years:
 - 1928
 - 2009

@@ -2,14 +2,13 @@
 title: 'JEGS: A Columbus Racer Who Got Tired of Waiting for the Mail'
 summary: Jeg Coughlin Sr. got tired of waiting for parts to come by mail from far away, so in 1960 he opened JEGS on East Eleventh Avenue in Columbus, Ohio, half garage and half parts store.
 department: companies
+era: 1960s
 eras:
 - 1950s
 - 1960s
 - 1970s
 - 1980s
 - 1990s
-- 2000s
-- 2010s
 years:
 - 1959
 - 2010

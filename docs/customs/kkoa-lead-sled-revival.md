@@ -2,15 +2,9 @@
 title: Lead Sleds Come Back, by Way of Wichita
 summary: The Kustom Kemps of America started with 14 charter members in Wichita in 1980 and brought the lead sled back with its first Lead Sled Spectacular in 1981.
 department: customs
+era: 1980s
 eras:
-- 1940s
-- 1950s
-- 1960s
-- 1970s
 - 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1949
 - 2012
