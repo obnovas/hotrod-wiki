@@ -46,7 +46,7 @@ Later the North Texas Timing Association ran it with Chrondek timers.[^dz]<sup c
 
 ## The clubs and the road
 
-The clubs were older than the strip. The **Chaparral Roadster Club** (Dallas) was founded 1949 per club lore, by Jim Overbey.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The **Fort Worth Turtles** date to 1948.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The clubs were older than the strip. The **Chaparral Roadster Club** (Dallas) was founded in 1949 with Jim Overbey as its first president, according to Karl Knecht, who posted Overbey's photo album.[^hamb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> In the same account, the **Fort Worth Turtles** formed in 1948.[^hamb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 Texas teams also travelled. The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
 
@@ -62,11 +62,11 @@ Still, racing was concentrated on **ex-military airfields away from the city**, 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** Later the North Texas Timing Association ran it with Chrondek timers. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Chrondek timers?** That the North Texas Timing Association later ran Caddo Mills with Chrondek timers comes only from Dragzine.[^dz] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** This is from a search summary only. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Founded in 1949?** The date and Overbey's role as founding president come only from Karl Knecht's opening post on the H.A.M.B., drawn from Overbey's album.[^hamb] Lead: Dallas papers, 1949–51. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The **Fort Worth Turtles** date to 1948. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **The Turtles in 1948?** The date comes only from Karl Knecht's opening post on the H.A.M.B. thread built on Jim Overbey's album.[^hamb] Lead: Fort Worth papers, 1948–49. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 
@@ -89,4 +89,5 @@ Still, racing was concentrated on **ex-military airfields away from the city**, 
 
 [^dz]: Dragzine, "Flashback Friday: Texas' First NHRA-Sanctioned Drag Strip." https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/
 [^dl]: Drag List, "More Memories of Caddo Mills" (Dec 2001). https://www.draglist.com/stories/SOD%20Dec%202001/SOD-123101.htm
+[^hamb]: Karl Knecht ("KKrod"), opening post, "Hot Rod History and Photos Dallas Texas 1949 on – Caddo Mills Drag Races," The H.A.M.B. (Jalopy Journal forum). https://www.jalopyjournal.com/forum/threads/hot-rod-history-and-photos-dallas-texas-1949-on-caddo-mills-drag-races.970495/ (accessed 2026-10-22)
 [^sema]: SEMA News, "Drag Racing, Memphis Style" (2024). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style
