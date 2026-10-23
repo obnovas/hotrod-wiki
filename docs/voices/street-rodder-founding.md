@@ -80,5 +80,5 @@ Smith also recalled how he hired Brian Brennan.
 - Who founded it? Clark credits Tex as "the driving force." SEMA and 99W credit McMullen as founder and owner.[^sema][^99] The accounts complement each other rather than conflict. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^sr]: Street Rodder, "Street Rodder's 40th Anniversary – Time Flies" (hotrod.com, posted Apr 8, 2014). https://www.hotrod.com/features/street-rodders-40th-anniversary (accessed 2026-10-13)
-[^sema]: Drew Hardin, "Street Rodder," SEMA News (Feb 2012). https://www.sema.org/news-media/magazine/2012/05/street-rodder
-[^99]: 99W Speed Shop, "Street Rodder – Magazine Covers 1972 to 2020." http://99wspeedshop.com/streetrodder.html
+[^sema]: Drew Hardin, "Street Rodder," SEMA News (Feb 2012). https://www.sema.org/news-media/magazine/2012/05/street-rodder (accessed 2026-10-13)
+[^99]: 99W Speed Shop, "Street Rodder – Magazine Covers 1972 to 2020." http://99wspeedshop.com/streetrodder.html (accessed 2026-10-13)

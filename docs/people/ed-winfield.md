@@ -81,9 +81,9 @@ He died in 1982.[^hem2] Hemmings names him the model for Ed Iskenderian and Ed D
 <figcaption markdown>US 2,126,939, "Internal combustion engine head," sheet 1, by Edward A. Winfield. Creator: Edward A. Winfield (inventor); USPTO. Date: filed 1936-06-13, issued 1938-08-16. Source: [Google Patents](https://patents.google.com/patent/US2126939A/en). License: Public domain (U.S. patent drawing).</figcaption>
 </figure>
 
-[^mshf]: Motorsports Hall of Fame of America, "Ed Winfield." https://www.mshf.com/hall-of-fame/inductees/ed-winfield.html
-[^hem1]: Hemmings, "Ed Winfield." https://www.hemmings.com/stories/ed-winfield/
-[^hem2]: Hemmings, "Ed Winfield: The Master of Hot-Rodding and Performance." https://www.hemmings.com/stories/ed-winfield-2/
-[^ims]: IMS Museum Hall of Fame, "Ed Winfield." https://imsmuseum.org/fame_inductee/ed-winfield/
-[^sema]: SEMA Hall of Fame 1971, "Ed Winfield." https://www.sema.org/hof/1971/ed-winfield
-[^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame list (Class of 1991). https://garlits.com/hall-of-fame-inductees-2011/
+[^mshf]: Motorsports Hall of Fame of America, "Ed Winfield." https://www.mshf.com/hall-of-fame/inductees/ed-winfield.html (accessed 2026-10-12)
+[^hem1]: Hemmings, "Ed Winfield." https://www.hemmings.com/stories/ed-winfield/ (accessed 2026-10-12)
+[^hem2]: Hemmings, "Ed Winfield: The Master of Hot-Rodding and Performance." https://www.hemmings.com/stories/ed-winfield-2/ (accessed 2026-10-12)
+[^ims]: IMS Museum Hall of Fame, "Ed Winfield." https://imsmuseum.org/fame_inductee/ed-winfield/ (accessed 2026-10-12)
+[^sema]: SEMA Hall of Fame 1971, "Ed Winfield." https://www.sema.org/hof/1971/ed-winfield (accessed 2026-10-12)
+[^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame list (Class of 1991). https://garlits.com/hall-of-fame-inductees-2011/ (accessed 2026-10-13)

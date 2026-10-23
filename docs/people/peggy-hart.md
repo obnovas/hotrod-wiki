@@ -124,15 +124,15 @@ None of **Peggy's own words** from the 1950s have turned up. Every quotation of 
 <figcaption markdown>Orange County Airport in the 1950s, site of the Santa Ana Drags that she co-promoted. Creator: Orange County Archives. Date: 1950s (archive's date). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Orange_County_Airport,_1950s.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0). Courtesy line requested by the archive: "Photo courtesy Orange County Archives."</figcaption>
 </figure>
 
-[^ocr]: Robin Hinch, Orange County Register (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
-[^nhra]: Phil Burgess, NHRA.com, June 26, 2004, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
-[^pe04]: Lyle Spencer, Press-Enterprise (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
-[^parks]: Richard Parks, "Gone Racin'... To say goodbye to C.J. Hart" (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html
-[^pe]: Johan Moreno, Press-Enterprise, Oct 1, 2015. https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/
-[^mshf]: MSHF, "C. J. Hart." https://www.mshf.com/hall-of-fame/inductees/c-j-hart.html
-[^lat]: Shav Glick, "C.J. 'Pappy' Hart, 93," Los Angeles Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html
-[^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame, Class of 1998 list. https://garlits.com/hall-of-fame-inductees-2011/
+[^ocr]: Robin Hinch, Orange County Register (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
+[^nhra]: Phil Burgess, NHRA.com, June 26, 2004, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
+[^pe04]: Lyle Spencer, Press-Enterprise (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
+[^parks]: Richard Parks, "Gone Racin'... To say goodbye to C.J. Hart" (2004), reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
+[^pe]: Johan Moreno, Press-Enterprise, Oct 1, 2015. https://www.pressenterprise.com/2015/10/01/santa-ana-drags-65-years-after-the-strip-was-founded-it-still-brings-back-fond-racing-memories/ (accessed 2026-10-13)
+[^mshf]: MSHF, "C. J. Hart." https://www.mshf.com/hall-of-fame/inductees/c-j-hart.html (accessed 2026-10-12)
+[^lat]: Shav Glick, "C.J. 'Pappy' Hart, 93," Los Angeles Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html (accessed 2026-10-13)
+[^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame, Class of 1998 list. https://garlits.com/hall-of-fame-inductees-2011/ (accessed 2026-10-13)
 [^idrbio]: Don Garlits Museum of Drag Racing, International Drag Racing Hall of Fame, "Peggy Hart" (Class of 1998). Accessed 2026-10-15. https://garlits.com/hall-of-fame/peggy-hart/
 [^hr80]: Dave Wallace, "The Hart of Drag Racing," *Hot Rod*, January 1980 (web reprint Jan 1, 2023). Accessed 2026-10-15. https://www.hotrod.com/features/the-hart-of-drag-racing-january-1980-982-1130-22-1
 [^parksrev]: Richard Parks, review of Leslie Long & Don Tuttle, *Every Sunday Drag Races: Orange County Airport, Santa Ana*, HotRod Hotline, Jan 13, 2012. Accessed 2026-10-15. https://hotrodhotline.com/every-sunday-drag-races-orange-county-airport-santa-ana-by-leslie-long-and-don-tuttle/
-[^li]: David Walker, LinkedIn post, Dec 2024. https://www.linkedin.com/posts/david-walker-9a830740_while-shirley-muldowney-was-called-the-first-activity-7275146996112400384-fauL
+[^li]: David Walker, LinkedIn post, Dec 2024. https://www.linkedin.com/posts/david-walker-9a830740_while-shirley-muldowney-was-called-the-first-activity-7275146996112400384-fauL (accessed 2026-10-13)

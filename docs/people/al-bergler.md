@@ -109,5 +109,5 @@ He is still at it. As of early 2024 he still worked four–five hours a day in a
 - [Hagerty, "The Ridler Award's First Winner..." (Bergler family archive photos)](https://www.hagerty.com/media/motorsports/al-bergler-first-ridler-award-winner-profile/)
 - [MMSHOF, Al Bergler](https://www.mmshof.org/index.php/inductees/inductees/27-al-bergler)
 
-[^hag]: Paul Stenquist, "The Ridler Award's First Winner, Now 87, Is Still Building Hot Rods," Hagerty Media, Feb 21, 2024. https://www.hagerty.com/media/motorsports/al-bergler-first-ridler-award-winner-profile/
-[^mms]: Michigan Motor Sports Hall of Fame, "Al Bergler" (2006). https://www.mmshof.org/index.php/inductees/inductees/27-al-bergler
+[^hag]: Paul Stenquist, "The Ridler Award's First Winner, Now 87, Is Still Building Hot Rods," Hagerty Media, Feb 21, 2024. https://www.hagerty.com/media/motorsports/al-bergler-first-ridler-award-winner-profile/ (accessed 2026-10-14)
+[^mms]: Michigan Motor Sports Hall of Fame, "Al Bergler" (2006). https://www.mmshof.org/index.php/inductees/inductees/27-al-bergler (accessed 2026-10-13)

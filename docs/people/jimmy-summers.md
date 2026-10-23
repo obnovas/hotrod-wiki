@@ -92,5 +92,5 @@ In 1962 he built the body for Tony Nancy's dragster.[^k] And somewhere in the fa
 
 - [Kustomrama, Jimmy Summers (family album photos)](https://kustomrama.com/wiki/Jimmy_Summers)
 
-[^k]: Kustomrama, "Jimmy Summers," drawing on Sondre Kvipt's family interviews and cited period magazines. https://kustomrama.com/wiki/Jimmy_Summers
-[^sm]: StreetMuscle, "The Garage With Dennis Episode 14, So-Cal Speed Shop." https://www.streetmusclemag.com/news/video-the-garage-with-dennis-episode-14-so-cal-speed-shop/
+[^k]: Kustomrama, "Jimmy Summers," drawing on Sondre Kvipt's family interviews and cited period magazines. https://kustomrama.com/wiki/Jimmy_Summers (accessed 2026-10-12)
+[^sm]: StreetMuscle, "The Garage With Dennis Episode 14, So-Cal Speed Shop." https://www.streetmusclemag.com/news/video-the-garage-with-dennis-episode-14-so-cal-speed-shop/ (accessed 2026-10-12)

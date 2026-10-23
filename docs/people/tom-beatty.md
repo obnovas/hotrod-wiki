@@ -89,8 +89,8 @@ By then Beatty was in business. He opened **Tom Beatty Automotive Engineering**,
 
 - [Kustomrama, Tom Beatty's belly tank lakester (RM Auctions photos)](https://www.kustomrama.com/wiki/Tom_Beatty%27s_Belly_Tank_Lakester)
 
-[^ahrf]: Tony Thacker, "Barney Navarro," AHRF. https://ahrf.com/pioneer/barney-navarro/
-[^club]: Kustomrama, "Glendale Stokers." https://kustomrama.com/wiki/Glendale_Stokers
-[^rust]: Kustomrama, "Tom Beatty's 1929 Ford" (citing Hop Up, Aug 1951). https://kustomrama.com/wiki/Tom_Beatty's_1929_Ford
-[^tank]: Kustomrama, "Tom Beatty's Belly Tank Lakester" (RM Auctions catalog text). https://www.kustomrama.com/wiki/Tom_Beatty%27s_Belly_Tank_Lakester
-[^cbg]: Coachbuilt.com, "George DuVall." http://www.coachbuilt.com/des/d/duvall/duvall.htm
+[^ahrf]: Tony Thacker, "Barney Navarro," AHRF. https://ahrf.com/pioneer/barney-navarro/ (accessed 2026-10-12)
+[^club]: Kustomrama, "Glendale Stokers." https://kustomrama.com/wiki/Glendale_Stokers (accessed 2026-10-13)
+[^rust]: Kustomrama, "Tom Beatty's 1929 Ford" (citing Hop Up, Aug 1951). https://kustomrama.com/wiki/Tom_Beatty's_1929_Ford (accessed 2026-10-13)
+[^tank]: Kustomrama, "Tom Beatty's Belly Tank Lakester" (RM Auctions catalog text). https://www.kustomrama.com/wiki/Tom_Beatty%27s_Belly_Tank_Lakester (accessed 2026-10-12)
+[^cbg]: Coachbuilt.com, "George DuVall." http://www.coachbuilt.com/des/d/duvall/duvall.htm (accessed 2026-10-13)

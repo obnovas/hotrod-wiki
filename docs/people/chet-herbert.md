@@ -65,5 +65,5 @@ In 1959 he funded his sister **Doris Herbert's** purchase of *Drag News*, which 
 
 - [Kustomrama, Beast III (photos)](https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III)
 
-[^h]: Daniel Strohl, "Chet Herbert," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/chet-herbert/
-[^kr]: Kustomrama, "Chet Herbert's Beast III" (read directly, Round 2). https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III
+[^h]: Daniel Strohl, "Chet Herbert," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/chet-herbert/ (accessed 2026-10-12)
+[^kr]: Kustomrama, "Chet Herbert's Beast III" (read directly, Round 2). https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III (accessed 2026-10-12)

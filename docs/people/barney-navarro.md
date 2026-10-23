@@ -88,4 +88,4 @@ He died **August 20, 2007**, his 88th birthday. His patterns went to Mike Herman
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **185.80 or 188.284 mph?** AHRF gives the 1951 Class D Lakester record as 185.80 mph;[^ahrf] the auction listings for the car give "188.284 MPH At Bonneville In 1951, A Record The First Time Out."[^gooding] The SCTA's 1951 record list would settle it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^gooding]: "1951 Tom Beatty Belly-Tank Lakester," Gooding & Company, Pebble Beach auction, 2007 (lot page). https://www.goodingco.com/lot/1951-tom-beatty-belly-tank-lakester (accessed 2026-10-22)
-[^ahrf]: Tony Thacker, "Barney Navarro," American Hot Rod Foundation. https://ahrf.com/pioneer/barney-navarro/
+[^ahrf]: Tony Thacker, "Barney Navarro," American Hot Rod Foundation. https://ahrf.com/pioneer/barney-navarro/ (accessed 2026-10-12)

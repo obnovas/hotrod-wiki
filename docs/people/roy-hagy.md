@@ -80,4 +80,4 @@ That one rule is what sets him apart. Metal-finishing rather than leading puts H
 
 - [Kustomrama, Roy Hagy](https://kustomrama.com/wiki/Roy_Hagy)
 
-[^k]: Kustomrama, "Roy Hagy" (citing Pat Ganahl, *The American Custom Car*). https://kustomrama.com/wiki/Roy_Hagy
+[^k]: Kustomrama, "Roy Hagy" (citing Pat Ganahl, *The American Custom Car*). https://kustomrama.com/wiki/Roy_Hagy (accessed 2026-10-13)

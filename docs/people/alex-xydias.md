@@ -78,7 +78,7 @@ After the shop he went on to produce films, edit Car Craft and Hot Rod Industry 
 
 **To verify:** his current status and any date of death are not yet confirmed from a source; do not add from memory.
 
-[^yum]: "Alex Xydias – SO-CAL Speed Shop" (company bio, references American Rodder Oct 1991). https://www.yumpu.com/en/document/view/34870683/alex-xydias-so-cal-speed-shop
-[^sm]: StreetMuscle, "The Garage With Dennis Episode 14." https://www.streetmusclemag.com/news/video-the-garage-with-dennis-episode-14-so-cal-speed-shop/
-[^css]: Classic & Sports Car, "Meeting Alex Xydias and the iconic So-Cal Belly Tank Lakester." https://www.classicandsportscar.com/features/meeting-alex-xydias-and-iconic-so-cal-belly-tank-lakester
-[^fc]: Goodguys / Fuel Curve, "5 Minutes With Alex Xydias." https://fuelcurve.com/alex-xydias/
+[^yum]: "Alex Xydias – SO-CAL Speed Shop" (company bio, references American Rodder Oct 1991). https://www.yumpu.com/en/document/view/34870683/alex-xydias-so-cal-speed-shop (accessed 2026-10-12)
+[^sm]: StreetMuscle, "The Garage With Dennis Episode 14." https://www.streetmusclemag.com/news/video-the-garage-with-dennis-episode-14-so-cal-speed-shop/ (accessed 2026-10-12)
+[^css]: Classic & Sports Car, "Meeting Alex Xydias and the iconic So-Cal Belly Tank Lakester." https://www.classicandsportscar.com/features/meeting-alex-xydias-and-iconic-so-cal-belly-tank-lakester (accessed 2026-10-12)
+[^fc]: Goodguys / Fuel Curve, "5 Minutes With Alex Xydias." https://fuelcurve.com/alex-xydias/ (accessed 2026-10-12)

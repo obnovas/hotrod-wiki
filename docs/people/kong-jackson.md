@@ -98,5 +98,5 @@ Even his death date is argued. The contemporaneous post (death Sept 4, 2000) is 
 
 - [Fuel Curve, "'Kong' Jackson" (photos)](https://fuelcurve.com/kong-jackson/)
 
-[^fc]: "'Kong' Jackson – The King of Early Flathead Ignitions," Fuel Curve, July 3, 2023. https://fuelcurve.com/kong-jackson/
-[^ls]: Katie Young Cortez, "Loss of a Pioneer of Early Hot Rodding," land-speed list, Sept 10, 2000. http://ftp.team.net/html/land-speed/2000-09/msg00247.html
+[^fc]: "'Kong' Jackson – The King of Early Flathead Ignitions," Fuel Curve, July 3, 2023. https://fuelcurve.com/kong-jackson/ (accessed 2026-10-12)
+[^ls]: Katie Young Cortez, "Loss of a Pioneer of Early Hot Rodding," land-speed list, Sept 10, 2000. http://ftp.team.net/html/land-speed/2000-09/msg00247.html (accessed 2026-10-12)

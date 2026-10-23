@@ -84,6 +84,6 @@ Xydias put DuVall in company: "Jimmy Summers and George DuVall were two of the b
 
 - [Coachbuilt.com: DuVall windshield, yearbook and period photos](http://www.coachbuilt.com/des/d/duvall/duvall.htm)
 
-[^k]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall
-[^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
-[^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm
+[^k]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall (accessed 2026-10-13)
+[^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers (accessed 2026-10-12)
+[^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm (accessed 2026-10-13)

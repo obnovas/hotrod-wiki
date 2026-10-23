@@ -116,9 +116,9 @@ The *Dixon Evening Telegraph* and Moline *Dispatch* for August 1957 and 1958 res
 
 ## Sources
 
-[^mm]: Michigan Motor Sports Hall of Fame, "Serop 'Setto' Postoian." https://www.mmshof.org/index.php/inductees/inductees/326-serop-setto-postoian
-[^aw]: Autoweek, "Swamp Rat Is a One-of-a-Kind Drag-Racing Treasure." https://www.autoweek.com/racing/nhra/a30456374/swamp-rat-is-a-one-of-a-kind-drag-racing-treasure/
-[^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/ (read 2026-10-22)
+[^mm]: Michigan Motor Sports Hall of Fame, "Serop 'Setto' Postoian." https://www.mmshof.org/index.php/inductees/inductees/326-serop-setto-postoian (accessed 2026-10-13)
+[^aw]: Autoweek, "Swamp Rat Is a One-of-a-Kind Drag-Racing Treasure." https://www.autoweek.com/racing/nhra/a30456374/swamp-rat-is-a-one-of-a-kind-drag-racing-treasure/ (accessed 2026-10-13)
+[^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/ (read 2026-10-22) (accessed 2026-10-13)
 [^nhra]: NHRA, "Two legends: 'Big' and Bakersfield" (2025, search excerpt). https://nhra.sport/news/2025/two-legends-big-and-bakersfield
 [^cc5910]: "Controversial 'King of the Drags'" (Don Garlits profile), *Car Craft*, Oct. 1959. Scanned OCR. https://archive.org/details/sim_car-craft_1959-10_7_6 (accessed 2026-10-22)
 [^dx580628]: National Drag Racing Series preview, *Dixon Evening Telegraph* (Dixon, Ill.), June 28, 1958. Page OCR. https://archive.org/details/dixon-evening-telegraph-1958-06-28 (accessed 2026-10-22)

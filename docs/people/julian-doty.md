@@ -100,6 +100,6 @@ His signature mattered too. From 1972 he made and signed official SCTA timing sl
 
 - [AHRF, Julian Doty profile (photos)](https://ahrf.com/pioneer/julian-doty/)
 
-[^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm
-[^ahrf]: American Hot Rod Foundation, "Julian Doty." https://ahrf.com/pioneer/julian-doty/
-[^kr]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall
+[^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm (accessed 2026-10-13)
+[^ahrf]: American Hot Rod Foundation, "Julian Doty." https://ahrf.com/pioneer/julian-doty/ (accessed 2026-10-13)
+[^kr]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall (accessed 2026-10-13)

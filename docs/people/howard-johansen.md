@@ -100,8 +100,8 @@ His dates are still loose. Hot Rod's "Finish Line" (Jan 1989) says he died aged 
 
 - [Hot Rod archive story on the 1949 and 1954 twin-tank streamliners (period photos)](https://www.hotrod.com/features/twin-tank-bellytanker-land-speed-racer-archive)
 
-[^hr89]: "Finish Line, January 1989," Hot Rod (G.B.). https://www.hotrod.com/features/finish-line-january-1989-982-1416-160-1
-[^wiki]: Wikipedia, "Howard Johansen." https://en.wikipedia.org/wiki/Howard_Johansen
-[^co]: Howards Cams, "About Us." https://www.howardscams.com/about-us
-[^ilp]: Inliners International, "12 Port Story," part six. https://www.inliners.org/12_Port_Story/pt_six.html
-[^tt]: Hot Rod, "Twin Belly Tank Streamliner Race Car at Bonneville in 1949." https://www.hotrod.com/features/twin-tank-bellytanker-land-speed-racer-archive
+[^hr89]: "Finish Line, January 1989," Hot Rod (G.B.). https://www.hotrod.com/features/finish-line-january-1989-982-1416-160-1 (accessed 2026-10-13)
+[^wiki]: Wikipedia, "Howard Johansen." https://en.wikipedia.org/wiki/Howard_Johansen (accessed 2026-10-13)
+[^co]: Howards Cams, "About Us." https://www.howardscams.com/about-us (accessed 2026-10-13)
+[^ilp]: Inliners International, "12 Port Story," part six. https://www.inliners.org/12_Port_Story/pt_six.html (accessed 2026-10-13)
+[^tt]: Hot Rod, "Twin Belly Tank Streamliner Race Car at Bonneville in 1949." https://www.hotrod.com/features/twin-tank-bellytanker-land-speed-racer-archive (accessed 2026-10-12)

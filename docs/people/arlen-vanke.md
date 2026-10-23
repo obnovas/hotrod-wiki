@@ -96,8 +96,8 @@ He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives 
 - [Hemmings, Vanke stories (period race photos)](https://www.hemmings.com/stories/akron-arlen-vanke/)
 - [Knafel Pontiac 'Tin Indians' site (Super Duty and GTO photos)](http://www.tinindian.com/drivers/arlenvanke.html)
 
-[^mm]: Michigan Motor Sports Hall of Fame, "Vanke, 'Akron Arlen' 2016." https://www.mmshof.org/index.php/inductees/inductees/368-akron-arlen-vanke
-[^hem]: Hemmings, "Akron Arlen Vanke." https://www.hemmings.com/stories/akron-arlen-vanke/
-[^hem2]: Hemmings, "Drag racer 'Akron' Arlen Vanke dead at age 80," 2017. https://www.hemmings.com/stories/drag-racer-akron-arlen-vanke-dead-at-age-80/
-[^tin]: Knafel Pontiac "Tin Indians" site, "Arlen Vanke." http://www.tinindian.com/drivers/arlenvanke.html
-[^nhra]: NHRA, "NHRA pioneer 'Akron Arlen' Vanke dies," June 20, 2017. https://www.nhra.com/news/2017/nhra-pioneer-akron-arlen-vanke-dies
+[^mm]: Michigan Motor Sports Hall of Fame, "Vanke, 'Akron Arlen' 2016." https://www.mmshof.org/index.php/inductees/inductees/368-akron-arlen-vanke (accessed 2026-10-13)
+[^hem]: Hemmings, "Akron Arlen Vanke." https://www.hemmings.com/stories/akron-arlen-vanke/ (accessed 2026-10-13)
+[^hem2]: Hemmings, "Drag racer 'Akron' Arlen Vanke dead at age 80," 2017. https://www.hemmings.com/stories/drag-racer-akron-arlen-vanke-dead-at-age-80/ (accessed 2026-10-13)
+[^tin]: Knafel Pontiac "Tin Indians" site, "Arlen Vanke." http://www.tinindian.com/drivers/arlenvanke.html (accessed 2026-10-13)
+[^nhra]: NHRA, "NHRA pioneer 'Akron Arlen' Vanke dies," June 20, 2017. https://www.nhra.com/news/2017/nhra-pioneer-akron-arlen-vanke-dies (accessed 2026-10-13)

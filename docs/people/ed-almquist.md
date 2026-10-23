@@ -95,8 +95,8 @@ His name also turns up in period custom literature: a pamphlet from "Pennsylvani
 <figcaption markdown>US 3,172,301, "Gear shift" by George H. Hurst Jr. and William G. Campbell, filed Oct 1962. Compare it with Almquist Engineering's US 3,082,639 above. Creator: George H. Hurst Jr. & William G. Campbell (inventors); USPTO. Date: filed 1962-10-15, issued 1965-03-09. Source: [Google Patents](https://patents.google.com/patent/US3172301A/en). License: Public domain (U.S. patent drawing).</figcaption>
 </figure>
 
-[^obit]: "Edgar Almquist" (obituary), Pike County Courier, July 28, 2015. https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961
+[^obit]: "Edgar Almquist" (obituary), Pike County Courier, July 28, 2015. https://www.pikecountycourier.com/milestones/obituaries/edgar-almquist-EWPC20150728150729961 (accessed 2026-10-13)
 [^hem]: Hemmings, "Ed Almquist" (read via search excerpt; page blocked direct fetch). https://www.hemmings.com/stories/ed-almquist/
 [^thr]: "Ed Almquist, motorhead inventor and pioneer dies," Times Herald-Record, July 30, 2015 (paywalled; via search excerpt). https://www.recordonline.com/story/news/local/port-jervis/2015/07/30/ed-almquist-motorhead-inventor-pioneer/33784642007/
-[^hof]: Don Garlits Museum, International Drag Racing Hall of Fame, Class of 2011. https://garlits.com/hall-of-fame-inductees-2011/
-[^revs]: Ken Gross, "Emerald Icon from a Lost Era," Revs Institute. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury
+[^hof]: Don Garlits Museum, International Drag Racing Hall of Fame, Class of 2011. https://garlits.com/hall-of-fame-inductees-2011/ (accessed 2026-10-13)
+[^revs]: Ken Gross, "Emerald Icon from a Lost Era," Revs Institute. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury (accessed 2026-10-12)

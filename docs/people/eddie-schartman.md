@@ -99,4 +99,4 @@ The end came in small ways. In Pro Stock, the 1972 Gatornationals tech crew disq
 
 - [NHRA, "'Fast Eddie' Schartman" (period photos of the A/FX Comet, the flip-top Comet and the Air Lift Cougar)](https://www.nhra.com/news/2016/fast-eddie-schartman)
 
-[^nhra]: Phil Burgess, "'Fast Eddie' Schartman," NHRA.com, Feb 12, 2016. https://www.nhra.com/news/2016/fast-eddie-schartman
+[^nhra]: Phil Burgess, "'Fast Eddie' Schartman," NHRA.com, Feb 12, 2016. https://www.nhra.com/news/2016/fast-eddie-schartman (accessed 2026-10-13)

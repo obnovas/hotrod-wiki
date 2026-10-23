@@ -134,7 +134,7 @@ The News named his survivors: wife Patricia (68 years), sons Randy and Rick, dau
 - [Hemmings, "Fran Hernandez: A Life in Pictures"](https://www.hemmings.com/stories/fran-hernandez-a-life-in-pictures/)
 - [H.A.M.B. thread with Detroit News obituary text](https://www.jalopyjournal.com/forum/threads/hot-rod-legend-from-the-greatest-generation-fran-hernandez-rip.555417/)
 
-[^dn]: Mark Hicks, "Natural mechanic led race car division," Detroit News, Jan 20, 2011, as quoted on The H.A.M.B. (Harms Way), Jan 29–30, 2011. https://www.jalopyjournal.com/forum/threads/hot-rod-legend-from-the-greatest-generation-fran-hernandez-rip.555417/
-[^hem]: Daniel Strohl, "Fran Hernandez," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/fran-hernandez/
-[^hr]: Hot Rod, "Where it All Began: Street/Lakes/Strip" (Fran Hernandez '32). https://www.hotrod.com/news/hrdp-1303-where-it-all-began-street-lakes-strip
-[^gar]: Don Garlits Museum, "Ron & Gene Logghe." https://garlits.com/hall-of-fame/ron-gene-logghe/
+[^dn]: Mark Hicks, "Natural mechanic led race car division," Detroit News, Jan 20, 2011, as quoted on The H.A.M.B. (Harms Way), Jan 29–30, 2011. https://www.jalopyjournal.com/forum/threads/hot-rod-legend-from-the-greatest-generation-fran-hernandez-rip.555417/ (accessed 2026-10-14)
+[^hem]: Daniel Strohl, "Fran Hernandez," Hemmings, Sept 23, 2018. https://www.hemmings.com/stories/fran-hernandez/ (accessed 2026-10-14)
+[^hr]: Hot Rod, "Where it All Began: Street/Lakes/Strip" (Fran Hernandez '32). https://www.hotrod.com/news/hrdp-1303-where-it-all-began-street-lakes-strip (accessed 2026-10-12)
+[^gar]: Don Garlits Museum, "Ron & Gene Logghe." https://garlits.com/hall-of-fame/ron-gene-logghe/ (accessed 2026-10-14)

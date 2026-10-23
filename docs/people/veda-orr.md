@@ -84,9 +84,9 @@ The Orrs divorced and later reunited, reopening the shop in Mint Canyon. Karl di
 - [Fuel Curve, "Veda Orr" (period photos)](https://fuelcurve.com/veda-orr/)
 - [Hemmings, "Karl and Veda Orr"](https://www.hemmings.com/stories/karl-and-veda-orr/)
 
-[^fc]: "Veda Orr – SCTA Pioneer and Lakes Racer," Fuel Curve / Goodguys Gazette, Nov 7, 2022. https://fuelcurve.com/veda-orr/
-[^hem-orr]: Hemmings, "Karl and Veda Orr." https://www.hemmings.com/stories/karl-and-veda-orr/
-[^hem-shops]: Hemmings, "Lost Speed Shops: Bell, Chapel, Orr." https://www.hemmings.com/stories/lost-speed-shops-bell-chapel-orr/
-[^hrh]: Hot Rod Hotline, "Veda Orr's New/Revised Hot Rod Pictorial Published by Veloce Press." https://hotrodhotline.com/veda-orrs-new-revised-hot-rod-pictoral-published-by-veloce-press/
-[^kr]: Kustomrama, "Veda Orr's New Revised Hot Rod Pictorial." https://kustomrama.com/wiki/Veda_Orr's_New_Revised_Hot_Rod_Pictorial
-[^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
+[^fc]: "Veda Orr – SCTA Pioneer and Lakes Racer," Fuel Curve / Goodguys Gazette, Nov 7, 2022. https://fuelcurve.com/veda-orr/ (accessed 2026-10-12)
+[^hem-orr]: Hemmings, "Karl and Veda Orr." https://www.hemmings.com/stories/karl-and-veda-orr/ (accessed 2026-10-13)
+[^hem-shops]: Hemmings, "Lost Speed Shops: Bell, Chapel, Orr." https://www.hemmings.com/stories/lost-speed-shops-bell-chapel-orr/ (accessed 2026-10-12)
+[^hrh]: Hot Rod Hotline, "Veda Orr's New/Revised Hot Rod Pictorial Published by Veloce Press." https://hotrodhotline.com/veda-orrs-new-revised-hot-rod-pictoral-published-by-veloce-press/ (accessed 2026-10-13)
+[^kr]: Kustomrama, "Veda Orr's New Revised Hot Rod Pictorial." https://kustomrama.com/wiki/Veda_Orr's_New_Revised_Hot_Rod_Pictorial (accessed 2026-10-13)
+[^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers (accessed 2026-10-12)

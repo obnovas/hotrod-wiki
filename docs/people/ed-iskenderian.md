@@ -72,10 +72,10 @@ His last interview, in a nursing home south of LA in September 2025, ended with 
 <figcaption markdown>US 2,846,988, sheet 1: Isky's earliest patent found (1956). The text gives his address as Inglewood, Calif. Creator: Edward Iskenderian (inventor); USPTO. Date: filed 1956-10-30, issued 1958-08-12. Source: [Google Patents](https://patents.google.com/patent/US2846988A/en). License: Public domain (U.S. patent drawing).</figcaption>
 </figure>
 
-[^nhra]: Phil Burgess, "Ed Iskenderian, beloved 'Camfather' of hot rodding, passes away at 104," NHRA, Feb 4, 2026. https://nhra.com/news/2026/ed-iskenderian-beloved-camfather-hot-rodding-passes-away-104
-[^hag]: Brandan Gillogly, "Ed Iskenderian, 'The Camfather,' Has Passed Away at Age 104," Hagerty, Feb 4, 2026. https://www.hagerty.com/media/news/ed-iskenderian-the-camfather-has-passed-away-at-age-104/
-[^cd]: Elana Scherr, Car and Driver, Feb 4, 2026. https://www.caranddriver.com/news/a70250198/ed-isky-iskenderian-obituary/
-[^sema]: SEMA News, "SEMA and PRI Mourn the Loss of Industry Icon Ed 'Isky' Iskenderian, 104." https://www.sema.org/news-media/enews/2026/06/sema-and-pri-mourn-loss-industry-icon-ed-isky-iskenderian-104
-[^leg]: Legacy.com, "Ed Iskenderian Obituary." https://www.legacy.com/legacy/notable-deaths/ed-iskenderian
-[^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
+[^nhra]: Phil Burgess, "Ed Iskenderian, beloved 'Camfather' of hot rodding, passes away at 104," NHRA, Feb 4, 2026. https://nhra.com/news/2026/ed-iskenderian-beloved-camfather-hot-rodding-passes-away-104 (accessed 2026-10-13)
+[^hag]: Brandan Gillogly, "Ed Iskenderian, 'The Camfather,' Has Passed Away at Age 104," Hagerty, Feb 4, 2026. https://www.hagerty.com/media/news/ed-iskenderian-the-camfather-has-passed-away-at-age-104/ (accessed 2026-10-13)
+[^cd]: Elana Scherr, Car and Driver, Feb 4, 2026. https://www.caranddriver.com/news/a70250198/ed-isky-iskenderian-obituary/ (accessed 2026-10-13)
+[^sema]: SEMA News, "SEMA and PRI Mourn the Loss of Industry Icon Ed 'Isky' Iskenderian, 104." https://www.sema.org/news-media/enews/2026/06/sema-and-pri-mourn-loss-industry-icon-ed-isky-iskenderian-104 (accessed 2026-10-12)
+[^leg]: Legacy.com, "Ed Iskenderian Obituary." https://www.legacy.com/legacy/notable-deaths/ed-iskenderian (accessed 2026-10-13)
+[^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers (accessed 2026-10-12)
 [^cp59g]: Dave Wallace, "Drag Rags: 1959 – Garlits Goes from Zero to Hero," Competition Plus, Mar 31, 2019. https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/ (accessed 2026-10-22)

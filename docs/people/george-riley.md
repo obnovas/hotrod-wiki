@@ -78,8 +78,8 @@ These are unverified recollections, so they are marked for confirmation. <a clas
 - [Museum of American Speed, "Riley OHV" (photos of Riley heads)](https://www.museumofamericanspeed.org/riley-ohv.html)
 - [Model A Ford Garage, 1930 Riley Valve-in-Head brochure](https://www.fordgarage.com/pages/1930rileyvalveinhead.htm)
 
-[^hr]: Hot Rod, "Prehistoric Ford Four-Bangers." https://www.hotrod.com/news/hrdp-1210-vintage-ford-model-a-b-c-four-cylinder-engines
-[^hemm]: Hemmings, "Keeping Secrets." https://www.hemmings.com/stories/keeping-secrets/
-[^moas]: Museum of American Speed, "Riley OHV." https://www.museumofamericanspeed.org/riley-ohv.html
-[^cm]: Miniature Engineering Craftsmanship Museum, "4-Port Riley Model A Racing Engine." https://craftsmanshipmuseum.com/exhibit/4-port-riley-model-a-racing-engine/
-[^fb]: The Ford Barn forum, "Riley, George Overhead Valve Heads History Info." https://www.fordbarn.com/forum/showthread.php?t=25673
+[^hr]: Hot Rod, "Prehistoric Ford Four-Bangers." https://www.hotrod.com/news/hrdp-1210-vintage-ford-model-a-b-c-four-cylinder-engines (accessed 2026-10-12)
+[^hemm]: Hemmings, "Keeping Secrets." https://www.hemmings.com/stories/keeping-secrets/ (accessed 2026-10-12)
+[^moas]: Museum of American Speed, "Riley OHV." https://www.museumofamericanspeed.org/riley-ohv.html (accessed 2026-10-12)
+[^cm]: Miniature Engineering Craftsmanship Museum, "4-Port Riley Model A Racing Engine." https://craftsmanshipmuseum.com/exhibit/4-port-riley-model-a-racing-engine/ (accessed 2026-10-12)
+[^fb]: The Ford Barn forum, "Riley, George Overhead Valve Heads History Info." https://www.fordbarn.com/forum/showthread.php?t=25673 (accessed 2026-10-12)

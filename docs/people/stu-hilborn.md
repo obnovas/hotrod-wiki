@@ -130,8 +130,8 @@ The company was later acquired by Holley (**2019** per Wikipedia summary); Holle
 - [SEMA News, "Stu Hilborn" (Petersen Archives cover photo)](https://www.sema.org/news-media/magazine/2014/18/stu-hilborn)
 - [Hot Rod, Hilborn streamliner feature](https://www.hotrod.com/features/150-mph-stu-hillborn-streamliner-changed-history)
 
-[^aw]: Mark Vaughn, "Fuel injection pioneer Stuart Hilborn: 1917-2013," Autoweek, Dec 15, 2013. https://www.autoweek.com/news/a1946706/fuel-injection-pioneer-stuart-hilborn-1917-2013/
-[^sema]: Drew Hardin, "Stu Hilborn," SEMA News, May 2014. https://www.sema.org/news-media/magazine/2014/18/stu-hilborn
-[^p3523]: US3473523A, Google Patents. https://patents.google.com/patent/US3473523A/en
-[^p9407]: US3519407A, Google Patents. https://patents.google.com/patent/US3519407A/en
-[^wp]: Wikipedia, "Stuart Hilborn" (secondary; Holley 2019/2024 claims). https://en.wikipedia.org/wiki/Stuart_Hilborn
+[^aw]: Mark Vaughn, "Fuel injection pioneer Stuart Hilborn: 1917-2013," Autoweek, Dec 15, 2013. https://www.autoweek.com/news/a1946706/fuel-injection-pioneer-stuart-hilborn-1917-2013/ (accessed 2026-10-13)
+[^sema]: Drew Hardin, "Stu Hilborn," SEMA News, May 2014. https://www.sema.org/news-media/magazine/2014/18/stu-hilborn (accessed 2026-10-14)
+[^p3523]: US3473523A, Google Patents. https://patents.google.com/patent/US3473523A/en (accessed 2026-10-14)
+[^p9407]: US3519407A, Google Patents. https://patents.google.com/patent/US3519407A/en (accessed 2026-10-14)
+[^wp]: Wikipedia, "Stuart Hilborn" (secondary; Holley 2019/2024 claims). https://en.wikipedia.org/wiki/Stuart_Hilborn (accessed 2026-10-14)

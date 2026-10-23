@@ -106,7 +106,7 @@ These can be reconciled as a hobby in 1939–41, a business name in 1941–42, a
 
 - [Kustomrama, Jack Engle (family photos: his T roadster, the Low Flyers, the homemade grinder)](https://kustomrama.com/wiki/Jack_Engle)
 
-[^wiki]: Wikipedia, "Jack Engle." https://en.wikipedia.org/wiki/Jack_Engle
-[^kr]: Kustomrama, "Jack Engle" (photos and captions courtesy Mark Engle). https://kustomrama.com/wiki/Jack_Engle
-[^obit]: Engle Racing Cams catalog, "John 'Jack' Engle 1920–2008" obituary page (doczz mirror). https://doczz.net/doc/1013817/engle-cams---engle-racing-cams
-[^site]: Engle Cams, home page. https://www.englecams.com/
+[^wiki]: Wikipedia, "Jack Engle." https://en.wikipedia.org/wiki/Jack_Engle (accessed 2026-10-13)
+[^kr]: Kustomrama, "Jack Engle" (photos and captions courtesy Mark Engle). https://kustomrama.com/wiki/Jack_Engle (accessed 2026-10-13)
+[^obit]: Engle Racing Cams catalog, "John 'Jack' Engle 1920–2008" obituary page (doczz mirror). https://doczz.net/doc/1013817/engle-cams---engle-racing-cams (accessed 2026-10-13)
+[^site]: Engle Cams, home page. https://www.englecams.com/ (accessed 2026-10-13)

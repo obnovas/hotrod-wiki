@@ -115,5 +115,5 @@ Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on us
 - [NHRA, "The Final Fred Files" (Durham Strip Blazer photo by Fred von Sholly)](https://www.nhra.com/news/2009/final-fred-files)
 - [Auto Channel reprint, NHRA Top 50: Malcolm Durham](https://www.theautochannel.com/news/2001/02/09/014436.html)
 
-[^top50]: Anthony Vestal / NHRA, "NHRA 50 Greatest Drivers: Malcolm Durham, Number 48," The Auto Channel, Feb 9, 2001. https://www.theautochannel.com/news/2001/02/09/014436.html
-[^fred]: Phil Burgess, "The Final Fred Files," NHRA.com, July 31, 2009. https://www.nhra.com/news/2009/final-fred-files
+[^top50]: Anthony Vestal / NHRA, "NHRA 50 Greatest Drivers: Malcolm Durham, Number 48," The Auto Channel, Feb 9, 2001. https://www.theautochannel.com/news/2001/02/09/014436.html (accessed 2026-10-14)
+[^fred]: Phil Burgess, "The Final Fred Files," NHRA.com, July 31, 2009. https://www.nhra.com/news/2009/final-fred-files (accessed 2026-10-14)

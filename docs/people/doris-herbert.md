@@ -81,9 +81,9 @@ She had critics. NHRA's *National Dragster* editor wrote in 2009 that, per Dick 
 
 - [Competition Plus, Drag Rags series (Drag News front pages and ads)](https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/)
 
-[^cp1]: Dave Wallace, "Drag Rags with Dave Wallace, Earliest Editions," Competition Plus, Jan 7, 2019. https://competitionplus.com/drag-rags-with-dave-wallace-earliest-editions/
-[^cp67]: Dave Wallace, "Drag Rags: Early 1967 – War of Early Independents Ends," Competition Plus, Jan 13, 2024. https://competitionplus.com/drag-rags-early-1967-war-of-early-independents-ends/
-[^hem]: Hemmings, "Chet Herbert." https://www.hemmings.com/stories/chet-herbert/
-[^hof]: Don Garlits Museum, International Drag Racing Hall of Fame, "Doris Herbert." https://garlits.com/international-hall-of-fame-inductees/
-[^deboer]: Bud DeBoer, "Bud's Coast to Coast Drag Racing Adventure," DragList. https://www.draglist.com/stories/SOD%20Nov%202000/SOD-111600.htm
+[^cp1]: Dave Wallace, "Drag Rags with Dave Wallace, Earliest Editions," Competition Plus, Jan 7, 2019. https://competitionplus.com/drag-rags-with-dave-wallace-earliest-editions/ (accessed 2026-10-13)
+[^cp67]: Dave Wallace, "Drag Rags: Early 1967 – War of Early Independents Ends," Competition Plus, Jan 13, 2024. https://competitionplus.com/drag-rags-early-1967-war-of-early-independents-ends/ (accessed 2026-10-13)
+[^hem]: Hemmings, "Chet Herbert." https://www.hemmings.com/stories/chet-herbert/ (accessed 2026-10-12)
+[^hof]: Don Garlits Museum, International Drag Racing Hall of Fame, "Doris Herbert." https://garlits.com/international-hall-of-fame-inductees/ (accessed 2026-10-13)
+[^deboer]: Bud DeBoer, "Bud's Coast to Coast Drag Racing Adventure," DragList. https://www.draglist.com/stories/SOD%20Nov%202000/SOD-111600.htm (accessed 2026-10-13)
 [^r12nd]: Phil Burgess, "From the burnout box to your mailbox for 50 years," NHRA, Aug 27, 2009. https://www.nhra.com/news/2009/burnout-box-your-mailbox-50-years (accessed 2026-10-15)
