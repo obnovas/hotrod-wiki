@@ -59,7 +59,7 @@ canonical_for: []
 *Abington, Warminster, and the Bucks County magazines that watched it happen*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> two Bucks County magazines (*Panorama*, Oct 1965; *Bucks County Life*, Nov 1965 and Jan–Feb 1966), a family account from Bill Campbell's daughter, an enthusiast-press history (Ate Up With Motor), trade press (*Hot Rod*, 2020), patents, and a Round 17 paper trail (a 1962 Dodge brochure, 1962–63 federal copyright registrations and a 1966 AMC parts list); a small-town Indiana paper (*Rushville Republican*, 1971) · **Last verified:** 2026-10-22 (Round 21; the Warminster move resolved to 1965) · **Open issues:** ⚠ incorporation date; ⚠ 1965 sales figure; ⚠ who conceived the rescue tool; ◐ Almquist's role · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> two Bucks County magazines (*Panorama*, Oct 1965; *Bucks County Life*, Nov 1965 and Jan–Feb 1966), a family account from Bill Campbell's daughter, an enthusiast-press history (Ate Up With Motor), trade press (*Hot Rod*, 2020), patents, and a Round 17 paper trail (a 1962 Dodge brochure, 1962–63 federal copyright registrations and a 1966 AMC parts list); a small-town Indiana paper (*Rushville Republican*, 1971) · **Last verified:** 2026-10-22 (Round 21; the Warminster move resolved to 1965) · **Open issues:** ◐ incorporation date; ⚠ 1965 sales figure; ⚠ who conceived the rescue tool; ◐ Almquist's role; ? Anco or Sparkomatic · [How we rate this](../reference/source-standards.md)
 
 Hurst-Campbell, Inc., a Doylestown magazine told its Bucks County readers in October 1965, "has no employees." Everyone was an associate. The company had just opened a new 58,000-square-foot plant across from the Johnsville Naval Air Station in Warminster, and the founder and his partner swung open the doors to "welcome back their 250 vacationing associates."[^pan]
 
@@ -77,7 +77,7 @@ The best story about that showmanship comes from *Hot Rod*. Petersen's chief pho
 
 ## From Anco to Warminster
 
-After some setbacks Hurst and Campbell teamed with Jonas Anchel and **Ed Almquist**, "founders of the speed shop Anco Industries," on an engine mount called Adjusta-Torque and a floor-mounted linkage for three-speed transmissions. George installed the first in his own 1956 Chevrolet. Almquist and Anchel would not put up the capital to market it, so Hurst and Campbell borrowed $20,000 and set up their own company, Hurst-Campbell, Inc. It "opened for business in 1959," says Ate Up With Motor.[^auwm] That history puts the new company in Warminster, but Warminster is where it ended up, not where it started. *Panorama* calls its first home a "small converted two-car garage in Abington,"[^pan] and the earliest address we have found, on a 1962 Dodge brochure, is 341 W. Glenside Ave., Glenside, a place that lies partly in Abington Township.[^dodge62][^glen] The company moved to its Warminster plant in 1965 (see [The paper trail](#the-paper-trail-where-to-send-your-order)).
+After some setbacks Hurst and Campbell teamed with Jonas Anchel and **Ed Almquist**, "founders of the speed shop Anco Industries,"<sup class="hr-q" id="qr-12"><a href="#q-12" title="Open question: see the bottom of the page">?</a></sup> on an engine mount called Adjusta-Torque and a floor-mounted linkage for three-speed transmissions. George installed the first in his own 1956 Chevrolet. Almquist and Anchel would not put up the capital to market it, so Hurst and Campbell borrowed $20,000 and set up their own company, Hurst-Campbell, Inc. It "opened for business in 1959," says Ate Up With Motor;[^auwm] Campbell's daughter dates the incorporation to May 1958, "after two years" of part-time die design.[^jacg]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> That history puts the new company in Warminster, but Warminster is where it ended up, not where it started. *Panorama* calls its first home a "small converted two-car garage in Abington,"[^pan] and the earliest address we have found, on a 1962 Dodge brochure, is 341 W. Glenside Ave., Glenside, a place that lies partly in Abington Township.[^dodge62][^glen] The company moved to its Warminster plant in 1965 (see [The paper trail](#the-paper-trail-where-to-send-your-order)). That year *Panorama* put its sales "in excess of six million dollars per year."[^pan]<sup class="hr-q" id="qr-11"><a href="#q-11" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Almquist's own page, built on his Milford, Pennsylvania, obituary and a Port Jervis paper, says a 1959 partnership with Hurst and Campbell on floor shifters dissolved, and that the paper calls him co-designer of the Hurst shifter<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>. That is a single local-press source. The patent record is suggestive and no more: Almquist Engineering's gear-shift patent was filed in September 1962, a month before Hurst and Campbell filed theirs.[^alm][^pat]
 
@@ -85,15 +85,6 @@ Almquist's own page, built on his Milford, Pennsylvania, obituary and a Port Jer
 ![Patent drawing US 3,172,301, Gear shift, by George H. Hurst Jr. and William G. Campbell.](../assets/images/patent-US3172301-hurst-gearshift.png){ width="300" loading=lazy }
 <figcaption markdown>US 3,172,301, "Gear shift," by George H. Hurst Jr. and William G. Campbell, filed 1962-10-15, issued 1965-03-09. Source: [Google Patents](https://patents.google.com/patent/US3172301A/en). License: public domain (U.S. patent drawing). Compare Almquist Engineering's US 3,082,639 on [Ed Almquist](../people/ed-almquist.md).</figcaption>
 </figure>
-
-| Item | Local magazines | Other sources |
-|---|---|---|
-| Warminster | The plant is "new" in Oct 1965; *Bucks County Life* (Jan–Feb 1966) says "This past year the Hurst-Campbell company breezed into Warminster and started production of gear shifts and other equipment for auto builders."[^pan][^bclj] | "Opened for business in 1959," placed in Warminster (Ate Up With Motor)[^auwm]; the date fits the company's start, and the Warminster address came in 1965 (see [The paper trail](#the-paper-trail-where-to-send-your-order)) |
-| Incorporation | — | May 1958, "after two years" of part-time die design, per Campbell's daughter <sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^jacg]; "opened for business in 1959"[^auwm] |
-| Sales | "in excess of six million dollars per year" (1965)[^pan] | "more than $20 million a year" by "the mid-sixties"[^auwm] |
-| Partners' names | — | Anco Industries (Ate Up With Motor)[^auwm]; Almquist's page says Sparkomatic, with Anchel (obituary)[^alm] |
-
-The $6 million and $20 million figures may be different years, since "mid-sixties" is loose. The magazine has the earlier, contemporary number, and the history has the bigger one.
 
 ## The paper trail: where to send your order
 
@@ -144,7 +135,7 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Was Almquist a co-designer of the Hurst shifter?** Only one source says so: the Port Jervis *Times Herald-Record* obituary, via [Ed Almquist](../people/ed-almquist.md).[^alm] The Hurst and Campbell patents name only the two of them,[^pat] though Ate Up With Motor has Almquist and Anchel in on the first floor linkage before the company was formed.[^auwm] Lead: Almquist Engineering's 1962 patent file and any 1959 agreement among the three. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Incorporation*: May 1958, "after two years" of part-time die design, per Campbell's daughter ; "opened for business in 1959" <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Incorporated in 1958?** Only Campbell's daughter, in an email printed by Just A Car Guy, dates the incorporation to May 1958, "after two years" of part-time die design.[^jacg] Ate Up With Motor says only that the company "opened for business in 1959."[^auwm] Both can be true. Lead: the Pennsylvania corporation record. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have not seen any of these pieces, and we don't know what the "mystery shifter" was. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
@@ -161,6 +152,10 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 <a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is a single trade-press summary; the corporate paper trail is on the [Research Trail](../research-trail.md). <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
 <a id="q-10" class="hr-q-anchor"></a>**Single source so far.** **Mr. Gasket and Hurst, 1986.** That Mr. Gasket bought what was left of Hurst Performance in 1986 rests on one Hagerty feature.[^hag] Lead: 1986 trade press; see also [Mr. Gasket](mr-gasket.md). <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
+
+<a id="q-11" class="hr-q-anchor"></a>**Disputed.** **How big were sales in the mid-1960s?** *Panorama* (Oct 1965) gives "in excess of six million dollars per year";[^pan] Ate Up With Motor says "more than $20 million a year" by "the mid-sixties."[^auwm] They may be different years, since "mid-sixties" is loose. The magazine has the earlier, contemporary figure and the history the bigger one. <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
+
+<a id="q-12" class="hr-q-anchor"></a>**Open question.** **Anco or Sparkomatic?** Ate Up With Motor calls Almquist and Anchel "founders of the speed shop Anco Industries";[^auwm] Almquist's obituary has him starting **Sparkomatic** with Anchel in 1954 (see [Ed Almquist](../people/ed-almquist.md)).[^alm] They may be two companies of the same partners; we have not found Anco in any period source. <a class="hr-q-back" href="#qr-12" title="Back to the story">↩</a>
 
 ## Images
 
