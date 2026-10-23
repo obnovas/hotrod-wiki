@@ -119,7 +119,7 @@ IRG moved the **2016** World Series to Memphis International Raceway. Bartel was
 
 Bartel and racer **Ron Colson** said they owned the World Series name, citing a USPTO document dated **Oct. 11, 2016**. Colson said the name had never been contested under Gipson or Gardner.[^qc]<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup> (Colson raced a B/Gas '41 Studebaker before driving the *Chi-Town Hustler*. See [Ohio & Midwest Gassers](../places/ohio-gassers.md).)
 
-*See also:* [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Setto Postoian](setto-postoian.md) (1957–58 World Series final), [Ohio & Midwest Gassers](../places/ohio-gassers.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (another early airport strip).
+*See also:* [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Setto Postoian](setto-postoian.md) (World Series winner over Garlits; which years is disputed), [Ohio & Midwest Gassers](../places/ohio-gassers.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (another early airport strip).
 
 ## Open questions & disputed details
 

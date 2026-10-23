@@ -154,7 +154,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
 | 1965 | Gays' *Infinity* GTO Funny Car debuts (July 3, Dickinson). Hassel moves to Florida for Crane Cams. Virgil Cates's NHRA Comp title | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
 | 1965 | First annual MVTA Rod and Custom Show, Twin Falls (July 24–25) | [Twin Falls](../places/twin-falls-main-avenue.md) |
-| 1965 | Hurst-Campbell opens its 58,000-square-foot Warminster, Pa., plant (the date is disputed ⚠); Cleveland gasser Ron Hassel becomes Crane Cams' sales manager in South Florida | [Hurst-Campbell](../companies/hurst-campbell.md), [Crane Cams](../companies/crane-cams.md) |
+| 1965 | Hurst-Campbell opens its 58,000-square-foot Warminster, Pa., plant; Cleveland gasser Ron Hassel becomes Crane Cams' sales manager in South Florida | [Hurst-Campbell](../companies/hurst-campbell.md), [Crane Cams](../companies/crane-cams.md) |
 | 1965 | SEMO Dragstrip advertises as "NHRA SANCTIONED - SPONSORED BY JAYCEES" (Apr 11 opener) | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md) |
 | 1966 | Logghe builds first flip-top Comets for Lincoln-Mercury (Nicholson, Schartman, Chrisman) | [Logghe](../companies/logghe-stamping.md), [Fran Hernandez](../people/fran-hernandez.md) |
 | 1966 | Schartman wins NHRA's first Funny Car title (Tulsa) | [Eddie Schartman](../people/eddie-schartman.md) |

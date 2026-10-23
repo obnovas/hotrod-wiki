@@ -90,7 +90,8 @@ facts:
     anchor: 1957-the-garlits-upset
     snippet: garlits-cordova-1957.md
     detect: "Garlits.{0,80}Cordova|Cordova.{0,80}Garlits|World Series.{0,80}Garlits"
-    value: "Aug 21–25, 1957; Postoian beat Garlits in the 1957 and 1958 ATAA World Series finals"
+    value: "Aug 21–25, 1957; Postoian beat Garlits in the 1957 and 1958 ATAA World Series finals ⚠ (1958 preview: 1956–57)"
+    oq: [q-4]
   scta-founding:
     page: eras/1930s-dry-lakes-scta.md
     anchor: may-or-march

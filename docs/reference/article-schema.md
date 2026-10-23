@@ -93,7 +93,7 @@ The registry is `docs/data/canonical.yml`. For each fact it names the page, anch
 
 | Key | Canonical page | Snippet | Agreed value |
 |---|---|---|---|
-| `santa-ana-bayonets` | [eras/1950s-santa-ana-drags.md](../eras/1950s-santa-ana-drags.md#routed-by-bayonets) | `snippets/santa-ana-bayonets.md` | late 1940s; one source (MSHF biography) |
+| `santa-ana-bayonets` | [eras/1950s-santa-ana-drags.md](../eras/1950s-santa-ana-drags.md#routed-by-bayonets) | `snippets/santa-ana-bayonets.md` | late 1940s; one source (MSHF biography) ◐ |
 | `muroc-1941-jeeps` | [people/kong-jackson.md](../people/kong-jackson.md#muroc-1941) | `snippets/muroc-1941-jeeps.md` | 1941, Kong Jackson's recollection via Medley and Fuel Curve |
 | `isky-winfield` | [people/ed-iskenderian.md](../people/ed-iskenderian.md#cams-and-trouble) | `snippets/isky-winfield.md` | Hagerty: Winfield mentored Isky; Engle family: both bought first cams from Winfield |
 | `kansas-city-strip-1955` | [drag-racing/kansas-city-timing-association.md](../drag-racing/kansas-city-timing-association.md#the-strip) | `snippets/kansas-city-strip-1955.md` | opened July 17, 1955 (Pond) or July 15 (AP) ⚠; 3,850 ft (Pond) or 4,850 ft (AP) ⚠ |
@@ -104,11 +104,11 @@ The registry is `docs/data/canonical.yml`. For each fact it names the page, anch
 | `snow-200-mph` | [people/gene-snow.md](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates) | `snippets/snow-200-mph.md` | 200.88 mph at Dickinson; Aug 17, 1968 (NHRA Top 50) ⚠ vs 1969 |
 | `nsra-first-president` | [people/dick-wells.md](../people/dick-wells.md#the-street-rod-years-and-the-president-question) | `snippets/nsra-first-president.md` | Wells (four sources) ⚠ vs Miller (99W); open |
 | `ataa-absorbed-1957` | [drag-racing/half-day-ataa-maremont.md](../drag-racing/half-day-ataa-maremont.md#what-changed-by-1957) | `snippets/ataa-absorbed-1957.md` | 1957, Bartel tribute only ◐ |
-| `garlits-cordova-1957` | [drag-racing/detroit-cordova.md](../drag-racing/detroit-cordova.md#1957-the-garlits-upset) | `snippets/garlits-cordova-1957.md` | Aug 21–25, 1957; Postoian beat Garlits in the 1957 and 1958 ATAA World Series finals |
-| `scta-founding` | [eras/1930s-dry-lakes-scta.md](../eras/1930s-dry-lakes-scta.md#may-or-march) | `snippets/scta-founding.md` | founded late 1937 (Nov 1937 per Coachbuilt) ⚠ Kong Jackson: 1938; first meet May 15, 1938 (Road Runners) ⚠ March 15 (StreetMuscle) |
+| `garlits-cordova-1957` | [drag-racing/detroit-cordova.md](../drag-racing/detroit-cordova.md#1957-the-garlits-upset) | `snippets/garlits-cordova-1957.md` | Aug 21–25, 1957; Postoian beat Garlits in the 1957 and 1958 ATAA World Series finals ⚠ (1958 preview: 1956–57) |
+| `scta-founding` | [eras/1930s-dry-lakes-scta.md](../eras/1930s-dry-lakes-scta.md#may-or-march) | `snippets/scta-founding.md` | founded Nov 29, 1937 ⚠ Kong Jackson: 1938; first meet May 15, 1938 (Road Runners) ⚠ March 15 (StreetMuscle) |
 | `hooker-to-holley` | [companies/hooker-headers.md](../companies/hooker-headers.md#what-it-became) | `snippets/hooker-to-holley.md` | 2000 (Holley) ⚠ vs the 1990s (Pennsylvania marker) |
 | `modesto-cruise-ban` | [places/modesto.md](../places/modesto.md#policing) | `snippets/modesto-cruise-ban.md` | Mar 27, 1990 ⚠ marker says 1993 |
-| `peoria-1970-turnout` | [eras/1970s-street-rod-nationals.md](../eras/1970s-street-rod-nationals.md#the-numbers) | `snippets/peoria-1970-turnout.md` | Aug 14–16, 1970; 600 street rods (Hagerty citing MotorTrend), other accounts smaller ⚠ |
+| `peoria-1970-turnout` | [eras/1970s-street-rod-nationals.md](../eras/1970s-street-rod-nationals.md#the-numbers) | `snippets/peoria-1970-turnout.md` | Aug 14–16, 1970; 600 street rods (Hagerty citing MotorTrend; Hot Rod, Oct 1972); the ~200 in R&C counts rally drivers |
 
 ## Links the build adds
 

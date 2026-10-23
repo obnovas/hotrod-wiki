@@ -190,6 +190,13 @@ def main():
             errors.append(f"canonical.yml {key}: snippet '{f['snippet']}' missing")
         if key not in (metas[page].get("canonical_for") or []):
             errors.append(f"{page}: should list '{key}' in canonical_for")
+        # the registry table on the schema page must show the same value
+        _sch = (DOCS / "reference" / "article-schema.md").read_text(encoding="utf-8")
+        _row = re.search(rf"^\| `{re.escape(key)}` \|.*\| ([^|]*) \|$", _sch, re.M)
+        if not _row:
+            errors.append(f"reference/article-schema.md: canonical table has no row for '{key}'")
+        elif _row.group(1).strip() != str(f.get("value", "")).strip():
+            errors.append(f"reference/article-schema.md: canonical table value for '{key}' differs from canonical.yml")
         # flags: the ⚠/◐ in `value` must stand on open items (`oq`) on the canonical page, of the same kind
         oq = f.get("oq") or []
         oq = [oq] if isinstance(oq, str) else oq

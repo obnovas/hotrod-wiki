@@ -64,7 +64,7 @@ canonical_for:
 
 ## 1957: the Garlits upset
 
-In **1957 (Aug 21–25)**, an unknown Don Garlits ran only 133 mph until Emery Cook showed him how to build a hand-operated fuel pressure pump. Garlits then beat Cook & Bedwell in the semis, 9.92/150 against 10.12/160. "Even Garlits admits [it] earned him a 'name.'" Detroit's [Setto Postoian](../people/setto-postoian.md) beat Garlits in the final of both the 1957 and 1958 ATAA World Series (BangShift).[^bs]
+In **1957 (Aug 21–25)**, an unknown Don Garlits ran only 133 mph until Emery Cook showed him how to build a hand-operated fuel pressure pump. Garlits then beat Cook & Bedwell in the semis, 9.92/150 against 10.12/160. "Even Garlits admits [it] earned him a 'name.'" Detroit's [Setto Postoian](../people/setto-postoian.md) beat Garlits in the final of both the 1957 and 1958 ATAA World Series (BangShift).[^bs]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 BangShift puts the meet in context. Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the AHRA meet at Great Bend and the ATAA World Series were the only true national gatherings of fuel cars before 1959.[^bs]
 
@@ -91,6 +91,8 @@ There is also period evidence for the World Series' early years. Chilton's *Moto
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Opening-year conflict:** the Clinton Herald says Cordova was "built in 1955."[^ch] Competition Plus gives an opening in Labor Day 1956.[^cp] A forum poster's recollection that the race moved there in 1955 is unsourced.[^svt] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Closing:** "end of 1997" (Detroit Dragway heritage site) vs "1998" (News-Herald, 2011).[^dd][^nh] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Which two years did Postoian win?** BangShift, the Michigan Motor Sports Hall of Fame and a 1964 Dixon, Ill., newspaper preview all say 1957 and 1958.[^bs] But a June 1958 preview in the same paper called him the winner of "the last two years," which read literally means 1956 and 1957. The sources and the details are on [Setto Postoian](../people/setto-postoian.md#q-4). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Images
 
