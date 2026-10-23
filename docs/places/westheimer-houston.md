@@ -5,11 +5,9 @@ department: places
 eras:
 - 1970s
 - 1980s
-- 1990s
-- 2000s
 years:
 - 1977
-- 2009
+- 1986
 region: Southwest
 states:
 - Texas
@@ -58,9 +56,15 @@ The city ended it, quickly:
 
 > "In about 1986, the City decided enough was enough and cracked down on the pastime by setting up roadblocks and banning turning off of side-streets, and the whole phenomenon vanished in about a month."
 >
-> — **Lomax**, 2009.[^hp]
+> — **Lomax**, 2009.[^hp]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 The kids did not stop cruising. He says the scene then moved to the Richmond Strip, Shepherd Plaza, downtown, Midtown and Washington Avenue.[^hp]
+
+## Open questions & disputed details
+
+*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The crackdown.** The whole page rests on John Nova Lomax's 2009 column, written from memory; the roadblocks, the side-street ban and "about 1986" are his.[^hp] We have found no city ordinance or newspaper report from the time. Lead: the *Houston Chronicle* and *Houston Post* for 1985–87 (the Houston Public Library holds the *Post*). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

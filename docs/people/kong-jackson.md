@@ -59,7 +59,7 @@ Jackson raced the lakes when there were no rules at all. Fuel Curve (2023) quote
 
 ## Muroc, 1941
 
-Then the war reached the lakebed. "Here came a Jeep and out jumped these guys with bayonets. Man, we just split!" The Army Air Corps camp was downwind of the racers' dust. Jackson told Medley that about 90 percent of the men racing that day were in the service within two months.[^fc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Then the war reached the lakebed. "Here came a Jeep and out jumped these guys with bayonets. Man, we just split!" The Army Air Corps camp was downwind of the racers' dust. Jackson told Medley that about 90 percent of the men racing that day were in the service within two months.[^fc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Kong ignition
 
@@ -77,7 +77,7 @@ Even his death date is argued. The contemporaneous post (death Sept 4, 2000) is 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** Jackson's "1938" disagrees with the usual late-1937 founding date (see [Dry Lakes & the SCTA](../eras/1930s-dry-lakes-scta.md)). It is a recollection fifty years on. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **A chronology muddle:** Fuel Curve has him joining the Army as an Air Force mechanic, stationed at Mojave, *and then* back at the lakes by 1938 in a '32 highboy.[^fc] The order of events needs checking. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **A chronology muddle.** Fuel Curve alone has him joining the Army as an Air Force mechanic, stationed at Mojave, *and then* back at the lakes by 1938 in a '32 highboy.[^fc] The order of events doesn't fit, and we have no second source. Lead: his service record, or Medley's original 1988 interview. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far:** Fuel Curve says Clay Smith used this feature on the Lincoln team in the 1953 Mexican Road Race. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

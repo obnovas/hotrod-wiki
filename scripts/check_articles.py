@@ -179,6 +179,25 @@ def main():
             E(f"open-question back link to #qr-{n}, but there is no marker qr-{n}")
         if (marks or items) and "## Open questions & disputed details" not in body:
             E("has open-question markers but no 'Open questions & disputed details' section")
+        # flag hygiene: a ⚠ names two sources (two footnotes between the item and the marked paragraph, or a link to
+        # the other page's Open questions item that carries them); a single-source record shows ◐ in the story
+        for n, title in re.findall(r'<sup class="hr-q" id="qr-(\d+)"><a href="#q-\d+" title="([^":]*)', body):
+            if title != "Sources disagree":
+                continue
+            im = re.search(rf'<a id="q-{n}" class="hr-q-anchor"></a>(.*?)(?:<a class="hr-q-back"|<a id="q-|\n## )', body, re.S)
+            item = im.group(1) if im else ""
+            i = body.find(f'id="qr-{n}"')
+            para = body[body.rfind("\n", 0, i):i]
+            fns = set(re.findall(r"\[\^([\w-]+)\]", item)) | set(re.findall(r"\[\^([\w-]+)\]", para))
+            deleg = re.search(r"\]\((?!#|https?:)[^)#\s]+\.md(?:#[\w-]+)?\)", item)
+            if len(fns) < 2 and not deleg:
+                E(f"⚠ qr-{n} names fewer than two sources (cite both, link the page that does, or use ◐ / ? instead)")
+        rec = re.search(r'!!! abstract "Article record"\n((?:    .*\n?)+)', body)
+        story = body.split("## Open questions & disputed details")[0]
+        if rec:
+            story = story.replace(rec.group(0), "")
+            if re.search(r"single[- ]source|\bone source\b|only source", rec.group(1), re.I) and "◐" not in story:
+                E("the record says single source, but the story shows no ◐ marker")
         for sn in snippet_includes(body):
             if not (SNIPPETS / sn).exists():
                 E(f"snippet '{sn}' not found in snippets/")

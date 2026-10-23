@@ -79,6 +79,6 @@ The last word goes to a friend. Alex Xydias told Fuel Curve that Kong "was a rea
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed:** — **Kong Jackson** to Tom Medley (1988), quoted in Fuel Curve. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1937 or 1938?** Jackson dates the SCTA to 1938;[^fc] the club histories give late 1937. See [Muroc](../eras/1930s-dry-lakes-scta.md#q-5). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^fc]: Fuel Curve, "'Kong' Jackson – The King of Early Flathead Ignitions" (quoting Medley's 1988 interview in *Tex Smith's Hot Rod History*). https://fuelcurve.com/kong-jackson/ (accessed 2026-10-13)

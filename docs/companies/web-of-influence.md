@@ -98,6 +98,6 @@ Open `docs/data/connections.yml`, add the two names under `nodes` if they are ne
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed:** Gasket (2015), Hooker (2000, though the Pennsylvania marker says the 1990s ), Lakewood and, per a Wikipedia summary, Hilborn . <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did Holley buy Hooker?** 2000 per SEMA and Hagerty, the 1990s per the Pennsylvania marker. The sources are on [Hooker Headers](hooker-headers.md#q-4). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Gasket (2015), Hooker (2000, though the Pennsylvania marker says the 1990s), Lakewood and, per a Wikipedia summary, Hilborn . <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>

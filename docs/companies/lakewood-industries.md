@@ -101,7 +101,7 @@ Schubeck's first race was a loss at [Akron Fulton Airport](../drag-racing/akron-
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** SEMA's Hall of Fame page spells the Cleveland Hemi man "Sparatelli."[^hof] Whichever spelling is right, the point is that a chassis and a Hemi came from two Cleveland-area garages, not from a catalog. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** The Hall of Fame page says 20 seconds and has the machine run by "the engineer." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **24 seconds or 20?** SEMA's story says 24 seconds after "the operator" hit the button;[^sema] the SEMA Hall of Fame page says 20 seconds and has the machine run by "the engineer."[^hof] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** The test claim is Schubeck's; we have found no independent test report or accident tally. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

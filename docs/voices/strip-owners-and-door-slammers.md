@@ -183,7 +183,7 @@ Told about 40 years later, and confirmed by the *Street Rod* issue run (first is
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was the first 200-mph Funny Car pass?** Told years later. The date of the pass is disputed (Aug. 17, 1968, in this bio; "early 1969" and "autumn 1969" elsewhere). See [Gene Snow](../people/gene-snow.md). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was the first 200-mph Funny Car pass?** Told years later. The date of the pass is disputed (Aug. 17, 1968, in this bio; "early 1969" and "autumn 1969" elsewhere). See [Gene Snow](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Gay died in 2007, so Burgess is quoting an earlier interview he does not date. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

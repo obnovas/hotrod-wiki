@@ -547,6 +547,7 @@ def check(text):
             continue
         for l in b:
             clean = re.sub(r'<sup class="hr-q".*?</sup>', "", l).replace("(⚠)", "").replace("(◐)", "")
+            clean = re.sub(r'\[[⚠◐?]\]\([^)]*\)', "", clean)  # a hub's link to another page's Open questions item
             if FLAG.search(clean):
                 bad.append(l[:120])
             elif re.search(r"detective.s notebook", clean, re.I) and k != "head":

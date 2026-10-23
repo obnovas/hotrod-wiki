@@ -98,7 +98,7 @@ Then Muroc was gone. It became restricted and was absorbed into what is now Edwa
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Single-sourced (Jalopy Journal); needs a period source.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Which clubs founded it?** The Road Runners' own research packet admits the books disagree:[^rrpdf] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Which clubs founded it?** The Road Runners' research packet reports that two books disagree: Drake's *Flat Out* and Carrol's book give different lists, and only the Throttlers, 90MPH Club and Road Runners are on both.[^rrpdf] Coachbuilt puts charter Throttlers George DuVall and Julian Doty at the founding.[^cb] We have not read either book. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** That backs the Throttlers' claim to a seat at the table. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

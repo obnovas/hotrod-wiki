@@ -71,7 +71,7 @@ The products won races. The Inliners International "12 Port Story" says that by 
 
 ## The lakes and the salt
 
-He raced, too. He brought a **twin-tank streamliner** (engine in one tank, driver in the other) to the SCTA's first Bonneville meet in 1949. Hot Rod (Oct 1949) reported 147.54 mph on its first run, but "the car, which was rigidly sprung, failed to handle correctly on later runs and was withdrawn."[^tt] He raced it until 1953 and built a second twin-tank car in 1954.[^tt]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+He raced, too. He brought a **twin-tank streamliner** (engine in one tank, driver in the other) to the SCTA's first Bonneville meet in 1949. Hot Rod (Oct 1949) reported 147.54 mph on its first run, but "the car, which was rigidly sprung, failed to handle correctly on later runs and was withdrawn."[^tt] He raced it until 1953 and built a second twin-tank car in 1954.[^tt]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 Hot Rod's obituary also lists a chopped '36 five-window streamliner with a Marmon V16 and an early '55 Chevy that took on the Oldsmobiles of Gene Adams and others.[^hr89]
 
@@ -91,7 +91,7 @@ His dates are still loose. Hot Rod's "Finish Line" (Jan 1989) says he died aged 
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Single source, an enthusiast club history.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **What was in the 1954 car?** A Nov 1954 caption says a 258ci Dodge Hemi; an Oct 1960 feature says a 296ci DeSoto. Hot Rod's archivist suggests he may have run both.[^tt] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **What was in the 1954 car?** One source, two versions: *Hot Rod*'s archive piece reports that a Nov 1954 caption says a 258ci Dodge Hemi and an Oct 1960 feature says a 296ci DeSoto, and suggests he may have run both.[^tt] We have not seen the two originals. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *We have not yet checked this against NHRA's Winternationals records.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

@@ -51,7 +51,7 @@ canonical_for: []
 # March 1957: America Argues About Drag Strips
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local daily carrying a United Press wire survey (*Medford Mail Tribune*, Oregon, Mar 19, 1957, read as page OCR), local history site and club-history post on Denver (Pete Garramone, *Drag Racing Story of the Day*), Denver Public Library blog, racingcircuits.info · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the page OCR is scrambled in places (only clean passages are quoted); one wire story is a snapshot, not a count; ⚠ which Denver-area strip the story means is unresolved; the story's byline was not legible · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local daily carrying a United Press wire survey (*Medford Mail Tribune*, Oregon, Mar 19, 1957, read as page OCR), local history site and club-history post on Denver (Pete Garramone, *Drag Racing Story of the Day*), Denver Public Library blog, racingcircuits.info · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the page OCR is scrambled in places (only clean passages are quoted); one wire story is a snapshot, not a count; which Denver-area strip the story means is unresolved (one wire story) ◐; the story's byline was not legible · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We can't allow racing on one street and arrest motorists for speeding on another."
@@ -77,13 +77,13 @@ And in **Cleveland**, safety director McCormick had banned drag racing on any ci
 
 ## The Denver puzzle
 
-One item reads like a headline in itself: a drag strip near Denver "is being built by the county commission with public funds. At the same time, an ordinance expressly forbidding drag racing on city streets is expected to be passed by the city council."[^mmt] The writer sets it against cities that "oppose drag strips vigorously," and notes that "in some, public funds have been used to build hot rod racing facilities."[^mmt]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+One item reads like a headline in itself: a drag strip near Denver "is being built by the county commission with public funds. At the same time, an ordinance expressly forbidding drag racing on city streets is expected to be passed by the city council."[^mmt] The writer sets it against cities that "oppose drag strips vigorously," and notes that "in some, public funds have been used to build hot rod racing facilities."[^mmt]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 Denver's own history does not settle it. The Denver Hot Rod Club (the Strippers) and the Denver Timing Association "promoted safe drag racing in the Denver area in the early and mid '50s," according to a club member's recollection that credits them with helping to build **Continental Divide Raceway**, which opened in 1959.[^strip]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 Continental Divide was announced in 1956 as a sports complex, the project of Colorado Motor Raceway Inc., which the site says had gone under by 1957. Denver millionaire Sid Langsam bought out the company in March 1959 and opened the half-mile drag strip on **July 19, 1959**, with 8,600 fans and 250 entries.[^rc]
 **Bandimere Speedway** opened in 1958 west of Denver, "originally built to help promote his auto parts store," in the Denver Public Library's words.[^dpl]
 
-None of these says a county commission used public money for a strip in 1957. The UPI line may describe a project that never opened, a different county, or a garbled report.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
+None of these says a county commission used public money for a strip in 1957. The UPI line may describe a project that never opened, a different county, or a garbled report.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## What the survey shows
 
@@ -98,11 +98,11 @@ As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far:** We have not seen the council's 1957 statement itself. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **We could not identify that strip.** The Denver sources we found describe different projects: <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Which strip was it?** The county-built strip near Denver comes from one UPI line in the survey.[^mmt] The Denver projects we found don't fit: Continental Divide opened in 1959 as a private venture,[^rc] and Bandimere (1958) was built to promote an auto parts store.[^dpl] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Denver's clubs build Continental Divide?** The Strippers' and Denver Timing Association's part in building the 1959 strip rests on one club member's 2001 recollection.[^strip] Lead: the *Denver Post* or *Rocky Mountain News* on the strip's 1959 opening. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** Until a Denver paper turns up, treat "county-built strip near Denver, 1957" as one wire story's claim. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **One wire story's claim.** Until a Denver paper turns up, treat "county-built strip near Denver, 1957" as the UPI report's claim alone.[^mmt] Lead: the *Denver Post* and *Rocky Mountain News*, early 1957. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far:** We quote only phrases that read cleanly. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

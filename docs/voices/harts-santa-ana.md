@@ -59,7 +59,7 @@ Pappy explained the strip in terms of safety:
 
 His own driving was another matter. The New York Times obituary noted that this was "a comment seemingly at odds with his widely reported arrest at age 87 for driving 85 in a 55-mph zone."[^wd]
 
-He also had a quick answer on stage. In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+He also had a quick answer on stage. In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Peggy, as others remembered her
 
@@ -95,7 +95,7 @@ The racers remembered him too:
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** The Orange County Register obituary (Robin Hinch) called Peggy "the only woman racer." That is a tribute-piece superlative we cannot verify, and we treat it as a claim only.[^wd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** The Orange County Register obituary (Robin Hinch) called Peggy "the only woman racer." That is a tribute-piece superlative we cannot verify, and we treat it as a claim only.[^wd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Opening attendance:** the LA Times (Shav Glick) gives about 500 spectators and about 50 cars, and quotes Hart that the final day drew more than 4,000.[^wd] Compare [Santa Ana](../eras/1950s-santa-ana-drags.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

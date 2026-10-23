@@ -65,7 +65,7 @@ Up north, the story starts earlier. Dee Wescott started making fiberglass parts 
 
 According to Wescott's company history, it added a 1931 coupe body (1969) and a roadster (about 1971).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> In the 1980s it restricted its line to 1926–48 Fords, matching the NSRA's 1948 cutoff.[^wes] Dee Wescott died in 2009.[^wes]
 
-That northern start is the point. The street-rod parts business is usually associated with SoCal. Two of the important fiberglass players, Wescott's and Cal Automotive's founders, had **Pacific Northwest** roots.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+That northern start is the point. The street-rod parts business is usually associated with SoCal. Two of the important fiberglass players, Wescott's and Cal Automotive's founders, had **Pacific Northwest** roots.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 
@@ -79,7 +79,7 @@ That northern start is the point. The street-rod parts business is usually assoc
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far:** According to Wescott's company history, it added a 1931 coupe body (1969) and a roadster (about 1971). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** We have not confirmed which company had the first fiberglass Ford body. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Open question.** We have not confirmed which company had the first fiberglass Ford body. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Images
 

@@ -118,7 +118,7 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** That is a decade-boundary disagreement the two sources do not explain; see [Hooker Headers](hooker-headers.md).[^mk][^hooker] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed:** [Hooker Headers](hooker-headers.md): Gary Hooker's header shop, a Holley brand since 2000 (or earlier, per the marker); the sale date is a conflict. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When did Holley buy Hooker?** SEMA and Hagerty say 2000; the Pennsylvania historical marker for Holley says "the 1990s." The sources are on [Hooker Headers](hooker-headers.md#q-4). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far:** [Stu Hilborn](../people/stu-hilborn.md): the fuel-injection pioneer's company is reported to have been acquired by Holley (2019, per that page's Wikipedia summary). <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 

@@ -131,7 +131,7 @@ As for the closing, a Yellow Bullet forum recollection says it came at the end o
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** NHRA's Phil Burgess says instead that Don's **parents, Carl and Marie Gay**, owners of **Gay Pontiac** on the Gulf Highway in Dickinson, bought "nearby Freeway Drag Strip, which they rechristened **Houston Drag Raceway**." <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** It is dated variously to Aug. 17, 1968, or 1969.[^snow] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When was the 200-mph pass?** It is dated variously to Aug. 17, 1968, or 1969.[^snow] The three dates and their sources are on [Gene Snow](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *Disputed historiography; flag, do not assert as NHRA-recognized first 200.*[^hfd] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 

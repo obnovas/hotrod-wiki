@@ -36,11 +36,11 @@ canonical_for: []
 *1950s–1960s: "a good drive around drag"*
 
 !!! abstract "Article record"
-    **Confidence:** Low-Medium · **Source types:** <span class="hr-badge">Grassroots</span> literary nonfiction with interviews (storySouth, Ellen Morris Prewitt), oral history project description (Southern Foodways Alliance, 2021) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** No contemporary newspaper source yet; ties to clubs unproven · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low-Medium · **Source types:** <span class="hr-badge">Grassroots</span> literary nonfiction with interviews (storySouth, Ellen Morris Prewitt), oral history project description (Southern Foodways Alliance, 2021) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** No contemporary newspaper source yet; ties to clubs unproven; the first McDonald's in Memphis ⚠ · [How we rate this](../reference/source-standards.md)
 
-**Location:** Summer Ave (US 70, once the "Broadway of America"), east from North Parkway. · **Peak:** 1950s to 1960s. · **Status:** we treat it as a **regional repeat gathering**. We have found no documented link to particular builders or companies yet.
+**Location:** Summer Ave (US 70, once the "Broadway of America"[^sfa]), east from North Parkway. · **Peak:** 1950s to 1960s. · **Status:** we treat it as a **regional repeat gathering**. We have found no documented link to particular builders or companies yet.
 
-Summer Avenue was lined with drive-ins, motels and some of the first chain businesses: the first Holiday Inn (1952) and "one of the first" Memphis McDonald's locations.[^sfa]
+Summer Avenue was lined with drive-ins, motels and some of the first chain businesses: the first Holiday Inn (1952) and "one of the first" Memphis McDonald's locations.[^sfa]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## In their own words
 
@@ -50,13 +50,15 @@ Summer Avenue was lined with drive-ins, motels and some of the first chain busin
 
 Prewitt also reports that VW mechanic **John Bain** (MoonBugs) "drag-raced on Summer" as a young man, and quotes him: "Summer was it."[^ss]
 
-One name on Burge's list has a racing echo. Marshall Robilio was a Memphis Rodders racer (see [Ray Godman](../voices/ray-godman.md) and [Memphis](memphis.md)), but the restaurant's tie to his family is unconfirmed.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+One name on Burge's list has a racing echo. Marshall Robilio was a Memphis Rodders racer (see [Ray Godman](../voices/ray-godman.md) and [Memphis](memphis.md)), but the restaurant's tie to his family is unconfirmed.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** We have not confirmed whether Robilio's restaurant was connected to Marshall Robilio's family. Unverified, so we don't claim it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** **Was Robilio's restaurant connected to Marshall Robilio's family?** No source we have read says so, so we don't claim it. Lead: a Memphis city directory or the restaurant's own history. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **The first McDonald's in Memphis?** The Southern Foodways Alliance says that when McDonald's came to Memphis, "one of the first locations opened here";[^sfa] Jim Burge, quoted by storySouth, says "The first McDonald's in Memphis was next door to here."[^ss] A city directory or the company's opening list would settle it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 **Next lead:** the Commercial Appeal archives (1955–70) for police action on Summer.
 

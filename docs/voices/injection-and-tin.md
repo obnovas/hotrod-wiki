@@ -73,7 +73,7 @@ After the war came the injector, and the streamliner that proved it:
 
 — Hilborn, company website text quoted in the same Autoweek obituary. Access 2026-10-14.
 
-*Told years later, in a company-site memoir.*<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+*Told years later, in a company-site memoir.*<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Then the injectors took over his life:
 
@@ -149,6 +149,6 @@ The last voice is a letter, an invitation to settle an East–West argument:
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** SEMA's heritage piece credits **Howard Wilson** as the driver of the July 1948 **150.5 mph** El Mirage pass; Hilborn's sentence does not name the driver. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** Only SEMA's heritage piece names **Howard Wilson** as the driver of the July 1948 **150.5 mph** El Mirage pass; Hilborn's sentence does not name the driver. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** Secondhand via memoir quotation on a fan history site; we have not opened the original Garlits book page in this round. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>

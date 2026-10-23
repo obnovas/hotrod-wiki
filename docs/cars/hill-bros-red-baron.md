@@ -73,7 +73,7 @@ The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills buil
 
 The Red Baron raced until late 1969, then bracket-raced under another name. It sat about 30 years before Ken Kull and his father George bought it in spring 2000 and restored it to 1967 specification "in just eleven weeks."[^jrt]
 
-JR Thompson's page, which includes Pete's own letter, names the brothers **Pete and Bill** Hill.[^jrt] Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys,<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
+JR Thompson's page, which includes Pete's own letter, names the brothers **Pete and Bill** Hill.[^jrt] Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
 
 ## Open questions & disputed details
 
@@ -81,7 +81,6 @@ JR Thompson's page, which includes Pete's own letter, names the brothers **Pete 
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Pete Hill's letter and the record.** The Oct 7, 1967 mock apology to *Drag News* and Pete's later "That record stood for two years" both come to us only through JR Thompson's Hill Bros. page.[^jrt] We have not seen the letter in *Drag News* itself or a record list that shows how long the 162–163.63 mph mark stood. Lead: *Drag News*, Oct–Nov 1967. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed:** **Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 **Not yet read:** the East Coast Drag Racing HOF's Midwest gasser roundup, not yet read in full.[^ec]
 

@@ -122,7 +122,7 @@ The first fuel-block copies were sold at Bell Auto Parts, one of the [prewar spe
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Brighton, 1963.** *THE SHOP* says Dean let Las Vegas speed-shop owner **Dante Duce** take the Mooneyes dragster to England for exhibition runs against Sydney Allard, and that "Moonbeam," a flathead-Ford, Devin-bodied sports car, won the Brighton Speed Trials with Duce at 167 mph.[^shop] Wikipedia's account of **Mickey Thompson** says Thompson and Duce demonstrated Thompson's *Harvey Aluminum Special* dragster at Brighton that year.[^wp] They may both be true, and see [Mickey Thompson](mickey-thompson.md). The sources do not say. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed:** In 1992 he bought what was left from Dean's eldest daughter, Becky, and with partner Chico Kadoma (*Hot Rod*: "Kodama") reopened it as Mooneyes USA. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Kadoma or Kodama?** *THE SHOP* spells Suganuma's partner "Chico Kadoma";[^shop] *Hot Rod* spells it "Kodama."[^hr25] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 [^shop]: Tony Thacker, "All Eyes on Moon Equipment Co. as Classic Speed Shop Marks 75 Years," *THE SHOP*, Jun 16, 2025 (the page text says it first appeared in the June 2026 issue; we cite the web date). https://theshopmag.com/features/all-eyes-on-moon-equipment-co-as-classic-speed-shop-marks-75-years/ (accessed 2026-10-16)
 [^hr25]: Benjamin Hunting, "Mooneyes History: More Than an Iconic Hot-Rodding Logo," *Hot Rod*, Feb 10, 2025. https://www.hotrod.com/features/mooneyes-history (accessed 2026-10-16)

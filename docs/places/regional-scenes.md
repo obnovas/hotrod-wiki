@@ -63,4 +63,4 @@ Hot rodding wasn't only a SoCal export. Other regions built their own scenes on 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed:** [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md): purpose-built strip on I-45 near Dickinson (1957– 1987). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was Funny Car's first 200-mph pass?** Aug. 17, 1968, or 1969, depending on the source; see [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md#q-5) and [Gene Snow](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>

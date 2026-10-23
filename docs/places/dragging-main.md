@@ -53,7 +53,7 @@ canonical_for: []
 # Dragging Main: The Small-Town Loop, in the Kids' Own Words (1950s–1980s)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> high school yearbooks (Franklin, N.C., 1957–58; Scottsbluff, Neb., 1979; Hays, Kan., 1987), a university oral history (Richmond, Calif., interviews of 1985), and one small-town newspaper editorial already on this wiki (Twin Falls, Idaho, 1957), all read as scanned OCR · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** yearbooks speak for the students who wrote them, not for a whole town ◐; the 1987 Hays yearbook gives two different starting points for the loop ⚠; no ordinance, arrest count or police record for any of these loops has been found yet; "dragging Main" meant a slow loop in some places and a race in others, and the sources rarely say which · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> high school yearbooks (Franklin, N.C., 1957–58; Scottsbluff, Neb., 1979; Hays, Kan., 1987), a university oral history (Richmond, Calif., interviews of 1985), and one small-town newspaper editorial already on this wiki (Twin Falls, Idaho, 1957), all read as scanned OCR · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** yearbooks speak for the students who wrote them, not for a whole town ◐; the 1987 Hays yearbook gives two different starting points for the loop ◐; no ordinance, arrest count or police record for any of these loops has been found yet; "dragging Main" meant a slow loop in some places and a race in others, and the sources rarely say which · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Dragging Main has a long history. Our parents dragged Main, and our parents' parents."
@@ -99,7 +99,7 @@ Scottsbluff had organized drag racing too. *Car Craft*'s national strip calendar
 
 The best description we have found is a two-page spread in the 1987 Hays High School yearbook, signed by **Kathy Lennox and Dawn Shields**. It opens with a claim nobody would dispute: "One thing Hays has in common with towns of every size across America -the teenagers drag Main."[^hays87]
 
-Then it gives the route. Draggers "usually enter Main on or around Thirteenth street, the Fox Theater corner." They drive all the way down Main to **Fourth Street and the Varsity Drive-In**, "a hangout for "couples to be" or friends who just want to meet," and turn around.[^hays87]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+Then it gives the route. Draggers "usually enter Main on or around Thirteenth street, the Fox Theater corner." They drive all the way down Main to **Fourth Street and the Varsity Drive-In**, "a hangout for "couples to be" or friends who just want to meet," and turn around.[^hays87]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 The writers explain why it worked: dragging Main "is a way to centralize all weekend activities. Usually by driving down once, you can see all of your friends."[^hays87] Most draggers were from Hays High and Thomas More Prep, with visitors from Ellis, Victoria, Russell and Plainville. "After all, the nearest "city" is Salina, 90 miles away." College students drove it once or twice after the bars and parties.[^hays87]
 
@@ -126,7 +126,7 @@ There was a sense of inheritance, too. "Our parents dragged Main, and our parent
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** It is one witness's memory, recorded some 30 years later. We have not found the council minutes. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** A caption on the same spread says the cars run "starting from about Eighth and Main" to the Varsity at Fourth and Main. Both end at the Varsity. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Where did the drag start?** One source, two versions: the 1987 Hays yearbook says draggers entered Main around Thirteenth Street, and a caption on the same spread says "starting from about Eighth and Main."[^hays87] Both end at the Varsity. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>
 

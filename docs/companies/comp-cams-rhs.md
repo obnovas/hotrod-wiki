@@ -116,7 +116,7 @@ So a company that began when three men raced Oldsmobiles now sits in the same gr
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** It is the company's own history and nothing else. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Where did RHS move first?** SEMA says that by the time Lang visited in late 1970, RHS "had outgrown the basement and moved to bigger digs in a Memphis suburb," with another move to near the airport not long after.[^sema] COMP's account has the Union and Marshall shop in between. They may be the same shop described two ways, or two steps. We can't tell. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Where did RHS move first?** SEMA says that by the time Lang visited in late 1970, RHS "had outgrown the basement and moved to bigger digs in a Memphis suburb," with another move to near the airport not long after.[^sema] COMP's account has the Union and Marshall shop in between.[^comp] They may be the same shop described two ways, or two steps. We can't tell. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far:** By then RHS, COMP says, had "evolved into one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines" . <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

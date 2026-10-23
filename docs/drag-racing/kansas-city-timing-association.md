@@ -146,9 +146,9 @@ The story had traveled even earlier. Kansas City's results were already being qu
 - **The magazine turned.** *Public Safety* was the National Safety Council's own journal. A March 1957 wire survey reported that the council had "a few weeks ago" come out in "direct opposition to drag racing, supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).
 - **Missing facts.** Pond never names the strip. The answer turned up in a small-town paper down the road in Sedalia (next section). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed:** **The place.** A strip of asphalt 4,850 feet long "in a lonely section of the city," near the Missouri River. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **How long was the strip?** Pond's 1956 account gives 3,850 feet;[^pond] the 1959 AP feature gives 4,850 feet.[^ap59] One figure may be a typo. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed:** **Opening day.** "On July 15, the day the strip opened, a crowd of 18,000 persons watched as some 200 racers competed in the first trophy meet." <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Opening day.** Pond dates it July 17, 1955, with "more than 200 hot rodders and 18,000 paid spectators";[^pond] the 1959 AP feature says July 15, with 18,000 people and "some 200 racers."[^ap59] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** "First in Missouri" is the paper's claim, not something we have checked. See [The Big S.I.R.](sedalia-big-sir.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

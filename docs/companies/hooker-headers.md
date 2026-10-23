@@ -106,13 +106,13 @@ And the 1967 first trade show, where Hooker set up a booth like [Crane Cams](cra
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** Hagerty puts the $3 million mark at "By 1970."[^hag] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** See [Holley](holley.md). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **2000 or the 1990s?** SEMA's Hall of Fame page[^hof] and Hagerty[^hag] date Holley's purchase to 2000; the Pennsylvania historical marker for Holley says the roll-up came in "the 1990s." See also [Holley](holley.md). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **First header maker with a CARB exemption?** Only the brand's own site says so.[^site] We have not checked it against the California Air Resources Board's Executive Order records, which would show the earliest header exemptions and their dates. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Disputed.** Hagerty says SEMA inducted him in **2012**; SEMA's page is headed 2016.[^hag][^hof] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Disputed:** [Holley](holley.md): the owner since 2000 (or the 1990s ). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Disputed.** **Holley's ownership date.** 2000 per SEMA[^hof] and Hagerty,[^hag] or the 1990s per the Pennsylvania marker; see the item above and [Holley](holley.md). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 [^hof]: "HOF - Gary Hooker," SEMA Hall of Fame, 2016. https://www.sema.org/hof/2016/gary-hooker (accessed 2026-10-16)
 [^mc]: Chris Holley, "Gallery: Hooker Headers Production Pipes Propel Akron Arlen," *Mopar Connection Magazine*, Feb 13, 2023. https://moparconnectionmagazine.com/hooker-headers-production-pipes-propel-akron-arlen/ (accessed 2026-10-16)

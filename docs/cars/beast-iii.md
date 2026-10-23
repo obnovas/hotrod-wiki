@@ -4,15 +4,9 @@ summary: 'Chet Herbert''s Beast III was finished in a rush: its body arrived aft
 department: cars
 eras:
 - 1950s
-- 1960s
-- 1970s
-- 1980s
-- 1990s
-- 2000s
-- 2010s
 years:
 - 1951
-- 2014
+- 1952
 region: West
 states:
 - California
@@ -65,7 +59,7 @@ Under the body, much of it was borrowed. The car had a partial chassis from Paul
 
 At Bonneville it needed help just to get moving. Entered as the "Herbert Cams Special," #666, D/Streamliner, it was push-started by a Chevy coupe and Howard Johansen's Model A in tandem, to 130 mph.[^k]
 
-George Bentley ran 182, 197 and 211 mph, then missed a shift. When he didn't show the next morning, **Art Chrisman** took over and ran 219, 224, 230, and a **235.991 mph** record (238.095 best one-way), making it the fastest single-engine car in America. Chrisman became the 10th member of the 200 MPH Club.[^k]
+George Bentley ran 182, 197 and 211 mph, then missed a shift. When he didn't show the next morning, **Art Chrisman** took over and ran 219, 224, 230, and a **235.991 mph** record (238.095 best one-way), making it the fastest single-engine car in America. Chrisman became the 10th member of the 200 MPH Club.[^k]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The long afterlife
 
@@ -75,7 +69,9 @@ The record was not the end of it. Dana Fuller set diesel records with it in 1953
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-**Correction (resolved):** the 235.991 mph figure is confirmed by reading the page, and the driver was **Art Chrisman**, not Herbert.
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **One compiler.** Everything on this page comes from Kustomrama's entry, which compiles *Merchants of Speed*, *Sports Car Digest* and *Rod & Custom*; we have not read those.[^k] The record (235.991 mph), "the fastest single-engine car in America" and Chrisman as the 10th member of the 200 MPH Club rest on it alone. Leads: *Hot Rod*'s 1952 Bonneville coverage, the SCTA's 1952 record list, and the NHRA Museum's exhibit text. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+**Correction (checked against Kustomrama only):** the 235.991 mph figure is the one Kustomrama gives, and the driver was **Art Chrisman**, not Herbert.
 
 ## Visual references (external)
 *These are copyrighted or rights-restricted images, so we link to them instead of copying them.*

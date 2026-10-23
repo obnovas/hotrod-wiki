@@ -51,7 +51,7 @@ canonical_for: []
 *Serop Postoian, 1922–1995: Detroit's first drag hero*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily (*Dixon Evening Telegraph*, Dixon, Ill., 1958 and 1964 World Series previews); *Car Craft* (Oct. 1959); Michigan Motor Sports Hall of Fame biography; Autoweek; BangShift; search excerpts from two lending-library books ◐ · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** the "Riverside Nationals" claim ⚠; which engine won at Cordova ⚠; which two years he won (1956–57 or 1957–58) ⚠; the size of the 1957 field ⚠; Isky cams and M&H tire tests rest on search excerpts ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily (*Dixon Evening Telegraph*, Dixon, Ill., 1958 and 1964 World Series previews); *Car Craft* (Oct. 1959); Michigan Motor Sports Hall of Fame biography; Autoweek; BangShift; search excerpts from two lending-library books ◐ · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** the "Riverside Nationals" claim (Hall of Fame only) ◐; which engine won at Cordova ⚠; which two years he won (1956–57 or 1957–58) ⚠; the size of the 1957 field ⚠; Isky cams and M&H tire tests rest on search excerpts ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "The flag dropped. Garlits stomped on the throttle the same instant Postoian's foot shoved forward. The two cars roared from the line, nose to nose."
@@ -62,7 +62,7 @@ The two cars left the line together at Cordova, Ill., and for three-quarters of 
 
 ## From Ford's engine shop to the Farmington Speed Shop
 
-Before the Second World War, the Michigan Motor Sports Hall of Fame says, Postoian worked in Ford's engine-rebuilding division in Detroit. He served three and a half years overseas and came home to open a gas station in Farmington. He learned frame and front-end work from a former Bear Manufacturing school instructor, which led to an Indy pit-crew job and his first ride in a hot rod, Jack McGrath's "full-house" '32 roadster. In 1950 he spent six weeks at McGrath's Los Angeles shop and met Joe Pisano and Ed Iskenderian.[^mm] Back home he opened the **Farmington Speed Shop** and built a flathead roadster, then a DeSoto Hemi dragster, his first overhead-valve engine.[^mm]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Before the Second World War, the Michigan Motor Sports Hall of Fame says, Postoian worked in Ford's engine-rebuilding division in Detroit. He served three and a half years overseas and came home to open a gas station in Farmington. He learned frame and front-end work from a former Bear Manufacturing school instructor, which led to an Indy pit-crew job and his first ride in a hot rod, Jack McGrath's "full-house" '32 roadster. In 1950 he spent six weeks at McGrath's Los Angeles shop and met Joe Pisano and Ed Iskenderian.[^mm] Back home he opened the **Farmington Speed Shop** and built a flathead roadster, then a DeSoto Hemi dragster, his first overhead-valve engine.[^mm]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 The California trip left a parts connection. In a 2017 book, seen by us only as a search excerpt, Iskenderian recalls that "Big John ran my cams, as did Seto Postoian."[^isky]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Garlits later told NHRA that Iskenderian made two blower kits, "one for me and one for Setto Postoian."[^nhra] A 1960 hot rod annual, also seen only as an excerpt, says that "M&H's first attempt at dragster tires began with test runs by Don Garlits and Setto Postoian."[^mh]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> A Midwestern racer was testing the parts that eastern and western companies would sell to everyone.
 
@@ -96,7 +96,7 @@ It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Possible error.** *The Hall of Fame says he won the "Riverside Nationals" four years running, 1953–56.[^mm] We have found no period results to support it.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Only the Hall of Fame says he won the "Riverside Nationals" four years running, 1953–56.[^mm] We have found no period results to support it.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *A search excerpt from a lending-library book we cannot open in full; we quote only the words the excerpt shows.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

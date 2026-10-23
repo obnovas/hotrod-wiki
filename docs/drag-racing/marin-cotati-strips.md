@@ -136,7 +136,7 @@ Marin is the mirror image of Kansas City. There, the police chief built the stri
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Our reading of the papers does not show how the Navy's April refusal was overcome.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** *The $20,000 figure, and the paper's version that Behr had "voted" for it as a Mill Valley councilman, do not match the 1956 reports, where he made the request as an attorney and named $25,000 or more, then up to $35,000.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** *The $20,000 figure, and the 1961 paper's version that Behr had "voted" for it as a Mill Valley councilman,[^ij611124] do not match the 1956 reports, where he made the request as an attorney and named $25,000 or more, then up to $35,000.*[^ij560626] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *We found no Marin strip; a later issue may prove us wrong.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

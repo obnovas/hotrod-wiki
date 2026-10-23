@@ -43,7 +43,7 @@ canonical_for: []
 # Hoosier Road Runners: Hot Rod Clubs in Small-Town Indiana, 1953–58
 
 !!! abstract "Article record"
-    **Confidence:** Medium-Low · **Source types:** <span class="hr-badge">Grassroots</span> small-town dailies and weeklies from Indiana's digital newspaper program (*Decatur Daily Democrat*, *The Daily Banner* of Greencastle, *Syracuse-Wawasee Journal*), read as page OCR; two items are syndicated (a UP filler and a Dodge-produced column) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the "national Hot Rod club" Decatur joined is not named ◐; we found no coverage of the Road Runners after February 1957; the Flying Pistons appear in one profile only; the Detroit item is automaker public relations ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium-Low · **Source types:** <span class="hr-badge">Grassroots</span> small-town dailies and weeklies from Indiana's digital newspaper program (*Decatur Daily Democrat*, *The Daily Banner* of Greencastle, *Syracuse-Wawasee Journal*), read as page OCR; two items are syndicated (a UP filler and a Dodge-produced column) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the "national Hot Rod club" Decatur joined is not named (open question); we found no coverage of the Road Runners after February 1957; the Flying Pistons appear in one profile only; the Detroit item is automaker public relations ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Yep, I'll ride with Junior any time. Somehow I have great faith in young reflexes and young courtesy."
@@ -78,7 +78,7 @@ Three years later Decatur had a club of its own. The paper's coverage of it runs
 
 The notices tell us more than they mean to. A youth center was the clubhouse: unlike the Escanaba club's shop (see [The Cop and the Auto Shop](escanaba-dragns.md)), Decatur's meetings were held in a town youth and community center. The police pitch came first, too. The organizing notice leads with the police and with "safety on the highways." Compare the small-town clubs in [What the City Planners Wrote](planners-report-1955.md), whose members worked with police departments.
 
-Fund-raising looked like any other club's: a winter car wash, with a notice that gave the club's name as "Road Runners." Even the spelling varies: "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Fund-raising looked like any other club's: a winter car wash, with a notice that gave the club's name as "Road Runners." Even the spelling varies: "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The Flying Pistons (Syracuse, 1958)
 
@@ -98,7 +98,7 @@ The local items (the Decatur notices, the Syracuse profile) are short, unsigned 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Which "national Hot Rod club"?** The September 12 notice says a "chapter of the national Hot Rod club." No such organization is named, and there were several by 1956 (the NHRA among them). We do not know whether Decatur ever received a charter. ◐ <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** **Which "national Hot Rod club"?** The September 12 notice says a "chapter of the national Hot Rod club."[^d912] No such organization is named, and there were several by 1956 (the NHRA among them). We do not know whether Decatur ever received a charter. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **What we could not find.** After the February 1957 car wash we found no item about the Road Runners. Whether they raced, built a strip or faded is unknown. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
