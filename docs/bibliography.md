@@ -440,6 +440,16 @@ Tags as above. Newspaper items are scanned page OCR on the Internet Archive; we 
 - [local] *Red Bluff Daily News* (Red Bluff, Calif.): "All Set For Big Race," Aug 31, 1968; Labor Day meet report, Sept 3, 1968; "200 MPH — Plus," Feb 20, 1969; Bob Kennedy, "Drag Racing World Hears From Red Bluff," Mar 5, 1969; "Drag Racing Returns To Redding Sunday," Mar 14, 1969; "Smoking Off The Line," Mar 17, 1969; sailplane contest feature, May 25, 1970; Red Bluff Jaycees notice, Dec 30, 1971. https://archive.org/details/red-bluff-daily-news-1969-03-05
 - [web] Phil Burgess, "Remembering Bud Coons and 'Surfer Hank'," NHRA.com, June 12, 2015. https://www.nhra.com/news/2015/remembering-bud-coons-and-surfer-hank
 - [mag] "History of Speedway Motors," *Rod & Custom*, via HotRod.com. https://www.hotrod.com/news/1206rc-history-of-speedway-motors
+## Added in Round 23-East (accessed 2026-10-22)
+Tags as above. Georgia newspapers are page OCR returned by the Georgia Historic Newspapers search service; the Massachusetts and Arkansas papers are scanned page OCR on the Internet Archive, checked against the page images where the footnote says so. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] *The Forsyth County News* (Cumming, Ga.): Forsyth County Dragway and Cumming Dragway ads and reports, 1963–73; Tony Maddox column, July 13, 1967; Jerry Garrett crash, Sept. 5, 1968; "Cumming Dragway Used To Host Many Famous Dragsters," May 2, 1979; the landing-strip dispute, Jan. 1984–May 1988; Mar. 26, 2000; Hubert Platt obituary, Oct. 2, 2015. https://gahistoricnewspapers.galileo.usg.edu/lccn/sn84007709/
+- [local] *Atlanta Daily World* (Atlanta, Ga.): Ted Edwards Skyport and Drag Strip ads and columns, July 1959–Apr. 1962; weekly race reports, Apr. 1962–Oct. 1963, including Emel Scott Jr.'s; Houston Bros. Drag Strip ads, 1963; Yellow River Drag Strip ad, Aug. 24, 1963. https://gahistoricnewspapers.galileo.usg.edu/lccn/sn82015425/
+- [local] *Town Crier* (Wilmington, Mass.): Hurri-Cain ad, Sept. 4, 1969; "Swain School Youngsters Meet the Hurri-Cain," June 1, 1972; Larz F. Neilson, "Harnessing the 'Hurri-Cains'," July 18, 2007, and "Fred Cain inducted," Aug. 20, 2008. https://archive.org/details/Town_Crier_2008-08-20
+- [local] *Hope Star* (Hope, Ark.): "All Around Town," Mar. 29 and Apr. 4, 1962, and Apr. 19, 1968; the Highway 24 raid, Sept. 16, 1964; Hope Drag Strip notices and ads, Apr. 8, 1966, July 21 and Aug. 11–12, 1967; the state record, June 16, 1966; city board report, May 29, 1968; David Baker's letter, May 10, 1972; the telephone operators feature, May 15, 1972. https://archive.org/details/hope-star-1966-04-08
+- [org] "Fran Bannister's '32 Ford Roadster," Audrain Automobile Museum, New England Hot Rods exhibit. https://www.audrainautomuseum.org/new-england-hot-rods/fran-bannisters-32-roadster
+- "Fran Bannister's 1932 Ford," *Kustomrama* (wiki). https://kustomrama.com/wiki/Fran_Bannister's_1932_Ford
+
 ## Added in Round 22-East (accessed 2026-10-22)
 Tags as above. Georgia newspapers are page OCR returned by the Georgia Historic Newspapers search service; Maryland newspapers are scanned page OCR on the Internet Archive. We quote only passages that read cleanly. See [Grassroots Sources](reference/grassroots-sources.md).
 

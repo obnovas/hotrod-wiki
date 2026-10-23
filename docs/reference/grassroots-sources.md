@@ -167,6 +167,14 @@ These hold the period coverage we most want, and none was readable by our fetche
 |---|---|
 | Internet Archive newspaper scans | **Readable.** New runs used: *The Desert Sun* (Palm Springs), *The Lincoln Star* and *Lincoln Evening Journal*, *The Canyon News*, *The Cameron Herald*, *Red Bluff Daily News*, *Hondo Anvil Herald* (Tex.). Adding `collection:newspaperarchive-<paper>` to a full-text query narrows it to one paper; date-range filters still return HTTP 400. Where the OCR was scrambled we read the page image (`/download/<id>/page/n<N>_w2000.jpg`) instead. |
 | Utah Digital Newspapers (HTTP 418), Colorado Historic Newspapers (HTTP 403), Historic Oregon Newspapers (timed out), Library of Congress JSON API (failed) | Not readable this round; one polite attempt each, not bypassed. This left the Mountain West and the 1940s Bonneville years thin. |
+### Round 23-East status
+| Archive | Round 23-East status |
+|---|---|
+| [Georgia Historic Newspapers](https://gahistoricnewspapers.galileo.usg.edu/) | **Readable through its search service** (page OCR); page views still ask for an access check, not attempted. New runs used: *The Forsyth County News* (Cumming), *Atlanta Daily World*. Filtering the search to one paper's LCCN made long runs practical. |
+| Internet Archive newspaper scans | **Readable.** New runs used: *Town Crier* (Wilmington, Mass., 1969–2008) and more *Hope Star* (Ark., 1962–72); page images checked for the key quotations. |
+| [DigitalNC](https://www.digitalnc.org/) | Failed again: timed out from our machine and returned HTTP 500 to the fetch tool. The Carolinas stay thin. |
+| Internet Archive lending library | 1950 *Hot Rod* issues are lending-only; not opened. |
+
 ### Round 22-East status
 | Archive | Round 22-East status |
 |---|---|
