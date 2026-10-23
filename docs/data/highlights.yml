@@ -838,3 +838,42 @@ highlights:
     added: '2026-10-22'
     eras: [1960s]
     regions: ['Covington, Ga.']
+
+  - id: cumming-strip-to-runway
+    headline: A Georgia drag strip ended up as a runway, and the county sued to stop the planes
+    teaser: Cumming Dragway ran Super Stock and pro stock races west of Cumming from 1963. By 1984 a small plane was taking off from the old strip, and Forsyth County went to court to stop the landings.
+    link: drag-racing/cumming-dragway.md
+    evidence: "the former site of the Cumming drag strip"
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s, 1970s, 1980s]
+    regions: ['Cumming, Ga.']
+
+  - id: hope-easter-drag-strip
+    headline: "An Arkansas drag strip skipped Easter Sunday and told its fans to go to church"
+    teaser: The Hope Drag Strip ran on the town's municipal airport in the mid-1960s. When race day fell on Easter in 1966, it put a notice in the Hope Star suggesting church instead.
+    link: drag-racing/hope-airport-drag-strip.md
+    evidence: "Take Your Family and Go To the Church of Your Choice"
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Hope, Ark.']
+
+  - id: sanford-barricades
+    headline: Massachusetts hot rodders put barricades at the end of a Maine runway to warn pilots off
+    teaser: Fred Cain and Fran Bannister got the Sanford, Maine, airport to let them run one race on a runway. A 2008 feature in their hometown weekly says 30 racers came the next Sunday and the drags ran there for over 15 years.
+    link: drag-racing/sanford-cain-bannister.md
+    evidence: "had to erect barricades at the end to warn pilots not to land there"
+    source_type: Local news
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1940s, 1950s]
+    regions: ['Sanford, Maine', 'Wilmington, Mass.']

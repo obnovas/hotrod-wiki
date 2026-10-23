@@ -117,7 +117,7 @@ For the other strip on Highway 278, and the crash that sent the legislators to t
 
 ### Next leads
 
-*Drag News* for October 1964 and October 1965; *Hot Rod*, August 1957; the Newton County Superior Court file on the 1991 lease case; the published book *Atlanta Drag Racing: The Golden Years*, if it appeared; Atlanta city directories for the Speed Shop's address in 1960; the Houston Brothers Drag Strip, still without a page here (Cumming Dragway now has one: [From Strip to Runway](cumming-dragway.md)). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+*Drag News* for October 1964 and October 1965; *Hot Rod*, August 1957; the Newton County Superior Court file on the 1991 lease case; the published book *Atlanta Drag Racing: The Golden Years*, if it appeared; Atlanta city directories for the Speed Shop's address in 1960; the Houston Brothers Drag Strip (its 1963 Saturday nights are now in [Saturday Nights at Fairburn](fairburn-atlanta-daily-world.md); Cumming Dragway has [From Strip to Runway](cumming-dragway.md)). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 ## Sources
 

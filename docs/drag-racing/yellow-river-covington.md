@@ -100,7 +100,7 @@ For how other strips answered that spring, see the safety rules a Wisconsin writ
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How long did the Saturday races last?** The July 16, 1959, notice is the only place we have seen Saturday races for Black drivers at Yellow River. We have not found results, ads or a notice of when they ended. The *Atlanta Daily World* is in the same archive and is the next place to look.[^cn590716] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How long did the Saturday races last?** The July 16, 1959, notice is the only 1959 source we have for Saturday races for Black drivers at Yellow River.[^cn590716] The *Atlanta Daily World* shows such racing there four years later: in April 1963 Thomas "Tebe" Holcomb won super stock "at Yellow River drag strip Saturday night," and an August 1963 ad offered "2nd & 4th SUNDAYS, P.M. COLORED DRIVERS ONLY."[^adw630430][^adw630824] We have not found when it ended. See [Saturday Nights at Fairburn](fairburn-atlanta-daily-world.md). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did *Life* run the Covington spread?** The *Life* spread, the ambulance sequence and the Covington location rest on one paper, the *Covington News* (May 19 and June 16, 1960, and a passing mention on March 30, 1961).[^cn600616][^cn610330] We have not read the magazine itself: Google Books holds the June 13, 1960 issue, but its search page answered with a robot check, which we did not try to get past. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -118,7 +118,7 @@ For how other strips answered that spring, see the safety rules a Wisconsin writ
 
 ### Next leads
 
-The *Atlanta Daily World* for the Saturday races; the federal court file in the Loftis case; the 1969 General Assembly act (its number and vote); a copy of *Life*, June 13, 1960; *Covington News* issues from March 7–12, 1969, for the twelfth death. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+The *Atlanta Daily World* after 1963 for the races for Black drivers; the federal court file in the Loftis case; the 1969 General Assembly act (its number and vote); a copy of *Life*, June 13, 1960; *Covington News* issues from March 7–12, 1969, for the twelfth death. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 ## Sources
 
@@ -148,3 +148,5 @@ The *Atlanta Daily World* for the Saturday races; the federal court file in the 
 [^wcm191023]: Charlie Sewell, "Are non-school zone speed cameras on the horizon?" column, *Walker County Messenger* (LaFayette, Ga.), Oct. 23, 2019, p. 4. Page OCR. https://gahistoricnewspapers.galileo.usg.edu/lccn/sn89053488/2019-10-23/ed-1/seq-4/ (accessed 2026-10-22)
 [^fcn630829]: Forsyth County Dragway display ad, *The Forsyth County News* (Cumming, Ga.), Aug. 29, 1963, p. 8. Page OCR. https://gahistoricnewspapers.galileo.usg.edu/lccn/sn84007709/1963-08-29/ed-1/seq-8/ (accessed 2026-10-22)
 [^fcn710422]: Cumming Dragway notice on funny cars, *The Forsyth County News*, Apr. 22, 1971, p. 12 (with "Platt wins at drag race," Apr. 8, 1971, p. 7, https://gahistoricnewspapers.galileo.usg.edu/lccn/sn84007709/1971-04-08/ed-1/seq-7/). Page OCR. https://gahistoricnewspapers.galileo.usg.edu/lccn/sn84007709/1971-04-22/ed-1/seq-12/ (accessed 2026-10-22)
+[^adw630430]: Emel Scott Jr., "Thomas Holcomb Places First For Super Stock; Joe Johnson Second," *Atlanta Daily World* (Atlanta, Ga.), Apr. 30, 1963, p. 5. Page OCR. https://gahistoricnewspapers.galileo.usg.edu/lccn/sn82015425/1963-04-30/ed-1/seq-5/ (accessed 2026-10-22)
+[^adw630824]: Yellow River Drag Strip display ad, *Atlanta Daily World*, Aug. 24, 1963, p. 5. Page OCR. https://gahistoricnewspapers.galileo.usg.edu/lccn/sn82015425/1963-08-24/ed-1/seq-5/ (accessed 2026-10-22)

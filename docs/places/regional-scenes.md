@@ -51,7 +51,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Maryland.** [The Clockers of Cumberland](../drag-racing/cumberland-clockers.md).
 
-**Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md).
+**Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [Saturday Nights at Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md).
 
 **Arkansas.** [Church First, Then the Drags: the Hope Drag Strip](../drag-racing/hope-airport-drag-strip.md).
 

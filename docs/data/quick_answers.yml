@@ -294,6 +294,23 @@ themes:
         link: drag-racing/atlanta-speed-shop-dragway.md
         also: [drag-racing/yellow-river-covington.md, companies/hurst-campbell.md]
         flag: drag-racing/atlanta-speed-shop-dragway.md#q-3
+      - id: strip-to-runway
+        q: Did a drag strip ever become an airstrip?
+        a: >-
+          Yes, in Forsyth County, Ga. Cumming Dragway ran from at least 1963 into the 1970s; by 1984 its owner was
+          landing planes on the old strip, and the county sued to stop him. In 1988 the paper reported that he had
+          asphalted it and marked it as a runway.
+        link: drag-racing/cumming-dragway.md#a-landing-strip-on-hurt-bridge-road-197988
+        also: [drag-racing/yellow-river-covington.md, drag-racing/hope-airport-drag-strip.md]
+      - id: new-england-airport-drags
+        q: Where did New England hot rodders drag race before there were strips?
+        a: >-
+          On airports. A Wilmington, Mass., weekly says Fred Cain and Fran Bannister raced on a Beverly Airport
+          runway early on Sunday mornings in the late 1940s, then got the Sanford, Maine, airport to allow a race
+          with barricades to warn pilots, and that the drags ran at Sanford for over 15 years (◐ see Open questions).
+        link: drag-racing/sanford-cain-bannister.md
+        also: [drag-racing/pennsauken-central-airport-1958.md]
+        flag: drag-racing/sanford-cain-bannister.md#q-2
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:

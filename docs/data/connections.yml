@@ -96,6 +96,11 @@ nodes:
   - {id: asshop,     label: Atlanta Speed Shop, type: company, group: garage-born, page: drag-racing/atlanta-speed-shop-dragway.md}
   - {id: assdragway, label: "Atlanta Speed Shop Dragway (Covington, Ga.)", type: place, page: drag-racing/atlanta-speed-shop-dragway.md}
   - {id: yellowriver, label: "Yellow River Drag Strip (Covington, Ga.)", type: place, page: drag-racing/yellow-river-covington.md}
+  - {id: cumming,    label: "Cumming Dragway (Forsyth County, Ga.)", type: place, page: drag-racing/cumming-dragway.md}
+  - {id: hplatt,     label: Hubert Platt,    type: person,  page: drag-racing/cumming-dragway.md}
+  - {id: hopestrip,  label: "Hope Drag Strip (Hope, Ark.)", type: place, page: drag-racing/hope-airport-drag-strip.md}
+  - {id: semo,       label: "SEMO Drag Strip (Malden, Mo.)", type: place, page: drag-racing/semo-malden-drag-strip.md}
+  - {id: fairburn,   label: "Ted Edwards / Houston Bros. strip (Fairburn, Ga.)", type: place, page: drag-racing/fairburn-atlanta-daily-world.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -323,3 +328,18 @@ edges:
      evidence: ["Hurst Hemi-Under-Glass"]}
   - {from: yellowriver, to: assdragway, type: scene, label: "Legislators toured both Newton County strips after the 1969 crash", page: drag-racing/yellow-river-covington.md,
      evidence: ["the Atlanta Speed Shop Drag Strip west of Covington"]}
+  # ----- Round 23-East: Cumming and Hope
+  - {from: hplatt, to: cumming, type: scene, label: "On the 1963 opening card; beat Clanton's Camaro for $3,000 in 1971", page: drag-racing/cumming-dragway.md,
+     evidence: ["Hubert Platt's \"The Georgia Shaker\"", "Hubert Platt beat Ralph Clanton's"]}
+  - {from: jhughes, to: cumming, type: scene, label: "His Zot #4 lost to the 218 mph Starrliner, 1971", page: drag-racing/cumming-dragway.md, flag: single-source,
+     evidence: ["beating Julius Hughes' \"Zot #4.\""]}
+  - {from: cumming, to: yellowriver, type: scene, label: "Houston Platt raced at both; the papers spell him two ways", page: drag-racing/cumming-dragway.md, flag: conflict,
+     evidence: ["Houston Platt's funny car beat Dennis Kirkland's"]}
+  - {from: hopestrip, to: semo, type: scene, label: "Two Mid-South airfield strips of the 1960s", page: drag-racing/hope-airport-drag-strip.md,
+     evidence: ["For another airfield strip in the same corner of the Mid-South"]}
+  - {from: lunati, to: semo, type: scene, label: "Booked for Easter 1966 with his 427 Corvair", page: drag-racing/semo-malden-drag-strip.md,
+     evidence: ["JOE LUNATI'S 1966 427 CORVAIR"]}
+  - {from: fairburn, to: yellowriver, type: scene, label: "The Atlanta Daily World followed the same drivers to both strips in 1963", page: drag-racing/fairburn-atlanta-daily-world.md,
+     evidence: ["at Yellow River drag strip Saturday night"]}
+  - {from: hplatt, to: fairburn, type: scene, label: "Named in a 1963 report with Fox Jones's 'Georgia Shaker No. 2'", page: drag-racing/fairburn-atlanta-daily-world.md, flag: single-source,
+     evidence: ["in a report that also names Hubert Platt"]}
