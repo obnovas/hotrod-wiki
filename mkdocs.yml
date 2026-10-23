@@ -217,6 +217,7 @@ nav:
   - Reference:
       - reference/index.md
       - Quick Answers: reference/quick-answers.md
+      - Reading Paths: reference/reading-paths.md
       - Timeline: reference/timeline.md
       - People & Companies Index: reference/index-people-companies.md
       - Article Schema: reference/article-schema.md

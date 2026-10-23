@@ -12,10 +12,11 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from articles_lib import (DOCS, ROOT, ERAS, REGIONS, TAGS, REQUIRED, LISTS, KNOWN, DEPARTMENTS,  # noqa: E402
+from articles_lib import (DOCS, ROOT, ERAS, REGIONS, TAGS, REQUIRED, LISTS, KNOWN, DEPARTMENTS, RECORD_NOTES, record_notes_text,  # noqa: E402
                           articles, split_front, plain, body_prose, load_canonical)
 import quick_answers_lib  # noqa: E402  (shared open-question flag check)
 import move_unknowns  # noqa: E402  (boilerplate open-question items)
+import paths_lib  # noqa: E402  (reading paths, docs/data/paths.yml)
 
 try:
     from markdown.extensions.toc import slugify
@@ -61,7 +62,10 @@ def main():
     metas, bodies = {}, {}
     for rel in arts:
         meta, body = split_front((DOCS / rel).read_text())
-        metas[rel], bodies[rel] = meta, body
+        notes = record_notes_text(meta)
+        # record-box notes are rendered into the Article record: their footnote refs and open-question markers
+        # count as part of the story for every check below
+        metas[rel], bodies[rel] = meta, (body.replace('\n!!! abstract "Article record"', "\n" + notes + '\n\n!!! abstract "Article record"', 1) if notes else body)
     all_md = {str(p.relative_to(DOCS)) for p in DOCS.rglob("*.md")}
     anchor_cache = {}
 
@@ -84,6 +88,12 @@ def main():
         for k in meta:
             if k not in KNOWN:
                 E(f"unknown field '{k}' (see docs/reference/article-schema.md)")
+        for k, _lab in RECORD_NOTES:
+            v = meta.get(k)
+            if v is not None and not (isinstance(v, str) and v.strip() or (k == "principal_source" and isinstance(v, list) and v and all(isinstance(x, str) for x in v))):
+                E(f"'{k}' must be a non-empty string{' or list of strings' if k == 'principal_source' else ''}")
+            if v and '!!! abstract "Article record"' not in body:
+                E(f"'{k}' is shown in the Article record box, but the page has none")
         for k in LISTS:
             if k in meta and not (isinstance(meta[k], list) and all(isinstance(x, (str, int)) for x in meta[k])):
                 E(f"'{k}' must be a list of strings")
@@ -249,6 +259,10 @@ def main():
                 links_canon = re.search(rf"\]\((?:\.\./)?{re.escape(page.split('/')[1]) if page.split('/')[0] == rel.split('/')[0] else re.escape('../' + page)}", bodies[rel]) or re.search(re.escape(page.split("/")[1]) + r"(#[^)]*)?\)", bodies[rel])
                 if not links_canon and f.get("snippet") not in snippet_includes(bodies[rel]):
                     errors.append(f"{rel}: tells '{key}' without linking its canonical page {page} (or including snippets/{f.get('snippet')})")
+    # reading paths: unique ids, every non-planned step an existing story, planned steps not yet written
+    pe, pw = paths_lib.check(paths_lib.load(), arts)
+    errors.extend(pe)
+    warns.extend(pw)
     if "--orphans" in sys.argv:
         print("Inbound article links (excluding front-matter related):")
         for rel in arts:

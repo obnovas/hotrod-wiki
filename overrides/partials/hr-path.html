@@ -1,0 +1,17 @@
+{#- "Part n of N" reading-path bar under the headline. hr.path = primary path; hr.path_also = other paths. -#}
+{% set pa = hr.path %}
+<nav class="hr-path" aria-label="Reading path: {{ pa.title }}">
+  <div class="hr-path__top">
+    <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-road"/></svg>
+    <span class="hr-path__lab">Reading path{% if pa.letter %} {{ pa.letter }}{% endif %}</span>
+    <a class="hr-path__title" href="{{ pa.url | url }}">{{ pa.short }}</a>
+  </div>
+  <div class="hr-path__row">
+    {% if pa.prev %}<a class="hr-path__step hr-path__step--prev" href="{{ pa.prev.url | url }}" rel="prev" title="Part {{ pa.prev.n }}: {{ pa.prev.title }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg><span class="hr-sr">Previous on this path: </span><span class="hr-path__stxt">Part {{ pa.prev.n }}</span></a>{% else %}<span class="hr-path__step hr-path__step--off" aria-hidden="true"><svg class="hr-ico"><use xlink:href="#hr-i-arrow"/></svg><span class="hr-path__stxt">Start</span></span>{% endif %}
+    <span class="hr-path__pos"><strong>Part {{ pa.n }} of {{ pa.of }}</strong><span class="hr-path__bar" aria-hidden="true"><span style="width:{{ pa.pct }}%"></span></span></span>
+    {% if pa.next %}<a class="hr-path__step hr-path__step--next" href="{{ pa.next.url | url }}" title="Part {{ pa.next.n }}: {{ pa.next.title }}"><span class="hr-sr">Next on this path: </span><span class="hr-path__stxt">Part {{ pa.next.n }}</span><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a>{% else %}<a class="hr-path__step hr-path__step--next hr-path__step--end" href="{{ 'reference/reading-paths/' | url }}"><span class="hr-path__stxt">All paths</span><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a>{% endif %}
+  </div>
+  {% if hr.path_also %}
+  <p class="hr-path__also">Also on {% for a in hr.path_also %}<a href="{{ a.url | url }}">{{ a.short }}</a> <span>(part {{ a.n }} of {{ a.of }})</span>{% if not loop.last %}{{ " and " if loop.revindex == 2 else ", " }}{% endif %}{% endfor %}</p>
+  {% endif %}
+</nav>

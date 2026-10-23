@@ -1,0 +1,28 @@
+{#- Reference > Reading Paths: every path as a summary card with its steps (rendered from docs/data/paths.yml). -#}
+<nav class="hr-paths-jump" aria-label="Jump to a path"><ul>
+  {% for p in hr.paths_index %}<li><a href="#{{ p.id }}"><b>{{ p.letter }}</b> {{ p.short }}</a></li>{% endfor %}
+</ul></nav>
+<ol class="hr-paths">
+{% for p in hr.paths_index %}
+  <li class="hr-pcard" id="{{ p.id }}">
+    <div class="hr-pcard__head">
+      {% if p.letter %}<span class="hr-pcard__letter" aria-hidden="true">{{ p.letter }}</span>{% endif %}
+      <div>
+        <h2 class="hr-pcard__title">{% if p.letter %}<span class="hr-sr">Path {{ p.letter }}: </span>{% endif %}{{ p.title }}</h2>
+        <p class="hr-pcard__meta">{{ p.n }} stories{% if p.span %} · {{ p.span }}{% endif %}{% if p.minutes %} · about {{ (p.minutes / 60) | round(0, 'ceil') | int if p.minutes >= 90 else p.minutes }} {{ "hours" if p.minutes >= 90 else "min" }} of reading{% endif %}{% if p.planned %} · {{ p.planned }} in preparation{% endif %}</p>
+      </div>
+    </div>
+    <p class="hr-pcard__purpose">{{ p.purpose }}</p>
+    <p class="hr-pcard__go"><a class="hr-btn hr-btn--solid" href="{{ p.live[0].url | url }}">Start with part 1: {{ p.live[0].title }}<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></a></p>
+    <details class="hr-pcard__steps">
+      <summary>All {{ p.n }} steps<svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-down"/></svg></summary>
+      <ol>
+        {% for s in p.steps %}
+        {% if s.planned %}<li class="hr-pstep hr-pstep--planned"><span class="hr-pstep__n">·</span><div><strong>{{ s.title }}</strong> <em>in preparation</em><span class="hr-pstep__why">{{ s.why }}</span></div></li>
+        {% else %}<li class="hr-pstep"><span class="hr-pstep__n">{{ s.n }}</span><div><a href="{{ s.url | url }}">{{ s.title }}</a>{% if s.eras %} <span class="hr-pstep__era">{{ s.eras[0] }}</span>{% endif %}<span class="hr-pstep__why">{{ s.why }}</span></div></li>{% endif %}
+        {% endfor %}
+      </ol>
+    </details>
+  </li>
+{% endfor %}
+</ol>

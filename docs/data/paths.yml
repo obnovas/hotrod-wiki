@@ -1,0 +1,387 @@
+# Reading paths: ordered routes through the stories. Rendered as the "Part n of N" bar on each story and on
+# reference/reading-paths.md. Checked by scripts/check_articles.py (scripts/paths_lib.py). Draft by Henry, 2026-10-22.
+# Schema: id (unique slug), letter, title, purpose, extra (optional), steps: [{page, why, planned (optional)}]
+version: 1
+paths:
+  - id: strip-fights
+    letter: A
+    title: "Anybody Got a Drag Strip? How Towns Argued Their Way to a Strip (1946–1970)"
+    purpose: "The site's signature story: the national pattern of local fights over runways, told in chronological order."
+    steps:
+      - page: drag-racing/modesto-century-toppers.md
+        why: "Start in 1946: a club, a chicken coop and the Highway Patrol, before there was anywhere legal to run."
+      - page: drag-racing/pomona-choppers-fontana.md
+        why: "One answer that worked: police backing a club strip."
+      - page: drag-racing/inyokern-dust-devils.md
+        why: "Another way it worked: the sheriff's strip in the desert, from 1954."
+      - page: drag-racing/planners-report-1955.md
+        why: "By 1955 the city planners were writing about hot rod clubs. This is what they recommended."
+      - page: drag-racing/great-bend-srca.md
+        why: "A chamber of commerce bets on a strip and gets the first Nationals."
+      - page: drag-racing/half-day-ataa-maremont.md
+        why: "In the Midwest, a muffler maker builds the strip himself."
+      - page: drag-racing/escanaba-dragns.md
+        why: "Smaller towns tried it with a policeman running the club."
+      - page: drag-racing/kansas-city-timing-association.md
+        why: "A detective's club finally gets a strip, and other towns quote its story."
+      - page: drag-racing/march-1957-drag-strip-survey.md
+        why: "Step back: the whole country argued about it in a single month."
+      - page: drag-racing/new-york-towns-panel-1957.md
+        why: "What a sheriff, a police chief and a safety man told New York's towns."
+      - page: drag-racing/recreation-1957-pro-and-con.md
+        why: "The recreation directors' side of the same 1957 debate."
+      - page: drag-racing/kingston-igniters.md
+        why: "Advice is one thing. Here a club looks for a strip for four years."
+      - page: drag-racing/marin-cotati-strips.md
+        why: "A county-level hunt that ended on a Navy field."
+      - page: drag-racing/quaker-city-salem.md
+        why: "A strip that did open in 1957, with headlights on a pole."
+      - page: drag-racing/pennsauken-central-airport-1958.md
+        why: "When it went wrong: tear gas on the runways, May 1958."
+      - page: drag-racing/sedalia-big-sir.md
+        why: "Into the 1960s: an eleven-year chase for one strip."
+      - page: drag-racing/pocono-strips.md
+        why: "Where could a Pocono hot rodder race? A flood levee, Wind Gap, Bear Creek."
+      - page: drag-racing/semo-malden-drag-strip.md
+        why: "An old air base becomes a regional strip that draws Memphis racers."
+      - page: drag-racing/kk-sports-arena-kaukauna.md
+        why: "The Fox Valley hunt ends in a ravine."
+      - page: drag-racing/kk-sports-arena-hospitality-bankruptcy.md
+        why: "How a strip like that ended: big years, then bankruptcy in 1970."
+      - page: drag-racing/runway-fights.md
+        planned: true
+        why: "Hub essay: what these towns had in common. Synthesis only, no new facts."
+
+  - id: club-life
+    letter: B
+    title: "Club Life: Bylaws, Fines, Jackets and Courtesy Cards (1953–1968)"
+    purpose: "What a hot rod club actually was and did, below the level of the strip."
+    steps:
+      - page: drag-racing/high-school-hot-rod-clubs.md
+        why: "Where many clubs started: the high school."
+      - page: drag-racing/indiana-small-town-clubs.md
+        why: "Small-town clubs and what their local papers reported."
+      - page: drag-racing/belleville-gear-jammers.md
+        why: "The canonical home of the half-fine rule (club-fine-rules)."
+      - page: drag-racing/sedalia-drag-ons.md
+        why: "The same penalty in Missouri, plus courtesy cards and a club trial."
+      - page: drag-racing/stroudsburg-ridge-runners.md
+        why: "A club court and a work detail in Pennsylvania."
+      - page: drag-racing/hanover-adams-county-clubs.md
+        why: "Petitions, jackets and a no-ticket rule nearby."
+      - page: drag-racing/portsmouth-kustom-kouriers.md
+        why: "Clubs as civic help: carrying messages when the phones went dead."
+      - page: drag-racing/fox-valley-road-deacons-gas-ketts.md
+        why: "Into the 1960s, including a girls' club, the Gas-Ketts."
+      - page: places/twin-falls-main-avenue.md
+        why: "A club formed to get off Main Avenue, with its auxiliary, the Timettes."
+
+  - id: lakes-to-strip
+    letter: C
+    title: "From the Lakes to the Strip (1920s–1950s)"
+    purpose: "The chronological spine: the famous origin, told through the less-famous people in it."
+    steps:
+      - page: eras/1930s-dry-lakes-scta.md
+        why: "Muroc, where everybody raced at once."
+      - page: voices/blackie-gold.md
+        why: "A grease monkey's view of the lakes, in his own words."
+      - page: voices/kong-jackson.md
+        why: "No organization, no nothing: the lakes before rules."
+      - page: people/kong-jackson.md
+        why: "The man behind the voice, and the canonical home of the 1941 Muroc story (muroc-1941-jeeps)."
+      - page: companies/prewar-speed-shops.md
+        why: "The shops that sold the parts before the war."
+      - page: people/veda-orr.md
+        why: "When the SCTA's editors went to war, she kept the Racing News going and mailed it to racers wherever they were stationed."
+      - page: eras/1940s-postwar-bonneville.md
+        planned: true
+        why: "Missing era: postwar belly tanks, Hot Rod in 1948, Bonneville in 1949."
+      - page: drag-racing/modesto-century-toppers.md
+        why: "Postwar, the racing moves to the street and then the airstrip."
+      - page: eras/1950s-santa-ana-drags.md
+        why: "Bayonets on the airstrips, then Pappy Hart opens Santa Ana in 1950."
+      - page: voices/harts-santa-ana.md
+        why: "The Harts tell it themselves."
+      - page: people/peggy-hart.md
+        why: "The racer who beat the winners, and whose own words are still missing."
+
+  - id: garage-to-catalog
+    letter: D
+    title: "From the Garage to the Catalog: The Cam Grinders"
+    purpose: "The site's 'parking lot to parts catalog' promise, followed through one trade."
+    steps:
+      - page: people/ed-winfield.md
+        why: "Start with Winfield. By one family account, Isky and Engle both bought their first cams from him."
+      - page: people/george-riley.md
+        why: "A contemporary's heads and their troubles."
+      - page: people/ed-iskenderian.md
+        why: "Isky and Winfield (canonical isky-winfield)."
+      - page: people/jack-engle.md
+        why: "The other half of the Winfield story (canonical isky-winfield)."
+      - page: people/chet-herbert.md
+        why: "Roller cams from a Sears lathe."
+      - page: cars/beast-iii.md
+        why: "Herbert's cams proved on the salt."
+      - page: people/howard-johansen.md
+        why: "The rival grinder who appears in the ad war."
+      - page: eras/1950s-camgrinder-wars.md
+        why: "The rivalry played out in print."
+      - page: companies/crane-cams.md
+        why: "A machinist's son grinds his own, in Florida."
+      - page: people/joe-lunati.md
+        why: "Memphis's grinder."
+      - page: companies/comp-cams-rhs.md
+        why: "The Memphis company that came after."
+      - page: companies/web-of-influence.md
+        why: "The map of who fed whom."
+
+  - id: door-slammers
+    letter: E
+    title: "Door-Slammers of Ohio and Michigan"
+    purpose: "The gasser and Funny Car scene of the industrial Midwest, and the companies it fed."
+    steps:
+      - page: places/ohio-gassers.md
+        why: "The scene as a whole."
+      - page: drag-racing/akron-fulton-airport.md
+        why: "Its home strip."
+      - page: people/arlen-vanke.md
+        why: "A backyard racer from Akron."
+      - page: cars/hill-bros-red-baron.md
+        why: "A Cleveland gasser that taunted the West Coast."
+      - page: companies/mr-gasket.md
+        why: "The Red Baron's sponsor, out of the trunk of a '57 Chevy."
+      - page: companies/logghe-stamping.md
+        why: "Michigan's flip-top chassis shop."
+      - page: people/al-bergler.md
+        why: "The tin man who bent it himself after a Logghe quote."
+      - page: people/eddie-schartman.md
+        why: "A flip-top driver."
+      - page: companies/lakewood-industries.md
+        why: "A steel bellhousing to catch an exploding flywheel."
+      - page: companies/summit-racing.md
+        why: "Parts by mail from the Akron area."
+      - page: companies/jegs.md
+        why: "A Columbus racer who got tired of waiting for the mail."
+
+  - id: midwest-circuit
+    letter: F
+    title: "The Midwest's Own Circuit: ATAA, Cordova and the World Series"
+    purpose: "Drag racing organized outside NHRA, and how long that lasted."
+    steps:
+      - page: drag-racing/half-day-ataa-maremont.md
+        why: "The ATAA and its sponsor (canonical ataa-absorbed-1957)."
+      - page: drag-racing/detroit-cordova.md
+        why: "The World Series and the 1957 upset (canonical garlits-cordova-1957)."
+      - page: people/setto-postoian.md
+        why: "The Michigan racer who beat Garlits."
+      - page: people/bob-bartel.md
+        why: "The Sears man who kept Cordova going."
+      - page: drag-racing/ames-drag-strip-nightcrawlers.md
+        why: "ATAA sanction still cited in 1958."
+      - page: drag-racing/beardstown-drag-strip.md
+        why: "A later Illinois strip and its touring stars."
+
+  - id: cruising
+    letter: G
+    title: "Cruising, and How Towns Shut It Down"
+    purpose: "One argument: the street as showroom, then the ordinance. Not a list of boulevards."
+    steps:
+      - page: places/cruising-overview.md
+        why: "The map and the scorecard."
+      - page: places/dragging-main.md
+        why: "Start small: the loop, in the kids' own words."
+      - page: places/twin-falls-main-avenue.md
+        why: "A Main Avenue that served as a drag strip."
+      - page: places/modesto.md
+        why: "The California loop that became a film, and its ban."
+      - page: places/bobs-big-boy-river-road.md
+        why: "A drive-in and the street drags nearby."
+      - page: places/harveys-broiler-downey.md
+        why: "Teenage Paris on a former chicken farm."
+      - page: places/van-nuys.md
+        why: "A boulevard closed by barricades."
+      - page: places/whittier-blvd.md
+        why: "Roadblocks in East LA."
+      - page: places/woodward.md
+        why: "Detroit's strip."
+      - page: places/woodward-ordinances.md
+        why: "The city that banned the drive-ins it didn't have."
+      - page: places/lake-street-university.md
+        why: "The Twin Cities' version."
+      - page: places/summer-avenue-memphis.md
+        why: "Memphis's drive-around drag."
+      - page: places/westheimer-houston.md
+        why: "A big city doing its best impression of a one-Dairy-Queen town, until the roadblocks of 'about 1986.'"
+      - page: places/central-avenue-albuquerque.md
+        why: "Coda (2005–2018): a later chapter in the same fight."
+
+  - id: street-rod-revival
+    letter: H
+    title: "The Street Rod Revival (1953 Prologue to the 1980s)"
+    purpose: "From a newspaper serial to the Nationals, NSRA and Pro Street."
+    steps:
+      - page: media/street-rod-newspaper-serial.md
+        why: "Prologue: 'Street Rod' as fiction in a small-town paper, 1954."
+      - page: street-rodding/fiberglass-suppliers.md
+        why: "The bodies that made old cars buildable again."
+      - page: media/street-rod-magazine-portland.md
+        why: "A Portland magazine took the name first."
+      - page: voices/street-rodder-founding.md
+        why: "Why the next magazine became Street Rodder."
+      - page: eras/1970s-street-rod-nationals.md
+        why: "Peoria 1970 (canonical peoria-1970-turnout)."
+      - page: voices/peoria-1970.md
+        why: "The people who drove there."
+      - page: street-rodding/nsra-early-nationals.md
+        why: "From a hayfield to an association."
+      - page: people/dick-wells.md
+        why: "The first-president question (canonical nsra-first-president)."
+      - page: eras/1980s-pro-street.md
+        why: "Where the 1980s took it."
+
+  - id: customs
+    letter: I
+    title: "Customs: From the Back Room to the Show Circuit"
+    purpose: "The makers of the style, then how it was shown, printed and sold."
+    steps:
+      - page: people/jimmy-summers.md
+        why: "An early customizer across from Fairfax High."
+      - page: people/roy-hagy.md
+        why: "The other prewar top-chopper."
+      - page: people/george-duvall.md
+        why: "A windshield, a hubcap and a plating shop."
+      - page: companies/southern-california-plating.md
+        why: "That plating shop's rolling billboards."
+      - page: customs/hirohata-mercury.md
+        why: "One car that defined the look."
+      - page: cars/techniques-and-styles.md
+        why: "How the period built it."
+      - page: media/trend-books-kits-roth.md
+        why: "Customs on paper and in plastic."
+      - page: media/show-circuit.md
+        why: "Where they were shown."
+      - page: voices/show-custom-voices.md
+        why: "Show and custom people in their own words."
+      - page: voices/von-dutch.md
+        why: "'Nothing is original.'"
+      - page: customs/kkoa-lead-sled-revival.md
+        why: "Coda: the lead sled revival by way of Wichita."
+
+  - id: mid-south
+    letter: J
+    title: "Memphis and the Mid-South"
+    purpose: "The strongest Southern thread on the site, from street to cam company."
+    steps:
+      - page: places/memphis.md
+        why: "The regional scene."
+      - page: voices/ray-godman.md
+        why: "Memphis racers in their own words."
+      - page: places/summer-avenue-memphis.md
+        why: "Where they cruised."
+      - page: people/joe-lunati.md
+        why: "A Memphis cam grinder."
+      - page: companies/comp-cams-rhs.md
+        why: "The company on Sun Studio's corner."
+      - page: drag-racing/semo-malden-drag-strip.md
+        why: "Memphis comes to the Bootheel."
+
+  - id: not-on-the-program
+    letter: K
+    title: "Not on the Program: Women, Black and Latino Racers and Clubs"
+    purpose: "People the national record treated as footnotes, using only each article's own sourcing."
+    steps:
+      - page: people/veda-orr.md
+        why: "A wartime keeper of the lakes."
+      - page: people/peggy-hart.md
+        why: "A Santa Ana racer."
+      - page: people/doris-herbert.md
+        why: "Drag News and its national record list."
+      - page: drag-racing/fox-valley-road-deacons-gas-ketts.md
+        why: "A girls' car club, the Gas-Ketts."
+      - page: places/twin-falls-main-avenue.md
+        why: "The Timettes."
+      - page: drag-racing/kansas-city-timing-association.md
+        why: "The Dragettes."
+      - page: people/malcolm-durham.md
+        why: "Strip Blazer, booking in the South."
+      - page: voices/leonard-miller.md
+        why: "From a Paoli junkyard to team owner."
+      - page: voices/esparza-brothers.md
+        why: "The 'Mexican Express' at Lions."
+      - page: voices/ruelas-dukes.md
+        why: "From Tijuana to South LA: building cars with the Dukes."
+      - page: places/whittier-blvd.md
+        why: "The East LA boulevard and its policing."
+      - page: drag-racing/womens-car-clubs.md
+        planned: true
+        why: "Synthesis of the Gas-Ketts, Timettes and Dragettes from existing pages, no new research."
+
+  # ---- Beyond the plan: three extra paths so every story page sits on at least one path ----
+  - id: lakes-engineers
+    letter: L
+    title: "Lakes Engineers: From the Dry Lakes to the Product Line"
+    purpose: "The machinists and racers whose lakes cars became speed equipment companies."
+    extra: true
+    steps:
+      - page: people/alex-xydias.md
+        why: "Hanging out the So-Cal shingle."
+      - page: companies/edelbrock-slingshot.md
+        why: "A mechanic becomes a manufacturer."
+      - page: people/stu-hilborn.md
+        why: "A tumbling streamliner and the injector."
+      - page: people/barney-navarro.md
+        why: "Paying for parts with labor."
+      - page: people/tom-beatty.md
+        why: "The Glendale Strokers and the \"Rust Bucket.\""
+      - page: people/julian-doty.md
+        why: "Seventy years on the lakes."
+      - page: companies/moon-equipment.md
+        why: "The café, the fuel block and the eyes."
+      - page: companies/mickey-thompson.md
+        why: "The pressman who dug the post holes himself."
+      - page: people/fran-hernandez.md
+        why: "From Goleta nitro to Lincoln-Mercury racing."
+      - page: voices/injection-and-tin.md
+        why: "Hilborn, Hernandez, Bergler and Durham in their own words."
+      - page: companies/hooker-headers.md
+        why: "The pipes he couldn't afford to buy."
+
+  - id: speed-by-mail-east
+    letter: M
+    title: "Speed by Mail: The East Coast Parts Makers"
+    purpose: "How Pennsylvania and Connecticut garages became national suppliers."
+    extra: true
+    steps:
+      - page: companies/holley.md
+        why: "A bicycle motor from Bradford, Pa."
+      - page: people/ed-almquist.md
+        why: "Speed by mail from Milford, Pa."
+      - page: companies/hurst-campbell.md
+        why: "The shifter king's two-car garage, and the Almquist partnership."
+      - page: companies/moroso.md
+        why: "A Greenwich basement, and a dragstrip bought on a whim."
+
+  - id: beyond-california
+    letter: N
+    title: "Beyond California: A Regional Tour"
+    purpose: "The regional hub pages, read in a row, with the drag news that tied the regions together."
+    extra: true
+    steps:
+      - page: places/regional-scenes.md
+        why: "The hub."
+      - page: places/midwest-east.md
+        why: "Midwest and East threads."
+      - page: places/upper-midwest.md
+        why: "Streets before strips."
+      - page: places/pacific-northwest.md
+        why: "Councils, Woodburn and fiberglass."
+      - page: places/texas.md
+        why: "Three stopwatches at Caddo Mills."
+      - page: drag-racing/houston-freeway-dragstrip.md
+        why: "A Texas strip, and the East-West showdown letter quoted in Voices."
+      - page: people/gene-snow.md
+        why: "Win on Sunday, sell on Monday."
+      - page: voices/strip-owners-and-door-slammers.md
+        why: "Strip owners and racers in their own words."
+      - page: eras/1960s-drag-rags.md
+        why: "The weekly tabloids that, Dave Wallace argues, recorded drag racing's growth most truly."
