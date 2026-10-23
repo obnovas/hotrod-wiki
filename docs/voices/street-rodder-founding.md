@@ -42,7 +42,7 @@ canonical_for: []
 *A motorcycle publisher, a dropped magazine, and a name that was already taken*
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** founders' recollections in Street Rodder's 40th-anniversary feature (2012; web Apr 8, 2014); SEMA News heritage piece (2012); 99W cover index · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** resolved in Round 10: see [*Street Rod* magazine (Portland)](../media/street-rod-magazine-portland.md) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** founders' recollections in Street Rodder's 40th-anniversary feature (2012; web Apr 8, 2014); SEMA News heritage piece (2012); 99W cover index · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** resolved in Round 10: see [*Street Rod* magazine (Portland)](../media/street-rod-magazine-portland.md) · [How we rate this](../reference/source-standards.md)
 
 *Street Rodder* first appeared in **May 1972** from Tom and Rose McMullen's TRM Publications, which until then published motorcycle titles (Street Chopper, Chopper Guide). Tom McMullen had himself been a Hot Rod cover subject in April 1963, with his flamed Deuce (SEMA News).[^sema] See [Street Rodding](../street-rodding/index.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 

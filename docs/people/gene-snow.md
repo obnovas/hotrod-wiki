@@ -55,7 +55,7 @@ canonical_for:
 *Fort Worth's* Rambunctious *and the first 200-mph Funny Car*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** NHRA Top 50 bio (Snow quoted), NHRA National Dragster history column, *Hot Rod* June 1969 feature (period tech sheet), UPI 1988 wire, Wikipedia (◐) · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ Date of the first 200.88-mph pass (Aug 17, 1968 vs "early 1969" vs "autumn 1969"); no timing slip seen · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** NHRA Top 50 bio (Snow quoted), NHRA National Dragster history column, *Hot Rod* June 1969 feature (period tech sheet), UPI 1988 wire, Wikipedia (◐) · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ Date of the first 200.88-mph pass (Aug 17, 1968 vs "early 1969" vs "autumn 1969"); no timing slip seen · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "The sea level location gave us extra horsepower, and we went 200.88 mph on the first pass. I didn't think it such a big deal at the time, but we kept running more than 200 mph at just about every race after that."

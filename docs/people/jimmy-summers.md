@@ -53,7 +53,7 @@ canonical_for: []
 *1913–1968*
 
 !!! abstract "Article record"
-    **Confidence:** Low–Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
 
 His son Lee remembered how it began: Jimmy and his brother Bill worked as street-corner fender men. "They had tools in a bag, and they would go from block to block looking for cars that needed a fender repair."[^k]
 

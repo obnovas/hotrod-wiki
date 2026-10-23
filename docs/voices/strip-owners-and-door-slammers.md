@@ -55,7 +55,7 @@ canonical_for: []
 *The people who ran the tracks, and the people who filled them*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High (all quotes are verbatim from pages we opened on 2026-10-15) · **Source types:** NHRA bios and columns, *Hot Rod* (1980, 2015), *Street Rodder* anniversary feature, track-owner tribute, trade-blog event report · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** no first-hand words from Peggy Hart herself; Bob Bartel's August 2009 newspaper interview could not be opened (rate-limited) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (all quotes are verbatim from pages we opened on 2026-10-15) · **Source types:** NHRA bios and columns, *Hot Rod* (1980, 2015), *Street Rodder* anniversary feature, track-owner tribute, trade-blog event report · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** no first-hand words from Peggy Hart herself; Bob Bartel's August 2009 newspaper interview could not be opened (rate-limited) · [How we rate this](../reference/source-standards.md)
 
 These are first-hand and near-first-hand words from the families who **owned the strips** (the Harts, the Gays, Bob Bartel) and the **Midwest and Texas door-slammer racers** who filled them. Every quote is labeled by when it was told. Full articles: [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [The Ohio Gassers](../places/ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Peggy Hart](../people/peggy-hart.md), [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 

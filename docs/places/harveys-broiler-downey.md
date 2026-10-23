@@ -50,7 +50,7 @@ canonical_for: []
 *Harvey's Broiler / Johnie's, Downey, 1958–1970; revived 1987–90*
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** LA Conservancy, newspaper (LA Times 1989, 2007), LAist (2024) owner interview · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Drive-in end date not re-verified · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** LA Conservancy, newspaper (LA Times 1989, 2007), LAist (2024) owner interview · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Drive-in end date not re-verified · [How we rate this](../reference/source-standards.md)
 
 Harvey and Minnie Ortner opened **Harvey's Broiler** in 1958 on a former chicken farm. Architect Paul B. Clayton designed it in the Googie style with a 65-foot sign, and the LA Conservancy calls it "the largest drive-in restaurant in Southern California" when it opened.[^lac][^laist] Tom Wolfe used it as a setting: "Teenage Paris! Harvey's Drive-in!" (quoted by LAist).[^laist]
 

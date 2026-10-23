@@ -47,7 +47,7 @@ canonical_for: []
 # Great Bend, Kansas: A Club, a Chamber of Commerce and the First Nationals (1953–1955)
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** <span class="hr-badge">Grassroots</span> club-run track's own history page (SRCA Dragstrip), local newspaper (Great Bend Tribune, 2011), NHRA retrospective (2021) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** ⚠ a top-speed figure differs by one digit between sources; the Tribune's 'birthplace of drag racing' is local pride, not a documented fact; Kansas Historical Site status is the club's own claim · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club-run track's own history page (SRCA Dragstrip), local newspaper (Great Bend Tribune, 2011), NHRA retrospective (2021) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** ⚠ a top-speed figure differs by one digit between sources; the Tribune's 'birthplace of drag racing' is local pride, not a documented fact; Kansas Historical Site status is the club's own claim · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "It was because of all of the accidents that were happening on the highways and the streets during this time with the kids. … Everybody was hot-rodding. They decided to take the air strip and turn it into a drag strip and that's really how it all started."

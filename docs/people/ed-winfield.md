@@ -40,7 +40,7 @@ canonical_for: []
 *1901–1982*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** HOF, secondary, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Indy years conflict open · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** HOF, secondary, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Indy years conflict open · [How we rate this](../reference/source-standards.md)
 
 <figure markdown>
 ![Patent drawing US1893920](../assets/images/patent-US1893920-winfield-carburetor.png){ width="300" loading=lazy }

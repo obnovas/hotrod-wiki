@@ -56,7 +56,7 @@ canonical_for: []
 # Logghe Stamping: Fraser's Flip-Top Chassis Shop
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** MMSHOF bio, Garlits Museum HOF, enthusiast press · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Company founding year 1946 vs 1947 · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** MMSHOF bio, Garlits Museum HOF, enthusiast press · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Company founding year 1946 vs 1947 · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I said, 'What the hell is this?' It was a dragster with a body on it and the driver in the back seat..."

@@ -57,7 +57,7 @@ canonical_for: []
 *Detroit's suburban strip, 1950s–1970s*
 
 !!! abstract "Article record"
-    **Confidence:** High for setting; Medium for anecdotes · **Source types:** enthusiast press (Hagerty 2011, 2020; Hemmings 2018; Hot Rod 2014), newspaper (Oakland Press 2007) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Factory-car stories are mostly from memory · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (High for the setting, Medium for the anecdotes) · **Source types:** enthusiast press (Hagerty 2011, 2020; Hemmings 2018; Hot Rod 2014), newspaper (Oakland Press 2007) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Factory-car stories are mostly from memory · [How we rate this](../reference/source-standards.md)
 
 The drive-in etiquette on Woodward was simple: "You'd back in so you could keep an eye on the action − only parents and nerds pulled in grill first."[^hag]
 

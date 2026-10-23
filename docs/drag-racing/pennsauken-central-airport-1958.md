@@ -44,7 +44,7 @@ canonical_for: []
 # Tear Gas on the Runways: Pennsauken's Central Airport, May 1958
 
 !!! abstract "Article record"
-    **Confidence:** Low-Medium · **Source types:** two Associated Press stories as printed in small-town Pennsylvania dailies (*Gettysburg Times* and the Stroudsburg *Daily Record*, May 29, 1958), read as scanned page OCR; Wikipedia for the airport and Airport Circle · **Last verified:** 2026-10-21 (Round 19) · **Open issues:** both accounts come from one wire service ◐; the number of cars (1,000 in one story; the other's OCR could read 1,000 or 1,600) ◐; we have not read the Camden *Courier-Post* or Philadelphia papers, which would have had their own reporters there · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low · **Source types:** two Associated Press stories as printed in small-town Pennsylvania dailies (*Gettysburg Times* and the Stroudsburg *Daily Record*, May 29, 1958), read as scanned page OCR; Wikipedia for the airport and Airport Circle · **Last verified:** 2026-10-21 (Round 19) · **Open issues:** both accounts come from one wire service ◐; the number of cars (1,000 in one story; the other's OCR could read 1,000 or 1,600) ◐; we have not read the Camden *Courier-Post* or Philadelphia papers, which would have had their own reporters there · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We'll be back."

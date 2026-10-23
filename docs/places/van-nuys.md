@@ -48,7 +48,7 @@ canonical_for: []
 *San Fernando Valley, 1950s–1980s*
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** newspaper (LA Times 1986, 2010), period magazine (Hot Rod July 1981; Car Craft 2009), photographer interview (CNN 2017) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure year · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** newspaper (LA Times 1986, 2010), period magazine (Hot Rod July 1981; Car Craft 2009), photographer interview (CNN 2017) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure year · [How we rate this](../reference/source-standards.md)
 
 The custom, the LA Times Magazine said in 1986, went back to a "regular Saturday-night parade down the boulevard" in **1912**. It says that by the mid-1950s cruisers came "from as far away as Santa Barbara and San Diego," with crowds of up to 20,000 including onlookers in lawn chairs, and that the RTD rerouted buses on cruise nights.[^lat86]
 

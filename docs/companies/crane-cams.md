@@ -60,7 +60,7 @@ canonical_for: []
 *Hallandale, a bad cam from California and a refund for the little guys*
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** <span class="hr-badge">Grassroots</span> local-newspaper obituary (*Orlando Sentinel*, 2013), funeral-home obituary (Lohman Funeral Homes, 2013), SEMA News obituary and heritage pieces, a patent, wiki pages built on racer-journalist sources · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ birthplace (Ojus vs Hallandale); ⚠ "retired" vs ousted in 1989; ⚠ when computer cam design began; ⚠ number of first-show exhibitors; the unnamed California cam maker is unidentified · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local-newspaper obituary (*Orlando Sentinel*, 2013), funeral-home obituary (Lohman Funeral Homes, 2013), SEMA News obituary and heritage pieces, a patent, wiki pages built on racer-journalist sources · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ birthplace (Ojus vs Hallandale); ⚠ "retired" vs ousted in 1989; ⚠ when computer cam design began; ⚠ number of first-show exhibitors; the unnamed California cam maker is unidentified · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I always want to keep my mind busy and stay curious of the amazing new developments we are seeing every day in this industry."

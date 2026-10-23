@@ -55,7 +55,7 @@ canonical_for: []
 *Stuart Garfield Hilborn, Oct 9, 1917 – Dec 16, 2013*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** Autoweek obituary (quotes AHRF + company site), SEMA heritage · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Exact July 1948 SCTA meet details beyond SEMA summary · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** Autoweek obituary (quotes AHRF + company site), SEMA heritage · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Exact July 1948 SCTA meet details beyond SEMA summary · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I was very impressed that they had doubled the horsepower of the cars as they came out of Detroit with virtually no money at all, just work... I decided I was going to have a race car."

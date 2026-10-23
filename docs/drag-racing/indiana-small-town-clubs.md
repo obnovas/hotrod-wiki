@@ -43,7 +43,7 @@ canonical_for: []
 # Hoosier Road Runners: Hot Rod Clubs in Small-Town Indiana, 1953–58
 
 !!! abstract "Article record"
-    **Confidence:** Medium-Low · **Source types:** <span class="hr-badge">Grassroots</span> small-town dailies and weeklies from Indiana's digital newspaper program (*Decatur Daily Democrat*, *The Daily Banner* of Greencastle, *Syracuse-Wawasee Journal*), read as page OCR; two items are syndicated (a UP filler and a Dodge-produced column) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the "national Hot Rod club" Decatur joined is not named (open question); we found no coverage of the Road Runners after February 1957; the Flying Pistons appear in one profile only; the Detroit item is automaker public relations ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> small-town dailies and weeklies from Indiana's digital newspaper program (*Decatur Daily Democrat*, *The Daily Banner* of Greencastle, *Syracuse-Wawasee Journal*), read as page OCR; two items are syndicated (a UP filler and a Dodge-produced column) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the "national Hot Rod club" Decatur joined is not named (open question); we found no coverage of the Road Runners after February 1957; the Flying Pistons appear in one profile only; the Detroit item is automaker public relations ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Yep, I'll ride with Junior any time. Somehow I have great faith in young reflexes and young courtesy."

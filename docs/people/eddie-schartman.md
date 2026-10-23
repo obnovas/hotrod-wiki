@@ -49,7 +49,7 @@ canonical_for: []
 *Cleveland gasser to the first Funny Car title*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** oral (2016 interview), secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Self-reported firsts flagged · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** oral (2016 interview), secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Self-reported firsts flagged · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "On my first pass, I went 166 mph and took out the [finish-line] lights."

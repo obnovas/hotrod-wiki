@@ -47,7 +47,7 @@ canonical_for: []
 # Pomona's Choppers & the Fontana Strip: "If You Can't Control Them, Join Them"
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** <span class="hr-badge">Grassroots</span> municipal police chief's first-person account (FBI Law Enforcement Bulletin, Dec 1951), planning-officials report (ASPO, 1955), NHRA feature (2012), local-court blog item (1947) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** the chief is describing his own program, so the account is promotional; the officer's name and the strip's later move to the fairgrounds are only partly documented · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> municipal police chief's first-person account (FBI Law Enforcement Bulletin, Dec 1951), planning-officials report (ASPO, 1955), NHRA feature (2012), local-court blog item (1947) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** the chief is describing his own program, so the account is promotional; the officer's name and the strip's later move to the fairgrounds are only partly documented · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Every effort to control them failed, and it became apparent that the old adage, 'If you can't control them—join them' was the only approach not tried."

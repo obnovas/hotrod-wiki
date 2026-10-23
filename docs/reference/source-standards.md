@@ -38,6 +38,8 @@ Articles built mainly on local or homegrown sources carry a teal <span class="hr
 - **Medium:** the core story rests on one or two good sources (often oral history plus one secondary), and some conflicts are flagged.
 - **Low:** it rests mainly on single, weak or late sources. It is a scaffold for further research.
 
+Use exactly one of the three words. There are no split ratings: when a page is stronger in one part than another, give the lower level and say why in parentheses, for example "Medium (High for the setting, Medium for the anecdotes)". The build rejects any other label. A High page carries no footnote marked "(search excerpt)"; a fact we have seen only in a search excerpt keeps the page at Medium or below until we read the page itself.
+
 "Last verified" is the date of the most recent research round in which the article's sources were re-read or extended.
 
 ## Scholarly anchor

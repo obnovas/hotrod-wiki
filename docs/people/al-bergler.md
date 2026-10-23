@@ -50,7 +50,7 @@ canonical_for: []
 *Detroit builder, first Ridler winner, Motown Shaker*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** Hagerty interview (2024), MMSHOF bio · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Exact shop street numbers; Motown Shaker chassis serials · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** Hagerty interview (2024), MMSHOF bio · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Exact shop street numbers; Motown Shaker chassis serials · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I made a bench on which I could clamp the pipe down. Still have it. Still using it."

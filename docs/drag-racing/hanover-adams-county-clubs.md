@@ -47,7 +47,7 @@ canonical_for: []
 # Petitions, Jackets and a No-Ticket Rule: Hot Rod Clubs Around Gettysburg and Hanover (1956–59)
 
 !!! abstract "Article record"
-    **Confidence:** Low-Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*Gettysburg Times*, Gettysburg, Pa.): village correspondents' columns, club notices and a classified ad, 1956–59, read as scanned page OCR · **Last verified:** 2026-10-21 (Round 19) · **Open issues:** the Fly-Wheels have two different presidents and two different descriptions in March 1959 ⚠; the March 6 sentence naming a sponsoring "National ... Hanover Hot Rod Club" is garbled ◐; "Flaming Carbs" is our reading of the OCR's "Flaming Carte" ◐; we have not read the Hanover *Evening Sun*, which should have much more · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*Gettysburg Times*, Gettysburg, Pa.): village correspondents' columns, club notices and a classified ad, 1956–59, read as scanned page OCR · **Last verified:** 2026-10-21 (Round 19) · **Open issues:** the Fly-Wheels have two different presidents and two different descriptions in March 1959 ⚠; the March 6 sentence naming a sponsoring "National ... Hanover Hot Rod Club" is garbled ◐; "Flaming Carbs" is our reading of the OCR's "Flaming Carte" ◐; we have not read the Hanover *Evening Sun*, which should have much more · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "The purpose of the club is to help fellow travelers in distress along the highway. In order to obtain or keep membership with the club, members must not be arrested for any traffic violation."

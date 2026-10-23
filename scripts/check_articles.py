@@ -193,6 +193,12 @@ def main():
             if len(fns) < 2 and not deleg:
                 E(f"⚠ qr-{n} names fewer than two sources (cite both, link the page that does, or use ◐ / ? instead)")
         rec = re.search(r'!!! abstract "Article record"\n((?:    .*\n?)+)', body)
+        if rec:
+            cm = re.search(r"\*\*Confidence:\*\* ([^·\n]*?) ?·", rec.group(1))
+            if not cm:
+                E("the record has no **Confidence:** label")
+            elif not re.fullmatch(r"(High|Medium|Low)( \([^()]*\))?", cm.group(1).strip()):
+                E(f"confidence '{cm.group(1).strip()}' must be High, Medium or Low (a note may follow in parentheses)")
         story = body.split("## Open questions & disputed details")[0]
         if rec:
             story = story.replace(rec.group(0), "")

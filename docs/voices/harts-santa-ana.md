@@ -45,7 +45,7 @@ canonical_for: []
 # The Harts of Santa Ana: Pappy, Peggy and Gerald
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High for the outline, Medium for the anecdotes · **Source types:** Hart's 2001 National Dragster interview (quoted in obituaries), the obituaries themselves (NHRA, OC Register, LA Times, NYT, AP, Press-Enterprise, Richard Parks), son's 2015 newspaper interview · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** Peggy Hart's own words not yet found · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (stronger for the outline than for the anecdotes) · **Source types:** Hart's 2001 National Dragster interview (quoted in obituaries), the obituaries themselves (NHRA, OC Register, LA Times, NYT, AP, Press-Enterprise, Richard Parks), son's 2015 newspaper interview · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** Peggy Hart's own words not yet found · [How we rate this](../reference/source-standards.md)
 
 C.J. "Pappy" Hart (1911–2004) and his wife **Peggy Hart** ran the Santa Ana drags on an Orange County Airport runway from 1950 to 1959. See [Santa Ana](../eras/1950s-santa-ana-drags.md) and [Peggy Hart](../people/peggy-hart.md). The fan site *We Did It For Love* collects his obituaries, and several of them quote him and the people who knew him.[^wd]
 

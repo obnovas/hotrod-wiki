@@ -37,7 +37,7 @@ canonical_for: []
 # Hog Butcher on Weekdays, Fun Capital on Sundays: the Beardstown Drag Strip (Beardstown, Ill., 1967–72)
 
 !!! abstract "Article record"
-    **Confidence:** Medium-Low · **Source types:** <span class="hr-badge">Grassroots</span> daily newspaper (*Jacksonville Daily Journal*, Jacksonville, Ill.): a Beardstown correspondent's column, sports notes and display ads, 1967–72, read as scanned page OCR; one encyclopedia entry for background · **Last verified:** 2026-10-22 (Round 20) · **Open issues:** whether the 1967 "Seward Drag strip on the Arenzville road" and the 1970s "Beardstown Drag Strip" are the same place ◐; the founder, the exact site and the closing year are unknown; the Garlits match race was announced, and we have no report of the result ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> daily newspaper (*Jacksonville Daily Journal*, Jacksonville, Ill.): a Beardstown correspondent's column, sports notes and display ads, 1967–72, read as scanned page OCR; one encyclopedia entry for background · **Last verified:** 2026-10-22 (Round 20) · **Open issues:** whether the 1967 "Seward Drag strip on the Arenzville road" and the 1970s "Beardstown Drag Strip" are the same place ◐; the founder, the exact site and the closing year are unknown; the Garlits match race was announced, and we have no report of the result ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Beardstown is getting back to reinforcing its reputation as Fun Capital on Sundays."

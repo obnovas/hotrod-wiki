@@ -53,7 +53,7 @@ canonical_for: []
 *Fuel injectors, factory racing and aluminum noses, told by the people who made them*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** quoted interviews and obituaries we opened · **Last verified:** 2026-10-14 (Round 9) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** quoted interviews and obituaries we opened · **Last verified:** 2026-10-14 (Round 9) · [How we rate this](../reference/source-standards.md)
 
 These are first-hand and near-first-hand words from the people behind lakes injection, Lincoln-Mercury racing, Detroit aluminum work and East Coast match racing. Most were told long after the fact, and each quote says when. Full biographies: [Stu Hilborn](../people/stu-hilborn.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Malcolm Durham](../people/malcolm-durham.md), [Logghe Stamping](../companies/logghe-stamping.md).
 

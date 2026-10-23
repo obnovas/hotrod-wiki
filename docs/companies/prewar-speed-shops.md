@@ -58,7 +58,7 @@ canonical_for: []
 *The prewar speed shops: Bell, Lee's, Orr, and Jim White*
 
 !!! abstract "Article record"
-    **Confidence:** Low–Medium · **Source types:** secondary, oral · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** Wight/Wright spelling open · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low · **Source types:** secondary, oral · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** Wight/Wright spelling open · [How we rate this](../reference/source-standards.md)
 
 Dean Batchelor wrote in *The American Hot Rod*: "First there was George Wight, then Lee Chapel, then Karl Orr, and then everyone got into the act."[^hem] Hemmings' Daniel Strohl adds a fourth name Batchelor left out.
 

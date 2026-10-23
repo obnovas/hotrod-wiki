@@ -64,7 +64,7 @@ canonical_for: []
 *Francisco "Fran" Hernandez, Feb 8, 1922 – Jan 5, 2011*
 
 !!! abstract "Article record"
-    **Confidence:** Medium–High · **Source types:** Detroit News obituary (via HAMB), Hemmings, Hot Rod, MMSHOF-style bios · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Hemmings 2005 death date (resolved against Detroit News); "coined Funny Car" is family attribution · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** Detroit News obituary (via HAMB), Hemmings, Hot Rod, MMSHOF-style bios · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Hemmings 2005 death date (resolved against Detroit News); "coined Funny Car" is family attribution · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "His work was everything... Cars, racing—he was just consumed by it. That was his passion."

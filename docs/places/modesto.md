@@ -49,7 +49,7 @@ canonical_for:
 *10th Street and McHenry Avenue, 1950s–1993*
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times Feb & Mar 1990), city ordinance record (Stanislaus County Library), historical marker (HMdb), museum page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ ban year (1990 ordinance vs 1993 "banned") · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times Feb & Mar 1990), city ordinance record (Stanislaus County Library), historical marker (HMdb), museum page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ ban year (1990 ordinance vs 1993 "banned") · [How we rate this](../reference/source-standards.md)
 
 *American Graffiti* (1973) was set in a 1962 version of Modesto, which the LA Times describes as "a small valley town of about 30,000," though most of the film was shot elsewhere.[^lat90]
 

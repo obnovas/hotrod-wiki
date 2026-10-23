@@ -37,7 +37,7 @@ canonical_for: []
 *The 1980s*
 
 !!! abstract "Article record"
-    **Confidence:** Low–Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** Origin article unidentified · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** Origin article unidentified · [How we rate this](../reference/source-standards.md)
 
 "I don't ever recall a Pro Stocker having a supercharger on it."[^hr] That is Scott Sullivan, pushing back on the common description of Pro Street as an NHRA Pro Stocker for the street.
 
