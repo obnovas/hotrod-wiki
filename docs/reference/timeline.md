@@ -161,7 +161,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1963 | Harvey Crane of Hallandale, Fla., files his non-rotatable tappet patent (Mar 13; issued Oct 29), citing Isky's 1958 patent | [Crane Cams](../companies/crane-cams.md), [Patents](patents.md) |
 | 1963 | Fox Valley Rod and Custom Association's 2nd annual free car show, Valley Fair mall, Appleton (July 19–21) | [Road Deacons & Gas-Ketts](../drag-racing/fox-valley-road-deacons-gas-ketts.md) |
 | 1963 ◐ | Cameron's Accelerators are offered the Wohleb farm for a strip | [Cameron Accelerators](../drag-racing/cameron-accelerators.md) |
-| 1963 | Forsyth County Dragway, Cumming, Ga., advertises a $600 Super Stock race with both Platts' Chevys (Sept 1); Yellow River advertises "COLORED DRIVERS ONLY" Sundays (Aug) | [Cumming](../drag-racing/cumming-dragway.md), [Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) |
+| 1963 | Forsyth County Dragway, Cumming, Ga., advertises an $800 Super Stock race with both Platts' Chevys (Sept 1); Yellow River advertises "COLORED DRIVERS ONLY" Sundays (Aug) | [Cumming](../drag-racing/cumming-dragway.md), [Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) |
 | 1963 | Phoenix International Raceway announced with a drag strip (July); ground broken for a dragway on the Salt River Indian Reservation (Aug) | [Phoenix's West Side](../drag-racing/phoenix-west-side-karbs-litchfield-road.md) |
 | 1964 | Al Bergler's Aggravation II wins first Ridler Award, Detroit Autorama | [Al Bergler](../people/al-bergler.md) |
 | 1964–67 ⚠ | Mr. Gasket founded or incorporated | [Mr. Gasket](../companies/mr-gasket.md) |

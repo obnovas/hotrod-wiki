@@ -44,7 +44,7 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 
 ## Next breadcrumbs (Round 23-East)
 - **Fairburn:** *Atlanta Daily World* 1964–66; Fulton County deeds for the skyport and the Houston brothers; the Duke Motor Club in Macon papers; Charlie Scott's NASCAR starts.
-- **Cumming:** Lamar Sexton and Pete Robinson as builders (Dilbeck); the 1968 "grand opening"; when racing stopped (1973–79); how the airstrip fight ended after 1988.
+- **Cumming:** Lamar Sexton and Pete Robinson, Cumming members of the Atlanta Drag Strip Association in 1964 (their role at the strip is unknown); the 1968 "grand opening"; when racing stopped (1973–79); how the airstrip fight ended after 1988.
 - **New England:** the Hurri-Cain's "Sinair, Canada" win (Sanair, Que.?); Sanford, Maine, papers for the airport drags; Orange, Mass., and Laconia, N.H., airport races; Beverly Airport's Sunday mornings.
 - **Hope:** the strip's first race day and operators; Haynesville, La.; the *Monroe Morning World* hit of Sept. 6, 1958, for Louisiana strips beyond Harmon Raceway.
 - **Still untried in the region:** Kentucky and Florida (beyond Garlits) open archives; the Carolinas once DigitalNC answers; Calhoun's Paradise Drag Strip; the *Cumberland Evening Times*; York papers for 1961.
