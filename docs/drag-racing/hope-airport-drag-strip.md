@@ -67,7 +67,7 @@ canonical_for: []
 
 In April 1966 the Sunday races at Hope, Ark., fell on Easter. The strip ran a notice in the *Hope Star*: "Due To Our Drag Race Falling On Easter Sunday The Races Will Not Be Held At Hope Drag Strip This Sunday." Instead it suggested church, and promised racing again on the 24th.[^hs660408]
 
-Getting to that notice had taken four years.
+The paper's trail from the 1962 meetings to that notice has a four-year gap.
 
 ## A meeting at Collier's Garage (1962–64)
 
