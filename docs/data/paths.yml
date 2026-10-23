@@ -10,6 +10,8 @@ paths:
     steps:
       - page: drag-racing/modesto-century-toppers.md
         why: "Start in 1946: a club, a chicken coop and the Highway Patrol, before there was anywhere legal to run."
+      - page: drag-racing/sanford-cain-bannister.md
+        why: "Meanwhile in New England: dawn races on an airport runway, then barricades for the pilots at Sanford, Maine."
       - page: drag-racing/pomona-choppers-fontana.md
         why: "One answer that worked: police backing a club strip."
       - page: drag-racing/palm-springs-timing-association.md
@@ -46,12 +48,16 @@ paths:
         why: "A Georgia strip opens in 1959; in 1969 a funny car goes into the crowd, and a state licensing law follows that spring."
       - page: drag-racing/georgia-clubs-hy-winders-ridge-runners.md
         why: "Georgia clubs set out to build their own strips, and a Perry editor says the grown-ups won't."
+      - page: drag-racing/cumming-dragway.md
+        why: "A Georgia strip from 1963 that ran the other way: racing first, then planes, and a county lawsuit in 1984."
       - page: drag-racing/sedalia-big-sir.md
         why: "Into the 1960s: an eleven-year chase for one strip."
       - page: drag-racing/pocono-strips.md
         why: "Where could a Pocono hot rodder race? A flood levee, Wind Gap, Bear Creek."
       - page: drag-racing/semo-malden-drag-strip.md
         why: "An old air base becomes a regional strip that draws Memphis racers."
+      - page: drag-racing/hope-airport-drag-strip.md
+        why: "In Arkansas, a garage meeting in 1962 leads to races on the town airport, until an FAA approach rule ends them in 1968."
       - page: drag-racing/red-bluff-schafer-oil-special.md
         why: "By 1969 a Northern California family races on a Redding airport runway that a club runs as a strip."
       - page: drag-racing/kk-sports-arena-kaukauna.md

@@ -43,13 +43,17 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Northeast overview.** [Midwest & East Threads](midwest-east.md).
 
+**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md).
+
 **Pennsylvania.** [The Ridge Runners of Stroudsburg](../drag-racing/stroudsburg-ridge-runners.md) · [Where Could a Pocono Hot Rodder Race?](../drag-racing/pocono-strips.md) · [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md) · [Leonard Miller](../voices/leonard-miller.md) · [Hurst-Campbell](../companies/hurst-campbell.md).
 
 **New York, New Jersey and Delaware.** [The Kingston Igniters](../drag-racing/kingston-igniters.md) · ["Opinions Differ on Hot Rods" (Buffalo)](../drag-racing/new-york-towns-panel-1957.md) · [Tear Gas on the Runways (Pennsauken)](../drag-racing/pennsauken-central-airport-1958.md) · [The Recreation Directors' Drag Strip Debate](../drag-racing/recreation-1957-pro-and-con.md).
 
 **Maryland.** [The Clockers of Cumberland](../drag-racing/cumberland-clockers.md).
 
-**Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md).
+**Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md).
+
+**Arkansas.** [Church First, Then the Drags: the Hope Drag Strip](../drag-racing/hope-airport-drag-strip.md).
 
 **Tennessee and the Mid-South.** [Memphis and the Mid-South](memphis.md) · [Summer Avenue, Memphis](summer-avenue-memphis.md) · [Ray Godman and Preston Davis](../voices/ray-godman.md).
 

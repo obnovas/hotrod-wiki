@@ -100,7 +100,7 @@ The strip outlasted the decade. In October 1970 the strip was still holding "a b
 
 Malden fits the pattern of the old-airfield strips: a town that suddenly owned a lot of empty concrete, and a civic club willing to take the insurance risk. Compare [Akron's Fulton Airport](akron-fulton-airport.md), [Cotati](marin-cotati-strips.md) and the [Pocono strips](pocono-strips.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
-*See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md).
+*See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md) and, in southwest Arkansas, [the Hope Drag Strip on the municipal airport](hope-airport-drag-strip.md).
 
 ## Open questions & disputed details
 
