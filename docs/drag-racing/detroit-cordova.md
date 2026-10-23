@@ -87,11 +87,11 @@ There is also period evidence for the World Series' early years. Chilton's *Moto
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Other accounts give **1956** (Bartel's 2009 newspaper interview, as summarized in 2017) or **1953** (IRG). See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series) for the full biography and the date conflict. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was the first World Series?** Competition Plus says 1954, at George Field;[^cp] other accounts give **1956** (Bartel's 2009 newspaper interview, as summarized in 2017) or **1953** (IRG). See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Opening-year conflict:** the Clinton Herald says Cordova was "built in 1955."[^ch] Competition Plus gives an opening in Labor Day 1956.[^cp] A forum poster's recollection that the race moved there in 1955 is unsourced.[^svt] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Did Cordova open in 1955 or 1956?** The Clinton Herald says Cordova was "built in 1955."[^ch] Competition Plus gives an opening in Labor Day 1956.[^cp] A forum poster's recollection that the race moved there in 1955 is unsourced.[^svt] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Closing:** "end of 1997" (Detroit Dragway heritage site) vs "1998" (News-Herald, 2011).[^dd][^nh] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Did Detroit Dragway close in 1997 or 1998?** The Detroit Dragway heritage site says the "end of 1997"; the *News-Herald* (2011) says 1998.[^dd][^nh] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Which two years did Postoian win?** BangShift, the Michigan Motor Sports Hall of Fame and a 1964 Dixon, Ill., newspaper preview all say 1957 and 1958.[^bs] But a June 1958 preview in the same paper called him the winner of "the last two years," which read literally means 1956 and 1957. The sources and the details are on [Setto Postoian](../people/setto-postoian.md#q-4). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

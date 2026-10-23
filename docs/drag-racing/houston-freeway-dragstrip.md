@@ -123,19 +123,19 @@ As for the closing, a Yellow Bullet forum recollection says it came at the end o
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Club chronology is enthusiast-compiled.*[^hfd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Is the club chronology reliable?** It is enthusiast-compiled on the track's history site.[^hfd] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Who gave the land?** That the Fingers Furniture family donated the land comes only from the local history site.[^hfd] Lead: Harris County deed records for 1957. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Quoted on the history site; Chronicle PDF not yet read here.*[^hfd] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **What did the 1959 *Chronicle Magazine* say?** We know it only as quoted on the history site; we have not read the PDF.[^hfd] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** NHRA's Phil Burgess says instead that Don's **parents, Carl and Marie Gay**, owners of **Gay Pontiac** on the Gulf Highway in Dickinson, bought "nearby Freeway Drag Strip, which they rechristened **Houston Drag Raceway**."[^hfd] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Don Gay or his parents?** Our local source says **Don Gay** bought the track in **1960**; NHRA's Phil Burgess says his **parents, Carl and Marie Gay** of Gay Pontiac, bought it and renamed it **Houston Drag Raceway**.[^hfd][^snow] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When was the 200-mph pass?** It is dated variously to Aug. 17, 1968, or 1969.[^snow] The three dates and their sources are on [Gene Snow](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *Disputed historiography; flag, do not assert as NHRA-recognized first 200.*[^hfd] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Did Chatagnier run 200 in 1960?** Local historians and Standard 1320 researchers argue so, under the *Drag News* rules of the day;[^hfd] NHRA does not recognize it, so we flag it and do not assert it. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Disputed.** We prefer **1987** as the working date, marked single-sourced to forum memory until a Chronicle closing notice is found.[^yb][^hfd] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Disputed.** **When did the strip close?** A Yellow Bullet forum recollection says the end of **1987**; other secondary text says "unknown date."[^yb][^hfd] We use 1987 as a working date until a *Chronicle* closing notice turns up. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 ## Images
 

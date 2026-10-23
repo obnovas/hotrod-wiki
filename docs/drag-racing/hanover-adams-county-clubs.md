@@ -88,11 +88,11 @@ This is the small-town East in miniature. There is no strip yet, only a borrowed
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The OCR gives the club's name as the "Taneytown Flaming Carte"; with carburetors on the jacket, "Flaming Carbs" is almost certainly right, and the headline reads "CARBS CHOOSE COLORS."*[^gt590227] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Flaming Carbs?** The OCR gives the club's name as the "Taneytown Flaming Carte"; with carburetors on the jacket, "Flaming Carbs" is almost certainly right, and the headline reads "CARBS CHOOSE COLORS."[^gt590227] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *A garbled line says the club was "under the auspices of the National ... Hanover Hot Rod Club"; the words in between are lost.*[^gt590306] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Under whose auspices?** A garbled line says the club was "under the auspices of the National... Hanover Hot Rod Club"; the words in between are lost.[^gt590306] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** *Two presidents in three weeks.* It could be a change of officers, two reports about different people, or two groups using the same name. One version is about roadside good deeds and a clean record; the other is about racing at an airport. Both were probably true of most clubs in 1959.[^gt590326] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Two presidents in three weeks?** It could be a change of officers, two reports about different people, or two groups using the same name.[^gt590306][^gt590326] One version is about roadside good deeds and a clean record; the other is about racing at an airport. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>
 

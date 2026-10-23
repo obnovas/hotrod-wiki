@@ -91,7 +91,7 @@ In 1962 the Celtics' ad asked readers to support the local club at the strip. Fo
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Ted Fowler was an officer of the Orchids in 1956 and a member of the Plugs in 1957, which suggests one club under two names; the paper never says so. Whether the 1962 Celtics continued either club is unknown.*[^cn571113] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Were the Orchids and the Plugs one club?** Ted Fowler was an officer of the Orchids in 1956 and a member of the Plugs in 1957, which suggests one club under two names; the paper never says so. Whether the 1962 Celtics continued either club is unknown.[^cn571113] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 

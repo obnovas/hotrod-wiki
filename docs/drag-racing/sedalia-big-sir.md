@@ -110,7 +110,7 @@ In January 1970, Hart's look back at the year ranked it as a top story of a diff
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** A 1959 AP feature names a Lee Dorrell, Kansas City policeman, as the association's president, which fits, though neither source says outright that the two are the same man.[^ap59] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Is Sedalia's Lee Dorrell the Kansas City one?** The 1969 *Democrat* calls Dorrell an organizer of the 1955 Kansas City strip.[^sd690723] A 1959 AP feature names a Lee Dorrell, Kansas City policeman, as the association's president, which fits, though neither source says outright that the two are the same man.[^ap59] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who, and when?** The January 1970 review calls the promoter "George O. Weatherly Jr." and puts the planned finale in September;[^sd700118] the 1969 stories list George O. Weatherly as president and George O. Weatherly Jr. as a vice president then in Vietnam,[^sd690723] and give Oct. 3–5.[^sd690722] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

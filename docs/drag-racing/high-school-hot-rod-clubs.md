@@ -112,7 +112,7 @@ The school clubs show up in the same years as the town clubs the police and plan
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Years as the scan reads them.*[^sher] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **A Hot Rod Club at Sherman by 1953?** The year marks are as the scan of the 1956 yearbook reads them.[^sher] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **How common were the clubs?** An Internet Archive search turns up the phrase in yearbooks from Massachusetts to Texas and Michigan, but we opened only the yearbooks cited here, so we won't put a number on it.[^search] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

@@ -90,15 +90,15 @@ For the clubs across the state line in Adams County, Pa., see [Petitions, Jacket
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The 1958 notice says only that members "raced at Lancaster, Pa." We have not identified the strip. (The 1961 Lancaster "Drag-o-Rama" was a car show, so it does not help.)*[^cn581006][^cn581027] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Which Lancaster strip?** The 1958 notice says only that members "raced at Lancaster, Pa." We have not identified the strip. (The 1961 Lancaster "Drag-o-Rama" was a car show, so it does not help.)[^cn581006][^cn581027] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** *The Oct. 27, 1958, paper lists a "Clockers meeting" in the YMCA's program and, a few columns away, says "The Hot Rod Club of Cumberland" will meet at the Central YMCA at 7:30 that evening. They are probably the same club under a description and a name, but the paper does not say so.*[^cn581027] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** **Clockers or the Hot Rod Club of Cumberland?** The Oct. 27, 1958, paper lists a "Clockers meeting" in the YMCA's program and, a few columns away, says "The Hot Rod Club of Cumberland" will meet at the Central YMCA at 7:30 that evening. They are probably the same club under a description and a name, but the paper does not say so.[^cn581027] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Spoerl's run and the 163 mph strip mark come from the club notice of May 4, 1961. We have not found York results for that weekend or his second attempt.*[^cn610504] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Spoerl beat 163 mph?** Spoerl's run and the 163 mph strip mark come from the club notice of May 4, 1961. We have not found York results for that weekend or his second attempt.[^cn610504] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Open question.** *The page scan prints the Winchester club's name as "Sio-Mo-Shuns"; the first word may be "Slo." A Winchester paper would settle the spelling.*[^cn610330] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Open question.** **Sio-Mo-Shuns or Slo-Mo-Shuns?** The page scan prints the Winchester club's name as "Sio-Mo-Shuns"; the first word may be "Slo." A Winchester paper would settle the spelling.[^cn610330] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Open question.** *The 1962 go-kart ad is the last Clockers item we have found. We do not know whether the club went on drag racing or how long it lasted.*[^cn620630] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Open question.** **What became of the Clockers?** The 1962 go-kart ad is the last Clockers item we have found. We do not know whether the club went on drag racing or how long it lasted.[^cn620630] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>
 

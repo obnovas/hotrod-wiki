@@ -82,7 +82,7 @@ The Fox Valley clubs did what the [Sedalia Drag-Ons](sedalia-drag-ons.md) and th
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The scan is too garbled to quote.*[^pc651017] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **What did the 1965 Road Deacons story say?** The scan is too garbled to quote beyond the headline.[^pc651017] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 

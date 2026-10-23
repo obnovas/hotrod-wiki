@@ -134,7 +134,7 @@ The story had traveled even earlier. Kansas City's results were already being qu
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Both items are Pond's retelling of newspaper pieces.*[^pond] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did the Barons really refuse the $5?** Both roadside stories are Pond's retelling of newspaper pieces we have not found.[^pond] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 
@@ -147,11 +147,11 @@ The story had traveled even earlier. Kansas City's results were already being qu
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **How long was the strip?** Pond's 1956 account gives 3,850 feet;[^pond] the 1959 AP feature gives 4,850 feet.[^ap59] One figure may be a typo. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Opening day.** Pond dates it July 17, 1955, with "more than 200 hot rodders and 18,000 paid spectators";[^pond] the 1959 AP feature says July 15, with 18,000 people and "some 200 racers."[^ap59] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **July 15 or 17, 1955?** Pond dates it July 17, 1955, with "more than 200 hot rodders and 18,000 paid spectators";[^pond] the 1959 AP feature says July 15, with 18,000 people and "some 200 racers."[^ap59] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** "First in Missouri" is the paper's claim, not something we have checked. See [The Big S.I.R.](sedalia-big-sir.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **The first strip in Missouri?** That is the 1969 *Democrat*'s claim about Dorrell's project, not something we have checked.[^sd69] See [The Big S.I.R.](sedalia-big-sir.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *These are Behr's figures as reported; they are not in Pond's article, and we have not found their original source. Pond's own claim was stronger and less exact ("no more hot rodding on the streets").*[^ij56] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Where did the 75-to-100 calls figure come from?** These are Behr's figures as reported; they are not in Pond's article, and we have not found their original source. Pond's own claim was stronger and less exact ("no more hot rodding on the streets").[^ij56] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>
 

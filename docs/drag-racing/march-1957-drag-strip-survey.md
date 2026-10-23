@@ -103,7 +103,7 @@ As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Denver's clubs build Continental Divide?** The Strippers' and Denver Timing Association's part in building the 1959 strip rests on one club member's 2001 recollection.[^strip] Lead: the *Denver Post* or *Rocky Mountain News* on the strip's 1959 opening. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **One wire story's claim.** Until a Denver paper turns up, treat "county-built strip near Denver, 1957" as the UPI report's claim alone.[^mmt] Lead: the *Denver Post* and *Rocky Mountain News*, early 1957. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Was there a county-built strip near Denver in 1957?** Until a Denver paper turns up, that rests on the UPI report alone.[^mmt] Lead: the *Denver Post* and *Rocky Mountain News*, early 1957. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Did we read it right?** The whole page rests on one United Press story, read only in scrambled OCR of the *Medford Mail Tribune*, so we quote only phrases that read cleanly.[^mmt] Lead: a cleaner printing of the same wire story in another paper. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

@@ -105,9 +105,9 @@ The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Event-publicity claim, echoed by NHRA's 2017 Vanke obituary (see [Arlen Vanke](../people/arlen-vanke.md)); we have no NHRA sanction list to check it.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The first NHRA strip east of the Mississippi?** OnAllCylinders' event-publicity claim is echoed by NHRA's 2017 Vanke obituary (see [Arlen Vanke](../people/arlen-vanke.md)); we have no NHRA sanction list to check it.[^oac] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Figures as given in the 2016 report; not checked against FIA lists this round.*[^oac] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Are the Arfons speeds right?** The 413, 434 and 576.553 mph figures are as given in the 2016 report; we have not checked them against FIA lists.[^oac] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **A championship or a class win?** The historical marker calls his 1959 win "the National Hot Rod Association's 1959 championship,"[^hmdb] while NHRA's own account says he won Middle Eliminator at the Nationals in Detroit.[^nhra] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

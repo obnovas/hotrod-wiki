@@ -102,13 +102,13 @@ The strip lasted only three summers. The museum's page ends the story in one sen
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Open question.** That ATAA line matters beyond Ames. Elsewhere in this wiki, the [ATAA](half-day-ataa-maremont.md) is said to have been "absorbed" by the NHRA in 1957 ([Bob Bartel](../people/bob-bartel.md)), and that claim is single-source ◐. Yet an ATAA ad ran in Ames in August 1957, and the club was still citing ATAA rules in June 1958. Both can be true if the strips kept running under the old rules after the merger, but neither page settles it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** **Was the ATAA still running after 1957?** That ATAA line matters beyond Ames. Elsewhere in this wiki, the [ATAA](half-day-ataa-maremont.md) is said to have been "absorbed" by the NHRA in 1957 ([Bob Bartel](../people/bob-bartel.md)), and that claim is single-source. Yet an ATAA ad ran in Ames in August 1957, and the club was still citing ATAA rules in June 1958. Both can be true if the strips kept running under the old rules after the merger, but neither page settles it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Was there a grandstand?** *The Iowan* says, "There are no grandstands or bleachers." The Ames History Museum says the strip "featured a grandstand," along with pits, the starting tower and a concession stand run by Helen Overland.[^iowan][^ahs] One may describe a later season; we don't know which. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Whose land was it?** *The Iowan* calls the site D. Armstrong's property but also says it was "owned by Bud Overland"; the museum says the land belonged to Armstrong and to Bud and Gunner Overland.[^iowan][^ahs] A county plat or deed for 1957–59 would settle it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** We have not dated the Des Moines strip from a primary source.[^ahs][^iowan] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Was Ames Iowa's first quarter-mile strip?** The museum says so;[^ahs] Lambert himself told *The Iowan* about a permanent strip at Des Moines.[^iowan] We have not dated the Des Moines strip from a primary source. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Why did it close?** Only the Ames History Museum says Bud Overland lost interest after his best friend and his brother died in car accidents, and that the strip closed after the summer of 1959.[^ahs] Lead: the *Ames Tribune* for 1959–60. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

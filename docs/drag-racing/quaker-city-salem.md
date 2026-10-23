@@ -108,9 +108,9 @@ Quaker City is still running. Norm Fox bought it (in 2011 per the track,[^qcmp] 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1957 or 1958?** The Mosseys, the track and the 2016 story all say 1957,[^yest][^sn2016][^qcmp] and a 1964 season preview said the strip would be "in operation for the eighth straight year," which also counts from 1957.[^sn640501] But in 1977 the track announced its "20th year of racing," and said it would "begin its third decade" that May, which counts from 1958.[^sn770510][^sn770405] We read all 248 digitized 1957 issues of *The Salem News* and found no mention of the strip (the one 1957 drag strip item, a proposal turned down at Lisbon that May, is not about it); the first we found is from mid-1958. That doesn't prove 1958 (a small first season could easily go unreported), but it is why the date stays flagged. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We have not worked out who Nell Mossey was. A 1958 county tax list pairs "Mossey, Nellie & Richard."*[^sn580327] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Who was Nell Mossey?** We have not worked out who Nell Mossey was. A 1958 county tax list pairs "Mossey, Nellie & Richard."[^sn580327][^sn581203] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *The spelling is the paper's; we have not found Vanke's own account of that night.*[^sn640814] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Vanke race at Salem that night?** The spelling is the paper's; we have not found Vanke's own account of that night.[^sn640814] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>
 
@@ -120,7 +120,7 @@ The 1992 history makes a big claim: that E.T. (bracket) racing "began at Quaker 
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **2010 or 2011?** The track's own history says Norm Fox bought it in 2011;[^qcmp] *Drag Illustrated* says 2010, a date we have seen only in a search summary.[^di] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** *The story doesn't say who proposed the Lisbon strip or where it would have gone, and nothing ties it to the Mosseys. It is the only 1957 drag strip item we have found in the paper.*[^sn570524] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Who proposed the Lisbon strip?** The story doesn't say who proposed the Lisbon strip or where it would have gone, and nothing ties it to the Mosseys. It is the only 1957 drag strip item we have found in the paper.[^sn570524] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>
 

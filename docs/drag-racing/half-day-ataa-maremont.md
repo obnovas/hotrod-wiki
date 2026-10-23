@@ -122,15 +122,15 @@ The safety pitch did not settle the argument. In March 1957, a wire survey on dr
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The strip's early history.** The 1952 opening on a Glenview satellite field, the ATAA's first races on April 6, 1952, the shutdown the next year and the credit to Andy Granatelli all come from NHRA's 2023 primer, which summarizes Mel Bayshore's strip list.[^nhra] We have not seen Bayshore's list or a 1952 report; the Granatelli credit appears nowhere else we have read. Lead: the *Chicago Tribune* for spring 1952. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did the ATAA race at Half Day in 1952?** The 1952 opening on a Glenview satellite field, the ATAA's first races on April 6, 1952, the shutdown the next year and the credit to Andy Granatelli all come from NHRA's 2023 primer, which summarizes Mel Bayshore's strip list.[^nhra] We have not seen Bayshore's list or a 1952 report; the Granatelli credit appears nowhere else we have read. Lead: the *Chicago Tribune* for spring 1952. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **1952 or 1953?** *Motor Age* (June 1955) says "the non-profit ATAA was founded in 1952 by Maremont Automotive Products, Inc."[^ma] The NHRA primer dates the first races to April 6, 1952.[^nhra] The 1954 wire feature says 1953.[^esc] [Bob Bartel's](../people/bob-bartel.md) tribute dates his first ATAA races to 1953.[^bart] A plausible reconciliation is a 1952 start with a 1953 formal incorporation or main season, but no source says that. We keep 1952 for the first races and flag the association date. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did these men endorse the ATAA?** Their names come from the ATAA's own news release as printed in *Traffic Digest and Review*, so the endorsement is the sponsor's claim.[^tdr] Lead: the National Safety Council's own publications for 1954. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The two scans differ on the invitation count (26 vs 28; both OCR), and both repeat Maremont.*[^esc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **26 or 28 invitations?** The two scans differ on the invitation count (both OCR), and both repeat Maremont.[^sm][^esc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** The numbers grow as the story is retold, from 140 competitors to "more than 200" and from 1,500 spectators to 2,000. We cannot tell which is right. The earliest and most detailed account says 140 and 1,500.[^sm][^esc][^tdr][^pc][^ma] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **How big was St. Charles?** The numbers grow as the story is retold, from 140 competitors to "more than 200" and from 1,500 spectators to 2,000. We cannot tell which is right. The earliest and most detailed account says 140 and 1,500.[^sm][^esc][^tdr][^pc][^ma] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 | Source | Competitors | Spectators |
 |---|---|---|
@@ -140,7 +140,7 @@ The safety pitch did not settle the argument. In March 1957, a wire survey on dr
 | *Motor Age*, June 1955 | "200 entries" | 2,000 |
 
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** By mid-1955 *Motor Age* says ATAA chapters existed in places as scattered as Corpus Christi, Texas, Washington, D.C., and Puyallup, Wash. (printed "Payallupe"), and that the ATAA published its own paper, *The Dragster*.[^ma] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **ATAA chapters from Texas to Washington?** By mid-1955 *Motor Age*, a sponsor's piece, says ATAA chapters existed in Corpus Christi, Washington, D.C., and Puyallup, Wash. (printed "Payallupe"), and that the ATAA published its own paper, *The Dragster*.[^ma] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Was the first World Series in 1954?** The June 1955 *Motor Age* article is our only period evidence, and it is a sponsor's piece; it matches the Bartel tribute's 1954 against the "1956" and "1953" dates elsewhere.[^ma][^bart] We still lack a program or an ad. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 

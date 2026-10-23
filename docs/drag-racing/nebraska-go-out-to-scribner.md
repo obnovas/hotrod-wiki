@@ -109,7 +109,7 @@ By 1968 Omaha had a dragway of its own, and Jim Davis, "longtime president of th
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The 1956 story calls Bill Smith only a "local hot rod parts dealer." He is very probably Speedway Motors' founder, whose shop sponsored the Eccentrics' ad that October, but the paper does not name his store. The Seamark count is hard to read in the scan.*[^ls560420] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Was the parts dealer Speedway's Bill Smith?** The 1956 story calls Bill Smith only a "local hot rod parts dealer." He is very probably Speedway Motors' founder, whose shop sponsored the Eccentrics' ad that October, but the paper does not name his store. The Seamark count is hard to read in the scan.[^ls560420] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 

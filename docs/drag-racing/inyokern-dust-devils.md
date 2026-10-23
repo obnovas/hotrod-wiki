@@ -105,7 +105,7 @@ The town still tells the story. In April 2025 the Historical Society of the Uppe
 
 Ganahl assumed the LA Times story came "just after this last meet," so he may have dated the closure too early. We have not found the FAA order or a club record to settle it. The 2005 event's name, "Standard 1320," also appears in our [Doris Herbert article](../people/doris-herbert.md) (the 1960 record list). We found no source that connects the two. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** We found that nickname claim only there.[^sb] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Partridge give Garlits the "Big Daddy" nickname?** We found that claim only in Partridge's *San Bernardino Sun* obituary.[^sb] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 [^lat]: Andrew H. Malcolm, "Finish Line Comes Early," Los Angeles Times, Oct 10, 2005. https://www.latimes.com/archives/la-xpm-2005-oct-10-me-dragstrip10-story.html (accessed 2026-10-15)
 [^pg]: Pat Ganahl, "Last Drag at Inyokern," Pat Ganahl's Rod and Custom, Feb 7, 2022. https://patganahl.com/2022/02/07/last-drag-at-inyokern/ (accessed 2026-10-15)

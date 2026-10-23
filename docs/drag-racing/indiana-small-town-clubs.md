@@ -100,7 +100,7 @@ The local items (the Decatur notices, the Syracuse profile) are short, unsigned 
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **What became of the Road Runners?** After the February 1957 car wash notice we found no item about the club.[^d0201] Whether they raced, built a strip or faded is unknown. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** This is an automaker's public relations column. It does not say when or where in Detroit the club met, and we have not found a Detroit paper confirming Tomlinson. It is useful here because Greencastle readers saw it. For Detroit's own scene see [Detroit Dragway & Cordova](detroit-cordova.md) and [Woodward](../places/woodward.md). <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Tomlinson's Detroit club exist?** This is an automaker's public relations column. It does not say when or where in Detroit the club met, and we have not found a Detroit paper confirming Tomlinson. It is useful here because Greencastle readers saw it. For Detroit's own scene see [Detroit Dragway & Cordova](detroit-cordova.md) and [Woodward](../places/woodward.md).[^d58] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 [^banner]: "Margaret Latrobe" [name as OCR reads], book column on Margaret O. Hyde, *Driving Today and Tomorrow*, *The Daily Banner* (Greencastle, Ind.), Dec 9, 1954, p. 5. https://newspapers.library.in.gov/?a=d&d=TDB19541209-01.1.5 (accessed 2026-10-15)
 [^dcdd53]: "Safety Second" (UP), *Decatur Daily Democrat*, Mar 12, 1953, p. 10. https://newspapers.library.in.gov/?a=d&d=DCDD19530312.1.10 (accessed 2026-10-15)

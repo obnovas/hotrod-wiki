@@ -82,7 +82,7 @@ The magazine never picked a winner. Even the con side made room for the 1955 pla
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *We have not found the club's own records.*[^irs] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How long did Wilmington Automotive Activities last?** An IRS list still carried it in 1985;[^irs] we have not found the club's own records. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^rec]: "Would You Rather Have a Picnic?" (pro and con on drag strips), *Recreation* (National Recreation Association), vol. 50, no. 6, June 1957, pp. 210–211. https://archive.org/details/sim_recreation_1957-06_50_6 (accessed 2026-10-16)
 [^mit]: Class notes (death of Harcourt C. "Ace" Vernon, Wilmington, Del., July 3, 1978), *MIT Technology Review*, November 1978. https://archive.org/details/MIT-Technology-Review-1978-11 (accessed 2026-10-16)

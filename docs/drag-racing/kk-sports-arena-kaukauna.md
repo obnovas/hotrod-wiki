@@ -89,15 +89,15 @@ The Fox Valley's strip came the way many Midwestern strips did. The clubs asked 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *That was the paper's claim. Great Lakes Dragaway at Union Grove was holding its eighth annual national meet that very week, per a story on the same page.*[^pc640529] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The second strip in Wisconsin?** That was the paper's claim. Great Lakes Dragaway at Union Grove was holding its eighth annual national meet that very week, per a story on the same page.[^pc640529] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We have not found a report of that day.*[^pc640919] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **What happened at the 1964 promotion day?** The arena's ad promised it;[^pc640919] we have not found a report of that day. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *The name of the sponsoring association is lost in the scan; it ends "...Association."*[^pc660604] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Which association sponsored the 1966 opening?** The name of the sponsoring association is lost in the scan; it ends "...Association."[^pc660604] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *The report doesn't say whose land it was.*[^pc650325] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Whose land was it?** The report doesn't say whose land it was.[^pc650325] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *The 1968 feature also makes Van Daalwyk president of events at Great Lakes Dragaway in Union Grove, but the columns are interleaved there and the 1970 reports don't mention it. We have not confirmed that link.*[^pc700719] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Did Van Daalwyk run Union Grove's events too?** The 1968 feature also makes Van Daalwyk president of events at Great Lakes Dragaway in Union Grove, but the columns are interleaved there and the 1970 reports don't mention it. We have not confirmed that link.[^pc700719] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>
 

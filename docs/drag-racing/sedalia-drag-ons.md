@@ -116,7 +116,7 @@ The 1964 officers were Rennison (president), Gary Hayden (vice president), Denni
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** That was the club's talking point, not a statistic the paper checked.[^sd570605] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Never a death on a sanctioned strip?** That was the club's talking point in 1957, not a statistic the paper checked.[^sd570605] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** Where did the half-fine rule come from? No source says any club got it from another. It may have come from a common model, such as NHRA's club materials, but we haven't found that model.[^sd641115] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
