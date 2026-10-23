@@ -57,7 +57,7 @@ canonical_for: []
 *A bomber base, a bo-weevil and a missing Sun Records story*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town newspaper race results (1962), club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15); Bootheel section added 2026-10-21 (Round 19); Kingfish, Lunati and Rodders additions 2026-10-22 (Round 20) · **Open issues:** Halls start year ⚠; Two-Lane Blacktop at Lakeland ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town newspaper race results (1962), club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15); Bootheel section added 2026-10-21 (Round 19); Kingfish, Lunati and Rodders additions 2026-10-22 (Round 20) · **Open issues:** Halls start year ⚠; September 1955 meet result ◐; Two-Lane Blacktop at Lakeland ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I became interested in drag racing in 1953 just as it was starting to come on. … I got in touch with Wally at Hot Rod to offer my help."
@@ -68,7 +68,7 @@ canonical_for: []
 
 The drags ran at an abandoned WWII air base at **Halls, Tennessee**, about 70 miles from the city.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-The biggest day there was the **September 1955 NHRA Drag Safari meet**: 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
+The biggest day there was the **September 1955 NHRA Drag Safari meet**: 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
 
 ## Ray Godman and Lakeland Dragway (1960–79)
 
@@ -106,7 +106,7 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did they start?** 1953 (NHRA-related account) vs 1955 (Memphis Tech High history).[^mth][^sema] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** Other summaries credit Godman & Dyer with Top Eliminator, and we have not settled which is right.[^mth] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Who won the September 1955 meet?** Only SEMA News, citing *Hot Rod* (Dec 1955), gives the result: Bob James of the Dallas Custom Racing Team over the Godman & Dyer A/MR Model T.[^sema] An earlier draft said other summaries gave Godman & Dyer Top Eliminator. Neither the Memphis Tech High page (read in its 2024 Wayback copy) nor the BangShift obituary says so, so we have dropped that. The Tech High page has Godman and Dyer winning their *class* at the 1955 Great Bend Nationals, a different event.[^mth][^bs] We still want the *Hot Rod* report itself. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have this from secondary sources only.[^dm][^tl] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
@@ -142,7 +142,7 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 - [carnut.com Memphis Nationals photos](https://www.carnut.com/show/nats75/memind.html)
 
 [^mr]: Memphis Rodders, club history. http://www.memphisrodders.com/
-[^mth]: Memphis Tech High School history site, "Ray Godman." https://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html
+[^mth]: Memphis Tech High School history site, "Raymond Godman: Stock Car Racer." The original page (https://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html) returns 404; read in the Wayback Machine copy of Aug 15, 2024: https://web.archive.org/web/20240815160737/http://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html (accessed 2026-10-22)
 [^sema]: SEMA News, "Drag Racing, Memphis Style" (June 2024; citing Hot Rod, Dec 1955). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style
 [^dm]: Daily Memphian, "Sundays were for racing at Lakeland International." https://dailymemphian.com/article/52861/lakeland-international-raceway-drag-racing-the-lake-district
 [^tl]: Memphis Rodders, "Two-Lane Memories." http://memphisrodders.com/files/dc0cc7ae4bcfcaca80f74cf5a4b24ce3-12.html
