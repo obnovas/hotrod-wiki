@@ -91,7 +91,7 @@ Hart died on **June 25, 2004**. NHRA, the Orange County Register, the NYT, AP an
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Single source (the Hall of Fame biography); we have not found a period report.*[^mshf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did the Marines run them off?** The bayonet story comes only from the Hall of Fame biography; we have not found a period report.[^mshf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **June 25 or June 26, 2004?** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise give June 25 for Hart's death, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26), and MSHF gives June 26. We follow the majority; a death record would settle it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
