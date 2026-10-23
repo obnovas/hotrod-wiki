@@ -53,6 +53,7 @@ related:
 - drag-racing/sedalia-big-sir.md
 - drag-racing/kingston-igniters.md
 - drag-racing/pocono-strips.md
+- eras/1950s-santa-ana-drags.md
 canonical_for: []
 ---
 # "Hey! Anybody Got a Drag Strip?" Marin County and the Cotati Strip (1955–64)

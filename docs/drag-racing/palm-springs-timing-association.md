@@ -46,6 +46,7 @@ related:
 - drag-racing/inyokern-dust-devils.md
 - drag-racing/marin-cotati-strips.md
 - drag-racing/planners-report-1955.md
+- eras/1950s-santa-ana-drags.md
 canonical_for: []
 ---
 # Not a Police Dragnet: the Palm Springs Stockers and the Timing Association That Waited for a Strip (Palm Springs, Calif., 1951–59)

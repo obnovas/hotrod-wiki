@@ -37,6 +37,7 @@ related:
 - drag-racing/kansas-city-timing-association.md
 - drag-racing/pomona-choppers-fontana.md
 - drag-racing/march-1957-drag-strip-survey.md
+- places/dragging-main.md
 canonical_for: []
 ---
 # "Would You Rather Have a Picnic?" The Recreation Directors' Drag Strip Debate (June 1957)

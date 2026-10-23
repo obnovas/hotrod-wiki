@@ -37,6 +37,7 @@ related:
 - drag-racing/marin-cotati-strips.md
 - drag-racing/semo-malden-drag-strip.md
 - drag-racing/akron-fulton-airport.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # Tear Gas on the Runways: Pennsauken's Central Airport, May 1958

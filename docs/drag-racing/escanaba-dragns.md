@@ -40,6 +40,7 @@ related:
 - drag-racing/half-day-ataa-maremont.md
 - drag-racing/indiana-small-town-clubs.md
 - drag-racing/kansas-city-timing-association.md
+- places/twin-falls-main-avenue.md
 canonical_for: []
 ---
 # The Cop and the Auto Shop: Escanaba's Drag-n's, 1954–55

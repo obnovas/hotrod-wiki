@@ -49,6 +49,7 @@ related:
 - places/van-nuys.md
 - places/cruising-overview.md
 - places/summer-avenue-memphis.md
+- drag-racing/high-school-hot-rod-clubs.md
 canonical_for: []
 ---
 # Dragging Main: The Small-Town Loop, in the Kids' Own Words (1950s–1980s)

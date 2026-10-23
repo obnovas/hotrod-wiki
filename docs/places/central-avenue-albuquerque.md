@@ -36,6 +36,7 @@ related:
 - places/dragging-main.md
 - places/modesto.md
 - places/woodward-ordinances.md
+- drag-racing/high-school-hot-rod-clubs.md
 canonical_for: []
 ---
 # Central Avenue, Albuquerque

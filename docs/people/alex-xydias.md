@@ -37,6 +37,7 @@ related:
 - people/dick-wells.md
 - people/kong-jackson.md
 - people/ed-iskenderian.md
+- companies/prewar-speed-shops.md
 canonical_for: []
 ---
 # Alex Xydias: Hanging Out the So-Cal Shingle

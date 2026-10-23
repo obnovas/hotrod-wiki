@@ -53,6 +53,7 @@ related:
 - drag-racing/pocono-strips.md
 - drag-racing/stroudsburg-ridge-runners.md
 - drag-racing/georgia-clubs-hy-winders-ridge-runners.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # Courtesy Cards and a Rail Job: The Clockers of Cumberland, Md. (1958–62)

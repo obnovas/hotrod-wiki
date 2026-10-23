@@ -35,6 +35,7 @@ related:
 - drag-racing/planners-report-1955.md
 - drag-racing/recreation-1957-pro-and-con.md
 - drag-racing/hanover-adams-county-clubs.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # "Opinions Differ on Hot Rods": A Sheriff, a Police Chief and a Safety Man in Buffalo (February 1957)

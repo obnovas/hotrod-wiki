@@ -33,6 +33,7 @@ related:
 - places/whittier-blvd.md
 - places/cruising-overview.md
 - places/harveys-broiler-downey.md
+- eras/1970s-street-rod-nationals.md
 canonical_for: []
 location: "Van Nuys Blvd, Los Angeles. McCloskey gives \"a 3-mile stretch from Ventura Boulevard to about Sherman Way,\" while Hot Rod (1981) describes police closing \"two miles.\"[^cnn][^hr81]"
 peak: "mid-1950s to 1970s, with Wednesday \"club nights.\""

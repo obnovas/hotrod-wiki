@@ -44,6 +44,7 @@ related:
 - drag-racing/escanaba-dragns.md
 - drag-racing/belleville-gear-jammers.md
 - drag-racing/planners-report-1955.md
+- media/show-circuit.md
 canonical_for: []
 ---
 # The Kingston Igniters: Four Years Looking for a Drag Strip (1955–59)

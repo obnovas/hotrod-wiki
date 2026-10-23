@@ -43,6 +43,7 @@ related:
 - drag-racing/sedalia-drag-ons.md
 - drag-racing/stroudsburg-ridge-runners.md
 - drag-racing/kansas-city-timing-association.md
+- places/twin-falls-main-avenue.md
 canonical_for: []
 ---
 # Flares, Tow Chains and a Broken Gasket: the Road Deacons, the Gas-Ketts and the Fox Valley Rod and Custom Association (Appleton, Wis., 1962–68)

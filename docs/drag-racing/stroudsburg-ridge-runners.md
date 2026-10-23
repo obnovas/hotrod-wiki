@@ -45,6 +45,7 @@ related:
 - drag-racing/pocono-strips.md
 - drag-racing/kingston-igniters.md
 - drag-racing/march-1957-drag-strip-survey.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # The Ridge Runners of Stroudsburg: A Club Court, a Work Detail and a Strip They Offered to Buy (1957–64)

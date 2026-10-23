@@ -39,6 +39,7 @@ related:
 - drag-racing/semo-malden-drag-strip.md
 - drag-racing/ames-drag-strip-nightcrawlers.md
 - drag-racing/kk-sports-arena-hospitality-bankruptcy.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # A Strip in a Ravine: the Fox Valley's Drag Strip Hunt and the KK Sports Arena (Appleton–Kaukauna, Wis., 1960–68)

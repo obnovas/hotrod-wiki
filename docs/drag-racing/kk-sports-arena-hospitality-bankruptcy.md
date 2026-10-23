@@ -50,6 +50,7 @@ related:
 - drag-racing/kk-sports-arena-kaukauna.md
 - drag-racing/fox-valley-road-deacons-gas-ketts.md
 - drag-racing/semo-malden-drag-strip.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # The Hospitality Drag Strip: KK Sports Arena's Big Years and Bankruptcy (Kaukauna, Wis., 1966–70)

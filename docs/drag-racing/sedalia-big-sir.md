@@ -46,6 +46,7 @@ related:
 - drag-racing/kansas-city-timing-association.md
 - drag-racing/belleville-gear-jammers.md
 - drag-racing/ames-drag-strip-nightcrawlers.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # The Big S.I.R.: Sedalia's Eleven-Year Drag Strip Chase (1958–70)

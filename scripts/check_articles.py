@@ -88,6 +88,9 @@ def main():
         for k in meta:
             if k not in KNOWN:
                 E(f"unknown field '{k}' (see docs/reference/article-schema.md)")
+        rel_l = [str(r) for r in meta.get("related") or []]
+        if rel_l and all(r.split("/")[0] == rel.split("/")[0] for r in rel_l):
+            warns.append(f"{rel}: every `related` page is in {rel.split('/')[0]}/; add at least one from another department")
         eras_l = [str(e) for e in meta.get("eras") or []]
         if eras_l and not meta.get("era"):
             dec = sorted(int(e[:4]) for e in eras_l if e[:4].isdigit())

@@ -48,6 +48,7 @@ related:
 - drag-racing/great-bend-srca.md
 - drag-racing/escanaba-dragns.md
 - drag-racing/stroudsburg-ridge-runners.md
+- places/twin-falls-main-avenue.md
 canonical_for: []
 ---
 # The Sedalia Drag-Ons: Courtesy Cards, Half Fines and a Truck for a Boys' Ranch (1957–64)

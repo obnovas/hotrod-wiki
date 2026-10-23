@@ -42,6 +42,7 @@ related:
 - drag-racing/kingston-igniters.md
 - drag-racing/indiana-small-town-clubs.md
 - drag-racing/pennsauken-central-airport-1958.md
+- places/midwest-east.md
 canonical_for: []
 ---
 # Petitions, Jackets and a No-Ticket Rule: Hot Rod Clubs Around Gettysburg and Hanover (1956–59)

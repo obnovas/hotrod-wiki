@@ -52,6 +52,7 @@ related:
 - drag-racing/hanover-adams-county-clubs.md
 - drag-racing/yellow-river-covington.md
 - drag-racing/high-school-hot-rod-clubs.md
+- places/texas.md
 canonical_for: []
 ---
 # Who Builds the Strip? Hot Rod Clubs and an Editor in Three Georgia Towns (1957–64)

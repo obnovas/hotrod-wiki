@@ -43,6 +43,7 @@ related:
 - places/bobs-big-boy-river-road.md
 - places/harveys-broiler-downey.md
 - places/whittier-blvd.md
+- drag-racing/pomona-choppers-fontana.md
 canonical_for: []
 ---
 # Cruising & Hangouts: Overview

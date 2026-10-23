@@ -51,6 +51,7 @@ related:
 - drag-racing/kansas-city-timing-association.md
 - drag-racing/escanaba-dragns.md
 - drag-racing/indiana-small-town-clubs.md
+- media/street-rod-newspaper-serial.md
 canonical_for: []
 ---
 # What the City Planners Wrote (1955): Hot Rod Clubs in Small-Town America
