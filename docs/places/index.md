@@ -9,6 +9,7 @@ Hot rodding wasn't only a SoCal export, and it didn't happen only on strips. Thi
 **Regional scenes** are the places that built their own way of doing it, on abandoned airfields, through volunteer councils and with fairground shows.
 
 - [Regional scenes: the map of regional pages](regional-scenes.md)
+- [The Story Map](../reference/story-map.md): every town in the archive on one map of the U.S., filtered by era and region.
 - [Midwest & East Threads](midwest-east.md)
 - [The Ohio Gassers](ohio-gassers.md): Cleveland, Dayton, Columbus and Mansfield door-slammers.
 - [Memphis & the Mid-South](memphis.md)

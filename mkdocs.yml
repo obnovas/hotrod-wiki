@@ -23,8 +23,8 @@ theme:
       primary: custom
       accent: custom
       toggle: {icon: material/weather-sunny, name: "Daylight"}
-extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/editorial.css, stylesheets/flow.css, stylesheets/quick-answers.css, stylesheets/print.css]
-extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js, javascripts/connections.js]
+extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/editorial.css, stylesheets/flow.css, stylesheets/quick-answers.css, stylesheets/storymap.css, stylesheets/print.css]
+extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js, javascripts/connections.js, javascripts/storymap.js]
 extra:
   issues_url: https://github.com/obnovas/hotrod-wiki/issues/new
   feedback_url: https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml
@@ -35,6 +35,7 @@ extra:
     - {label: Eras, url: eras/}
     - {label: People, url: people/}
     - {label: Places, url: places/}
+    - {label: Map, url: reference/story-map/}
     - {label: Voices, url: voices/}
     - {label: Quick answers, url: reference/quick-answers/}
     - {label: Timeline, url: reference/timeline/}
@@ -44,6 +45,7 @@ hooks:
   - hooks/articles_hook.py   # front-matter gate (fails the build), summary standfirst + meta description, first-mention links
   - hooks/connections_hook.py   # Web of influence graph; fails the build on an unsupported edge
   - hooks/quick_answers_hook.py   # Quick Answers page from docs/data/quick_answers.yml; fails the build on a bad answer
+  - hooks/map_hook.py   # Story map page, hr-map.json and "See on the map" links, from docs/data/geo.yml
   - hooks/highlights_hook.py
   - hooks/redirects_hook.py
 markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables, pymdownx.snippets: {base_path: [snippets], check_paths: true}]
@@ -229,6 +231,7 @@ nav:
   - Reference:
       - reference/index.md
       - Quick Answers: reference/quick-answers.md
+      - The Story Map: reference/story-map.md
       - Reading Paths: reference/reading-paths.md
       - Timeline: reference/timeline.md
       - People & Companies Index: reference/index-people-companies.md

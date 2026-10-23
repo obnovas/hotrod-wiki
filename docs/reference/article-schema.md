@@ -36,8 +36,8 @@ canonical_for: []
 | `years` | yes | `[first, last]`: the span the story covers, 1880–2030. |
 | `eras` | yes | Decades the story covers (`1950s`, ...). Each must fall inside `years`. |
 | `region` | yes | One of `West`, `Southwest`, `Midwest`, `South`, `Northeast`, `Northwest`, `National`. Use `National` for stories that span three or more regions or none in particular. |
-| `states`, `cities` | no | Full state names; cities as `'Town, State'`. A single city shows in the story kicker. |
-| `people`, `companies`, `places`, `clubs`, `strips` | no | Names as the article writes them. They drive related-story scoring. |
+| `states`, `cities` | no | Full state names; cities as `'Town, State'`. A single city shows in the story kicker. Every city needs coordinates in `docs/data/geo.yml` (see [Story map coordinates](#story-map-coordinates)); `states` drive the map's state shading. |
+| `people`, `companies`, `places`, `clubs`, `strips` | no | Names as the article writes them. They drive related-story scoring. Every `strips` name needs an entry in `docs/data/geo.yml` (its town, or `not_mapped` with a reason). |
 | `tags` | yes | From the controlled list below. Add a tag to the list in `scripts/articles_lib.py` before using it. |
 | `related` | yes | Paths of other articles (`dept/page.md`). These are always shown first under "Related stories"; the build fills the remaining cards by shared people, companies, clubs, strips, places, tags, era and region. Aim for at least two. |
 | `canonical_for` | no | Keys from `docs/data/canonical.yml` this page is the home of. |
@@ -126,6 +126,23 @@ The registry is `docs/data/canonical.yml`. For each fact it names the page, anch
 Uncertainty is not argued in the middle of the story. The claim stays where it is, with its footnote, and gets a superscript marker (⚠ sources disagree, ◐ single source so far) that jumps to the last section of the page, **Open questions & disputed details**. There each item says what is unsettled and which sources say what, and links back to the story. `scripts/move_unknowns.py` builds the section from inline flags; `scripts/move_unknowns.py --check --all` verifies every marker has its item and every item its marker.
 
 The build checks the pairing: every marker `qr-N` must have its item `q-N` in Open questions and every item its marker, or `check_articles.py` fails with an "orphan open-question" error. When a question is answered, both go: the answer moves into the story with its citations, the [Research Trail](../research-trail.md#resolved) logs it under **Resolved**, and any [Quick answer](quick-answers.md) that flagged it drops its ⚠/◐ (the Quick Answers check fails until it does).
+
+## Story map coordinates
+
+The [Story Map](story-map.md) is drawn from front matter at build time (`hooks/map_hook.py`, `scripts/geo_lib.py`). Its data file is `site/assets/hr-map.json`. Each town in `cities` becomes a pin, and a strip named in `strips` is listed on its town's pin when the story is set in that town. Coordinates live in `docs/data/geo.yml`:
+
+```yaml
+places:
+  'Cumming, Georgia': {lat: 34.2061, lon: -84.1338, precision: town, source: 'Census Gazetteer 2024: Cumming city'}
+strips:
+  Cumming Dragway: {place: 'Cumming, Georgia'}
+not_mapped:
+  'Tijuana, Mexico': outside the United States
+```
+
+- **Sources:** the Census Bureau Gazetteer files, or USGS GNIS for neighborhoods and named features that are not Census places. Both are public domain. `python scripts/geocode_places.py` fills missing towns by exact match and lists the rest. Nothing is typed in from memory.
+- **Precision:** `town` (the Census internal point; the default, also for strips and airports), `county` (when the article names only a county) or `site` (a federal gazetteer feature that is the place itself, or a spot an article gives exactly).
+- **The check:** `check_articles.py` fails when a story page names a city or strip with no entry under `places`, `strips` or `not_mapped`, when an entry has no `source` or is outside the U.S., or when a strip points at a town that isn't under `places`. Hub pages are not checked.
 
 ## Checks to run before pushing
 

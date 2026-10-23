@@ -23,7 +23,7 @@
     <h1 class="hr-headline">{{ (hr.title_html | d(page.title | e)) | safe }}</h1>
     {% if hr.standfirst and kind != "section" %}<p class="hr-deck">{{ hr.standfirst }}</p>{% endif %}
     {% if kind == "story" and hr.minutes %}
-    <p class="hr-meta"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-clock"/></svg>{{ hr.minutes }} min read{% if hr.fn %} · {{ hr.fn }} cited notes{% endif %}{% if hr.oq_count %} · <a href="#open-questions-disputed-details">{{ hr.oq_count }} open question{{ "s" if hr.oq_count != 1 }}</a>{% endif %}{% if hr.series_pos %} · <span class="hr-meta__series">{{ hr.series_pos[0] }} of {{ hr.series_pos[1] }} in {{ hr.series }}</span>{% endif %}</p>
+    <p class="hr-meta"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-clock"/></svg>{{ hr.minutes }} min read{% if hr.fn %} · {{ hr.fn }} cited notes{% endif %}{% if hr.oq_count %} · <a href="#open-questions-disputed-details">{{ hr.oq_count }} open question{{ "s" if hr.oq_count != 1 }}</a>{% endif %}{% if hr.series_pos %} · <span class="hr-meta__series">{{ hr.series_pos[0] }} of {{ hr.series_pos[1] }} in {{ hr.series }}</span>{% endif %}{% if hr.map_url %} · <a class="hr-meta__map" href="{{ hr.map_url }}">See on the map</a>{% endif %}</p>
     {% endif %}
     {% if hr.path and kind == "story" %}{% include "partials/hr-path.html" %}{% endif %}
     {% if rec %}

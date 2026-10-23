@@ -110,6 +110,21 @@
   </section>
   {% endif %}
 
+  {% if hr_map %}
+  <section class="hr-sec hr-mapt" aria-labelledby="hr-mapt-h">
+    <header class="hr-sec__head"><p class="hr-script">Coast to coast</p><h2 id="hr-mapt-h">The story map</h2></header>
+    <a class="hr-mapt__link" href="{{ 'reference/story-map/' | url }}">
+      <span class="hr-mapt__art">{{ hr_map.svg | safe }}</span>
+      <span class="hr-mapt__txt">
+        <strong>Where it happened</strong>
+        <span class="hr-mapt__stats"><span><b>{{ hr_map.pins }}</b>places</span><span><b>{{ hr_map.states }}</b>states</span><span><b>{{ hr_map.stories }}</b>stories</span></span>
+        <p>A pin for every town in the stories, from the dry lakes to Georgia airfields and Montana fairgrounds. Pick a decade and watch the scene spread.</p>
+        <span class="hr-btn hr-btn--solid">Open the map <svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-arrow"/></svg></span>
+      </span>
+    </a>
+  </section>
+  {% endif %}
+
   {% if hr.places %}
   <section class="hr-sec hr-places" aria-labelledby="hr-places-h">
     <header class="hr-sec__head"><p class="hr-script">Take the long way</p><h2 id="hr-places-h">Strips, lots &amp; hometowns</h2></header>

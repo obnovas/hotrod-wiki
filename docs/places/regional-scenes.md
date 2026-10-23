@@ -39,6 +39,8 @@ canonical_for: []
 
 This page points the way only. Each linked page tells its own story and carries its own sources, flags and open questions.
 
+**See it on a map.** The [Story Map](../reference/story-map.md) puts a pin on every town in these pages and shades each state by how many stories touch it. Pick an era to see where the scene was in that decade.
+
 ## East and South
 
 **Northeast overview.** [Midwest & East Threads](midwest-east.md).

@@ -17,6 +17,7 @@ from articles_lib import (DOCS, ROOT, ERAS, REGIONS, TAGS, REQUIRED, LISTS, KNOW
 import quick_answers_lib  # noqa: E402  (shared open-question flag check)
 import move_unknowns  # noqa: E402  (boilerplate open-question items)
 import paths_lib  # noqa: E402  (reading paths, docs/data/paths.yml)
+import geo_lib  # noqa: E402  (story map coordinates, docs/data/geo.yml)
 
 try:
     from markdown.extensions.toc import slugify
@@ -270,6 +271,10 @@ def main():
                 if not links_canon and f.get("snippet") not in snippet_includes(bodies[rel]):
                     errors.append(f"{rel}: tells '{key}' without linking its canonical page {page} (or including snippets/{f.get('snippet')})")
     # reading paths: unique ids, every non-planned step an existing story, planned steps not yet written
+    # story map: every city and strip a story names has coordinates (docs/data/geo.yml)
+    ge, gw = geo_lib.check(metas)
+    errors.extend(ge)
+    warns.extend(gw)
     pe, pw = paths_lib.check(paths_lib.load(), arts)
     errors.extend(pe)
     warns.extend(pw)
