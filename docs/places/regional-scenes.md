@@ -1,6 +1,6 @@
 ---
 title: 'Regional Scenes: Beyond California'
-summary: Hot rodding was not only a SoCal export. Other regions built their own scenes on abandoned airfields, through volunteer councils and at fairground shows.
+summary: A map of the archive's regional pages outside California, grouped by region and state. This page points the way only; each linked page tells its own story and carries its own sources.
 department: places
 eras:
 - 1940s
@@ -14,7 +14,12 @@ years:
 region: National
 states:
 - California
+- Georgia
+- Maryland
+- Nebraska
 - Ohio
+- Pennsylvania
+- Tennessee
 - Texas
 cities: []
 people: []
@@ -24,46 +29,48 @@ clubs: []
 strips: []
 tags:
 - drag-strips
-- airport-strips
+- car-clubs
 related:
-- drag-racing/houston-freeway-dragstrip.md
 - places/midwest-east.md
-- drag-racing/detroit-cordova.md
+- places/memphis.md
+- drag-racing/yellow-river-covington.md
+- drag-racing/cumberland-clockers.md
 - places/ohio-gassers.md
-- drag-racing/akron-fulton-airport.md
+- drag-racing/houston-freeway-dragstrip.md
 canonical_for: []
 ---
 # Regional Scenes: Beyond California
 
-*Other places, other ways of doing it.*
+*A map, not a story: where to read about hot rodding outside California.*
 
-Hot rodding wasn't only a SoCal export. Other regions built their own scenes on abandoned airfields, through volunteer councils and with fairground shows.
+This page points the way only. Each linked page tells its own story and carries its own sources, flags and open questions.
 
-- [Midwest & East Threads](midwest-east.md)
-- [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md)
-- [The Ohio Gassers](ohio-gassers.md): Cleveland, Dayton, Columbus and Mansfield door-slammers; Hassel, Meal, Finders, Schwartz.
-- [Akron Fulton Airport Strip](../drag-racing/akron-fulton-airport.md): 1951 "Champions Raceway," Otie Smith, the Arfons brothers and the 2016 state marker.
-- [Memphis & the Mid-South](memphis.md): Memphis Rodders (1947), Halls airbase drags, Lakeland Dragway, the 1971 Nationals.
-- [Texas](texas.md): Caddo Mills (1951), the Chaparrals, the Fort Worth Turtles.
-- [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md): purpose-built strip on I-45 near Dickinson (1957–<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> 1987).
-- Texas small towns: [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) (Panhandle) and [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) (Central Texas).
-- California beyond the Los Angeles basin: [the Palm Springs Timing Association](../drag-racing/palm-springs-timing-association.md) (the desert) and [the Schafer Oil Special and the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md) (the upper Sacramento Valley).
-- [Pacific Northwest](pacific-northwest.md): MHRC, Portland Roadster Show, Woodburn, Wescott's.
-- [Upper Midwest](upper-midwest.md): MSRA and Back to the 50's.
-- The Plains: ["Go Out to Scribner"](../drag-racing/nebraska-go-out-to-scribner.md) (Lincoln, Neb.) and [Great Bend, Kansas](../drag-racing/great-bend-srca.md).
+## East and South
 
-## How these regions differed from SoCal (summary)
+**Northeast overview.** [Midwest & East Threads](midwest-east.md).
 
-| Region | SoCal had… | They had… |
-|---|---|---|
-| Memphis / Texas | Dry lakes, El Mirador–style surplus airstrips nearby | Distant WWII airbases (Halls, about 70 mi; Caddo Mills); the NHRA Drag Safari as the link to the national scene |
-| Pacific NW | Commercial shows (Petersen) | Volunteer councils (MHRC) running shows and the Woodburn strip |
-| Upper Midwest | Racing-first culture | A street-rod association (MSRA, 1967) that helped found the Nationals itself |
-| Midwest/KS–IA | Original customs | The 1980s lead-sled *revival* (KKOA, Wichita) |
-| Ohio / Illinois | NHRA's California base | An informal gasser circle racing 4–5 nights a week; a rival cash-purse body (ATAA) and its World Series |
+**Pennsylvania.** [The Ridge Runners of Stroudsburg](../drag-racing/stroudsburg-ridge-runners.md) · [Where Could a Pocono Hot Rodder Race?](../drag-racing/pocono-strips.md) · [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md) · [Leonard Miller](../voices/leonard-miller.md) · [Hurst-Campbell](../companies/hurst-campbell.md).
 
-## Open questions & disputed details
+**New York, New Jersey and Delaware.** [The Kingston Igniters](../drag-racing/kingston-igniters.md) · ["Opinions Differ on Hot Rods" (Buffalo)](../drag-racing/new-york-towns-panel-1957.md) · [Tear Gas on the Runways (Pennsauken)](../drag-racing/pennsauken-central-airport-1958.md) · [The Recreation Directors' Drag Strip Debate](../drag-racing/recreation-1957-pro-and-con.md).
 
-*From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
+**Maryland.** [The Clockers of Cumberland](../drag-racing/cumberland-clockers.md).
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was Funny Car's first 200-mph pass?** Aug. 17, 1968, or 1969, depending on the source; see [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md#q-5) and [Gene Snow](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+**Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md).
+
+**Tennessee and the Mid-South.** [Memphis and the Mid-South](memphis.md) · [Summer Avenue, Memphis](summer-avenue-memphis.md) · [Ray Godman and Preston Davis](../voices/ray-godman.md) · [The SEMO Drag Strip at Malden](../drag-racing/semo-malden-drag-strip.md).
+
+## Midwest, Southwest and Northwest
+
+**Ohio.** [The Ohio Gassers](ohio-gassers.md) · [Akron's "Champions Raceway"](../drag-racing/akron-fulton-airport.md) · [Quaker City Drag Strip, Salem](../drag-racing/quaker-city-salem.md).
+
+**Michigan, Indiana and Illinois.** [The Upset at Cordova](../drag-racing/detroit-cordova.md) · [Woodward Avenue](woodward.md) · [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md).
+
+**Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
+
+**Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
+
+**Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md).
+
+**California beyond the Los Angeles basin.** [The Palm Springs Timing Association](../drag-racing/palm-springs-timing-association.md) · [The Schafer Oil Special and the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md).
+
+**Everywhere.** [Dragging Main](dragging-main.md), the small-town loop in the kids' own words.

@@ -83,7 +83,7 @@ A second Fly-Wheels announcement followed. On March 25 the paper announced the o
 
 This is the small-town East in miniature. There is no strip yet, only a borrowed stock-car track, a country airfield and a car wash, and every step needed someone's permission: the neighbors, the Lions, the police. Compare the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md), the [Kingston Igniters](kingston-igniters.md) and the [Indiana small-town clubs](indiana-small-town-clubs.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
-*See also:* [Tear Gas on the Runways](pennsauken-central-airport-1958.md).
+*See also:* [Tear Gas on the Runways](pennsauken-central-airport-1958.md) and, across the Maryland line, [The Clockers of Cumberland](cumberland-clockers.md).
 
 ## Open questions & disputed details
 

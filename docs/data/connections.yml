@@ -92,6 +92,10 @@ nodes:
   - {id: coons,      label: Bud Coons,       type: person,  page: drag-racing/pomona-choppers-fontana.md}
   - {id: palmsprings, label: Palm Springs Timing Assn., type: club, page: drag-racing/palm-springs-timing-association.md}
 
+  - {id: jhughes,    label: Julius Hughes Jr., type: person, page: drag-racing/atlanta-speed-shop-dragway.md}
+  - {id: asshop,     label: Atlanta Speed Shop, type: company, group: garage-born, page: drag-racing/atlanta-speed-shop-dragway.md}
+  - {id: assdragway, label: "Atlanta Speed Shop Dragway (Covington, Ga.)", type: place, page: drag-racing/atlanta-speed-shop-dragway.md}
+  - {id: yellowriver, label: "Yellow River Drag Strip (Covington, Ga.)", type: place, page: drag-racing/yellow-river-covington.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -310,3 +314,12 @@ edges:
      evidence: ["Wells said Kansas City had the nearest sanctioned strip"]}
   - {from: dwells, to: sema, type: employed, label: "SEMA's executive director in the 1970s", page: people/dick-wells.md,
      evidence: ["SEMA's executive director in the 1970s"]}
+  # ----- Round 22-East: Georgia
+  - {from: jhughes, to: asshop, type: founded, label: "Opened the Atlanta Speed Shop in 1960 (family account)", page: drag-racing/atlanta-speed-shop-dragway.md, flag: single-source,
+     evidence: ["officially opened The Atlanta Speed Shop in 1960"]}
+  - {from: asshop, to: assdragway, type: promotion, label: "Newton County strip renamed for the shop, 1964", page: drag-racing/atlanta-speed-shop-dragway.md,
+     evidence: ["The Newton Drag Strip has changed its name to Atlanta Speed Shop Dragway"]}
+  - {from: hurst, to: assdragway, type: promotion, label: "Hemi-Under-Glass booked for exhibition runs, July 1965", page: drag-racing/atlanta-speed-shop-dragway.md,
+     evidence: ["Hurst Hemi-Under-Glass"]}
+  - {from: yellowriver, to: assdragway, type: scene, label: "Legislators toured both Newton County strips after the 1969 crash", page: drag-racing/yellow-river-covington.md,
+     evidence: ["the Atlanta Speed Shop Drag Strip west of Covington"]}

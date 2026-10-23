@@ -112,7 +112,7 @@ Ten years after the Ridge Runners offered to buy a patch of land, the Poconos we
 
 One more trace. In December 1959 *Car Craft* covered the NHRA's first National Champion Custom Car Show in Detroit, held with that year's Labor Day Nationals. Among the displays was a booth "built by Northeastern Pennsylvania Timing Association," with three club members' cars, including Mike Coffee's street rod, plus live models, club trophies and a stereo hi-fi system.[^cc5912] The Ridge Runners had voted to join that association in 1958 (see [the Ridge Runners page](stroudsburg-ridge-runners.md)). The item does not say whether any Monroe County car was in the booth.
 
-*See also:* [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md); [The Kingston Igniters](kingston-igniters.md), another club with no strip; the airfield strips at [Akron](akron-fulton-airport.md) and [Ames](ames-drag-strip-nightcrawlers.md); [Hurst-Campbell](../companies/hurst-campbell.md), the speed-parts company of the Philadelphia suburbs.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+*See also:* [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md); [The Clockers of Cumberland, Md.](cumberland-clockers.md), a club that raced at York; [The Kingston Igniters](kingston-igniters.md), another club with no strip; the airfield strips at [Akron](akron-fulton-airport.md) and [Ames](ames-drag-strip-nightcrawlers.md); [Hurst-Campbell](../companies/hurst-campbell.md), the speed-parts company of the Philadelphia suburbs.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 

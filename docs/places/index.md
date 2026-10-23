@@ -8,10 +8,12 @@ Hot rodding wasn't only a SoCal export, and it didn't happen only on strips. Thi
 
 **Regional scenes** are the places that built their own way of doing it, on abandoned airfields, through volunteer councils and with fairground shows.
 
-- [Regional scenes: how they differed from SoCal](regional-scenes.md)
+- [Regional scenes: the map of regional pages](regional-scenes.md)
 - [Midwest & East Threads](midwest-east.md)
 - [The Ohio Gassers](ohio-gassers.md): Cleveland, Dayton, Columbus and Mansfield door-slammers.
 - [Memphis & the Mid-South](memphis.md)
+- Georgia: [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md), [the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) and [clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) (1957–91).
+- Maryland: [the Clockers of Cumberland](../drag-racing/cumberland-clockers.md) (1958–62).
 - [Texas](texas.md)
 - [Pacific Northwest](pacific-northwest.md)
 - [Upper Midwest](upper-midwest.md)

@@ -276,6 +276,24 @@ themes:
           Wells, asked the safety council for a sanctioned strip.
         link: drag-racing/nebraska-go-out-to-scribner.md
         also: [people/dick-wells.md, drag-racing/kansas-city-timing-association.md]
+      - id: yellow-river-1969
+        q: What happened at the Yellow River Drag Strip in 1969?
+        a: >-
+          On March 2, 1969, a funny car left the Yellow River Drag Strip near Covington, Ga., and went into the
+          crowd. The first reports counted 11 dead and later ones 12 (⚠ see Open questions). Newton County
+          suspended all racing, and that spring Georgia required race track operators to carry insurance.
+        link: drag-racing/yellow-river-covington.md#march-2-1969
+        also: [drag-racing/atlanta-speed-shop-dragway.md, drag-racing/kk-sports-arena-hospitality-bankruptcy.md]
+        flag: drag-racing/yellow-river-covington.md#q-3
+      - id: speed-shop-strip
+        q: Did a speed shop ever run its own drag strip?
+        a: >-
+          In Georgia, yes. Julius Hughes, who opened the Atlanta Speed Shop in 1960, took over the Newton County
+          Drag Strip near Covington in 1964 and renamed it Atlanta Speed Shop Dragway (whether as manager or
+          owner, ⚠ see Open questions). That October it held the Atlanta $10,000 Drag Race.
+        link: drag-racing/atlanta-speed-shop-dragway.md
+        also: [drag-racing/yellow-river-covington.md, companies/hurst-campbell.md]
+        flag: drag-racing/atlanta-speed-shop-dragway.md#q-3
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:

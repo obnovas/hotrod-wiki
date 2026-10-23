@@ -108,7 +108,7 @@ The penalties were specific. "Any member swearing in council meeting shall be fi
 
 The letter's real purpose was a strip, and it is told on [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): she proposed that the Mount Pocono Airport Authority let the club race on its runway and keep the proceeds.
 
-*See also:* [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Tear Gas on the Runways](pennsauken-central-airport-1958.md); [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).
+*See also:* [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), a Georgia club with the same name in [Who Builds the Strip?](georgia-clubs-hy-winders-ridge-runners.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Tear Gas on the Runways](pennsauken-central-airport-1958.md); [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).
 
 ## Open questions & disputed details
 

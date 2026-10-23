@@ -799,3 +799,42 @@ highlights:
     added: '2026-10-22'
     eras: [1950s]
     regions: ['Lincoln, Nebraska']
+
+  - id: perry-editor-build-your-own
+    headline: "\"When are you going to build us a drag strip?\" A Perry, Ga., editor told him to build his own"
+    teaser: In 1960 a young man asked the Houston Home Journal when Perry's grown-ups would build a strip. The editor said that anyone old enough to race was old enough to build one, and promised to print the young man's rebuttal if he signed it.
+    link: drag-racing/georgia-clubs-hy-winders-ridge-runners.md
+    evidence: "if he is old enough to race cars he ought to be old enough to build his own drag strip"
+    source_type: Local news
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Perry, Ga.']
+
+  - id: clockers-courtesy-cards
+    headline: A Cumberland, Md., hot rod club fixed flats on the highway and left a card with its name
+    teaser: The Clockers had 14 members in 1958, and some raced at York, Pa. Members who helped a stranded driver left a courtesy card with the club's and the member's names on it.
+    link: drag-racing/cumberland-clockers.md
+    evidence: "courtesy cards with the club's and member's names on them"
+    source_type: Local news
+    confidence: Low-Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s, 1960s]
+    regions: ['Cumberland, Md.', 'York, Pa.']
+
+  - id: yellow-river-life-ambulance
+    headline: Life filmed Garlits at a Georgia strip in 1960, with a funeral home's ambulance chasing each run
+    teaser: About 4,000 people came to the Yellow River Drag Strip near Covington in May 1960 to see Don Garlits. In 1969 a crash at the same strip led Georgia to require race tracks to carry insurance.
+    link: drag-racing/yellow-river-covington.md
+    evidence: "was followed by the Caldwell and Cowan ambulance in pursuit"
+    source_type: Local news
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Covington, Ga.']

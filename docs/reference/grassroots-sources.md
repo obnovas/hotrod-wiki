@@ -58,6 +58,12 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Monroe Morning World](https://archive.org/details/monroe-morning-world-1967-05-13) (Monroe, La., 1967; scanned OCR) → Harmon Raceway ads billing Joe Lunati as a "3 Time National Champ" → [Joe Lunati](../people/joe-lunati.md).
 - [Rushville Republican](https://archive.org/details/rushville-republican-1971-05-20) (Rushville, Ind., 1971; scanned OCR) → Linda Vaughn, Miss Hurst Golden Shifter, in a small-town bank's auto show parade → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Gettysburg Times](https://archive.org/details/gettysburg-times-1959-03-06) (Gettysburg, Pa., 1956–59; scanned OCR) → village columns on Hanover, Gettysburg and Taneytown clubs, and an AP report of Pennsauken → [Gettysburg & Hanover clubs](../drag-racing/hanover-adams-county-clubs.md), [Pennsauken 1958](../drag-racing/pennsauken-central-airport-1958.md).
+- [The Covington News](https://gahistoricnewspapers.galileo.usg.edu/lccn/sn89053257/1969-03-06/ed-1/seq-1/) (Covington, Ga., 1959–77; page OCR via the Georgia Historic Newspapers search service) → the Yellow River Drag Strip's opening, Garlits and *Life* in 1960, the March 1969 crash coverage, and the Atlanta Speed Shop Dragway in the county-board pages → [Yellow River](../drag-racing/yellow-river-covington.md), [Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md).
+- [Forest Park Free Press and Forest Park News](https://gahistoricnewspapers.galileo.usg.edu/lccn/sn89053527/1957-08-07/ed-1/seq-1/) (Forest Park, Ga., 1957–64; page OCR) → the Hy-Winders Auto Club and its Clayton County strip plan → [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md).
+- [The Summerville News](https://gahistoricnewspapers.galileo.usg.edu/lccn/sn89053933/1964-06-04/ed-1/seq-1/) (Summerville, Ga., 1964 and 1988; page OCR) → the Ridge Runners' meetings, car washes and strip site, and a 1988 profile of a former member → [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md).
+- [Houston Home Journal](https://gahistoricnewspapers.galileo.usg.edu/lccn/sn89053614/1960-10-06/ed-1/seq-6/) (Perry, Ga., 1960; page OCR) → two editorials against a drag strip "for our youngsters" → [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md).
+- Other Georgia papers, one or two items each (page OCR): *Griffin Daily News*, *Jackson Progress-Argus*, *Omega News*, *Oconee Enterprise*, *Athens Banner-Herald*, *Pickens County Progress* (a 2014 Hall of Fame column) and *Walker County Messenger* (a 2019 eyewitness column) → [Yellow River](../drag-racing/yellow-river-covington.md), [Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md).
+- [The Cumberland News](https://archive.org/details/cumberland-news-1961-02-22) (Cumberland, Md., 1958–62; scanned OCR) → the Clockers' meetings, Heart Fund canvass, York trips and go-kart races → [Cumberland Clockers](../drag-racing/cumberland-clockers.md).
 
 ### Obituaries and funeral-home pages
 - [Memphis Funeral Home, Joe Lunati](https://www.dignitymemorial.com/obituaries/memphis-tn/joe-lunati-11461265) (2023, via Dignity Memorial) → the family's birth date and place, the 1969 founding date and title count, both in conflict with other sources ⚠ → [Joe Lunati](../people/joe-lunati.md).
@@ -161,6 +167,15 @@ These hold the period coverage we most want, and none was readable by our fetche
 |---|---|
 | Internet Archive newspaper scans | **Readable.** New runs used: *The Desert Sun* (Palm Springs), *The Lincoln Star* and *Lincoln Evening Journal*, *The Canyon News*, *The Cameron Herald*, *Red Bluff Daily News*, *Hondo Anvil Herald* (Tex.). Adding `collection:newspaperarchive-<paper>` to a full-text query narrows it to one paper; date-range filters still return HTTP 400. Where the OCR was scrambled we read the page image (`/download/<id>/page/n<N>_w2000.jpg`) instead. |
 | Utah Digital Newspapers (HTTP 418), Colorado Historic Newspapers (HTTP 403), Historic Oregon Newspapers (timed out), Library of Congress JSON API (failed) | Not readable this round; one polite attempt each, not bypassed. This left the Mountain West and the 1940s Bonneville years thin. |
+### Round 22-East status
+| Archive | Round 22-East status |
+|---|---|
+| [Georgia Historic Newspapers](https://gahistoricnewspapers.galileo.usg.edu/) | **Readable through its search service**, which returns each page's OCR text; page views ask for an access check, which we did not try to get past. New runs used: *Covington News*, *Forest Park Free Press* and *News*, *Summerville News*, *Houston Home Journal* and several one-item papers. |
+| Internet Archive newspaper scans | **Readable.** New run used: *The Cumberland News* (Md., 1958–62). Few New England or Deep South titles turn up in the full-text index. |
+| [Chronicling America](https://chroniclingamerica.loc.gov/), [NYS Historic Newspapers](https://nyshistoricnewspapers.org/), [Virginia Chronicle](https://virginiachronicle.com/) | Blocked by a Cloudflare challenge. Not bypassed. |
+| [DigitalNC](https://www.digitalnc.org/) | Timed out from our machine and returned HTTP 500 to the fetch tool. |
+| GeorgiaDragRacing.com, Georgia Racing Hall of Fame | Readable; used as family and hall-of-fame accounts, not as local news. |
+| Old Life Magazines (dealer listing) | HTTP 500; search excerpt only, flagged ◐. |
 
 ### Round 21 status
 | Archive | Round 21 status |

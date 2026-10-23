@@ -77,7 +77,7 @@ Kentucky's thread runs through the NSRA. The Kentucky Motorsports Hall of Fame "
 
 Around Detroit the threads are the cars themselves. [Logghe Stamping](../companies/logghe-stamping.md) of Fraser built flip-top Funny Car chassis for Lincoln-Mercury in 1966. [Al Bergler](../people/al-bergler.md) won the first Ridler Award (1964), did Logghe tinwork and campaigned the Motown Shaker. [Malcolm Durham](../people/malcolm-durham.md) went from the East Coast Strip Blazer to a Logghe Camaro.
 
-See also: [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob Bartel](../people/bob-bartel.md), [The Ohio Gassers](ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md).
+See also: [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob Bartel](../people/bob-bartel.md), [The Ohio Gassers](ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md). Farther east and south: [The Clockers of Cumberland, Md.](../drag-racing/cumberland-clockers.md), [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md), [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) and [the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) in Georgia.
 
 ## Open questions & disputed details
 

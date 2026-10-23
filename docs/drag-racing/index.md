@@ -20,6 +20,8 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Headlights on a Pole: Quaker City (Salem, Ohio)](quaker-city-salem.md): a farm-field strip where a pilot landed his plane in 1958, lit with car headlights and later visited by the national names, 1957–77.
 - [A Strip in a Ravine: KK Sports Arena (Kaukauna, Wis.)](kk-sports-arena-kaukauna.md): letters, a county board's "no" and a farmer's ravine, 1960–68.
 - [The Hospitality Drag Strip: KK Sports Arena's big years and bankruptcy (Kaukauna, Wis.)](kk-sports-arena-hospitality-bankruptcy.md): a borrowed clubhouse, a Dodge in the showroom, A. J. Foyt and 96 creditors, 1966–70.
+- [Yellow River Drag Strip (Covington, Ga.)](yellow-river-covington.md): Garlits and a *Life* photographer in 1960, factory match races, and the March 2, 1969, crash that brought Georgia's race track licensing law, 1959–69.
+- [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](atlanta-speed-shop-dragway.md): Julius Hughes's parts store, the NHRA strip he renamed for it and the Atlanta $10,000 Drag Race, 1959–91.
 - [Hog Butcher on Weekdays, Fun Capital on Sundays (Beardstown, Ill.)](beardstown-drag-strip.md): 2,000 on opening day, the Michigan Madman and a Garlits match race, 1967–72.
 - ["Go Out to Scribner" (Lincoln, Neb.)](nebraska-go-out-to-scribner.md): an air base, a highway, a borrowed runway and a timing association asking for a sanctioned strip, 1951–59.
 - ["A Little Town Near the Oregon Border" (Red Bluff and Redding, Calif.)](red-bluff-schafer-oil-special.md): a father-and-son dragster from a valley town, a Bakersfield final and the Shasta Roadsters' airport strip, 1968–71.
@@ -37,6 +39,8 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md): a Pocono club court, a work detail, and a strip the club offered to buy.
 - [The Kingston Igniters](kingston-igniters.md): four years hunting for a Hudson Valley strip, then a motor club.
 - [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md): Hanover, Gettysburg and Taneytown clubs ask permission, 1956–59.
+- [Courtesy Cards and a Rail Job: The Clockers of Cumberland, Md.](cumberland-clockers.md): a YMCA club that raced at York and Lancaster, Pa., and ran go-kart races, 1958–62.
+- [Who Builds the Strip?](georgia-clubs-hy-winders-ridge-runners.md): Forest Park's Hy-Winders, a Perry editor and Summerville's Ridge Runners look for a Georgia strip, 1957–64.
 - [Flares, Tow Chains and a Broken Gasket (Fox Valley, Wis.)](fox-valley-road-deacons-gas-ketts.md): the Road Deacons' roadside help and the Gas-Ketts, the girls' club that organized the valley's car clubs, 1962–68.
 - [Not a Police Dragnet (Palm Springs, Calif.)](palm-springs-timing-association.md): two Pomona policemen, 35 desert youths and an NHRA promise, 1951–59.
 - [Orchids, Plugs and Celtics (Canyon, Tex.)](canyon-orchids-celtics-amarillo.md): three Panhandle clubs, a book club panel, a quarterly safety check and the Amarillo strip, 1956–66.
