@@ -19,7 +19,9 @@
 
 Each entry: **date** · page and question · the answer in one line · the source that settled it (and the reader who sent it, if one did).
 
-*No entries yet under this rule (set 2026-10-22). Earlier rounds kept resolved notes in place on the page, for example the "Resolved" note on [The Ohio Gassers](places/ohio-gassers.md).*
+- **2026-10-22** · [NSRA and the Early Nationals](street-rodding/nsra-early-nationals.md), "Size" of the 1970 Peoria Nationals · Not a real conflict: the sources agree on 600 street rods, and the "about 200" in Rod & Custom counts the drivers in the rally, not the turnout. Folded into the story there and on [Peoria, 1970](eras/1970s-street-rod-nationals.md#the-numbers); the ⚠ also came off `canonical.yml` (peoria-1970-turnout) and its snippet · *Hot Rod*, "Street!" (Oct 1972): the first Nationals "drew 600 rods"; Hagerty (2024), citing MotorTrend; Dick Martin, Rod & Custom (2007).
+
+*Earlier rounds kept resolved notes in place on the page, for example the "Resolved" note on [The Ohio Gassers](places/ohio-gassers.md).*
 
 ## Log, Round 20 (strips a town built for itself: Salem's Quaker City, Kaukauna's KK Arena, Beardstown; the Fox Valley clubs; Malden and Joe Lunati; 2026-10-22)
 - **Reader mail:** no open issues this round (checked on GitHub).

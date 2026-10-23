@@ -74,7 +74,7 @@ By the early 1930s someone was trying to organize it. Bell Auto's George Wight i
 
 ## Enter the stopwatch
 
-The Southern California Timing Association was organized on **November 29, 1937**, to run speed trials on the dry lakes and to set safety guidelines. The mass starts gave way to running against the clock.[^rr][^mojave]
+The Southern California Timing Association was organized on **November 29, 1937**, to run speed trials on the dry lakes and to set safety guidelines. The mass starts gave way to running against the clock.[^rr][^mojave]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Who was in the room is where it gets good.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -104,8 +104,11 @@ Then Muroc was gone. It became restricted and was absorbed into what is now Edwa
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **The first meet has two dates.** The Road Runners' history puts the first official SCTA meet at Muroc on **May 15, 1938**.[^rr] A 2014 StreetMuscle article says **March 15, 1938**.[^sm] The tiebreaker is a 1938 Muroc timing tag in the Jimmy Summers family album that reads "May 15, 1938, Muroc Roadster Races" (94.73 mph, stock V8).[^summers] That is primary-ish physical evidence for May, so **our working conclusion is May 15, 1938.** <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **The founding year.** The Road Runners and the Mojave Project date it to late 1937,[^rr][^mojave] and [Blackie Gold](../voices/blackie-gold.md) also remembered 1937. Kong Jackson, in Tom Medley's 1988 interview as quoted by Fuel Curve, put it a year later: "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other."[^fc] His is a recollection fifty years on, so we keep November 29, 1937; see [Kong Jackson](../people/kong-jackson.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
 **The club lists' sources:** the packet doesn't fully cite "Drake" and "Carrol." Running those books down is on the [Research Trail](../research-trail.md).
 
+[^fc]: Fuel Curve, "'Kong' Jackson – The King of Early Flathead Ignitions" (quoting Medley's 1988 interview in *Tex Smith's Hot Rod History*). https://fuelcurve.com/kong-jackson/ (accessed 2026-10-13)
 [^mojave]: The Mojave Project, "Land Speeding at El Mirage." https://mojaveproject.org/dispatches-item/el-mirage-land-speed/
 [^jj-bell]: Ryan, "The History Of Bell Auto," The Jalopy Journal, May 12, 2010. https://www.jalopyjournal.com/?p=8704
 [^rr]: Road Runners SCTA Est. 1937 (club site). http://www.ussarcherfish.com/roadrunners/

@@ -68,7 +68,7 @@ canonical_for: []
 
 ## From Peoria to an association
 
-Tom Medley recalled that he, Tex Smith, Bud Bryan and Jim "Jake" Jacobs planned the 1970 event, and that the Petersen "7th floor" management said no. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association (MSRA) helped.[^rc] It was held in a hayfield. For more, see [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Tom Medley recalled that he, Tex Smith, Bud Bryan and Jim "Jake" Jacobs planned the 1970 event, and that the Petersen "7th floor" management said no. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association (MSRA) helped.[^rc] It was held in a hayfield, and 600 street rods came;[^hag] about 200 of their drivers ran the rally, and 1970 AMBR winner **Andy Brizio** drove his '23 T there from California.[^rc] For more, see [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md).
 
 The **NSRA** was formed in the event's wake. Dick Wells was its first president; SEMA later hired him (Hagerty).[^hag]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -91,8 +91,6 @@ The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra]
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
-
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Size:** Hagerty says about 600 cars;[^hag] other accounts give much smaller numbers for the cross-country rally. Our 1970 page goes through these. 1970 AMBR winner **Andy Brizio** drove his '23 T to Peoria (R&C sidebar).[^rc] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Dick Wells was its first president; SEMA later hired him (Hagerty). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

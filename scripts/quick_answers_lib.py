@@ -81,54 +81,75 @@ def sentences(t):
     return [s for s in re.split(r"(?<=[.!?])[\"”)]?\s+(?=[A-Z\"“*])", t.strip()) if s]
 
 
-def _check_flag(qid, a, flag, E):
-    if flag == "legend":
-        return
-    marks = set(re.findall(r"[⚠◐]", a))
-    if not marks and flag:
-        E(f"has a flag ({flag}) but no ⚠ or ◐ in the answer; drop the flag or restore the mark")
-        return
-    if marks and not flag:
-        E("carries ⚠/◐ but names no `flag` (the Open questions item it points to)")
-        return
-    if not marks:
-        return
-    if "see Open questions" not in a:
-        E("a flagged answer must say 'see Open questions' after its ⚠/◐")
-    path, frag = split_link(flag)
+def oq_ref_kinds(ref):
+    """Check one Open questions reference (page.md#q-N, or page.md#heading inside its Open questions section).
+    Returns (kinds, errors): kinds is the set of marks the item stands for ({'⚠'}, {'◐'} or both for an open question)."""
+    path, frag = split_link(ref)
     p = DOCS / path
     if not p.exists() or not frag:
-        E(f"flag '{flag}' must be page.md#q-N or page.md#heading in an existing page")
-        return
+        return set(), [f"'{ref}' must be page.md#q-N or page.md#heading in an existing page"]
     md = p.read_text(encoding="utf-8")
     if OQ_H not in md:
-        E(f"flag '{flag}': {path} has no Open questions section any more; the doubt was resolved, so drop the ⚠/◐")
-        return
+        return set(), [f"'{ref}': {path} has no Open questions section any more (resolved?)"]
     oq = md.split(OQ_H, 1)[1]
     oq = re.split(r"^## (?!#)", oq, flags=re.M)[0] if re.search(r"^## ", oq, re.M) else oq
     m = re.match(r"q-(\d+)$", frag)
     if m:
         n = m.group(1)
         if f'id="q-{n}"' not in md:
-            E(f"flag '{flag}': item q-{n} is gone from {path} (resolved?). Drop the ⚠/◐ here and update the answer")
-            return
-        mk = re.search(rf'<sup class="hr-q" id="qr-{n}"><a href="#q-{n}" title="([^"]*)">([⚠◐?]?)', md)
+            return set(), [f"'{ref}': item q-{n} is gone from {path} (resolved?)"]
+        mk = re.search(rf'<sup class="hr-q" id="qr-{n}"><a href="#q-{n}" title="([^"]*)"', md)
         if not mk:
-            E(f"flag '{flag}': the inline marker qr-{n} is gone from {path} (resolved?). Drop the ⚠/◐ here")
-            return
-        for k in marks:
-            if not mk.group(1).startswith(KIND[k]):
-                E(f"flag '{flag}': the answer says {k} but the article marks it '{mk.group(1).split(':')[0]}'")
-    else:
-        hit = None
-        for hm in re.finditer(r"^#{3,6}\s+(.*?)\s*$", oq, re.M):
+            return set(), [f"'{ref}': the inline marker qr-{n} is gone from {path} (resolved?)"]
+        t = mk.group(1)
+        kinds = {k for k, starts in KIND.items() if t.startswith(starts[0])} or ({"⚠", "◐"} if t.startswith("Open question") else set())
+        return kinds, []
+    for hm in re.finditer(r"^#{3,6}\s+(.*?)\s*$", oq, re.M):
+        if frag in anchors(hm.group(0)):
             h = hm.group(1)
-            if frag in anchors(hm.group(0)):
-                hit = h
-        if hit is None:
-            E(f"flag '{flag}': no heading '#{frag}' inside the Open questions section of {path} (resolved?). Drop the ⚠/◐")
-        elif not re.search(r"[⚠◐]|[Dd]isput|[Dd]iscrepanc|[Cc]onflict", hit):
-            E(f"flag '{flag}': the heading '{hit}' no longer marks a dispute; drop the ⚠/◐")
+            kinds = set(re.findall(r"[⚠◐]", h))
+            if re.search(r"[Dd]isput|[Dd]iscrepanc|[Cc]onflict", h):
+                kinds.add("⚠")
+            if re.search(r"[Ss]ingle.source", h):
+                kinds.add("◐")
+            if not kinds:
+                return set(), [f"'{ref}': the heading '{h}' no longer marks a dispute or a single source"]
+            return kinds, []
+    return set(), [f"'{ref}': no heading '#{frag}' inside the Open questions section of {path} (resolved?)"]
+
+
+def flag_errors(marks, refs, what):
+    """Marks (⚠/◐) claimed by `what` must be backed by open items of the same kind, and vice versa."""
+    errs = []
+    refs = [refs] if isinstance(refs, str) else list(refs or [])
+    if not marks and refs:
+        return [f"{what} names open-question items ({', '.join(refs)}) but carries no ⚠ or ◐; drop them or restore the mark"]
+    if marks and not refs:
+        return [f"{what} carries {''.join(sorted(marks))} but names no open-question item it stands on"]
+    covered = set()
+    for r in refs:
+        kinds, e = oq_ref_kinds(r)
+        if e:
+            errs += [f"{what}: {x}. If the question was resolved, drop the ⚠/◐ here and update the text" for x in e]
+            continue
+        if not kinds & marks:
+            errs.append(f"{what}: '{r}' is a {''.join(sorted(kinds))} item, but the text carries {''.join(sorted(marks))}")
+        covered |= kinds
+    if not errs:
+        for k in marks - covered:
+            errs.append(f"{what} carries {k} but none of its items ({', '.join(refs)}) is that kind")
+    return errs
+
+
+def _check_flag(qid, a, flag, E):
+    if flag == "legend":
+        return
+    marks = set(re.findall(r"[⚠◐]", a))
+    refs = [flag] if isinstance(flag, str) else list(flag or [])
+    if marks and a.count("see Open questions") < max(1, len(refs)):
+        E("each flagged ⚠/◐ must say 'see Open questions' (one per flag)")
+    for e in flag_errors(marks, refs, "the answer"):
+        E(e)
 
 
 def validate(data):
@@ -206,8 +227,11 @@ def render(data, here=PAGE):
         out.append(f"\n## {t['title']} {{ #{t['id']} }}\n")
         for q in t.get("questions") or []:
             a = " ".join(str(q["a"]).split())
-            if q.get("flag"):
-                a = a.replace("see Open questions", f"see [Open questions]({rel_href(q['flag'], here)})", 1)
+            fl = q.get("flag")
+            for ref in ([fl] if isinstance(fl, str) else list(fl or [])):
+                if ref != "legend":
+                    a = a.replace("see Open questions", f"see [Open questions]({rel_href(ref, here)})\u200b", 1)
+            a = a.replace("\u200b", "")
             out.append(f"\n### {q['q']} {{ #{q['id']} .hr-qa-q }}\n\n{a}\n")
             more = f"[Full story: {page_title(split_link(q['link'])[0])} →]({rel_href(q['link'], here)})"
             also = [f"[{link_label(l, q['link'])}]({rel_href(l, here)})" for l in (q.get("also") or [])]

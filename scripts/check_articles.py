@@ -14,6 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from articles_lib import (DOCS, ROOT, ERAS, REGIONS, TAGS, REQUIRED, LISTS, KNOWN, DEPARTMENTS,  # noqa: E402
                           articles, split_front, plain, body_prose, load_canonical)
+import quick_answers_lib  # noqa: E402  (shared open-question flag check)
 
 try:
     from markdown.extensions.toc import slugify
@@ -189,6 +190,13 @@ def main():
             errors.append(f"canonical.yml {key}: snippet '{f['snippet']}' missing")
         if key not in (metas[page].get("canonical_for") or []):
             errors.append(f"{page}: should list '{key}' in canonical_for")
+        # flags: the ⚠/◐ in `value` must stand on open items (`oq`) on the canonical page, of the same kind
+        oq = f.get("oq") or []
+        oq = [oq] if isinstance(oq, str) else oq
+        for e in quick_answers_lib.flag_errors(set(re.findall(r"[⚠◐]", str(f.get("value", "")))),
+                                               [r if "#" in r and r.split("#")[0] else f"{page}#{r.lstrip('#')}" for r in oq],
+                                               f"canonical.yml {key}: value"):
+            errors.append(e)
         rx = re.compile(f["detect"]) if f.get("detect") else None
         if not rx:
             continue

@@ -32,7 +32,7 @@ Open questions lists stay clean: they hold only what is still open.
 
 1. **Fold the answer into the story** where the marker sat, with its footnote(s). Keep the reasoning short; if two sources still disagree on a detail, it is not resolved.
 2. **Remove the inline marker** (`<sup class="hr-q" id="qr-N">…</sup>`) **and the item** (`<a id="q-N" …>` and its text) from *Open questions & disputed details*. If that was the last item, remove the section. Do not renumber the other items; their anchors are linked from elsewhere.
-3. **Canonical facts:** if the fact is in `docs/data/canonical.yml`, update its `value` and the snippet in `snippets/`, and the flags on the canonical page.
+3. **Canonical facts:** if the fact is in `docs/data/canonical.yml`, update its `value`, its `oq` list and the snippet in `snippets/`, and the flags on the canonical page. A `value` that carries ⚠ or ◐ must list in `oq` the canonical page's open items behind it (`q-N`, or a ⚠ heading's anchor), each still open and of the same kind; a `value` without one must list none. `check_articles.py` fails on any mismatch, so canonical.yml can't call a fact disputed when its article doesn't, or the other way round.
 4. **Log it** in the **Resolved** list on the Research Trail (`docs/research-trail.md`): date, page and question, the answer in one line, and the source that settled it (with credit to a reader if one sent it).
 5. **Quick answers:** update any answer in `docs/data/quick_answers.yml` that cites it; drop its ⚠/◐, its "see Open questions" and its `flag`.
 
@@ -41,7 +41,7 @@ The build enforces the mechanics: `check_articles.py` fails on an orphan marker 
 ## Quick answers
 [Quick Answers](docs/reference/quick-answers.md) is one page of short answers to the big questions that connect the site's stories. It is generated at build time from `docs/data/quick_answers.yml` by `hooks/quick_answers_hook.py` (using `scripts/quick_answers_lib.py`); each question is an H3 with a stable `id`, so it has its own anchor and its own search entry, and each article whose full story it is lists it under **Quick answers** in its Keep reading area.
 
-- **Fields:** `id` (stable anchor; never rename one that has shipped), `q`, `a` (1-3 plain sentences), `link` (the canonical article, optional `#anchor`), `also` (0-2 related pages), and `flag` when the answer carries ⚠ or ◐ (the article's `page.md#q-N` item, or a ⚠ heading in its Open questions).
+- **Fields:** `id` (stable anchor; never rename one that has shipped), `q`, `a` (1-3 plain sentences), `link` (the canonical article, optional `#anchor`), `also` (0-2 related pages), and `flag` when the answer carries ⚠ or ◐ (the article's `page.md#q-N` item, or a ⚠ heading in its Open questions; a list when the answer has more than one, in the order of its "see Open questions").
 - **Accuracy:** the answer says only what the linked article says, with the same hedges. Every number in it must appear in the `link` article; links and anchors must resolve; a ⚠/◐ must say "see Open questions" and match an item that is still open, of the same kind. `python scripts/check_quick_answers.py` runs the same check as the build (`--list` prints them all).
 - **Nightly rounds:** when a round adds or changes an article that connects context across the site (a new strip in a town already on a Quick answer, a settled date, a new company in a family tree), add or update the Quick answer in the same commit. Aim to keep each theme scannable: roughly 5-15 questions.
 

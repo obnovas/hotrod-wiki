@@ -27,13 +27,13 @@ themes:
       - id: what-was-the-scta
         q: What was the SCTA, and why did it matter?
         a: >-
-          The Southern California Timing Association, organized on November 29, 1937, ran speed trials on the
+          The Southern California Timing Association, organized on November 29, 1937 (Kong Jackson remembered 1938; ⚠ see Open questions), ran speed trials on the
           dry lakes and set safety guidelines, so the mass starts gave way to running against the clock. By
           mid-1938 it had 23 member clubs and 451 members, and one founding Road Runner, Wally Parks, went on
           to found the NHRA in 1951. Even its first meet has two dates, May 15 or March 15, 1938 (⚠ see Open questions).
         link: eras/1930s-dry-lakes-scta.md#enter-the-stopwatch
         also: [eras/1930s-dry-lakes-scta.md#may-or-march, people/veda-orr.md]
-        flag: eras/1930s-dry-lakes-scta.md#q-4
+        flag: [eras/1930s-dry-lakes-scta.md#q-5, eras/1930s-dry-lakes-scta.md#q-4]
       - id: what-was-a-timing-association
         q: What was a timing association?
         a: >-
@@ -98,8 +98,8 @@ themes:
         a: >-
           Because *Rod & Custom*'s Tom Medley picked the Slo-Pokes club of Peoria, Illinois: Peoria "was almost
           the center of the population of the U.S." Petersen's management never approved the event, and the
-          staff went ahead anyway. How many came is harder to pin down: Hagerty, citing MotorTrend, gives 600
-          street rods.
+          staff went ahead anyway. Some 600 street rods came, a count that Hagerty (citing MotorTrend) and *Hot
+          Rod* in 1972 agree on.
         link: eras/1970s-street-rod-nationals.md#why-peoria
         also: [voices/peoria-1970.md, places/upper-midwest.md]
       - id: who-was-the-first-nsra-president
@@ -368,9 +368,10 @@ themes:
         q: How did COMP Cams start?
         a: >-
           In a Memphis basement. In 1967 three local drag racers who liked tinkering with Oldsmobile engines set
-          up Racing Head Service in the basement of Ivars Smiltnieks's house, and it grew into COMP Cams.
+          up Racing Head Service in the basement of Ivars Smiltnieks's house (◐ see Open questions), and it grew into COMP Cams.
         link: companies/comp-cams-rhs.md
         also: [places/memphis.md, companies/crane-cams.md]
+        flag: companies/comp-cams-rhs.md#q-4
       - id: why-did-jegs-open-in-columbus
         q: Why did a Columbus racer open JEGS?
         a: >-

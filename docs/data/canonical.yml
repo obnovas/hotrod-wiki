@@ -5,6 +5,9 @@
 #   snippet  the short shared statement in snippets/, included elsewhere with  --8<-- "<file>"
 #   detect   a regex; any other article whose prose matches it must link to `page` or include the snippet
 #   value    the agreed wording of the disputed numbers or dates (keep the flags on the canonical page)
+#   oq       the canonical page's Open questions items behind each ⚠/◐ in value (q-N, or a ⚠ heading anchor).
+#            Required when value carries ⚠ or ◐, and only then: the build fails if an item is gone (resolved),
+#            is of the other kind, or the value carries a flag the page does not.
 #
 # scripts/check_articles.py enforces this at build time. Edit the snippet, not the copies.
 facts:
@@ -13,7 +16,8 @@ facts:
     anchor: routed-by-bayonets
     snippet: santa-ana-bayonets.md
     detect: "Marines with fixed bayonets|Mile Square"
-    value: "late 1940s; one source (MSHF biography)"
+    value: "late 1940s; one source (MSHF biography) ◐"
+    oq: [q-1]
   muroc-1941-jeeps:
     page: people/kong-jackson.md
     anchor: muroc-1941
@@ -32,6 +36,7 @@ facts:
     snippet: kansas-city-strip-1955.md
     detect: "first drag strip (built )?in Missouri|Chouteau Bridge|Kansas City strip"
     value: "opened July 17, 1955 (Pond) or July 15 (AP) ⚠; 3,850 ft (Pond) or 4,850 ft (AP) ⚠"
+    oq: [q-4, q-3]
   club-fine-rules:
     page: drag-racing/belleville-gear-jammers.md
     anchor: the-club-with-the-half-fine-rule
@@ -44,36 +49,42 @@ facts:
     snippet: joe-lunati-birth.md
     detect: "Lunati (was )?born"
     value: "Memphis, Aug 7, 1935 (family, company) ⚠ vs New Orleans, 1939 (NHRA)"
+    oq: [q-1]
   rhs-founding-1967:
     page: companies/comp-cams-rhs.md
     anchor: ""
     snippet: rhs-founding-1967.md
     detect: "Racing Head Service"
     value: "1967, Smiltnieks basement, Memphis (company history ◐)"
+    oq: [q-4]
   hurst-almquist-1959:
     page: people/ed-almquist.md
     anchor: shifters-shifts-in-the-market
     snippet: hurst-almquist-1959.md
     detect: "Almquist"
     value: "1959 partnership dissolved (Port Jervis paper ◐)"
+    oq: [q-3]
   snow-200-mph:
     page: people/gene-snow.md
     anchor: the-first-200-mph-one-pass-three-dates
     snippet: snow-200-mph.md
     detect: "200\\.88"
     value: "200.88 mph at Dickinson; Aug 17, 1968 (NHRA Top 50) ⚠ vs 1969"
+    oq: [the-first-200-mph-one-pass-three-dates]
   nsra-first-president:
     page: people/dick-wells.md
     anchor: the-street-rod-years-and-the-president-question
     snippet: nsra-first-president.md
     detect: "first (active )?[Pp]resident.{0,60}NSRA|NSRA.{0,80}first (active )?[Pp]resident"
     value: "Wells (four sources) ⚠ vs Miller (99W); open"
+    oq: [q-3]
   ataa-absorbed-1957:
     page: drag-racing/half-day-ataa-maremont.md
     anchor: what-changed-by-1957
     snippet: ataa-absorbed-1957.md
     detect: "absorbed.{0,40}ATAA|ATAA.{0,40}absorbed"
     value: "1957, Bartel tribute only ◐"
+    oq: [q-8]
   garlits-cordova-1957:
     page: drag-racing/detroit-cordova.md
     anchor: 1957-the-garlits-upset
@@ -85,22 +96,25 @@ facts:
     anchor: may-or-march
     snippet: scta-founding.md
     detect: "SCTA (was )?(founded|formed)|formed the SCTA|founding of the SCTA"
-    value: "founded late 1937 (Nov 1937 per Coachbuilt) ⚠ Kong Jackson: 1938; first meet May 15, 1938 (Road Runners) ⚠ March 15 (StreetMuscle)"
+    value: "founded Nov 29, 1937 ⚠ Kong Jackson: 1938; first meet May 15, 1938 (Road Runners) ⚠ March 15 (StreetMuscle)"
+    oq: [q-5, q-4]
   hooker-to-holley:
     page: companies/hooker-headers.md
     anchor: what-it-became
     snippet: hooker-to-holley.md
     detect: "Hooker.{0,80}(Holley brand|owned by Holley|Holley since)|Holley.{0,60}Hooker \\(2000"
     value: "2000 (Holley) ⚠ vs the 1990s (Pennsylvania marker)"
+    oq: [q-4]
   modesto-cruise-ban:
     page: places/modesto.md
     anchor: policing
     snippet: modesto-cruise-ban.md
     detect: "Modesto.{0,120}(ban|ordinance)"
     value: "Mar 27, 1990 ⚠ marker says 1993"
+    oq: [q-1]
   peoria-1970-turnout:
     page: eras/1970s-street-rod-nationals.md
     anchor: the-numbers
     snippet: peoria-1970-turnout.md
     detect: "600 (street rods|cars)"
-    value: "Aug 14–16, 1970; 600 street rods (Hagerty citing MotorTrend), other accounts smaller ⚠"
+    value: "Aug 14–16, 1970; 600 street rods (Hagerty citing MotorTrend; Hot Rod, Oct 1972); the ~200 in R&C counts rally drivers"

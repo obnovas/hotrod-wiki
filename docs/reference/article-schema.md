@@ -89,7 +89,7 @@ When more than one article tells the same fact or story, one article is its **ca
 
 Snippets live in `snippets/` at the repository root. Each is one paragraph, has no footnotes and ends with a "Full story:" link to the canonical anchor. **To correct a shared fact, edit the canonical page and its snippet, not the copies.**
 
-The registry is `docs/data/canonical.yml`. For each fact it names the page, anchor, snippet, the agreed value (with its flags), and a `detect` pattern. The build fails if the page, anchor or snippet is missing, if the canonical page does not list the key in `canonical_for`, or if any other article matches `detect` without linking the canonical page or including the snippet.
+The registry is `docs/data/canonical.yml`. For each fact it names the page, anchor, snippet, the agreed value (with its flags), and a `detect` pattern. The build fails if the page, anchor or snippet is missing, if the canonical page does not list the key in `canonical_for`, or if any other article matches `detect` without linking the canonical page or including the snippet. The flags must match too: a `value` with ⚠ or ◐ lists in `oq` the canonical page's Open questions items behind it, and the build fails if one is gone, is of the other kind, or if the value carries a flag the page does not.
 
 | Key | Canonical page | Snippet | Agreed value |
 |---|---|---|---|

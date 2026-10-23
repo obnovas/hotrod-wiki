@@ -73,7 +73,7 @@ That Best Car call is still a puzzle; see [Midwest & East Threads](../places/mid
 
 ## The numbers
 
-How many came is harder to pin down. Hagerty, citing MotorTrend, gives **August 14–16, 1970** and **600 street rods**. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] We checked those figures on Hagerty's page, but they are still secondary. The NSRA's founding date is not yet confirmed from an NSRA source.
+The count holds up. Hagerty, citing MotorTrend, gives **August 14–16, 1970** and **600 street rods**. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] We checked those figures on Hagerty's page. *Hot Rod* gave the same count two years after the event: the first Nationals "drew 600 rods and a couple of thousand surprised and delighted" fans.[^hr72] The figure of about 200 in Rod & Custom's account counts the drivers in the rally, not the whole turnout.[^rc] The NSRA's founding date is not yet confirmed from an NSRA source.
 
 *See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md).
 
@@ -95,4 +95,5 @@ How many came is harder to pin down. Hagerty, citing MotorTrend, gives **August 
 - [Peoria Magazine, "Hot Rods & Cool Cruisin'" (1970 photos)](https://www.peoriamagazine.com/archive/as_article/hot-rods-cool-cruisin/)
 
 [^rc]: Dick Martin, "1st Street Rod Nationals – The Road to Peoria," Rod & Custom, Aug 7, 2007 (web). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals
+[^hr72]: "Street!", *Hot Rod*, October 1972 (web). https://www.hotrod.com/features/street-october-1972-982-698-120-1 (accessed 2026-10-22)
 [^nsra]: Wikipedia, "National Street Rod Association." https://en.wikipedia.org/wiki/National_Street_Rod_Association ; Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals." https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/
