@@ -199,6 +199,9 @@ def main():
                 E("the record has no **Confidence:** label")
             elif not re.fullmatch(r"(High|Medium|Low)( \([^()]*\))?", cm.group(1).strip()):
                 E(f"confidence '{cm.group(1).strip()}' must be High, Medium or Low (a note may follow in parentheses)")
+            if cm and cm.group(1).strip().startswith("High"):
+                for fn in re.findall(r"^\[\^([\w-]+)\]:.*search (?:excerpt|summary|snippet)", body, re.M | re.I):
+                    E(f"High-confidence page cites [^{fn}] from a search excerpt; read the page itself or lower the confidence")
         story = body.split("## Open questions & disputed details")[0]
         if rec:
             story = story.replace(rec.group(0), "")

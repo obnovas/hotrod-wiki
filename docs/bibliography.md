@@ -88,7 +88,7 @@ Sources actually consulted (Round 1). Type tags: **[club]** club or primary, **[
 
 ## Added in Round 3
 - [oral] Dave Wallace, "Who Started The Camgrinder Wars? – Part 1," Hot Rod, 2014 (1994 interviews). https://www.hotrod.com/news/who-started-the-camgrinder-wars-part-1
-- [mag] Dave Wallace, Drag Rags 1959 Part 2; 1959 Garlits; 1960 (Competition Plus, search excerpts). https://competitionplus.com/drag-rags-1959-part-2-how-the-smokers-beat-the-fuel-ban/ ; https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/ ; https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/
+- [mag] Dave Wallace, Drag Rags 1959 Part 2; 1959 Garlits; 1960 (Competition Plus; read 2026-10-22). https://competitionplus.com/drag-rags-1959-part-2-how-the-smokers-beat-the-fuel-ban/ ; https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/ ; https://competitionplus.com/drag-rags-of-1960-tragedy-popcorn-speeds-and-a-camshaft-rivalry/
 - [obit] NHRA, Hagerty, Car and Driver, SEMA, Legacy.com: Ed Iskenderian obituaries, Feb 2026 (URLs on the [Iskenderian](people/ed-iskenderian.md) page).
 - [obit] C.J. Hart obituaries (NHRA, OC Register, NYT, AP, Press-Enterprise, Richard Parks), compiled at wediditforlove.com. http://wediditforlove.com/cj-2.html
 - [obit] Shav Glick, LA Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html

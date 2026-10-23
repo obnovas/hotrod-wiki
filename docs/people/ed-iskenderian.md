@@ -85,4 +85,4 @@ His last interview, in a nursing home south of LA in September 2025, ended with 
 [^sema]: SEMA News, "SEMA and PRI Mourn the Loss of Industry Icon Ed 'Isky' Iskenderian, 104." https://www.sema.org/news-media/enews/2026/06/sema-and-pri-mourn-loss-industry-icon-ed-isky-iskenderian-104
 [^leg]: Legacy.com, "Ed Iskenderian Obituary." https://www.legacy.com/legacy/notable-deaths/ed-iskenderian
 [^summers]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
-[^cp59g]: Dave Wallace, "Drag Rags: 1959 – Garlits Goes from Zero to Hero," Competition Plus (search excerpt). https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/
+[^cp59g]: Dave Wallace, "Drag Rags: 1959 – Garlits Goes from Zero to Hero," Competition Plus, Mar 31, 2019. https://competitionplus.com/drag-rags-1959-garlits-goes-from-zero-to-hero-turns-pro/ (accessed 2026-10-22)
