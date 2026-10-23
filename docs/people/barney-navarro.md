@@ -83,7 +83,7 @@ He died **August 20, 2007**, his 88th birthday. His patterns went to Mike Herman
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The first Weiand intake?** That Navarro's '39 Tudor ran the first intake Phil Weiand made, paid for by machining Weiand's first ten castings, comes only from the AHRF profile.[^ahrf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed: Strokers or Stokers?** AHRF writes "Glendale Strokers";[^ahrf] Kustomrama spells it "Stokers" (see [Tom Beatty](tom-beatty.md)). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Strokers or Stokers?** AHRF writes "Glendale Strokers";[^ahrf] Kustomrama spells it "Stokers" (see [Tom Beatty](tom-beatty.md)). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **185.80 or 188.284 mph?** AHRF gives the 1951 Class D Lakester record as 185.80 mph;[^ahrf] the auction listings for the car give "188.284 MPH At Bonneville In 1951, A Record The First Time Out."[^gooding] The SCTA's 1951 record list would settle it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

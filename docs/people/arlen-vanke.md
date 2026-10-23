@@ -72,15 +72,15 @@ He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did he start?** MMSHOF says his first race was in **1953**, at sixteen, at Akron Municipal Airport in a 1940 flathead Ford sedan.[^mm] Hemmings says that in **1951** his mother watched him lose and then wrote a $600 check for parts.[^hem] The Knafel Pontiac fan site gives the car's times as 14.80 at 87 mph with tri-carbs. It says he raced B/Gas every weekend in summer 1953 and usually lost to George Montgomery's Cadillac-powered '34 Ford.[^tin] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The Knafel site says the strip opened in 1951 and ran until 1959.[^tin] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **When did Akron's strip open and close?** The Knafel site says it opened in 1951 and ran until 1959;[^tin] we have no second source for the dates. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Single source.[^mm] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **36 straight wins?** The figure comes only from the Michigan Motor Sports Hall of Fame.[^mm] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** The Knafel site says "salesman" and calls it an eight-year relationship.[^tin] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Service manager or salesman?** Hemmings says Knafel hired him as service manager on weekdays;[^hem] the Knafel site says "salesman" and calls it an eight-year relationship.[^tin] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Where did "Vanked" come from?** Only Hemmings' obituary explains it, and it gives two stories: his dual-quad intake work on the 426 Hemi, and his calls to Chrysler as "Arlen Vanke from Akron, Ohio."[^hem2] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *This is a promotional HOF claim and needs checking.*[^mm] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **All five 1970 SWC meets, the first to do it?** That is a promotional Hall of Fame claim and needs checking against NHRA results.[^mm] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ## Images
 

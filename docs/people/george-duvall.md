@@ -74,7 +74,7 @@ Xydias put DuVall in company: "Jimmy Summers and George DuVall were two of the b
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How much rests on Kustomrama?** Most of this page comes from Kustomrama's DuVall entry, which draws mainly on *Rod & Custom*, August 1990.[^k] Coachbuilt adds a little.[^cb] We have not seen the 1990 article. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Unattributed claim.*[^k] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The first DuVall windshield?** Kustomrama states it without attribution.[^k] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Who bought the patterns, and when?** In 1946 (Kustomrama) or "the late 1940s" (Coachbuilt), DuVall's nephew **Julian Doty** bought the windshield patterns, along with a DuVall-designed aluminum OHV head for the Willys Jeep.[^k] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

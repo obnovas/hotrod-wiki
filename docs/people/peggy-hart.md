@@ -96,11 +96,11 @@ The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *"Only woman racer" appears in one source.*[^ocr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The only woman racer?** One source, the *Orange County Register*, says so.[^ocr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Unsourced claim; not adopted.*[^li] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The first woman dragster driver?** A 2024 LinkedIn post says so, with no source; we do not adopt it.[^li] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *One source for the order of cars.*[^idrbio] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Which cars did she drive, in what order?** One source, the Hall of Fame biography, gives the order.[^idrbio] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Which Bonneville record did she miss?** C.J. Hart's 1980 *Hot Rod* interview is the only source, and it gives no year or class; we have seen no SCTA record entry.[^hr80] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

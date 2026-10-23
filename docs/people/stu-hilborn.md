@@ -92,11 +92,11 @@ The company was later acquired by Holley (**2019** per Wikipedia summary); Holle
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *SEMA's Wilson credit is the clearer race-day attribution.*[^aw] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Who drove the first 150 mph pass?** Hilborn's own sentence, quoted by Autoweek, does not name the driver;[^aw] SEMA's credit to Howard Wilson is the clearer race-day attribution. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** A minor speed conflict between summaries.[^aw][^sema] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **About 120 or 123 mph?** Autoweek says about 123 mph on the lakes; SEMA says about 120.[^aw][^sema] A minor gap between summaries. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Post-1990 corporate history; cite secondary until Holley press is read in full.*[^wp] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Holley buy Hilborn in 2019?** The date is Wikipedia's; we cite it until Holley's own press is read in full.[^wp] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 

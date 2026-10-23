@@ -73,13 +73,13 @@ By then Beatty was in business. He opened **Tom Beatty Automotive Engineering**,
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** AHRF instead calls Beatty's Navarro-blown car a "'27."[^ahrf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **A '27 or a '29?** The Rust story describes the roadster's build;[^rust] AHRF calls Beatty's Navarro-blown car a "'27."[^ahrf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Strokers or Stokers?** AHRF writes "Glendale **Strokers**";[^ahrf] Kustomrama's club page is titled "Glendale **Stokers**." Kustomrama lists members including Beatty, Navarro, Spencer, Hill, Don Nicholson, Mac Schutt, Bob "Buzz" Buswell, Bill Davis and the Watson brothers.[^club] Kustomrama's Buswell caption also mentions a "Glendale Sidewinders," and Coachbuilt calls the Sidewinders "(Glendale, CA), the SCTA's first member club."[^cbg] The relationship between the clubs is unclear. The spelling needs a period source, such as an SCTA entry list or a club plaque photo. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **1951 Bonneville.** AHRF gives a Class D Lakester *record* of 185.80 mph;[^ahrf] the RM Auctions text on Kustomrama gives a 188.284 mph *run*.[^tank] These may be a two-way record and a one-way best, which is unconfirmed. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **185.80 or 188.284 mph in 1951?** AHRF gives a Class D Lakester *record* of 185.80 mph;[^ahrf] the RM Auctions text on Kustomrama gives a 188.284 mph *run*.[^tank] These may be a two-way record and a one-way best, which is unconfirmed. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Auction-catalog source; check against SCTA/BNI records.*[^tank] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **211, then 243 mph?** The 1955 and 1962 speeds come from an auction catalog; they need checking against SCTA/BNI records.[^tank] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 **Unresolved:** the RM text says Beatty "died later that year" after the tank was sold, but the sale date is unclear. **Death date unverified.**
 

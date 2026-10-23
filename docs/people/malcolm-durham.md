@@ -101,7 +101,7 @@ Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on us
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Regular 7.5s and 200 mph?** The Logghe Camaro's 1968 times and the 1969 200 mph come only from NHRA's Top 50 text.[^top50] Lead: *Drag News*, 1968–69. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **** Burgess's 2009 column calls his Top 50 slot **No. 46**; the 2001 Auto Channel reprint of the NHRA text is headed **Number 48**. We flag it until the original National Dragster list is checked.[^fred][^top50] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **No. 46 or No. 48?** Burgess's 2009 column calls his Top 50 slot **No. 46**; the 2001 Auto Channel reprint of the NHRA text is headed **Number 48**.[^fred][^top50] We flag it until the original *National Dragster* list is checked. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Images
 

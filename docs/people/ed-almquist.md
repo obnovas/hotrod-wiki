@@ -86,7 +86,7 @@ His name also turns up in period custom literature: a pamphlet from "Pennsylvani
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **What year did the business start?** Hemmings and the Hall of Fame say Almquist Engineering started in 1946;[^hem][^hof] his obituary says he moved to Milford and created it in 1947.[^obit] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Single local-press source; Hurst histories should be checked.*[^thr] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Almquist co-design the Hurst shifter?** Only the *Times Herald-Record* obituary says so; Hurst histories should be checked.[^thr] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 

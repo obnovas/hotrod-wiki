@@ -86,13 +86,13 @@ His dates are still loose. Hot Rod's "Finish Line" (Jan 1989) says he died aged 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Wikipedia is used here only for the CRA detail and the 1941 move. It is single-sourced and needs a primary source.*[^wiki] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did Johansen race with the CRA after moving in 1941?** Wikipedia is used here only for the CRA detail and the 1941 move. It is single-sourced and needs a primary source.[^wiki] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Single source, an enthusiast club history.*[^ilp] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The GMC head and the steering NHRA refused?** Both come from one enthusiast club history.[^ilp] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **What was in the 1954 car?** One source, two versions: *Hot Rod*'s archive piece reports that a Nov 1954 caption says a 258ci Dodge Hemi and an Oct 1960 feature says a 296ci DeSoto, and suggests he may have run both.[^tt] We have not seen the two originals. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *We have not yet checked this against NHRA's Winternationals records.*[^hr89] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Top Eliminator at the first Winternationals?** *Hot Rod* (1989) says so;[^hr89] we have not checked it against NHRA's Winternationals records. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Visual references (external)
 

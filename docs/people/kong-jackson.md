@@ -70,13 +70,13 @@ Even his death date is argued. The contemporaneous post (death Sept 4, 2000) is 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Jackson's "1938" disagrees with the usual late-1937 founding date (see [Dry Lakes & the SCTA](../eras/1930s-dry-lakes-scta.md)). It is a recollection fifty years on. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1937 or 1938?** Jackson, fifty years on, remembered 1938;[^fc] the usual founding date is late 1937 (see [Dry Lakes & the SCTA](../eras/1930s-dry-lakes-scta.md)). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **A chronology muddle.** Fuel Curve alone has him joining the Army as an Air Force mechanic, stationed at Mojave, *and then* back at the lakes by 1938 in a '32 highboy.[^fc] The order of events doesn't fit, and we have no second source. Lead: his service record, or Medley's original 1988 interview. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Army mechanic, then back at the lakes by 1938?** Fuel Curve alone has him joining the Army as an Air Force mechanic, stationed at Mojave, *and then* back at the lakes by 1938 in a '32 highboy.[^fc] The order doesn't fit, and we have no second source. Lead: his service record, or Medley's original 1988 interview. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Used in the 1953 Mexican Road Race?** Only Fuel Curve says Clay Smith used Jackson's cable-advance feature on the Lincoln team.[^fc] Lead: 1953 Carrera Panamericana team reports. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **The sources disagree.** A land-speed mailing-list post of **Sept 10, 2000**, by Katie Young Cortez, says he "passed away Monday (9/4)." She describes the funeral her father attended and says he left 8 children, 14 grandchildren and 2 great-grandchildren. It adds that he "began racing in 1938, I believe" and served in WWII and Korea.[^ls] Fuel Curve (2023) says he was at El Mirage "until his death in **2002**."[^fc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Did he die in 2000 or 2002?** A land-speed mailing-list post of **Sept 10, 2000**, by Katie Young Cortez, says he "passed away Monday (9/4)." She describes the funeral her father attended and says he left 8 children, 14 grandchildren and 2 great-grandchildren. It adds that he "began racing in 1938, I believe" and served in WWII and Korea.[^ls] Fuel Curve (2023) says he was at El Mirage "until his death in **2002**."[^fc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 **Next breadcrumbs:** his 1988 interview with Tom Medley; the "stolen traffic-signal starting lights" story ([Julian Doty](julian-doty.md)); Sidewinders banquet records.
 

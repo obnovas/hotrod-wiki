@@ -70,7 +70,7 @@ He died in 1982.[^hem2] Hemmings names him the model for Ed Iskenderian and Ed D
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** The International Drag Racing Hall of Fame list gives **1910–1982**,[^idrhof] which is probably an error, since three other sources give 1901. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1901 or 1910?** Three sources give October 4, 1901;[^mshf][^hem1] the International Drag Racing Hall of Fame list gives **1910–1982**,[^idrhof] which is probably an error. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **How long was the Indy winning streak?** The IMS Museum says every Indy 500 winner 1933–1946 used Winfields except Wilbur Shaw's Maserati (1939–40).[^ims] Another Hemmings piece says every winner **1927–1937**.[^hem1] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

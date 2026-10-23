@@ -107,9 +107,9 @@ The News named his survivors: wife Patricia (68 years), sons Randy and Rick, dau
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Meeks's Coupes Club and lakes records?** Only Hemmings places him with the club in the Russetta Timing Association and gives him lakes records.[^hem] Lead: Russetta results in the late 1940s. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Attributional; not a sole documented coinage.*[^dn] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Hernandez coin "Funny Car"?** The credit comes from family and obituary circles; it is an attribution, not a documented coinage.[^dn] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **** Daniel Strohl's Hemmings profile ends with "when he died in **2005**." That conflicts with the contemporaneous 2011 obituaries and with Hot Rod's "passed away in January 2011." We treat **2011** as correct and flag the Hemmings line as erroneous until Hemmings corrects it.[^hem][^hr] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Did he die in 2005 or 2011?** Daniel Strohl's Hemmings profile says "when he died in **2005**"; the 2011 obituaries and *Hot Rod* say January 2011. We treat **2011** as correct and flag the Hemmings line as an error.[^hem][^hr][^dn] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ## Images
 
