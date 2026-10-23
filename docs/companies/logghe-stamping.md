@@ -143,8 +143,8 @@ The honors came later: inducted MMSHOF **2010**; Garlits Museum / IDRHOF class o
 - [Hot Rod, "How the Logghe Family Changed the Face of the Funny Car Class"](https://www.hotrod.com/features/logghe-family-changed-face-funny-car-class-drag-racing)
 - [MMSHOF Logghe Brothers inductee page](https://www.mmshof.org/index.php/inductees/inductees/251-logghe-brothers)
 
-[^mms]: Michigan Motor Sports Hall of Fame, "Logghe Brothers" (2010). https://www.mmshof.org/index.php/inductees/inductees/251-logghe-brothers
-[^gar]: Don Garlits Museum of Drag Racing, "Ron & Gene Logghe" (Hall of Fame). https://garlits.com/hall-of-fame/ron-gene-logghe/
-[^hr]: Hot Rod, "How the Logghe Family Changed the Face of the Funny Car Class in Drag Racing." https://www.hotrod.com/features/logghe-family-changed-face-funny-car-class-drag-racing
-[^nhra]: Phil Burgess, "'Fast Eddie' Schartman," NHRA.com, Feb 12, 2016. https://www.nhra.com/news/2016/fast-eddie-schartman
-[^wp]: Wikipedia, "Logghe Stamping Company" (secondary synthesis; verify before relying on detail). https://en.wikipedia.org/wiki/Logghe_Stamping_Company
+[^mms]: Michigan Motor Sports Hall of Fame, "Logghe Brothers" (2010). https://www.mmshof.org/index.php/inductees/inductees/251-logghe-brothers (accessed 2026-10-13)
+[^gar]: Don Garlits Museum of Drag Racing, "Ron & Gene Logghe" (Hall of Fame). https://garlits.com/hall-of-fame/ron-gene-logghe/ (accessed 2026-10-13)
+[^hr]: Hot Rod, "How the Logghe Family Changed the Face of the Funny Car Class in Drag Racing." https://www.hotrod.com/features/logghe-family-changed-face-funny-car-class-drag-racing (accessed 2026-10-12)
+[^nhra]: Phil Burgess, "'Fast Eddie' Schartman," NHRA.com, Feb 12, 2016. https://www.nhra.com/news/2016/fast-eddie-schartman (accessed 2026-10-13)
+[^wp]: Wikipedia, "Logghe Stamping Company" (secondary synthesis; verify before relying on detail). https://en.wikipedia.org/wiki/Logghe_Stamping_Company (accessed 2026-10-12)

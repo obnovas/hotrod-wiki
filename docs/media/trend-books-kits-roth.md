@@ -105,12 +105,12 @@ Revell's customizer was Roth. Revell's first Roth car kit, the **Outlaw** (kit 1
 - [Centerline Hobbies: AMT kit boxes and flyers](https://centerlinehobbies.com/kitsrunwild)
 - [Museum of American Speed: Outlaw tribute](https://www.museumofamericanspeed.org/outlawtribute.html)
 
-[^tb]: Kustomrama, "Trend Book 101 Custom Cars" (citing *Barris Kustom Techniques of the 50's* Vol. 4). https://www.kustomrama.com/wiki/Custom_Cars_Trend_Book_No._101
-[^99w]: 99W Speed Shop, "Petersen Trend Books." http://99wspeedshop.com/trendbooks.html
-[^px]: Promotex Online, "3-in-1:87" (Cawthon, 2002). https://promotex.ca/articles/cawthon/2002/12-15-2002_article.html
-[^r2]: Round2, "AMT." https://www.round2corp.com/amt-4/
-[^cl]: Centerline Hobbies, "60's AMT Kits Run Wild." https://centerlinehobbies.com/kitsrunwild
-[^cal]: Crittenden Automotive Library, "AMT: History." https://www.carsandracingstuff.com/library/a/amt_history.php
-[^cbw]: Coachbuilt.com, "Gene Winfield." http://www.coachbuilt.com/des/w/winfield/winfield.htm
-[^mas]: Museum of American Speed, "Outlaw Tribute"; Scalemates, Revell 1282. https://www.museumofamericanspeed.org/outlawtribute.html ; https://www.scalemates.com/kits/revell-1282-outlaw--195031
-[^rf]: Rat Fink (Roth museum) biography. https://www.ratfink.com/ed-roth-museum/big-daddy-roth-bio
+[^tb]: Kustomrama, "Trend Book 101 Custom Cars" (citing *Barris Kustom Techniques of the 50's* Vol. 4). https://www.kustomrama.com/wiki/Custom_Cars_Trend_Book_No._101 (accessed 2026-10-13)
+[^99w]: 99W Speed Shop, "Petersen Trend Books." http://99wspeedshop.com/trendbooks.html (accessed 2026-10-13)
+[^px]: Promotex Online, "3-in-1:87" (Cawthon, 2002). https://promotex.ca/articles/cawthon/2002/12-15-2002_article.html (accessed 2026-10-13)
+[^r2]: Round2, "AMT." https://www.round2corp.com/amt-4/ (accessed 2026-10-13)
+[^cl]: Centerline Hobbies, "60's AMT Kits Run Wild." https://centerlinehobbies.com/kitsrunwild (accessed 2026-10-13)
+[^cal]: Crittenden Automotive Library, "AMT: History." https://www.carsandracingstuff.com/library/a/amt_history.php (accessed 2026-10-13)
+[^cbw]: Coachbuilt.com, "Gene Winfield." http://www.coachbuilt.com/des/w/winfield/winfield.htm (accessed 2026-10-13)
+[^mas]: Museum of American Speed, "Outlaw Tribute"; Scalemates, Revell 1282. https://www.museumofamericanspeed.org/outlawtribute.html ; https://www.scalemates.com/kits/revell-1282-outlaw--195031 (accessed 2026-10-12)
+[^rf]: Rat Fink (Roth museum) biography. https://www.ratfink.com/ed-roth-museum/big-daddy-roth-bio (accessed 2026-10-13)

@@ -76,8 +76,8 @@ That is what set the Northwest apart. Shows and strips were run by **civic-minde
 
 - [Jefferson61: PIR history photos](https://www.jefferson61.com/PIR-Part-1.htm)
 
-[^mhrc]: Multnomah Hot Rod Council, "About Us." https://www.mhrc.org/about-us
-[^wes]: Wescott's, "About Wescott's" (PDF), http://www.wescottsauto.com/Information/AboutWescotts.pdf ; Rod & Custom, "Dee Wescott Passed Away," https://www.hotrod.com/news/0901rc-dee-wescott-passed-away ; Kustomrama, "Dee Wescott," https://kustomrama.com/wiki/Dee_Wescott
-[^wd]: Wikipedia, "Woodburn Dragstrip." https://en.wikipedia.org/wiki/Woodburn_Dragstrip
-[^wda]: Woodburn Dragstrip, "About Us." https://woodburndragstrip.com/about-us/
-[^pir]: Jefferson61, "PIR Part 1." https://www.jefferson61.com/PIR-Part-1.htm
+[^mhrc]: Multnomah Hot Rod Council, "About Us." https://www.mhrc.org/about-us (accessed 2026-10-13)
+[^wes]: Wescott's, "About Wescott's" (PDF), http://www.wescottsauto.com/Information/AboutWescotts.pdf ; Rod & Custom, "Dee Wescott Passed Away," https://www.hotrod.com/news/0901rc-dee-wescott-passed-away ; Kustomrama, "Dee Wescott," https://kustomrama.com/wiki/Dee_Wescott (accessed 2026-10-13)
+[^wd]: Wikipedia, "Woodburn Dragstrip." https://en.wikipedia.org/wiki/Woodburn_Dragstrip (accessed 2026-10-13)
+[^wda]: Woodburn Dragstrip, "About Us." https://woodburndragstrip.com/about-us/ (accessed 2026-10-13)
+[^pir]: Jefferson61, "PIR Part 1." https://www.jefferson61.com/PIR-Part-1.htm (accessed 2026-10-13)

@@ -98,5 +98,5 @@ Decades later the car came back. Pat Ganahl at Rod & Custom pushed the restorati
 
 - [LOC record HAER CA-2328 (both sheets and data pages)](https://www.loc.gov/item/ca4307/)
 
-[^revs]: Ken Gross, "Emerald Icon from a Lost Era – The Saga of the Hirohata Mercury," Revs Institute AutoMedia. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury
-[^hag]: Hagerty, "How Barris Kustoms built the Hirohata Mercury in only 14 days." https://www.hagerty.com/media/video/how-barris-kustoms-built-the-hirohata-mercury-in-only-14-days/
+[^revs]: Ken Gross, "Emerald Icon from a Lost Era – The Saga of the Hirohata Mercury," Revs Institute AutoMedia. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury (accessed 2026-10-12)
+[^hag]: Hagerty, "How Barris Kustoms built the Hirohata Mercury in only 14 days." https://www.hagerty.com/media/video/how-barris-kustoms-built-the-hirohata-mercury-in-only-14-days/ (accessed 2026-10-12)

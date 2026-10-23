@@ -89,5 +89,5 @@ The phaeton itself is gone. Julian Doty told Pat Ganahl he last saw the phaeton 
 
 - [Coachbuilt.com DuVall/DeBell page: period photos of the So. Cal. Plating trucks and phaeton](http://www.coachbuilt.com/des/d/duvall/duvall.htm)
 
-[^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm
-[^kr]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall
+[^cb]: Coachbuilt.com, "George DuVall (1913–1999)." http://www.coachbuilt.com/des/d/duvall/duvall.htm (accessed 2026-10-13)
+[^kr]: Kustomrama, "George DuVall." https://kustomrama.com/wiki/George_DuVall (accessed 2026-10-13)

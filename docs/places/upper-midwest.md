@@ -78,9 +78,9 @@ That order is what set the region apart. Here the *street rod association* came 
 
 - [HotRod Hotline: History of Back to the Fifties, Part II](https://hotrodhotline.com/history-of-back-to-the-fifties-part-ii/)
 
-[^hh50]: HotRod Hotline, "Fifty Years of the MSRA." https://hotrodhotline.com/fifty-years-of-the-msra/
-[^jj]: HotRod Hotline, "MSRA Founding Member Jerry Johnson Passes Away." https://hotrodhotline.com/msra-founding-member-jerry-johnson-passes-away/
-[^msra]: Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/
-[^hh2]: HotRod Hotline, "History of Back to the Fifties, Part II." https://hotrodhotline.com/history-of-back-to-the-fifties-part-ii/
-[^cc]: ClassicCars.com Journal, "'Back to the 50's' celebrates hot rod culture's golden age" (2018). https://journal.classiccars.com/2018/06/30/back-to-the-50s-celebrates-hot-rod-cultures-golden-age/
-[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals
+[^hh50]: HotRod Hotline, "Fifty Years of the MSRA." https://hotrodhotline.com/fifty-years-of-the-msra/ (accessed 2026-10-13)
+[^jj]: HotRod Hotline, "MSRA Founding Member Jerry Johnson Passes Away." https://hotrodhotline.com/msra-founding-member-jerry-johnson-passes-away/ (accessed 2026-10-13)
+[^msra]: Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/ (accessed 2026-10-13)
+[^hh2]: HotRod Hotline, "History of Back to the Fifties, Part II." https://hotrodhotline.com/history-of-back-to-the-fifties-part-ii/ (accessed 2026-10-13)
+[^cc]: ClassicCars.com Journal, "'Back to the 50's' celebrates hot rod culture's golden age" (2018). https://journal.classiccars.com/2018/06/30/back-to-the-50s-celebrates-hot-rod-cultures-golden-age/ (accessed 2026-10-12)
+[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals (accessed 2026-10-12)

@@ -144,4 +144,4 @@ Jim Clark's account matches the title story from the other side. *Street Rodder*
 [^sr40]: *Street Rodder*, "Street Rodder's 40th Anniversary – Time Flies" (hotrod.com, posted Apr 8, 2014). Accessed 2026-10-15. https://www.hotrod.com/features/street-rodders-40th-anniversary
 [^tex]: "Tex Smith: The Rodfather," *Hot Rod*, July 1978 (hotrod.com repost). Accessed 2026-10-15. https://www.hotrod.com/features/tex-smith-the-rodfather-july-1978-982-1376-52-1
 [^wap]: Greg Wapling, "The Street Rod Nats Past and Present," Hot Rod History. Accessed 2026-10-15. https://hotrod.gregwapling.com/hot-rod-history/the-street-rod-nats-past-and-present.html
-[^hag]: Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals" (2024). https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/
+[^hag]: Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals" (2024). https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/ (accessed 2026-10-12)

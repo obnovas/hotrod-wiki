@@ -75,4 +75,4 @@ The record was not the end of it. Dana Fuller set diesel records with it in 1953
 
 - [Kustomrama, "Beast III" (photos of the streamliner and the Schapel wind-tunnel model)](https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III)
 
-[^k]: Kustomrama, "Chet Herbert's Beast III." https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III
+[^k]: Kustomrama, "Chet Herbert's Beast III." https://www.kustomrama.com/wiki/Chet_Herbert%27s_Beast_III (accessed 2026-10-12)

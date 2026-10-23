@@ -88,6 +88,6 @@ Compare the NSRA's [1948-and-older line](../street-rodding/nsra-early-nationals.
 - [Hot Rod, "Lead Sleds" (Dec 1981)](https://www.hotrod.com/features/lead-sleds-december-1981-982-1180-39-1)
 - [H.A.M.B.: Jerry Titus audio interview thread](https://www.jalopyjournal.com/forum/threads/jerry-titus-talks-about-how-the-kkoa-began.1070767/)
 
-[^kk]: Kustom Kemps of America, "History." https://www.kustomkempsofamerica.com/history.htm
-[^hr81]: Hot Rod, "Lead Sleds," December 1981. https://www.hotrod.com/features/lead-sleds-december-1981-982-1180-39-1
-[^hr83]: Hot Rod, "Tough Sledding," May 1983. https://www.hotrod.com/features/tough-sledding-may-1983-982-1178-84-1
+[^kk]: Kustom Kemps of America, "History." https://www.kustomkempsofamerica.com/history.htm (accessed 2026-10-13)
+[^hr81]: Hot Rod, "Lead Sleds," December 1981. https://www.hotrod.com/features/lead-sleds-december-1981-982-1180-39-1 (accessed 2026-10-13)
+[^hr83]: Hot Rod, "Tough Sledding," May 1983. https://www.hotrod.com/features/tough-sledding-may-1983-982-1178-84-1 (accessed 2026-10-13)

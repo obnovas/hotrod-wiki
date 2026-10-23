@@ -77,8 +77,8 @@ Decades later the street got a style of its own, [Pro Street](../eras/1980s-pro-
 <figcaption markdown>A scale model of a 1940 Mercury custom showing the smoothed fat-fender look. It is a model, not a full-size car. Creator: JOHN LLOYD from Concrete, Washington, United States. Date: 2016-02-28 10:32. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1940_Mercury_based_custom_(25173334639).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
 
-[^k]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
-[^revs]: Ken Gross, "Emerald Icon from a Lost Era," Revs Institute. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury
-[^w]: Hemmings, "Ed Winfield: The Master of Hot-Rodding and Performance." https://www.hemmings.com/stories/ed-winfield-2/
-[^ahrf]: Tony Thacker, "Barney Navarro," AHRF. https://ahrf.com/pioneer/barney-navarro/
-[^hagy]: Kustomrama, "Roy Hagy." https://kustomrama.com/wiki/Roy_Hagy
+[^k]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers (accessed 2026-10-12)
+[^revs]: Ken Gross, "Emerald Icon from a Lost Era," Revs Institute. https://automedia.revsinstitute.org/emerald-icon-from-a-lost-era-the-saga-of-the-hirohata-mercury (accessed 2026-10-12)
+[^w]: Hemmings, "Ed Winfield: The Master of Hot-Rodding and Performance." https://www.hemmings.com/stories/ed-winfield-2/ (accessed 2026-10-12)
+[^ahrf]: Tony Thacker, "Barney Navarro," AHRF. https://ahrf.com/pioneer/barney-navarro/ (accessed 2026-10-12)
+[^hagy]: Kustomrama, "Roy Hagy." https://kustomrama.com/wiki/Roy_Hagy (accessed 2026-10-13)

@@ -87,7 +87,7 @@ Still, racing was concentrated on **ex-military airfields away from the city**, 
 - [Dragzine: Caddo Mills photos](https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/)
 - [Jalopy Journal: film of drag racing at Caddo Mills](https://www.jalopyjournal.com/?p=59810)
 
-[^dz]: Dragzine, "Flashback Friday: Texas' First NHRA-Sanctioned Drag Strip." https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/
-[^dl]: Drag List, "More Memories of Caddo Mills" (Dec 2001). https://www.draglist.com/stories/SOD%20Dec%202001/SOD-123101.htm
+[^dz]: Dragzine, "Flashback Friday: Texas' First NHRA-Sanctioned Drag Strip." https://www.dragzine.com/news/flashback-friday-texas-first-nhra-sanctioned-drag-strip/ (accessed 2026-10-13)
+[^dl]: Drag List, "More Memories of Caddo Mills" (Dec 2001). https://www.draglist.com/stories/SOD%20Dec%202001/SOD-123101.htm (accessed 2026-10-13)
 [^hamb]: Karl Knecht ("KKrod"), opening post, "Hot Rod History and Photos Dallas Texas 1949 on – Caddo Mills Drag Races," The H.A.M.B. (Jalopy Journal forum). https://www.jalopyjournal.com/forum/threads/hot-rod-history-and-photos-dallas-texas-1949-on-caddo-mills-drag-races.970495/ (accessed 2026-10-22)
-[^sema]: SEMA News, "Drag Racing, Memphis Style" (2024). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style
+[^sema]: SEMA News, "Drag Racing, Memphis Style" (2024). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style (accessed 2026-10-13)

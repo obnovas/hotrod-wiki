@@ -89,6 +89,6 @@ JR Thompson's page, which includes Pete's own letter, names the brothers **Pete 
 - [JR Thompson, Hill Bros. page: original 1967 photos, the pre-build photo from Dave Hales, and the restoration](http://www.jrthompson.net/hillbroswillys.html)
 - [Mopar Muscle / Hot Rod feature on the restored Red Baron](https://www.hotrod.com/features/mopp-0306-1933-willys-knight)
 
-[^jrt]: JR Thompson, "Gasser Legends ~ The Hill Bros." http://www.jrthompson.net/hillbroswillys.html
-[^mm]: Mopar Muscle / Hot Rod, "1933 Willys Knight - Red Baron." https://www.hotrod.com/features/mopp-0306-1933-willys-knight
-[^ec]: East Coast Drag Racing Hall of Fame, "Gassers: Midwest, Fast and Fabulous." https://eastcoastdragtimeshalloffame.com/gassers-midwest-fast-and-fabulous/
+[^jrt]: JR Thompson, "Gasser Legends ~ The Hill Bros." http://www.jrthompson.net/hillbroswillys.html (accessed 2026-10-13)
+[^mm]: Mopar Muscle / Hot Rod, "1933 Willys Knight - Red Baron." https://www.hotrod.com/features/mopp-0306-1933-willys-knight (accessed 2026-10-13)
+[^ec]: East Coast Drag Racing Hall of Fame, "Gassers: Midwest, Fast and Fabulous." https://eastcoastdragtimeshalloffame.com/gassers-midwest-fast-and-fabulous/ (accessed 2026-10-13)

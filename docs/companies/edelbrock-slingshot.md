@@ -76,8 +76,8 @@ After the war Edelbrock modified "Denver" iron heads, introduced the first alumi
 <figcaption markdown>Vic Edelbrock Jr. at the 2012 SEMA Show. He is the inventor on the 1960 linkage patent shown above. Creator: Nick Ares from Auburn, CA, United States. Date: 2012-10-30 16:17. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vic_Edelbrock_Jr..jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
 </figure>
 
-[^ed]: Edelbrock, "The History of Edelbrock Performance." https://www.edelbrock.com/about-us
-[^enc]: Encyclopedia.com, "Edelbrock Corporation." https://www.encyclopedia.com/books/politics-and-business-magazines/edelbrock-corporation
-[^wp]: Wikipedia, "Edelbrock" and "Vic Edelbrock." https://en.wikipedia.org/wiki/Edelbrock ; https://en.wikipedia.org/wiki/Vic_Edelbrock
-[^hemm]: Hemmings, "Edelbrock celebrates 75 years of go-fast goods." https://www.hemmings.com/stories/edelbrock-celebrates-75-years-of-go-fast-goods/
-[^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame list (Class of 1994). https://garlits.com/hall-of-fame-inductees-2011/
+[^ed]: Edelbrock, "The History of Edelbrock Performance." https://www.edelbrock.com/about-us (accessed 2026-10-12)
+[^enc]: Encyclopedia.com, "Edelbrock Corporation." https://www.encyclopedia.com/books/politics-and-business-magazines/edelbrock-corporation (accessed 2026-10-12)
+[^wp]: Wikipedia, "Edelbrock" and "Vic Edelbrock." https://en.wikipedia.org/wiki/Edelbrock ; https://en.wikipedia.org/wiki/Vic_Edelbrock (accessed 2026-10-12)
+[^hemm]: Hemmings, "Edelbrock celebrates 75 years of go-fast goods." https://www.hemmings.com/stories/edelbrock-celebrates-75-years-of-go-fast-goods/ (accessed 2026-10-12)
+[^idrhof]: Don Garlits Museum, International Drag Racing Hall of Fame list (Class of 1994). https://garlits.com/hall-of-fame-inductees-2011/ (accessed 2026-10-13)

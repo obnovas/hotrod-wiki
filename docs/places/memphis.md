@@ -137,13 +137,13 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 - [Memphis Rodders history photos (Klyce Motors 1952)](http://www.memphisrodders.com/)
 - [carnut.com Memphis Nationals photos](https://www.carnut.com/show/nats75/memind.html)
 
-[^mr]: Memphis Rodders, club history. http://www.memphisrodders.com/
+[^mr]: Memphis Rodders, club history. http://www.memphisrodders.com/ (accessed 2026-10-13)
 [^mth]: Memphis Tech High School history site, "Raymond Godman: Stock Car Racer." The original page (https://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html) returns 404; read in the Wayback Machine copy of Aug 15, 2024: https://web.archive.org/web/20240815160737/http://www.memphistechhigh.com/miscellaneous/raygodman/raygodman.html (accessed 2026-10-22)
-[^sema]: SEMA News, "Drag Racing, Memphis Style" (June 2024; citing Hot Rod, Dec 1955). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style
-[^dm]: Daily Memphian, "Sundays were for racing at Lakeland International." https://dailymemphian.com/article/52861/lakeland-international-raceway-drag-racing-the-lake-district
-[^tl]: Memphis Rodders, "Two-Lane Memories." http://memphisrodders.com/files/dc0cc7ae4bcfcaca80f74cf5a4b24ce3-12.html
-[^bs]: BangShift, "Raymond Godman Has Died." https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/
-[^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html
+[^sema]: SEMA News, "Drag Racing, Memphis Style" (June 2024; citing Hot Rod, Dec 1955). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style (accessed 2026-10-13)
+[^dm]: Daily Memphian, "Sundays were for racing at Lakeland International." https://dailymemphian.com/article/52861/lakeland-international-raceway-drag-racing-the-lake-district (accessed 2026-10-13)
+[^tl]: Memphis Rodders, "Two-Lane Memories." http://memphisrodders.com/files/dc0cc7ae4bcfcaca80f74cf5a4b24ce3-12.html (accessed 2026-10-13)
+[^bs]: BangShift, "Raymond Godman Has Died." https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/ (accessed 2026-10-13)
+[^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html (accessed 2026-10-13)
 [^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)
 [^comp15]: "The History of COMP Cams," COMP Cams (company site). https://www.compcams.com/about-us (accessed 2026-10-16)
 [^sk62]: "Sixteen Area Drivers Take Malden Races," *Sikeston Daily Standard* (Sikeston, Mo.), July 23, 1962. Page OCR. https://archive.org/details/sikeston-daily-standard-1962-07-23 (accessed 2026-10-21)

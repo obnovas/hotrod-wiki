@@ -111,8 +111,8 @@ The ECH figure covers what Hrudka realized personally, while Hill's appears to b
 
 - [NHRA obituary of Joe Hrudka, with a photo of Dave Meal's '40 Willys showing an early Mr. Gasket logo](https://www.nhra.com/news/2026/joseph-joe-hrudka-founder-mr-gasket-passes-away-age-87)
 
-[^ec]: Jim Hill, "Mr. Gasket: From The Trunk Of A '57 Chevy To Wall Street," East Coast Drag Racing Hall of Fame, Apr 1, 2016. https://eastcoastdragtimeshalloffame.com/mr-gasket-from-the-trunk-of-a-57-chevy-to-wall-street/
-[^sema]: SEMA Hall of Fame 1980, "Joe Hrudka." https://www.sema.org/hof/1980/joe-hrudka
-[^enc]: Encyclopedia.com, "Mr. Gasket Inc." https://www.encyclopedia.com/books/politics-and-business-magazines/mr-gasket-inc
-[^ech]: Encyclopedia of Cleveland History, "Mr. Gasket." https://case.edu/ech/articles/m/mr-gasket
-[^nhra26]: NHRA, "Joseph 'Joe' Hrudka, founder of Mr. Gasket, passes away at age 87," May 28, 2026. https://www.nhra.com/news/2026/joseph-joe-hrudka-founder-mr-gasket-passes-away-age-87
+[^ec]: Jim Hill, "Mr. Gasket: From The Trunk Of A '57 Chevy To Wall Street," East Coast Drag Racing Hall of Fame, Apr 1, 2016. https://eastcoastdragtimeshalloffame.com/mr-gasket-from-the-trunk-of-a-57-chevy-to-wall-street/ (accessed 2026-10-13)
+[^sema]: SEMA Hall of Fame 1980, "Joe Hrudka." https://www.sema.org/hof/1980/joe-hrudka (accessed 2026-10-13)
+[^enc]: Encyclopedia.com, "Mr. Gasket Inc." https://www.encyclopedia.com/books/politics-and-business-magazines/mr-gasket-inc (accessed 2026-10-12)
+[^ech]: Encyclopedia of Cleveland History, "Mr. Gasket." https://case.edu/ech/articles/m/mr-gasket (accessed 2026-10-13)
+[^nhra26]: NHRA, "Joseph 'Joe' Hrudka, founder of Mr. Gasket, passes away at age 87," May 28, 2026. https://www.nhra.com/news/2026/joseph-joe-hrudka-founder-mr-gasket-passes-away-age-87 (accessed 2026-10-12)

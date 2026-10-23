@@ -103,6 +103,6 @@ Batchelor's list leaves one out, and Hemmings adds him. Based on Roger Harrell's
 <figcaption markdown>A Model T racing engine with an overhead-valve conversion. The uploader notes it "has overhead valves, whereas the standard T engine had side-mounted valves." **The maker of the head is not identified.** Creator: dave_7 from Lethbridge, Canada. Date: 2008-05-20 14:47. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ford_Model_T_racer_engine_(2534461425).jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
 </figure>
 
-[^hem]: Daniel Strohl, "Lost Speed Shops: Bell, Chapel, Orr," Hemmings, Nov 23, 2009. https://www.hemmings.com/stories/lost-speed-shops-bell-chapel-orr/
-[^jj]: Ryan, "The History Of Bell Auto," The Jalopy Journal, May 12, 2010. https://www.jalopyjournal.com/?p=8704
-[^k]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers
+[^hem]: Daniel Strohl, "Lost Speed Shops: Bell, Chapel, Orr," Hemmings, Nov 23, 2009. https://www.hemmings.com/stories/lost-speed-shops-bell-chapel-orr/ (accessed 2026-10-12)
+[^jj]: Ryan, "The History Of Bell Auto," The Jalopy Journal, May 12, 2010. https://www.jalopyjournal.com/?p=8704 (accessed 2026-10-12)
+[^k]: Kustomrama, "Jimmy Summers." https://kustomrama.com/wiki/Jimmy_Summers (accessed 2026-10-12)

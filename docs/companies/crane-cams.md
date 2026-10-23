@@ -121,6 +121,6 @@ He started a **cam school** at his Port Orange home, and more than 100 students 
 [^lohman]: "Harvey J. Crane Obituary," Lohman Funeral Homes, May 31, 2013. https://obituaries.lohmanfuneralhomes.com/obituaries/harvey-crane (accessed 2026-10-16)
 [^semaob]: Jim Hill, "Racing Industry Pioneer Harvey Crane Passes Away," SEMA eNews, 2013. https://www.sema.org/news-media/enews/2013/23/racing-industry-pioneer-harvey-crane-passes-away (accessed 2026-10-16)
 [^first]: Drew Hardin, "Crane's First SEMA Show," SEMA News, Nov 2013. https://www.sema.org/news-media/magazine/2013/44/cranes-first-sema-show (accessed 2026-10-16)
-[^hr15]: Jim Hill, "Sportsman Racers Winning Class at Indy Was Their High Mark," *Hot Rod*, Nov 23, 2015, as summarized on [The Ohio Gassers](../places/ohio-gassers.md). https://www.hotrod.com/news/sportsman-racers-winning-class-at-indy-was-their-high-mark
+[^hr15]: Jim Hill, "Sportsman Racers Winning Class at Indy Was Their High Mark," *Hot Rod*, Nov 23, 2015, as summarized on [The Ohio Gassers](../places/ohio-gassers.md). https://www.hotrod.com/news/sportsman-racers-winning-class-at-indy-was-their-high-mark (accessed 2026-10-15)
 [^og]: See [The Ohio Gassers](../places/ohio-gassers.md) (Hill, East Coast Drag Times Hall of Fame, 2016).
 [^pat]: US 3,108,580A, "Non-rotatable valve tappet" (Harvey J. Crane Jr.), Google Patents, incl. its "Patent citations" and "Cited by" lists, which Google generates by computer. https://patents.google.com/patent/US3108580A/en (accessed 2026-10-16)

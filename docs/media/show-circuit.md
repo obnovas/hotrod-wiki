@@ -123,10 +123,10 @@ In Portland, volunteers run the show. The Multnomah Hot Rod Council was founded 
 - [Kustomrama: 1950 National Roadster Show photos](https://kustomrama.com/wiki/National_Roadster_Show_1950)
 - [Hot Rod: "Then and Now" GNRS history](https://www.hotrod.com/features/americas-beautiful-roadsterthen-now)
 
-[^go]: Hot Rod, "Golden Oldie" (Mary Slonaker; Dain Gingerelli and Andy Southard Jr.). https://www.hotrod.com/features/golden-oldie-982-1789-117-1
-[^k50]: Kustomrama, "National Roadster Show 1950." https://kustomrama.com/wiki/National_Roadster_Show_1950
-[^hr]: Hot Rod, "Grand National Roadster Show History: Then and Now." https://www.hotrod.com/features/americas-beautiful-roadsterthen-now
-[^rs]: Rod Shows, "America's Most Beautiful Roadster." https://rodshows.com/grand-national/americas-most-beautiful-roadster/
-[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007; Andy Brizio sidebar). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals
-[^sema]: SEMA Hall of Fame 2012, "Bob Larivee Sr." https://www.sema.org/hof/2012/bob-larivee-sr
-[^mhrc]: Multnomah Hot Rod Council, "About Us." https://www.mhrc.org/about-us
+[^go]: Hot Rod, "Golden Oldie" (Mary Slonaker; Dain Gingerelli and Andy Southard Jr.). https://www.hotrod.com/features/golden-oldie-982-1789-117-1 (accessed 2026-10-12)
+[^k50]: Kustomrama, "National Roadster Show 1950." https://kustomrama.com/wiki/National_Roadster_Show_1950 (accessed 2026-10-13)
+[^hr]: Hot Rod, "Grand National Roadster Show History: Then and Now." https://www.hotrod.com/features/americas-beautiful-roadsterthen-now (accessed 2026-10-13)
+[^rs]: Rod Shows, "America's Most Beautiful Roadster." https://rodshows.com/grand-national/americas-most-beautiful-roadster/ (accessed 2026-10-13)
+[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007; Andy Brizio sidebar). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals (accessed 2026-10-12)
+[^sema]: SEMA Hall of Fame 2012, "Bob Larivee Sr." https://www.sema.org/hof/2012/bob-larivee-sr (accessed 2026-10-13)
+[^mhrc]: Multnomah Hot Rod Council, "About Us." https://www.mhrc.org/about-us (accessed 2026-10-13)

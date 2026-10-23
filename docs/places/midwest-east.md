@@ -104,10 +104,10 @@ See also: [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob B
 <figcaption markdown>The 1985 Detroit Autorama, the Michigan Hot Rod Association's show. Creator: Joetregembo. Date: 2023-02-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1985_Detroit_Autorama.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
 
-[^jegs]: JEGS, "About Us." https://www.jegs.com/about-us
+[^jegs]: JEGS, "About Us." https://www.jegs.com/about-us (accessed 2026-10-13)
 [^disp]: Columbus Dispatch, "JEGS High Performance celebrates 50th anniversary," July 31, 2010 (paywalled). https://www.dispatch.com/story/news/2010/07/31/jegs-high-performance-celebrates-50th/23191212007/
-[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom, 2007. https://www.hotrod.com/news/0710rc-1st-street-rod-nationals
-[^pm]: Peoria Magazine, "Hot Rods & Cool Cruisin'." https://www.peoriamagazine.com/archive/as_article/hot-rods-cool-cruisin/
-[^mr]: Brian Brennan, "Rodding Around – 1st NSRA Street Rod Nationals Peoria Winner," Modern Rodding / In The Garage Media, Aug 27, 2023. https://inthegaragemedia.com/rodding-around-1st-nsra-street-rod-nationals-peoria-winner/
-[^idr]: Don Garlits Museum, International Drag Racing Hall of Fame, Class of 2018 list (Jim Oddy). https://garlits.com/hall-of-fame-inductees-2011/
-[^ky]: Kentucky Motorsports Hall of Fame, "History Page – NSTRA." https://www.kentuckymotorsportshalloffame.com/WEBPAGE-Motorsports-Links/HISTORY-PAGE-NSTRA
+[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom, 2007. https://www.hotrod.com/news/0710rc-1st-street-rod-nationals (accessed 2026-10-12)
+[^pm]: Peoria Magazine, "Hot Rods & Cool Cruisin'." https://www.peoriamagazine.com/archive/as_article/hot-rods-cool-cruisin/ (accessed 2026-10-13)
+[^mr]: Brian Brennan, "Rodding Around – 1st NSRA Street Rod Nationals Peoria Winner," Modern Rodding / In The Garage Media, Aug 27, 2023. https://inthegaragemedia.com/rodding-around-1st-nsra-street-rod-nationals-peoria-winner/ (accessed 2026-10-13)
+[^idr]: Don Garlits Museum, International Drag Racing Hall of Fame, Class of 2018 list (Jim Oddy). https://garlits.com/hall-of-fame-inductees-2011/ (accessed 2026-10-12)
+[^ky]: Kentucky Motorsports Hall of Fame, "History Page – NSTRA." https://www.kentuckymotorsportshalloffame.com/WEBPAGE-Motorsports-Links/HISTORY-PAGE-NSTRA (accessed 2026-10-13)

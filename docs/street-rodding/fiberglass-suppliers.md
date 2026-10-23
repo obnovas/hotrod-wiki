@@ -93,7 +93,7 @@ That northern start is the point. The street-rod parts business is usually assoc
 - [Kustomrama: Dee Wescott](https://kustomrama.com/wiki/Dee_Wescott)
 - [TBucketPlans: The real history of the fiberglass T-bucket body](https://www.tbucketplans.com/the-real-history-of-the-fiberglass-t-bucket-body/)
 
-[^dia]: Kustomrama, "Diablo Speed Shop." https://www.kustomrama.com/wiki/Diablo_Speed_Shop
-[^cal]: TBucketPlans, "Cal Automotive: Fiberglass T-Bucket Body Pioneers," Parts 1–2. https://www.tbucketplans.com/cal-automotive-fiberglass-t-bucket-body-pioneers-part-1/ ; https://www.tbucketplans.com/cal-automotive-fiberglass-t-bucket-body-pioneers-part-2/
-[^wes]: Wescott's, "About Wescott's" (PDF), http://www.wescottsauto.com/Information/AboutWescotts.pdf ; Rod & Custom, "Dee Wescott Passed Away," https://www.hotrod.com/news/0901rc-dee-wescott-passed-away ; Kustomrama, "Dee Wescott," https://kustomrama.com/wiki/Dee_Wescott
-[^mhrc]: Multnomah Hot Rod Council, "About Us." https://www.mhrc.org/about-us
+[^dia]: Kustomrama, "Diablo Speed Shop." https://www.kustomrama.com/wiki/Diablo_Speed_Shop (accessed 2026-10-13)
+[^cal]: TBucketPlans, "Cal Automotive: Fiberglass T-Bucket Body Pioneers," Parts 1–2. https://www.tbucketplans.com/cal-automotive-fiberglass-t-bucket-body-pioneers-part-1/ ; https://www.tbucketplans.com/cal-automotive-fiberglass-t-bucket-body-pioneers-part-2/ (accessed 2026-10-13)
+[^wes]: Wescott's, "About Wescott's" (PDF), http://www.wescottsauto.com/Information/AboutWescotts.pdf ; Rod & Custom, "Dee Wescott Passed Away," https://www.hotrod.com/news/0901rc-dee-wescott-passed-away ; Kustomrama, "Dee Wescott," https://kustomrama.com/wiki/Dee_Wescott (accessed 2026-10-13)
+[^mhrc]: Multnomah Hot Rod Council, "About Us." https://www.mhrc.org/about-us (accessed 2026-10-13)

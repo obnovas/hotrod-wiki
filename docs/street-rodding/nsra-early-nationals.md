@@ -129,10 +129,10 @@ The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra]
 - [carnut.com: Street Rod Nationals photo index (1971, 1975, 1980 Memphis)](https://www.carnut.com/show/nats75/memind.html)
 - [Hagerty: "Celebrating the 55th year of the NSRA Street Rod Nationals"](https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/)
 
-[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals
-[^hag]: Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals." https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/
-[^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html
-[^msra]: Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/
-[^wp]: Wikipedia, "National Street Rod Association." https://en.wikipedia.org/wiki/National_Street_Rod_Association
-[^hr83]: Hot Rod, "Tough Sledding," May 1983. https://www.hotrod.com/features/tough-sledding-may-1983-982-1178-84-1
-[^tb71]: TBucketPlans, "1971 Street Rod Nationals: Leg Show T-Bucket." https://www.tbucketplans.com/1971-street-rod-nationals-leg-show-t-bucket/
+[^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals (accessed 2026-10-12)
+[^hag]: Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals." https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/ (accessed 2026-10-12)
+[^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html (accessed 2026-10-13)
+[^msra]: Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/ (accessed 2026-10-13)
+[^wp]: Wikipedia, "National Street Rod Association." https://en.wikipedia.org/wiki/National_Street_Rod_Association (accessed 2026-10-12)
+[^hr83]: Hot Rod, "Tough Sledding," May 1983. https://www.hotrod.com/features/tough-sledding-may-1983-982-1178-84-1 (accessed 2026-10-13)
+[^tb71]: TBucketPlans, "1971 Street Rod Nationals: Leg Show T-Bucket." https://www.tbucketplans.com/1971-street-rod-nationals-leg-show-t-bucket/ (accessed 2026-10-13)
