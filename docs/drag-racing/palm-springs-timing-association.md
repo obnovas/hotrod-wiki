@@ -1,6 +1,6 @@
 ---
 title: 'Not a Police Dragnet: the Palm Springs Stockers and the Timing Association That Waited for a Strip (Palm Springs, Calif., 1951–59)'
-summary: In 1953 two Pomona policemen helped desert youths form the Palm Springs Timing Association, and 35 joined from six towns with an NHRA crew promised. No strip has turned up in the town paper.
+summary: In 1953 two Pomona policemen helped desert youths form the Palm Springs Timing Association, and 35 joined from six towns with an NHRA crew promised. No strip has turned up in the issues we read.
 department: drag-racing
 eras:
 - 1950s
@@ -65,7 +65,7 @@ Palm Springs was a winter resort of film stars and golf tournaments, and in the 
 
 The first hot rod group in these pages was the **Palm Springs Stockers**. In May 1951 the club announced a "Reliability Safety Run," worked out at secretary Doug Doyle's home with city police, school officials, county probation officers and the state police. The 105-mile course left the Palm Springs airport, climbed through Idyllwild, came down to Banning and returned. The organizers expected 100 to 150 entrants and said the run was "expected to draw nationwide attention from stock car and hot rod fans." The fastest driver would not win; the winner would be the one "closest to the time which a state patrol car determines is the maximum safe driving speed."[^ds510511]
 
-It was won by Chuck Hoffmeier, an employee of Desert Forge, in a 1941 Packard convertible. His time was 2:53.43 against the judges' 2:53.45, "just two seconds off." His prize was a two-foot Stockers trophy "with a hot rod perched on top," plus a carburetor manifold donated, like the other prizes, by a Southern California auto concern. Frances Doyle was second in a 1951 Mercury.[^ds510525]
+It was won by Chuck Hoffmeier, an employee of Desert Forge, in a 1941 Packard convertible. His time was 2:53.43 (hours, minutes and seconds) against the judges' 2:53.45, "just two seconds off." His prize was a two-foot Stockers trophy "with a hot rod perched on top," plus a carburetor manifold donated, like the other prizes, by a Southern California auto concern. Frances Doyle was second in a 1951 Mercury.[^ds510525]
 
 <figure markdown>
 ![A 1950s color postcard of Palm Canyon Drive in Palm Springs, with palm trees, a "Desert Circus" banner across the street and 1950s cars at the curb](../assets/images/commons-palm-springs-postcard-1950s.jpg){ loading=lazy }
@@ -74,7 +74,7 @@ It was won by Chuck Hoffmeier, an employee of Desert Forge, in a 1941 Packard co
 
 ## Two policemen from Pomona (October 1953)
 
-Two years later the Stockers met with the Palm Springs police and two guests from Pomona: "Chief Ralph E. Parker and Sgt. E. Cooncs of the Pomona police department" (the scan's spelling, which becomes "Sgt. Coones" a paragraph later). Parker's department had stopped fighting its own hot rodders and helped the Choppers club to a legal strip, a story Parker told the FBI's bulletin in 1951 (see [Pomona's Choppers & the Fontana Strip](pomona-choppers-fontana.md)). In Palm Springs the two "described the organization in Pomona, and gave advice on forming a similar group here." Police Chief John S. Davis named Detective Ted Greene and Patrolman T. M. Aitken as liaison officers. The paper added a condition: "Actual construction of the strip will not start until the association is in operation."[^ds531012]
+Two years later the Stockers met with the Palm Springs police and two guests from Pomona: "Chief Ralph E. Parker and Sgt. E. Cooncs of the Pomona police department" (the scan's spelling, which becomes "Sgt. Coones" a paragraph later). Parker's department had stopped fighting its own hot rodders and helped the Choppers club to a legal strip, a story Parker told the FBI's bulletin in December 1951[^nhracoons] (see [Pomona's Choppers & the Fontana Strip](pomona-choppers-fontana.md)). In Palm Springs the two "described the organization in Pomona, and gave advice on forming a similar group here." Police Chief John S. Davis named Detective Ted Greene and Patrolman T. M. Aitken as liaison officers. The paper added a condition: "Actual construction of the strip will not start until the association is in operation."[^ds531012]
 
 Two weeks later Chief Davis posted sample questions for his new Junior Police Reserve exam. One was a true-or-false: "The Drag Strip Association is chiefly concerned with setting up a police dragnet."[^ds531026] (The answer was false.)
 

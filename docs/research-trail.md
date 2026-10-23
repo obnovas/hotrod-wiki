@@ -267,7 +267,7 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 - **Local-paper archives, once reachable:** Pomona *Progress-Bulletin* and *Compton Herald* (1949-53) for the Choppers and Fontana openings; *Modesto Bee* for the Century Toppers' 1949-50 items; *Columbia Daily Tribune* (the June 1954 Motor Sports Club); *Sioux Falls Argus Leader* ("Igniters"); Glen Cove *Record-Pilot* ("Road Panthers"); *Kerrville Daily Times* via the Portal to Texas History (Drag-Uns, March 29, 1953).
 - **Inyokern:** the FAA order or a Dust Devils record that dates the last race; Mark Pahuta's film *The Hot Rod Years* (HSUMD, 2025); a second source for Bernie Partridge's "Big Daddy" nickname claim.
 - **Great Bend:** the 1955 Hot Rod announcement and a Great Bend Tribune 1955 report; the 146.16 vs 145.16 speed.
-- **Pomona:** the date the Choppers moved from Fontana to the fairgrounds; the officer's full name (Coons).
+- **Pomona:** the date the Choppers moved from Fontana to the fairgrounds; the officer's full name (Coons; settled in Round 22-West, see Resolved).
 - **Planners' report:** the Muroc "27 killed" claim and the 1947 California law's actual date and statute.
 - Carry: all Round 10 breadcrumbs below.
 

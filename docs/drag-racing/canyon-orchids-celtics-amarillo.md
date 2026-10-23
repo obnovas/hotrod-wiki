@@ -18,6 +18,7 @@ people:
 - Carl Hollabaugh
 - Ted Fowler
 - George Roden
+- Ralph Pray
 - Cecil McNeill
 - Charlie Wagner
 - Aaron Cottle
@@ -66,7 +67,7 @@ Canyon is the seat of Randall County, a small Panhandle college town just south 
 
 In May 1956 the paper ran "Boys Organize For Safe Driving." The first official meeting of "the Canyon timing association" had elected Carl Hollabaugh president, Boz Zachry vice president, Ted Fowler secretary, Slats Wheeler treasurer and Ray Mills business manager. The name they chose was "The Orchids." Police Chief George Roden came and offered full support: "The aims of the club are to promote safe driving, setting an example for all drivers, and to try to improve relations between so-called hot rodders and the citizens of Canyon." He added that the members felt "modifying stock cars is a wholesome activity for teen-agers with idle time." The boys planned a car wash at the city barn, a dragster "to enter in the drags in Amarillo," and a summer trip through New Mexico, Colorado, Wyoming, Idaho, Washington, California and Mexico.[^cn560523]
 
-In November the police chief (the paper now calls him Chief Pray) told a meeting on juvenile problems about the new "hot rod" club, which "should take the members off the streets." Most of its members, he said, were "above the juvenile age."[^cn561121]
+In November the chief of police was Ralph Pray (in May the paper had named George Roden as chief). Pray told a meeting on juvenile problems about the new "hot rod" club, which "should take the members off the streets." Most of its members, he said, were "above the juvenile age."[^cn561121]
 
 ## The Plugs at the book club (1957)
 
@@ -78,7 +79,7 @@ The strip was close enough for a family Sunday. In August 1960 the society colum
 
 In July 1962 the **Celtic Car Club** of Canyon reported that it had grown "from a small group of 11 members" to "almost 25 members in four months time." It was open to boys 16 and older and "was started to promote safety on the Texas highways." It had won two trophies at Amarillo, the latest for entering 18 cars in the drag strip races. Its officers were Charlie Wagner, Mike McAtee, Ben Burkett and Morris Steen. The members were working for an NHRA club charter.[^cn620726]
 
-The next week a local businessman, Aaron Cottle, paid for a display ad for the club. It listed four club objectives, from "To Promote Interest In Hot Rod Activities" to "To Promote Safety In Automobile Maintance And Operation." In capitals in the middle it gave one rule: "EVERY MEMBER'S CAR SHALL BE GIVEN A SAFETY CHECK EVERY THREE MONTHS." It closed with "MAKE PLANS TO ATTEND THE DRAG RACES AT THE AMARILLO DRAG STRIP. SUPPORT THE LOCAL CLUB."[^cn620802]
+The next week a display ad for the club ran with the line "THIS AD SPONSORED BY AARON COTTLE." It listed four club objectives, from "To Promote Interest In Hot Rod Activities" to "To Promote Safety In Automobile Maintance And Operation." In capitals in the middle it gave one rule: "EVERY MEMBER'S CAR SHALL BE GIVEN A SAFETY CHECK EVERY THREE MONTHS." It closed with "MAKE PLANS TO ATTEND THE DRAG RACES AT THE AMARILLO DRAG STRIP. SUPPORT THE LOCAL CLUB."[^cn620802]
 
 ## Seventy arrests in a dry county (1966)
 

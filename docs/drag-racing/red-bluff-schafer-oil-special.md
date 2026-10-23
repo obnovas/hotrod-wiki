@@ -1,6 +1,6 @@
 ---
 title: '"A Little Town Near the Oregon Border": the Schafer Oil Special and the Redding Airport Drags (Red Bluff and Redding, Calif., 1968–71)'
-summary: In 1969 a father-and-son junior fuel dragster from Red Bluff, Calif., qualified fourth of 60 at Bakersfield and lost the final by a few feet. At home it raced on a Redding airport runway that the Shasta Roadsters ran as a strip.
+summary: In 1969 a father-and-son junior fuel dragster from Red Bluff, Calif., qualified fourth of 60 at Bakersfield and finished "right behind" the winner in the final. At home it raced on a Redding airport runway that the Shasta Roadsters ran as a strip.
 department: drag-racing
 eras:
 - 1960s
@@ -73,7 +73,7 @@ The next February the paper's photo caption said the Schafer Oil Special would "
 
 Sports editor Bob Kennedy followed them south and wrote it up in his column, "Drag Racing World Hears From Red Bluff." He described the car as "a 302 cubic inch Chevrolet engine powered rail owned by the father and son team of Bob and Jack Schafer and driven by Garvin Tonkin," and George Santos had built the engine. It was one of more than 600 entries at the meet, which drew "40,000 plus people," and the field included Mickey Thompson, Don Garlits and Don Prudhomme. The team hoped only to be one of 16 of the 60 junior fuel cars to qualify. Tonkin qualified fourth, at 196.65 mph and 7.77 seconds. On the first day the announcer kept calling Red Bluff "a little town near the Oregon border." After that run, Kennedy wrote, it was the "Dark Horse" from Red Bluff.[^rb690305]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Kennedy had seen plenty of local racing, but "I have been to many drag races in Redding, Vina, and Sacramento, but compared to those, Bakersfield would be like comparing a Cadillac to a Volkswagen." In eliminations Tonkin beat Mike Clancy at 190.67 mph and then Bob Williams at 193.45 mph and 7.85 seconds. Burkey and Neal, the second-fastest qualifiers, red-lighted in the third round. That put the Red Bluff car in the final against Bill Tidwell, and the announcer called it as quoted at the top of this page. "Well, It was the old pros taking it." Tidwell got the jump at the start and won at 195.22 mph and 7.867 seconds. Tonkin ran a quicker elapsed time, 7.829 seconds at 194.80 mph, but finished behind. Tonkin was the only one disappointed: "he was caught napping at the line." The others in the pits, the Schafers, Ruth Tonkin and George Santos, were happy with the result.[^rb690305]
+Kennedy had seen plenty of local racing: "I have been to many drag races in Redding, Vina, and Sacramento, but compared to those, Bakersfield would be like comparing a Cadillac to a Volkswagen." In eliminations Tonkin beat Mike Clancy at 190.67 mph and then Bob Williams at 193.45 mph and 7.85 seconds. Burkey and Neal, the second-fastest qualifiers, red-lighted in the third round. That put the Red Bluff car in the final against Bill Tidwell, and the announcer called it as quoted at the top of this page. "Well, It was the old pros taking it." Tidwell got the jump at the start and won at 195.22 mph and 7.867 seconds. Tonkin ran a quicker elapsed time, 7.829 seconds at 194.80 mph, but finished behind. Tonkin was the only one disappointed: "he was caught napping at the line." The others in the pits, the Schafers, Ruth Tonkin and George Santos, were happy with the result.[^rb690305]
 
 ## Back on the runway (1969–71)
 
@@ -87,13 +87,13 @@ Northern California clubs also hunted for strips at [Modesto](modesto-century-to
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *All the Bakersfield numbers come from Kennedy's column. We have not checked them against a published result list (for example in* Drag News *or* National Dragster*). "Shasta Roadsters" (1968–69) and "Redding Roadsters" (1970) are probably the same club.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *All the Bakersfield numbers come from Kennedy's column. We have not checked them against a published result list (for example in* Drag News *or* National Dragster*). The same issue's photo caption muddies two of them: it says Tonkin "defeated three other dragsters to qualify for the number-one position," while also repeating the column's "fourth fastest qualifying time," and it gives his best speed of the meet as 195.63 mph, against the column's 196.65 mph qualifying run. The caption has him losing the final "by less than one second"; the column says he was "right behind him at the finish line." "Shasta Roadsters" (1968–69) and "Redding Roadsters" (1970) are probably the same club.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 
 ### Next leads
 
-The *Redding Record-Searchlight* for when the Shasta Roadsters began racing at the airport and when they stopped; the Schafer Oil Company and the team's later seasons; whether the Jaycees' 1972 strip plan went anywhere; the Vina strip Kennedy mentions. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+The *Redding Record-Searchlight* for when the Shasta Roadsters began racing at the airport and when they stopped; the Schafer Oil Company and the team's later seasons; whether the Jaycees' December 1971 strip idea went anywhere; the Vina strip Kennedy mentions. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Sources
 
