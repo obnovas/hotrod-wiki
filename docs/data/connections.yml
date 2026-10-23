@@ -85,6 +85,12 @@ nodes:
   - {id: dodge62,    label: Dodge (1962 brochure), type: institution, page: companies/hurst-campbell.md}
   - {id: amc,        label: American Motors (1966-68 list), type: institution, page: companies/hurst-campbell.md}
   - {id: sema,       label: SEMA,            type: institution, page: people/ed-iskenderian.md}
+  # ---- Round 22-West: Lincoln, Palm Springs
+  - {id: speedway,   label: Speedway Motors, type: company, group: garage-born, page: drag-racing/nebraska-go-out-to-scribner.md}
+  - {id: dwells,     label: Dick Wells,      type: person,  page: people/dick-wells.md}
+  - {id: lincoln,    label: "Lincoln, Neb.", type: place,   page: drag-racing/nebraska-go-out-to-scribner.md}
+  - {id: coons,      label: Bud Coons,       type: person,  page: drag-racing/pomona-choppers-fontana.md}
+  - {id: palmsprings, label: Palm Springs Timing Assn., type: club, page: drag-racing/palm-springs-timing-association.md}
 
 edges:
   # ----- Hurst
@@ -287,3 +293,20 @@ edges:
      evidence: ["Big John ran my cams, as did Seto Postoian"]}
   - {from: lvaughn, to: rushville, type: promotion, label: "Miss Hurst in the 1971 Rushville National Bank Auto Show parade", page: companies/hurst-campbell.md,
      evidence: ["13th annual Rushville National Bank Auto Show"]}
+  # ----- Round 22-West
+  - {from: speedway, to: lincoln, type: hometown, label: "Founded in Lincoln in 1952; 1719 N Street from 1954", page: drag-racing/nebraska-go-out-to-scribner.md,
+     evidence: ["Speedway Motors had been founded in Lincoln in 1952"]}
+  - {from: speedway, to: lincoln, type: promotion, label: "Paid for a Lincoln club's drag race ad, 1956", page: drag-racing/nebraska-go-out-to-scribner.md,
+     evidence: ["Ad donated by SPEEDWAY MOTORS 1719 N."]}
+  - {from: speedway, to: dwells, type: employed, label: "Wells was later assistant manager at Speedway Motors", page: people/dick-wells.md,
+     evidence: ["Later he was assistant manager at Speedway Motors."]}
+  - {from: dwells, to: lincoln, type: scene, label: "Lincoln Timing Association president, 1958", page: drag-racing/nebraska-go-out-to-scribner.md,
+     evidence: ["Richard Wells, Lincoln Timing Association president"]}
+  - {from: coons, to: pomona, type: employed, label: "Pomona traffic officer and hot rod liaison", page: drag-racing/pomona-choppers-fontana.md,
+     evidence: ["a racing enthusiast himself"]}
+  - {from: coons, to: palmsprings, type: mentor, label: "Advised the new Palm Springs association for NHRA, 1953", page: drag-racing/palm-springs-timing-association.md,
+     evidence: ["Sgt. Bud Coons of the Pomona police department, representing the National Hot Rod association"]}
+  - {from: dwells, to: kcstrip, type: scene, label: "Named Kansas City's as the nearest sanctioned strip, 1958", page: drag-racing/nebraska-go-out-to-scribner.md,
+     evidence: ["Wells said Kansas City had the nearest sanctioned strip"]}
+  - {from: dwells, to: sema, type: employed, label: "SEMA's executive director in the 1970s", page: people/dick-wells.md,
+     evidence: ["SEMA's executive director in the 1970s"]}

@@ -754,3 +754,48 @@ highlights:
     added: '2026-10-22'
     eras: [1960s]
     regions: ['Indianapolis, Ind.', 'Memphis, Tenn.', 'Greenwich, Conn.']
+
+  - id: palm-springs-police-dragnet-1953
+    headline: A 1953 police exam asked whether the Drag Strip Association was a police dragnet
+    teaser: In Palm Springs, two Pomona policemen helped desert teenagers form a timing association, and
+      the local chief put it on his junior reserve exam as a true-or-false question. Thirty-five youths
+      from six towns joined, NHRA promised a crew, and the strip never turned up in the town paper.
+    link: drag-racing/palm-springs-timing-association.md#two-policemen-from-pomona-october-1953
+    evidence: chiefly concerned with setting up a police dragnet
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s]
+    regions: ['Palm Springs, California']
+
+  - id: red-bluff-oregon-border-1969
+    headline: '"A little town near the Oregon border" made the junior fuel final at Bakersfield'
+    teaser: A father-and-son dragster from Red Bluff, Calif., built for a borrowed airport runway in Redding,
+      qualified fourth of 60 at the 1969 Fuel and Gas Championships. Its hometown sports editor watched
+      it lose the final despite a quicker elapsed time.
+    link: drag-racing/red-bluff-schafer-oil-special.md#bakersfield-1969
+    evidence: a little town near the Oregon border
+    source_type: Local news
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Red Bluff, California']
+
+  - id: speedway-motors-drag-ad-1956
+    headline: Speedway Motors paid for a Lincoln club's drag race ad in 1956
+    teaser: Before Nebraska had a sanctioned strip, the Eccentrics of Lincoln ran races 18 miles west on
+      O Street, and the ad at the bottom said it was donated by Speedway Motors, 1719 N. Two years later
+      the Lincoln Timing Association asked the city for a strip of its own.
+    link: drag-racing/nebraska-go-out-to-scribner.md#talk-at-city-hall-and-a-race-out-o-street-1956
+    evidence: Ad donated by SPEEDWAY MOTORS 1719 N.
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s]
+    regions: ['Lincoln, Nebraska']

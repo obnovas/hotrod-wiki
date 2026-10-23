@@ -53,7 +53,7 @@ The council's first president had another claim on history. [Wescott's](../stree
 
 That is what set the Northwest apart. Shows and strips were run by **civic-minded volunteer councils** with elected officials involved, rather than by promoters or magazines. Rain also meant more emphasis on indoor shows and coachwork.
 
-*See also:* [*Street Rod* magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), Bruce Miller and Bruce Craig's monthly, with technical editor Russ Meeks and photographer Dale Moreau.
+*See also:* [the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md), where Oregon racers came south in 1969; [*Street Rod* magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), Bruce Miller and Bruce Craig's monthly, with technical editor Russ Meeks and photographer Dale Moreau.
 
 ## Open questions & disputed details
 

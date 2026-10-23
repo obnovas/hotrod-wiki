@@ -59,7 +59,7 @@ It later moved to the State Fairgrounds and became one of the biggest street-rod
 
 That order is what set the region apart. Here the *street rod association* came first and drag racing came second. A cold climate and long distances shaped a culture of summer driving events and cruises rather than year-round racing.
 
-*See also:* [Lake Street and University Avenue](lake-street-university.md).
+*See also:* [Lake Street and University Avenue](lake-street-university.md), and farther west, ["Go Out to Scribner"](../drag-racing/nebraska-go-out-to-scribner.md) (Lincoln, Neb.).
 
 ## Open questions & disputed details
 

@@ -130,7 +130,7 @@ The story had traveled even earlier. Kansas City's results were already being qu
 <figcaption markdown>The old Chouteau Bridge over the Missouri River at Chouteau Trafficway, photographed in 1990 for the Historic American Engineering Record (HAER MO-93-12). In 1969 the *Sedalia Democrat* placed the 1955 strip "near the Chouteau Bridge"; this photo does not show the strip. Creator: Trey Cambern, photographer. Date: 1990. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francois_Chouteau_Bridge,_Spanning_Missouri_River_at_Chouteau_Traffic_Way,_Kansas_City,_Jackson_County,_MO_(cropped).jpg). License: Public domain.</figcaption>
 </figure>
 
-*See also:* [A Strip in a Ravine](kk-sports-arena-kaukauna.md).
+*See also:* [A Strip in a Ravine](kk-sports-arena-kaukauna.md), and ["Go Out to Scribner"](nebraska-go-out-to-scribner.md), where Lincoln's clubs named Kansas City as the nearest sanctioned strip in 1958.
 
 ## Open questions & disputed details
 

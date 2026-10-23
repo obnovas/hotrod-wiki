@@ -46,8 +46,11 @@ Hot rodding wasn't only a SoCal export. Other regions built their own scenes on 
 - [Memphis & the Mid-South](memphis.md): Memphis Rodders (1947), Halls airbase drags, Lakeland Dragway, the 1971 Nationals.
 - [Texas](texas.md): Caddo Mills (1951), the Chaparrals, the Fort Worth Turtles.
 - [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md): purpose-built strip on I-45 near Dickinson (1957–<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> 1987).
+- Texas small towns: [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) (Panhandle) and [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) (Central Texas).
+- California beyond the Los Angeles basin: [the Palm Springs Timing Association](../drag-racing/palm-springs-timing-association.md) (the desert) and [the Schafer Oil Special and the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md) (the upper Sacramento Valley).
 - [Pacific Northwest](pacific-northwest.md): MHRC, Portland Roadster Show, Woodburn, Wescott's.
 - [Upper Midwest](upper-midwest.md): MSRA and Back to the 50's.
+- The Plains: ["Go Out to Scribner"](../drag-racing/nebraska-go-out-to-scribner.md) (Lincoln, Neb.) and [Great Bend, Kansas](../drag-racing/great-bend-srca.md).
 
 ## How these regions differed from SoCal (summary)
 

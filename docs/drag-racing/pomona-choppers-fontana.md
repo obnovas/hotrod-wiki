@@ -47,7 +47,7 @@ canonical_for: []
 # Pomona's Choppers & the Fontana Strip: "If You Can't Control Them, Join Them"
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> municipal police chief's first-person account (FBI Law Enforcement Bulletin, Dec 1951), planning-officials report (ASPO, 1955), NHRA feature (2012), local-court blog item (1947) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** the chief is describing his own program, so the account is promotional; the officer's name and the strip's later move to the fairgrounds are only partly documented · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> municipal police chief's first-person account (FBI Law Enforcement Bulletin, Dec 1951), planning-officials report (ASPO, 1955), NHRA features (2012, 2015), <span class="hr-badge">Grassroots</span> town newspaper (1953), local-court blog item (1947) · **Last verified:** 2026-10-22 (Round 22-West) · **Open issues:** the chief is describing his own program, so the account is promotional; the date of the strip's move to the fairgrounds is not documented · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Every effort to control them failed, and it became apparent that the old adage, 'If you can't control them—join them' was the only approach not tried."
@@ -78,7 +78,7 @@ The "Choppers" Club "dug in" on **April 1, 1951**, with the program's operating 
 
 ## Later: the fairgrounds
 
-Fontana was not the end. A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the **Pomona Valley Timing Association**, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in **April 1953**. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Fontana was not the end. A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the **Pomona Valley Timing Association**, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in **April 1953**. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> The bulletin's "E. J. Coons" and NHRA's "Bud Coons" are the same man: Burgess's 2015 obituary names him as Eldo J. "Bud" Coons, a Pomona police sergeant,[^nhra2015] and in the fall of 1953 the Palm Springs paper reported Chief Parker and his sergeant advising desert youths on a timing association, naming him a month later as "Sgt. Bud Coons of the Pomona police department."[^ds531119] (See [the Palm Springs Timing Association](palm-springs-timing-association.md).)
 
 ## Why it matters
 
@@ -97,7 +97,7 @@ Compare the other local programs in [What the City Planners Wrote (1955)](planne
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The blog does not name the newspaper it summarizes.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** We found no source for exactly when the club moved from Fontana to the fairgrounds, and none that confirms that "E. J. Coons" and "Bud Coons" are the same officer. They probably are. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** We found no source for exactly when the club moved from Fontana to the fairgrounds. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Visual references (external)
 
@@ -105,6 +105,8 @@ Compare the other local programs in [What the City Planners Wrote (1955)](planne
 
 - [FBI Law Enforcement Bulletin, December 1951 (PDF)](https://leb.fbi.gov/file-repository/archives/december-1951.pdf). Parker's article starts on bulletin page 2 and includes a photo, "Two hot rods being flagged to a start for a drag race," and a track diagram.
 
+[^ds531119]: "Racing Strip Association Formed at Meeting Here," *The Desert Sun* (Palm Springs, Calif.), Nov. 19, 1953. Page OCR. https://archive.org/details/palm-springs-desert-sun-1953-11-19 (accessed 2026-10-22)
+[^nhra2015]: Phil Burgess, "Remembering Bud Coons and 'Surfer Hank'," NHRA.com, June 12, 2015. https://www.nhra.com/news/2015/remembering-bud-coons-and-surfer-hank (accessed 2026-10-22)
 [^leb]: Ralph E. Parker, "Pomona Police Join Forces With 'Hot Rodders,'" FBI Law Enforcement Bulletin, Dec 1951, pp. 2–5 and 11. https://leb.fbi.gov/file-repository/archives/december-1951.pdf (accessed 2026-10-15)
 [^aspo]: American Society of Planning Officials, Information Report No. 74, "Hot Rods, Car Clubs and Drag Strips" (May 1955). https://www.planning.org/pas/reports/report74.htm (accessed 2026-10-15)
 [^nhra]: Phil Burgess, "Pomona: SoCal drag racing's lifelong love," NHRA, Feb 1, 2012. https://www.nhra.com/news/2012/pomona-socal-drag-racing-s-lifelong-love (accessed 2026-10-15)
