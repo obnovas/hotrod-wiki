@@ -44,6 +44,10 @@ OVR = {"keep": [], "split": [], "move": []}
 CUR = {"rel": ""}
 
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from oq_items import problems as oq_problems  # noqa: E402
+
+
 def load_overrides():
     f = ROOT / "scripts/unknowns_overrides.yml"
     if yaml and f.exists():
@@ -537,9 +541,12 @@ def boilerplate(text):
     return [l[:120] for l in text.split("\n") if "hr-q-anchor" in l and any(re.search(b, l) for b in BOILERPLATE)]
 
 
-def check(text):
+def check(text, rel=""):
     bad = [f"boilerplate open-question item: {x}" for x in boilerplate(text)]
+    bad += [f"open-question item: {x}" for x in oq_problems(text, voices=rel.startswith("voices/"))]
     front, body = split_front(text)
+    if (rel == "index.md" or rel.endswith("/index.md") or re.search(r"^hub:\s*true\s*$", front, re.M)) and "hr-q-anchor" in body:
+        bad.append("hub page carries Open-questions items; move them to the story pages and link with [⚠](page.md#q-N)")
     body = body.split(SECTION)[0]
     for b in blocks_of(body):
         k = kind(b)
@@ -568,10 +575,10 @@ def main():
     for f in files:
         t = f.read_text()
         if chk:
-            bad = check(t)
+            bad = check(t, str(f.relative_to(ROOT / "docs")))
             if bad:
                 rc = 1
-                print(f"{f.relative_to(ROOT)}: {len(bad)} unknown(s) still in the prose")
+                print(f"{f.relative_to(ROOT)}: {len(bad)} Open-questions problem(s)")
                 for x in bad[:5]:
                     print("    ", x)
             continue
