@@ -1,6 +1,6 @@
 ---
 title: 'Summit Racing: A Corvette, a Donut-Shop Basement and Two Little Ads'
-summary: Summit Racing's first store was the basement of a donut shop in Stow, Ohio, in 1968. The story runs through two little ads and a Corvette that stayed.
+summary: Summit Racing began in 1968 as a Northeast Ohio drag racer's parts discount; one account puts its first "store" in a donut-shop basement in Stow. The story runs through two little ads and a Corvette that stayed.
 department: companies
 eras:
 - 1960s
@@ -64,7 +64,7 @@ canonical_for: []
 
     — Paul Sergi's father, as passed on by the Don Garlits Museum of Drag Racing's Founders Award write-up on Sergi (2026), about the farm lessons behind the company's customer service.[^garlits]
 
-Summit Racing's first "store," Classic American says, was the basement of a donut shop in Stow, Ohio. "The coffee and pastries were nice, but the location didn't get a lot of traffic."[^ca]
+Summit Racing's first "store," Classic American says, was the basement of a donut shop in Stow, Ohio. "The coffee and pastries were nice, but the location didn't get a lot of traffic."[^ca]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 It was 1968. A young engineer owned a 1967 Corvette roadster with the L71 427 and, per the company's own history, "made some connections to get hop-up parts at a discount," and "it wasn't long before his drag racing buddies found out and wanted the same deal."[^ca][^jobs] The Don Garlits Museum, which gave the founder, **Paul Sergi**, its Founders Award for the Class of 2025, fills in the farm boy behind it: a New Jersey family farm, car magazines at the local drugstore, college, and a new 1967 Corvette he still owns. When the 427 needed a special tool to adjust its valves, his closest speed shop "wasn't close enough to be convenient." He and its owner became friends, he began buying parts at distributor prices, and his racing buddies wanted in. The Corvette "became a delivery truck, and a spare bedroom became a warehouse."[^garlits]
 
@@ -74,15 +74,7 @@ RACER's version has the founder as "a drag racer who was frustrated by the lack 
 
 Advertising in the local newspaper came next, then a choice between his full-time job and the business. RACER says that by 1969 demand had grown enough for a first retail store in Akron, and that "three years later" Summit tested mail order "by placing small ads for Mickey Thompson ET wheels in *Hot Rod* and *Car Craft* magazines. Orders began rolling in from all over the country."[^racer] The wheels in those first ads were [Mickey Thompson](mickey-thompson.md)'s, from a company the Southern California drag racer had founded in 1963.
 
-The catalog followed. RACER says Summit printed its own catalog and hired sales and customer-service representatives by 1976; Classic American counts "nearly 200 editions" of the "Big Book" since "the first one appeared in 1974," annual until 1987, when it went to six a year.[^racer][^ca] The 1987 move was to a four-building facility in Akron, and by 1992 it had a new three-story headquarters in Tallmadge. SummitRacing.com launched in 1997, a Sparks, Nevada, distribution center in 1998, and big retail stores in Tallmadge and McDonough, Georgia, followed.[^racer] The Garlits write-up says the company's first mail-order catalog was created as Sergi placed small ads in national magazines, and adds the **Handshake Guarantee**, the 24/7 order line and the website.[^garlits]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
-
-| Item | RACER (2016) | Classic American (2018) | Wikipedia |
-|---|---|---|---|
-| 1968 start | part-time venture, "Northeast Ohio" | first "store" in a donut-shop basement in **Stow**[^ca] | "started in 1968 in **Akron**" |
-| 1969 | first retail store in **Akron**[^racer] | first true store, 1,500 sq ft and 20 feet wide, next to a Midas Muffler and a pizza shop in **Cuyahoga Falls**[^ca] | — |
-| First catalog | own catalog by **1976**[^racer] | first Big Book **1974**[^ca] | — |
-
-Wikipedia's text puts the start in Akron, while its infobox gives the founding place as Tallmadge, which is the headquarters town.[^wp] These are not necessarily contradictions: the store could have been on the Akron-Cuyahoga Falls line, and a "catalog" could mean a price sheet in 1974 and a printed book by 1976.
+The catalog followed. RACER says Summit printed its own catalog and hired sales and customer-service representatives by 1976; Classic American counts "nearly 200 editions" of the "Big Book" since "the first one appeared in 1974," annual until 1987, when it went to six a year.[^racer][^ca] The 1987 move was to a four-building facility in Akron, and by 1992 it had a new three-story headquarters in Tallmadge. SummitRacing.com launched in 1997, a Sparks, Nevada, distribution center in 1998, and big retail stores in Tallmadge and McDonough, Georgia, followed.[^racer] The Garlits write-up says the company's first mail-order catalog was created as Sergi placed small ads in national magazines, and adds the **Handshake Guarantee**, the 24/7 order line and the website.[^garlits]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## A Corvette that stayed
 
@@ -95,7 +87,7 @@ Summit also bought the naming rights to Norwalk Raceway Park in 2007, becoming S
 <figcaption markdown>Can-Am cars at Norwalk, Ohio, toward the end of the 2007 Pontiac Nationals (a 30th-anniversary Can-Am reunion), the track Summit later named. Creator: TropicDave. Date: 2007-12-23 19:38. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3_Can_Ams_at_Norwalk_30th_Anniv.JPG). License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).</figcaption>
 </figure>
 
-## Connect the dots
+## Ohio neighbors and suppliers
 
 The [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) is where the Arfons brothers, Otie Smith and Arlen Vanke raced, a few years before Summit began in the same part of the state; the link is place, not documented contact. [Arlen Vanke](../people/arlen-vanke.md) was an Akron racer who ordered a Pontiac Super Duty Catalina from a local dealer in 1961, the kind of customer Summit's early drag-racing buddies were. [The Ohio Gassers](../places/ohio-gassers.md) were the same state's racers, including Columbus's Jeg Coughlin, listed in Hill's account with "JEGS"; a JEGS profile is on the Research Trail. [Mr. Gasket](mr-gasket.md) was another Ohio parts business that began in a trunk and a basement, a few years earlier, and [Holley](holley.md) has owned that brand since 2015. Summit's first mail-order ads sold [Mickey Thompson](mickey-thompson.md)'s ET wheels, and the cam in the restored Corvette is from [COMP Cams and Racing Head Service](comp-cams-rhs.md).
 
@@ -105,9 +97,9 @@ The [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) is wher
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Where was the first store?** <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Where and when was the first store?** Classic American puts the first "store" in 1968 in a donut-shop basement in **Stow**, and the first true store in 1969: 1,500 square feet and 20 feet wide, next to a Midas Muffler and a pizza shop in **Cuyahoga Falls**.[^ca] RACER calls 1968 a part-time venture in "Northeast Ohio" and puts the first retail store in **Akron** in 1969.[^racer] Wikipedia's text says Summit "started in 1968 in Akron," while its infobox gives **Tallmadge**, the later headquarters town, as the founding place.[^wp] These may not be real contradictions, since a 1969 store could have sat on the Akron–Cuyahoga Falls line. A 1968–69 newspaper ad or city directory would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-**The early catalogs:** we have not seen the early catalogs themselves, so the 1974 and 1976 dates in the comparison table stay unreconciled.
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When was the first catalog?** Classic American dates the first "Big Book" to **1974**; RACER says Summit printed its own catalog by **1976**.[^ca][^racer] The Garlits write-up says only that the first mail-order catalog grew out of the small magazine ads.[^garlits] A "catalog" could mean a price sheet in 1974 and a printed book by 1976. We have not seen the early catalogs themselves. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
