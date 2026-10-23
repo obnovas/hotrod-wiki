@@ -58,7 +58,7 @@ That order is what set the region apart. Here the *street rod association* came 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The MSRA treats it as a rehearsal for hosting the **5th Nationals** in St. Paul that year. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **A rehearsal for the 5th Nationals?** That the 1974 Back to the 50's was a rehearsal for hosting the Nationals in St. Paul is the MSRA's own account.[^msra] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 

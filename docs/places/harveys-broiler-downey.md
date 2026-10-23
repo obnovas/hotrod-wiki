@@ -81,7 +81,7 @@ Cruising has since come back into the law's favor. A new California law, in effe
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** Louder: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard." <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The heartbeat of the custom-car movement?** The picture of customizers and painters up and down Firestone Boulevard is the owner Louder's, in a 2024 LAist interview.[^laist] Lead: Downey city directories for the late 1950s. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who owned it, and when?** The LA Times (1989) says Ortner sold to Smyriniotis in **1965**. The 2007 LA Times quotes the owner as saying he bought it "in 1968." LAist says the name changed "in the late '60s."[^lat89][^lat07][^laist] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

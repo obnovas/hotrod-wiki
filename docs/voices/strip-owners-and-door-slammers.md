@@ -182,7 +182,7 @@ Told about 40 years later, and confirmed by the *Street Rod* issue run (first is
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was the first 200-mph Funny Car pass?** Told years later. The date of the pass is disputed (Aug. 17, 1968, in this bio; "early 1969" and "autumn 1969" elsewhere). See [Gene Snow](../people/gene-snow.md#the-first-200-mph-one-pass-three-dates). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Gay died in 2007, so Burgess is quoting an earlier interview he does not date. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **When did Gay say it?** Phil Burgess quotes Don Gay in 2015 (NHRA.com, "Drag racing's teen terrors," https://www.nhra.com/news/2015/drag-racing-s-teen-terrors), but Gay died in 2007, so the interview is earlier and undated. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Peggy's 130 mph and the Bonneville record.** Both are C.J. Hart's own account, paraphrased and quoted by Dave Wallace in *Hot Rod* (January 1980); no other source gives the speed or the record attempt. The same article also dates his Lions start to both "'65" and "'63." See [Peggy Hart](../people/peggy-hart.md). <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

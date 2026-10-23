@@ -108,11 +108,11 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** This is from a search summary and needs a primary source; see the Research Trail. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Was the Bo-Weevil on the 1965 bill?** The SEMO Drag Strip's 1965 opening-day ad seems to headline a Tennessee fuel dragster that reads like Godman's Bo-Weevil, but the scan is garbled.[^sk62] See [SEMO Drag Strip](../drag-racing/semo-malden-drag-strip.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **The club's early dates.** The 1947 founding and the March 15, 1952 exhibit at Klyce Motors come from the Memphis Rodders' own site, which reproduces a *Commercial Appeal* photo.[^mr] We have not seen the photo in the paper itself. Lead: the *Commercial Appeal* for March 1952. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Does Fulghum's '32 survive?** That the club car survives, owned by David Kelley, comes only from the Memphis Rodders' own site.[^mr] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>**Disputed.** **1968 or 1969?** Edelbrock's 2023 statement dates Lunati's cam shop to 1968,[^edel] and his family's obituary says 1969.[^lunobit] See [Joe Lunati](../people/joe-lunati.md#q-3). <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 

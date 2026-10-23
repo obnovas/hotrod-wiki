@@ -103,9 +103,9 @@ How it ended is its own story: the 1960s ordinances, the 1963 case that led to t
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Who was Jimmie Addison?** That the Hemi GTX belonged to Addison, a Birmingham gas-station mechanic with factory contacts, comes only from Hemmings.[^hem] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** We have not identified the specific ordinances. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Which ordinances?** The accounts say ordinances, insurance and the oil crisis ended the era, but we have not identified the specific ordinances.[^hag][^hr] Lead: Birmingham, Royal Oak and Ferndale city council minutes, 1970s. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

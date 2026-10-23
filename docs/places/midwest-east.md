@@ -90,7 +90,7 @@ See also: [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob B
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Needs a direct source.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **What is "NSTRA"?** The Kentucky Motorsports Hall of Fame page is titled "NSTRA" but is about the NSRA's Louisville era.[^ky] We read it as the NSRA's state program, not a drag-racing body, but the page doesn't say. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ## Images
 

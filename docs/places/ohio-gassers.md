@@ -161,13 +161,13 @@ There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals clas
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No record sheet seen.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Did Garlits stop to pray?** The story that Garlits ran to the wreck, then to the tower to ask everyone "to pray for Chuck," and came back to win his class comes only from the farewell page.[^jrt1] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **The forum post.** The May 19, 2009 report of Finders's death comes to us only as a search excerpt, because the forum blocked our fetch.[^nsrauk] BangShift's May 26 item is readable and supports the date.[^bangshift] A newspaper obituary would settle it. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-<a id="q-8" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Mansfield*: **Virgil Cates**, "The Flying Junkman": one '33 Willys run as C/Gas, then C/Altered, with which "Cates won the NHRA World Championship Comp Eliminator title in **1965**" <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far.** **A 1965 world title for Cates?** That Virgil Cates won the NHRA World Championship Comp Eliminator title in 1965 comes only from Jim Hill's East Coast Drag Times Hall of Fame article.[^ecgm] Lead: NHRA's 1965 World Finals results. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
-<a id="q-9" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Statewide*: **Barbara Hamilton**: "the first woman licensed by NHRA to drive a supercharged race car in competition" ('37 Willys), ECDT HOF 2004 *"first" is a tribute claim.* **Fred Hurst**: candy-apple-red '40 Willys, then a Barracuda and an Opel GT with Hemi power <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** **The first woman licensed for a supercharged car?** Barbara Hamilton's "first" comes from her East Coast Drag Times Hall of Fame entry (2004), a tribute claim, as relayed in Jim Hill's article.[^ecgm] <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
 <a id="q-10" class="hr-q-anchor"></a>**Disputed.** **Names:** Hill names the Hill brothers "Pete and Bill" in his 2016 Midwest piece, matching Pete Hill's own letter on the [Red Baron](../cars/hill-bros-red-baron.md) page, but "Pete and Tom Hill" in his Mr. Gasket piece.[^ecgm][^ecmg] We use **Pete and Bill**. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 

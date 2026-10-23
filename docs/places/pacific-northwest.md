@@ -59,9 +59,9 @@ That is what set the Northwest apart. Shows and strips were run by **civic-minde
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** It was lengthened to a quarter mile in 1963, and Jim Livingston bought it in 1972 (Wikipedia; track site). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Quarter mile in 1963, Livingston in 1972?** Both dates come from Wikipedia and the track's own site, which may share a source.[^wd][^wda] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Racing at Vanport before Woodburn?** Only the Jefferson61 page says Portland racers used the vanished Vanport site, now Portland International Raceway.[^pir] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 
