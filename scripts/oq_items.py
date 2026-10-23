@@ -9,6 +9,8 @@ import re
 ANCHOR = re.compile(r'<a id="(q-\d+)" class="hr-q-anchor"></a>')
 COLON_LABEL = re.compile(r'^\s*\*\*(?:Single source so far|Disputed|Open question|Sources disagree|Label)[^*]*:\*\*')
 CITE = re.compile(r'\[\^[^\]]+\]|\]\([^)]*\.md(?:#[^)]*)?\)|\]\(<?https?://')
+FORMAT = re.compile(r'^\*\*(?:Disputed|Single source so far|Open question)\.\*\* \*\*(?:[^*]|\*[^*]+\*)+?\?\*\*')
+SECTION_HEAD = re.compile(r'^#{2,6} (.*?)\s*(?:\{[^}]*\})?\s*$', re.M)
 LEADS = re.compile(r'^#{2,6} (?:Next leads|More from the notebook)\b', re.M)
 URL = re.compile(r'https?://')
 
@@ -41,6 +43,12 @@ def problems(text, voices=False):
             continue  # a section-style item that lists research leads, not a claim
         if COLON_LABEL.match(body):
             bad.append(f"{q}: label ends with a colon; write '**Label.** **Question?**'")
+        elif body.startswith("#"):
+            head = SECTION_HEAD.match(body).group(1).replace("⚠", "").replace("◐", "").strip()
+            if not head.endswith("?"):
+                bad.append(f"{q}: a section-style item's heading must be the question (keep the old anchor with {{ #old-slug }})")
+        elif not FORMAT.match(body):
+            bad.append(f"{q}: start with '**Disputed.**', '**Single source so far.**' or '**Open question.**', then the question in bold, e.g. '**When did it open?**'")
         if not (CITE.search(body) or (voices and URL.search(body))):
             bad.append(f"{q}: no citation (footnote, wiki-page link{', or URL' if voices else ''})")
     return bad
