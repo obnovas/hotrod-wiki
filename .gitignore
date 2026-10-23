@@ -3,3 +3,5 @@ site/
 .cache/
 hooks/__pycache__/design_hook*
 hooks/__pycache__/redirects_hook*
+__pycache__/
+*.pyc
