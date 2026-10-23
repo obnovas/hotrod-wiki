@@ -34,6 +34,8 @@ import sys as _sys
 _sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 import related_lib  # noqa: E402  (front-matter overlap scoring)
 import quick_answers_lib  # noqa: E402  (Quick answers links in Keep reading)
+import paths_lib  # noqa: E402  (reading paths: path bar + path index)
+from articles_lib import RECORD_NOTES  # noqa: E402  (record-box note fields)
 
 SITE = {}      # site-wide, filled lazily in on_page_context
 IMG_DIMS = {}  # abs path -> (w, h)
@@ -219,6 +221,40 @@ def parse_record(html):
     rec.update(level=level, conf_word=first, conf_note=rest,
                grassroots="hr-badge" in body)
     return html[:m.start()] + html[m.end():], rec
+
+
+# ---------------------------------------------------------------- record-box notes (front matter -> record box)
+FNREF_RE = re.compile(r"\[\^([^\]]+)\]")
+
+
+def record_notes(meta, html):
+    """location / peak / status / later / revival / principal_source front matter -> [(label, html)] for the record
+    box. Footnote refs keep the number the page's footnote list gives them and link to it; when the body never cites
+    that note, the ref takes the fnref id so the note's back-link lands here."""
+    import markdown as _md
+    order = re.findall(r'<li id="fn:([^"]+)"', html)
+    used = set(re.findall(r'id="fnref\d*:([^"]+)"', html))
+    out = []
+    for key, label in RECORD_NOTES:
+        v = meta.get(key)
+        if not v:
+            continue
+        items = v if isinstance(v, list) else [v]
+        parts = []
+        for x in items:
+            def ref(k):
+                n = order.index(k) + 1 if k in order else "?"
+                rid = "" if k in used else f' id="fnref:{k}"'
+                used.add(k)
+                return f'<sup class="hr-recref"{rid}><a class="footnote-ref" href="#fn:{k}">{n}</a></sup>'
+            h = _md.markdown(FNREF_RE.sub(lambda m: f"HRFNREFx{m.group(1).encode().hex()}xHRFNEND", str(x)), extensions=["attr_list"])
+            h = re.sub(r"^<p>|</p>$", "", h.strip())
+            h = re.sub(r"HRFNREFx([0-9a-f]+)xHRFNEND", lambda m: ref(bytes.fromhex(m.group(1)).decode()), h)
+            parts.append(h)
+        if key == "principal_source" and len(parts) > 1:
+            label = "Principal sources"
+        out.append((label, " ".join(parts), key))
+    return out
 
 
 # ---------------------------------------------------------------- figures
@@ -529,6 +565,67 @@ def _identity_cells(html):
     return re.sub(r"<tr>.*?</tr>", tr_sub, html, flags=re.S)
 
 
+# ---------------------------------------------------------------- tables on phones
+TABLE_RE = re.compile(r"<table>(.*?)</table>", re.S)
+STACK_MAX_ROWS = 25
+
+
+def wrap_tables(html):
+    """Plain Markdown tables get a wrapper that tells the CSS what to do on a phone. Every body cell gets its column
+    name (data-label). Tables of 4+ columns and up to 25 rows become stacked cards under 44em, one card per row.
+    Longer or classed tables keep a horizontal scroll with a sticky first column, and JS adds a "swipe" hint when one
+    really overflows. Tables with a class (people index, connections web) are left alone."""
+    def sub(m):
+        t = m.group(1)
+        heads = [text_of(h) for h in re.findall(r"<th[^>]*>(.*?)</th>", (re.search(r"<thead>(.*?)</thead>", t, re.S) or m).group(1), re.S)]
+        rows = len(re.findall(r"<tr", t)) - (1 if heads else 0)
+        cols = len(heads)
+        if not heads:
+            return m.group(0)
+
+        def label_row(rm):
+            i = [0]
+
+            def td(cm):
+                k = i[0]
+                i[0] += 1
+                if k >= cols or not heads[k]:
+                    return cm.group(0)
+                return f'<td{cm.group(1) or ""} data-label="{htmlmod.escape(heads[k], quote=True)}">'
+            return re.sub(r"<td(\s[^>]*)?>", td, rm.group(0))
+        body = re.sub(r"<tbody>.*?</tbody>", lambda bm: re.sub(r"<tr[^>]*>.*?</tr>", label_row, bm.group(0), flags=re.S), t, flags=re.S)
+        mode = "stack" if cols >= 4 and rows <= STACK_MAX_ROWS else "scroll"
+        return f'<div class="hr-tw hr-tw--{mode}" data-cols="{cols}"><table>{body}</table></div>'
+    return TABLE_RE.sub(sub, html)
+
+
+# ---------------------------------------------------------------- primary era (badge + era skin)
+def era_key(decade):
+    """'1950s' -> 'e50'. Everything up to the 1940s wears the dry-lakes skin; the 1990s and later the 1980s one."""
+    m = re.match(r"^(\d{4})s$", str(decade).strip().lower())
+    if not m:
+        return FRONT_ERA.get(str(decade).strip().lower())
+    d = int(m.group(1))
+    return "e30" if d < 1950 else "e50" if d < 1960 else "e60" if d < 1970 else "e70" if d < 1980 else "e80"
+
+
+def primary_era(meta, src):
+    """The era a story is mainly about, from front matter only (never from the `years` span, which runs from births
+    to revivals). Order: an explicit `era:`; on an Eras page, the decade the page is filed under (its file name);
+    else the first entry of `eras`. Returns (skin key, where it came from, decade label)."""
+    if meta.get("era"):
+        k = era_key(meta["era"])
+        if k:
+            return k, "era", str(meta["era"])
+    m = re.match(r"eras/(1\d{3})s-", src or "")
+    if m:
+        return era_key(m.group(1) + "s"), "file", m.group(1) + "s"
+    eras = [str(e) for e in (meta.get("eras") or [])]
+    if eras:
+        return era_key(eras[0]), "eras", eras[0]
+    return None, None, None
+
+
 # ---------------------------------------------------------------- era heuristic
 def guess_era(html):
     body = re.sub(r'<div class="footnote".*', "", html, flags=re.S)
@@ -658,6 +755,8 @@ def on_page_content(html, page, config, files):
         info["title_html"] = htmlmod.escape(page.title or "")
 
     html, rec = parse_record(html)
+    if rec is not None:
+        rec["notes"] = record_notes(meta, html)
     info["record"] = rec
     html, _ = process_figures(html, page, config, info)
     if info["kind"] in ("story", "ref") and not meta.get("no_hero"):
@@ -675,6 +774,7 @@ def on_page_content(html, page, config, files):
     elif src.startswith("reference/index-"):
         html = index_html(html)
     html = _identity_cells(html) if "<th>Identity</th>" in html else html
+    html = wrap_tables(html)
 
     # stats / blurb / era
     body_no_fn = re.sub(r'<div class="footnote".*', "", html, flags=re.S)
@@ -685,11 +785,8 @@ def on_page_content(html, page, config, files):
     info["images"] = len(re.findall(r"<figure", html))
     info["blurb"] = truncate(str(meta["summary"]).strip(), 240) if meta.get("summary") else pick_blurb(html)
     info["margin"] = bool(re.search(r"hr-fig--(plate|tall|small|wide)", html)) or src.startswith("voices/")
-    era = FRONT_ERA.get(str(meta.get("era", "")).strip().lower()) if meta.get("era") else None
     yrs = meta.get("years")
-    if not era and isinstance(yrs, list) and len(yrs) == 2 and all(isinstance(y, int) for y in yrs):
-        mid = (yrs[0] + yrs[1]) // 2
-        era = FRONT_ERA.get(f"{max(1930, min(1990, mid // 10 * 10))}s")
+    era, info["era_source"], info["era_decade"] = primary_era(meta, src)
     info["era_explicit"] = bool(era)
     info["era"] = era or (guess_era(html) if info["kind"] in ("story",) else None)
     info["deck"] = meta.get("deck")
@@ -914,6 +1011,61 @@ def build_site(nav, config):
     SITE["built"] = datetime.date.today()
 
 
+# ---------------------------------------------------------------- reading paths
+PATHS_PAGE = "reference/reading-paths.md"
+
+
+def paths_site(pages):
+    """Load docs/data/paths.yml once per build; resolve steps to pages. -> {"paths": [...], "by_src": {...}}"""
+    if "paths" in SITE:
+        return SITE["paths"]
+    try:
+        raw = paths_lib.load()
+    except Exception as e:  # the build check reports data errors; never break the site over a bad path file
+        log.warning("reading paths: %s", e)
+        raw = []
+    by_src_page = {p.file.src_uri: p for p in pages.values()}
+    out, idx = [], {}
+    for p in raw:
+        steps = []
+        for s in p.get("steps") or []:
+            pg = None if s.get("planned") else by_src_page.get(s.get("page"))
+            if pg is None:
+                if s.get("planned"):
+                    steps.append({"planned": True, "why": s.get("why") or "",
+                                  "title": Path(str(s.get("page"))).stem.replace("-", " ").capitalize()})
+                continue
+            c = card(pg, INFO.get(pg.file.src_uri, {}))
+            c["why"] = s.get("why") or ""
+            c["src"] = pg.file.src_uri
+            steps.append(c)
+        live = [x for x in steps if not x.get("planned")]
+        for i, x in enumerate(live):
+            x["n"] = i + 1
+        decs = sorted({e for x in live for e in (x.get("eras") or [])[:1]})
+        po = {"id": p.get("id"), "letter": p.get("letter"), "title": p.get("title"), "purpose": p.get("purpose"),
+              "extra": bool(p.get("extra")), "steps": steps, "live": live, "n": len(live),
+              "planned": len(steps) - len(live), "span": (decs[0] + "–" + decs[-1]) if len(decs) > 1 else (decs[0] if decs else ""),
+              "minutes": sum(x.get("minutes") or 0 for x in live), "url": f"reference/reading-paths/#{p.get('id')}"}
+        po["short"] = re.sub(r"\s*\([^)]*\d{4}[^)]*\)\s*$", "", po["title"] or "")
+        if len(po["short"]) > 46:
+            po["short"] = re.split(r"(?<=[?:])\s", po["short"])[0].rstrip(":")
+        out.append(po)
+        for i, x in enumerate(live):
+            idx.setdefault(x["src"], []).append((po, i))
+    SITE["paths"] = {"paths": out, "by_src": idx}
+    return SITE["paths"]
+
+
+def path_ctx(po, i):
+    live = po["live"]
+    strip = lambda c: {k: c.get(k) for k in ("title", "url", "why", "summary", "blurb", "n", "era", "thumb", "eras", "place", "dept", "level", "conf", "grass", "years", "tags", "region", "kind")}  # noqa: E731
+    return {"id": po["id"], "letter": po["letter"], "title": po["title"], "short": po["short"], "url": po["url"],
+            "n": i + 1, "of": po["n"], "pct": round(100 * (i + 1) / po["n"]),
+            "prev": strip(live[i - 1]) if i > 0 else None, "next": strip(live[i + 1]) if i + 1 < po["n"] else None,
+            "first": strip(live[0])}
+
+
 def slugify(t):
     return re.sub(r"[^a-z0-9]+", "-", str(t).lower()).strip("-")
 
@@ -949,13 +1101,14 @@ def grassroots_table(pages, here):
 def on_page_context(context, page, config, nav):
     if "depts" not in SITE or SITE.get("_nav_id") != id(nav):
         SITE.pop("depts", None)
+        SITE.pop("paths", None)
         build_site(nav, config)
         SITE["_nav_id"] = id(nav)
         seed_date(config)
     info = INFO.get(page.file.src_uri, {"kind": "story"})
     kind = info.get("kind", "story")
     hr = dict(info)
-    hr["era_label"] = ERA_SHORT.get(info.get("era"))
+    hr["era_label"] = info.get("era_decade") or ERA_SHORT.get(info.get("era"))
     hr["thumb_url"] = thumb_for(info)
     d = info.get("dept")
     hr["dept"] = d
@@ -1037,6 +1190,20 @@ def on_page_context(context, page, config, nav):
         qs = list(qmain.get(src, []))
         qs += [q for q in qalso.get(src, []) if q not in qs]
         hr["quick"] = [{"q": q["q"], "id": q["id"]} for q in qs[:4]]
+        # reading paths: primary path (first in paths.yml) gets the bar; the rest are "also on"
+        ps = paths_site(pages)
+        on = ps["by_src"].get(src) or []
+        if on:
+            hr["path"] = path_ctx(*on[0])
+            # the path's next/previous step already has a card: don't repeat it in the department prev/next
+            for k in ("next", "prev"):
+                if hr.get(k) and hr["path"].get(k) and hr[k]["url"] == hr["path"][k]["url"]:
+                    hr[k] = None
+            hr["path_also"] = [{"title": po["title"], "short": po["short"], "url": po["url"], "letter": po["letter"],
+                                "n": i + 1, "of": po["n"]} for po, i in on[1:]]
+    if page.file.src_uri == PATHS_PAGE:
+        ps = paths_site(pages)
+        hr["paths_index"] = ps["paths"]
     if kind == "section" and d:
         kids = [p for p in d["pages"] if not p.is_index]
         hr["children"] = [card(p, INFO.get(p.file.src_uri, {})) for p in kids]
@@ -1055,7 +1222,7 @@ def on_page_context(context, page, config, nav):
         if fp is not None:
             fc = card(fp, INFO.get(fp.file.src_uri, {}))
             fi = INFO.get(fp.file.src_uri, {})
-            fc["era_label"] = ERA_SHORT.get(fi.get("era"))
+            fc["era_label"] = fi.get("era_decade") or ERA_SHORT.get(fi.get("era"))
             fc["minutes"] = fi.get("minutes")
             hr["featured"] = fc
         places = []
