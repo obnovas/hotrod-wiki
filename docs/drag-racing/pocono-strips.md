@@ -118,7 +118,7 @@ One more trace. In December 1959 *Car Craft* covered the NHRA's first National C
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** A fifth season in 1964 points to a first one in 1960, but we have not found an opening notice. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** A fifth season in 1964 points to a first one in 1960, but we have not found an opening notice.[^dr640404] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did the airport ever answer?** Mrs. Heller's 1964 letter proposed races at the Pocono airport.[^dr640605] We found no reply from the airport authority and no drag race there. Lead: the *Daily Record* for summer 1964. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

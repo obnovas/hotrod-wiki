@@ -112,9 +112,9 @@ The club's own ads can't agree on a name for the place. In September 1955 the Ge
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Were they the same Strokers?** The north St. Louis Strokers Club of August 1955[^strokers] and the Strokers who raced at the Gear Jammers' meet in June 1956[^pd1956] are each named once, and neither story ties them together. Lead: a roster or a later *Post-Dispatch* story that names the club's members. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *We give the paper's description, including its "1000 horsepower," as printed. We have not identified the engine.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *We give the paper's description, including its "1000 horsepower," as printed. We have not identified the engine.*[^dragons] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** *Mehrtens or Mertens: the newspaper and the magazine spell it differently.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** *Mehrtens or Mertens: the newspaper and the magazine spell it differently.*[^cc1958] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Sources
 

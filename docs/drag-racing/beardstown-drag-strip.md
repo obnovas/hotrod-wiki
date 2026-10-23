@@ -69,11 +69,11 @@ A small river town drew a crowd of 2,000 to a country-road strip, and five years
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *That's all the column says about the strip: no owner, no length, no clubs.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *That's all the column says about the strip: no owner, no length, no clubs.*[^jdj670528] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We have not found the result.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We have not found the result.*[^jdj720609] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *Nothing ties the strip to either field.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Open question.** **Was the strip on an airfield?** The same 1967 column that reported the strip also wrote about Beardstown's wartime pilot-training program and a new airport, but nothing ties the strip to either field.[^jdj670528] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>
 

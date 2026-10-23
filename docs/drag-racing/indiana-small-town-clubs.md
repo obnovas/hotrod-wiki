@@ -98,7 +98,7 @@ The local items (the Decatur notices, the Syracuse profile) are short, unsigned 
 
 <a id="q-1" class="hr-q-anchor"></a>**Open question.** **Which "national Hot Rod club"?** The September 12 notice says a "chapter of the national Hot Rod club."[^d912] No such organization is named, and there were several by 1956 (the NHRA among them). We do not know whether Decatur ever received a charter. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** **What we could not find.** After the February 1957 car wash we found no item about the Road Runners. Whether they raced, built a strip or faded is unknown. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** **What became of the Road Runners?** After the February 1957 car wash notice we found no item about the club.[^d0201] Whether they raced, built a strip or faded is unknown. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** This is an automaker's public relations column. It does not say when or where in Detroit the club met, and we have not found a Detroit paper confirming Tomlinson. It is useful here because Greencastle readers saw it. For Detroit's own scene see [Detroit Dragway & Cordova](detroit-cordova.md) and [Woodward](../places/woodward.md). <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

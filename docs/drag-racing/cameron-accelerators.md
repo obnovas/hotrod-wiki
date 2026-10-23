@@ -95,9 +95,9 @@ The same club name lasted seven years, and the meetings stayed at Krenek's garag
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Open question.** *We do not know how Louis Krenek and Chuck Krenek were related to Charlie L. Krenek, or whether "Krenek's Speed Shop" (1957) and "Charlie's Garage" (1963) were the same business.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** *We do not know how Louis Krenek and Chuck Krenek were related to Charlie L. Krenek, or whether "Krenek's Speed Shop" (1957) and "Charlie's Garage" (1963) were the same business.*[^ch560510] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We found no later story saying the 1956 airport strip or the Wohleb farm strip was built or used. The 1960 "Little River Drag Strip" is named once, with no location.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We found no later story saying the 1956 airport strip or the Wohleb farm strip was built or used. The 1960 "Little River Drag Strip" is named once, with no location.*[^ch630516] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>
 

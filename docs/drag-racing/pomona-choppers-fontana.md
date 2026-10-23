@@ -95,9 +95,9 @@ Compare the other local programs in [What the City Planners Wrote (1955)](planne
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The blog does not name the newspaper it summarizes.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The blog does not name the newspaper it summarizes.*[^c47] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** We found no source for exactly when the club moved from Fontana to the fairgrounds. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** We found no source for exactly when the club moved from Fontana to the fairgrounds.[^nhra] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Visual references (external)
 

@@ -101,17 +101,17 @@ The clubs had asked the county for a strip, and the county had said no. A farmer
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The letter dates the visit to "Saturday, June 11." In 1967 June 11 fell on a Sunday, KK's drag day, so either the day or the date is a slip. We have not found a race report for that weekend. The Ghost Rods are named only as a clubhouse; we know nothing else about the club yet.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The letter dates the visit to "Saturday, June 11." In 1967 June 11 fell on a Sunday, KK's drag day, so either the day or the date is a slip. We have not found a race report for that weekend. The Ghost Rods are named only as a clubhouse; we know nothing else about the club yet.*[^pc670629][^pc680615] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Neither the mile-long strip nor the parts plant shows up again in what we have read. The 1969 feature describes a quarter-mile strip with long paved shutdown, not a mile-long course.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Neither the mile-long strip nor the parts plant shows up again in what we have read. The 1969 feature describes a quarter-mile strip with long paved shutdown, not a mile-long course.*[^pc661214] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *"One of the longest in the world" is the arena's own claim, passed on by the writer; it describes the whole paved length, not the racing distance.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *"One of the longest in the world" is the arena's own claim, passed on by the writer; it describes the whole paved length, not the racing distance.*[^pc690311] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The 1970 story dates the arena's opening to June 1966, the month the drag strip opened. The paper's own 1964 stories describe stock car racing at KK that year, and the 1968 feature says the building program "started back in 1964." See [A Strip in a Ravine](kk-sports-arena-kaukauna.md). "Five years of operation" fits 1966–70 only if counted by seasons.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *We have not checked whether anyone raced at KK in 1971 or later, or who bought the land.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *We have not checked whether anyone raced at KK in 1971 or later, or who bought the land.*[^pc701113b] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Open question.** *A 1968 feature, read in a badly interleaved scan, makes the arena's president, a 46-year-old Kaukauna man, also president of events at Great Lakes Dragaway in Union Grove. The 1970 bankruptcy story confirms his name, Joseph Van Daalwyk, but says nothing of Union Grove. We have not confirmed that link.* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Open question.** **Did the arena's president also run events at Union Grove?** A 1968 feature, read in a badly interleaved scan, seems to say so (see [A Strip in a Ravine](kk-sports-arena-kaukauna.md#q-5)).[^pc680421] The 1970 bankruptcy story confirms his name, Joseph Van Daalwyk, but says nothing of Union Grove.[^pc700719] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>
 

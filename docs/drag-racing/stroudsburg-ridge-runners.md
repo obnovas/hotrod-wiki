@@ -115,7 +115,7 @@ The letter's real purpose was a strip, and it is told on [Where Could a Pocono H
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not found the award in any NHRA source. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not found the award in any NHRA source.[^dr571211] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** That half-fine rule is the third one we have found. Belleville ran NHRA-billed drags, the Ridge Runners belonged to NHRA, and the [Sedalia Drag-Ons](sedalia-drag-ons.md) voted in 1957 that every member must belong to it. A shared NHRA model rulebook would explain the rule, but none of the three sources says so, and we have not found such a model. ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

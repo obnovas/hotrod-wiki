@@ -100,7 +100,7 @@ For how other strips answered that spring, see the safety rules a Wisconsin writ
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The July 16, 1959, notice is the only place we have seen Saturday races for Black drivers at Yellow River. We have not found results, ads or a notice of when they ended. The* Atlanta Daily World *is in the same archive and is the next place to look.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The July 16, 1959, notice is the only place we have seen Saturday races for Black drivers at Yellow River. We have not found results, ads or a notice of when they ended. The* Atlanta Daily World *is in the same archive and is the next place to look.*[^cn590716] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *The* Life *spread, the ambulance sequence and the Covington location rest on one paper, the* Covington News *(May 19 and June 16, 1960, and a passing mention on March 30, 1961).[^cn600616][^cn610330] We have not read the magazine itself: Google Books holds the June 13, 1960 issue, but its search page answered with a robot check, which we did not try to get past.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -108,11 +108,11 @@ For how other strips answered that spring, see the safety rules a Wisconsin writ
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The* Covington News *of March 6, 1969, says the strip had "operated for 11 years."[^cn690306a] The same paper's July 1959 notices date the opening to July 4, 1959,[^cn590702] which makes the 1969 meet the start of its eleventh season, not the end of its eleventh year. The opening date itself is not in doubt.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *The slick track and the crowd standing 10 feet away are Beswick's account, given to legislators the day after. We have not found an official finding on the cause, and the defendants' answers to the lawsuit, which might give their own account, are only summarized in the* Omega News*.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *The slick track and the crowd standing 10 feet away are Beswick's account, given to legislators the day after. We have not found an official finding on the cause, and the defendants' answers to the lawsuit, which might give their own account, are only summarized in the* Omega News*.*[^cn690306a] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Disputed.** *The 1969 papers spell the driver "Houston Platt";[^cn690306a] Charlie Sewell's 2019 column calls him "Huston Platt" and names his car the "Dixie Twister."[^wcm191023] The papers we read do not name the car.* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Open question.** *We have not found how the Loftis suit or any other suit ended, or exactly when racing stopped for good at Yellow River. A 1981 legal notice still lists "Yellow River Drag Strip Inc." among Newton County corporations.* <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Open question.** *We have not found how the Loftis suit or any other suit ended, or exactly when racing stopped for good at Yellow River. A 1981 legal notice still lists "Yellow River Drag Strip Inc." among Newton County corporations.*[^on690619] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>
 

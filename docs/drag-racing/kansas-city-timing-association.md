@@ -134,7 +134,7 @@ The story had traveled even earlier. Kansas City's results were already being qu
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Both items are Pond's retelling of newspaper pieces.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Both items are Pond's retelling of newspaper pieces.*[^pond] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 
@@ -151,7 +151,7 @@ The story had traveled even earlier. Kansas City's results were already being qu
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** "First in Missouri" is the paper's claim, not something we have checked. See [The Big S.I.R.](sedalia-big-sir.md). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *These are Behr's figures as reported; they are not in Pond's article, and we have not found their original source. Pond's own claim was stronger and less exact ("no more hot rodding on the streets").* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *These are Behr's figures as reported; they are not in Pond's article, and we have not found their original source. Pond's own claim was stronger and less exact ("no more hot rodding on the streets").*[^ij56] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>
 

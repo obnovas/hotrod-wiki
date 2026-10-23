@@ -112,17 +112,17 @@ Malden fits the pattern of the old-airfield strips: a town that suddenly owned a
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The OCR of these results is garbled; we take only the name and town.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *The OCR of these results is garbled; we take only the name and town.*[^sk610815][^sk610911] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *The scan reads "La;. Hodman's Rouble A Fuel Dragster, The Tennessee IV-Weevil," which looks very much like Memphis racer Ray Godman's Bo-Weevil, but we cannot read it cleanly.*[^sk650409] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *The report calls the strip "Lakeland Drag Strip at Malden," probably mixing it up with the Memphis track.* <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** *The report calls the strip "Lakeland Drag Strip at Malden," probably mixing it up with the Memphis track.*[^sk660412] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Jim New is the first contact person we've found in a Malden ad; we don't yet know his role.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Jim New is the first contact person we've found in a Malden ad; we don't yet know his role.*[^sk660506] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** Whether it was the Teleflex truck the ad promised is not stated <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** Whether it was the Teleflex truck the ad promised is not stated[^sk660627] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *The paper spells him "Beltetti."* <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *The paper spells him "Beltetti."*[^sk660627] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>
 

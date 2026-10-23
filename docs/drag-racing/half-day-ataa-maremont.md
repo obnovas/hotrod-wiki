@@ -128,7 +128,7 @@ The safety pitch did not settle the argument. In March 1957, a wire survey on dr
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did these men endorse the ATAA?** Their names come from the ATAA's own news release as printed in *Traffic Digest and Review*, so the endorsement is the sponsor's claim.[^tdr] Lead: the National Safety Council's own publications for 1954. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The two scans differ on the invitation count (26 vs 28; both OCR), and both repeat Maremont.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** *The two scans differ on the invitation count (26 vs 28; both OCR), and both repeat Maremont.*[^esc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** The numbers grow as the story is retold, from 140 competitors to "more than 200" and from 1,500 spectators to 2,000. We cannot tell which is right. The earliest and most detailed account says 140 and 1,500.[^sm][^esc][^tdr][^pc][^ma] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

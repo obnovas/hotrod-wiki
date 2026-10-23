@@ -72,6 +72,6 @@ So when the town's police chief told a statewide audience that regulating hot ro
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Open question.** **What we could not find.** The story names no sponsor of the panel beyond the Association of Towns convention and gives no vote or resolution. We looked for a state law to match the sheriff's proposals and found none in what we read. We have not read the *Record-Pilot* of Glen Cove, which would be the place to learn what the chief's town actually did. ◐ <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Open question.** **What came of the panel?** The wire story names no sponsor beyond the Association of Towns convention and reports no vote or resolution.[^kf570214] We found no state law matching the sheriff's proposals in what we read. Lead: the Glen Cove *Record-Pilot*, for what the chief's town actually did. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 [^kf570214]: "Opinions Differ on Hot Rods" (Buffalo, N.Y., Feb. 14 wire story), *Kingston Daily Freeman*, Feb. 14, 1957 (OCR of the scanned issue). https://archive.org/details/kingston-daily-freeman-1957-02-14 (accessed 2026-10-18)

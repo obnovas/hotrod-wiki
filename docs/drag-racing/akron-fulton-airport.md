@@ -107,7 +107,7 @@ The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *Event-publicity claim, echoed by NHRA's 2017 Vanke obituary (see [Arlen Vanke](../people/arlen-vanke.md)); we have no NHRA sanction list to check it.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Figures as given in the 2016 report; not checked against FIA lists this round.* <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *Figures as given in the 2016 report; not checked against FIA lists this round.*[^oac] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **A championship or a class win?** The historical marker calls his 1959 win "the National Hot Rod Association's 1959 championship,"[^hmdb] while NHRA's own account says he won Middle Eliminator at the Nationals in Detroit.[^nhra] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

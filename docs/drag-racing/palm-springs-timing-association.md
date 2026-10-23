@@ -96,7 +96,7 @@ A small town borrowing a bigger town's police model is a pattern elsewhere in th
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *We have only this one mention of Woestman's drag strip effort, and no report that the timing association ever secured land, held the NHRA-crewed first meet, or raced at another strip under its own name.* <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** *We have only this one mention of Woestman's drag strip effort, and no report that the timing association ever secured land, held the NHRA-crewed first meet, or raced at another strip under its own name.*[^ds550609] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 
