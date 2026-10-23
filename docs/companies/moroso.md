@@ -109,13 +109,13 @@ One local detail made it work: across the highway stood a large **Pratt & Whitne
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Designing engines or selling parts is a real difference; Wikipedia's account cites a 1990 *Chicago Tribune* profile we have not read.[^wp] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Designing engines or selling parts?** CBS has young Moroso "designing car engines" in the basement; Wikipedia has him selling speed parts there as Speed Associates, citing a 1990 *Chicago Tribune* profile we have not read.[^cbs][^wp] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The numbers are from the book, which we did not see.[^cbs][^wp] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **13.32 at 103.21 in 1966?** The class and numbers come from Wikipedia, citing Larry Davis's *Gasser Wars*, which we did not see.[^cbs][^wp] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** These are the firm's own claims and we have not checked them against patents, magazine tests or catalogs.[^co] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Moroso pioneer deep sumps and electric water pumps?** These are the firm's own claims; we have not checked them against patents, magazine tests or catalogs.[^co] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** Wikipedia says he bought it in **1981** and spent **$100,000** to ready it for the 1983 SCCA Trans Am opener.[^wp] We trust the 1983 magazine, written within a year of the purchase, over the later summary, but note the gap. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **When did he buy the track, and for how much?** *Hot Rod* (1983) says January 1982 and nearly half a million dollars in work;[^hr83] Wikipedia says **1981** and **$100,000**.[^wp] We trust the 1983 magazine, written within a year of the purchase, but note the gap. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 [^hr83]: "Property Value: Manufacturer Dick Moroso Buys a 'Fixer-Upper' Raceway and Invests in Drag Racing's Future," *Hot Rod*, Nov 1983 (online Jan 1, 2023). https://www.hotrod.com/features/property-value-november-1983-982-1220-72-1 (accessed 2026-10-16)
 [^cbs]: "Drag-Racing Giant Moroso Dies," CBS SportsLine / CBSNews.com, Nov 10, 1998. https://www.cbsnews.com/news/drag-racing-giant-moroso-dies/ (accessed 2026-10-16)

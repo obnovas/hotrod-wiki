@@ -101,19 +101,19 @@ And the 1967 first trade show, where Hooker set up a booth like [Crane Cams](cra
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** We have not seen a contemporary Super Stock list.[^hag] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Six of the top 10 Super Stockers?** The claim is Hooker's own, and Hagerty probably repeats it from the same source; we have not seen a contemporary Super Stock list.[^hof][^hag] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When and where?** Hooker's own site says that "the Hooker legacy began in 1962 in Sioux City, Iowa," when Gary "designed a custom header for his own 1962 Chevrolet 409."[^site] SEMA says his story began in Sioux City, that the family moved to Pomona when he was about five, and that he made the headers as a young adult working in Southern California, with his first rented shop in **1964**.[^hof] *Mopar Connection* says the company was "founded in 1962" and "located in South Ontario, CA."[^mc] The best reading is that the 409 and the first headers date to 1962 and the business to 1964, and the Iowa line is a muddle of birth and founding. The company site is the odd one out. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** Hagerty puts the $3 million mark at "By 1970."[^hag] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **$3 million by 1969 or 1970?** SEMA says the business grew to $3 million from 1966 to 1969;[^hof] Hagerty puts the mark at "By 1970."[^hag] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **2000 or the 1990s?** SEMA's Hall of Fame page[^hof] and Hagerty[^hag] date Holley's purchase to 2000; the Pennsylvania historical marker for Holley says the roll-up came in "the 1990s." See also [Holley](holley.md). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **First header maker with a CARB exemption?** Only the brand's own site says so.[^site] We have not checked it against the California Air Resources Board's Executive Order records, which would show the earliest header exemptions and their dates. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Disputed.** Hagerty says SEMA inducted him in **2012**; SEMA's page is headed 2016.[^hag][^hof] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Disputed.** **Inducted in 2012 or 2016?** Hagerty says SEMA inducted him in **2012**; SEMA's own page is headed 2016.[^hag][^hof] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Disputed.** **Holley's ownership date.** 2000 per SEMA[^hof] and Hagerty,[^hag] or the 1990s per the Pennsylvania marker; see the item above and [Holley](holley.md). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Disputed.** **When did Holley take over?** 2000 per SEMA[^hof] and Hagerty,[^hag] or the 1990s per the Pennsylvania marker; see q-4 above and [Holley](holley.md). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 [^hof]: "HOF - Gary Hooker," SEMA Hall of Fame, 2016. https://www.sema.org/hof/2016/gary-hooker (accessed 2026-10-16)
 [^mc]: Chris Holley, "Gallery: Hooker Headers Production Pipes Propel Akron Arlen," *Mopar Connection Magazine*, Feb 13, 2023. https://moparconnectionmagazine.com/hooker-headers-production-pipes-propel-akron-arlen/ (accessed 2026-10-16)

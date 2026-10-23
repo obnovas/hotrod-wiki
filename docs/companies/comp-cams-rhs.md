@@ -116,7 +116,7 @@ So a company that began when three men raced Oldsmobiles now sits in the same gr
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **One of the first crate-engine sellers?** The claim that RHS had become "one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines" by 1979 is COMP's own.[^comp] Lead: 1970s RHS ads in the drag papers. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The founding.** The year 1967, the basement of Smiltnieks's house and the three founders all come from COMP Cams' own history.[^comp] We have not yet found a period source for the year or the basement. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **1967, in a basement?** The year, the basement of Smiltnieks's house and the three founders all come from COMP Cams' own history.[^comp] We have not yet found a period source for the year or the basement. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 [^comp]: "The History of COMP Cams," COMP Cams (company site). https://www.compcams.com/about-us (accessed 2026-10-16)
 [^sema]: Drew Hardin, "Turning Valve Jobs Into Science," SEMA News, Oct 2011 (retelling Bud Lang, *Hot Rod*, Feb 1971). https://www.sema.org/news-media/magazine/2011/39/turning-valve-jobs-science (accessed 2026-10-16)

@@ -105,11 +105,11 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did the carburetor start?** The marker essay says that in **1903** the brothers "secured American rights to a French-designed carburetor" and built about 600 four-wheeled Holley Motorettes in Bradford over the next three years.[^mk] The Penn State feature, which also quotes local sources, says the brothers saw the French Longuemare carburetor in Paris in **1901**, bought the licence immediately, and "in 1903" went into the carburetor business.[^psu] Both agree on 1903 for the business. The licence date is the difference. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** Those two statements measure different things, and neither is a count.[^mk][^psu] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Half of what?** The marker says almost half the vehicles in the U.S. armed forces had a Holley carburetor; Penn State says "more than half" of all wartime carburetors carried the Holley trademark.[^mk][^psu] The two measure different things, and neither is a count. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** (a heritage feature built with the company foundation's help; we have no independent source for "first").[^psu] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **The first performance-carburetor company?** Only Penn State's heritage feature, built with the company foundation's help, says so; we have no independent source for "first."[^psu] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** That is a decade-boundary disagreement the two sources do not explain; see [Hooker Headers](hooker-headers.md).[^mk][^hooker] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **When did Holley buy Hooker: the 1990s or 2000?** The Pennsylvania marker says the 1990s; SEMA's Hall of Fame profile says 2000.[^mk][^hooker] Neither explains the gap; see [Hooker Headers](hooker-headers.md). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **When did Holley buy Hooker?** SEMA and Hagerty say 2000; the Pennsylvania historical marker for Holley says "the 1990s." The sources are on [Hooker Headers](hooker-headers.md#q-4). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

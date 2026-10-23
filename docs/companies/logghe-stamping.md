@@ -103,7 +103,7 @@ The honors came later: inducted MMSHOF **2010**; Garlits Museum / IDRHOF class o
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **The founding year.** The Michigan Motor Sports Hall of Fame says **1947** in Fraser; Hot Rod's family feature says **1946**, starting in a home garage before moving to a Fraser plant.[^mms][^hr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1946 or 1947?** The Michigan Motor Sports Hall of Fame says **1947** in Fraser; *Hot Rod*'s family feature says **1946**, starting in a home garage before moving to a Fraser plant.[^mms][^hr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The first non-supercharged car into the sevens?** Only the Michigan Motor Sports Hall of Fame credits the Marsh–Steffey "Giant Killer" with that in 1964.[^mms] Lead: 1964 *Drag News* records lists. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -113,11 +113,11 @@ The honors came later: inducted MMSHOF **2010**; Garlits Museum / IDRHOF class o
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Chassis Builder of the Year, 1967–70?** The *Car Craft* awards come to us through the Garlits Museum biography; we have not seen the magazine.[^gar] Lead: *Car Craft* award issues, 1967–70. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** *A strong claim; treat as self-attribution.*[^mms] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Did Logghe introduce the coil-over?** Only Ron Logghe says so, to the Hall of Fame; treat it as self-attribution.[^mms] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** *Verify against period ads before treating as settled.*[^wp] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Did others fill Logghe's overflow?** Wikipedia, citing secondary histories, says Hardy, Scrima and Fletcher joined the trade because Logghe could not fill every order.[^wp] Lead: period chassis ads. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-<a id="q-8" class="hr-q-anchor"></a>**Disputed.** Garlits Museum bio still said Gene "resides in Michigan" at the time of that page's text; the MMSHOF update is the stronger death record.[^mms][^gar] <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+<a id="q-8" class="hr-q-anchor"></a>**Disputed.** **Is Gene Logghe still living?** The Garlits Museum biography said he "resides in Michigan" when it was written; the Michigan Motor Sports Hall of Fame later gives his death as August 2021, and that is the stronger record.[^mms][^gar] <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 ## Images
 

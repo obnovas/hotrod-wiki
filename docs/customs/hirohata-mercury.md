@@ -81,7 +81,7 @@ Decades later the car came back. Pat Ganahl at Rod & Custom pushed the restorati
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Conflict on build time:** Ken Gross (Revs Institute) writes **97 days**;[^revs] a Hagerty video title says **14 days**.[^hag] The sources are not close, and neither blinks. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **97 days or 14?** Ken Gross (Revs Institute) writes **97 days**;[^revs] a Hagerty video title says **14 days**.[^hag] The sources are not close, and neither blinks. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Unsolved?** That Bob Hirohata was murdered in Temple City on May 14, 1981, and that the case was never solved comes only from the Revs Institute feature.[^revs] Lead: the *Los Angeles Times* and the San Gabriel Valley papers for May 1981. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

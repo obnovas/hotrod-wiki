@@ -113,15 +113,15 @@ In Ohio, [Summit Racing](summit-racing.md)'s first mail-order ads were for his w
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** A boast, not a documented first.[^hr78] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The first blown Chrysler Hemi?** Only Thompson says so ("probably the first guy around"), in 1978; it is a boast, not a documented first.[^hr78] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** Thompson's 1978 account says he "built the first slingshot-style dragster" and, of that '54 car, that "we turned over 150 with Brown's Chrysler at San Fernando, which wasn't too bad for 1955." Wikipedia says the Panorama City Special debuted at the first NHRA U.S. Nationals at Great Bend, Kansas, in 1955, citing a Thom Taylor *Hot Rod* piece we did not see.[^hr78][^wp] See [Great Bend and the SRCA](../drag-racing/great-bend-srca.md). ◐ We found no Great Bend entry list naming the car. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Where did the first slingshot run?** Thompson's 1978 account says he "built the first slingshot-style dragster" and that the '54 car "turned over 150 with Brown's Chrysler at San Fernando." Wikipedia says the Panorama City Special debuted at Great Bend in 1955, citing a Thom Taylor *Hot Rod* piece we did not see.[^hr78][^wp] We found no Great Bend entry list naming the car; see [Great Bend and the SRCA](../drag-racing/great-bend-srca.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** Again, his own claims.[^sema][^wp][^hr78] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **The first drag slicks?** The slicks from recapped Indy tires and the first wide, low-profile tires are Thompson's own claims, repeated by SEMA and Wikipedia.[^sema][^wp][^hr78] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** That one is his recollection.[^hr78] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Ten Pontiacs, ten class wins in 1962?** That is Thompson's 1978 recollection; we have no 1962 class list.[^hr78] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** See [Moon Equipment](moon-equipment.md); the sources do not reconcile.[^wp] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Whose dragster ran at Brighton in 1963?** Wikipedia has Thompson's Harvey Aluminum Special demonstrated there with Dante Duce;[^wp] *THE SHOP* has Dean Moon sending his own dragster with Duce. See [Moon Equipment](moon-equipment.md); the sources do not reconcile. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 [^hr78]: Gray Baskerville, "Mickey Thompson: The Speed King's Unstoppable Legacy," *Hot Rod*, Dec 1978 (online Feb 2, 2024). https://www.hotrod.com/features/speed-king-mickey-thompson-december-1978-982-1390-78-1 (accessed 2026-10-16)
 [^nhra]: Phil Burgess, "The Thompson Files," NHRA, Mar 1, 2013 (quoting Erik Arneson's *Mickey Thompson: The Fast Life and Tragic Death of a Racing Legend*). https://www.nhra.com/news/2013/thompson-files (accessed 2026-10-16)

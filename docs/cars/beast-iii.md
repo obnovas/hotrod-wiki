@@ -66,7 +66,7 @@ The record was not the end of it. Dana Fuller set diesel records with it in 1953
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **One compiler.** Everything on this page comes from Kustomrama's entry, which compiles *Merchants of Speed*, *Sports Car Digest* and *Rod & Custom*; we have not read those.[^k] The record (235.991 mph), "the fastest single-engine car in America" and Chrisman as the 10th member of the 200 MPH Club rest on it alone. Leads: *Hot Rod*'s 1952 Bonneville coverage, the SCTA's 1952 record list, and the NHRA Museum's exhibit text. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Is everything here from one compiler?** Yes: Kustomrama's entry, which compiles *Merchants of Speed*, *Sports Car Digest* and *Rod & Custom*; we have not read those.[^k] The record (235.991 mph), "the fastest single-engine car in America" and Chrisman as the 10th member of the 200 MPH Club rest on it alone. Leads: *Hot Rod*'s 1952 Bonneville coverage, the SCTA's 1952 record list, and the NHRA Museum's exhibit text. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 **Correction (checked against Kustomrama only):** the 235.991 mph figure is the one Kustomrama gives, and the driver was **Art Chrisman**, not Herbert.
 

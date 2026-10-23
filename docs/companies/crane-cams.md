@@ -107,15 +107,15 @@ He started a **cam school** at his Port Orange home, and more than 100 students 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Where was he born?** The *Sentinel* says Ojus, "a small community in what is now Miami-Dade County," where his father was a machinist. SEMA says Hallandale, as the Hallandale shop would suggest. SEMA and the funeral home give his birth date as August 17, 1931; the *Sentinel* says only 1931. All three say he was 81 when he died.[^os][^semaob][^lohman] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** An interested party, and the figures are his.[^hr15] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Nearly $2,000 a class win?** The figure is Jim Hill's, and Hill says he wrote Crane's ad copy, so he is an interested party.[^hr15] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **How many booths at the first show?** SEMA News says "about 100" companies set up at Dodger Stadium in January 1967;[^first] the sources on our [Dick Wells](../people/dick-wells.md) page give **98 booths**. The two are close, and "about 100" may simply round 98. Lead: the 1967 show program. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** The year differs.[^first][^os] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **When did Crane start computer cam design?** SEMA has his first computerized design in 1967, on a timeshare computer;[^first] his son, in the *Sentinel*, says "the early to mid-'60s."[^os] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** (a name match we have not tied to Lakewood's Joe Schubeck).[^pat] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Is the 2004 "Schubeck Joseph J" Lakewood's founder?** Only the patent listing gives the name; we have not tied it to Lakewood's Joe Schubeck.[^pat] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Disputed.** That is three words for one event.[^lohman][^os][^semaob] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Disputed.** **Did Crane retire, leave or get fired in 1989?** The funeral-home obituary says he "retired"; the *Sentinel*, that he "left the company"; SEMA, that he was "ousted" after a disagreement with his board.[^lohman][^os][^semaob] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 [^os]: "Harvey J. Crane Jr.: His exacting work boosted race cars' power," *Orlando Sentinel*, Jun 20, 2013 (updated Nov 3, 2021). https://www.orlandosentinel.com/2013/06/20/harvey-j-crane-jr-his-exacting-work-boosted-race-cars-power/ (accessed 2026-10-16)
 [^lohman]: "Harvey J. Crane Obituary," Lohman Funeral Homes, May 31, 2013. https://obituaries.lohmanfuneralhomes.com/obituaries/harvey-crane (accessed 2026-10-16)

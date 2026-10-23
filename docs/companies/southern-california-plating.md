@@ -70,9 +70,9 @@ The phaeton itself is gone. Julian Doty told Pat Ganahl he last saw the phaeton 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Did Pacific Metal or Doty have the Jeep head?** Coachbuilt credits the postwar Willys OHV conversion to Pacific Metal Products;[^cb] Kustomrama says Doty bought the Jeep head patterns from So. Cal. Plating in 1946.[^kr] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** The Terraplane-grille credit is repeated by both sources without a primary citation.[^cb] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did it inspire the Terraplane grille?** The credit is repeated without a primary citation.[^cb] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 **Not yet read:** Pat Ganahl's feature on this car, "The Mystery Wagon," *The Rodder's Journal* No. 36, has not been checked first-hand. The Doty quote comes through Coachbuilt. A copy of RJ #36 is a priority request (see [Research Trail](../research-trail.md)).
 

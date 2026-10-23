@@ -137,11 +137,11 @@ Hurst's "Hemi-Under-Glass" exhibition car was booked at a Georgia strip in 1965;
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Incorporated in 1958?** Only Campbell's daughter, in an email printed by Just A Car Guy, dates the incorporation to May 1958, "after two years" of part-time die design.[^jacg] Ate Up With Motor says only that the company "opened for business in 1959."[^auwm] Both can be true. Lead: the Pennsylvania corporation record. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** We have not seen any of these pieces, and we don't know what the "mystery shifter" was.[^cce63] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **What was the "mystery shifter"?** We know these 1962–63 Hurst pieces only from the copyright catalog entries; we have not seen any of them.[^cce62][^cce63] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Both come to us only as search excerpts from lending-library books we cannot open in full, so we quote nothing beyond the address lines. The resolution above does not depend on them alone.*[^wq65][^gtoad] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **What do the 1965 address lines show?** Both the *Ward's Quarterly* listing and the *Car and Driver* ad come to us only as search excerpts from lending-library books, so we quote nothing beyond "Glenside, Pa. 19038."[^wq65][^gtoad] The resolution above does not depend on them alone. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **The $1,000 prize.** George's offer for a better 4-speed in-line shifter, and Bob Kenny's win, come only from Campbell's daughter's email, as printed by Just A Car Guy.[^jacg] We have found no period report of the prize. Lead: *Hot Rod* or the trade press for 1961–62. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Was there a $1,000 shifter prize?** George's offer for a better 4-speed in-line shifter, and Bob Kenny's win, come only from Campbell's daughter's email, as printed by Just A Car Guy.[^jacg] We have found no period report of the prize. Lead: *Hot Rod* or the trade press for 1961–62. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Whose car was the four-Chrysler land-speed project?** *Panorama* describes the in-line four-Chrysler car with two transmissions shifted together by Hurst controls, but names neither the car nor the driver, and we have no other account of it.[^pan] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
@@ -149,9 +149,9 @@ Hurst's "Hemi-Under-Glass" exhibition car was booked at a Georgia strip in 1965;
 
 <a id="q-8" class="hr-q-anchor"></a>**Disputed.** **Who thought of it?** *Hot Rod* calls the Jaws of Life "George's greatest contribution to society."[^hr20] Campbell's daughter writes that her father read a Philadelphia *Bulletin* story about a dump-truck driver who bled to death in a train-crossing wreck, sketched a cutting tool that would not throw sparks, and that George added the spreading tool over a hamburger. She says the tool "never really got off the ground" until after Campbell left Hurst in 1969.[^jacg] ◐ A family account, with no second source yet. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
-<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is a single trade-press summary; the corporate paper trail is on the [Research Trail](../research-trail.md). <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
+<a id="q-9" class="hr-q-anchor"></a>**Single source so far.** **Public in 1968, Sunbeam in 1970?** The sequence rests on one Hagerty summary;[^hag] the corporate paper trail is on the [Research Trail](../research-trail.md). <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
-<a id="q-10" class="hr-q-anchor"></a>**Single source so far.** **Mr. Gasket and Hurst, 1986.** That Mr. Gasket bought what was left of Hurst Performance in 1986 rests on one Hagerty feature.[^hag] Lead: 1986 trade press; see also [Mr. Gasket](mr-gasket.md). <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
+<a id="q-10" class="hr-q-anchor"></a>**Single source so far.** **Did Mr. Gasket buy Hurst in 1986?** That rests on one Hagerty feature.[^hag] Lead: 1986 trade press; see also [Mr. Gasket](mr-gasket.md). <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 
 <a id="q-11" class="hr-q-anchor"></a>**Disputed.** **How big were sales in the mid-1960s?** *Panorama* (Oct 1965) gives "in excess of six million dollars per year";[^pan] Ate Up With Motor says "more than $20 million a year" by "the mid-sixties."[^auwm] They may be different years, since "mid-sixties" is loose. The magazine has the earlier, contemporary figure and the history the bigger one. <a class="hr-q-back" href="#qr-11" title="Back to the story">↩</a>
 

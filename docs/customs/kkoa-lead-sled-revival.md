@@ -67,7 +67,7 @@ Compare the NSRA's [1948-and-older line](../street-rodding/nsra-early-nationals.
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Turnout:** "Four hundred customs, some old, some new, cruised in from all over the country" (Hot Rod, Dec 1981).[^hr81] "Over 300" (KKOA) and "300-plus" (Hot Rod, May 1983).[^kk][^hr83] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **300 or 400 customs?** "Four hundred customs, some old, some new, cruised in from all over the country" (Hot Rod, Dec 1981).[^hr81] "Over 300" (KKOA) and "300-plus" (Hot Rod, May 1983).[^kk][^hr83] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Images
 
