@@ -39,6 +39,7 @@ tags:
 - grassroots-sources
 related:
 - drag-racing/kk-sports-arena-kaukauna.md
+- drag-racing/kk-sports-arena-hospitality-bankruptcy.md
 - drag-racing/sedalia-drag-ons.md
 - drag-racing/stroudsburg-ridge-runners.md
 - drag-racing/kansas-city-timing-association.md
@@ -74,7 +75,7 @@ The club's constitution stated its purpose: "To promote safe, courteous driving 
 
 In October 1965 the paper ran "Valley Hot Rod Clubs Try To Project Better Image," on the Road Deacons and another club, the Ghost Rods.[^pc651017]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The Deacons were still sponsoring the spring rod and custom show at Valley Fair in 1966, with a home-built car called the Oronda shown by N. J. Neis of Neenah, and in 1968, with about 30 cars including dragsters, street machines and a customized 1968 GTO.[^pc660416][^pc680425]
 
-The Fox Valley clubs did what the [Sedalia Drag-Ons](sedalia-drag-ons.md) and the [Ridge Runners](stroudsburg-ridge-runners.md) did: road service, safety films, a written constitution, and a steady push for a strip. What's unusual here is that the girls' club started the umbrella association. For the strip the clubs got, see [KK Sports Arena](kk-sports-arena-kaukauna.md); for other clubs that let women in, see [Kansas City's Dragettes](kansas-city-timing-association.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+The Fox Valley clubs did what the [Sedalia Drag-Ons](sedalia-drag-ons.md) and the [Ridge Runners](stroudsburg-ridge-runners.md) did: road service, safety films, a written constitution, and a steady push for a strip. What's unusual here is that the girls' club started the umbrella association. For the strip the clubs got, see [KK Sports Arena](kk-sports-arena-kaukauna.md), and for its later years, when a visiting Illinois team fixed its car in a local club's clubhouse, [The Hospitality Drag Strip](kk-sports-arena-hospitality-bankruptcy.md); for other clubs that let women in, see [Kansas City's Dragettes](kansas-city-timing-association.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 

@@ -79,6 +79,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1957 | UPI survey (Mar 19): the National Safety Council "in direct opposition to drag racing"; Cleveland bans street racing; a county-built strip near Denver reported ⚠ | [March 1957](../drag-racing/march-1957-drag-strip-survey.md) |
 | 1957 | Motor City Dragway opens. Garlits' Cordova upset; Postoian wins the final | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |
+| 1957 | Postoian's prize for winning the World Series at Cordova: a $500 savings bond (1964 Dixon paper); a Lisbon, Ohio, youth meeting turns down a proposed drag strip as too costly for "the benefits that a few would derive" (May 24, ◐) | [Setto Postoian](../people/setto-postoian.md), [Quaker City](../drag-racing/quaker-city-salem.md) |
 | 1957 | Houston Freeway Dragstrip opens near Dickinson, Tex. (fall) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
 | 1957 | NHRA "absorbs" the ATAA (◐); Bartel forms the National Association of Drag Strips | [Bob Bartel](../people/bob-bartel.md) |
 | 1957 | Twin Falls, Idaho, editorial "Our Main Avenue 'Drag Strip'" after a child's death (June 30); heavier fines (Dec) | [Twin Falls](../places/twin-falls-main-avenue.md) |
@@ -162,13 +163,16 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1966 | Birmingham, Mich., passes an ordinance banning drive-in restaurants (Feb 1966 per a *Detroit News* excerpt ◐) | [Woodward ordinances](../places/woodward-ordinances.md) |
 | 1966 | Crane Cams refunds the cam and kit price to each class winner at the Nationals (SEMA) | [Crane Cams](../companies/crane-cams.md) |
 | 1966 | AHRA-sanctioned Missouri State Stock Car Championships at the Kansas City Timing Association strip, Chouteau Trafficway and Front St. (Apr) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
+| 1965 | Hurst moves from Glenside to its new Warminster, Pa., plant (Glenside address still printed in spring 1965; plant "new" in Oct 1965) | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | 1966–68 | AMC's performance list gives Hurst-Campbell's Warminster address | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | 1966 | Kingfish blown Barracuda vs. Joe Lunati's 427 Corvair at Malden, Mo. (Easter, Apr 10); KK drag strip "opening" (June 5); Thomas J. Broas killed, Outagamie County's first race track fatality (Aug 7) | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md), [Joe Lunati](../people/joe-lunati.md), [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md) |
+| 1966 | Joe Lunati of Memphis beats Richard Moroso in the Street Eliminator final at the NHRA Nationals, Indianapolis (Labor Day); Outagamie County rezones 75 acres beside KK Sports Arena for a "mile-long drag strip" (Dec, ◐) | [Joe Lunati](../people/joe-lunati.md), [Moroso](../companies/moroso.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
 | 1967 | Hill brothers' Red Baron Willys built in 11 days. "WE'RE SORRY" letter | [Red Baron](../cars/hill-bros-red-baron.md) |
 | 1967 | Minnesota Street Rod Association formed | [Upper Midwest](../places/upper-midwest.md) |
 | 1967 | First SEMA trade show, Dodger Stadium (98 booths), produced by Dick Wells with Ray Brock and Alex Xydias | [Dick Wells](../people/dick-wells.md) |
 | 1967 | Three Memphis drag racers open Racing Head Service in a basement, the start of COMP Cams | [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | 1967 | Seward drag strip on the Arenzville road, Beardstown, Ill., draws 2,000 on opening day (May) | [Beardstown](../drag-racing/beardstown-drag-strip.md) |
+| 1967 | Fontanini–Nannini team's letter calls KK "The Hospitality Drag Strip" (June); Bill Maverick's "Little Red Wagon" at R & R Dodge, Appleton (Sept); Lunati billed as "3 Time National Champ" at Harmon Raceway, Monroe, La. (May) | [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md), [Joe Lunati](../people/joe-lunati.md) |
 | 1968 ⚠ | Gene Snow's 200.88 mph at Dickinson: first 200-mph Funny Car pass (Aug 17, 1968, vs 1969). Cordova floods; World Series run at 1,000 ft | [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md) |
 | 1968 | A young engineer's discounted hop-up parts for his drag-racing buddies become Summit Racing; Moroso says its company began this year | [Summit Racing](../companies/summit-racing.md), [Moroso](../companies/moroso.md) |
 | 1968 | Pocono Drag Lodge, Bear Creek, Pa.: 220 drivers on one August Sunday; third annual Funny Car, Super Stock and Gas Spectacular. Pocono International Speedway's opening race (Oct), with a drag strip in its plans | [Pocono strips](../drag-racing/pocono-strips.md) |
@@ -176,7 +180,9 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1969 | Summit opens its first retail store in Akron (RACER) | [Summit Racing](../companies/summit-racing.md) |
 | 1969 | The Big S.I.R.: Sedalia International Dragway announced (May), moved to the old hog barns after neighbors object, ground broken (July 22); builder pulls out with the strip "about one-half completed" (Aug 31) ⚠ | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | 1969 | Mickey Thompson's Mach 1 Mustang holds Kansas City International Raceway's low E.T., 7.37 (Aug) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
+| 1969 | KK Sports Arena's first 100-mile stock car race: about 12,000 see Butch Hartman win over Foyt and McCluskey (June 1) | [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
 | 1970 | First NSRA Street Rod Nationals, Peoria. Vanke in Pro Stock | [Peoria](../eras/1970s-street-rod-nationals.md), [Vanke](../people/arlen-vanke.md) |
+| 1970 | KK Sports Arena, Inc. files for bankruptcy ($780,799 in debts) and closes (July 17–18); auction in November | [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
 | 1970 | Snow's 208.71 at Dallas (May 3), first 200-mph Funny Car pass at an NHRA national event; his "Super Season" | [Gene Snow](../people/gene-snow.md) |
 | 1970 | E. J. Potter is the feature at the Beardstown Drag Strip (May); Malden's last meet of the season pays a $200 first-round purse (Nov) | [Beardstown](../drag-racing/beardstown-drag-strip.md), [SEMO Malden](../drag-racing/semo-malden-drag-strip.md) |
 | 1971 | 2nd Street Rod Nationals, Memphis | [NSRA](../street-rodding/nsra-early-nationals.md) |

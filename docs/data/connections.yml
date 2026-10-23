@@ -71,6 +71,10 @@ nodes:
   - {id: houstonstrip, label: Houston Freeway Dragstrip, type: place, page: drag-racing/houston-freeway-dragstrip.md}
   - {id: pontiac,    label: Pontiac (Super Duty era), type: institution, page: companies/hurst-campbell.md}
   - {id: woodward,   label: Woodward Avenue, type: place,   page: places/woodward.md}
+  # ---- Round 21
+  - {id: lunati,     label: Joe Lunati,      type: person,  page: people/joe-lunati.md}
+  - {id: postoian,   label: Setto Postoian,  type: person,  page: people/setto-postoian.md}
+  - {id: rushville,  label: "Rushville, Ind. (1971 auto show)", type: place, page: companies/hurst-campbell.md}
   # ---- clubs, groups, institutions
   - {id: ohiogassers, label: The Ohio Gassers, type: club,  page: places/ohio-gassers.md}
   # ---- Round 17: Missouri strips and clubs, and two catalogs
@@ -274,3 +278,12 @@ edges:
      evidence: ["K&N, B&M, Moroso, Mickey Thompson, and MSD"]}
   - {from: jegs, to: mthompson, type: customer, label: "Mickey Thompson among JEGS' top-selling brands (2015 trade feature)", page: companies/jegs.md,
      evidence: ["K&N, B&M, Moroso, Mickey Thompson, and MSD"]}
+  # ----- Round 21
+  - {from: lunati, to: memphis, type: hometown, label: "Memphis racer who won the 1966 Nationals Street Eliminator", page: people/joe-lunati.md,
+     evidence: ["Joe Lunati of Memphis, Tenn., captured the Street Eliminator"]}
+  - {from: lunati, to: dmoroso, type: scene, label: "Beat Richard Moroso in the 1966 Indy Street Eliminator final", page: people/joe-lunati.md,
+     evidence: ["in a dash against Richard Moroso, Old Greenwich, Conn."]}
+  - {from: isky, to: postoian, type: customer, label: "Isky recalls Postoian ran his cams (book excerpt)", page: people/setto-postoian.md, flag: single-source,
+     evidence: ["Big John ran my cams, as did Seto Postoian"]}
+  - {from: lvaughn, to: rushville, type: promotion, label: "Miss Hurst in the 1971 Rushville National Bank Auto Show parade", page: companies/hurst-campbell.md,
+     evidence: ["13th annual Rushville National Bank Auto Show"]}

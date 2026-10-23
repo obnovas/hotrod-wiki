@@ -19,6 +19,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Memphis Comes to the Bootheel](semo-malden-drag-strip.md): Jaycees, an old Air Force base at Malden, Mo., and Memphis racers taking the trophies, from the first meet in 1961 to Joe Lunati's Corvair in 1966 and an AHRA season in 1971.
 - [Headlights on a Pole: Quaker City (Salem, Ohio)](quaker-city-salem.md): a farm-field strip where a pilot landed his plane in 1958, lit with car headlights and later visited by the national names, 1957–77.
 - [A Strip in a Ravine: KK Sports Arena (Kaukauna, Wis.)](kk-sports-arena-kaukauna.md): letters, a county board's "no" and a farmer's ravine, 1960–68.
+- [The Hospitality Drag Strip: KK Sports Arena's big years and bankruptcy (Kaukauna, Wis.)](kk-sports-arena-hospitality-bankruptcy.md): a borrowed clubhouse, a Dodge in the showroom, A. J. Foyt and 96 creditors, 1966–70.
 - [Hog Butcher on Weekdays, Fun Capital on Sundays (Beardstown, Ill.)](beardstown-drag-strip.md): 2,000 on opening day, the Michigan Madman and a Garlits match race, 1967–72.
 
 **Clubs and timing associations**

@@ -20,6 +20,7 @@ people:
 - Clyde Schumacher
 - D. R. Seeger
 - George Else
+- Joseph Van Daalwyk
 companies: []
 places: []
 clubs:
@@ -37,12 +38,13 @@ related:
 - drag-racing/kansas-city-timing-association.md
 - drag-racing/semo-malden-drag-strip.md
 - drag-racing/ames-drag-strip-nightcrawlers.md
+- drag-racing/kk-sports-arena-hospitality-bankruptcy.md
 canonical_for: []
 ---
 # A Strip in a Ravine: the Fox Valley's Drag Strip Hunt and the KK Sports Arena (Appleton–Kaukauna, Wis., 1960–68)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> daily newspaper (*Appleton Post-Crescent*, Appleton, Wis.): readers' letters, county-board and plan-commission reports, sports notes, display ads, a fatal-accident report and a 1968 feature, read as scanned page OCR · **Last verified:** 2026-10-22 (Round 20) · **Open issues:** the 1964 claim that the strip would be only the state's "second" ◐; the 1968 president's name and his Union Grove role are garbled in the scan ◐; the first drag meet at KK (1964 promotion day or 1966 "opening") ◐; whether the 1965 rezoning request was the same land ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> daily newspaper (*Appleton Post-Crescent*, Appleton, Wis.): readers' letters, county-board and plan-commission reports, sports notes, display ads, a fatal-accident report and a 1968 feature, read as scanned page OCR · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** the 1964 claim that the strip would be only the state's "second" ◐; the 1968 president's Union Grove role ◐; the first drag meet at KK (1964 promotion day or 1966 "opening") ◐; whether the 1965 rezoning request was the same land ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "And why can't the cities around here build a public drag strip, in conjunction with the police department, so that the driver can test himself and his car?"
@@ -78,9 +80,9 @@ On Sunday, August 7, 1966, Thomas J. Broas, 28, of Black Creek, a father of thre
 
 ## $600,000 later (1968)
 
-By April 1968, when the arena was paving a banked half-mile oval, the paper said the building program "started back in 1964" was worth "approximately $600,000." What had been "200 acres of grass, hills, and woodlands owned by a farmer" now held a quarter-mile and figure-8 track, the half-mile, and "a quarter-mile drag strip," whose bleachers held about 8,500, with hillside room for many more. A photo from the scorers' booth showed two women running the strip's "new 'Chrondek' timing equipment."[^pc680421]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+By April 1968, when the arena was paving a banked half-mile oval, the paper said the building program "started back in 1964" was worth "approximately $600,000." What had been "200 acres of grass, hills, and woodlands owned by a farmer" now held a quarter-mile and figure-8 track, the half-mile, and "a quarter-mile drag strip," whose bleachers held about 8,500, with hillside room for many more. A photo from the scorers' booth showed two women running the strip's "new 'Chrondek' timing equipment."[^pc680421] The same feature named the arena's president, a 46-year-old Kaukauna man; the scan is interleaved, but the 1970 bankruptcy reports confirm the name as "Joseph Van Daalwyk, route 3, owner of a large construction company."[^pc700719]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
-The Fox Valley's strip came the way many Midwestern strips did. The clubs asked for a county strip on public land. The county said no. Then a private oval builder added a drag strip, and four years later it had Chrondek timers. Compare [Kansas City](kansas-city-timing-association.md), where the clubs did get a public site, and [Malden](semo-malden-drag-strip.md), where a town owned an empty air base.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+The Fox Valley's strip came the way many Midwestern strips did. The clubs asked for a county strip on public land. The county said no. Then a private oval builder added a drag strip, and four years later it had Chrondek timers. Compare [Kansas City](kansas-city-timing-association.md), where the clubs did get a public site, and [Malden](semo-malden-drag-strip.md), where a town owned an empty air base. KK's big years, and the bankruptcy that closed it on July 18, 1970, are told in [The Hospitality Drag Strip](kk-sports-arena-hospitality-bankruptcy.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 
@@ -94,13 +96,13 @@ The Fox Valley's strip came the way many Midwestern strips did. The clubs asked 
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *The report doesn't say whose land it was.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *The same story names the arena's president, a 46-year-old Kaukauna man who was also president of events at Great Lakes Dragaway in Union Grove, but the columns are interleaved and his name reads only as "Joe Van Daalwyk." We have not confirmed it.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *The 1968 feature also makes Van Daalwyk president of events at Great Lakes Dragaway in Union Grove, but the columns are interleaved there and the 1970 reports don't mention it. We have not confirmed that link.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>
 
 ### Next leads
 
-The arena's 1966 sponsoring association; the 1964 promotion day; the president's name and his Union Grove link; when the strip closed; the Ghost Rods and other clubs that raced there. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+The arena's 1966 sponsoring association; the 1964 promotion day; the president's Union Grove link; the Ghost Rods and other clubs that raced there. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ## Sources
 
@@ -116,3 +118,4 @@ The arena's 1966 sponsoring association; the 1964 promotion day; the president's
 [^pc660701]: "Holiday Hi-Lites," Sports Arena display ad with site map, *Appleton Post-Crescent*, July 1, 1966. Page OCR. https://archive.org/details/appleton-post-crescent-1966-07-01 (accessed 2026-10-22)
 [^pc660808]: "Drag Race Driver Killed in Accident," *Appleton Post-Crescent*, Aug. 8, 1966. Page OCR. https://archive.org/details/appleton-post-crescent-1966-08-08 (accessed 2026-10-22)
 [^pc680421]: Ron Witt, "Building of Paved Half-Mile Track Another Milestone in Development of KK Arena," *Sunday Post-Crescent*, Apr. 21, 1968, p. B6. Page OCR, columns interleaved. https://archive.org/details/appleton-post-crescent-1968-04-21 (accessed 2026-10-22)
+[^pc700719]: "96 Creditors Listed; KK Closed After Bankruptcy Filed," *Sunday Post-Crescent*, July 19, 1970. Page OCR. https://archive.org/details/appleton-post-crescent-1970-07-19 (accessed 2026-10-22)

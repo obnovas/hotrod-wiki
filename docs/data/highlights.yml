@@ -709,3 +709,48 @@ highlights:
     image: commons-malden-airport-usgs-2006.jpg
     image_alt: Aerial photo of Malden Regional Airport with crossing runways
     image_note: Malden Regional Airport, USGS 2006; context only.
+
+  - id: kk-hospitality-drag-strip
+    headline: An Illinois drag team broke down at Kaukauna, Wis., and a local club lent its clubhouse
+    teaser: In 1967 the Fontanini–Nannini team left seven quarts of oil on the KK Sports Arena strip. Their thank-you letter to the Appleton paper proposed a slogan, "The Hospitality Drag Strip!!"
+    link: drag-racing/kk-sports-arena-hospitality-bankruptcy.md
+    evidence: ["we could use the Ghost Rod Clubhouse to fix our car", "The Hospitality Drag Strip!!"]
+    source_type: Local news
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Kaukauna, Wis.', 'Highland, Ill.']
+    image: commons-kaukauna-downtown.jpg
+    image_alt: Brick storefronts in downtown Kaukauna, Wisconsin
+    image_note: Downtown Kaukauna, 2006; context only.
+
+  - id: postoian-savings-bond
+    headline: Setto Postoian beat Garlits at Cordova, and the prize was a $500 savings bond
+    teaser: Looking back in 1964, the Dixon, Ill., paper wrote that "Postoian won a $500 Savings Bond in 1957, and awards to most other class champions were nominal." By 1964 the World Series purse was $14,785.
+    link: people/setto-postoian.md#cordova-and-a-savings-bond
+    evidence: "Postoian won a $500 Savings Bond in 1957"
+    source_type: Local news
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-10-22'
+    eras: [1950s]
+    regions: ['Cordova, Ill.', 'Detroit, Mich.']
+    image: commons-garlits-1987.jpg
+    image_alt: Don Garlits at Texas Motorplex in 1987
+    image_note: Don Garlits in 1987, thirty years after Cordova; context only.
+
+  - id: lunati-moroso-indy-1966
+    headline: "Two future parts makers met in the 1966 Indy Street Eliminator final, and Joe Lunati beat Dick Moroso"
+    teaser: The wire report from the NHRA Nationals had Lunati at 10.244 seconds to Moroso's 13.61. Both men's companies date to about 1968.
+    link: people/joe-lunati.md
+    evidence: "captured the Street Eliminator in a dash against Richard Moroso"
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: '2026-10-22'
+    eras: [1960s]
+    regions: ['Indianapolis, Ind.', 'Memphis, Tenn.', 'Greenwich, Conn.']

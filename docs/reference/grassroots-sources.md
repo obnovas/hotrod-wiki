@@ -51,8 +51,11 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Daily Independent-Journal, San Rafael](https://archive.org/details/san-rafael-daily-independent-journal-1956-07-13) (Marin County, Calif., 1955–64; scanned OCR) → a lawyer's county drag strip plan, garage dragsters, club letters and the Cotati strip → [Marin & Cotati](../drag-racing/marin-cotati-strips.md).
 - [Sikeston Daily Standard](https://archive.org/details/sikeston-daily-standard-1962-07-23) (Sikeston, Mo., 1961–71; scanned OCR) → the SEMO strip at Malden Air Base, its Memphis winners, and (Round 20) Joe Lunati's 1966 Corvair match and the 1971 AHRA season → [SEMO Malden](../drag-racing/semo-malden-drag-strip.md).
 - [The Salem News](https://archive.org/details/salem-news-1958-06-20) (Salem, Ohio, 1958–77; scanned OCR) → a plane landing on the drag strip, trophy dances, the 1964 NHRA rebuild and the 1977 seasons → [Quaker City](../drag-racing/quaker-city-salem.md).
-- [Appleton Post-Crescent](https://archive.org/details/appleton-post-crescent-1964-08-06) (Appleton, Wis., 1960–68; scanned OCR) → readers' and a club's letters, a county board's airport debate, a girls' car club, the Road Deacons and the KK Sports Arena → [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md), [Road Deacons & Gas-Ketts](../drag-racing/fox-valley-road-deacons-gas-ketts.md).
+- [Appleton Post-Crescent](https://archive.org/details/appleton-post-crescent-1964-08-06) (Appleton, Wis., 1960–70; scanned OCR) → readers' and a club's letters, a county board's airport debate, a girls' car club, the Road Deacons and the KK Sports Arena; in Round 21, a visiting team's thank-you letter, the 1969 safety rules and the 1970 bankruptcy → [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md), [The Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md), [Road Deacons & Gas-Ketts](../drag-racing/fox-valley-road-deacons-gas-ketts.md).
 - [Jacksonville Daily Journal](https://archive.org/details/jacksonville-daily-journal-1967-05-28) (Jacksonville, Ill., 1967–72; scanned OCR) → a Beardstown correspondent's column and strip ads → [Beardstown](../drag-racing/beardstown-drag-strip.md).
+- [Dixon Evening Telegraph](https://archive.org/details/dixon-evening-telegraph-1964-08-13) (Dixon, Ill., 1958 and 1964; scanned OCR) → World Series of drag racing previews, Setto Postoian's titles and his $500 savings bond → [Setto Postoian](../people/setto-postoian.md).
+- [Monroe Morning World](https://archive.org/details/monroe-morning-world-1967-05-13) (Monroe, La., 1967; scanned OCR) → Harmon Raceway ads billing Joe Lunati as a "3 Time National Champ" → [Joe Lunati](../people/joe-lunati.md).
+- [Rushville Republican](https://archive.org/details/rushville-republican-1971-05-20) (Rushville, Ind., 1971; scanned OCR) → Linda Vaughn, Miss Hurst Golden Shifter, in a small-town bank's auto show parade → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Gettysburg Times](https://archive.org/details/gettysburg-times-1959-03-06) (Gettysburg, Pa., 1956–59; scanned OCR) → village columns on Hanover, Gettysburg and Taneytown clubs, and an AP report of Pennsauken → [Gettysburg & Hanover clubs](../drag-racing/hanover-adams-county-clubs.md), [Pennsauken 1958](../drag-racing/pennsauken-central-airport-1958.md).
 
 ### Obituaries and funeral-home pages
@@ -151,6 +154,13 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 21 status
+| Archive | Round 21 status |
+|---|---|
+| Internet Archive newspaper scans | **Readable.** New runs used: *Dixon Evening Telegraph* (Ill.), *Monroe Morning World* (La.), *Rushville Republican* (Ind.), more *Appleton Post-Crescent* (1966–70) and *Salem News* (1957). |
+| Internet Archive lending library | Text download refused (HTTP 401) for *Ward's Quarterly* (1965), a GTO book, a 2017 Isky book, a 1960 annual, a 1968 funny car book and the Sox & Martin book; search excerpts only, flagged ◐. Not bypassed. |
+| *Beardstown Illinoian-Star*, Hanover *Evening Sun*, Santa Rosa *Press Democrat*, Camden *Courier-Post* | Still not found in open archives; carried forward. |
 
 ### Round 20 status
 | Archive | Round 20 status |

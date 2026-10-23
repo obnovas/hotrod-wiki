@@ -54,7 +54,7 @@ canonical_for: []
 # Headlights on a Pole: Quaker City Drag Strip, Salem, Ohio (1957–77)
 
 !!! abstract "Article record"
-    **Confidence:** Medium-High · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*The Salem News*, Salem, Ohio): local items, sports notes, club and bowling notices and ads, 1958–77, read as scanned page OCR; *Yesteryears*, the *Salem News*'s weekly local-history journal (Mar. 2, 1992), interviewing Dick and Vivian Mossey; a 2016 *Salem News* story; the track's own "About" page · **Last verified:** 2026-10-22 (Round 20) · **Open issues:** opening year 1957 (owners, track, a 1964 "eighth straight year") vs a 1977 "20th year" that points to 1958 ⚠; the claim that E.T. bracket racing began here rests on the owners' memories ◐; who "Mrs. Nell Mossey," owner of the barn, was ◐; Norm Fox's purchase, 2010 or 2011 ⚠ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium-High · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*The Salem News*, Salem, Ohio): local items, sports notes, club and bowling notices and ads, 1958–77, read as scanned page OCR; *Yesteryears*, the *Salem News*'s weekly local-history journal (Mar. 2, 1992), interviewing Dick and Vivian Mossey; a 2016 *Salem News* story; the track's own "About" page · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** opening year 1957 (owners, track, a 1964 "eighth straight year") vs a 1977 "20th year" that points to 1958 ⚠; the claim that E.T. bracket racing began here rests on the owners' memories ◐; who "Mrs. Nell Mossey," owner of the barn, was ◐; Norm Fox's purchase, 2010 or 2011 ⚠ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "They were local racers when we opened."
@@ -71,6 +71,8 @@ Salem calls itself the Quaker City, after the Friends who founded it. In the lat
 ## Tired of driving to Akron
 
 Dick Mossey first saw organized drag racing while stationed on the West Coast; he told *Yesteryears* he went to races "right around Pomona." Back home in Salem he "hopped up his rig and drove it to the Rubber Bowl in Akron to drag race," and after he had his fill of that drive he opened his own strip. "It just looked like such a good deal," he said.[^yest] A 2016 *Salem News* story puts it the same way: he "got tired of making the drive to Akron to race," and he and Vivian opened the track in 1957.[^sn2016] The Akron strip he was driving to was the runway at Fulton Airport, now marked by a state historical marker (see [Akron Fulton Airport](akron-fulton-airport.md)).[^sn2016]
+
+A drag strip was already on the county's agenda that spring. On May 24, 1957, *The Salem News* reported a youth-facilities meeting in Lisbon, the Columbiana County seat, called by Mayor Wilbur Warren as a follow-up to a county-wide meeting on May 9. "After discussion on a proposed racing drag strip, it was decided that the cost might be out of proportion to the benefits that a few would derive from it." Not everyone agreed: the "no answer on the drag strip was criticized by some present who thought it should be talked over with the boys and girls first, to see if the drag strip would be practical."[^sn570524]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> The public answer was no. The private one came from a farm on Route 165.
 
 The first season was homemade in every sense. The Mosseys formed the **Quaker City Timing Association** "for the business end." The **Oilers Car Club** of Alliance ran the races. The first sanctioning body was NASCAR, not NHRA. Racers in their late teens and early twenties paid $2 to race all day. There was no prize money: "If you ran and won class, you got a trophy," and Mossey remembered about 100 cars coming out, "mostly backyard racing types." Two flagmen lined the cars up, "whether they were lined up perfect or not, who knows."[^yest]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -106,7 +108,7 @@ Quaker City is still running. Norm Fox bought it (in 2011 per the track, 2010 pe
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1957 or 1958?** The Mosseys, the track and the 2016 story all say 1957,[^yest][^sn2016][^qcmp] and a 1964 season preview said the strip would be "in operation for the eighth straight year," which also counts from 1957.[^sn640501] But in 1977 the track announced its "20th year of racing," and said it would "begin its third decade" that May, which counts from 1958.[^sn770510][^sn770405] We read all 248 digitized 1957 issues of *The Salem News* and found no mention of the strip; the first we found is from mid-1958. That doesn't prove 1958 (a small first season could easily go unreported), but it is why the date stays flagged. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1957 or 1958?** The Mosseys, the track and the 2016 story all say 1957,[^yest][^sn2016][^qcmp] and a 1964 season preview said the strip would be "in operation for the eighth straight year," which also counts from 1957.[^sn640501] But in 1977 the track announced its "20th year of racing," and said it would "begin its third decade" that May, which counts from 1958.[^sn770510][^sn770405] We read all 248 digitized 1957 issues of *The Salem News* and found no mention of the strip (the one 1957 drag strip item, a proposal turned down at Lisbon that May, is not about it); the first we found is from mid-1958. That doesn't prove 1958 (a small first season could easily go unreported), but it is why the date stays flagged. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** *We have not worked out who Nell Mossey was. A 1958 county tax list pairs "Mossey, Nellie & Richard."*[^sn580327] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -120,6 +122,8 @@ The 1992 history makes a big claim: that E.T. (bracket) racing "began at Quaker 
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed:** Norm Fox bought it (in 2011 per the track, 2010 per *Drag Illustrated*) and rebuilt it as Quaker City Motorsports Park. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** *The story doesn't say who proposed the Lisbon strip or where it would have gone, and nothing ties it to the Mosseys. It is the only 1957 drag strip item we have found in the paper.* <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+
 <a id="q-6" class="hr-q-anchor"></a>
 
 ### Next leads
@@ -131,6 +135,7 @@ The 1992 history makes a big claim: that E.T. (bracket) racing "began at Quaker 
 [^yest]: Larry Shields, "Quaker City Dragway first revved up in 1957," *Yesteryears* (weekly historical journal published by *The Salem News*), Mar. 2, 1992, pp. 1, 3–5. Salem Public Library digital history collection. http://history.salem.lib.oh.us/SalemHistory/Yesteryears/1992/Vol1No39Mar2op.pdf (accessed 2026-10-22)
 [^sn2016]: "Drag racing legends with ties to Quaker City to be honored," *The Salem News*, June 11, 2016. https://www.salemnews.net/news/local-news/2016/06/drag-racing-legends-with-ties-to-quaker-city-to-be-honored/ (accessed 2026-10-22)
 [^qcmp]: "About QCMP," Quaker City Motorsports Park. https://quakercitymotorsportspark.com/about/ (accessed 2026-10-22); on the 2010 date, "On the Road: Quaker City Dragway," *Drag Illustrated*. https://dragillustrated.com/on-the-road-quaker-city-dragway/ (search summary, 2026-10-22)
+[^sn570524]: "More Sports Facilities For Youth Proposed" (Lisbon meeting), *The Salem News* (Salem, Ohio), May 24, 1957. Page OCR, columns interleaved. https://archive.org/details/salem-news-1957-05-24 (accessed 2026-10-22)
 [^sn580620]: "Pilot Uses Drag Strip To Land Plane Here," *The Salem News* (Salem, Ohio), June 20, 1958. Page OCR (quotes corrected for obvious OCR slips). https://archive.org/details/salem-news-1958-06-20 (accessed 2026-10-22)
 [^sn580722]: "Hoperich Captures 3 Drag Strip Trophies," *The Salem News*, July 22, 1958. Page OCR. https://archive.org/details/salem-news-1958-07-22 (accessed 2026-10-22)
 [^sn580804]: Drag strip trophy item, *The Salem News*, Aug. 4, 1958. Page OCR. https://archive.org/details/salem-news-1958-08-04 (accessed 2026-10-22)

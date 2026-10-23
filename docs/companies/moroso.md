@@ -23,6 +23,7 @@ cities:
 - Guilford, Connecticut
 - Branford, Connecticut
 people:
+- Joe Lunati
 - Dick Moroso
 - Hank Dietrich
 - Rick Moroso
@@ -48,6 +49,7 @@ tags:
 - family-business
 related:
 - places/ohio-gassers.md
+- people/joe-lunati.md
 - companies/crane-cams.md
 - places/midwest-east.md
 - drag-racing/indiana-small-town-clubs.md
@@ -59,7 +61,7 @@ canonical_for: []
 *A Connecticut racer who sold racers what they needed, then bought the track they needed*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** *Hot Rod* feature (Nov 1983), wire obituary (CBS Sportsline, 1998), company history page, Wikipedia (secondary, citing a 1990 *Chicago Tribune* profile and a 2003 book we did not see) · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ what the basement made; ⚠ the year of the track purchase and how much he spent; ◐ innovation "firsts" rest on the company's own page; the Hemmings profile and the company's "Where It All Started" PDF were unreadable here; no Connecticut local paper found yet · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** *Hot Rod* feature (Nov 1983), wire obituary (CBS Sportsline, 1998), company history page, Wikipedia (secondary, citing a 1990 *Chicago Tribune* profile and a 2003 book we did not see) · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** ⚠ what the basement made; ⚠ the year of the track purchase and how much he spent; ◐ innovation "firsts" rest on the company's own page; the Hemmings profile and the company's "Where It All Started" PDF were unreadable here; no Connecticut local paper found yet · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I bought and rebuilt the track as an investment in the future of racing. I sell race parts."
@@ -75,6 +77,8 @@ The rest of the story begins in a basement in Connecticut.
 Richard D. Moroso grew up in Old Greenwich, Connecticut, per Wikipedia (born in New Rochelle, New York, in 1939). CBS's 1998 obituary says he "began racing cars while still in his teens" and, "by the time he was in his early 20s," was "designing car engines in his parents' basement in Greenwich, Conn."[^cbs][^wp] Wikipedia says that in the early 1960s he was *selling speed parts* out of the family basement under the name **Speed Associates**, and that in the mid-1960s he and partner Hank Dietrich opened Performance Automotive in Stamford.[^wp]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 He raced as he built. CBS says he won his class at the 1966 Labor Day U.S. Nationals in Indianapolis; Wikipedia gives it as D/Modified Production, in a 1961 Corvette, at 13.32 seconds and 103.21 mph, citing Larry Davis's 2003 *Gasser Wars*.[^cbs][^wp]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+
+A wire report from that meet, printed in a Marin County, Calif., daily, shows he went further than his class, to the Street Eliminator final, where he lost to a Memphis racer who would also put his name on parts: "Joe Lunati of Memphis, Tenn., captured the Street Eliminator in a dash against Richard Moroso, Old Greenwich, Conn." Lunati ran 10.244 seconds to Moroso's 13.61.[^ij660906] See [Joe Lunati](../people/joe-lunati.md), whose cam shop opened in 1968 or 1969, depending on the account; the Moroso company dates itself to 1968.
 
 The company's own history says "Moroso was started in 1968 by Dick Moroso, one of the most successful modified production drag racers on record," who "left his racing career to design, test and manufacture specialized products aimed exclusively at racer's needs." Its slogan: "designed and built for racers - by a racer!" CBS says he stopped competing in 1971 to concentrate on Moroso Performance Products in Guilford, Connecticut.[^co][^cbs]
 
@@ -119,3 +123,4 @@ One local detail made it work: across the highway stood a large **Pratt & Whitne
 [^cbs]: "Drag-Racing Giant Moroso Dies," CBS SportsLine / CBSNews.com, Nov 10, 1998. https://www.cbsnews.com/news/drag-racing-giant-moroso-dies/ (accessed 2026-10-16)
 [^co]: "About Moroso," Moroso Performance Products (company site). https://www.moroso.com/about-moroso (accessed 2026-10-16)
 [^wp]: Wikipedia, "Dick Moroso" (secondary). https://en.wikipedia.org/wiki/Dick_Moroso (accessed 2026-10-16)
+[^ij660906]: AP report from the NHRA national championships, Indianapolis, *Daily Independent Journal* (San Rafael, Calif.), Sept. 6, 1966. Page OCR. https://archive.org/details/san-rafael-daily-independent-journal-1966-09-06 (accessed 2026-10-22)

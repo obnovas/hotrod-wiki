@@ -415,3 +415,16 @@ Tags as above. Newspaper items are scanned page OCR on the Internet Archive; we 
 - [corp] "Edelbrock Group Mourns Lunati Cams Founder, Joe Lunati," Edelbrock Group, Sept 14, 2023. https://www.edelbrockgroup.com/corporate-news/2023/09/14/edelbrock-group-mourns-lunati-cams-founder-joe-lunati/
 - [org] "In Memoriam" (2023), NHRA.com. https://www.nhra.com/news/2023/memoriam
 - [ref] Wikipedia: "E. J. Potter."
+
+## Added in Round 21 (accessed 2026-10-22)
+Tags as above. Newspaper items are scanned page OCR on the Internet Archive; we quote only passages that read cleanly. Items marked ◐ are search excerpts from lending-library books we could not open in full. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] *Appleton Post-Crescent* (Appleton, Wis.), Round 21 additions: "Jet-Powered Racer Travels 220.859 at KK," July 27, 1966; Sports Arena ad, Sept 16, 1966; "County Rezones 80 Acres to Permit Business Expansion," Dec 14, 1966; Clarence J. Dombeck, "Drag Team Appreciated Treatment at KK Arena," June 29, 1967; "Little Red Wagon" photo caption, Sept 28, 1967; "Dick Witherby Hits Top Speed In Drag Event," Apr 8, 1968; "KK Slates Funny Car Tests Sunday," June 15, 1968; Tom Verhagen, "...Measures Strictly Enforced," Mar 11, 1969; "Foyt, McCluskey Head Field for First 100-Miler," June 1, 1969; John L. Paustian, "Hartman Wins KK's 100-Mile Feature," June 2, 1969; "KK Sports Arena Files Bankruptcy," July 18, 1970; "96 Creditors Listed; KK Closed After Bankruptcy Filed," July 19, 1970; bankrupt auction ad and county board story, Nov 13, 1970. https://archive.org/details/appleton-post-crescent-1970-07-19
+- [local] *Dixon Evening Telegraph* (Dixon, Ill.): National Drag Racing Series preview, June 28, 1958; World Series preview, Aug 13, 1964. https://archive.org/details/dixon-evening-telegraph-1964-08-13
+- [local] *Monroe Morning World* (Monroe, La.): Harmon Raceway ads, May 13 and June 24, 1967. https://archive.org/details/monroe-morning-world-1967-06-24
+- [local] *Daily Independent Journal* (San Rafael, Calif.): AP and UPI reports from the NHRA national championships at Indianapolis, Sept 6, 1966. https://archive.org/details/san-rafael-daily-independent-journal-1966-09-06
+- [local] *Rushville Republican* (Rushville, Ind.): Auto Show Edition, May 20, 1971 (parade line-up and "'First Lady Of Auto Racing' To Be Here"). https://archive.org/details/rushville-republican-1971-05-20
+- [local] *The Salem News* (Salem, Ohio): "More Sports Facilities For Youth Proposed" (Lisbon meeting), May 24, 1957. https://archive.org/details/salem-news-1957-05-24
+- [mag] "Controversial 'King of the Drags'," *Car Craft*, Oct 1959, Internet Archive scan. https://archive.org/details/sim_car-craft_1959-10_7_6
+- [book] ◐ Search excerpts only (Internet Archive lending library, not opened): *Ward's Quarterly*, Vol. 1, No. 2, Spring 1965 (wardsquarterlysp0000unse); a book on the 1964–67 Pontiac GTO (gto196419670000zaza); a 2017 book on Ed Iskenderian (iskyediskenderia0000ston); a 1960 hot rod annual (lccn_60014396); a 1968 book on funny cars (completebookoffu0000enge).
+- [ref] Wikipedia: "ZIP Code."
