@@ -4,6 +4,8 @@
 
 Nearly every company here began with one guy who needed a part that didn't exist: a header he couldn't afford, a gasket that wouldn't stay put, a bellhousing that wouldn't let a clutch fly into the grandstand. The stories are mostly about what happened next, and about the grassroots (clubs, strips, cruise spots, small shops) that made the demand.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#companies-and-parts) give the short version of the big questions about companies and the parts business, each with a link to the full story.
+
 **New: [The Web of Influence](web-of-influence.md)**, a map of who fed whom. Every line is backed by a wiki page and a verbatim phrase from it.
 
 ## The Big Names

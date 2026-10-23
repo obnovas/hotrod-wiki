@@ -2,6 +2,8 @@
 
 *From the dry lakes to Pro Street.* The table is a map: start anywhere. Status says how far along each chapter is.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#eras-and-origins) give the short version of the big questions about eras and origins, each with a link to the full story.
+
 | Era | Articles | Status |
 |---|---|---|
 | 1920s–30s: Muroc & the prewar lakes | [Dry Lakes & the SCTA](1930s-dry-lakes-scta.md) | started |

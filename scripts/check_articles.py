@@ -159,6 +159,21 @@ def main():
                 E(f"link '{href}': no anchor '#{frag}' in {tgt}")
             if tgt != rel:
                 inbound[tgt].add(rel)
+        # open questions: every inline marker has its item, and every item its marker (resolved items leave both)
+        mk = re.findall(r'<sup class="hr-q" id="qr-(\d+)"><a href="#q-(\d+)"', body)
+        items = set(re.findall(r'<a id="q-(\d+)" class="hr-q-anchor"', body))
+        marks = {m for m, _ in mk}
+        for m, t in mk:
+            if m != t:
+                E(f"open-question marker qr-{m} points to #q-{t}")
+        for n in sorted(marks - items, key=int):
+            E(f"orphan open-question marker qr-{n}: no item q-{n} in Open questions (resolved? remove the marker too)")
+        for n in sorted(items - marks, key=int):
+            E(f"orphan open-question item q-{n}: no marker qr-{n} in the story (resolved? remove the item and log it on the Research Trail)")
+        for n in sorted(set(re.findall(r'href="#qr-(\d+)"', body)) - marks, key=int):
+            E(f"open-question back link to #qr-{n}, but there is no marker qr-{n}")
+        if (marks or items) and "## Open questions & disputed details" not in body:
+            E("has open-question markers but no 'Open questions & disputed details' section")
         for sn in snippet_includes(body):
             if not (SNIPPETS / sn).exists():
                 E(f"snippet '{sn}' not found in snippets/")

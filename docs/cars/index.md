@@ -4,6 +4,8 @@
 
 A few machines carry whole eras on their bodywork, and each period had its own way of building them. This department holds the individual cars we have run down and the how-to side of the story: the techniques and period styles, flathead to Pro Street.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#cars-customs-and-techniques) give the short version of the big questions about cars, customs and techniques, each with a link to the full story.
+
 - [Beast III (Herbert/Schapel streamliner, 1952)](beast-iii.md)
 - [Hill Bros. Red Baron](hill-bros-red-baron.md): '33 Willys AA/GS, from Virginia to the Hrudkas to Cleveland in 1967.
 - [Techniques & Period Styles](techniques-and-styles.md): the "fake Cord," metal-finish vs. lead, the lead-sled era, flathead talk and a pointer to Pro Street.

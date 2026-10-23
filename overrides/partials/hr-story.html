@@ -138,6 +138,15 @@
     </ul>
   </section>
   {% endif %}
+  {% if hr.quick %}
+  <section class="hr-more__qa" aria-labelledby="hr-qa-h">
+    <h3 class="hr-more__h" id="hr-qa-h">Quick answers <span>· the short version</span></h3>
+    <ul class="hr-qa-links">
+      {% for x in hr.quick %}<li><a href="{{ ('reference/quick-answers/#' ~ x.id) | url }}">{{ x.q }}</a></li>{% endfor %}
+      <li class="hr-qa-links__all"><a href="{{ 'reference/quick-answers/' | url }}">All quick answers →</a></li>
+    </ul>
+  </section>
+  {% endif %}
   {% if hr.backlinks %}
   <section class="hr-more__back" aria-labelledby="hr-bl-h">
     <h3 class="hr-more__h" id="hr-bl-h">Mentioned in <span>{{ hr.backlinks | length }} other {{ "story" if hr.backlinks | length == 1 else "stories" }}</span></h3>

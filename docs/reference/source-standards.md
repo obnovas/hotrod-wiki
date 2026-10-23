@@ -14,7 +14,7 @@ This wiki treats hot rod history as detective work. Every claim has to show wher
 |---|---|
 | **⚠ Conflict** | Sources disagree. Every version is shown with its source, and a working conclusion is stated only if the evidence supports one. |
 | ◐ | Single-sourced, or the source is weak (auction copy, promotional HOF text, an unsourced post). Treat it as provisional. |
-| ~~struck~~ / "resolved" | An earlier conflict, resolved in the noted round. The reasoning is kept. |
+| (resolved) | No marker. A settled question leaves the page's Open questions: the answer is told in the story with its citations, and the [Research Trail](../research-trail.md#resolved) logs it with the date and the source. Older pages may still show a "Resolved" note from an earlier round. |
 
 In a story the marker is a small superscript ⚠ or ◐ right after the claim and its footnote. It links to the item in the page's last section, **Open questions & disputed details**, which says what is unsettled and which sources say what; each item links back. Facts that several pages tell are settled once, on their canonical page (see [Article Schema](article-schema.md#one-home-for-each-repeated-fact)).
 

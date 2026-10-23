@@ -13,4 +13,5 @@ The headline stories of American hot rodding have been told plenty. This archive
     - **⚠ Conflict** marks places where sources disagree; both versions are shown.
     - **◐ Single-sourced** marks claims found in only one source so far.
     - The teal **Grassroots** badge marks articles built mainly on local or homegrown sources: [what counts and where we found them](reference/grassroots-sources.md).
+    - New here? The [Quick Answers](reference/quick-answers.md) give the short version of the big questions, from the SCTA to cruising bans, each with a link to the full story.
     - The [Research Trail](research-trail.md) is the running detective's log of leads.

@@ -4,6 +4,8 @@
 
 Most of them started in a garage, a shed or a borrowed corner of someone else's machine shop. Here they are, roughly in the order the story needs them.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#people) give the short version of the big questions about the people, each with a link to the full story.
+
 - [Ed Winfield](ed-winfield.md): cam grinder and carburetor maker; the generation before the speed-shop boom.
 - [George Riley](george-riley.md): Model A/B overhead conversions, 2-port and 4-port.
 - [Jimmy Summers](jimmy-summers.md): prewar Melrose Avenue customizer, fadeaway fender kits.

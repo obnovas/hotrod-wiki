@@ -4,6 +4,8 @@
 
 Hot rodding wasn't only a SoCal export, and it didn't happen only on strips. This department is organized by place, in two groups.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#places-and-cruising) give the short version of the big questions about places, scenes and cruising, each with a link to the full story.
+
 **Regional scenes** are the places that built their own way of doing it, on abandoned airfields, through volunteer councils and with fairground shows.
 
 - [Regional scenes: how they differed from SoCal](regional-scenes.md)

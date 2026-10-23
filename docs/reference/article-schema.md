@@ -120,6 +120,8 @@ The registry is `docs/data/canonical.yml`. For each fact it names the page, anch
 
 Uncertainty is not argued in the middle of the story. The claim stays where it is, with its footnote, and gets a superscript marker (⚠ sources disagree, ◐ single source so far) that jumps to the last section of the page, **Open questions & disputed details**. There each item says what is unsettled and which sources say what, and links back to the story. `scripts/move_unknowns.py` builds the section from inline flags; `scripts/move_unknowns.py --check --all` verifies every marker has its item and every item its marker.
 
+The build checks the pairing: every marker `qr-N` must have its item `q-N` in Open questions and every item its marker, or `check_articles.py` fails with an "orphan open-question" error. When a question is answered, both go: the answer moves into the story with its citations, the [Research Trail](../research-trail.md#resolved) logs it under **Resolved**, and any [Quick answer](quick-answers.md) that flagged it drops its ⚠/◐ (the Quick Answers check fails until it does).
+
 ## Checks to run before pushing
 
 ```bash
@@ -127,6 +129,7 @@ python scripts/check_articles.py          # front matter, links, anchors, canoni
 python scripts/move_unknowns.py --check --all
 python scripts/update_highlights.py check
 python scripts/check_connections.py
+python scripts/check_quick_answers.py  # Quick Answers: numbers, links, flags still open (also runs inside the build)
 mkdocs build --strict
 python scripts/link_report.py 1           # after the build: orphan and under-linked pages
 ```

@@ -4,6 +4,8 @@
 
 How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Portland? And how did street rodding get its own magazine? Through paper, plastic and show halls. This department follows each channel: the magazines and books that covered hot rodding, the model kits that sold it to kids, and the indoor shows that gave it a stage. The cars and builders themselves live in other departments (see [Customs & Kustom Kulture](../customs/index.md) and [Street Rodding](../street-rodding/index.md)).
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#media-and-shows) give the short version of the big questions about media and shows, each with a link to the full story.
+
 - [Trend Books, Model Kits & Roth](trend-books-kits-roth.md): the 1951 Trend Book, AMT's 3-in-1 kits from 1958, and Roth's penny-a-kit Revell deal.
 - [The Show Circuit](show-circuit.md): Oakland (1950), Detroit Autorama (1953), Larivee's Promotions Inc. and ISCA (1963), and the Portland Roadster Show (1956).
 - [*Street Rod* Magazine (Portland, 1971–73)](street-rod-magazine-portland.md): Bruce Miller and Bruce Craig's 20-issue monthly, which took the title first.

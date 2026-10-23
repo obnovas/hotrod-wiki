@@ -1,0 +1,588 @@
+# Quick Answers: the questions a reader needs to connect the dots across the site.
+#
+# Rendered at build time into docs/reference/quick-answers.md (placeholder <!-- hr:quick-answers -->)
+# by hooks/quick_answers_hook.py, using scripts/quick_answers_lib.py. Validated on every build:
+#   id     stable anchor (lowercase, digits, hyphens); never rename one that has shipped, other pages link to it
+#   q      the question, as a reader would ask it
+#   a      1-3 plain sentences that state only what the linked article states. Every number in `a` must
+#          appear in the `link` article. Write "see Open questions" after a ⚠ or ◐ and set `flag`.
+#   link   the canonical article (the "Full story"), optionally with #anchor. Must exist.
+#   also   0-2 related pages (paths under docs/, optional #anchor). Must exist.
+#   flag   required when `a` carries ⚠ (sources disagree) or ◐ (single source): the Open questions item or
+#          the ⚠ heading inside the linked page's "Open questions & disputed details" that holds the doubt,
+#          as page.md#q-N or page.md#heading-id. When the article resolves the item, the build fails here:
+#          drop the flag and update the answer. `flag: legend` marks an answer that explains the marks themselves.
+themes:
+  - id: eras-and-origins
+    title: Eras and origins
+    questions:
+      - id: before-the-drag-strips
+        q: Where did hot rodders race before there were drag strips?
+        a: >-
+          On the dry lakes. In the 1920s the weekend racers of greater Los Angeles drove roughly 100 miles
+          north to Muroc Dry Lake, partly to get away from the police, and raced modified four-cylinder Fords
+          side by side across the lakebed in unruly "lineups."
+        link: eras/1930s-dry-lakes-scta.md
+        also: [voices/blackie-gold.md, people/kong-jackson.md]
+      - id: what-was-the-scta
+        q: What was the SCTA, and why did it matter?
+        a: >-
+          The Southern California Timing Association, organized on November 29, 1937, ran speed trials on the
+          dry lakes and set safety guidelines, so the mass starts gave way to running against the clock. By
+          mid-1938 it had 23 member clubs and 451 members, and one founding Road Runner, Wally Parks, went on
+          to found the NHRA in 1951. Even its first meet has two dates, May 15 or March 15, 1938 (⚠ see Open questions).
+        link: eras/1930s-dry-lakes-scta.md#enter-the-stopwatch
+        also: [eras/1930s-dry-lakes-scta.md#may-or-march, people/veda-orr.md]
+        flag: eras/1930s-dry-lakes-scta.md#q-4
+      - id: what-was-a-timing-association
+        q: What was a timing association?
+        a: >-
+          A federation of clubs that ran speed contests against the clock under shared rules. The SCTA set the
+          pattern on the dry lakes; later, clubs in towns far from California formed their own, such as the
+          Kansas City Timing Association, which ran a strip, and Twin Falls's Magic Valley Timing Association,
+          which kept asking for one.
+        link: eras/1930s-dry-lakes-scta.md#enter-the-stopwatch
+        also: [drag-racing/kansas-city-timing-association.md, places/twin-falls-main-avenue.md]
+      - id: what-happened-to-muroc
+        q: What happened to Muroc?
+        a: >-
+          The military took it. Muroc became restricted and was absorbed into what is now Edwards Air Force
+          Base, and after the war El Mirage became the main lakebed. Barney Navarro remembered the November
+          1941 meet as "the last Muroc meet before the war."
+        link: eras/1930s-dry-lakes-scta.md#the-lakebed-gets-drafted
+        also: [people/kong-jackson.md#muroc-1941]
+      - id: first-commercial-drag-strip
+        q: Where was the first commercial drag strip?
+        a: >-
+          At Santa Ana, on an unused strip at the Orange County Airport. After Orange County hot rodders were
+          run off the old airstrips, by one account by U.S. Marines with fixed bayonets (◐ see Open questions),
+          C.J. "Pappy" Hart, his wife Peggy and two backers opened the Santa Ana drags in 1950 with less than
+          $1,000. The strip ran until the county evicted Hart in 1959 to expand the airport.
+        link: eras/1950s-santa-ana-drags.md
+        also: [people/peggy-hart.md, voices/harts-santa-ana.md]
+        flag: eras/1950s-santa-ana-drags.md#q-1
+      - id: why-a-quarter-mile
+        q: Why is a drag race a quarter mile?
+        a: >-
+          It was borrowed from horse racing at Santa Ana, because "there was a lot of talk in those days that
+          quarter horses were faster than cars," and the public could relate to it. Timing started with a
+          stopwatch, then homemade electric timers, and the classes came after.
+        link: eras/1950s-santa-ana-drags.md#how-the-rules-got-invented
+        also: [places/texas.md]
+      - id: what-were-the-camgrinder-wars
+        q: What were the Camgrinder Wars?
+        a: >-
+          An advertising brawl among the cam makers. HOT ROD's cam ads started mild in 1948 and turned into
+          escalating claims, with Isky and Howard trading ever-bigger boasts in their ads. Looking back, Jack
+          Engle called it "more or less a game."
+        link: eras/1950s-camgrinder-wars.md
+        also: [people/ed-iskenderian.md, people/jack-engle.md]
+      - id: what-were-the-drag-rags
+        q: What were the "drag rags," and why do they matter?
+        a: >-
+          Cheap independent weekly tabloids such as *Drag News*, founded on March 4, 1955, that neither a
+          sanctioning body nor Petersen Publishing controlled. Dave Wallace argues they "recorded the truest
+          accounts to be found" of drag racing's growth. By 1967 only *Drag News* and *Drag Digest* remained.
+        link: eras/1960s-drag-rags.md
+        also: [people/doris-herbert.md]
+      - id: street-rodding-vs-hot-rodding
+        q: What is street rodding, and how is it different from hot rodding?
+        a: >-
+          Street rodding grew out of hot rodding in the late 1960s. It was a hobby of driving old cars long
+          distances, often with the family aboard, rather than racing them, and its national association drew
+          its line with a 1948-and-older rule.
+        link: street-rodding/index.md
+        also: [street-rodding/nsra-early-nationals.md#the-1948-and-older-rule, eras/1970s-street-rod-nationals.md]
+      - id: why-peoria
+        q: Why was the first Street Rod Nationals held in Peoria?
+        a: >-
+          Because *Rod & Custom*'s Tom Medley picked the Slo-Pokes club of Peoria, Illinois: Peoria "was almost
+          the center of the population of the U.S." Petersen's management never approved the event, and the
+          staff went ahead anyway. How many came is harder to pin down: Hagerty, citing MotorTrend, gives 600
+          street rods.
+        link: eras/1970s-street-rod-nationals.md#why-peoria
+        also: [voices/peoria-1970.md, places/upper-midwest.md]
+      - id: who-was-the-first-nsra-president
+        q: Who was the NSRA's first president?
+        a: >-
+          It is still open. Most sources name Dick Wells, who called himself "the first active president of
+          the National Street Rod Association"; a Portland history names Bruce Miller (⚠ see Open questions).
+        link: people/dick-wells.md#the-street-rod-years-and-the-president-question
+        also: [media/street-rod-magazine-portland.md, street-rodding/nsra-early-nationals.md]
+        flag: people/dick-wells.md#q-3
+      - id: what-is-pro-street
+        q: What is Pro Street?
+        a: >-
+          A street style of the 1980s: big rear tires under stock-looking bodies by way of wheel tubs, a
+          back-halved or tube chassis, a roll cage and often a supercharger (◐ see Open questions). Dayton
+          builder Scott Sullivan dates the name to 1979 and a Steve Reyes article, and pushes back on calling
+          it a Pro Stocker for the street: "I don't ever recall a Pro Stocker having a supercharger on it."
+        link: eras/1980s-pro-street.md
+        also: [cars/techniques-and-styles.md]
+        flag: eras/1980s-pro-street.md#q-2
+
+  - id: strips-and-towns
+    title: Drag strips and the towns that argued about them
+    questions:
+      - id: why-did-towns-fight-over-drag-strips
+        q: Why did towns fight over drag strips in the 1950s?
+        a: >-
+          Because nobody agreed whether a strip took racing off the streets or encouraged it. In March 1957 the
+          ATAA's Arnold Maremont argued for supervised strips while the National Safety Council came out
+          against drag racing "supervised or otherwise," and that same month a county near Denver was said to
+          be building a strip with public funds while the city prepared to ban street drag racing (⚠ see Open questions).
+        link: drag-racing/march-1957-drag-strip-survey.md
+        also: [drag-racing/recreation-1957-pro-and-con.md, drag-racing/new-york-towns-panel-1957.md]
+        flag: drag-racing/march-1957-drag-strip-survey.md#q-2
+      - id: what-did-police-have-to-do-with-it
+        q: What did the police have to do with drag strips?
+        a: >-
+          Often they were the sponsors. In 1951 Pomona's police chief told the FBI bulletin that "If you can't
+          control them—join them" was the only approach not tried, and his department helped the Choppers club
+          get a legal strip at Fontana. A Kansas City chief of detectives and a Kern County sheriff helped
+          start strips of their own.
+        link: drag-racing/pomona-choppers-fontana.md
+        also: [drag-racing/kansas-city-timing-association.md, drag-racing/inyokern-dust-devils.md]
+      - id: what-did-the-jaycees-do
+        q: What did the Jaycees and chambers of commerce have to do with it?
+        a: >-
+          They were often the civic sponsors. At Malden, Missouri, the Southeast Missouri Dragsters and the
+          Malden Junior Chamber of Commerce opened a strip on the old air base in 1961, and by 1965 its ads read
+          "NHRA SANCTIONED - SPONSORED BY JAYCEES." Belleville's Gear Jammers were organized under the wing of
+          the Junior Chamber of Commerce, and Great Bend's Chamber of Commerce wrote to Wally Parks on behalf of the local club.
+        link: drag-racing/semo-malden-drag-strip.md
+        also: [drag-racing/belleville-gear-jammers.md, drag-racing/great-bend-srca.md]
+      - id: why-airfields
+        q: Why were so many early strips on airfields?
+        a: >-
+          Old air bases had long, empty runways away from town. Regions far from California built their scenes
+          on abandoned airfields: Texas's first organized drags ran at Caddo Mills, Memphis raced at an old
+          bomber base at Halls, Great Bend used a surplus Army Air Force base, and Santa Ana ran at the county airport.
+        link: places/regional-scenes.md
+        also: [places/texas.md, drag-racing/great-bend-srca.md]
+      - id: what-happened-to-kansas-citys-strip
+        q: What happened to Kansas City's strip?
+        a: >-
+          It opened in July 1955 near the Missouri River, on July 17 by the organizer's account or July 15 by
+          the AP's (⚠ see Open questions), and it was still running in 1966, by then sanctioned by the American
+          Hot Rod Association rather than NHRA. When it closed is one of the page's next leads.
+        link: drag-racing/kansas-city-timing-association.md#the-strip
+        also: [drag-racing/planners-report-1955.md, drag-racing/sedalia-drag-ons.md]
+        flag: drag-racing/kansas-city-timing-association.md#q-4
+      - id: where-was-the-first-nhra-national-event
+        q: Where was NHRA's first national event?
+        a: >-
+          In Great Bend, Kansas, in 1955, on an 8,000-foot runway at the municipal airport. A local club, the
+          Sunflower Rod and Custom Association, and the city's Chamber of Commerce brought it there. Rain washed
+          out Sunday's finals, and what "first" means is argued (⚠ see Open questions).
+        link: drag-racing/great-bend-srca.md
+        also: [voices/ray-godman.md]
+        flag: drag-racing/great-bend-srca.md#discrepancies
+      - id: why-did-clubs-fine-their-own-members
+        q: Why did hot rod clubs fine their own members?
+        a: >-
+          To show that hot rodders could police themselves. Belleville's Gear Jammers made a member who was
+          arrested for a moving violation pay the club a sum equal to half his fine, and a second arrest meant
+          expulsion. Other small-town clubs had rules like it.
+        link: drag-racing/belleville-gear-jammers.md#the-club-with-the-half-fine-rule
+        also: [drag-racing/sedalia-drag-ons.md, drag-racing/stroudsburg-ridge-runners.md]
+      - id: what-happened-without-a-strip
+        q: What happened when a town had no strip?
+        a: >-
+          The racers found one anyway. On a Tuesday night in May 1958 Pennsauken's police chief used fire hoses
+          and tear gas on street racers at Camden's old Central Airport, and the next day bulldozers tore up
+          the runways.
+        link: drag-racing/pennsauken-central-airport-1958.md
+        also: [places/twin-falls-main-avenue.md, places/dragging-main.md]
+      - id: did-every-town-get-a-strip
+        q: Did every town that asked get a strip?
+        a: >-
+          No. Sedalia, Missouri, argued about one for more than a decade, and when the Big S.I.R. finally broke
+          ground, the builder pulled out and left half a strip. Sedalia's own Drag-Ons club and Stroudsburg's
+          Ridge Runners never got one.
+        link: drag-racing/sedalia-big-sir.md
+        also: [drag-racing/sedalia-drag-ons.md, drag-racing/pocono-strips.md]
+      - id: what-was-the-ataa
+        q: What was the ATAA?
+        a: >-
+          The Automobile Timing Association of America, a non-profit underwritten by Chicago muffler maker
+          Arnold Maremont, ran the drag strip at Half Day, Illinois, and sold drag racing as safe, down to
+          insisting on seat belts. Bob Bartel's tribute says NHRA "absorbed" it in 1957 (◐ see Open questions).
+        link: drag-racing/half-day-ataa-maremont.md
+        also: [drag-racing/detroit-cordova.md]
+        flag: drag-racing/half-day-ataa-maremont.md#q-8
+      - id: why-does-cordova-matter
+        q: Why does Cordova, Illinois, matter?
+        a: >-
+          It is where an unknown Don Garlits earned a "name." At the 1957 World Series of Drag Racing, Emery Cook
+          showed him how to build a hand-operated fuel pressure pump and Garlits beat Cook & Bedwell in the
+          semis; Detroit's Setto Postoian then beat him in the final of both the 1957 and 1958 World Series.
+        link: drag-racing/detroit-cordova.md#1957-the-garlits-upset
+        also: [people/bob-bartel.md, people/setto-postoian.md]
+      - id: how-long-did-a-club-strip-last
+        q: How long could a club-run strip last?
+        a: >-
+          At Inyokern, about half a century. A sheriff started it, the volunteer Dust Devils ran a quarter-mile
+          at the airport in Kern County from 1954, and a federal agency ended it in 2005 when the FAA
+          threatened the airport's certification. Even the last race has three dates (⚠ see Open questions).
+        link: drag-racing/inyokern-dust-devils.md
+        also: [drag-racing/pomona-choppers-fontana.md]
+        flag: drag-racing/inyokern-dust-devils.md#when-was-the-last-race
+      - id: what-did-planners-say
+        q: What did city planners say about hot rods?
+        a: >-
+          In May 1955 the American Society of Planning Officials told city planners they would have to find
+          sites for drag strips, and its report described small-town programs such as the police-started club
+          in Columbia, Missouri. It also noted that club names like "Fender Rippers" were by then "considered
+          to be bad public relations."
+        link: drag-racing/planners-report-1955.md
+        also: [drag-racing/escanaba-dragns.md, drag-racing/indiana-small-town-clubs.md]
+      - id: were-there-high-school-hot-rod-clubs
+        q: Were there hot rod clubs in high schools?
+        a: >-
+          Yes. In 1950s and 1960s yearbooks the Hot Rod Club sits between the Glee Club and the Future Business
+          Leaders. At Central Catholic in Portland, Oregon, the Ram Rods sponsored the school's Safe-Teen
+          car inspections, and the school paper's editorial noticed that the inspections checked the cars, not
+          the drivers.
+        link: drag-racing/high-school-hot-rod-clubs.md
+        also: [media/street-rod-newspaper-serial.md]
+
+  - id: places-and-cruising
+    title: Places, scenes and cruising
+    questions:
+      - id: was-hot-rodding-a-socal-export
+        q: Was hot rodding just a Southern California export?
+        a: >-
+          No. Other regions built their own scenes on abandoned airfields, through volunteer councils and at
+          fairground shows. Texas drove to old military fields, Portland's clubs worked through a council that
+          runs a show and helped open a strip, and Ohio's gas-class racers grew from a circle of Cleveland high-school friends.
+        link: places/regional-scenes.md
+        also: [places/pacific-northwest.md, places/ohio-gassers.md]
+      - id: why-memphis
+        q: Why does Memphis come up so often?
+        a: >-
+          Memphis built a scene of its own. Its racers ran at an abandoned WWII air base at Halls, Tennessee,
+          about 70 miles away (⚠ see Open questions), Lakeland Dragway opened on July 4, 1960, and the Memphis
+          Rodders date from 1947. The city also gave the parts business Joe Lunati and Racing Head Service, and
+          hosted the 2nd Street Rod Nationals in 1971.
+        link: places/memphis.md
+        also: [companies/comp-cams-rhs.md, people/joe-lunati.md]
+        flag: places/memphis.md#q-1
+      - id: what-is-dragging-main
+        q: What does "dragging Main" mean?
+        a: >-
+          In towns with one main street, teenagers drove from one end to the other and back until midnight,
+          and called it dragging Main. Most of the kids who wrote it down meant a slow parade, but in Twin
+          Falls, Idaho, in 1957 it meant racing any other carload down the avenue.
+        link: places/dragging-main.md
+        also: [places/twin-falls-main-avenue.md, places/cruising-overview.md]
+      - id: how-did-cruising-end
+        q: How did cruising end?
+        a: >-
+          City by city. Modesto passed an anti-cruising ordinance on March 27, 1990 (a marker says cruising was
+          "banned" in 1993, ⚠ see Open questions), the Sheriff's roadblocks ended East LA's Whittier Boulevard
+          cruise in 1979, LAPD barricades ended Van Nuys's, and in California AB 436 took away local cruising
+          ordinances from Jan 1, 2024.
+        link: places/cruising-overview.md#how-cruising-was-policed-or-ended
+        also: [places/modesto.md, places/whittier-blvd.md]
+        flag: places/cruising-overview.md#q-4
+      - id: why-is-woodward-different
+        q: Why is Woodward Avenue different from the other cruise strips?
+        a: >-
+          It was never simply banned. The 1960s measures went after the drive-in restaurants where teenagers
+          gathered, and one city, Birmingham, passed an ordinance in 1966 banning drive-ins it did not have.
+          The avenue stayed open, and the Dream Cruise began there in 1995.
+        link: places/woodward-ordinances.md
+        also: [places/woodward.md]
+      - id: what-made-the-northwest-different
+        q: What made the Pacific Northwest scene different?
+        a: >-
+          Volunteers ran it. Portland-area clubs organized through a council, the MHRC, founded in 1954 with
+          Dee Wescott as first president; it runs the Portland Roadster Show and helped open Woodburn's
+          eighth-mile strip in June 1961.
+        link: places/pacific-northwest.md
+        also: [media/show-circuit.md#portland-roadster-show-1956, street-rodding/fiberglass-suppliers.md]
+      - id: who-were-the-ohio-gassers
+        q: What was a gasser, and who were the Ohio Gassers?
+        a: >-
+          Gassers were full-bodied, full-fendered cars raced in the gas classes. "The Ohio Gassers" was never a
+          chartered club but a loose circle of Cleveland high-school friends and their rivals across Ohio,
+          including Eddie Schartman, Ron Hassel and the Hrudka brothers, whose homemade gaskets became Mr. Gasket.
+        link: places/ohio-gassers.md
+        also: [companies/mr-gasket.md, people/eddie-schartman.md]
+
+  - id: companies-and-parts
+    title: Companies and the parts business
+    questions:
+      - id: how-did-racing-feed-the-parts-industry
+        q: How did local racers feed the speed-parts industry?
+        a: >-
+          Many companies began with a racer fixing his own problem: Joe Hrudka's better exhaust gaskets, sold
+          from the trunk of a '57 Chevy, became Mr. Gasket, and Gary Hooker's homemade headers became Hooker
+          Headers. People moved too: Crane Cams' shop foreman, Tom Woitesek, left Florida for a Memphis head
+          shop that became COMP Cams. The Web of Influence maps only the ties a page can prove.
+        link: companies/web-of-influence.md#five-threads-worth-pulling
+        also: [companies/mr-gasket.md, companies/hooker-headers.md]
+      - id: what-were-the-first-speed-shops
+        q: What were the first speed shops?
+        a: >-
+          Dean Batchelor's list starts with George Wight, who began reselling speed equipment from his junkyard
+          in Bell, California, in 1923, then Lee Chapel and Karl Orr; Hemmings adds Jim White's shop, opened in
+          1932.
+        link: companies/prewar-speed-shops.md
+        also: [people/veda-orr.md, people/george-riley.md]
+      - id: who-were-isky-and-winfield
+        q: Who were Isky and Winfield?
+        a: >-
+          The root of the cam family tree. Ed Iskenderian (1921–2026), the "Camfather," was mentored by Ed
+          Winfield in starting cam grinding, and Hemmings calls Winfield the model for Iskenderian. Isky went on
+          to be the chief instigator of the Camgrinder Wars.
+        link: people/ed-iskenderian.md#cams-and-trouble
+        also: [people/ed-winfield.md, people/jack-engle.md]
+      - id: where-does-three-quarter-race-come-from
+        q: Where does "three-quarter race" come from?
+        a: >-
+          From Ed Winfield's master cams. He first made two masters, semi race and full race, then a third in
+          between, and combined the full-race master for the intake with the new one for the exhaust: "It was
+          three-quarters of the way to a full..."
+        link: people/ed-winfield.md#the-origin-of-three-quarter-race
+        also: [cars/techniques-and-styles.md#under-the-hood]
+      - id: why-does-holley-own-so-many-brands
+        q: Why do so many old garage brands belong to Holley?
+        a: >-
+          Holley, which began as a bicycle-motor shop in Bradford, Pennsylvania, became the collector. Per the
+          pages here it now owns Mr. Gasket (2015), Hooker (2000, though a Pennsylvania marker says the 1990s,
+          ⚠ see Open questions) and Lakewood. Most of the garages on the map are brands today, and many are Holley's.
+        link: companies/web-of-influence.md#five-threads-worth-pulling
+        also: [companies/holley.md, companies/hooker-headers.md#what-it-became]
+        flag: companies/web-of-influence.md#q-1
+      - id: how-did-hurst-get-into-detroit
+        q: How did a Pennsylvania shifter company get into Detroit's cars?
+        a: >-
+          Hurst-Campbell started in a two-car garage in Abington, Pennsylvania, and a former GM man got Hurst a
+          1961 meeting with Pontiac's Bunkie Knudsen and Pete Estes. The company grew into a
+          58,000-square-foot plant in Warminster.
+        link: companies/hurst-campbell.md
+        also: [people/ed-almquist.md#shifters-shifts-in-the-market, companies/web-of-influence.md]
+      - id: how-did-comp-cams-start
+        q: How did COMP Cams start?
+        a: >-
+          In a Memphis basement. In 1967 three local drag racers who liked tinkering with Oldsmobile engines set
+          up Racing Head Service in the basement of Ivars Smiltnieks's house, and it grew into COMP Cams.
+        link: companies/comp-cams-rhs.md
+        also: [places/memphis.md, companies/crane-cams.md]
+      - id: why-did-jegs-open-in-columbus
+        q: Why did a Columbus racer open JEGS?
+        a: >-
+          Jeg Coughlin Sr. got tired of waiting for parts to come by mail from far away, so in 1960 he opened
+          JEGS on East Eleventh Avenue in Columbus, Ohio, half garage and half parts store.
+        link: companies/jegs.md
+        also: [companies/summit-racing.md, places/midwest-east.md]
+      - id: where-did-the-funny-car-come-from
+        q: Where did the flip-top Funny Car come from?
+        a: >-
+          From a factory request. Lincoln-Mercury asked the Logghe brothers of Fraser,
+          Michigan, for cars that could beat Chrysler's altered-wheelbase match racers, and they delivered a
+          chromoly tube chassis under a one-piece flip-top fiberglass body. Eddie Schartman, seeing his in
+          December 1965: "It was a dragster with a body on it and the driver in the back seat..."
+        link: companies/logghe-stamping.md#the-1966-flip-top-comets
+        also: [people/eddie-schartman.md, people/gene-snow.md]
+
+  - id: people
+    title: People
+    questions:
+      - id: were-women-part-of-it
+        q: Were women part of early hot rodding?
+        a: >-
+          From the start. Peggy Hart co-founded the Santa Ana drags with her husband C.J. and raced there,
+          often challenging the winners at the end of the day; Veda Orr kept the SCTA's newsletter going during
+          the war; and in Appleton, Wisconsin, the all-girls Gas-Ketts took the initiative in organizing the
+          area's car-club association.
+        link: people/peggy-hart.md
+        also: [people/veda-orr.md, drag-racing/fox-valley-road-deacons-gas-ketts.md]
+      - id: who-kept-the-scta-together-in-the-war
+        q: Who kept the dry-lakes racers in touch during World War II?
+        a: >-
+          Veda Orr. When the SCTA *Racing News*'s editors, Eldon Snapp and Wally Parks, went into the service,
+          she took it over and mailed it free to racers wherever they were stationed. After the war she
+          handed it back and published her own *Pictorials*.
+        link: people/veda-orr.md
+        also: [companies/prewar-speed-shops.md#karl-and-veda-orr-1940]
+      - id: why-swamp-rat
+        q: Why are Don Garlits's cars called Swamp Rat?
+        a: >-
+          Because of an insult. In 1959 Detroit's Setto Postoian, who had beaten Garlits twice, placed a *Drag
+          News* ad calling him "a swamp rat," and Garlits adopted the name for all his cars.
+        link: people/setto-postoian.md
+        also: [drag-racing/detroit-cordova.md#1957-the-garlits-upset]
+      - id: first-200-mph-funny-car
+        q: Who ran the first 200-mph Funny Car pass?
+        a: >-
+          Gene Snow of Fort Worth, at 200.88 mph at the Gays' track in Dickinson, Texas. The pass is not in
+          dispute, but its date is: Aug. 17, 1968, in the NHRA Top 50 profile, or 1969 elsewhere (⚠ see Open questions).
+        link: people/gene-snow.md
+        also: [drag-racing/houston-freeway-dragstrip.md, companies/logghe-stamping.md]
+        flag: people/gene-snow.md#the-first-200-mph-one-pass-three-dates
+      - id: who-was-chet-herbert
+        q: How did a man paralyzed by polio become a cam maker?
+        a: >-
+          Chet Herbert got polio in 1948, and six months in an iron lung left him paralyzed from the chest down.
+          No Southern California grinder knew how to grind a roller cam, so he converted a lathe he bought at
+          Sears, and that started Chet Herbert Cams. In 1959 he funded his sister Doris's purchase of *Drag News*.
+        link: people/chet-herbert.md
+        also: [cars/beast-iii.md, people/doris-herbert.md]
+      - id: where-did-hilborn-injection-come-from
+        q: Where did Hilborn fuel injection come from?
+        a: >-
+          From a lakes racer's streamliner. After the war Stu Hilborn built a mechanical fuel injector and
+          tested it on the car, and demand pushed him out of racing into manufacturing. Autoweek reported his
+          injectors on 34 Indianapolis 500 winners.
+        link: people/stu-hilborn.md
+        also: [voices/injection-and-tin.md]
+      - id: what-was-bara
+        q: What was the Black American Racers Association?
+        a: >-
+          An association co-founded in 1973 by Leonard Miller, Wendell Scott, Malcolm Durham and Ron Hines.
+          Miller had raced at Bucks County strips in the 1960s, and he tells his story in his own words on his
+          Voices page.
+        link: voices/leonard-miller.md
+        also: [people/malcolm-durham.md]
+      - id: how-did-so-cal-speed-shop-start
+        q: How did the So-Cal Speed Shop start?
+        a: >-
+          On an Army furlough Alex Xydias watched San Fernando Valley street races and got the idea to open a
+          speed shop. He opened on Olive Avenue, Burbank, on his discharge day, March 3, 1946, with borrowed
+          money, and the name came with an obligation: "If I had 'speed shop' in the name I had to start to race."
+        link: people/alex-xydias.md
+        also: [people/jimmy-summers.md]
+
+  - id: cars-customs-and-techniques
+    title: Cars, customs and techniques
+    questions:
+      - id: what-was-restyling
+        q: What was "restyling," and how did it become customizing?
+        a: >-
+          Early customizing, from about 1935 to 1946, was called "restyling," and the goal was a "fake Cord," not
+          a hot Ford: grilles, bumpers and trim were swapped from more expensive makes and the insignias came
+          off. The vocabulary grew with the work: chopped tops, DuVall windshields, fadeaway fenders and, later, the lead sled.
+        link: cars/techniques-and-styles.md#from-fake-cords-to-lead-sleds
+        also: [media/trend-books-kits-roth.md, people/george-duvall.md]
+      - id: why-did-lead-sleds-come-back
+        q: Why did lead sleds come back in the 1980s?
+        a: >-
+          Through a club in Wichita. The Kustom Kemps of America began on Oct 1, 1980, with 14 charter members,
+          and held its first Lead Sled Spectacular in 1981. The revival was born in Kansas and Iowa, not Southern
+          California, and was nostalgia-driven and self-consciously low-buck.
+        link: customs/kkoa-lead-sled-revival.md
+        also: [voices/show-custom-voices.md, cars/techniques-and-styles.md]
+      - id: what-is-the-hirohata-merc
+        q: What is the Hirohata Mercury?
+        a: >-
+          Bob Hirohata's 1951 Mercury, chopped by Sam and George Barris at Barris Kustom. Its roof came down about
+          4 in. in front and 7 in. at the rear with the B-pillar removed for a hardtop look, and by 1959 it was
+          on a used-car lot, where Jim McNeil bought it for $500 and kept it for decades.
+        link: customs/hirohata-mercury.md
+        also: [people/jimmy-summers.md, cars/techniques-and-styles.md]
+      - id: did-von-dutch-invent-pinstriping
+        q: Did Von Dutch invent pinstriping?
+        a: >-
+          Not on the record we have. Kenneth "Von Dutch" Howard is widely credited with reviving pinstriping in the
+          1950s, and his own words are few; late in life he lettered a sign that said "Nothing is original."
+        link: voices/von-dutch.md
+        also: [media/trend-books-kits-roth.md]
+      - id: why-fiberglass-bodies
+        q: Why did street rodders turn to fiberglass bodies?
+        a: >-
+          Street rodding needed old bodies, and steel ones were running out. An ad for Diablo Speed Shop's
+          fiberglass T roadster body ran in Hot Rod in August 1957 at $149.50, and up north Dee Wescott had
+          been making fiberglass parts near Portland since 1954.
+        link: street-rodding/fiberglass-suppliers.md
+        also: [places/pacific-northwest.md]
+
+  - id: media-and-shows
+    title: Media and shows
+    questions:
+      - id: how-did-car-shows-start
+        q: How did hot rod shows start?
+        a: >-
+          As a sideshow. Promoter Al Slonaker slipped some track roadsters and Barris customs into a new-car
+          show in Oakland, and people liked them so much that he held a hot-rod-only show the next year. Detroit's
+          first Autorama, in 1953, raised money for the strip at New Baltimore.
+        link: media/show-circuit.md
+        also: [voices/show-custom-voices.md, drag-racing/detroit-cordova.md#detroits-strips]
+      - id: what-was-the-standard-1320
+        q: What was the Drag News Standard 1320 Record List?
+        a: >-
+          A national record list kept by *Drag News* under Doris Herbert. After Isky promoted a questionable
+          204.54 mph clocking, she set timing standards for reputable strips, sanctioned or not, and the Oct 1,
+          1960, issue named Garlits officially fastest.
+        link: people/doris-herbert.md
+        also: [eras/1960s-drag-rags.md]
+      - id: how-did-customs-reach-kids
+        q: How did customs reach kids who could not build one?
+        a: >-
+          On paper and in plastic. Petersen's 1951 Custom Cars Trend Book drew a line between "restyled" and
+          "custom" cars, AMT's 3-in-1 kits of 1958 could be built stock, competition or custom, and Revell's
+          first Roth kit, the Outlaw, came out in 1962.
+        link: media/trend-books-kits-roth.md
+        also: [voices/von-dutch.md]
+      - id: street-rod-or-street-rodder
+        q: Why was there a *Street Rod* and a *Street Rodder*?
+        a: >-
+          Because Portland got there first. Bruce Miller and Bruce Craig started *Street Rod* in Portland,
+          Oregon, and it ran 20 issues from October 1971 to July 1973. *Street Rodder*'s founders had meant to use
+          the same name, changed it, and released their first issue in May 1972.
+        link: media/street-rod-magazine-portland.md
+        also: [voices/street-rodder-founding.md]
+      - id: what-was-the-street-rod-serial
+        q: What was *Street Rod* in the small-town paper?
+        a: >-
+          Henry Gregor Felsen's novel *Street Rod*, run as a daily serial in 1954. Its hero, a 16-year-old in
+          "Dellville," Iowa, tries to talk his town into a supervised drag strip, the same argument real towns
+          were having that year.
+        link: media/street-rod-newspaper-serial.md
+        also: [drag-racing/escanaba-dragns.md, drag-racing/planners-report-1955.md]
+
+  - id: how-we-know
+    title: Sources and how we know
+    questions:
+      - id: what-do-the-flags-mean
+        q: What do the ⚠ and ◐ marks mean?
+        a: >-
+          A ⚠ means sources disagree, and every version is shown with its source; a ◐ means a claim is
+          single-sourced or the source is weak, so treat it as provisional. Each mark links to the page's Open
+          questions & disputed details, which says what is unsettled.
+        link: reference/source-standards.md#inline-markers
+        also: [research-trail.md]
+        flag: legend
+      - id: what-is-a-grassroots-source
+        q: What is a grassroots source?
+        a: >-
+          A way we know, not a topic: local newspapers and obituaries, club newsletters and club-run pages,
+          police and municipal records, historical markers, family accounts and the like. Pages built mainly on
+          them wear the teal Grassroots badge.
+        link: reference/grassroots-sources.md
+        also: [reference/source-standards.md#the-grassroots-badge]
+      - id: why-told-years-later
+        q: Why do some quotes say "told years later"?
+        a: >-
+          Because most of these stories were told decades after the events, and memory drifts. Each quote on a
+          Voices page is labeled by when it was told, whether it is secondhand, and whether it conflicts with
+          the record.
+        link: voices/index.md
+        also: [voices/strip-owners-and-door-slammers.md]
+      - id: why-full-story-links
+        q: Why do some facts send you to one "Full story" page?
+        a: >-
+          Because a fact that several articles tell has one home. The canonical page keeps the footnotes and the
+          flags, and other pages give a one-line mention and link to it, so a correction is made once.
+        link: reference/article-schema.md#one-home-for-each-repeated-fact
+        also: [companies/web-of-influence.md]
+      - id: where-do-unanswered-questions-go
+        q: Where do unanswered questions go?
+        a: >-
+          Each article keeps its own at the end, under Open questions & disputed details, and the leads go to the
+          Research Trail. When a question is answered, it leaves the list: the answer goes into the story with
+          its source, and the Research Trail logs it as resolved.
+        link: research-trail.md
+        also: [reference/source-standards.md#inline-markers]

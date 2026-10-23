@@ -4,6 +4,8 @@
 
 Some of the best history in hot rodding was never written down by a historian. It was said into a recorder, printed in an obituary, or typed into a forum by someone's kid. This section collects **first-hand narratives**: interviews, oral histories, obituaries that quote family, club and forum posts by people who were there, and recollections that magazine writers recorded. Each page puts the speaker's words next to the documentary record.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#how-we-know) explain in a few lines how we label a quote and how we know what we know, with links to the full stories.
+
 ## How we handle a quote
 
 - **Verbatim only.** Every quote was copied from a page we actually opened and read (not from a search snippet) and checked against that page on 2026-10-13. The source is linked so you can read it in full.

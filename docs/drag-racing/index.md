@@ -4,6 +4,8 @@
 
 Organized drag racing began with clubs, a borrowed airstrip and a few friendly police officers, and the sport's rules came out of how those clubs and towns handled the cars. This department covers the places where the racing happened, the clubs that ran it, and the safety rules and public arguments around it. Each page names its sources and flags where they disagree.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#strips-and-towns) give the short version of the big questions about drag strips and the towns that argued about them, each with a link to the full story.
+
 **Strips**
 
 - [Pomona's Choppers & the Fontana Strip](pomona-choppers-fontana.md): a police chief's own 1951 account of joining the hot rodders.

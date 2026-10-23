@@ -30,6 +30,7 @@ Narrative technique here means **structure, pacing, word choice, and framing. Ne
 - **Quotes stay verbatim**, with speaker, source and date, exactly as they were checked against the original.
 - **Every footnote stays attached to the claim it supports.** If a sentence is moved or merged, the citation moves with it.
 - **Uncertainty is never upgraded.** A ⚠ conflict stays a conflict. A ◐ single-source claim stays flagged. "Reportedly," "according to," and "by his own account" keep their jobs. The sources not agreeing is part of the fun, so we say so.
+- **Answered questions leave the notebook.** When an Open questions item is resolved, it leaves the list: fold the answer into the story with its citations, remove the inline marker and the item, update `docs/data/canonical.yml` (value and snippet) if the fact is canonical, log it under **Resolved** on the Research Trail with the date and the source that settled it, and update any Quick answer that cited it. A resolved conflict is told in the story, not kept as a struck-through item.
 - **Reference pages stay reference pages.** The Timeline, Patents, Index, Bibliography, Image Credits, Source Standards and Highlights archive are tools, not stories, and are kept clean.
 
 The fields every page carries, and the one home for each repeated fact, are in [Article Schema](reference/article-schema.md). Everything else in [Source Standards](reference/source-standards.md) still applies: confidence ratings, the record box on every article, credited images, and links out for photos we cannot host.
@@ -47,7 +48,7 @@ The fields every page carries, and the one home for each repeated fact, are in [
 
 1. Could a reader tell the opening apart from a Wikipedia lead? (They should.)
 2. Is every number, date, name and color still traceable to a footnote?
-3. Is each ⚠ and ◐ still there, and still honest, with its item in Open questions?
+3. Is each ⚠ and ◐ still there, and still honest, with its item in Open questions? And is everything left in Open questions still open? When an Open questions item is resolved, it leaves the list: fold the answer into the story with its citations, remove the inline marker and the item, update `docs/data/canonical.yml` (value and snippet) if the fact is canonical, log it under **Resolved** on the Research Trail with the date and the source that settled it, and update any Quick answer that cited it.
 4. Does each paragraph lead into the next? Read it on a phone: if a subhead or aside interrupts a thought, cut it or move it to Open questions.
 5. Is the summary in the front matter true to the article, hedges included? Does a fact told elsewhere link to its one canonical home?
 6. Did we cut a quote, move a citation off its claim, or add a detail "for color"? If yes, undo it.

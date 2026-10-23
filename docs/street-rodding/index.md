@@ -4,6 +4,8 @@
 
 Street rodding grew out of hot rodding in the late 1960s. It was a hobby of driving old cars long distances, often with the family aboard, rather than racing them.
 
+*Short on time?* The [Quick Answers](../reference/quick-answers.md#street-rodding-vs-hot-rodding) give the short version of the big questions about street rodding, each with a link to the full story.
+
 - [NSRA & the Early Nationals](nsra-early-nationals.md): Peoria 1970, Memphis 1971, St. Paul 1974, and the 1948-and-older rule.
 - [Fiberglass Bodies & Early Suppliers](fiberglass-suppliers.md): Diablo, Cal Automotive, Wescott's.
 - The hobby's press: [*Street Rod* Magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), filed under [Media & Shows](../media/index.md).

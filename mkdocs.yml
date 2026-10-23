@@ -23,7 +23,7 @@ theme:
       primary: custom
       accent: custom
       toggle: {icon: material/weather-sunny, name: "Daylight"}
-extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/editorial.css, stylesheets/flow.css, stylesheets/print.css]
+extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/editorial.css, stylesheets/flow.css, stylesheets/quick-answers.css, stylesheets/print.css]
 extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js, javascripts/connections.js]
 extra:
   issues_url: https://github.com/obnovas/hotrod-wiki/issues/new
@@ -36,12 +36,14 @@ extra:
     - {label: People, url: people/}
     - {label: Places, url: places/}
     - {label: Voices, url: voices/}
+    - {label: Quick answers, url: reference/quick-answers/}
     - {label: Timeline, url: reference/timeline/}
     - {label: About, url: about/what-makes-this-different/}
 hooks:
   - hooks/design_hook.py   # must stay BEFORE highlights_hook (it peels the home intro off the slider placeholder)
   - hooks/articles_hook.py   # front-matter gate (fails the build), summary standfirst + meta description, first-mention links
   - hooks/connections_hook.py   # Web of influence graph; fails the build on an unsupported edge
+  - hooks/quick_answers_hook.py   # Quick Answers page from docs/data/quick_answers.yml; fails the build on a bad answer
   - hooks/highlights_hook.py
   - hooks/redirects_hook.py
 markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables, pymdownx.snippets: {base_path: [snippets], check_paths: true}]
@@ -208,6 +210,7 @@ nav:
       - Strip Owners & Door-Slammers: voices/strip-owners-and-door-slammers.md
   - Reference:
       - reference/index.md
+      - Quick Answers: reference/quick-answers.md
       - Timeline: reference/timeline.md
       - People & Companies Index: reference/index-people-companies.md
       - Article Schema: reference/article-schema.md

@@ -10,6 +10,16 @@
 5. **File by topic.** Each new page goes in the one department that matches its subject (see [How the Site Is Organized](taxonomy.md#how-to-choose-a-department)). Sources are shown by the Grassroots badge and the ⚠ and ◐ flags, never by folder. If a page moves, add its old URL to `hooks/redirects.yml`.
 6. **Triage reader mail first.** Open issues labeled `triage` (corrections, source tips, suggestions) are handled before new research: label, verify, add unsettled leads to the breadcrumbs below, credit the reader in the round log, close with a note. See [Contribute](contribute.md) and `CONTRIBUTING.md`.
 7. **Every article keeps the schema.** New and edited pages carry complete front matter (summary, years, eras, region, people, companies, clubs, strips, places, tags, related), tell one cohesive story with unknowns moved to **Open questions & disputed details**, and link repeated facts to their canonical home in `docs/data/canonical.yml`. `python scripts/check_articles.py` (run by the build) and `python scripts/link_report.py 1` must pass. See [Article Schema](reference/article-schema.md).
+8. **Quick answers.** When a round adds or changes an article that connects context across the site, add or update its entry in [`docs/data/quick_answers.yml`](https://github.com/obnovas/hotrod-wiki/blob/main/docs/data/quick_answers.yml) in the same commit: 1-3 plain sentences, only what the article says, every number in the linked article, ⚠/◐ kept with "see Open questions" and a `flag`. The build checks them all. See [Quick Answers](reference/quick-answers.md).
+9. **Answered questions leave the list.** When an Open questions item is resolved, fold the answer into the story with its citations, remove the inline marker and the item, update `docs/data/canonical.yml` and its snippet if the fact is canonical, log it in **Resolved** below with the date and the source, and update any Quick answer that cited it. The build fails on an orphan marker or item, and on a Quick answer still flagging a question that is gone.
+
+## Resolved
+
+*Open questions that a round settled. Each one left its article's Open questions list when the answer went into the story with its citations. Newest first.*
+
+Each entry: **date** · page and question · the answer in one line · the source that settled it (and the reader who sent it, if one did).
+
+*No entries yet under this rule (set 2026-10-22). Earlier rounds kept resolved notes in place on the page, for example the "Resolved" note on [The Ohio Gassers](places/ohio-gassers.md).*
 
 ## Log, Round 20 (strips a town built for itself: Salem's Quaker City, Kaukauna's KK Arena, Beardstown; the Fox Valley clubs; Malden and Joe Lunati; 2026-10-22)
 - **Reader mail:** no open issues this round (checked on GitHub).

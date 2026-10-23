@@ -33,6 +33,7 @@ INFO = {}      # src_uri -> dict
 import sys as _sys
 _sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 import related_lib  # noqa: E402  (front-matter overlap scoring)
+import quick_answers_lib  # noqa: E402  (Quick answers links in Keep reading)
 
 SITE = {}      # site-wide, filled lazily in on_page_context
 IMG_DIMS = {}  # abs path -> (w, h)
@@ -1019,6 +1020,23 @@ def on_page_context(context, page, config, nav):
             if ii.get("kind") == "story" and not pages[u].is_index:
                 bl.append({"title": ii.get("title") or pages[u].title, "url": u, "dept": ii.get("dept_title")})
         hr["backlinks"] = bl
+        # Quick answers whose full story (first) or related link (after) is this page
+        if "qa_by_page" not in SITE:
+            main, also = {}, {}
+            try:
+                qdata = quick_answers_lib.load()
+            except Exception:  # pragma: no cover - the quick answers hook reports data errors
+                qdata = {}
+            for _t, q in quick_answers_lib.questions(qdata):
+                main.setdefault(quick_answers_lib.split_link(q["link"])[0], []).append(q)
+                for l in q.get("also") or []:
+                    also.setdefault(quick_answers_lib.split_link(l)[0], []).append(q)
+            SITE["qa_by_page"] = (main, also)
+        qmain, qalso = SITE["qa_by_page"]
+        src = page.file.src_uri
+        qs = list(qmain.get(src, []))
+        qs += [q for q in qalso.get(src, []) if q not in qs]
+        hr["quick"] = [{"q": q["q"], "id": q["id"]} for q in qs[:4]]
     if kind == "section" and d:
         kids = [p for p in d["pages"] if not p.is_index]
         hr["children"] = [card(p, INFO.get(p.file.src_uri, {})) for p in kids]

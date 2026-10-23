@@ -27,6 +27,24 @@ The site is organized by **topic**; sources are shown by badges and flags, not f
 8. **Links.** Link the first mention of anything with its own page (the build does this automatically for names in `docs/data/entities.yml`; add new person, company, club, strip and place pages there). Give the page at least two `related` entries. After building, `python scripts/link_report.py 1` must list nothing.
 9. **Flow.** Write a single arc: short paragraphs joined by transitions, two or three subheads at most, no bullet lists in the story, no asides that break a thought. See the [Editorial Voice](docs/style-guide.md).
 
+## When an open question is answered
+Open questions lists stay clean: they hold only what is still open.
+
+1. **Fold the answer into the story** where the marker sat, with its footnote(s). Keep the reasoning short; if two sources still disagree on a detail, it is not resolved.
+2. **Remove the inline marker** (`<sup class="hr-q" id="qr-N">…</sup>`) **and the item** (`<a id="q-N" …>` and its text) from *Open questions & disputed details*. If that was the last item, remove the section. Do not renumber the other items; their anchors are linked from elsewhere.
+3. **Canonical facts:** if the fact is in `docs/data/canonical.yml`, update its `value` and the snippet in `snippets/`, and the flags on the canonical page.
+4. **Log it** in the **Resolved** list on the Research Trail (`docs/research-trail.md`): date, page and question, the answer in one line, and the source that settled it (with credit to a reader if one sent it).
+5. **Quick answers:** update any answer in `docs/data/quick_answers.yml` that cites it; drop its ⚠/◐, its "see Open questions" and its `flag`.
+
+The build enforces the mechanics: `check_articles.py` fails on an orphan marker (a marker with no item, or an item with no marker), and the Quick Answers check fails on an answer whose `flag` points at an item or ⚠ heading that is gone or no longer marks a dispute.
+
+## Quick answers
+[Quick Answers](docs/reference/quick-answers.md) is one page of short answers to the big questions that connect the site's stories. It is generated at build time from `docs/data/quick_answers.yml` by `hooks/quick_answers_hook.py` (using `scripts/quick_answers_lib.py`); each question is an H3 with a stable `id`, so it has its own anchor and its own search entry, and each article whose full story it is lists it under **Quick answers** in its Keep reading area.
+
+- **Fields:** `id` (stable anchor; never rename one that has shipped), `q`, `a` (1-3 plain sentences), `link` (the canonical article, optional `#anchor`), `also` (0-2 related pages), and `flag` when the answer carries ⚠ or ◐ (the article's `page.md#q-N` item, or a ⚠ heading in its Open questions).
+- **Accuracy:** the answer says only what the linked article says, with the same hedges. Every number in it must appear in the `link` article; links and anchors must resolve; a ⚠/◐ must say "see Open questions" and match an item that is still open, of the same kind. `python scripts/check_quick_answers.py` runs the same check as the build (`--list` prints them all).
+- **Nightly rounds:** when a round adds or changes an article that connects context across the site (a new strip in a town already on a Quick answer, a settled date, a new company in a family tree), add or update the Quick answer in the same commit. Aim to keep each theme scannable: roughly 5-15 questions.
+
 ## Highlights (home-page slider)
 The slider is generated at build time from `docs/data/highlights.yml` by `hooks/highlights_hook.py` (registered in `mkdocs.yml`), using `scripts/highlights_lib.py`. Without JavaScript it is a plain list of cards. With JavaScript (`docs/javascripts/highlights.js`) it becomes a carousel with arrows, dots, a pause button, swipe, keyboard support, pause on hover or focus, and no auto-rotation under `prefers-reduced-motion`.
 
@@ -87,5 +105,6 @@ Readers send corrections, source tips and suggestions through the issue forms in
 1. Research and write; keep local and homegrown sources first. File each new page in the right department (see above).
 2. Add 2-4 highlights (at least half grassroots); update `docs/reference/grassroots-sources.md` with any new outlet.
 3. `python scripts/check_articles.py` and `python scripts/move_unknowns.py --check --all` (front matter, canonical facts, links and open-questions markers), then `python scripts/check_connections.py` when a round touched `docs/data/connections.yml` or added a company page, then `python scripts/update_highlights.py check` (it also reports the round's batch against the standard). Log credited reader contributions in the Research Trail round entry.
-4. `.venv/bin/mkdocs build --strict` (it runs `check_articles.py` first and fails on any error), then `python scripts/link_report.py 1`.
-5. `git pull --rebase origin main`, commit, push. Do not deploy from the routine.
+4. Add or update Quick answers for anything the round connects or settles, and move resolved open questions to the Research Trail's **Resolved** list (see above). `python scripts/check_quick_answers.py`.
+5. `.venv/bin/mkdocs build --strict` (it runs `check_articles.py` and the Quick Answers check first and fails on any error), then `python scripts/link_report.py 1`.
+6. `git pull --rebase origin main`, commit, push. Do not deploy from the routine.
