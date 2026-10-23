@@ -36,6 +36,7 @@ strips:
 - Kansas City Timing Association strip
 - Kansas City International Raceway
 tags:
+- women
 - police-and-safety
 - car-clubs
 - drag-strips

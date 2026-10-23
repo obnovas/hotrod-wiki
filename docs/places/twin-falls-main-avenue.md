@@ -34,6 +34,7 @@ clubs:
 - Magic Valley Timettes
 strips: []
 tags:
+- women
 - car-clubs
 - drag-strips
 - police-and-safety

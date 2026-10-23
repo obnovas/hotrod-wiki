@@ -17,10 +17,13 @@ eras:
 years:
 - 1912
 - 2012
-region: Midwest
+region: West
 states:
+- California
 - Kansas
-cities: []
+cities:
+- Beverly Hills, California
+- Los Angeles, California
 people:
 - Vic Sr. & Edelbrock Jr.
 companies: []
