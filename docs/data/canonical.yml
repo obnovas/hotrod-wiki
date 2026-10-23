@@ -76,7 +76,7 @@ facts:
     anchor: the-street-rod-years-and-the-president-question
     snippet: nsra-first-president.md
     detect: "first (active )?[Pp]resident.{0,60}NSRA|NSRA.{0,80}first (active )?[Pp]resident"
-    value: "Wells (four sources) ⚠ vs Miller (99W); open"
+    value: "Wells (five sources name him president, three say first) ⚠ vs Miller (99W); open"
     oq: [q-3]
   ataa-absorbed-1957:
     page: drag-racing/half-day-ataa-maremont.md

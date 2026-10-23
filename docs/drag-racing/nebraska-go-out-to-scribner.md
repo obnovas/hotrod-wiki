@@ -103,7 +103,7 @@ The timing association spent the next year proving it was a civic group. A month
 
 Elsewhere in the state, local groups were already running drags. When a new stretch of Highway 10 opened near Minden in November 1958, "drag races were featured, sponsored by the Franklin Junior Chamber of Commerce."[^ls581126] In September 1959, 101 cars and a crowd of 1,400 came to the Jaycee Timing Association drags at Grand Island, where Don Moss of Omaha won top eliminator at 135.73 mph.[^ls590915]
 
-By 1968 Omaha had a dragway of its own, and Jim Davis, "longtime president of the Missouri Valley Timing Association," became its manager.[^ls680210] By 1973 a sanctioned strip near Millard was drawing hundreds of spectators every summer.[^ls730531] Wells, by then a "former Lincolnite," was named president of the National Street Rod Association in 1971, after he "helped organize and produced the 1971 Street Rod Nationals in Memphis."[^ls711205]
+By 1968 Omaha had a dragway of its own, and Jim Davis, "longtime president of the Missouri Valley Timing Association," became its manager.[^ls680210] By 1973 a sanctioned strip near Millard was drawing hundreds of spectators every summer.[^ls730531] In December 1971 the *Star* ran a brief headed "Wells President": a "former Lincolnite" named Wells had been "named president of the National Street Rod Association (NSRA)" and had "helped organize and produced the 1971 Street Rod Nationals in Memphis." The brief gives no first name. Reading it as Dick Wells is our inference from the Lincoln tie and the Nationals; see [Dick Wells](../people/dick-wells.md#q-3).[^ls711205]
 
 ## Open questions & disputed details
 
@@ -128,7 +128,7 @@ Whether a strip at Arrow Airport ever opened, and when Lincoln got its first NHR
 [^ls560420]: "Drag Race Strip Draws Discussion At City Hall Meeting," *The Lincoln Star*, Apr. 20, 1956, p. 9. Checked against the page image. https://archive.org/details/lincoln-star-1956-04-20 (accessed 2026-10-22)
 [^ls561004]: "Falls City To Hold Drag Championships," *The Lincoln Star*, Oct. 4, 1956. Page OCR. https://archive.org/details/lincoln-star-1956-10-04 (accessed 2026-10-22)
 [^ls561020]: Eccentrics of Lincoln drag races display ad, *The Lincoln Star*, Oct. 20, 1956. Page OCR. https://archive.org/details/lincoln-star-1956-10-20 (accessed 2026-10-22)
-[^hrspeedway]: "History of Speedway Motors," *Rod & Custom*, via HotRod.com. https://www.hotrod.com/news/1206rc-history-of-speedway-motors (accessed 2026-10-22)
+[^hrspeedway]: Damon Lee, "History of Speedway Motors: Six Decades of Speed," *Rod & Custom*, June 1, 2012, via HotRod.com. https://www.hotrod.com/news/1206rc-history-of-speedway-motors (accessed 2026-10-22)
 [^ls581027]: David Clark, "Dragsters Display Loyalty To Cars In Sunday Races At Muny Airport," *The Lincoln Star*, Oct. 27, 1958, p. 11. Checked against the page image. https://archive.org/details/lincoln-star-1958-10-27 (accessed 2026-10-22)
 [^ls581029]: Safety council counseling board notice, *The Lincoln Star*, Oct. 29, 1958. Page OCR. https://archive.org/details/lincoln-star-1958-10-29 (accessed 2026-10-22)
 [^ls581031]: Virgil Falloon, "Sanctioned Drag Strip 'Promotes Safety,' Group Tells Local Council," *The Lincoln Star*, Oct. 31, 1958, p. 24. Page OCR, headline and lead checked against the page image. https://archive.org/details/lincoln-star-1958-10-31 (accessed 2026-10-22)
@@ -140,4 +140,4 @@ Whether a strip at Arrow Airport ever opened, and when Lincoln got its first NHR
 [^ls590915]: "Omahan On Top At G.I.'s Strip," *The Lincoln Star*, Sept. 15, 1959. Page OCR. https://archive.org/details/lincoln-star-1959-09-15 (accessed 2026-10-22)
 [^ls680210]: "Dragway Manager," *The Lincoln Star*, Feb. 10, 1968. Page OCR. https://archive.org/details/lincoln-star-1968-02-10 (accessed 2026-10-22)
 [^ls730531]: Star staff writer, "The Call Can Be Irresistible," *The Lincoln Star*, May 31, 1973, p. 13. Page OCR. https://archive.org/details/lincoln-star-1973-05-31 (accessed 2026-10-22)
-[^ls711205]: "Wells President," *The Lincoln Star*, Dec. 5, 1971. Page OCR. https://archive.org/details/lincoln-star-1971-12-05 (accessed 2026-10-22)
+[^ls711205]: "Wells President," *The Lincoln Star*, Dec. 5, 1971. Page OCR; the brief names no first name. https://archive.org/details/lincoln-star-1971-12-05 (accessed 2026-10-22)
