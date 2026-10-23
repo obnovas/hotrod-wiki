@@ -2,6 +2,7 @@
 title: 'Cruising & Hangouts: Overview'
 summary: 'An overview of the cruise strips, drive-ins and street-racing spots we can source from about 1940 to 1990: where they were and how each was policed or ended.'
 department: places
+hub: true
 eras:
 - 1950s
 - 1960s

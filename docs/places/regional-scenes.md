@@ -2,6 +2,7 @@
 title: 'Regional Scenes: Beyond California'
 summary: A map of the archive's regional pages outside California, grouped by region and state. This page points the way only; each linked page tells its own story and carries its own sources.
 department: places
+hub: true
 eras:
 - 1940s
 - 1950s

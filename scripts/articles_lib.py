@@ -52,7 +52,7 @@ LISTS = ["eras", "states", "cities", "people", "companies", "places", "clubs", "
 # story. Markdown strings (footnote refs [^id], links and open-question markers allowed); principal_source may be a list.
 RECORD_NOTES = [("location", "Location"), ("peak", "Peak"), ("status", "Status"), ("later", "Later"), ("revival", "Revival"),
                 ("principal_source", "Principal source")]
-KNOWN = set(REQUIRED + LISTS + ["template", "hide", "era", "deck", "featured", "no_hero", "search", "description"]
+KNOWN = set(REQUIRED + LISTS + ["template", "hide", "era", "hub", "deck", "featured", "no_hero", "search", "description"]
             + [k for k, _ in RECORD_NOTES])
 
 

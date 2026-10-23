@@ -35,6 +35,24 @@ Narrative technique here means **structure, pacing, word choice, and framing. Ne
 
 The fields every page carries, and the one home for each repeated fact, are in [Article Schema](reference/article-schema.md). Everything else in [Source Standards](reference/source-standards.md) still applies: confidence ratings, the record box on every article, credited images, and links out for photos we cannot host.
 
+## Citing a Voices page
+
+Voices pages are built from quotes, so they cite differently from stories. Each quote carries its source on the line under it, where the reader is looking, instead of in a footnote:
+
+```markdown
+> "When the war ended, I started construction on my fuel injector…"
+
+— Stuart Hilborn to the American Hot Rod Foundation, quoted by Mark Vaughn, *Autoweek*, Dec 15, 2013. Access 2026-10-14. https://www.autoweek.com/news/a1946706/fuel-injection-pioneer-stuart-hilborn-1917-2013/
+
+*Told years later: an AHRF interview late in life.*
+```
+
+- **The attribution line** starts with an em dash and gives, in this order: the speaker; who they told it to (if someone else published it, "quoted by" that writer); the publication in italics; the date it was published; "Access YYYY-MM-DD."; and the URL. A second quote from the same source may say "quoted in the same *Autoweek* obituary" with its access date and no URL.
+- **The memory label** follows in italics, on its own line: *Told years later* (with the gap between event and telling, if known), *Secondhand* (the speaker relays someone else's account, or a writer quotes an earlier interview), or *⚠ Conflicts with the record* (with a link to the page that has the evidence). A quote can carry more than one.
+- **Prose between quotes** that states a fact the quote doesn't (a date, a place, a result) takes an ordinary footnote, as on any story page. A Voices page with no such prose may have no footnotes at all.
+- **⚠ and ◐ markers** work as on story pages and point to the page's own Open questions items.
+- When a story page uses the quote in its "In their own words" box, it names the speaker, publication and year and links to the Voices page ("Full context in Voices"), which carries the full citation.
+
 ## What we avoid
 
 - **Listicle prose**: paragraphs that are really bullet points with the bullets taken off.

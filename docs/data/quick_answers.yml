@@ -88,11 +88,11 @@ themes:
       - id: street-rodding-vs-hot-rodding
         q: What is street rodding, and how is it different from hot rodding?
         a: >-
-          Street rodding grew out of hot rodding in the late 1960s. It was a hobby of driving old cars long
-          distances, often with the family aboard, rather than racing them, and its national association drew
-          its line with a 1948-and-older rule.
-        link: street-rodding/index.md
-        also: [street-rodding/nsra-early-nationals.md#the-1948-and-older-rule, eras/1970s-street-rod-nationals.md]
+          Street rodders drove their old cars to the meets: Andy Brizio drove his T-bucket about 2,000 miles from
+          San Francisco to the first Street Rod Nationals at Peoria. By the late 1960s they were "lightning rods,
+          much like the hot rodders of the '40s," and the National Street Rod Association drew its line with a model-year cutoff for eligible cars.
+        link: eras/1970s-street-rod-nationals.md
+        also: [street-rodding/nsra-early-nationals.md#the-1948-and-older-rule]
       - id: why-peoria
         q: Why was the first Street Rod Nationals held in Peoria?
         a: >-
@@ -155,11 +155,11 @@ themes:
       - id: why-airfields
         q: Why were so many early strips on airfields?
         a: >-
-          Old air bases had long, empty runways away from town. Regions far from California built their scenes
-          on abandoned airfields: Texas's first organized drags ran at Caddo Mills, Memphis raced at an old
-          bomber base at Halls, Great Bend used a surplus Army Air Force base, and Santa Ana ran at the county airport.
-        link: places/regional-scenes.md
-        also: [places/texas.md, drag-racing/great-bend-srca.md]
+          Old air bases had long, empty runways away from town. Texas's first organized drags ran on the abandoned
+          WWII airfield at Caddo Mills, and racing there stayed on ex-military airfields away from the city, run by
+          clubs. Memphis raced at an old bomber base at Halls, and Great Bend used a surplus Army Air Force base.
+        link: places/texas.md
+        also: [places/memphis.md, drag-racing/great-bend-srca.md]
       - id: what-happened-to-kansas-citys-strip
         q: What happened to Kansas City's strip?
         a: >-
@@ -300,11 +300,11 @@ themes:
       - id: was-hot-rodding-a-socal-export
         q: Was hot rodding just a Southern California export?
         a: >-
-          No. Other regions built their own scenes on abandoned airfields, through volunteer councils and at
-          fairground shows. Texas drove to old military fields, Portland's clubs worked through a council that
-          runs a show and helped open a strip, and Ohio's gas-class racers grew from a circle of Cleveland high-school friends.
-        link: places/regional-scenes.md
-        also: [places/pacific-northwest.md, places/ohio-gassers.md]
+          No. Other regions built their own scenes. Portland's clubs organized through a council, the MHRC, which
+          ran the Roadster Show and helped open Woodburn Dragstrip in 1961; Texas raced on old military airfields;
+          and Ohio's gas-class racers grew from a circle of Cleveland high-school friends.
+        link: places/pacific-northwest.md
+        also: [places/texas.md, places/ohio-gassers.md]
       - id: why-memphis
         q: Why does Memphis come up so often?
         a: >-
@@ -327,11 +327,10 @@ themes:
         q: How did cruising end?
         a: >-
           City by city. Modesto passed an anti-cruising ordinance on March 27, 1990 (a marker says cruising was
-          "banned" in 1993, ⚠ see Open questions), the Sheriff's roadblocks ended East LA's Whittier Boulevard
-          cruise in 1979, LAPD barricades ended Van Nuys's, and in California AB 436 took away local cruising
-          ordinances from Jan 1, 2024.
-        link: places/cruising-overview.md#how-cruising-was-policed-or-ended
-        also: [places/modesto.md, places/whittier-blvd.md]
+          "banned" in 1993, ⚠ see Open questions), the Sheriff's Department closed East LA's Whittier Boulevard
+          cruise, and LAPD barricades ended Van Nuys's.
+        link: places/modesto.md
+        also: [places/whittier-blvd.md, places/van-nuys.md]
         flag: places/modesto.md#q-1
       - id: why-is-woodward-different
         q: Why is Woodward Avenue different from the other cruise strips?
@@ -647,7 +646,7 @@ themes:
           Because most of these stories were told decades after the events, and memory drifts. Each quote on a
           Voices page is labeled by when it was told, whether it is secondhand, and whether it conflicts with
           the record.
-        link: voices/index.md
+        link: style-guide.md#citing-a-voices-page
         also: [voices/strip-owners-and-door-slammers.md]
       - id: why-full-story-links
         q: Why do some facts send you to one "Full story" page?

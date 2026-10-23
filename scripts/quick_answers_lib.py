@@ -7,6 +7,7 @@ and scripts/check_quick_answers.py (the same check from the command line).
 Checks, per question:
   * id is a unique, stable anchor; q, a and link are present; a has 1-3 sentences
   * link and every `also` page exist, with their #anchors
+  * link is not a hub (index pages, `hub: true`): the Full story must state the facts
   * every number in the answer appears in the linked article (same rule as the Highlights)
   * an answer carrying ⚠ or ◐ names a `flag`: an Open questions item (page.md#q-N, whose inline marker still
     exists and is of the same kind) or a ⚠/◐ heading inside that page's Open questions section. When the article
@@ -152,6 +153,18 @@ def _check_flag(qid, a, flag, E):
         E(e)
 
 
+def is_hub(path, md=None):
+    """A page that only points the way: the home page, a department or section index, or one whose front
+    matter says `hub: true` (cruising-overview, regional-scenes). A Full story link must not land on one."""
+    if path == "index.md" or path.endswith("/index.md"):
+        return True
+    if md is None:
+        p = DOCS / path
+        md = p.read_text(encoding="utf-8") if p.exists() else ""
+    fm = split_front(md)[0]
+    return bool(isinstance(fm, dict) and fm.get("hub"))
+
+
 def validate(data):
     errors = []
     seen = set()
@@ -193,6 +206,8 @@ def validate(data):
             if frag and frag not in anchors(md):
                 E(f"anchor '#{frag}' not found in {path}")
             if i == 0:
+                if is_hub(path, md):
+                    E(f"Full story link goes to a hub ({path}), which states no facts of its own; link the page that tells the story")
                 body = hl.norm(split_front(md)[1])
         if body is not None:
             for num in re.findall(r"\d[\d,.]*\d|\d", a):
