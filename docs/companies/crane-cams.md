@@ -112,7 +112,7 @@ He started a **cam school** at his Port Orange home, and more than 100 students 
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** An interested party, and the figures are his.[^hr15] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed:** The marked point in *The first SEMA show and a roller tappet*. The sources disagree; the details are in the text and its notes. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **How many booths at the first show?** SEMA News says "about 100" companies set up at Dodger Stadium in January 1967;[^first] the sources on our [Dick Wells](../people/dick-wells.md) page give **98 booths**. The two are close, and "about 100" may simply round 98. Lead: the 1967 show program. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** The year differs.[^first][^os] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

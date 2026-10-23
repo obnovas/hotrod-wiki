@@ -114,11 +114,11 @@ The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) sa
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far:** The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The Memphis Rodders (1947)* rests on one source so far. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **The club's early dates.** The 1947 founding and the March 15, 1952 exhibit at Klyce Motors come from the Memphis Rodders' own site, which reproduces a *Commercial Appeal* photo.[^mr] We have not seen the photo in the paper itself. Lead: the *Commercial Appeal* for March 1952. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 <a id="q-7" class="hr-q-anchor"></a>**Single source so far:** Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site). <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
-<a id="q-8" class="hr-q-anchor"></a>**Disputed:** The marked point in *The Memphis Rodders (1947)*. The sources disagree; the details are in the text and its notes. <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+<a id="q-8" class="hr-q-anchor"></a>**Disputed.** **1968 or 1969?** Edelbrock's 2023 statement dates Lunati's cam shop to 1968,[^edel] and his family's obituary says 1969.[^lunobit] See [Joe Lunati](../people/joe-lunati.md#q-3). <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 <a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is the company's own history, we have not seen a city directory or a contemporary paper that places the shop there, and SEMA's retelling of a 1971 *Hot Rod* profile says only that RHS moved to "bigger digs in a Memphis suburb," without naming the corner. <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 

@@ -142,7 +142,7 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *From Anco to Warminster* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Was Almquist a co-designer of the Hurst shifter?** Only one source says so: the Port Jervis *Times Herald-Record* obituary, via [Ed Almquist](../people/ed-almquist.md).[^alm] The Hurst and Campbell patents name only the two of them,[^pat] though Ate Up With Motor has Almquist and Anchel in on the first floor linkage before the company was formed.[^auwm] Lead: Almquist Engineering's 1962 patent file and any 1959 agreement among the three. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Incorporation*: May 1958, "after two years" of part-time die design, per Campbell's daughter ; "opened for business in 1959" <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -150,7 +150,7 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *Both come to us only as search excerpts from lending-library books we cannot open in full, so we quote nothing beyond the address lines. The resolution above does not depend on them alone.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Detroit says yes* rests on one source so far. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **The $1,000 prize.** George's offer for a better 4-speed in-line shifter, and Bob Kenny's win, come only from Campbell's daughter's email, as printed by Just A Car Guy.[^jacg] We have found no period report of the prize. Lead: *Hot Rod* or the trade press for 1961–62. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far:** Panorama does not name the car or the driver . <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
@@ -160,7 +160,7 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 
 <a id="q-9" class="hr-q-anchor"></a>**Single source so far.** That is a single trade-press summary; the corporate paper trail is on the [Research Trail](../research-trail.md). <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
-<a id="q-10" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Connect the dots* rests on one source so far. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
+<a id="q-10" class="hr-q-anchor"></a>**Single source so far.** **Mr. Gasket and Hurst, 1986.** That Mr. Gasket bought what was left of Hurst Performance in 1986 rests on one Hagerty feature.[^hag] Lead: 1986 trade press; see also [Mr. Gasket](mr-gasket.md). <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 
 ## Images
 

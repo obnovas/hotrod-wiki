@@ -161,13 +161,13 @@ There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals clas
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Who built the 1968 Mr. Gasket Test Car?** It was a blown big-block Camaro, A/GS. One Hill piece says "Joe Hrudka had **Dave Meal** build" it. His Mr. Gasket history says it "was built by **Hrudka Bros.**"[^ecgm][^ecmg] Both may be true: Meal as fabricator, the Hrudkas as owners. The car "saw little racing action" before A/GS faded in favor of Funny Car match-race money.[^ecgm] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Chuck Finders (chassis builder)* rests on one source so far. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The Dark Horse.** The car's Tim Woods engine, its Stone-Woods-Cook colors, its booking role and "quicker than the SWC 'A' car" all come from Chuck Finders Jr.'s farewell on JR Thompson's site.[^jrt1] Lead: *Drag News* booking ads for Stone-Woods-Cook in the 1960s. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** *No record sheet seen.* <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Chuck Finders (chassis builder)* rests on one source so far. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **The forum post.** The May 19, 2009 report of Finders's death comes to us only as a search excerpt, because the forum blocked our fetch.[^nsrauk] BangShift's May 26 item is readable and supports the date.[^bangshift] A newspaper obituary would settle it. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>**Single source so far:** In the table, row *Mansfield*: **Virgil Cates**, "The Flying Junkman": one '33 Willys run as C/Gas, then C/Altered, with which "Cates won the NHRA World Championship Comp Eliminator title in **1965**" <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 

@@ -118,7 +118,7 @@ That is 20 issues, which matches 99W's count. There is no Vol 3 No 2, apparently
 
 Jim Clark's account matches the title story from the other side. *Street Rodder* "originally intended to call it Street Rod," but Miller's magazine came out first, "so we changed our name. It was released in **May 1972**."[^sr40] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Bruce Miller and the NSRA* rests on one source so far. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Bruce Miller, NSRA member #1 and first president?** Only the 99W Speed Shop history says so.[^99w] Four other sources name Dick Wells as the first president; see [Dick Wells](../people/dick-wells.md#q-3). Lead: the NSRA's own early membership records or a 1970–71 *Street Rod* masthead. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far:** Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA." <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
@@ -126,7 +126,7 @@ Jim Clark's account matches the title story from the other side. *Street Rodder*
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far:** Miller "funded the first year of production largely with his credit card." **Spence Murray** traveled to Portland to help Craig produce the first issue. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Making the magazine* rests on one source so far. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **40,000 a month?** The circulation figure is 99W's alone, and its own note says the publisher "did not provide net paid circulation data to N.W. Ayer," so the directory can't check it.[^99w] Lead: the annual postal statement of ownership and circulation printed in the magazine. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>**Single source so far.** *Craig's recollection, as relayed by 99W.* <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 

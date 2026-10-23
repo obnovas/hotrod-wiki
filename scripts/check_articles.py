@@ -15,6 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from articles_lib import (DOCS, ROOT, ERAS, REGIONS, TAGS, REQUIRED, LISTS, KNOWN, DEPARTMENTS,  # noqa: E402
                           articles, split_front, plain, body_prose, load_canonical)
 import quick_answers_lib  # noqa: E402  (shared open-question flag check)
+import move_unknowns  # noqa: E402  (boilerplate open-question items)
 
 try:
     from markdown.extensions.toc import slugify
@@ -160,6 +161,9 @@ def main():
                 E(f"link '{href}': no anchor '#{frag}' in {tgt}")
             if tgt != rel:
                 inbound[tgt].add(rel)
+        # open questions: no generated placeholders; each item names its claim and its source
+        for x in move_unknowns.boilerplate(body):
+            E(f"boilerplate open-question item (rewrite it: the claim, the source, what is missing, the next lead): {x[:80]}")
         # open questions: every inline marker has its item, and every item its marker (resolved items leave both)
         mk = re.findall(r'<sup class="hr-q" id="qr-(\d+)"><a href="#q-(\d+)"', body)
         items = set(re.findall(r'<a id="q-(\d+)" class="hr-q-anchor"', body))

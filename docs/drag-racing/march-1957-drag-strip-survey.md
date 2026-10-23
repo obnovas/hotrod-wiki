@@ -100,7 +100,7 @@ As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **We could not identify that strip.** The Denver sources we found describe different projects: <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The Denver puzzle* rests on one source so far. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Denver's clubs build Continental Divide?** The Strippers' and Denver Timing Association's part in building the 1959 strip rests on one club member's 2001 recollection.[^strip] Lead: the *Denver Post* or *Rocky Mountain News* on the strip's 1959 opening. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** Until a Denver paper turns up, treat "county-built strip near Denver, 1957" as one wire story's claim. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

@@ -108,7 +108,7 @@ And the 1967 first trade show, where Hooker set up a booth like [Crane Cams](cra
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** See [Holley](holley.md). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far:** The marked point in *What it became* rests on one source so far. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **First header maker with a CARB exemption?** Only the brand's own site says so.[^site] We have not checked it against the California Air Resources Board's Executive Order records, which would show the earliest header exemptions and their dates. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Disputed.** Hagerty says SEMA inducted him in **2012**; SEMA's page is headed 2016.[^hag][^hof] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 

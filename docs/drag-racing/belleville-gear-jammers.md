@@ -102,7 +102,7 @@ The Belleville club kept a higher profile than the clubs on the Missouri side. I
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The club with the half-fine rule* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The club's money.** The $400 strip fee, the $1.50 and 50-cent charges, the gate of about $1,300 and the $550 to the Heart Fund all come from one *Post-Dispatch* feature (June 11, 1956), and the gate figure is split across columns in the scan.[^pd1956] Lead: the *Belleville News-Democrat* for 1956, or the club's own records. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 
@@ -110,7 +110,7 @@ The Belleville club kept a higher profile than the clubs on the Missouri side. I
 
 The club's own ads can't agree on a name for the place. In September 1955 the Gear Jammers advertised drags "At Parks Metropolitan Air Port," on Upper Cahokia Road, with a rain date of October 2.[^ad1955] By April 1956 the ads promised NHRA-sanctioned racing every second and fourth Sunday until October 28 at a field "formerly Parks Airport."[^ad1956a] The May ad read "WALSTON (Parks) AIRPORT near Rt. 157 and 3."[^ad1956b] The June story said Walston Field, *near* Parks Airport, and its photo caption put it in Cahokia.[^pd1956] Today the airport is St. Louis Downtown Airport. Wikipedia says it was named Parks Metropolitan Airport in 1940, closed in 1959 and reopened in 1965.[^wiki] Whether Walston Field was part of the old airport or a strip next to it, we can't tell from these pages. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The Missouri side wanted one too* rests on one source so far. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Were they the same Strokers?** The north St. Louis Strokers Club of August 1955[^strokers] and the Strokers who raced at the Gear Jammers' meet in June 1956[^pd1956] are each named once, and neither story ties them together. Lead: a roster or a later *Post-Dispatch* story that names the club's members. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** *We give the paper's description, including its "1000 horsepower," as printed. We have not identified the engine.* <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

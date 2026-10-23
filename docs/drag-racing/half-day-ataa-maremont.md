@@ -129,7 +129,7 @@ The safety pitch did not settle the argument. In March 1957, a wire survey on dr
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *The strip* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The strip's early history.** The 1952 opening on a Glenview satellite field, the ATAA's first races on April 6, 1952, the shutdown the next year and the credit to Andy Granatelli all come from NHRA's 2023 primer, which summarizes Mel Bayshore's strip list.[^nhra] We have not seen Bayshore's list or a 1952 report; the Granatelli credit appears nowhere else we have read. Lead: the *Chicago Tribune* for spring 1952. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **1952 or 1953?** *Motor Age* (June 1955) says "the non-profit ATAA was founded in 1952 by Maremont Automotive Products, Inc."[^ma] The NHRA primer dates the first races to April 6, 1952.[^nhra] The 1954 wire feature says 1953.[^esc] [Bob Bartel's](../people/bob-bartel.md) tribute dates his first ATAA races to 1953.[^bart] A plausible reconciliation is a 1952 start with a 1953 formal incorporation or main season, but no source says that. We keep 1952 for the first races and flag the association date. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

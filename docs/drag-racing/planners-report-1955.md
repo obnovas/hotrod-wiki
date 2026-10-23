@@ -104,7 +104,7 @@ Other small-town clubs never made the report, among them [Escanaba, Mich.](escan
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Small details worth keeping* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The Kerrville Drag-Uns.** The police sponsorship, the 27 members, the March 29, 1953 first race at Louis Schreiner Airport and the Alamo Timing Association meet of Aug. 23, 1953 all come from a single forum thread, with no period source quoted.[^kerr] Lead: the *Kerrville Times* for 1953. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>
 

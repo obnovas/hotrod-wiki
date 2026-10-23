@@ -529,10 +529,18 @@ def _flush_pending(b):
     return b
 
 
+BOILERPLATE = [r"The marked point in", r"the details are in the text and its notes", r"\*\*Label:?\*\*"]
+
+
+def boilerplate(text):
+    """Open-questions items still carrying the generated placeholder text or a leftover **Label:**."""
+    return [l[:120] for l in text.split("\n") if "hr-q-anchor" in l and any(re.search(b, l) for b in BOILERPLATE)]
+
+
 def check(text):
+    bad = [f"boilerplate open-question item: {x}" for x in boilerplate(text)]
     front, body = split_front(text)
     body = body.split(SECTION)[0]
-    bad = []
     for b in blocks_of(body):
         k = kind(b)
         if k in ("adm", "fn", "html"):

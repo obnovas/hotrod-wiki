@@ -149,15 +149,15 @@ The sources can't agree on the year, and the disagreement is worth a look:
 
 **A period source, sponsor-written but dated:** a June 1955 Chilton's *Motor Age* article bylined to a Maremont Automotive Products staffer says the first annual World Series was held at Lawrenceville "last October" (October 1954) and "attracted some 350 hot rodders and approximately 10,000 spectators," and that the second annual would run "August 17 through 21." It also quotes Gov. William Stratton welcoming hot rodders to "the 1954 World Series of Drag Racing." That supports 1954 over the 1953 and 1956 claims, though it is the ATAA's own publicity and we still lack a program or ad. It dates the ATAA's founding to **1952**, not 1953. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Building Cordova* rests on one source so far. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **The timing equipment.** That "old timing equipment and scales were given to Cordova" comes from one 2017 *Dispatch-Argus* story, drawing on Bartel's 2009 interview,[^qc] and that page refused our last fetch. Lead: the Moline *Dispatch* or Rock Island *Argus* for August 1957. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Building Cordova* rests on one source so far. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **The prize money.** Bartel's "$500 to $1,000" packages and Cordova's "$1,000 to win" come only from the same 2017 *Dispatch-Argus* story.[^qc] Lead: Cordova's own ads in the Quad Cities papers, 1957–60, which would print the purses. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 <a id="q-8" class="hr-q-anchor"></a>**Single source so far:** The tribute says "as many people came to the track to meet the TV personality as came to see the drag racers." <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
 
 <a id="q-9" class="hr-q-anchor"></a>**Single source so far:** The tribute says he was also "the first to offer a true National Title for Funny Car competitors." <a class="hr-q-back" href="#qr-9" title="Back to the story">↩</a>
 
-<a id="q-10" class="hr-q-anchor"></a>**Single source so far:** The marked point in *Later owners and the name fight* rests on one source so far. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
+<a id="q-10" class="hr-q-anchor"></a>**Single source so far.** **Who owns the World Series name?** Bartel and Ron Colson's claim, and the USPTO document of Oct. 11, 2016, are reported only in the 2017 *Dispatch-Argus* story.[^qc] Lead: a USPTO trademark search for "World Series of Drag Racing." <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 
 ## Images
 

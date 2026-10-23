@@ -104,7 +104,7 @@ Nobody's books quite agree here, and the gap between a $6 million and a $17 mill
 
 The ECH figure covers what Hrudka realized personally, while Hill's appears to be the price for the remaining shares. The two may not be measuring the same thing. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed:** The marked point in *Update, Round 4: Joe Hrudka (1938–2026)*. The sources disagree; the details are in the text and its notes. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who built the 1968 Mr. Gasket Camaro?** Two pieces by Jim Hill disagree: one says Joe Hrudka had Dave Meal build it, the other that it "was built by Hrudka Bros." Both may be true, with Meal as fabricator. The details and citations are on [The Ohio Gassers](../places/ohio-gassers.md#q-3). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ## Images
 

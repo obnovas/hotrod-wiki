@@ -91,7 +91,7 @@ JEGS's story runs into several others here. [Midwest & East Threads](../places/m
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed:** The marked point in *From walk-in shop to catalog*. The sources disagree; the details are in the text and its notes. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did Jeg Sr. hand the business to his sons?** The company's own story has him saying "I ran the thing for 27 years," which from 1960 means about 1987, and in the same text says the business "thrived for nearly 30 years" before the sale.[^hc] JEGS' "About Us" page, via our [Midwest page](../places/midwest-east.md), says the early 1990s. No document we can read dates the sale. Lead: Franklin County business filings. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **The numbers that move.** The company history (written for the 60th anniversary, 2020) says "more than 400 associates" and an "85,000 square-foot facility" that "eventually gave way to" a headquarters of "more than 225,000 square feet."[^hc] Chevy Hardcore (2015) says "about 350 associates" and "250,000-square-foot warehouse."[^chc] These are five-year-apart snapshots from company-fed pieces; treat them as order-of-magnitude figures. The county's $200 million in 2010 is the one number a body with no sales interest wrote down, and even that is "currently" in a *whereas*. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

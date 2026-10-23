@@ -151,4 +151,4 @@ The last voice is a letter, an invitation to settle an East–West argument:
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** SEMA's heritage piece credits **Howard Wilson** as the driver of the July 1948 **150.5 mph** El Mirage pass; Hilborn's sentence does not name the driver. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far:** **Label:** Secondhand via memoir quotation on a fan history site; we have not opened the original Garlits book page in this round. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** Secondhand via memoir quotation on a fan history site; we have not opened the original Garlits book page in this round. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>

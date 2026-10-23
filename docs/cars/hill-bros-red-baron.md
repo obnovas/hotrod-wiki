@@ -79,7 +79,7 @@ JR Thompson's page, which includes Pete's own letter, names the brothers **Pete 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far:** The marked point in *"WE'RE SORRY"* rests on one source so far. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Pete Hill's letter and the record.** The Oct 7, 1967 mock apology to *Drag News* and Pete's later "That record stood for two years" both come to us only through JR Thompson's Hill Bros. page.[^jrt] We have not seen the letter in *Drag News* itself or a record list that shows how long the 162–163.63 mph mark stood. Lead: *Drag News*, Oct–Nov 1967. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed:** **Round 10:** Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
