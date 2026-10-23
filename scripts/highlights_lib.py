@@ -88,7 +88,12 @@ def slugify(text: str) -> str:
 def headings(md: str) -> set[str]:
     out = set()
     for m in re.finditer(r"^#{1,6}\s+(.*?)\s*#*\s*$", md, re.M):
-        out.add(slugify(re.sub(r"[*_`]", "", m.group(1))))
+        h = m.group(1)
+        idm = re.search(r"\{[^}]*#([\w-]+)[^}]*\}\s*$", h)
+        if idm:  # an explicit { #id } (attr_list) replaces the generated slug
+            out.add(idm.group(1))
+            continue
+        out.add(slugify(re.sub(r"[*_`]", "", h)))
     return out
 
 
