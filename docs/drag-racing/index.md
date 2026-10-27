@@ -32,6 +32,11 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Golden State Raceway (Santa Maria, Calif.)](santa-maria-golden-state-raceway.md): a 1959 calendar listing, the Jaycees' strip on airport land, a pump-gas record, Lompoc's bracket racers and a letter calling it doomed, 1959–77.
 - [The KARBS and the Strip on Litchfield Road (Phoenix's West Side)](phoenix-west-side-karbs-litchfield-road.md): a teen club's '39 Ford at the 1955 Perryville Nationals, a reopened strip with a guard rail, prize shirts and a jet, 1953–63.
 - [March of Dimes at the Castroville Airfield (Medina County, Tex.)](medina-county-castroville-drags.md): a Devine club asks for a strip, an Ardun-Merc wins before 2,500, and a Hondo mother counts trophies, 1956–57.
+- [Oranges for the Record: The Jaycees' Drag Strip at Brooksville (Fla.)](brooksville-jaycees-drag-strip.md): a club called the Spooks, Garlits's world records on an old Army runway, a box of oranges and a car club that didn't get the strip, 1956–62.
+- [Easter at Paradise: The Paradise Drag Strip (Calhoun, Ga.)](paradise-drag-strip-calhoun.md): a 1961 Easter crash on a legal Sunday strip, an owner who coached a Summerville club, and families still racing there decades later, 1961–2016.
+- [For Parents Only: Harmon Raceway (Monroe, La.)](harmon-raceway-monroe.md): a full-page ad answering parents, NHRA sanction, night racing, a divisional and funny-car match races, 1964–67.
+- [The Track That Milk Built: Green Valley Raceway (Smithfield, Tex.)](green-valley-raceway-smithfield.md): a dairy farm strip, 13 AHRA nationals, Evel Knievel and a town that ran out of patience with the noise, 1960–86.
+- [East to the End of Rittiman Road (San Antonio)](san-antonio-double-eagle-alamo-dragway.md): racers' memories of the Double Eagle, street races at "Little Green Valley" and the Martinez brothers' Alamo Dragway, 1957–77.
 
 **Clubs and timing associations**
 

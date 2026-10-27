@@ -44,6 +44,7 @@ related:
 - places/midwest-east.md
 - people/bob-bartel.md
 - people/ed-iskenderian.md
+- drag-racing/brooksville-jaycees-drag-strip.md
 canonical_for: []
 ---
 # Setto Postoian and the Swamp Rat Insult
@@ -51,7 +52,7 @@ canonical_for: []
 *Serop Postoian, 1922–1995: Detroit's first drag hero*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily (*Dixon Evening Telegraph*, Dixon, Ill., 1958 and 1964 World Series previews); *Car Craft* (Oct. 1959); Michigan Motor Sports Hall of Fame biography; Autoweek; BangShift; search excerpts from two lending-library books ◐ · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** the "Riverside Nationals" claim (Hall of Fame only) ◐; which engine won at Cordova ⚠; which two years he won (1956–57 or 1957–58) ⚠; the size of the 1957 field ⚠; Isky cams and M&H tire tests rest on search excerpts ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily (*Dixon Evening Telegraph*, Dixon, Ill., 1958 and 1964 World Series previews); *Car Craft* (Oct. 1959); Michigan Motor Sports Hall of Fame biography; Autoweek; BangShift; search excerpts from two lending-library books ◐ · **Last verified:** 2026-10-27 (Round 24: Brooksville dating added to q-5) · **Open issues:** the "Riverside Nationals" claim (Hall of Fame only) ◐; which engine won at Cordova ⚠; which two years he won (1956–57 or 1957–58) ⚠; the size of the 1957 field ⚠; Isky cams and M&H tire tests rest on search excerpts ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "The flag dropped. Garlits stomped on the throttle the same instant Postoian's foot shoved forward. The two cars roared from the line, nose to nose."
@@ -104,7 +105,7 @@ It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Which engine?** The Hall of Fame says he won in 1957 and 1958 "after switching to a 392 cubic inch Chrysler."[^mm] BangShift describes the car that beat Garlits as an "unblown, carbureted 359-inch 354 Chrysler Hemi-powered nitro dragster."[^bs] The 1958 Dixon paper says only "Chrysler-powered belly-tank dragster." And which years? Read literally in June 1958, "the last two years" means 1956 and 1957, while the 1964 story, the Hall of Fame and BangShift all say 1957 and 1958. The first three World Series were held at Lawrenceville, Ill., per the 1964 story.[^dx580628][^dx640813] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Which year did Postoian beat Garlits at Cordova?** Car Craft doesn't date the race. It places the Cordova loss "early in the tour" after the Brooksville run, which the June 1958 Dixon story puts that spring, so the 1958 World Series fits best.[^cc5910] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Which year did Postoian beat Garlits at Cordova?** Car Craft doesn't date the race. It places the Cordova loss "early in the tour" after the Brooksville run, which the June 1958 Dixon story puts that spring, so the 1958 World Series fits best.[^cc5910] Brooksville's own weeklies put the first 176 run earlier than the Dixon story does: on Nov. 10, 1957 (see [the Jaycees' Drag Strip at Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md#a-world-record-by-telephone-1957)). A tour that followed a November 1957 record still points to the 1958 World Series. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 <a id="q-6" class="hr-q-anchor"></a>**Disputed.** **How big was the 1957 field?** The 1958 preview said "more than 400 competing machines and upwards of 20,000 spectators"; the 1964 story says "slightly more than 300 machines."[^dx580628][^dx640813] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 

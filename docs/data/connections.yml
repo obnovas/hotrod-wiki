@@ -113,6 +113,16 @@ nodes:
   - {id: nhra,       label: NHRA, type: institution, page: drag-racing/palm-springs-timing-association.md}
   - {id: hondo,      label: "Hondo, Tex.", type: place, page: drag-racing/medina-county-castroville-drags.md}
   - {id: clearsprings, label: "Clear Springs Air Strip (New Braunfels, Tex.)", type: place, page: drag-racing/medina-county-castroville-drags.md}
+  # ---- Round 24: Brooksville, Calhoun, Monroe, Texas
+  - {id: brooksville, label: "Brooksville Drag Strip (Fla.)", type: place, page: drag-racing/brooksville-jaycees-drag-strip.md}
+  - {id: bjaycees,   label: Brooksville Jaycees, type: club, page: drag-racing/brooksville-jaycees-drag-strip.md}
+  - {id: paradise,   label: "Paradise Drag Strip (Calhoun, Ga.)", type: place, page: drag-racing/paradise-drag-strip-calhoun.md}
+  - {id: ridgerunnersga, label: "Ridge Runners (Summerville, Ga.)", type: club, page: drag-racing/paradise-drag-strip-calhoun.md}
+  - {id: harmon,     label: "Harmon Raceway (Monroe, La.)", type: place, page: drag-racing/harmon-raceway-monroe.md}
+  - {id: gsnow,      label: Gene Snow, type: person, page: people/gene-snow.md}
+  - {id: greenvalley, label: "Green Valley Raceway (Smithfield, Tex.)", type: place, page: drag-racing/green-valley-raceway-smithfield.md}
+  - {id: alamodragway, label: "Alamo Dragway (San Antonio)", type: place, page: drag-racing/san-antonio-double-eagle-alamo-dragway.md}
+  - {id: customauto, label: "Custom Automotive (Dallas)", type: company, group: garage-born, page: voices/dallas-folksay-custom-automotive.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -378,3 +388,28 @@ edges:
      evidence: ["Hondo racers were invited to New Braunfels"]}
   - {from: hondo, to: castroville, type: scene, label: "Jerry Koch of Hondo won a D-Gas trophy, Oct. 1957", page: drag-racing/medina-county-castroville-drags.md,
      evidence: ["Jerry Koch of Hondo won a trophy in D-Gas"]}
+  # ----- Round 24
+  - {from: bjaycees, to: brooksville, type: promotion, label: "Ran races on the old air base on alternate Sundays from 1956", page: drag-racing/brooksville-jaycees-drag-strip.md,
+     evidence: ["agreed to hold races on alternate Sundays"]}
+  - {from: nhra, to: brooksville, type: promotion, label: "Jaycees voted for NHRA sanction, Oct. 1958", page: drag-racing/brooksville-jaycees-drag-strip.md,
+     evidence: ["the club voted to have its races sanctioned by the NHRA"]}
+  - {from: arfons, to: brooksville, type: scene, label: "Art Arfons ran 180.906 mph there, Feb. 1959", page: drag-racing/brooksville-jaycees-drag-strip.md,
+     evidence: ["brought his gasoline-burning dragster and ran 180.906 mph"]}
+  - {from: postoian, to: brooksville, type: scene, label: "Booked against Garlits on a wet track, Jan. 1959", page: drag-racing/brooksville-jaycees-drag-strip.md,
+     evidence: ["On a wet track Garlits topped out at 166.666 mph"]}
+  - {from: paradise, to: ridgerunnersga, type: mentor, label: "Owner Otto Timms came to advise the club on a strip of its own, 1964", page: drag-racing/paradise-drag-strip-calhoun.md, flag: single-source,
+     evidence: ["The principal owner of the Calhoun drag strip, Leo Otto Timms"]}
+  - {from: lunati, to: harmon, type: promotion, label: "Booked for a funny car match race, May 1967", page: drag-racing/harmon-raceway-monroe.md,
+     evidence: ["The ad for that card added a funny car match race"]}
+  - {from: gsnow, to: harmon, type: scene, label: "Advertised for the June 1967 funny car show", page: drag-racing/harmon-raceway-monroe.md, flag: single-source,
+     evidence: ["Gene Snow's Dodge"]}
+  - {from: memphis, to: harmon, type: scene, label: "The Kingfish, a blown-Hemi Barracuda from Memphis", page: drag-racing/harmon-raceway-monroe.md,
+     evidence: ["a blown-Hemi 1966 Barracuda from Memphis"]}
+  - {from: greenvalley, to: alamodragway, type: scene, label: "AHRA moved its nationals from Green Valley to Alamo Dragway, 1977", page: drag-racing/san-antonio-double-eagle-alamo-dragway.md,
+     evidence: ["decided on San Antonio's Alamo Dragway as the site of its national event"]}
+  - {from: customauto, to: edelbrock, type: scene, label: "Founder Jack Adams met Vic Edelbrock after the war (forum recollection)", page: voices/dallas-folksay-custom-automotive.md, flag: single-source,
+     evidence: ["met Vic Edelbrock in California after the war"]}
+  - {from: yellowriver, to: paradise, type: scene, label: "UPI's 1969 Yellow River story recalled the 1961 Calhoun death", page: drag-racing/paradise-drag-strip-calhoun.md,
+     evidence: ["a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident"]}
+  - {from: nhra, to: greenvalley, type: promotion, label: "First NHRA Winston World Championship event, July 1977", page: drag-racing/green-valley-raceway-smithfield.md,
+     evidence: ["In July 1977 Green Valley held its first NHRA Winston World Championship event"]}

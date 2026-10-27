@@ -38,6 +38,7 @@ Some of the best history in hot rodding was never written down by a historian. I
 | [Show & Custom Voices](show-custom-voices.md) (Schartman) | Eddie Schartman | 2016 | The first Funny Cars |
 | [Injection, Factory Racing & Detroit Tin](injection-and-tin.md) | Hilborn, Randy Hernandez, Bergler, Durham, Garlits memoir | 2009–2024 | Lakes injection; L-M racing; Ridler tin; Strip Blazer |
 | [Strip Owners & Door-Slammers](strip-owners-and-door-slammers.md) | Gene Snow, Don Gay, Bob Bartel, Otie Smith, Ron Hassel, C.J. Hart, Jim Clark | 1979–2018 | Dickinson's 200 mph; Cordova; Akron; Santa Ana purses; the *Street Rod* title |
+| [T-Bones and Cheater Slicks](dallas-folksay-custom-automotive.md) | Hermes Nye (Texas Folklore Society); Custom Automotive's old hands on The H.A.M.B. | 1968; 2009–2015 | Drag-strip slang as folklore; a Dallas speed shop from a Gulf station to Pearl Street |
 
 ### Customs, shows & art
 

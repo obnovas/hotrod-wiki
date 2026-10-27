@@ -53,9 +53,11 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Maryland.** [The Clockers of Cumberland](../drag-racing/cumberland-clockers.md).
 
-**Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [Saturday Nights at Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md).
+**Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [Saturday Nights at Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md) · [Easter at Paradise: the Paradise Drag Strip (Calhoun)](../drag-racing/paradise-drag-strip-calhoun.md).
 
-**Arkansas.** [Church First, Then the Drags: the Hope Drag Strip](../drag-racing/hope-airport-drag-strip.md).
+**Florida.** [Oranges for the Record: the Jaycees' Drag Strip at Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md).
+
+**Arkansas and Louisiana.** [Church First, Then the Drags: the Hope Drag Strip](../drag-racing/hope-airport-drag-strip.md) · [For Parents Only: Harmon Raceway (Monroe, La.)](../drag-racing/harmon-raceway-monroe.md).
 
 **Tennessee and the Mid-South.** [Memphis and the Mid-South](memphis.md) · [Summer Avenue, Memphis](summer-avenue-memphis.md) · [Ray Godman and Preston Davis](../voices/ray-godman.md).
 
@@ -67,7 +69,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [The SEMO Drag Strip at Malden, Mo.](../drag-racing/semo-malden-drag-strip.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
 
-**Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md) · [The Castroville airfield drags (Medina County)](../drag-racing/medina-county-castroville-drags.md).
+**Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md) · [The Castroville airfield drags (Medina County)](../drag-racing/medina-county-castroville-drags.md) · [The Track That Milk Built: Green Valley Raceway](../drag-racing/green-valley-raceway-smithfield.md) · [San Antonio's Double Eagle and Alamo Dragway](../drag-racing/san-antonio-double-eagle-alamo-dragway.md) · [T-Bones and Cheater Slicks: a Dallas folklorist at the speed shop](../voices/dallas-folksay-custom-automotive.md).
 
 **Arizona.** [The KARBS and the strip on Litchfield Road (Phoenix's West Side)](../drag-racing/phoenix-west-side-karbs-litchfield-road.md).
 

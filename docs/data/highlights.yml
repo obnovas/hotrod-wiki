@@ -934,3 +934,48 @@ highlights:
     added: '2026-10-22'
     eras: [1960s, 1970s]
     regions: ['Santa Maria, California']
+
+  - id: brooksville-oranges-1958
+    headline: A Florida Jaycee strip paid Don Garlits for his 180-mph record in oranges
+    teaser: In December 1958 Garlits ran 180 mph on the old air base at Brooksville, and the Jaycee
+      president handed him a box of Florida oranges from the local citrus growers. Two county-seat
+      weeklies followed the strip from its first meet in 1956 to the car club that wanted it in 1962.
+    link: drag-racing/brooksville-jaycees-drag-strip.md#brooksville-colors-1958
+    evidence: ["boxes of Florida oranges", "Brooksville Citrus Growers Association"]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-27'
+    eras: [1950s, 1960s]
+    regions: ['Brooksville, Florida']
+
+  - id: harmon-for-parents-only-1964
+    headline: '"For Parents Only": how a Louisiana strip sold drag racing to Mom and Dad'
+    teaser: Before Harmon Raceway opened at Monroe, a full-page 1964 ad promised trained supervision, no
+      more than two cars on the strip at once and no alcoholic beverages, and allowed only that "some
+      tire wear may be noticeable."
+    link: drag-racing/harmon-raceway-monroe.md
+    evidence: ["some tire wear may be noticeable", "alcoholic beverages be allowed on the property"]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-27'
+    eras: [1960s]
+    regions: ['Monroe, Louisiana']
+
+  - id: green-valley-milk-1960
+    headline: '"The Track that Milk Built": a dairy farm north of Fort Worth became AHRA country'
+    teaser: Bill and Dorothy McClure turned 250 acres of their dairy farm into Green Valley Raceway in
+      1960. It drew Evel Knievel and ABC in 1974, and its last race ran in 1986 after "a decade of noise
+      complaints," the city's history page says.
+    link: drag-racing/green-valley-raceway-smithfield.md
+    evidence: ["The Track that Milk Built", "After a decade of noise complaints"]
+    source_type: Municipal record
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-27'
+    eras: [1960s, 1970s, 1980s]
+    regions: ['North Richland Hills, Texas']

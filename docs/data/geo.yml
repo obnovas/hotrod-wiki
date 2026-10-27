@@ -272,6 +272,21 @@ places:
   'Woodburn, Oregon': {lat: 45.1472, lon: -122.8612, precision: town, source: 'Census Gazetteer 2024: Woodburn city'}
   'York Springs, Pennsylvania': {lat: 40.0093, lon: -77.1159, precision: town, source: 'Census Gazetteer 2024: York Springs borough'}
   'York, Pennsylvania': {lat: 39.9648, lon: -76.7318, precision: town, source: 'Census Gazetteer 2024: York city'}
+  # Round 24
+  'Brooksville, Florida': {lat: 28.5166, lon: -82.4047, precision: town, source: 'Census Gazetteer 2024: Brooksville city'}
+  'Tampa, Florida': {lat: 27.9701, lon: -82.4797, precision: town, source: 'Census Gazetteer 2024: Tampa city'}
+  'St. Petersburg, Florida': {lat: 27.7627, lon: -82.6441, precision: town, source: 'Census Gazetteer 2024: St. Petersburg city'}
+  'Chatsworth, Georgia': {lat: 34.7811, lon: -84.7825, precision: town, source: 'Census Gazetteer 2024: Chatsworth city'}
+  'Rome, Georgia': {lat: 34.2661, lon: -85.1861, precision: town, source: 'Census Gazetteer 2024: Rome city'}
+  'Ringgold, Georgia': {lat: 34.9137, lon: -85.1215, precision: town, source: 'Census Gazetteer 2024: Ringgold city'}
+  'Chattanooga, Tennessee': {lat: 35.066, lon: -85.2484, precision: town, source: 'Census Gazetteer 2024: Chattanooga city'}
+  'North Richland Hills, Texas': {lat: 32.8606, lon: -97.2191, precision: town, source: 'Census Gazetteer 2024: North Richland Hills city'}
+  'Denton, Texas': {lat: 33.2174, lon: -97.1413, precision: town, source: 'Census Gazetteer 2024: Denton city'}
+  'Windcrest, Texas': {lat: 29.5148, lon: -98.3813, precision: town, source: 'Census Gazetteer 2024: Windcrest city'}
+  'Converse, Texas': {lat: 29.5125, lon: -98.3046, precision: town, source: 'Census Gazetteer 2024: Converse city'}
+  'Poteet, Texas': {lat: 29.0373, lon: -98.5728, precision: town, source: 'Census Gazetteer 2024: Poteet city'}
+  'Muleshoe, Texas': {lat: 34.2292, lon: -102.7284, precision: town, source: 'Census Gazetteer 2024: Muleshoe city'}
+  'Angleton, Texas': {lat: 29.1718, lon: -95.4293, precision: town, source: 'Census Gazetteer 2024: Angleton city'}
 
 strips:
   Akron Fulton Airport (Champions Raceway): {place: 'Akron, Ohio'}
@@ -335,6 +350,13 @@ strips:
   Ted Edwards Skyport and Drag Strip: {place: 'Fairburn, Georgia'}
   Yellow River Drag Strip: {place: 'Covington, Georgia'}
   York U.S. 30 Drag-O-Way: {place: 'York, Pennsylvania'}
+  # Round 24
+  Brooksville Drag Strip: {place: 'Brooksville, Florida'}
+  Harmon Raceway (Monroe): {place: 'Monroe, Louisiana'}
+  Green Valley Raceway: {place: 'North Richland Hills, Texas'}
+  Double Eagle Drag Strip: {place: 'San Antonio, Texas'}
+  Alamo Dragway: {place: 'San Antonio, Texas'}
+  Highway 16 Raceway: {place: 'San Antonio, Texas'}
 
 not_mapped:
   75-80 Drag-A-Way: the articles that name it do not give its town, so it has no pin yet

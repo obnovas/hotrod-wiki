@@ -64,11 +64,13 @@ themes:
       - id: why-a-quarter-mile
         q: Why is a drag race a quarter mile?
         a: >-
-          It was borrowed from horse racing at Santa Ana, because "there was a lot of talk in those days that
-          quarter horses were faster than cars," and the public could relate to it. Timing started with a
-          stopwatch, then homemade electric timers, and the classes came after.
+          By the Hall of Fame's account it was borrowed from horse racing at Santa Ana, because "there was a
+          lot of talk in those days that quarter horses were faster than cars." A 1968 Texas folklore essay
+          says instead that Hart and the racers fixed it because the airport had limited shut-off space
+          (⚠ see Open questions). Timing started with a stopwatch, then homemade electric timers.
         link: eras/1950s-santa-ana-drags.md#how-the-rules-got-invented
-        also: [places/texas.md]
+        also: [places/texas.md, voices/dallas-folksay-custom-automotive.md]
+        flag: eras/1950s-santa-ana-drags.md#q-3
       - id: what-were-the-camgrinder-wars
         q: What were the Camgrinder Wars?
         a: >-
@@ -335,6 +337,56 @@ themes:
           winning there in 1977.
         link: drag-racing/santa-maria-golden-state-raceway.md
         also: [drag-racing/red-bluff-schafer-oil-special.md]
+      - id: what-was-green-valley-raceway
+        q: What was "The Track that Milk Built"?
+        a: >-
+          Green Valley Raceway, which Bill and Dorothy McClure built on their Smithfield dairy farm north of
+          Fort Worth in 1960. It hosted the AHRA's national meet for 13 years and Evel Knievel's 1974 jump over
+          11 Mack trucks, then closed in 1986 after years of noise complaints.
+        link: drag-racing/green-valley-raceway-smithfield.md
+        also: [drag-racing/san-antonio-double-eagle-alamo-dragway.md]
+      - id: why-did-the-ahra-move-to-san-antonio
+        q: Why did the AHRA nationals move to San Antonio in 1977?
+        a: >-
+          After 13 years at Green Valley, the AHRA took its meet to the Martinez brothers' Alamo Dragway. One
+          unnamed source told the San Antonio paper that the AHRA objected to Green Valley's owner booking NHRA
+          events (◐ see Open questions).
+        link: drag-racing/green-valley-raceway-smithfield.md#the-ahra-leaves-1977
+        also: [drag-racing/san-antonio-double-eagle-alamo-dragway.md]
+        flag: drag-racing/green-valley-raceway-smithfield.md#q-3
+      - id: where-did-san-antonio-race
+        q: Where did San Antonio's hot rodders race in the 1950s and '60s?
+        a: >-
+          At the Double Eagle strip off Gibbs-Sprawl Road, where a 15-year-old ran 77 mph on his first pass
+          in 1957, and on a back road they called "Little Green Valley." Alamo Dragway on Highway 16 came later.
+        link: drag-racing/san-antonio-double-eagle-alamo-dragway.md
+        also: [drag-racing/medina-county-castroville-drags.md]
+      - id: brooksville-oranges
+        q: Where did Don Garlits set his first world records?
+        a: >-
+          At the Brooksville Jaycees' strip on an old Florida air base, by the local weeklies' count: 176 mph in
+          November 1957 (⚠ see Open questions) and 180 mph in December 1958, when the Jaycee president handed
+          him a box of Florida oranges.
+        link: drag-racing/brooksville-jaycees-drag-strip.md
+        also: [people/setto-postoian.md]
+        flag: drag-racing/brooksville-jaycees-drag-strip.md#q-2
+      - id: calhoun-easter-1961
+        q: What happened at the Calhoun, Ga., drag strip on Easter Sunday 1961?
+        a: >-
+          A car fishtailed off the line, spun off the track and through a wooden rail, killing a Chatsworth man
+          and injuring ten others (his age differs by report; ⚠ see Open questions). Three years later the strip's owner came to
+          advise a Summerville club that wanted a strip of its own.
+        link: drag-racing/paradise-drag-strip-calhoun.md
+        also: [drag-racing/georgia-clubs-hy-winders-ridge-runners.md, drag-racing/yellow-river-covington.md]
+        flag: drag-racing/paradise-drag-strip-calhoun.md#q-1
+      - id: for-parents-only
+        q: How did a new 1960s strip sell drag racing to parents?
+        a: >-
+          Before Harmon Raceway opened in Monroe, La., a full-page 1964 ad ran a "For Parents Only" Q&A that
+          answered "No!" to whether racing was dangerous and allowed only that "some tire wear may be
+          noticeable." Then the strip held a clinic at a high school with an NHRA film.
+        link: drag-racing/harmon-raceway-monroe.md
+        also: [drag-racing/hope-airport-drag-strip.md]
       - id: what-did-montana-clubs-promise
         q: What did small-town Montana hot rod clubs promise their towns?
         a: >-
@@ -627,6 +679,14 @@ themes:
   - id: media-and-shows
     title: Media and shows
     questions:
+      - id: who-collected-drag-strip-slang
+        q: Did anyone collect drag racing slang as folklore?
+        a: >-
+          Yes. In 1968 the Texas Folklore Society printed Dallas lawyer and folk singer Hermes Nye's field guide
+          to drag strip talk, from the "Johnson rod" to the "Green Latrine," with thanks to the men at Charlie
+          Adams's Custom Automotive speed shop.
+        link: voices/dallas-folksay-custom-automotive.md
+        also: [drag-racing/green-valley-raceway-smithfield.md]
       - id: how-did-car-shows-start
         q: How did hot rod shows start?
         a: >-

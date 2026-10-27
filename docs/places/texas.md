@@ -29,6 +29,8 @@ related:
 - places/memphis.md
 - people/gene-snow.md
 - voices/strip-owners-and-door-slammers.md
+- drag-racing/green-valley-raceway-smithfield.md
+- voices/dallas-folksay-custom-automotive.md
 canonical_for: []
 ---
 # Texas: Three Stopwatches at Caddo Mills
@@ -56,7 +58,7 @@ By 1957 there was a different model on the Gulf Coast: [Houston Freeway Dragstri
 
 Still, racing was concentrated on **ex-military airfields away from the city**, run by clubs. The same thing happened at Halls (TN) and on SoCal's own airstrips. The difference is distance: Texans drove 40+ miles to race, and SoCal's dry lakes had no counterpart.
 
-*See also:* [Gene Snow](../people/gene-snow.md) (Fort Worth; *Rambunctious*), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (the Gay family's track at Dickinson), and two small-town clubs: [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) near Amarillo [Cameron's Accelerators](../drag-racing/cameron-accelerators.md), and the Alamo Timing Association's [March of Dimes drags at the Castroville airfield](../drag-racing/medina-county-castroville-drags.md).
+*See also:* [Gene Snow](../people/gene-snow.md) (Fort Worth; *Rambunctious*), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (the Gay family's track at Dickinson), and two small-town clubs: [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) near Amarillo and [Cameron's Accelerators](../drag-racing/cameron-accelerators.md), and the Alamo Timing Association's [March of Dimes drags at the Castroville airfield](../drag-racing/medina-county-castroville-drags.md). Later Texas strips: the AHRA's long-time home on a dairy farm near Fort Worth, [Green Valley Raceway](../drag-racing/green-valley-raceway-smithfield.md), and San Antonio's [Double Eagle and Alamo Dragway](../drag-racing/san-antonio-double-eagle-alamo-dragway.md). For the Dallas speed shop talk of the 1960s, see [T-Bones and Cheater Slicks](../voices/dallas-folksay-custom-automotive.md).
 
 ## Open questions & disputed details
 

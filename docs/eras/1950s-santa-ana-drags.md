@@ -40,6 +40,7 @@ related:
 - voices/harts-santa-ana.md
 - people/chet-herbert.md
 - drag-racing/pomona-choppers-fontana.md
+- voices/dallas-folksay-custom-automotive.md
 canonical_for:
 - santa-ana-bayonets
 ---
@@ -48,7 +49,7 @@ canonical_for:
 *Santa Ana and the first commercial drag strip, 1950–59*
 
 !!! abstract "Article record"
-    **Confidence:** High · **Source types:** obituaries (5+ agreeing), secondary · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Lions tenure conflict open · [How we rate this](../reference/source-standards.md)
+    **Confidence:** High · **Source types:** obituaries (5+ agreeing), secondary · **Last verified:** 2026-10-27 (Round 24) · **Open issues:** Lions tenure conflict open; why a quarter mile ⚠ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I saw a need to get people to stop racing on the streets; that was dangerous."
@@ -75,7 +76,7 @@ Hart was emphatic that he'd invented nothing: "I didn't invent drag racing... Wh
 
 ## How the rules got invented
 
-The rules came from wherever they could be found. The **quarter mile** was borrowed from horse racing, because "there was a lot of talk in those days that quarter horses were faster than cars," and the public could relate to it. **Timing** started with a stopwatch, then homemade electric timers.[^mshf]
+The rules came from wherever they could be found. The **quarter mile** was borrowed from horse racing, because "there was a lot of talk in those days that quarter horses were faster than cars," and the public could relate to it.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> **Timing** started with a stopwatch, then homemade electric timers.[^mshf]
 
 **Classes** came next: stockers split by axle ratio, model year and displacement, with "hot-car" classes added when lakes racers showed up, along with the first cash awards. The "Dollar-A-Mile" program paid Top Eliminator $1 per mph.[^mshf]
 
@@ -94,6 +95,8 @@ Hart died on **June 25, 2004**. NHRA, the Orange County Register, the NYT, AP an
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did the Marines run them off?** The bayonet story comes only from the Hall of Fame biography; we have not found a period report.[^mshf] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **June 25 or June 26, 2004?** NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise give June 25 for Hart's death, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26), and MSHF gives June 26. We follow the majority; a death record would settle it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Sources disagree.** **Was the quarter mile really borrowed from horse racing?** A much earlier account says no. In 1968 the Texas folklorist Hermes Nye thanked Ralph Guldahl, Jr., "of the Lions Drag Strip," for answering his question about the distance, and printed the answer: "No, it was not based on the quarter-horse race distance, but was fixed by C. J. Hart and the racers at Santa Ana Airport, where there was limit[e]d shut-off space." That is a secondhand answer from a Lions man, written down 18 years after Santa Ana opened; the horse-racing explanation comes from the later Hall of Fame biography. Each may hold part of the story. See [T-Bones and Cheater Slicks](../voices/dallas-folksay-custom-automotive.md).[^nye68][^mshf] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ### More from the notebook
 
@@ -126,4 +129,5 @@ Hart died on **June 25, 2004**. NHRA, the Orange County Register, the NYT, AP an
 [^lat]: Shav Glick, LA Times, June 30, 2004. https://www.latimes.com/archives/la-xpm-2004-jun-30-me-hart30-story.html (accessed 2026-10-13)
 [^nyt]: New York Times obituary, July 4, 2004, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
 [^nhra04]: Phil Burgess, NHRA.com, 2004, and the OC Register / AP obituaries, reproduced at wediditforlove.com. https://wediditforlove.com/cj-2.html (accessed 2026-10-13)
+[^nye68]: Hermes Nye, "T-Bones and Cheater Slicks: The Folksay of the Drag Strip," in Wilson M. Hudson, ed., *Tire Shrinker to Dragster*, Publications of the Texas Folklore Society 34 (Austin: Encino Press, 1968), pp. 34–35 (author's note). Page OCR via the Portal to Texas History. https://texashistory.unt.edu/ark:/67531/metadc38875/m1/45/ocr/ (accessed 2026-10-23)
 [^hr80]: Dave Wallace, "The Hart of Drag Racing," *Hot Rod*, January 1980 (web reprint 2023). Accessed 2026-10-15. https://www.hotrod.com/features/the-hart-of-drag-racing-january-1980-982-1130-22-1
