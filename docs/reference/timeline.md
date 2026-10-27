@@ -215,7 +215,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1968 | Pocono Drag Lodge, Bear Creek, Pa.: 220 drivers on one August Sunday; third annual Funny Car, Super Stock and Gas Spectacular. Pocono International Speedway's opening race (Oct), with a drag strip in its plans | [Pocono strips](../drag-racing/pocono-strips.md) |
 | 1968 ⚠ | Joe Lunati opens his own cam shop (1968 per company and NHRA; 1969 per family); KK Sports Arena installs Chrondek timers | [Joe Lunati](../people/joe-lunati.md), [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md) |
 | 1968 | Hope, Ark., city board decides against reopening the airport for drag racing after an FAA letter on the new instrument approach (May) | [Hope](../drag-racing/hope-airport-drag-strip.md) |
-| 1968 | Hermes Nye's Texas Folklore Society essay on Dallas drag-strip slang, built around Custom Automotive | [T-Bones & Cheater Slicks](../voices/dallas-folksay-custom-automotive.md) |
+| 1968 | Hermes Nye's Texas Folklore Society essay on drag-strip slang, by a Dallas lawyer who thanked the men of the city's Custom Automotive speed shop | [T-Bones & Cheater Slicks](../voices/dallas-folksay-custom-automotive.md) |
 | 1969 | Summit opens its first retail store in Akron (RACER) | [Summit Racing](../companies/summit-racing.md) |
 | 1969 | The Big S.I.R.: Sedalia International Dragway announced (May), moved to the old hog barns after neighbors object, ground broken (July 22); builder pulls out with the strip "about one-half completed" (Aug 31) ⚠ | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | 1969 | Mickey Thompson's Mach 1 Mustang holds Kansas City International Raceway's low E.T., 7.37 (Aug) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |

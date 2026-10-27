@@ -101,7 +101,7 @@ In July the ad said Harmon would be "back under the lights throughout the rest o
 
 "After a year's absence, the big AA Fuel Dragsters are returning to Harmon Raceway," the paper said in May 1967. Six NHRA district contenders would run in the seven-second bracket, and the meet inaugurated a "New Look" at Harmon: a newly paved pit area and clubhouse concession.[^mmw670514] The ad for that card added a funny car match race: "Joe Lunati— 3 Time National Champ — VS — Lenard Hughes— Jakes Speed Shop."[^mmw670513] (See [Joe Lunati](../people/joe-lunati.md).)
 
-On June 24–25 came "the Big One": six "Super 'Funny Cars,'" with three "Flip Top Camero" entries for Kelly Chadwick, Mike Schmidt and Joe Lunati, Gene Snow's Dodge "Rambunctous" (as printed; see [Gene Snow](../people/gene-snow.md)), and two Texas Chevys, "Texas Bandit" and David Robinson's "Texas Twister."[^mmw670624]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> For another Louisiana-border strip of the same years, see [Church First, Then the Drags (Hope, Ark.)](hope-airport-drag-strip.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+On June 24–25 came "the Big One": six "Super 'Funny Cars,'" with three "FLIPTOP CAMERO" entries for Kelly Chadwick, Mike Schmidt and Joe Lunati, Gene Snow's Dodge "Rambunctous" (as printed; see [Gene Snow](../people/gene-snow.md)), and two Texas Chevys, Sam Harris's "Texas Bandit" and David Robinson's "Texas Twister."[^mmw670624]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> For another Louisiana-border strip of the same years, see [Church First, Then the Drags (Hope, Ark.)](hope-airport-drag-strip.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 
@@ -111,9 +111,9 @@ On June 24–25 came "the Big One": six "Super 'Funny Cars,'" with three "Flip T
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **Who ran it?** The paper names Whit Alger as track director in 1965 and Amos Lindsey as manager at his death that July, but no owner, operator or club.[^mmw650509][^mmw650704] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Open question.** **Who won the 1967 match races?** The Internet Archive run of the *Morning World* for 1966–67 is mostly Saturday and Sunday issues, so the Monday results pages for the Lunati–Hughes match (May 14) and the June 24–25 funny car meet are missing. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Open question.** **Who won the 1967 match races?** The Internet Archive run of the *Morning World* for 1966–67 is mostly Saturday and Sunday issues, so the Monday results pages for the Lunati–Hughes match (May 14) and the June 24–25 funny car meet are missing.[^mmw670513][^mmw670624] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Open question.** **When did Harmon close?** The online run we read stops in August 1967, with the strip still racing. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Open question.** **When did Harmon close?** The last Harmon card we have found is for Sunday, July 23, 1967, a "grudge match" between Gene Snow's Dodge and the Burkhart-Schmidt "Flip-Top" Camero. The online run we read goes on to Aug. 20, 1967, without another Harmon notice, which does not show the strip had closed.[^mmw670723] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ### Next leads
 
@@ -138,4 +138,5 @@ The *Monroe News-Star* and the Monday *Morning World* for 1965–67; Ouachita Pa
 [^mmw660820]: Harmon Raceway ad, *Monroe Morning World*, Aug. 20, 1966. Full-issue OCR. https://archive.org/details/monroe-morning-world-1966-08-20 (accessed 2026-10-23)
 [^mmw670513]: Harmon Raceway ad, "The First N.H.R.A. 1967 Open Fuel Dragster Meet," *Monroe Morning World*, May 13, 1967, sports section. Full-issue OCR. https://archive.org/details/monroe-morning-world-1967-05-13 (accessed 2026-10-23)
 [^mmw670514]: "Fuelers Return To Harmon Strip," *Monroe Morning World*, May 14, 1967, sports section. Full-issue OCR. https://archive.org/details/monroe-morning-world-1967-05-14 (accessed 2026-10-23)
-[^mmw670624]: "Here's Today's Line Up for the 'Big One,'" Harmon Raceway ad, *Monroe Morning World*, June 24, 1967. Full-issue OCR. https://archive.org/details/monroe-morning-world-1967-06-24 (accessed 2026-10-23)
+[^mmw670723]: "Harmon Holds Grudge Match," *Monroe Morning World*, July 23, 1967, sports section. Full-issue OCR. https://archive.org/details/monroe-morning-world-1967-07-23 (accessed 2026-10-27)
+[^mmw670624]: "Here's Today's Line Up for the 'Big One,'" Harmon Raceway ad, *Monroe Morning World*, June 24, 1967, p. 16. Full-issue OCR; the lineup checked against the page image, which reads "Sam Harris" where the OCR has "Sam Norris." https://archive.org/details/monroe-morning-world-1967-06-24 (accessed 2026-10-23; image checked 2026-10-27)

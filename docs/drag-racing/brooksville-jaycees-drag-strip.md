@@ -1,6 +1,6 @@
 ---
 title: 'Oranges for the Record: The Jaycees'' Drag Strip at Brooksville (Fla., 1956–62)'
-summary: In 1956 the Brooksville Jaycees turned the old air base south of town into a Sunday drag strip, sponsored a club called the Spooks, and watched Tampa's Don Garlits set speed records there, rewarded once with Florida oranges. By 1962 a new club asked the county for "our drag strip" and did not get it.
+summary: In 1956 the Brooksville Jaycees turned the old air base south of town into a Sunday drag strip, sponsored a club called the Spooks, and watched Tampa's Don Garlits set speed records there, once after being handed a box of Florida oranges. By 1962 a new club asked the county for "our drag strip" and did not get it.
 department: drag-racing
 era: 1950s
 eras:
@@ -69,7 +69,7 @@ canonical_for: []
 *Two county-seat weeklies follow a Junior Chamber of Commerce project from an abandoned runway to the world record books, and back to a car club that wanted the strip for itself*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (two local weeklies, which sometimes disagree with each other; read as page OCR, not yet checked against the page images) · **Source types:** <span class="hr-badge">Grassroots</span> county-seat weeklies (*Brooksville Sun*, *Brooksville Journal* and the merged *Sun-Journal*, Brooksville, Fla.): front-page race reports, Jaycee meeting notes, display ads and a club column, 1956–62, read on Chronicling America · **Last verified:** 2026-10-27 (Round 24; quotes rechecked against the page OCR) · **Open issues:** Clyde or Clifford Batten ⚠; which 176 mph record ⚠; whether Garlits and Postoian had met before ⚠; where the strip was ?; how it ended ?; the 185.566 mph record ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (two local weeklies, which sometimes disagree with each other; read as page OCR; the Nov. 28, 1957 and Dec. 18, 1958 front-page reports checked against the page images) · **Source types:** <span class="hr-badge">Grassroots</span> county-seat weeklies (*Brooksville Sun*, *Brooksville Journal* and the merged *Sun-Journal*, Brooksville, Fla.): front-page race reports, Jaycee meeting notes, display ads and a club column, 1956–62, read on Chronicling America · **Last verified:** 2026-10-27 (Round 24; quotes rechecked against the page OCR) · **Open issues:** Clyde or Clifford Batten ⚠; which 176 mph record ⚠; whether Garlits and Postoian had met before ⚠; where the strip was ?; how it ended ?; the 185.566 mph record ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "People immediately began to ask who was Don Garlits and where was Brooksville?"
@@ -100,7 +100,7 @@ The Jaycees thought they had a world record, and the confirmation came by phone.
 
 By the fall of 1958 Garlits was a Brooksville Jaycee himself. In October the club voted to have its races sanctioned by the NHRA, after hearing from the association's regional director, Ernie Schorb of Miami. Under sanction, the *Sun* said, drivers and spectators would be "protected in case of an accident," and Brooksville's races would be reported nationally.[^bs581017] The *Journal* put it more simply: the races would put Brooksville "on the map." That same week Garlits took his dragster to New York to "run under the Brooksville colors."[^bj581016]
 
-On Dec. 14, 1958, a crowd of "over 3000" came out to see him race Bob Langley of Texas. Langley's car broke after its first run, so the match never happened. Garlits ran alone and crossed the line "at 180.00 m.p.h. to break his own previous world's record of 176.40 m.p.h." Jaycee president Tom Varn gave both drivers boxes of Florida oranges, donated by Travis L. Slayden of the Brooksville Citrus Growers Association, and a photo of Garlits went out on the Associated Press wire.[^bj581218]
+On Dec. 14, 1958, a crowd of "over 3000" came out to see him race Bob Langley of Texas. Langley's car broke after its first run, so the match never happened. Garlits ran alone and crossed the line "at 180.00 m.p.h. to break his own previous world's record of 176.40 m.p.h." Before their runs, Jaycee president Tom Varn gave both drivers boxes of Florida oranges, donated by Travis L. Slayden of the Brooksville Citrus Growers Association, and a photo of Garlits went out on the Associated Press wire.[^bj581218]
 
 A month later the *Journal* reprinted the *Drag News* story of the run. "People immediately began to ask who was Don Garlits and where was Brooksville?"[^bj590115]
 
@@ -155,7 +155,7 @@ The March 1959 *Hot Rod* page on Brooksville; *Drag News* for Nov. 1957 and Dec.
 [^bs580117]: Photo and caption, Garlits and Jaycee president Bob Spencer, *Brooksville Sun*, Jan. 17, 1958, p. 1. Page OCR. https://www.loc.gov/resource/sn98026438/1958-01-17/ed-1/?sp=1&st=text (accessed 2026-10-23)
 [^bj581016]: "Drag Races To Be Sanctioned By N.H.R.A.," *Brooksville Journal*, Oct. 16, 1958, p. 1. Page OCR. https://www.loc.gov/resource/sn95047246/1958-10-16/ed-1/?sp=1&st=text (accessed 2026-10-23)
 [^bs581017]: JayCee meeting report (NHRA sanction; Ernie Schorb), *Brooksville Sun*, Oct. 17, 1958, p. 1. Page OCR. https://www.loc.gov/resource/sn98026438/1958-10-17/ed-1/?sp=1&st=text (accessed 2026-10-23)
-[^bj581218]: "New World's Record of 180 m.p.h. Set By Garlits," *Brooksville Journal*, Dec. 18, 1958, p. 1. Page OCR. https://www.loc.gov/resource/sn95047246/1958-12-18/ed-1/?sp=1&st=text (accessed 2026-10-23)
+[^bj581218]: "New World's Record of 180 m.p.h. Set By Garlits," *Brooksville Journal*, Dec. 18, 1958, p. 1. Page OCR; the oranges passage checked against the page image (2026-10-27). https://www.loc.gov/resource/sn95047246/1958-12-18/ed-1/?sp=1&st=text (accessed 2026-10-23)
 [^bj590115]: *Drag News* story reprinted, *Brooksville Journal*, Jan. 15, 1959, p. 4. Page OCR. https://www.loc.gov/resource/sn95047246/1959-01-15/ed-1/?sp=4&st=text (accessed 2026-10-23)
 [^bj590122]: "Champion Don Garlits And Michigan Racer To Take Part," *Brooksville Journal*, Jan. 22, 1959, p. 1. Page OCR. https://www.loc.gov/resource/sn95047246/1959-01-22/ed-1/?sp=1&st=text (accessed 2026-10-23)
 [^bj590129]: "Rain Slows Drag Race Champs Here Sunday," *Brooksville Journal*, Jan. 29, 1959, p. 4. Page OCR. https://www.loc.gov/resource/sn95047246/1959-01-29/ed-1/?sp=4&st=text (accessed 2026-10-23)

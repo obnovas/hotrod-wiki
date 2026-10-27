@@ -76,7 +76,7 @@ The driver was Mrs. Virginia Quarles, 30, of Rome, with her husband, Frank Quarl
 
 Gordon County Sheriff Hughdon Davis quoted Mrs. Quarles as saying the car began to "fishtail" a moment after the start and "she was never able to get it under control." He said it was the first time a serious incident had occurred at "the legal drag racing strip here," where, he said, races were held nearly every Sunday.[^ac610403] The Associated Press version ran as far away as Butler, in Taylor County, under the headline "Man Is Killed As Drag Racer Hits Crowd."[^bh610406]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Eight years later, after eleven people died at the [Yellow River Drag Strip](yellow-river-covington.md) near Covington, a UPI story listed Georgia's earlier drag strip deaths: a boy killed at Dallas, Ga., in 1965, and "In 1961 a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident."[^gdn690303]
+Eight years later, after the 1969 crash at the [Yellow River Drag Strip](yellow-river-covington.md) near Covington, which UPI first reported had killed eleven people (later local reports said twelve; see [the death toll](yellow-river-covington.md#q-3)), a UPI story listed Georgia's earlier drag strip deaths: a boy killed at Dallas, Ga., in 1965, and "In 1961 a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident."[^gdn690303]
 
 ## The man from the Calhoun drag strip (1964–65)
 

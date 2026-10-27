@@ -407,9 +407,9 @@ edges:
      evidence: ["a blown-Hemi 1966 Barracuda from Memphis"]}
   - {from: greenvalley, to: alamodragway, type: scene, label: "AHRA moved its nationals from Green Valley to Alamo Dragway, 1977", page: drag-racing/san-antonio-double-eagle-alamo-dragway.md,
      evidence: ["decided on San Antonio's Alamo Dragway as the site of its national event"]}
-  - {from: customauto, to: edelbrock, type: scene, label: "Founder Jack Adams met Vic Edelbrock after the war (forum recollection)", page: voices/dallas-folksay-custom-automotive.md, flag: single-source,
+  - {from: customauto, to: edelbrock, type: scene, label: "Founder Charlie Adams met Vic Edelbrock after the war (forum recollection)", page: voices/dallas-folksay-custom-automotive.md, flag: single-source,
      evidence: ["met Vic Edelbrock in California after the war"]}
-  - {from: yellowriver, to: paradise, type: scene, label: "UPI's 1969 Yellow River story recalled the 1961 Calhoun death", page: drag-racing/paradise-drag-strip-calhoun.md,
+  - {from: yellowriver, to: paradise, type: scene, label: "UPI's 1969 Yellow River story recalled the 1961 Calhoun death, but as a boy of 8", page: drag-racing/paradise-drag-strip-calhoun.md, flag: conflict,
      evidence: ["a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident"]}
   - {from: nhra, to: greenvalley, type: promotion, label: "First NHRA Winston World Championship event, July 1977", page: drag-racing/green-valley-raceway-smithfield.md,
      evidence: ["In July 1977 Green Valley held its first NHRA Winston World Championship event"]}
