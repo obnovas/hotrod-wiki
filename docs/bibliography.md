@@ -492,3 +492,16 @@ Tags as above, plus **[local]** for local newspapers and **[org]** for city, soc
 - [forum] The H.A.M.B.: "Double Eagle Dragstrip SanAntonio 1967" (2009–14); "Hot Rod History and Photos Dallas Texas 1949 on – Caddo Mills Drag Races" (2015, Karl Knecht, Bobby Wolcott); "long gone speed shops… Hotrod Exchange in Dallas" (2009). https://www.jalopyjournal.com/forum/
 - [oral] Travis Perrenot, "My First Time," Draglist Story of the Day, Jan 2001. https://www.draglist.com/stories/SOD%20Jan%202001/SOD-012401.htm
 - [local] "John Ray Martinez" obituary, Hurley Funeral Home, Pleasanton, Tex., 2024. https://www.hurleyfuneralhome.com/obituary/john-martinez
+
+## Added in Round 25 (accessed 2026-10-28)
+Tags as above. All the newspapers below are page OCR from Chronicling America (Library of Congress), cited page by page in each article; the 2004 and 2014 Alaska stories and the track history are web pages. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] *The Frontiersman* (Palmer, Alaska): Palmer Car Club, Road Hogs and Road Runners, the airport strip debate, the Palmer Dragway groundbreaking and the Palmer Raceway stock drive, Oct 16, 1958 – Dec 12, 1963 (16 items). https://www.loc.gov/item/sn84006943/
+- [local] *The Kenai Peninsula Cheechako News* (Kenai, Alaska), Jan 12 and Feb 2, 1962, June 7, 1963; *Jessen's Weekly* (Fairbanks), May 16, 1962; *Kodiak Mirror*, May 17, 1958. https://www.loc.gov/item/sn97060085/ · https://www.loc.gov/item/sn84024018/ · https://www.loc.gov/item/sn83045298/
+- [local] Jeremiah Bartz, "Forty fast years," *The Frontiersman*, Sept 7, 2004. https://www.frontiersman.com/forty-fast-years/
+- [local] Marc Lester, "At 50, Alaska Raceway Park Still Has Tires Burning and Hearts Pumping," *Alaska Dispatch News*, Aug 17, 2014 (as reposted by the track). https://www.myracepass.com/tracks/3409/news/2014/article/36555/at-50-alaska-raceway-park-still-has-tires-burning-and-hearts-pumping-alaska-dispatch-news
+- [org] Alaska Raceway Park, "History." https://www.raceak.com/history/
+- [local] *The Key West Citizen* (Key West, Fla.): Upper Keys club, Rumbling Rods, Island Hoppers, Stock Island Raceway, county commission and letters, Oct 20, 1958 – Oct 16, 1962 (11 items). https://www.loc.gov/item/sn83016244/
+- [local] *Milford Chronicle* (Milford, Del.) and *Smyrna Times* (Smyrna, Del.): Georgetown Speedway drag strip, Delmarva Timing Association, state police and Lions Club items, July 16, 1954 – June 7, 1963 (19 items). https://www.loc.gov/item/sn87062224/ · https://www.loc.gov/item/sn84020422/
+- [local] *Chapel Hill Weekly* (Chapel Hill, N.C.), July 10, July 31 and Nov 16, 1956, Dec 8, 1960; *The Coastland Times* (Manteo, N.C.), Aug 24, 1956, July 5, 1957; *Tabor City Tribune* (Tabor City, N.C.), Aug 8, 1956, Apr 17, 1957. https://www.loc.gov/item/sn92073229/ · https://www.loc.gov/item/sn99061530/ · https://www.loc.gov/item/sn91068761/
+- [local] *The Chronicle-Star and Moss Point Advertiser* (Pascagoula, Miss.), May 5, June 30, July 28 and Aug 4, 1961; *The Chronicle* (Pascagoula), Nov 14–15, 1963. https://www.loc.gov/item/sn87065530/ · https://www.loc.gov/item/sn87065526/

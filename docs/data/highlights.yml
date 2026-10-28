@@ -979,3 +979,63 @@ highlights:
     added: '2026-10-27'
     eras: [1960s, 1970s, 1980s]
     regions: ['North Richland Hills, Texas']
+
+  - id: palmer-drag-stag-1963
+    headline: 'Drag $1.00, Stag 75c: an Alaska car club danced for a drag strip'
+    teaser: In March 1963 Palmer's Road Hogs held a dance at the Elks hall to campaign for a strip, and
+      the police chief wanted to put it on the town's airport runway. A former mayor objected; the strip
+      that finally opened near Palmer on Labor Day weekend 1964 was a private one in the trees.
+    link: drag-racing/palmer-alaska-polar-dragway.md
+    evidence: ["Admission: Drag $1.00 Stag 75c.", "I am thoroughly opposed to encouraging dragging that might interfere with flying"]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-28'
+    eras: ["1960s"]
+    regions: ["Palmer, Alaska"]
+
+  - id: key-west-three-tickets-1961
+    headline: Three tickets in a year and a half, and still no drag strip for Key West
+    teaser: Key West's Rumbling Rods counted only three tickets among more than 60 drivers, and one
+      official said a strip "probably would triple any loss on traffic penalties." When someone asked
+      for the old airport runway, the county said it did not own it.
+    link: drag-racing/key-west-rumbling-rods.md
+    evidence: ["only three tickets", "would triple any loss on traffic penalties"]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-28'
+    eras: ["1960s"]
+    regions: ["Key West, Fla."]
+
+  - id: georgetown-no-roll-bars-1956
+    headline: '"Bring your pleasure car—no roll bars needed": Delaware''s strip off turn four'
+    teaser: In August 1956 a NASCAR oval at Georgetown, Delaware, opened a quarter-mile drag strip off its
+      fourth turn to anyone 16 or older with a license. Safety belts and helmets, the notice said, were not
+      necessary.
+    link: drag-racing/georgetown-speedway-delaware.md
+    evidence: ["no roll bars needed", "safety belts and helmets are not necessary"]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-28'
+    eras: ["1950s"]
+    regions: ["Georgetown, Del."]
+
+  - id: pascagoula-ten-for-ten-1961
+    headline: Ten entries, ten trophies at Biloxi for a Mississippi timing association
+    teaser: Pascagoula's new timing association met at the courthouse, borrowed the principal's projector
+      for a safety film, and in 1961 won all 10 events it entered at the Gulf Coast drags in Biloxi,
+      the last one the powder puff race.
+    link: drag-racing/pascagoula-timing-association.md
+    evidence: ["Of the 10 entries, PTA won 10 trophies.", "Mrs. Hyde was the first Pascagoula woman to enter 1961 competition."]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-28'
+    eras: ["1960s"]
+    regions: ["Pascagoula, Miss."]

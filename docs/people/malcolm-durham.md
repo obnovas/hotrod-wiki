@@ -49,6 +49,7 @@ related:
 - voices/injection-and-tin.md
 - voices/leonard-miller.md
 - places/midwest-east.md
+- drag-racing/north-carolina-drag-strip-debate-1956.md
 canonical_for: []
 ---
 # Malcolm Durham: Strip Blazer

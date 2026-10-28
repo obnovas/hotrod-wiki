@@ -118,6 +118,8 @@ The last trace is a club column. In March 1962 the Road Angels, writing in the *
 
 For the Georgia strips where Garlits ran a few years later, see [Yellow River](yellow-river-covington.md). For another Jaycee strip on an old air base, see [SEMO at Malden, Mo.](semo-malden-drag-strip.md)<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* at the far southern tip of Florida, [Key West's Rumbling Rods](key-west-rumbling-rods.md), and the Gulf Coast's [Pascagoula Timing Association](pascagoula-timing-association.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

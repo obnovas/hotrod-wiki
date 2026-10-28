@@ -123,6 +123,13 @@ nodes:
   - {id: greenvalley, label: "Green Valley Raceway (Smithfield, Tex.)", type: place, page: drag-racing/green-valley-raceway-smithfield.md}
   - {id: alamodragway, label: "Alamo Dragway (San Antonio)", type: place, page: drag-racing/san-antonio-double-eagle-alamo-dragway.md}
   - {id: customauto, label: "Custom Automotive (Dallas)", type: company, group: garage-born, page: voices/dallas-folksay-custom-automotive.md}
+  # ---- Round 25: Key West, Delaware, North Carolina
+  - {id: upperkeys,  label: "Upper Keys hot rod club (Islamorada, Fla.)", type: club, page: drag-racing/key-west-rumbling-rods.md}
+  - {id: georgetownde, label: "Georgetown Speedway drag strip (Del.)", type: place, page: drag-racing/georgetown-speedway-delaware.md}
+  - {id: delmarvata, label: Delmarva Timing Association, type: club, page: drag-racing/georgetown-speedway-delaware.md}
+  - {id: easystreet, label: "Easy Street Dragstrip (Newton Grove, N.C.)", type: place, page: drag-racing/north-carolina-drag-strip-debate-1956.md}
+  - {id: mdurham,    label: Malcolm Durham, type: person, page: people/malcolm-durham.md}
+  - {id: nascar,     label: NASCAR, type: institution, page: drag-racing/georgetown-speedway-delaware.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -413,3 +420,16 @@ edges:
      evidence: ["a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident"]}
   - {from: nhra, to: greenvalley, type: promotion, label: "First NHRA Winston World Championship event, July 1977", page: drag-racing/green-valley-raceway-smithfield.md,
      evidence: ["In July 1977 Green Valley held its first NHRA Winston World Championship event"]}
+  # ----- Round 25
+  - {from: upperkeys, to: nhra, type: scene, label: "22 boys organized under NHRA sanction, July 1959", page: drag-racing/key-west-rumbling-rods.md,
+     evidence: ["to organize under sanction of the National Hot Rodders Association"]}
+  - {from: delmarvata, to: georgetownde, type: promotion, label: "Ran Sunday drags on the eighth-mile strip, 1962–63", page: drag-racing/georgetown-speedway-delaware.md,
+     evidence: ["continue to present Drag racing every Sunday weather permitting, all year long."]}
+  - {from: mdurham, to: easystreet, type: scene, label: "Began racing there in 1957", page: people/malcolm-durham.md,
+     evidence: ["He began racing in **1957** at Easy Street Dragstrip, Newton Grove, N.C."]}
+  - {from: mdurham, to: logghe, type: customer, label: "Logghe-chassised Camaro Funny Car", page: people/malcolm-durham.md,
+     evidence: ["Logghe-chassised Camaro"]}
+  - {from: nascar, to: georgetownde, type: scene, label: "Sanctioned the Georgetown oval the strip was built onto", page: drag-racing/georgetown-speedway-delaware.md,
+     evidence: ["Georgetown Speedway was a NASCAR-sanctioned half-mile oval"]}
+  - {from: holley, to: nascar, type: customer, label: "2008 marker: every NASCAR Sprint Cup team used Holley", page: companies/holley.md,
+     evidence: ["every NASCAR Sprint Cup team"]}

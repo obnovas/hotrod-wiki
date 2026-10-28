@@ -30,6 +30,32 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 
 *Earlier rounds kept resolved notes in place on the page, for example the "Resolved" note on [The Ohio Gassers](places/ohio-gassers.md).*
 
+## Log, Round 25 (Alaska, the Florida Keys, downstate Delaware, North Carolina's argument and the Mississippi Gulf Coast; 2026-10-28)
+- **Scope:** states the site had barely touched or never touched: Alaska (first article), Delaware, North Carolina, Mississippi and Alabama (first article), and the Florida Keys. Every page rests on small-town papers read as Chronicling America page OCR.
+- **New articles (5, all grassroots):**
+    - Alaska: [Drag $1.00, Stag 75¢: Palmer, Alaska, Hunts for a Strip](drag-racing/palmer-alaska-polar-dragway.md) (Strips, 1958–64).
+    - Delaware: ["No Roll Bars Needed": The Drag Strip off Turn Four at Georgetown Speedway](drag-racing/georgetown-speedway-delaware.md) (Strips, 1954–63).
+    - Florida: [Three Tickets in Eighteen Months: The Rumbling Rods and the Keys' Missing Drag Strip](drag-racing/key-west-rumbling-rods.md) (Clubs and timing associations, 1958–63).
+    - Mississippi and Alabama: [Ten for Ten at Biloxi: The Pascagoula Timing Association](drag-racing/pascagoula-timing-association.md) (Clubs and timing associations, 1961–63).
+    - North Carolina: ["A Practice Murder Place": North Carolina Argues About Drag Strips](drag-racing/north-carolina-drag-strip-debate-1956.md) (Rules, safety and public opinion, 1956–60).
+- **Expanded:** [Regional Scenes](places/regional-scenes.md) gains Alaska, North Carolina and Mississippi-and-Alabama lines; [Malcolm Durham](people/malcolm-durham.md) now links the North Carolina page (Easy Street).
+- **Found:** a Palmer police chief who wanted the strip on the town airport's runway, a former mayor who said no for the pilots' sake, and a chamber president who stood up to announce "We're going to have a dragstrip!" (1963); an Upper Keys club that organized under NHRA sanction in 1959, and Key West's Rumbling Rods, who counted three tickets in a year and a half; a 1956 Delaware strip with "no roll bars needed"; a North Carolina judge who called legal strips "a practice murder place"; a Pascagoula club that went 10 for 10 at Biloxi in 1961, and a 1963 match race at the Dauphin Island Dragway.
+- **Resolved:** no article's open question was settled. The Harmon Raceway questions could not be checked: the Internet Archive's *Monroe Morning World* has only 30 issues for 1967 (ending Aug. 20) and none for 1968–70, and no *Monroe News-Star* run turned up.
+- **New conflicts or single-source flags:** who bought Polar Dragway, 1994 or 1998 ⚠; the 1962 Tanacross meet ◐; Elizabeth City as North Carolina's "first supervised drag strip" ◐; the "75 per cent" claim ◐.
+- **Highlights:** four added, all grassroots (Palmer's dance, Key West's three tickets, Georgetown's "no roll bars needed," Pascagoula's ten for ten).
+- **Quick answers:** three added (Alaska's strips, North Carolina's "no," stock car tracks that added drag strips).
+- **Web of Influence:** new nodes for the Upper Keys club, Georgetown Speedway's strip, the Delmarva Timing Association, NASCAR, Easy Street and Malcolm Durham, with six edges (Upper Keys–NHRA, Delmarva–Georgetown, NASCAR–Georgetown, Holley–NASCAR, Durham–Easy Street, Durham–Logghe). Palmer and Pascagoula have no tie yet to anything else in the graph, so they stay off it for now.
+- **Images:** none this round (no openly licensed photographs found for these places).
+- **Blocked or unavailable (not bypassed):** Gateway to Oklahoma History (bot check on plain requests; its search gave no usable hits through the fetch tool), so Oklahoma is still at zero; the *Frontiersman* and MyRacePass pages refused the fetch tool (read with a plain request instead); Chronicling America "drag strip" searches came back empty for Hawaii, West Virginia, Vermont, New Mexico, Nevada, Oklahoma, Kentucky, Idaho, Utah, Louisiana, Tennessee, Alabama, South Carolina, North Dakota and Wyoming.
+
+## Next breadcrumbs (Round 25)
+- **Alaska:** the *Frontiersman* and *Anchorage Daily Times* for 1964 (Polar Dragway's opening, the Palmer Raceway stock drive); Fairbanks and Tok papers for the 1962 Tanacross meet; the 1967 *Hot Rod* item on the Palmer strip mentioned in 2004; whether Wasilla's Big Lake Road site was ever used.
+- **Florida Keys:** the *Key West Citizen* after 1963; Miami papers on the Amelia Earhart Field drags; NHRA club lists for "Vagabonds."
+- **Delaware and the Shore:** the *Delaware Coast Press*, *Sussex Countian* and Salisbury *Daily Times* for 1956–62 (Georgetown's missing years, the Delmarva Timing Association); the Smyrna Lions' strip plan.
+- **North Carolina:** the Elizabeth City *Daily Advance*, 1955–57 (the "first supervised drag strip"); the *Asheville Citizen* on Black Mountain; Sampson County papers on Easy Street.
+- **Gulf Coast:** the *Mobile Register* and Biloxi *Daily Herald* for the Dauphin Island Dragway and the 1961 Gulf Coast drags; *The Chronicle* for September 1961.
+- **Carried over:** the *Calhoun Times*, *Monroe News-Star*, *Fort Worth Star-Telegram* and *San Antonio Light* (Round 24); Oklahoma through Gateway item OCR; Kentucky, South Carolina, Kansas beyond Great Bend, the Dakotas, Wyoming, Nevada, New Mexico, Hawaii, West Virginia, Vermont and Rhode Island.
+
 ## Log, Round 24 (a Jaycee strip in Florida, Calhoun and Monroe, Texas's dairy-farm strip and San Antonio, and a Dallas folklorist; drafted 2026-10-23, reviewed and published 2026-10-27)
 - **Scope:** both halves of the country in one round: Florida, north Georgia and Louisiana in the East and South; Fort Worth, San Antonio and Dallas in Texas.
 - **Why it was late:** the round was drafted overnight on Oct. 23, but the six new pages had no map pins in `geo.yml`, so the strict build failed on the article check and nothing was committed. Later nightly runs stopped at the same failure. This review added the pins and the missing links, checked every draft against its sources and published them.
