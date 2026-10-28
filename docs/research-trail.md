@@ -35,7 +35,7 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 - **New articles (5, all grassroots):**
     - Alaska: [Drag $1.00, Stag 75¢: Palmer, Alaska, Hunts for a Strip](drag-racing/palmer-alaska-polar-dragway.md) (Strips, 1958–64).
     - Delaware: ["No Roll Bars Needed": The Drag Strip off Turn Four at Georgetown Speedway](drag-racing/georgetown-speedway-delaware.md) (Strips, 1954–63).
-    - Florida: [Three Tickets in Eighteen Months: The Rumbling Rods and the Keys' Missing Drag Strip](drag-racing/key-west-rumbling-rods.md) (Clubs and timing associations, 1958–63).
+    - Florida: [Three Tickets in Eighteen Months: The Rumbling Rods and the Keys' Missing Drag Strip](drag-racing/key-west-rumbling-rods.md) (Clubs and timing associations, 1958–62).
     - Mississippi and Alabama: [Ten for Ten at Biloxi: The Pascagoula Timing Association](drag-racing/pascagoula-timing-association.md) (Clubs and timing associations, 1961–63).
     - North Carolina: ["A Practice Murder Place": North Carolina Argues About Drag Strips](drag-racing/north-carolina-drag-strip-debate-1956.md) (Rules, safety and public opinion, 1956–60).
 - **Expanded:** [Regional Scenes](places/regional-scenes.md) gains Alaska, North Carolina and Mississippi-and-Alabama lines; [Malcolm Durham](people/malcolm-durham.md) now links the North Carolina page (Easy Street).

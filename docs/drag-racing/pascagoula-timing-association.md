@@ -77,7 +77,7 @@ On the strip the club was a powerhouse. At a Saturday meet in Mobile that July, 
 
 The next weekend was better. At Pensacola on Saturday the club entered seven events and won seven trophies; the one class it lost it made up for when Roy Parnell took the middle eliminator. On Sunday about 20 Pascagoulans went to the Gulf Coast Drag event at Biloxi, where they entered only 10 events, the paper explained, because otherwise they would have been racing each other. "Of the 10 entries, PTA won 10 trophies." The last of them was the powder puff race, won by Mrs. Barbara Hyde. "Mrs. Hyde was the first Pascagoula woman to enter 1961 competition."[^cs610804]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
-## The crop-duster and the Black Trash (1963)
+## The crop-duster Ford and Jack Cooley's "Black Trash" Chevy (1963)
 
 Two years later the club had a strip to promote, across the state line. In November 1963 *The Chronicle* carried an ad for the Dauphin Island Dragway, "8 miles North of Dauphin Island," for Sunday, November 17, gates at 10 a.m., eliminations at 2, "SPONSORED BY PASCAGOULA TIMING ASSOCIATION." The draw was a grudge match, three out of five: David Harrell's 427 fiberglass Ford against Jack Cooley's 427 aluminum Chevy, "Black Trash." In their last meeting Harrell had the Trash "in the hole two races to one when he blew a rear-end." Cooley held the strip's low elapsed time record of 12.32; Harrell had set a new top speed record of 119.7 miles an hour "with his crop-duster Ford."[^ch631114]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 

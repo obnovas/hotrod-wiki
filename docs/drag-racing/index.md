@@ -60,7 +60,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Orchids, Plugs and Celtics (Canyon, Tex.)](canyon-orchids-celtics-amarillo.md): three Panhandle clubs, a book club panel, a quarterly safety check and the Amarillo strip, 1956–66.
 - [A Car Fixed the Way a Person Likes It (Cameron, Tex.)](cameron-accelerators.md): a club at Krenek's garage that gave the police its license numbers and was offered a farm for a strip, 1956–63.
 - ["Angels Behind the Wheel" (Montana)](montana-hoodoos-road-runners-royal-coachmen.md): Poplar's skull-emblem Hoodoos, Arlee's Road Runners, Ronan's Royal Coachmen and a trophy-winning family car, 1955–62.
-- [Three Tickets in Eighteen Months (Key West, Fla.)](key-west-rumbling-rods.md): the Upper Keys' NHRA club, Key West's Rumbling Rods and the Navy-and-civilian Island Hoppers keep asking for a strip, 1958–63.
+- [Three Tickets in Eighteen Months (Key West, Fla.)](key-west-rumbling-rods.md): the Upper Keys' NHRA club, Key West's Rumbling Rods and the Navy-and-civilian Island Hoppers keep asking for a strip, 1958–62.
 - [Ten for Ten at Biloxi (Pascagoula, Miss.)](pascagoula-timing-association.md): a timing association that met at the courthouse, a borrowed projector, trophies in three states and the Dauphin Island Dragway, 1961–63.
 
 **Rules, safety and public opinion**

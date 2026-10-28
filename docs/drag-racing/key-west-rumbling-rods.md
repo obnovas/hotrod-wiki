@@ -1,6 +1,6 @@
 ---
-title: 'Three Tickets in Eighteen Months: The Rumbling Rods and the Keys'' Missing Drag Strip (1958–63)'
-summary: From 1958 to 1963, Florida Keys hot rodders kept asking for a drag strip, and the Key West paper shows none built. An Upper Keys club organized under the NHRA in 1959, Key West's Rumbling Rods kept a near-spotless driving record and raced in Miami, and a Navy-and-civilian club fined members for cursing.
+title: 'Three Tickets in Eighteen Months: The Rumbling Rods and the Keys'' Missing Drag Strip (1958–62)'
+summary: From 1958 to 1962, Florida Keys hot rodders kept asking for a drag strip, and the Key West paper shows none built. An Upper Keys club organized under the NHRA in 1959, Key West's Rumbling Rods kept a near-spotless driving record and raced in Miami, and a Navy-and-civilian club fined members for cursing.
 department: drag-racing
 era: 1960s
 eras:
@@ -8,7 +8,7 @@ eras:
 - 1960s
 years:
 - 1958
-- 1963
+- 1962
 region: South
 states:
 - Florida
@@ -62,12 +62,12 @@ related:
 - places/regional-scenes.md
 canonical_for: []
 ---
-# Three Tickets in Eighteen Months: The Rumbling Rods and the Keys' Missing Drag Strip (1958–63)
+# Three Tickets in Eighteen Months: The Rumbling Rods and the Keys' Missing Drag Strip (1958–62)
 
 *The southernmost town in the Keys had hot rod clubs, club rules, a stock car track and letters to the editor, and every one of them asked for the same thing*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (one local daily, read as page OCR; club claims are the clubs' own, as the paper printed them) · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily (*The Key West Citizen*): Upper Keys community column, sports pages, county commission reports, police blotter, letters to the editor, 1958–63 · **Last verified:** 2026-10-28 (Round 25; quotes checked against the page OCR) · **Open issues:** the Vagabonds after 1959 ?; whether a Keys strip was ever built ? · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (one local daily, read as page OCR; club claims are the clubs' own, as the paper printed them) · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily (*The Key West Citizen*): Upper Keys community column, sports pages, county commission reports, police blotter, letters to the editor, 1958–62 · **Last verified:** 2026-10-28 (Round 25; quotes checked against the page OCR) · **Open issues:** the Vagabonds after 1959 ?; whether a Keys strip was ever built ? · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "This might drain off some of the city funds … but the profit to the city on a drag strip probably would triple any loss on traffic penalties."
@@ -108,11 +108,11 @@ That October another letter writer asked, "Why can't Key West have a drag strip?
 
 <a id="q-1" class="hr-q-anchor"></a>**Open question.** **Did the Upper Keys club get its strip, or its name?** The July 1959 columns promise a strip "in the near future" and a name pending NHRA approval.[^kw590719][^kw590722] We have not found a later story about the Vagabonds or a strip in the Upper Keys. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** **Did the Keys ever get a drag strip, and when?** Through 1963 the *Citizen* stories we read show clubs asking for one and racing in Miami or at the Stock Island oval instead.[^kw611001][^kw620824][^kw621016] The Chronicling America run we searched does not show us the answer for later years. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** **Did the Keys ever get a drag strip, and when?** Through 1962 the *Citizen* stories we read show clubs asking for one and racing in Miami or at the Stock Island oval instead.[^kw611001][^kw620824][^kw621016] The Chronicling America run we searched does not show us the answer for later years. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 
-The *Citizen* after 1963; the Upper Keys columns for late 1959 and 1960; NHRA club listings for "Vagabonds"; Miami papers on the Amelia Earhart Field drags, where the Keys clubs raced; memories of Key West families of Rumbling Rods and Island Hoppers members.
+The *Citizen* after 1962; the Upper Keys columns for late 1959 and 1960; NHRA club listings for "Vagabonds"; Miami papers on the Amelia Earhart Field drags, where the Keys clubs raced; memories of Key West families of Rumbling Rods and Island Hoppers members.
 
 ## Sources
 
