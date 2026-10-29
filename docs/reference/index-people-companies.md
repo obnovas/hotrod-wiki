@@ -225,7 +225,7 @@
 | Kustom Kemps of America (KKOA) | Wichita, 1980 | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | Kustom Kouriers Kar Club | Portsmouth, Ohio; formerly the Hot Rod Club; message couriers, 1956 | [Portsmouth](../drag-racing/portsmouth-kustom-kouriers.md) |
 | La Roque, Thomas J. | Applicant for a $250,000 drag strip near Cheltenham, Md., denied twice in 1963 | [Washington suburbs](../drag-racing/washington-suburbs-drag-strip-debate.md) |
-| Lackey, Earl & Karen | Part of the group that bought Polar Dragway in 1994; sole owners of Alaska Raceway Park from 1998 | [Palmer & Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md) |
+| Lackey, Earl & Karen | Owners in Top End, Inc. from 1994 or 1995 ⚠; sole owners of Alaska Raceway Park from 1998 | [Palmer & Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md) |
 | Lakewood Industries | Ohio chassis and steel bellhousing maker (Joe Schubeck) | [Lakewood Industries](../companies/lakewood-industries.md) |
 | Lambert, Robert | Iowa State College math professor; Ames Drag Strip steward | [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md) |
 | Lamona, Jim | ATAA co-founder | [Bob Bartel](../people/bob-bartel.md) |

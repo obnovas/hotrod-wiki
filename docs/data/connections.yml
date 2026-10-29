@@ -450,12 +450,12 @@ edges:
   - {from: arfons, to: aquasco, type: scene, label: "Art Arfons's jet Green Monster: 198 mph, May 1963", page: drag-racing/washington-suburbs-drag-strip-debate.md,
      evidence: ["Art Arfons of Akron brought his jet-powered"]}
   - {from: mdurham, to: aquasco, type: scene, label: "Raced his '56 Chevy at Aquasco", page: drag-racing/washington-suburbs-drag-strip-debate.md,
-     evidence: ["ran his '56 Chevy at Aquasco with success"]}
+     evidence: ["ran his '56 Chevy at Aquasco \"with great success\""]}
   - {from: ataa, to: aquasco, type: promotion, label: "Sanctioned Aquasco's quarter-mile drags, 1957", page: drag-racing/washington-suburbs-drag-strip-debate.md,
      evidence: ["staged quarter-mile drags under the Automobile Timing Association of America"]}
-  - {from: dcdragons, to: olddominion, type: promotion, label: "Sponsored the Eastern championships at Old Dominion, Nov. 1954", page: drag-racing/dc-dragons-jo-ann-johnson.md,
-     evidence: ["the Dragons sponsored a full day of drag races for the Eastern championships at Old Dominion Speedway"]}
-  - {from: ataa, to: dcdragons, type: promotion, label: "Sanctioned the Dragons' 1954 Eastern championships", page: drag-racing/dc-dragons-jo-ann-johnson.md,
+  - {from: dcdragons, to: olddominion, type: promotion, label: "Announced as sponsor of the Eastern championships at Old Dominion, Nov. 1954", page: drag-racing/dc-dragons-jo-ann-johnson.md,
+     evidence: ["the Dragons were to sponsor a full day of drag races for the Eastern championships, closing the season at Old Dominion Speedway"]}
+  - {from: ataa, to: dcdragons, type: promotion, label: "Sanction announced for the Dragons' 1954 Eastern championships", page: drag-racing/dc-dragons-jo-ann-johnson.md,
      evidence: ["under a sanction from the Automobile Timing Association of America"]}
   - {from: olddominion, to: nhra, type: scene, label: "Ran NHRA stock and sportsman classes, 1963", page: drag-racing/washington-suburbs-drag-strip-debate.md,
      evidence: ["as listed by the National Hot Rod Association"]}

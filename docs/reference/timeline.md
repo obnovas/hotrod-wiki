@@ -62,7 +62,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1954 | Mickey Thompson is "widely credited" with the slingshot dragster layout on his 1954 car; a Santa Ana hot rodder, LeRoy Neumayer, supplies the name (NHRA) | [Mickey Thompson](../companies/mickey-thompson.md) |
 | 1954 | Drag races at Scribner Air Base, Neb. (May 31); Scribner is on the NHRA Drag Safari's ten-stop tour | [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md) |
 | 1954 | Delaware State Police get permission to use unmarked cars at night against teen "hot rodders" who post spotters; the *Milford Chronicle* explains "drag strips" and "bumper tag" (Jul) | [Georgetown Speedway](../drag-racing/georgetown-speedway-delaware.md) |
-| 1954 | Old Dominion Speedway, Manassas, Va., opens a drag strip (May); the *Star* profiles Jo Ann Johnson, the first girl voted into the D.C. Dragons, after 45 minutes' debate (Jul); the Dragons stage Eastern championships at Old Dominion under ATAA sanction (Nov); two Holiday 88s drag up East Hartford's Main Street (May) | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md), [Washington suburbs](../drag-racing/washington-suburbs-drag-strip-debate.md), [Connecticut](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) |
+| 1954 | Old Dominion Speedway, Manassas, Va., opens a drag strip (May); the *Star* profiles Jo Ann Johnson, the first girl voted into the D.C. Dragons, after 45 minutes' debate (Jul); the Dragons announce Eastern championships at Old Dominion under ATAA sanction (Nov); two Holiday 88s drag up East Hartford's Main Street (May) | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md), [Washington suburbs](../drag-racing/washington-suburbs-drag-strip-debate.md), [Connecticut](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) |
 | 1955 | NHRA Safari meet at Halls, Tenn. (start of Halls drags 1953/55 ⚠) | [Memphis](../places/memphis.md) |
 | 1955 | NHRA's first national event at Great Bend, Kan. (Sept 29–Oct 2); finals finished in Arizona Nov 19–20 | [Great Bend](../drag-racing/great-bend-srca.md) |
 | 1955 | Escanaba Drag-n's sponsor a members-only road race "to test speed judgment" (May 22) | [Escanaba](../drag-racing/escanaba-dragns.md) |
@@ -288,7 +288,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1988 | Mickey Thompson and his wife Trudy are murdered at their Bradbury, Calif., home, March 16 | [Mickey Thompson](../companies/mickey-thompson.md) |
 | 1989 | First JEGS mail-order catalog (34,000 copies, per a 2015 trade feature) | [JEGS](../companies/jegs.md) |
 | 1990 | Modesto passes anti-cruising ordinances (Mar 27) | [Modesto](../places/modesto.md) |
-| 1994 | Lee Nelson sells Polar Dragway to a local group, incorporated as Top End, Inc. (Nov); renamed Alaska Raceway Park; the Lackeys become sole owners in 1998 | [Palmer](../drag-racing/palmer-alaska-polar-dragway.md) |
+| 1994 | Lee Nelson sells Polar Dragway to a group incorporated as Top End, Inc. (Nov); renamed Alaska Raceway Park; the Lackeys join in 1994 or 1995 ⚠ and become sole owners in 1998 | [Palmer](../drag-racing/palmer-alaska-polar-dragway.md) |
 | 1997 | LA County anti-cruising ordinance (2 passes in 6 hours) | [Whittier Blvd](../places/whittier-blvd.md) |
 | 1999 | JEGS opens its headquarters and distribution center at 1 Jegs Place, Delaware, Ohio | [JEGS](../companies/jegs.md) |
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../places/central-avenue-albuquerque.md) |

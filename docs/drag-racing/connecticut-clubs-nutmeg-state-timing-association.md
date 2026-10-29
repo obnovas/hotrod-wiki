@@ -73,7 +73,7 @@ canonical_for: []
 
 ## Holiday 88s on Main Street
 
-In May 1954 the *East Hartford Gazette* scolded "East Hartford's finest" for letting two Oldsmobiles drag up Main Street. The hot rod fever, the paper said, "has spread from owners of souped up Model Ts with twin pipes, superchargers and overdrives to owners of Holiday 88s." A green Holiday and a brand new robin's egg blue one had come off the toll gate jockeying for position and run north up Main Street side by side.[^ehg540506]
+In May 1954 the *East Hartford Gazette* scolded "East Hartford's finest" for letting two Oldsmobiles drag up Main Street. The hot rod fever, the paper said, "has spread from owners of souped up Model Ts with twin pipes, superchargers and overdrives to owners of Holiday 88s." A green Holiday and a brand new robin's egg blue one had come off the toll gate jockeying for position, then raced north up Main Street to the Town Hall.[^ehg540506]
 
 That was the reputation the clubs set out to live down. In November 1955 the Road Knights, "a well known teenage drivers group who take pride in keeping their hot rods in A-1 condition," held a benefit dance at the Sunset Ridge Clubhouse for two schoolmates who had polio. They did it, the *Gazette* said, "in an effort to bring credit to the oft-maligned hotrodders on the road." High school officials approved; tickets came from Sal Dignoti or at the door.[^ehg551117]
 
@@ -101,7 +101,7 @@ On June 1, 1961, the *Gazette* promoted the June issue of *Connecticut Life*, wh
 
 Even with a strip, the clubs were still explaining themselves. In December 1963 the newly organized Eliminators Auto Club of East Hartford wrote to the *Gazette* about "the true meaning of organized hot rodding." They thanked everyone who had bought a ticket in their gas raffle (20 gallons, won by William Hannon of 142 Country Lane) "without really understanding what the purpose of our club really was," and added: "We hope that in the future our club members will not be confused with the careless drivers with hopped up cars that overrun the streets of our town."[^ehg631205]
 
-The strip closed in 1979, reopened in 1980 as Connecticut International Raceway, and closed for good in the mid-1980s.[^ch14]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> In 1998 a state legislative analyst reported that Connecticut, which "had one of the first commercial drag racing facilities in the northeast," had no drag strip at all; its racers had moved on to New England Dragway in New Hampshire, Lebanon Valley in New York and Englishtown in New Jersey.[^olr98]
+The strip closed in 1979, reopened in 1980 as Connecticut International Raceway, and closed for good after the 1985 season,[^olr98][^ch14] though one 2013 report gives 1986.[^rdct13]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> In 1998 a state legislative analyst reported that Connecticut, which "had one of the first commercial drag racing facilities in the northeast," had no drag strip at all; its racers had moved on to New England Dragway in New Hampshire, Lebanon Valley in New York and Englishtown in New Jersey.[^olr98]
 
 ## Open questions & disputed details
 
