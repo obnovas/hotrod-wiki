@@ -45,13 +45,15 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Northeast overview.** [Midwest & East Threads](midwest-east.md).
 
-**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md).
+**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) · [Help Them Get a Drag Strip: Connecticut's clubs and the road to East Haddam](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md).
 
 **Pennsylvania.** [The Ridge Runners of Stroudsburg](../drag-racing/stroudsburg-ridge-runners.md) · [Where Could a Pocono Hot Rodder Race?](../drag-racing/pocono-strips.md) · [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md) · [Leonard Miller](../voices/leonard-miller.md) · [Hurst-Campbell](../companies/hurst-campbell.md).
 
 **New York, New Jersey and Delaware.** [The Kingston Igniters](../drag-racing/kingston-igniters.md) · ["Opinions Differ on Hot Rods" (Buffalo)](../drag-racing/new-york-towns-panel-1957.md) · [Tear Gas on the Runways (Pennsauken)](../drag-racing/pennsauken-central-airport-1958.md) · [The Recreation Directors' Drag Strip Debate](../drag-racing/recreation-1957-pro-and-con.md) · ["No Roll Bars Needed": Georgetown Speedway's drag strip (Del.)](../drag-racing/georgetown-speedway-delaware.md).
 
-**Maryland.** [The Clockers of Cumberland](../drag-racing/cumberland-clockers.md).
+**Maryland, Virginia and Washington, D.C.** [The Clockers of Cumberland](../drag-racing/cumberland-clockers.md) · [Jo Ann Johnson and the D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) · ["Our Name Is Mud": the Washington suburbs' drag strip argument, Old Dominion and Aquasco](../drag-racing/washington-suburbs-drag-strip-debate.md).
+
+**Kentucky.** [Seven Thousand on a Country Rock Road: Cedar Creek and Kentucky's hometown strips](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md).
 
 **North Carolina.** ["A Practice Murder Place": the drag strip argument, 1956–60](../drag-racing/north-carolina-drag-strip-debate-1956.md) · [Malcolm Durham](../people/malcolm-durham.md).
 

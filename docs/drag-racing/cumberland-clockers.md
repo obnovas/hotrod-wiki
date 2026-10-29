@@ -86,6 +86,8 @@ That summer the club moved again, to a room on Hampton Place, and found a second
 
 For the clubs across the state line in Adams County, Pa., see [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* down the Potomac, [the D.C. Dragons](dc-dragons-jo-ann-johnson.md) and [the Washington suburbs' drag strip argument](washington-suburbs-drag-strip-debate.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

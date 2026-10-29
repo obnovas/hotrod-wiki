@@ -23,6 +23,9 @@ cities:
 - Kodiak, Alaska
 people:
 - Louis Bencardino
+- Earl Lackey
+- Karen Lackey
+- Michelle Lackey Maynor
 - Lee Nelson
 - Charles Logsdon
 - Ernst Brown
@@ -41,6 +44,7 @@ people:
 - William Egan
 companies:
 - The Frontiersman (Palmer)
+- Top End, Inc.
 - Palmer Dragway, Sports and Recreation Center Enterprise, Inc.
 - Palmer Raceways, Inc.
 - Koslosky's Department Store
@@ -82,7 +86,7 @@ canonical_for: []
 *A Matanuska Valley weekly follows one small town's year of runway plans, rival sites, stock pledges and road races, and the private strip that opened in the trees the next summer*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (one local weekly, read week by week as page OCR, for 1958 and 1963; two later local stories and the track's history page for the 1964 opening and later owners) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weekly (*The Frontiersman*, Palmer, Alaska), 1958–63; Kenai, Fairbanks and Kodiak weeklies, 1958–63; the *Frontiersman*'s 2004 anniversary story and an *Alaska Dispatch News* story (2014) on the strip that opened in 1964 · **Last verified:** 2026-10-28 (Round 25; quotes checked against the page OCR) · **Open issues:** one club or two ?; the Tanacross meet ◐; the same Lee Nelson ?; what became of Palmer Raceways ?; who bought the strip, 1994 or 1998 ⚠ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (one local weekly, read week by week as page OCR, for 1958 and 1963; two later local stories and the track's history page for the 1964 opening and later owners) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weekly (*The Frontiersman*, Palmer, Alaska), 1958–63; Kenai, Fairbanks and Kodiak weeklies, 1958–63; the *Frontiersman*'s 2004 and 2024 anniversary stories and an *Alaska Dispatch News* story (2014) on the strip that opened in 1964 · **Last verified:** 2026-10-29 (Round 26: the 1994 sale settled by the *Frontiersman*'s 2024 anniversary story; earlier quotes checked against the page OCR in Round 25) · **Open issues:** one club or two ?; the Tanacross meet ◐; the same Lee Nelson ?; what became of Palmer Raceways ? · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We're going to have a dragstrip!"
@@ -127,7 +131,7 @@ Palmer was not the only Alaska town where young drivers wanted a strip. In Janua
 
 ## Polar Dragway (1964)
 
-The strip Alaska got first was the private one. In 1963, the *Frontiersman* wrote forty years later, Lee Nelson "found a plot of land in a forest just outside Palmer," leased it from the Bureau of Land Management, and by the end of the summer of 1964 had a quarter-mile strip "among the trees." Originally called Polar Dragway, it opened on Labor Day weekend 1964, with more than 500 fans and Governor William A. Egan cutting the ribbon.[^fr040907]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> A woman who rode in the grader as a girl while her father leveled the land "north of the Knik River" remembered the doubters in 2014: "Everybody thought he must have a whole lot of money to waste."[^adn140817] The Nelsons owned it for 30 years.[^adn140817] The track's own history says Lee Nelson sold the racing operation in November 1994 to a group of local owners who renamed it Alaska Raceway Park, and that Earl and Karen Lackey bought out the others in the fall of 1998; the *Frontiersman*'s 2004 story has Nelson selling to Earl Lackey in 1998.[^raceak][^fr040907]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see the bottom of the page">⚠</a></sup> It is still running, as Alaska Raceway Park.[^raceak]
+The strip Alaska got first was the private one. In 1963, the *Frontiersman* wrote forty years later, Lee Nelson "found a plot of land in a forest just outside Palmer," leased it from the Bureau of Land Management, and by the end of the summer of 1964 had a quarter-mile strip "among the trees." Originally called Polar Dragway, it opened on Labor Day weekend 1964, with more than 500 fans and Governor William A. Egan cutting the ribbon.[^fr040907]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> A woman who rode in the grader as a girl while her father leveled the land "north of the Knik River" remembered the doubters in 2014: "Everybody thought he must have a whole lot of money to waste."[^adn140817] The Nelsons owned it for 30 years.[^adn140817] Over those years it went by Polar Dragway, Thunder Valley Raceway, Valley Raceway, Big Valley Raceway and Polar Raceway.[^fr240712] In November 1994 a group of local racers bought the racing operation from Lee Nelson and incorporated as Top End, Inc.; the *Frontiersman* names them as Earl and Karen Lackey, Jack (Randy) Harris, Louie Kirk, John Childs, Jerry Schreiner, Gregg Gunnarson and Kristen Kinn, and the strip became Alaska Raceway Park.[^raceak][^fr240712] "It needed to change hands and it needed to get back into shape," Earl Lackey said in 2024. The Lackeys bought the other owners' stock and became sole owners in 1998,[^fr240712][^raceak] the year the paper's 2004 anniversary story gave as the sale from Nelson to Lackey.[^fr040907] It is still running, run today by the Lackeys' daughter, Michelle Lackey Maynor, as "a multi-faceted racing complex" with "a NHRA drag strip and NASCAR oval track"; the oval was added in 2016.[^fr240712]
 
 ## Open questions & disputed details
 
@@ -140,8 +144,6 @@ The strip Alaska got first was the private one. In 1963, the *Frontiersman* wrot
 <a id="q-3" class="hr-q-anchor"></a>**Open question.** **Is the Lee Nelson of the Knik River plan the Lee Nelson of Polar Dragway?** The 1963 paper names "Lee Nelson of Anchorage" as the developer of a private strip on the Valley side of the Knik River bridge, and in July a "private drag strip to be built near the Knik River Bridge."[^fr630328][^fr630711] The 2004 and 2014 stories say Lee Nelson found the land in 1963 and leveled it north of the Knik River.[^fr040907][^adn140817] The names, year and place match, but no source we read says in so many words that the 1963 proposal became Polar Dragway. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Open question.** **What became of Palmer Raceways, Inc.?** The last report we have is the December 1963 pledge total of $38,000; stock subscriptions were payable "on or before March 20, 1964."[^fr631024][^fr631212] The Chronicling America run of the *Frontiersman* we could search ends in 1963, so we do not know whether any of the raceway was built. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
-
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Who bought Polar Dragway from Lee Nelson, and when?** Alaska Raceway Park's history page: "In November 1994, the racing operation was purchased from Lee Nelson and incorporated as Top End, Inc.," and "In Fall 1998, Earl and Karen Lackey bought the corporate stock from the other owners."[^raceak] The 2004 *Frontiersman*: Nelson "owned and operated the track off and on until selling Alaska Raceway Park to its current owner, Earl Lackey, in 1998."[^fr040907] The 2014 story's "30 years" fits 1994.[^adn140817] The same history page also says "Earl Lackey purchased Jerry Schreiner's shares in 1995,"[^raceak] which may partly reconcile the dates: Lackey could have been a part-owner from 1995 and bought out the rest in 1998. But the 2004 story still has Nelson, not Top End's owners, selling in 1998, and neither source says Nelson kept an interest after 1994. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ### Next leads
 
@@ -172,4 +174,5 @@ The *Frontiersman* and the *Anchorage Daily Times* for 1964 (the raceway stock d
 [^km580517]: "2 Boys Arrested On Racing Charge," *Kodiak Mirror* (Kodiak, Alaska), May 17, 1958, p. 4. Page OCR. https://www.loc.gov/resource/sn83045298/1958-05-17/ed-1/?sp=4&st=text (accessed 2026-10-28)
 [^fr040907]: Jeremiah Bartz, "Forty fast years," *The Frontiersman* (Wasilla, Alaska), Sept. 7, 2004. https://www.frontiersman.com/forty-fast-years/ (accessed 2026-10-28)
 [^adn140817]: Marc Lester, "At 50, Alaska Raceway Park Still Has Tires Burning and Hearts Pumping," *Alaska Dispatch News*, reposted by the track on MyRacePass, Aug. 17, 2014. https://www.myracepass.com/tracks/3409/news/2014/article/36555/at-50-alaska-raceway-park-still-has-tires-burning-and-hearts-pumping-alaska-dispatch-news (accessed 2026-10-28)
+[^fr240712]: Jacob Mann, "Alaska Raceway Park celebrating 60 years of family friendly racing," *The Frontiersman* (Wasilla, Alaska), July 12, 2024. https://www.frontiersman.com/alaska-raceway-park-celebrating-60-years-of-family-friendly-racing/ (accessed 2026-10-29)
 [^raceak]: "History," Alaska Raceway Park (track website). https://www.raceak.com/history/ (accessed 2026-10-28)

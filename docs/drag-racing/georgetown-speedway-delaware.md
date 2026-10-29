@@ -58,7 +58,7 @@ canonical_for: []
 *A downstate Delaware drag strip that began as a straightaway bolted onto a stock car track, open on Sunday mornings to anyone with a license and the family car*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (two small-town weeklies, read as page OCR; most of what we know is the track's own announcements and ads, as the papers printed them) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weeklies (*Milford Chronicle*, Milford, Del.; *Smyrna Times*, Smyrna, Del.): racing columns, track ads, a state police report, Lions Club minutes, neighborhood columns, 1954–63 · **Last verified:** 2026-10-28 (Round 25; quotes checked against the page OCR) · **Open issues:** what happened between 1957 and 1961 ?; the strip's length changed ? · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (two small-town weeklies, read as page OCR; most of what we know is the track's own announcements and ads, as the papers printed them) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weeklies (*Milford Chronicle*, Milford, Del.; *Smyrna Times*, Smyrna, Del.): racing columns, track ads, a state police report, Lions Club minutes, neighborhood columns, 1954–63 · **Last verified:** 2026-10-29 (Round 26 added the 1963 Friday-night drags; quotes checked against the page OCR) · **Open issues:** what happened between 1957 and 1961 ?; the strip's length changed ?; eighth or quarter mile in 1963 ⚠ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Bring your pleasure car—no roll bars needed."
@@ -87,6 +87,10 @@ In May 1962 Georgetown was back in the drag business, on a shorter strip. Track 
 
 All that summer the speedway's weekly ad closed with the same line: "DRAG RACING EVERY SUNDAY AFTERNOON."[^mc620601] In September the Delmarva Timing Association announced it would "continue to present Drag racing every Sunday weather permitting, all year long."[^mc620907] In April 1963 the association took over the speedway again for drags "on the 1/8th-mile Drag Strip," and by June it was running every Sunday afternoon on "the one-eighth mile asphalt strip," registration at 11 and eliminations at 2.[^mc630426][^mc630607]
 
+## Under the arc lights (summer 1963)
+
+By August 1963 the Delaware Racing Club, which promoted the speedway, had moved its stock car nights from Friday to Wednesday. The drags took the empty night. "The vacated Friday night spot has been taken up by the Delmarva Timing Association," the *Chronicle* reported in August. "Drags will operate under the arc lights every Friday night." Registration opened at 5 p.m. and eliminations started at 8, and the paper called it "the only one of its kind operating on Delmarva," though it now described it as a quarter-mile strip.[^mc630802]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup>
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
@@ -94,6 +98,8 @@ All that summer the speedway's weekly ad closed with the same line: "DRAG RACING
 <a id="q-1" class="hr-q-anchor"></a>**Open question.** **What happened to the Georgetown strip between 1957 and 1961, and to the Smyrna plan?** The papers we searched show the quarter-mile strip in the fall of 1956 and the eighth-mile "debut" in May 1962, but not the years between; nor did we find the Smyrna Lions' project after December 1959.[^st561004][^mc620518][^st591217] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **Why did the strip change from a quarter mile to an eighth?** The 1956 notices describe a quarter-mile strip of 1,440 feet off turn four; the 1962–63 notices describe an eighth-mile strip.[^mc560615][^mc620518][^mc630607] Neither paper says why, or whether the 1962 strip was the old one shortened or a new one. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Was the 1963 strip an eighth mile or a quarter?** In June 1963 the Georgetown column describes "the one-eighth mile asphalt strip";[^mc630607] in August the same paper's column on the Friday-night drags says "The quarter mile strip is the only one of its kind operating on Delmarva."[^mc630802] The strip may have been lengthened that summer, or one of the notices may be wrong. This bears on the quarter-to-eighth question above. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ### Next leads
 
@@ -120,3 +126,4 @@ The *Delaware Coast Press* and Georgetown's *Sussex Countian* for 1956–62; the
 [^mc620907]: Georgetown Speedway column, *Milford Chronicle*, Sept. 7, 1962, p. 10. Page OCR. https://www.loc.gov/resource/sn87062224/1962-09-07/ed-1/?sp=10&st=text (accessed 2026-10-28)
 [^mc630426]: Georgetown Speedway column, *Milford Chronicle*, Apr. 26, 1963, p. 5. Page OCR. https://www.loc.gov/resource/sn87062224/1963-04-26/ed-1/?sp=5&st=text (accessed 2026-10-28)
 [^mc630607]: Georgetown Speedway column, *Milford Chronicle*, June 7, 1963, p. 7. Page OCR. https://www.loc.gov/resource/sn87062224/1963-06-07/ed-1/?sp=7&st=text (accessed 2026-10-28)
+[^mc630802]: "Al Tasnady Wins Georgetown Race" (continued from page 1), *Milford Chronicle*, Aug. 2, 1963, p. 7. Page OCR. https://www.loc.gov/resource/sn87062224/1963-08-02/ed-1/?sp=7&st=text (accessed 2026-10-29)

@@ -1039,3 +1039,49 @@ highlights:
     added: '2026-10-28'
     eras: ["1960s"]
     regions: ["Pascagoula, Miss."]
+
+  - id: dc-dragons-first-girl-1954
+    headline: 'Forty-five minutes in the kitchen: the first girl voted into the D.C. Dragons'
+    teaser: The Washington club met in the Bethesda police station and fined members the price of their
+      own speeding tickets. When Jo Ann Johnson asked to join, the members debated 45 minutes while
+      she waited in the kitchen, chewing her nails, the Evening Star reported in 1954.
+    link: drag-racing/dc-dragons-jo-ann-johnson.md
+    evidence: [debated 45 minutes before voting her in, was the first girl voted into a local hot-rod club]
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-10-29'
+    eras: [1950s]
+    regions: ['Bethesda, Md.']
+
+  - id: cedar-creek-sheriff-1956
+    headline: '"I see you are not in Bullitt County. See you next week."'
+    teaser: When some boys built a drag strip on a Louisville printer's new farm, the sheriff told him he
+      would arrest him if he found him in the county. So on race Sundays the printer stayed across the line,
+      and the sheriff came by to say so.
+    link: drag-racing/cedar-creek-bullitt-dragway-kentucky.md
+    evidence: I see you are not in Bullitt County. See you next week.
+    source_type: Local history site
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-29'
+    eras: [1950s]
+    regions: ['Bullitt County, Ky.']
+
+  - id: connecticut-neighboring-states-1959
+    headline: '"We are forced to go to neighboring states": Connecticut hot rodders ask for a strip'
+    teaser: In 1959 Newington's Ringbusters, who handed out Halloween cider in front of Town Hall, told
+      their weekly that Connecticut racers had to leave the state to race legally, and asked the town to
+      help them get a drag strip.
+    link: drag-racing/connecticut-clubs-nutmeg-state-timing-association.md
+    evidence: [we are forced to go to neighboring states in order to compete in this activity, Help them
+        get a drag strip in Connecticut]
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-10-29'
+    eras: [1950s]
+    regions: ['Newington, Conn.']

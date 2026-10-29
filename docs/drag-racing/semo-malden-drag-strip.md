@@ -102,6 +102,8 @@ Malden fits the pattern of the old-airfield strips: a town that suddenly owned a
 
 *See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md) and, in southwest Arkansas, [the Hope Drag Strip on the municipal airport](hope-airport-drag-strip.md).
 
+*See also:* across the Ohio River, [Cedar Creek and Kentucky's hometown strips](cedar-creek-bullitt-dragway-kentucky.md), from Bowling Green to Owensboro.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

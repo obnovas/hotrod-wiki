@@ -90,6 +90,8 @@ The strip outlasted most of its 1960s neighbors. In 2007 *Mundo Hispánico* prof
 
 In March 2017 a reader called the Dalton paper's call-in column: "I'm interested to know if anyone in the surrounding areas ever raced at Paradise Drag Strip in Calhoun in the late '60s and early '70s. I'm wanting to know if anyone had any pictures of races during those days. My husband, Leon Welch, used to race down there."[^dc170325]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* another Southern Sunday strip of the same years, [Cedar Creek in Bullitt County, Ky.](cedar-creek-bullitt-dragway-kentucky.md)
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

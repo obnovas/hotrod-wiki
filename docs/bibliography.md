@@ -505,3 +505,20 @@ Tags as above. All the newspapers below are page OCR from Chronicling America (L
 - [local] *Milford Chronicle* (Milford, Del.) and *Smyrna Times* (Smyrna, Del.): Georgetown Speedway drag strip, Delmarva Timing Association, state police and Lions Club items, July 16, 1954 – June 7, 1963 (19 items). https://www.loc.gov/item/sn87062224/ · https://www.loc.gov/item/sn84020422/
 - [local] *Chapel Hill Weekly* (Chapel Hill, N.C.), July 10, July 31 and Nov 16, 1956, Dec 8, 1960; *The Coastland Times* (Manteo, N.C.), Aug 24, 1956, July 5, 1957; *Tabor City Tribune* (Tabor City, N.C.), Aug 8, 1956, Apr 17, 1957. https://www.loc.gov/item/sn92073229/ · https://www.loc.gov/item/sn99061530/ · https://www.loc.gov/item/sn91068761/
 - [local] *The Chronicle-Star and Moss Point Advertiser* (Pascagoula, Miss.), May 5, June 30, July 28 and Aug 4, 1961; *The Chronicle* (Pascagoula), Nov 14–15, 1963. https://www.loc.gov/item/sn87065530/ · https://www.loc.gov/item/sn87065526/
+
+## Added in Round 26 (accessed 2026-10-29)
+Tags as above. The newspapers are page OCR from Chronicling America (Library of Congress), cited page by page in each article. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] *East Hartford Gazette* (East Hartford, Conn.): Holiday 88s on Main Street, the Road Knights' polio dance, the 1958 Autorama, the Carps at Avon, a councilman's strip proposal, *Connecticut Life*'s East Haddam pictures and the Eliminators' letter, May 6, 1954 – Dec. 5, 1963 (8 items). https://www.loc.gov/item/sn85009852/
+- [local] *The Newington Citizen* (Newington, Conn.), Nov. 6, 1958, Jan. 22 and Mar. 5, 1959 (the Ringbusters, Inga Dennis and the Nutmeg State Timing Association); *The Town Crier* (Newington), Feb. 3, 1960, May 10, 1961, Nov. 14, 1962. https://www.loc.gov/item/sn92051486/ · https://www.loc.gov/item/sn92051499/
+- [local] *Evening Star* and *Sunday Star* (Washington, D.C.): Teen Scene columns, the 1954 Pictorial Magazine feature on Jo Ann Johnson and the D.C. Dragons, Prince Georges hearings, the 1956 editorial and letters, Old Dominion and Aquasco notices, the 1963 Cheltenham denials, May 4, 1952 – May 29, 1963 (33 issues). https://www.loc.gov/item/sn83045462/
+- [local] *Milford Chronicle* (Milford, Del.), Aug. 2, 1963, p. 7 (Friday-night drags at Georgetown). https://www.loc.gov/item/sn87062224/
+- [local] David Strange, "Drag Racing at Cedar Creek," Bullitt County History Museum (from *The Courier-Journal*, Aug. 22, 2012). https://bullittcountyhistory.org/memories/dragrace.html
+- [oral] "Kentucky Drag Strips: Remembering . . .," Drag Strip List (racers' posted memories). https://dragstriplist.com/ky
+- [ref] James J. Fazzalaro, "Drag Racing in Connecticut," Connecticut General Assembly, Office of Legislative Research, report 98-R-0009, Jan. 26, 1998. https://cga.ct.gov/PS98/rpt%5Colr%5Chtm/98-R-0009.htm
+- [museum] New England Auto Racers, "Frank Maratta Award." https://newenglandautoracers.com/frank-maratta-award/
+- [forum] The H.A.M.B., "CT Dragway before it was," June 1–3, 2020. https://www.jalopyjournal.com/forum/threads/ct-dragway-before-it-was.1195668/
+- [mag] Scotty Lachenauer, "Historic 1930 Ford Model A Gasser Helped Establish Drag Racing in New England," *Hot Rod*, Feb. 4, 2019. https://www.hotrod.com/features/historic-1930-ford-model-gasser-helped-establish-drag-racing-new-england
+- [mag] Paul Wolfer, "Event Coverage: 23rd Annual Connecticut Dragway Reunion," Chevy Hardcore, July 29, 2014. https://www.chevyhardcore.com/event-coverage/event-coverage-23rd-annual-connecticut-dragway-reunion/
+- [mag] Shawn Courchesne, "Local Race Promoter Readying Plans For Building Drag Racing Facility In Windham," RaceDayCT, Oct. 31, 2013. https://racedayct.com/2013/10/local-race-promoter-readying-plans-for-drag-racing-facility-in-windham/
+- [local] Jacob Mann, "Alaska Raceway Park celebrating 60 years of family friendly racing," *The Frontiersman*, July 12, 2024. https://www.frontiersman.com/alaska-raceway-park-celebrating-60-years-of-family-friendly-racing/

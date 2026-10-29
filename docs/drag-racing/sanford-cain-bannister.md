@@ -104,6 +104,8 @@ Fran Bannister worked for Fred Cain for many years and retired to Georgia. In 19
 
 For a runway fight that went the other way, see [Tear Gas on the Runways (Pennsauken, N.J.)](pennsauken-central-airport-1958.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* Connecticut, whose racers had only out-of-state airfield strips such as Sanford until 1961: [Help Them Get a Drag Strip (Connecticut)](connecticut-clubs-nutmeg-state-timing-association.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
