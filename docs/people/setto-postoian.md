@@ -101,7 +101,7 @@ It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Postoian run Isky cams?** Iskenderian says so in a 2017 book we saw only as a search excerpt; we quote only the words the excerpt shows.[^isky] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **When and where did M&H's first slick tests run?** The book, another lending-library excerpt, names Garlits and Postoian but gives no year, and the place ("Chester") is cut off.[^mh] One candidate is the [Chester Drag Strip](../drag-racing/chester-drag-strip-south-carolina.md) in South Carolina, where both men were entered in the International Drag Races of November 1957 and where a 1958 photograph shows them with the promoter, Bob Osiecki; nothing we have read ties the tire tests to it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **When and where did M&H's first slick tests run?** The book, another lending-library excerpt, names Garlits and Postoian but gives no year, and the place ("Chester") is cut off.[^mh] One candidate is the [Chester Drag Strip](../drag-racing/chester-drag-strip-south-carolina.md) in South Carolina, where Postoian was entered in the International Drag Races of November 1957 and a photograph labeled 1958 shows him; Garlits raced at Chester in those years, but his entry in the 1957 International is unverified. Nothing we have read ties the tire tests to Chester. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Which engine?** The Hall of Fame says he won in 1957 and 1958 "after switching to a 392 cubic inch Chrysler."[^mm] BangShift describes the car that beat Garlits as an "unblown, carbureted 359-inch 354 Chrysler Hemi-powered nitro dragster."[^bs] The 1958 Dixon paper says only "Chrysler-powered belly-tank dragster." And which years? Read literally in June 1958, "the last two years" means 1956 and 1957, while the 1964 story, the Hall of Fame and BangShift all say 1957 and 1958. The first three World Series were held at Lawrenceville, Ill., per the 1964 story.[^dx580628][^dx640813] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
@@ -109,7 +109,7 @@ It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and
 
 <a id="q-6" class="hr-q-anchor"></a>**Disputed.** **How big was the 1957 field?** The 1958 preview said "more than 400 competing machines and upwards of 20,000 spectators"; the 1964 story says "slightly more than 300 machines."[^dx580628][^dx640813] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>
+<a id="q-7" class="hr-q-anchor"></a>**Open question.** **What did the 1959 "swamp rat" ad actually say?** We know it only from Autoweek's account that Postoian "placed an ad in Drag News calling Garlits 'a swamp rat.'"[^aw] We have not seen the ad itself, its date or its exact wording. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
 ### Next leads
 
@@ -120,7 +120,7 @@ The *Dixon Evening Telegraph* and Moline *Dispatch* for August 1957 and 1958 res
 [^mm]: Michigan Motor Sports Hall of Fame, "Serop 'Setto' Postoian." https://www.mmshof.org/index.php/inductees/inductees/326-serop-setto-postoian (accessed 2026-10-13)
 [^aw]: Autoweek, "Swamp Rat Is a One-of-a-Kind Drag-Racing Treasure." https://www.autoweek.com/racing/nhra/a30456374/swamp-rat-is-a-one-of-a-kind-drag-racing-treasure/ (accessed 2026-10-13)
 [^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/ (read 2026-10-22) (accessed 2026-10-13)
-[^nhra]: NHRA, "Two legends: 'Big' and Bakersfield" (2025, search excerpt). https://nhra.sport/news/2025/two-legends-big-and-bakersfield
+[^nhra]: Phil Burgess, "Two legends: 'Big' and Bakersfield," NHRA (nhra.sport), 2025. https://nhra.sport/news/2025/two-legends-big-and-bakersfield (accessed 2026-10-30)
 [^cc5910]: "Controversial 'King of the Drags'" (Don Garlits profile), *Car Craft*, Oct. 1959. Scanned OCR. https://archive.org/details/sim_car-craft_1959-10_7_6 (accessed 2026-10-22)
 [^dx580628]: National Drag Racing Series preview, *Dixon Evening Telegraph* (Dixon, Ill.), June 28, 1958. Page OCR. https://archive.org/details/dixon-evening-telegraph-1958-06-28 (accessed 2026-10-22)
 [^dx640813]: World Series of drag racing preview, *Dixon Evening Telegraph*, Aug. 13, 1964. Page OCR. https://archive.org/details/dixon-evening-telegraph-1964-08-13 (accessed 2026-10-22)

@@ -1,6 +1,6 @@
 ---
 title: '"No Hot Rods, Please!": The Virgin Islands Talk Back to the Hot Rod (1936–63)'
-summary: The U.S. Virgin Islands had hill roads, no drag strip and, by 1960, a newspaper that wanted the hot rod outlawed. The island papers recorded a "Lover Boy" hot rod hitting a commissioner's car, a home-built racer flown to Puerto Rico for $50 and a neighbor's offer to watch the nightly highway races from his porch.
+summary: How the U.S. Virgin Islands, with hill roads and no drag strip, argued over the hot rod. A 1960 paper wanted it outlawed; the papers also recorded a "Lover Boy" hot rod hitting a commissioner's car, a home-built racer flown to Puerto Rico for $50 and a neighbor's offer to watch the highway races from his porch.
 department: drag-racing
 era: 1960s
 eras:
@@ -10,7 +10,7 @@ eras:
 years:
 - 1936
 - 1963
-region: South
+region: National
 states:
 - U.S. Virgin Islands
 - Puerto Rico
@@ -70,7 +70,7 @@ canonical_for: []
 
     — Editorial, *The St. Croix Avis*, March 7, 1960.[^avis60b]
 
-The hot rod reached the Virgin Islands first as a picture. The movie houses ran Hollywood's teenage hot rod pictures: *Hot Rod Girl* in Frederiksted in December 1957 and at the Christiansted Theatre in 1959, *Drag Strip Girl* in 1958, *Hot Rod Rumble* in 1959 and *Hot Rod Gang* ("Crazy Kids living to a wild rock'n Roll Beat") in 1960.[^avisfilms] The *Avis* had printed a story on a national survey in 1954 assuring readers that most licensed teenagers were "definitely opposed to 'hot-rodding' on regular highways."[^avis54]
+This is a story about rules and public opinion more than about cars: how a territory with no drag strip argued, in its newspapers and its traffic court, over whether the hot rod belonged there at all. The hot rod reached the Virgin Islands first as a picture. The movie houses ran Hollywood's teenage hot rod pictures: *Hot Rod Girl* in Frederiksted in December 1957 and at the Christiansted Theatre in 1959, *Drag Strip Girl* in 1958, *Hot Rod Rumble* in 1959 and *Hot Rod Gang* ("Crazy Kids living to a wild rock'n Roll Beat") in 1960.[^avisfilms] The *Avis* had printed a story on a national survey in 1954 assuring readers that most licensed teenagers were "definitely opposed to 'hot-rodding' on regular highways."[^avis54]
 
 ## "Lover Boy" meets the commissioner
 
@@ -80,15 +80,15 @@ A month later the *Avis* gave its verdict. The hot rod, it explained, "is an aut
 
 ## The other side of the ledger
 
-Not everyone agreed. In Frederiksted's New Year's parade of 1961, the *West End News* reported, "Meg Gordon's Hot Rod Group" joined Uncle Sam's Troupe and the Trojans Steel Band in rounding out the parade.[^wen61]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Not every mention was a complaint. In Frederiksted's New Year's parade of 1961, the *West End News* reported, one of the troupes was "Meg Gordon's Hot Rod Group," which joined Uncle Sam's Troupe and the Trojans Steel Band in rounding out the parade.[^wen61]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-And some islanders built race cars anyway. In 1962 Page Winter, a local builder, and three friends put together a "Sprite Special" in about five weeks and flew it to Puerto Rico on Southern Air "at a cost of $50.00" for the Grand Prix de Puerto Rico at the Antilles Auto Racing Circuit in Caguas. It qualified as a Class II modified racer and was running well in practice when its transmission blew. "There was a complete lack of time and money," said the team manager, Rudy Thompson; island racing fans had already held a Halloween benefit at the Coffee House that raised $120. The team planned to try again in December.[^dn62a]
+And some islanders built race cars anyway. In 1962 Page Winter, a local builder, and three friends put together a "Sprite Special" in about five weeks and flew it to Puerto Rico on Southern Air "at a cost of $50.00" for the Grand Prix de Puerto Rico at the Antilles Auto Racing Circuit in Caguas. It qualified as a Class II modified racer and was running well in practice when its transmission blew. "There was a complete lack of time and money," said the team manager, Rudy Thompson; island racing fans had already held a Halloween benefit at the Coffee House that raised $130. The team planned to try again in December.[^dn62a]
 
 ## "The Harwood Highway Race Track is open 24 hours a day"
 
 The racing the papers worried about happened on public roads. In December 1962 a judge heard a suspected case of "drag racing," "an offense not too common on the island," the *Daily News* said; the evidence did not support the charge, and the three men were fined $20 and $25 for speeding instead.[^dn62b] The next summer the paper's history columnist, John Brennessy, reminded readers that it was nothing new: a 1936 editorial had complained about "irresponsible boys who delight to race insanely in fragments of cars."[^dn63a]
 
-The most vivid account came in October 1963, after a Sunday-night accident on the Harwood Highway. Joseph Vogel, who signed himself "Mgr. Sports Dept.," wrote to Commissioner Otis Felix that his neighbors had expected such an accident for months, and offered the commissioner a seat on his porch. "We have a full race program," he wrote: "drag races from the sub-base stop light, and then we really get to the main event by racing almost three abreast over the hill by Lucy's Market." His sign-off: "the Harwood Highway Race Track is open 24 hours a day."[^dn63b]
+The most vivid account came in October 1963, after a Sunday-night accident on the Harwood Highway. Joseph Vogel, who signed himself "Mgr. Sports Dept.," wrote to Commissioner Otis Felix that his neighbors had expected such an accident for months, and offered the commissioner a seat on his porch. "In fact, we have a full race program," he wrote. Then, in case the commissioner was interested, he laid it out: "Well, we have drag races from the sub-base stop light, and then we really get to the main event by racing almost three abreast over the hill by Lucy's Market." His sign-off: "the Harwood Highway Race Track is open 24 hours a day."[^dn63b]
 
 ## Open questions & disputed details
 

@@ -100,7 +100,7 @@ By the summer of 1962 there was a second club in town, and it was built on an un
 
 That October another letter writer asked, "Why can't Key West have a drag strip?" He had gone to see a man with a plot of land "that is ideal for a drag strip," a very prominent citizen. "He just laughed."[^kw621016]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-*See also:* the same years along the Gulf Coast, where [the Pascagoula Timing Association](pascagoula-timing-association.md) swept trophies at Mobile, Pensacola and Biloxi, and at the opposite corner of the map, [Palmer, Alaska's hunt for a strip](palmer-alaska-polar-dragway.md).
+*See also:* the same years along the Gulf Coast, where [the Pascagoula Timing Association](pascagoula-timing-association.md) swept trophies at Mobile, Pensacola and Biloxi, and at the opposite corner of the map, [Palmer, Alaska's hunt for a strip](palmer-alaska-polar-dragway.md). Farther out in the Caribbean, where there was no strip to hope for, the U.S. Virgin Islands' papers argued over whether the hot rod belonged on island roads at all: see ["No Hot Rods, Please!"](virgin-islands-no-hot-rods.md).
 
 ## Open questions & disputed details
 

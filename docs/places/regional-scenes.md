@@ -57,7 +57,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **North Carolina.** ["A Practice Murder Place": the drag strip argument, 1956–60](../drag-racing/north-carolina-drag-strip-debate-1956.md) · [Malcolm Durham](../people/malcolm-durham.md).
 
-**South Carolina.** [Twice as Wide as Anywhere: Chester Drag Strip and the International Timing Association](../drag-racing/chester-drag-strip-south-carolina.md).
+**South Carolina.** [Twice as Wide as zMAX: Chester Drag Strip and the International Timing Association](../drag-racing/chester-drag-strip-south-carolina.md).
 
 **Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [Saturday Nights at Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md) · [Easter at Paradise: the Paradise Drag Strip (Calhoun)](../drag-racing/paradise-drag-strip-calhoun.md).
 

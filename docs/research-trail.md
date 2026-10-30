@@ -34,7 +34,7 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 ## Log, Round 27 (South Carolina, Nevada, South Dakota, the U.S. Virgin Islands and Columbus's weeklies; 2026-10-30)
 - **Scope:** three of the thin states (South Carolina, Nevada and South Dakota, each a first full article), a U.S. territory the site had never covered, and a Midwest city's neighborhood papers. Chronicling America still has little after 1945 for the thin states, so those three pages rest on racers' own posts, a hometown paper's retrospective, a club's own history pages and local broadcast stories; the Virgin Islands and Columbus pages are contemporary town papers read as page OCR.
 - **New articles (5, all grassroots):**
-    - South Carolina: [Twice as Wide as Anywhere: Chester Drag Strip and the International Timing Association](drag-racing/chester-drag-strip-south-carolina.md) (Strips, 1956–60).
+    - South Carolina: [Twice as Wide as zMAX: Chester Drag Strip and the International Timing Association](drag-racing/chester-drag-strip-south-carolina.md) (Strips, 1956–60).
     - Nevada: [Sand on the Track: Las Vegas, Henderson and Southern Nevada's Eight Drag Strips](drag-racing/las-vegas-henderson-drag-strips.md) (Strips, 1953–2000).
     - South Dakota: [Huskies, a Coke Freeze and the Loop: Sioux Falls Hot Rodders and South Dakota's Clubs](drag-racing/sioux-falls-south-dakota-clubs.md) (Clubs and timing associations, 1950–71, with a 2024 coda).
     - U.S. Virgin Islands: ["No Hot Rods, Please!": The Virgin Islands Talk Back to the Hot Rod](drag-racing/virgin-islands-no-hot-rods.md) (Rules, safety and public opinion, 1936–63).

@@ -1,6 +1,6 @@
 ---
 title: 'Who Says Hot Rods Are for Kids? Columbus''s Trotters, High Winders and the Neighborhood Weeklies (1955–63)'
-summary: Columbus's neighborhood weeklies watched hot rodding grow up, from a ten-year-old's $35 lawnmower-engined car in 1955 to the Trotters Hot Rod Club's Trott-A-Rama, which drew 20,000 to the Fairgrounds. A Hilltop club president walked into the paper to explain his club, and a suburb fined kids who raced in shopping-center lots.
+summary: Columbus's neighborhood weeklies watched hot rodding grow up, from a ten-year-old's $35 lawnmower-engined car in 1955 to the Trotters Hot Rod Club's Trott-A-Rama, which drew 20,000 to the Fairgrounds. A Hilltop club president explained his club to the paper, and a suburb set fines for racing in shopping-center lots.
 department: drag-racing
 era: 1960s
 eras:
