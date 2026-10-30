@@ -57,9 +57,13 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **North Carolina.** ["A Practice Murder Place": the drag strip argument, 1956–60](../drag-racing/north-carolina-drag-strip-debate-1956.md) · [Malcolm Durham](../people/malcolm-durham.md).
 
+**South Carolina.** [Twice as Wide as Anywhere: Chester Drag Strip and the International Timing Association](../drag-racing/chester-drag-strip-south-carolina.md).
+
 **Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [Saturday Nights at Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md) · [Easter at Paradise: the Paradise Drag Strip (Calhoun)](../drag-racing/paradise-drag-strip-calhoun.md).
 
 **Florida.** [Oranges for the Record: the Jaycees' Drag Strip at Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md) · [Three Tickets in Eighteen Months: Key West's Rumbling Rods](../drag-racing/key-west-rumbling-rods.md).
+
+**U.S. Virgin Islands.** ["No Hot Rods, Please!": the islands talk back to the hot rod, 1936–63](../drag-racing/virgin-islands-no-hot-rods.md).
 
 **Mississippi and Alabama.** [Ten for Ten at Biloxi: the Pascagoula Timing Association and the Dauphin Island Dragway](../drag-racing/pascagoula-timing-association.md).
 
@@ -69,15 +73,19 @@ This page points the way only. Each linked page tells its own story and carries 
 
 ## Midwest, Southwest and Northwest
 
-**Ohio.** [The Ohio Gassers](ohio-gassers.md) · [Akron's "Champions Raceway"](../drag-racing/akron-fulton-airport.md) · [Quaker City Drag Strip, Salem](../drag-racing/quaker-city-salem.md).
+**Ohio.** [The Ohio Gassers](ohio-gassers.md) · [Akron's "Champions Raceway"](../drag-racing/akron-fulton-airport.md) · [Quaker City Drag Strip, Salem](../drag-racing/quaker-city-salem.md) · [Who Says Hot Rods Are for Kids? Columbus's Trotters and High Winders](../drag-racing/columbus-trotters-high-winders.md).
 
 **Michigan, Indiana and Illinois.** [The Upset at Cordova](../drag-racing/detroit-cordova.md) · [Woodward Avenue](woodward.md) · [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md).
 
 **Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [The SEMO Drag Strip at Malden, Mo.](../drag-racing/semo-malden-drag-strip.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
 
+**The Dakotas.** [Huskies, a Coke Freeze and the Loop: Sioux Falls hot rodders and South Dakota's clubs](../drag-racing/sioux-falls-south-dakota-clubs.md).
+
 **Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md) · [The Castroville airfield drags (Medina County)](../drag-racing/medina-county-castroville-drags.md) · [The Track That Milk Built: Green Valley Raceway](../drag-racing/green-valley-raceway-smithfield.md) · [San Antonio's Double Eagle and Alamo Dragway](../drag-racing/san-antonio-double-eagle-alamo-dragway.md) · [T-Bones and Cheater Slicks: a Dallas folklorist at the speed shop](../voices/dallas-folksay-custom-automotive.md).
 
 **Arizona.** [The KARBS and the strip on Litchfield Road (Phoenix's West Side)](../drag-racing/phoenix-west-side-karbs-litchfield-road.md).
+
+**Nevada.** [Sand on the Track: Las Vegas, Henderson and Southern Nevada's eight drag strips](../drag-racing/las-vegas-henderson-drag-strips.md).
 
 **Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md) · [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md).
 

@@ -445,6 +445,31 @@ themes:
           ran from the mid-1950s until 1972, and racers remember strips at Bowling Green, Campbellsville,
           Owensboro, Thorn Hill and Richmond.
         link: drag-racing/cedar-creek-bullitt-dragway-kentucky.md
+      - id: promoter-sanctioning-bodies
+        q: Did drag strip promoters run their own sanctioning bodies?
+        a: >-
+          Some did. Bob Osiecki ran races on a wartime airfield at Chester, S.C., from 1956 under the
+          International Timing Association, which Don Garlits said Osiecki founded (◐ see Open questions); the
+          I.T.A. also sanctioned Greer Dragway's opening in 1958.
+        link: drag-racing/chester-drag-strip-south-carolina.md
+        also: [people/setto-postoian.md]
+        flag: drag-racing/chester-drag-strip-south-carolina.md#q-2
+      - id: las-vegas-drag-strips
+        q: Where did Las Vegas hot rodders race?
+        a: >-
+          First on borrowed streets, with the sheriff's officers watching: organized drags began on Vegas Valley
+          Drive in 1953. The city of Henderson provided a strip in 1958, and later racers ran at Stardust Raceway,
+          on the highway near Jean and at the Speedrome.
+        link: drag-racing/las-vegas-henderson-drag-strips.md
+        also: [drag-racing/inyokern-dust-devils.md]
+      - id: virgin-islands-hot-rods
+        q: Was there hot rodding in the U.S. Virgin Islands?
+        a: >-
+          Enough to alarm the island papers. In 1960 the St. Croix Avis asked the Senate to outlaw the hot rod,
+          and in 1963 a reader invited the commissioner to watch the nightly races on the Harwood Highway from
+          his porch.
+        link: drag-racing/virgin-islands-no-hot-rods.md
+        also: [drag-racing/key-west-rumbling-rods.md]
       - id: stock-car-track-drag-strips
         q: Did stock car tracks add drag strips?
         a: >-
@@ -455,6 +480,13 @@ themes:
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
+      - id: sioux-falls-cruising-and-racing
+        q: Where did Sioux Falls hot rodders cruise and race?
+        a: >-
+          They cruised a downtown loop that ended at the Barrell drive-in, and for years towed to an old airport
+          runway at Sioux City, Iowa, to race, until Glen Rapp opened Thunder Valley near Marion in 1967.
+        link: drag-racing/sioux-falls-south-dakota-clubs.md
+        also: [places/dragging-main.md]
       - id: was-hot-rodding-a-socal-export
         q: Was hot rodding just a Southern California export?
         a: >-
@@ -737,6 +769,13 @@ themes:
   - id: media-and-shows
     title: Media and shows
     questions:
+      - id: what-was-the-trott-a-rama
+        q: What was the Trott-A-Rama?
+        a: >-
+          The Columbus Trotters Hot Rod Club's annual show at the Ohio State Fairgrounds' Youth Center. By 1961
+          it drew over 200 cars, and the paper said more than 20,000 people had seen the previous year's show.
+        link: drag-racing/columbus-trotters-high-winders.md
+        also: [media/show-circuit.md]
       - id: who-collected-drag-strip-slang
         q: Did anyone collect drag racing slang as folklore?
         a: >-

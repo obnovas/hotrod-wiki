@@ -42,12 +42,19 @@ people:
 - Dave Wandel
 - Jerry Keyes
 - Mike Phillips
+- Buddy Criscoe
+- Sherrill Huff
+- Billy Huff
 companies:
 - The Courier-Journal
 - Bullitt County History Museum
 - Drag Strip List
+- Burns Ford
+- Criscoe's Automotive
+- The Jalopy Journal (H.A.M.B.)
 places:
 - Cedar Creek Road (Bullitt County)
+- Fort Knox
 clubs:
 - Kentucky Timing Association
 strips:
@@ -58,6 +65,7 @@ strips:
 - Thorn Hill Drag Strip
 - Sturgis Municipal Airport
 - Richmond Dragway
+- Ohio Valley Raceway
 tags:
 - drag-strips
 - police-and-safety
@@ -77,7 +85,7 @@ canonical_for: []
 *A printer bought a farm south of Louisville, some boys asked to build a drag strip on it, and the county sheriff spent the next few Sundays looking for him*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (one local-history column built on interviews with the owner and the racers, plus racers' own memories posted to a drag strip memory site; no contemporary newspaper read yet) · **Source types:** <span class="hr-badge">Grassroots</span> local history (David Strange's column for *The Courier-Journal*, Aug. 22, 2012, archived with additions by the Bullitt County History Museum); firsthand memories of Kentucky strips posted to Drag Strip List · **Last verified:** 2026-10-29 (Round 26; quotes checked against both pages) · **Open issues:** opening year, 1955 or 1956 ?; the seven thousand ◐; Kentucky's first strip ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (one local-history column built on interviews with the owner and the racers, plus racers' own memories posted to a drag strip memory site; no contemporary newspaper read yet) · **Source types:** <span class="hr-badge">Grassroots</span> local history (David Strange's column for *The Courier-Journal*, Aug. 22, 2012, archived with additions by the Bullitt County History Museum); firsthand memories of Kentucky strips posted to Drag Strip List and the H.A.M.B. forum · **Last verified:** 2026-10-30 (Round 27 expansion; quotes checked against the pages) · **Open issues:** opening year, 1955 or 1956 ?; the seven thousand ◐; Kentucky's first strip ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Some boys came to me in November of that year, wanting to start up a drag racing strip. I had no idea what drag racing was."
@@ -97,6 +105,8 @@ There was little prize money. Sunderhauf printed flyers listing the last meet's 
 ## Bullitt Dragway (1959–72)
 
 By 1959 the lawsuits, stricter rules such as teardowns, and the cost had worn out some of the original club members, and Wally and his wife Frances decided to run the strip themselves. The county blacktopped the road, barely two cars wide. The strip, now Bullitt Dragway, was paved and got a "Christmas tree" starting system, which paid for itself in a few race days. "There is nothing like selling 1400 hotdogs, 500 BBQ pork sandwiches, and Royal Crown Cola to people all day on race day," Sunderhauf said; the ice alone, a thousand pounds of it, cost more than the soft drink syrup.[^bc12] Jerry Keyes kept Bullitt Dragway results handouts and a page of the rules book; he ran a used, once-wrecked '58 Edsel, bought for $800, at Cedar Creek in the early 1960s and remembered standing on its fading drum brakes, "wondering if it would stop before the end of the track."[^dslky]
+
+To the soldiers at Fort Knox the strip had a third name. A Louisville racer who posts as Kentuckian explained in 2010 that it "was known locally by either name because the dragstrip was in Bullitt County and located on Cedar Creek Road"; a former GI who had raced his street car there in 1964–65 answered, "Bullitt County was what we Gi's called it." Kentuckian named two of the hard runners in the modified classes of those years: Buddy Criscoe, the high-performance mechanic at Burns Ford, who later opened his own speed shop, Criscoe's Automotive, and Sherrill Huff. The old soldier remembered that Criscoe's Mustang ran Chevy power, and guessed that the people at Burns Ford never knew. In the spring of 1965 another strip, Ohio Valley Raceway, opened off the GIs' road, old 31W toward Fort Knox, where the soldier always passed the sign telling him to turn right. Huff later bought it; in 2010 his son Billy, a former IHRA Pro Stock racer, was running it.[^hambky]
 
 Before there were lights, a race ran into the night, and the street cars lined up along the strip with their headlights on while someone taped flashlights to the hoods of the race cars. The column's roll call of cars includes Lyde Wages's "Wompin Wagon" station wagon dragster and "Mighty Mouse," a tiny red Nash Metropolitan fitted out with a big engine; Tony McConnell later found it with a tree grown through it and had to cut the tree down to get the car out.[^bc12] The column does not say who built it. Photo captions the museum added to its copy, provided by Steve Alvey, say his father, Bill Alvey, built the racer from a body he was given, and that it was sold to Ron Thomas about 1965.[^bc12]
 
@@ -126,3 +136,4 @@ Racers' memories on the same site sketch the rest of the map. At Campbellsville,
 
 [^bc12]: David Strange, "Drag Racing at Cedar Creek," Bullitt County History Museum, *Memories* (first published in *The Courier-Journal*, Aug. 22, 2012; archived with additional information and photographs). https://bullittcountyhistory.org/memories/dragrace.html (accessed 2026-10-29)
 [^dslky]: "Kentucky Drag Strips: Remembering . . .," Drag Strip List (racers' memories, posted with names: Don Jensen on Beech Bend, 1957; William McNear on Campbellsville; Stan Budke on Thorn Hill; Dave Wandel on Owensboro and Sturgis; Mike Phillips on Owensboro; Jerry Keyes on Cedar Creek and Richmond, 1965). https://dragstriplist.com/ky (accessed 2026-10-29)
+[^hambky]: Kentuckian (Louisville), post of Feb. 3, 2010, and 67 W-30 (N.E. Ohio), reply of Feb. 4, 2010, in "NHRA Junior Stock," The H.A.M.B. (The Jalopy Journal forum), page 169. https://www.jalopyjournal.com/forum/threads/nhra-junior-stock.201085/page-169 (accessed 2026-10-30)

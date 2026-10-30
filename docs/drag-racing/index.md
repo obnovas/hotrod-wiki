@@ -40,6 +40,8 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - ["No Roll Bars Needed" (Georgetown, Del.)](georgetown-speedway-delaware.md): a quarter-mile strip off turn four of a stock car oval, open to any licensed driver over 16, and an eighth-mile billed as the state's only sanctioned drags, 1956–63.
 - [Drag $1.00, Stag 75¢ (Palmer, Alaska)](palmer-alaska-polar-dragway.md): a police chief's runway plan, a rival private strip across the Knik River, stock pledges and road races, and Polar Dragway in the trees, 1958–64.
 - [Seven Thousand on a Country Rock Road (Bullitt County, Ky.)](cedar-creek-bullitt-dragway-kentucky.md): a printer's farm, a sheriff who could never find him in the county, flashlights taped to hoods, and racers' memories of strips from Bowling Green to Owensboro, 1956–72.
+- [Twice as Wide as Anywhere (Chester, S.C.)](chester-drag-strip-south-carolina.md): a wartime emergency airfield, a promoter with his own sanctioning body, a 14-year-old in his mother's Pontiac, the 1957 International and Garlits's fire, 1956–60.
+- [Sand on the Track (Las Vegas and Henderson, Nev.)](las-vegas-henderson-drag-strips.md): a junkyard speed shop, the sheriff's first drag strip, a club-run runway at Henderson, "Jean International" and the Sand-drome, plus a Reno dragster built with airplane parts, 1953–2000.
 
 **Clubs and timing associations**
 
@@ -65,6 +67,8 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Ten for Ten at Biloxi (Pascagoula, Miss.)](pascagoula-timing-association.md): a timing association that met at the courthouse, a borrowed projector, trophies in three states and the Dauphin Island Dragway, 1961–63.
 - [Help Them Get a Drag Strip (Connecticut)](connecticut-clubs-nutmeg-state-timing-association.md): the Road Knights' polio dance, the Ringbusters' Halloween cider, the Nutmeg State Timing Association and the road to East Haddam, 1954–63.
 - [Chewing Her Nails in the Kitchen (Washington, D.C.)](dc-dragons-jo-ann-johnson.md): a club that met in the Bethesda police station, fined its own speeders and voted in its first girl member, Jo Ann Johnson, 1951–58.
+- [Huskies, a Coke Freeze and the Loop (Sioux Falls, S.D.)](sioux-falls-south-dakota-clubs.md): fifteen clubs, a drive-in at the end of the loop, a Chevy gang with no rules, Thunder Valley's 1967 opening and Rapid City's Rapid Shifters, 1950–2024.
+- [Who Says Hot Rods Are for Kids? (Columbus, Ohio)](columbus-trotters-high-winders.md): a ten-year-old's $35 hot rod, the Trotters' Trott-A-Rama at the Fairgrounds, a Hilltop club president's visit to the paper and a suburb's parking-lot fines, 1955–63.
 
 **Rules, safety and public opinion**
 
@@ -75,6 +79,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - ["A Practice Murder Place" (North Carolina, 1956–60)](north-carolina-drag-strip-debate-1956.md): an airman's letter, a stock car driver, a judge and a state that said no, and Chapel Hill's Sunday migration to Easy Street.
 - [Tear Gas on the Runways (May 1958)](pennsauken-central-airport-1958.md): 2,000 racers, fire hoses and bulldozers at Camden's old Central Airport.
 - ["Our Name Is Mud" (Washington suburbs, 1953–63)](washington-suburbs-drag-strip-debate.md): a Prince Georges hearing, an editorial against "such foolishness," a father's reply, Old Dominion and Aquasco, and a county that said no twice.
+- ["No Hot Rods, Please!" (U.S. Virgin Islands, 1936–63)](virgin-islands-no-hot-rods.md): a "Lover Boy" hot rod hits a commissioner's car, an editorial asks the Senate to outlaw the "monster," and a neighbor invites the commissioner to watch the Harwood Highway races from his porch.
 
 **Elsewhere in the wiki**
 

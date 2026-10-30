@@ -1085,3 +1085,48 @@ highlights:
     added: '2026-10-29'
     eras: [1950s]
     regions: ['Newington, Conn.']
+
+  - id: virgin-islands-no-hot-rods-1960
+    headline: '"No more hot rods, please": a Virgin Islands paper asks the Senate to outlaw the hot rod'
+    teaser: A month after a hot rod marked "Lover Boy" hit a commissioner's car, a Christiansted paper declared
+      in 1960 that the hot rod "does not belong in these parts." Three years later a neighbor invited the
+      commissioner to watch the Harwood Highway races from his porch.
+    link: drag-racing/virgin-islands-no-hot-rods.md
+    evidence: ['No more hot rods, please.', does not belong in these parts]
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-10-30'
+    eras: [1960s]
+    regions: ['Christiansted, V.I.']
+
+  - id: chester-boulware-pontiac
+    headline: 'Fourteen, in his mother''s new Pontiac: Saturday nights at Chester Drag Strip'
+    teaser: Gene Boulware pulled the fender skirts off his mother's new '56 Pontiac, won his class on a
+      wartime runway outside Chester, S.C., and got in trouble when the results ran in the paper. The next
+      year the Arfons brothers and Setto Postoian came for the 1957 International.
+    link: drag-racing/chester-drag-strip-south-carolina.md
+    evidence: [I removed the fender skirts and wheelcovers, Serop Postoian from Detroit]
+    source_type: [Forum post, Oral history]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-30'
+    eras: [1950s]
+    regions: ['Chester, S.C.']
+
+  - id: las-vegas-police-accommodate-1953
+    headline: '"The police began to accommodate us": Las Vegas gets its first legal drags, 1953'
+    teaser: Las Vegas hot rodders who grew up in a North A Street junkyard got their first legal drag races
+      in 1953, on a patch of Vegas Valley Drive with the sheriff's officers watching. Later they raced on
+      a Henderson runway where the sand kept blowing back onto the track.
+    link: drag-racing/las-vegas-henderson-drag-strips.md
+    evidence: [the police began to accommodate us, We grew up in the junkyard]
+    source_type: [Local news, Forum post]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-30'
+    eras: [1950s]
+    regions: ['Las Vegas, Nev.']

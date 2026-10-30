@@ -139,6 +139,17 @@ nodes:
   - {id: maratta,    label: Frank Maratta, type: person, page: drag-racing/connecticut-clubs-nutmeg-state-timing-association.md}
   - {id: ctdragway,  label: "Connecticut Dragway (East Haddam)", type: place, page: drag-racing/connecticut-clubs-nutmeg-state-timing-association.md}
   - {id: nutmegsta,  label: Nutmeg State Timing Association, type: club, page: drag-racing/connecticut-clubs-nutmeg-state-timing-association.md}
+  # ---- Round 27
+  - {id: chester,    label: "Chester Drag Strip (S.C.)", type: place, page: drag-racing/chester-drag-strip-south-carolina.md}
+  - {id: osiecki,    label: Bob Osiecki, type: person, page: drag-racing/chester-drag-strip-south-carolina.md}
+  - {id: ita,        label: International Timing Association, type: institution, page: drag-racing/chester-drag-strip-south-carolina.md}
+  - {id: roadrebels, label: "Road Rebels (Greenville, S.C.)", type: club, page: drag-racing/chester-drag-strip-south-carolina.md}
+  - {id: henderson,  label: "Thunderbird Raceway (Henderson, Nev.)", type: place, page: drag-racing/las-vegas-henderson-drag-strips.md}
+  - {id: charioteers, label: Southern Nevada Charioteers, type: club, page: drag-racing/las-vegas-henderson-drag-strips.md}
+  - {id: ahra,       label: AHRA, type: institution, page: drag-racing/green-valley-raceway-smithfield.md}
+  - {id: trotters,   label: "Trotters Hot Rod Club (Columbus)", type: club, page: drag-racing/columbus-trotters-high-winders.md}
+  - {id: highwinders, label: "High Winders (Columbus)", type: club, page: drag-racing/columbus-trotters-high-winders.md}
+  - {id: rapidshifters, label: "Rapid Shifters (Rapid City)", type: club, page: drag-racing/sioux-falls-south-dakota-clubs.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -465,3 +476,34 @@ edges:
      evidence: ["with the NHRA, local police, and the newly formed Nutmeg State Timing Association"]}
   - {from: maratta, to: nhra, type: partnered, label: "Worked with the NHRA toward a sanctioned strip", page: drag-racing/connecticut-clubs-nutmeg-state-timing-association.md,
      evidence: ["with the NHRA, local police, and the newly formed Nutmeg State Timing Association"]}
+  # ---- Round 27
+  - {from: osiecki, to: chester, type: promotion, label: "Held the rights to the Chester airport runways on Saturdays, from 1956", page: drag-racing/chester-drag-strip-south-carolina.md,
+     evidence: ["Bob Osiecki had the rights to the runways."]}
+  - {from: osiecki, to: ita, type: founded, label: "Founded the I.T.A., per Garlits", flag: single-source, page: drag-racing/chester-drag-strip-south-carolina.md,
+     evidence: ["Garlits told Spittle that Osiecki not only sanctioned Chester through it but founded it."]}
+  - {from: ita, to: chester, type: promotion, label: "Sanctioned Chester's races", page: drag-racing/chester-drag-strip-south-carolina.md,
+     evidence: ["The timing cards read I.T.A., the International Timing Association"]}
+  - {from: roadrebels, to: chester, type: partnered, label: "Ran the timing at Chester, 1956", page: drag-racing/chester-drag-strip-south-carolina.md,
+     evidence: ["the Road Rebels got the timing duties"]}
+  - {from: arfons, to: chester, type: scene, label: "Entered the 1st International Drag Races, Nov. 1957", page: drag-racing/chester-drag-strip-south-carolina.md,
+     evidence: ["Walt and Art Arfons from Akron"]}
+  - {from: postoian, to: chester, type: scene, label: "Entered the 1st International Drag Races, Nov. 1957", page: drag-racing/chester-drag-strip-south-carolina.md,
+     evidence: ["Serop Postoian from Detroit"]}
+  - {from: charioteers, to: henderson, type: promotion, label: "Operated the Henderson strip", page: drag-racing/las-vegas-henderson-drag-strips.md,
+     evidence: ["operated by a local club, the Southern Nevada Charioteers"]}
+  - {from: ahra, to: henderson, type: promotion, label: "First Winter Nationals, Jan. 1961", flag: single-source, page: drag-racing/las-vegas-henderson-drag-strips.md,
+     evidence: ["when the AHRA held its first Winter Nationals there"]}
+  - {from: arfons, to: henderson, type: scene, label: "Art Arfons's jet blew the fence onto Boulder Highway (one memory)", flag: conflict, page: drag-racing/las-vegas-henderson-drag-strips.md,
+     evidence: ["after Art Arfons's jet dragster blew the wooden fence onto Boulder Highway"]}
+  - {from: ahra, to: greenvalley, type: promotion, label: "AHRA nationals at Green Valley", page: drag-racing/green-valley-raceway-smithfield.md,
+     evidence: ["30,000 of them at the AHRA nationals over Labor Day weekend"]}
+  - {from: ahra, to: alamodragway, type: promotion, label: "Moved its national event to Alamo Dragway", page: drag-racing/san-antonio-double-eagle-alamo-dragway.md,
+     evidence: ["decided on San Antonio's Alamo Dragway as the site of its national event"]}
+  - {from: trotters, to: columbus, type: hometown, label: "Columbus club; Trott-A-Rama at the State Fairgrounds", page: drag-racing/columbus-trotters-high-winders.md,
+     evidence: ["the Trotters Hot Rod Club, with its address at 671 N. Fourth Street"]}
+  - {from: nhra, to: trotters, type: promotion, label: "Sanctioned the 1961 Trott-A-Rama", page: drag-racing/columbus-trotters-high-winders.md,
+     evidence: ["sanctioned by the National Hot Rod Association and the Mid-Ohio Timing Association"]}
+  - {from: highwinders, to: nhra, type: partnered, label: "Chartered with the NHRA, 1960", page: drag-racing/columbus-trotters-high-winders.md,
+     evidence: ["They were chartered with the NHRA"]}
+  - {from: rapidshifters, to: nhra, type: partnered, label: "Charter NHRA club, 1957", page: drag-racing/sioux-falls-south-dakota-clubs.md,
+     evidence: ["became a charter club of the National Hot Rod Association in 1957"]}
