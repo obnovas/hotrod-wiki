@@ -512,7 +512,7 @@ edges:
      evidence: ["They were chartered with the NHRA"]}
   - {from: rapidshifters, to: nhra, type: partnered, label: "Charter NHRA club, 1957", page: drag-racing/sioux-falls-south-dakota-clubs.md,
      evidence: ["became a charter club of the National Hot Rod Association in 1957"]}
-  - {from: sneta, to: charlestown, type: promotion, label: "Sponsored the Charlestown drags, 1956–64 (dates disputed)", flag: conflict, page: drag-racing/charlestown-dragway-rhode-island.md,
+  - {from: sneta, to: charlestown, type: promotion, label: "Sponsored the Charlestown drags, 1956–64", flag: none, page: drag-racing/charlestown-dragway-rhode-island.md,
      evidence: ["sponsored racing at Charlestown from 1956 to 1964"]}
   - {from: charlestown, to: ctdragway, type: scene, label: "Connecticut Dragway's competition may have helped end Charlestown (a guess)", flag: single-source, page: drag-racing/charlestown-dragway-rhode-island.md,
      evidence: ["Lohnes guessed that Connecticut Dragway"]}

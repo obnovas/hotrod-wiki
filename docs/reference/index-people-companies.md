@@ -78,7 +78,7 @@
 | Ceniceros, Richard "Chivo" | Dukes car club | [Ruelas & the Dukes](../voices/ruelas-dukes.md) |
 | Century Toppers | Modesto's first hot rod club | [Century Toppers](../drag-racing/modesto-century-toppers.md) |
 | Chaparral Roadster Club | Dallas; Caddo Mills | [Texas](../places/texas.md) |
-| Charlestown Dragway | Drags on a runway of the Navy's Charlestown, R.I., auxiliary field, 1956–64 ⚠ | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
+| Charlestown Dragway | Drags on a runway of the Navy's Charlestown, R.I., auxiliary field, 1956–64 | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | Chester Drag Strip | Saturday drags on a WWII emergency airfield, Chester, S.C., 1956 or 1957 to 1959 or 1960 ⚠ | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |
 | Chevrolet Racing Team | Sioux Falls Chevy gang with "no meetings, no dues, and no rules"; met at Park Ridge Texaco | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
 | Chrisman, Jack | Drove the Twin Bears | [Howard Johansen](../people/howard-johansen.md) |
@@ -296,7 +296,7 @@
 | Mehrtens (Mertens), Wayne | Belleville Gear Jammers member ⚠ spelling | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | Memphis Rodders | Club, 1947 | [Memphis](../places/memphis.md), [Joe Lunati](../people/joe-lunati.md) |
 | Michigan Hot Rod Assn. | Motor City Dragway, Autorama | [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
-| Mid-State Timing Association | Gainesville, Fla., drag racing club; refused Lake Butler's Satellite Field, 1959 | [Lake Butler](../drag-racing/lake-butler-mid-state-timing-association.md) |
+| Mid-State Timing Association | Gainesville, Fla., drag racing club; Union County turned down its request for Satellite Field at Lake Butler, 1959 | [Lake Butler](../drag-racing/lake-butler-mid-state-timing-association.md) |
 | Midwest Hot Rod Club | Brentwood, Mo. (1954) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | Miller, Bruce | Publisher, *Street Rod* (Portland); NSRA #1 (⚠ first president?) | [*Street Rod*](../media/street-rod-magazine-portland.md) |
 | Miller, Glenn | Michigan pilot who landed on the Salem strip, 1958 | [Quaker City](../drag-racing/quaker-city-salem.md) |
@@ -434,7 +434,7 @@
 | Soldotna Timing Association | Kenai Peninsula, Alaska, club with a matching-fine bylaw, 1963 | [Palmer & Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md) |
 | Southeast Missouri Dragsters | Club that co-sponsored the Malden strip, 1961 | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md) |
 | Southern Nevada Charioteers | Club that operated the Henderson, Nev., strip; formed 1954 | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
-| Southern New England Timing Association | Ran the Charlestown, R.I., drags, 1956–64 ⚠ | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
+| Southern New England Timing Association | Ran the Charlestown, R.I., drags, 1956–64 | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | Speedway Motors | Lincoln, Neb.; 1719 N Street from 1954; donated a 1956 drag race ad | [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md), [Dick Wells](../people/dick-wells.md) |
 | Spittle, Frank | Indian Land, S.C., historian who started the H.A.M.B. Chester Drag Strip thread, 2012 | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |
 | Spoerl, William | Cumberland Clockers member; 142 mph in a rail dragster at York, Pa., 1961 ◐ | [Cumberland Clockers](../drag-racing/cumberland-clockers.md) |

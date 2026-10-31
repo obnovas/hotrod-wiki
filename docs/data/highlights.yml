@@ -1132,7 +1132,7 @@ highlights:
     regions: ['Las Vegas, Nev.']
 
   - id: chardon-road-ravens-windshields
-    headline: 'Policemen in the living room, rags on a Sunday: Chardons Road Ravens, 1956–57'
+    headline: 'Policemen in the living room, rags on a Sunday: Chardon''s Road Ravens, 1956–57'
     teaser: A Chardon, Ohio, hot rod club met the county sheriff and three other officers at its optometrist
       adviser's home in 1956, and the sheriff put the club in his campaign ads. In 1957 the members spent
       a Sunday wiping the windshields of parked cars around town.
@@ -1172,7 +1172,7 @@ highlights:
         there in 1956]
     source_type: [Local news, Forum post]
     confidence: Medium
-    flag: conflict
+    flag: none
     grassroots: true
     added: '2026-10-31'
     eras: [1950s, 1960s]

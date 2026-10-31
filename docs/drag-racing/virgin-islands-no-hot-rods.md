@@ -82,7 +82,7 @@ A month later the *Avis* gave its verdict. The hot rod, it explained, "is an aut
 
 Not every mention was a complaint. In Frederiksted's New Year's parade of 1961, the *West End News* reported, one of the troupes was "Meg Gordon's Hot Rod Group," which joined Uncle Sam's Troupe and the Trojans Steel Band in rounding out the parade.[^wen61]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-And some islanders built race cars anyway. In 1962 Page Winter, a local builder, and three friends put together a "Sprite Special" in about five weeks and flew it to Puerto Rico on Southern Air "at a cost of $50.00" for the Grand Prix de Puerto Rico at the Antilles Auto Racing Circuit in Caguas. It qualified as a Class II modified racer and was running well in practice when its transmission blew. "There was a complete lack of time and money," said the team manager, Rudy Thompson; island racing fans had already held a Halloween benefit at the Coffee House that raised $130. The team planned to try again in December.[^dn62a]
+And some islanders built race cars anyway. In 1962 Page Winter, a local builder, and three friends put together a "Sprite Special" in about five weeks and flew it to Puerto Rico on Southern Air "at a cost of $50.00" for the Grand Prix de Puerto Rico at the Antilles Auto Racing Circuit in Caguas. It qualified as a Class II modified racer and was running well in practice when its transmission blew. "[T]here was a complete lack of time and money," said the team manager, Rudy Thompson; island racing fans had already held a Halloween benefit at the Coffee House that raised $130. The team planned to try again in December.[^dn62a]
 
 ## "The Harwood Highway Race Track is open 24 hours a day"
 

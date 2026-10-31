@@ -119,7 +119,7 @@ In 1961 the Jaycees advertised an AHRA-sanctioned "Southeastern Championship Dra
 
 The last trace is a club column. In March 1962 the Road Angels, writing in the *Sun-Journal*, talked about "when we were going to open our Drag Strip in which we will have races on Sundays," and invited the sheriff's and police departments to a film on how a car club starts.[^bsj620322] Six weeks later the columnist, Arthur Borde, had the answer: "we did not get the drag strip from the group of officials assigned such duties in Hernando County. We would like to openly state that there are no hard feelings." They had been "led to believe we would receive said strip," he added, and "it was quite a let down to the club and its members."[^bsj620503]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
 
-For the Georgia strips where Garlits ran a few years later, see [Yellow River](yellow-river-covington.md). For another Jaycee strip on an old air base, see [SEMO at Malden, Mo.](semo-malden-drag-strip.md)<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
+For the Georgia strips where Garlits ran a few years later, see [Yellow River](yellow-river-covington.md). For another Jaycee strip on an old air base, see [SEMO at Malden, Mo.](semo-malden-drag-strip.md).
 
 *See also:* at the far southern tip of Florida, [Key West's Rumbling Rods](key-west-rumbling-rods.md), and the Gulf Coast's [Pascagoula Timing Association](pascagoula-timing-association.md).
 
@@ -139,11 +139,9 @@ For the Georgia strips where Garlits ran a few years later, see [Yellow River](y
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **185.566 mph?** The April 30, 1959, *Sun-Journal* is our only source for the 185.566 record at Brooksville, and the 1961 ad's "186.7" is not tied to a date or place.[^bsj590430][^bsj610420] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>
-
 ### Next leads
 
-The March 1959 *Hot Rod* page on Brooksville; *Drag News* for Nov. 1957 and Dec. 27, 1958; the Hernando County Commission minutes for 1962 (the Road Angels' request); the *Sun-Journal* after May 1962; the *St. Petersburg Times* for Pastime Dragsters, Inc.; a later history of the Brooksville airport. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+The March 1959 *Hot Rod* page on Brooksville; *Drag News* for Nov. 1957 and Dec. 27, 1958; the Hernando County Commission minutes for 1962 (the Road Angels' request); the *Sun-Journal* after May 1962; the *St. Petersburg Times* for Pastime Dragsters, Inc.; a later history of the Brooksville airport.
 
 ## Sources
 

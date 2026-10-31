@@ -42,7 +42,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Seven Thousand on a Country Rock Road (Bullitt County, Ky.)](cedar-creek-bullitt-dragway-kentucky.md): a printer's farm, a sheriff who could never find him in the county, flashlights taped to hoods, and racers' memories of strips from Bowling Green to Owensboro, 1956–72.
 - [Twice as Wide as zMAX (Chester, S.C.)](chester-drag-strip-south-carolina.md): a wartime emergency airfield, a promoter with his own sanctioning body, a 14-year-old in his mother's Pontiac, the 1957 International and Garlits's fire, 1956–60.
 - [Sand on the Track (Las Vegas and Henderson, Nev.)](las-vegas-henderson-drag-strips.md): a junkyard speed shop, the sheriff's first drag strip, a club-run runway at Henderson, "Jean International" and the Sand-drome, plus a Reno dragster built with airplane parts, 1953–2000.
-- [Racing Toward Route 1 (Charlestown, R.I.)](charlestown-dragway-rhode-island.md): Sunday drags on a Navy auxiliary field's runway, a sailor's Rod Knockers '34 Ford, Massachusetts clubs crossing the line and a strip that vanished with the base, 1956–64.
+- [Racing Toward Route 1 (Charlestown, R.I.)](charlestown-dragway-rhode-island.md): Sunday drags on a Navy auxiliary field's runway, a Johnston club's '34 Ford, Massachusetts clubs crossing the line and a strip that stopped in 1964, ten years before the base closed, 1956–64.
 
 **Clubs and timing associations**
 
@@ -71,7 +71,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Huskies, a Coke Freeze and the Loop (Sioux Falls, S.D.)](sioux-falls-south-dakota-clubs.md): fifteen clubs, a drive-in at the end of the loop, a Chevy gang with no rules, Thunder Valley's 1967 opening and Rapid City's Rapid Shifters, 1950–2024.
 - [Who Says Hot Rods Are for Kids? (Columbus, Ohio)](columbus-trotters-high-winders.md): a ten-year-old's $35 hot rod, the Trotters' Trott-A-Rama at the Fairgrounds, a Hilltop club president's visit to the paper and a suburb's parking-lot fines, 1955–63.
 - [Windshields on a Sunday (Chardon, Ohio)](chardon-road-ravens-thompson-drag-strip.md): an optometrist's hot rod club that met with the sheriff and cleaned windshields, and the Thompson strip where Don Garlits brought the Swamp Rat in 1961, 1955–2025.
-- ["Only Their Own Necks" (Lake Butler, Fla.)](lake-butler-mid-state-timing-association.md): a Gainesville-area timing club, a $300 offer for an old airfield and a county that said no, 1959.
+- ["Only Their Own Necks" (Lake Butler, Fla.)](lake-butler-mid-state-timing-association.md): a Gainesville timing club, a crop duster that took its runway, and a county that asked the neighbors and said no, 1959.
 
 **Rules, safety and public opinion**
 
