@@ -1130,3 +1130,50 @@ highlights:
     added: '2026-10-30'
     eras: [1950s]
     regions: ['Las Vegas, Nev.']
+
+  - id: chardon-road-ravens-windshields
+    headline: 'Policemen in the living room, rags on a Sunday: Chardons Road Ravens, 1956–57'
+    teaser: A Chardon, Ohio, hot rod club met the county sheriff and three other officers at its optometrist
+      adviser's home in 1956, and the sheriff put the club in his campaign ads. In 1957 the members spent
+      a Sunday wiping the windshields of parked cars around town.
+    link: drag-racing/chardon-road-ravens-thompson-drag-strip.md
+    evidence: ['Prospective members are expected to prove their interest in promoting safe, courteous and
+        sportsmanlike driving.', as I have with the Road Ravens]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-31'
+    eras: [1950s]
+    regions: ['Chardon, Ohio']
+
+  - id: lake-butler-only-their-own-necks
+    headline: '"Only their own necks": the Florida county that said no to a timing club, 1959'
+    teaser: In 1959 a Gainesville timing club asked Union County, Fla., to let it race on an old Navy airfield
+      at Lake Butler. The county asked the neighbors in Williston, who called the club's airport races "a
+      definite detriment," and the runways stayed locked.
+    link: drag-racing/lake-butler-mid-state-timing-association.md
+    evidence: ['only their own necks are risked, not the public''s', had found them to be a definite detriment]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-10-31'
+    eras: [1950s]
+    regions: ['Lake Butler, Fla.']
+
+  - id: charlestown-navy-runway-drags
+    headline: 'Drag racing between the regattas: the Navy runway at Charlestown, R.I.'
+    teaser: From 1956 a southern New England timing club raced on a Navy auxiliary field's runway by Ninigret
+      Pond, and in 1962 the Newport base paper listed the race days for sailors alongside the yacht races
+      and golf. A Johnston club says its '34 Ford won the big race there in 1956.
+    link: drag-racing/charlestown-dragway-rhode-island.md
+    evidence: ['Drag racing is scheduled at the Naval Auxiliary Field, Charlestown', They won the big race
+        there in 1956]
+    source_type: [Local news, Forum post]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-10-31'
+    eras: [1950s, 1960s]
+    regions: ['Charlestown, R.I.']

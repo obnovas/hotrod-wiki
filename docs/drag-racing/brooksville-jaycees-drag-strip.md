@@ -62,6 +62,7 @@ related:
 - drag-racing/yellow-river-covington.md
 - drag-racing/semo-malden-drag-strip.md
 - drag-racing/akron-fulton-airport.md
+- drag-racing/lake-butler-mid-state-timing-association.md
 canonical_for: []
 ---
 # Oranges for the Record: The Jaycees' Drag Strip at Brooksville (Fla., 1956–62)
@@ -109,6 +110,8 @@ A month later the *Journal* reprinted the *Drag News* story of the run. "People 
 In January 1959 the Jaycees booked Serop Postoian of Detroit, the Midwest's big winner (see [Setto Postoian](../people/setto-postoian.md) and [Detroit Dragway & Cordova](detroit-cordova.md)). The *Journal*'s preview, which spelled him "Postorian," said the two men "have been at several previous meets but have not had the opportunity to run against each other before."[^bj590122]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> Rain spoiled it. On a wet track Garlits topped out at 166.666 mph in 9.42 seconds, and Postoian ran 163.636 in 9.24.[^bj590129]
 
 In February Art Arfons of Akron, Ohio, brought his gasoline-burning dragster and ran 180.906 mph before a crowd of "some 600 or 700."[^bj590226] The March issue of *Hot Rod*, the *Journal* reported, gave a full page to pictures of Brooksville's strip, its pits and its concrete.[^bj590226b] And on a Sunday in late April Garlits came back and set "a new world's record of 185.566 miles per hour for the quarter mile" there.[^bsj590430]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
+
+Not every Florida county wanted what Brooksville had. That fall, Union County turned down a Gainesville timing club that asked for its old Navy airfield at Lake Butler; see ["Only Their Own Necks"](lake-butler-mid-state-timing-association.md).
 
 ## "We did not get the drag strip" (1961–62)
 

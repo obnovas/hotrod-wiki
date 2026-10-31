@@ -540,3 +540,23 @@ Tags as above. The newspapers are page OCR from Chronicling America (Library of 
 - [forum] The H.A.M.B., "NHRA Junior Stock," page 169 (Kentuckian and 67 W-30, Feb. 3–4, 2010). https://www.jalopyjournal.com/forum/threads/nhra-junior-stock.201085/page-169
 - [local] *The St. Croix Avis* (Christiansted, V.I.), Nov. 9, 1954 – Nov. 25, 1960 (the "Lover Boy" crash, the "No Hot Rods, Please!" editorial and movie ads); *West End News* (Frederiksted), Dec. 19, 1957, and Jan. 3, 1961; *The Daily News of the Virgin Islands* (St. Thomas), Nov. 8 and Dec. 15, 1962, Aug. 21 and Oct. 22, 1963. https://www.loc.gov/item/sn84037526/ · https://www.loc.gov/item/sn84037548/ · https://www.loc.gov/item/sn83025327/
 - [local] *West Side News* and *West Side News and Hilltop Record* (Columbus, Ohio), Nov. 22, 1955 – Aug. 3, 1960; *Eastern Review* (Columbus), March 16, 1961 – April 4, 1963; *The Catholic Times* (Columbus), March 30, 1962. https://www.loc.gov/item/sn88077733/ · https://www.loc.gov/item/sn88077734/ · https://www.loc.gov/item/sn88077723/ · https://www.loc.gov/item/sn83007243/
+
+## Added in Round 28 (accessed 2026-10-31)
+Tags as above. The newspapers are page OCR from Chronicling America (Library of Congress), cited page by page in each article. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [forum] The H.A.M.B., "Charlestown r . I dragway 1956-1964," Sept. 11, 2013 – Jan. 27, 2014 (posts by Rhode Island, Massachusetts and Connecticut racers and their families, including the Rod Knockers' 1956 photograph). https://www.jalopyjournal.com/forum/threads/charlestown-r-i-dragway-1956-1964.831574/
+- [forum] babycakes, "Charlestown 60's," Dover Drag Strip forum, Jan. 21, 2011. https://doverdragstrip.com/forums/topic/charlestown-60-s/
+- [club] Jack Brackett, "History," Dominators Hot Rod Club (Watertown, Mass., est. 1957). https://dominatorshotrodclub.com/history/
+- [mag] Brian Lohnes, "Dead Drag Strip File: The Quiet Remains Of Charlestown Dragway – Charlestown, Rhode Island," BangShift.com, Feb. 21, 2013. https://bangshift.com/general-news/dead-drag-strip-file-the-quiet-remains-of-charlestown-dragway-charlestown-rhode-island/
+- [mag] "Roddin', Racin' And Writin'" (the second Charlestown Dragway Reunion), *Hot Rod*, Nov. 1999. https://www.hotrod.com/features/roddin-racin-and-writin-982-1691-18-1
+- [local] *The Newport Navalog* (Newport, R.I., naval base weekly), June 1, July 27 and Oct. 5, 1962. https://www.loc.gov/item/sn91070618/
+- [local] *Union County Times* (Lake Butler, Fla.), Jan. 9, 1959 – Jan. 13, 1961 (the Mid-State Timing Association's request for Satellite Field, C. S. Lecky's "Odds & Ends" columns and the county's answer). https://www.loc.gov/item/sn95047168/
+- [oral] Don Garlits, "Don Garlits: Destiny, history, and victory at the Gatornationals," NHRA.com, March 13, 2019. https://www.nhra.com/news/2019/don-garlits-destiny-history-and-victory-gatornationals
+- [local] *Geauga Record* (Chardon, Ohio), March 1, 1956 – Aug. 17, 1961 (the Road Ravens Hot Rod Club, Sheriff E. John Phelps's campaign ads, Thompson Drag Strip ads and the Swamp Rat's visit). https://www.loc.gov/item/sn84028102/
+- [local] Jean Bonchak, "Supercharged Thompson Raceway serves racers, spectators for 56 years," *The News-Herald* (Willoughby, Ohio), June 16, 2014. https://www.news-herald.com/2014/06/16/supercharged-thompson-raceway-serves-racers-spectators-for-56-years/
+- [mag] Tara Hurlin, "Historic Kuhnle Motorsports Park (Thompson Drag Raceway) is Available for Lease or Sale," Hemmings, Feb. 29, 2024. https://www.hemmings.com/stories/kuhnle-motorsports-park-closing/
+- [mag] "Ohio's Thunder Capital, IHRA Renew Sanction," Performance Racing Industry, Jan. 14, 2019. https://www.performanceracing.com/magazine/industry-news/01-14-2019/ohios-thunder-capital-ihra-renew-sanction
+- [org] "Kuhnle Motorsports Park Joins NHRA Member Track Network in North Central Division" (NHRA release), DragStory.com, Dec. 12, 2025. https://dragstory.com/ws/kuhnle-motorsports-park-joins-nhra-member-track-network-in-north-central-division/
+- [local] *Peninsula Enterprise* (Accomac, Va.), "Summer Sports on the Shore," June 13, 1963. https://www.loc.gov/item/sn94060041/
+- [local] *Kodiak Mirror* (Kodiak, Alaska), March 10, 1956, and Aug. 11, 1961. https://www.loc.gov/item/sn83045298/
+- [local] *Detroit Tribune*, Jan. 9, 1954 (the Michigan Hot Rod Association's second Autorama). https://www.loc.gov/item/sn92063852/

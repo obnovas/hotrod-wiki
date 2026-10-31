@@ -7,7 +7,7 @@ eras:
 - 1950s
 - 1960s
 years:
-- 1958
+- 1956
 - 1964
 region: Northwest
 states:
@@ -42,6 +42,8 @@ people:
 - Richard Asay
 - Ken Lancaster
 - William Egan
+- Jack Castlow
+- Jay Molletti
 companies:
 - The Frontiersman (Palmer)
 - Top End, Inc.
@@ -54,6 +56,8 @@ places:
 - Matanuska Road
 - Big Lake Road
 - Alaska State Fair site
+- Anton Larsen Bay
+- Chiniak beach
 clubs:
 - Palmer Car Club
 - Palmer Road Hogs
@@ -61,6 +65,8 @@ clubs:
 - Anchorage Timing Association
 - Kenai Coachmen
 - Soldotna Timing Association
+- Road Runners (Kodiak)
+- Kodiak Hot Rod Club (1961)
 strips:
 - Polar Dragway (Alaska Raceway Park)
 - Palmer Raceway (proposed)
@@ -86,7 +92,7 @@ canonical_for: []
 *A Matanuska Valley weekly follows one small town's year of runway plans, rival sites, stock pledges and road races, and the private strip that opened in the trees the next summer*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (one local weekly, read week by week as page OCR, for 1958 and 1963; two later local stories and the track's history page for the 1964 opening and later owners) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weekly (*The Frontiersman*, Palmer, Alaska), 1958–63; Kenai, Fairbanks and Kodiak weeklies, 1958–63; the *Frontiersman*'s 2004 and 2024 anniversary stories and an *Alaska Dispatch News* story (2014) on the strip that opened in 1964 · **Last verified:** 2026-10-29 (Round 26: the 1998 sole ownership confirmed by the track's history page and the *Frontiersman*'s 2004 and 2024 stories; earlier quotes checked against the page OCR in Round 25) · **Open issues:** one club or two ?; the Tanacross meet ◐; the same Lee Nelson ?; what became of Palmer Raceways ?; when the Lackeys joined Top End, 1994 or 1995 ⚠ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (one local weekly, read week by week as page OCR, for 1958 and 1963; two later local stories and the track's history page for the 1964 opening and later owners) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weekly (*The Frontiersman*, Palmer, Alaska), 1958–63; Kenai, Fairbanks and Kodiak weeklies, 1956–63; the *Frontiersman*'s 2004 and 2024 anniversary stories and an *Alaska Dispatch News* story (2014) on the strip that opened in 1964 · **Last verified:** 2026-10-31 (Round 28 added Kodiak's 1956 and 1961 hot rod clubs from the *Kodiak Mirror*; Round 26: the 1998 sole ownership confirmed by the track's history page and the *Frontiersman*'s 2004 and 2024 stories; earlier quotes checked against the page OCR in Round 25) · **Open issues:** one club or two ?; the Tanacross meet ◐; the same Lee Nelson ?; what became of Palmer Raceways ?; Kodiak's 1956 strip plan ?; when the Lackeys joined Top End, 1994 or 1995 ⚠ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We're going to have a dragstrip!"
@@ -129,6 +135,8 @@ By November the raceway committee had $35,000 in pledges, at $100 a share. The d
 
 Palmer was not the only Alaska town where young drivers wanted a strip. In January 1962 the *Cheechako News* reported that Kenai teenagers had formed the Kenai Coachmen to repair jalopies in a borrowed tent two miles south of town, hoping someday "to get a supervised drag strip."[^ckn620112] A month later Soldotna's chamber sketched a park north of the town airport with picnic tables, a boat harbor "and drag strip."[^ckn620202] In June 1963 seven charter members formed the Soldotna Timing Association, whose bylaws made any member fined for speeding pay a matching sum into the club treasury. "Dragging should be done in its proper place on a drag strip or track away from the regular traffic," said its secretary, Ken Lancaster, who ran a car lot in Soldotna.[^ckn630607] In Fairbanks a man complained to police in 1962 that "cars and a bus had been using Ninth Ave. as a drag strip";[^jw620516] in Kodiak in 1958, two youths caught driving abreast on Mission Road near Max's Drive Inn were taken to court "on a charge of drag strip racing," and both were fined.[^km580517]
 
+Kodiak's young drivers had organized even earlier. On March 6, 1956, a club called the Road Runners (the same name a Palmer club would use in 1963) held its first meeting at the Union Hall and elected Jack Castlow president, Bill Hill vice president, Nell Chase secretary, Jerry Elderkin treasurer and Parnel Lockhart sergeant at arms, with patrolman "Mac" McKinley acting "in a supervisory capacity." Their plans, the *Kodiak Mirror* reported, included "a 'drag-strip'" and a stock car track at Anton Larsen's Bay, "expected to be finished for the summer races," and an auto show.[^km560310]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup> Five years later the *Mirror* announced a "newly organized Hot Rod Club" with ten members, headed by Jay Molletti, with Alan Austerman as vice president and Gordon Franklin as secretary. It expected a charter by August 17, was open "to anybody with a drivers license," and planned "several dune buggies for operating on the Chiniak beach."[^km610811]
+
 ## Polar Dragway (1964)
 
 The strip Alaska got first was the private one. In 1963, the *Frontiersman* wrote forty years later, Lee Nelson "found a plot of land in a forest just outside Palmer," leased it from the Bureau of Land Management, and by the end of the summer of 1964 had a quarter-mile strip "among the trees." Originally called Polar Dragway, it opened on Labor Day weekend 1964, with more than 500 fans and Governor William A. Egan cutting the ribbon.[^fr040907]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> A woman who rode in the grader as a girl while her father leveled the land "north of the Knik River" remembered the doubters in 2014: "Everybody thought he must have a whole lot of money to waste."[^adn140817] The Nelsons owned it for 30 years.[^adn140817] Over those years it went by Polar Dragway, Thunder Valley Raceway, Valley Raceway, Big Valley Raceway and Polar Raceway.[^fr240712] In November 1994 Lee Nelson sold the racing operation to a group of motorsports enthusiasts who incorporated as Top End, Inc., and the strip became Alaska Raceway Park. The track's history names six owners (Jack (Randy) Harris, Louie Kirk, John Childs, Jerry Schreiner, Gregg Gunnarson and Kristen Kinn) and says Earl Lackey bought Jerry Schreiner's shares in 1995;[^raceak] the *Frontiersman*'s 2024 story counts Earl and Karen Lackey among the 1994 buyers.[^fr240712]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see the bottom of the page">⚠</a></sup> "It needed to change hands and it needed to get back into shape," Earl Lackey said in 2024. The Lackeys bought the other owners' stock and became sole owners in 1998,[^fr240712][^raceak] the year the paper's 2004 anniversary story gave as the sale from Nelson to Lackey.[^fr040907] It is still running, run today by the Lackeys' daughter, Michelle Lackey Maynor, as "a multi-faceted racing complex" with "a NHRA drag strip and NASCAR oval track"; the oval was added in 2016.[^fr240712]
@@ -147,9 +155,11 @@ The strip Alaska got first was the private one. In 1963, the *Frontiersman* wrot
 
 <a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Did the Lackeys buy in with the 1994 group, or in 1995?** Alaska Raceway Park's history: "In November 1994, the racing operation was purchased from Lee Nelson… The group included Jack (Randy) Harris, Louie Kirk, John Childs, Jerry Schreiner, Gregg Gunnarson, and Kristen Kinn… Earl Lackey purchased Jerry Schreiner's shares in 1995."[^raceak] The 2024 *Frontiersman*: "The Lackeys and other race enthusiasts… purchased the racing operation from Lee Nelson in 1994."[^fr240712] The 2024 story's list of names follows the track's page almost word for word, so it may be drawn from it. Both agree the Lackeys became sole owners in 1998, the year the 2004 *Frontiersman* gives for Nelson's sale "to its current owner, Earl Lackey."[^fr040907] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
+<a id="q-6" class="hr-q-anchor"></a>**Open question.** **Did Kodiak's 1956 Road Runners ever build their strip at Anton Larsen Bay?** The *Kodiak Mirror* reported the plan in March 1956;[^km560310] we have not found a later story about the strip or the stock car track, and by 1961 the town was starting a new hot rod club with dune buggies on Chiniak beach in mind.[^km610811] (The OCR gives the planned track's length as "34 mile," probably ¾ mile; we have left the number out.) <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+
 ### Next leads
 
-The *Frontiersman* and the *Anchorage Daily Times* for 1964 (the raceway stock drive and Polar Dragway's opening); the Fairbanks and Tok papers for the 1962 Tanacross meet; the 1967 *Hot Rod* profile of the Palmer strip mentioned in the 2004 story; BLM lease records for the strip site; the Wasilla Big Lake Road strip, if it was ever run.
+The *Frontiersman* and the *Anchorage Daily Times* for 1964 (the raceway stock drive and Polar Dragway's opening); the Fairbanks and Tok papers for the 1962 Tanacross meet; the 1967 *Hot Rod* profile of the Palmer strip mentioned in the 2004 story; BLM lease records for the strip site; the Wasilla Big Lake Road strip, if it was ever run; the *Kodiak Mirror* for the summer of 1956 (the Road Runners' Anton Larsen Bay plans).
 
 ## Sources
 
@@ -173,6 +183,8 @@ The *Frontiersman* and the *Anchorage Daily Times* for 1964 (the raceway stock d
 [^ckn620202]: Soldotna park facilities item, *Cheechako News*, Feb. 2, 1962, p. 3. Page OCR. https://www.loc.gov/resource/sn97060085/1962-02-02/ed-1/?sp=3&st=text (accessed 2026-10-28)
 [^ckn630607]: "Newly Formed Car Club Seeking Civic Support," *Cheechako News*, June 7, 1963, pp. 1–2. Page OCR. https://www.loc.gov/resource/sn97060085/1963-06-07/ed-1/?sp=1&st=text · https://www.loc.gov/resource/sn97060085/1963-06-07/ed-1/?sp=2&st=text (accessed 2026-10-28)
 [^jw620516]: Colin Mick, "News Notes From The Police Blotter," *Jessen's Weekly* (Fairbanks, Alaska), May 16, 1962, p. 7. Page OCR. https://www.loc.gov/resource/sn84024018/1962-05-16/ed-1/?sp=7&st=text (accessed 2026-10-28)
+[^km560310]: "Hot Rod Club Formed," *Kodiak Mirror* (Kodiak, Alaska), March 10, 1956, p. 1. Page OCR. https://www.loc.gov/resource/sn83045298/1956-03-10/ed-1/?sp=1&st=text (accessed 2026-10-31)
+[^km610811]: "Hot Rod Club Is Formed Here," *Kodiak Mirror*, Aug. 11, 1961, p. 7. Page OCR. https://www.loc.gov/resource/sn83045298/1961-08-11/ed-1/?sp=7&st=text (accessed 2026-10-31)
 [^km580517]: "2 Boys Arrested On Racing Charge," *Kodiak Mirror* (Kodiak, Alaska), May 17, 1958, p. 4. Page OCR. https://www.loc.gov/resource/sn83045298/1958-05-17/ed-1/?sp=4&st=text (accessed 2026-10-28)
 [^fr040907]: Jeremiah Bartz, "Forty fast years," *The Frontiersman* (Wasilla, Alaska), Sept. 7, 2004. https://www.frontiersman.com/forty-fast-years/ (accessed 2026-10-28)
 [^adn140817]: Marc Lester, "At 50, Alaska Raceway Park Still Has Tires Burning and Hearts Pumping," *Alaska Dispatch News*, reposted by the track on MyRacePass, Aug. 17, 2014. https://www.myracepass.com/tracks/3409/news/2014/article/36555/at-50-alaska-raceway-park-still-has-tires-burning-and-hearts-pumping-alaska-dispatch-news (accessed 2026-10-28)

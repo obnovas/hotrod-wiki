@@ -30,8 +30,10 @@ people:
 - Jim Lamona
 - Gil Kohn
 - Eddie Schartman
-companies: []
-places: []
+companies:
+- Detroit Tribune
+places:
+- Michigan State Fair Grounds (Agricultural Building)
 clubs:
 - Michigan Hot Rod Assn.
 - Motor City Modifiers
@@ -61,7 +63,7 @@ canonical_for:
 *Heartland strips: Detroit Dragway and the World Series of Drag Racing*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> obituary/tribute, local press, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Cordova opening and Detroit closing conflicts · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> obituary/tribute, local press (including a 1954 Detroit weekly), secondary · **Last verified:** 2026-10-31 (Round 28 added the *Detroit Tribune*'s 1954 Autorama notice) · **Open issues:** Cordova opening and Detroit closing conflicts · [How we rate this](../reference/source-standards.md)
 
 ## 1957: the Garlits upset
 
@@ -78,6 +80,8 @@ Then it came to Cordova. Bartel's Quad City Drag Strip opened Labor Day weekend 
 ## Detroit's strips
 
 Detroit had two strips of its own. The first was **Motor City Dragway (1957)**. The Michigan Hot Rod Association used profits from its Detroit Autorama, founded in 1953, to buy land near New Baltimore. Hagerty calls it "the nation's first member-owned strip," with a sign reading "Built, owned, and operated by the youth of Detroit."[^hag] Schartman first drove the flip-top Comet there in December 1965 ([Eddie Schartman](../people/eddie-schartman.md)).
+
+A Detroit weekly caught the plan early. In January 1954 the *Detroit Tribune* announced the "second annual 'Autorama'" of the Michigan Hot Rod Association, three days in the Agricultural Building at the Michigan State Fair Grounds, January 8–10, with "Approximately 70 cars and motorcycles" on display and movies of hot rod, auto and boat racing. The association, the paper said, was a nonprofit "composed of 15 member hot rod clubs consisting of approximately 400 members," and it was trying "to raise funds through means of the show to build a 'drag strip,'" which the paper explained as "a half-mile of concrete roadway" used for acceleration contests.[^dt540109] A second-annual show in January 1954 fits Hagerty's 1953 founding date for the Autorama.[^hag]
 
 The second, **Detroit Dragway (1959–1997/98)**, was opened by promoter Gil Kohn at Sibley and Dix in Brownstown Township.[^hag][^dd] It hosted the NHRA Nationals in 1959 (783 entries and about 30,000 spectators, per Hagerty) and 1960.[^hag][^nh] Its radio spot "Sunday! Sunday! Sunday!" made it famous. Kohn: "I've run into people in Times Square... who've heard those commercials" (Detroit News, via RememberMichigan, which also hosts 1964–73 radio spots).[^rm]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -118,6 +122,7 @@ There is also period evidence for the World Series' early years. Chilton's *Moto
 [^svt]: SVTPerformance forum, "Quad Cities Drag Racing photos from the 50's," 2010. https://www.svtperformance.com/threads/quad-cities-drag-racing-photos-from-the-50s.737744/ (accessed 2026-10-13)
 [^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/ (accessed 2026-10-13)
 [^hag]: Hagerty, "Detroit's lost dragstrips." https://www.hagerty.com/media/archived/detroit-drag-strips/ (accessed 2026-10-13)
+[^dt540109]: "'Autorama' At State Fair Three Days," *Detroit Tribune*, Jan. 9, 1954, p. 5. Page OCR, Chronicling America. https://www.loc.gov/resource/sn92063852/1954-01-09/ed-1/?sp=5&st=text (accessed 2026-10-31)
 [^dd]: DetroitDragway.com, "History of Detroit Dragway." https://detroitdragway.com/history-of-detroit-dragway/ (accessed 2026-10-13)
 [^nh]: The News-Herald, "Second Dragway reunion is May 21," May 5, 2011. https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/ (accessed 2026-10-13)
 [^rm]: RememberMichigan / WaterWinterWonderland, "Detroit Dragway." https://www.remembermichigan.com/dragway.aspx?id=1335&type=6 (accessed 2026-10-13)

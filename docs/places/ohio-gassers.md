@@ -83,7 +83,7 @@ Hill describes the Midwest as a region of heavy industry where men "brought with
 
 In *Hot Rod* he argues that class racing drew full grandstands "on the east side of the Rockies," while "over on the Left Coast, nitro and dragsters were tradition." He says the term **"door-slammer"** originated in the West and was "originally intended as a negative."[^hr15]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-The Hrudkas' circle raced at **Thompson, Dragway 42 (West Salem), [Quaker City](../drag-racing/quaker-city-salem.md) and National Trail Raceway**. In the short northern Ohio season "an ambitious racer could run 4–5 times per week."[^ecmg]
+The Hrudkas' circle raced at **[Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md), Dragway 42 (West Salem), [Quaker City](../drag-racing/quaker-city-salem.md) and National Trail Raceway**. In the short northern Ohio season "an ambitious racer could run 4–5 times per week."[^ecmg]
 
 ## Who was in it
 

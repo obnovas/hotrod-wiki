@@ -14,12 +14,15 @@ states:
 - Delaware
 - Maryland
 - New Jersey
+- Virginia
 cities:
 - Georgetown, Delaware
 - Milford, Delaware
 - Smyrna, Delaware
 - Salisbury, Maryland
 - Atco, New Jersey
+- Accomac, Virginia
+- Pocomoke City, Maryland
 people:
 - Charles Herbert
 - Craig Mellinger
@@ -28,6 +31,7 @@ people:
 companies:
 - Milford Chronicle
 - Smyrna Times
+- Peninsula Enterprise
 - Georgetown Dragsters, Inc.
 places:
 - McConnell Bridge
@@ -58,7 +62,7 @@ canonical_for: []
 *A downstate Delaware drag strip that began as a straightaway bolted onto a stock car track, open on Sunday mornings to anyone with a license and the family car*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (two small-town weeklies, read as page OCR; most of what we know is the track's own announcements and ads, as the papers printed them) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weeklies (*Milford Chronicle*, Milford, Del.; *Smyrna Times*, Smyrna, Del.): racing columns, track ads, a state police report, Lions Club minutes, neighborhood columns, 1954–63 · **Last verified:** 2026-10-29 (Round 26 added the 1963 Friday-night drags; quotes checked against the page OCR) · **Open issues:** what happened between 1957 and 1961 ?; the strip's length changed ?; eighth or quarter mile in 1963 ⚠ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (two small-town weeklies, read as page OCR; most of what we know is the track's own announcements and ads, as the papers printed them) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weeklies (*Milford Chronicle*, Milford, Del.; *Smyrna Times*, Smyrna, Del.; *Peninsula Enterprise*, Accomac, Va.): racing columns, track ads, a state police report, Lions Club minutes, neighborhood columns, a Virginia sports column, 1954–63 · **Last verified:** 2026-10-31 (Round 28 added the view from Virginia's Eastern Shore, June 1963; quotes checked against the page OCR) · **Open issues:** what happened between 1957 and 1961 ?; the strip's length changed ?; eighth or quarter mile in 1963 ⚠ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Bring your pleasure car—no roll bars needed."
@@ -87,6 +91,12 @@ In May 1962 Georgetown was back in the drag business, on a shorter strip. Track 
 
 All that summer the speedway's weekly ad closed with the same line: "DRAG RACING EVERY SUNDAY AFTERNOON."[^mc620601] In September the Delmarva Timing Association announced it would "continue to present Drag racing every Sunday weather permitting, all year long."[^mc620907] In April 1963 the association took over the speedway again for drags "on the 1/8th-mile Drag Strip," and by June it was running every Sunday afternoon on "the one-eighth mile asphalt strip," registration at 11 and eliminations at 2.[^mc630426][^mc630607]
 
+## Seventy miles up Route 113 (June 1963)
+
+The word reached down the peninsula to Virginia. In June 1963 a summer-sports column in the *Peninsula Enterprise* of Accomac, on Virginia's Eastern Shore, sent its readers north: "Located some seventy miles north of Pocomoke on Rt. 113 is one of the leading drag strips on the east coast." The flags flew on holidays and every Sunday before "a crowd of four to five hundred spectators," and "Though only an eighth of a mile track, many of the class A super stocks clock 94 95 miles an hour."[^pe630613]
+
+The columnist stressed the rules. The strip was "Affiliated with the National Hot Rod Association," and every driver signed an affidavit warranting that his facts were true and that if he was caught "wilfully violating the rules or to be out of class," he would be "barred from competition during the meet." Then came the pitch for a strip closer to home: "It has been estimated that a strip on the shore would eliminate 95 per cent of the racing on the highways. From the looks of certain roads, this 95 per cent is not just a figure. Georgetown draws an Eastern Shore crowd every Sunday of at least forty people."[^pe630613]
+
 ## Under the arc lights (summer 1963)
 
 By August 1963 the Delaware Racing Club, which promoted the speedway, had moved its stock car nights from Friday to Wednesday. The drags took the empty night. "The vacated Friday night spot has been taken up by the Delmarva Timing Association," the *Chronicle* reported in August. "Drags will operate under the arc lights every Friday night." Registration opened at 5 p.m. and eliminations started at 8, and the paper called it "the only one of its kind operating on Delmarva," though it now described it as a quarter-mile strip.[^mc630802]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup>
@@ -99,11 +109,11 @@ By August 1963 the Delaware Racing Club, which promoted the speedway, had moved 
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **Why did the strip change from a quarter mile to an eighth?** The 1956 notices describe a quarter-mile strip of 1,440 feet off turn four; the 1962–63 notices describe an eighth-mile strip.[^mc560615][^mc620518][^mc630607] Neither paper says why, or whether the 1962 strip was the old one shortened or a new one. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Was the 1963 strip an eighth mile or a quarter?** In June 1963 the Georgetown column describes "the one-eighth mile asphalt strip";[^mc630607] in August the same paper's column on the Friday-night drags says "The quarter mile strip is the only one of its kind operating on Delmarva."[^mc630802] The strip may have been lengthened that summer, or one of the notices may be wrong. This bears on the quarter-to-eighth question above. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Was the 1963 strip an eighth mile or a quarter?** In June 1963 the Georgetown column describes "the one-eighth mile asphalt strip";[^mc630607] in August the same paper's column on the Friday-night drags says "The quarter mile strip is the only one of its kind operating on Delmarva."[^mc630802] A third paper, the Virginia *Peninsula Enterprise*, also called it "only an eighth of a mile track" in June 1963, so the eighth mile is firm through early summer.[^pe630613] The strip may have been lengthened in July, or the August notice may be wrong. This bears on the quarter-to-eighth question above. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ### Next leads
 
-The *Delaware Coast Press* and Georgetown's *Sussex Countian* for 1956–62; the Salisbury, Md., *Daily Times* for the Delmarva Timing Association; NHRA or AHRA listings for Georgetown; later memories of the speedway in Sussex County history groups; the Smyrna Lions Club minutes.
+Whether the Virginia Eastern Shore ever got the strip the *Enterprise* asked for; the *Delaware Coast Press* and Georgetown's *Sussex Countian* for 1956–62; the Salisbury, Md., *Daily Times* for the Delmarva Timing Association; NHRA or AHRA listings for Georgetown; later memories of the speedway in Sussex County history groups; the Smyrna Lions Club minutes.
 
 ## Sources
 
@@ -127,3 +137,4 @@ The *Delaware Coast Press* and Georgetown's *Sussex Countian* for 1956–62; the
 [^mc630426]: Georgetown Speedway column, *Milford Chronicle*, Apr. 26, 1963, p. 5. Page OCR. https://www.loc.gov/resource/sn87062224/1963-04-26/ed-1/?sp=5&st=text (accessed 2026-10-28)
 [^mc630607]: Georgetown Speedway column, *Milford Chronicle*, June 7, 1963, p. 7. Page OCR. https://www.loc.gov/resource/sn87062224/1963-06-07/ed-1/?sp=7&st=text (accessed 2026-10-28)
 [^mc630802]: "Al Tasnady Wins Georgetown Race" (continued from page 1), *Milford Chronicle*, Aug. 2, 1963, p. 7. Page OCR. https://www.loc.gov/resource/sn87062224/1963-08-02/ed-1/?sp=7&st=text (accessed 2026-10-29)
+[^pe630613]: "Summer Sports on the Shore" column (section "What Happens at Georgetown, Delaware"), *Peninsula Enterprise* (Accomac, Va.), June 13, 1963, p. 11. Page OCR, Chronicling America. https://www.loc.gov/resource/sn94060041/1963-06-13/ed-1/?sp=11&st=text (accessed 2026-10-31)

@@ -45,7 +45,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Northeast overview.** [Midwest & East Threads](midwest-east.md).
 
-**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) · [Help Them Get a Drag Strip: Connecticut's clubs and the road to East Haddam](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md).
+**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) · [Help Them Get a Drag Strip: Connecticut's clubs and the road to East Haddam](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) · [Racing Toward Route 1: Charlestown Dragway and Rhode Island's Navy runway](../drag-racing/charlestown-dragway-rhode-island.md).
 
 **Pennsylvania.** [The Ridge Runners of Stroudsburg](../drag-racing/stroudsburg-ridge-runners.md) · [Where Could a Pocono Hot Rodder Race?](../drag-racing/pocono-strips.md) · [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md) · [Leonard Miller](../voices/leonard-miller.md) · [Hurst-Campbell](../companies/hurst-campbell.md).
 
@@ -61,7 +61,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Georgia.** [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) · [Saturday Nights at Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) · [From Speed Shop to Strip: the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) · [Who Builds the Strip? Clubs in Forest Park, Perry and Summerville](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) · [From Strip to Runway: Cumming Dragway](../drag-racing/cumming-dragway.md) · [Easter at Paradise: the Paradise Drag Strip (Calhoun)](../drag-racing/paradise-drag-strip-calhoun.md).
 
-**Florida.** [Oranges for the Record: the Jaycees' Drag Strip at Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md) · [Three Tickets in Eighteen Months: Key West's Rumbling Rods](../drag-racing/key-west-rumbling-rods.md).
+**Florida.** [Oranges for the Record: the Jaycees' Drag Strip at Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md) · [Three Tickets in Eighteen Months: Key West's Rumbling Rods](../drag-racing/key-west-rumbling-rods.md) · ["Only Their Own Necks": Lake Butler, Williston and the Mid-State Timing Association](../drag-racing/lake-butler-mid-state-timing-association.md).
 
 **U.S. Virgin Islands.** ["No Hot Rods, Please!": the islands talk back to the hot rod, 1936–63](../drag-racing/virgin-islands-no-hot-rods.md).
 
@@ -73,7 +73,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 ## Midwest, Southwest and Northwest
 
-**Ohio.** [The Ohio Gassers](ohio-gassers.md) · [Akron's "Champions Raceway"](../drag-racing/akron-fulton-airport.md) · [Quaker City Drag Strip, Salem](../drag-racing/quaker-city-salem.md) · [Who Says Hot Rods Are for Kids? Columbus's Trotters and High Winders](../drag-racing/columbus-trotters-high-winders.md).
+**Ohio.** [The Ohio Gassers](ohio-gassers.md) · [Akron's "Champions Raceway"](../drag-racing/akron-fulton-airport.md) · [Quaker City Drag Strip, Salem](../drag-racing/quaker-city-salem.md) · [Who Says Hot Rods Are for Kids? Columbus's Trotters and High Winders](../drag-racing/columbus-trotters-high-winders.md) · [Windshields on a Sunday: Chardon's Road Ravens and Thompson Drag Strip](../drag-racing/chardon-road-ravens-thompson-drag-strip.md).
 
 **Michigan, Indiana and Illinois.** [The Upset at Cordova](../drag-racing/detroit-cordova.md) · [Woodward Avenue](woodward.md) · [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md).
 

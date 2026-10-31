@@ -150,6 +150,11 @@ nodes:
   - {id: trotters,   label: "Trotters Hot Rod Club (Columbus)", type: club, page: drag-racing/columbus-trotters-high-winders.md}
   - {id: highwinders, label: "High Winders (Columbus)", type: club, page: drag-racing/columbus-trotters-high-winders.md}
   - {id: rapidshifters, label: "Rapid Shifters (Rapid City)", type: club, page: drag-racing/sioux-falls-south-dakota-clubs.md}
+  # ---- Round 28
+  - {id: charlestown, label: "Charlestown Dragway (R.I.)", type: place, page: drag-racing/charlestown-dragway-rhode-island.md}
+  - {id: sneta,      label: Southern New England Timing Association, type: club, page: drag-racing/charlestown-dragway-rhode-island.md}
+  - {id: thompsonoh, label: "Thompson Drag Raceway / Kuhnle Motorsports Park (Ohio)", type: place, page: drag-racing/chardon-road-ravens-thompson-drag-strip.md}
+  - {id: roadravens, label: "Road Ravens (Chardon, Ohio)", type: club, page: drag-racing/chardon-road-ravens-thompson-drag-strip.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -507,3 +512,13 @@ edges:
      evidence: ["They were chartered with the NHRA"]}
   - {from: rapidshifters, to: nhra, type: partnered, label: "Charter NHRA club, 1957", page: drag-racing/sioux-falls-south-dakota-clubs.md,
      evidence: ["became a charter club of the National Hot Rod Association in 1957"]}
+  - {from: sneta, to: charlestown, type: promotion, label: "Sponsored the Charlestown drags, 1956–64 (dates disputed)", flag: conflict, page: drag-racing/charlestown-dragway-rhode-island.md,
+     evidence: ["sponsored racing at Charlestown from 1956 to 1964"]}
+  - {from: charlestown, to: ctdragway, type: scene, label: "Connecticut Dragway's competition may have helped end Charlestown (a guess)", flag: single-source, page: drag-racing/charlestown-dragway-rhode-island.md,
+     evidence: ["Lohnes guessed that Connecticut Dragway"]}
+  - {from: roadravens, to: nhra, type: partnered, label: "Associated with the NHRA, 1956", page: drag-racing/chardon-road-ravens-thompson-drag-strip.md,
+     evidence: ["The Road Ravens are associated with the National Hot Rod Association of Los Angeles, California"]}
+  - {from: ohiogassers, to: thompsonoh, type: scene, label: "Cleveland's gassers raced at Thompson", page: drag-racing/chardon-road-ravens-thompson-drag-strip.md,
+     evidence: ["Cleveland's gasser crowd ran there in the 1960s"]}
+  - {from: nhra, to: thompsonoh, type: scene, label: "Joined the NHRA Member Track Network, 2025", page: drag-racing/chardon-road-ravens-thompson-drag-strip.md,
+     evidence: ["the NHRA welcomed it to its Member Track Network"]}

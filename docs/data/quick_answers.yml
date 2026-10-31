@@ -312,7 +312,7 @@ themes:
           runway early on Sunday mornings in the late 1940s, then got the Sanford, Maine, airport to allow a race
           with barricades to warn pilots, and that the drags ran at Sanford for over 15 years (◐ see Open questions).
         link: drag-racing/sanford-cain-bannister.md
-        also: [drag-racing/pennsauken-central-airport-1958.md]
+        also: [drag-racing/pennsauken-central-airport-1958.md, drag-racing/charlestown-dragway-rhode-island.md]
         flag: drag-racing/sanford-cain-bannister.md#q-2
       - id: where-was-the-1955-nationals-finish
         q: Where did the first NHRA Nationals finish, and what did the local paper see?
@@ -477,6 +477,40 @@ themes:
           strip off its fourth turn and invited anyone 16 or older with a license to bring the family car.
         link: drag-racing/georgetown-speedway-delaware.md
         also: [drag-racing/key-west-rumbling-rods.md, drag-racing/pascagoula-timing-association.md]
+      - id: navy-runway-drag-strip
+        q: Did the Navy let hot rodders race on its runways?
+        a: >-
+          In Rhode Island it did. The Southern New England Timing Association ran drags on a runway of the Navy's
+          auxiliary field at Charlestown, from 1956 to 1964 by the usual account (⚠ see Open questions), and in
+          1962 the Newport base paper listed the race days for sailors.
+        link: drag-racing/charlestown-dragway-rhode-island.md
+        also: [drag-racing/sanford-cain-bannister.md, drag-racing/connecticut-clubs-nutmeg-state-timing-association.md]
+        flag: drag-racing/charlestown-dragway-rhode-island.md#q-1
+      - id: county-refused-drag-strip
+        q: Why would a town turn down a supervised drag strip?
+        a: >-
+          Because the neighbors said it made things worse. In 1959 a Gainesville timing club asked Union County,
+          Fla., for its old Navy airfield at Lake Butler; Williston officials said the club's races at their
+          airport had been "a definite detriment" that sent local boys onto the highways, and Lake Butler said no.
+        link: drag-racing/lake-butler-mid-state-timing-association.md
+        also: [drag-racing/brooksville-jaycees-drag-strip.md, drag-racing/north-carolina-drag-strip-debate-1956.md]
+      - id: ohio-oldest-strip
+        q: Which is Ohio's oldest drag strip?
+        a: >-
+          It depends how you count. Thompson Drag Raceway, east of Chardon, is called Ohio's oldest continuously
+          running strip, founded in 1958 or running since 1960 (⚠ see Open questions). Salem's Quaker City dates
+          itself to 1957, so only the claim of continuous operation can stand.
+        link: drag-racing/chardon-road-ravens-thompson-drag-strip.md#q-2
+        also: [drag-racing/quaker-city-salem.md, drag-racing/akron-fulton-airport.md]
+        flag: drag-racing/chardon-road-ravens-thompson-drag-strip.md#q-1
+      - id: clubs-win-over-police
+        q: How did hot rod clubs try to win over the police?
+        a: >-
+          By inviting them in. In 1956 Chardon, Ohio's Road Ravens met the county sheriff and three other officers
+          at their adviser's home to talk about safe driving, and the sheriff named the club in his campaign ads;
+          in 1957 the members spent a Sunday cleaning windshields on parked cars.
+        link: drag-racing/chardon-road-ravens-thompson-drag-strip.md
+        also: [drag-racing/escanaba-dragns.md, drag-racing/high-school-hot-rod-clubs.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
