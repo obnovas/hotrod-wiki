@@ -122,7 +122,7 @@ There is also period evidence for the World Series' early years. Chilton's *Moto
 [^svt]: SVTPerformance forum, "Quad Cities Drag Racing photos from the 50's," 2010. https://www.svtperformance.com/threads/quad-cities-drag-racing-photos-from-the-50s.737744/ (accessed 2026-10-13)
 [^bs]: BangShift, "Everything You Know About The Nitro Ban Is Wrong." https://bangshift.com/bangshift1320/everything-you-know-about-the-nitro-ban-is-wrong-the-real-history-of-the-infamous-nhra-nitro-ban/ (accessed 2026-10-13)
 [^hag]: Hagerty, "Detroit's lost dragstrips." https://www.hagerty.com/media/archived/detroit-drag-strips/ (accessed 2026-10-13)
-[^dt540109]: "'Autorama' At State Fair Three Days," *Detroit Tribune*, Jan. 9, 1954, p. 5. Page OCR, Chronicling America. https://www.loc.gov/resource/sn92063852/1954-01-09/ed-1/?sp=5&st=text (accessed 2026-10-31)
+[^dt540109]: "'Autorama' At State Fair Three Days," *Detroit Tribune*, Jan. 9, 1954, p. 5. Page OCR, Chronicling America; checked against the page image in review (Round 29), except the "half-mile of concrete roadway," read on the OCR only. https://www.loc.gov/resource/sn92063852/1954-01-09/ed-1/?sp=5&st=text (accessed 2026-10-31)
 [^dd]: DetroitDragway.com, "History of Detroit Dragway." https://detroitdragway.com/history-of-detroit-dragway/ (accessed 2026-10-13)
 [^nh]: The News-Herald, "Second Dragway reunion is May 21," May 5, 2011. https://www.thenewsherald.com/2011/05/05/motorsports-second-dragway-reunion-is-may-21/ (accessed 2026-10-13)
 [^rm]: RememberMichigan / WaterWinterWonderland, "Detroit Dragway." https://www.remembermichigan.com/dragway.aspx?id=1335&type=6 (accessed 2026-10-13)

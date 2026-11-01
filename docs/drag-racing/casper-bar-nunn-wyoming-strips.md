@@ -1,6 +1,6 @@
 ---
 title: 'Six Miles of Runway: Casper''s Old Airport, Sheridan''s Hot Rod Club and Wyoming''s Drag Strips (1947–2023)'
-summary: Wyoming's hot rodders began on a Sheridan fairgrounds track in 1947 and later raced on the six miles of runway at Casper's old airport, which Romie Nunn bought for $20,500 in 1954. The state's one sanctioned strip, on Douglas's old airport, closed in 2015, and a legal street race now runs in Bar Nunn.
+summary: Wyoming's hot rodders began on a Sheridan fairgrounds track in 1947 and later raced on the six miles of runway at Casper's old airport, which Romie Nunn bought for $20,500 in 1954. Douglas's old airport, a strip from the mid-1980s and the state's only active one by 2015, closed that year; Bar Nunn now has a legal street race.
 department: drag-racing
 era: 1950s
 eras:
@@ -89,11 +89,11 @@ Casper's first airport, Wardwell Field, lost its airline service when the county
 
 In 1958 Nunn subdivided the land as the Bar-Nunn Ranch Subdivision, laying out streets that "were in fact the old runways of Wardwell Field." A 1959 *Denver Post* Empire Magazine story called him "The Runway Rancher": "When you buy a ranch and build an airport on it, that's one thing. But when you buy an airport and make a ranch out of it, that's Wyoming!"[^af] Part of John Wayne's *Hellfighters* (1968) was filmed on the runways. Bar Nunn is now a city of 3,000, and its mayor says the wide streets need a lot of repairs because the old runways "did not have a thick base."[^csd]
 
-## Douglas: the one strip, mid-1980s to 2015
+## Douglas: the last strip standing, mid-1980s to 2015
 
 When Douglas built a new airport about six miles north of town in the mid-1980s, the old one closed. A former local aviation businessman, Rod McKenzie, told Freeman: "I understand the airport was used as a drag strip after that. This is evident by the twin black streaks on the west end as seen in the aerial photos." A pilot, Rick Caldwell, reported in 2005 that the strip "is now used as the Douglas race track. They have drag races in the summer. If the need were to arrive I would think twice about landing there. You could get passed by some very fast automobiles though."[^af]
 
-Douglas Motorsports Park became, in Dragzine's words in December 2015, "the only active dragstrip in the state (an NHRA-sanctioned one at that)," which had "served the racers of Wyoming for three decades." Its starting line sat less than 1,000 feet from a neighborhood, and when the city planned construction on the east end, the council declined to renew the lease into 2016.[^dz] The operators, Chris and Nicole Moore, signed off: "God bless the road, it's racers and keep all of us safe a 1/4 mile at a time!"[^dz] Douglas's radio station looked back in 2020 at the days "when Wyoming's only drag strip was right here in our backyard."[^mc]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+Dragzine later wrote that the old field "was converted to a drag strip in the mid-1980s after the nearby Converse County Airport was constructed."[^dz] By the time it closed, Douglas Motorsports Park was, in Dragzine's words in December 2015, "the only active dragstrip in the state (an NHRA-sanctioned one at that)," which had "served the racers of Wyoming for three decades." Its starting line sat less than 1,000 feet from a neighborhood, and when the city planned construction on the east end, the council declined to renew the lease into 2016.[^dz] The operators, Chris and Nicole Moore, signed off: "God bless the road, it's racers and keep all of us safe a 1/4 mile at a time!"[^dz] Douglas's radio station looked back in 2020 at the days "when Wyoming's only drag strip was right here in our backyard."[^mc]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Bar Nunn again: racing in the street
 
@@ -109,7 +109,7 @@ The runways' town came back to drag racing in a new form. *Road & Track* found B
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **Was Interstate Speedway's first race on Aug. 2 or Aug. 7, 1970?** The Sheridan club's history gives both: "the first race at the speedway was on August 2, 1970," and, a few paragraphs later, "August 7 was the first race at the Interstate Speedway."[^sher] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Open question.** **What was Wyoming's first drag strip?** Douglas was "Wyoming's only drag strip" from the mid-1980s to 2015,[^mc][^dz] but we have found no Wyoming strip from the 1950s or 1960s beyond the undated Bar Nunn runway races. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Open question.** **What was Wyoming's first drag strip?** Douglas was converted to a drag strip in the mid-1980s and was, when it closed in 2015, "the only active dragstrip in the state";[^dz] Douglas's radio station later remembered it as "Wyoming's only drag strip."[^mc] Neither says it was the only one for all three decades, and we have found no Wyoming strip from the 1950s or 1960s beyond the undated Bar Nunn runway races. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ### Next leads
 

@@ -239,7 +239,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1964 | Lee Nelson's Polar Dragway opens near Palmer, Alaska, on Labor Day weekend (2004 local story) | [Palmer](../drag-racing/palmer-alaska-polar-dragway.md) |
 | 1964 | The Henderson, Nev., drag strip closes | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | 1964 | Last drags at Charlestown, R.I.; why they stopped is unsettled ◐ | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
-| 1964 ⚠ | Roland Leong sets the Kahuku record (8.50 or 8.58 at 180); Hawaii Raceway Park opens in Ewa (1963 or 1964 ⚠); Kahuku's last event | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
+| 1964 ⚠ | Roland Leong sets the Kahuku record (8.50 or 8.58 at 180); Hawaii Raceway Park opens in Ewa (1963 or 1964, or 1962 by inference ⚠); Kahuku's last event | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
 | 1965 | Gays' *Infinity* GTO Funny Car debuts (July 3, Dickinson). Hassel moves to Florida for Crane Cams. Virgil Cates's NHRA Comp title | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
 | 1965 | First annual MVTA Rod and Custom Show, Twin Falls (July 24–25) | [Twin Falls](../places/twin-falls-main-avenue.md) |
@@ -291,7 +291,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1971 | A Hooker Headers ad salutes Akron's Arlen Vanke, 1970 Division Three Pro Stock champion (*Hot Rod*, Feb) | [Hooker Headers](../companies/hooker-headers.md) |
 | 1971 | Malden strip opens its season under AHRA sanction (Mar) | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md) |
 | 1971 | Stardust Raceway, Las Vegas, goes dark for a housing development | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
-| 1971 ⚠ | Milton Speedway closes (1970–71; early 1980s in one guess) | [Milton, Vt.](../drag-racing/milton-speedway-vermont.md) |
+| 1971 | Milton Speedway holds its final competitions (state marker, WCAX; one pre-marker guess said the early 1980s) | [Milton, Vt.](../drag-racing/milton-speedway-vermont.md) |
 | 1972 | Street Rodder Vol. 1 No. 1 (May) | [Founding Street Rodder](../voices/street-rodder-founding.md) |
 | 1972 | Summit tests mail order with small *Hot Rod* and *Car Craft* ads for Mickey Thompson ET wheels; in Memphis, Cam Dynamics forms around Crane's shop foreman | [Summit Racing](../companies/summit-racing.md), [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | 1972 | Ken Dobson takes over the Beardstown Drag Strip; "Big Daddy" Garlits billed in a match race against him (June) | [Beardstown](../drag-racing/beardstown-drag-strip.md) |
@@ -334,7 +334,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../places/central-avenue-albuquerque.md) |
 | 2005 ⚠ | Inyokern strip shut after an FAA threat; date of the last race disputed | [Inyokern](../drag-racing/inyokern-dust-devils.md) |
 | 2010 | Dick Wells dies (Jan 18), NSRA's "first active president" ⚠ | [Dick Wells](../people/dick-wells.md) |
-| 2015 | Douglas Motorsports Park, Wyoming's one sanctioned strip, closes when the city declines to renew its lease (Dec) | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
+| 2015 | Douglas Motorsports Park, by then Wyoming's only active drag strip (NHRA-sanctioned), closes when the city declines to renew its lease (Dec) | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
 | 2019 | State historic markers go up at Milton, Vt. (Aug 17), and at the Kanawha Valley Drag Strip site, Winfield, W.Va. | [Milton, Vt.](../drag-racing/milton-speedway-vermont.md), [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md) |
 | 2021 | Tom and Kim Kuhnle buy Thompson Drag Raceway and rename it Kuhnle Motorsports Park (Dec) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | 2023–24 | CA AB 436 (Alvarez) chaptered Oct 13, 2023; effective Jan 1, 2024—removes local authority to ban cruising; repeals VC 24008 | [Cruise Nights](../places/cruising-overview.md) |

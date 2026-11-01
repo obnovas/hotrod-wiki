@@ -68,7 +68,7 @@ canonical_for: []
 *Cleveland, Dayton, Columbus and the door-slammer Midwest*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-10-16 (Round 14) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; Chuck Finders's death date: May 17, 2009 (family account; May 19 forum notice noted); Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-11-01 (Chuck Finders's death date settled; footnotes re-checked in the Round 28 and 29 reviews) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I'd pay a thousand bucks for a tenth of a second!"

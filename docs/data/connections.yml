@@ -529,5 +529,5 @@ edges:
      evidence: ["It was NASCAR-sanctioned"]}
   - {from: arfons, to: miltonvt, type: scene, label: "Walt Arfons brought his jet dragster to Milton, June 1966", page: drag-racing/milton-speedway-vermont.md,
      evidence: ["Walt Arfons' 'Bonneville Avenger' jet dragster in June 1966"]}
-  - {from: nhra, to: douglaswy, type: partnered, label: "Wyoming's one NHRA-sanctioned strip, to 2015", page: drag-racing/casper-bar-nunn-wyoming-strips.md,
+  - {from: nhra, to: douglaswy, type: partnered, label: "NHRA-sanctioned; Wyoming's only active strip when it closed, 2015", page: drag-racing/casper-bar-nunn-wyoming-strips.md,
      evidence: ["an NHRA-sanctioned one at that"]}
