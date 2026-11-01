@@ -65,6 +65,7 @@ tags:
 - dragsters
 - grassroots-sources
 related:
+- drag-racing/kanawha-valley-drag-strip-winfield.md
 - places/ohio-gassers.md
 - drag-racing/quaker-city-salem.md
 - drag-racing/columbus-trotters-high-winders.md

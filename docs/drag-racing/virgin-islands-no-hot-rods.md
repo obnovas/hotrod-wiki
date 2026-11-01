@@ -51,6 +51,7 @@ tags:
 - magazines-and-media
 - grassroots-sources
 related:
+- drag-racing/kahuku-point-hawaii-drag-strip.md
 - drag-racing/key-west-rumbling-rods.md
 - drag-racing/washington-suburbs-drag-strip-debate.md
 - drag-racing/north-carolina-drag-strip-debate-1956.md

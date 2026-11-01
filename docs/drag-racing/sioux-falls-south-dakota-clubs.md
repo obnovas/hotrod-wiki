@@ -78,6 +78,7 @@ tags:
 - oral-history
 - grassroots-sources
 related:
+- drag-racing/casper-bar-nunn-wyoming-strips.md
 - drag-racing/planners-report-1955.md
 - places/dragging-main.md
 - drag-racing/nebraska-go-out-to-scribner.md

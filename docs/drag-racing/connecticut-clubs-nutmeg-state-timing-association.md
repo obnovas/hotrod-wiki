@@ -52,6 +52,7 @@ tags:
 - drag-strips
 - grassroots-sources
 related:
+- drag-racing/milton-speedway-vermont.md
 - drag-racing/sanford-cain-bannister.md
 - drag-racing/georgetown-speedway-delaware.md
 - drag-racing/dc-dragons-jo-ann-johnson.md

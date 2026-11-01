@@ -57,6 +57,7 @@ tags:
 - funny-cars
 - grassroots-sources
 related:
+- drag-racing/milton-speedway-vermont.md
 - drag-racing/pennsauken-central-airport-1958.md
 - drag-racing/kingston-igniters.md
 - drag-racing/stroudsburg-ridge-runners.md

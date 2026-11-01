@@ -66,6 +66,7 @@ tags:
 - oral-history
 - grassroots-sources
 related:
+- drag-racing/milton-speedway-vermont.md
 - drag-racing/sanford-cain-bannister.md
 - drag-racing/connecticut-clubs-nutmeg-state-timing-association.md
 - drag-racing/pennsauken-central-airport-1958.md
