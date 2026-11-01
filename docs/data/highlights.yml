@@ -1177,3 +1177,51 @@ highlights:
     added: '2026-10-31'
     eras: [1950s, 1960s]
     regions: ['Charlestown, R.I.']
+
+  - id: winfield-open-on-sunday
+    headline: '"We were open on Sunday": West Virginia''s first drag strip and the Ohio racers, 1958–76'
+    teaser: In 1958 Putnam County racers built West Virginia's first organized drag strip near Winfield. A
+      founder of the state's drag racing hall of fame says Ohio's 26 strips were closed on Sundays, so the
+      Ohio racers made Winfield part of their weekend circuit.
+    link: drag-racing/kanawha-valley-drag-strip-winfield.md
+    evidence: [And we were open on Sunday, You had 26 dragstrips in Ohio, The first organized drag strip in
+        West Virginia]
+    source_type: [Local news, Historical marker]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-01'
+    eras: [1950s, 1960s, 1970s]
+    regions: ['Winfield, W.Va.']
+
+  - id: milton-safer-place-to-race
+    headline: 'A safer place than the public roads: Vermont''s only drag strip, Milton, 1963'
+    teaser: On June 23, 1963, the partners of Milton's B&M Motors and a Burlington driver opened Vermont's
+      first drag strip beside U.S. 7, to the delight of police. A boy who hitchhiked there at 14 or 15 remembers
+      Shirley Muldowney in a Corvette one season and an injected rail the next.
+    link: drag-racing/milton-speedway-vermont.md
+    evidence: ['to the delight of police, a safer place to race than Milton''s public roads', I remember
+        hitchhiking up to the Milton strip when I was 14 or 15 in the mid sixties]
+    source_type: [Historical marker, Forum post]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-01'
+    eras: [1960s]
+    regions: ['Milton, Vt.']
+
+  - id: kahuku-saturday-night-sunday
+    headline: '"Put it in Saturday night, and race Sunday": an airman''s Hemi coupe at Kahuku, Oahu'
+    teaser: Before statehood, Oahu's drag racers ran on an abandoned wartime airfield at Kahuku Point, made
+      "somewhat legal" by a deal with the farmer who leased it. A Hickam airman remembered his team's 1934
+      Ford with a Chrysler Hemi running 110 in the quarter there.
+    link: drag-racing/kahuku-point-hawaii-drag-strip.md
+    evidence: [We'd put it in Saturday night, and race Sunday, somewhat legal, we ran 110 in the quarter at
+        Kahuku]
+    source_type: [Family account, Local history site]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-01'
+    eras: [1950s, 1960s]
+    regions: ['Kahuku, Hawaii']

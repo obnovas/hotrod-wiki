@@ -561,3 +561,34 @@ Tags as above. The newspapers are page OCR from Chronicling America (Library of 
 - [local] *Peninsula Enterprise* (Accomac, Va.), "Summer Sports on the Shore," June 13, 1963. https://www.loc.gov/item/sn94060041/
 - [local] *Kodiak Mirror* (Kodiak, Alaska), March 10, 1956, and Aug. 11, 1961. https://www.loc.gov/item/sn83045298/
 - [local] *Detroit Tribune*, Jan. 9, 1954 (the Michigan Hot Rod Association's second Autorama). https://www.loc.gov/item/sn92063852/
+
+## Added in Round 29 (accessed 2026-11-01)
+Tags as above. The Rhode Island and Ohio newspapers are page OCR from Chronicling America (Library of Congress), cited page by page in each article. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [org] "Milton Speedway," Vermont Division for Historic Preservation marker (2019), Historical Marker Database transcript. https://www.hmdb.org/m.asp?m=151134
+- [local] Erin Brown, "Milton Speedway recognized as historical site," WCAX-TV, Aug. 17, 2019. https://www.wcax.com/content/news/Milton-Speedway-recognized-as-historical-site-550312071.html
+- [org] "This Place in History: Milton Speedway," Vermont Historical Society, Dec. 10, 2020. https://vermonthistory.org/milton-speedway
+- [mag] Brian Lohnes, "Dead Drag Strip File: The Mysterious And Overgrown Footprint Of Milton Speedway," BangShift.com, Feb. 22, 2013, with readers' firsthand comments. https://bangshift.com/general-news/the-mysterious-and-overgrown-footprint-of-milton-speedway/
+- [mag] Brian Lohnes, "Drag History: Period Photos From Milton Speedway – Vermont's Long Dead Drag Strip," BangShift.com, April 22, 2014. https://bangshift.com/general-news/drag-history-period-photos-milton-speedway-vermonts-long-dead-drag-strip/
+- [local] "History Space: What made Milton a racing town," *Burlington Free Press*, April 16, 2017 (paywalled; search excerpt only). https://www.burlingtonfreepress.com/story/news/2017/04/16/made-milton-racing-town/100490126/
+- [org] "Kanawha Valley Drag Strip," West Virginia Archives and History marker (2019), Historical Marker Database transcript. https://www.hmdb.org/m.asp?m=137368
+- [local] Scott Parsons, "Drag Racing Hall of Fame opens in Winfield," *Putnam Herald* / *Herald-Dispatch*, Aug. 4, 2017. https://www.herald-dispatch.com/news/putnam_news/drag-racing-hall-of-fame-opens-in-winfield/article_36db9907-2f3f-5e6b-8dfa-22ebc7e3414a.html
+- [local] Gilbert McClanahan, "Winfield City Hall has special 'vroom' to honor drag racers," WCHS-TV, July 25, 2017. https://wchstv.com/news/local/wv-drag-racers-hall-of-fame-in-winfield-city-hall
+- [local] "W.Va. Drag Racing Hall of Fame not sitting still," *The Dominion Post* (Morgantown), Sept. 23, 2022. https://www.dominionpost.com/2022/09/23/w-va-drag-racing-hall-of-fame-not-sitting-still/
+- [local] "West Virginia Drag Racer Hall of Fame to celebrate the 10th anniversary," *The Dominion Post*, Sept. 5, 2023. https://www.dominionpost.com/2023/09/05/west-virginia-drag-racer-hall-of-fame-to-celebrate-the-10th-anniversary/
+- [oral] Denise, "From the photo archives: the Compton family of Nutter Fort," *Living in the Past* (family blog; Ralph Murphy's slides), March 29, 2024. https://denise-livinginthepast.blogspot.com/2024/03/from-photo-archives-compton-family-of.html
+- [oral] "Hawaii: Memories," DragStripList.com (LeRoy Noker via Shawn Noker; Roland Leong; Rita (Ramos) Casil). https://www.dragstriplist.com/hi
+- [local] Kanehili, "Ancient Hawaiian Kanehili Kalaeloa Race Track Drag Strip, Hawaii Racetrack Dragstrip History," Honouliuli local history blog, Sept. 21, 2019. http://honouliuli.blogspot.com/2019/09/ancient-hawaiian-race-track.html
+- [local] Andrew Gomes, "Land disputes plagued noted car dealership founder," *Honolulu Star-Advertiser*, Sept. 26, 2017. https://www.staradvertiser.com/2017/09/26/hawaii-news/land-disputes-plagued-noted-car-dealership-founder/
+- [local] John Berger, "Known as 'The Hawaiian,' Roland Leong loved auto racing from an early age," *Honolulu Star-Advertiser*, Jan. 14, 2024. https://www.staradvertiser.com/2024/01/14/hawaii-news/roland-leong-the-hawaiian-loved-auto-racing-from-an-early-age/
+- [mag] John Gilbert, "Hawaiian Hot Rodding Pioneer Jimmy Pflueger's Last 1932 Ford," *Hot Rod*, Feb. 26, 2018. https://www.hotrod.com/features/hawaiian-hot-rodding-pioneer-jimmy-pfluegers-last-1932-ford
+- [mag] Ryan, "Kahuku Point Airfield," The Jalopy Journal, Aug. 17, 2020; Jive-Bomber, "Hot Rodding in Hawaii… Hao Wela!!," Aug. 25, 2009. https://www.jalopyjournal.com/?p=45783
+- [org] "Hawaii," Kustomrama (citing *Best Hot Rods*, 1952). https://www.kustomrama.com/wiki/Hawaii
+- [club] "Sheridan's Speedways long history of racing!," Sheridan Speedway. http://www.sheridanspeedway.com/about/
+- [org] Paul Freeman, "Abandoned & Little-Known Airfields: Wyoming." https://airfieldsfreeman.com/WY/Airfields_WY.htm
+- [local] Dale Killingbeck, "Wyoming Places: Bar Nunn Was Built On An Airport Where John Wayne Once Filmed," Cowboy State Daily, Dec. 31, 2023. https://cowboystatedaily.com/2023/12/31/bar-nunn-wyoming-was-built-on-an-airport-where-john-wayne-once-filmed/
+- [local] Doc Holliday, "Remember When Douglas Used to Have Wyoming's Only Drag Strip?," My Country 95.5, Jan. 16, 2020. https://mycountry955.com/remember-when-douglas-used-to-have-wyomings-only-drag-strip/
+- [mag] Andrew Wolf, "Wyoming's Lone Drag Strip Closed For Good By Local City Officials," Dragzine, Dec. 3, 2015. https://www.dragzine.com/news/wyomings-lone-drag-strip-closed-for-good-by-local-city-council/
+- [mag] Mike Spinelli, "High Plains Dragster: Wyoming's Street Racing Capital," *Road & Track*, Nov. 15, 2023. https://www.roadandtrack.com/car-culture/a45448142/casper-wyoming-do-prep-street-drag-racing/
+- [local] *The Newport Navalog*, June 29, 1956, May 27 and June 3, 1960 (Pascoag and Charlestown drags). https://www.loc.gov/item/sn91070618/
+- [local] *Geauga Record* (Chardon, Ohio), Aug. 18 and Sept. 1, 1960 (a Rt. 322 drag race and the court). https://www.loc.gov/item/sn84028102/

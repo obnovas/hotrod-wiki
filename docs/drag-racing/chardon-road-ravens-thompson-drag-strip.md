@@ -19,6 +19,7 @@ cities:
 - Painesville, Ohio
 - Aurora, Ohio
 people:
+- Harold Richmond
 - Louis Berta
 - Earl Stoltz
 - Bruce Erickson
@@ -48,6 +49,7 @@ places:
 - Chardon Roller Rink
 - East Park Street club garage (Chardon)
 - Thompson Township
+- U.S. Route 322 (Geauga County)
 clubs:
 - Road Ravens Hot Rod Club (Chardon)
 - Goldenrods Hot Rod Club (Painesville)
@@ -55,6 +57,7 @@ strips:
 - Thompson Drag Raceway
 - Quaker City Dragway
 tags:
+- street-racing
 - car-clubs
 - police-and-safety
 - teenagers-and-schools
@@ -73,7 +76,7 @@ canonical_for: []
 *An optometrist's living room full of policemen, a club garage with a television in the lounge, and the Swamp Rat on Ohio's longest straight*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the club rests on the county seat's weekly, read issue by issue as page OCR, with names and dates; the strip's early years rest on the same paper's 1961 ads and stories; its founding date and its "oldest in Ohio" title come from later trade and local stories that do not agree) · **Source types:** <span class="hr-badge">Grassroots</span> county-seat weekly (*Geauga Record*, Chardon, Ohio): club news, photographs, a sheriff's campaign ad and drag strip ads, 1956–61, read as Library of Congress Chronicling America page OCR; *The News-Herald* (Willoughby, Ohio), 2014; Hemmings (2024); Performance Racing Industry (2019); DragStory (NHRA release, 2025) · **Last verified:** 2026-10-31 (Round 28) · **Open issues:** when Thompson opened, 1958 or 1960 ⚠; Ohio's oldest strip? ⚠; did Thompson launch Garlits? ◐; what became of the Road Ravens ? · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the club rests on the county seat's weekly, read issue by issue as page OCR, with names and dates; the strip's early years rest on the same paper's 1961 ads and stories; its founding date and its "oldest in Ohio" title come from later trade and local stories that do not agree) · **Source types:** <span class="hr-badge">Grassroots</span> county-seat weekly (*Geauga Record*, Chardon, Ohio): club news, photographs, a sheriff's campaign ad, court news and drag strip ads, 1956–61, read as Library of Congress Chronicling America page OCR; *The News-Herald* (Willoughby, Ohio), 2014; Hemmings (2024); Performance Racing Industry (2019); DragStory (NHRA release, 2025) · **Last verified:** 2026-11-01 (Round 29) · **Open issues:** when Thompson opened, 1958 or 1960 ⚠; Ohio's oldest strip? ⚠; did Thompson launch Garlits? ◐; what became of the Road Ravens ? · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Prospective members are expected to prove their interest in promoting safe, courteous and sportsmanlike driving."
@@ -97,6 +100,10 @@ In March 1957 the paper ran a photograph of Ray Miller and Bruce Erickson wiping
 Just east of Chardon, at Routes 528 and 166 in Thompson Township, Geauga County got a strip of its own.[^gr610817]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> By the summer of 1961 Thompson Drag Strip was running every Saturday night and buying ads in the *Record*. One, in late July, promised "WORLD'S FASTEST DRAGSTERS," with "World Champion DON GARLITS racing his 200 mph SWAMP RAT" on Saturday night and, all day Sunday, the "Drag Master Two-Thing" of Dode Martin and Tom Nelson in an "Exclusive Ohio appearance."[^gr610727]
 
 Garlits came back in August for his "final appearance of the season in Northern Ohio." The *Record*'s story gave the Swamp Rat the official world speed record of 189.45 mph and a Thompson track record of 182.45, said it had been custom built "in his own speed shop in Tampa, Florida," and reported that he had just beaten Art Malone in a Michigan match race at 191 mph. It also explained why he came: "Garlits chose Thompson Drag Strip for his Northern Ohio appearances because Thompson has Ohio's longest straight track, 4,000 feet over-all, allowing more room for safer stops at the end of the 1320-ft. run." There would be "no increase in admission," and the ad beside it, for a $3,000 invitational the next weekend, called the place "The Track of Champions."[^gr610817]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see the bottom of the page">◐</a></sup>
+
+## Route 322, 1960
+
+The strip did not end the road racing, and the *Record* kept score of that too. On a Thursday night in August 1960, two county youths, 21 and 20, one from Novelty and one from Chardon, started drag racing on Rt. 322. "When police gave chase, they turned north on County Line Rd., then whipped over to River Rd. Police clocked them at 100 mph before roadblock stopped the speeders." Common Pleas Judge Harold Richmond fined each $25 and costs, suspended their licenses for three months, and warned that if they drove before the suspension was up he would fine them $500 and "hand them a one year jail sentence."[^gr600818] Two weeks later the older of the two was back "AT THE COURTHOUSE": he pleaded guilty "on a charge of drag racing and contributing to the delinquency of a minor," and was fined $500 and six months in the county jail; on paying $475 of the fine, the jail term was suspended, and his license was suspended for three months more.[^gr600901] (The paper named both; we have left the names out.)
 
 ## Still racing
 
@@ -127,6 +134,8 @@ The *Geauga Record*, 1958–60 (Thompson's opening, owners and first meets); the
 [^gr561101]: Sheriff E. John Phelps campaign advertisement, *Geauga Record*, Nov. 1, 1956, p. 7. Page OCR. https://www.loc.gov/resource/sn84028102/1956-11-01/ed-1/?sp=7&st=text (accessed 2026-10-31)
 [^gr561206]: "Hot Rodders Are Planning Open House," *Geauga Record*, Dec. 6, 1956, p. 4. Page OCR. https://www.loc.gov/resource/sn84028102/1956-12-06/ed-1/?sp=4&st=text (accessed 2026-10-31)
 [^gr570328]: "Road Ravens Clean Windshields" (photo and caption), *Geauga Record*, March 28, 1957, p. 1. Page OCR. https://www.loc.gov/resource/sn84028102/1957-03-28/ed-1/?sp=1&st=text (accessed 2026-10-31)
+[^gr600818]: "Police Nab Speeders at 100 MPH," *Geauga Record*, Aug. 18, 1960, p. 1. Page OCR. https://www.loc.gov/resource/sn84028102/1960-08-18/ed-1/?sp=1&st=text (accessed 2026-11-01)
+[^gr600901]: "At the Courthouse," *Geauga Record*, Sept. 1, 1960, p. 12. Page OCR. https://www.loc.gov/resource/sn84028102/1960-09-01/ed-1/?sp=12&st=text (accessed 2026-11-01)
 [^gr610727]: Thompson Drag Strip advertisement, *Geauga Record*, July 27, 1961, p. 2. Page OCR. https://www.loc.gov/resource/sn84028102/1961-07-27/ed-1/?sp=2&st=text (accessed 2026-10-31)
 [^gr610817]: "Worlds Fastest Drag Racer at Thompson This Sunday" and Thompson Drag Strip advertisement, *Geauga Record*, Aug. 17, 1961, p. 4. Page OCR. https://www.loc.gov/resource/sn84028102/1961-08-17/ed-1/?sp=4&st=text (accessed 2026-10-31)
 [^nh14]: Jean Bonchak, "Supercharged Thompson Raceway serves racers, spectators for 56 years," *The News-Herald* (Willoughby, Ohio), June 16, 2014. https://www.news-herald.com/2014/06/16/supercharged-thompson-raceway-serves-racers-spectators-for-56-years/ (accessed 2026-10-31)

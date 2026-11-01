@@ -45,13 +45,15 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Northeast overview.** [Midwest & East Threads](midwest-east.md).
 
-**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) · [Help Them Get a Drag Strip: Connecticut's clubs and the road to East Haddam](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) · [Racing Toward Route 1: Charlestown Dragway and Rhode Island's Navy runway](../drag-racing/charlestown-dragway-rhode-island.md).
+**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) · [Help Them Get a Drag Strip: Connecticut's clubs and the road to East Haddam](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) · [Racing Toward Route 1: Charlestown Dragway and Rhode Island's Navy runway](../drag-racing/charlestown-dragway-rhode-island.md) · [A Safer Place Than Route 7: Milton Speedway, Vermont's only drag strip](../drag-racing/milton-speedway-vermont.md).
 
 **Pennsylvania.** [The Ridge Runners of Stroudsburg](../drag-racing/stroudsburg-ridge-runners.md) · [Where Could a Pocono Hot Rodder Race?](../drag-racing/pocono-strips.md) · [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md) · [Leonard Miller](../voices/leonard-miller.md) · [Hurst-Campbell](../companies/hurst-campbell.md).
 
 **New York, New Jersey and Delaware.** [The Kingston Igniters](../drag-racing/kingston-igniters.md) · ["Opinions Differ on Hot Rods" (Buffalo)](../drag-racing/new-york-towns-panel-1957.md) · [Tear Gas on the Runways (Pennsauken)](../drag-racing/pennsauken-central-airport-1958.md) · [The Recreation Directors' Drag Strip Debate](../drag-racing/recreation-1957-pro-and-con.md) · ["No Roll Bars Needed": Georgetown Speedway's drag strip (Del.)](../drag-racing/georgetown-speedway-delaware.md).
 
 **Maryland, Virginia and Washington, D.C.** [The Clockers of Cumberland](../drag-racing/cumberland-clockers.md) · [Jo Ann Johnson and the D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) · ["Our Name Is Mud": the Washington suburbs' drag strip argument, Old Dominion and Aquasco](../drag-racing/washington-suburbs-drag-strip-debate.md).
+
+**West Virginia.** [Open on Sunday: Winfield's Kanawha Valley Drag Strip and the Bridgeport airport racers](../drag-racing/kanawha-valley-drag-strip-winfield.md).
 
 **Kentucky.** [Seven Thousand on a Country Rock Road: Cedar Creek and Kentucky's hometown strips](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md).
 
@@ -89,7 +91,11 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md) · [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md).
 
+**Wyoming.** [Six Miles of Runway: Casper's old airport, Sheridan's Hot Rod Club and Wyoming's drag strips](../drag-racing/casper-bar-nunn-wyoming-strips.md).
+
 **Alaska.** [Drag $1.00, Stag 75¢: Palmer's strip hunt and Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md).
+
+**Hawaii.** [Hao Wela at Kahuku: Oahu's airfield drags and the road to Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md).
 
 **California beyond the Los Angeles basin.** [The Palm Springs Timing Association](../drag-racing/palm-springs-timing-association.md) · [The Schafer Oil Special and the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md) · [Golden State Raceway, Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md).
 

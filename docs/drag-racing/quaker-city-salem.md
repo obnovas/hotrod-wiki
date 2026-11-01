@@ -100,7 +100,7 @@ By the 1970s the strip ran on bracket money. On July 3, 1977, more than 2,000 pe
 
 Quaker City is still running. Norm Fox bought it (in 2011 per the track,[^qcmp] 2010 per *Drag Illustrated*[^di])<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> and rebuilt it as Quaker City Motorsports Park.[^qcmp] It is the rare small-town strip in this wiki that outlived its founders, perhaps because it never depended on borrowed runway. Compare the airfield strips at [Malden](semo-malden-drag-strip.md) and [Cotati](marin-cotati-strips.md), and the Ohio circuit in [Ohio Gassers](../places/ohio-gassers.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
 
-*See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md).
+*See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md); and, across the river, [Open on Sunday](kanawha-valley-drag-strip-winfield.md), West Virginia's first strip, which says it drew Ohio racers on Sundays.
 
 ## Open questions & disputed details
 

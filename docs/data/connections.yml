@@ -155,6 +155,9 @@ nodes:
   - {id: sneta,      label: Southern New England Timing Association, type: club, page: drag-racing/charlestown-dragway-rhode-island.md}
   - {id: thompsonoh, label: "Thompson Drag Raceway / Kuhnle Motorsports Park (Ohio)", type: place, page: drag-racing/chardon-road-ravens-thompson-drag-strip.md}
   - {id: roadravens, label: "Road Ravens (Chardon, Ohio)", type: club, page: drag-racing/chardon-road-ravens-thompson-drag-strip.md}
+  # ---- Round 29
+  - {id: miltonvt,   label: "Milton Speedway (Vt.)", type: place, page: drag-racing/milton-speedway-vermont.md}
+  - {id: douglaswy,  label: "Douglas Motorsports Park (Wyo.)", type: place, page: drag-racing/casper-bar-nunn-wyoming-strips.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -522,3 +525,9 @@ edges:
      evidence: ["Cleveland's gasser crowd ran there in the 1960s"]}
   - {from: nhra, to: thompsonoh, type: scene, label: "Joined the NHRA Member Track Network, 2025", page: drag-racing/chardon-road-ravens-thompson-drag-strip.md,
      evidence: ["the NHRA welcomed it to its Member Track Network"]}
+  - {from: nascar, to: miltonvt, type: partnered, label: "Sanctioned Vermont's only drag strip, 1960s", page: drag-racing/milton-speedway-vermont.md,
+     evidence: ["It was NASCAR-sanctioned"]}
+  - {from: arfons, to: miltonvt, type: scene, label: "Walt Arfons brought his jet dragster to Milton, June 1966", page: drag-racing/milton-speedway-vermont.md,
+     evidence: ["Walt Arfons' 'Bonneville Avenger' jet dragster in June 1966"]}
+  - {from: nhra, to: douglaswy, type: partnered, label: "Wyoming's one NHRA-sanctioned strip, to 2015", page: drag-racing/casper-bar-nunn-wyoming-strips.md,
+     evidence: ["an NHRA-sanctioned one at that"]}

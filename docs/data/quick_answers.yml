@@ -510,6 +510,41 @@ themes:
           in 1957 the members spent a Sunday cleaning windshields on parked cars.
         link: drag-racing/chardon-road-ravens-thompson-drag-strip.md
         also: [drag-racing/escanaba-dragns.md, drag-racing/high-school-hot-rod-clubs.md]
+      - id: vermont-drag-strip
+        q: Did Vermont ever have a drag strip?
+        a: >-
+          One, at Milton. The state's historic marker says the partners of Milton's B&M Motors and Burlington driver
+          Jack DuBrul opened it beside U.S. 7 on June 23, 1963 (⚠ see Open questions); the Vermont Historical Society
+          calls it the only legal drag strip in Vermont, and it closed around 1971.
+        link: drag-racing/milton-speedway-vermont.md
+        also: [drag-racing/sanford-cain-bannister.md, drag-racing/charlestown-dragway-rhode-island.md]
+        flag: drag-racing/milton-speedway-vermont.md#q-1
+      - id: west-virginia-first-strip
+        q: Where did drag racing start in West Virginia?
+        a: >-
+          Near Winfield, in Putnam County. The Kanawha Valley Drag Strip opened there in 1958, the state's first
+          organized strip, and ran until 1976; a founder of the state's drag racing hall of fame says the Ohio racers
+          came because it raced on Sundays (⚠ see Open questions).
+        link: drag-racing/kanawha-valley-drag-strip-winfield.md
+        also: [drag-racing/quaker-city-salem.md, drag-racing/chardon-road-ravens-thompson-drag-strip.md]
+        flag: drag-racing/kanawha-valley-drag-strip-winfield.md#q-1
+      - id: hawaii-before-statehood
+        q: Was there drag racing in Hawaii before statehood?
+        a: >-
+          Yes. A Honolulu timing association formed in 1949, and racers later used the abandoned Kahuku
+          Point airfield at the north tip of Oahu until Jimmy Pflueger's Hawaii Raceway Park opened in Ewa in 1963
+          or 1964 (⚠ see Open questions).
+        link: drag-racing/kahuku-point-hawaii-drag-strip.md
+        also: [drag-racing/palmer-alaska-polar-dragway.md, drag-racing/virgin-islands-no-hot-rods.md]
+        flag: drag-racing/kahuku-point-hawaii-drag-strip.md#q-3
+      - id: wyoming-old-airports
+        q: Where did Wyoming's hot rodders race?
+        a: >-
+          Often on old airports. Casper's first airport, Wardwell Field, saw car races and drag races on its six
+          miles of runway after Romie Nunn bought it in 1954, and Douglas's old airport was the state's one
+          sanctioned drag strip from the mid-1980s until 2015.
+        link: drag-racing/casper-bar-nunn-wyoming-strips.md
+        also: [drag-racing/sioux-falls-south-dakota-clubs.md, drag-racing/montana-hoodoos-road-runners-royal-coachmen.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
