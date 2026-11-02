@@ -54,6 +54,7 @@
 | Black American Racers Association | 1973 | [Leonard Miller](../voices/leonard-miller.md) |
 | Black Widows Car Club | Birmingham-area club; built Lassiter Mountain Dragway, 1958 | [Alabama](../drag-racing/alabama-black-widows-lassiter-helena.md) |
 | Black, Ken | Las Vegas racer, later a Pro Stock team owner; "We called it Jean International" | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
+| Blaylock, George | Pelham, Ala., racer at Helena from Chilton County; remembers Garlits at 200 mph there ◐ | [Alabama](../drag-racing/alabama-black-widows-lassiter-helena.md) |
 | Blickhorn, Jimmy | Rod Knockers member; the club's '34 Ford was built in his Johnston, R.I., garage ◐ | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | Bolte, Whitey | Omaha truck driver; 24 trophies in two years of drag racing, 1958 | [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md) |
 | Bottcher, Bill | Sedalia Drag-Ons president, 1962 | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md) |
@@ -534,7 +535,7 @@
 | Wohleb, S. J. | Cameron, Tex., farmer; offered land for a strip, 1963 | [Cameron Accelerators](../drag-racing/cameron-accelerators.md) |
 | Woitesek, Tom | Crane Cams shop foreman who went to Memphis; COMP co-founder | [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | Wolcott, Bobby | Worked at Custom Automotive, Dallas, in the 1950s ("wbrw32") | [T-Bones & Cheater Slicks](../voices/dallas-folksay-custom-automotive.md) |
-| Woolever, George | Marlow, Okla.; said by a relative to have built Heath's engine ◐ | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
+| Woolever, George | Marlow, Okla.; said by his great-nephew to have built Heath's engine ◐ | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | Xydias, Alex | So-Cal Speed Shop | [Alex Xydias](../people/alex-xydias.md) |
 | Yates, Doug | Chapel Hill car dealer and stock car driver who backed supervised strips, 1956 | [North Carolina debate](../drag-racing/north-carolina-drag-strip-debate-1956.md) |
 | Youngblood, Kenny | Artist; Lions memories | [Esparza Brothers](../voices/esparza-brothers.md) |

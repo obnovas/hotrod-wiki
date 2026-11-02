@@ -60,6 +60,7 @@ related:
 - drag-racing/san-antonio-double-eagle-alamo-dragway.md
 - places/texas.md
 - drag-racing/houston-freeway-dragstrip.md
+- drag-racing/oklahoma-city-nationals-rush-springs.md
 canonical_for: []
 ---
 # The Track That Milk Built: Green Valley Raceway (Smithfield, Tex., 1960–86)
@@ -109,6 +110,8 @@ North Richland Hills was no longer a farm town, and the raceway's crowds tested 
 The end came in stages. Two fatal crashes three weeks apart in 1983 brought a negligence lawsuit; in October 1984 the aging road course held its last professional races, a Trans-Am and Can-Am weekend; and in February 1986 the NHRA's Winston series closed out "nearly a quarter century of championship racing."[^gvr] The city page says the final event, "the Last Race," ran on the weekend of June 15, 1986: "After a decade of noise complaints, the owners defiantly closed out the event with jet dragsters running deafening quarter-miles for everyone to revel in."[^gvr]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Houses cover the farm now. *Press Box DFW* traced the strip running south-southeast across today's Bursey Road, with the start line near North Tarrant Parkway and the finish near Green Valley Drive; only a bridge and some guard railing are left.[^pb] The city's Green Valley Raceway Historic Plaza, at 7904 N. Tarrant Parkway, asks the people who raced there for their stories.[^gvrhome]
+
+*See also:* [A Watermelon Farmer's Dragster](oklahoma-city-nationals-rush-springs.md), where Bobby Langley, on Green Valley's 1960 Race of Champions card, turns up at the 1957 Nationals in Oklahoma City.
 
 ## Open questions & disputed details
 

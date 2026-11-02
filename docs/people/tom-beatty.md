@@ -35,6 +35,7 @@ related:
 - people/kong-jackson.md
 - companies/edelbrock-slingshot.md
 - companies/moon-equipment.md
+- drag-racing/denver-timing-association-bandimere.md
 canonical_for: []
 ---
 # Tom Beatty and the "Rust Bucket"
@@ -68,6 +69,8 @@ And it kept going. RM says it was SCTA Top Speed of the Season five straight yea
 ## The shop
 
 By then Beatty was in business. He opened **Tom Beatty Automotive Engineering**, Sun Valley, in 1958, selling 6-71 blower manifolds and multi-belt drives.[^tank]
+
+*See also:* [the Denver Timing Association](../drag-racing/denver-timing-association-bandimere.md), whose charter member Bob Olds remembered Beatty letting him drive the belly tanker one way at Bonneville.
 
 ## Open questions & disputed details
 

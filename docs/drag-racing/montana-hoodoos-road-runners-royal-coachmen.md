@@ -64,7 +64,7 @@ canonical_for: []
 # "Angels Behind the Wheel": Montana's Hoodoos, Road Runners and Royal Coachmen (Poplar, Arlee and Ronan, Mont., 1955–62)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> Montana weeklies (*Poplar Standard*, *Sidney Herald*, *Hardin Tribune-Herald*, *St. Ignatius Post*), 1955–62: club statements, a club's letter to the editor, a reprinted editorial and a local racing item, read as page OCR from Chronicling America (Library of Congress) · **Last verified:** 2026-10-22 (Round 23-West) · **Open issues:** the Morin trophy count and times come from one paragraph ◐; the Lewistown meet is known only from a reprinted editorial ◐; where Montana's own strips were ? · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> Montana weeklies (*Poplar Standard*, *Sidney Herald*, *Hardin Tribune-Herald*, *St. Ignatius Post*), 1955–62: club statements, a club's letter to the editor, a reprinted editorial and a local racing item, read as page OCR from Chronicling America (Library of Congress) · **Last verified:** 2026-10-22 (Round 23-West) · **Open issues:** the Morin trophy count and times come from one paragraph ◐; the Lewistown meet is known only from a reprinted editorial ◐; whether the Hoodoos, Throttle Pushers and Royal Coachmen lasted past their first year ? · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We are not gang of tough guys, and don't pretend to be."
@@ -107,11 +107,11 @@ Clubs elsewhere in this wiki wrote the same kind of statements: the [Orchids and
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Are the Morin numbers right?** The trophy count, the 89,000 miles and both times come from one correspondent's paragraph, which also mentions a *Missoulian* feature on the family that we have not found. The paper prints the boy's name as "Thomothy."[^sip620726] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>
+<a id="q-3" class="hr-q-anchor"></a>**Open question.** **Did the Hoodoos, Throttle Pushers or Royal Coachmen last past their first year?** We know the Hoodoos from one 1955 statement, the Throttle Pushers from one 1958 report and the Royal Coachmen from the winter of 1961–62; only the Road Runners still turn up, with Morin as president, in 1962.[^ps551230][^sh581112][^sip620125][^sip620726] Chronicling America's Montana weeklies stop at 1963. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ### Next leads
 
-The *Missoulian* feature on the Morins (summer 1962); where Montana's 1958–62 strips were at Butte, Bozeman and Conrad, and who ran them; the Lewistown meet in the *Lewistown Daily News* (May 1959); whether the Hoodoos, Throttle Pushers or Royal Coachmen lasted past their first year. Chronicling America's Montana weeklies stop at 1963. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+The *Missoulian* feature on the Morins (summer 1962); where Montana's 1958–62 strips were at Butte, Bozeman and Conrad, and who ran them; the Lewistown meet in the *Lewistown Daily News* (May 1959); later Montana papers, after 1963, for the Hoodoos, Throttle Pushers and Royal Coachmen.
 
 ## Sources
 

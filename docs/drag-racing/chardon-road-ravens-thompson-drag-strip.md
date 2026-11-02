@@ -70,6 +70,7 @@ related:
 - drag-racing/quaker-city-salem.md
 - drag-racing/columbus-trotters-high-winders.md
 - companies/mr-gasket.md
+- drag-racing/alabama-black-widows-lassiter-helena.md
 canonical_for: []
 ---
 # Windshields on a Sunday: Chardon's Road Ravens and the Track of Champions at Thompson (1955–61)
@@ -101,6 +102,8 @@ In March 1957 the paper ran a photograph of Ray Miller and Bruce Erickson wiping
 Just east of Chardon, at Routes 528 and 166 in Thompson Township, Geauga County got a strip of its own.[^gr610817]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> By the summer of 1961 Thompson Drag Strip was running every Saturday night and buying ads in the *Record*. One, in late July, promised "WORLD'S FASTEST DRAGSTERS," with "World Champion DON GARLITS racing his 200 mph SWAMP RAT" on Saturday night and, all day Sunday, the "Drag Master Two-Thing" of Dode Martin and Tom Nelson in an "Exclusive Ohio appearance."[^gr610727]
 
 Garlits came back in August for his "final appearance of the season in Northern Ohio." The *Record*'s story gave the Swamp Rat the official world speed record of 189.45 mph and a Thompson track record of 182.45, said it had been custom built "in his own speed shop in Tampa, Florida," and reported that he had just beaten Art Malone in a Michigan match race at 191 mph. It also explained why he came: "Garlits chose Thompson Drag Strip for his Northern Ohio appearances because Thompson has Ohio's longest straight track, 4,000 feet over-all, allowing more room for safer stops at the end of the 1320-ft. run." There would be "no increase in admission," and the ad beside it, for a $3,000 invitational the next weekend, called the place "The Track of Champions."[^gr610817]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see the bottom of the page">◐</a></sup>
+
+*See also:* in Alabama, a Helena racer remembers Garlits making 200 mph there; see [Cut Through the Mountain](alabama-black-widows-lassiter-helena.md#q-2).
 
 ## Route 322, 1960
 

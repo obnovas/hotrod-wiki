@@ -36,6 +36,7 @@ related:
 - people/howard-johansen.md
 - voices/ray-godman.md
 - drag-racing/sedalia-drag-ons.md
+- drag-racing/oklahoma-city-nationals-rush-springs.md
 canonical_for: []
 ---
 # Great Bend, Kansas: A Club, a Chamber of Commerce and the First Nationals (1953–1955)
@@ -81,6 +82,8 @@ The strip outlasted the nationals. The Tribune calls it a "National Hot Rod Asso
 ![USGS orthophoto of Great Bend Municipal Airport (the former Army airfield), 2006. We have ](../assets/images/commons-great-bend-airport-usgs-2006.jpg){ loading=lazy }
 <figcaption markdown>USGS orthophoto of Great Bend Municipal Airport (the former Army airfield), 2006. We have not identified the drag strip in this image. Creator: United States Geological Survey (USGS). Date: 2006. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_Bend_Municipal_Airport_KS_2006_USGS.jpg). License: Public domain.</figcaption>
 </figure>
+
+*See also:* [A Watermelon Farmer's Dragster](oklahoma-city-nationals-rush-springs.md), on Melvin Heath of Rush Springs, Okla., who had a disappointing 1955 Nationals here and won the next year, and on the 1957–58 Nationals at the Oklahoma City fairgrounds.
 
 ## Open questions & disputed details
 

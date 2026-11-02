@@ -46,6 +46,7 @@ related:
 - voices/strip-owners-and-door-slammers.md
 - people/veda-orr.md
 - people/doris-herbert.md
+- people/roland-leong.md
 canonical_for: []
 ---
 # Peggy Hart: The Racer Who Beat the Winners
@@ -90,7 +91,7 @@ In the Long & Tuttle clipping pamphlet ***Every Sunday Drag Races: Orange County
 
 The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
 
-*See also:* [Santa Ana Drags](../eras/1950s-santa-ana-drags.md), [Voices: the Harts at Santa Ana](../voices/harts-santa-ana.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Veda Orr](veda-orr.md), [Doris Herbert](doris-herbert.md). <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+*See also:* [Santa Ana Drags](../eras/1950s-santa-ana-drags.md), [Voices: the Harts at Santa Ana](../voices/harts-santa-ana.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Veda Orr](veda-orr.md), [Doris Herbert](doris-herbert.md), and [Roland Leong](roland-leong.md), the car owner whose Top Fuel license C.J. Hart took away. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ## Open questions & disputed details
 
