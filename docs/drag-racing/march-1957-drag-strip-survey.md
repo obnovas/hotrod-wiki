@@ -82,7 +82,7 @@ One item reads like a headline in itself: a drag strip near Denver "is being bui
 
 Denver's own history does not settle it. The Denver Hot Rod Club (the Strippers) and the Denver Timing Association "promoted safe drag racing in the Denver area in the early and mid '50s," according to a club member's recollection that credits them with helping to build **Continental Divide Raceway**, which opened in 1959.[^strip]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 Continental Divide was announced in 1956 as a sports complex, the project of Colorado Motor Raceway Inc., which the site says had gone under by 1957. Denver millionaire Sid Langsam bought out the company in March 1959 and opened the half-mile drag strip on **July 19, 1959**, with 8,600 fans and 250 entries.[^rc]
-**Bandimere Speedway** opened in 1958 west of Denver, "originally built to help promote his auto parts store," in the Denver Public Library's words.[^dpl]
+**Bandimere Speedway** opened in 1958 west of Denver, "originally built to help promote his auto parts store," in the Denver Public Library's words.[^dpl] The track's own timeline adds a 1957 detail: that fall John Bandimere Sr., "with help from Jefferson County Commissioners," located the parcel, and a building permit was issued.[^bhist] That is county help with a private strip, not a county building one with public money, but it is the nearest match yet (see [Denver's timing association and Bandimere](denver-timing-association-bandimere.md)).
 
 None of these says a county commission used public money for a strip in 1957. The UPI line may describe a project that never opened, a different county, or a garbled report.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -99,7 +99,7 @@ As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **What did the council say in 1957?** We know the National Safety Council's position only through the United Press story; in 1955–56 it had spoken well of supervised hot rodding.[^mmt][^ma][^pond] We have not seen the council's 1957 statement itself. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Which strip was it?** The county-built strip near Denver comes from one UPI line in the survey.[^mmt] The Denver projects we found don't fit: Continental Divide opened in 1959 as a private venture,[^rc] and Bandimere (1958) was built to promote an auto parts store.[^dpl] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Which strip was it?** The county-built strip near Denver comes from one UPI line in the survey.[^mmt] The Denver projects we found don't fit: Continental Divide opened in 1959 as a private venture,[^rc] and Bandimere (1958) was built to promote an auto parts store.[^dpl] The closest fit is Jefferson County's commissioners helping Bandimere find his land in the fall of 1957,[^bhist] which may be what the wire writer garbled; Jefferson County's 1957 minutes could tell. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Denver's clubs build Continental Divide?** The Strippers' and Denver Timing Association's part in building the 1959 strip rests on one club member's 2001 recollection.[^strip] Lead: the *Denver Post* or *Rocky Mountain News* on the strip's 1959 opening. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
@@ -116,4 +116,5 @@ The page is part of the University of Oregon's Historic Oregon Newspapers collec
 [^pond]: Major Eugene M. Pond, "Give the Hot Rodders a Break," *Public Safety*, May 1956. https://archive.org/details/sim_traffic-safety_1956-05_48_5 (accessed 2026-10-15)
 [^strip]: Pete Garramone, "The Strippers Car Club," *Drag Racing Story of the Day*, Apr 21, 2001. https://draglist.com/stories/SOD%20Apr%202001/SOD-042101.htm (accessed 2026-10-15)
 [^rc]: "Continental Divide," RacingCircuits.info. https://www.racingcircuits.info/north-america/usa/continental-divide.html (accessed 2026-10-15)
+[^bhist]: "Track History," Bandimere Speedway. https://bandimere.com/track-history/ (accessed 2026-11-02)
 [^dpl]: Brian K. Trembath, "Colorado Auto Racing: A Brief History," Denver Public Library Special Collections and Archives, Jan 19, 2016. https://history.denverlibrary.org/news/colorado-auto-racing-brief-history (accessed 2026-10-15)

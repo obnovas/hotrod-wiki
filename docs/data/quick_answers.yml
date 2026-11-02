@@ -546,9 +546,44 @@ themes:
           mid-1980s, and when it closed in 2015 it was the state's only active strip, NHRA-sanctioned.
         link: drag-racing/casper-bar-nunn-wyoming-strips.md
         also: [drag-racing/sioux-falls-south-dakota-clubs.md, drag-racing/montana-hoodoos-road-runners-royal-coachmen.md]
+      - id: oklahoma-city-nationals
+        q: Where did the 1957 and 1958 NHRA Nationals run?
+        a: >-
+          On a strip at the Oklahoma City fairgrounds that *Hot Rod* says the Jaycees built and ran. Oklahoma
+          already had a champion: Melvin Heath, a Rush Springs farmer, won the 1956 Nationals with a homebuilt
+          dragster; a relative says the engine was built in a barn in Marlow (◐ see Open questions).
+        link: drag-racing/oklahoma-city-nationals-rush-springs.md
+        also: [drag-racing/kansas-city-timing-association.md, drag-racing/great-bend-srca.md]
+        flag: drag-racing/oklahoma-city-nationals-rush-springs.md#q-2
+      - id: alabama-club-built-strip
+        q: Did any car club build its own drag strip in Alabama?
+        a: >-
+          Yes. In 1958 Birmingham's Black Widows car club cut Lassiter Mountain Dragway through a ridge, leaving
+          dirt embankments in lieu of guardrails. Sources call it an eighth-mile and a quarter-mile (⚠ see Open
+          questions).
+        link: drag-racing/alabama-black-widows-lassiter-helena.md
+        also: [drag-racing/pascagoula-timing-association.md]
+        flag: drag-racing/alabama-black-widows-lassiter-helena.md#q-1
+      - id: denver-timing-association-bandimere
+        q: How did Denver's hot rodders get organized, and where did Bandimere come from?
+        a: >-
+          In 1948 over 220 people answered an ad for a meeting at Wyman Elementary, and the Denver Timing
+          Association was incorporated in 1949. Parts dealer John Bandimere Sr. then built his own proving
+          ground west of Denver, buying the land in 1957 or 1958 (⚠ see Open questions).
+        link: drag-racing/denver-timing-association-bandimere.md
+        also: [drag-racing/march-1957-drag-strip-survey.md#the-denver-puzzle]
+        flag: drag-racing/denver-timing-association-bandimere.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
+      - id: tulsa-restless-ribbon
+        q: Where did Tulsa teenagers cruise?
+        a: >-
+          Peoria Avenue through Brookside, from 31st to 51st, nicknamed the Restless Ribbon. Cruisers honked their
+          school or club honk, parked on Soc Row at Pennington's Drive-In and met at Bellaire Village to race
+          for pink slips.
+        link: places/brookside-restless-ribbon-tulsa.md
+        also: [places/dragging-main.md]
       - id: sioux-falls-cruising-and-racing
         q: Where did Sioux Falls hot rodders cruise and race?
         a: >-
@@ -716,6 +751,15 @@ themes:
   - id: people
     title: People
     questions:
+      - id: who-was-roland-leong
+        q: Who was Roland Leong, "The Hawaiian"?
+        a: >-
+          A Honolulu racer who raced at Kahuku, crashed on his first Top Fuel run and became a car owner instead.
+          With Don Prudhomme, whom he met in Hawaii (in 1963 or 1964, ⚠ see Open questions), he won the 1965
+          Winternationals and U.S. Nationals.
+        link: people/roland-leong.md
+        also: [drag-racing/kahuku-point-hawaii-drag-strip.md]
+        flag: people/roland-leong.md#q-1
       - id: were-women-part-of-it
         q: Were women part of early hot rodding?
         a: >-

@@ -32,6 +32,7 @@ Most of them started in a garage, a shed or a borrowed corner of someone else's 
 - [Gene Snow](gene-snow.md): Fort Worth used-car dealer; *Rambunctious*, the first 200-mph Funny Car (⚠ date).
 - [Bob Bartel](bob-bartel.md): the ATAA, the World Series of Drag Racing and Quad City Drag Strip, Cordova.
 - [Joe Lunati](joe-lunati.md): Memphis Rodder, Corvair and Devin racer, founder of Lunati Cams (⚠ dates).
+- [Roland Leong](roland-leong.md): "The Hawaiian": Kahuku gas dragsters, Dragmasters, the crash that made him an owner, and Prudhomme (⚠ when they met).
 - Bruce Miller: see [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 *Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Jeg Coughlin Sr., Ron Hassel, "Ohio George" Montgomery, Carl & Marie Gay.

@@ -592,3 +592,35 @@ Tags as above. The Rhode Island and Ohio newspapers are page OCR from Chroniclin
 - [mag] Mike Spinelli, "High Plains Dragster: Wyoming's Street Racing Capital," *Road & Track*, Nov. 15, 2023. https://www.roadandtrack.com/car-culture/a45448142/casper-wyoming-do-prep-street-drag-racing/
 - [local] *The Newport Navalog*, June 29, 1956, May 27 and June 3, 1960 (Pascoag and Charlestown drags). https://www.loc.gov/item/sn91070618/
 - [local] *Geauga Record* (Chardon, Ohio), Aug. 18 and Sept. 1, 1960 (a Rt. 322 drag race and the court). https://www.loc.gov/item/sn84028102/
+
+## Added in Round 30 (accessed 2026-11-02)
+Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused our tools and were read only as search-engine excerpts; they are marked so in each article. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [oral] connerj, mudflap261, 150J/F, wbrw32 and Luan, "Drag Racing OKC 1957 pics," The H.A.M.B. (Jalopy Journal forum). https://www.jalopyjournal.com/forum/threads/drag-racing-okc-1957-pics.552667/
+- [club] G V Gordon, "Playboys Rod and Custom Club 1957," The H.A.M.B. (Jalopy Journal forum), 2017. https://www.jalopyjournal.com/forum/threads/playboys-rod-and-custom-club-1957.1047819/
+- [obit] "James C. Lewis Obituary," Brown Cummings funeral home, Enid, Okla., Mar. 4, 2022. https://www.browncummings.com/obituaries/james-lewis
+- [local] "The (Used to Be) Great State Fair of Oklahoma," *The Fat Okie*, Sept. 23, 2015. https://thefatokie.com/2015/09/23/the-used-to-be-great-state-fair-of-oklahoma/
+- [mag] "They're Building For The Big One," *Hot Rod*, July 1958. https://www.hotrod.com/features/theyre-building-for-the-big-one-july-1958-982-514-28-1
+- [org] "Info From Out of Nowhere," American Hot Rod Foundation (1956 and 1957 Nationals program covers). https://ahrf.com/info-from-out-of-nowhere/
+- [org] Phil Burgess, "Melvin Heath, 1930-2025; Oklahoman was NHRA's second national champion," NHRA.com, Feb. 19, 2025. https://www.nhra.com/news/2025/melvin-heath-1930-2025-oklahoman-was-nhra-s-second-national-champion
+- [org] "The First Nationals Winners," NHRA.com, Aug. 25, 2016. https://www.nhra.com/news/2016/first-nationals-winners
+- [oral] Oklahoma, Alabama and Colorado memories pages, *Drag Strip List*. https://www.dragstriplist.com/ok, https://www.dragstriplist.com/al, https://www.dragstriplist.com/co
+- [local] "History," Brookside Business Association (Tulsa). https://brooksidetheplacetobe.com/history/
+- [local] Paul Fairchild, "Dragging The Strip," *Oklahoma Magazine*, Mar. 29, 2011. https://okmag.com/blog/dragging_the_strip/
+- [oral] Karen, "Cruisin' the Restless Ribbon…Then and Now," *Confetti Thoughts*, Oct. 20, 2013. https://confettithoughts.com/2013/10/20/cruisin-the-restless-ribbon-then-and-now/
+- [oral] *The Restless Ribbon* (Tulsa memory blog), readers' letters, 2013–15 (Internet Archive copy of Nov. 3, 2016). https://web.archive.org/web/20161103233050/http://www.restlessribbon.com/
+- [org] "Lassiter Mountain Dragway," Bhamwiki. https://www.bhamwiki.com/w/Lassiter_Mountain_Dragway
+- [org] "Lassiter Mountain Dragway" (photo, ca. 1960), Encyclopedia of Alabama. https://encyclopediaofalabama.org/media/lassiter-mountain-dragway/
+- [local] Adam Smith, "Veteran race promoter excited about rebirth of Lassiter Mountain Dragway," *North Jefferson News* / *The Cullman Times*, Oct. 27, 2008. https://cullmantimes.com/2008/10/27/veteran-race-promoter-excited-about-rebirth-of-lassiter-mountain-dragway/
+- [oral] "Cars in Yards: 1958 Chevrolet Brookwood Station Wagon an automotive family heirloom," *Junkyard Life*, Sept. 5, 2018. https://www.junkyardlife.com/2018/09/cars-in-yards-1958-chevrolet-brookwood.html
+- [local] "A Quick Visit to the Helena Museum," *Alabama Yesterdays*, Sept. 5, 2018. https://alabamayesterdays.blogspot.com/2018/09/a-quick-visit-to-helena-museum.html
+- [local] "Helena Museum opens drag strip exhibit," *Shelby County Reporter*, 2016 (search excerpt only). https://www.shelbycountyreporter.com/news/helena-museum-opens-drag-strip-exhibit-413319
+- [local] "Former dragstrip racers gather to remember 'good old days' in Helena," *Shelby County Reporter*, 2018 (search excerpt only). https://www.shelbycountyreporter.com/news/former-dragstrip-racers-gather-to-remember-good-old-days-in-helena-460092
+- [local] "Former Green Valley drivers gather, reminisce," *Gadsden Times*, Jan. 17, 2016 (paywalled; search excerpt only). https://www.gadsdentimes.com/story/news/local/2016/01/17/former-green-valley-drivers-gather-reminisce/32088573007/
+- [club] "The Denver Timing Association" (DTA newsletter history, January 2003), Red's Vintage Parts. https://reds-vintage-parts.com/hot-rodding-then-and-now/54-the-denver-timing-association
+- [org] "Bob Olds," "Roy Golightly" and "John Bandimere, Sr.," Colorado Motorsports Hall of Fame. https://coloradomotorsportshalloffame.com/
+- [mag] Drew Hardin, "Vintage Trophy Girl and the Top Speed of the Meet—Denver, 1955," *Hot Rod*, Oct. 28, 2015. https://www.hotrod.com/news/vintage-trophy-girl-and-the-top-speed-of-meet-denver-1955
+- [local] Kyle Newman, *The Denver Post*, July 14, 2023, via the *Greeley Tribune*. https://www.greeleytribune.com/2023/07/14/bandimere-speedway-history-65-years-thunder-mountain/
+- [org] "Track History," Bandimere Speedway. https://bandimere.com/track-history/
+- [org] Phil Burgess, "NHRA national event history: A look at the tracks and stories that drove the sport," NHRA.com, Aug. 1, 2025. https://www.nhra.com/news/2025/nhra-national-event-history-look-tracks-and-stories-drove-sport
+- [org] Phil Burgess, "Legendary NHRA car owner Roland Leong, 'the Hawaiian,' passes away," NHRA.com, Dec. 29, 2023; "A final 'aloha' to 'the Hawaiian'," Jan. 5, 2024; "The big book of drivers who wheeled Roland Leong's Hawaiian entries," Jan. 12, 2024. https://www.nhra.com/news/2023/legendary-nhra-car-owner-roland-leong-hawaiian-passes-away

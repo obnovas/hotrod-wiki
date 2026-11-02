@@ -27,5 +27,6 @@ Hot rodding wasn't only a SoCal export, and it didn't happen only on strips. Thi
 - [Summer Avenue, Memphis](summer-avenue-memphis.md), [Lake Street & University Ave](lake-street-university.md), [Westheimer, Houston](westheimer-houston.md) and [Central Ave, Albuquerque](central-avenue-albuquerque.md)
 - [Main Avenue, Twin Falls, Idaho](twin-falls-main-avenue.md): the street the local paper called a "drag strip," and the timing association that offered to pay for a real one (1957–65).
 - [Dragging Main](dragging-main.md): the small-town loop in yearbooks and an oral history, from Franklin, N.C., to Hays, Kan. (1950s–1980s).
+- [The Restless Ribbon (Tulsa)](brookside-restless-ribbon-tulsa.md): Peoria Avenue from 31st to 51st, school honks, Soc Row at Pennington's, pink-slip races and a speed shop on the strip (1950s–1970s).
 
 **Where the racing itself happened** (airfield strips, clubs, timing associations) is in [Drag Racing & Strips](../drag-racing/index.md). People from these places are in [People & Builders](../people/index.md).

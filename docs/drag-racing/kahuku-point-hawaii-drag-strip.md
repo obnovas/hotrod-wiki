@@ -55,6 +55,7 @@ tags:
 - oral-history
 - grassroots-sources
 related:
+- people/roland-leong.md
 - drag-racing/palmer-alaska-polar-dragway.md
 - drag-racing/virgin-islands-no-hot-rods.md
 - places/regional-scenes.md
@@ -88,7 +89,7 @@ The strip grew serious enough that mainland racers such as Tommy Ivo and Jim Nel
 
 Roland Leong was born in May 1944 at Queen's Hospital and grew up in Pacific Heights; his first "race car" was the family car.[^sa24] His own summary of Kahuku: "I was young and all we cared about was racing. Set the track record in 1964 at 8:50 @ 180. Fastest at the time. Then won the opening race at Hawaii Raceway Park."[^dsl]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup> He moved to California for good in 1964 and became a top fuel owner and tuner, "The Hawaiian."[^sa24]
 
-The new park was Pflueger's. By *Hot Rod*'s account, "in 1964 Jimmy Pflueger gathered a group of Honolulu doctors together and funded the construction of Hawaii Raceway Park."[^hr]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup> It went up in an old Ewa sugar cane area at what became Campbell Industrial Park, on land leased from the James Campbell Estate; $225,000 was spent on its construction.[^hon] Pflueger brought in Tommy Greer, Keith Black and Don Prudhomme to make demonstration runs with their dragster, and there Leong and Prudhomme met.[^sa24] "By late 1964, Kahuka [sic] Point Airfield held its last event," The Jalopy Journal writes; a hotel, golf course and wildlife refuge occupy the old field today.[^jj20][^hon]
+The new park was Pflueger's. By *Hot Rod*'s account, "in 1964 Jimmy Pflueger gathered a group of Honolulu doctors together and funded the construction of Hawaii Raceway Park."[^hr]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup> It went up in an old Ewa sugar cane area at what became Campbell Industrial Park, on land leased from the James Campbell Estate; $225,000 was spent on its construction.[^hon] Pflueger brought in Tommy Greer, Keith Black and Don Prudhomme to make demonstration runs with their dragster, and there Leong and Prudhomme met.[^sa24] NHRA instead dates their meeting to 1964, the year the G-B-P "toured Hawaii"; the full story of the friendship, and of that disagreement, is on [Roland Leong](../people/roland-leong.md).[^nhra23] "By late 1964, Kahuka [sic] Point Airfield held its last event," The Jalopy Journal writes; a hotel, golf course and wildlife refuge occupy the old field today.[^jj20][^hon]
 
 The new strip had its own regulars. Roger Ramos of the Leeward Racing Club ran a Chrysler-powered '33 Plymouth there and held the A/G record at 115.66 mph in 1964–65, DragStripList's editor found in the Honolulu papers; his daughter Rita (Ramos) Casil wrote that "My dad used to always talk about his race cars and the times he raced."[^dsl]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see the bottom of the page">◐</a></sup>
 
@@ -125,4 +126,5 @@ The *Honolulu Star-Bulletin* and *Honolulu Advertiser*, 1953–64 (Kahuku's firs
 [^hon]: Kanehili, "Ancient Hawaiian Kanehili Kalaeloa Race Track Drag Strip, Hawaii Racetrack Dragstrip History," *Honouliuli Ewa Traditional Cultural Properties* (local history blog), Sept. 21, 2019. http://honouliuli.blogspot.com/2019/09/ancient-hawaiian-race-track.html (accessed 2026-11-01)
 [^dsl]: "Hawaii: Memories," DragStripList.com (recollections by Shawn Noker for LeRoy Noker, Roland Leong, Rita (Ramos) Casil, with editor's notes and reproduced 1965 Honolulu newspaper captions). https://www.dragstriplist.com/hi (accessed 2026-11-01)
 [^sa24]: John Berger, "Known as 'The Hawaiian,' Roland Leong loved auto racing from an early age," *Honolulu Star-Advertiser*, Jan. 14, 2024. https://www.staradvertiser.com/2024/01/14/hawaii-news/roland-leong-the-hawaiian-loved-auto-racing-from-an-early-age/ (accessed 2026-11-01)
+[^nhra23]: Phil Burgess, "Legendary NHRA car owner Roland Leong, 'the Hawaiian,' passes away," NHRA.com, Dec. 29, 2023. https://www.nhra.com/news/2023/legendary-nhra-car-owner-roland-leong-hawaiian-passes-away (accessed 2026-11-02)
 [^sa17]: Andrew Gomes, "Land disputes plagued noted car dealership founder," *Honolulu Star-Advertiser*, Sept. 26, 2017. https://www.staradvertiser.com/2017/09/26/hawaii-news/land-disputes-plagued-noted-car-dealership-founder/ (accessed 2026-11-01)

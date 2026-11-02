@@ -1225,3 +1225,63 @@ highlights:
     added: '2026-11-01'
     eras: [1950s, 1960s]
     regions: ['Kahuku, Hawaii']
+
+  - id: denver-220-at-wyman
+    headline: Denver's hot rodders expected 40 at a school meeting in 1948. Over 220 came
+    teaser: Gas-station regulars advertised a meeting at Wyman Elementary to talk about racing legally,
+      and the hallway filled too. The Denver Timing Association was incorporated on April 9, 1949, and raced
+      on an unopened stretch of I-25, its own history says.
+    link: drag-racing/denver-timing-association-bandimere.md
+    evidence: over 220 people showed up for this meeting
+    source_type: Club newsletter
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-02'
+    eras: [1940s, 1950s]
+    regions: ['Denver, Colo.']
+
+  - id: heath-marlow-barn
+    headline: A Rush Springs watermelon farmer won NHRA's 1956 title. A relative says the engine came from
+      a barn
+    teaser: Melvin Heath raised peanuts, watermelons and cattle and built his own farm machinery; his homebuilt
+      dragster beat Don Little with a 10.49. A great-nephew says George Woolever built its engine in his
+      barn in Marlow.
+    link: drag-racing/oklahoma-city-nationals-rush-springs.md
+    evidence: built the engine in it in his barn in marlow
+    source_type: Family account
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-02'
+    eras: [1950s]
+    regions: ['Rush Springs, Okla.']
+
+  - id: millers-ferry-12-year-old
+    headline: At 12, she beat her dad's time, and they let her race at Miller's Ferry, Alabama, in 1966
+    teaser: Ann Culpepper Barnett drove the family's yellow Mercury Comet and was the talk of the strip.
+      Some men left when she beat them, she remembers, but most brought her water in the Southern heat.
+    link: drag-racing/alabama-black-widows-lassiter-helena.md
+    evidence: Some guys left when I beat them
+    source_type: Oral history
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-02'
+    eras: [1960s]
+    regions: ['Camden, Ala.']
+
+  - id: bandimere-ground-cam
+    headline: No speed parts fit his Mercury engine, so the strip's owner ground him a cam
+    teaser: In 1960 racers at John Bandimere's Denver strip tossed a quarter in a bucket for each pass.
+      'Texas Don' Zielinski remembers that Bandimere, an auto parts man, custom ground his camshaft and
+      hand-built an eight-carburetor manifold.
+    link: drag-racing/denver-timing-association-bandimere.md
+    evidence: custom ground a camshaft for me
+    source_type: Oral history
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-02'
+    eras: [1960s]
+    regions: ['Morrison, Colo.']

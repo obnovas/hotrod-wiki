@@ -81,6 +81,8 @@ The next weekend was better. At Pensacola on Saturday the club entered seven eve
 
 Two years later the club had a strip to promote, across the state line. In November 1963 *The Chronicle* carried an ad for the Dauphin Island Dragway, "8 miles North of Dauphin Island," for Sunday, November 17, gates at 10 a.m., eliminations at 2, "SPONSORED BY PASCAGOULA TIMING ASSOCIATION." The draw was a grudge match, three out of five: David Harrell's 427 fiberglass Ford against Jack Cooley's 427 aluminum Chevy, "Black Trash." In their last meeting Harrell had the Trash "in the hole two races to one when he blew a rear-end." Cooley held the strip's low elapsed time record of 12.32; Harrell had set a new top speed record of 119.7 miles an hour "with his crop-duster Ford."[^ch631114]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* the Counts Auto Club that ran the Mobile strip near Dauphin Island, and Alabama's inland strips, in [Cut Through the Mountain](alabama-black-widows-lassiter-helena.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

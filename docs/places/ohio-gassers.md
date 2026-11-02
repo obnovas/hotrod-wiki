@@ -107,7 +107,7 @@ In **1965** he built the A/Gas **'48 Thames panel "Pie Wagon,"** "very light, fl
 
 ### Chuck Finders (chassis builder)
 
-His son's farewell, posted by JR Thompson, says Finders started drag racing in **1958**, made his last full run "in the 90's," and owned **CF Engineering**, "builder of Chassis and Bodies of 1933–1941 Willys."[^jrt1]
+His son's farewell, posted by JR Thompson, says Finders started drag racing in **1958**, made his last full run "in the 90's," and owned **CF Engineering**, "builder of Chassis and Bodies of 1933–1941 Willys."[^jrt1][^cfname]
 
 The **"Dark Horse"** was a '33 Willys with a **Tim Woods** engine, painted to match **Stone-Woods-Cook** colors and "added to the SWC team to help meet booking commitments." The farewell says it was sometimes "quicker than the SWC 'A' car."[^jrt1]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> *Family account.*
 
@@ -198,5 +198,6 @@ There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals clas
 [^finddate]: A UK forum notice posted May 19, 2009 said Finders had "passed away today,"[^nsrauk] but that was a secondhand report two days later, and the family's dated "Sunday, May 17" is preferred.
 [^nsrauk]: 33HEMI, post #1, 19-05-09 (May 19, 2009), 9:06 PM, in "Gasser Fans," NSRA (UK) forum archive. https://forum.nsra.org.uk/archive/index.php/t-28331.html (accessed 2026-10-31)
 [^bangshift]: Brian Lohnes, "Drag Racing's Chuck Finders Passes," BangShift.com, May 26, 2009. https://bangshift.com/general-news/drag-racing-s-chuck-finders-passes/ (accessed 2026-10-16)
+[^cfname]: BangShift's 2009 death notice gives the business another name: "his business Finders Fabrication built lots of great stuff." Brian Lohnes, "Drag Racing's Chuck Finders Passes," BangShift.com, May 26, 2009. https://bangshift.com/general-news/drag-racing-s-chuck-finders-passes/ (accessed 2026-11-02). We have not found a business record showing whether these were two names for one shop or two businesses.
 [^jrt1]: JR Thompson, "Gasser Reunion 2002 ~ Chuck Finders," including "Farewell, Chuck Finders" by Chuck Finders Jr. http://www.jrthompson.net/gasserreunionchuckfinders.html (live site returned a server error on 2026-10-31; read in the Internet Archive copy of Oct. 9, 2025: https://web.archive.org/web/20251009150145/http://www.jrthompson.net/gasserreunionchuckfinders.html) (accessed 2026-10-31)
 [^jrthill]: JR Thompson, "Gasser Legends ~ The Hill Bros." (Ken Kull text). http://www.jrthompson.net/hillbroswillys.html (live site returned a server error on 2026-10-31; read in the Internet Archive copy of Oct. 9, 2025: https://web.archive.org/web/20251009152423/http://www.jrthompson.net/hillbroswillys.html) (accessed 2026-10-31)

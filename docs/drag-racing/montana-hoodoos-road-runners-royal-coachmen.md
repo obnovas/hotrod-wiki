@@ -97,7 +97,7 @@ By the summer of 1962 the Road Runners' president was racing as far away as Deer
 
 Clubs elsewhere in this wiki wrote the same kind of statements: the [Orchids and Celtics of Canyon, Texas](canyon-orchids-celtics-amarillo.md) and the [Twin Falls club](../places/twin-falls-main-avenue.md) that formed to get off Main Avenue. In Montana the clubs first explained a skull emblem, then printed their members' names, and by 1962 one club's president was driving the family car to Deer Park and winning.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
-*See also:* another far-northern strip hunt in the same years, [Palmer, Alaska, and Polar Dragway](palmer-alaska-polar-dragway.md).
+*See also:* another far-northern strip hunt in the same years, [Palmer, Alaska, and Polar Dragway](palmer-alaska-polar-dragway.md). Next door, Wyoming's hot rodders raced on an old airport's runways: see [Casper and Wyoming's strips](casper-bar-nunn-wyoming-strips.md).
 
 ## Open questions & disputed details
 

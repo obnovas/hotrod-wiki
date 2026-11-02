@@ -67,7 +67,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **U.S. Virgin Islands.** ["No Hot Rods, Please!": the islands talk back to the hot rod, 1936–63](../drag-racing/virgin-islands-no-hot-rods.md).
 
-**Mississippi and Alabama.** [Ten for Ten at Biloxi: the Pascagoula Timing Association and the Dauphin Island Dragway](../drag-racing/pascagoula-timing-association.md).
+**Mississippi and Alabama.** [Ten for Ten at Biloxi: the Pascagoula Timing Association and the Dauphin Island Dragway](../drag-racing/pascagoula-timing-association.md) · [Cut Through the Mountain: the Black Widows, Lassiter Mountain, Helena and Alabama's hometown strips](../drag-racing/alabama-black-widows-lassiter-helena.md).
 
 **Arkansas and Louisiana.** [Church First, Then the Drags: the Hope Drag Strip](../drag-racing/hope-airport-drag-strip.md) · [For Parents Only: Harmon Raceway (Monroe, La.)](../drag-racing/harmon-raceway-monroe.md).
 
@@ -85,17 +85,21 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md) · [The Castroville airfield drags (Medina County)](../drag-racing/medina-county-castroville-drags.md) · [The Track That Milk Built: Green Valley Raceway](../drag-racing/green-valley-raceway-smithfield.md) · [San Antonio's Double Eagle and Alamo Dragway](../drag-racing/san-antonio-double-eagle-alamo-dragway.md) · [T-Bones and Cheater Slicks: a Dallas folklorist at the speed shop](../voices/dallas-folksay-custom-automotive.md).
 
+**Oklahoma.** [A Watermelon Farmer's Dragster: Melvin Heath, the fairgrounds Nationals and Oklahoma's hometown strips](../drag-racing/oklahoma-city-nationals-rush-springs.md) · [The Restless Ribbon: cruising Peoria Avenue in Tulsa](brookside-restless-ribbon-tulsa.md).
+
 **Arizona.** [The KARBS and the strip on Litchfield Road (Phoenix's West Side)](../drag-racing/phoenix-west-side-karbs-litchfield-road.md).
 
 **Nevada.** [Sand on the Track: Las Vegas, Henderson and Southern Nevada's eight drag strips](../drag-racing/las-vegas-henderson-drag-strips.md).
 
 **Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md) · [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md).
 
+**Colorado.** [A Quarter in the Bucket: the Denver Timing Association, the Lowry drags and Bandimere](../drag-racing/denver-timing-association-bandimere.md).
+
 **Wyoming.** [Six Miles of Runway: Casper's old airport, Sheridan's Hot Rod Club and Wyoming's drag strips](../drag-racing/casper-bar-nunn-wyoming-strips.md).
 
 **Alaska.** [Drag $1.00, Stag 75¢: Palmer's strip hunt and Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md).
 
-**Hawaii.** [Hao Wela at Kahuku: Oahu's airfield drags and the road to Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md).
+**Hawaii.** [Hao Wela at Kahuku: Oahu's airfield drags and the road to Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) · [Roland Leong, "The Hawaiian"](../people/roland-leong.md).
 
 **California beyond the Los Angeles basin.** [The Palm Springs Timing Association](../drag-racing/palm-springs-timing-association.md) · [The Schafer Oil Special and the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md) · [Golden State Raceway, Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md).
 

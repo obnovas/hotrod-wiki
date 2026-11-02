@@ -16,6 +16,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1939 | Jack Engle runs 113 mph at El Mirage (family caption) | [Jack Engle](../people/jack-engle.md) |
 | 1941 | Muroc meet broken up by Army Jeeps, per Kong Jackson. Engle hand-grinds early cams | [Kong Jackson](../people/kong-jackson.md), [Jack Engle](../people/jack-engle.md) |
 | 1943–45 | Veda Orr's wartime newsletter keeps the lakes community in touch | [Veda Orr](../people/veda-orr.md) |
+| 1944 | Roland Leong born in Honolulu (May) | [Roland Leong](../people/roland-leong.md) |
 | 1945 | Howards Power & Racing Equipment founded | [Howard Johansen](../people/howard-johansen.md) |
 | 1946/47 ⚠ | Almquist Engineering founded, Pennsylvania | [Ed Almquist](../people/ed-almquist.md) |
 | 1946/47 ⚠ | Logghe Stamping founded, Fraser, Mich. (Morris Logghe) | [Logghe](../companies/logghe-stamping.md) |
@@ -26,6 +27,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1948–49 | Fort Worth Turtles (1948) and Dallas Chaparrals (1949) ◐ | [Texas](../places/texas.md) |
 | 1948 | Howie Wilson drives Hilborn streamliner 150.5 mph at El Mirage (SEMA account) | [Stu Hilborn](../people/stu-hilborn.md) |
 | 1948–53 | California Highway Patrol works with hot rod clubs until a 1953 order ends it | [City planners, 1955](../drag-racing/planners-report-1955.md) |
+| 1948 | Denver street racers advertise a meeting at Wyman Elementary; over 220 come. The Denver Timing Association is incorporated Apr 9, 1949 | [Denver & Bandimere](../drag-racing/denver-timing-association-bandimere.md) |
 | 1949 | SCTA's first Bonneville meet. Johansen's twin-tank streamliner runs 147.54 | [Howard Johansen](../people/howard-johansen.md) |
 | 1949 | Apr 10: Fran Hernandez beats Tom Cobbs at Goleta (nitro '32 coupe) | [Fran Hernandez](../people/fran-hernandez.md) |
 | 1949 ◐ | Hono-Kai Timing Association formed in Honolulu, about 20 members; a Navy roadway for drags until the authorities refuse (via *Best Hot Rods*, 1952) | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
@@ -36,6 +38,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1950 ◐ | Fran Bannister drives his roadster from Wilmington, Mass., to Bonneville and runs 127.11, with Fred Cain's coupe carrying the race engine (Aug) | [Sanford & the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) |
 | 1950 / 1953 ⚠ | Moon Equipment's start: anniversary pieces say "around 1950"; *THE SHOP*'s narrative has Dean going full time in October 1953 | [Moon Equipment](../companies/moon-equipment.md) |
 | 1950 | The Rod Benders (1950–54), first on the Sioux Falls, S.D., club list | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
+| 1950s | Tulsa teenagers cruise Peoria Avenue through Brookside, the "Restless Ribbon," centered on Pennington's Drive-In | [Restless Ribbon](../places/brookside-restless-ribbon-tulsa.md) |
 | 1951 | Hirohata Merc built (build time disputed). Beatty's belly tank on the salt | [Hirohata](../customs/hirohata-mercury.md), [Tom Beatty](../people/tom-beatty.md) |
 | 1951 | Ray Godman wounded in Korea (Sept 17) | [Ray Godman](../voices/ray-godman.md) |
 | 1951 | Trend Book 101 *Custom Cars*. First Caddo Mills drags (Aug 19) | [Trend Books](../media/trend-books-kits-roth.md), [Texas](../places/texas.md) |
@@ -73,6 +76,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1954 | The Sioux Falls Igniters form (1954–64) | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
 | 1954 | Detroit Tribune announces the Michigan Hot Rod Association's second annual Autorama at the State Fair Grounds (Jan 8–10): 15 clubs, about 400 members, raising money for a drag strip | [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
 | 1954 | Romie Nunn buys Casper's old Wardwell Field, 6 miles of runways, for $20,500; car races and drag races follow | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
+| 1954 | Oklahoma City's new state fairgrounds holds its first fair (Sept 25); its drag strip later hosts the 1957–58 Nationals | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | 1955 | NHRA Safari meet at Halls, Tenn. (start of Halls drags 1953/55 ⚠) | [Memphis](../places/memphis.md) |
 | 1955 | NHRA's first national event at Great Bend, Kan. (Sept 29–Oct 2); finals finished in Arizona Nov 19–20 | [Great Bend](../drag-racing/great-bend-srca.md) |
 | 1955 | Escanaba Drag-n's sponsor a members-only road race "to test speed judgment" (May 22) | [Escanaba](../drag-racing/escanaba-dragns.md) |
@@ -86,6 +90,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1955 | East Hartford's Road Knights hold a polio benefit dance "to bring credit to the oft-maligned hotrodders" (Nov); C. W. Sunderhauf buys the Bullitt County, Ky., farm that becomes the Cedar Creek strip (Aug) | [Connecticut](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md), [Cedar Creek](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md) |
 | 1955 | Columbus's *West Side News* finds a ten-year-old's home-built hot rod with a half-horsepower engine, built for a little over $35 (Nov) | [Columbus](../drag-racing/columbus-trotters-high-winders.md) |
 | 1955 | Chardon, Ohio, Road Ravens Hot Rod Club fully organized (Aug); optometrist Dr. Louis Berta its adviser from Oct | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
+| 1955 | NHRA's Drag Safari at Lowry Air Force Base, Denver; Kenz & Leslie's rail runs 122.28 mph | [Denver & Bandimere](../drag-racing/denver-timing-association-bandimere.md) |
 | 1956 | First Portland Roadster Show | [Pacific NW](../places/pacific-northwest.md) |
 | 1956 | GSTA's first car show, Red Owl lot, Lake St & 22nd Ave S, Minneapolis | [Lake Street](../places/lake-street-university.md) |
 | 1956 | Maj. Eugene Pond's "Give the Hot Rodders a Break" runs in the National Safety Council's *Public Safety* (May) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
@@ -107,6 +112,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1956 | Southern New England Timing Association starts drags on a runway of the Navy's Charlestown, R.I., auxiliary field (through 1964); Johnston's Rod Knockers win with a '34 Ford ◐ | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | 1956 | Road Ravens meet the Geauga County sheriff and police at their adviser's home (Feb); club garage open house in Chardon (Dec 18); Kodiak, Alaska, Road Runners plan a drag strip at Anton Larsen Bay (Mar) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md), [Palmer](../drag-racing/palmer-alaska-polar-dragway.md) |
 | 1956 | Newport *Navalog* announces a drag race at the old Pascoag Race Track near Mapleville, R.I., "over a 900 yard track" (June) | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
+| 1956 | Rush Springs, Okla., farmer Melvin Heath wins the NHRA Nationals at Kansas City | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1957 | UPI survey (Mar 19): the National Safety Council "in direct opposition to drag racing"; Cleveland bans street racing; a county-built strip near Denver reported ⚠ | [March 1957](../drag-racing/march-1957-drag-strip-survey.md) |
 | 1957 | Motor City Dragway opens. Garlits' Cordova upset; Postoian wins the final | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |
@@ -131,6 +137,8 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Aquasco Speedway, Md., runs quarter-mile drags under ATAA sanction (May); the Knights of Maryland hand stranded motorists courtesy cards (Feb) | [Washington suburbs](../drag-racing/washington-suburbs-drag-strip-debate.md) |
 | 1957 | The 1st International Drag Races at Chester, S.C., draw the Arfons brothers, Setto Postoian and Joe Bush (late Nov; Garlits's entry unverified); Robert Freeland wins D-Stock seven weeks running with hand controls; Rapid Shifters become a charter NHRA club; Las Vegas racers run on Highland Drive | [Chester](../drag-racing/chester-drag-strip-south-carolina.md), [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md), [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | 1957 | Chardon's Road Ravens clean windshields on parked cars as a safety measure (Mar) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
+| 1957 | NHRA Nationals at the Oklahoma City fairgrounds, Aug 30–Sept 2 (450 or 465 entries ⚠) | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
+| 1957–58 ⚠ | John Bandimere Sr. buys land west of Denver for the Safety Proving Grounds of America | [Denver & Bandimere](../drag-racing/denver-timing-association-bandimere.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
 | 1958 | Sept *Hot Rod* ad sets off the Gasser Wars, per Isky | [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) |
@@ -149,6 +157,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1958 | Henderson, Nev., provides an old runway for Southern Nevada's first true strip; Greer Dragway, S.C., opens under I.T.A. sanction (Oct); the Trotters Hot Rod Club's "Gigantic Auto Show" at the Ohio State Fairgrounds (Mar) | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md), [Chester](../drag-racing/chester-drag-strip-south-carolina.md), [Columbus](../drag-racing/columbus-trotters-high-winders.md) |
 | 1958 ⚠ | Thompson Drag Raceway, Thompson Township, Ohio, founded (1958, or in operation from July 24, 1960 ⚠) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | 1958 | Kanawha Valley Drag Strip opens near Winfield, West Virginia's first organized strip; the Centipede Car Club races Sundays on the Bridgeport airport runway (1958–59 ◐); Henry Lee killed at Kahuku | [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md), [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
+| 1958 | Birmingham's Black Widows car club cuts Lassiter Mountain Dragway through a ridge | [Alabama](../drag-racing/alabama-black-widows-lassiter-helena.md) |
 | 1959 | Detroit Dragway opens and hosts the NHRA Nationals (1959–60) | [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
 | 1959 | Larivee brothers form Promotions Inc. | [Show Circuit](../media/show-circuit.md) |
 | 1959 | Otie Smith wins Middle Eliminator at the NHRA Nationals, Detroit (supercharged '23 T) | [Akron Fulton](../drag-racing/akron-fulton-airport.md) |
@@ -240,6 +249,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1964 | The Henderson, Nev., drag strip closes | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | 1964 | Last drags at Charlestown, R.I.; why they stopped is unsettled ◐ | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | 1964 ⚠ | Roland Leong sets the Kahuku record (8.50 or 8.58 at 180); Hawaii Raceway Park opens in Ewa (1963 or 1964, or 1962 by inference ⚠); Kahuku's last event | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
+| 1964 | Roland Leong crashes on his first Top Fuel run at Lions; hires Don Prudhomme; 1965 Winternationals and U.S. Nationals | [Roland Leong](../people/roland-leong.md) |
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
 | 1965 | Gays' *Infinity* GTO Funny Car debuts (July 3, Dickinson). Hassel moves to Florida for Crane Cams. Virgil Cates's NHRA Comp title | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
 | 1965 | First annual MVTA Rod and Custom Show, Twin Falls (July 24–25) | [Twin Falls](../places/twin-falls-main-avenue.md) |
@@ -260,6 +270,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1966 | Joe Lunati of Memphis beats Richard Moroso in the Street Eliminator final at the NHRA Nationals, Indianapolis (Labor Day); Outagamie County rezones 75 acres beside KK Sports Arena for a "mile-long drag strip" (Dec, ◐) | [Joe Lunati](../people/joe-lunati.md), [Moroso](../companies/moroso.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
 | 1966 | 70 arrested among about 10,000 at the Amarillo Drag Strip in April | [Canyon clubs](../drag-racing/canyon-orchids-celtics-amarillo.md) |
 | 1966 ◐ | Richard Thorpe sets a state record of 209.78 mph at the Hope Drag Strip, on the municipal airport, Hope, Ark. (June) | [Hope](../drag-racing/hope-airport-drag-strip.md) |
+| 1966 | A 12-year-old girl, Ann Culpepper Barnett, beats her father's time and races at Miller's Ferry, Ala. | [Alabama](../drag-racing/alabama-black-widows-lassiter-helena.md) |
 | 1967 | Hill brothers' Red Baron Willys built in 11 days. "WE'RE SORRY" letter | [Red Baron](../cars/hill-bros-red-baron.md) |
 | 1967 | Minnesota Street Rod Association formed | [Upper Midwest](../places/upper-midwest.md) |
 | 1967 | First SEMA trade show, Dodger Stadium (98 booths), produced by Dick Wells with Ray Brock and Alex Xydias | [Dick Wells](../people/dick-wells.md) |

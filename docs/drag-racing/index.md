@@ -47,6 +47,9 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Open on Sunday (Winfield, W.Va.)](kanawha-valley-drag-strip-winfield.md): West Virginia's first organized strip, plant workers' gas-pipe dragsters, Ohio racers on their Sunday circuit and the Centipedes on the Bridgeport runway, 1958–76.
 - [Hao Wela at Kahuku (Oahu, Hawaii)](kahuku-point-hawaii-drag-strip.md): a Honolulu timing club without a road, a farmer's runway at the island's tip, an airman's Hemi coupe and Roland Leong's record, 1949–64.
 - [Six Miles of Runway (Casper, Wyo.)](casper-bar-nunn-wyoming-strips.md): Sheridan's 1947 Hot Rod Club, the old airport Romie Nunn bought for $20,500, Douglas's one strip and a legal street race in Bar Nunn, 1947–2023.
+- [A Watermelon Farmer's Dragster (Oklahoma)](oklahoma-city-nationals-rush-springs.md): Rush Springs farmer Melvin Heath's 1956 national title, an engine from a Marlow barn, the Jaycees' fairgrounds strip that hosted the 1957–58 Nationals, and airstrips from Jet to Burns Flat, 1954–66.
+- [Cut Through the Mountain (Alabama)](alabama-black-widows-lassiter-helena.md): the Black Widows' strip cut through Lassiter Mountain, the Helena quarter-mile behind a church, a weekend circuit from Montgomery to the Chattahoochee and a 12-year-old girl at Miller's Ferry, 1955–66.
+- [A Quarter in the Bucket (Denver)](denver-timing-association-bandimere.md): 220 people at a school meeting found the Denver Timing Association, drags on an unopened I-25 and at Lowry, and a parts dealer's proving ground on the hogback, 1948–86.
 
 **Clubs and timing associations**
 

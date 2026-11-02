@@ -104,6 +104,8 @@ Even with a strip, the clubs were still explaining themselves. In December 1963 
 
 The strip closed in 1979, reopened in 1980 as Connecticut International Raceway, and closed for good after the 1985 season,[^olr98][^ch14] though one 2013 report gives 1986.[^rdct13]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> In 1998 a state legislative analyst reported that Connecticut, which "had one of the first commercial drag racing facilities in the northeast," had no drag strip at all; its racers had moved on to New England Dragway in New Hampshire, Lebanon Valley in New York and Englishtown in New Jersey.[^olr98]
 
+*See also:* New England's other small-state strips, [Milton Speedway, Vermont](milton-speedway-vermont.md) and [Charlestown Dragway, Rhode Island](charlestown-dragway-rhode-island.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
