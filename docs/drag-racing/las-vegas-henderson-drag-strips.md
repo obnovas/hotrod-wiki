@@ -84,6 +84,7 @@ related:
 - drag-racing/akron-fulton-airport.md
 - drag-racing/marin-cotati-strips.md
 - places/regional-scenes.md
+- drag-racing/utah-airport-no-2-salt-lake-strips.md
 canonical_for: []
 ---
 # Sand on the Track: Las Vegas, Henderson and Southern Nevada's Eight Drag Strips (1953–2000)

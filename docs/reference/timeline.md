@@ -52,7 +52,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1952 | Belleville Gear Jammers organized in June under the Junior Chamber of Commerce (Belleville, Ill.) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | 1952 | The Arlington and Washington Hot Rod Club drag races at Hagerstown Speedway, Md.; the *Evening Star* still explains what a drag race is (May) | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) |
 | 1952 | The Rapid Shifters form in Rapid City, S.D. | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
-| 1952 | Lewis County Quarter Milers hold drags at the Shelton-Mason County airport, Wash. (May 11) | [Western Washington](../drag-racing/western-washington-airport-strips.md) |
+| 1952 | Lewis County Quarter Milers members race at the Shelton-Mason County airport, Wash. (May 11) | [Western Washington](../drag-racing/western-washington-airport-strips.md) |
 | 1952 | Salt Lake City approves police-supervised drags at Airport No. 2 (July 20) | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
 | 1952 ⚠ | Albuquerque's clubs (ACME, renamed the New Mexico Timing Association) race on the Menaul Truck Bypass under city permit; the NMTA's founding date is disputed | [New Mexico](../drag-racing/new-mexico-timing-association-albuquerque.md) |
 | 1953 | First Detroit Autorama (45–50 cars) | [Show Circuit](../media/show-circuit.md) |
@@ -219,7 +219,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1961 | Connecticut Dragway opens at East Haddam, the state's first legal strip (spring or June ⚠) | [Connecticut](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) |
 | 1961 ◐ | AHRA's first Winter Nationals at Henderson, Nev. (Jan) ◐; fourth Trott-A-Rama, 200-plus cars (Mar); Whitehall, Ohio, fines shopping-center drag racing (Dec); Fred Gibbs of the Las Vegas junkyard killed on the road home from Bakersfield | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md), [Columbus](../drag-racing/columbus-trotters-high-winders.md) |
 | 1961 | Don Garlits brings the Swamp Rat to Thompson Drag Strip, Ohio (July and Aug): "Ohio's longest straight track"; Kodiak's new Hot Rod Club plans dune buggies for Chiniak beach (Aug) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md), [Palmer](../drag-racing/palmer-alaska-polar-dragway.md) |
-| 1961 ◐ | Spokane's Thrifty Auto dragster runs 8.28 and 185.58 mph at Famoso on hidden nitrous (Mar 5) | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
+| 1961 ◐ | Spokane's Thrifty Auto dragster sets Famoso's top-speed (185.58 mph) and e.t. (8.28) records, on separate passes, on hidden nitrous (Mar 5) | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | 1961 | Albuquerque Drag Association's legal Eubank race clears $800; the four founders join the NMTA (Nov) | [New Mexico](../drag-racing/new-mexico-timing-association-albuquerque.md) |
 | 1962 | Revell's Roth Outlaw kit. Trend Books end and become Spotlite | [Kits & Roth](../media/trend-books-kits-roth.md) |
 | 1962 | The year *American Graffiti* (1973) depicts Modesto cruising | [Modesto](../places/modesto.md) |
@@ -284,7 +284,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1965 | Harmon Raceway's first meet (May 1–2), NHRA-sanctioned; lights go up in July | [Harmon Raceway](../drag-racing/harmon-raceway-monroe.md) |
 | 1965 | Ohio Valley Raceway, Ky., opens (spring); Fort Knox GIs race at "Bullitt County" | [Cedar Creek](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md) |
 | 1965 | Bonneville Drag Strip opens in Salt Lake (May 2) and empties Salt Lake Raceway | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
-| 1965 | Frank Rupert's Eagle Electric dragster makes Deer Park's first 200-mph pass, 202.24 (May 2) | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
+| 1965 ◐ | Frank Rupert's Eagle Electric dragster runs 202.24 at Deer Park (May 2), the strip's first 200-mph pass by one caption; Gary Parmenter claimed the first | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | 1966–68 | AMC's performance list gives Hurst-Campbell's Warminster address | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | 1966 | Kingfish blown Barracuda vs. Joe Lunati's 427 Corvair at Malden, Mo. (Easter, Apr 10); KK drag strip "opening" (June 5); Thomas J. Broas killed, Outagamie County's first race track fatality (Aug 7) | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md), [Joe Lunati](../people/joe-lunati.md), [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md) |
 | 1966 | Joe Lunati of Memphis beats Richard Moroso in the Street Eliminator final at the NHRA Nationals, Indianapolis (Labor Day); Outagamie County rezones 75 acres beside KK Sports Arena for a "mile-long drag strip" (Dec, ◐) | [Joe Lunati](../people/joe-lunati.md), [Moroso](../companies/moroso.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |

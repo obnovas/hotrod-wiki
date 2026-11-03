@@ -40,6 +40,7 @@ related:
 - companies/hurst-campbell.md
 - companies/edelbrock-slingshot.md
 - people/stu-hilborn.md
+- drag-racing/deer-park-spokane-nitrous.md
 canonical_for: []
 principal_source: "Tony Thacker's American Hot Rod Foundation biography, built on Navarro's recollections.[^ahrf]"
 ---
@@ -76,6 +77,8 @@ The old club friendship produced a record car. With Tom Beatty, he built a 4-71-
 The machine shop outgrew racing. Navarro Engineering started at 718 Verdugo Road, then moved to 5142 San Fernando Road, Glendale. The shop built a Hemi boat for Henry Kaiser, a heart-lung machine used for 13 years at Kaiser Hospital in Hollywood, and concrete-cutting tools.[^ahrf]
 
 He died **August 20, 2007**, his 88th birthday. His patterns went to Mike Herman of H&H Flatheads. His favorite saying: "There's nothing more fun than learning."[^ahrf]
+
+*See also:* [Deer Park and Spokane's nitrous secret](../drag-racing/deer-park-spokane-nitrous.md), where *Hot Rod*'s account of the first nitrous racers recalls Navarro injecting straight oxygen into his track car's engine and giving it up after a meltdown.
 
 ## Open questions & disputed details
 

@@ -200,7 +200,7 @@
 | Hagy, Roy | Metal-finish bodyman | [Roy Hagy](../people/roy-hagy.md) |
 | Hamer Construction Co. | Kansas City builder that pulled out of the Big S.I.R. (1969) | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | Hamilton, Barbara | Ohio gasser racer ('37 Willys) | [Ohio Gassers](../places/ohio-gassers.md) |
-| Hammel, Ron | Spokane expat; sold nitrous kits through 10,000 RPM Speed Equipment from 1964 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
+| Hammel, Ron | Spokane expat; got a nitrous kit from Jack Hordemann (1962), sold kits through 10,000 RPM Speed Equipment from 1964 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Handlers Car Club | Bremerton, Wash., club (1956) that has run the airport strip since 1960 | [Western Washington](../drag-racing/western-washington-airport-strips.md) |
 | Hanley, Jack "Ace" | Started the Las Vegas Drag Racing Association, 1950s | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | Hanover Hot Kustom Klub | Hanover, Pa., club that petitioned for Sunday meetings, 1956 | [Gettysburg & Hanover clubs](../drag-racing/hanover-adams-county-clubs.md) |
@@ -234,7 +234,7 @@
 | Honea, Bill | Drove Paul Grimmett's Simca at the 1958 Nationals | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | Hono-Kai Timing Association | Honolulu timing club, 1949 ◐ | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
 | Hooker, Gary / Hooker Headers | Pomona-raised header builder | [Hooker Headers](../companies/hooker-headers.md) |
-| Hordemann, Jack & Jim | Kelly Automotive dragster, Spokane; nitrous rivals of the Thrifty car, 1961 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
+| Hordemann, Jack & Jim | Kelly Automotive dragster, Spokane; nitrous rivals of the Thrifty car, 1961; Jack gave Ron Hammel a nitrous kit, 1962 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Horney, Giles F., Jr. | Chapel Hill airman whose 1956 letter asked for a drag strip | [North Carolina debate](../drag-racing/north-carolina-drag-strip-debate-1956.md) |
 | Hotchkiss, Charles | Islamorada, Fla., organizer of an NHRA club in the Upper Keys, 1959 | [Rumbling Rods](../drag-racing/key-west-rumbling-rods.md) |
 | Houston Freeway Dragstrip | Dickinson, Tex., 1957–⚠1987 | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
@@ -372,7 +372,7 @@
 | Niekamp, Bill | First AMBR (1950) | [Show Circuit](../media/show-circuit.md) |
 | Nielsen, Gary | Salt Lake drag racer; opened Salt Lake Raceway with his wife Bonnie, 1960 | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
 | Nightcrawlers | Ames, Iowa, hot rod club that ran the strip | [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md) |
-| Nikitenko, Andy "Choo-Choo" | Nodak Race Club sprint-car driver; raced a Cessna at Minot's airport, 1964 ◐ | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
+| Nikitenko, Andy "Choo-Choo" | Nodak Race Club charter member and oval-track champion; raced a Cessna at Minot's airport, 1964 ◐ | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
 | Nitrous Oxide Systems | Founded 1978 by Mike Thermos and Dale Vaznaian, inspired by a Hammel kit | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Nodak Race Club | Minot, N.D., oval racing club, 11 charter members, 1953 | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
 | Noker, LeRoy | Hickam airman who raced a Hemi '34 Ford coupe at Kahuku, 1956–58 | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
@@ -445,7 +445,7 @@
 | Royal Pontiac | Royal Oak dealer; Royal Bobcat packages | [Woodward](../places/woodward.md) |
 | Ruelas, Fernando, Julio, Oscar & Ernie | The Dukes | [Ruelas & the Dukes](../voices/ruelas-dukes.md) |
 | Rumbling Rods | Key West hot rod club that kept asking for a strip, 1960–62 | [Rumbling Rods](../drag-racing/key-west-rumbling-rods.md) |
-| Rupert, Frank | Drove the Eagle Electric dragster; Deer Park's first 200-mph pass, 1965 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
+| Rupert, Frank | Drove the Eagle Electric dragster; 202.24 mph at Deer Park, May 2, 1965, the first 200 there by one caption ◐ | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Russell, James | Faculty adviser, Southeast Guilford High hot rod club (1963) | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
 | Rutledge, Bobby Joe | San Antonio racer; Ardun-Merc top eliminator at Castroville, 1957 | [Medina County](../drag-racing/medina-county-castroville-drags.md) |
 | Sabourin, Kemp | Escanaba policeman; Drag-n's president | [Escanaba](../drag-racing/escanaba-dragns.md) |
@@ -507,7 +507,7 @@
 | Stein, Arnold | D.C. Dragons president and pre-dental student, 1954 | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) |
 | Stoltz, Earl | Road Ravens president, Chardon, Ohio, 1956 | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | Stolz, Reid | Van Nuys cruiser (Car Craft 2009) | [Van Nuys](../places/van-nuys.md) |
-| Stortroen, Don | Driver of the Thrifty Auto dragster; 8.28 and 185.58 mph at Famoso, 1961 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
+| Stortroen, Don | Driver of the Thrifty Auto dragster; Famoso track records, 185.58 mph and (on another pass) 8.28, 1961 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Strippers (Denver Hot Rod Club) | Denver club, 1950s | [March 1957](../drag-racing/march-1957-drag-strip-survey.md) |
 | Strokers Club | North St. Louis club (1954–55) | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | Struksnes, Bob | "Backdoor Bob" of Minot, N.D.; Top Fuel 1974–80, fourth in 1976, third in 1977 | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
@@ -524,7 +524,7 @@
 | Thompson Drag Raceway | Thompson Township, Ohio, strip (1958 or 1960 ⚠); Garlits's Swamp Rat, 1961; Kuhnle Motorsports Park since 2021 | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | Thompson, Mickey | Slingshot dragster; tires, wheels, Lions Drag Strip | [Mickey Thompson](../companies/mickey-thompson.md) |
 | Thorpe, Richard | Dallas; 209.78 mph state record at Hope, Ark., 1966 ◐ | [Hope](../drag-racing/hope-airport-drag-strip.md) |
-| Thrifty Auto Supply | Hank and Fern Clay's Spokane parts store; sponsor of the nitrous Thrifty Auto dragster, 1958–61 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
+| Thrifty Auto Supply | Hank and Fern Clay's Spokane parts store; sponsor of the Thrifty Auto dragster, which ran hidden nitrous in 1961 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Thunder Valley Dragways | Marion, S.D., strip opened June 1967 | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
 | Tice, Jim | AHRA president (1969) | [Big S.I.R.](../drag-racing/sedalia-big-sir.md), [Green Valley](../drag-racing/green-valley-raceway-smithfield.md) |
 | Timms, Otto | Owner of the Calhoun, Ga., drag strip, 1964 | [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md), [Paradise, Calhoun](../drag-racing/paradise-drag-strip-calhoun.md) |

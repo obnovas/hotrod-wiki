@@ -84,7 +84,7 @@ The next spring, in Hardin, Roger Shaw's youth council column raised the "contro
 
 The strips that did exist could bring trouble with them. In May 1959 the *Glasgow Courier* wrote that Lewistown was "recovering from a wild melee" after "camp followers of the worst kind" came to town for "an authorized drag race program." The editorial said the meet itself was "well run and orderly," and it quoted a spokesman for the local Road-Stur Club: "There was no way we could handle the rough element." The *Poplar Standard* reprinted the editorial a week later.[^ps590522]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Montana's strips also served the state next door, which had none. Bruce Olson of Beach, North Dakota, a Montana border town, "ran the Coupe at both the Lewistown & Bozeman (Belgrade) Air/Drag Strips (circa 1958)," his son wrote; the Bozeman strip, by that account, was the airport at Belgrade.[^hemi32mt] Later a North Dakota racer, Hank Berry, drove 55 miles to a drag strip at Glendive until it closed in the late 1970s.[^nodakmt] (Full story: [North Dakota's borrowed strips](north-dakota-minot-borrowed-strips.md).)
+Montana's strips also served North Dakotans next door. Bruce Olson of Beach, North Dakota, a Montana border town, "ran the Coupe at both the Lewistown & Bozeman (Belgrade) Air/Drag Strips (circa 1958)," his son wrote; the Bozeman strip, by that account, was the airport at Belgrade.[^hemi32mt] Later a North Dakota racer, Hank Berry, drove 55 miles to a drag strip at Glendive until it closed in the late 1970s.[^nodakmt] (Full story: [North Dakota's borrowed strips](north-dakota-minot-borrowed-strips.md).)
 
 ## Arlee and Ronan (1960–62)
 

@@ -32,6 +32,8 @@ related:
 - media/street-rod-magazine-portland.md
 - companies/hurst-campbell.md
 - companies/logghe-stamping.md
+- drag-racing/deer-park-spokane-nitrous.md
+- drag-racing/western-washington-airport-strips.md
 canonical_for: []
 ---
 # Pacific Northwest: Councils, Woodburn and Fiberglass
@@ -53,7 +55,7 @@ The council's first president had another claim on history. [Wescott's](../stree
 
 That is what set the Northwest apart. Shows and strips were run by **civic-minded volunteer councils** with elected officials involved, rather than by promoters or magazines. Rain also meant more emphasis on indoor shows and coachwork.
 
-*See also:* [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md), whose Arlee club president raced at Deer Park, Wash., in 1962; [the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md), where Oregon racers came south in 1969; [*Street Rod* magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), Bruce Miller and Bruce Craig's monthly, with technical editor Russ Meeks and photographer Dale Moreau.
+*See also:* [Deer Park and Spokane's nitrous secret](../drag-racing/deer-park-spokane-nitrous.md), whose Eagle Electric dragster raced Puyallup on Saturday and Woodburn on Sunday; [Western Washington's airport strips](../drag-racing/western-washington-airport-strips.md), from Shelton and Arlington to Bremerton and Bellingham; [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md), whose Arlee club president raced at Deer Park, Wash., in 1962; [the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md), where Oregon racers came south in 1969; [*Street Rod* magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), Bruce Miller and Bruce Craig's monthly, with technical editor Russ Meeks and photographer Dale Moreau.
 
 ## Open questions & disputed details
 
