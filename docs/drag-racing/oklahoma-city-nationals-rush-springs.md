@@ -68,6 +68,7 @@ related:
 - drag-racing/kansas-city-timing-association.md
 - drag-racing/great-bend-srca.md
 - places/brookside-restless-ribbon-tulsa.md
+- drag-racing/north-dakota-minot-borrowed-strips.md
 - places/texas.md
 canonical_for: []
 ---
@@ -76,7 +77,7 @@ canonical_for: []
 *A national champion from a peanut-and-watermelon farm, an engine from a barn in Marlow, and the Nationals on a strip the Jaycees built*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (Heath's career and the 1957–58 Nationals rest on NHRA and *Hot Rod*; the barn engine, the Enid club and the small strips rest on racers' and relatives' own posts, none yet matched to an Oklahoma newspaper) · **Source types:** <span class="hr-badge">Grassroots</span> racers' and relatives' recollections (H.A.M.B. forum; *Drag Strip List* memories), an Enid funeral home obituary, a 1957 event program cover (AHRF), an Oklahoma City history blog, NHRA (2016, 2025), *Hot Rod* (July 1958) · **Last verified:** 2026-11-02 (Round 30) · **Open issues:** ⚠ 1957 entry count (450 vs 465); ◐ who built Heath's engine; ◐ the Kagelmann and Lake Murray strips have one recollection each · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (Heath's career and the 1957–58 Nationals rest on NHRA and *Hot Rod*; the barn engine, the Enid club and the small strips rest on racers' and relatives' own posts, none yet matched to an Oklahoma newspaper) · **Source types:** <span class="hr-badge">Grassroots</span> racers' and relatives' recollections (H.A.M.B. forum; *Drag Strip List* memories), an Enid funeral home obituary, a 1957 event program cover (AHRF), an Oklahoma City history blog, NHRA (2016, 2025), *Hot Rod* (July 1958) · **Last verified:** 2026-11-03 (Round 31: 1958 entrants from North Dakota and New Mexico added) · **Open issues:** ⚠ 1957 entry count (450 vs 465); ◐ who built Heath's engine; ◐ the Kagelmann and Lake Murray strips have one recollection each · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "my great uncle george woolever built the engine in it in his barn in marlow, ok."
@@ -98,6 +99,8 @@ Oklahoma City's new state fairgrounds, on the old Sandlot ballpark land west of 
 The cover of the 1957 program dates the Third Annual NHRA National Championship Drags to Aug. 30 through Sept. 2, 1957.[^ahrf] NHRA's history praises the "ample paved pit areas, separate spectator and participant parking, a cafeteria, and more," and counts 450 entrants despite that year's new fuel ban; *Hot Rod* counted 465 cars and some 40,000 people over four days.[^firstnat][^hr58]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Buddy Sampson won in the Money Oldsmobile Special with a 10.42. In 1958 entries were capped at 500 and filled a month early. Ted Cyr won Top Eliminator at 10.04 in his spare car, a blue Chrysler dragster with "For Sale" lettered on its nose in shoe polish.[^firstnat]
 
 The people in the stands remembered other things. "Was pretty much like heaven to a 17 year old kid," one forum member wrote of 1957. Another recalled that the Texas fuel racer Bobby Langley won an award for the best-appearing car and crew, in uniforms his wife, Ruth Ann, had made.[^hambokc] (Langley also raced at [Green Valley Raceway](green-valley-raceway-smithfield.md) and [Houston's Freeway Dragstrip](houston-freeway-dragstrip.md).) Bill Honea, then 23, got the job of driving Paul Grimmett's 1939 Simca with a 1951 Cadillac engine in 1958: "when everyone else tried it and couldn't make it go, I finally got up enough nerve to try it." He got it to 120 mph and 11.20 in A/C.[^dslok] And one member's 2016 question is still on the thread: their father, Bill Mangum, raced a '34 Ford at Oklahoma City in 1957 and won trophies, but "my family has no pictures left." The only reply so far is another member's offer to ask his own dad.[^hambokc]
+
+Some came a very long way. In late August 1958 Bruce Olson flat-towed his Hemi-powered 1932 Ford coupe from Beach, North Dakota, a state with no drag strip, to the fourth Nationals, and ran 13.40 at 107 mph in B Altered Coupe.[^olsonok] From Walker Air Force Base in Roswell, New Mexico, the president of the base's Duster's Hot Rod Club, Larry Sanchez, raced "at all the local strips and Oklahoma City Nationals," a club officer remembered.[^dslnmok] (Their home scenes: [North Dakota](north-dakota-minot-borrowed-strips.md) and [New Mexico](new-mexico-timing-association-albuquerque.md).)
 
 ## Airstrips, pastures and a wet-down starting line
 
@@ -134,3 +137,5 @@ The *Daily Oklahoman* for the fairgrounds strip's opening (paywalled to us); the
 [^dslok]: Recollections of Bill Honea, Monroe Cameron, Rob Ritter, Duane Walker and Doug Waggoner, and a 1960 pit pass and *Duncan Banner* ad from Bill Norton, Oklahoma memories page, *Drag Strip List*. https://www.dragstriplist.com/ok (accessed 2026-11-02)
 [^hambenid]: G V Gordon, opening posts, and replies, in "Playboys Rod and Custom Club 1957," The H.A.M.B. (Jalopy Journal forum), 2017. https://www.jalopyjournal.com/forum/threads/playboys-rod-and-custom-club-1957.1047819/ (accessed 2026-11-02)
 [^lewis]: "James C. Lewis Obituary," Brown Cummings funeral home, Enid, Okla., Mar. 4, 2022. https://www.browncummings.com/obituaries/james-lewis (accessed 2026-11-02)
+[^olsonok]: "Bruce Olson's 1932 Ford," Kustomrama (account and photographs courtesy of Todd Olson). https://kustomrama.com/wiki/Bruce_Olson%27s_1932_Ford (accessed 2026-11-03)
+[^dslnmok]: John Blasche, "Walker Air Force Base, 1957-61" (memory), on "New Mexico," Drag Strip List. https://www.dragstriplist.com/nm (accessed 2026-11-03)

@@ -50,6 +50,11 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [A Watermelon Farmer's Dragster (Oklahoma)](oklahoma-city-nationals-rush-springs.md): Rush Springs farmer Melvin Heath's 1956 national title, an engine from a Marlow barn, the Jaycees' fairgrounds strip that hosted the 1957–58 Nationals, and airstrips from Jet to Burns Flat, 1954–66.
 - [Cut Through the Mountain (Alabama)](alabama-black-widows-lassiter-helena.md): the Black Widows' strip cut through Lassiter Mountain, the Helena quarter-mile behind a church, a weekend circuit from Montgomery to the Chattahoochee and a 12-year-old girl at Miller's Ferry, 1955–66.
 - [A Quarter in the Bucket (Denver)](denver-timing-association-bandimere.md): 220 people at a school meeting found the Denver Timing Association, drags on an unopened I-25 and at Lowry, and a parts dealer's proving ground on the hogback, 1948–86.
+- [Everywhere but Here (North Dakota)](north-dakota-minot-borrowed-strips.md): a Beach teenager's Hemi coupe flat-towed to the 1958 Nationals, a sprint car against a Cessna at Minot's airport, and "Backdoor Bob" Struksnes, a top-four Top Fuel racer who never raced at home.
+- [Bell Hoses and a Bottle of Laughing Gas (Deer Park, Wash.)](deer-park-spokane-nitrous.md): a wartime airport north of Spokane, a council that read the gate receipts, and the parts-store dragster that hid nitrous under the cowl in 1961.
+- [Light Bulbs on the Runway (Western Washington)](western-washington-airport-strips.md): Shelton, Arlington, Bremerton, Bellingham and Thun Field, and a club that took a quarter-mile of light bulbs home after every race.
+- [A Mobil Flag on Eubank (Albuquerque)](new-mexico-timing-association-albuquerque.md): police-run drags on a truck bypass, a move for the oil trucks, eleven years of meetings and a strip built on bonds in 1964.
+- [Sundays at Airport No. 2 (Utah)](utah-airport-no-2-salt-lake-strips.md): Provo's one race in 1950, an Ogden street race for a clubhouse, and the 1965 Sunday when Salt Lake's crowd moved two miles east.
 
 **Clubs and timing associations**
 

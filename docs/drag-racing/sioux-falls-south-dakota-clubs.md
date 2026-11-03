@@ -120,6 +120,8 @@ The photographs on the club's drag-race page fill in the local cast: Earl Britt 
 
 At the other end of the state, the Rapid Shifters formed in 1952 and became a charter club of the National Hot Rod Association in 1957; the Starters followed in the spring of 1956. The Lloyd Willey Collection at the state archives holds the two clubs' booklets of member lists, histories and car stories, and the book of a 2010 Rapid Shifters reunion.[^sdarch] A member wrote in 2022 that the club disbanded in 1965 and was reestablished in 2020.[^hambplaq] In 2024 the Rapid Shifters joined the Counts of the Cobblestone to hold the second Vintage Dirt Drags, on a 100-yard dirt course at Bandit Speedway in Box Elder, for cars from 1964 and older, after the Sturgis Dragway that hosted the first one had closed. "There's no keeping track of winners or losers, there's not money to win, it's all about just going out and having fun," said Kellan Buchholz, a Rapid Shifter.[^kota24]
 
+*See also:* the state to the north, which had no drag strip of its own for decades: [North Dakota's borrowed strips](north-dakota-minot-borrowed-strips.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

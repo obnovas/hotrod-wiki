@@ -18,6 +18,8 @@ cities:
 - Sidney, Montana
 - Hardin, Montana
 - Lewistown, Montana
+- Glendive, Montana
+- Belgrade, Montana
 - Arlee, Montana
 - Ronan, Montana
 - St. Ignatius, Montana
@@ -59,12 +61,13 @@ related:
 - places/twin-falls-main-avenue.md
 - drag-racing/sedalia-drag-ons.md
 - places/pacific-northwest.md
+- drag-racing/deer-park-spokane-nitrous.md
 canonical_for: []
 ---
 # "Angels Behind the Wheel": Montana's Hoodoos, Road Runners and Royal Coachmen (Poplar, Arlee and Ronan, Mont., 1955–62)
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> Montana weeklies (*Poplar Standard*, *Sidney Herald*, *Hardin Tribune-Herald*, *St. Ignatius Post*), 1955–62: club statements, a club's letter to the editor, a reprinted editorial and a local racing item, read as page OCR from Chronicling America (Library of Congress) · **Last verified:** 2026-10-22 (Round 23-West) · **Open issues:** the Morin trophy count and times come from one paragraph ◐; the Lewistown meet is known only from a reprinted editorial ◐; whether the Hoodoos, Throttle Pushers and Royal Coachmen lasted past their first year ? · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> Montana weeklies (*Poplar Standard*, *Sidney Herald*, *Hardin Tribune-Herald*, *St. Ignatius Post*), 1955–62: club statements, a club's letter to the editor, a reprinted editorial and a local racing item, read as page OCR from Chronicling America (Library of Congress) · **Last verified:** 2026-11-03 (Round 31: Lewistown, Belgrade and Glendive from North Dakota sources) · **Open issues:** the Morin trophy count and times come from one paragraph ◐; the Lewistown meet is known only from a reprinted editorial ◐; whether the Hoodoos, Throttle Pushers and Royal Coachmen lasted past their first year ? · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We are not gang of tough guys, and don't pretend to be."
@@ -81,6 +84,8 @@ The next spring, in Hardin, Roger Shaw's youth council column raised the "contro
 
 The strips that did exist could bring trouble with them. In May 1959 the *Glasgow Courier* wrote that Lewistown was "recovering from a wild melee" after "camp followers of the worst kind" came to town for "an authorized drag race program." The editorial said the meet itself was "well run and orderly," and it quoted a spokesman for the local Road-Stur Club: "There was no way we could handle the rough element." The *Poplar Standard* reprinted the editorial a week later.[^ps590522]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
+Montana's strips also served the state next door, which had none. Bruce Olson of Beach, North Dakota, a Montana border town, "ran the Coupe at both the Lewistown & Bozeman (Belgrade) Air/Drag Strips (circa 1958)," his son wrote; the Bozeman strip, by that account, was the airport at Belgrade.[^hemi32mt] Later a North Dakota racer, Hank Berry, drove 55 miles to a drag strip at Glendive until it closed in the late 1970s.[^nodakmt] (Full story: [North Dakota's borrowed strips](north-dakota-minot-borrowed-strips.md).)
+
 ## Arlee and Ronan (1960–62)
 
 In February 1960 the secretary, Francis "Frenchy" Budland, and the president, LeRoy Morin, of the **Road Runners Rod and Kustom club** at Arlee sent the *St. Ignatius Post* a statement because "a good deal of misunderstanding exists as to the objectives of a Hot Rod club." Its rules would have suited the Hoodoos. Members who broke the law were fined or expelled, there was no alcohol at club events, and every member's car had a safety check every three months. Rule two read: "Any racing of any kind is limited to sanctioned and insured Drag Strips." The club promised to help stalled motorists and support safety and charity drives, and it gave NHRA's size as "over 90,000 members" in "over 900 chartered clubs."[^sip600218]
@@ -89,7 +94,7 @@ The next winter it was the turn of the **Royal Coachmen Car Club** of Ronan. The
 
 ## The family car (1962)
 
-By the summer of 1962 the Road Runners' president was racing as far away as Deer Park, Washington. On July 26 the *Post*'s Arlee correspondent reported that Mr. and Mrs. LeRoy Morin and their two children, ages 6 and 4, were going to Deer Park again that weekend, where Morin would race "for a $100 purse." At the last Deer Park meet he had won his 20th trophy since April 1, and his wife had won her sixth in the "Powder Puff Woman's race." She drove her husband's car, a C/Gas entry described as "an older type body with a newer engine." The Morin racer was also the family car: they drove it to the races, it had covered 89,000 miles, and only the Morins drove it. Morin had first raced in 1958 at Butte, where he won "in 16.2 second at 85 miles per hour." His latest win was 14.26 seconds at 100 mph. Six more meets were planned that year, at Deer Park, Butte, Bozeman and Conrad. Morin said the association's safety standards would "disqualify about 50 per cent of the cars on the highway."[^sip620726]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+By the summer of 1962 the Road Runners' president was racing as far away as [Deer Park, Washington](deer-park-spokane-nitrous.md). On July 26 the *Post*'s Arlee correspondent reported that Mr. and Mrs. LeRoy Morin and their two children, ages 6 and 4, were going to Deer Park again that weekend, where Morin would race "for a $100 purse." At the last Deer Park meet he had won his 20th trophy since April 1, and his wife had won her sixth in the "Powder Puff Woman's race." She drove her husband's car, a C/Gas entry described as "an older type body with a newer engine." The Morin racer was also the family car: they drove it to the races, it had covered 89,000 miles, and only the Morins drove it. Morin had first raced in 1958 at Butte, where he won "in 16.2 second at 85 miles per hour." His latest win was 14.26 seconds at 100 mph. Six more meets were planned that year, at Deer Park, Butte, Bozeman and Conrad. Morin said the association's safety standards would "disqualify about 50 per cent of the cars on the highway."[^sip620726]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ![The St. Ignatius water tower in Montana's Mission Valley, with the Mission Mountains rising behind it, photographed in 2012](../assets/images/commons-st-ignatius-water-tower.jpg){ loading=lazy }
 
@@ -126,3 +131,5 @@ The *Missoulian* feature on the Morins (summer 1962); where Montana's 1958–62 
 [^sip620125]: Ronald McCrea, "Hot Rod Club Seeks Support of Public," letter, *St. Ignatius Post*, Jan. 25, 1962, p. 3. Page OCR via Chronicling America. https://www.loc.gov/resource/sn84036106/1962-01-25/ed-1/?sp=3 (accessed 2026-10-22)
 [^sip610803]: Column addressed to teenage readers, *St. Ignatius Post*, Aug. 3, 1961, p. 3. Page OCR via Chronicling America. https://www.loc.gov/resource/sn84036106/1961-08-03/ed-1/?sp=3 (accessed 2026-10-22)
 [^sip620726]: "Morins Seek More Trophies," Arlee news, *St. Ignatius Post*, July 26, 1962, p. 8. Page OCR checked against the page image, via Chronicling America. https://www.loc.gov/resource/sn84036106/1962-07-26/ed-1/?sp=8 (accessed 2026-10-22)
+[^hemi32mt]: HEMI32 (Todd Olson), post #13, July 28, 2010, in "Lewistown, Montana... Drag Racing in 1959," The H.A.M.B. https://www.jalopyjournal.com/forum/threads/lewistown-montana-drag-racing-in-1959.497100/ (accessed 2026-11-03)
+[^nodakmt]: "Nodak Hall of Fame: Inductees" ('Smokin' Hank Berry), Nodak Race Club, Internet Archive copy of Jan. 14, 2025. https://web.archive.org/web/20250114053533/https://racenodak.com/hall-of-fame/hof-inductees/ (accessed 2026-11-03)

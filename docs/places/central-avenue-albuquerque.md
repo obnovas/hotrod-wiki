@@ -32,6 +32,7 @@ tags:
 - car-clubs
 - grassroots-sources
 related:
+- drag-racing/new-mexico-timing-association-albuquerque.md
 - places/cruising-overview.md
 - places/dragging-main.md
 - places/modesto.md
@@ -69,6 +70,8 @@ Twelve years later, the argument was about freedom:
 > — **Lorenzo Otero**, 2018 (via Route 66 News).[^r66]
 
 Route 66 News adds a comparison: Springfield, Missouri, passed an early-1990s anti-cruising ordinance for Kearney Street (also Route 66), and later allowed organized cruises there.[^r66]
+
+*See also:* Albuquerque's hot rodders of the 1950s, who raced on a truck bypass that the police closed on Sundays and then on Eubank Boulevard, in [A Mobil Flag on Eubank](../drag-racing/new-mexico-timing-association-albuquerque.md).
 
 [^alibi]: Weekly Alibi, "Cruising Crackdown" (May 25, 2006). https://alibi.com/news/cruising-crackdown/ (accessed 2026-10-13)
 [^r66]: Route 66 News, "Albuquerque repeals anti-cruising ordinance" (Nov 10, 2018). https://www.route66news.com/2018/11/10/albuquerque-repeals-anti-cruising-ordinance/ (accessed 2026-10-13)

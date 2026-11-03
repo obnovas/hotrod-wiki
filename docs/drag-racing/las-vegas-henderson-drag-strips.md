@@ -128,6 +128,8 @@ The next eight years had no strip at all. The Southern Nevada Timing Association
 
 Reno's racers had their own runway, the Douglas-Tahoe Airport near Minden. Mel Bashore's notes from 1956 Nevada papers describe Brent Tyler as "something of a mad scientist": for 1956 he moved his flathead to the rear of his dragster, with a turned-around Cord differential and Morris Minor torsion bars, and Warren Welsh turned the day's top speed, 118.03 mph, on May 27. Then the *Nevada State Journal* of July 1 ran the front-page headline "Man builds hot-rod with airplane parts." Tyler was arrested for grand larceny over $150 worth of parts from two planes parked at a Reno airport, until it turned out the owner's son had given him permission to take them from a wrecked Fairchild trainer, and the charges were dropped. That August the Cal-Neva Timing Association held half-mile races at Douglas-Tahoe.[^dl56]
 
+*See also:* Utah's runway drags and the Salt Lake strip war of 1965, in [Sundays at Airport No. 2](utah-airport-no-2-salt-lake-strips.md).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

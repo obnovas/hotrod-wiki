@@ -574,6 +574,48 @@ themes:
         link: drag-racing/denver-timing-association-bandimere.md
         also: [drag-racing/march-1957-drag-strip-survey.md#the-denver-puzzle]
         flag: drag-racing/denver-timing-association-bandimere.md#q-1
+      - id: north-dakota-no-strip
+        q: Where did North Dakota's hot rodders drag race when the state had no strip?
+        a: >-
+          Out of state. A Beach hot rodder ran his coupe at Lewistown and Belgrade, Montana, around 1958 and
+          flat-towed it to that year's Nationals in Oklahoma City, and Minot's Top Fuel racer Bob Struksnes said
+          he had few fans at home "because we never raced here." By 2010 Minot's fairgrounds eighth-mile was
+          called the only IHRA-sanctioned strip in the state.
+        link: drag-racing/north-dakota-minot-borrowed-strips.md
+        also: [drag-racing/montana-hoodoos-road-runners-royal-coachmen.md, drag-racing/oklahoma-city-nationals-rush-springs.md]
+      - id: deer-park-first-drags
+        q: When did drag racing start at Deer Park, Washington?
+        a: >-
+          The first organized drags on the old Army airport north of Spokane were on March 15, 1953, under the
+          Lilac City Timing Association, timed at first with two service-station bell hoses. A 1950 roadster
+          meet there is sometimes counted as the first (⚠ see Open questions).
+        link: drag-racing/deer-park-spokane-nitrous.md
+        also: [drag-racing/western-washington-airport-strips.md]
+        flag: drag-racing/deer-park-spokane-nitrous.md#q-1
+      - id: bremerton-light-bulbs
+        q: Why did Bremerton's drag strip have to be taken down after every race?
+        a: >-
+          Because the runway was still an emergency landing strip, and nothing over a foot high could stay
+          near it. The Handlers Car Club, which leased the strip for the 1960 season, raced on Saturday nights
+          under two generators and a quarter-mile of 100-watt bulbs and packed it all away afterward.
+        link: drag-racing/western-washington-airport-strips.md
+        also: [drag-racing/deer-park-spokane-nitrous.md]
+      - id: albuquerque-eubank-oil-trucks
+        q: Why did Albuquerque's drags move to Eubank Boulevard?
+        a: >-
+          Because in 1954 the city wanted the big oil trucks, hauling equipment from the Hobbs fields to
+          Farmington, out of downtown on race Sundays. The New Mexico Timing Association had raced on the Menaul
+          Truck Bypass under a city permit and police supervision; its own strip, Albuquerque Dragway, opened in 1964.
+        link: drag-racing/new-mexico-timing-association-albuquerque.md
+        also: [places/central-avenue-albuquerque.md]
+      - id: salt-lake-strip-war-1965
+        q: How did Salt Lake Raceway lose its crowd?
+        a: >-
+          In one Sunday. The NHRA-sanctioned Bonneville Drag Strip opened two miles east on May 2, 1965, and all
+          the spectators and most of the racers moved there; the old track tried Friday nights for a summer and
+          then closed.
+        link: drag-racing/utah-airport-no-2-salt-lake-strips.md
+        also: [drag-racing/las-vegas-henderson-drag-strips.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -749,6 +791,16 @@ themes:
         link: people/joe-lunati.md
         also: [companies/moroso.md]
         flag: people/joe-lunati.md#q-3
+      - id: nitrous-first-spokane
+        q: Where was nitrous oxide first used in drag racing?
+        a: >-
+          By one detailed account, at Deer Park, Washington: Gary Harms won B/Gas there on September 7, 1958
+          with a bottle of nitrous in his 1940 Ford, and Spokane's Thrifty Auto dragster ran hidden nitrous at
+          Famoso in 1961 (◐ see Open questions). A Spokane expat's 10,000 RPM Speed Equipment sold kits from
+          1964, and Nitrous Oxide Systems was founded in 1978.
+        link: drag-racing/deer-park-spokane-nitrous.md#the-bottle-under-the-cowl
+        also: [people/barney-navarro.md]
+        flag: drag-racing/deer-park-spokane-nitrous.md#q-3
   - id: people
     title: People
     questions:

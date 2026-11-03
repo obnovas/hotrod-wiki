@@ -1285,3 +1285,59 @@ highlights:
     added: '2026-11-02'
     eras: [1960s]
     regions: ['Morrison, Colo.']
+
+  - id: olson-too-cold-for-roadsters
+    headline: Ford didn't sell many roadsters in North Dakota, so a Beach teenager built a 1932 coupe instead
+    teaser: The old timers told Bruce Olson it was too cold for roadsters. In 1958 he flat-towed his Hemi coupe
+      from Beach to the Nationals in Oklahoma City and ran 13.40 at 107 mph.
+    link: drag-racing/north-dakota-minot-borrowed-strips.md
+    evidence: The old timers told him it was too cold.
+    source_type: Family account
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-03'
+    eras: [1950s]
+    regions: ['Beach, N.D.']
+
+  - id: deer-park-bell-hoses
+    headline: Deer Park's first drag strip clocks were two gas-station bell hoses laid across the finish line
+    teaser: The Inland Northwest's airport strip opened north of Spokane in 1953. By 1959 the town was buying a
+      radar gun for race days, and 17,000 spectators came that season.
+    link: drag-racing/deer-park-spokane-nitrous.md
+    evidence: the type that rang a bell as a car entered a service station
+    source_type: ["Local history site", "Municipal record"]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-03'
+    eras: [1950s]
+    regions: ['Deer Park, Wash.']
+
+  - id: albuquerque-mobil-flag
+    headline: Albuquerque's drags moved over for the oil trucks, and a Mobil dealer lent the starting flag
+    teaser: In 1954 the city sent the hot rodders from a truck bypass to Eubank Boulevard to get oil trucks out
+      of downtown. Station owner Roy Mullin let the club start races with a Mobil checker flag.
+    link: drag-racing/new-mexico-timing-association-albuquerque.md
+    evidence: I still have this Mobil Checker flag in one of my trophies cases.
+    source_type: Oral history
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-03'
+    eras: [1950s]
+    regions: ['Albuquerque, N.M.']
+
+  - id: nikitenko-cessna-1964
+    headline: A Minot sprint-car driver raced a Cessna down the airport runway in 1964, and flipped 9 times
+    teaser: The Nodak Race Club's hall of fame says Andy "Choo-Choo" Nikitenko lost control at 150 mph at the end
+      of the runway. He kept racing until 1971.
+    link: drag-racing/north-dakota-minot-borrowed-strips.md
+    evidence: his race against Cessna Airplane at the Minot International Airport in 1964
+    source_type: "Museum / HOF"
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-03'
+    eras: [1960s]
+    regions: ['Minot, N.D.']

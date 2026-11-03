@@ -81,9 +81,9 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [The SEMO Drag Strip at Malden, Mo.](../drag-racing/semo-malden-drag-strip.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
 
-**The Dakotas.** [Huskies, a Coke Freeze and the Loop: Sioux Falls hot rodders and South Dakota's clubs](../drag-racing/sioux-falls-south-dakota-clubs.md).
+**The Dakotas.** [Huskies, a Coke Freeze and the Loop: Sioux Falls hot rodders and South Dakota's clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) · [Everywhere but Here: North Dakota's borrowed strips and Minot's fastest man](../drag-racing/north-dakota-minot-borrowed-strips.md).
 
-**Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md) · [The Castroville airfield drags (Medina County)](../drag-racing/medina-county-castroville-drags.md) · [The Track That Milk Built: Green Valley Raceway](../drag-racing/green-valley-raceway-smithfield.md) · [San Antonio's Double Eagle and Alamo Dragway](../drag-racing/san-antonio-double-eagle-alamo-dragway.md) · [T-Bones and Cheater Slicks: a Dallas folklorist at the speed shop](../voices/dallas-folksay-custom-automotive.md).
+**Texas and New Mexico.** [Texas: Three Stopwatches at Caddo Mills](texas.md) · [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) · [Canyon's Orchids, Plugs and Celtics](../drag-racing/canyon-orchids-celtics-amarillo.md) · [Cameron's Accelerators](../drag-racing/cameron-accelerators.md) · [Westheimer Road, Houston](westheimer-houston.md) · [Central Avenue, Albuquerque](central-avenue-albuquerque.md) · [The Castroville airfield drags (Medina County)](../drag-racing/medina-county-castroville-drags.md) · [The Track That Milk Built: Green Valley Raceway](../drag-racing/green-valley-raceway-smithfield.md) · [San Antonio's Double Eagle and Alamo Dragway](../drag-racing/san-antonio-double-eagle-alamo-dragway.md) · [T-Bones and Cheater Slicks: a Dallas folklorist at the speed shop](../voices/dallas-folksay-custom-automotive.md) · [A Mobil Flag on Eubank: the New Mexico Timing Association and Albuquerque Dragway](../drag-racing/new-mexico-timing-association-albuquerque.md).
 
 **Oklahoma.** [A Watermelon Farmer's Dragster: Melvin Heath, the fairgrounds Nationals and Oklahoma's hometown strips](../drag-racing/oklahoma-city-nationals-rush-springs.md) · [The Restless Ribbon: cruising Peoria Avenue in Tulsa](brookside-restless-ribbon-tulsa.md).
 
@@ -91,7 +91,9 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Nevada.** [Sand on the Track: Las Vegas, Henderson and Southern Nevada's eight drag strips](../drag-racing/las-vegas-henderson-drag-strips.md).
 
-**Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md) · [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md).
+**Utah.** [Sundays at Airport No. 2: Utah's runway drags and the Salt Lake strip war of 1965](../drag-racing/utah-airport-no-2-salt-lake-strips.md).
+
+**Northwest.** [Pacific Northwest](pacific-northwest.md) · [Twin Falls, Idaho](twin-falls-main-avenue.md) · [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md) · [Bell Hoses and a Bottle of Laughing Gas: Deer Park, Spokane](../drag-racing/deer-park-spokane-nitrous.md) · [Light Bulbs on the Runway: Western Washington's airport strips](../drag-racing/western-washington-airport-strips.md).
 
 **Colorado.** [A Quarter in the Bucket: the Denver Timing Association, the Lowry drags and Bandimere](../drag-racing/denver-timing-association-bandimere.md).
 

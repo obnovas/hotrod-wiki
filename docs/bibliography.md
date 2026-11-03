@@ -593,6 +593,38 @@ Tags as above. The Rhode Island and Ohio newspapers are page OCR from Chroniclin
 - [local] *The Newport Navalog*, June 29, 1956, May 27 and June 3, 1960 (Pascoag and Charlestown drags). https://www.loc.gov/item/sn91070618/
 - [local] *Geauga Record* (Chardon, Ohio), Aug. 18 and Sept. 1, 1960 (a Rt. 322 drag race and the court). https://www.loc.gov/item/sn84028102/
 
+## Added in Round 31 (accessed 2026-11-03)
+Tags as above. The *Arlington Times* and *Marysville Globe* sites failed when we tried, and the Nodak Race Club's hall of fame was read in an Internet Archive copy. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [local] Kim Fundingsland, "North Dakota's fastest man," *Minot Daily News*, Dec. 9, 2018. https://www.minotdailynews.com/news/local-news/2018/12/north-dakotas-fastest-man/
+- [obit] "Robert Struksnes," *Minot Daily News*, Jan. 7, 2026. https://www.minotdailynews.com/obituaries/2026/01/robert-struksnes/
+- [local] Alex Eisen, "A conversation with Jim Grote," *Minot Daily News*, May 15, 2020. https://www.minotdailynews.com/sports/local-sports/2020/05/a-conversation-with-jim-grote/
+- [local] Laurie A. Arellano, "Speed, smiles and quarter miles," Minot Air Force Base Public Affairs, June 15, 2010. https://www.minot.af.mil/News/Article-Display/Article/265477/speed-smiles-and-quarter-miles/
+- [local] Dustin Monke, "A place to race," *The Dickinson Press*, Dec. 26, 2007. https://www.thedickinsonpress.com/news/a-place-to-race
+- [local] Charly Haley, "Hundreds turn out to see drag races at Jamestown's airport," *The Jamestown Sun*, July 29, 2013. https://www.jamestownsun.com/news/hundreds-turn-out-to-see-drag-races-at-jamestowns-airport
+- [local] W. Scott Olsen, "Speed on the prairie," *The Forum* (Fargo-Moorhead), May 28, 2018. https://www.inforum.com/newsmd/speed-on-the-prairie-rural-moorhead-drag-strip-embraces-purest-form-of-racing
+- [club] "Nodak Hall of Fame: Inductees," Nodak Race Club (Internet Archive copy of Jan. 14, 2025). https://web.archive.org/web/20250114053533/https://racenodak.com/hall-of-fame/hof-inductees/
+- [oral] "Bruce Olson's 1932 Ford," Kustomrama (family account, Todd Olson). https://kustomrama.com/wiki/Bruce_Olson%27s_1932_Ford
+- [oral] HEMI32 (Todd Olson), post #13, July 28, 2010, "Lewistown, Montana... Drag Racing in 1959," The H.A.M.B. https://www.jalopyjournal.com/forum/threads/lewistown-montana-drag-racing-in-1959.497100/
+- [mag] Bobby Bennett, "Drag racing fan parlays passion into huge collection, exhibition series," *Competition Plus*, May 1, 2024. https://competitionplus.com/drag-racing-fan-parlays-passion-into-huge-collection-exhibition-series/
+- [org] "In Memoriam," NHRA.com, 2026. https://www.nhra.com/news/2026/memoriam
+- [club] Greg Fury and Peter Coffin, "Drag Racing at Deer Park," Clayton/Deer Park Historical Society newsletter, issues 65–66, Sept.–Oct. 2013. http://www.cdphs.org/uploads/3/4/2/0/34204235/newsletter_66_downsizesinglepageweb.pdf
+- [local] "Deer Park Drag Strip reunion set for Sept. 13 Event," *The Exchange* (Spokane), Aug. 28, 2025. https://pacificnw.exchange/features/nw-motorsports-report/deer-park-drag-strip-reunion-set-for-sept-13-event
+- [mag] Gary Hordemann, "The First Drag Racers to Ever Use Nitrous Oxide," *Hot Rod*, Mar. 4, 2016. https://www.hotrod.com/news/the-first-drag-racers-to-ever-use-nitrous-oxide
+- [local] Paul Delaney, "Eagle Top Fueler: A Lost Legend is Found," *The Spokesman-Review*, Mar. 24, 2005. https://www.spokesman.com/stories/2005/mar/24/eagle-top-fueler-a-lost-legend-is-found/
+- [local] Paul Delaney, "DP kindles drag memories," *The Spokesman-Review*, Sept. 15, 2005. https://www.spokesman.com/stories/2005/sep/15/dp-kindles-drag-memories/
+- [org] City of Arlington, "The Airport After the Air Station." https://www.arlingtonwa.gov/192/The-Airport-After-the-Air-Station
+- [org] Phil Dougherty, "First plane lands at the new Arlington airport on June 13, 1934," HistoryLink.org Essay 8324, Oct. 12, 2007. https://www.historylink.org/File/8324
+- [oral] Jive-Bomber, "1950s Pacific Northwest Drag Racing in Color!," The Jalopy Journal, Nov. 21, 2023. https://www.jalopyjournal.com/?p=57132
+- [mag] Bobby Bennett, "Bremerton Raceway celebrates 50th anniversary," *Competition Plus*, Aug. 12, 2009. https://competitionplus.com/bremerton-raceway-celebrates-50th-anniversary/
+- [local] Luciano Marano, "Where the rubber meets the road," *Kitsap Daily News*, July 18, 2013. https://www.kitsapdailynews.com/2013/07/18/where-the-rubber-meets-the-road/
+- [org] Pierce County, *South Hill Community Plan Background*, March 2015. https://www.piercecountywa.gov/AgendaCenter/ViewFile/Item/825?fileID=1015
+- [oral] Washington, New Mexico and Utah memories and strip histories, *Drag Strip List* (including Roy "Moon" Mullin's NMTA history, 2013–15, and Dale Schafer's memories). https://www.dragstriplist.com/wa, https://www.dragstriplist.com/nm, https://dragstriplist.com/utah, https://www.dragstriplist.com/ut
+- [org] "Dale Schafer," NHRA Division 4 Hall of Fame. https://www.division4halloffame.com/hall-of-famers/alphabetical/dale-schafer/
+- [oral] Lyle Greenburg, "ABQ Dragway," *New Mexico Motorsports Report*, May 2016. https://doczz.net/doc/851345/abq-dragway---new-mexico-motorsports-report
+- [local] "Bonneville then Rocky Mountain Raceway," West Valley City History, May 17, 2018. https://www.westvalleycityhistory.com/blogposts/2018/5/17/9bwx7e20kp49yz2miqgv6qgmpd4dnx
+- [obit] "Gary Lloyd Nielsen," Larkin Mortuary, 2024. https://www.larkinmortuary.com/obituary/view/gary-lloyd-nielsen/
+
 ## Added in Round 30 (accessed 2026-11-02)
 Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused our tools and were read only as search-engine excerpts; they are marked so in each article. See [Grassroots Sources](reference/grassroots-sources.md).
 

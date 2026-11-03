@@ -12,12 +12,16 @@ paths:
         why: "Start in 1946: a club, a chicken coop and the Highway Patrol, before there was anywhere legal to run."
       - page: drag-racing/sanford-cain-bannister.md
         why: "Meanwhile in New England: dawn races on an airport runway, then barricades for the pilots at Sanford, Maine."
+      - page: drag-racing/western-washington-airport-strips.md
+        why: "From 1952 Washington's clubs race on Navy and county airfields; at Bremerton they take the lights home after every race."
       - page: drag-racing/pomona-choppers-fontana.md
         why: "One answer that worked: police backing a club strip."
       - page: drag-racing/palm-springs-timing-association.md
         why: "Two Pomona policemen carry the idea to the desert in 1953; no strip turns up in the town paper."
       - page: drag-racing/inyokern-dust-devils.md
         why: "Another way it worked: the sheriff's strip in the desert, from 1954."
+      - page: drag-racing/deer-park-spokane-nitrous.md
+        why: "A town council reads the gate receipts: Deer Park's percentage deals, a radar gun and a lease fight in 1961."
       - page: drag-racing/las-vegas-henderson-drag-strips.md
         why: "Across the line in Nevada, the sheriff sends deputies to watch the first legal drags on Vegas Valley Drive in 1953."
       - page: drag-racing/planners-report-1955.md
@@ -26,6 +30,8 @@ paths:
         why: "A chamber of commerce bets on a strip and gets the first Nationals."
       - page: drag-racing/phoenix-west-side-karbs-litchfield-road.md
         why: "The 1955 Nationals finished at Perryville, Ariz. A West Valley teen club placed third there, and by 1959 the valley had its own strip."
+      - page: drag-racing/new-mexico-timing-association-albuquerque.md
+        why: "Albuquerque races on a truck bypass the police close on Sundays, then spends eleven years getting a strip built on bonds."
       - page: drag-racing/half-day-ataa-maremont.md
         why: "In the Midwest, a muffler maker builds the strip himself."
       - page: drag-racing/escanaba-dragns.md
@@ -100,6 +106,8 @@ paths:
         why: "An old air base becomes a regional strip that draws Memphis racers."
       - page: drag-racing/harmon-raceway-monroe.md
         why: "In Louisiana, a new strip answers the parents first: a full-page ad in 1964, then NHRA sanction, lights and funny cars."
+      - page: drag-racing/utah-airport-no-2-salt-lake-strips.md
+        why: "In Salt Lake in 1965, a new NHRA strip two miles away empties the old one in a single Sunday."
       - page: drag-racing/hope-airport-drag-strip.md
         why: "In Arkansas, a garage meeting in 1962 leads to races on the town airport, until an FAA approach rule ends them in 1968."
       - page: drag-racing/palmer-alaska-polar-dragway.md
@@ -461,6 +469,8 @@ paths:
         why: "Midwest and East threads."
       - page: places/upper-midwest.md
         why: "Streets before strips."
+      - page: drag-racing/north-dakota-minot-borrowed-strips.md
+        why: "A state with no strip: North Dakotans tow to Montana and Oklahoma City, and race a Cessna at home."
       - page: places/pacific-northwest.md
         why: "Councils, Woodburn and fiberglass."
       - page: places/texas.md

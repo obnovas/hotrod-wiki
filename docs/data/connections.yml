@@ -103,7 +103,7 @@ nodes:
   - {id: fairburn,   label: "Ted Edwards / Houston Bros. strip (Fairburn, Ga.)", type: place, page: drag-racing/fairburn-atlanta-daily-world.md}
   # ---- Round 23-West: Montana, Arizona, Medina County, Santa Maria
   - {id: roadrunners, label: "Road Runners Rod and Kustom (Arlee, Mont.)", type: club, page: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md}
-  - {id: deerpark,   label: "Deer Park, Wash., drag strip", type: place, page: drag-racing/montana-hoodoos-road-runners-royal-coachmen.md}
+  - {id: deerpark,   label: "Deer Park, Wash., drag strip", type: place, page: drag-racing/deer-park-spokane-nitrous.md}
   - {id: karbs,      label: "KARBS (Goodyear, Ariz.)", type: club, page: drag-racing/phoenix-west-side-karbs-litchfield-road.md}
   - {id: phxstrip,   label: "Phoenix Drag Strip (Litchfield Road)", type: place, page: drag-racing/phoenix-west-side-karbs-litchfield-road.md}
   - {id: alamota,    label: Alamo Timing Assn., type: club, page: drag-racing/medina-county-castroville-drags.md}
@@ -163,6 +163,11 @@ nodes:
   - {id: okcfair,    label: Oklahoma City fairgrounds strip, type: place, page: drag-racing/oklahoma-city-nationals-rush-springs.md}
   - {id: dta,        label: Denver Timing Association, type: club, page: drag-racing/denver-timing-association-bandimere.md}
   - {id: bandimere,  label: Bandimere Speedway, type: place, page: drag-racing/denver-timing-association-bandimere.md}
+  - {id: thrifty,    label: Thrifty Auto Supply, type: company, group: garage-born, page: drag-racing/deer-park-spokane-nitrous.md}
+  - {id: bremerton,  label: Bremerton Raceway, type: place, page: drag-racing/western-washington-airport-strips.md}
+  - {id: nmta,       label: New Mexico Timing Association, type: club, page: drag-racing/new-mexico-timing-association-albuquerque.md}
+  - {id: bonnevilleds, label: Bonneville Drag Strip (Salt Lake), type: place, page: drag-racing/utah-airport-no-2-salt-lake-strips.md}
+  - {id: struksnes,  label: Bob Struksnes, type: person, page: drag-racing/north-dakota-minot-borrowed-strips.md}
   - {id: rleong,     label: Roland Leong, type: person, page: people/roland-leong.md}
   - {id: kahuku,     label: Kahuku Point strip, type: place, page: drag-racing/kahuku-point-hawaii-drag-strip.md}
 edges:
@@ -546,6 +551,18 @@ edges:
      evidence: ["The strip joined NHRA in 1968"]}
   - {from: tbeatty, to: dta, type: scene, label: "Let DTA charter member Bob Olds drive his belly tanker at Bonneville", page: drag-racing/denver-timing-association-bandimere.md,
      evidence: ["Tom Beatty let him drive his belly tanker one way at 186 mph"]}
+  - {from: nhra, to: deerpark, type: promotion, label: "1955 Drag Safari's fourth stop", page: drag-racing/deer-park-spokane-nitrous.md,
+     evidence: ["Deer Park was its fourth stop"]}
+  - {from: thrifty, to: deerpark, type: scene, label: "Spokane parts store whose nitrous dragster raced at Deer Park, 1958–61", page: drag-racing/deer-park-spokane-nitrous.md,
+     flag: single-source, evidence: ["a garden variety parts store that started selling speed equipment in the 1950s"]}
+  - {from: bremerton, to: nhra, type: partnered, label: "NHRA-sanctioned from the start; Division 6 events through 1975", page: drag-racing/western-washington-airport-strips.md,
+     evidence: ["The strip has always been NHRA-sanctioned"]}
+  - {from: nhra, to: nmta, type: promotion, label: "Sent Tex Smith to explain the safety rules to Albuquerque's officials", page: drag-racing/new-mexico-timing-association-albuquerque.md,
+     evidence: ["the NHRA sent Tex Smith to explain drag racing's safety rules"]}
+  - {from: bonnevilleds, to: nhra, type: partnered, label: "NHRA-sanctioned strip that opened May 2, 1965", page: drag-racing/utah-airport-no-2-salt-lake-strips.md,
+     evidence: ["built Bonneville Drag Strip, NHRA-sanctioned"]}
+  - {from: struksnes, to: nhra, type: scene, label: "Minot Top Fuel racer; fourth in 1976 and third in 1977", page: drag-racing/north-dakota-minot-borrowed-strips.md,
+     evidence: ["NHRA counts six divisional wins"]}
   - {from: rleong, to: kahuku, type: scene, label: "Raced his own cars at Kahuku; set its 1964 record", page: people/roland-leong.md,
      evidence: ["raced cars of his own at the Kahuku drag strip"]}
   - {from: rleong, to: nhra, type: scene, label: "Left school for NHRA racing; 1965 Winternationals and U.S. Nationals with Prudhomme", page: people/roland-leong.md,
