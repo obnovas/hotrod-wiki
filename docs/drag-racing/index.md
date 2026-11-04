@@ -55,6 +55,9 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Light Bulbs on the Runway (Western Washington)](western-washington-airport-strips.md): Shelton, Arlington, Bremerton, Bellingham and Thun Field, and a club that took a quarter-mile of light bulbs home after every race.
 - [A Mobil Flag on Eubank (Albuquerque)](new-mexico-timing-association-albuquerque.md): police-run drags on a truck bypass, a move for the oil trucks, eleven years of meetings and a strip built on bonds in 1964.
 - [Sundays at Airport No. 2 (Utah)](utah-airport-no-2-salt-lake-strips.md): Provo's one race in 1950, an Ogden street race for a clubhouse, and the 1965 Sunday when Salt Lake's crowd moved two miles east.
+- [Three-Eighths of a Mile Between Cattle Guards (Tucson)](tucson-davis-monthan-speed-sport.md): midnight races on the Mount Lemmon cutoff, drags at Marana and on a Davis-Monthan runway, a nitro roadster with a nose made of thrown-out drapes, and Tucson Dragway on Houghton Road.
+- [Built by Racers (Epping, N.H.)](new-england-dragway-epping.md): New England's clubs leave the borrowed airports, carry used bleachers to a mile of New Hampshire woods in 1966, and in 2021 vote not to sell.
+- [Somebody Should Christen It (Winterport, Maine)](winterport-fernald-field-maine.md): four Sanford racers talk a town into lending its old airfield in 1967; Norridgewock's one summer; a 2025 lease fight.
 
 **Clubs and timing associations**
 

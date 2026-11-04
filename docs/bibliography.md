@@ -593,6 +593,44 @@ Tags as above. The Rhode Island and Ohio newspapers are page OCR from Chroniclin
 - [local] *The Newport Navalog*, June 29, 1956, May 27 and June 3, 1960 (Pascoag and Charlestown drags). https://www.loc.gov/item/sn91070618/
 - [local] *Geauga Record* (Chardon, Ohio), Aug. 18 and Sept. 1, 1960 (a Rt. 322 drag race and the court). https://www.loc.gov/item/sn84028102/
 
+## Added in Round 32 (accessed 2026-11-04)
+Tags as above. The *Arizona Daily Star*'s 2017 column refused our tools (HTTP 429) and was read in a mirror; the *Exeter News-Letter* (Seacoastonline) was behind a paywall. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [oral] "AT Shorts: Racing, Drive-Ins, and Tucson's Classic Car Culture" (Alex Jacome), Archive Tucson, University of Arizona Libraries, Jan. 5, 2021. https://www.archivetucson.com/short-edits/2021/1/5/at-shorts-1950s-car-culture
+- [local] Caitlin Schmidt, "'Everything was possible:' Tucson racing legend Red Greth was an innovator on, off the drag strip," *Arizona Daily Star*, May 8, 2021. https://tucson.com/sports/local/article_bb0b246a-a2b6-11eb-8614-cf87c441abc1.html
+- [local] Greg Hansen, "The top 10 auto racers in Tucson history," *Arizona Daily Star*, July 28, 2017 (read in a mirror). https://saddlebagnotes.com/article_59a583a6-73de-11e7-a5ff-53ced34478c3.html
+- [club] "Greth & Fisher 'Speed Sport I'" (Bud DeBore), Cacklefest. http://cacklefest.com/SpeedSport.shtml
+- [oral] "Arizona," Drag Strip List (racers' memories). https://www.dragstriplist.com/az
+- [forum] "Tucson Dragway 1960's," The H.A.M.B., 2008–12. https://www.jalopyjournal.com/forum/threads/tucson-dragway-1960s.265269/
+- [forum] "Remembering Tucson Racing / Hot Rod History," The H.A.M.B., 2012–14. https://www.jalopyjournal.com/forum/threads/remembering-tucson-racing-hot-rod-history.739319/
+- [mag] David G. Firestone, "1/4 Mile of Bliss in Tucson," *The Driver Suit Blog*, Feb. 24, 2017. https://thedriversuitblog.com/2017/02/24/14-mile-of-bliss-in-tucson/
+- [oral] "Tucson Dragway" (fan page, ca. 2007), oocities.org. https://www.oocities.org/grc46250/tucson.html
+- [corp] "Track History," New England Dragway (Ed Bernier's account). https://www.nedragway.com/track-history
+- [museum] "Jack Doyle," New England Auto Racers Hall of Fame, class of 2019. https://newenglandautoracers.com/jack-doyle/
+- [club] "History" and "New England Hot Rod Hall of Fame," Orientals Hot Rod Club, Inc. https://orientalshotrodclub.com/
+- [oral] "Maine" and "New Hampshire," Drag Strip List (racers' memories). https://dragstriplist.com/me · https://www.dragstriplist.com/nh
+- [ref] "New England Dragway," Wikipedia. https://en.wikipedia.org/wiki/New_England_Dragway
+- [mag] Bobby Bennett, "Sale of New England Dragway Stopped," *Competition Plus*, Dec. 3, 2021. https://competitionplus.com/sale-of-new-england-dragway-stopped/
+- [mag] "Sale of New England Dragway Stopped by Stockholders," *The MotorSportsNews.Net*, Dec. 9, 2021. https://www.motorsportsnews.net/2021/12/09/sale-of-new-england-dragway-stopped-by-stockholders/
+- [museum] "Mabel Doyle," New England Racing Museum, Apr. 27, 2025. https://nermuseum.com/blogs/news/mabel-doyle
+- [local] Larry Mahoney, "Winterport Dragway remains popular," *Bangor Daily News*, June 17, 2010. https://www.bangordailynews.com/2010/06/17/sports/winterport-dragway-remains-popular/
+- [local] Larry Mahoney, "Winterport Dragway celebrating 50th anniversary this weekend," *Bangor Daily News*, Aug. 3, 2017. https://www.bangordailynews.com/2017/08/03/sports/winterport-dragway-celebrating-50th-anniversary-this-weekend/
+- [local] Sasha Ray, "Winterport at odds with race track over more expensive lease," *Bangor Daily News*, Apr. 28, 2025. https://www.bangordailynews.com/2025/04/28/midcoast/midcoast-government/winterport-dragway-more-expensive-lease/
+- [local] Sasha Ray, "Winterport cuts ties with longtime operator of race track," *Bangor Daily News*, Apr. 30, 2025. https://www.bangordailynews.com/2025/04/30/midcoast/midcoast-government/winterport-cuts-ties-dragway-association-new-operator-crystal-lancaster/
+- [club] Mike Twist, "2023 Hall of Fame class announced at annual meeting," Maine Vintage Race Car Association, Nov. 17, 2022. https://mainevintagerace.org/2022/11/17/2023-hall-of-fame-class-announced-at-annual-meeting/
+- [club] "Fernald Field (Airport)" leases, Document Center, Town of Winterport, Maine. https://winterportmaine.gov/government/leases.php
+- [mag] Brian Wagner, "A Track Saved: The Story Of Fernald Field Dragway," *Dragzine*, July 8, 2025. https://www.dragzine.com/news/a-track-saved-the-story-of-fernald-field-dragway/
+- [mag] "Three-speed stick," *Hemmings*, Sept. 23, 2018. https://www.hemmings.com/stories/three-speed-stick/
+- [oral] George, "Adventure Car Hop, Revered 1950s Monument, Rediscovered," *A Glob, by George!* (blog, with readers' comments), Sept. 14, 2011. http://globbygeorge.blogspot.com/2011/09/adventure-car-hop-revered-1950s.html
+- [local] Bryan Marquard, "Arnie 'Woo Woo' Ginsburg ... dies at 93," *The Boston Globe*, June 27, 2020. https://www.bostonglobe.com/2020/06/27/metro/arnie-woo-woo-ginsburg-dj-whose-sound-effects-echoed-through-radios-early-rock-era-dies-93/
+- [museum] Stephen Haag, "Arnie 'Woo Woo' Ginsburg," The Music Museum of New England. https://www.mmone.org/arnie-woo-woo-ginsburg/
+- [forum] Boston Radio Interest mailing list, May 1, 1998 (Henry Dane; Donna Halper). https://lists.bostonradio.org/bri/v02/msg01493.html · https://lists.bostonradio.org/bri/v02/msg01485.html
+- [mag] "Drive-In Restaurants from years past," *Diner Hotline Weblog*, May 27, 2008. https://dinerhotline.wordpress.com/2008/05/27/drive-in-restaurants-from-years-past/
+- [oral] "Byron Keith Parmenter 1935-2017" (obituary), *Chewelah Independent*, Dec. 5, 2017. https://www.chewelahindependent.com/obituaries/byron-keith-parmenter-1935-2017/article_daf01b5f-8a2f-5701-8b01-51d6aba6cfae.html
+- [oral] "Dale W. Schafer Obituary," French Funerals & Cremations (Albuquerque), 2025. https://www.frenchfunerals.com/obituaries/dale-schafer
+- [mag] Jack Korpela, "Albuquerque Dragway Mourns Loss of Founding Member...," *Drag Bike News*, Mar. 17, 2025. https://www.cycledrag.com/albuquerque-dragway-mourns-loss-of-founding-member-switches-back-to-nhra-member-track
+- [mag] "In Memoriam," NHRA.com, Dec. 9, 2025. https://www.nhra.com/news/2025/memoriam
+
 ## Added in Round 31 (accessed 2026-11-03)
 Tags as above. The *Arlington Times* and *Marysville Globe* sites failed when we tried, and the Nodak Race Club's hall of fame was read in an Internet Archive copy. See [Grassroots Sources](reference/grassroots-sources.md).
 

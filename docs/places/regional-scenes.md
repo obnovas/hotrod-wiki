@@ -45,7 +45,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Northeast overview.** [Midwest & East Threads](midwest-east.md).
 
-**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) · [Help Them Get a Drag Strip: Connecticut's clubs and the road to East Haddam](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) · [Racing Toward Route 1: Charlestown Dragway and Rhode Island's Navy runway](../drag-racing/charlestown-dragway-rhode-island.md) · [A Safer Place Than Route 7: Milton Speedway, Vermont's only drag strip](../drag-racing/milton-speedway-vermont.md).
+**New England.** [Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) · [Help Them Get a Drag Strip: Connecticut's clubs and the road to East Haddam](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) · [Racing Toward Route 1: Charlestown Dragway and Rhode Island's Navy runway](../drag-racing/charlestown-dragway-rhode-island.md) · [A Safer Place Than Route 7: Milton Speedway, Vermont's only drag strip](../drag-racing/milton-speedway-vermont.md) · [Built by Racers: the New England Hot Rod Council and the strip at Epping, N.H.](../drag-racing/new-england-dragway-epping.md) · [Somebody Should Christen It: Winterport Dragway, Maine](../drag-racing/winterport-fernald-field-maine.md) · [A Quarter Mile to the Overpass: Route 1 in Saugus, Mass.](route-1-saugus-adventure-car-hop.md).
 
 **Pennsylvania.** [The Ridge Runners of Stroudsburg](../drag-racing/stroudsburg-ridge-runners.md) · [Where Could a Pocono Hot Rodder Race?](../drag-racing/pocono-strips.md) · [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md) · [Leonard Miller](../voices/leonard-miller.md) · [Hurst-Campbell](../companies/hurst-campbell.md).
 
@@ -87,7 +87,7 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Oklahoma.** [A Watermelon Farmer's Dragster: Melvin Heath, the fairgrounds Nationals and Oklahoma's hometown strips](../drag-racing/oklahoma-city-nationals-rush-springs.md) · [The Restless Ribbon: cruising Peoria Avenue in Tulsa](brookside-restless-ribbon-tulsa.md).
 
-**Arizona.** [The KARBS and the strip on Litchfield Road (Phoenix's West Side)](../drag-racing/phoenix-west-side-karbs-litchfield-road.md).
+**Arizona.** [The KARBS and the strip on Litchfield Road (Phoenix's West Side)](../drag-racing/phoenix-west-side-karbs-litchfield-road.md) · [Three-Eighths of a Mile Between Cattle Guards: Tucson, Davis-Monthan and the Speed Sport roadster](../drag-racing/tucson-davis-monthan-speed-sport.md).
 
 **Nevada.** [Sand on the Track: Las Vegas, Henderson and Southern Nevada's eight drag strips](../drag-racing/las-vegas-henderson-drag-strips.md).
 

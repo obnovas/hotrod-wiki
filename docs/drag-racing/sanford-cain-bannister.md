@@ -105,7 +105,7 @@ Fran Bannister worked for Fred Cain for many years and retired to Georgia. In 19
 
 For a runway fight that went the other way, see [Tear Gas on the Runways (Pennsauken, N.J.)](pennsauken-central-airport-1958.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
-*See also:* Connecticut, whose racers had only out-of-state airfield strips such as Sanford until 1961: [Help Them Get a Drag Strip (Connecticut)](connecticut-clubs-nutmeg-state-timing-association.md).
+*See also:* Connecticut, whose racers had only out-of-state airfield strips such as Sanford until 1961: [Help Them Get a Drag Strip (Connecticut)](connecticut-clubs-nutmeg-state-timing-association.md). The New England Hot Rod Council that ran Sanford went on to build [New England Dragway at Epping, N.H.](new-england-dragway-epping.md), and four Sanford racers started [Winterport Dragway in Maine](winterport-fernald-field-maine.md).
 
 ## Open questions & disputed details
 

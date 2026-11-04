@@ -1341,3 +1341,46 @@ highlights:
     added: '2026-11-03'
     eras: [1960s]
     regions: ['Minot, N.D.']
+
+  - id: tucson-fiberglass-drapes
+    headline: A Tucson nitro roadster's fiberglass nose was made from drapes found in an alley trash can
+    teaser: 'The Speed Sport roadster''s builders spotted fiberglass drapery, palm trees and all, being
+      thrown away. A partner remembered: "That''s what the nose was made out of."'
+    link: drag-racing/tucson-davis-monthan-speed-sport.md
+    evidence: [Fiberglass drapes., That's what the nose was made out of.]
+    source_type: [Forum post, Local history site]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-04'
+    eras: [1950s]
+    regions: ['Tucson, Ariz.']
+
+  - id: tucson-cattle-guard-races
+    headline: Tucson's street racers ran three-eighths of a mile from one cattle guard to the next
+    teaser: On the Mount Lemmon cutoff, spectators lit the road with their headlights. When deputies raided
+      both ends, cars scattered "in all directions through the desert."
+    link: drag-racing/tucson-davis-monthan-speed-sport.md
+    evidence: [three-eighths of a mile from cattle guard to cattle guard, in all directions through the
+        desert]
+    source_type: [Oral history, Archive]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-04'
+    eras: [1950s, 1960s]
+    regions: ['Tucson, Ariz.']
+
+  - id: winterport-gto-christening
+    headline: A Maine town lent racers its old airfield, and a GTO christened the strip in 1967
+    teaser: Winterport Dragway's founders felt somebody should make the first pass. "And he said it might
+      as well be you," Carl Crowley remembered, and he did it in his 1964 Pontiac GTO.
+    link: drag-racing/winterport-fernald-field-maine.md
+    evidence: it might as well be you
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-04'
+    eras: [1960s]
+    regions: ['Winterport, Maine']

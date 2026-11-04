@@ -65,6 +65,7 @@ tags:
 - police-and-safety
 - grassroots-sources
 related:
+- drag-racing/tucson-davis-monthan-speed-sport.md
 - drag-racing/great-bend-srca.md
 - drag-racing/akron-fulton-airport.md
 - places/regional-scenes.md
@@ -108,6 +109,8 @@ In 1963 the West Valley got bigger plans. In July Richard Hogue of Scottsdale an
 *Grand Avenue, Glendale, in 2011. The Phoenix Drag Strip stood farther out the same road, at Litchfield Road. Photo: Chris English, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.*
 
 The *Enterprise* recorded each stage as it happened, from the KARBS' coupe and its Union 76 sponsor to Larson's prize shirts. The jet's owner, named in the paper as Walt Arfons, may tie this desert strip to the Arfons family of [Akron's airport strip](akron-fulton-airport.md), and the KARBS were one more case of the [teen and school clubs](high-school-hot-rod-clubs.md) that newspapers kept writing about.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+
+*See also:* [Tucson](tucson-davis-monthan-speed-sport.md), where a teenage Red Greth raced on the Mount Lemmon cutoff before driving to Phoenix for organized drags.
 
 ## Open questions & disputed details
 

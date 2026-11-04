@@ -617,9 +617,42 @@ themes:
           then closed.
         link: drag-racing/utah-airport-no-2-salt-lake-strips.md
         also: [drag-racing/las-vegas-henderson-drag-strips.md]
+      - id: tucson-cattle-guards
+        q: Where did Tucson hot rodders race before the city had a drag strip?
+        a: >-
+          On the Mount Lemmon cutoff northeast of town, three-eighths of a mile from one cattle guard to the next,
+          until sheriff's raids and the uproar brought organized drags to an unused runway at Davis-Monthan Air
+          Force Base. Tucson Dragway opened on Houghton Road in 1964.
+        link: drag-racing/tucson-davis-monthan-speed-sport.md
+        also: [drag-racing/phoenix-west-side-karbs-litchfield-road.md]
+      - id: new-england-dragway-built-by-racers
+        q: Who built New England Dragway?
+        a: >-
+          The clubs of the New England Hot Rod Council, tired of racing on borrowed airports. Its shareholders
+          hauled used bleachers to a mile of woods in Epping and Brentwood, N.H., opened on Sept. 11, 1966, and in
+          2021 voted not to sell the track (◐ see Open questions).
+        link: drag-racing/new-england-dragway-epping.md
+        also: [drag-racing/sanford-cain-bannister.md]
+        flag: drag-racing/new-england-dragway-epping.md#q-3
+      - id: winterport-town-owned-strip
+        q: Who owns Maine's Winterport drag strip?
+        a: >-
+          The town. Four racers tired of the tow to Sanford talked Winterport into lending its old airfield, and
+          the first race came in 1967; their association leased it until a 2025 lease fight, and the strip
+          reopened as Fernald Field Dragway on June 8, 2025.
+        link: drag-racing/winterport-fernald-field-maine.md
+        also: [drag-racing/new-england-dragway-epping.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
+      - id: saugus-adventure-car-hop
+        q: Where did Boston-area teenagers drag race in the late 1950s?
+        a: >-
+          Off the lot of the Adventure Car Hop on Route 1 in Saugus, where the hot rods got the best parking spots.
+          The exit was almost exactly a quarter mile from the first overpass, so pairs of cars would stage and run
+          to the bridge; the nearest sanctioned strip was up in Sanford, Maine.
+        link: places/route-1-saugus-adventure-car-hop.md
+        also: [drag-racing/sanford-cain-bannister.md]
       - id: tulsa-restless-ribbon
         q: Where did Tulsa teenagers cruise?
         a: >-
