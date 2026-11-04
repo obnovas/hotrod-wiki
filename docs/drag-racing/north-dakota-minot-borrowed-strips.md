@@ -71,6 +71,7 @@ related:
 - drag-racing/montana-hoodoos-road-runners-royal-coachmen.md
 - drag-racing/sioux-falls-south-dakota-clubs.md
 - places/dragging-main.md
+- drag-racing/tucson-davis-monthan-speed-sport.md
 canonical_for: []
 ---
 # Everywhere but Here: North Dakota's Borrowed Strips, a Car Against a Cessna and Minot's Fastest Man (1953–2026)
@@ -111,7 +112,7 @@ Minot finally got its strip on the east side of the State Fairgrounds: Magic Cit
 
 The rest of the state kept borrowing runways. The Dakota Drag Racing Association raced on runways at Dickinson's Theodore Roosevelt Regional Airport from the summer of 1999 until the airport authority ended the arrangement on Dec. 12, 2007. The races often coincided with Roughrider Days. Its president, Dennis Streitz, then planned "North Dakota's first legitimate quarter-mile drag strip" on a little more than 100 acres five miles east of Richardton, farmland that Craig Fisher, "a long-time drag racing fan," was arranging to sell the club. Grand Forks, Harvey, Jamestown and Minot had racing facilities, the paper said, "but none are quarter-mile drag strips." The nearest quarter-miles, the paper noted, were Interstate Dragway at Sabin, Minnesota, east of Fargo, and Yellowstone Drag Strip, 15 miles north of Billings. "It makes for a long trip either way," Streitz said.[^dick] At Jamestown's airport the Jamestown Drag Racing Association, formed in 1999, has run 660-foot drags since 2001. In 2013 its co-founder said they were the only airport drags in the state, and that "Every year the FAA (Federal Aviation Administration) has some new requirements."[^jsun]
 
-*See also:* [Sioux Falls and South Dakota's clubs](sioux-falls-south-dakota-clubs.md), the next state south; [Montana's clubs](montana-hoodoos-road-runners-royal-coachmen.md), where Olson raced; and [Casper and Wyoming's strips](casper-bar-nunn-wyoming-strips.md), where another thinly settled state raced on old airports.
+*See also:* [Sioux Falls and South Dakota's clubs](sioux-falls-south-dakota-clubs.md), the next state south; [Montana's clubs](montana-hoodoos-road-runners-royal-coachmen.md), where Olson raced; and [Casper and Wyoming's strips](casper-bar-nunn-wyoming-strips.md), where another thinly settled state raced on old airports. Tucson had its own car-against-an-airplane race: see [the Davis-Monthan strip](tucson-davis-monthan-speed-sport.md).
 
 ## Open questions & disputed details
 

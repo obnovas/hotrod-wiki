@@ -51,6 +51,7 @@ related:
 - drag-racing/sanford-cain-bannister.md
 - drag-racing/connecticut-clubs-nutmeg-state-timing-association.md
 - places/regional-scenes.md
+- drag-racing/winterport-fernald-field-maine.md
 canonical_for: []
 ---
 # A Safer Place Than Route 7: Milton Speedway, Vermont's Only Drag Strip (1963–71)
@@ -84,6 +85,8 @@ The strip was a success for eight years before it became too expensive, WCAX rep
 Before the marker, the place was nearly a ghost. When Lohnes went looking in 2013 he could not say who had owned or sanctioned it; "From best we can tell," he wrote, the facility ran half a mile from the starting line to where the asphalt "seems to terminate in the woods," and found only "Drag Strip Bingo" on the old grounds.[^bs13]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> The memories outlived the pavement. Tom Bergeron, from the next town over, wrote that he and his friends did burnouts on the old strip "back in the nineties.(until the Milton PD showed up and kicked us out)," and that the local car club now holds a show "on the end of the old track every Summer."[^bs13c] At the 2019 dedication Mike McCormick said the strip could still be seen in the distance, "although it's overgrown at this point," and added: "Milton was a cool place to go in the 60s and early 70s."[^wcax]
 
 (For New England's older airport strips, at Sanford, Maine, and Charlestown, Rhode Island, see [Barricades at the End of the Runway](sanford-cain-bannister.md) and [Racing Toward Route 1](charlestown-dragway-rhode-island.md).)
+
+*See also:* [Winterport, Maine](winterport-fernald-field-maine.md), another northern New England strip of the same years, opened in 1967 on a town airfield.
 
 ## Open questions & disputed details
 

@@ -48,6 +48,7 @@ related:
 - drag-racing/oklahoma-city-nationals-rush-springs.md
 - drag-racing/sioux-falls-south-dakota-clubs.md
 - places/woodward.md
+- places/route-1-saugus-adventure-car-hop.md
 canonical_for: []
 ---
 # The Restless Ribbon: Cruising Peoria Avenue in Tulsa's Brookside (1950s–1970s)
@@ -83,6 +84,8 @@ The street was also where some racers paid for their machines. Greg bought a new
 And the parts came from close by. In July 2014 the blog's keeper mourned the loss of a landmark: "the building that housed C&F Racing Equipment has been demolished and the site leveled," to make way for a bank. He asked those who remembered to recall the place by its nickname, "The Headquarters For Instant Oats."[^rr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> Another reader remembered a cruiser on Cragar SuperTrick wheels, which came with a sticker that read "For Drag Racing use only. NOT for street use."[^rr]
 
 By the time the feature ran in 2011, Pennington's drive-ins had closed and Judy Pennington had died in 2010; the Admiral Twin, Tulsa's last drive-in theater, burned that year too.[^okmag] Conrad left for college in 1972, "leaving behind the scene to the high schoolers behind him."[^okmag] For the drag strips Tulsa's teenagers could tow to, see [Oklahoma's hometown strips](../drag-racing/oklahoma-city-nationals-rush-springs.md); for other towns' loops, see [Dragging Main](dragging-main.md).
+
+*See also:* [Route 1 in Saugus, Mass.](route-1-saugus-adventure-car-hop.md), another drive-in where the hot rods got the best spots.
 
 ## Open questions & disputed details
 
