@@ -56,7 +56,7 @@ canonical_for: []
 *A wartime training field northwest of Tucson, a Highway Patrol sanction, and the CAA order that killed Arizona's only night drags*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (racers' family memories and Drag Strip List's digest of news reports agree that Marana ran early; they disagree on the first-race year) · **Source types:** <span class="hr-badge">Grassroots</span> Drag Strip List Arizona page and memories (Thomas Funk, Dave Smith, Ted Sitterley), *Arizona Daily Star* feature on Frank Townsend (2008), Tucson strip page cross-checks · **Last verified:** 2026-11-05 (Round 33) · **Open issues:** ◐ first race 1951 or 1952; ◐ Rillito Field's few weeks; ◐ the CAA shutdown · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (racers' family memories and Drag Strip List's digest of news reports agree that Marana ran early; they disagree on the first-race year) · **Source types:** <span class="hr-badge">Grassroots</span> Drag Strip List Arizona page and memories (Thomas Funk, Dave Smith, Ted Sitterley), *Arizona Daily Star* feature on Frank Townsend (2010), Tucson strip page cross-checks · **Last verified:** 2026-11-05 (Round 33) · **Open issues:** ◐ first race 1951 or 1952; ◐ Rillito Field's few weeks; ◐ the CAA shutdown · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "The motorcycles were the fastest."
@@ -65,9 +65,9 @@ canonical_for: []
 
 ## Before Davis-Monthan
 
-The first organized drags near Tucson were not on the Air Force base. They were on the old Marana Army Air Field—built in 1942–43, later Pinal Airpark—northwest of town, sanctioned and supervised by the Arizona Highway Patrol and conducted by the Southern Arizona Timing Association at least as early as 1951. Drag Strip List calls Marana Arizona's oldest drag venue.[^dslaz]
+The first organized drags near Tucson were not on the Air Force base. They were on the old Marana Army Air Field—built in 1942–43, later Pinal Airpark—northwest of town,[^pinal] sanctioned and supervised by the Arizona Highway Patrol and conducted by the Southern Arizona Timing Association at least as early as 1951. Drag Strip List calls Marana Arizona's oldest drag venue.[^dslaz]
 
-Thomas Funk says his father, Duane Funk, was an early member of Tucson's Outcasts club, "racing as early as 1951 at Marana"; he has a photo of his dad's street coupe with a Marana race ad painted on it and a 1951 plate tag. Dave Smith, whose father was a Highway Patrol officer, thought he was there for the first race, in 1952. Ted Sitterley drove in his first drag race at Marana early in 1953 on a learner's permit—"but no one cared"—and remembered "Lyle Fisher spinning donuts in the dirt, Billy Herbert on his Velocette motorcycle, the Lords, and all the other young racers."[^dslaz]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> Frank Townsend, a Tucson High graduate of 1956, later told the *Arizona Daily Star* he raced a '32 Ford coupe at the Marana drag strip up to 95 mph in the quarter, in a white carpenter's uniform treated with boric acid as a fire retardant.[^star08]
+Thomas Funk says his father, Duane Funk, was an early member of Tucson's Outcasts club, "racing as early as 1951 at Marana"; he has a photo of his dad's street coupe with a Marana race ad painted on it and a 1951 plate tag. Dave Smith, whose father was a Highway Patrol officer, thought he was there for the first race, in 1952. Ted Sitterley drove in his first drag race at Marana early in 1953 on a learner's permit—"but no one cared"—and remembered "Lyle Fisher spinning donuts in the dirt, Billy Herbert on his Velocette motorcycle, the Lords, and all the other young racers."[^dslaz]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> Frank Townsend, a Tucson High graduate of 1956, later told the *Arizona Daily Star* he raced a '32 Ford coupe at the Marana drag strip up to 95 mph in the quarter, in a white carpenter's uniform treated with boric acid as a fire retardant.[^star10]
 
 On August 10, 1952, Bill Gundy set a track mark of 111.508 mph. A March 8, 1953, report said the meet was using a new set of rules and awarding trophies in ten classes for cars and motorcycles; monthly racing continued through 1953. On January 3, 1954, the Outcasts staged a cerebral palsy benefit on the main landing runway—no general admission, but entry fees for timing and trophies.[^dslaz]
 
@@ -98,4 +98,5 @@ The street-racing "uproar" that followed helped push Davis-Monthan to open a run
 ## Sources
 
 [^dslaz]: "Marana Army Air Field," "Rillito Field," and memories of Thomas Funk, Dave Smith and Ted Sitterley under "Arizona," Drag Strip List. https://www.dragstriplist.com/arizona (accessed 2026-11-05)
-[^star08]: Bonnie Henry, "His life's anything but a drag," *Arizona Daily Star*, 2008 (tucson.com). https://tucson.com/news/local/article_9c6dde3d-90dc-58ff-842a-76129bec0b70.html (accessed 2026-11-05)
+[^star10]: Bonnie Henry, "His life's anything but a drag," *Arizona Daily Star*, May 31, 2010 (tucson.com). https://tucson.com/news/local/article_9c6dde3d-90dc-58ff-842a-76129bec0b70.html (accessed 2026-11-05)
+[^pinal]: "Our History," Pinal County / Pinal Airpark. https://www.pinal.gov/1834/Our-History (accessed 2026-11-05)

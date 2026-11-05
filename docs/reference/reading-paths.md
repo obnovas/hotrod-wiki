@@ -1,6 +1,6 @@
 ---
 title: Reading Paths
-description: Fourteen routes through the archive, each a set of stories meant to be read in order.
+description: Fifteen routes through the archive, each a set of stories meant to be read in order.
 ---
 
 # Reading Paths

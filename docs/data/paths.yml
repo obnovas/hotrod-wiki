@@ -30,6 +30,8 @@ paths:
         why: "A chamber of commerce bets on a strip and gets the first Nationals."
       - page: drag-racing/phoenix-west-side-karbs-litchfield-road.md
         why: "The 1955 Nationals finished at Perryville, Ariz. A West Valley teen club placed third there, and by 1959 the valley had its own strip."
+      - page: drag-racing/marana-army-air-field-drags.md
+        why: "Northwest of Tucson, Arizona's oldest drag venue runs under Highway Patrol sanction until a CAA emergency-field order kills the night races and the street-racing uproar follows."
       - page: drag-racing/tucson-davis-monthan-speed-sport.md
         why: "In Tucson the sheriff raids the midnight races between two cattle guards, and the uproar opens a runway on an Air Force base."
       - page: drag-racing/new-mexico-timing-association-albuquerque.md
@@ -501,3 +503,16 @@ paths:
         why: "Strip owners and racers in their own words."
       - page: eras/1960s-drag-rags.md
         why: "The weekly tabloids that, Dave Wallace argues, recorded drag racing's growth most truly."
+
+  - id: southwest-airport-strips
+    letter: O
+    title: "Southwest Airport Strips: Casa Grande, Yuma and Winslow (1957–1985)"
+    purpose: "Three short Arizona chapters on town and wartime airstrips that raced under local timing associations."
+    extra: true
+    steps:
+      - page: drag-racing/casa-grande-municipal-airport-cgta.md
+        why: "The Karb Kats get a city airport strip in 1957 and, after the first meet, lay almost a mile of pavement and dirt."
+      - page: drag-racing/yuma-timing-association.md
+        why: "East of Yuma, a March of Dimes benefit draws 545 people and 72 entries in January 1958."
+      - page: drag-racing/winslow-renegades-airport.md
+        why: "On Route 66, the Renegades lease a municipal-airport taxiway in 1958; the last event is 1985."

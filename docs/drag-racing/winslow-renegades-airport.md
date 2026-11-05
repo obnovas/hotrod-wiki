@@ -62,7 +62,7 @@ canonical_for: []
 
 On March 18, 1958, the Winslow city council approved an agreement with the Winslow Renegades Drag Club to let the club use the access road and taxi strip at the municipal airport for a drag strip. Drag Strip List dates the club and the strip from that year through about 1985.[^dslaz][^otm]
 
-A July 2011 *Painted Desert Tribune* caption on a period club photograph names the officers: Ronnie Carlson, secretary/treasurer; Johnny Pritchard, publicity; Duane Miller, strip manager; Skip Buckey, vice president; Dick Holt, vice secretary/treasurer; Ron Miller, president. The paper says the Renegades were active in the late 1950s and early 1960s and "regularly held drag racing events on the runways at Lindbergh Municipal Airport"—Winslow's airport under its Lindbergh name.[^pdt]
+A July 2011 *Painted Desert Tribune* caption on a period club photograph names the officers: Ronnie Carlson, secretary/treasurer; Johnny Pritchard, publicity (the *Tribune* caption spells it "Pritcard"); Duane Miller, strip manager; Skip Buckey, vice president; Dick Holt, vice secretary/treasurer; Ron Miller, president. The paper says the Renegades were active in the late 1950s and early 1960s and "regularly held drag racing events on the runways at Lindbergh Municipal Airport"—Winslow's airport under its Lindbergh name.[^pdt]
 
 ## Third Sundays, and a championship
 
