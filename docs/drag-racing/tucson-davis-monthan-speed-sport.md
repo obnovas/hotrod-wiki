@@ -80,10 +80,10 @@ tags:
 - oral-history
 - grassroots-sources
 related:
-- drag-racing/phoenix-west-side-karbs-litchfield-road.md
-- drag-racing/new-mexico-timing-association-albuquerque.md
-- drag-racing/great-bend-srca.md
-- places/dragging-main.md
+- people/red-greth.md
+- drag-racing/marana-army-air-field-drags.md
+- drag-racing/casa-grande-municipal-airport-cgta.md
+- drag-racing/yuma-timing-association.md
 canonical_for: []
 ---
 # Three-Eighths of a Mile Between Cattle Guards: Tucson's Cutoff Races, the Davis-Monthan Strip and the Speed Sport Roadster (1951–1985)
@@ -130,7 +130,7 @@ The old strip closed in the mid-1980s: in 1984, by the 2021 story, or after the 
 
 Jacome had one more Tucson story, a reminder that in the desert a runway was never just a drag strip: "I drag-started a race car against an airplane." The dragster, he said, beat the plane to the end of the strip.[^at] (Minot, North Dakota, had [its own car-against-a-Cessna race](north-dakota-minot-borrowed-strips.md) in 1964.)
 
-*See also:* [Phoenix's West Side and the strip on Litchfield Road](phoenix-west-side-karbs-litchfield-road.md), where Greth went to race at 16; and [Albuquerque's New Mexico Timing Association](new-mexico-timing-association-albuquerque.md), where a racer measured the mile-high strip's times against Phoenix's Bee Line.
+*See also:* [Red Greth](../people/red-greth.md); [Marana Army Air Field](marana-army-air-field-drags.md); [Casa Grande](casa-grande-municipal-airport-cgta.md); [Yuma Timing Association](yuma-timing-association.md); [Phoenix's West Side](phoenix-west-side-karbs-litchfield-road.md); [Albuquerque's New Mexico Timing Association](new-mexico-timing-association-albuquerque.md).
 
 ## Open questions & disputed details
 

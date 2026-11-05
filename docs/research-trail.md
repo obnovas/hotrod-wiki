@@ -61,7 +61,36 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 - **Images:** none. The Cacklefest, Archive Tucson, club and newspaper photos are copyrighted.
 - **Blocked or unavailable (not bypassed):** thisistucson.com and the 2017 *Star* column (HTTP 429; read in a mirror); arizonaracinghistory.com (404); the *Exeter News-Letter* on Seacoastonline (paywall, 402); the *Ellsworth American* (429); Google News Archive scans of the *Spokane Daily Chronicle* and *Bangor Daily News* (page images only). Utah, Colorado and Oklahoma's newspaper portals were not retried.
 
-## Next breadcrumbs (Round 32)
+
+## Log, Round 33 (Arizona airport strips, Red Greth and Arnie Ginsburg; 2026-11-05)
+- **Scope:** Round 32's Arizona breadcrumbs (Casa Grande, Yuma, Marana, Perryville beyond the KARBS note) and the logged people gaps for Red Greth and Arnie Ginsburg; Winslow as a Route 66 airport strip with a museum panel. Grassroots first: county hall of fame, hometown paper, Old Trails Museum, local weekly photo caption, Drag Strip List digests of period notices.
+- **New articles (7):**
+    - People: [Red Greth](people/red-greth.md) (Speed Sport, cattle guards, Tucson Dragway, 1934–2021).
+    - People: [Arnie "Woo Woo" Ginsburg](people/arnie-ginsburg.md) (Night Train, Ginsburger, Route 1 quarter mile, 1926–2020 ◐ birth year).
+    - Arizona: [Casa Grande Municipal Airport / CGTA](drag-racing/casa-grande-municipal-airport-cgta.md) (Karb Kats, 1957–58).
+    - Arizona: [Yuma Timing Association](drag-racing/yuma-timing-association.md) (Wellton airstrip and Highway 80, 1952–58).
+    - Arizona: [Marana Army Air Field](drag-racing/marana-army-air-field-drags.md) (1951–59; Rillito Field).
+    - Arizona: [Perryville (Marsh) Airstrip](drag-racing/perryville-marsh-airstrip.md) (1954–58/61; 1955 NHRA Nationals finish).
+    - Arizona: [Winslow Renegades](drag-racing/winslow-renegades-airport.md) (1958–85).
+- **Expanded:** [Tucson](drag-racing/tucson-davis-monthan-speed-sport.md) *See also* and related cards to Greth, Marana, Casa Grande and Yuma; [Phoenix West Side](drag-racing/phoenix-west-side-karbs-litchfield-road.md) pointer to the Perryville championship page; [Saugus](places/route-1-saugus-adventure-car-hop.md) link to Ginsburg; [Great Bend](drag-racing/great-bend-srca.md) related card to Perryville. Hub and index lines for all seven.
+- **Found:** Greth's living room as a flop house for California-bound racers; Centerville-vs-Dayton birthplace split; Casa Grande's almost-a-mile repave after the first 1,000-fan meet; Yuma's March of Dimes 545/72; Marana as Arizona's only night-drag venue until a CAA emergency-field order; Perryville's toe-clutch final after three no-gos; Winslow's museum-documented 1958–85 run on a Route 66 town airport.
+- **Resolved:** none. Deer Park q-5, New Mexico q-4 and Leong's Hawaii years were not reached with new settling sources this round.
+- **New conflicts or single-source flags:** Greth birthplace Centerville vs Dayton ⚠; Casa Grande / Yuma / Marana first-year / CAA / Rillito narratives ◐ on Drag Strip List digests; Yuma Highway 80 mileage ⚠; Perryville foul-start order ⚠; Perryville 1961 return ◐; Winslow 1959–60 calendar ◐; Ginsburg birth year ◐.
+- **Highlights:** four added (three grassroots: Winslow's last event, Greth's flop house, Casa Grande's almost-a-mile ◐; one trade/museum: Perryville toe-clutch).
+- **Quick answers:** six added (Casa Grande, Yuma, Marana, Winslow, Red Greth, Arnie Ginsburg) and the 1955 Nationals-finish answer retargeted to Perryville; 127 in all.
+- **Story Map:** pins for Winslow, Wellton, Centerville (Ohio), Framingham, Brookline and Ogunquit; strips for Casa Grande (already mapped), Marana/Rillito, Yuma (Wellton and Highway 80) and Winslow.
+- **Web of Influence:** no new nodes; nothing yet ties these strips to a second graph node with quotable evidence beyond NHRA at Perryville (already covered via Great Bend).
+- **Images:** none. Hall of fame, museum, newspaper and Cacklefest photos are copyrighted.
+- **Blocked or unavailable (not bypassed):** *Casa Grande Dispatch* period pages (not fetched; LOC catalog only); *Yuma Daily Sun* NewspaperARCHIVE search paused; Cacklefest Speed Sport page HTTP 500 (Round 32 reading retained); *Exeter News-Letter*, *Bangor Daily News* page images, *Spokane Daily Chronicle* and Honolulu papers not retried this round; Utah/Colorado/Oklahoma portals not retried.
+
+## Next breadcrumbs (Round 33)
+- **Arizona:** *Casa Grande Dispatch*, Jan 1957–Aug 1958 (read page by page); *Yuma Daily Sun*, 1952–58; *Arizona Daily Star* / *Tucson Citizen*, 1951–54 and June 1959 (Marana CAA order); *Arizona Republic*, May and Nov 1955 (Perryville photos); *Winslow Mail*, Mar 1958 and 1984–86; Tucson 1985–97 (Southwestern International → today's strip; Tucson q-7); Bee Line Dragway (Scottsdale) and Firebird/Wild Horse Pass as later Valley pages.
+- **People:** Ohio birth record for Greth; full *Boston Globe* Ginsburg obituary; still-missing pages for Don Garlits and Don Prudhomme; Don Maynard / Lyle Fisher short pages if Dispatch and Star support them.
+- **Henry's open items (carried):** *Spokane Daily Chronicle*, May–Aug 1965 (Deer Park first 200); *Albuquerque Journal*, 1961 elections; Honolulu papers for Leong's Kahuku years.
+- **New England (carried):** *Exeter News-Letter* / *Portsmouth Herald*; *Bangor Daily News* 1965–67; Saugus Advertiser / Lynn Daily Item; 1990 *Boston Globe* car-hop story.
+- **Carried newspapers:** *Burlington Free Press*, *Charleston Gazette*, *Casper Star-Tribune*, *Providence Journal*, *Westerly Sun*, *Gainesville Sun*, *Geauga Record*, *Kodiak Mirror*, *Daily Oklahoman*, *Birmingham News*, *Rocky Mountain News* — only for NEW undercovered stories.
+
+## Next breadcrumbs (Round 32) *(superseded by Round 33; retained)*
 - **Arizona:** the *Arizona Daily Star* and *Tucson Daily Citizen*, 1951–58 (Marana, the cutoff raids, Davis-Monthan's first meet), Nov. 1961 and 1963 (174.03 mph), 1964 (Tucson Dragway's opening) and 1984–85 (its closing); the Pima County Sports Hall of Fame's Greth entry; the *Casa Grande Dispatch* for the CGTA strip; the *Yuma Daily Sun* for the Yuma Timing Association.
 - **New England:** the *Exeter News-Letter* and *Portsmouth Herald*, 1963–66 (the land search and opening) and Dec. 2021 (the vote); the *Bangor Daily News*, 1965–67 (Norridgewock and Winterport's opening and who owned it); the *Somerset Reporter* for Norridgewock; a Winterport town report for Fernald Field's origin; the *Saugus Advertiser* and Lynn *Daily Item*, 1958–64, and the 1990 *Boston Globe* car-hop story; the Shumans' *Cool Cars, Square Roll Bars* for the council's founding.
 - **Henry's open items:** the *Spokane Daily Chronicle*, May–Aug. 1965 (Deer Park's first 200, if a text copy turns up); the *Albuquerque Journal*, 1961 club elections (Schafer or LaNear); the *Honolulu Star-Bulletin* and *Advertiser* for Leong's Kahuku years.

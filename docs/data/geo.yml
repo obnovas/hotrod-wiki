@@ -466,6 +466,15 @@ places:
   'York, Pennsylvania': {lat: 39.9648, lon: -76.7318, precision: town, source: 'Census Gazetteer 2024: York city'}
   'Yuma, Arizona': {lat: 32.5163, lon: -114.5218, precision: town, source: 'Census Gazetteer 2024: Yuma city'}
 
+  'Brookline, Massachusetts': {lat: 42.3239, lon: -71.1420, precision: town, source: 'Census Gazetteer 2024: Brookline CDP'}
+  'Centerville, Ohio': {lat: 39.6343, lon: -84.1457, precision: town, source: 'Census Gazetteer 2024: Centerville city'}
+  'Framingham, Massachusetts': {lat: 42.3079, lon: -71.4362, precision: town, source: 'Census Gazetteer 2024: Framingham city'}
+  'Ogunquit, Maine': {lat: 43.2320, lon: -70.5855, precision: town, source: 'Census Gazetteer 2024: Ogunquit town (county subdivision)'}
+  'Wellton, Arizona': {lat: 32.6401, lon: -114.2152, precision: town, source: 'Census Gazetteer 2024: Wellton town'}
+  'Winslow, Arizona': {lat: 35.0242, lon: -110.7093, precision: town, source: 'Census Gazetteer 2024: Winslow city'}
+
+  'Chandler, Arizona': {lat: 33.2828, lon: -111.8518, precision: town, source: 'Census Gazetteer 2024: Chandler city'}
+  'Mesa, Arizona': {lat: 33.4006, lon: -111.7165, precision: town, source: 'Census Gazetteer 2024: Mesa city'}
 strips:
   Akron Fulton Airport (Champions Raceway): {place: 'Akron, Ohio'}
   Alamo Dragway: {place: 'San Antonio, Texas'}
@@ -629,6 +638,11 @@ strips:
   Winterport Dragway: {place: 'Winterport, Maine'}
   Yellow River Drag Strip: {place: 'Covington, Georgia'}
   York U.S. 30 Drag-O-Way: {place: 'York, Pennsylvania'}
+
+  Rillito Field drags: {place: 'Marana, Arizona'}
+  Winslow Drag Strip: {place: 'Winslow, Arizona'}
+  'Yuma Drag Strip (Highway 80)': {place: 'Yuma, Arizona'}
+  'Yuma Drag Strip (Wellton airstrip)': {place: 'Wellton, Arizona'}
 
 not_mapped:
   75-80 Drag-A-Way: the articles that name it do not give its town, so it has no pin yet

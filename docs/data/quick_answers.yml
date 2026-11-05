@@ -318,10 +318,11 @@ themes:
         q: Where did the first NHRA Nationals finish, and what did the local paper see?
         a: >-
           After rain washed out the finals at Great Bend, the 1955 championship was finished at Perryville,
-          near Phoenix. The West Valley weekly reported that a local teen club, the KARBS, placed third after
-          a head gasket failure and a wiring fire.
-        link: drag-racing/phoenix-west-side-karbs-litchfield-road.md
-        also: [drag-racing/great-bend-srca.md]
+          near Phoenix. Calvin Rice won after three foul starts and a last-minute transmission swap; the West
+          Valley weekly reported that a local teen club, the KARBS, placed third after a head gasket failure
+          and a wiring fire.
+        link: drag-racing/perryville-marsh-airstrip.md
+        also: [drag-racing/phoenix-west-side-karbs-litchfield-road.md, drag-racing/great-bend-srca.md]
       - id: who-raced-at-castroville-airfield
         q: Who ran drag races on a Texas town airfield for charity?
         a: >-
@@ -642,6 +643,44 @@ themes:
           reopened as Fernald Field Dragway on June 8, 2025.
         link: drag-racing/winterport-fernald-field-maine.md
         also: [drag-racing/new-england-dragway-epping.md]
+
+      - id: casa-grande-airport-strip
+        q: What was the Casa Grande Timing Association's strip?
+        a: >-
+          An NHRA-sanctioned quarter-mile on Casa Grande's municipal airport, opened by the Karb Kats after a
+          January 1957 city-council OK. The first monthly meet (Feb. 10) drew over 1,000 people and 89 entries;
+          the club soon paved almost a mile of racing surface (◐ see Open questions).
+        link: drag-racing/casa-grande-municipal-airport-cgta.md
+        also: [drag-racing/tucson-davis-monthan-speed-sport.md]
+        flag: drag-racing/casa-grande-municipal-airport-cgta.md#q-1
+      - id: yuma-timing-association
+        q: Where did Yuma hot rodders drag race in the 1950s?
+        a: >-
+          First on Wellton's abandoned emergency airstrip about 1952 (Dragsters of Yuma, Bureau of Reclamation
+          approval), then on a Barons strip south of Highway 80. As the Yuma Timing Association they drew 545
+          people and 72 entries to a January 1958 March of Dimes meet (◐ see Open questions).
+        link: drag-racing/yuma-timing-association.md
+        also: [drag-racing/casa-grande-municipal-airport-cgta.md]
+        flag: drag-racing/yuma-timing-association.md#q-1
+      - id: marana-oldest-arizona
+        q: What was Arizona's oldest drag venue?
+        a: >-
+          Marana Army Air Field (today's Pinal Airpark), with Highway Patrol-sanctioned races under the Southern
+          Arizona Timing Association at least as early as 1951. By 1959 it was Arizona's only night-drag strip,
+          until the CAA ordered a shutdown because it was an emergency landing field (◐ first-year, see Open
+          questions; ◐ shutdown, see Open questions).
+        link: drag-racing/marana-army-air-field-drags.md
+        also: [drag-racing/tucson-davis-monthan-speed-sport.md]
+        flag: [drag-racing/marana-army-air-field-drags.md#q-1, drag-racing/marana-army-air-field-drags.md#q-3]
+      - id: winslow-renegades-strip
+        q: Did Route 66's Winslow have a drag strip?
+        a: >-
+          Yes. In March 1958 the city council let the Renegades Drag Club race on the municipal airport's access
+          road and taxi strip. An Old Trails Museum Route 66 panel says the Winslow Drag Strip's last event was
+          in 1985.
+        link: drag-racing/winslow-renegades-airport.md
+        also: [drag-racing/casa-grande-municipal-airport-cgta.md]
+
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -839,6 +878,26 @@ themes:
   - id: people
     title: People
     questions:
+
+      - id: who-was-red-greth
+        q: Who was Red Greth?
+        a: >-
+          Gary Lee "Red" Greth (1934–2021), a Tucson racer who with Lyle Fisher and Don Maynard built the Speed
+          Sport roadster—fiberglass nose from alley drapes, B-29 steering wheel—ran 169.11 mph in 1957, helped
+          open Tucson Dragway in 1964, and mentored neighborhood kids in his shop (⚠ Centerville or Dayton
+          birthplace, see Open questions).
+        link: people/red-greth.md
+        also: [drag-racing/tucson-davis-monthan-speed-sport.md]
+        flag: people/red-greth.md#q-1
+      - id: who-was-arnie-ginsburg
+        q: Who was Arnie "Woo Woo" Ginsburg?
+        a: >-
+          Boston's Night Train disc jockey on WMEX, whose train-whistle "woo-woo" and Adventure Car Hop ads sent
+          teenagers to Route 1 in Saugus for a Ginsburger served on a 45. From that lot to the first overpass was
+          almost exactly a quarter mile—the street-race course of the late 1950s.
+        link: people/arnie-ginsburg.md
+        also: [places/route-1-saugus-adventure-car-hop.md]
+
       - id: who-was-roland-leong
         q: Who was Roland Leong, "The Hawaiian"?
         a: >-

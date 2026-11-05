@@ -44,10 +44,10 @@ tags:
 - oral-history
 - grassroots-sources
 related:
+- people/arnie-ginsburg.md
 - places/brookside-restless-ribbon-tulsa.md
 - drag-racing/new-england-dragway-epping.md
 - drag-racing/sanford-cain-bannister.md
-- places/dragging-main.md
 canonical_for: []
 ---
 # A Quarter Mile to the Overpass: Adventure Car Hop, the Ginsburger and Route 1 in Saugus (Mass., 1958–1964)
@@ -70,7 +70,7 @@ There was an order to it. "Hot wheels headed up the pecking order and they got t
 
 ## The Ginsburger
 
-What filled the lot was the radio. Arnie Ginsburg's "Night Train" show on WMEX, with its train-whistle "woo-woo," was the show the *Globe* later said "ruled AM radio," and his on-air promotions sent them to Route 1, where the car hop served a "Ginsburger" on a 45 rpm record. On certain nights, anyone who said "Woo Woo Ginsburg" to the waitress got a second Ginsburger free.[^globe] A former Lynn resident recited the ad years later: "I designed it, I planned it, I tested it, but you're going to eat it."[^glob] With promotions like that, "on a summer night Arnie could draw a couple of thousand teenagers to the place."[^glob]
+What filled the lot was the radio. [Arnie Ginsburg](../people/arnie-ginsburg.md)'s "Night Train" show on WMEX, with its train-whistle "woo-woo," was the show the *Globe* later said "ruled AM radio," and his on-air promotions sent them to Route 1, where the car hop served a "Ginsburger" on a 45 rpm record. On certain nights, anyone who said "Woo Woo Ginsburg" to the waitress got a second Ginsburger free.[^globe] A former Lynn resident recited the ad years later: "I designed it, I planned it, I tested it, but you're going to eat it."[^glob] With promotions like that, "on a summer night Arnie could draw a couple of thousand teenagers to the place."[^glob]
 
 People drove a long way for it. One reader of the 2011 blog post remembered going in 1958 with his brother in a 1950 Buick straight eight that got 12 miles a gallon; each put in $2.00 worth of gas, at about 33 cents a gallon, and they drove 27 miles down Route 1 from Merrimac. "When I look back on it what a price to pay for a free burger!"[^glob] Another got her license in 1962 and remembered the lot as "an exciting place to meet other teenagers (boys mostly)" from her turquoise Metropolitan convertible.[^glob] Adventure was not the only car hop: the blogger remembered others at Fresh Pond in Cambridge, Natick, Medford and Hampton Beach, and a diner-history blogger found an Adventure on Route 9 in Natick, later the Galaxy Car Hop, and a look-alike Lasso Car Hop in Everett.[^glob][^dhw]
 

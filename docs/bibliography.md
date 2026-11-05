@@ -593,6 +593,23 @@ Tags as above. The Rhode Island and Ohio newspapers are page OCR from Chroniclin
 - [local] *The Newport Navalog*, June 29, 1956, May 27 and June 3, 1960 (Pascoag and Charlestown drags). https://www.loc.gov/item/sn91070618/
 - [local] *Geauga Record* (Chardon, Ohio), Aug. 18 and Sept. 1, 1960 (a Rt. 322 drag race and the court). https://www.loc.gov/item/sn84028102/
 
+
+## Added in Round 33 (accessed 2026-11-05)
+Tags as above. The *Casa Grande Dispatch* and *Yuma Daily Sun* period pages were not readable directly (Dispatch via LOC listing only; Yuma archive search paused); those strips rest on Drag Strip List's digest and are flagged ◐. Cacklefest's Speed Sport page returned HTTP 500 on this pass; the Round 32 reading was retained. See [Grassroots Sources](reference/grassroots-sources.md).
+
+- [hof] "Red Greth," Pima County Sports Hall of Fame (Class of 2003). https://pcshf.org/red-greth/
+- [local] Caitlin Schmidt, "'Everything was possible:' Tucson racing legend Red Greth was an innovator on, off the drag strip," *Arizona Daily Star*, May 8, 2021. https://tucson.com/sports/local/article_bb0b246a-a2b6-11eb-8614-cf87c441abc1.html
+- [hof] International Drag Racing Hall of Fame, Class of 1994 (Greth, Fisher, Bush, Maynard), Don Garlits Museum of Drag Racing. https://garlits.com/international-hall-of-fame-inductees/
+- [org] Phil Burgess, "Reliving NHRA's first race: the 1955 National Championship Drags in Great Bend," NHRA.com, Oct. 27, 2021. https://www.nhra.com/news/2021/reliving-nhra-s-first-race-1955-national-championship-drags-great-bend
+- [org] "Night at the Museum: Calvin Rice," NHRA.com, June 1, 2016. https://www.nhra.com/news/2016/night-museum-calvin-rice
+- [oral] "Arizona" strip histories (Casa Grande, Yuma, Marana, Perryville, Winslow, Davis-Monthan), Drag Strip List. https://www.dragstriplist.com/arizona
+- [museum] "Auto Businesses on Route 66," Panel 4, *100 Years of Route 66 in Winslow*, Old Trails Museum. https://oldtrailsmuseum.org/wp-content/uploads/2026/01/100-Years-of-Route-66-in-Winslow-Panel-4-Auto-Businesses-on-Route-66-3.pdf
+- [local] "Historic Renegades Car Club," *Painted Desert Tribune*, July 29, 2011. https://www.tribunenewsnow.com/historic-renegades-car-club/
+- [hof] "Arnie Ginsburg," Massachusetts Broadcasters Hall of Fame (Class of 2008). https://www.massbroadcastershof.org/hall-of-fame/hall-of-fame-2008/arnie-ginsburg/
+- [local] "Boston Radio Legend Arnie 'Woo Woo' Ginsburg Has Died," WBZ NewsRadio 1030, June 27, 2020. https://wbznewsradio.iheart.com/content/boston-radio-legend-arnie-woo-woo-ginsburg-has-died/
+- [trade] "Arnie Ginsburg Dead at 93," *Radio Ink*, June 27, 2020. https://radioink.com/2020/06/27/arnie-ginsburg-dead-at-93/
+- [local] Bonnie Henry, "His life's anything but a drag," *Arizona Daily Star*, 2008. https://tucson.com/news/local/article_9c6dde3d-90dc-58ff-842a-76129bec0b70.html
+
 ## Added in Round 32 (accessed 2026-11-04)
 Tags as above. The *Arizona Daily Star*'s 2017 column refused our tools (HTTP 429) and was read in a mirror; the *Exeter News-Letter* (Seacoastonline) was behind a paywall. See [Grassroots Sources](reference/grassroots-sources.md).
 

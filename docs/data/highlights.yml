@@ -1384,3 +1384,59 @@ highlights:
     added: '2026-11-04'
     eras: [1960s]
     regions: ['Winterport, Maine']
+
+  - id: perryville-toe-clutch-1955
+    headline: NHRA's first champion won at Perryville after working the clutch with his toe
+    teaser: Rain washed Great Bend out. At Perryville, Calvin Rice blew a transmission on a foul start,
+      bolted in a Ford gearbox with no time to adjust the linkage, and still beat Fritz Voight.
+    link: drag-racing/perryville-marsh-airstrip.md
+    evidence: work the clutch with the tip of his toe
+    source_type: [Trade press, Museum / HOF]
+    confidence: Medium-High
+    flag: none
+    grassroots: false
+    added: '2026-11-05'
+    eras: [1950s]
+    regions: ['Perryville, Ariz.']
+
+  - id: winslow-renegades-taxiway
+    headline: Winslow's Renegades raced a Route 66 airport taxiway from 1958 to 1985
+    teaser: The city council let the club use the municipal airport's access road and taxi strip. An Old
+      Trails Museum panel marks the Winslow Drag Strip's last event in 1985.
+    link: drag-racing/winslow-renegades-airport.md
+    evidence: The Winslow Drag Strip hosted its last event in 1985.
+    source_type: [Local history site, Municipal record]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-05'
+    eras: [1950s, 1980s]
+    regions: ['Winslow, Ariz.']
+
+  - id: greth-flop-house
+    headline: Red Greth's Tucson living room was a flop house for racers headed west
+    teaser: His son remembered stepping over sleeping bodies. Neighborhood kids learned to weld in the shop
+      next door while Greth sold newspaper ads by day and ran Speed Sport by night.
+    link: people/red-greth.md
+    evidence: stepping over sleeping bodies
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-05'
+    eras: [1960s]
+    regions: ['Tucson, Ariz.']
+
+  - id: casa-grande-almost-a-mile
+    headline: Casa Grande's Karb Kats paved almost a mile of airport for monthly drags
+    teaser: After a city-council OK in January 1957, the first NHRA-sanctioned meet drew over 1,000 people.
+      The club then lengthened the strip past the traps with graded dirt for shutdown.
+    link: drag-racing/casa-grande-municipal-airport-cgta.md
+    evidence: almost a mile of racing surface
+    source_type: Local history site
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-05'
+    eras: [1950s]
+    regions: ['Casa Grande, Ariz.']

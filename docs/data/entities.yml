@@ -27,6 +27,8 @@ people/kong-jackson.md: {names: ["Kong Jackson", "Charles \"Kong\" Jackson"]}
 people/malcolm-durham.md: {names: ["Malcolm Durham"]}
 people/peggy-hart.md: {names: ["Peggy Hart"]}
 people/roland-leong.md: {names: ["Roland Leong"]}
+people/red-greth.md: {names: ["Red Greth", "Gary Lee \"Red\" Greth", "Gary \"Red\" Greth"]}
+people/arnie-ginsburg.md: {names: ["Arnie Ginsburg", "Arnie \"Woo Woo\" Ginsburg", "\"Woo Woo\" Ginsburg"]}
 people/roy-hagy.md: {names: ["Roy Hagy"]}
 people/setto-postoian.md: {names: ["Setto Postoian"]}
 people/stu-hilborn.md: {names: ["Stu Hilborn", "Stuart Hilborn"]}
@@ -51,13 +53,17 @@ customs/hirohata-mercury.md: {names: ["Hirohata Mercury", "Bob Hirohata"]}
 customs/kkoa-lead-sled-revival.md: {names: ["Kustom Kemps of America", "KKOA"]}
 cars/hill-bros-red-baron.md: {names: ["Red Baron"]}
 cars/beast-iii.md: {names: ["Beast III"]}
+drag-racing/casa-grande-municipal-airport-cgta.md: {names: ["Casa Grande Timing Association", "Karb Kats"]}
 drag-racing/detroit-cordova.md: {names: ["Cordova"]}
 drag-racing/akron-fulton-airport.md: {names: ["Fulton Airport"]}
 drag-racing/half-day-ataa-maremont.md: {names: ["Automobile Timing Association of America", "ATAA", "Half Day"]}
 drag-racing/houston-freeway-dragstrip.md: {names: ["Houston Freeway Dragstrip", "Freeway Drag Strip"]}
+drag-racing/marana-army-air-field-drags.md: {names: ["Marana Army Air Field"]}
+drag-racing/perryville-marsh-airstrip.md: {names: ["Perryville Airstrip", "Perryville drag strip"]}
 drag-racing/quaker-city-salem.md: {names: ["Quaker City Drag Strip", "Quaker City"]}
 drag-racing/kk-sports-arena-kaukauna.md: {names: ["KK Sports Arena"]}
 drag-racing/kk-sports-arena-hospitality-bankruptcy.md: {names: ["Hospitality Drag Strip"]}
+drag-racing/winslow-renegades-airport.md: {names: ["Winslow Renegades", "Winslow Drag Strip"]}
 drag-racing/yellow-river-covington.md: {names: ["Yellow River Drag Strip"]}
 drag-racing/atlanta-speed-shop-dragway.md: {names: ["Atlanta Speed Shop Dragway", "Julius Hughes"]}
 drag-racing/georgia-clubs-hy-winders-ridge-runners.md: {names: ["Hy-Winders"]}
@@ -153,3 +159,4 @@ drag-racing/tucson-davis-monthan-speed-sport.md: {names: ["Speed Sport roadster"
 drag-racing/new-england-dragway-epping.md: {names: ["New England Dragway", "New England Hot Rod Council", "Orientals Hot Rod Club"]}
 drag-racing/winterport-fernald-field-maine.md: {names: ["Winterport Dragway", "Fernald Field Dragway"]}
 places/route-1-saugus-adventure-car-hop.md: {names: ["Adventure Car Hop", "Ginsburger"]}
+drag-racing/yuma-timing-association.md: {names: ["Yuma Timing Association"]}

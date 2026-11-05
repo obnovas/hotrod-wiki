@@ -47,6 +47,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1951 | Pomona's Choppers Club "digs in" at a leased Fontana airstrip (Apr 1) | [Pomona's Choppers](../drag-racing/pomona-choppers-fontana.md) |
 | 1951 | Palm Springs Stockers' Reliability Safety Run: the winner is the driver closest to a patrol car's safe time | [Palm Springs TA](../drag-racing/palm-springs-timing-association.md) |
 | 1951 | Tucson's Outcasts club is racing on the old Marana Army Air Field (a son's family account, with a 1951 plate tag) | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
+| 1952 | Yuma's Dragsters club races on Wellton Auxiliary Army Airfield with Bureau of Reclamation approval ◐ | [Yuma](../drag-racing/yuma-timing-association.md) |
 | 1952 | First Holiday Inn opens on Summer Avenue, Memphis, a cruising and drive-around strip | [Summer Avenue](../places/summer-avenue-memphis.md) |
 | 1952 | Memphis Rodders exhibit at Klyce Motors (Mar 15) ◐ | [Memphis](../places/memphis.md) |
 | 1952 ⚠ | ATAA's first races at Half Day, Ill. (Maremont Speedway), Apr 6 per NHRA citing Bayshore; the ATAA's 1954 release says 1953 | [Half Day](../drag-racing/half-day-ataa-maremont.md) |
@@ -88,7 +89,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1954 | Oklahoma City's new state fairgrounds holds its first fair (Sept 25); its drag strip later hosts the 1957–58 Nationals | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | 1954 | Albuquerque's drags move to Eubank Blvd. so the city can get oil trucks out of downtown | [New Mexico](../drag-racing/new-mexico-timing-association-albuquerque.md) |
 | 1955 | NHRA Safari meet at Halls, Tenn. (start of Halls drags 1953/55 ⚠) | [Memphis](../places/memphis.md) |
-| 1955 | NHRA's first national event at Great Bend, Kan. (Sept 29–Oct 2); finals finished in Arizona Nov 19–20 | [Great Bend](../drag-racing/great-bend-srca.md) |
+| 1955 | NHRA's first national event at Great Bend, Kan. (Sept 29–Oct 2); finals finished at Perryville, Ariz., Nov 19–20 (Calvin Rice champion after a blown transmission) | [Great Bend](../drag-racing/great-bend-srca.md), [Perryville](../drag-racing/perryville-marsh-airstrip.md) |
 | 1955 | Escanaba Drag-n's sponsor a members-only road race "to test speed judgment" (May 22) | [Escanaba](../drag-racing/escanaba-dragns.md) |
 | 1955 ⚠ | Kansas City Timing Association's strip opens (Jul 17; $72,000, "18,000 paid spectators," per its organizer ◐; Jul 15 and railroad land at $2 a year per a 1959 AP feature) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
 | 1955 | Pensacola High yearbook lists a Hot Rod Club of about thirty; Chillicothe, Ohio, seniors will away a "Model A" Hot Rod Club | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
@@ -154,6 +155,9 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | NHRA Nationals at the Oklahoma City fairgrounds, Aug 30–Sept 2 (450 or 465 entries ⚠) | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | 1957–58 ⚠ | John Bandimere Sr. buys land west of Denver for the Safety Proving Grounds of America | [Denver & Bandimere](../drag-racing/denver-timing-association-bandimere.md) |
 | 1957 | The Orientals Hot Rod Club, Inc., forms in September "with the help and encouragement of Ma Sidebotham" | [New England Dragway](../drag-racing/new-england-dragway-epping.md) |
+| 1957 | Casa Grande Karb Kats open NHRA-sanctioned airport strip (Feb 10; 1,000+ spectators, 89 entries) ◐ | [Casa Grande](../drag-racing/casa-grande-municipal-airport-cgta.md) |
+| 1957 | Speed Sport roadster (Greth–Fisher–Maynard) runs 169.11 mph | [Red Greth](../people/red-greth.md), [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
+| 1958 | Winslow city council lets the Renegades Drag Club race the municipal airport taxiway (Mar 18); strip's last event 1985 | [Winslow](../drag-racing/winslow-renegades-airport.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
 | 1958 | Sept *Hot Rod* ad sets off the Gasser Wars, per Isky | [Camgrinder Wars](../eras/1950s-camgrinder-wars.md) |
@@ -382,6 +386,8 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2010 | Dick Wells dies (Jan 18), NSRA's "first active president" ⚠ | [Dick Wells](../people/dick-wells.md) |
 | 2015 | Douglas Motorsports Park, by then Wyoming's only active drag strip (NHRA-sanctioned), closes when the city declines to renew its lease (Dec) | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
 | 2019 | State historic markers go up at Milton, Vt. (Aug 17), and at the Kanawha Valley Drag Strip site, Winfield, W.Va. | [Milton, Vt.](../drag-racing/milton-speedway-vermont.md), [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md) |
+| 2020 | Arnie "Woo Woo" Ginsburg dies at 93 in Framingham | [Arnie Ginsburg](../people/arnie-ginsburg.md) |
+| 2021 | Red Greth dies in Tucson at 86 (Apr 13) | [Red Greth](../people/red-greth.md) |
 | 2021 | Tom and Kim Kuhnle buy Thompson Drag Raceway and rename it Kuhnle Motorsports Park (Dec) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | 2023–24 | CA AB 436 (Alvarez) chaptered Oct 13, 2023; effective Jan 1, 2024—removes local authority to ban cruising; repeals VC 24008 | [Cruise Nights](../places/cruising-overview.md) |
 | 2024 | Rapid Shifters and Counts of the Cobblestone run the second Vintage Dirt Drags at Bandit Speedway, Box Elder, S.D. | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |

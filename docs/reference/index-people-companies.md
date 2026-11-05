@@ -196,7 +196,7 @@
 | Gibbs, Burt, Cecilia & Fred | North A Street junkyard, Las Vegas; Fred killed in a 1961 car accident | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | Gibbs, Steve | NHRA; on Peggy Hart | [The Harts](../voices/harts-santa-ana.md) |
 | Gillespie, Gene | Lompoc racer; Golden State Raceway Bracket 2 title, 1974 | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
-| Ginsburg, Arnie "Woo Woo" | WMEX "Night Train" disc jockey; the Ginsburger; New England Hot Rod Hall of Fame ◐ | [Route 1, Saugus](../places/route-1-saugus-adventure-car-hop.md), [New England Dragway](../drag-racing/new-england-dragway-epping.md) |
+| Ginsburg, Arnie "Woo Woo" | WMEX "Night Train" disc jockey; the Ginsburger; New England Hot Rod Hall of Fame ◐ | [Arnie Ginsburg](../people/arnie-ginsburg.md), [Route 1, Saugus](../places/route-1-saugus-adventure-car-hop.md) |
 | Godfrey, Dick | Co-founder of Bonneville Drag Strip (1965) and Bonneville Raceway (1968), Salt Lake | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
 | Godman, Ray | Memphis racer; Lakeland Dragway | [Memphis](../places/memphis.md) |
 | Gold, Hyman "Blackie" | 1930s Muroc racer; Night Flyers | [Blackie Gold](../voices/blackie-gold.md) |
@@ -205,7 +205,7 @@
 | Gopher State Timing Association (GSTA) | Minnesota club | [Lake Street](../places/lake-street-university.md) |
 | Gore, Al (Old Dominion) | Director of Old Dominion Speedway, Manassas, who opened its drag strip, 1954 | [Washington suburbs](../drag-racing/washington-suburbs-drag-strip-debate.md) |
 | Green Valley Raceway | Smithfield/North Richland Hills, Tex., on the McClure dairy farm, 1960–86; AHRA nationals | [Green Valley](../drag-racing/green-valley-raceway-smithfield.md) |
-| Greth, Red | Tucson racer and Speed Sport roadster partner; helped run Tucson Dragway | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
+| Greth, Red | Tucson racer and Speed Sport roadster partner; helped run Tucson Dragway | [Red Greth](../people/red-greth.md), [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | Groover, John | Summerville, Ga., Ridge Runners president, 1964 | [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) |
 | Grote, Jim | Retired Air Force master sergeant; starter, then co-owner, Magic City International Dragway | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
 | Gully, James | Pascagoula Timing Association reporter; thanked the principal in print, 1961 | [Pascagoula Timing Association](../drag-racing/pascagoula-timing-association.md) |
@@ -529,6 +529,12 @@
 | Southeast Missouri Dragsters | Club that co-sponsored the Malden strip, 1961 | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md) |
 | Southern Nevada Charioteers | Club that operated the Henderson, Nev., strip; formed 1954 | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | Southern New England Timing Association | Ran the Charlestown, R.I., drags, 1956–64 | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
+| Rice, Calvin | NHRA's first national champion (Perryville finals, 1955) | [Perryville](../drag-racing/perryville-marsh-airstrip.md), [Great Bend](../drag-racing/great-bend-srca.md) |
+| Karb Kats / Casa Grande Timing Association | Casa Grande airport strip, 1957–58 ◐ | [Casa Grande](../drag-racing/casa-grande-municipal-airport-cgta.md) |
+| Yuma Timing Association | Highway 80 strip east of Yuma; March of Dimes meet, 1958 ◐ | [Yuma](../drag-racing/yuma-timing-association.md) |
+| Renegades Drag Club (Winslow) | Airport taxiway strip, 1958–85 | [Winslow](../drag-racing/winslow-renegades-airport.md) |
+| Perryville (Marsh) Airstrip | Luke auxiliary field; 1955 NHRA Nationals finish | [Perryville](../drag-racing/perryville-marsh-airstrip.md) |
+| Marana Army Air Field | Arizona's oldest drag venue (1951–59) ◐ first-year | [Marana](../drag-racing/marana-army-air-field-drags.md) |
 | Speed Sport roadster | Greth & Fisher's nitro Hemi roadster with a fiberglass nose, Tucson, 1955–58 | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | Speedway Motors | Lincoln, Neb.; 1719 N Street from 1954; donated a 1956 drag race ad | [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md), [Dick Wells](../people/dick-wells.md) |
 | Spittle, Frank | Indian Land, S.C., historian who started the H.A.M.B. Chester Drag Strip thread, 2012 | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |

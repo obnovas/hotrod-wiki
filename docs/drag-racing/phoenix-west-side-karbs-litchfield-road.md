@@ -65,11 +65,10 @@ tags:
 - police-and-safety
 - grassroots-sources
 related:
+- drag-racing/perryville-marsh-airstrip.md
 - drag-racing/tucson-davis-monthan-speed-sport.md
 - drag-racing/great-bend-srca.md
-- drag-racing/akron-fulton-airport.md
-- places/regional-scenes.md
-- drag-racing/high-school-hot-rod-clubs.md
+- people/red-greth.md
 canonical_for: []
 ---
 # The KARBS and the Strip on Litchfield Road: Drag Racing on Phoenix's West Side (Goodyear, Perryville and Glendale, Ariz., 1953–63)
@@ -90,7 +89,7 @@ The first club in the paper was at Luke Air Force Base. In March 1953 Luke's new
 
 In May 1955 the *Westside Weekly* reported that the **KARBS**, "a Westside teenage automobile club," were building a racer expected to "make over 100 mph in a fourth of a mile." The car was a '39 Ford coupe with a '48 Mercury engine bored .125 over and stroked, a full race cam, a 12-pound flywheel, an electric fuel pump, three carburetors, Harman-Collins ignition, a Mallory coil and a Lincoln low-gear transmission. Session and Sons Union 76 Service Station of Avondale supplied all the gas and oil, and the club was looking for more sponsors and for money for a trip to Bonneville. The boys working on it included Gary Session and Larry Towle, and an adult sponsor, Roger Huebner, worked "closely with the boys."[^ww550519] The next month the Session family's Union station advertised that "Perryville Drag Race Drivers" asked to have other brands drained from their tanks.[^ww550616]
 
-That November the Perryville strip held the national meet. On Nov. 24, 1955, the *Enterprise* reported that a Scout troop had gone to "the National Drag races being held on the Perryville Strip," and that the junior police had skipped their meeting because of the races.[^we551124c][^we551124d] The KARBS had "tough luck." Their car had head gasket trouble, then the wiring caught fire, and by the time it was rewired two drags had already run in its class. "As a result, the local boys ran third, and stayed third for the state, it was reported by Larry Towle."[^we551124a] These were the same November 1955 finals that NHRA had moved to Arizona after rain [washed out Great Bend](great-bend-srca.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+That November the Perryville strip held the national meet. On Nov. 24, 1955, the *Enterprise* reported that a Scout troop had gone to "the National Drag races being held on the Perryville Strip," and that the junior police had skipped their meeting because of the races.[^we551124c][^we551124d] The KARBS had "tough luck." Their car had head gasket trouble, then the wiring caught fire, and by the time it was rewired two drags had already run in its class. "As a result, the local boys ran third, and stayed third for the state, it was reported by Larry Towle."[^we551124a] These were the same November 1955 finals that NHRA had moved to Arizona after rain [washed out Great Bend](great-bend-srca.md); the full Perryville championship story is on the [Perryville page](perryville-marsh-airstrip.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Litchfield Road (1959–61)
 
