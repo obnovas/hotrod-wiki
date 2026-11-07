@@ -510,12 +510,12 @@ paths:
       - page: people/don-garlits.md
         why: "Florida's answer to the California slight: a Tampa bookkeeper who made them eat a path of beer cans."
       - page: people/don-prudhomme.md
-        why: "The other Don: Van Nuys painter to Snake, via Hawaii and Hot Wheels."
+        why: "The California driver the other regions were up against: a Van Nuys painter who became the Snake, via Hawaii and Hot Wheels."
 
   - id: southwest-airport-strips
     letter: O
-    title: "Southwest Airport Strips: Casa Grande, Yuma and Winslow (1957–1985)"
-    purpose: "Three short Arizona chapters on town and wartime airstrips that raced under local timing associations."
+    title: "Arizona Strips beyond Phoenix: Casa Grande, Yuma, Winslow and the Beeline (1957–1985)"
+    purpose: "Three town and wartime airstrips under local timing associations, then Beeline, a purpose-built strip on Salt River land."
     extra: true
     steps:
       - page: drag-racing/casa-grande-municipal-airport-cgta.md
@@ -525,4 +525,4 @@ paths:
       - page: drag-racing/winslow-renegades-airport.md
         why: "On Route 66, the Renegades lease a municipal-airport taxiway in 1958; the last event is 1985."
       - page: drag-racing/beeline-dragway-mesa.md
-        why: "Not an airport strip: the Valley's purpose-built AHRA Winternationals stop on Salt River land, 1963."
+        why: "East of Phoenix, a purpose-built AHRA Winternationals stop on Salt River land, from 1963. Not an airport strip."
