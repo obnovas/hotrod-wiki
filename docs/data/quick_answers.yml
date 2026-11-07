@@ -681,6 +681,41 @@ themes:
         link: drag-racing/winslow-renegades-airport.md
         also: [drag-racing/casa-grande-municipal-airport-cgta.md]
 
+      - id: firebird-raceway-idaho-nrhp
+        q: What Idaho strip was the first U.S. dragstrip on the National Register?
+        a: >-
+          Firebird Raceway near Eagle. Bootleggers club founder Bill New, back from the Army, paved a quarter-
+          mile in the sagebrush off State Highway 16 that opened July 29, 1968; the National Park Service
+          listed it on December 24, 2018, and the shutdown delayed the announcement to February 2019.
+        link: drag-racing/firebird-raceway-idaho-bootleggers.md
+        also: [drag-racing/pocatello-mcdougall-field-drag-strip.md, places/twin-falls-main-avenue.md]
+      - id: bootleggers-gowen-field
+        q: Who were Boise's Bootleggers?
+        a: >-
+          A hot rod club formed May 8, 1953, in Ron Hon's home, after he and Bill New found the Gearjammers
+          full. Its members raced on Gowen Field Road, which the nomination dates 1954–61 with city and police
+          approval (◐ see Open questions), and New later built Firebird Raceway.
+        link: drag-racing/firebird-raceway-idaho-bootleggers.md
+        flag: drag-racing/firebird-raceway-idaho-bootleggers.md#q-1
+      - id: pocatello-mcdougall-field
+        q: What became of Pocatello's first airport?
+        a: >-
+          McDougall Field, named for a World War I ace killed at a 1928 Armistice Day air show, was replaced
+          by the old Army air base in 1949. Its east-west runway became eastern Idaho's drag strip, which the
+          1971 USGS map labels "Drag Strip"; it closed in 1973 or about 1993 (⚠ see Open questions).
+        link: drag-racing/pocatello-mcdougall-field-drag-strip.md
+        also: [drag-racing/firebird-raceway-idaho-bootleggers.md]
+        flag: drag-racing/pocatello-mcdougall-field-drag-strip.md#q-1
+      - id: beeline-dragway-mesa
+        q: Where was Beeline Dragway, and when did it close?
+        a: >-
+          On Salt River Pima-Maricopa land beside State Route 87, about a mile north of Mesa. In August 1963
+          the Navajo Times called it "the first drag strip to be built on an Indian Reservation," and it
+          hosted the AHRA Winternationals for more than a decade. Its builder is named as C. Tim or Jim Rogers
+          (⚠ see Open questions), and it closed in 1973, 1975 or January 1979 (⚠ see Open questions).
+        link: drag-racing/beeline-dragway-mesa.md
+        also: [drag-racing/phoenix-west-side-karbs-litchfield-road.md]
+        flag: [drag-racing/beeline-dragway-mesa.md#q-1, drag-racing/beeline-dragway-mesa.md#q-2]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -983,6 +1018,25 @@ themes:
         link: people/setto-postoian.md#cordova-and-a-savings-bond
         also: [drag-racing/detroit-cordova.md#1957-the-garlits-upset, people/bob-bartel.md]
         flag: people/setto-postoian.md#q-4
+      - id: who-was-don-garlits
+        q: Who was Don Garlits before he was Big Daddy?
+        a: >-
+          A Tampa bookkeeper who raced a stock '40 Ford at Zephyrhills in June 1950, joined the Strokers,
+          built Swamp Rat I on Chevrolet rails and turned pro after a California challenge in 1959. He later
+          built the rear-engine Top Fueler and the museum near Ocala (⚠ frame year; see Open questions).
+        link: people/don-garlits.md
+        also: [drag-racing/brooksville-jaycees-drag-strip.md, people/don-prudhomme.md]
+        flag: people/don-garlits.md#q-1
+      - id: who-was-don-prudhomme
+        q: Who is Don "the Snake" Prudhomme?
+        a: >-
+          A Van Nuys body-shop painter and Road Kings member who drove Greer-Black-Prudhomme, then won the
+          1965 Winternationals and the Nationals for Roland Leong. Crewmember Joel Purcell named him Snake;
+          with Tom McEwen he turned a Mattel Hot Wheels deal into Funny Car fame and won four straight Funny
+          Car titles, 1975–78 (⚠ win-loss record; see Open questions).
+        link: people/don-prudhomme.md
+        also: [people/roland-leong.md, people/don-garlits.md]
+        flag: people/don-prudhomme.md#q-2
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1026,6 +1080,14 @@ themes:
         link: street-rodding/fiberglass-suppliers.md
         also: [places/pacific-northwest.md]
 
+      - id: garlits-rear-engine-1970
+        q: Why did Top Fuel engines move behind the driver?
+        a: >-
+          On March 8, 1970, the transmission in Don Garlits's front-engined Swamp Rat XIII exploded at Lions
+          and took part of his right foot. From a Long Beach hospital bed he sketched a rear-engine car, and
+          Swamp Rat XIV's win at the 1971 NHRA Winternationals helped end the slingshot era.
+        link: people/don-garlits.md
+        also: [drag-racing/beeline-dragway-mesa.md#q-3]
   - id: media-and-shows
     title: Media and shows
     questions:

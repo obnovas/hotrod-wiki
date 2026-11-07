@@ -55,12 +55,15 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Light Bulbs on the Runway (Western Washington)](western-washington-airport-strips.md): Shelton, Arlington, Bremerton, Bellingham and Thun Field, and a club that took a quarter-mile of light bulbs home after every race.
 - [A Mobil Flag on Eubank (Albuquerque)](new-mexico-timing-association-albuquerque.md): police-run drags on a truck bypass, a move for the oil trucks, eleven years of meetings and a strip built on bonds in 1964.
 - [Sundays at Airport No. 2 (Utah)](utah-airport-no-2-salt-lake-strips.md): Provo's one race in 1950, an Ogden street race for a clubhouse, and the 1965 Sunday when Salt Lake's crowd moved two miles east.
+- [A Hood in the Dump (Firebird Raceway, Idaho)](firebird-raceway-idaho-bootleggers.md): Boise's Bootleggers, Gowen Field Road, Bill New's sagebrush strip and the first U.S. dragstrip on the National Register, 1953–2019.
+- [The Ace's Runway (Pocatello, Idaho)](pocatello-mcdougall-field-drag-strip.md): an airport named for a World War I ace becomes eastern Idaho's drag strip; a timing-tower romance in 1967 (⚠ closed 1973 or ~1993).
 - [Three-Eighths of a Mile Between Cattle Guards (Tucson)](tucson-davis-monthan-speed-sport.md): midnight races on the Mount Lemmon cutoff, drags at Marana and on a Davis-Monthan runway, a nitro roadster with a nose made of thrown-out drapes, and Tucson Dragway on Houghton Road.
 - [Third Sunday at the Airport (Casa Grande)](casa-grande-municipal-airport-cgta.md): the Karb Kats win a city-council runway, NHRA sanctions the CGTA, and monthly meets grow to almost a mile of pavement, 1957–58.
 - [Fifteen Miles East of Yuma](yuma-timing-association.md): Wellton's emergency airstrip, the Barons' Highway 80 strip and a March of Dimes meet of 545 people, 1952–58.
 - [Arizona's Oldest Drag Venue (Marana)](marana-army-air-field-drags.md): Highway Patrol-sanctioned races on Marana Army Air Field from 1951, night lights in 1958–59, then a CAA shutdown.
 - [A Rainout and a Blown Transmission (Perryville)](perryville-marsh-airstrip.md): the Southwest Timing Association's Luke auxiliary field finishes the 1955 NHRA Nationals; Calvin Rice wins after a clutch worked with a toe.
 - [Renegades on the Taxiway (Winslow)](winslow-renegades-airport.md): city-council leave for an airport drag strip on Route 66, 1958–85.
+- [A Lease on the Beeline (Mesa)](beeline-dragway-mesa.md): "the first drag strip to be built on an Indian Reservation" in 1963, and a decade of AHRA Winternationals (⚠ builder's name; closed 1973/75/79).
 
 - [Built by Racers (Epping, N.H.)](new-england-dragway-epping.md): New England's clubs leave the borrowed airports, carry used bleachers to a mile of New Hampshire woods in 1966, and in 2021 vote not to sell.
 - [Somebody Should Christen It (Winterport, Maine)](winterport-fernald-field-maine.md): four Sanford racers talk a town into lending its old airfield in 1967; Norridgewock's one summer; a 2025 lease fight.

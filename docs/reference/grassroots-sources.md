@@ -24,6 +24,10 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Times Herald-Record](https://www.recordonline.com/story/news/local/port-jervis/2015/07/30/ed-almquist-motorhead-inventor-pioneer/33784642007/) (Port Jervis, 2015 obituary; read via search excerpt) → the Mason-jar injector and early prices → [Ed Almquist](../people/ed-almquist.md).
 - [Burbank Leader](https://www.latimes.com/socal/burbank-leader/news/tn-blr-river-road-a-quick-route-to-memories-for-oldtime-burbank-drag-racers-20140605-story.html) (2014) → Burbank teenagers racing on the River Road in the 1950s, in their own words (Tommy Ivo and others) → [Bob's Big Boy & River Road](../places/bobs-big-boy-river-road.md).
 - [Weekly Alibi](https://alibi.com/news/cruising-crackdown/) (Albuquerque alt-weekly, 2006) → how Albuquerque's 2005 cruising ordinance was enforced in 2006, with a cruiser's quote → [Central Ave, Albuquerque](../places/central-avenue-albuquerque.md).
+- [*Navajo Times*, Aug 29, 1963](https://www.loc.gov/resource/sn85047513/1963-08-29/ed-1/?sp=2) (Window Rock tribal weekly, read 2026 via Chronicling America OCR) → "the first drag strip to be built on an Indian Reservation" and the name C. Tim Rogers ⚠ → [Beeline](../drag-racing/beeline-dragway-mesa.md).
+- [*Phoenix New Times*, 2012](https://www.phoenixnewtimes.com/arts-culture/beeline-dragway-a-decaying-blast-from-phoenixs-racing-past-6565358/) → the timing tower, the Saguaro Automotive sign and a 1975 closing ⚠ → [Beeline](../drag-racing/beeline-dragway-mesa.md).
+- [*Ocala Gazette*, 2022](https://www.ocalagazette.com/big-daddy-don-garlits-one-of-the-winningest-drag-racers-of-all-time-has-no-plans-to-slow-down-as-he-turns-90-years-old/) (Garlits at 90, hometown interview) → his first trophy and Pat's part in the museum → [Don Garlits](../people/don-garlits.md).
+- [*Idaho State Journal*, 2020](https://www.uptownbooks.com/history-articles/the-history-of-pocatellos-airfields) (Justin Smith's history column, author's republication) → McDougall Field's namesake and its runway turned drag strip → [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
 
 - [Escanaba Daily Press](https://archive.org/details/escanaba-daily-press-1955-04-23) (Michigan, Jul 1954, Jan, Apr and May 1955; scanned OCR) → the Drag-n's Auto Club's founding, rules and strip plans, plus a 1954 wire feature on the ATAA → [Escanaba](../drag-racing/escanaba-dragns.md), [Half Day](../drag-racing/half-day-ataa-maremont.md).
 - [Decatur Daily Democrat](https://newspapers.library.in.gov/?a=d&d=DCDD19560912.1.7), [The Daily Banner](https://newspapers.library.in.gov/?a=d&d=TDB19541209-01.1.5) (Greencastle) and [Syracuse-Wawasee Journal](https://newspapers.library.in.gov/?a=d&d=SWWJ19580123.1.7) (Indiana, 1953–58; Hoosier State Chronicles OCR) → Decatur's Road Runners, a Syracuse club, a 1954 book review and a Dodge safety column → [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md).
@@ -91,6 +95,8 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Modestoview](https://www.modestoview.com/gene-winfield-interview/) (Chris Murphy's interview with Gene Winfield) → the Century Toppers' founding "in late '47," the coop shop, early racing roads → [Century Toppers](../drag-racing/modesto-century-toppers.md).
 - [Southern Foodways Alliance](https://www.southernfoodways.org/oral-history/summer-avenue-memphis/) (Summer Avenue, Memphis oral history project, 2021) → the avenue's early chain businesses (the first Holiday Inn, 1952) → [Summer Avenue, Memphis](../places/summer-avenue-memphis.md).
 - [Regional Oral History Office, UC Berkeley](https://archive.org/details/longtimeblackfam00willrich) (Harry and Marguerite Williams of Richmond, Calif., interviewed 1985) → kids "dragging the main" on San Pablo and in Richmond in the 1950s → [Dragging Main](../places/dragging-main.md).
+- Don Garlits's first-person Hemmings pieces ([beginnings](https://www.hemmings.com/stories/don-garlits-in-the-beginning/), [museum](https://www.hemmings.com/stories/starting-the-drag-racing-museum/), 2018) and the *Hot Rod* Drag Safari oral history (2009) → the Strokers' tea set, the Lake City or Jacksonville roll bar ⚠ → [Don Garlits](../people/don-garlits.md).
+- [*Speed Queens of the Drag Strip*, 1960s](https://benelliman.wixsite.com/women-drag-racers/1960s) (compiled women racers' biographies with quotes) → Kathy Steinmetz in the Pocatello tower, Dorothy Fisher at Tucson, Sharon Lee Kornyei in Hawaii, all ◐ → [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md), [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md), [Kahuku](../drag-racing/kahuku-point-hawaii-drag-strip.md).
 
 ### Club newsletters, club histories and club-run pages
 - [Sheridan Speedway, "Sheridan's Speedways long history of racing!"](http://www.sheridanspeedway.com/about/) (the Sheridan, Wyo., club's own history from its 1947 Hot Rod Club) → [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md).
@@ -99,11 +105,14 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [SRCA Dragstrip, "About Us"](https://www.srcadragstrip.com/about-us) (the Sunflower Rod and Custom Association's own page) → the club's timeline, the Chamber of Commerce letter, the 1993 reorganization → [Great Bend](../drag-racing/great-bend-srca.md).
 - [Gopher State Timing Association history](https://www.gstarod-custom.com/gsta-history) → how Twin Cities cruising led to street races and the clubs' response → [Lake Street & University](../places/lake-street-university.md).
 - [Memphis Rodders](http://www.memphisrodders.com/) (club history) → the club's 1947 start and a 1952 exhibit photo, both flagged ◐ → [Memphis](../places/memphis.md).
+- [Firebird Raceway family history: Bill New (2020)](https://firebirdonline.com/news/bill-new-the-early-1950s/) and [Remembering Roger Worley (2022)](https://firebirdonline.com/news/remembering-roger-worley/) (the Bootleggers' ledger, saved by Gale Sasser) → the club's founding, the hood in the dump and the Pocatello Safari → [Firebird](../drag-racing/firebird-raceway-idaho-bootleggers.md), [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
 
 ### Municipal and police records
 - [FBI Law Enforcement Bulletin, Dec 1951](https://leb.fbi.gov/file-repository/archives/december-1951.pdf) (Pomona's chief of police writing for other police) → the point system, the Officers Club rooms, the Fontana lease → [Pomona](../drag-racing/pomona-choppers-fontana.md).
 - [American Society of Planning Officials report no. 74 (1955)](https://www.planning.org/pas/reports/report74.htm) → what a dozen cities were trying, and the end of the Highway Patrol's club program → [City planners, 1955](../drag-racing/planners-report-1955.md).
 - [Stanislaus County Library, Modesto Cruising Ordinance (1990-03-27)](https://www.stanislauslibrary.org/memories/about_ordinance.shtm) → the ordinance record that conflicts with a historical marker's wording → [Modesto](../places/modesto.md).
+- [National Register nomination, Firebird Raceway (2018)](https://history.idaho.gov/wp-content/uploads/Firebird_Raceway_100003243.pdf) → Gowen Field Road, Pocatello's lease ending in 1973 ⚠, Thunder Ridge and Firebird's 1968 opening → [Firebird](../drag-racing/firebird-raceway-idaho-bootleggers.md), [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
+- [U.S. EPA Region 9 brownfields factsheet, Former Beeline Dragway (2015)](https://www.epa.gov/sites/default/files/2016-08/documents/brownfields-taf-factsheet-beeline-final-2016-07.pdf) → "ceased in January 1979" ⚠ and the Community's open-space plan → [Beeline](../drag-racing/beeline-dragway-mesa.md).
 
 - [Public Safety, May 1956](https://archive.org/details/sim_traffic-safety_1956-05_48_5) (Kansas City's chief of detectives, Maj. Eugene M. Pond, writing in a National Safety Council magazine) → the timing association, the safety check and the strip's cost and crowds → [Kansas City](../drag-racing/kansas-city-timing-association.md).
 - [Birmingham Museum, City of Birmingham, Mich.](https://bhamgov.org/about_birmingham/city_history/birmingham_museum/museum_exhibits/read_more_about_transportation_and_transformation_here.php) (municipal museum exhibit text) → the 1963 case, the 1966 drive-in ordinance and the end of Woodward cruising → [Woodward ordinances](../places/woodward-ordinances.md).
@@ -132,6 +141,8 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Historical Society of the Upper Mojave Desert](https://www.ridgecrestca.com/news/hsumd-april-meeting-drag-racing-in-old-ridgecrest/article_7bc2f56d-951b-4f93-8b58-eba04720b1bd.html) (2025 talk announcement) → local memories of racing around Ridgecrest, and the claim that Inyokern was the longest-running strip → [Inyokern](../drag-racing/inyokern-dust-devils.md).
 - [1947project](https://1947project.blogspot.com/2005/07/hot-rod-boys-spend-afternoon-in-court.html) (a blog that posts daily 1947 news) → a July 1947 Compton court item → [Pomona](../drag-racing/pomona-choppers-fontana.md).
 - [Barrio Boychik](https://barrioboychik.wordpress.com/2015/12/29/the-cruising-culture-of-east-los-angeles/) (local-history blog, 2015) → a dated account of the March 23, 1979 Whittier Boulevard ban → [Whittier Boulevard](../places/whittier-blvd.md).
+- [Three Rivers Historical Society quarterly, Q4 2015](https://pwlhc.org/wp-content/uploads/2024/05/2015Q4.pdf) (West Valley, Ariz.) → Saturday nights in summer, Motorola's radio tests and the tower's disappearance → [Beeline](../drag-racing/beeline-dragway-mesa.md).
+- [*Abandoned & Little-Known Airfields*: Southeastern Idaho](https://www.airfields-freeman.com/ID/Airfields_ID_SE.htm) (Paul Freeman, with Robert Pearson's and Bret Kepner's recollections) → the 1971 "Drag Strip" map label and the FMC-era closing ⚠ → [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
 
 - [Denver Public Library, "Colorado Auto Racing: A Brief History"](https://history.denverlibrary.org/news/colorado-auto-racing-brief-history) (library blog, 2016) → Bandimere Speedway's 1958 opening and its parts-store origin → [March 1957 survey](../drag-racing/march-1957-drag-strip-survey.md).
 
@@ -187,6 +198,14 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 34 status
+| Archive | Round 34 status |
+|---|---|
+| Chronicling America (Library of Congress) | Page OCR readable through the JSON API; the *Navajo Times* Beeline item read in full. Search returned nothing for Florida, Idaho, Maine and Utah drag queries and failed (HTTP 503/520) under load; the HTML pages sit behind a Cloudflare check. |
+| *Ocala Star-Banner* (ocala.com) | Paywall (HTTP 402); the 2004 Garlits piece was not read and its citation was replaced. |
+| Smithsonian collections page | CAPTCHA; the record text was read through the Smithsonian Open Access API instead. |
+| Drag Strip List (Arizona, Idaho pages) | Script-rendered; our fetcher got empty pages. Idaho memories seen only in a search snippet, not quoted. |
 
 ### Round 32 status
 | Archive | Round 32 status |

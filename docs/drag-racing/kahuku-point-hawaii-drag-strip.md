@@ -95,6 +95,8 @@ The new strip had its own regulars. Roger Ramos of the Leeward Racing Club ran a
 
 Pflueger himself, born March 5, 1926, was by 30 "one of Hawaii's foremost sportsmen," won a 1962 Jeep race up Mauna Kea, and in 1969 became the first Honda dealer in the United States. "Jimmy had a love affair with motorized vehicles — a love affair with machines," his nephew said when he died in 2017 at 91. His obituary also records the jail time he served over the deaths of seven people killed by a flood from a Kauai reservoir he altered.[^sa17] Hawaii Raceway Park closed in 2006, when its lease ran out.[^hon]
 
+One of the new park's early racers was a woman on two wheels. Sharon Lee Kornyei, born in 1943, "was the first woman to participate in organized drag races in Hawaii," by one compiled biography; she began in 1967 and took second in the South Pacific Championships in the 1969 winter season on a Yamaha 180. Before that summer's season began she was killed on her way to race at Hawaii Raceway Park, when her motorcycle hit a pickup.<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see the bottom of the page">◐</a></sup>[^wdr]
+
 (For other drag racing far from the mainland, see [Alaska's Palmer and Kodiak strips](palmer-alaska-polar-dragway.md) and the Virgin Islands' [No Hot Rods, Please!](virgin-islands-no-hot-rods.md).)
 
 ## Open questions & disputed details
@@ -113,6 +115,8 @@ Pflueger himself, born March 5, 1926, was by 30 "one of Hawaii's foremost sports
 
 <a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Roger or Rudy Ramos, '32 or '33 Plymouth?** His daughter calls him Roger and his car a '32 Plymouth; the editor's note says '33, and the two newspaper captions DragStripList reproduces (1965) call him Rudy Ramos.[^dsl] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
+<a id="q-7" class="hr-q-anchor"></a>**Single source so far.** **Was Sharon Lee Kornyei really the first woman in organized drag racing in Hawaii?** The claim, and the account of her 1969 death, come only from the *Speed Queens of the Drag Strip* biography; the 1969 Honolulu papers should carry the accident and her racing record.[^wdr] <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+
 ### Next leads
 
 The *Honolulu Star-Bulletin* and *Honolulu Advertiser*, 1953–64 (Kahuku's first meets, Henry Lee's crash, the 1963–64 opening of Hawaii Raceway Park); the Ulukau Hawaiian newspaper index (blocked to our tools by a Cloudflare check); *Best Hot Rods* (1952) for the Hono-Kai article; Hawaiian Motor Timing Association records.
@@ -128,3 +132,4 @@ The *Honolulu Star-Bulletin* and *Honolulu Advertiser*, 1953–64 (Kahuku's firs
 [^sa24]: John Berger, "Known as 'The Hawaiian,' Roland Leong loved auto racing from an early age," *Honolulu Star-Advertiser*, Jan. 14, 2024. https://www.staradvertiser.com/2024/01/14/hawaii-news/roland-leong-the-hawaiian-loved-auto-racing-from-an-early-age/ (accessed 2026-11-01)
 [^nhra23]: Phil Burgess, "Legendary NHRA car owner Roland Leong, 'the Hawaiian,' passes away," NHRA.com, Dec. 29, 2023. https://www.nhra.com/news/2023/legendary-nhra-car-owner-roland-leong-hawaiian-passes-away (accessed 2026-11-02)
 [^sa17]: Andrew Gomes, "Land disputes plagued noted car dealership founder," *Honolulu Star-Advertiser*, Sept. 26, 2017. https://www.staradvertiser.com/2017/09/26/hawaii-news/land-disputes-plagued-noted-car-dealership-founder/ (accessed 2026-11-01)
+[^wdr]: "1960s: Women Drag Racers of the Second Decade," *Speed Queens of the Drag Strip* (compiled racer biographies). https://benelliman.wixsite.com/women-drag-racers/1960s (accessed 2026-11-07)

@@ -93,7 +93,7 @@ NHRA liked the weather but thought Perryville too remote for future nationals. T
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Who fouled, and in what order, in the three no-gos?** NHRA's 2021 Burgess story says period accounts disagree—"either first Voight then Rice each jumping the start or Voight committing two straight fouls"—while the 2016 museum piece narrates three foul starts without naming who jumped. (Burgess 2021 once first-names him "Fred Voight"; the 2016 museum piece and the rest of both stories say Fritz—same man.)[^nhra21][^nhra16] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Perryville really race again in 1961?** Drag Strip List points to Loren Barnes's memories page; we have not read a 1961 newspaper confirmation. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Perryville really race again in 1961?** Drag Strip List points to Loren Barnes's memories page; we have not read a 1961 newspaper confirmation.[^dslaz] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 

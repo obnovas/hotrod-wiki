@@ -111,7 +111,7 @@ The Speed Sport team and the car went into the International Drag Racing Hall of
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was Greth born in Centerville or Dayton?** The Pima County Sports Hall of Fame: "Born on a farm in Centerville, Ohio, in 1934." The *Star*: "born July 3, 1934 in Dayton, Ohio." Centerville is a Dayton suburb; both may be describing the same farm in different words, but neither source reconciles the other.[^pcshf][^ads21] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **The 154-mph and 174.03-mph dates.** Full story and both sides: [Tucson Open questions q-2 and q-3](../drag-racing/tucson-davis-monthan-speed-sport.md#q-2). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did Greth run 154 mph and 174.03 mph?** Full story and both sides: [Tucson Open questions q-2 and q-3](../drag-racing/tucson-davis-monthan-speed-sport.md#q-2). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 

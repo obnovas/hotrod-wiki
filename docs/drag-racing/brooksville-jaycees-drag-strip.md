@@ -63,6 +63,7 @@ related:
 - drag-racing/semo-malden-drag-strip.md
 - drag-racing/akron-fulton-airport.md
 - drag-racing/lake-butler-mid-state-timing-association.md
+- people/don-garlits.md
 canonical_for: []
 ---
 # Oranges for the Record: The Jaycees' Drag Strip at Brooksville (Fla., 1956–62)

@@ -87,9 +87,9 @@ The street-racing "uproar" that followed helped push Davis-Monthan to open a run
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **When was the first Marana race: 1951 or 1952?** Thomas Funk's family account says 1951; Dave Smith's memory says 1952; both appear only on Drag Strip List's Arizona page. No 1951 newspaper notice has been read here.[^dslaz] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Rillito Field's July 1951 opening and short life.** Only Drag Strip List's strip entry. Lead: *Arizona Daily Star* / *Tucson Daily Citizen*, summer 1951. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Rillito Field really open in July 1951, and how long did it last?** Only Drag Strip List's strip entry has it.[^dslaz] Lead: *Arizona Daily Star* / *Tucson Daily Citizen*, summer 1951. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **The CAA shutdown of June 1959.** Drag Strip List quotes Naughton; the order itself has not been read. Lead: CAA/FAA correspondence; *Arizona Daily Star*, June 1959. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **What did the CAA's June 1959 shutdown order actually say?** Drag Strip List quotes Naughton; the order itself has not been read.[^dslaz] Lead: CAA/FAA correspondence; *Arizona Daily Star*, June 1959. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 ### Next leads
 

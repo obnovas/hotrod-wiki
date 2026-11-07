@@ -711,3 +711,33 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [org] "Track History," Bandimere Speedway. https://bandimere.com/track-history/
 - [org] Phil Burgess, "NHRA national event history: A look at the tracks and stories that drove the sport," NHRA.com, Aug. 1, 2025. https://www.nhra.com/news/2025/nhra-national-event-history-look-tracks-and-stories-drove-sport
 - [org] Phil Burgess, "Legendary NHRA car owner Roland Leong, 'the Hawaiian,' passes away," NHRA.com, Dec. 29, 2023; "A final 'aloha' to 'the Hawaiian'," Jan. 5, 2024; "The big book of drivers who wheeled Roland Leong's Hawaiian entries," Jan. 12, 2024. https://www.nhra.com/news/2023/legendary-nhra-car-owner-roland-leong-hawaiian-passes-away
+
+## Round 34 additions (Garlits, Prudhomme, Beeline, Firebird, Pocatello)
+- [local] Susan Smiley-Height, "'Big Daddy' Don Garlits, one of the winningest drag racers of all time, has no plans to slow down as he turns 90 years old," *Ocala Gazette*, Jan. 7, 2022. https://www.ocalagazette.com/big-daddy-don-garlits-one-of-the-winningest-drag-racers-of-all-time-has-no-plans-to-slow-down-as-he-turns-90-years-old/
+- [oral] Don Garlits, "Don Garlits in the beginning," Hemmings, Sept. 23, 2018. https://www.hemmings.com/stories/don-garlits-in-the-beginning/
+- [oral] Don Garlits, "Starting the drag racing museum," Hemmings, Sept. 23, 2018. https://www.hemmings.com/stories/starting-the-drag-racing-museum/
+- [oral] Rob Widdows, "Drag racer Don Garlits: Straight talkin'," *Motor Sport*, March 2015. https://www.motorsportmagazine.com/archive/article/march-2015/98/straight-talkin/
+- [mag] Dave Wallace, "How Don 'Big Daddy' Garlits Shaped the Drag Racing Landscape" (*Hot Rod*, Dec. 1979; republished 2023). https://www.hotrod.com/features/250-mph-5-63-garlits-december-1979-982-1204-106-1
+- [oral] Drew Hardin, "The Drag Safari: Dawn of the Drags!" (Coons, Parks, Evans, Rickman, Cannon), *Hot Rod*, May 7, 2009. https://www.hotrod.com/news/hrdp-0409-the-drag-safari
+- [museum] National Museum of American History, "Don Garlits Top-fuel Dragster Swamp Rat XXX" (read via the Smithsonian Open Access API, record nmah_1276317). https://americanhistory.si.edu/collections/object/nmah_1276317
+- [trade] Phil Burgess, "Front to back: The rear-engine transition," NHRA.com, Feb. 20, 2015. https://www.nhra.com/news/2015/front-back-rear-engine-transition
+- [trade] Phil Burgess, "The 10: Don Prudhomme," NHRA.com, Dec. 1, 2023. https://nhra.com/news/2023/10-don-prudhomme
+- [oral] Don Prudhomme, *My Life Beyond the 1320* (CarTech, 2020), chapter excerpt, NHRA.com, Oct. 9, 2020. https://www.nhra.com/news/2020/exclusive-book-excerpt-don-snake-prudhomme-my-life-beyond-1320
+- [oral] Dick Martin, "The Don Prudhomme Story" (Prudhomme, Bob Muravez, Road Kings), *Rod & Custom* / HotRod.com, Dec. 2, 2013. https://www.hotrod.com/news/the-don-prudhomme-story
+- [local] Martin Henderson, "Snake's in the house," *Los Angeles Times*, Feb. 22, 2007. https://www.latimes.com/archives/la-xpm-2007-feb-22-sp-glick22-story.html
+- [mag] Kurt Ernst, "Racing Heroes – Don Prudhomme," Hemmings, Sept. 3, 2013. https://www.hemmings.com/stories/racing-heroes-don-prudhomme/
+- [local] "For Hot Rodders and Fans," *Navajo Times* (Window Rock, Ariz.), Aug. 29, 1963, p. 2 (Chronicling America). https://www.loc.gov/resource/sn85047513/1963-08-29/ed-1/?sp=2
+- [local] Benjamin Leatherman, "Beeline Dragway: A Decaying Blast From Phoenix's Racing Past," *Phoenix New Times*, Sept. 5, 2012. https://www.phoenixnewtimes.com/arts-culture/beeline-dragway-a-decaying-blast-from-phoenixs-racing-past-6565358/
+- [gov] U.S. EPA Region 9, "Brownfields Technical Assistance Factsheet: Former Beeline Dragway," March 2015. https://www.epa.gov/sites/default/files/2016-08/documents/brownfields-taf-factsheet-beeline-final-2016-07.pdf
+- [local] "Good-bye Beeline Drag Strip," Three Rivers Historical Society quarterly, Vol. 12 No. 4, Oct.–Dec. 2015. https://pwlhc.org/wp-content/uploads/2024/05/2015Q4.pdf
+- [ref] "Beeline Dragway," Scottsdale.tips (local-guide digest; secondary). https://scottsdale.tips/beyond/beeline-dragway/
+- [mag] Andrew Wolf, "Flashback Friday Video: The 1971 AHRA Winternationals At Beeline," Dragzine, March 11, 2011. https://www.dragzine.com/news/flashback-friday-video-the-1971-ahra-winternationals-at-beeline/
+- [ref] "Winter Nationals, AHRA Top Fuel, Beeline Dragway, February 21, 1971," Ultimate Racing History (results database). http://www.ultimateracinghistory.com/race.php?raceid=37820
+- [gov] "Firebird Raceway," National Register of Historic Places Registration Form (NRIS 100003243), Idaho SHPO / NPS, 2018. https://history.idaho.gov/wp-content/uploads/Firebird_Raceway_100003243.pdf
+- [club] "Firebird Founder | Bill New | Historical Flashback" (Bootleggers ledger via Gale Sasser), Firebird Raceway, March 24, 2020. https://firebirdonline.com/news/bill-new-the-early-1950s/
+- [club] "Remembering Roger Worley," Firebird Raceway, March 16, 2022. https://firebirdonline.com/news/remembering-roger-worley/
+- [mag] Daniel Strohl, "Idaho's Firebird Raceway becomes first dragstrip listed on the National Register of Historic Places," Hemmings, Feb. 6, 2019. https://www.hemmings.com/stories/idahos-firebird-raceway-becomes-first-dragstrip-listed-on-the-national-register-of-historic-places/
+- [trade] "Firebird Raceway listed in National Register of Historic Places," NHRA.com, Feb. 13, 2019. https://www.nhra.com/news/2019/firebird-raceway-listed-national-register-historic-places
+- [local] Justin Smith, "The history of Pocatello's airfields," *Idaho State Journal*, Nov. 2020 (author's republication). https://www.uptownbooks.com/history-articles/the-history-of-pocatellos-airfields
+- [ref] Paul Freeman, "Pocatello Municipal Airport / McDougall Field," *Abandoned & Little-Known Airfields: Southeastern Idaho* (Robert Pearson, Bret Kepner recollections). https://www.airfields-freeman.com/ID/Airfields_ID_SE.htm
+- [oral] "1960s: Women Drag Racers of the Second Decade," *Speed Queens of the Drag Strip* (Kathy Steinmetz, Dorothy Fisher, Sharon Lee Kornyei). https://benelliman.wixsite.com/women-drag-racers/1960s

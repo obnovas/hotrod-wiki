@@ -84,9 +84,9 @@ On Sunday, February 9, 1958, the Karb Kats called their meet the first annual ra
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The 1957–58 race narrative.** Dates, entry counts, speeds and club names all come from Drag Strip List's Arizona page, which cites the *Casa Grande Dispatch* and related notices we have not yet read page by page. Lead: the *Casa Grande Dispatch* on Newspapers.com or the local library, Jan. 1957–Aug. 1958. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Can the 1957–58 race narrative be confirmed in the *Dispatch*?** Dates, entry counts, speeds and club names all come from Drag Strip List's Arizona page, which cites the *Casa Grande Dispatch* and related notices we have not yet read page by page.[^dslaz] Lead: the *Casa Grande Dispatch* on Newspapers.com or the local library, Jan. 1957–Aug. 1958. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** **Why did racing stop after August 1958?** Drag Strip List offers only the editor's speculation that Chandler's new strip pulled the cars away. No closing notice has been read. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** **Why did racing stop after August 1958?** Drag Strip List offers only the editor's speculation that Chandler's new strip pulled the cars away. No closing notice has been read.[^dslaz] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 

@@ -34,6 +34,8 @@ Most of them started in a garage, a shed or a borrowed corner of someone else's 
 - [Joe Lunati](joe-lunati.md): Memphis Rodder, Corvair and Devin racer, founder of Lunati Cams (⚠ dates).
 - [Red Greth](red-greth.md): Tucson's Speed Sport roadster, fiberglass drapes, a B-29 steering wheel and a shop that mentored the neighborhood (⚠ birth town).
 - [Arnie "Woo Woo" Ginsburg](arnie-ginsburg.md): the Night Train DJ whose Ginsburger ads filled Adventure Car Hop; Route 1's quarter-mile street course.
+- [Don Garlits](don-garlits.md): Tampa bookkeeper to Swamp Rat; Zephyrhills 1950, the California challenge, the 1970 rear-engine redesign and the Ocala museum (⚠ frame year, roll-bar meet).
+- [Don Prudhomme](don-prudhomme.md): Van Nuys painter, Greer-Black-Prudhomme, Leong's Hawaiian, Road Kings rickshaw initiation, Greer-Black-Prudhomme, Leong's Hawaiian, Snake vs. Mongoose (⚠ Schiefer record).
 - [Roland Leong](roland-leong.md): "The Hawaiian": Kahuku gas dragsters, Dragmasters, the crash that made him an owner, and Prudhomme (⚠ when they met).
 - Bruce Miller: see [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 

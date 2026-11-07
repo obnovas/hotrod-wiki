@@ -1440,3 +1440,55 @@ highlights:
     added: '2026-11-05'
     eras: [1950s]
     regions: ['Casa Grande, Ariz.']
+
+  - id: garlits-strokers-tea-set
+    headline: After Garlits won the Lake City Safari, his own club told him to retire
+    teaser: The Strokers president said he could never beat the Californians. Garlits kept the slight, and Swamp Rat I was his answer.
+    link: people/don-garlits.md
+    evidence: you can never beat the Californians
+    source_type: [Oral history]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-07'
+    eras: [1950s]
+    regions: ['Tampa, Fla.']
+
+  - id: firebird-hood-in-the-dump
+    headline: Days before Idaho's first Safety Safari, a garbage truck hauled Bill New's hood to the dump
+    teaser: NHRA's Bud Coons wouldn't pass the hoodless deuce at Pocatello, so New's new wide whitewalls went on a buddy's car instead, and those wheels made Hot Rod.
+    link: drag-racing/firebird-raceway-idaho-bootleggers.md
+    evidence: the garbage truck took the hood early the next morning to the valley dump
+    source_type: [Family account, Municipal record]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-07'
+    eras: [1950s]
+    regions: ['Boise, Idaho', 'Pocatello, Idaho']
+
+  - id: beeline-first-reservation-strip
+    headline: '"The first drag strip to be built on an Indian Reservation": the Navajo Times on Beeline, 1963'
+    teaser: A tribal weekly at Window Rock reported the $100,000 dragway on Salt River land, with dual-lane timers and push lanes, and named its president C. Tim Rogers, whom later accounts call Jim.
+    link: drag-racing/beeline-dragway-mesa.md
+    evidence: The first drag strip to be built on an Indian Reservation
+    source_type: [Local news, Municipal record]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-07'
+    eras: [1960s]
+    regions: ['Mesa, Ariz.']
+
+  - id: pocatello-timing-tower-keys
+    headline: In Pocatello's timing tower, she told the fastest racer she'd take his keys if he missed another gear
+    teaser: He missed it, handed them over, and Kathy and Al Steinmetz won over thirty trophies that year before they married. The strip was an old airport runway named for a World War I ace.
+    link: drag-racing/pocatello-mcdougall-field-drag-strip.md
+    evidence: I told him if he missed another gear I would take away his keys
+    source_type: [Oral history, Local history site]
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-07'
+    eras: [1960s]
+    regions: ['Pocatello, Idaho']

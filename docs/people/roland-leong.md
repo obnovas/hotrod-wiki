@@ -58,6 +58,8 @@ related:
 - people/peggy-hart.md
 - drag-racing/palmer-alaska-polar-dragway.md
 - companies/web-of-influence.md
+- people/don-prudhomme.md
+- people/don-garlits.md
 canonical_for: []
 ---
 # Roland Leong: "The Hawaiian," from Kahuku to the Winternationals
@@ -91,6 +93,8 @@ With Prudhomme driving, Leong's Hawaiian won Top Fuel at both the 1965 Winternat
 In 1969 Leong switched to Funny Cars, and the Hawaiian name on their bodies became a draw; Hawaiian Punch later sponsored them.[^sa24] Over 30 years he hired, fired or lost more than 20 drivers. "I hired and fired them, but I'll tell you what, it's easier to make the car run good than to put together a good team."[^bigbook] One of them, Mike Dunn, started on his crew in 1977; Leong introduced him to the woman he married.[^sa24]
 
 He never stopped looking for people from home. Jerry Inouye, a retired Honolulu police officer, met him in the pits at the Winternationals when Leong waved his group over and asked if they were from Hawaii: "I can tell by the way you walk." Inouye ended up working on nitro cars through Leong's introductions.[^sa24] Leong died on Dec. 29, 2023, at 79. He was in the Hawaii Sports Hall of Fame (2020) and the Hawaii Motorsports Hall of Fame, and his mother had saved his Hawaii newspaper clippings, which went into Lou Hart's 2023 biography.[^sa24][^nhra23][^aloha]
+
+*See also:* [Don Prudhomme](don-prudhomme.md), whose Snake career continues on his own page; [Don Garlits](don-garlits.md).
 
 ## Open questions & disputed details
 

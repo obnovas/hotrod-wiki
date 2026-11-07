@@ -27,6 +27,7 @@ people:
 - John Dudak
 - Gary Lee "Red" Greth
 - Lyle Fisher
+- Dorothy Fisher
 - Don Maynard
 - Ted Sitterley
 - Duane Funk
@@ -122,6 +123,8 @@ The team retired the roadster in 1958 for a blown Speed Sport II.[^cf] A Speed S
 
 In 1964 the original Tucson Dragway opened at the northeast corner of Valencia and Houghton roads, with Fisher among its owners and Greth helping to run it, and more than 6,000 people came to the first race.[^ads21] It was a hard place to grow up fast. Phil Minor, one of the young racers Greth mentored, was killed in 1965 at 17 when he lost control of his dragster at 160 mph. "That wounded dad for a long time," Greth's son Kenton told the *Star*.[^ads21] In November 1966 Greth and Fisher booked Evel Knievel, in Tucson waiting for permission to jump the Grand Canyon, to jump ten cars loaned by Bill Breck Dodge at their car show.[^ads21]
 
+The books were kept by a racer. Dorothy Fisher, Lyle Fisher's wife, started drag racing in 1959 and raced on and off into the mid-1960s, in a Chrysler 300, a '29 roadster, a '59 Corvette and an A/S Dodge Charger. She traveled with the Speed Sport roadster's barnstorming tour and, as secretary for Tucson Dragway, took care of "the books, personnel, entries, trophies, pit passes, and concessions." That account comes from a compiled biography site, not yet from a Tucson paper.<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see the bottom of the page">◐</a></sup>[^wdr]
+
 Greth sold display ads for Tucson Newspapers Inc. for 47 years, and his house was a flop house for racers headed west. "I would walk in the living room, stepping over sleeping bodies," his son said.[^ads21] Neighborhood kids learned to weld in his shop. "Every waking moment I had that I was not in school or doing homework, I was at that shop," said Dan Owens, who moved in next door at 6 in 1965.[^ads21] At the strip, a fan swept the stands as a kid to get into the races, "home of the fisher & greath speed sport special."[^hamb08]
 
 By the 1970s the strip drew national meets. Doug Waggoner remembered the AHRA Winternationals there every January, with "about 35,000 spectators every year"; in 1979, 114 Top Comp dragsters tried to qualify for 32 spots, so a second 32-car bracket was added, and he won it.[^dslaz] An airman stationed at Davis-Monthan in 1976 raced a Camaro the Arizona Air National Guard had sponsored in red, white and blue "almost every Saturday night at the old Houghton Road drag strip."[^dslaz]
@@ -150,6 +153,8 @@ Jacome had one more Tucson story, a reminder that in the desert a runway was nev
 
 <a id="q-7" class="hr-q-anchor"></a>**Disputed.** **When did Tucson's new strip open: 1985 or 1997?** The 2021 *Star* says Greth helped get "the current Tucson Dragway opened in 1997."[^ads21] The 2017 blog says that after the old track closed in February 1985, "a new track, Southwestern International Raceway, a 1/4 mile dragstrip, opened shortly after the closing," later renamed Tucson Dragway; the fan's page of about 2007 already calls it Southwestern International Raceway "at the Pima County Fairgrounds."[^dsb][^grc] The same blog says the original strip "was built in 1962, and opened in 1964"; the *Star* gives only the 1964 opening.[^dsb][^ads21] Lead: the *Arizona Daily Star*, 1985–97, and Pima County Fairgrounds records. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
 
+<a id="q-8" class="hr-q-anchor"></a>**Single source so far.** **What did Dorothy Fisher do at Tucson Dragway, and when?** Only the *Speed Queens of the Drag Strip* biography so far says she raced from 1959 and served as the strip's secretary; it gives no dates for that job. A Tucson Dragway program or an *Arizona Daily Star* entry list would confirm it.[^wdr] <a class="hr-q-back" href="#qr-8" title="Back to the story">↩</a>
+
 ### Next leads
 
 The *Arizona Daily Star* and *Tucson Citizen*, 1951–64 (Marana and Davis-Monthan results, the base's decision to close the strip) and 1983–85 (the old strip's closing); the Pima County Sports Hall of Fame's Greth entry; Davis-Monthan's base newspaper; the Tucson Timing Association's rule book; Archive Tucson's full Jacome interview.
@@ -165,3 +170,4 @@ The *Arizona Daily Star* and *Tucson Citizen*, 1951–64 (Marana and Davis-Month
 [^hamb12]: rprice76 and others, "Remembering Tucson Racing / Hot Rod History," The H.A.M.B. (Jalopy Journal forum), 2012–14. https://www.jalopyjournal.com/forum/threads/remembering-tucson-racing-hot-rod-history.739319/ (accessed 2026-11-04)
 [^dsb]: David G. Firestone, "1/4 Mile of Bliss in Tucson," *The Driver Suit Blog*, Feb. 24, 2017. https://thedriversuitblog.com/2017/02/24/14-mile-of-bliss-in-tucson/ (accessed 2026-11-04)
 [^grc]: "Tucson Dragway" (a former Davis-Monthan airman's fan page, ca. 2007), GeoCities archive at oocities.org. https://www.oocities.org/grc46250/tucson.html (accessed 2026-11-04)
+[^wdr]: "1960s: Women Drag Racers of the Second Decade," *Speed Queens of the Drag Strip* (compiled racer biographies). https://benelliman.wixsite.com/women-drag-racers/1960s (accessed 2026-11-07)

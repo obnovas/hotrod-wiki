@@ -71,7 +71,7 @@ Early 1957 racing was sponsored by the Tri-Valley Timing Association under NHRA 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The 1952–58 narrative.** Club names, dates, the Bureau of Reclamation approval and the March of Dimes meet all come from Drag Strip List's Arizona page. Lead: the *Yuma Daily Sun*, 1952–58. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Can the 1952–58 narrative be confirmed in the *Yuma Daily Sun*?** Club names, dates, the Bureau of Reclamation approval and the March of Dimes meet all come from Drag Strip List's Arizona page.[^dslaz] Lead: the *Yuma Daily Sun*, 1952–58. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Open question.** **How far east of Yuma was the Highway 80 strip?** Drag Strip List summarizes period articles that said eight, twelve or fifteen miles, and later notices at milepost fifteen; we have not read those papers ourselves.[^dslaz] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

@@ -47,6 +47,7 @@ related:
 - drag-racing/march-1957-drag-strip-survey.md
 - drag-racing/recreation-1957-pro-and-con.md
 - places/cruising-overview.md
+- drag-racing/firebird-raceway-idaho-bootleggers.md
 canonical_for: []
 ---
 # Twin Falls, Idaho: The Main Avenue "Drag Strip" and the Club That Wanted a Real One (1957–1965)
@@ -111,7 +112,7 @@ For other towns that argued about a strip in the same years, see [What the City 
 
 **Visual references (external):** the *Times-News* pages themselves, linked in the footnotes, are scans on the Internet Archive.
 
-*See also:* [Portsmouth, Ohio, 1956](../drag-racing/portsmouth-kustom-kouriers.md); [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md), clubs of the same years one state north; [Dragging Main](dragging-main.md).
+*See also:* [Portsmouth, Ohio, 1956](../drag-racing/portsmouth-kustom-kouriers.md); [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md), clubs of the same years one state north; [Dragging Main](dragging-main.md); [Firebird Raceway & the Bootleggers](../drag-racing/firebird-raceway-idaho-bootleggers.md), the Treasure Valley strip Bill New opened near Eagle in 1968; [Pocatello's McDougall Field strip](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
 
 ## Open questions & disputed details
 

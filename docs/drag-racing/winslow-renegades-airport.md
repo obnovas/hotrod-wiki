@@ -78,9 +78,9 @@ The Old Trails Museum's Route 66 centennial panel, developed with the Historic R
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The 1959–60 race calendar and the 5,700-foot figure.** Drag Strip List only. Lead: the *Winslow Mail*, 1958–60. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Can the 1959–60 race calendar and the 5,700-foot figure be confirmed?** Drag Strip List only.[^dslaz] Lead: the *Winslow Mail*, 1958–60. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Open question.** **What ended the strip in 1985, and was it NHRA- or AHRA-sanctioned in its later years?** The museum panel gives the last-event year without a cause; Drag Strip List does not detail the 1960s–80s. Lead: *Winslow Mail* / *Painted Desert Tribune*, 1984–86; NHRA track listings. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Open question.** **What ended the strip in 1985, and was it NHRA- or AHRA-sanctioned in its later years?** The museum panel gives the last-event year without a cause; Drag Strip List does not detail the 1960s–80s.[^otm][^dslaz] Lead: *Winslow Mail* / *Painted Desert Tribune*, 1984–86; NHRA track listings. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 

@@ -83,7 +83,7 @@ The nearest sanctioned strips for that crowd were up the road at [Sanford, Maine
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Birth date.** WBZ and *Radio Ink* give age 93 at death on June 26, 2020, and a would-be 94th birthday of August 5, 2020, which implies a birth date of August 5, 1926; we have not read a birth record or contemporary birth notice.[^wbz][^ri] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Was he born on August 5, 1926?** WBZ and *Radio Ink* give age 93 at death on June 26, 2020, and a would-be 94th birthday of August 5, 2020, which implies a birth date of August 5, 1926; we have not read a birth record or contemporary birth notice.[^wbz][^ri] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ### Next leads
 
