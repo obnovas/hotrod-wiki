@@ -33,6 +33,8 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [The KARBS and the Strip on Litchfield Road (Phoenix's West Side)](phoenix-west-side-karbs-litchfield-road.md): a teen club's '39 Ford at the 1955 Perryville Nationals, a reopened strip with a guard rail, prize shirts and a jet, 1953–63.
 - [March of Dimes at the Castroville Airfield (Medina County, Tex.)](medina-county-castroville-drags.md): a Devine club asks for a strip, an Ardun-Merc wins before 2,500, and a Hondo mother counts trophies, 1956–57.
 - [Oranges for the Record: The Jaycees' Drag Strip at Brooksville (Fla.)](brooksville-jaycees-drag-strip.md): a club called the Spooks, Garlits's world records on an old Army runway, a box of oranges and a car club that didn't get the strip, 1956–62.
+- [A Cow Pasture in the Swamp (Golden Triangle, Oldsmar, Fla.)](golden-triangle-oldsmar.md): the Blockbusters' pasture strip, a flagger who sent Garlits back for jumping, later called Twin City Dragway (⚠ Swamp Rat name; ◐ dates).
+- [The Super Track That Outlasted Its Lease (Orange County International Raceway)](orange-county-international-raceway.md): opened August 5, 1967, in Irvine; McEwen's 7.02 on opening day; The Last Drag Race October 29–30, 1983; Charlie Allen then built Firebird in Chandler.
 - [Easter at Paradise: The Paradise Drag Strip (Calhoun, Ga.)](paradise-drag-strip-calhoun.md): a 1961 Easter crash on a legal Sunday strip, an owner who coached a Summerville club, and families still racing there decades later, 1961–2016.
 - [For Parents Only: Harmon Raceway (Monroe, La.)](harmon-raceway-monroe.md): a full-page ad answering parents, NHRA sanction, night racing, a divisional and funny-car match races, 1964–67.
 - [The Track That Milk Built: Green Valley Raceway (Smithfield, Tex.)](green-valley-raceway-smithfield.md): a dairy farm strip, 13 AHRA nationals, Evel Knievel and a town that ran out of patience with the noise, 1960–86.
@@ -64,6 +66,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [A Rainout and a Blown Transmission (Perryville)](perryville-marsh-airstrip.md): the Southwest Timing Association's Luke auxiliary field finishes the 1955 NHRA Nationals; Calvin Rice wins after a clutch worked with a toe.
 - [Renegades on the Taxiway (Winslow)](winslow-renegades-airport.md): city-council leave for an airport drag strip on Route 66, 1958–85.
 - [A Lease on the Beeline (Mesa)](beeline-dragway-mesa.md): "the first drag strip to be built on an Indian Reservation" in 1963, and a decade of AHRA Winternationals (⚠ builder's name; closed 1973/75/79).
+- [Not the Idaho One (Firebird International Raceway, Chandler)](firebird-international-raceway-chandler.md): Charlie Allen's Gila River complex after Orange County closed; first NHRA national in 1985; renamed Wild Horse Pass, then Firebird again (⚠ opened 1983 or early 1984).
 
 - [Built by Racers (Epping, N.H.)](new-england-dragway-epping.md): New England's clubs leave the borrowed airports, carry used bleachers to a mile of New Hampshire woods in 1966, and in 2021 vote not to sell.
 - [Somebody Should Christen It (Winterport, Maine)](winterport-fernald-field-maine.md): four Sanford racers talk a town into lending its old airfield in 1967; Norridgewock's one summer; a 2025 lease fight.

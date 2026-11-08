@@ -13,11 +13,13 @@ years:
 region: Southwest
 states:
 - Texas
+- Arizona
 cities:
 - Fort Worth, Texas
 - Dickinson, Texas
 - Dallas, Texas
 - Baytown, Texas
+- Chandler, Arizona
 people:
 - Gene Snow
 - L.G. Melton
@@ -28,6 +30,7 @@ people:
 - Bob Brooks
 - Don Gay
 - Carl Gay
+- Dick LaHaie
 companies:
 - Logghe Stamping
 - Revell
@@ -36,6 +39,7 @@ clubs: []
 strips:
 - Houston Freeway Dragstrip
 - Houston Raceway Park
+- Firebird International Raceway (Chandler)
 tags:
 - funny-cars
 - dragsters
@@ -47,6 +51,7 @@ related:
 - companies/logghe-stamping.md
 - places/texas.md
 - people/eddie-schartman.md
+- drag-racing/firebird-international-raceway-chandler.md
 canonical_for:
 - snow-200-mph
 ---
@@ -94,13 +99,15 @@ In **1971** Snow ran one of the first multicar teams, with two mini-Chargers and
 
 He left racing after 1978, blaming the gas crisis and poor seasons, and returned in **Top Fuel in 1981**. With Bob Brooks at AFT he developed a direct-drive Top Fuel setup.[^top50]
 
+At the first NHRA national event at [Firebird International Raceway](../drag-racing/firebird-international-raceway-chandler.md) outside Phoenix, the 1985 Fallnationals, he won Top Fuel. *National Dragster* later wrote that he "shocked everyone by winning his first Top Fuel title in Phoenix after barely making the field during Saturday's qualifying," running a 5.628 at 254.95 mph to defeat Dick LaHaie's 5.635 at 241.93.[^nhra85]
+
 On **Oct. 6, 1988, at Houston Raceway Park, Baytown**, he ran a **4.997/279.06** on his first pass at the new track, the first sub-five-second run at an NHRA event. "It was neat, it was fun and we've been trying for a long time to achieve this performance," he told UPI.[^upi] (Houston Raceway Park was co-founded by the Gay family. See [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md).)
 
 He retired after a crash at the 1992 Dallas national event and returned in 1997 with an A/Fuel dragster run "on a hobby basis."[^top50]
 
 Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> This page covers his racing record.
 
-*See also:* [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), [Texas](../places/texas.md), [Eddie Schartman](eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md).
+*See also:* [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), [Texas](../places/texas.md), [Eddie Schartman](eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Firebird International Raceway (Chandler)](../drag-racing/firebird-international-raceway-chandler.md), where he won the first Phoenix national in Top Fuel.
 
 ## Open questions & disputed details
 
@@ -155,6 +162,7 @@ The pass itself is not in dispute. The date is.
 
 [^top50]: John Jodauga, "No. 26: Gene Snow," NHRA 50th Anniversary Top 50 Drivers (2001). Accessed 2026-10-15. https://www.nhra.net/50th/top50/G_Snow26.html
 [^nd16]: Phil Burgess, "1970: A 'Super' season for Funny Car," NHRA.com, Mar 4, 2016. Accessed 2026-10-15. https://www.nhra.com/news/2016/1970-super-season-funny-car
+[^nhra85]: Alex Waldron, "1985 Fallnationals," NHRA.com, Feb. 25, 2016. Accessed 2026-11-08. https://www.nhra.com/news/2016/1985-fallnationals
 [^hr69]: "Rambunctious," *Hot Rod*, June 1969 (photos Don Green), web reprint Jan 1, 2023. Accessed 2026-10-15. https://www.hotrod.com/features/rambunctious-june-1969-982-684-84-1
 [^upi]: UPI, "Top Fuel driver Gene Snow of Ft. Worth, Texas...," Baytown, Tex., Oct 6, 1988. Accessed 2026-10-15. https://www.upi.com/Archives/1988/10/06/Top-Fuel-driver-Gene-Snow-of-Ft-Worth-Texas/4826592113600/
 [^wp]: Wikipedia, "Gene Snow" (secondary; legal-history section cites Brett Shipp, "Questions over Gene Snow's sex assault case," WFAA/TXCN, May 21, 2007, not opened by us). Accessed 2026-10-15. https://en.wikipedia.org/wiki/Gene_Snow

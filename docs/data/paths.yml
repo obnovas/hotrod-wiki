@@ -509,13 +509,19 @@ paths:
         why: "Across the state, a dead flier's airport runway becomes eastern Idaho's strip, and the timing-tower clerk marries the fastest racer."
       - page: people/don-garlits.md
         why: "Florida's answer to the California slight: a Tampa bookkeeper who made them eat a path of beer cans."
+      - page: drag-racing/golden-triangle-oldsmar.md
+        why: "A cow-pasture strip in his Tampa backyard, where a skinny flagger sent him back for jumping the flag."
       - page: people/don-prudhomme.md
         why: "The California driver the other regions were up against: a Van Nuys painter who became the Snake, via Hawaii and Hot Wheels."
+      - page: people/keith-black.md
+        why: "The Huntington Park engine builder behind Greer-Black-Prudhomme, who started by taking the family car apart in the driveway."
+      - page: people/tom-mcewen.md
+        why: "The Mongoose: he beat Prudhomme at Lions in 1964, then turned a Mattel deal into a living-room rivalry."
 
   - id: southwest-airport-strips
     letter: O
-    title: "Arizona Strips beyond Phoenix: Casa Grande, Yuma, Winslow and the Beeline (1957–1985)"
-    purpose: "Three town and wartime airstrips under local timing associations, then Beeline, a purpose-built strip on Salt River land."
+    title: "Arizona Strips beyond Phoenix: Casa Grande, Yuma, Winslow, the Beeline and Chandler's Firebird (1957–2024)"
+    purpose: "Three town and wartime airstrips, Beeline on Salt River land, then Charlie Allen's Firebird on Gila River land."
     extra: true
     steps:
       - page: drag-racing/casa-grande-municipal-airport-cgta.md
@@ -526,3 +532,7 @@ paths:
         why: "On Route 66, the Renegades lease a municipal-airport taxiway in 1958; the last event is 1985."
       - page: drag-racing/beeline-dragway-mesa.md
         why: "East of Phoenix, a purpose-built AHRA Winternationals stop on Salt River land, from 1963. Not an airport strip."
+      - page: drag-racing/orange-county-international-raceway.md
+        why: "The Irvine Super Track Allen ran until its Last Drag Race in 1983, then used as the model for what he built next."
+      - page: drag-racing/firebird-international-raceway-chandler.md
+        why: "South of Chandler, on Gila River land: Charlie Allen's later Valley national-event track, not the Idaho Firebird."

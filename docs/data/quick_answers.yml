@@ -716,6 +716,36 @@ themes:
         link: drag-racing/beeline-dragway-mesa.md
         also: [drag-racing/phoenix-west-side-karbs-litchfield-road.md]
         flag: [drag-racing/beeline-dragway-mesa.md#q-1, drag-racing/beeline-dragway-mesa.md#q-2]
+      - id: firebird-chandler-not-idaho
+        q: Are there two Firebird drag strips?
+        a: >-
+          Yes. Firebird International Raceway sits on Gila River land south of Chandler, Arizona, built by
+          Charlie Allen after Orange County International Raceway closed, and it is not the Firebird Raceway
+          in Eagle, Idaho. Sources say Allen, Dick Scott and Bill Guptill unveiled it in 1983, or that it
+          opened in early 1984 (⚠ see Open questions); its first NHRA national event was the 1985
+          Fallnationals, and it was renamed Firebird Motorsports Park in December 2023.
+        link: drag-racing/firebird-international-raceway-chandler.md
+        also: [drag-racing/firebird-raceway-idaho-bootleggers.md, drag-racing/orange-county-international-raceway.md]
+        flag: drag-racing/firebird-international-raceway-chandler.md#q-1
+      - id: what-was-ocir
+        q: What was Orange County International Raceway?
+        a: >-
+          A strip in Irvine, California, that opened to the public on August 5, 1967, billing itself as
+          "the Super Track." Tom McEwen set the first track record that day, a 7.02, then red-lighted in the
+          final. Its Last Drag Race ran from October 29 into the morning of October 30, 1983.
+        link: drag-racing/orange-county-international-raceway.md
+        also: [people/tom-mcewen.md, drag-racing/firebird-international-raceway-chandler.md]
+      - id: what-was-golden-triangle
+        q: What was Golden Triangle Drag Strip?
+        a: >-
+          A Blockbusters club strip in an Oldsmar, Florida, cow pasture, remembered by two flaggers as sitting
+          between Tampa, Clearwater and St. Petersburg. Don Garlits was a regular there for $100 top-eliminator
+          purses; one winter a skinny flagger sent him back for jumping the start against Chris Karamesines.
+          A later note dated newspaper coverage through 1975 and a 1959 photograph of Art Malone (◐ see Open
+          questions), and sources disagree on whether the swamp named him Swamp Rat (⚠ see Open questions).
+        link: drag-racing/golden-triangle-oldsmar.md
+        also: [people/don-garlits.md, people/setto-postoian.md]
+        flag: [drag-racing/golden-triangle-oldsmar.md#q-2, drag-racing/golden-triangle-oldsmar.md#q-1]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1035,8 +1065,29 @@ themes:
           with Tom McEwen he turned a Mattel Hot Wheels deal into Funny Car fame and won four straight Funny
           Car titles, 1975 through 1978 (⚠ win-loss record; see Open questions).
         link: people/don-prudhomme.md
-        also: [people/roland-leong.md, people/don-garlits.md]
+        also: [people/roland-leong.md, people/tom-mcewen.md]
         flag: people/don-prudhomme.md#q-2
+      - id: who-was-keith-black
+        q: Who was Keith Black?
+        a: >-
+          An engine builder from Huntington Park, California, who started with boat engines in his backyard,
+          powered the Greer-Black-Prudhomme dragster and later made the Keith Black aluminum racing block
+          with Bob Tarozzi. Hall-of-fame and family accounts split on whether he was born in 1926 or 1927
+          (⚠ see Open questions).
+        link: people/keith-black.md
+        also: [people/don-prudhomme.md, people/roland-leong.md]
+        flag: people/keith-black.md#q-1
+      - id: who-was-tom-mcewen
+        q: Who was Tom "the Mongoose" McEwen?
+        a: >-
+          A Pensacola-born racer who, on September 12, 1964, at Lions, beat Don Prudhomme two straight in
+          Ed Donovan's Special and was nicknamed the Mongoose. He and Prudhomme formed Wildlife Racing; the
+          Mattel Hot Wheels deal ran from 1970 through 1972. He won the 1978 U.S. Nationals Funny Car final
+          against Prudhomme after his son's death, and sources disagree on whether he died June 10 or
+          June 11, 2018 (⚠ see Open questions).
+        link: people/tom-mcewen.md
+        also: [people/don-prudhomme.md, drag-racing/orange-county-international-raceway.md]
+        flag: people/tom-mcewen.md#q-1
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:

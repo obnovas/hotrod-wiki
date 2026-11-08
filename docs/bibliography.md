@@ -712,6 +712,30 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [org] Phil Burgess, "NHRA national event history: A look at the tracks and stories that drove the sport," NHRA.com, Aug. 1, 2025. https://www.nhra.com/news/2025/nhra-national-event-history-look-tracks-and-stories-drove-sport
 - [org] Phil Burgess, "Legendary NHRA car owner Roland Leong, 'the Hawaiian,' passes away," NHRA.com, Dec. 29, 2023; "A final 'aloha' to 'the Hawaiian'," Jan. 5, 2024; "The big book of drivers who wheeled Roland Leong's Hawaiian entries," Jan. 12, 2024. https://www.nhra.com/news/2023/legendary-nhra-car-owner-roland-leong-hawaiian-passes-away
 
+## Round 35 additions (Keith Black, Tom McEwen, Chandler Firebird, OCIR, Golden Triangle)
+- [hof] Neil Britt and Chris Martin, "Keith Black," Motorsports Hall of Fame of America (class of 1995). https://www.mshf.com/hall-of-fame/inductees/keith-black.html
+- [family] Daniel Strohl, "Keith Black," Hemmings, Sept. 23, 2018 (updated March 26, 2024; Ken Black interview). https://www.hemmings.com/stories/keith-black/
+- [museum] "Keith Black," Don Garlits Museum of Drag Racing Hall of Fame (class of 1992). https://garlits.com/hall-of-fame/keith-black/
+- [trade] "Keith Black," SEMA Hall of Fame (class of 1986). https://www.sema.org/hof/1986/keith-black
+- [hof] Greg Sharp, "Tom McEwen," Motorsports Hall of Fame of America (class of 2001). https://www.mshf.com/hall-of-fame/inductees/tom-mcewen.html
+- [trade] "Legendary Top Fuel and Funny Car racer Tom \"the Mongoose\" McEwen passes away," NHRA.com, June 11, 2018. https://www.nhra.com/news/2018/legendary-top-fuel-and-funny-car-racer-tom-mongoose-mcewen-passes-away
+- [mag] Kurt Ernst, "Tom 'The Mongoose' McEwen, 1937-2018," Hemmings, June 12, 2018. https://www.hemmings.com/stories/tom-the-mongoose-mcewen-1937-2018/
+- [oral] V. Moore, "Tom 'Mongoose' McEwen," Moore Good Ink, June 12, 2018. https://mooregoodink.com/tom-mongoose-mcewen-1937-2018/
+- [trade] Phil Burgess, "Force and Phoenix: Racing together since 1984, and looking for much more," NHRA.com, Feb. 25, 2022. https://www.nhra.com/news/2022/force-and-phoenix-racing-together-1984-and-looking-much-more
+- [local] "A Brief History of Firebird," *Arizona Driver*, Nov.–Dec. 2007, p. 17. http://www.arizonadrivermagazine.com/PDF_GenFeatures/PDF_Motorsports/AZD6-6_ND07_firebird.pdf
+- [local] Allison Hurtado, "New management has big plans for Firebird Raceway," *East Valley Tribune*, July 27, 2013. https://www.eastvalleytribune.com/money/new-management-has-big-plans-for-firebird-raceway/article_59a41770-f65e-11e2-80a5-001a4bcf887a.html
+- [mag] Jim Donnelly, "Firebird International Raceway to rise from the ashes?" Hemmings, Jan. 4, 2013. https://www.hemmings.com/stories/firebird-international-raceway-to-rise-from-the-ashes/
+- [local] Bob McClay, "NHRA hopes to keep Firebird Raceway open," KTAR, Jan. 3, 2013. https://ktar.com/arizona-news/nhra-hopes-to-keep-firebird-raceway-open/67899/
+- [trade] Alex Waldron, "1985 Fallnationals," NHRA.com, Feb. 25, 2016. https://www.nhra.com/news/2016/1985-fallnationals
+- [local] "Wild Horse Pass Motorsports Park rebrands to Firebird Motorsports Park," AZ Big Media, Dec. 8, 2023. https://azbigmedia.com/lifestyle/wild-horse-pass-motorsports-park-rebrands-to-firebird-motorsports-park/
+- [trade] Madelyn Marconi, "Renamed Firebird Motorsports Park Back in Business For Years to Come," Dragzine, Dec. 11, 2023. https://www.dragzine.com/news/renamed-firebird-motorsports-park-back-in-business-for-years-to-come/
+- [trade] "Wild Horse Rebranded Firebird Motorsports Park!" NHRA Jr. Dragster, Dec. 7, 2023. https://jrdragster.nhra.com/post/wild-horse-rebranded-firebird-motorsports-park
+- [trade] Phil Burgess, "The rise and fall of Orange County Int'l Raceway," NHRA.com, Oct. 31, 2008. https://www.nhra.com/news/2008/rise-and-fall-orange-county-int-l-raceway
+- [trade] Phil Burgess, "OCIR's Last Drag Race: The day the music died," NHRA.com, Oct. 29, 2008. https://www.nhra.com/news/2008/ocir-s-last-drag-race-day-music-died
+- [oral] Bob Nugent, "In the beginning," HotrodsOnline (Golden Triangle memoir). http://www.hotrodsonline.com/articles/Golden%20Triangle/GoldenTriangle.html
+- [forum] "History – Golden Triangle drag strip," The H.A.M.B. (thread started May 1, 2011). https://www.jalopyjournal.com/forum/threads/golden-triangle-drag-strip.585906/
+- [club] "About – STROKERS CAR CLUB" (revived Tampa club history page). https://stokerstampa.weebly.com/about.html
+
 ## Round 34 additions (Garlits, Prudhomme, Beeline, Firebird, Pocatello)
 - [local] Susan Smiley-Height, "'Big Daddy' Don Garlits, one of the winningest drag racers of all time, has no plans to slow down as he turns 90 years old," *Ocala Gazette*, Jan. 7, 2022. https://www.ocalagazette.com/big-daddy-don-garlits-one-of-the-winningest-drag-racers-of-all-time-has-no-plans-to-slow-down-as-he-turns-90-years-old/
 - [oral] Don Garlits, "Don Garlits in the beginning," Hemmings, Sept. 23, 2018. https://www.hemmings.com/stories/don-garlits-in-the-beginning/

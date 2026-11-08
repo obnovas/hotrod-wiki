@@ -28,6 +28,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [*Phoenix New Times*, 2012](https://www.phoenixnewtimes.com/arts-culture/beeline-dragway-a-decaying-blast-from-phoenixs-racing-past-6565358/) → the timing tower, the Saguaro Automotive sign and a 1975 closing ⚠ → [Beeline](../drag-racing/beeline-dragway-mesa.md).
 - [*Ocala Gazette*, 2022](https://www.ocalagazette.com/big-daddy-don-garlits-one-of-the-winningest-drag-racers-of-all-time-has-no-plans-to-slow-down-as-he-turns-90-years-old/) (Garlits at 90, hometown interview) → his first trophy and Pat's part in the museum → [Don Garlits](../people/don-garlits.md).
 - [*Idaho State Journal*, 2020](https://www.uptownbooks.com/history-articles/the-history-of-pocatellos-airfields) (Justin Smith's history column, author's republication) → McDougall Field's namesake and its runway turned drag strip → [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
+- Round 35 additions, Arizona Valley coverage of Chandler's Firebird (not the Idaho strip): [*Arizona Driver*, Nov.–Dec. 2007](http://www.arizonadrivermagazine.com/PDF_GenFeatures/PDF_Motorsports/AZD6-6_ND07_firebird.pdf) (local drivers' magazine feature, "A Brief History of Firebird") → Allen, Scott and Guptill "unveiled" the Gila River complex in 1983 ⚠ → [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md); the *East Valley Tribune* (July 27, 2013) → Dick Hahne and the Wild Horse Pass lease; KTAR (Jan. 3, 2013) → Allen's statement that the Community would not renew; AZ Big Media (Dec. 8, 2023) → the Firebird Motorsports Park rename.
 
 - [Escanaba Daily Press](https://archive.org/details/escanaba-daily-press-1955-04-23) (Michigan, Jul 1954, Jan, Apr and May 1955; scanned OCR) → the Drag-n's Auto Club's founding, rules and strip plans, plus a 1954 wire feature on the ATAA → [Escanaba](../drag-racing/escanaba-dragns.md), [Half Day](../drag-racing/half-day-ataa-maremont.md).
 - [Decatur Daily Democrat](https://newspapers.library.in.gov/?a=d&d=DCDD19560912.1.7), [The Daily Banner](https://newspapers.library.in.gov/?a=d&d=TDB19541209-01.1.5) (Greencastle) and [Syracuse-Wawasee Journal](https://newspapers.library.in.gov/?a=d&d=SWWJ19580123.1.7) (Indiana, 1953–58; Hoosier State Chronicles OCR) → Decatur's Road Runners, a Syracuse club, a 1954 book review and a Dodge safety column → [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md).
@@ -96,6 +97,8 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Southern Foodways Alliance](https://www.southernfoodways.org/oral-history/summer-avenue-memphis/) (Summer Avenue, Memphis oral history project, 2021) → the avenue's early chain businesses (the first Holiday Inn, 1952) → [Summer Avenue, Memphis](../places/summer-avenue-memphis.md).
 - [Regional Oral History Office, UC Berkeley](https://archive.org/details/longtimeblackfam00willrich) (Harry and Marguerite Williams of Richmond, Calif., interviewed 1985) → kids "dragging the main" on San Pablo and in Richmond in the 1950s → [Dragging Main](../places/dragging-main.md).
 - Don Garlits's first-person Hemmings pieces ([beginnings](https://www.hemmings.com/stories/don-garlits-in-the-beginning/), [museum](https://www.hemmings.com/stories/starting-the-drag-racing-museum/), 2018) and the *Hot Rod* Drag Safari oral history (2009) → the Strokers' tea set, the Lake City or Jacksonville roll bar ⚠ → [Don Garlits](../people/don-garlits.md).
+- Bob Nugent, ["In the beginning"](http://www.hotrodsonline.com/articles/Golden%20Triangle/GoldenTriangle.html) (HotrodsOnline memoir, undated) → a skinny flagger sending Garlits back at Golden Triangle → [Golden Triangle](../drag-racing/golden-triangle-oldsmar.md).
+- Alan Reinhart to Dragzine (Dec. 11, 2023) → "Firebird International Raceway changed the direction of my life" → [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md).
 - [*Speed Queens of the Drag Strip*, 1960s](https://benelliman.wixsite.com/women-drag-racers/1960s) (compiled women racers' biographies with quotes) → Kathy Steinmetz in the Pocatello tower, Dorothy Fisher at Tucson, Sharon Lee Kornyei in Hawaii, all ◐ → [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md), [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md), [Kahuku](../drag-racing/kahuku-point-hawaii-drag-strip.md).
 
 ### Club newsletters, club histories and club-run pages
@@ -106,6 +109,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Gopher State Timing Association history](https://www.gstarod-custom.com/gsta-history) → how Twin Cities cruising led to street races and the clubs' response → [Lake Street & University](../places/lake-street-university.md).
 - [Memphis Rodders](http://www.memphisrodders.com/) (club history) → the club's 1947 start and a 1952 exhibit photo, both flagged ◐ → [Memphis](../places/memphis.md).
 - [Firebird Raceway family history: Bill New (2020)](https://firebirdonline.com/news/bill-new-the-early-1950s/) and [Remembering Roger Worley (2022)](https://firebirdonline.com/news/remembering-roger-worley/) (the Bootleggers' ledger, saved by Gale Sasser) → the club's founding, the hood in the dump and the Pocatello Safari → [Firebird](../drag-racing/firebird-raceway-idaho-bootleggers.md), [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
+- [Strokers Car Club, Tampa, "About"](https://stokerstampa.weebly.com/about.html) (revived club's own page) → Golden Triangle listed among early central-Florida strips with Henderson Field, Brooksville and Zephyrhills → [Golden Triangle](../drag-racing/golden-triangle-oldsmar.md).
 
 ### Municipal and police records
 - [FBI Law Enforcement Bulletin, Dec 1951](https://leb.fbi.gov/file-repository/archives/december-1951.pdf) (Pomona's chief of police writing for other police) → the point system, the Officers Club rooms, the Fontana lease → [Pomona](../drag-racing/pomona-choppers-fontana.md).
@@ -131,6 +135,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Just A Car Guy, "Bill Campbell, the quiet engineer partner…"](https://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html) (2023; an email from Campbell's daughter, quoted) → the $1,000 shifter prize and her account of the rescue tool, both flagged ◐ → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Kustomrama, Jack Engle](https://kustomrama.com/wiki/Jack_Engle) (photos and captions courtesy Mark Engle) → the homemade cam-grinder story and "he and Isky both bought their first cams from Ed Winfield" → [Jack Engle](../people/jack-engle.md).
 - [JR Thompson's Gasser Reunion page](http://www.jrthompson.net/gasserreunionchuckfinders.html) (includes "Farewell, Chuck Finders" by his son) → Chuck Finders's racing start and shop, told by his son (family account, ◐) → [The Ohio Gassers](../places/ohio-gassers.md).
+- Ken Black, interviewed by Daniel Strohl for [Hemmings, Sept. 23, 2018](https://www.hemmings.com/stories/keith-black/) → the driveway teardown, "I put a driver in it," and the shop years → [Keith Black](../people/keith-black.md).
 
 ### Local history sites, historical societies and blogs
 - [Bullitt County History Museum, *Memories*](https://bullittcountyhistory.org/memories/dragrace.html) (David Strange's 2012 *Courier-Journal* column, archived with photos and additions by the county genealogical society) → the farmer-printer, the sheriff and seven thousand people on a rock road → [Cedar Creek](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md).
@@ -155,6 +160,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - Round 18 additions: *The Laurel Leaf* (Franklin High, Franklin, N.C., 1957 and 1958; North Carolina Digital Heritage Center scans), Scottsbluff High (Neb.) 1979 and Hays High (Kan.) 1987 (Classmates.com scans) → [Dragging Main](../places/dragging-main.md).
 
 ### Forum recollections
+- [H.A.M.B., "History – Golden Triangle drag strip"](https://www.jalopyjournal.com/forum/threads/golden-triangle-drag-strip.585906/) (2011–2021; a flagger, a *Drag Strip List* editor and a later motorcycle racer) → the Blockbusters, Twin City nights, Malone 1959 photograph ◐ → [Golden Triangle](../drag-racing/golden-triangle-oldsmar.md).
 - [BangShift, Milton Speedway features](https://bangshift.com/general-news/the-mysterious-and-overgrown-footprint-of-milton-speedway/) (2013–14; readers' firsthand comments from spectators and racers) → [Milton, Vt.](../drag-racing/milton-speedway-vermont.md); [DragStripList.com, Hawaii memories](https://www.dragstriplist.com/hi) (an airman's 1956–58 recollection, Roland Leong, a racer's daughter) → [Kahuku](../drag-racing/kahuku-point-hawaii-drag-strip.md); [*Living in the Past*](https://denise-livinginthepast.blogspot.com/2024/03/from-photo-archives-compton-family-of.html) (a family's slide collection, 1958–59) → [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md).
 - [H.A.M.B., "Charlestown r . I dragway 1956-1964"](https://www.jalopyjournal.com/forum/threads/charlestown-r-i-dragway-1956-1964.831574/) (2013–14; racers, a sailor and members' sons, with a 1956 club photograph) and the [Dover Drag Strip forum, "Charlestown 60's"](https://doverdragstrip.com/forums/topic/charlestown-60-s/) (2011) → the runway, the clubs, the end → [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md).
 - [H.A.M.B., "Chester Drag Strip"](https://www.jalopyjournal.com/forum/threads/chester-drag-strip.753799/) (2012–25; Frank Spittle's interviews with the airport manager, racers and a club president, plus programs, trophies and clippings) → [Chester](../drag-racing/chester-drag-strip-south-carolina.md). [H.A.M.B., "Thunderbird Raceway- Henderson, Nevada circa 1960"](https://www.jalopyjournal.com/forum/threads/thunderbird-raceway-henderson-nevada-circa-1960.591313/) (2011–22) → the Henderson strip in its regulars' words → [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md). [H.A.M.B., "NHRA Junior Stock," p. 169](https://www.jalopyjournal.com/forum/threads/nhra-junior-stock.201085/page-169) (2010) → Fort Knox GIs at "Bullitt County" → [Cedar Creek](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md).
@@ -198,6 +204,18 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 35 status
+| Archive | Round 35 status |
+|---|---|
+| Find a Grave (Keith Black) | HTTP 403; not used. |
+| Motorsport Memorial | HTTP 403; not used. |
+| DodgeGarage Keith Black feature | Fetch returned the news hub, not the article; the shop-address snippet was not used. |
+| *Arizona Republic* / azcentral (2013 lease; 2022 and 2024 Firebird stories) | Paywall (HTTP 402); not bypassed. Hemmings and KTAR quoted parts of the 2013 coverage. |
+| *Phoenix Business Journal* | Paywalled teaser only. |
+| *Post Register* (Idaho Falls, Sage Raceway) | HTTP 429; not read. A Sage Raceway page was not written. |
+| *Idaho State Journal* period pages / NewspaperARCHIVE | Not readable this round. |
+| USPTO / Google Patents (Keith Black) | No racing-engine patent by Keith Black found. |
 
 ### Round 34 status
 | Archive | Round 34 status |

@@ -78,6 +78,8 @@ related:
 - drag-racing/kahuku-point-hawaii-drag-strip.md
 - drag-racing/quaker-city-salem.md
 - places/van-nuys.md
+- people/keith-black.md
+- people/tom-mcewen.md
 canonical_for: []
 ---
 # Don Prudhomme: The Snake, from Van Nuys Body Shops to the Hawaiian and Hot Wheels (1941– )
@@ -116,7 +118,7 @@ He returned to Top Fuel in 1990, called 1994 the Final Strike tour, and retired 
 
 The Hawaii friendship that started the national career is told in full on [Roland Leong](roland-leong.md). The other Don of that generation is on [Don Garlits](don-garlits.md).
 
-*See also:* [Roland Leong](roland-leong.md); [Kahuku Point](../drag-racing/kahuku-point-hawaii-drag-strip.md); [Van Nuys](../places/van-nuys.md); [Quaker City](../drag-racing/quaker-city-salem.md), where he won a four-car Funny Car show at 213 mph in July 1977.
+*See also:* [Roland Leong](roland-leong.md); [Keith Black](keith-black.md); [Tom McEwen](tom-mcewen.md); [Kahuku Point](../drag-racing/kahuku-point-hawaii-drag-strip.md); [Van Nuys](../places/van-nuys.md); [Quaker City](../drag-racing/quaker-city-salem.md), where he won a four-car Funny Car show at 213 mph in July 1977.
 
 ## Open questions & disputed details
 

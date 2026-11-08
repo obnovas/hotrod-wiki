@@ -74,6 +74,9 @@ related:
 - drag-racing/lake-butler-mid-state-timing-association.md
 - drag-racing/detroit-cordova.md
 - people/don-prudhomme.md
+- people/keith-black.md
+- people/tom-mcewen.md
+- drag-racing/golden-triangle-oldsmar.md
 - people/setto-postoian.md
 - drag-racing/chester-drag-strip-south-carolina.md
 - drag-racing/beeline-dragway-mesa.md
@@ -123,7 +126,7 @@ In 1976, during a week off between two races in England, the Garlitses toured En
 
 Florida's airport years (Zephyrhills, Lake City, MacDill, [Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md), and the Mid-State Timing Association's fight at [Lake Butler](../drag-racing/lake-butler-mid-state-timing-association.md)) are the hometown ground under the national legend.
 
-*See also:* [Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md), where the Jaycees handed him oranges after a record; [Lake Butler](../drag-racing/lake-butler-mid-state-timing-association.md), for the Florida airport circuit he remembered; [Detroit & Cordova](../drag-racing/detroit-cordova.md), site of the 1957 Cook & Bedwell upset; [Beeline Dragway](../drag-racing/beeline-dragway-mesa.md); [Don Prudhomme](don-prudhomme.md), the other Don of his generation.
+*See also:* [Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md), where the Jaycees handed him oranges after a record; [Lake Butler](../drag-racing/lake-butler-mid-state-timing-association.md), for the Florida airport circuit he remembered; [Golden Triangle](../drag-racing/golden-triangle-oldsmar.md), the Oldsmar pasture strip a flagger remembered as his backyard; [Detroit & Cordova](../drag-racing/detroit-cordova.md), site of the 1957 Cook & Bedwell upset; [Beeline Dragway](../drag-racing/beeline-dragway-mesa.md); [Don Prudhomme](don-prudhomme.md); [Keith Black](keith-black.md); [Tom McEwen](tom-mcewen.md), who watched *Star Trek* with him after the Lions explosion.
 
 ## Open questions & disputed details
 

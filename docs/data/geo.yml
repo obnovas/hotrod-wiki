@@ -230,12 +230,14 @@ places:
   'Hope, Arkansas': {lat: 33.6682, lon: -93.5889, precision: town, source: 'Census Gazetteer 2024: Hope city'}
   'Houston, Texas': {lat: 29.7857, lon: -95.3888, precision: town, source: 'Census Gazetteer 2024: Houston city'}
   'Howard, South Dakota': {lat: 44.0117, lon: -97.5246, precision: town, source: 'Census Gazetteer 2024: Howard city'}
+  'Huntington Park, California': {lat: 33.9792, lon: -118.2174, precision: town, source: 'Census Gazetteer 2024: Huntington Park city'}
   'Hyattsville, Maryland': {lat: 38.9612, lon: -76.9549, precision: town, source: 'Census Gazetteer 2024: Hyattsville city'}
   'Idaho Falls, Idaho': {lat: 43.4896, lon: -112.0353, precision: town, source: 'Census Gazetteer 2024: Idaho Falls city'}
   'Imbler, Oregon': {lat: 45.4621, lon: -117.9632, precision: town, source: 'Census Gazetteer 2024: Imbler city'}
   'Indianapolis, Indiana': {lat: 39.7767, lon: -86.1459, precision: town, source: 'Census Gazetteer 2024: Indianapolis city (balance)'}
   'Indio, California': {lat: 33.7316, lon: -116.236, precision: town, source: 'Census Gazetteer 2024: Indio city'}
   'Inyokern, California': {lat: 35.6544, lon: -117.8195, precision: town, source: 'Census Gazetteer 2024: Inyokern CDP'}
+  'Irvine, California': {lat: 33.6784, lon: -117.7713, precision: town, source: 'Census Gazetteer 2024: Irvine city'}
   'Islamorada, Florida': {lat: 24.9844, lon: -80.5433, precision: town, source: 'Census Gazetteer 2024: Islamorada, Village of Islands village'}
   'Jackson, Mississippi': {lat: 32.3158, lon: -90.2129, precision: town, source: 'Census Gazetteer 2024: Jackson city'}
   'Jacksonville, Florida': {lat: 30.3369, lon: -81.6616, precision: town, source: 'Census Gazetteer 2024: Jacksonville city'}
@@ -327,8 +329,10 @@ places:
   'Ogden, Utah': {lat: 41.2284, lon: -111.9681, precision: town, source: 'Census Gazetteer 2024: Ogden city'}
   'Ogunquit, Maine': {lat: 43.232, lon: -70.5855, precision: town, source: 'Census Gazetteer 2024: Ogunquit town (county subdivision)'}
   'Oklahoma City, Oklahoma': {lat: 35.4671, lon: -97.5137, precision: town, source: 'Census Gazetteer 2024: Oklahoma City city'}
+  'Oldsmar, Florida': {lat: 28.0484, lon: -82.6713, precision: town, source: 'Census Gazetteer 2024: Oldsmar city'}
   'Olive Branch, Mississippi': {lat: 34.9558, lon: -89.8412, precision: town, source: 'Census Gazetteer 2024: Olive Branch city'}
   'Omaha, Nebraska': {lat: 41.2627, lon: -96.0535, precision: town, source: 'Census Gazetteer 2024: Omaha city'}
+  'Ontario, California': {lat: 34.0376, lon: -117.6044, precision: town, source: 'Census Gazetteer 2024: Ontario city'}
   'Orange, Massachusetts': {lat: 42.6054, lon: -72.2921, precision: town, source: 'Census Gazetteer 2024: Orange CDP'}
   'Orcutt, California': {lat: 34.8692, lon: -120.4217, precision: town, source: 'Census Gazetteer 2024: Orcutt CDP'}
   'Owensboro, Kentucky': {lat: 37.7572, lon: -87.1174, precision: town, source: 'Census Gazetteer 2024: Owensboro city'}
@@ -386,7 +390,7 @@ places:
   'Salisbury, Maryland': {lat: 38.3753, lon: -75.5859, precision: town, source: 'Census Gazetteer 2024: Salisbury city'}
   'Salt Lake City, Utah': {lat: 40.7769, lon: -111.931, precision: town, source: 'Census Gazetteer 2024: Salt Lake City city'}
   'San Antonio, Texas': {lat: 29.4628, lon: -98.5246, precision: town, source: 'Census Gazetteer 2024: San Antonio city'}
-  'San Fernando, California': {lat: 34.2819, lon: -118.4390, precision: town, source: 'Census Gazetteer 2024: San Fernando city'}
+  'San Fernando, California': {lat: 34.2819, lon: -118.439, precision: town, source: 'Census Gazetteer 2024: San Fernando city'}
   'San Rafael, California': {lat: 37.981, lon: -122.5069, precision: town, source: 'Census Gazetteer 2024: San Rafael city'}
   'Sanford, Maine': {lat: 43.4241, lon: -70.7579, precision: town, source: 'Census Gazetteer 2024: Sanford city'}
   'Santa Ana, California': {lat: 33.7363, lon: -117.8829, precision: town, source: 'Census Gazetteer 2024: Santa Ana city'}
@@ -412,6 +416,7 @@ places:
   'Sioux Falls, South Dakota': {lat: 43.5407, lon: -96.732, precision: town, source: 'Census Gazetteer 2024: Sioux Falls city'}
   'Smyrna, Delaware': {lat: 39.2953, lon: -75.6087, precision: town, source: 'Census Gazetteer 2024: Smyrna town'}
   'Soldotna, Alaska': {lat: 60.4853, lon: -151.069, precision: town, source: 'Census Gazetteer 2024: Soldotna city'}
+  'South Gate, California': {lat: 33.9442, lon: -118.1928, precision: town, source: 'Census Gazetteer 2024: South Gate city'}
   'Sparks, Nevada': {lat: 39.5743, lon: -119.7152, precision: town, source: 'Census Gazetteer 2024: Sparks city'}
   'Spokane, Washington': {lat: 47.6669, lon: -117.4333, precision: town, source: 'Census Gazetteer 2024: Spokane city'}
   'Springfield, Missouri': {lat: 37.1942, lon: -93.2926, precision: town, source: 'Census Gazetteer 2024: Springfield city'}
@@ -542,17 +547,18 @@ strips:
   Eldora Raceway (Fairmont): {place: 'Fairmont, West Virginia'}
   Eubank Boulevard drags: {place: 'Albuquerque, New Mexico'}
   Famoso (Bakersfield) Fuel and Gas Championships: {place: 'Bakersfield, California'}
-  'Famoso / March Meet (Bakersfield)': {place: 'Bakersfield, California'}
+  Famoso / March Meet (Bakersfield): {place: 'Bakersfield, California'}
   Famoso Raceway: {place: 'Bakersfield, California'}
-  'Firebird International Raceway (Chandler)': {place: 'Chandler, Arizona'}
-  'Firebird Raceway (Eagle)': {place: 'Eagle, Idaho'}
+  Firebird International Raceway (Chandler): {place: 'Chandler, Arizona'}
+  Firebird Raceway (Eagle): {place: 'Eagle, Idaho'}
   Fontana Airport: {place: 'Fontana, California'}
   Forsyth County Dragway: {place: 'Cumming, Georgia'}
   Frederick Municipal Airport: {place: 'Frederick, Maryland'}
   George Field (Lawrenceville): {place: 'Lawrenceville, Illinois'}
   Georgetown Speedway drag strip: {place: 'Georgetown, Delaware'}
   Golden State Raceway: {place: 'Santa Maria, California'}
-  'Gowen Field Road drag strip': {place: 'Boise, Idaho'}
+  Golden Triangle Drag Strip: {place: 'Oldsmar, Florida'}
+  Gowen Field Road drag strip: {place: 'Boise, Idaho'}
   Grand Valley Drag Strip: {place: 'Moab, Utah'}
   Great Bend Municipal Airport: {place: 'Great Bend, Kansas'}
   Green Valley Drag Strip: {place: 'Gadsden, Alabama'}
@@ -578,7 +584,7 @@ strips:
   Kansas City strip (KCTA): {place: 'Kansas City, Missouri'}
   Kansas City Timing Association strip: {place: 'Kansas City, Missouri'}
   KK Sports Arena: {place: 'Kaukauna, Wisconsin'}
-  'Lake City (Fla.) Drag Safari strip': {place: 'Lake City, Florida'}
+  Lake City (Fla.) Drag Safari strip: {place: 'Lake City, Florida'}
   Lake Murray Drive strip: {place: 'Ardmore, Oklahoma'}
   Las Vegas Motor Speedway: {place: 'Las Vegas, Nevada'}
   Lassiter Mountain Dragway: {place: 'Fultondale, Alabama'}
@@ -602,6 +608,8 @@ strips:
   Ogden Wall Avenue drags: {place: 'Ogden, Utah'}
   Oklahoma City fairgrounds drag strip: {place: 'Oklahoma City, Oklahoma'}
   Old Dominion Speedway: {place: 'Manassas, Virginia'}
+  Ontario Motor Speedway: {place: 'Ontario, California'}
+  Orange County International Raceway: {place: 'Irvine, California'}
   Owensboro Drag Strip: {place: 'Owensboro, Kentucky'}
   Oxford Plains Dragway: {place: 'Oxford, Maine'}
   Palmer Raceway (proposed): {place: 'Palmer, Alaska'}
@@ -609,7 +617,7 @@ strips:
   Pascoag Race Track: {place: 'Pascoag, Rhode Island'}
   Pecos Valley Dragway: {place: 'Carlsbad, New Mexico'}
   Perryville drag strip: {place: 'Perryville, Arizona'}
-  'Pocatello Drag Strip': {place: 'Pocatello, Idaho'}
+  Pocatello Drag Strip: {place: 'Pocatello, Idaho'}
   Pocono Drag Lodge: {place: 'Bear Creek, Pennsylvania'}
   Pocono International Speedway: {place: 'Blakeslee, Pennsylvania'}
   Polar Dragway (Alaska Raceway Park): {place: 'Palmer, Alaska'}
@@ -625,12 +633,12 @@ strips:
   Road Runners Kart Track: {place: 'Cumberland, Maryland'}
   Salt Lake City Airport No. 2: {place: 'West Jordan, Utah'}
   Salt Lake Raceway: {place: 'Salt Lake City, Utah'}
-  'San Fernando Drag Strip': {place: 'San Fernando, California'}
+  San Fernando Drag Strip: {place: 'San Fernando, California'}
   Sanford Airport drags: {place: 'Sanford, Maine'}
   Santa Ana Drags: {place: 'Santa Ana, California'}
   Santa Ana Drags (Orange County Airport): {place: 'Santa Ana, California'}
   Satellite Field (proposed): {place: 'Lake Butler, Florida'}
-  'Saugus Drag Strip': {place: 'Saugus, California'}
+  Saugus Drag Strip: {place: 'Saugus, California'}
   Scribner Air Base: {place: 'Scribner, Nebraska'}
   Sedalia International Dragway (Big S.I.R.): {place: 'Sedalia, Missouri'}
   SEMO Drag Strip: {place: 'Malden, Missouri'}
@@ -644,17 +652,18 @@ strips:
   Sturgis Municipal Airport: {place: 'Sturgis, Kentucky'}
   Summit Racing Equipment Motorsports Park (Norwalk): {place: 'Norwalk, Ohio'}
   Sunland Dragway: {place: 'Sunland Park, New Mexico'}
-  'Sunshine Dragstrip (St. Petersburg)': {place: 'St. Petersburg, Florida'}
+  Sunshine Dragstrip (St. Petersburg): {place: 'St. Petersburg, Florida'}
   Tampa Dragway: {place: 'Tampa, Florida'}
   Ted Edwards Skyport and Drag Strip: {place: 'Fairburn, Georgia'}
   Thompson Drag Raceway: {place: 'Thompson, Ohio'}
   Thorn Hill Drag Strip: {place: 'Morning View, Kentucky'}
-  'Thunder Ridge Raceway (Star)': {place: 'Star, Idaho'}
+  Thunder Ridge Raceway (Star): {place: 'Star, Idaho'}
   Thunder Valley Dragways: {place: 'Marion, South Dakota'}
   Thunderbird Raceway (Henderson Drag Strip): {place: 'Henderson, Nevada'}
   Top End Dragway (Glyndon): {place: 'Glyndon, Minnesota'}
   Tucson Dragway (Houghton Road): {place: 'Tucson, Arizona'}
   Tucson Dragway (Pima County Fairgrounds): {place: 'Tucson, Arizona'}
+  Twin City Dragway: {place: 'Oldsmar, Florida'}
   Tulsa North Airport strip: {place: 'Tulsa, Oklahoma'}
   Valley Drag Strip (Shawmut): {place: 'Valley, Alabama'}
   Wardwell Field runways (Bar Nunn): {place: 'Bar Nunn, Wyoming'}
@@ -667,7 +676,7 @@ strips:
   York U.S. 30 Drag-O-Way: {place: 'York, Pennsylvania'}
   Yuma Drag Strip (Highway 80): {place: 'Yuma, Arizona'}
   Yuma Drag Strip (Wellton airstrip): {place: 'Wellton, Arizona'}
-  'Zephyrhills Airport drag strip': {place: 'Zephyrhills, Florida'}
+  Zephyrhills Airport drag strip: {place: 'Zephyrhills, Florida'}
 
 not_mapped:
   75-80 Drag-A-Way: the articles that name it do not give its town, so it has no pin yet

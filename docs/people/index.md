@@ -36,6 +36,8 @@ Most of them started in a garage, a shed or a borrowed corner of someone else's 
 - [Arnie "Woo Woo" Ginsburg](arnie-ginsburg.md): the Night Train DJ whose Ginsburger ads filled Adventure Car Hop; Route 1's quarter-mile street course.
 - [Don Garlits](don-garlits.md): Tampa bookkeeper to Swamp Rat; Zephyrhills 1950, the California challenge, the 1970 rear-engine redesign and the Ocala museum (⚠ frame year, roll-bar meet).
 - [Don Prudhomme](don-prudhomme.md): Van Nuys painter, Greer-Black-Prudhomme, Leong's Hawaiian, Road Kings rickshaw initiation, Greer-Black-Prudhomme, Leong's Hawaiian, Snake vs. Mongoose (⚠ Schiefer record).
+- [Keith Black](keith-black.md): Huntington Park driveway mechanic, backyard boat engines, Greer-Black-Prudhomme and the KB aluminum block (⚠ birth year, win count, 392 or 426).
+- [Tom McEwen](tom-mcewen.md): Pensacola-born, Long Beach-raised Mongoose; Lions 1964, Hot Wheels, five NHRA nationals including Indianapolis 1978 (⚠ death date; son's name and age).
 - [Roland Leong](roland-leong.md): "The Hawaiian": Kahuku gas dragsters, Dragmasters, the crash that made him an owner, and Prudhomme (⚠ when they met).
 - Bruce Miller: see [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 

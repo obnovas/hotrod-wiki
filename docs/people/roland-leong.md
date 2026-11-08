@@ -54,6 +54,7 @@ tags:
 - speed-equipment
 - family-business
 related:
+- people/keith-black.md
 - drag-racing/kahuku-point-hawaii-drag-strip.md
 - people/peggy-hart.md
 - drag-racing/palmer-alaska-polar-dragway.md

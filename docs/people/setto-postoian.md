@@ -39,6 +39,7 @@ tags:
 - camshafts
 - grassroots-sources
 related:
+- drag-racing/golden-triangle-oldsmar.md
 - drag-racing/detroit-cordova.md
 - drag-racing/beardstown-drag-strip.md
 - places/midwest-east.md
@@ -79,7 +80,7 @@ Six years later the same paper looked back. "Serop Postoian of Detroit won top e
 
 ## The insult, and the end
 
-Postoian went west too. In the spring of 1959 *Car Craft* found him at a Central California meet, where "Ernie Hashim had run, clocked 161, and lost to Setto Postoian."[^cc5910] That year he placed a *Drag News* ad calling Garlits "a swamp rat." Garlits took the insult as the name of all his cars.[^aw] The Hall of Fame calls Postoian an early idol of the teenage Garlits.[^mm]
+Postoian went west too. In the spring of 1959 *Car Craft* found him at a Central California meet, where "Ernie Hashim had run, clocked 161, and lost to Setto Postoian."[^cc5910] That year he placed a *Drag News* ad calling Garlits "a swamp rat." Garlits took the insult as the name of all his cars.[^aw] Two flaggers at [Golden Triangle Drag Strip](../drag-racing/golden-triangle-oldsmar.md) later remembered the nickname coming from the Oldsmar swamp itself, or from "the dudes in California"; that disagreement stays on that page. The Hall of Fame calls Postoian an early idol of the teenage Garlits.[^mm]
 
 It ended suddenly. Postoian was seriously injured at Detroit Dragway in 1960 and never raced again. The Hall of Fame credits him with about 250 eliminator wins and inducted him in 1997.[^mm] The Swamp Rats kept running for decades. The name came from a Detroit speed shop owner who had beaten Garlits for a $500 savings bond.<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 

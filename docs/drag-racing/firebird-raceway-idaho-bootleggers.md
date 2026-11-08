@@ -60,6 +60,7 @@ tags:
 - oral-history
 - town-politics
 related:
+- drag-racing/firebird-international-raceway-chandler.md
 - places/twin-falls-main-avenue.md
 - drag-racing/utah-airport-no-2-salt-lake-strips.md
 - drag-racing/las-vegas-henderson-drag-strips.md
@@ -103,7 +104,7 @@ On December 24, 2018, the National Park Service listed Firebird in the National 
 
 Twin Falls, on the other side of the state, had fought its Main Avenue "drag strip" nickname in the late 1950s and hunted a real strip of its own; that story is on the [Twin Falls page](../places/twin-falls-main-avenue.md). Utah's runway fights sit next door on the [Salt Lake strips page](utah-airport-no-2-salt-lake-strips.md).
 
-*See also:* [Twin Falls Main Avenue](../places/twin-falls-main-avenue.md); [Utah Airport No. 2](utah-airport-no-2-salt-lake-strips.md); [Las Vegas & Henderson](las-vegas-henderson-drag-strips.md); [Pocatello's McDougall Field strip](pocatello-mcdougall-field-drag-strip.md); [Don Garlits](../people/don-garlits.md), who raced Firebird in 1973, and [Don Prudhomme](../people/don-prudhomme.md), a past Nightfire winner.
+*See also:* [Twin Falls Main Avenue](../places/twin-falls-main-avenue.md); [Utah Airport No. 2](utah-airport-no-2-salt-lake-strips.md); [Las Vegas & Henderson](las-vegas-henderson-drag-strips.md); [Pocatello's McDougall Field strip](pocatello-mcdougall-field-drag-strip.md); [Firebird International Raceway in Chandler, Arizona](firebird-international-raceway-chandler.md), a different track that later used the same first name; [Don Garlits](../people/don-garlits.md), who raced Firebird in 1973, and [Don Prudhomme](../people/don-prudhomme.md), a past Nightfire winner.
 
 ## Open questions & disputed details
 

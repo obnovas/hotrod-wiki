@@ -49,6 +49,7 @@ tags:
 - grassroots-sources
 - town-politics
 related:
+- drag-racing/firebird-international-raceway-chandler.md
 - drag-racing/phoenix-west-side-karbs-litchfield-road.md
 - drag-racing/perryville-marsh-airstrip.md
 - drag-racing/tucson-davis-monthan-speed-sport.md

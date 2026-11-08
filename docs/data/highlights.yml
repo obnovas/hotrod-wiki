@@ -13,6 +13,59 @@ settings:
   max_featured: 16
 
 highlights:
+  - id: golden-triangle-flagger-sent-garlits-back
+    headline: A skinny flagger in an Oldsmar pasture sent Garlits back for jumping the start
+    teaser: Bob Nugent was "one skinny and nervous kid" when Don Garlits jumped a Top Eliminator start against Chris Karamesines at Golden Triangle Drag Strip. He waved them back; he forgot who won the rerun.
+    link: drag-racing/golden-triangle-oldsmar.md
+    evidence: one skinny and nervous kid
+    source_type: [Oral history, Forum post]
+    confidence: Low
+    flag: none
+    grassroots: true
+    added: '2026-11-08'
+    eras: [1950s, 1960s]
+    regions: ['Oldsmar, Fla.']
+
+  - id: keith-black-put-a-driver-in-it
+    headline: '"I put a driver in it": how Keith Black stopped racing boats and started building engines'
+    teaser: Ken Black remembered fellow racer Bobby Sykes taking over Keith's boat and lapping the field. Afterward, when people asked what he had done to it, Keith replied, "I put a driver in it," and that helped him decide to build engines instead of driving them.
+    link: people/keith-black.md
+    evidence: I put a driver in it
+    source_type: [Family account]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-08'
+    eras: [1950s]
+    regions: ['Huntington Park, Calif.']
+
+  - id: reinhart-firebird-changed-my-life
+    headline: A borrowed microphone at Chandler's Firebird "changed the direction of my life"
+    teaser: NHRA announcer Alan Reinhart remembered being handed a microphone at a Saturday-night sportsman race in the early 1980s when the regular announcer did not show up. "It's not an exaggeration to say that Firebird International Raceway changed the direction of my life."
+    link: drag-racing/firebird-international-raceway-chandler.md
+    evidence: changed the direction of my life
+    source_type: [Oral history]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-08'
+    eras: [1980s]
+    regions: ['Chandler, Ariz.']
+
+  - id: ocir-plywood-we-are-closed
+    headline: After Irvine's last race, plywood on the tower doors said it was all over
+    teaser: >-
+      After Orange County International Raceway's Last Drag Race ran into the morning of October 30, 1983, someone put a plywood sign on the tower doors that read "Yes, we are closed. It's all over."
+    link: drag-racing/orange-county-international-raceway.md
+    evidence: "Yes, we are closed. It's all over."
+    source_type: [Trade press]
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: '2026-11-08'
+    eras: [1980s]
+    regions: ['Irvine, Calif.']
+
   - id: inyokern-sheriff-faa
     headline: "A sheriff started Inyokern's drag strip. The FAA ended it, 51 years on"
     teaser: "The LA Times says Sheriff Mac McKernan helped young hot rodders race legally on an Inyokern Airport taxiway, and a volunteer club kept the strip going for about 51 years. The date of the very last race is still a three-way argument."
