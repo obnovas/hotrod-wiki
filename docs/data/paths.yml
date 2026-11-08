@@ -514,14 +514,14 @@ paths:
       - page: people/don-prudhomme.md
         why: "The California driver the other regions were up against: a Van Nuys painter who became the Snake, via Hawaii and Hot Wheels."
       - page: people/keith-black.md
-        why: "The Huntington Park engine builder behind Greer-Black-Prudhomme, who started by taking the family car apart in the driveway."
+        why: "The California engine builder the other regions were up against: Keith Black of Huntington Park, whose engines powered Greer-Black-Prudhomme."
       - page: people/tom-mcewen.md
-        why: "The Mongoose: he beat Prudhomme at Lions in 1964, then turned a Mattel deal into a living-room rivalry."
+        why: "The other California name in that rivalry: the Mongoose, who beat Prudhomme at Lions in 1964, then turned a Mattel deal into a living-room fight."
 
   - id: southwest-airport-strips
     letter: O
-    title: "Arizona Strips beyond Phoenix: Casa Grande, Yuma, Winslow, the Beeline and Chandler's Firebird (1957–2024)"
-    purpose: "Three town and wartime airstrips, Beeline on Salt River land, then Charlie Allen's Firebird on Gila River land."
+    title: "Southwest strips and Charlie Allen's two tracks (1957–2024)"
+    purpose: "Arizona's airport strips and Beeline on Salt River land, then the Irvine Super Track Allen ran and the Firebird he built on Gila River land."
     extra: true
     steps:
       - page: drag-racing/casa-grande-municipal-airport-cgta.md
@@ -533,6 +533,6 @@ paths:
       - page: drag-racing/beeline-dragway-mesa.md
         why: "East of Phoenix, a purpose-built AHRA Winternationals stop on Salt River land, from 1963. Not an airport strip."
       - page: drag-racing/orange-county-international-raceway.md
-        why: "The Irvine Super Track Allen ran until its Last Drag Race in 1983, then used as the model for what he built next."
+        why: "The Irvine Super Track Allen ran until its Last Drag Race in 1983; its success, he said, was why he built Firebird."
       - page: drag-racing/firebird-international-raceway-chandler.md
         why: "South of Chandler, on Gila River land: Charlie Allen's later Valley national-event track, not the Idaho Firebird."

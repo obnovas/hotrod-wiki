@@ -64,7 +64,6 @@ related:
 - people/don-garlits.md
 - people/keith-black.md
 - drag-racing/orange-county-international-raceway.md
-- drag-racing/orange-county-international-raceway.md
 canonical_for: []
 ---
 # Tom McEwen: The Mongoose, from a Borrowed Oldsmobile to Hot Wheels (1937–2018)
@@ -81,7 +80,7 @@ canonical_for: []
 
 ## A borrowed Oldsmobile
 
-Thomas McEwen was born on January 14, 1937, in Pensacola, Florida, according to the Motorsports Hall of Fame. A 2018 remembrance by V. Moore says he moved to California with his mother and younger brother, Richard, after his father's early death, and grew up in Long Beach.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^mshf][^moore18]
+Tom McEwen was born on January 14, 1937, in Pensacola, Florida, according to the Motorsports Hall of Fame. A 2018 remembrance by V. Moore says he moved to California with his mother and younger brother, Richard, after his father's early death, and grew up in Long Beach.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^mshf][^moore18]
 
 He began by sneaking his mother's 1953 Oldsmobile out to race at Santa Ana before he was old enough to have a driver's license, the hall of fame says. NHRA and Hemmings date the start to 1953, at age 16, in that same '53 Olds at Santa Ana Dragstrip in Irvine; NHRA adds a '54 Olds at Lions Dragstrip in Long Beach. He moved up through gas coupes, supercharged gassers and altereds. The hall of fame says Art Chrisman coached him in dragster driving, and that he later drove for owners including Ed Donovan, Gene Adams, Lou Baney, Chrysler and Ford.[^mshf][^nhra18][^hemm18]
 
@@ -97,7 +96,7 @@ He theorized, the hall of fame says, that "a big following and good performance 
 
 ## Wildlife Racing
 
-McEwen's mother, Sybil, was a secretary at Mattel; the rest of how that meeting happened is told on the [Prudhomme page](don-prudhomme.md). In mid-1969 he and Prudhomme formed Wildlife Racing. The Mattel deal ran from 1970 through 1972. Kids raced Snake and Mongoose Hot Wheels on orange tracks; Hemmings, following NHRA, says it was McEwen who came up with the idea to approach his mother's employer. In 1973 the team ran Carefree sugarless gum. They dissolved the corporation at the end of that season.[^nhra18][^hemm18][^prudhomme]
+McEwen's mother, Sybil, was a secretary at Mattel; the rest of how that meeting happened is told on the [Prudhomme page](don-prudhomme.md). In mid-1969 he and Prudhomme formed Wildlife Racing. The Mattel deal ran from 1970 through 1972. Kids raced Snake and Mongoose Hot Wheels on orange tracks; Hemmings says it was McEwen who came up with the idea to approach his mother's employer. In 1973 the team ran Carefree sugarless gum. They dissolved the corporation at the end of that season.[^nhra18][^hemm18][^prudhomme]
 
 "We were a good team; we complemented each other," McEwen said. "Don was the serious guy, spent a lot of time with his car, and I was more like the wrestlers today; saying how bad I was going to beat him to build interest in the deal."[^nhra18]
 
@@ -111,7 +110,7 @@ He was voted No. 16 on NHRA's Top 50 Drivers list in 2001 and was inducted into 
 
 From a Long Beach hospital bed in 1970, [Don Garlits](don-garlits.md) watched *Star Trek* with McEwen and sketched the rear-engine car; that story stays on Garlits's page.
 
-*See also:* [Don Prudhomme](don-prudhomme.md); [Keith Black](keith-black.md), who built the car McEwen beat at Lions in 1964; [Orange County International Raceway](../drag-racing/orange-county-international-raceway.md); [Firebird International Raceway (Chandler)](../drag-racing/firebird-international-raceway-chandler.md).
+*See also:* [Don Prudhomme](don-prudhomme.md); [Keith Black](keith-black.md), whose engines powered the Greer-Black-Prudhomme car McEwen beat at Lions in 1964; [Orange County International Raceway](../drag-racing/orange-county-international-raceway.md); [Firebird International Raceway (Chandler)](../drag-racing/firebird-international-raceway-chandler.md).
 
 ## Open questions & disputed details
 
@@ -119,7 +118,7 @@ From a Long Beach hospital bed in 1970, [Don Garlits](don-garlits.md) watched *S
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Did Tom McEwen die on June 10 or June 11, 2018?** NHRA's obituary, posted June 11, says he "died June 10. He was 81." Hemmings, the next day, says he died "On Sunday, June 10." The Motorsports Hall of Fame page gives the death date as June 11, 2018. Moore writes that he "died in his sleep sometime on Sunday night or Monday morning 10-11 June 2018."[^nhra18][^hemm18][^mshf][^moore18] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **What was his son's name and age, and how soon before the 1978 U.S. Nationals did he die?** NHRA's 2018 obituary says "the death just a few days earlier of his son, Jaime." The hall of fame calls him "his teen-aged son Jamie" and says he "had died from leukemia only weeks earlier." Hemmings, quoting Prudhomme's April 2017 *Hemmings Muscle Machines* column, says McEwen "had lost his 14-year old son, Jamie, to cancer" the week before Indianapolis. Moore says "Jamie died at the age of 13 of leukemia." The sources agree the boy had died of leukemia (or, in Hemmings' wording, cancer) and that the Indianapolis final was against Prudhomme.[^nhra18][^mshf][^hemm18][^moore18] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **What was his son's name and age, and how soon before the 1978 U.S. Nationals did he die?** NHRA's 2018 obituary says "the death just a few days earlier of his son, Jaime." The hall of fame calls him "his teen-aged son Jamie" and says he "had died from leukemia only weeks earlier." Hemmings, quoting Prudhomme's April 2017 *Hemmings Muscle Machines* column, says McEwen "had lost his 14-year old son, Jamie, to cancer" the week before Indianapolis. Moore says "Jamie died at the age of 13 of leukemia." Moore also writes that a movie tribute was to McEwen's "memorable victory over Don Prudhomme during the 1988 NHRA Funny Car US Nationals at Indianapolis, ten days after the tragic death of his youngest son." NHRA, the hall of fame and Hemmings all put that final in 1978, so Moore's year is off; the "ten days" is a fourth interval beside a few days, a week and weeks. The sources agree the boy had died of leukemia (or, in Hemmings' wording, cancer) and that the Indianapolis final was against Prudhomme.[^nhra18][^mshf][^hemm18][^moore18] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Do the Long Beach childhood, the AHRA titles and the second son's death rest on more than one telling?** The move from Florida after his father's death, the brother Richard, growing up in Long Beach, the AHRA Funny Car championships of 1976, 1978 and 1983, and the death of a son named Joey at 35 in a car collision all come from V. Moore's June 12, 2018, remembrance. The hall of fame gives the Pensacola birth and is silent on Long Beach; NHRA and Hemmings do not mention the AHRA titles or Joey.[^moore18][^mshf] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

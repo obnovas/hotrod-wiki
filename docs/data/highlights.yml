@@ -20,7 +20,7 @@ highlights:
     evidence: one skinny and nervous kid
     source_type: [Oral history, Forum post]
     confidence: Low
-    flag: none
+    flag: single-source
     grassroots: true
     added: '2026-11-08'
     eras: [1950s, 1960s]
@@ -36,7 +36,7 @@ highlights:
     flag: none
     grassroots: true
     added: '2026-11-08'
-    eras: [1950s]
+    eras: [1940s, 1950s]
     regions: ['Huntington Park, Calif.']
 
   - id: reinhart-firebird-changed-my-life

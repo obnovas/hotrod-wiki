@@ -101,7 +101,7 @@ Unlike Lions' farewell, where fans ran wild after the Top Fuel final, E.T. racin
 
 Allen had already begun construction on [Firebird International Raceway](firebird-international-raceway-chandler.md) outside Phoenix in 1983. In return for not slowing the Irvine Company's development, he was allowed to take anything he could salvage. He looked into moving the tower and did not. "That success made me realize that I wanted to keep doing this, which is why I built Firebird Int'l Raceway." The tower stood more than a year before it came down. Someone put a plywood sign on the doors: "Yes, we are closed. It's all over."[^nhra0831]
 
-*See also:* [Firebird International Raceway (Chandler)](firebird-international-raceway-chandler.md); [Tom McEwen](../people/tom-mcewen.md), who set the opening-day record; [Don Prudhomme](../people/don-prudhomme.md); [Don Garlits](../people/don-garlits.md), whose rear-engine car made early 1971 appearances at Orange County after Lions.
+*See also:* [Firebird International Raceway (Chandler)](firebird-international-raceway-chandler.md); [Tom McEwen](../people/tom-mcewen.md), who set the opening-day record; [Don Prudhomme](../people/don-prudhomme.md); [Don Garlits](../people/don-garlits.md), for the rear-engine dragster; that story stays on his page.
 
 ## Open questions & disputed details
 

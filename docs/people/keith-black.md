@@ -58,7 +58,7 @@ canonical_for: []
 *A Huntington Park kid who tore the family car down in the driveway, a backyard boat-engine business, and an aluminum Hemi that racers still call a KB*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (Black's own words in a hall-of-fame biography, his son Ken's interview and the Garlits and SEMA hall notices agree on the shop, the boats and the Chrysler work; they split on his birth year, the driveway story's details, the Greer-Black-Prudhomme win count and whether the famous aluminum block followed a 392 or a 426) · **Source types:** <span class="hr-badge">Grassroots</span> family account (Ken Black to Hemmings, 2018), Motorsports Hall of Fame of America nomination biography (1995, with first-person quotations), Don Garlits Museum of Drag Racing hall of fame notice (class of 1992), SEMA Hall of Fame (1986) · **Last verified:** 2026-11-08 (Round 35) · **Open issues:** ⚠ birth year 1926 or 1927; ⚠ how the family car came apart; ⚠ Greer-Black-Prudhomme's win-loss record; ⚠ 392 or 426 as the pattern for the KB block · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (Black's own words in a hall-of-fame biography, his son Ken's interview and the Garlits and SEMA hall notices agree on the shop, the boats and the Chrysler work; they split on his birth year, the driveway story's details, the Greer-Black-Prudhomme win count and whether the famous aluminum block followed a 392 or a 426) · **Source types:** <span class="hr-badge">Grassroots</span> family account (Ken Black to Hemmings, undated, posted 2018), Motorsports Hall of Fame of America nomination biography (1995, with first-person quotations), Don Garlits Museum of Drag Racing hall of fame notice (class of 1992), SEMA Hall of Fame (1986) · **Last verified:** 2026-11-08 (Round 35) · **Open issues:** ⚠ birth year 1926 or 1927; ⚠ how the family car came apart; ⚠ Greer-Black-Prudhomme's win-loss record; ⚠ 392 or 426 as the pattern for the KB block · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I put rings and bearings in it, and when my dad came home, he about croaked when he saw his car all apart in the driveway, and his kid working on it."
@@ -91,7 +91,7 @@ After the Greer car, he worked with [Roland Leong](roland-leong.md)'s Hawaiian T
 
 ## Chrysler, and the KB block
 
-In 1965 Chrysler contracted with Black to develop its marine racing program. Ken said that affiliation led his father to switch entirely from building flatheads to building the new 426 Hemis, and that he would still go to a boat race one weekend and a drag race the next, which "likely led Chrysler to his doorstep." The hall of fame says he loved the research work "because of the challenge it presented, and the fact that it made good business sense." The shop, Ken said, still operates out of South Gate, California; Ken was running it when Hemmings spoke with him in 2018.[^mshf][^hemm18]
+In 1965 Chrysler contracted with Black to develop its marine racing program. Ken said that affiliation led his father to switch entirely from building flatheads to building the new 426 Hemis, and that he would still go to a boat race one weekend and a drag race the next, which "likely led Chrysler to his doorstep." The hall of fame says he loved the research work "because of the challenge it presented, and the fact that it made good business sense." Hemmings, in a piece posted in 2018 but written, by its own count, 15 years after his death, said the shop still operated in South Gate and that Ken ran it.[^mshf][^hemm18]
 
 Ed Donovan introduced an aftermarket aluminum engine in 1971. The hall of fame calls it the first; Hemmings, in Ken's telling, says those first aluminum Hemi blocks were not Keith's innovation, but that Keith "mastered that market when he introduced his KB block in 1974, at the urging (and with the design assistance) of former Chrysler engineer Bob Tarozzi." Ken said the cost had held his father back: "It was a big cost. And after the Chrysler contract, Dad was used to having others pay for big programs." That engine, Ken said, dominated the fuel ranks for the next decade and later allowed aluminum engines based on Chevrolet and Oldsmobile designs in the mid-1980s.[^mshf][^hemm18]
 
@@ -119,12 +119,12 @@ The Greer-Black-Prudhomme years, and the Snake name that came out of that car, a
 
 ### Next leads
 
-A Huntington Park or Downey newspaper obituary for May 1991; a birth record; the Schiefer advertisement itself (see also Prudhomme); USPTO and Chrysler marine-contract files; a South Gate city directory for the Scott Avenue shop; Art Sparks's own account of the apprenticeship.
+A Huntington Park or Downey newspaper obituary for May 1991; a birth record; the Schiefer advertisement itself (see also Prudhomme); USPTO and Chrysler marine-contract files; a South Gate city directory for the shop's address; Art Sparks's own account of the apprenticeship.
 
 ## Sources
 
 [^mshf]: Neil Britt and Chris Martin, "Keith Black," Motorsports Hall of Fame of America (class of 1995). https://www.mshf.com/hall-of-fame/inductees/keith-black.html (accessed 2026-11-08)
-[^hemm18]: Daniel Strohl, "Keith Black," Hemmings, Sept. 23, 2018 (updated March 26, 2024; Ken Black interview). https://www.hemmings.com/stories/keith-black/ (accessed 2026-11-08)
+[^hemm18]: Daniel Strohl, "Keith Black," Hemmings, posted Sept. 23, 2018 (updated March 26, 2024). The piece says his name "remains in racing today, 15 years since his death," so the Ken Black material is undated in the posting. https://www.hemmings.com/stories/keith-black/ (accessed 2026-11-08)
 [^garlits92]: "Keith Black," Don Garlits Museum of Drag Racing Hall of Fame (class of 1992). https://garlits.com/hall-of-fame/keith-black/ (accessed 2026-11-08)
 [^sema]: "Keith Black," SEMA Hall of Fame (class of 1986). https://www.sema.org/hof/1986/keith-black (accessed 2026-11-08)
 [^prudhomme]: [Don Prudhomme: The Snake, from Van Nuys Body Shops to the Hawaiian and Hot Wheels](don-prudhomme.md) (Greer-Black-Prudhomme record, q-2)

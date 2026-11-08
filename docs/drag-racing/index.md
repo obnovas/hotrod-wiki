@@ -66,7 +66,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [A Rainout and a Blown Transmission (Perryville)](perryville-marsh-airstrip.md): the Southwest Timing Association's Luke auxiliary field finishes the 1955 NHRA Nationals; Calvin Rice wins after a clutch worked with a toe.
 - [Renegades on the Taxiway (Winslow)](winslow-renegades-airport.md): city-council leave for an airport drag strip on Route 66, 1958–85.
 - [A Lease on the Beeline (Mesa)](beeline-dragway-mesa.md): "the first drag strip to be built on an Indian Reservation" in 1963, and a decade of AHRA Winternationals (⚠ builder's name; closed 1973/75/79).
-- [Not the Idaho One (Firebird International Raceway, Chandler)](firebird-international-raceway-chandler.md): Charlie Allen's Gila River complex after Orange County closed; first NHRA national in 1985; renamed Wild Horse Pass, then Firebird again (⚠ opened 1983 or early 1984).
+- [Not the Idaho One (Firebird International Raceway, Chandler)](firebird-international-raceway-chandler.md): Charlie Allen's Gila River complex after Orange County closed; first NHRA national in 1985; renamed Wild Horse Pass, then Firebird again (⚠ opened 1983 or early 1984; ⚠ lake 113 or 120 acres).
 
 - [Built by Racers (Epping, N.H.)](new-england-dragway-epping.md): New England's clubs leave the borrowed airports, carry used bleachers to a mile of New Hampshire woods in 1966, and in 2021 vote not to sell.
 - [Somebody Should Christen It (Winterport, Maine)](winterport-fernald-field-maine.md): four Sanford racers talk a town into lending its old airfield in 1967; Norridgewock's one summer; a 2025 lease fight.
