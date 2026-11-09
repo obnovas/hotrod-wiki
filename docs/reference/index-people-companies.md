@@ -181,7 +181,7 @@
 | Enwall, Karen | Gas-Ketts president, Appleton | [Road Deacons & Gas-Ketts](../drag-racing/fox-valley-road-deacons-gas-ketts.md) |
 | Erickson, Bruce | Road Ravens vice president, Chardon, Ohio, 1956 | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | Esparza, Rick & Fred | Mexican Express, Lions | [Esparza Brothers](../voices/esparza-brothers.md) |
-| Espy, Robert J. | Card's son-in-law and partner; ran Honest Charley until 1990 | [Honest Charley](../companies/honest-charley-speed-shop.md) |
+| Espy, Robert J. | Named only in an encyclopedia biography as Card's son-in-law, 1948 partner and the man who ran the shop until 1990; not used in the story until a non-Wikipedia source is read | [Honest Charley](../companies/honest-charley-speed-shop.md) |
 | Evenson, Cory | Co-owner of Magic City International Dragway, Minot; collector of Struksnes's cars | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
 | Everitt, Rich | Stroudsburg class winner at the Pocono Drag Lodge (Aug 1968) | [Pocono strips](../drag-racing/pocono-strips.md) |
 | Farrell, Wayne | Forest Park Hy-Winders president, 1957 | [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) |
@@ -315,7 +315,7 @@
 | Kansas City Timing Association strip | Chouteau Trafficway and Front St. (1966); opened 1955 ⚠ date | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
 | Karb Kats / Casa Grande Timing Association | Casa Grande airport strip, 1957–58 ◐ | [Casa Grande](../drag-racing/casa-grande-municipal-airport-cgta.md) |
 | KARBS | Arizona West Valley teen club; Perryville Nationals, 1955 | [Phoenix's West Side](../drag-racing/phoenix-west-side-karbs-litchfield-road.md) |
-| Kearney Raceway Park | Kearney, Neb., strip opened by Carroll Sheldon, July 5, 1964 | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
+| Kearney Raceway Park | Kearney, Neb., strip Carroll Sheldon developed; July 5, 1964 is the date read from a July 5, 2014 golden-anniversary story | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
 | Keeler, William | Rochester Safety Council; would not sponsor drag strips (1957) | [Opinions Differ (1957)](../drag-racing/new-york-towns-panel-1957.md) |
 | Kennedy, Bob | *Red Bluff Daily News* sports editor; covered Bakersfield, 1969 | [Red Bluff & Redding](../drag-racing/red-bluff-schafer-oil-special.md) |
 | Kepner, Bret | Drag strip historian; Greer Dragway's I.T.A. opening and first winner | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |
@@ -554,7 +554,7 @@
 | Seward Drag strip | Beardstown, Ill., 1967 ◐ | [Beardstown](../drag-racing/beardstown-drag-strip.md) |
 | Sewell, Charlie | Eyewitness to the 1969 Yellow River crash; 2019 column | [Yellow River](../drag-racing/yellow-river-covington.md) |
 | Shasta Roadsters | Redding, Calif., club; airport drag strip, 1968–70 | [Red Bluff & Redding](../drag-racing/red-bluff-schafer-oil-special.md) |
-| Sheldon, Carroll | Built and opened the Kearney strip, 1964; sold it 25 years later | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
+| Sheldon, Carroll | Developed the Kearney strip; a 2014 golden-anniversary story puts the opening on July 5, 1964, and his son said he sold it 25 years later | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
 | Sheridan Hot Rod Club, Inc. | Sheridan, Wyo., club formed 1947 | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
 | Shields, Dawn | Co-wrote the 1987 Hays, Kan., yearbook spread on dragging Main | [Dragging Main](../places/dragging-main.md) |
 | Shook, Ed | *Kansas City Star* writer; the 1959 AP feature | [Kansas City](../drag-racing/kansas-city-timing-association.md) |

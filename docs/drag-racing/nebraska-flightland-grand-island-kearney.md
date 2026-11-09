@@ -1,6 +1,6 @@
 ---
 title: 'Engraving His Own Trophies: Grand Island, Flightland and Kearney, Nebraska''s Strips after Scribner (1957–1973)'
-summary: In the late 1950s a Lincoln roadster racer engraved his own name on blank trophies from Grand Island and Lincoln Air Force Base. A new airport between Omaha and Blair became Omaha Dragway, its paving paid by racing, and in 1964 a Kearney racer tired of waiting on Grand Island opened his own strip on the family homestead.
+summary: In the late 1950s a Lincoln roadster racer engraved his name on blank trophies from Grand Island and Lincoln Air Force Base. Omaha Dragway was paved with racing money by his account, and a Kearney racer opened his own strip on the family homestead on July 5, 1964, dated from a 2014 anniversary story.
 department: drag-racing
 era: 1960s
 eras:
@@ -74,10 +74,10 @@ peak: 1957–early 1970s
 ---
 # Engraving His Own Trophies: Grand Island, Flightland and Kearney, Nebraska's Strips after Scribner (1957–1973)
 
-*A roadster racer with an engraving tool, an airport paved with gate money, a beehive under a helmet, and a tower built in the family's backyard*
+*A roadster racer with an engraving tool, an airport one racer said was paved with gate money, a beehive under a helmet, and a tower built in the family's backyard*
 
 !!! abstract "Article record"
-    **Confidence:** Low (a 1960 state aeronautics bulletin, a Kearney TV station's 50th-anniversary story and a state racing hall of fame biography anchor the dates; most of the color comes from racers' and a family's recollections, each flagged where it stands alone) · **Source types:** <span class="hr-badge">Grassroots</span> Nebraska Department of Aeronautics monthly bulletin (June 1960); racers' and family recollections on *Drag Strip List* (Gene Kidder at 86, Ron Krull, Shain Humphrey, Lita Madison, Jerry Burklund, Don Cameron); NTV News, Kearney (2014); Nebraska Auto Racing Hall of Fame (2008 class) · **Last verified:** 2026-11-09 (Round 36) · **Open issues:** ◐ paving Flightland with racing money; ◐ the Shaundos' strip at the air base; where Cornhusker Raceway Park was; Highway 33 or 133 · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low (a 1960 state aeronautics bulletin, a Kearney TV station's 50th-anniversary story and a state racing hall of fame biography anchor the dates; most of the color comes from racers' and a family's recollections, each flagged where it stands alone; the Kearney opening day is read from that anniversary, which never prints 1964) · **Source types:** <span class="hr-badge">Grassroots</span> Nebraska Department of Aeronautics monthly bulletin (June 1960); racers' and family recollections on *Drag Strip List* (Gene Kidder at 86, Ron Krull, Shain Humphrey, Lita Madison, Jerry Burklund, Don Cameron); NTV News, Kearney (2014); Nebraska Auto Racing Hall of Fame (2008 class) · **Last verified:** 2026-11-09 (Round 36 citation check) · **Open issues:** ◐ paving Flightland with racing money; ◐ the Shaundos' strip at the air base; where Cornhusker Raceway Park was; Highway 33 or 133 · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I had an engraving tool and did most of my trophies by engraving my name and other information about the event and results like my speed. I did that until I got to about my 200th trophy."
@@ -108,7 +108,7 @@ Kroeger, in Kidder's account, later moved the racing to "what is known as Cornhu
 
 ## A tower in the backyard
 
-Out west, a Kearney racer got tired of waiting. "My dad was going to Grand Island to race, they weren't getting opened early enough," Doug Sheldon told NTV News in 2014. "He thought he could do a better job so he talked to the city, got it worked out and opened up, was going to open up for two years and sell it, but sold it 25 years later." His father, Carroll Sheldon, opened the Kearney strip on July 5, 1964; fifty years later, as Kearney Raceway Park, it had outlasted every other drag strip in the state.[^ntv14]
+Out west, a Kearney racer got tired of waiting. "My dad was going to Grand Island to race, they weren't getting opened early enough," Doug Sheldon told NTV News in 2014. "He thought he could do a better job so he talked to the city, got it worked out and opened up, was going to open up for two years and sell it, but sold it 25 years later." His father, Carroll Sheldon, was the track's original developer. The story ran on July 5, 2014, and calls that day the "golden anniversary of the opening" and a "50 year milestone," so the opening reads as July 5, 1964. As Kearney Raceway Park, the station says, it had "outlasted every other drag strip in the state."[^ntv14]
 
 It was a family operation from the start. Carroll's niece, Lita Madison, wrote that her uncle built the race tower "at our home, which was the old family homestead," with her father, brother and sisters helping, "in our huge backyard." Her father, Sid Sheldon, took tickets at the pit gate from the first day until the strip was sold. Aunt Helen ran the concession stand, "hot dogs, yum-yum burgers, chips, beverages and candy," and the trophy room was added onto it later. All the kids worked there; Lita and her sisters arrived at 7 a.m. to help at the stand.[^dslne]
 

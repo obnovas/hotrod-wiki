@@ -105,7 +105,7 @@ Elsewhere in the state, local groups were already running drags. When a new stre
 
 By 1968 Omaha had a dragway of its own, and Jim Davis, "longtime president of the Missouri Valley Timing Association," became its manager.[^ls680210] By 1973 a sanctioned strip near Millard was drawing hundreds of spectators every summer.[^ls730531] In December 1971 the *Star* ran a brief headed "Wells President": a "former Lincolnite" named Wells had been "named president of the National Street Rod Association (NSRA)" and had "helped organize and produced the 1971 Street Rod Nationals in Memphis." The brief gives no first name. Reading it as Dick Wells is our inference from the Lincoln tie and the Nationals; see [Dick Wells](../people/dick-wells.md#q-3).[^ls711205]
 
-*See also:* [Engraving His Own Trophies](nebraska-flightland-grand-island-kearney.md), what came next: Grand Island's blank trophies, Omaha Dragway at Flightland and a Kearney strip opened in 1964.
+*See also:* [Engraving His Own Trophies](nebraska-flightland-grand-island-kearney.md), what came next: the blank trophies a Lincoln racer engraved, Omaha Dragway at Flightland, and a Kearney strip whose opening a 2014 anniversary dates to July 5, 1964.
 
 ## Open questions & disputed details
 

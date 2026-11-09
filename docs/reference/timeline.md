@@ -15,7 +15,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1937–38 ⚠ | SCTA formed. Kong Jackson recalled it as 1938; the first meet date is disputed | [Dry Lakes & SCTA](../eras/1930s-dry-lakes-scta.md), [Kong Jackson](../people/kong-jackson.md) |
 | 1938 | Stu Hilborn first visits Muroc (his recollection) | [Stu Hilborn](../people/stu-hilborn.md) |
 | 1939 | Jack Engle runs 113 mph at El Mirage (family caption) | [Jack Engle](../people/jack-engle.md) |
-| 1940 | Charley Card opens a restaurant on Chestnut Street, Chattanooga; by his account the busy wartime counter left no room for the register, and customers called him "Honest" (tellings differ ⚠) | [Honest Charley](../companies/honest-charley-speed-shop.md) |
+| 1940s | Charley Card runs a downtown Chattanooga restaurant near the Read House; in wartime he puts the register outside the door (tellings differ ⚠) | [Honest Charley](../companies/honest-charley-speed-shop.md) |
 | 1941 | Muroc meet broken up by Army Jeeps, per Kong Jackson. Engle hand-grinds early cams | [Kong Jackson](../people/kong-jackson.md), [Jack Engle](../people/jack-engle.md) |
 | 1943–45 | Veda Orr's wartime newsletter keeps the lakes community in touch | [Veda Orr](../people/veda-orr.md) |
 | 1944 | Roland Leong born in Honolulu (May) | [Roland Leong](../people/roland-leong.md) |
@@ -30,7 +30,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1948 | Howie Wilson drives Hilborn streamliner 150.5 mph at El Mirage (SEMA account) | [Stu Hilborn](../people/stu-hilborn.md) |
 | 1948–53 | California Highway Patrol works with hot rod clubs until a 1953 order ends it | [City planners, 1955](../drag-racing/planners-report-1955.md) |
 | 1948 | Denver street racers advertise a meeting at Wyman Elementary; over 220 come. The Denver Timing Association is incorporated Apr 9, 1949 | [Denver & Bandimere](../drag-racing/denver-timing-association-bandimere.md) |
-| 1948 | Honest Charley Speed Shop opens at 2204 McCallie Avenue, Chattanooga, with a hand-drawn mail-order catalog | [Honest Charley](../companies/honest-charley-speed-shop.md) |
+| 1948 | Honest Charley Speed Shop opens on McCallie Avenue, Chattanooga; Card hand-draws the catalog, and SEMA calls him one of the first to publish one | [Honest Charley](../companies/honest-charley-speed-shop.md) |
 | 1949 | SCTA's first Bonneville meet. Johansen's twin-tank streamliner runs 147.54 | [Howard Johansen](../people/howard-johansen.md) |
 | 1949 | Apr 10: Fran Hernandez beats Tom Cobbs at Goleta (nitro '32 coupe) | [Fran Hernandez](../people/fran-hernandez.md) |
 | 1949 ◐ | Hono-Kai Timing Association formed in Honolulu, about 20 members; a Navy roadway for drags until the authorities refuse (via *Best Hot Rods*, 1952) | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
@@ -298,7 +298,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1964 ◐ | Andy Nikitenko races a Cessna at Minot International Airport and flips at 150 mph | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
 | 1964 | Albuquerque Dragway opens (spring), paid for with bonds | [New Mexico](../drag-racing/new-mexico-timing-association-albuquerque.md) |
 | 1964 | Tucson Dragway opens at Valencia and Houghton roads; more than 6,000 at the first race. The Adventure Car Hop closes ◐ | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md), [Route 1, Saugus](../places/route-1-saugus-adventure-car-hop.md) |
-| 1964 | Carroll Sheldon opens the Kearney, Neb., drag strip (July 5); Honest Charley's 30,000-square-foot warehouse on Honest Street | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md), [Honest Charley](../companies/honest-charley-speed-shop.md) |
+| 1964 | Carroll Sheldon opens the Kearney, Neb., drag strip; July 5, 1964 is the reading of a July 5, 2014 golden-anniversary story | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
 | 1965 | Johansens retire; Jerry Johansen takes over Howard's | [Howard Johansen](../people/howard-johansen.md) |
 | 1965 | Gays' *Infinity* GTO Funny Car debuts (July 3, Dickinson). Hassel moves to Florida for Crane Cams. Virgil Cates's NHRA Comp title | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
 | 1965 | First annual MVTA Rod and Custom Show, Twin Falls (July 24–25) | [Twin Falls](../places/twin-falls-main-avenue.md) |
@@ -352,6 +352,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1969 | The Fred F. Cain dealership advertises the "Hurri-Cain" Barracuda funny car, 8.85 at 152 (Sept) | [Sanford & the Hurri-Cain](../drag-racing/sanford-cain-bannister.md) |
 | 1969 | Santa Maria Valley Jaycees' Golden State Raceway: NHRA Super Stock points meet (Apr); Roger Gates's 7.50-second pump-gas record (June) | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
 | 1970 | First NSRA Street Rod Nationals, Peoria. Vanke in Pro Stock | [Peoria](../eras/1970s-street-rod-nationals.md), [Vanke](../people/arlen-vanke.md) |
+| 1970 | Ralph Guldahl profiles Charley Card; SEMA's photograph shows a brand-new 30,000-square-foot store on Honest Street, and Card is the second SEMA Hall of Fame inductee | [Honest Charley](../companies/honest-charley-speed-shop.md) |
 | 1970 | KK Sports Arena, Inc. files for bankruptcy ($780,799 in debts) and closes (July 17–18); auction in November | [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
 | 1970 | Snow's 208.71 at Dallas (May 3), first 200-mph Funny Car pass at an NHRA national event; his "Super Season" | [Gene Snow](../people/gene-snow.md) |
 | 1970 | Wildlife Racing's Mattel Hot Wheels deal for Prudhomme and McEwen begins (through 1972) | [Tom McEwen](../people/tom-mcewen.md), [Don Prudhomme](../people/don-prudhomme.md) |
@@ -378,7 +379,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1974 ⚠ | Evel Knievel jumps Mack trucks at Green Valley for ABC (Feb 17; crowd size disputed) | [Green Valley](../drag-racing/green-valley-raceway-smithfield.md) |
 | 1974 | Spokane Raceway Park opens and the Deer Park drags end | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | 1974 ⚠ | Keith Black and Bob Tarozzi introduce the KB aluminum racing block, patterned on a 426 (Garlits Museum) or a 392 (SEMA, 1986) | [Keith Black](../people/keith-black.md) |
-| 1974 ⚠ | Charley Card dies (October 26, 1974, by SEMA and his biography; 1975 by others ⚠) | [Honest Charley](../companies/honest-charley-speed-shop.md) |
+| 1974 ⚠ | Charley Card dies in 1974 by SEMA's count (Wikipedia gives October 26); 1975 by the *Times Free Press* and the company's feature ⚠ | [Honest Charley](../companies/honest-charley-speed-shop.md) |
 | 1975 | A Santa Maria letter-writer calls the Golden State Raceway "doomed" as the airport and Chamber of Commerce pull back (Dec) | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
 | 1976 | Competition Cams formed by six partners, producing out of RHS's warehouse | [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | 1976 | Kanawha Valley Drag Strip closes | [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md) |
@@ -414,7 +415,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1988 | Mickey Thompson and his wife Trudy are murdered at their Bradbury, Calif., home, March 16 | [Mickey Thompson](../companies/mickey-thompson.md) |
 | 1989 | First JEGS mail-order catalog (34,000 copies, per a 2015 trade feature) | [JEGS](../companies/jegs.md) |
 | 1990 | Modesto passes anti-cruising ordinances (Mar 27) | [Modesto](../places/modesto.md) |
-| 1990 | Honest Charley Speed Shop closes; Robert Espy had kept it going after Card's death, and Coker Tire revives the name in 1998 | [Honest Charley](../companies/honest-charley-speed-shop.md) |
+| 1990 | Honest Charley Speed Shop closes; Coker Tire revives the name in 1998 | [Honest Charley](../companies/honest-charley-speed-shop.md) |
 | 1991 | McEwen wins Top Fuel at the Summernationals; Keith Black dies (May 13) | [Tom McEwen](../people/tom-mcewen.md), [Keith Black](../people/keith-black.md) |
 | 1994 | Lee Nelson sells Polar Dragway to a group incorporated as Top End, Inc. (Nov); renamed Alaska Raceway Park; the Lackeys join in 1994 or 1995 ⚠ and become sole owners in 1998 | [Palmer](../drag-racing/palmer-alaska-polar-dragway.md) |
 | 1997 | LA County anti-cruising ordinance (2 passes in 6 hours) | [Whittier Blvd](../places/whittier-blvd.md) |

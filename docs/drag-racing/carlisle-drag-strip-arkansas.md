@@ -73,7 +73,7 @@ related:
 - people/doris-herbert.md
 - drag-racing/roanoke-drag-strip-southwest-virginia.md
 canonical_for: []
-location: Carlisle Municipal Airport (wartime Stuttgart Army Airfield Auxiliary No. 1), Lonoke County, Ark.[^wikicar][^brower]
+location: Carlisle airport, a World War II auxiliary field for Stuttgart Army Airfield, east of Little Rock, Ark.[^brower]
 peak: late 1950s–1960s
 ---
 # Second Sunday at Carlisle: The Arkansas Timing Association's Bomber-Field Strip (1955–1970s)
@@ -81,7 +81,7 @@ peak: late 1950s–1960s
 *A runway built on Granite Mountain rock, a garage speed shop run by a railroad engineer, a rice field past the finish line, and a protest that ended at a tire iron*
 
 !!! abstract "Article record"
-    **Confidence:** Low (the long history is one racer's, written decades later; the airfield's wartime origin is confirmed by an encyclopedia entry, and other racers' and a spectator's memories agree on the strip and its touring names, but split on when it opened; no Arkansas newspaper page was read) · **Source types:** <span class="hr-badge">Grassroots</span> Paul Brower's history of the strip and its racers, and other recollections, on *Drag Strip List*; Lance Miller's memoir blog (*A Sequence of Events*); Wikipedia on Carlisle Municipal Airport · **Last verified:** 2026-11-09 (Round 36) · **Open issues:** ⚠ first meet April 1955, racing in 1957, or opening in summer 1958; ◐ the tire-iron protests; ◐ the Middle Eliminator challenge race · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low (the long history is one racer's, written decades later; he calls the field a World War II auxiliary airfield built in 1942, and an encyclopedia entry alone supplies the Auxiliary No. 1 name; other racers' and a spectator's memories agree on the strip and its touring names, but split on when it opened; no Arkansas newspaper page was read) · **Source types:** <span class="hr-badge">Grassroots</span> Paul Brower's history of the strip and its racers, and other recollections, on *Drag Strip List*; Lance Miller's memoir blog (*A Sequence of Events*); Wikipedia on Carlisle Municipal Airport · **Last verified:** 2026-11-09 (Round 36 citation check) · **Open issues:** ⚠ first meet April 1955, racing in 1957, or opening in summer 1958; ◐ the tire-iron protests; ◐ the Middle Eliminator challenge race; ◐ the Auxiliary No. 1 designation · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "It may be remembered that several protests of Sanders's engine came to naught when he blocked access to the hood with a tire iron."
@@ -92,7 +92,7 @@ peak: late 1950s–1960s
 
 Before there was a strip, Little Rock had a road. Paul Brower, who raced at Carlisle for years, wrote that there was "a certain degree of 'organization'" in the 1950s when anonymous drivers gathered on Fourche Dam Pike, "the narrow two-lane road 'behind' Adams Field," the Little Rock airport. Their show place was the Snappy Service Drive In, "the meeting/show place for many hot rodders of the day."[^brower]
 
-The real thing came from the war. The Army Air Forces built an auxiliary field near Carlisle in 1942–43 for Stuttgart Army Airfield, Auxiliary No. 1, unstaffed, for practice landings and emergencies, and abandoned it after the war.[^wikicar] Brower wrote that its asphalt runways were laid in an "L" over thousands of loads of crushed stone, "said to be" hauled from Granite Mountain in Little Rock to carry bombers flown by student pilots from Stuttgart. A similar field at Hazen, about 15 miles away, could not be reached from Highway 70, "so Carlisle was chosen by the Arkansas Timing Association as the site for the state's first 'formal' drag strip."[^brower]
+The real thing came from the war. Brower wrote that Carlisle Drag Strip was a World War II auxiliary airfield that supported Stuttgart Army Airfield, built in 1942, its asphalt runways laid in an "L" over thousands of loads of crushed stone, "said to be" hauled from Granite Mountain in Little Rock to carry bombers flown by student pilots from Stuttgart.[^brower] An encyclopedia entry gives the field a service name he does not: Stuttgart Army Airfield Auxiliary No. 1, built in 1942–43, unstaffed, for practice landings and emergencies, and abandoned after the war.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^wikicar] A similar field at Hazen, about 15 miles away, could not be reached from Highway 70, "so Carlisle was chosen by the Arkansas Timing Association as the site for the state's first 'formal' drag strip."[^brower]
 
 The ATA was five men from Little Rock and North Little Rock: O. D. Brazil and his brother Charles, Jim Reynolds, Woodie Taylor and Richard Thompson. It ran under NHRA rules and classes, and a pit pass bought NHRA insurance. At first you had to be an owner, driver or crew member to get one, "until promoters figured out that there was a small profit to be made on each pit pass." Brower dates the first drag meet to April 1955.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^brower]
 
@@ -129,6 +129,8 @@ It stayed a part-time strip on a working airfield. Miller remembered crop duster
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Babe Sanders fend off protests with a tire iron?** Only Brower tells it, as something that "may be remembered." The $25 teardown deposit is from the same account.[^brower] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Heim and Butler take the Middle Eliminator top spot at Carlisle?** Brower writes that they won the first and third rounds against the Des Moines team of Dave Powers, Bob Riley and Don Roshak and held the spot for over a year; no *Drag News* list has been read.[^brower] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Was Carlisle Stuttgart Army Airfield Auxiliary No. 1?** Wikipedia's airport page says the Army Air Forces built it in 1942/43 as an "axillary airfield," "known simply as Stuttgart Army Airfield Auxiliary #1," unstaffed, for practice landings and emergencies, and abandoned after the war. Paul Brower, who raced there, calls it a World War II auxiliary airfield built in 1942 that supported Stuttgart Army Airfield, and does not give the number. The military-airfields page Wikipedia cites was not opened.[^wikicar][^brower] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ### Next leads
 
