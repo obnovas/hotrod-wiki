@@ -96,6 +96,8 @@ There is one company claim, and it is about a street corner, not a musician. COM
 
 The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
 
+*See also:* [Second Sunday at Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md), an Arkansas bomber-field strip where, one racer wrote, "the latest stuff always seemed to come from Memphis."
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

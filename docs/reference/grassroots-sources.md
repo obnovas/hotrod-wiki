@@ -82,6 +82,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Houston Home Journal](https://gahistoricnewspapers.galileo.usg.edu/lccn/sn89053614/1960-10-06/ed-1/seq-6/) (Perry, Ga., 1960; page OCR) → two editorials against a drag strip "for our youngsters" → [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md).
 - Other Georgia papers, one or two items each (page OCR): *Griffin Daily News*, *Jackson Progress-Argus*, *Omega News*, *Oconee Enterprise*, *Athens Banner-Herald*, *Pickens County Progress* (a 2014 Hall of Fame column) and *Walker County Messenger* (a 2019 eyewitness column) → [Yellow River](../drag-racing/yellow-river-covington.md), [Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md).
 - [The Cumberland News](https://archive.org/details/cumberland-news-1961-02-22) (Cumberland, Md., 1958–62; scanned OCR) → the Clockers' meetings, Heart Fund canvass, York trips and go-kart races → [Cumberland Clockers](../drag-racing/cumberland-clockers.md).
+- Round 36 additions: Nelson Harris in [*The Roanoker*, Nov./Dec. 2025](https://theroanoker.com/strange-days-of-roanoke-nascar-at-starkey/) (Roanoke magazine local-history column) → Starkey Speedway's 1950 opening and 1971 closing → [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md); Dave Flessner in the [*Chattanooga Times Free Press*, Oct. 1, 2016](https://www.timesfreepress.com/news/2016/oct/01/edge-october-brand/) → the hometown history of Honest Charley → [Honest Charley](../companies/honest-charley-speed-shop.md); [NTV News, Kearney, July 5, 2014](https://nebraska.tv/archive/kearney-raceway-park-celebrates-50-years) → Doug Sheldon on his father's 1964 strip → [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md).
 
 ### Obituaries and funeral-home pages
 - [Memphis Funeral Home, Joe Lunati](https://www.dignitymemorial.com/obituaries/memphis-tn/joe-lunati-11461265) (2023, via Dignity Memorial) → the family's birth date and place, the 1969 founding date and title count, both in conflict with other sources ⚠ → [Joe Lunati](../people/joe-lunati.md).
@@ -123,6 +124,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 
 - [Ames telephone directory, Dec 1957](https://archive.org/details/1957.12amestelephonedirectory) (Northwestern Bell; scanned) → the strip's listing, including under "Race Tracks" in the yellow pages → [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md).
 - [Delaware County (Ohio) Commissioners Journal, Aug 12, 2010](https://co.delaware.oh.us/wp-content/uploads/commissioners/journal/2010/08_12_10.pdf) (Resolution 10-1059) → JEGS's 1960 founding address and later milestones → [JEGS](../companies/jegs.md).
+- [Nebraska Department of Aeronautics bulletin, June 1960](https://govdocs.nebraska.gov/epubs/A4000/N001-1960jun.pdf) (state monthly, digitized by Nebraska state publications) → Flightland airport's founders, acreage and runway → [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md).
 
 ### Historical markers
 - Ohio History Connection marker 47-77, via [Remarkable Ohio](https://remarkableohio.org/marker/47-77-akron-fulton-airport-champions-raceway/) and [HMdb](https://www.hmdb.org/m.asp?m=142783) → the text we compare with NHRA's account → [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md).
@@ -152,6 +154,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Denver Public Library, "Colorado Auto Racing: A Brief History"](https://history.denverlibrary.org/news/colorado-auto-racing-brief-history) (library blog, 2016) → Bandimere Speedway's 1958 opening and its parts-store origin → [March 1957 survey](../drag-racing/march-1957-drag-strip-survey.md).
 
 - [Ames History Museum, "Ames Drag Strip"](https://ameshistory.org/content/ames-drag-strip) (historical society page with a transcribed 1958 *Ames Tribune* feature) and its [June 2013 newsletter](https://archive.org/details/2013-newsletter-2) → the site, the owners, the advisory board, the 1957 ad and the closing story ◐ → [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md).
+- [Blue Ridge Institute & Museum, Ferrum College, *Southwest Virginia Racing*](https://www.vaautoracing.org/hotrodding.htm) (regional folklife museum's web exhibit, six chapters) → the region's clubs, courtesy cards, strips and opening dates, the Honest Charley "bible" → [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md), [Honest Charley](../companies/honest-charley-speed-shop.md); [Virginia Room, Roanoke Public Libraries](https://www.virginiaroom.org/digital/document/RVNH5037) (photograph record) → "The dragstrip opened in June 1958" → [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md); Lance Miller's memoir blog, [*A Sequence of Events*](https://lance-sequence.blogspot.com/1970/07/carlisle-dragstrip.html) → Carlisle as a Little Rock boy saw it → [Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md).
 
 ### School yearbooks and student newspapers
 - [Classmates.com yearbook scans on the Internet Archive](https://archive.org/details/classmates-yearbook-32257-1963-southeast-guilford-high-school) (1955–63, plus Little Rock Central 1978 for a Racing Head Service ad on the [COMP Cams page](../companies/comp-cams-rhs.md): Pensacola, Chillicothe, Portland's Central Catholic, Fort Collins, Tillamook, Imbler, Shawnee Mission, Southeast Guilford) → club rosters, senior entries, a class will and a school paper's car column → [High school clubs](../drag-racing/high-school-hot-rod-clubs.md).
@@ -170,6 +173,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [H.A.M.B., "Lake Street (Mpls, MN) in the 60s"](https://www.jalopyjournal.com/forum/threads/lake-street-mpls-mn-in-the-60s.341268/) → anonymous cruisers' memories → [Lake Street & University](../places/lake-street-university.md).
 - [Lone Star Speedzone, "DRAG-UNS"](https://www.lonestarspeedzone.com/topic/47203-drag-uns/) → a Kerrville police-sponsored club; flagged ◐ → [City planners, 1955](../drag-racing/planners-report-1955.md).
 - [NSRA (UK) forum, "Gasser Fans"](https://forum.nsra.org.uk/archive/index.php/t-28331.html) (May 2009) → a secondhand May 19 notice of Chuck Finders's death, footnoted beside the family's preferred May 17 date → [Ohio Gassers](../places/ohio-gassers.md).
+- *Drag Strip List* memories pages for [Virginia](https://dragstriplist.com/va), [Nebraska](https://dragstriplist.com/ne), [Arkansas](https://dragstriplist.com/ar) and [Idaho](https://dragstriplist.com/id) (racers' and families' own posts, with names; read through a headless browser because the pages are script-rendered) → Roanoke's uphill shutdown and the 1960 teardown, Gene Kidder's engraved trophies, Paul Brower's Carlisle history, Pocatello's lights and grass-filled joints → [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md), [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md), [Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md), [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
 
 ## Where we could not go yet
 Digitized local newspapers hold the best period coverage of hot rod arrests, club safety drives and lakes records. Several of those archives refused automated access (see the [Research Trail](../research-trail.md)), and we did not work around the blocks. The ones that stayed shut are still the top lead for the next rounds. The access table below says which archives worked and which did not.
@@ -204,6 +208,15 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 36 status
+| Archive | Round 36 status |
+|---|---|
+| Chronicling America / Library of Congress | Cloudflare challenge on direct requests; not bypassed. No period Virginia, Nebraska or Arkansas newspaper page was read this round. |
+| *Drag Strip List* state memories pages | Script-rendered; plain fetch returns an empty shell. Read through a headless browser. |
+| Blue Ridge Institute and Virginia Room photographs | Readable, but rights are not open; no image used. |
+| *Chattanooga Times* / *News-Free Press* (1948, 1964, 1974) | Not reached; Card's death year stays ⚠. |
+| *Idaho State Journal* period pages | Still not readable; the Pocatello closing stays ⚠. |
 
 ### Round 35 status
 | Archive | Round 35 status |

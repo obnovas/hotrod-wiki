@@ -111,6 +111,8 @@ In June 1959 a supercharger explosion at Chester nearly killed Don Garlits. Spit
 
 Chester was not alone in the upstate. Bill Pratt wrote that "Ware Shoals Dragway, originally built as a dirt track in 1956, was one of the first drag strips built in the Southeast," built by the Gambrell family, who ran a drive-in on Route 25, "to get the street racers off Highway 25."[^ws02] Greer Dragway opened in October 1958; the drag strip historian Bret Kepner told Spittle that the I.T.A. sanctioned its opening and that the Greer Jaycees, who first managed it, brought Osiecki in.[^hambch] Kepner later dug up the name of the man who won the very first race at Greer in 1958, Norman Peace; the track tracked him down and made him guest of honor at one of its gasser races, where Kepner interviewed him on the starting line.[^di25] Greer still runs, under Mike Greer, who began racing there in the 1970s.[^di25]
 
+*See also:* [The Roanoke Drag Strip](roanoke-drag-strip-southwest-virginia.md), whose Abingdon club towed "as far away as Chester" before Southwest Virginia had strips of its own.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

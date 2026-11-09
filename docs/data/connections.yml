@@ -170,6 +170,15 @@ nodes:
   - {id: struksnes,  label: Bob Struksnes, type: person, page: drag-racing/north-dakota-minot-borrowed-strips.md}
   - {id: rleong,     label: Roland Leong, type: person, page: people/roland-leong.md}
   - {id: kahuku,     label: Kahuku Point strip, type: place, page: drag-racing/kahuku-point-hawaii-drag-strip.md}
+  # ---- Round 36
+  - {id: honestcharley, label: Honest Charley Speed Shop, type: company, group: garage-born, page: companies/honest-charley-speed-shop.md}
+  - {id: ccard,      label: "Charley Card (Honest Charley)", type: person, page: companies/honest-charley-speed-shop.md}
+  - {id: chattanooga, label: "Chattanooga, Tenn.", type: place, page: companies/honest-charley-speed-shop.md}
+  - {id: roanokestrip, label: "Roanoke Drag Strip (Va.)", type: place, page: drag-racing/roanoke-drag-strip-southwest-virginia.md}
+  - {id: fcr,        label: FCR Performance, type: company, group: garage-born, page: drag-racing/nebraska-flightland-grand-island-kearney.md}
+  - {id: omahadragway, label: "Omaha Dragway (Flightland, Neb.)", type: place, page: drag-racing/nebraska-flightland-grand-island-kearney.md}
+  - {id: twincityspeed, label: "Twin City Speed Shop (North Little Rock)", type: company, group: garage-born, page: drag-racing/carlisle-drag-strip-arkansas.md}
+  - {id: carlislestrip, label: "Carlisle Drag Strip (Ark.)", type: place, page: drag-racing/carlisle-drag-strip-arkansas.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -567,3 +576,24 @@ edges:
      evidence: ["raced cars of his own at the Kahuku drag strip"]}
   - {from: rleong, to: nhra, type: scene, label: "Left school for NHRA racing; 1965 Winternationals and U.S. Nationals with Prudhomme", page: people/roland-leong.md,
      evidence: ["to chase a career in NHRA drag racing"]}
+  # ----- Round 36
+  - {from: honestcharley, to: ccard, type: founded, label: "Opened the shop in 1948 with son-in-law Robert J. Espy", page: companies/honest-charley-speed-shop.md,
+     evidence: ["In 1948 he opened Honest Charley Speed Shop with his son-in-law"]}
+  - {from: honestcharley, to: chattanooga, type: hometown, label: "260-square-foot storefront on McCallie Avenue, Chattanooga", page: companies/honest-charley-speed-shop.md,
+     evidence: ["a 260-square-foot storefront at 2204 McCallie Avenue"]}
+  - {from: honestcharley, to: roanokestrip, type: customer, label: "The catalog was Southwest Virginia's mail-order 'bible'", page: drag-racing/roanoke-drag-strip-southwest-virginia.md,
+     evidence: ["the catalog from Honest Charley's Speed Shop in Chattanooga, Tennessee"]}
+  - {from: fcr, to: omahadragway, type: scene, label: "Founder Terry Fritsch made his first quarter-mile run at Flightland, 1961", page: drag-racing/nebraska-flightland-grand-island-kearney.md,
+     evidence: ["at Flightland Drag Strip at the Blair, Nebraska Airport at a speed of over 104 miles per hour"]}
+  - {from: omahadragway, to: lincoln, type: scene, label: "After Scribner: Nebraska's airport strips of the 1960s", page: drag-racing/nebraska-flightland-grand-island-kearney.md,
+     evidence: ["While Lincoln's clubs hunted for a sanctioned strip"]}
+  - {from: twincityspeed, to: carlislestrip, type: scene, label: "Woodie Taylor, an ATA founder, ran the shop from his garage", page: drag-racing/carlisle-drag-strip-arkansas.md,
+     evidence: ["ran Twin City Speed Shop out of his garage in North Little Rock"]}
+  - {from: carlislestrip, to: memphis, type: scene, label: "\"The latest stuff always seemed to come from Memphis\"", page: drag-racing/carlisle-drag-strip-arkansas.md,
+     evidence: ["the latest stuff always seemed to come from Memphis"]}
+  - {from: roanokestrip, to: chester, type: scene, label: "Before Roanoke opened, the Abingdon Ridge Runners towed to Chester", page: drag-racing/roanoke-drag-strip-southwest-virginia.md,
+     evidence: ["as far away as Chester, South Carolina"]}
+  - {from: ccard, to: sema, type: scene, label: "Second inductee into SEMA's Hall of Fame (1970)", page: companies/honest-charley-speed-shop.md,
+     evidence: ["the second inductee into SEMA's Hall of Fame"]}
+  - {from: roanokestrip, to: nhra, type: scene, label: "Opened June 29, 1958, under NHRA", page: drag-racing/roanoke-drag-strip-southwest-virginia.md,
+     evidence: ["gives June 29, 1958, and NHRA"]}

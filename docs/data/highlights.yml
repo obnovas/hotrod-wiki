@@ -13,6 +13,45 @@ settings:
   max_featured: 16
 
 highlights:
+  - id: kidder-engraved-his-own-trophies
+    headline: At Grand Island the trophies came blank, so a Lincoln racer engraved his own, to about the 200th
+    teaser: Gene Kidder remembered that Nebraska trophies of the late 1950s came without winners' names, sometimes without the track's. "I had an engraving tool and did most of my trophies by engraving my name," he wrote, along with his speed, until about his 200th.
+    link: drag-racing/nebraska-flightland-grand-island-kearney.md
+    evidence: I had an engraving tool and did most of my trophies by engraving my name
+    source_type: [Oral history, Forum post]
+    confidence: Low
+    flag: none
+    grassroots: true
+    added: '2026-11-09'
+    eras: [1950s]
+    regions: ['Grand Island, Neb.']
+
+  - id: roanoke-clubs-courtesy-cards
+    headline: Southwest Virginia's hot rod clubs met in police stations and handed out courtesy cards
+    teaser: Ferrum College's Blue Ridge Institute found that the region's 1950s clubs met in garages, halls "and even police stations," and that members "carried 'courtesy cards' which they gave to stranded motorists they helped on the highways." In June 1958 a club ran the new Roanoke Drag Strip.
+    link: drag-racing/roanoke-drag-strip-southwest-virginia.md
+    evidence: ["and even police stations", "carried 'courtesy cards' which they gave to stranded motorists they helped on the highways"]
+    source_type: ["Museum / HOF", Local history site]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-09'
+    eras: [1950s]
+    regions: ['Roanoke, Va.']
+
+  - id: honest-charley-register-outside
+    headline: How a Chattanooga lunch counter with no room for the register named Honest Charley
+    teaser: Charley Card told Hot Rod in 1970 that his wartime restaurant was so busy he put the cash register "outside the door" and asked customers what they owed. The tellings differ, but the name went on a speed shop in 1948 and a catalog Southwest Virginia called its bible.
+    link: companies/honest-charley-speed-shop.md
+    evidence: so I put it outside the door
+    source_type: [Trade press]
+    confidence: Medium
+    flag: conflict
+    grassroots: false
+    added: '2026-11-09'
+    eras: [1940s]
+    regions: ['Chattanooga, Tenn.']
+
   - id: golden-triangle-flagger-sent-garlits-back
     headline: A skinny flagger in an Oldsmar pasture sent Garlits back for jumping the start
     teaser: Bob Nugent was "one skinny and nervous kid" when Don Garlits jumped a Top Eliminator start against Chris Karamesines at Golden Triangle Drag Strip. He waved them back; he forgot who won the rerun.

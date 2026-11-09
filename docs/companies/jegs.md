@@ -84,7 +84,7 @@ The story behind the founder's retail instincts comes from Stagg: "Jeg Sr.'s dad
 
 JEGS's story runs into several others here. [Midwest & East Threads](../places/midwest-east.md) has the original JEGS section, including the paywalled *Columbus Dispatch* 50th-anniversary article we have not read. [The Ohio Gassers](../places/ohio-gassers.md) has Coughlin's Austin A/GS and the Columbus teams around him. [Moroso](moroso.md) and [Mickey Thompson](mickey-thompson.md) are two of the brands JEGS built its catalog on, both founder-racer companies too. And [Holley](holley.md) shows the other road a speed-parts name can take, ending up as the parent of other garage-born brands; JEGS's own history says its founder sold to his sons.
 
-*See also:* [The Web of Influence](web-of-influence.md).
+*See also:* [The Web of Influence](web-of-influence.md); [Honest Charley Speed Shop](honest-charley-speed-shop.md), a Chattanooga mail-order shop that started in 1948.
 
 ## Open questions & disputed details
 

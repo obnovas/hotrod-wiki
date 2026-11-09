@@ -712,6 +712,24 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [org] Phil Burgess, "NHRA national event history: A look at the tracks and stories that drove the sport," NHRA.com, Aug. 1, 2025. https://www.nhra.com/news/2025/nhra-national-event-history-look-tracks-and-stories-drove-sport
 - [org] Phil Burgess, "Legendary NHRA car owner Roland Leong, 'the Hawaiian,' passes away," NHRA.com, Dec. 29, 2023; "A final 'aloha' to 'the Hawaiian'," Jan. 5, 2024; "The big book of drivers who wheeled Roland Leong's Hawaiian entries," Jan. 12, 2024. https://www.nhra.com/news/2023/legendary-nhra-car-owner-roland-leong-hawaiian-passes-away
 
+## Round 36 additions (Roanoke & Southwest Virginia, Honest Charley, Nebraska strips, Carlisle, Pocatello)
+- [museum] Blue Ridge Institute & Museum, Ferrum College, *Southwest Virginia Racing* web exhibit, "Hot Rodding & Drag Racing," chapters 1–3, 5 and 6 (club history, regional drag racing, strips and opening dates, car clubs and club list, hot rod terms; undated). https://www.vaautoracing.org/hotrodding.htm
+- [local] "RVNH5037" (Roanoke Drag Strip at Starkey Speedway photograph record), Roanoke Valley in the 1950s Photograph Collection, Virginia Room Digital Collection, Roanoke Public Libraries. https://www.virginiaroom.org/digital/document/RVNH5037
+- [local] Nelson Harris, "Strange Days of Roanoke: NASCAR at Starkey," *The Roanoker*, Nov./Dec. 2025. https://theroanoker.com/strange-days-of-roanoke-nascar-at-starkey/
+- [forum] "Virginia: Remembering . . ." (Nick Smith, Mike Smith, Sandra Thomas Atkinson, Glenn Goss and others), *Drag Strip List*. https://dragstriplist.com/va
+- [trade] "SEMA Heritage: Honest Charley Card, Hisself," SEMA eNews, April 2012 (quoting Ralph Guldahl, *Hot Rod*, late 1970). https://www.sema.org/news-media/enews/2012/04/sema-heritage-honest-charley-card-hisself
+- [local] Dave Flessner, "History of Honest Charley in Chattanooga," *Chattanooga Times Free Press*, Oct. 1, 2016. https://www.timesfreepress.com/news/2016/oct/01/edge-october-brand/
+- [trade] Tommy Lee Byrd, "Honest Charley: Iconic Brand of the Automotive Aftermarket Lives On," Mopar Connection Magazine, July 27, 2017 (author is Coker Tire's project editor). https://moparconnectionmagazine.com/honest-charley-iconic-brand-of-the-automotive-aftermarket-lives-on/
+- [ref] "Honest Charley," Wikipedia (revision 1383600923). https://en.wikipedia.org/wiki/Honest_Charley
+- [forum] "Nebraska: Remembering . . ." (Gene Kidder, Ron Krull, Shain Humphrey, Robert Shiffer, Lita Madison, Jerry Burklund, Don Cameron and others), *Drag Strip List*. https://dragstriplist.com/ne
+- [gov] "Flightland - Omaha's Newest Airport," Nebraska Department of Aeronautics monthly bulletin, vol. 14, no. 6, June 1960, p. 3. https://govdocs.nebraska.gov/epubs/A4000/N001-1960jun.pdf
+- [local] Connie Weight, "Kearney Raceway Park Celebrates 50 Years," NTV News, July 5, 2014. https://nebraska.tv/archive/kearney-raceway-park-celebrates-50-years
+- [hof] "Terry Fritsch, Drag Racer," Nebraska Auto Racing Hall of Fame, 2008 inductees. https://www.narhof.com/inductees/2008
+- [forum] Paul Brower, "Carlisle Drag Strip," and recollections by Pat Stancil Downing and Bill McCown, "Arkansas: Remembering . . . ," *Drag Strip List*. https://dragstriplist.com/ar
+- [oral] Lance Miller, "Carlisle Dragstrip," *A Sequence of Events – Timeline of Lance Miller* (memoir blog). https://lance-sequence.blogspot.com/1970/07/carlisle-dragstrip.html
+- [ref] "Carlisle Municipal Airport," Wikipedia. https://en.wikipedia.org/wiki/Carlisle_Municipal_Airport
+- [forum] "Idaho: Remembering . . ." (Mel Bashore, Steve Thomas, Kathy Steinmetz, Vincent Hinman, Dave Lindorff; captions to Kathy Steinmetz's photographs), *Drag Strip List*. https://dragstriplist.com/id
+
 ## Round 35 additions (Keith Black, Tom McEwen, Chandler Firebird, OCIR, Golden Triangle)
 - [hof] Neil Britt and Chris Martin, "Keith Black," Motorsports Hall of Fame of America (class of 1995). https://www.mshf.com/hall-of-fame/inductees/keith-black.html
 - [family] Daniel Strohl, "Keith Black," Hemmings, Sept. 23, 2018 (updated March 26, 2024; Ken Black interview). https://www.hemmings.com/stories/keith-black/

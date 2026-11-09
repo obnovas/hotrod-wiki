@@ -702,7 +702,8 @@ themes:
         a: >-
           McDougall Field, named for a World War I ace killed at a 1928 Armistice Day air show, was replaced
           by the old Army air base in 1949. Its east-west runway became eastern Idaho's drag strip, which the
-          1971 USGS map labels "Drag Strip"; it closed in 1973 or about 1993 (⚠ see Open questions).
+          1971 USGS map labels "Drag Strip". Jim Hennessey bought the strip in 1973 and added lights in 1976; it
+          closed in 1973, about 1993 or 1999, depending on the account (⚠ see Open questions).
         link: drag-racing/pocatello-mcdougall-field-drag-strip.md
         also: [drag-racing/firebird-raceway-idaho-bootleggers.md]
         flag: drag-racing/pocatello-mcdougall-field-drag-strip.md#q-1
@@ -746,6 +747,35 @@ themes:
         link: drag-racing/golden-triangle-oldsmar.md
         also: [people/don-garlits.md, people/setto-postoian.md]
         flag: [drag-racing/golden-triangle-oldsmar.md#q-2, drag-racing/golden-triangle-oldsmar.md#q-1]
+      - id: roanoke-drag-strip
+        q: What was the Roanoke Drag Strip?
+        a: >-
+          Southwest Virginia's strip at Starkey Speedway, which opened in June 1958. Until then the region's
+          hot rodders towed to North Carolina and as far as Chester, South Carolina, and for its first three
+          years, a photograph caption says, a club, the Roanoke Dragsters, ran it for the owners (◐ see Open
+          questions).
+        link: drag-racing/roanoke-drag-strip-southwest-virginia.md
+        also: [companies/honest-charley-speed-shop.md, drag-racing/chester-drag-strip-south-carolina.md]
+        flag: drag-racing/roanoke-drag-strip-southwest-virginia.md#q-2
+      - id: nebraska-airport-strips
+        q: Where did Nebraska's racers drag race in the late 1950s and 1960s?
+        a: >-
+          Mostly at airports. Grand Island hosted the NHRA Midwest Regionals on June 23, 1957; Omaha Dragway
+          ran on Sundays at Flightland, a private airport scheduled to open in 1960 that one racer remembered
+          as paved with racing money (◐ see Open questions); and Carroll Sheldon opened Kearney's strip on
+          July 5, 1964.
+        link: drag-racing/nebraska-flightland-grand-island-kearney.md
+        also: [drag-racing/nebraska-go-out-to-scribner.md]
+        flag: drag-racing/nebraska-flightland-grand-island-kearney.md#q-1
+      - id: carlisle-arkansas-first-strip
+        q: Where was Arkansas's first formal drag strip?
+        a: >-
+          On a World War II auxiliary runway at Carlisle, east of Little Rock, which the Arkansas Timing
+          Association chose for the state's first "formal" strip; it raced on the second Sunday, April through
+          October. Its opening is dated April 1955, 1957 or summer 1958 (⚠ see Open questions).
+        link: drag-racing/carlisle-drag-strip-arkansas.md
+        also: [places/memphis.md, drag-racing/hope-airport-drag-strip.md]
+        flag: drag-racing/carlisle-drag-strip-arkansas.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -940,6 +970,15 @@ themes:
         link: drag-racing/deer-park-spokane-nitrous.md#the-bottle-under-the-cowl
         also: [people/barney-navarro.md]
         flag: drag-racing/deer-park-spokane-nitrous.md#q-3
+      - id: who-was-honest-charley
+        q: Who was Honest Charley?
+        a: >-
+          Charley Card, a Chattanooga restaurant owner whose nickname came from putting his cash register
+          outside the door (the tellings differ; ⚠ see Open questions). He opened Honest Charley Speed Shop in
+          1948, and its hand-drawn catalog became Southwest Virginia hot rodders' mail-order "bible."
+        link: companies/honest-charley-speed-shop.md
+        also: [drag-racing/roanoke-drag-strip-southwest-virginia.md, companies/jegs.md]
+        flag: companies/honest-charley-speed-shop.md#q-1
   - id: people
     title: People
     questions:
