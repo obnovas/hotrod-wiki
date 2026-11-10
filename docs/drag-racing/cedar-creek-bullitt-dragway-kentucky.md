@@ -118,6 +118,8 @@ Cedar Creek had company. Dave Huber, who grew up near the strip and later drove 
 
 Racers' memories on the same site sketch the rest of the map. At Campbellsville, "the first year, in 1959, the track was clay dirt before it was paved," recalled William McNear, whose father raced there from 1959 until the track closed in 1973. At Thorn Hill in northern Kentucky, where the owner, Ralph Payne, also ran Thorn Hill Lakes, Stan Budke's first memories, from about 1957, are of a starter with a flag, who later used a traffic light and then a clock with a dial and a hand that turned to zero. Owensboro's first strip was an eighth mile, Dave Wandel of Grandview, Indiana, wrote, "as we ran at night and there was little room for shutdown," and "the Ford guys called Chevys Gators around Owensboro." Wandel also ran a '57 Ford in A/Stock on the Sturgis municipal airport in the late 1950s or early 1960s. Mike Phillips, who raced at Owensboro from 1966 to 1970, remembered a Super Stock and FX race that ran Hardinsburg on Friday, Owensboro on Saturday and Bowling Green on Sunday. And Jerry Keyes, then a student at Eastern Kentucky State College, still has the trophy from the day in 1965 when he was the only car in his class at the Richmond Dragway: it reads "Richmond Dragway Winner 1965."[^dslky]
 
+*See also:* [Beech Bend Raceway](beech-bend-raceway-bowling-green.md), Bowling Green's amusement-park strip, where Don Jensen raced on dirt in 1957 and whose "oldest" claim is disputed.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

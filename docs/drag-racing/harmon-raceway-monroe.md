@@ -103,6 +103,8 @@ In July the ad said Harmon would be "back under the lights throughout the rest o
 
 On June 24–25 came "the Big One": six "Super 'Funny Cars,'" with three "FLIPTOP CAMERO" entries for Kelly Chadwick, Mike Schmidt and Joe Lunati, Gene Snow's Dodge "Rambunctous" (as printed; see [Gene Snow](../people/gene-snow.md)), and two Texas Chevys, Sam Harris's "Texas Bandit" and David Robinson's "Texas Twister."[^mmw670624]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> For another Louisiana-border strip of the same years, see [Church First, Then the Drags (Hope, Ark.)](hope-airport-drag-strip.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* Louisiana's other strips: [Pel State Dragway](pel-state-dragway-opelousas.md) at Opelousas (1958) and [LaPlace Dragway and Houma](laplace-dragway-houma.md) (1960–80).
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

@@ -22,6 +22,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1945 | Howards Power & Racing Equipment founded | [Howard Johansen](../people/howard-johansen.md) |
 | 1946/47 ⚠ | Almquist Engineering founded, Pennsylvania | [Ed Almquist](../people/ed-almquist.md) |
 | 1946/47 ⚠ | Logghe Stamping founded, Fraser, Mich. (Morris Logghe) | [Logghe](../companies/logghe-stamping.md) |
+| 1946 | Charles Garvin promotes his first motorcycle race at Beech Bend Park, Bowling Green, Ky., on a track three teenagers asked to grade with a county road grader (⚠ who laid it out) | [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md) |
 | 1947 | Memphis Rodders formed | [Memphis](../places/memphis.md) |
 | 1947 | Compton police blockade a street (July 8) and catch 20 boys racing ◐ | [Pomona's Choppers](../drag-racing/pomona-choppers-fontana.md) |
 | 1947 ⚠ | Modesto's Century Toppers formed in "late '47" (Gene Winfield); Kustomrama says 1946 | [Century Toppers](../drag-racing/modesto-century-toppers.md) |
@@ -115,6 +116,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1955 | Greth, Fisher and Maynard build Tucson's Speed Sport roadster, its fiberglass nose made from thrown-out drapes | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | 1955 ⚠ | Garlits wins Top Eliminator at the NHRA Drag Safari at Lake City; Strokers' tea set (roll-bar meet ⚠) | [Don Garlits](../people/don-garlits.md) |
 | 1955 ⚠ | Arkansas Timing Association's first drag meet on the Carlisle auxiliary runway (April, by one racer's history; others recall 1957 or summer 1958 ⚠) | [Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md) |
+| 1955 ⚠ | Great Lakes Dragaway opens on the Kenosha–Racine county line, built with over a dozen Milwaukee clubs (1956 by one count ⚠); W. H. David opens his first strip at Esterwood, La. | [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md), [Pel State](../drag-racing/pel-state-dragway-opelousas.md) |
 | 1956 | First Portland Roadster Show | [Pacific NW](../places/pacific-northwest.md) |
 | 1956 | GSTA's first car show, Red Owl lot, Lake St & 22nd Ave S, Minneapolis | [Lake Street](../places/lake-street-university.md) |
 | 1956 | Maj. Eugene Pond's "Give the Hot Rodders a Break" runs in the National Safety Council's *Public Safety* (May) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
@@ -138,6 +140,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1956 | Newport *Navalog* announces a drag race at the old Pascoag Race Track near Mapleville, R.I., "over a 900 yard track" (June) | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | 1956 | Rush Springs, Okla., farmer Melvin Heath wins the NHRA Nationals at Kansas City | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | 1956 ⚠ | Drags on an unused runway at Davis-Monthan Air Force Base, Tucson (1956 or 1957); about 5,000 watch on June 17, 1957 | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
+| 1956 ⚠ | Beech Bend's drag strip holds its first race in September, on dirt, after Garvin sends D. A. Faxon to Atlanta to investigate (1951 and mid-1960s also claimed ⚠) | [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md) |
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1957 | UPI survey (Mar 19): the National Safety Council "in direct opposition to drag racing"; Cleveland bans street racing; a county-built strip near Denver reported ⚠ | [March 1957](../drag-racing/march-1957-drag-strip-survey.md) |
 | 1957 | Motor City Dragway opens. Garlits' Cordova upset; Postoian wins the final | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |
@@ -192,6 +195,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1958 | Bruce Olson flat-tows his Hemi coupe from Beach, N.D., to the Oklahoma City Nationals | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
 | 1958 | Fall: hot rods head the pecking order at the Adventure Car Hop, Route 1, Saugus, Mass., and race a quarter mile to the first overpass | [Route 1, Saugus](../places/route-1-saugus-adventure-car-hop.md) |
 | 1958 | Roanoke Drag Strip opens at Starkey Speedway (June; June 29 and NHRA per the Blue Ridge Institute), run at first by the Roanoke Dragsters ◐ | [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md) |
+| 1958 | Pel State Dragway opens on the Opelousas, La., airport (May 4): 427 race cars, 2,200 spectators, a tower on a 1951 Chevy panel truck | [Pel State](../drag-racing/pel-state-dragway-opelousas.md) |
 | 1959 | Detroit Dragway opens and hosts the NHRA Nationals (1959–60) | [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
 | 1959 | Larivee brothers form Promotions Inc. | [Show Circuit](../media/show-circuit.md) |
 | 1959 | Otie Smith wins Middle Eliminator at the NHRA Nationals, Detroit (supercharged '23 T) | [Akron Fulton](../drag-racing/akron-fulton-airport.md) |
@@ -233,6 +237,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1960 | Gary and Bonnie Nielsen open Salt Lake Raceway | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
 | 1960 | Bremerton's Handlers Car Club leases the airport strip; first night race Oct 15 | [Western Washington](../drag-racing/western-washington-airport-strips.md) |
 | 1960 | Flightland airport, northwest of Omaha, scheduled to open July 1; on Sundays it races as Omaha Dragway, paved with racing money by one account ◐; Nick Smith's Super Stock teardown at Roanoke ◐ | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md), [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md) |
+| 1960 ? | Houma, La., runway strip's first race ("Sunday, May 30," a Monday); a dollar for every mph over 100 | [LaPlace & Houma](../drag-racing/laplace-dragway-houma.md) |
 | 1961 | Woodburn Dragstrip opens (eighth-mile) | [Pacific NW](../places/pacific-northwest.md) |
 | 1961–62 | Hrudka brothers' class wins at the U.S. Nationals. Almquist and Hurst shifter patents filed | [Mr. Gasket](../companies/mr-gasket.md), [Patents](patents.md) |
 | 1961 | Carl Gay books Hayden Proffitt's Super Duty Catalina at the Gays' Houston Drag Raceway (bought by then) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
@@ -262,6 +267,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1962 | Page Winter's home-built "Sprite Special" flown from St. Thomas to the Grand Prix de Puerto Rico for $50 (Nov); Lancaster's Crusaders help run a Columbus safety check (Jul) | [Virgin Islands](../drag-racing/virgin-islands-no-hot-rods.md), [Columbus](../drag-racing/columbus-trotters-high-winders.md) |
 | 1962 | The Navy's *Newport Navalog* lists drag racing at the Charlestown auxiliary field (June 3, Aug 5, Oct 7) | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | 1962 | Prudhomme, 20, wins Top Fuel at the Smokers' March Meet, Famoso | [Don Prudhomme](../people/don-prudhomme.md) |
+| 1962 | LaPlace Dragway opens off Airline Highway (May 6); Ed Eaton takes the step-light countdown idea to Oliver Riley, by NHRA's account (⚠ W. H. David's family claims the Christmas tree) | [LaPlace & Houma](../drag-racing/laplace-dragway-houma.md), [Pel State](../drag-racing/pel-state-dragway-opelousas.md) |
 | 1963 | ISCA founded. AMT Customizing Team | [Show Circuit](../media/show-circuit.md), [Kits](../media/trend-books-kits-roth.md) |
 | 1963 | Southeast Guilford High, Greensboro, N.C., hot rod club (adviser James Russell) | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
 | 1963 | Harvey Crane of Hallandale, Fla., files his non-rotatable tappet patent (Mar 13; issued Oct 29), citing Isky's 1958 patent | [Crane Cams](../companies/crane-cams.md), [Patents](patents.md) |
@@ -275,6 +281,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1963 | Virginia's *Peninsula Enterprise* calls Georgetown, Del., "one of the leading drag strips on the east coast": an eighth mile, 400–500 spectators, NHRA-affiliated (June) | [Georgetown Speedway](../drag-racing/georgetown-speedway-delaware.md) |
 | 1963 ⚠ | Milton Speedway, Vermont's first drag strip, opens on U.S. 7 (June 23, per the state marker; 1964 or 1965 in other accounts) | [Milton, Vt.](../drag-racing/milton-speedway-vermont.md) |
 | 1963 ⚠ | *Navajo Times* reports "the first drag strip to be built on an Indian Reservation," Beeline (Aug 29; C. Tim or Jim Rogers ⚠) | [Beeline](../drag-racing/beeline-dragway-mesa.md) |
+| 1963 | Farmington Dragway opens in Davie County, N.C. | [Farmington](../drag-racing/farmington-dragway-becky-white.md) |
 | 1964 | Al Bergler's Aggravation II wins first Ridler Award, Detroit Autorama | [Al Bergler](../people/al-bergler.md) |
 | 1964–67 ⚠ | Mr. Gasket founded or incorporated | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1964 | Don Gay wins A/Stock at Indy. Altizer-Finders-Kibler "Traveler" B/GS record 9.76/146.57 (Nov, ◐) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
@@ -392,15 +399,18 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1979 | Scottsbluff, Neb., yearbook: "Anyone or anything we looked for was sure to be found while dragging main" | [Dragging Main](../places/dragging-main.md) |
 | 1979 | AHRA Winternationals at Tucson: 114 Top Comp dragsters try for 32 spots | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | 1979 ⚠ | Beeline Dragway operations cease (Jan), per EPA (vs 1973/1975 ⚠) | [Beeline](../drag-racing/beeline-dragway-mesa.md) |
+| 1979 | Becky White trades weekly race stories for free admission at Farmington Dragway (April) | [Farmington](../drag-racing/farmington-dragway-becky-white.md) |
 | 1980 | KKOA founded, Wichita (Oct 1) | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | 1980s | Pro Street | [Pro Street](../eras/1980s-pro-street.md) |
 | 1980–83 ⚠ | LAPD closes and barricades Van Nuys Blvd | [Van Nuys](../places/van-nuys.md) |
+| 1980 | LaPlace Dragway's last day (March): a hearse down the strip and Garlits across it on a bicycle ◐; Farmington's neighbors try to close the track ◐ | [LaPlace & Houma](../drag-racing/laplace-dragway-houma.md), [Farmington](../drag-racing/farmington-dragway-becky-white.md) |
 | 1981 | First Lead Sled Spectacular (300+ / 400 ⚠) | [KKOA](../customs/kkoa-lead-sled-revival.md) |
 | 1981–83 | Dick Moroso buys a run-down Florida dragstrip and readies it for the 1983 SCCA Trans Am opener | [Moroso](../companies/moroso.md) |
 | 1983 | Orange County International Raceway's Last Drag Race runs from Oct 29 into the morning of Oct 30; plywood later reads "Yes, we are closed. It's all over." Charlie Allen begins construction on Firebird International Raceway outside Phoenix | [Orange County](../drag-racing/orange-county-international-raceway.md), [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md) |
 | 1984 | Forsyth County sues to stop planes landing on the old Cumming drag strip (Jan) | [Cumming](../drag-racing/cumming-dragway.md) |
 | 1984/85 ⚠ | The old Tucson Dragway on Houghton Road closes (1984, or after Feb 17, 1985) | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | 1984 | Don Garlits Museum of Drag Racing ribbon-cutting near Ocala; 27,000 pay | [Don Garlits](../people/don-garlits.md) |
+| 1984 | Dallas and Alfreda Jones buy the Beech Bend racetracks | [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md) |
 | 1985 ⚠ | Connecticut Dragway, by then Connecticut International Raceway, closes for good (1986 per one source) | [Connecticut](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) |
 | 1985 | First NHRA national event at Firebird International Raceway, Chandler: Gene Snow Top Fuel, Bob Glidden Pro Stock (his 46th win, the 1985 championship), John Collins Funny Car | [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md), [Gene Snow](../people/gene-snow.md) |
 | 1986 | Houston roadblocks end Westheimer cruising (about 1986) | [Westheimer](../places/westheimer-houston.md) |

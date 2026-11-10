@@ -97,6 +97,8 @@ In November a trustee from Oshkosh put the arena's contents up for a "Bankrupt A
 
 The clubs had asked the county for a strip, and the county had said no. A farmer's ravine gave them one anyway, and it lasted five summers. It drew Indy drivers and the Illinois nitro cars, had its own safety rules, and once lent its clubhouse to a team from Illinois. The ambulances were sold at auction.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* [Great Lakes Dragaway](great-lakes-dragaway-union-grove.md), the club-built Union Grove strip that outlasted KK.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

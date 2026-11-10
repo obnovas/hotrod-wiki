@@ -89,6 +89,8 @@ Private money did not wait for permission. In July 1957 the *Coastland Times* ne
 
 By the end of the decade the argument had been settled on the ground, if not in Raleigh. In December 1960 the Chapel Hill high school's news column in the *Weekly* reported that "High school boys—and I hear a few girls—made a mass migration to the Easy Street Drag Strip last Sunday afternoon to watch the races." For the kids who stayed home, the student columnist added, it was boredom: the usual Sunday afternoon riding had been cut short "by loss of the boys with cars."[^chw601208] Easy Street, at Newton Grove, is where Malcolm Durham began racing in 1957.[^durham]
 
+*See also:* [Farmington Dragway](farmington-dragway-becky-white.md), the Davie County strip of 1963, and the woman who wrote its race stories.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

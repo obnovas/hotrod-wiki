@@ -777,6 +777,34 @@ themes:
         link: drag-racing/carlisle-drag-strip-arkansas.md
         also: [places/memphis.md, drag-racing/hope-airport-drag-strip.md]
         flag: drag-racing/carlisle-drag-strip-arkansas.md#q-1
+      - id: oldest-running-drag-strip
+        q: Which U.S. drag strip has run the longest?
+        a: >-
+          Two strips claim it. Great Lakes Dragaway at Union Grove, Wisconsin, built by Milwaukee clubs and
+          opened in 1955, is called the oldest continuously operating dragstrip in the country; Beech Bend in
+          Bowling Green, Kentucky, is "said to be" too, and one of its histories dates its strip to 1951 (⚠ see
+          Open questions).
+        link: drag-racing/great-lakes-dragaway-union-grove.md
+        also: [drag-racing/beech-bend-raceway-bowling-green.md]
+        flag: drag-racing/great-lakes-dragaway-union-grove.md#q-1
+      - id: beech-bend-drag-strip
+        q: How did a Kentucky amusement park get a drag strip?
+        a: >-
+          Charles Garvin's Beech Bend Park outside Bowling Green already had a motorcycle track and stock cars
+          when, his publicist recalled, Garvin sent a man to Atlanta to investigate drag racing and built a
+          quarter mile in 1956. Other histories date the strip to 1951 or the mid-1960s (⚠ see Open
+          questions).
+        link: drag-racing/beech-bend-raceway-bowling-green.md
+        also: [drag-racing/cedar-creek-bullitt-dragway-kentucky.md]
+        flag: drag-racing/beech-bend-raceway-bowling-green.md#q-1
+      - id: laplace-dragway
+        q: Where did south Louisiana drag race?
+        a: >-
+          On old runways at first, such as Houma's in 1960, where the operators paid a dollar for every mile an
+          hour over 100. LaPlace Dragway opened off Airline Highway on May 6, 1962, raced the first and third
+          Sundays, hosted the 1976 Cajun Nationals and closed in March 1980.
+        link: drag-racing/laplace-dragway-houma.md
+        also: [drag-racing/pel-state-dragway-opelousas.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1180,6 +1208,16 @@ themes:
           Swamp Rat XIV's win at the 1971 NHRA Winternationals helped end the slingshot era.
         link: people/don-garlits.md
         also: [drag-racing/beeline-dragway-mesa.md#q-3]
+      - id: who-invented-the-christmas-tree
+        q: Who invented the drag racing Christmas tree?
+        a: >-
+          Nobody can say for sure. NHRA's history credits Chrondek's Oliver Riley and Lew Bond of Dragtronics,
+          working from Ed Eaton's 1962 idea, and the tree debuted at the 1963 U.S. Nationals; the family of
+          Louisiana's W. H. David says he built one first, with real Christmas bulbs, and sold the rights to
+          Chrondek (⚠ see Open questions).
+        link: drag-racing/pel-state-dragway-opelousas.md#the-fuel-test-and-the-christmas-tree
+        also: [drag-racing/pocatello-mcdougall-field-drag-strip.md]
+        flag: drag-racing/pel-state-dragway-opelousas.md#q-1
   - id: media-and-shows
     title: Media and shows
     questions:
@@ -1239,6 +1277,14 @@ themes:
         link: media/street-rod-newspaper-serial.md
         also: [drag-racing/escanaba-dragns.md, drag-racing/planners-report-1955.md]
 
+      - id: becky-white-quick-times
+        q: Who was Becky White?
+        a: >-
+          A North Carolina mechanics student who in 1979 talked Farmington Dragway, open since 1963, into free
+          admission in exchange for weekly race stories in the small-town papers. In 1981 she helped start
+          Quick Times Racing News and soon ran it herself.
+        link: drag-racing/farmington-dragway-becky-white.md
+        also: [eras/1960s-drag-rags.md]
   - id: how-we-know
     title: Sources and how we know
     questions:

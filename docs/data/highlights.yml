@@ -1584,3 +1584,66 @@ highlights:
     added: '2026-11-07'
     eras: [1960s]
     regions: ['Pocatello, Idaho']
+
+  - id: farmington-becky-white-hot-dog
+    headline: A North Carolina mother traded weekly race stories for her gate fee, and a hot dog
+    teaser: In April 1979 Becky White offered Farmington Dragway's owners a race story in the local paper
+      every week if they would let her in free. They said yes; she typed five or six versions on a 1950s
+      Royal, "and I got a hot dog once a week!"
+    link: drag-racing/farmington-dragway-becky-white.md
+    evidence: [and I got a hot dog once a week!, my old Royal typewriter my dad bought me about 1957 or
+        '58]
+    source_type: Oral history
+    confidence: Low
+    flag: none
+    grassroots: true
+    added: '2026-11-10'
+    eras: [1970s]
+    regions: ['Mocksville, N.C.']
+
+  - id: houma-dollar-per-mph
+    headline: Houma's 1960 runway strip paid racers a dollar for every mile an hour over 100
+    teaser: On Houma's first race day, Don Prieto remembered, the operators paid anyone over 100 mph a dollar
+      for each mph. He ran 123 in a borrowed belly tanker and collected $23, after driving it into the dirt
+      on his first run.
+    link: drag-racing/laplace-dragway-houma.md#a-dollar-a-mile-an-hour
+    evidence: a dollar for each mph
+    source_type: Forum post
+    confidence: Low
+    flag: none
+    grassroots: true
+    added: '2026-11-10'
+    eras: [1960s]
+    regions: ['Houma, La.']
+
+  - id: pel-state-christmas-tree-lights
+    headline: A Louisiana family says the drag racing Christmas tree got its name from real 1950s Christmas
+      bulbs
+    teaser: Rick David keeps his grandfather's mock-up, about 18 inches tall, with "real christmas tree
+      lights from the '50s and '60s on it." NHRA's own history credits others too, and calls the question
+      "as clear as bayou mud."
+    link: drag-racing/pel-state-dragway-opelousas.md#the-fuel-test-and-the-christmas-tree
+    evidence: [real christmas tree lights from the '50s and '60s on it, as clear as bayou mud]
+    source_type: Family account
+    confidence: Low
+    flag: conflict
+    grassroots: true
+    added: '2026-11-10'
+    eras: [1950s]
+    regions: ['Opelousas, La.']
+
+  - id: great-lakes-scrounged-tower
+    headline: A Cudahy family built Great Lakes Dragaway's announcing tower, perhaps from scrounged
+      wood
+    teaser: Harlyn Herriges and his brothers dug ditches at the new Union Grove strip and built its tower.
+      "I don't know where the wood came from," his widow told WUWM, "but knowing Harlyn, he may have scrounged
+      it up."
+    link: drag-racing/great-lakes-dragaway-union-grove.md#the-herriges-brothers
+    evidence: knowing Harlyn, he may have scrounged it up
+    source_type: Oral history
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-10'
+    eras: [1950s]
+    regions: ['Union Grove, Wis.']

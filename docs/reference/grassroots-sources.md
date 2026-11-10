@@ -18,6 +18,9 @@ Most of what is written about hot rodding comes from national magazines and trad
 Format: outlet (year read) → what it contributed → the page that uses it.
 
 ### Local news
+- [Bowling Green *Daily News*, 2009](https://bgdailynews.com/2009/03/26/beech-bend-memories-an-interview-with-author-robert-dickey/) (interview with Robert Dickey, Charles Garvin's publicist and lawyer) → Garvin sending D. A. Faxon to Atlanta, a September 1956 opening ⚠ and the Sulphur Dell grandstands ◐ → [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md).
+- [*Davie County Enterprise Record*, 2011](https://ourdavie.com/2011/05/19/dragstrip-supporters-tout-economic-benefits/) → Farmington's supporters in 2011 → [Farmington](../drag-racing/farmington-dragway-becky-white.md).
+- [*L'Observateur*, 2022](https://lobservateur.com/2022/03/02/blast-from-the-past-laplace-dragway-remembered-for-thrills-excitement/) (LaPlace weekly) → the May 6, 1962 opening, the 1976 Cajun Nationals, the first Andouille Festival and the hearse on the last day → [LaPlace & Houma](../drag-racing/laplace-dragway-houma.md).
 - [Great Bend Tribune](https://www.gbtribune.com/sports/local_sports/1955-back-to-where-it-all-began/) (2011 feature) → the club president's account of why the club went to the city, plus the "birthplace" claim we flag as local pride → [Great Bend](../drag-racing/great-bend-srca.md).
 - [Los Angeles Times, Oct 10, 2005](https://www.latimes.com/archives/la-xpm-2005-oct-10-me-dragstrip10-story.html) → how Inyokern's volunteers ran the strip, and the FAA threat that ended it → [Inyokern](../drag-racing/inyokern-dust-devils.md). The LA Times on [Modesto, Feb 6, 1990](https://www.latimes.com/archives/la-xpm-1990-02-06-mn-195-story.html) → police chief and club-leader quotes on cruising → [Modesto](../places/modesto.md).
 - [San Bernardino Sun](https://www.sbsun.com/sports/20120418/motor-racing-services-for-two-racing-legends-this-weekend/) (2012 obituary notice) → Bernie Partridge's career with the Dust Devils and the Inyokern strip → [Inyokern](../drag-racing/inyokern-dust-devils.md).
@@ -94,6 +97,8 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Hurley Funeral Home, John Ray Martinez](https://www.hurleyfuneralhome.com/obituary/john-martinez) (Pleasanton, Tex., 2024) → the family's word that he "owned and operated" Alamo Dragway → [San Antonio](../drag-racing/san-antonio-double-eagle-alamo-dragway.md).
 
 ### Oral history and interviews
+- [WUWM *Lake Effect*, 2016](https://www.wuwm.com/podcast/lake-effect-segments/2016-09-01/the-great-lakes-dragaway-and-the-brothers-who-helped-build-it) (Milwaukee public radio; Sue and Russell Herriges) → the ditches, the scrounged-wood tower and the *Lucky Ladybug* → [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md).
+- Becky White's memoir posts on [*Quick Times Racing News*](https://quicktimesracingnews.wordpress.com) (2010; unsigned, matched by her résumé page) → the Royal typewriter, "$15 a week and a hot dog!!!" and the 1980 fight ◐ → [Farmington](../drag-racing/farmington-dragway-becky-white.md).
 - [Modestoview](https://www.modestoview.com/gene-winfield-interview/) (Chris Murphy's interview with Gene Winfield) → the Century Toppers' founding "in late '47," the coop shop, early racing roads → [Century Toppers](../drag-racing/modesto-century-toppers.md).
 - [Southern Foodways Alliance](https://www.southernfoodways.org/oral-history/summer-avenue-memphis/) (Summer Avenue, Memphis oral history project, 2021) → the avenue's early chain businesses (the first Holiday Inn, 1952) → [Summer Avenue, Memphis](../places/summer-avenue-memphis.md).
 - [Regional Oral History Office, UC Berkeley](https://archive.org/details/longtimeblackfam00willrich) (Harry and Marguerite Williams of Richmond, Calif., interviewed 1985) → kids "dragging the main" on San Pablo and in Richmond in the 1950s → [Dragging Main](../places/dragging-main.md).
@@ -134,12 +139,15 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 
 
 ### Family accounts
+- [Rick David on DragCars.com](https://www.dragcars.com/html/drag_racing_history_insight.html) (his grandparents W. H. and Jayne David) → the Esterwood and Pel State strips, *Tire Marks* and the family's Christmas tree claim ⚠ → [Pel State](../drag-racing/pel-state-dragway-opelousas.md).
 - [Just A Car Guy, "Bill Campbell, the quiet engineer partner…"](https://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html) (2023; an email from Campbell's daughter, quoted) → the $1,000 shifter prize and her account of the rescue tool, both flagged ◐ → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Kustomrama, Jack Engle](https://kustomrama.com/wiki/Jack_Engle) (photos and captions courtesy Mark Engle) → the homemade cam-grinder story and "he and Isky both bought their first cams from Ed Winfield" → [Jack Engle](../people/jack-engle.md).
 - [JR Thompson's Gasser Reunion page](http://www.jrthompson.net/gasserreunionchuckfinders.html) (includes "Farewell, Chuck Finders" by his son) → Chuck Finders's racing start and shop, told by his son (family account, ◐) → [The Ohio Gassers](../places/ohio-gassers.md).
 - Ken Black, interviewed by Daniel Strohl for [Hemmings, Sept. 23, 2018](https://www.hemmings.com/stories/keith-black/) → the driveway teardown, "I put a driver in it," and the shop years → [Keith Black](../people/keith-black.md).
 
 ### Local history sites, historical societies and blogs
+- [Kentucky Motorsports Hall of Fame, Beech Bend history page](https://www.kentuckymotorsportshalloffame.com/WEBPAGE-Motorsports-Links/HISTORY-PAGE-BEECH-BEND) and the park's own [2004 history page](https://web.archive.org/web/20041012014523/http://beechbend.com/history.htm) → the dime at the gate, the road grader and the one-carburetor rule → [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md).
+- [Wisconsin Hot Rod Radio, show 148](https://wisconsinhotrodradio.com/whrrstuff/148-great-lakes-dragaway-first-twenty-years-event/) (2017) → the clubs behind Great Lakes Dragaway → [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md).
 - [Bullitt County History Museum, *Memories*](https://bullittcountyhistory.org/memories/dragrace.html) (David Strange's 2012 *Courier-Journal* column, archived with photos and additions by the county genealogical society) → the farmer-printer, the sheriff and seven thousand people on a rock road → [Cedar Creek](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md).
 - [City of North Richland Hills, Green Valley Raceway Historic Plaza](https://www.nrhgreenvalleyraceway.com/history) and [NRHTXHistory](https://www.nrhtxhistory.com/items/show/57) (city parks department and local history collection) → the dairy farm, the owners and the year-by-year story of the track → [Green Valley](../drag-racing/green-valley-raceway-smithfield.md).
 - [Texas Folklore Society](https://texasfolkloresociety.org/our-society/history/) and its 1968 volume *Tire Shrinker to Dragster* ([Portal to Texas History](https://texashistory.unt.edu/ark:/67531/metadc38875/)) → a Dallas lawyer-folklorist's word list from a speed shop → [T-Bones & Cheater Slicks](../voices/dallas-folksay-custom-automotive.md).
@@ -174,6 +182,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Lone Star Speedzone, "DRAG-UNS"](https://www.lonestarspeedzone.com/topic/47203-drag-uns/) → a Kerrville police-sponsored club; flagged ◐ → [City planners, 1955](../drag-racing/planners-report-1955.md).
 - [NSRA (UK) forum, "Gasser Fans"](https://forum.nsra.org.uk/archive/index.php/t-28331.html) (May 2009) → a secondhand May 19 notice of Chuck Finders's death, footnoted beside the family's preferred May 17 date → [Ohio Gassers](../places/ohio-gassers.md).
 - *Drag Strip List* memories pages for [Virginia](https://dragstriplist.com/va), [Nebraska](https://dragstriplist.com/ne), [Arkansas](https://dragstriplist.com/ar) and [Idaho](https://dragstriplist.com/id) (racers' and families' own posts, with names; read through a headless browser because the pages are script-rendered) → Roanoke's uphill shutdown and the 1960 teardown, Gene Kidder's engraved trophies, Paul Brower's Carlisle history, Pocatello's lights and grass-filled joints → [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md), [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md), [Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md), [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
+- *Drag Strip List* memories pages for [Kentucky](https://dragstriplist.com/ky), [Wisconsin](https://dragstriplist.com/wi), [Louisiana](https://dragstriplist.com/la) and [North Carolina](https://dragstriplist.com/nc) (Round 37, read through a headless browser) → Jensen's 1957 Beech Bend on dirt; Milwaukee clubs, Lake Geneva's airstrip and the Twin Ports DRA; *Tire Marks*, the Cenla Gents and Houma's dollar per mph; Glenn Goss on Fairchild Field → [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md), [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md), [Pel State](../drag-racing/pel-state-dragway-opelousas.md), [LaPlace & Houma](../drag-racing/laplace-dragway-houma.md), [Farmington](../drag-racing/farmington-dragway-becky-white.md).
 
 ## Where we could not go yet
 Digitized local newspapers hold the best period coverage of hot rod arrests, club safety drives and lakes records. Several of those archives refused automated access (see the [Research Trail](../research-trail.md)), and we did not work around the blocks. The ones that stayed shut are still the top lead for the next rounds. The access table below says which archives worked and which did not.
@@ -208,6 +217,15 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 37 status
+| Archive | Round 37 status |
+|---|---|
+| Chronicling America / Library of Congress | Cloudflare challenge (HTTP 403); not bypassed. No period Kentucky, Wisconsin, North Carolina or Louisiana newspaper page was read. |
+| DigitalNC (North Carolina newspapers) | TLS error and gateway timeout (504); the 1963 and 1980 *Davie County Enterprise* stay unread. |
+| *Houma Today* / *Houma Courier* | Paywall (HTTP 402); not bypassed. Houma's May 30, 1960 race stays ?. |
+| *Drag Strip List* state memories pages | Script-rendered; read through a headless browser. |
+| Google Patents | Readable; no patent found under W. H. David. |
 
 ### Round 36 status
 | Archive | Round 36 status |

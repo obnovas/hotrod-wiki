@@ -85,6 +85,8 @@ By April 1968, when the arena was paving a banked half-mile oval, the paper said
 
 The Fox Valley's strip came the way many Midwestern strips did. The clubs asked for a county strip on public land. The county said no. Then a private oval builder added a drag strip, and four years later it had Chrondek timers. Compare [Kansas City](kansas-city-timing-association.md), where the clubs did get a public site, and [Malden](semo-malden-drag-strip.md), where a town owned an empty air base. KK's big years, and the bankruptcy that closed it on July 18, 1970, are told in [The Hospitality Drag Strip](kk-sports-arena-hospitality-bankruptcy.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* [Great Lakes Dragaway](great-lakes-dragaway-union-grove.md), the club-built Union Grove strip of 1955 that Wisconsin's other early strips are measured against.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

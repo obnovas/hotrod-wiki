@@ -712,6 +712,31 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [org] Phil Burgess, "NHRA national event history: A look at the tracks and stories that drove the sport," NHRA.com, Aug. 1, 2025. https://www.nhra.com/news/2025/nhra-national-event-history-look-tracks-and-stories-drove-sport
 - [org] Phil Burgess, "Legendary NHRA car owner Roland Leong, 'the Hawaiian,' passes away," NHRA.com, Dec. 29, 2023; "A final 'aloha' to 'the Hawaiian'," Jan. 5, 2024; "The big book of drivers who wheeled Roland Leong's Hawaiian entries," Jan. 12, 2024. https://www.nhra.com/news/2023/legendary-nhra-car-owner-roland-leong-hawaiian-passes-away
 
+## Round 37 additions (Beech Bend, Great Lakes Dragaway, Farmington and Becky White, Pel State, LaPlace and Houma)
+- [hof] "History Page – Beech Bend," Kentucky Motorsports Hall of Fame (undated). https://www.kentuckymotorsportshalloffame.com/WEBPAGE-Motorsports-Links/HISTORY-PAGE-BEECH-BEND
+- [local] "History of Beech Bend Park," Beech Bend Park website, Wayback Machine copy of Oct. 12, 2004. https://web.archive.org/web/20041012014523/http://beechbend.com/history.htm
+- [local] Jack Montgomery, "Beech Bend Memories: an interview with author Robert Dickey," Bowling Green *Daily News*, March 26, 2009. https://bgdailynews.com/2009/03/26/beech-bend-memories-an-interview-with-author-robert-dickey/
+- [trade] Brian Wagner, "Racing On The River: The Story Of Beech Bend Raceway," *Dragzine*, Jan. 14, 2020. https://www.dragzine.com/features/racing-on-the-river-the-story-of-beech-bend-raceway/
+- [org] "Beech Bend Raceway in Bowling Green, KY," Bowling Green Area Convention & Visitors Bureau (undated). https://www.visitbgky.com/things-to-do/cars-motorsports/beech-bend-raceway/
+- [forum] "Kentucky Drag Strips: Remembering . . ." (Don Jensen, Joe "Muggs" Tichenor, Dave Huber, Dave Wandel and others), *Drag Strip List*. https://dragstriplist.com/ky
+- [oral] Joy Powers, "The Great Lakes Dragaway and the Brothers Who Helped Build It," WUWM 89.7 FM *Lake Effect*, Sept. 1, 2016. https://www.wuwm.com/podcast/lake-effect-segments/2016-09-01/the-great-lakes-dragaway-and-the-brothers-who-helped-build-it
+- [trade] "Nation's oldest running drag strip, the Dragaway is an institution," RACER, June 16, 2017. https://racer.com/2017/06/16/nation-s-oldest-running-drag-strip-the-dragaway-is-an-institution
+- [trade] Bobby Bennett, "2019: A Banner Year for Vintage Racing in the Upper Midwest," *Competition Plus*, Jan. 19, 2020. https://competitionplus.com/2019-a-banner-year-for-vintage-racing-in-the-upper-midwest/
+- [local] "148: 1st 20 years Great Lakes Dragaway + Brewtown Rumble Vintage Motorcycle Show," Wisconsin Hot Rod Radio, June 3, 2017. https://wisconsinhotrodradio.com/whrrstuff/148-great-lakes-dragaway-first-twenty-years-event/
+- [forum] "Wisconsin: Remembering . . ." (Mark Johnson, Vince Seliga, Bob Pavlovich, Jerry Richards and others; Twin Ports DRA patch courtesy of Jeff Bloedorn), *Drag Strip List*. https://dragstriplist.com/wi
+- [oral] [Becky White], "In Memory of Norman Drouillard Sr…Owner/Operator Farmington Dragway for Many Years," *Quick Times Racing News* (blog), Feb. 25, 2010, updated Feb. 16, 2015 (unsigned memoir). https://quicktimesracingnews.wordpress.com
+- [oral] "Becky's Accomplishments," *Quick Times Racing News* (blog, undated). https://quicktimesracingnews.wordpress.com/beckys-accomplishments/
+- [local] Mike Barnhardt, "Dragstrip Supporters Tout Economic Benefits," *Davie County Enterprise Record*, May 19, 2011. https://ourdavie.com/2011/05/19/dragstrip-supporters-tout-economic-benefits/
+- [trade] "IHRA Track Profile: Farmington Dragway, Mocksville, N.C.," RACER, May 18, 2017. https://racer.com/2017/05/18/ihra-track-profile-farmington-dragway-mocksville-n-c
+- [forum] "North Carolina: Remembering . . ." (Glenn Goss and others), *Drag Strip List*. https://dragstriplist.com/nc
+- [hof] "Pel State Dragway – Opelousas, LA," Ghost Tracks, NHRA Division 4 Hall of Fame (undated). https://www.division4halloffame.com/ghost-tracks/pel-state-dragway/
+- [family] Rick David, "Drag Racing History Insight, from DragCars.com reader Rick David," DragCars.com (undated). https://www.dragcars.com/html/drag_racing_history_insight.html
+- [org] Phil Burgess, "More tall tales of the Tree," NHRA.com, Sept. 13, 2013. https://www.nhra.com/news/2013/more-tall-tales-tree
+- [trade] *Hot Rod*, November 1963 (U.S. Nationals report), as excerpted on David Carl Peters's print listing "The 1st 'Christmas Tree' Indy 63…" (secondhand). https://dragracingartist.com/products/the-1st-christmas-tree-indy-63
+- [ref] "Christmas tree (drag racing)," Wikipedia. https://en.wikipedia.org/wiki/Christmas_tree_(drag_racing)
+- [local] Brooke Robichaux, "Blast from the past: LaPlace Dragway remembered for thrills & excitement," *L'Observateur* (LaPlace, La.), March 2, 2022. https://lobservateur.com/2022/03/02/blast-from-the-past-laplace-dragway-remembered-for-thrills-excitement/
+- [forum] "Louisiana: Remembering . . ." (Max Williamson, David Lambdin, Leonard G. Sitzman, Thomas Madere, Don Prieto, Glenn Menard, Jerry Lee, Kip Bonin, Erin Hood and others; *Tire Marks*, July 5, 1959, courtesy of Max Williamson), *Drag Strip List*. https://dragstriplist.com/la
+
 ## Round 36 additions (Roanoke & Southwest Virginia, Honest Charley, Nebraska strips, Carlisle, Pocatello)
 - [museum] Blue Ridge Institute & Museum, Ferrum College, *Southwest Virginia Racing* web exhibit, "Hot Rodding & Drag Racing," chapters 1–3, 5 and 6 (club history, regional drag racing, strips and opening dates, car clubs and club list, hot rod terms; undated). https://www.vaautoracing.org/hotrodding.htm
 - [local] "RVNH5037" (Roanoke Drag Strip at Starkey Speedway photograph record), Roanoke Valley in the 1950s Photograph Collection, Virginia Room Digital Collection, Roanoke Public Libraries. https://www.virginiaroom.org/digital/document/RVNH5037
