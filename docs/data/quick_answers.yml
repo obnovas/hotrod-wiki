@@ -805,6 +805,67 @@ themes:
           Sundays, hosted the 1976 Cajun Nationals and closed in March 1980.
         link: drag-racing/laplace-dragway-houma.md
         also: [drag-racing/pel-state-dragway-opelousas.md]
+      - id: new-jersey-first-drags
+        q: Where did New Jersey drag race before its strips opened?
+        a: >-
+          On airport runways and short stadium straights. The New Jersey Timing Association, founded in 1952,
+          brought the NHRA's Safety Safari to Linden Airport in 1954 for a fifth-of-a-mile meet whose crowd was put
+          at four thousand or eight to ten thousand (⚠ see Open questions); Old Bridge Stadium's drags ran 320 feet.
+        link: drag-racing/linden-njta-new-jersey-short-strips.md
+        also: [drag-racing/atco-strato-rods-south-jersey.md, drag-racing/island-dragway-great-meadows.md]
+        flag: drag-racing/linden-njta-new-jersey-short-strips.md#q-1
+      - id: atco-dragway
+        q: When did Atco Dragway open and close?
+        a: >-
+          Four Camden-area businessmen opened it on Memorial Day Weekend 1960, "with safety first," and the
+          Inquirer calls it New Jersey's first official drag strip (⚠ see Open questions). It closed on July 18,
+          2023, leaving Island Dragway as the state's last strip.
+        link: drag-racing/atco-strato-rods-south-jersey.md
+        also: [drag-racing/island-dragway-great-meadows.md, drag-racing/pennsauken-central-airport-1958.md]
+        flag: drag-racing/atco-strato-rods-south-jersey.md#q-1
+      - id: strato-rods-mcguire
+        q: Did people drag race on an Air Force base in New Jersey?
+        a: >-
+          Yes. Strato Rods ran on an unused runway at McGuire Air Force Base near Wrightstown from the mid-1960s
+          into the early 1980s (⚠ see Open questions), for trophies rather than money, with a yearly March of Dimes
+          meet and driver meetings held in a Mr. Softee truck towed out by a tractor.
+        link: drag-racing/atco-strato-rods-south-jersey.md#strato-rods
+        flag: drag-racing/atco-strato-rods-south-jersey.md#q-2
+      - id: garlits-201-island
+        q: Where did Garlits run 201.34 mph?
+        a: >-
+          At Island Dragway in Great Meadows, N.J., on August 2, 1964: 7.78 seconds at 201.34 mph in Swamp Rat VI,
+          which the track calls the first officially recognized 200-mph pass. An Inquirer history says he had hit
+          200 elsewhere by August 1961 (⚠ see Open questions).
+        link: drag-racing/island-dragway-great-meadows.md#two-hundred-and-the-chute
+        also: [people/don-garlits.md]
+        flag: drag-racing/island-dragway-great-meadows.md#q-2
+      - id: portland-first-legal-drags
+        q: Where were the first legal drag races around Portland, Oregon?
+        a: >-
+          At the Scappoose airport on the last Sunday in May 1952, run by the Columbia Timing Association that two
+          Portland clubs formed in 1951; about 30 cars ran 80 to 90 mph. One racer remembered the strip in use from
+          1953 to 1956 (⚠ see Open questions).
+        link: drag-racing/scappoose-aurora-columbia-timing-association.md
+        also: [places/pacific-northwest.md]
+        flag: drag-racing/scappoose-aurora-columbia-timing-association.md#q-1
+      - id: balboa-funny-car-night
+        q: What happened at Eugene's 1973 funny car night?
+        a: >-
+          Bill Doner rented Balboa Park's eighth-mile on West 11th the night before his 64-funny-car show in
+          Seattle. About 16 cars and three or four thousand fans came; the police stopped it before the final,
+          and the crowd stoned the tower chanting "cash back" (◐ see Open questions).
+        link: drag-racing/eugene-balboa-white-city-oregon.md#balboa-park
+        flag: drag-racing/eugene-balboa-white-city-oregon.md#q-5
+      - id: colorado-beyond-bandimere
+        q: Where else did Colorado drag race besides Bandimere?
+        a: >-
+          At Erie's Mountain View Dragway, with its uphill shutdown; Thunder Road at 96th and Tower Road; Century
+          21 in Aurora (1971 to 1974, ⚠ see Open questions); Grand Junction's Midway, on an old runway; and from
+          1976 at Pueblo, a strip raised by a 1974 airstrip meet at Colorado City.
+        link: drag-racing/mountain-view-erie-colorado-strips.md
+        also: [drag-racing/denver-timing-association-bandimere.md]
+        flag: drag-racing/mountain-view-erie-colorado-strips.md#q-3
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:

@@ -83,7 +83,7 @@ Pennsauken is the other side of the old-airfield story. At [Cotati](marin-cotati
 
 ### Next leads
 
-The Camden *Courier-Post* and Philadelphia *Inquirer* for May 28–30, 1958, including the Monday hearing; whether South Jersey clubs then pushed for a strip (Atco Dragway, a few miles away, is a lead we have not checked); later memories of the night in local history groups. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+The Camden *Courier-Post* and Philadelphia *Inquirer* for May 28–30, 1958, including the Monday hearing; whether South Jersey clubs then pushed for a strip (Atco Dragway, a few miles away, opened on Memorial Day Weekend 1960, built by four Camden-area businessmen who chose a site far from homes; see [Atco and Strato Rods](atco-strato-rods-south-jersey.md). No source we have read ties it to the 1958 night); later memories of the night in local history groups. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ## Sources
 

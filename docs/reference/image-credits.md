@@ -198,3 +198,10 @@ Round 10 reuses `commons-1940-willys-gasser.jpg` and `commons-1941-willys-gasser
 | `commons-santa-maria-airport-1994-usgs.jpg` | Santa Maria Public Airport, Calif., aerial photo (context only) | U.S. Geological Survey | 1994-09-03 | [Commons](https://commons.wikimedia.org/wiki/File:Santa_Maria_Public_Airport-CA-03_September_1994-USGS.jpg) | Public domain |
 
 Round 15 also reuses `commons-sun-studio-highsmith.jpg` (Carol M. Highsmith, Library of Congress; credited above) on the [COMP Cams](../companies/comp-cams-rhs.md) page. **Skipped:** no openly licensed photographs of the Edelbrock, Hooker, Lakewood or Hurst plants or catalogs, or of Harvey Crane, Joe Schubeck or Jack Hooker, were found; company catalog and ad scans from the 1950s–70s are not reused.
+
+## Added in Round 38
+
+| File | Shows | Creator | Date | Source | License |
+|---|---|---|---|---|---|
+| `commons-former-atco-dragway-2025.jpg` | The former Atco Dragway, Atco, N.J., almost two years after it closed | Mr. Matté | 2025-03-29 | [Commons](https://commons.wikimedia.org/wiki/File:Former_Atco_Dragway_(1),_March_2025.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| `commons-west-eugene-wetlands-tsanchiifin.jpg` | West Eugene Wetlands, Eugene, Ore., near the old Balboa Park strip (context only) | Bureau of Land Management Oregon and Washington | 2016-11-18 | [Commons](https://commons.wikimedia.org/wiki/File:West_Eugene_Wetlands_(30946701742).jpg) | Public domain (U.S. government work) |

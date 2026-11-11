@@ -83,7 +83,7 @@ The official opening was Sunday, August 19, 1956, from 10 a.m. until dark: all c
 
 Upstate drivers had no strip of their own. In October 1959 Joseph Passwaters of the Smyrna Lions Club "suggested the need for a drag strip in this area," and in December he outlined a project "for providing a drag strip near Smyrna" for the club's board.[^st591008][^st591217]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> The next Labor Day weekend, among the state's highway dead, the *Chronicle* listed a 22-year-old Smyrna business student who died "after a reported 'drag race'" with his cousin.[^mc600909]
 
-Delaware's racers traveled. Neighborhood columns in the *Chronicle* noted local young men who "enjoyed the drag races at Atco, N.J., on Sunday" in May 1961 and again in 1963.[^mc610512][^mc630531]
+Delaware's racers traveled. Neighborhood columns in the *Chronicle* noted local young men who "enjoyed the drag races at Atco, N.J., on Sunday" in May 1961 and again in 1963.[^mc610512][^mc630531] For that strip, see [Atco and Strato Rods](atco-strato-rods-south-jersey.md).
 
 ## Every Sunday, all year long (1962–63)
 

@@ -1647,3 +1647,64 @@ highlights:
     added: '2026-11-10'
     eras: [1950s]
     regions: ['Union Grove, Wis.']
+
+  - id: linden-soda-pop-sign-hoods
+    headline: Turned away for having no hoods, Linden's 1954 racers tore down soda-pop signs and beat them into hoods
+    teaser: So many New Jersey cars came to the NHRA Safety Safari's meet at Linden Airport that inspection had to
+      shut down. Cars without hoods were rejected, so drivers pulled down roadside signs, and one "welded the
+      sign onto his car and there was no way to get in and inspect the motor."
+    link: drag-racing/linden-njta-new-jersey-short-strips.md#the-safari-comes-to-linden
+    evidence: [welded the sign onto his car and there was no way to get in and inspect the motor]
+    source_type: Family account
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-11'
+    eras: [1950s]
+    regions: ['Linden, N.J.']
+
+  - id: strato-rods-mr-softee
+    headline: On an Air Force runway in New Jersey, the driver meeting was held in an old Mr. Softee truck
+    teaser: >-
+      Strato Rods raced on an unused runway at McGuire Air Force Base, "No money, just trophies." A fan
+      who slipped in through the barbed wire in 1980 remembered the meeting best: "They towed an old Mr.
+      Softee truck with a tractor out to the starting line."
+    link: drag-racing/atco-strato-rods-south-jersey.md#strato-rods
+    evidence: [They towed an old Mr. Softee truck with a tractor out to the starting line, No money, just trophies]
+    source_type: Oral history
+    confidence: Low
+    flag: none
+    grassroots: true
+    added: '2026-11-11'
+    eras: [1980s]
+    regions: ['Wrightstown, N.J.']
+
+  - id: balboa-cash-back
+    headline: Eugene's biggest funny car night ended with the crowd chanting "cash back" at the timing tower
+    teaser: In 1973 Bill Doner booked about 16 funny cars into Balboa Park's little eighth-mile. Police stopped
+      the show before the final, rocks went through the tower windows, and the man who brought the timing
+      gear turned his raceway T-shirt inside out.
+    link: drag-racing/eugene-balboa-white-city-oregon.md#balboa-park
+    evidence: [cash back, cash back, turned his raceway T-shirt inside out]
+    source_type: [Oral history, Local history site]
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-11'
+    eras: [1970s]
+    regions: ['Eugene, Ore.']
+
+  - id: pueblo-pistol-council
+    headline: A Pueblo hall of fame says a councilman was "accused of holding a pistol" to fund the drag strip
+    teaser: Before Pueblo's strip opened in 1976, racers held a fund-raising meet on a private airstrip and stopped
+      for an hour to let a Cessna land. The Greater Pueblo Sports Association's biography of Tom Gilmore says
+      he was "Accused of holding a pistol on the rest of the council members."
+    link: drag-racing/mountain-view-erie-colorado-strips.md#out-on-the-edges
+    evidence: [Accused of holding a pistol on the rest of the council members, while a local rancher landed his Cessna on the drag/air strip]
+    source_type: [Museum / HOF, Oral history]
+    confidence: Low
+    flag: single-source
+    grassroots: false
+    added: '2026-11-11'
+    eras: [1970s]
+    regions: ['Pueblo, Colo.']

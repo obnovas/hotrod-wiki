@@ -808,3 +808,37 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [local] Justin Smith, "The history of Pocatello's airfields," *Idaho State Journal*, Nov. 2020 (author's republication). https://www.uptownbooks.com/history-articles/the-history-of-pocatellos-airfields
 - [ref] Paul Freeman, "Pocatello Municipal Airport / McDougall Field," *Abandoned & Little-Known Airfields: Southeastern Idaho* (Robert Pearson, Bret Kepner recollections). https://www.airfields-freeman.com/ID/Airfields_ID_SE.htm
 - [oral] "1960s: Women Drag Racers of the Second Decade," *Speed Queens of the Drag Strip* (Kathy Steinmetz, Dorothy Fisher, Sharon Lee Kornyei). https://benelliman.wixsite.com/women-drag-racers/1960s
+
+## Round 38 additions (Linden and New Jersey's short strips, Atco and Strato Rods, Island Dragway, Scappoose and the CTA, Eugene and White City, Mountain View and Colorado)
+- [club] Frank Carey, "History - New Jersey Timing Association - Part 1" and "Part 2," *The H.A.M.B.*, June 25 and 27, 2017. https://www.jalopyjournal.com/forum/threads/new-jersey-timing-association-part-1.1067075/ and https://www.jalopyjournal.com/forum/threads/new-jersey-timing-association-part-2.1067258/
+- [forum] "New Jersey: Remembering . . ." (racers' memories with names; Joe Lomastro's 2020 interview with Mel Bashore; Richard Parks on Eric Rickman's 1954 journal), *Drag Strip List*. https://dragstriplist.com/nj
+- [local] "Auto Racing History," *New Jersey Sports Heroes* (undated). https://www.njsportsheroes.com/auto.history.html
+- [forum] "Lost drag strip near Pittstown NJ?," *The H.A.M.B.*, May 2012. https://www.jalopyjournal.com/forum/threads/lost-drag-strip-near-pittstown-nj.698362/
+- [local] Nick Vadala, "Atco Dragway closed suddenly, but it used to host drivers striving for 200 mph and at least one biker wedding," *The Philadelphia Inquirer*, July 19, 2023. https://www.inquirer.com/news/new-jersey/atco-dragway-closes-drag-racing-south-jersey-camden-county-20230719.html
+- [mag] Tara Hurlin, "Atco Dragway Closes: A Chapter Ends in Drag Racing History," *Hemmings*, July 19, 2023. https://www.hemmings.com/stories/atco-dragway-closes-permanently/
+- [forum] "Lost Drag Strips," page 11 (matt Delio and Tat-2, Sept. 17, 2010), *The H.A.M.B.* https://www.jalopyjournal.com/forum/threads/lost-drag-strips.313182/page-11
+- [forum] "Ghost Tracks, remember when, keep it going" (kruger, Dec. 24, 2009), *Moparts Forums*. https://board.moparts.org/ubbthreads/ubbthreads.php/topics/156920.html
+- [forum] "Muscle," page 4 (oji and bertsdirtytoys, 2009), *NJ Pine Barrens Forums*. https://forums.njpinebarrens.com/threads/muscle.5289/page-4
+- [hof] "Bob Frey," Eastern Motorsports Press Association Hall of Fame (undated). https://empamedia.com/halloffameBob%20Frey.html
+- [museum] "Bob Frey," International Drag Racing Hall of Fame, Don Garlits Museum of Drag Racing (undated). https://garlits.com/hall-of-fame/bob-frey/
+- [local] "Revving Up For The Racing Season," *Inside Warren*, April 15, 2021. https://www.insidewarren.com/revving-up-for-the-racing-season/
+- [local] "TURKEYS AND TROPHIES: Bridge commission rips off travelers; raceway celebrates 50th," *The Express-Times*, Aug. 14, 2010. https://www.lehighvalleylive.com/today/2010/08/turkeys_and_trophies_bridge_co.html
+- [local] Nick Falsone, "Island Dragway in Independence Township closing after more than 50 years, racing organization says," *The Express-Times*, Jan. 24, 2013. https://www.lehighvalleylive.com/warren-county/express-times/2013/01/island_dragway_in_independence.html
+- [corp] "About Island Dragway," Island Dragway (track website, undated). https://www.islanddragway.com/
+- [web] Jill, "Island Dragway Is the Last Drag Strip Left in New Jersey," *Wander Jersey*, Sept. 4, 2026. https://wanderjersey.com/island-dragway/
+- [mag] "Historic New Jersey Island Dragway Set to Reopen," *MotorTrend*, June 17, 2013. https://www.motortrend.com/news/historic-new-jersey-island-dragway-set-to-reopen
+- [oral] Albert Drake, "The First Drags," from *Reflections in a Spinner Hubcap*, *Flat Out Press* (blog), April 2021. https://flatoutpress.blogspot.com/2021/04/the-first-drags.html
+- [club] "Who are the ROAD ANGELS?," The Portland Road Angels (club website), updated Jan. 23, 2023. https://sites.google.com/site/theportlandroadangels/
+- [forum] "Oregon: Remembering . . ." (racers' memories with names; Mel Bashore's 2017 interviews of Larry Stopper and Jim Beardslee), *Drag Strip List*. https://dragstriplist.com/or
+- [local] *Eugene Register-Guard*, Aug. 30, 1950, p. 15 ("Hot-Rod Race Set Sunday") and Sept. 22, 1955, p. 27 ("Active Club Sponsoring All-Sunday Drag Races"), Historic Oregon Newspapers. https://oregonnews.uoregon.edu/lccn/sn85042472/1950-08-30/ed-1/seq-15/ and https://oregonnews.uoregon.edu/lccn/sn85042472/1955-09-22/ed-1/seq-27/
+- [local] *Medford Mail Tribune*, Sept. 5, 1958, p. 11 and May 7, 1962, p. 13, Historic Oregon Newspapers. https://oregonnews.uoregon.edu/lccn/sn97071090/1958-09-05/ed-1/seq-11/ and https://oregonnews.uoregon.edu/lccn/sn97071090/1962-05-07/ed-1/seq-13/
+- [local] Balboa Park Drag Strip advertisement, *Oregon Daily Emerald*, April 26, 1968, p. 12, Historic Oregon Newspapers. https://oregonnews.uoregon.edu/lccn/2004260239/1968-04-26/ed-1/seq-12/
+- [oral] Rocky, "Eugene Drags: A Happening," "Pt. 2" and "Police have arrived. Now what?," Rocky's Road, jefferson61.com (class-reunion website). https://www.jefferson61.com/t1.htm
+- [local] "Tsanchiifin Trail," *WREN* (Willamette Resources and Educational Network blog), March 7, 2008. http://wewwild.blogspot.com/2008/03/tsanchiifin-trail.html
+- [web] befastpast, "another 1967 ad from Oregon," *racin' thru the raindrops* (blog), Oct. 29, 2014. http://befastpast.blogspot.com/2014/10/another-1967-ad-from-oregon.html
+- [mag] Andrew Wolf, "Flashback Friday: The View Of Colorado's Mountain View Dragway," *Dragzine*, 2011. https://www.dragzine.com/news/flashback-friday-the-view-of-colorados-mountain-view-dragway/
+- [forum] "Colorado: Remembering . . ." (racers' and families' memories with names), *Drag Strip List*. https://dragstriplist.com/co
+- [family] Del Wiesner, "History," Seevers, Wiesner & Owens '33 Willys tribute car website (undated). https://www.gassertributecar.com/history.html
+- [hof] "Bill Canty" (2019) and "Alan Bockla" (2008), Colorado Motorsports Hall of Fame. https://coloradomotorsportshalloffame.com/bill-canty/ and https://coloradomotorsportshalloffame.com/alan-bockla/
+- [museum] "Aurora's Short Track: The Century 21 International Speedway," City of Aurora (Aurora History Museum exhibition notice), June 17, 2025. https://www.auroragov.org/news/whats_new/aurora_s_short_track_exhibit
+- [hof] "Thomas Carlyle 'Tom' Gilmore," Greater Pueblo Sports Association Hall of Fame. https://www.pueblogshof.com/index.php/thomas-carlyle-tom-gilmore

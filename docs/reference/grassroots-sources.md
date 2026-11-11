@@ -18,6 +18,8 @@ Most of what is written about hot rodding comes from national magazines and trad
 Format: outlet (year read) → what it contributed → the page that uses it.
 
 ### Local news
+- *Eugene Register-Guard* (1950, 1955), *Medford Mail Tribune* (1958, 1962) and the *Oregon Daily Emerald* (1968) on [Historic Oregon Newspapers](https://oregonnews.uoregon.edu/) (single page OCR; the search page is behind a Turnstile check and was not used) → the Road Kings' first meet, the Active Club's 1955 drags, Camp White's Northwest Gas Championship and a Balboa ad → [Eugene & White City](../drag-racing/eugene-balboa-white-city-oregon.md).
+- [*Inside Warren*, 2021](https://www.insidewarren.com/revving-up-for-the-racing-season/) and the Easton *Express-Times* ([2010](https://www.lehighvalleylive.com/today/2010/08/turkeys_and_trophies_bridge_co.html), [2013](https://www.lehighvalleylive.com/warren-county/express-times/2013/01/island_dragway_in_independence.html)) → the golf course or the racetrack, Rose Island, the floods and the reopening → [Island Dragway](../drag-racing/island-dragway-great-meadows.md).
 - [Bowling Green *Daily News*, 2009](https://bgdailynews.com/2009/03/26/beech-bend-memories-an-interview-with-author-robert-dickey/) (interview with Robert Dickey, Charles Garvin's publicist and lawyer) → Garvin sending D. A. Faxon to Atlanta, a September 1956 opening ⚠ and the Sulphur Dell grandstands ◐ → [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md).
 - [*Davie County Enterprise Record*, 2011](https://ourdavie.com/2011/05/19/dragstrip-supporters-tout-economic-benefits/) → Farmington's supporters in 2011 → [Farmington](../drag-racing/farmington-dragway-becky-white.md).
 - [*L'Observateur*, 2022](https://lobservateur.com/2022/03/02/blast-from-the-past-laplace-dragway-remembered-for-thrills-excitement/) (LaPlace weekly) → the May 6, 1962 opening, the 1976 Cajun Nationals, the first Andouille Festival and the hearse on the last day → [LaPlace & Houma](../drag-racing/laplace-dragway-houma.md).
@@ -97,6 +99,8 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [Hurley Funeral Home, John Ray Martinez](https://www.hurleyfuneralhome.com/obituary/john-martinez) (Pleasanton, Tex., 2024) → the family's word that he "owned and operated" Alamo Dragway → [San Antonio](../drag-racing/san-antonio-double-eagle-alamo-dragway.md).
 
 ### Oral history and interviews
+- Albert Drake, ["The First Drags"](https://flatoutpress.blogspot.com/2021/04/the-first-drags.html) (memoir excerpt, *Flat Out Press*) → the gray Buick, the quarter to watch an old Ford, and the first Scappoose meet → [Scappoose & CTA](../drag-racing/scappoose-aurora-columbia-timing-association.md).
+- Rocky's Road on [jefferson61.com](https://www.jefferson61.com/t1.htm) (a Jefferson High class of '61 reunion site) → Balboa's timing gear, the 1973 funny car night and the T-shirt turned inside out ◐ → [Eugene & White City](../drag-racing/eugene-balboa-white-city-oregon.md).
 - [WUWM *Lake Effect*, 2016](https://www.wuwm.com/podcast/lake-effect-segments/2016-09-01/the-great-lakes-dragaway-and-the-brothers-who-helped-build-it) (Milwaukee public radio; Sue and Russell Herriges) → the ditches, the scrounged-wood tower and the *Lucky Ladybug* → [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md).
 - Becky White's memoir posts on [*Quick Times Racing News*](https://quicktimesracingnews.wordpress.com) (2010; unsigned, matched by her résumé page) → the Royal typewriter, "$15 a week and a hot dog!!!" and the 1980 fight ◐ → [Farmington](../drag-racing/farmington-dragway-becky-white.md).
 - [Modestoview](https://www.modestoview.com/gene-winfield-interview/) (Chris Murphy's interview with Gene Winfield) → the Century Toppers' founding "in late '47," the coop shop, early racing roads → [Century Toppers](../drag-racing/modesto-century-toppers.md).
@@ -108,6 +112,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - [*Speed Queens of the Drag Strip*, 1960s](https://benelliman.wixsite.com/women-drag-racers/1960s) (compiled women racers' biographies with quotes) → Kathy Steinmetz in the Pocatello tower, Dorothy Fisher at Tucson, Sharon Lee Kornyei in Hawaii, all ◐ → [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md), [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md), [Kahuku](../drag-racing/kahuku-point-hawaii-drag-strip.md).
 
 ### Club newsletters, club histories and club-run pages
+- Frank Carey's NJTA history on the H.A.M.B. ([part 1](https://www.jalopyjournal.com/forum/threads/new-jersey-timing-association-part-1.1067075/), [part 2](https://www.jalopyjournal.com/forum/threads/new-jersey-timing-association-part-2.1067258/), 2017) and the [Portland Road Angels' own site](https://sites.google.com/site/theportlandroadangels/) → the NJTA's 1952 founding and Linden, 1954; the Road Angels and the CTA → [Linden & NJ strips](../drag-racing/linden-njta-new-jersey-short-strips.md), [Scappoose & CTA](../drag-racing/scappoose-aurora-columbia-timing-association.md).
 - [Sheridan Speedway, "Sheridan's Speedways long history of racing!"](http://www.sheridanspeedway.com/about/) (the Sheridan, Wyo., club's own history from its 1947 Hot Rod Club) → [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md).
 - [Dominators Hot Rod Club, "History"](https://dominatorshotrodclub.com/history/) (Watertown, Mass., club's own page by co-founder Jack Brackett) → the four New England strips of the day → [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md).
 - [Great Plains Street Rodders, "Cruisin' 605"](https://web.archive.org/web/20250426053142/https://www.greatplainsstreetrodders.com/cruisin-605/) (Sioux Falls club's own history pages by Tom Olsen, read in Internet Archive copies) → fifteen clubs, the Barrell drive-in and the Chevrolet Racing Team → [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md). South Dakota State Archives, [Lloyd Willey Collection](https://sdarchives.lyrasistechnology.org/repositories/2/accessions/836) (club booklets) → the Rapid Shifters and Starters → same page.
@@ -139,6 +144,7 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 
 
 ### Family accounts
+- Del Wiesner's [history page](https://www.gassertributecar.com/history.html) for the Seevers, Wiesner & Owens '33 Willys tribute car → "Car almost killed me at Mountain View Dragway" → [Mountain View & Colorado](../drag-racing/mountain-view-erie-colorado-strips.md).
 - [Rick David on DragCars.com](https://www.dragcars.com/html/drag_racing_history_insight.html) (his grandparents W. H. and Jayne David) → the Esterwood and Pel State strips, *Tire Marks* and the family's Christmas tree claim ⚠ → [Pel State](../drag-racing/pel-state-dragway-opelousas.md).
 - [Just A Car Guy, "Bill Campbell, the quiet engineer partner…"](https://justacarguy.blogspot.com/2023/01/bill-campbell-quiet-engineer-partner.html) (2023; an email from Campbell's daughter, quoted) → the $1,000 shifter prize and her account of the rescue tool, both flagged ◐ → [Hurst-Campbell](../companies/hurst-campbell.md).
 - [Kustomrama, Jack Engle](https://kustomrama.com/wiki/Jack_Engle) (photos and captions courtesy Mark Engle) → the homemade cam-grinder story and "he and Isky both bought their first cams from Ed Winfield" → [Jack Engle](../people/jack-engle.md).
@@ -146,6 +152,8 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - Ken Black, interviewed by Daniel Strohl for [Hemmings, Sept. 23, 2018](https://www.hemmings.com/stories/keith-black/) → the driveway teardown, "I put a driver in it," and the shop years → [Keith Black](../people/keith-black.md).
 
 ### Local history sites, historical societies and blogs
+- [*New Jersey Sports Heroes*, "Auto Racing History"](https://www.njsportsheroes.com/auto.history.html) and [WREN's "Tsanchiifin Trail"](http://wewwild.blogspot.com/2008/03/tsanchiifin-trail.html) (Eugene wetlands group) → Woodbine and Manville ◐, the Strato Rods years; Balboa's years on today's trail ⚠ → [Linden & NJ strips](../drag-racing/linden-njta-new-jersey-short-strips.md), [Eugene & White City](../drag-racing/eugene-balboa-white-city-oregon.md).
+- [Greater Pueblo Sports Association Hall of Fame, Tom Gilmore](https://www.pueblogshof.com/index.php/thomas-carlyle-tom-gilmore) → the pistol at city council ◐ → [Mountain View & Colorado](../drag-racing/mountain-view-erie-colorado-strips.md).
 - [Kentucky Motorsports Hall of Fame, Beech Bend history page](https://www.kentuckymotorsportshalloffame.com/WEBPAGE-Motorsports-Links/HISTORY-PAGE-BEECH-BEND) and the park's own [2004 history page](https://web.archive.org/web/20041012014523/http://beechbend.com/history.htm) → the dime at the gate, the road grader and the one-carburetor rule → [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md).
 - [Wisconsin Hot Rod Radio, show 148](https://wisconsinhotrodradio.com/whrrstuff/148-great-lakes-dragaway-first-twenty-years-event/) (2017) → the clubs behind Great Lakes Dragaway → [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md).
 - [Bullitt County History Museum, *Memories*](https://bullittcountyhistory.org/memories/dragrace.html) (David Strange's 2012 *Courier-Journal* column, archived with photos and additions by the county genealogical society) → the farmer-printer, the sheriff and seven thousand people on a rock road → [Cedar Creek](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md).
@@ -171,6 +179,8 @@ Format: outlet (year read) → what it contributed → the page that uses it.
 - Round 18 additions: *The Laurel Leaf* (Franklin High, Franklin, N.C., 1957 and 1958; North Carolina Digital Heritage Center scans), Scottsbluff High (Neb.) 1979 and Hays High (Kan.) 1987 (Classmates.com scans) → [Dragging Main](../places/dragging-main.md).
 
 ### Forum recollections
+- *Drag Strip List* memories pages for [New Jersey](https://dragstriplist.com/nj), [Oregon](https://dragstriplist.com/or) and [Colorado](https://dragstriplist.com/co) (Round 38, read through a headless browser) → soda-pop signs for hoods at Linden; the Strato Rods coffee-can cool can and Mr. Softee truck; Island's hot dog stand and fog off the bogs; Scappoose's itty-bitty trophy; Balboa and White City; Mountain View's carnival-slide shutdown → all six Round 38 pages.
+- H.A.M.B. ["Lost Drag Strips"](https://www.jalopyjournal.com/forum/threads/lost-drag-strips.313182/page-11) and ["Lost drag strip near Pittstown"](https://www.jalopyjournal.com/forum/threads/lost-drag-strip-near-pittstown-nj.698362/), [Moparts](https://board.moparts.org/ubbthreads/ubbthreads.php/topics/156920.html) and [*NJ Pine Barrens*](https://forums.njpinebarrens.com/threads/muscle.5289/page-4) → Strato Rods' March of Dimes meet, Sunday morning at McGuire and Sunday night at Atco, Flemington's "one helluva driveway" → [Atco & Strato Rods](../drag-racing/atco-strato-rods-south-jersey.md), [Linden & NJ strips](../drag-racing/linden-njta-new-jersey-short-strips.md).
 - [H.A.M.B., "History – Golden Triangle drag strip"](https://www.jalopyjournal.com/forum/threads/golden-triangle-drag-strip.585906/) (2011–2021; a flagger, a *Drag Strip List* editor and a later motorcycle racer) → the Blockbusters, Twin City nights, Malone 1959 photograph ◐ → [Golden Triangle](../drag-racing/golden-triangle-oldsmar.md).
 - [BangShift, Milton Speedway features](https://bangshift.com/general-news/the-mysterious-and-overgrown-footprint-of-milton-speedway/) (2013–14; readers' firsthand comments from spectators and racers) → [Milton, Vt.](../drag-racing/milton-speedway-vermont.md); [DragStripList.com, Hawaii memories](https://www.dragstriplist.com/hi) (an airman's 1956–58 recollection, Roland Leong, a racer's daughter) → [Kahuku](../drag-racing/kahuku-point-hawaii-drag-strip.md); [*Living in the Past*](https://denise-livinginthepast.blogspot.com/2024/03/from-photo-archives-compton-family-of.html) (a family's slide collection, 1958–59) → [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md).
 - [H.A.M.B., "Charlestown r . I dragway 1956-1964"](https://www.jalopyjournal.com/forum/threads/charlestown-r-i-dragway-1956-1964.831574/) (2013–14; racers, a sailor and members' sons, with a 1956 club photograph) and the [Dover Drag Strip forum, "Charlestown 60's"](https://doverdragstrip.com/forums/topic/charlestown-60-s/) (2011) → the runway, the clubs, the end → [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md).
@@ -217,6 +227,19 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive yearbook scans (classmates.com collection) | **Readable** page OCR, 1950s–60s; school papers sometimes bound in. |
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
+
+### Round 38 status
+| Archive | Round 38 status |
+|---|---|
+| Historic Oregon Newspapers (search) | Cloudflare Turnstile challenge; not bypassed. Individual page OCR URLs were readable and used. |
+| Boulder (Carnegie) library local history | Bot check; not bypassed. Mountain View's years stay ?. |
+| *Times Herald-Record* (2013), *Courier-Post* (Atco, 2023), *Pueblo Chieftain* (1998) | Paywall (HTTP 402); not bypassed or used. |
+| nj.com / *Hunterdon County Democrat* (2013) | HTTP 403; not used. Flemington's opening stays ?. |
+| Colorado Drag Racing Memories (tripod) | HTTP 500. |
+| CBS Colorado | Timed out. |
+| Hackettstown Historical Society (Kowalick obituary PDF) | Empty file; Edward Kowalick's death year stays ⚠. |
+| *Drag Strip List* state memories pages | Script-rendered; read through a headless browser. |
+| Google Patents | No patent found for the Round 38 people. |
 
 ### Round 37 status
 | Archive | Round 37 status |

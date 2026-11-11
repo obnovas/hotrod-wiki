@@ -103,7 +103,7 @@ He called it the Safety Proving Grounds of America: an oval, a drag strip, garag
 
 The strip joined NHRA in 1968, and its High School Drags began in 1973.[^bhist] Rising taxes in the 1970s pushed the family toward bigger events, and NHRA came to the mountain in the late 1970s.[^post]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup> In 1981 the track says the Compulink timing system was first used there, the work of John Jr., local racer Bob Brockmeyer and manager Larry Crispe. John Sr. died in 1986, at 78.[^bhist]
 
-*See also:* southern New Mexico's racers also used an unopened stretch of I-25, north of Las Cruces, in the 1960s: [A Mobil Flag on Eubank](new-mexico-timing-association-albuquerque.md). For Utah's strips to the west, see [Sundays at Airport No. 2](utah-airport-no-2-salt-lake-strips.md).
+*See also:* southern New Mexico's racers also used an unopened stretch of I-25, north of Las Cruces, in the 1960s: [A Mobil Flag on Eubank](new-mexico-timing-association-albuquerque.md). For Utah's strips to the west, see [Sundays at Airport No. 2](utah-airport-no-2-salt-lake-strips.md). For Erie's Mountain View Dragway, Thunder Road, Century 21 and the strips beyond Denver, see [An Uphill Shutdown and a Pistol at City Council](mountain-view-erie-colorado-strips.md).
 
 ## Open questions & disputed details
 
