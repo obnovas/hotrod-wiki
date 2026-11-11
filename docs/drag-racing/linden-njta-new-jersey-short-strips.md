@@ -33,7 +33,7 @@ people:
 - Bob Williams
 - Eric Rickman
 - Chic Cannon
-- Bud Coons
+- Coons
 - Wally Parks
 - Richard Parks
 - Jon Asher

@@ -852,11 +852,12 @@ themes:
       - id: balboa-funny-car-night
         q: What happened at Eugene's 1973 funny car night?
         a: >-
-          Bill Doner rented Balboa Park's eighth-mile on West 11th the night before his 64-funny-car show in
-          Seattle. About 16 cars and three or four thousand fans came; the police stopped it before the final,
-          and the crowd stoned the tower chanting "cash back" (◐ see Open questions).
+          Bill Doner rented Balboa Park on West 11th the night before his 64-funny-car show in Seattle. Rocky
+          remembered an eighth-mile, and Bruce Patten a quarter-mile in 1972 (⚠ see Open questions). About 16
+          cars and three or four thousand fans came; the police stopped it before the final, and the crowd
+          stoned the tower chanting "cash back" (◐ see Open questions).
         link: drag-racing/eugene-balboa-white-city-oregon.md#balboa-park
-        flag: drag-racing/eugene-balboa-white-city-oregon.md#q-5
+        flag: [drag-racing/eugene-balboa-white-city-oregon.md#q-6, drag-racing/eugene-balboa-white-city-oregon.md#q-5]
       - id: colorado-beyond-bandimere
         q: Where else did Colorado drag race besides Bandimere?
         a: >-
