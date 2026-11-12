@@ -38,7 +38,7 @@ Most of them started in a garage, a shed or a borrowed corner of someone else's 
 - [Don Prudhomme](don-prudhomme.md): Van Nuys painter, Greer-Black-Prudhomme, Leong's Hawaiian, Road Kings rickshaw initiation, Greer-Black-Prudhomme, Leong's Hawaiian, Snake vs. Mongoose (⚠ Schiefer record).
 - [Keith Black](keith-black.md): Huntington Park driveway mechanic, backyard boat engines, Greer-Black-Prudhomme and the KB aluminum block (⚠ birth year, win count, 392 or 426).
 - [Tom McEwen](tom-mcewen.md): Pensacola-born, Long Beach-raised Mongoose; Lions 1964, Hot Wheels, five NHRA nationals including Indianapolis 1978 (⚠ death date; son's name and age).
-- [Gene Cromer](gene-cromer-moonlighter.md): Anderson, S.C., builder of every car he raced; the Willys gasser his wife named the *Moonlighter*, Donaldson AFB's only meet in 1965, and racing again in his eighties (⚠ 1940 or 1941 Willys).
+- [Gene Cromer](gene-cromer-moonlighter.md): Anderson, S.C., builder of every car he raced; the Willys gasser his wife named the *Moonlighter*, an A/Gas win at Donaldson AFB in 1965 (? whether it was the base's only meet), and racing again in his eighties (⚠ 1940 or 1941 Willys).
 - [Roland Leong](roland-leong.md): "The Hawaiian": Kahuku gas dragsters, Dragmasters, the crash that made him an owner, and Prudhomme (⚠ when they met).
 - Bruce Miller: see [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 

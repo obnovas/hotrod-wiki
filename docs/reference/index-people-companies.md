@@ -10,7 +10,7 @@
 | Alamo Dragway | San Antonio strip on Hwy. 16 toward Poteet; AHRA nationals, 1977; run by the Martinez brothers | [San Antonio](../drag-racing/san-antonio-double-eagle-alamo-dragway.md) |
 | Alamo Timing Association | San Antonio-area club; March of Dimes drags at Castroville, 1957 | [Medina County](../drag-racing/medina-county-castroville-drags.md) |
 | Alderton, Charlotte | Dairy clerk; one of the first three women in the D.C. Dragons, 1954 | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) |
-| Alford, James | Built Riverside Raceway, Pearl, Miss., by one account (⚠) | [Mississippi's strips](../drag-racing/mississippi-hometown-strips-jackson-pearl.md) |
+| Alford, James | Built Riverside Raceway, Pearl, Miss., by one account (◐) | [Mississippi's strips](../drag-racing/mississippi-hometown-strips-jackson-pearl.md) |
 | Allen, Charlie | Funny Car driver; ran Orange County International Raceway's last years, then built Firebird International Raceway in Chandler | [Orange County](../drag-racing/orange-county-international-raceway.md), [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md) |
 | Allington, Skip & Gail | Lompoc, Calif., bracket and Pro Stock racers, 1971–77 | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
 | Almquist Engineering Co. | Milford, Pa. | [Ed Almquist](../people/ed-almquist.md) |

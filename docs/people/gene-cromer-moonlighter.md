@@ -1,6 +1,6 @@
 ---
 title: 'Named for the Nights in the Shop: Gene Cromer''s Moonlighter and the Upstate Gassers (1960–2021)'
-summary: 'Anderson, S.C., racer Gene Cromer built all his own cars, including the Ford-powered Willys his wife named the Moonlighter for his nights in the shop; it won A/Gas at Donaldson Air Force Base''s only drag meet in 1965. He stored it for decades, raced it again in his eighties and died in 2021.'
+summary: 'Anderson, S.C., racer Gene Cromer built all his own cars, including the Ford-powered Willys his wife named the Moonlighter for his nights in the shop; it won A/Gas at Donaldson Air Force Base in 1965. He stored it for decades, raced it again in his eighties and died in 2021.'
 department: people
 era: 1960s
 eras:
@@ -71,10 +71,10 @@ canonical_for: []
 ---
 # Named for the Nights in the Shop: Gene Cromer's Moonlighter and the Upstate Gassers (1960–2021)
 
-*A Willys finished too late to be lettered, an Air Force base that held one drag race, a friend who kept the scrapbook, and a gasser that went back to the strip after 45 years in a shed*
+*A Willys finished too late to be lettered, a meet at an Air Force base, a friend who kept the scrapbook, and a gasser that went back to the strip after 45 years in a shed*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (Cromer's racing is told by a Georgia drag racing historian who interviewed him and by *Hot Rod* when the car came back; the Donaldson race rests on a friend's scrapbook, a reprinted ad and two spectators' memories; the car's year is disputed) · **Source types:** <span class="hr-badge">Grassroots</span> Marvin T. Smith's profile on *GeorgiaDragRacing.com*; racers' and friends' memories on *Drag Strip List*; a *RacersReunion* photo caption; *Hot Rod* (2016); *Competition Plus* (2021) · **Last verified:** 2026-11-12 (Round 39) · **Open issues:** ⚠ a 1940 or 1941 Willys; ⚠ May 15–16 or 18; ? Donaldson's only race · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (Cromer's racing is told by a Georgia drag racing historian who interviewed him and by *Hot Rod* when the car came back; the Donaldson race rests on a friend's scrapbook, a reprinted ad and two spectators' memories; the car's year is disputed) · **Source types:** <span class="hr-badge">Grassroots</span> Marvin T. Smith's profile on *GeorgiaDragRacing.com*; racers' and friends' memories on *Drag Strip List*; a *RacersReunion* photo caption; *Hot Rod* (2016); *Competition Plus* (2021) · **Last verified:** 2026-11-12 (Round 39 citation review) · **Open issues:** ⚠ a 1940 or 1941 Willys; ⚠ May 15–16 or 18; ? Donaldson's only race · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I always thought I would start again, but it was not to be."
@@ -83,13 +83,13 @@ canonical_for: []
 
 ## A Ford man's Willys
 
-Gene Cromer came to drag racing from motorcycles, about 1960, with a Lincoln 368-powered rail. Next came a '55 Chevy like everybody else's, except that his had a Ford engine, and he remembered that it "broke a lot." In 1965 he built a Ford-powered Willys coupe and, in Marvin T. Smith's words, "terrorized A/G class." Smith, a Valdosta State sociologist who wrote up Georgia's racers, noted that Cromer "built all his own cars."[^gdr]
+Gene Cromer came to drag racing from motorcycles, about 1960, with a Lincoln 368-powered rail. Next came a '55 Chevy like everybody else's, except that his had a Ford engine, and he remembered that it "broke a lot."[^gdr] In 1965 he built a Ford-powered Willys coupe, a 1941 in *Hot Rod*'s account and a 1940 in Frank Taylor's scrapbook captions.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^hr16][^dslsc] In Marvin T. Smith's words, he "terrorized A/G class." Smith, a Valdosta State sociologist who wrote up Georgia's racers, noted that Cromer "built all his own cars."[^gdr]
 
 The name came from home. Melvin Craft started hanging around Gene's Speed Shop in the evenings and on weekends in 1964, when the Willys was being built, and became Cromer's right-hand man between rounds from 1965 to 1967. "All those nights in the shop explains why Gene's wife named the car 'The Moonlighter,'" *Hot Rod* wrote in 2016.[^hr16]
 
-## One race at Donaldson
+## A meet at Donaldson
 
-Its first race was an NHRA meet in Greenville in 1965, at Donaldson Air Force Base. The car was so fresh it had no lettering yet, and it won A/Gas.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^hr16][^dslsc] Cromer's friend Frank Taylor, who has the scrapbook, calls it "the only race there," and has the ad from *Drag Speed Illustrated* for May 15–16, 1965, a photo of Cromer leaning on his '58 Ranchero tow car, and one of the Willys outside his shop.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>[^dslsc] A photo posted on *RacersReunion* of a '65 Plymouth from Richmond, Virginia, is captioned "5-18-65 Donaldson AFB."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^rr10]
+Its first race was an NHRA meet in Greenville in 1965, at Donaldson Air Force Base. The car was so fresh it had no lettering yet, and it won A/Gas.[^hr16][^dslsc] Cromer's friend Frank Taylor, who has the scrapbook, calls it "the only race there," and has the ad from *Drag Speed Illustrated* for May 15–16, 1965, a photo of Cromer leaning on his '58 Ranchero tow car, and one of the Willys outside his shop.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>[^dslsc] A photo posted on *RacersReunion* of a '65 Plymouth from Richmond, Virginia, is captioned "5-18-65 Donaldson AFB."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^rr10]
 
 Rex O'Steen went that summer Saturday to watch Ken Cothran's yellow '65 Chevelle Malibu SS 327 four-speed. "My father had a Chevrolet dealership in downtown Greenville and Ken was a 'wild' parts salesman there."[^dslsc]
 
