@@ -867,6 +867,41 @@ themes:
         link: drag-racing/mountain-view-erie-colorado-strips.md
         also: [drag-racing/denver-timing-association-bandimere.md]
         flag: drag-racing/mountain-view-erie-colorado-strips.md#q-3
+      - id: biloxi-dragway
+        q: What was Biloxi Dragway?
+        a: >-
+          The Gulf Coast's drag strip near Woolmarket, north of Biloxi, which opened with 307 entries in
+          September 1957, held a boat show on the strip in 1959 and drew Garlits, Ivo (⚠ 1960 or 1961, see Open questions) and Arfons. It closed
+          on July 1, 1967, when the landowner would not renew the lease.
+        link: drag-racing/biloxi-dragway-gulf-coast.md
+        also: [drag-racing/pascagoula-timing-association.md]
+        flag: drag-racing/biloxi-dragway-gulf-coast.md#q-1
+      - id: riverside-pearl-high-school
+        q: What happened to Riverside, the drag strip in Pearl, Mississippi?
+        a: >-
+          It ran beside Interstate 20 from 1972, by a local racer's account (⚠ who built it, see Open questions), on land leased from the Pearl
+          Public School District. In 1987 the district sued to end the lease, and Pearl High School now
+          covers most of the old strip; the Jackson Dragway name later went to a 500-foot strip in Byram.
+        link: drag-racing/mississippi-hometown-strips-jackson-pearl.md#riverside-beside-the-interstate
+        flag: drag-racing/mississippi-hometown-strips-jackson-pearl.md#q-2
+      - id: blaney-drag-strip
+        q: What became of Blaney Drag Strip in Elgin, South Carolina?
+        a: >-
+          Ed and Sandra Smith built it on their land off U.S. 1, moved it in 1967 for a longer shutdown (⚠ see Open questions) and
+          later leased it to racer Johnny Dowey. It closed on November 16, 1985, when the land was worth more
+          as lots, and a racer later found its streets named Garlits Drive and Ivo Circle.
+        link: drag-racing/blaney-drag-strip-elgin-south-carolina.md
+        also: [drag-racing/chester-drag-strip-south-carolina.md]
+        flag: drag-racing/blaney-drag-strip-elgin-south-carolina.md#q-2
+      - id: greybull-airport-drags
+        q: Where did Wyoming's Big Horn Basin drag race?
+        a: >-
+          At Greybull's county airport from 1963, where the Collingwood family of the Pontiac dealership raced
+          its Tonto Catalinas and the first races were timed by stopwatch from a tower on skids. How those drags ended rests on one memory (◐ see Open questions). Club drags
+          returned to the airport in the 2010s, then moved to Powell after the runway was resurfaced.
+        link: drag-racing/greybull-cheyenne-wyoming-strips.md
+        also: [drag-racing/casper-bar-nunn-wyoming-strips.md]
+        flag: drag-racing/greybull-cheyenne-wyoming-strips.md#q-2
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -952,6 +987,15 @@ themes:
           including Eddie Schartman, Ron Hassel and the Hrudka brothers, whose homemade gaskets became Mr. Gasket.
         link: places/ohio-gassers.md
         also: [companies/mr-gasket.md, people/eddie-schartman.md]
+      - id: denver-cruising-scotchman
+        q: Where did Denver teenagers cruise?
+        a: >-
+          On Colfax, Broadway and the one-way 16th Street downtown, then over the viaduct to the Scotchman
+          drive-in on Federal Boulevard (◐ its years, see Open questions), which advertised "horrible burgers." It closed on October 11, 1977,
+          as hundreds of cars honked goodbye.
+        link: places/denver-16th-street-colfax-scotchman.md
+        also: [drag-racing/denver-timing-association-bandimere.md]
+        flag: places/denver-16th-street-colfax-scotchman.md#q-1
 
   - id: companies-and-parts
     title: Companies and the parts business
@@ -1219,6 +1263,15 @@ themes:
         link: people/tom-mcewen.md
         also: [people/don-prudhomme.md, drag-racing/orange-county-international-raceway.md]
         flag: people/tom-mcewen.md#q-1
+      - id: who-was-gene-cromer
+        q: Who was Gene Cromer?
+        a: >-
+          An Anderson, South Carolina, racer who built all his own cars. His Ford-powered Willys (⚠ a 1940 or 1941, see Open questions), named the
+          Moonlighter by his wife for his nights in the shop, won A/Gas at Donaldson Air Force Base in 1965; he
+          kept it for decades, raced it again in his eighties and died in 2021.
+        link: people/gene-cromer-moonlighter.md
+        also: [drag-racing/blaney-drag-strip-elgin-south-carolina.md]
+        flag: people/gene-cromer-moonlighter.md#q-1
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:

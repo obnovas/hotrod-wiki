@@ -29,5 +29,6 @@ Hot rodding wasn't only a SoCal export, and it didn't happen only on strips. Thi
 - [Dragging Main](dragging-main.md): the small-town loop in yearbooks and an oral history, from Franklin, N.C., to Hays, Kan. (1950s–1980s).
 - [The Restless Ribbon (Tulsa)](brookside-restless-ribbon-tulsa.md): Peoria Avenue from 31st to 51st, school honks, Soc Row at Pennington's, pink-slip races and a speed shop on the strip (1950s–1970s).
 - [A Quarter Mile to the Overpass (Saugus, Mass.)](route-1-saugus-adventure-car-hop.md): the Adventure Car Hop's pecking order, Arnie Ginsburg's free Ginsburger, and races from the lot to the first bridge on Route 1 (1958–64).
+- [Horrible Burgers and a Cinnamon Coke (Denver)](denver-16th-street-colfax-scotchman.md): one-way 16th Street, Colfax and Broadway, the Scotchman on Federal, street races at 39th and Peoria, and a fuel dragster that nearly burned on the way home from Julesburg (1949–77).
 
 **Where the racing itself happened** (airfield strips, clubs, timing associations) is in [Drag Racing & Strips](../drag-racing/index.md). People from these places are in [People & Builders](../people/index.md).

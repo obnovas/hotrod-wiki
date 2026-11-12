@@ -809,6 +809,41 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [ref] Paul Freeman, "Pocatello Municipal Airport / McDougall Field," *Abandoned & Little-Known Airfields: Southeastern Idaho* (Robert Pearson, Bret Kepner recollections). https://www.airfields-freeman.com/ID/Airfields_ID_SE.htm
 - [oral] "1960s: Women Drag Racers of the Second Decade," *Speed Queens of the Drag Strip* (Kathy Steinmetz, Dorothy Fisher, Sharon Lee Kornyei). https://benelliman.wixsite.com/women-drag-racers/1960s
 
+## Round 39 additions (Biloxi Dragway, Mississippi's hometown strips, Blaney and the Midlands, Gene Cromer's Moonlighter, Greybull and Cheyenne, Denver's cruise)
+- [local] Michael "Cory" Evans, "History & Events - Timeline Highlights," *Biloxi Dragway* (local historian's site, © 2006–2026; read through a headless browser because the page is script-rendered). https://www.biloxidragway.com/timeline
+- [local] *Biloxi Dragway* home page (records and stats table; links to the Gulfport Dragway; Evans's book). https://www.biloxidragway.com/
+- [local] "Racer Spotlight: VanderLey Wins Hot Rod Title" (a 1976 newspaper profile reprinted without the paper's name, with readers' comments), *Biloxi Dragway*. https://www.biloxidragway.com/spotlight-vanderley
+- [mag] Andrew Wolf, "Flashback Friday: Mississippi's Biloxi Dragway," *Dragzine*, December 23, 2011 (images credited to BiloxiDragway.com). https://www.dragzine.com/news/flashback-friday-mississippis-biloxi-dragway/
+- [forum] "Mississippi: Remembering . . ." (racers' memories posted with names, including Theodore G. Bilbo II and Tom Murphree), *Drag Strip List* (read through a headless browser; the page is script-rendered). https://dragstriplist.com/ms
+- [ref] "Biloxi Dragway," *Wikipedia* (citing the Biloxi *Daily Herald*, September 7, 1957, p. 12, and an obituary for the Keesler Coasters detail). https://en.wikipedia.org/wiki/Biloxi_Dragway
+- [forum] JimmySmith, May 13, 2009, in "What year did you make your First pass and where?," page 3, *Racingjunk Forums*. https://racingjunk.com/forums/printthread.php?page=3&t=24195
+- [local] "Misc. Photos," *Welcome to my World of Hobbies* (a Pearl-area racer's site; Riverside history with an unnamed old-timer's account). https://23t.weebly.com/misc-photos.html
+- [local] "Your Hometown: Byram, Mississippi," WJTV (Jackson), 2024 (read in a search-index copy; the station's page refused our fetch with a 403, so nothing from it is quoted). https://www.wjtv.com/living-local/your-hometown/your-hometown-byram-mississippi/
+- [local] Jim McLaurin, "'Last Drags at Blaney': The end of an era," *The Columbia Record*, November 12, 1985, p. 29, reposted by *Kershaw County, South Carolina History*. https://kershawhistory.com/1985/11/12/last-drags-at-blaney-the-end-of-an-era/
+- [local] "Last Drags At Blaney" (advertisement), *The State*, November 7, 1985, p. 60 (the same ad ran in both Columbia papers through November 16), reposted by *Kershaw County, South Carolina History*. https://kershawhistory.com/1985/11/07/last-drags-at-blaney-2/
+- [obit] "Ed L. Smith, Jr." (obituary, March 26, 1935 – June 8, 2018), Shives Funeral Home, Columbia, S.C. https://www.shivesfuneralhome.com/obituaries/ed-smith-jr
+- [local] David R. Burlington, "Goin' to Drag City: Blaney Drag Strip," *GeorgiaDragRacing.com* (undated). http://www.georgiadragracing.com/articles/burlingtonblaneydragstrip.html
+- [forum] "South Carolina: Remembering . . ." (racers' memories posted with names, including Tom Sutton, Wilson Davis McDuffie, Henry Doriot, Robert Anderson, Lonnie Campbell and Allen Edwards, and Jack Hutchens's telephone interview with Mel Bashore, October 13, 2018), *Drag Strip List* (read through a headless browser; the page is script-rendered). https://dragstriplist.com/sc
+- [local] Marvin T. Smith, "Gene Cromer: The Invader from South Carolina," *GeorgiaDragRacing.com* (undated; Smith interviewed Cromer). http://www.georgiadragracing.com/articles/genecromerinvader.html
+- [mag] Tommy Lee Byrd, "Historic Willys Gasser Returns to the Track after 45 Years," *Hot Rod*, September 1, 2016. https://www.hotrod.com/features/historic-willys-gasser-returns-track-45-years
+- [forum] Harvey Tollison (submitter), "from Richmond VA 65 Plymouth with 2-4b 5-18-65 Donaldson AFB Drag Stip Geenville SC Joe Cawley photo," *RacersReunion*, 2010. https://racersreunion.com/photos/from-richmond-va-65-plymouth-with-2-4b-5-18-65-donaldson-afb-89110/
+- [mag] Bobby Bennett, "Updated: Gasser Legend Gene Cromer Has Passed," *Competition Plus*, July 14, 2021. https://competitionplus.com/updated-gasser-legend-gene-cromer-has-passed/
+- [forum] "Wyoming: Remembering . . ." (racers' memories posted with names, including Frankie Fisher, Warren Armstrong, Craig Pindell and Keith Blow), *Drag Strip List* (read through a headless browser; the page is script-rendered). https://dragstriplist.com/wy
+- [oral] Doug Grieve, as told in "From Strip to Salt," *Hemmings* (Muscle Car Scrapbook), byline Terry McGean, March 26, 2019 (updated March 25, 2024). https://www.hemmings.com/stories/from-strip-to-salt/
+- [local] "Drag Racing" (photos by Lisa Kunkel), *Greybull Standard*, June 14, 2018, p. 8 (OCR text of the archive page). https://gyb.stparchive.com/Archive/GYB/GYB06142018p08.php
+- [local] Nathan Oster, "Slick track impacts August drag races," *Greybull Standard*, August 17, 2023. https://greybullstandard.com/content/slick-track-impacts-august-drag-races
+- [local] Logan Stayton, "Homegrown racing at Battle on the Bench," *Powell Tribune*, November 6, 2026. https://www.powelltribune.com/stories/homegrown-racing-at-battle-on-the-bench,178780
+- [ref] "South Big Horn County Airport (KGEY)," *NOTAC* (airport history; reviewed September 21, 2026). https://notac.aero/airports/KGEY/
+- [mag] Joey Ukrop, "Range Rod: Revisited," *The Jalopy Journal*, August 23, 2024 (quoting his 2015 feature). https://www.jalopyjournal.com/?p=59113
+- [obit] "Duane Pindell" (paid obituary), *Wyoming Tribune Eagle* (wyomingnews.com), May 5, 2009. https://www.wyomingnews.com/milestones/duane-pindell/article_065ddb69-b494-5788-8782-ee8562e99ed0.html
+- [hof] "Wayne Etter," Colorado Motorsports Hall of Fame (2014 inductee). https://coloradomotorsportshalloffame.com/wayne-etter/
+- [mag] "Cheyenne War Party," *Hot Rod*, April 1970 (online January 1, 2023). https://www.hotrod.com/features/cheyenne-war-party-april-1970-982-714-125-1
+- [club] "Don Sands - Cheyenne's Oldest Teenager" (obituary text and the 2019 memorial), *Don Sands Hot Rod Reunion*, Cheyenne. https://donsandshotrodreunion.com/about-don-sands.html and https://donsandshotrodreunion.com/
+- [club] "Dennis Finley," *Hot Rodding, Then and Now* (Denver Timing Association member profiles), Red's Vintage Parts. https://reds-vintage-parts.com/hot-rodding-then-and-now/61-dennis-finley
+- [local] craigr244, "Cruisin' Along with KIMN – Remember the Scotchman!," *PopBopRocktilUDrop*, August 31, 2021. https://kimsloans.wordpress.com/tag/cruisin-in-the-1960s-in-denver/
+- [forum] "What street/City did you cruise in High School?," page 5 (posts by paul hebert quoting Ghost28, and by FunnyCar65 quoting 38FLATTIE, February 5, 2010), *The H.A.M.B.* https://www.jalopyjournal.com/forum/threads/what-street-city-did-you-cruise-in-high-school.443468/page-5
+- [local] "Diners and Drive-Ins," *Colfax Avenue* (local-history blog). https://www.colfaxavenue.org/p/diners-and-drive-ins.html
+
 ## Round 38 additions (Linden and New Jersey's short strips, Atco and Strato Rods, Island Dragway, Scappoose and the CTA, Eugene and White City, Mountain View and Colorado)
 - [club] Frank Carey, "History - New Jersey Timing Association - Part 1" and "Part 2," *The H.A.M.B.*, June 25 and 27, 2017. https://www.jalopyjournal.com/forum/threads/new-jersey-timing-association-part-1.1067075/ and https://www.jalopyjournal.com/forum/threads/new-jersey-timing-association-part-2.1067258/
 - [forum] "New Jersey: Remembering . . ." (racers' memories with names; Joe Lomastro's 2020 interview with Mel Bashore; Richard Parks on Eric Rickman's 1954 journal), *Drag Strip List*. https://dragstriplist.com/nj

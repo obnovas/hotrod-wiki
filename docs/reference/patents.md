@@ -3,7 +3,7 @@
 We found these patents in Google Patents by searching inventor and assignee names in Round 4. Every row links to the full record. The **Identity** column says how sure we are that the inventor is the hot-rod figure. **Confirmed** means the patent text itself gives a residence or company that matches. A name match is not proof: common names have namesakes.
 
 !!! note "Not found"
-    We found no patent under George Riley (searches return only an unrelated George H. Riley sanding device), Howard Johansen, or Joe Hrudka. In Round 37 a Google Patents search for W. H. David of Lafayette, La., whose family says he patented starting-light systems, found nothing under his name ([Pel State](../drag-racing/pel-state-dragway-opelousas.md#open-questions-disputed-details)). Round 38's New Jersey, Oregon and Colorado pages turned up no patent either. A null search result does not prove that none exists.
+    We found no patent under George Riley (searches return only an unrelated George H. Riley sanding device), Howard Johansen, or Joe Hrudka. In Round 37 a Google Patents search for W. H. David of Lafayette, La., whose family says he patented starting-light systems, found nothing under his name ([Pel State](../drag-racing/pel-state-dragway-opelousas.md#open-questions-disputed-details)). Round 38's New Jersey, Oregon and Colorado pages turned up no patent either. Nor did Round 39's: no patent was found under Paul VanderLey, Gene Cromer, Bernard Conaway, Dennis Finley, the Collingwoods or James Alford. A null search result does not prove that none exists.
 
 | Figure | Patent | Title | Filed | Issued | Identity |
 |---|---|---|---|---|---|

@@ -100,6 +100,7 @@ nav:
       - 'Don Prudhomme (California)': people/don-prudhomme.md
       - 'Keith Black (California)': people/keith-black.md
       - 'Tom McEwen (Florida / California)': people/tom-mcewen.md
+      - 'Gene Cromer (South Carolina)': people/gene-cromer-moonlighter.md
   - Companies & Shops:
       - companies/index.md
       - Web of Influence (the connections map): companies/web-of-influence.md
@@ -196,6 +197,10 @@ nav:
           - "Scappoose, Aurora & the Columbia Timing Assn. (Ore.)": drag-racing/scappoose-aurora-columbia-timing-association.md
           - "Eugene's Road Kings, Balboa Park & White City (Ore.)": drag-racing/eugene-balboa-white-city-oregon.md
           - "Mountain View Dragway & Colorado Beyond Bandimere": drag-racing/mountain-view-erie-colorado-strips.md
+          - "Biloxi Dragway & the Gulf Coast (Miss.)": drag-racing/biloxi-dragway-gulf-coast.md
+          - "Jackson, Pearl & Mississippi's Hometown Strips": drag-racing/mississippi-hometown-strips-jackson-pearl.md
+          - "Blaney Drag Strip & the Midlands (S.C.)": drag-racing/blaney-drag-strip-elgin-south-carolina.md
+          - "Greybull & Cheyenne, Wyoming": drag-racing/greybull-cheyenne-wyoming-strips.md
           - "Las Vegas, Henderson & Southern Nevada's Strips": drag-racing/las-vegas-henderson-drag-strips.md
           - "Charlestown Dragway & the Navy Runway (R.I.)": drag-racing/charlestown-dragway-rhode-island.md
           - "Milton Speedway, Vermont's Only Strip": drag-racing/milton-speedway-vermont.md
@@ -285,6 +290,7 @@ nav:
           - "Dragging Main (Small Towns)": places/dragging-main.md
           - "The Restless Ribbon, Tulsa": places/brookside-restless-ribbon-tulsa.md
           - "Route 1, Saugus: Adventure Car Hop": places/route-1-saugus-adventure-car-hop.md
+          - "16th Street & Colfax, Denver": places/denver-16th-street-colfax-scotchman.md
   - "Voices: In Their Own Words":
       - voices/index.md
       - Blackie Gold (Muroc, 1930s): voices/blackie-gold.md

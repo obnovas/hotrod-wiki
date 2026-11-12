@@ -205,3 +205,10 @@ Round 15 also reuses `commons-sun-studio-highsmith.jpg` (Carol M. Highsmith, Lib
 |---|---|---|---|---|---|
 | `commons-former-atco-dragway-2025.jpg` | The former Atco Dragway, Atco, N.J., almost two years after it closed | Mr. Matté | 2025-03-29 | [Commons](https://commons.wikimedia.org/wiki/File:Former_Atco_Dragway_(1),_March_2025.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | `commons-west-eugene-wetlands-tsanchiifin.jpg` | West Eugene Wetlands, Eugene, Ore., near the old Balboa Park strip (context only) | Bureau of Land Management Oregon and Washington | 2016-11-18 | [Commons](https://commons.wikimedia.org/wiki/File:West_Eugene_Wetlands_(30946701742).jpg) | Public domain (U.S. government work) |
+
+## Added in Round 39
+
+| File | Shows | Creator | Date | Source | License |
+|---|---|---|---|---|---|
+| `commons-greybull-firefighting-aircraft-2004.jpg` | Retired firefighting aircraft at the South Big Horn County Airport, Greybull, Wyo., the old Big Horn Dragway field (context only) | Andrij Bulba | 2004-06-01 | [Commons](https://commons.wikimedia.org/wiki/File:Retired_firefighting_aircraft_at_South_Big_Horn_County_Airport_Wyoming_20040601.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| `nara-colfax-avenue-west-denver-1972.jpg` | Colfax Avenue, Denver, toward the State Capitol dome, April 1972 | Bruce McAllister | 1972-04 | [Commons](https://commons.wikimedia.org/wiki/File:Colfax_Avenue_West,_Denver_-_NARA_-_544793.jpg) (U.S. National Archives 544793) | Public domain (U.S. government work) |

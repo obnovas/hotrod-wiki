@@ -1708,3 +1708,63 @@ highlights:
     added: '2026-11-11'
     eras: [1970s]
     regions: ['Pueblo, Colo.']
+
+  - id: biloxi-boat-parade
+    headline: Biloxi held a boat show on its drag strip in 1959, with a "parade of boats down the strip"
+    teaser: Biloxi Dragway was a town amenity as much as a race track. On April 26, 1959, its First Annual
+      Boat Show paraded boats down the strip at three o'clock; a week later the guests were Biloxi High
+      School's students and teachers.
+    link: drag-racing/biloxi-dragway-gulf-coast.md#trial-races-in-woolmarket
+    evidence: [parade of boats down the strip, First Annual Boat Show]
+    source_type: Local history site
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-12'
+    eras: [1950s]
+    regions: ['Biloxi, Miss.']
+
+  - id: blaney-garlits-drive
+    headline: At Elgin, S.C., the old drag strip became a mobile-home park with "Garlits Drive" and "Ivo
+      Circle"
+    teaser: Blaney Drag Strip closed in 1985. When a racer went back years later, the pit gate was the park's
+      main gate, the bleacher berms were still there, and the streets were named for drag racers.
+    link: drag-racing/blaney-drag-strip-elgin-south-carolina.md#leased-then-lots
+    evidence: Liberman Lane, Platt Drive, Ivo Circle, and Garlits Drive
+    source_type: [Oral history, Local history site]
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-12'
+    eras: [1980s]
+    regions: ['Elgin, S.C.']
+
+  - id: moonlighter-named-by-wife
+    headline: Gene Cromer's gasser was named the Moonlighter by his wife, for all his nights in the shop
+    teaser: In Anderson, S.C., Cromer built every car he raced. His Ford-powered Willys took shape at Gene's
+      Speed Shop in the evenings, and the name came from home.
+    link: people/gene-cromer-moonlighter.md#a-ford-mans-willys
+    evidence: All those nights in the shop explains why Gene's wife named the car 'The Moonlighter,'
+    source_type: Trade press
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: '2026-11-12'
+    eras: [1960s]
+    regions: ['Anderson, S.C.']
+
+  - id: scotchman-car-horns
+    headline: When Denver's Scotchman drive-in closed in 1977, the teenagers said goodbye with their car
+      horns
+    teaser: The Federal Boulevard drive-in advertised "horrible burgers" and "sloppy malts." On October
+      11, 1977, its neon went out with hundreds of cars parked in and around the lot.
+    link: places/denver-16th-street-colfax-scotchman.md#lights-out
+    evidence: [When the lights went out the blare of car horns extended a fond farewell to a teenage friend.,
+      horrible burgers]
+    source_type: Local history site
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-12'
+    eras: [1970s]
+    regions: ['Denver, Colo.']
