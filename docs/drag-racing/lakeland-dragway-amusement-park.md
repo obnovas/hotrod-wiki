@@ -1,5 +1,5 @@
 ---
-title: 'A Drag Strip by the Skyride: Lakeland Dragway, Memphis (1960–79)'
+title: 'A Drag Strip by the Skyride: Lakeland Dragway, Memphis (1960 or 1961–79)'
 summary: 'Memphis''s drag strip was one attraction of Louis Garner''s Lakeland amusement park, alongside a skyride from the Brussels World''s Fair and a paddle-wheeler on a man-made lake. Five local racers took over its lease in 1963, and it outlived the park, closing in 1979.'
 department: drag-racing
 era: 1960s
@@ -18,7 +18,7 @@ cities:
 - Memphis, Tennessee
 - Halls, Tennessee
 - Carlisle, Arkansas
-peak: 1960–1979
+peak: 1960 or 1961–1979
 people:
 - Louis Garner
 - Ray Godman
@@ -59,7 +59,7 @@ canonical_for: []
 location: Lakeland, Shelby County, Tenn., south of I-40 at Canada Road, off Monroe Road, about 20 miles northeast of Memphis[^dm25][^l2lb]
 status: Closed 1979; torn up in 2009[^rht][^l2lb]
 ---
-# A Drag Strip by the Skyride: Lakeland Dragway, Memphis (1960–79)
+# A Drag Strip by the Skyride: Lakeland Dragway, Memphis (1960 or 1961–79)
 
 *Memphis's strip was one ride in a developer's amusement park, and it outlasted the park*
 
@@ -75,11 +75,11 @@ status: Closed 1979; torn up in 2009[^rht][^l2lb]
 
 Memphis's drag strip was not a club's and not a farmer's. It was one ride in a developer's amusement park, alongside a skyride and a paddle-wheeler. The park closed, the strip ran until 1979, and a town grew up where both had been.
 
-The developer was Louis Garner, a World War II veteran and former prisoner of war who sold life insurance in Memphis. In 1958 he visited Ruby Falls, outside Chattanooga, and came home with plans for an amusement park on a lake. The Lakeland Development Corporation was formed on February 13, 1959, with Garner as president and 13 stockholders. It asked for a zoning variance for "750 acres lying in a wooded valley" east of Memphis, to hold "Disneyland-like educational-amusement devices." On July 4, 1959, the public was invited out to picnic on land that was still farms and woods, with no lake yet.[^ll] The dam went up that fall and the lake filled from Scotts Creek, springs and four artesian wells. Garner bought the Brussels World's Fair skyride, and it opened over a half-empty lake in August 1960.[^ll] Garner Lake is still the largest lake in Shelby County.[^rht]
+The developer was Louis Garner, a World War II veteran and former prisoner of war who sold life insurance in Memphis. In 1958 he visited Ruby Falls, outside Chattanooga, and came home with plans for an amusement park on a lake. The Lakeland Development Corporation was formed on February 13, 1959, with Garner as president and 13 stockholders. It asked for a zoning variance for "750 acres lying in a wooded valley" east of Memphis, to hold "Disneyland-like educational-amusement devices." On July 4, 1959, the public was invited out to picnic on land that was still farms and woods, with no lake yet.[^ll] The dam and floodgate were finished on November 20, 1959, and water from Scotts Creek, springs and rain run-off began to fill the lake. The first artesian well started pumping on February 2, 1960, and eventually there were four. The lake was not full until April 1961.[^ll] Garner bought the Brussels World's Fair skyride, and it opened over a half-empty lake in August 1960.[^ll] Garner Lake is still the largest lake in Shelby County.[^rht]
 
 ## Dragways Inc. and five local racers
 
-The local histories agree on a date for the strip: July 4, 1960.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^rht][^dm25] The *Daily Memphian* wrote in 2025 that it was "originally owned by the Lakeland Development Corp. that also owned the Lake Land Amusement Park."[^dm25] The company's own record, as Chip Averwater's timeline gives it, has a later start. On February 21, 1961, Garner announced construction of "a 3500 ft drag strip to be leased to Dragways Inc for operation," with a sports-car track and a motorcycle track planned and a go-cart track already running. On January 16, 1963, after two years, Dragways Inc. did not renew its lease, and the company leased the strip "to 5 local race enthusiasts."[^ll] The Shelby County heritage site calls Raymond Godman the strip's visionary.[^rht] Godman's partnership and the strip's first starter are told in [Memphis and the Mid-South](../places/memphis.md#ray-godman-and-lakeland-dragway-196079).
+The local histories agree on a date for the strip: July 4, 1960.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^rht][^dm25] The *Daily Memphian* wrote in 2025 that it was "originally owned by the Lakeland Development Corp. that also owned the Lake Land Amusement Park."[^dm25] The company's own record, as Chip Averwater's timeline gives it, has a later start. On February 21, 1961, Garner announced construction of "a 3500 ft drag strip to be leased to Dragways Inc for operation," with a sports-car track and a motorcycle track planned and a go-cart track already running. On January 16, 1963, after two years, Dragways Inc. did not renew its lease, and the company leased the strip "to 5 local race enthusiasts."[^ll] The Shelby County heritage site calls Raymond Godman the strip's visionary.[^rht] Godman's partnership and the strip's first starter are told in [Memphis and the Mid-South](../places/memphis.md#ray-godman-and-lakeland-dragway-1960-or-196179).
 
 The park grew around the strip. Big bands played the Pepsi Dance Pavilion, and in 1963 one ticket bought every ride for $2.[^ll] Memphis heard the ads: "Sunday! Sunday! Sunday! Lakeland International dragway! I-40 at Canada Road!"[^dm25]
 

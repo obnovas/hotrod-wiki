@@ -28,6 +28,8 @@ paths:
         why: "By 1955 the city planners were writing about hot rod clubs. This is what they recommended."
       - page: drag-racing/great-bend-srca.md
         why: "A chamber of commerce bets on a strip and gets the first Nationals."
+      - page: drag-racing/m-n-raceway-wichita-simon-farm.md
+        why: "In Kansas, neighbors ask a Maize farm family for a strip in 1963, and the family still owns it."
       - page: drag-racing/phoenix-west-side-karbs-litchfield-road.md
         why: "The 1955 Nationals finished at Perryville, Ariz. A West Valley teen club placed third there, and by 1959 the valley had its own strip."
       - page: drag-racing/marana-army-air-field-drags.md
@@ -143,6 +145,8 @@ paths:
         why: "Where many clubs started: the high school."
       - page: drag-racing/indiana-small-town-clubs.md
         why: "Small-town clubs and what their local papers reported."
+      - page: drag-racing/bunker-hill-dragstrip-indiana.md
+        why: "The Miami County strip a stock car racer opened in 1956, billed as the state's first, while those clubs were still safety clubs in the papers."
       - page: drag-racing/belleville-gear-jammers.md
         why: "The canonical home of the half-fine rule (club-fine-rules)."
       - page: drag-racing/sedalia-drag-ons.md
@@ -284,6 +288,10 @@ paths:
         why: "The Sears man who kept Cordova going."
       - page: drag-racing/ames-drag-strip-nightcrawlers.md
         why: "ATAA sanction still cited in 1958."
+      - page: drag-racing/des-moines-dragway-ernest-day.md
+        why: "The private investor's strip at Des Moines that Ames's steward told The Iowan about."
+      - page: drag-racing/minnesota-dragways-coon-rapids-gsta.md
+        why: "Twin Cities clubs spend five years on reliability runs and a traffic-ticket poll, then help pay for their strip with car-show bonds."
       - page: drag-racing/beardstown-drag-strip.md
         why: "A later Illinois strip and its touring stars."
 
@@ -386,6 +394,8 @@ paths:
     steps:
       - page: places/memphis.md
         why: "The regional scene."
+      - page: drag-racing/lakeland-dragway-amusement-park.md
+        why: "Memphis's own strip, one ride in an amusement park on a man-made lake, and it outlasted the park."
       - page: voices/ray-godman.md
         why: "Memphis racers in their own words."
       - page: places/summer-avenue-memphis.md

@@ -149,7 +149,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1956 | Rush Springs, Okla., farmer Melvin Heath wins the NHRA Nationals at Kansas City | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | 1956 ⚠ | Drags on an unused runway at Davis-Monthan Air Force Base, Tucson (1956 or 1957); about 5,000 watch on June 17, 1957 | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | 1956 ⚠ | Beech Bend's drag strip holds its first race in September, on dirt, after Garvin sends D. A. Faxon to Atlanta to investigate (1951 and mid-1960s also claimed ⚠) | [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md) |
-| 1956 | Jim Hullinger opens Bunker Hill Dragstrip, Indiana's first strip (Aug 25) | [Bunker Hill](../drag-racing/bunker-hill-dragstrip-indiana.md) |
+| 1956 | Jim Hullinger opens Bunker Hill Dragstrip, billed as Indiana's first strip (Aug 25, ⚠) | [Bunker Hill](../drag-racing/bunker-hill-dragstrip-indiana.md) |
 | 1957 | Diablo fiberglass T body advertised (Aug Hot Rod) | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1957 | UPI survey (Mar 19): the National Safety Council "in direct opposition to drag racing"; Cleveland bans street racing; a county-built strip near Denver reported ⚠ | [March 1957](../drag-racing/march-1957-drag-strip-survey.md) |
 | 1957 | Motor City Dragway opens. Garlits' Cordova upset; Postoian wins the final | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Postoian](../people/setto-postoian.md) |

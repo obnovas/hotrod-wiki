@@ -1,6 +1,6 @@
 ---
 title: 'Headlights, Scoreboards and Rollers: Jim Hullinger''s Bunker Hill Dragstrip (1956– )'
-summary: 'Jim Hullinger, a Howard County stock car racer, opened Indiana''s first drag strip at Bunker Hill on August 25, 1956, and lit it with car headlights. In 1964 he built roller starters for it, and he sold them as Safe-Start to as many as three dozen other tracks.'
+summary: 'Jim Hullinger, a Howard County stock car racer, opened Bunker Hill Dragstrip on August 25, 1956, billed by the track and the Kokomo Tribune as Indiana''s first, and lit it with car headlights. In 1964 he built roller starters for it, and he sold them as Safe-Start to as many as three dozen other tracks.'
 department: drag-racing
 era: 1960s
 eras:
@@ -64,10 +64,10 @@ status: Open (an eighth-mile strip since its later years)[^bhabout]
 ---
 # Headlights, Scoreboards and Rollers: Jim Hullinger's Bunker Hill Dragstrip (1956– )
 
-*Indiana's first strip was a stock car man's workshop, and the push-start problem was one more thing he fixed*
+*Bunker Hill, billed as Indiana's first strip, was a stock car man's workshop, and the push-start problem was one more thing he fixed*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the dates and the inventions come from the *Kokomo Tribune*'s obituary and anniversary notice and from a 2020 NHRA history column that interviewed his son; the interurban bed is a 2015 business-wire summary of a *Tribune* story; the 2003 reunion notice was read only in a search-engine excerpt) · **Source types:** <span class="hr-badge">Grassroots</span> obituary (*Kokomo Tribune*, 2012); local news (*Kokomo Tribune*, 2021; *Inside Indiana Business*, 2015, summarizing the *Tribune*); the track's own pages (2022); NHRA history column (2020); *Drag Race Central* (2003, excerpt only) · **Last verified:** 2026-11-13 (Round 40) · **Open issues:** ⚠ sold in 1996 or 1997; ◐ the interurban bed; ◐ Eads's scooter; ? the Safe-Start patent · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the dates and the inventions come from the *Kokomo Tribune*'s obituary and anniversary notice and from a 2020 NHRA history column that interviewed his son; the interurban bed is a 2015 business-wire summary of a *Tribune* story; the 2003 reunion notice was read only in a search-engine excerpt) · **Source types:** <span class="hr-badge">Grassroots</span> obituary (*Kokomo Tribune*, 2012); local news (*Kokomo Tribune*, 2021; *Inside Indiana Business*, 2015, summarizing the *Tribune*); the track's own pages (2022); NHRA history column (2020); *Drag Race Central* (2003, excerpt only) · **Last verified:** 2026-11-13 (Round 40) · **Open issues:** ⚠ Indiana's first, or second to Stout Field; ⚠ sold in 1996 or 1997; ◐ the interurban bed; ◐ Eads's scooter; ? the Safe-Start patent · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "If the driver rapped the throttle and ran the tires faster than the rollers were going, he could shoot off of the platform."
@@ -76,7 +76,7 @@ status: Open (an eighth-mile strip since its later years)[^bhabout]
 
 ## A stock car man's strip
 
-Bunker Hill was Indiana's first drag strip, and it was run by a man who fixed what bothered him. He lit the track with car headlights. He built his own scoreboards. And when push-starting dragsters slowed his show, he built a machine to start them, and other tracks bought it.
+Bunker Hill was billed as Indiana's first drag strip, by the track's account and the *Kokomo Tribune*'s.[^bhabout][^kt21]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> It was run by a man who fixed what bothered him. He lit the track with car headlights. He built his own scoreboards. And when push-starting dragsters slowed his show, he built a machine to start them, and other tracks bought it.
 
 Jim Hullinger was born in Howard County on July 30, 1925, graduated from Clay Township High School in 1943 and served in the Army from 1944 to 1946. He married Mary Matt Crenshaw in October 1945. He worked at Continental Steel and Syndicate Sales. In the 1950s he was a leading stock car and modified racer at the Kokomo and Warsaw speedways.[^obit]
 
@@ -102,7 +102,7 @@ Hullinger and his wife ran the track until they sold it to Steve and Darlene Dan
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Sold in 1996 or 1997?** The *Kokomo Tribune* obituary says Hullinger "founded and operated the Bunker Hill Drag Strip from 1956 to 1997."[^obit] The 2003 reunion notice, read in a search excerpt, says he ran it with Mary "until selling it to the Daniels' in 1996."[^drc03] A 2015 summary says only that the Daniels bought it "in the 1990s."[^iib15] The paragraph of the 2021 *Tribune* notice that gives the sale year was not readable to us. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Sold in 1996 or 1997?** The *Kokomo Tribune* obituary says Hullinger "founded and operated the Bunker Hill Drag Strip from 1956 to 1997."[^obit] The 2003 reunion notice, read in a search excerpt, says he ran it with Mary "until selling it to the Daniels' in 1996."[^drc03] A 2015 summary says only that the Daniels bought it "in the 1990s."[^iib15] The rest of the 2021 notice was scrambled on the page. Read here, it says Hullinger and Mary "operated the track for 40 years before retiring and selling the facility to Steve and Darlene Daniels in 1997," and that the Danielses sold the track in 2017 to Adam and Stacey Confer. The clause after that did not decode cleanly. The track's About page now names Terry and Cori McMillen as the operators.[^kt21][^bhabout] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Was the strip laid on an interurban bed?** Only *Inside Indiana Business*, summarizing a 2015 *Kokomo Tribune* story, says the track was built "atop the gravel base of an old interurban railroad line."[^iib15] Which line, it does not say. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -110,16 +110,19 @@ Hullinger and his wife ran the track until they sold it to Steve and Darlene Dan
 
 <a id="q-4" class="hr-q-anchor"></a>**Open question.** **Where is the Safe-Start patent?** The obituary says "parts of the design were patented."[^obit] A Google Patents search under the Hullinger name, and for starting rollers of the 1960s and 1970s, found nothing that matched. It may be under a company name or a co-inventor. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Was Bunker Hill Indiana's first drag strip?** The track's About page says it "was the first dragstrip built in the state of Indiana."[^bhabout] The *Kokomo Tribune*'s August 24, 2021 notice calls it "the state's first drag strip," and the 2012 obituary calls it "Indiana's first permanent drag racing facility."[^kt21][^obit] The track's own 2014 for-sale statement, as *BangShift* prints it, says the strip "is the oldest track in Indiana, and is second only to Stout Field as having been the first organized drag racing facility in Indiana."[^bs14] No 1956 paper we have read settles which came first. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+
 ### Next leads
 
-The *Kokomo Tribune*, August 1956 (the opening) and 1964 (the first rollers); the *Peru Tribune* for Miami County; *Hot Rod*, 1958, for John Eads's scooter; Safe-Start sales literature; a patent search by assignee; Central Indiana Timing's own records; the Quarter-Milers of Tipton.
+The *Kokomo Tribune*, August 1956 (the opening) and 1964 (the first rollers); Indianapolis papers for 1955–1956 on Stout Field; the *Peru Tribune* for Miami County; *Hot Rod*, 1958, for John Eads's scooter; Safe-Start sales literature; a patent search by assignee; Central Indiana Timing's own records; the Quarter-Milers of Tipton.
 
 ## Sources
 
 [^obit]: "James E. Hullinger" (obituary), *Kokomo Tribune*, published January 26, 2012. https://obituaries.kokomotribune.com/obituary/james-hullinger-717208051 (accessed 2026-11-13)
-[^kt21]: "Bunker Hill Dragstrip to celebrate 65 years," *Kokomo Tribune*, August 24, 2021 (staff report; the rest of the text past the first paragraphs was not readable to us). https://www.kokomotribune.com/news/bunker-hill-dragstrip-to-celebrate-65-years/article_fa4022d6-042a-11ec-b7c7-6bf14fec65be.html (accessed 2026-11-13)
+[^kt21]: "Bunker Hill Dragstrip to celebrate 65 years," *Kokomo Tribune*, August 24, 2021 (staff report; the paragraphs after the opening were scrambled on the page and read by reversing that substitution). https://www.kokomotribune.com/news/bunker-hill-dragstrip-to-celebrate-65-years/article_fa4022d6-042a-11ec-b7c7-6bf14fec65be.html (accessed 2026-11-13)
 [^iib15]: "Historic Dragstrip on The Market," *Inside Indiana Business*, August 18, 2015 (summarizing the *Kokomo Tribune*). https://www.insideindianabusiness.com/articles/historic-dragstrip-on-the-market (accessed 2026-11-13)
 [^nhra20]: Phil Burgess, "Roll players: A look back at the era when cars were fired up with roller starters," NHRA, May 30, 2020. https://www.nhra.com/news/2020/roll-players-look-back-era-when-cars-were-fired-roller-starters (accessed 2026-11-13)
 [^bh22]: "Brett Engel" racer feature, Bunker Hill Dragstrip press page, 2022. https://www.bunkerhilldragstrip.com/press/2022/article/121033 (accessed 2026-11-13)
 [^bhabout]: "About," Bunker Hill Dragstrip. https://www.bunkerhilldragstrip.com/about/ (accessed 2026-11-13)
 [^drc03]: "Racing Pioneers to be honored at Bunker Hill Hot Rod Reunion," *Drag Race Central*, 2003 (the page returned an Incapsula bot block; read only as a search-engine excerpt, paraphrased, not quoted). https://www.dragracecentral.com/drcstory.asp?ID=20703 (accessed 2026-11-13)
+[^bs14]: Brian Lohnes, "Indiana's Historic Bunker Hill Dragway Is For Sale," *BangShift*, November 13, 2014 (prints the track's for-sale statement). https://bangshift.com/bangshift1320/indianas-historic-bunker-hill-dragway-sale-track-restaurant-house-plus-additional-speedway/ (accessed 2026-11-13)

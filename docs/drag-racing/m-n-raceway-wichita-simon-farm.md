@@ -1,5 +1,5 @@
 ---
-title: 'Corn Through the Track: the Simons'' M-N Raceway, Wichita (1963– )'
+title: 'Corn Through the Track: the Simons'' M-N Raceway, Wichita (1963 or 1964– )'
 summary: 'In 1963 neighbors asked a Maize farm family about putting a drag strip on their land, and Marcellus "Sally" and Helen Simon built it on a sandy field where corn sometimes came up through the track. Wichita''s strip has had four names since, and it still belongs to the Simon family more than sixty years later.'
 department: drag-racing
 era: 1960s
@@ -65,7 +65,7 @@ canonical_for: []
 location: 7800 W. 61st Street North, Maize, Kan., a quarter mile west of Ridge Road, on the Simon family's land northwest of Wichita[^kid][^di24][^ke24]
 status: Open; run by the Simon family again since 2024[^ke24][^di24]
 ---
-# Corn Through the Track: the Simons' M-N Raceway, Wichita (1963– )
+# Corn Through the Track: the Simons' M-N Raceway, Wichita (1963 or 1964– )
 
 *A farm family put Wichita's drag strip on its sandiest field, and never sold it*
 
@@ -79,7 +79,7 @@ status: Open; run by the Simon family again since 2024[^ke24][^di24]
 
 ## Neighbors at the door
 
-Wichita's drag strip is a farm field. A farm family let the racers have it in 1963, kept farming around it, and still owns it more than sixty years later. That is not the usual way a hometown strip ends, and so far it has not ended.
+Wichita's drag strip is a farm field. A farm family let the racers have it in 1963 or 1964, kept farming around it, and still owns it more than sixty years later. That is not the usual way a hometown strip ends, and so far it has not ended.
 
 Before it, Wichita's hot rodders raced where they could. A county list of racing venues has a quarter-mile runway strip at McConnell Air Force Base in 1958.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^krh] North of town in Valley Center, the Mill'ers Hot Rod and Custom Club ran from 1954 to 1961. Bill Arick, one of its members, wrote in 2024 that it belonged to the NHRA, the AHRA and the Southern Kansas Timing Association, handed out courtesy cards, sponsored car shows in Wichita and had a club car for the drags. All the members worked on the car, cleaned up the shop and helped in the pits. He wrote that the club helped at the M-N Raceway.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^avn24]
 
@@ -97,7 +97,7 @@ In September 2013, more than two hundred people came to a 50th reunion of M-N Ra
 
 Helen Simon was born in 1921 to a Maize family and married Sally in 1946. Her obituary says she was the hardest worker on the farm, "helping in the chutes, running grain to the elevator, swathing hay, or helping build fence," and in her last years she rode a John Deere Gator around, "causing havoc to her neighbors."[^obit] Her granddaughter says she was known as "Hell on wheels because she liked to drive fast."[^ke24] The track's general manager credits her with keeping what her husband started going for as long as she did. She died in June 2022, at 100.[^obit][^ke24]
 
-The track sat out the 2023 season. Then the grandchildren took it back from the leasing arrangement and reopened it in 2024, only the second time the family had run it itself. The Simons' house sits about an eighth of a mile from the strip, and Kelley's son lives there now. Wheat grows around the track's 90 acres.[^ke24][^di24] It began in 1963 on a sandy field where not much grew and corn sometimes popped up through the track. More than sixty years later, the same family owns it.
+The track sat out the 2023 season. Then the grandchildren took it back from the leasing arrangement and reopened it in 2024, only the second time the family had run it itself. The Simons' house sits about an eighth of a mile from the strip, and Kelley's son lives there now. Wheat grows around the track's 90 acres.[^ke24][^di24] It began in 1963 or 1964 on a sandy field where not much grew and corn sometimes popped up through the track. More than sixty years later, the same family owns it.
 
 *See also:* [Great Bend](great-bend-srca.md), where the NHRA held its first national championship in 1955; [KKOA and the lead sled revival](../customs/kkoa-lead-sled-revival.md), Wichita's custom-car story; [Kansas City Timing Association](kansas-city-timing-association.md).
 
