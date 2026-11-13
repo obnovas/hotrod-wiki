@@ -914,11 +914,11 @@ themes:
       - id: bunker-hill-dragstrip
         q: What was Indiana's first drag strip?
         a: >-
-          Jim Hullinger's Bunker Hill Dragstrip, opened August 25, 1956. He lit it with car headlights, and in
-          1964 he built roller starters for it that he sold to other tracks as the Safe-Start. It still runs (⚠ the year he sold it, see Open questions).
+          By the track's account and the Kokomo Tribune's, Jim Hullinger's Bunker Hill Dragstrip was Indiana's first, opened August 25, 1956 (⚠ see Open questions). He lit it with car headlights, and in
+          1964 he built roller starters he sold to other tracks as the Safe-Start. It still runs (⚠ the year he sold it, see Open questions).
         link: drag-racing/bunker-hill-dragstrip-indiana.md
         also: [drag-racing/indiana-small-town-clubs.md]
-        flag: drag-racing/bunker-hill-dragstrip-indiana.md#q-1
+        flag: [drag-racing/bunker-hill-dragstrip-indiana.md#q-5, drag-racing/bunker-hill-dragstrip-indiana.md#q-1]
       - id: m-n-raceway-wichita
         q: Where is Wichita's drag strip, and who owns it?
         a: >-
@@ -987,7 +987,7 @@ themes:
           hosted the 2nd Street Rod Nationals in 1971.
         link: places/memphis.md
         also: [companies/comp-cams-rhs.md, people/joe-lunati.md]
-        flag: places/memphis.md#q-1
+        flag: [places/memphis.md#q-1, places/memphis.md#q-10]
       - id: what-is-dragging-main
         q: What does "dragging Main" mean?
         a: >-
