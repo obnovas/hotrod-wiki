@@ -74,7 +74,7 @@ status: Racing (2026)
 ---
 # A Golf Course or a Racetrack: Island Dragway, Great Meadows (1960–2026)
 
-*A farmer who picked the louder option, a strip named for an island that may not be one, fog off the bogs, a pit pass signed the day the chute failed, and three generations at the gate*
+*He couldn't decide between a golf course and a racetrack, and the family strip is now the last one in New Jersey*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the founding, the floods and the reopening come from the family itself, through a county magazine in 2021 and the track's own history, with the Warren County daily's reports of 2010 and 2013; the 1964 record is well documented but its "first" is argued; the racers' memories are one each) · **Source types:** <span class="hr-badge">Grassroots</span> *Inside Warren* (2021); *The Express-Times* (2010, 2013); racers' memories on *Drag Strip List*; the track's own history; *Wander Jersey* (2026); *MotorTrend* (2013) · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ⚠ 1959 or 1960; ⚠ the first 200; ⚠ the year Edward Kowalick died; ◐ the Frantic Four's 7.92 · [How we rate this](../reference/source-standards.md)
@@ -86,7 +86,7 @@ status: Racing (2026)
 
 ## The louder option
 
-When California started building drag strips, Edward Kowalick was looking for something to do with his farm in Great Meadows. The family story, as his granddaughter Melissa tells it from her mother, is that he couldn't decide between a golf course and a racetrack, until he announced: "We're going to bring this drag racing stuff to the east coast." Construction began in the late '50s and the first races were held in 1960.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^iw21] He and his wife Catherine built it on part of their fields, just off Route 46 and Hope Road.[^lvl10][^lvl13] The strip uses 43 acres of the family's 500.[^iw21]
+When California started building drag strips, Edward Kowalick was looking for something to do with his farm in Great Meadows. The family story, as his granddaughter Melissa tells it from her mother, is that he couldn't decide between a golf course and a racetrack, until he announced: "We're going to bring this drag racing stuff to the east coast." Construction began in the late '50s and the first races were held in 1960.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^iw21] Whether that was 1959 or 1960 is still open. He and his wife Catherine built it on part of their fields, just off Route 46 and Hope Road.[^lvl10][^lvl13] The strip uses 43 acres of the family's 500.[^iw21]
 
 Nobody knows for sure where the name came from, and no one is left who could say. One theory: "Back in the 1800s or so, when this was all marshland, that was called Rose Island. This was always called Island Farm, so the drag strip just became Island Dragway." The other is that the land is ringed by water, "the ditches and the Pequest River on the far end – it's an island. It could be either one."[^iw21] Rhea Fountain was there "in its opening year" and kept a friend's middle eliminator trophy from March 25, 1961.[^dslnj] *Car Craft*'s 1961 calendar had it racing "Every Sunday, weather permitting" ([Pocono strips](pocono-strips.md)).
 
@@ -101,6 +101,8 @@ The weekly racers were mostly local. Bill Diggles, "Deacon" to the other racers,
 After Edward Kowalick died<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>, Catherine kept managing the track until her own death in 2010.[^idw] By its 50th season that year it was run by their daughter Kathy DeMarcky and her family, and it had not missed a year of racing.[^lvl10] Hank Dinger of Belvidere has announced there since 1966, when he was a senior in high school.[^iw21] Melissa's first job, like every child in the family's, was "working the concession stand, filling soda cups with ice."[^iw21]
 
 Hurricane Irene flooded the strip in 2011, and Sandy flooded it again in 2012. By the end of 2012 Kathy had had enough: "I just can't do it."[^iw21] The NHRA's northeast director confirmed the closing in January 2013 ("It has seen a lot of racing over the years. I could go on for hours"), and a "Help Keep Island Dragway" Facebook page had more than 1,500 likes by late that afternoon.[^lvl13] Melissa and her husband Carl reopened it on the Fourth of July weekend in 2013.[^iw21] Englishtown stopped drag racing after 2017 and Atco closed in July 2023, so Island Dragway, which a 2021 *Inside Warren* story had said opened "a few months" after Atco, became the last drag strip in New Jersey.[^wj26][^iw21]
+
+He had announced a racetrack, on the family farm. Melissa and Carl reopened it. Since Atco closed in July 2023, it is the last drag strip in New Jersey.
 
 *See also:* [Atco and Strato Rods](atco-strato-rods-south-jersey.md), the South Jersey strips; [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before 1960; [The Pocono strips](pocono-strips.md), whose Stroudsburg neighbors were sent to Island to learn how a drag race was run; [Don Garlits](../people/don-garlits.md).
 

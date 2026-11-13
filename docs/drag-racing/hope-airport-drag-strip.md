@@ -55,7 +55,7 @@ canonical_for: []
 ---
 # Church First, Then the Drags: The Hope Drag Strip at the Municipal Airport (Hope, Ark., 1962–72)
 
-*A town paper's chatty column follows a drag strip from a garage meeting to an airport runway and back to a letter to the editor*
+*The Hope strip told the town to take the family to church first and come back for the races, until airport restrictions ended it*
 
 !!! abstract "Article record"
     **Confidence:** Medium (one local daily, read against the page images; the strip's first and last race days are not dated) · **Source types:** <span class="hr-badge">Grassroots</span> small-city daily (*Hope Star*, Hope, Ark.): the "All Around Town" column, display ads, city board minutes, a letter to the editor and a feature, 1962–72, read as scanned page OCR on the Internet Archive · **Last verified:** 2026-10-22 (Round 23-East) · **Open issues:** when the strip opened ?; who ran it ?; the state record ◐; the last race ? · [How we rate this](../reference/source-standards.md)
@@ -65,9 +65,7 @@ canonical_for: []
 
     — Notice from the Hope Drag Strip, *Hope Star*, Apr. 8, 1966.[^hs660408]
 
-In April 1966 the Sunday races at Hope, Ark., fell on Easter. The strip ran a notice in the *Hope Star*: "Due To Our Drag Race Falling On Easter Sunday The Races Will Not Be Held At Hope Drag Strip This Sunday." Instead it suggested church, and promised racing again on the 24th.[^hs660408]
-
-The paper's trail from the 1962 meetings to that notice has a four-year gap.
+The Hope strip told the town to take the family to church first, and then come back for the races. Teenagers were asking for a supervised strip in 1962. It ran on the municipal airport, the restrictions ended it, and in 1972 they were asking again.
 
 ## A meeting at Collier's Garage (1962–64)
 
@@ -79,9 +77,9 @@ Two years later the *Star* had a different drag strip to report. On a Saturday n
 
 ## On the airport runways (1966–68)
 
-By 1966 the town had its strip, on the municipal airport.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> That June the *Star* reported "a new state record" set at the Hope Drag Strip by Richard Thorpe of Dallas, "whose Bush-Payne dragster was clocked at 209.78 miles per hour."[^hs660616]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The 1967 ads, headed "HOPE DRAG STRIP, Hope, Ark, Airport," promised time trials at 9:30 in the morning and eliminations in the afternoon. One card featured "The Paddy Wagon, a Chevy Van powered by a fuel injected 427 Cu. Inch Chevy V8 Engine, doing High-Flying Wheelies";[^hs670721] another, "Coker Machine's Unblown Chrysler & Charles Smith's Unblown Chrysler turning 200 MPH on fuel."[^hs670812] That August Jim Cooper announced that the proceeds of the week's race would help pay for an operation to save the eyesight of a Hope policeman's five-year-old son.[^hs670812b]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+By 1966 the town had its strip, on the municipal airport.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> When it opened, the paper's trail has a four-year gap. In April 1966 the Sunday races at Hope, Ark., fell on Easter. The strip ran a notice in the *Hope Star*: "Due To Our Drag Race Falling On Easter Sunday The Races Will Not Be Held At Hope Drag Strip This Sunday." Instead it suggested church, and promised racing again on the 24th.[^hs660408] That June the *Star* reported "a new state record" set at the Hope Drag Strip by Richard Thorpe of Dallas, "whose Bush-Payne dragster was clocked at 209.78 miles per hour."[^hs660616]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> That speed is one short item. The 1967 ads, headed "HOPE DRAG STRIP, Hope, Ark, Airport," promised time trials at 9:30 in the morning and eliminations in the afternoon. One card featured "The Paddy Wagon, a Chevy Van powered by a fuel injected 427 Cu. Inch Chevy V8 Engine, doing High-Flying Wheelies";[^hs670721] another, "Coker Machine's Unblown Chrysler & Charles Smith's Unblown Chrysler turning 200 MPH on fuel."[^hs670812] That August Jim Cooper announced that the proceeds of the week's race would help pay for an operation to save the eyesight of a Hope policeman's five-year-old son.[^hs670812b]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> The paper does not say who ran the strip.
 
-The runway that made it possible also ended it. In April 1968 the column relayed a plea from airport officials for local drivers to keep off the runway: "there is no drag strip anymore but some youths are coming in anyway."[^hs680419] In May the city board read a Federal Aviation Agency letter on the restrictions that came with an instrument approach to the airport from the Texarkana radio station, and "decided against reopening the Airport for drag racing." The restrictions, the minutes said, "would shorten the length of runway available."[^hs680529]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+The runway that made it possible also ended it. In April 1968 the column relayed a plea from airport officials for local drivers to keep off the runway: "there is no drag strip anymore but some youths are coming in anyway."[^hs680419] In May the city board read a Federal Aviation Agency letter on the restrictions that came with an instrument approach to the airport from the Texarkana radio station, and "decided against reopening the Airport for drag racing." The restrictions, the minutes said, "would shorten the length of runway available."[^hs680529]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> When the last race was is still open.
 
 ## Asking again (1972)
 
@@ -90,6 +88,8 @@ Four years later a letter came in. "Several years ago Hope had drag races at the
 A few days later the *Star* ran a feature on Hope's first two male telephone operators, David Chance and David Baker. Both had fairly new racing cars, and the night shift left their days free to work on them. "The nearest is at Haynesville, La., and that's a long way to go for a race," Baker said. Chance had already raced at Haynesville and brought back two trophies; Baker had yet to enter his first race. The chief operator, Mrs. Sarah Adams, said the young men's interest in racing cars "has brought a new subject to discussions during coffee breaks."[^hs720515]
 
 For another airfield strip in the same corner of the Mid-South, see [Memphis Comes to the Bootheel](semo-malden-drag-strip.md).<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
+
+The notice had said to take the family to church, and to come back on the 24th. The restrictions on the runway are what ended the strip. In 1972 they were asking again.
 
 ## Open questions & disputed details
 

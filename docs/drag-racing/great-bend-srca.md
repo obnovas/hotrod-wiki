@@ -43,6 +43,8 @@ canonical_for: []
 ---
 # Great Bend, Kansas: A Club, a Chamber of Commerce and the First Nationals (1953–1955)
 
+*A Kansas club and the Chamber of Commerce wrote Wally Parks, NHRA said yes, and the first national event came to the old bomber field*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club-run track's own history page (SRCA Dragstrip), local newspaper (Great Bend Tribune, 2011), NHRA retrospective (2021) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** ⚠ a top-speed figure differs by one digit between sources; the Tribune's 'birthplace of drag racing' is local pride, not a documented fact; Kansas Historical Site status is the club's own claim · [How we rate this](../reference/source-standards.md)
 
@@ -51,15 +53,15 @@ canonical_for: []
 
     — **Hank Denning**, president of the Sunflower Rod and Custom Association, Great Bend Tribune (2011), recounting why the club went to the city. He is retelling club history, not his own memory.[^gbt]
 
-NHRA calls the 1955 National Championship Drags at Great Bend "its first national event." The story of how a Kansas town got it is a **local-initiative** story: a club of "motorheads," a city that owned a surplus bomber field, and a Chamber of Commerce letter.[^nhra][^srca][^gbt]
+NHRA calls the 1955 National Championship Drags at Great Bend "its first national event." A club of "motorheads," a city that owned a surplus bomber field, and a Chamber of Commerce letter are how a Kansas town got it. Then it rained and washed out Sunday's finals.[^nhra][^srca][^gbt]
 
 ## The timeline, from the club's own page
 
-The club tells it in order. In **1946** the City of Great Bend acquired the B-29 Army Air Force base after the military declared it surplus. The first race on the old field came on **May 12, 1953**, and on **January 19, 1954**, the Sunflower Rod and Custom Association (SRCA) was formed. It joined NHRA in April 1955.
+The club tells it in order. In 1946 the City of Great Bend acquired the B-29 Army Air Force base after the military declared it surplus. The first race on the old field came on May 12, 1953. On January 19, 1954, the Sunflower Rod and Custom Association (SRCA) was formed. It joined NHRA in April 1955.
 
 That same year came the letter: "The Great Bend Chamber of Commerce on behalf of SRCA wrote a letter to Wally Parks requesting that Great Bend, KS be the site for the FIRST National Event. NHRA said YES."
 
-NHRA did not keep it. From **1956 to 1959** the new AHRA held its nationals there on the 8,000-foot track; in 1960 AHRA's president moved them to Kansas City. In **1993–94** the club reorganized under its original name, and it says the track was recognized as a Kansas Historical Site in 1994.[^srca]
+NHRA did not keep it. From 1956 to 1959 the new AHRA held its nationals there on the 8,000-foot track. In 1960 AHRA's president moved them to Kansas City. In 1993–94 the club reorganized under its original name, and it says the track was recognized as a Kansas Historical Site in 1994.[^srca]
 
 ## The 1955 meet
 
@@ -69,11 +71,11 @@ Then it rained. "The worst rainstorm in 30 years" hit on the third day and washe
 
 The inspectors were no kinder. NHRA's tech team disqualified several winners, mostly in Stock classes. In one class "the first three finishers were found to be running 'out of class.'"[^nhra]
 
-Two winners turn up elsewhere in this archive. NHRA lists Howard Johansen as "C" Gas Coupe class winner (see [Howard Johansen](../people/howard-johansen.md)) and Raymond Godman as "A" Modified Roadster winner (see [Ray Godman](../voices/ray-godman.md)).[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+Two winners turn up elsewhere in this archive. NHRA lists Howard Johansen as "C" Gas Coupe class winner (see [Howard Johansen](../people/howard-johansen.md)) and Raymond Godman as "A" Modified Roadster winner (see [Ray Godman](../voices/ray-godman.md)).[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> A top-speed figure differs by one digit between sources. These are different claims.
 
 ## What kept it going
 
-The strip outlasted the nationals. The Tribune calls it a "National Hot Rod Association member city-leased track" and says it was one of four tracks chosen for Hot Rod Drag Week in 2011. The club says it reorganized in 1993 "to help in maintaining the track," and that the track was resurfaced in 2000 with a Kansas DOT grant.[^gbt][^srca] The club, not a promoter, still runs it.
+The strip outlasted the nationals. The Tribune calls it a "National Hot Rod Association member city-leased track" and says it was one of four tracks chosen for Hot Rod Drag Week in 2011. The club says it reorganized in 1993 "to help in maintaining the track," and that the track was resurfaced in 2000 with a Kansas DOT grant.[^gbt][^srca] The club, not a promoter, still runs it. The Chamber of Commerce letter got the first national event onto the bomber field. It rained and washed out Sunday's finals. The club still runs the strip.
 
 <figure markdown>
 ![Great Bend Army Airfield in 1943, the bomber field that became the city's airport and, in ](../assets/images/commons-great-bend-army-airfield-1943.jpg){ loading=lazy }

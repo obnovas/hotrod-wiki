@@ -50,6 +50,8 @@ canonical_for: []
 ---
 # Inyokern: The Sheriff's Strip and the Dust Devils (1954–2005)
 
+*A sheriff started the strip, a volunteer club kept it for about 51 years, and the FAA ended it*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> metro-newspaper feature built on local interviews (LA Times, 2005), local-newspaper obituary (San Bernardino Sun, 2012), historical-society news release (Ridgecrest, 2025), NHRA memorial feature (2012), columnist's blog (Pat Ganahl, 2022) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** ⚠ date of the last race; the strip's opening date (Oct 24, 1954) is a bracketed note in Ganahl's blog, not from a primary record · [How we rate this](../reference/source-standards.md)
 
@@ -58,19 +60,19 @@ canonical_for: []
 
     — **Dennis Garrett**, Dust Devils Car Club president, LA Times, Oct 10, 2005.[^lat]
 
-A sheriff started it, and a federal agency ended it. In between, a quarter-mile at a nearly empty desert airport in Kern County ran for about **51 years**, kept up by a volunteer car club. The LA Times says it began when Sheriff "Mac" McKernan, facing young people racing hot rods on rural roads "during the first Eisenhower administration," helped them form a nonprofit and "arranged for them to drag race legally and safely on a taxiway" of the Inyokern Airport.[^lat] Ganahl's blog gives the opening as Oct. 24, 1954.[^pg]
+A sheriff started it, and a federal agency ended it. For about 51 years a volunteer car club kept a quarter-mile on a taxiway at the Inyokern airport in Kern County. The LA Times says it began when Sheriff "Mac" McKernan, facing young people racing hot rods on rural roads "during the first Eisenhower administration," helped them form a nonprofit and "arranged for them to drag race legally and safely on a taxiway" of the Inyokern Airport.[^lat] Ganahl's blog gives the opening as Oct. 24, 1954.[^pg]
 
 ## How a club ran a strip
 
-The LA Times feature shows how a club kept a strip alive for half a century.[^lat] The racers paid the airport about **$1,000 per racing day** (the airport manager's figure) and gave other funds, such as entry fees, to local charities including the Boy Scouts. To meet insurance requirements, volunteers erected two guardrails "begged from other tracks" nearly 20 years earlier.
+The LA Times feature shows how a club kept a strip alive for half a century.[^lat] The racers paid the airport about $1,000 per racing day, the airport manager's figure, and gave other funds, such as entry fees, to local charities including the Boy Scouts. To meet insurance requirements, volunteers erected two guardrails "begged from other tracks" nearly 20 years earlier.
 
-The club also worked the town. Members spoke to Ridgecrest shop classes and invited students to "high school days" on the taxiway; the club's public address system was loaned to local clubs and parades. They bought modern timing equipment with volunteer fundraising, sold sponsorships on hubcaps, and rented the timing gear to other tracks.[^lat]
+The club also worked the town. Members spoke to Ridgecrest shop classes and invited students to "high school days" on the taxiway. The club's public address system was loaned to local clubs and parades. They bought modern timing equipment with volunteer fundraising, sold sponsorships on hubcaps, and rented the timing gear to other tracks.[^lat]
 
 What they kept was old-fashioned. Pat Ganahl, who visited in 2003, wrote: "But if you want a '50s drag race experience today, go to Inyokern. It's a time warp." He described a bare track with one small bleacher, no timing stand, two outhouses and an old Cadillac ambulance.[^pg]
 
 ## The shutdown
 
-Then came the inspection. The LA Times says the FAA threatened the county-owned airport's certification and federal funding if "non-aviation activity such as drag racing continues," after a routine inspection of the airport, a move that "puzzled and saddened locals." Club president Garrett: "We're just regular working folks in an isolated place."[^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+Then came the inspection. The LA Times says the FAA threatened the county-owned airport's certification and federal funding if "non-aviation activity such as drag racing continues," after a routine inspection of the airport, a move that "puzzled and saddened locals." Club president Garrett: "We're just regular working folks in an isolated place."[^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> The date of the last race is still open.
 
 > "So many things don't work in our society. … Yet here's something positive that does, and some guy wants to crush it. I don't understand."
 >
@@ -78,7 +80,7 @@ Then came the inspection. The LA Times says the FAA threatened the county-owned 
 
 ## The man at the microphone
 
-The strip also launched a career. **Bernie Partridge** joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+The strip also launched a career. Bernie Partridge joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 At his 2012 memorial, NHRA's report quotes David Leighton, who worked with his father Gus and Partridge, "Dust Devils Auto Club alumni all," setting up impromptu airport tracks: "We opened and closed more racetracks than Steve Evans did."[^nhra]
 
@@ -88,6 +90,10 @@ The town still tells the story. In April 2025 the Historical Society of the Uppe
 ![The runway at Inyokern Airport, 2011. The drag strip was on a taxiway at this airport, not](../assets/images/commons-inyokern-airport.jpg){ loading=lazy }
 <figcaption markdown>The runway at Inyokern Airport, 2011. The drag strip was on a taxiway at this airport, not the runway shown. Creator: Pintsmasher. Date: 12 September 2011 (original upload date). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inyokern_Airport_-_panoramio.jpg). License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).</figcaption>
 </figure>
+
+
+
+The sheriff started it on a taxiway. A volunteer club kept it for about 51 years. The FAA threatened the airport, and that is what ended it.
 
 ## Open questions & disputed details
 

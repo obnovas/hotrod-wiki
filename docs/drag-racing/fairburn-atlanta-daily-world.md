@@ -1,6 +1,6 @@
 ---
 title: 'Saturday Nights at Fairburn: Drag Racing in the Atlanta Daily World (Fairburn and Covington, Ga., 1959–63)'
-summary: From 1959 to 1963 the Atlanta Daily World ran ads and weekly results for the strip at Ted Edwards Skyport near Fairburn, Georgia, later the Houston Brothers strip, and for races at Yellow River. Its reports followed regulars known by nickname, from "Fox" Jones to "Jo-Jo" Johnson and "Sonny Boy" Smith.
+summary: From 1959 to 1963 the Atlanta Daily World kept Saturday night's results for the strip at Ted Edwards Skyport near Fairburn, and for Yellow River. The racers went by nickname, from Fox Jones to Jo-Jo Johnson and Sonny Boy Smith.
 department: drag-racing
 era: 1960s
 eras:
@@ -62,7 +62,7 @@ canonical_for: []
 ---
 # Saturday Nights at Fairburn: Drag Racing in the Atlanta Daily World (Fairburn and Covington, Ga., 1959–63)
 
-*An Atlanta daily's sports pages send readers to a skyport strip on Highway 29, and start keeping score*
+*The Atlanta Daily World kept Saturday night score at a skyport strip south of Fairburn, and the racers went by nickname*
 
 !!! abstract "Article record"
     **Confidence:** Medium (one daily, many items; page OCR, with four pages checked against the page images in review) · **Source types:** <span class="hr-badge">Grassroots</span> metro daily (*Atlanta Daily World*, Atlanta, Ga.) covering its own region: display ads, sports columns and weekly race reports, 1959–63, read as page OCR from the Georgia Historic Newspapers search service; obvious OCR slips in quotations, including words split at line breaks, are corrected · **Last verified:** 2026-10-22 (Round 23-East) · **Open issues:** Ted Edwards' strip and Houston Bros. ?; Yellow River's Sundays ⚠; "Georgia's First" ◐; Charlie Scott and NASCAR ◐; who raced on Saturday nights ?; when the reports stop ? · [How we rate this](../reference/source-standards.md)
@@ -72,9 +72,7 @@ canonical_for: []
 
     — Drag racing report, *Atlanta Daily World*, Sept. 14, 1963.[^adw630914]
 
-The Labor Day card at Ted Edwards Skyport in 1960 ran all day. A motorcycle drag race sanctioned by the American Motorcycle Association started at noon, and a parachute jump came at 3 p.m., along with "a drag race for white drivers." Then, the *Atlanta Daily World* told its readers, "Colored racers will swing into action at 7:00 p.m." The night race paid double elimination money, and a $50 war bond waited for anyone who broke Charlie Scott's record of 125 miles an hour.[^adw600903]
-
-For the next three years the *Daily World*'s sports pages followed the night races south of Fairburn the way other papers followed baseball.
+From 1959 to 1963 the *Daily World*'s sports pages followed the night races south of Fairburn the way other papers followed baseball, and the racers went by nickname: Wallace "Fox" Jones, Joe "Jo-Jo" Johnson, Norman "Sonny Boy" Smith. The Labor Day card at Ted Edwards Skyport in 1960 ran all day. A motorcycle drag race sanctioned by the American Motorcycle Association started at noon, and a parachute jump came at 3 p.m., along with "a drag race for white drivers." Then, the *Atlanta Daily World* told its readers, "Colored racers will swing into action at 7:00 p.m." The night race paid double elimination money, and a $50 war bond waited for anyone who broke Charlie Scott's record of 125 miles an hour.[^adw600903]
 
 ## "A legal place to speed" (1959–60)
 
@@ -99,6 +97,8 @@ They followed the drivers to Covington too. In April Thomas "Tebe" Holcombe (spe
 The circuits overlapped. Fox Jones "returned to the track driving his 427 Ford, the original 'Georgia Shaker No. 2'," in a report that also names Hubert Platt, and the same report sent readers to Yellow River for Sunday racing.[^adw630810] On Labor Day at Fairburn, Joe Johnson won the first $200 "over Wallace 'Fox' Jones driving Houston Platt's Chevy, the Dixie Twister."[^adw630906] In September a report closed with a promise: "There is racing year round at Houston Bros. Drag Strip." Then it signed off: "See you Saturday night."[^adw630914]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
 For the Covington strip's own story, see [Yellow River Drag Strip](yellow-river-covington.md); for the Newton County strip that became the [Atlanta Speed Shop Dragway](atlanta-speed-shop-dragway.md), see that page.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-7"><a href="#q-7" title="Next leads: see the bottom of the page">?</a></sup>
+
+From 1959 to 1963 the sports pages followed those Saturday nights the way other papers followed baseball. The report signed off, "See you Saturday night."
 
 ## Open questions & disputed details
 

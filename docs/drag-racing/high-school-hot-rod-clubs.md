@@ -1,6 +1,6 @@
 ---
 title: 'Hot Rod Club, Third Row: The High School Car Clubs (1953–1967)'
-summary: In 1950s and 1960s yearbooks, the Hot Rod Club sits between the Glee Club and the Future Business Leaders. Here is what the schools and their advisers recorded (1953–1967).
+summary: In yearbooks from 1953 to 1967, the Hot Rod Club sits between the Glee Club and the Future Business Leaders. One school paper said the inspection should have checked the nut that holds the wheel.
 department: drag-racing
 eras:
 - 1950s
@@ -55,6 +55,8 @@ canonical_for: []
 ---
 # Hot Rod Club, Third Row: The High School Car Clubs (1953–1967)
 
+*In the yearbooks the Hot Rod Club sits with the Glee Club, and one school paper said they should have checked the nut that holds the wheel*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> high school yearbooks and a school newspaper bound into one (Pensacola, Fla.; Sherman, Tex.; Chillicothe and Circleville, Ohio; Portland, Tillamook and Imbler, Ore.; Shawnee Mission, Kan.; Fort Collins, Colo.; Greensboro, N.C.; 1955–1967), read as scanned OCR on the Internet Archive; a small-town daily's senior profiles, club notes and fair column (*Circleville Herald*, Ohio, 1964–65 and a 1974 look-back); one school-administration textbook (1955), seen only as a search snippet · **Last verified:** 2026-10-17 (Round 16) · **Open issues:** we opened only the yearbooks cited here, so "how many schools" is not counted ◐; club write-ups are the students' and advisers' own, with no outside check; the textbook's list is seen out of context ◐; Circleville's Devastators were a town youth club with school members, not a school club, as far as the paper shows · [How we rate this](../reference/source-standards.md)
 
@@ -63,7 +65,9 @@ canonical_for: []
 
     — **Unsigned editorial**, "Something Overlooked," in the school paper of Central Catholic High School, Portland, Oregon, after the hot rod club's car inspections (pages in the scan of the 1957 yearbook).[^cc]
 
-Flip through a 1950s yearbook and, somewhere between the Glee Club and the Future Business Leaders, you may find it: **Hot Rod Club**. Sometimes it's only a line under a senior's photo. Sometimes it's a group shot of thirty boys. Once in a while the students wrote down what they thought they were doing, and those pages are some of the most honest hot rod history there is, because nobody was writing them for history.
+In the yearbooks, the Hot Rod Club sits between the Glee Club and the Future Business Leaders. The students wrote down what they were doing. One school paper said they should have checked the nut that holds the wheel.
+
+Flip through a 1950s yearbook and it is there. Sometimes it's only a line under a senior's photo. Sometimes it's a group shot of thirty boys. Once in a while the students wrote down what they thought they were doing.
 
 ## The line under the photo
 
@@ -104,7 +108,7 @@ That August the **Devastators** had their own exhibit under the grandstand at th
 
 Three years later, the line under the photo turns up again just outside town. In the 1967 yearbook of **Logan Elm High School**, Circleville, several seniors listed the Hot Rod Club, one of them for three years running, next to 4-H, the Grange and the Farm Bureau Youth Organization.[^le1967]
 
-The school clubs show up in the same years as the town clubs the police and planners were sponsoring (see [What the City Planners Wrote](planners-report-1955.md), [The Cop and the Auto Shop](escanaba-dragns.md) and [Hoosier Road Runners](indiana-small-town-clubs.md)), and they use the same safety language. What the yearbooks add is the other side: a kid's car of the month, a will that passes down a Model A presidency, and an editorial that noticed the inspection checked the cars and not the drivers. For the novel that made a high school timing association its plot in 1953, see [*Street Rod* in the Small-Town Paper](../media/street-rod-newspaper-serial.md).
+The school clubs show up in the same years as the town clubs the police and planners were sponsoring (see [What the City Planners Wrote](planners-report-1955.md), [The Cop and the Auto Shop](escanaba-dragns.md) and [Hoosier Road Runners](indiana-small-town-clubs.md)), and they use the same safety language. What the yearbooks add is the other side: a kid's car of the month, a will that passes down a Model A presidency, and an editorial that noticed the inspection checked the cars and not the drivers. For the novel that made a high school timing association its plot in 1953, see [*Street Rod* in the Small-Town Paper](../media/street-rod-newspaper-serial.md). The Hot Rod Club sat with the Glee Club. The editorial said they should have checked the nut that holds the wheel.
 
 **Visual references (external):** the yearbook pages themselves, linked in the footnotes (Internet Archive scans of copyrighted yearbooks; linked, not copied).
 
