@@ -1,6 +1,6 @@
 ---
 title: 'Ray Godman and Preston Davis: Memphis in Their Own Words'
-summary: "Ray Godman came from the fighting in Korea to Memphis, ran the Tennessee Bo-Weevil cars, co-founded Lakeland Dragway, and Preston Davis said he is the history of drag racing in Memphis."
+summary: "Ray Godman came from the fighting in Korea to Memphis, ran the Tennessee Bo-Weevil cars, and co-founded Lakeland Dragway. Preston Davis said Godman is the history of drag racing in Memphis."
 department: voices
 era: 1960s
 eras:
@@ -46,7 +46,7 @@ canonical_for: []
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** NHRA interview feature (2014), BangShift obituary (Jan 3, 2018), Memphis Rodders blog (2008) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** ⚠ Halls start year and Safari month (below); Commercial Appeal 2008 article not yet read · [How we rate this](../reference/source-standards.md)
 
-Raymond Godman (Memphis) came from the fighting in Korea to drag racing. He ran the **Tennessee Bo-Weevil** cars, co-founded Lakeland Dragway, and served as an NHRA regional adviser. Preston Davis said he is the history of drag racing in Memphis. He died in late 2017 or early 2018 (BangShift, Jan 3, 2018). In 2014 NHRA.com interviewed him and his driver **Preston Davis**.[^nh][^bs] See [Memphis & the Mid-South](../places/memphis.md).
+Raymond Godman (Memphis) came from the fighting in Korea to drag racing. He ran the **Tennessee Bo-Weevil** cars, co-founded Lakeland Dragway, and served as an NHRA regional adviser. Preston Davis said Godman is the history of drag racing in Memphis. He died in late 2017 or early 2018 (BangShift, Jan 3, 2018). In 2014 NHRA.com interviewed him and his driver **Preston Davis**.[^nh][^bs] See [Memphis & the Mid-South](../places/memphis.md).
 
 ## In his words
 
@@ -90,7 +90,7 @@ On Feb 25, 2008, a Memphis Rodders blogger (signed "LK") reacted to a *Commercia
 >
 > — **"LK," Memphis Rodders site**, 2008.[^tl] He flags his own memory as uncertain.
 
-He had come from the fighting in Korea, run the Tennessee Bo-Weevil, and co-founded Lakeland. Davis said he is the history of drag racing in Memphis.
+He had come from the fighting in Korea, run the Tennessee Bo-Weevil, and co-founded Lakeland. Davis said Godman is the history of drag racing in Memphis.
 
 ## Open questions & disputed details
 
