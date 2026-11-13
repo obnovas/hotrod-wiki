@@ -41,7 +41,7 @@ canonical_for: []
 ---
 # *Street Rod* in the Small-Town Paper: Henry Gregor Felsen's Serial (1953–1954)
 
-*In 1954 a small-town paper ran a hot rodder's fight with city hall, the same argument the towns were having*
+*In 1954 a small-town paper ran Felsen's novel Street Rod, a hot rodder's fight with city hall, the same argument the towns were having*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town dailies that ran the serial (*Escanaba Daily Press*, Mich.; *Hope Star*, Ark.; *Harrisburg Daily Register*, Ill.; 1954, read as page OCR), university archive finding aid (University of Iowa Special Collections), a 1953 trade review (*Kirkus*), Open Library catalog record, a 2010s book review (Speedreaders), a collector's blog · **Last verified:** 2026-10-16 (Round 14) · **Open issues:** ⚠ which Felsen novel carries the "Iowa Timing Association" dedication; the novel's own text could be seen only as search snippets (the scans are lending-only) ◐; we have not identified the Iowa Timing Association's members or meets · [How we rate this](../reference/source-standards.md)

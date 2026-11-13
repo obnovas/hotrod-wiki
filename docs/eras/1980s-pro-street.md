@@ -34,7 +34,7 @@ canonical_for: []
 ---
 # Pro Street, from a Dayton Garage
 
-*The 1980s look from a Dayton garage, a street car he could drive, named Pro Street in 1979*
+*The 1980s look from Sullivan's Dayton garage, a street car he could drive, which Reyes named Pro Street in 1979*
 
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · **Open issues:** Origin article unidentified · [How we rate this](../reference/source-standards.md)

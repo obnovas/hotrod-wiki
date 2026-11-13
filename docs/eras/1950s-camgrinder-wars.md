@@ -1,6 +1,6 @@
 ---
 title: The Camgrinder Wars
-summary: "In the January 1948 HOT ROD, Weber was the only cam advertiser and the headlines were still mild. By 1960 the ads were personal, and at Johansen's funeral (c.1988) Howard used to get a kick out of reading them."
+summary: "In the January 1948 HOT ROD, Weber was the only cam advertiser and the headlines were still mild. By 1960 the ads were personal, and at Johansen's funeral (c.1988) someone told Isky that Howard used to get a kick out of reading them."
 department: eras
 era: 1950s
 eras:
@@ -49,7 +49,7 @@ principal_source: "Dave Wallace, who interviewed the surviving \"generals\" (Isk
 ---
 # The Camgrinder Wars
 
-*Mild cam headlines in January 1948, then the 1956–64 ads, and at a c.1988 funeral Howard still got a kick out of them*
+*Mild cam headlines in January 1948, then the 1956–64 ads, and at a c.1988 funeral someone told Isky that Howard used to get a kick out of reading them*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (1994 Wallace interviews), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
@@ -80,7 +80,7 @@ Engle, looking back: "There was some hostility, but I would say the intent was c
 
 Then, at Johansen's funeral (c.1988), someone told him: "Howard used to get a kick out of reading your ads!"[^hr]
 
-The headlines in January 1948 were mild. Engle said the intent was a game. At the funeral, Howard used to get a kick out of reading the ads.
+The headlines in January 1948 were mild. Engle said the intent was a game. At the funeral, someone told Isky that Howard used to get a kick out of reading the ads.
 
 ## Open questions & disputed details
 
