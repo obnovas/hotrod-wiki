@@ -1,6 +1,6 @@
 ---
 title: Edelbrock's Slingshot
-summary: Vic Edelbrock drove his roadster to Muroc, pulled the fenders off to race and bolted them back on to drive home. This is the story of the kid from Kansas, the Thickstun detour and the shop after the war.
+summary: Vic Edelbrock drove his roadster to Muroc, pulled the fenders off to race, and bolted them back on to drive home. The Slingshot came after he worked with Tommy Thickstun and wasn't satisfied.
 department: companies
 era: 1930s
 eras:
@@ -37,7 +37,7 @@ canonical_for: []
 ---
 # Edelbrock's Slingshot
 
-*A mechanic becomes a manufacturer*
+*He drove the roadster to Muroc, pulled the fenders off to race, and bolted them back on to drive home*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, primary (patent) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** 1941 speed conflict open · [How we rate this](../reference/source-standards.md)
@@ -47,17 +47,19 @@ canonical_for: []
 <figcaption markdown>US3030819, "Linkage for multiple carburetor installation," sheet 1. Inventor: Otis Victor Edelbrock Jr., filed 1960-09-22, issued 1962-04-24. Source: [Google Patents](https://patents.google.com/patent/US3030819A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
 </figure>
 
-Vic Edelbrock drove his roadster to Muroc, pulled the fenders and windshield, raced, and bolted them back on to drive home.[^ed]
+Vic Edelbrock drove his roadster to Muroc, pulled the fenders and windshield, raced, and bolted them back on to drive home.[^ed] He was the kid from Kansas. He worked with Tommy Thickstun, wasn't satisfied, and designed the Slingshot, the first product with the Edelbrock name.
 
 ## A kid from Kansas
 
-Vic Edelbrock Sr. (1913–1962) was born in Kansas; the year is the company's,[^ed] and the International Drag Racing Hall of Fame list gives 1912.[^idrhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> He went to work full time at 14 after a fire destroyed his father's grocery store, and came to California in 1931.[^enc][^ed] He opened a repair shop on Wilshire Blvd. in Beverly Hills with his brother-in-law, then moved to Venice & Hoover in 1934.[^ed]
+Vic Edelbrock Sr. (1913–1962) was born in Kansas; the year is the company's,[^ed] and the International Drag Racing Hall of Fame list gives 1912.[^idrhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether that was 1912 or 1913 is still open. He went to work full time at 14 after a fire destroyed his father's grocery store, and came to California in 1931.[^enc][^ed] He opened a repair shop on Wilshire Blvd. in Beverly Hills with his brother-in-law, then moved to Venice & Hoover in 1934.[^ed]
 
 ## The Thickstun detour
 
-The roadster came first. In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun on the "Thickstun" manifold, wasn't satisfied, and designed his own: a 180° aluminum two-Stromberg-97 flathead manifold called the **Slingshot**, the first product with the Edelbrock name. About 100 were made before the war.[^ed][^enc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+The roadster came first. In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun on the "Thickstun" manifold, wasn't satisfied, and designed his own: a 180° aluminum two-Stromberg-97 flathead manifold called the **Slingshot**, the first product with the Edelbrock name. About 100 were made before the war.[^ed][^enc] How fast the roadster went is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 After the war Edelbrock modified "Denver" iron heads, introduced the first aluminum heads and a 1946 catalog, and fielded a flathead midget credited with breaking the Offenhauser midgets' streak in the late '40s.[^hemm]
+
+He drove the roadster to Muroc, pulled the fenders and windshield, raced, and bolted them back on to drive home.
 
 *See also:* [Beast III](../cars/beast-iii.md).
 

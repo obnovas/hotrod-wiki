@@ -1,6 +1,6 @@
 ---
 title: 'Mickey Thompson: The Pressman Who Dug the Post Holes Himself'
-summary: Mickey Thompson dug the post holes for his own drag strip after his shift at the Los Angeles Times. This page follows him from El Monte to tires, wheels and the Pontiac years.
+summary: Mickey Thompson dug the post holes for his own drag strip after his shift at the Los Angeles Times. The pressman with a garage and no money went on to the slick, the slingshot and a mail-order wheel.
 department: companies
 era: 1960s
 eras:
@@ -50,7 +50,7 @@ canonical_for: []
 ---
 # Mickey Thompson: The Pressman Who Dug the Post Holes Himself
 
-*From a Los Angeles Times pressroom to the Lions strip, the slick, the slingshot and a mail-order wheel in Ohio*
+*He dug the post holes himself after the shift at the Los Angeles Times, then the slick, the slingshot and a mail-order wheel*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** *Hot Rod* profile (Dec 1978; Thompson in his own words), NHRA *National Dragster* editor's photo feature (2013, quoting a 2013-era biography), SEMA Hall of Fame (1984), Wikipedia (secondary), a RACER company history that names Thompson's wheels · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ who deserves credit for the slingshot dragster and when it debuted; ⚠ the Brighton 1963 story; ◐ nearly every "first" below is Thompson's own claim; the Mickey Thompson tire and wheel brand's later ownership was not traced; no Alhambra or El Monte local-paper coverage found yet · [How we rate this](../reference/source-standards.md)
@@ -62,7 +62,7 @@ canonical_for: []
 
 "I dug the post holes by hand, scrounged up the pipe I used for the fence posts, nailed together the timing tower, and sold pit passes," Mickey Thompson told *Hot Rod* in 1978, remembering the drag strip he built after his shift at the *Los Angeles Times*. "I was really excited when 10,000 people showed up for opening day."[^hr78]
 
-The man who became one of the best-known names in the aftermarket started out as a pressman with a garage and no money.
+He was a pressman with a garage and no money.
 
 ## El Monte, Alhambra and the garage
 
@@ -80,15 +80,13 @@ Then there was Lions. Thompson says he "built and ran Lions Drag Strip for eight
 
 In 1963, per SEMA and Wikipedia, he launched **Mickey Thompson Performance Tires**. SEMA lists among his innovations "S/S Cheater Slicks and raised white letter tires," and he told *Hot Rod* he "built some of the first, if not the first set of drag slicks out of recapped '47 Indy tires" and "used the first super-wide, low-profile tires."[^sema][^wp][^hr78]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-The tires were part of a bigger business. Wikipedia adds that he "went into the performance aftermarket business in the early 1960s." Don Prudhomme, quoted by NHRA from a biography, said Thompson "was the first guy I ever heard who would take his cars to the dragstrip during the week to test. None of us could afford to test, so when Mickey showed up on the weekend, his cars were ready to kick ass."[^nhra] That is a racer's view of what a parts maker with a test fleet could do.
-
-His name also reached Ohio. RACER's company history says that, three years after Summit Racing opened its first Akron store in 1969, Summit tested mail order "by placing small ads for Mickey Thompson ET wheels in *Hot Rod* and *Car Craft* magazines."[^racer] See [Summit Racing](summit-racing.md).
+The tires were part of a bigger business. Wikipedia adds that he "went into the performance aftermarket business in the early 1960s." Don Prudhomme, quoted by NHRA from a biography, said Thompson "was the first guy I ever heard who would take his cars to the dragstrip during the week to test. None of us could afford to test, so when Mickey showed up on the weekend, his cars were ready to kick ass."[^nhra] His name also reached Ohio. RACER's company history says that, three years after Summit Racing opened its first Akron store in 1969, Summit tested mail order "by placing small ads for Mickey Thompson ET wheels in *Hot Rod* and *Car Craft* magazines."[^racer] See [Summit Racing](summit-racing.md).
 
 ## The Pontiac years
 
 In July 1961, NHRA says, Thompson "trailered these four Pontiac-powered cars" to Southern California's March Air Force Base and broke eight FIA international records and six of 10 American national records. At the 1962 Nationals, NHRA says, Jack Chrisman drove his 432-cubic-inch aluminum Pontiac-powered Dragmaster to an 8.76, 171.75-mph win over Don Garlits in the Top Eliminator final.[^nhra] In 1978 Thompson called his biggest drag racing thrill "entering 10 Pontiac-powered cars back in '62 and winning all 10 classes they competed in."[^hr78]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-And a grassroots footprint appears in the wiki's [Houston Freeway Dragstrip page](../drag-racing/houston-freeway-dragstrip.md): in 1961, strip owner Carl Gay booked Hayden Proffitt and his "Mickey Thompson–owned, 421-powered aluminum Pontiac Catalina" at the Houston strip, and within a year the Gay brothers were racing Catalinas of their own. That page's source is an NHRA.com feature on the Gay brothers, not the 1978 profile.
+In 1961, on the [Houston Freeway Dragstrip page](../drag-racing/houston-freeway-dragstrip.md), strip owner Carl Gay booked Hayden Proffitt and his "Mickey Thompson–owned, 421-powered aluminum Pontiac Catalina" at the Houston strip, and within a year the Gay brothers were racing Catalinas of their own. That page's source is an NHRA.com feature on the Gay brothers, not the 1978 profile.
 
 <figure markdown>
 ![The open engine bay of the blue Mickey Thompson Challenger I streamliner, showing four supercharged engines side by side, under a Challenger I name board.](../assets/images/commons-mickey-thompson-challenger-i.jpg){ loading=lazy }
@@ -104,6 +102,8 @@ After the Indianapolis years and the Ford-backed Mustang Funny Cars of the late 
 Thompson's trail crosses many other stories here. [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) is where a local hot rodder named the slingshot, and its Hart later succeeded Thompson at Lions. [Great Bend and the SRCA](../drag-racing/great-bend-srca.md) hosted the 1955 Nationals where Wikipedia says the Panorama City Special debuted, and [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md) booked Proffitt's Mickey Thompson-owned Pontiac Catalina. [Moon Equipment](moon-equipment.md) has the Brighton mix-up and the California shops of the era; [Ed Iskenderian](../people/ed-iskenderian.md) is the friend *Hot Rod* paired with Thompson as a parts magnate.
 
 In Ohio, [Summit Racing](summit-racing.md)'s first mail-order ads were for his wheels, and [Lakewood Industries](lakewood-industries.md), the bellhousing maker, was another response to drivetrain explosions at the strips. And [Moroso](moroso.md) is another racer-turned-parts-maker who ended up owning a track.
+
+He dug the post holes by hand after his shift at the *Los Angeles Times*. He was a pressman with a garage and no money.
 
 *See also:* [The Web of Influence](web-of-influence.md); [Golden State Raceway, Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md), where a Mickey Thompson fuel dragster held the 1969 AA-Fuel record.
 

@@ -51,18 +51,18 @@ principal_source: "Jim Hill, East Coast Drag Racing Hall of Fame (2016).[^ec]"
 ---
 # Mr. Gasket: From the Trunk of a '57 Chevy to Wall Street
 
-*The Hrudka brothers and the Ohio Gassers*
+*Thicker gaskets, sold from the trunk of a '57 Chevy, and a company that went from that trunk to Wall Street*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, obituary, reference · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Founding dates and sale price conflict · [How we rate this](../reference/source-standards.md)
 
-Store-bought exhaust gaskets wouldn't stay put and blocked ported 283 Chevy heads. Joe Hrudka worked out thicker, larger, one-piece gaskets with his father-in-law, a partner at Manufacturers Gasket in Cleveland. They hand-cut them, then used steel-rule dies in a hand press. They sold them from the trunk of Joe's '57 Chevy tow car, and part numbers **150 (exhaust) and 150A (intake)** remain in the line.[^ec] SEMA says the earliest prototypes were made in his home basement and first sold as **Speed Specialties**.[^sema]
+Store-bought exhaust gaskets wouldn't stay put and blocked ported 283 Chevy heads. Joe Hrudka worked out thicker, larger, one-piece gaskets with his father-in-law, a partner at Manufacturers Gasket in Cleveland. They hand-cut them, then used steel-rule dies in a hand press. They sold them from the trunk of Joe's '57 Chevy tow car, and part numbers **150 (exhaust) and 150A (intake)** remain in the line.[^ec] SEMA says the earliest prototypes were made in his home basement and first sold as **Speed Specialties**.[^sema] Mr. Gasket went from that trunk to Wall Street.
 
 ## Gas-class racers first
 
 The gaskets came out of racing. Joe and Tom Hrudka of suburban Cleveland raced a '55 Chevy that won D/Gas at the 1962 NHRA Nationals, then a '40 Willys in C and D/Gas.[^ec] SEMA says they were back-to-back NHRA champions in 1961 and 1962.[^sema]
 
-They ran with the informal "Ohio Gassers": Eddie Schartman, Ron Hassel, Arlen Vanke, the Hill brothers, Dave Meal and others. They raced at Thompson, Dragway 42, Quaker City and National Trail, often four or five times a week in the short Ohio season.[^ec]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+They ran with the informal "Ohio Gassers": Eddie Schartman, Ron Hassel, Arlen Vanke, the Hill brothers, Dave Meal and others. They raced at Thompson, Dragway 42, Quaker City and National Trail, often four or five times a week in the short Ohio season.[^ec]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> When it was founded, and what it was worth, nobody's books quite agree.
 
 ## Later
 
@@ -71,6 +71,8 @@ Then the company changed hands. Joe left the company in 1976 under a non-compete
 ## Joe Hrudka (1938–2026) { #update-round-4-joe-hrudka-19382026 }
 
 NHRA reports that Joe Hrudka was born Nov 29, 1938, in Cleveland and died **May 24, 2026**, at 87. It describes the brothers' results as "Class wins at the 1961 and 1962 NHRA U.S. Nationals." That is narrower than SEMA's "back-to-back NHRA champions."[^nhra26] The same story captions Dave Meal's '40 Willys C/Gasser with an early Mr. Gasket logo. In spring 1967 the Hrudkas bought the unfinished '33 Willys that became the Hill brothers' [Red Baron](../cars/hill-bros-red-baron.md) and sold it on to them, per Dave Hales.
+
+They had sold the gaskets from the trunk of a '57 Chevy tow car. Mr. Gasket went from that trunk to Wall Street.
 
 *See also:* [The Ohio Gassers](../places/ohio-gassers.md) (Hassel, Meal, Schwartz, Finders;<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> who built the 1968 Mr. Gasket Camaro), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md).
 

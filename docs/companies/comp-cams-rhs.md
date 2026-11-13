@@ -1,6 +1,6 @@
 ---
 title: 'COMP Cams and Racing Head Service: Three Oldsmobile Tinkerers on Sun Studio''s Corner'
-summary: In 1967 three Memphis drag racers who liked tinkering with Oldsmobile engines set up Racing Head Service in a basement. It grew into COMP Cams.
+summary: In 1967 three Memphis drag racers who liked tinkering with Oldsmobile engines set up Racing Head Service in a basement. COMP Cams grew from that shop and in 2020 sits in the same group as Edelbrock.
 department: companies
 era: 1970s
 eras:
@@ -62,14 +62,14 @@ canonical_for:
 ---
 # COMP Cams and Racing Head Service: Three Oldsmobile Tinkerers on Sun Studio's Corner
 
-*A Memphis basement, a head-porting machine and the cam company that took over the Edelbrock family*
+*Three Memphis racers in a basement in 1967, and the cam company that sits in the same group as Edelbrock*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** company history (COMP Cams), SEMA News heritage piece retelling a 1971 *Hot Rod* profile (2011), a 1978 high-school yearbook advertisement (local), cross-references to wiki pages built on local sources · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ the shop sequence (Union and Marshall vs a Memphis suburb); ◐ the Sun Studio address rests on COMP's own history alone; ◐ "one of the first mail-order warehouses" and "crate engine" firsts are company claims; no Memphis newspaper coverage found yet · [How we rate this](../reference/source-standards.md)
 
-In 1967 three drag racers who loved tinkering with Oldsmobile engines bought a head-resurfacing machine, a dip tank and some other equipment, put them in the basement of Ivars Smiltnieks's house in Memphis, and called the result **Racing Head Service**.[^comp]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+In 1967 three drag racers who loved tinkering with Oldsmobile engines bought a head-resurfacing machine, a dip tank and some other equipment, put them in the basement of Ivars Smiltnieks's house in Memphis, and called the result **Racing Head Service**.[^comp]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> That shop grew into COMP Cams. In 2020 it was sold into the same group as Edelbrock.
 
-Smiltnieks, Bob Woodard and John McWhirter had found, COMP Cams says, "the art of head porting and trick valve jobs" and were "very successful in NHRA's Stock and Jr. Stock classes." Racers kept asking them to do the same for theirs, so they made a company to meet the demand.[^comp] SEMA's retelling of a February 1971 *Hot Rod* profile adds why a trio would race old Oldsmobiles at all. Writer Bud Lang quoted them: "One reason was that they were a lot of fun, but the main reason was they were ideal test cars." Because of their low horsepower rating, the Olds engines "would react favorably (or disagreeably) to any small change." Many of the shop's "speed secrets," Lang wrote, found their way "into Chevys, Fords, Ponchos, and who knows what else."[^sema]
+Smiltnieks, Bob Woodard and John McWhirter had found, COMP Cams says, "the art of head porting and trick valve jobs" and were "very successful in NHRA's Stock and Jr. Stock classes." Racers kept asking them to do the same for theirs, so they made a company to meet the demand.[^comp] SEMA's retelling of a February 1971 *Hot Rod* profile says why a trio would race old Oldsmobiles at all. Writer Bud Lang quoted them: "One reason was that they were a lot of fun, but the main reason was they were ideal test cars." Because of their low horsepower rating, the Olds engines "would react favorably (or disagreeably) to any small change." Many of the shop's "speed secrets," Lang wrote, found their way "into Chevys, Fords, Ponchos, and who knows what else."[^sema]
 
 Lang also explained why head work was a science in Junior and Super Stock: the NHRA rules were so restrictive that the few shops specializing in the work had "turned otherwise standard valve jobs into a science."[^sema]
 
@@ -79,7 +79,7 @@ Soon, COMP says, they rented a real shop "at the corner of Union and Marshall, w
 
 The Little Rock shop shows up in a local source. The 1978 Little Rock Central High School yearbook carries an ad for "Racing Head Service, Memphis/Little Rock, 3901 S. University, L.R." (read from the scan's OCR text; the ad's other copy is garbled). A yearbook ad is a quiet piece of evidence: a Memphis head shop advertising to a Little Rock high-school audience.[^yb]
 
-The wiki's [Memphis page](../places/memphis.md) says outright that it looked for a link between Sun Records-era Memphis and the builders and "found none." COMP's history gives a place link, not a musician link: a speed shop on what COMP calls Sun Studios' corner.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The address needs a city directory or a Memphis newspaper.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+The wiki's [Memphis page](../places/memphis.md) says outright that it looked for a link between Sun Records-era Memphis and the builders and "found none." COMP's history gives a place link, not a musician link: a speed shop on what COMP calls Sun Studios' corner.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The address needs a city directory or a Memphis newspaper. The shop sequence, Union and Marshall or a Memphis suburb, is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 <figure markdown>
 ![Sun Records Studio, a small corner storefront with a sign and a neon guitar on Union Avenue in Memphis.](../assets/images/commons-sun-studio-highsmith.jpg){ loading=lazy }
@@ -88,7 +88,7 @@ The wiki's [Memphis page](../places/memphis.md) says outright that it looked for
 
 ## A cam is born, and a rival in Florida
 
-To go with the head work RHS needed cams. In 1972 it recruited Memphis cam designer Mark Heffington and **Tom Woitesek, then the shop foreman at Crane Cams in Florida**, to form Cam Dynamics. Ivars's brother Russ joined, and local racer Scooter Brothers became a minor owner. In 1975 the partnership came apart over ownership, and "Cam Dynamics eventually going to Crane Cams."[^comp] Read that twice: Crane Cams lost its foreman to a Memphis head shop, then got the cam company the foreman had helped found. See [Crane Cams](crane-cams.md).
+To go with the head work RHS needed cams. In 1972 it recruited Memphis cam designer Mark Heffington and **Tom Woitesek, then the shop foreman at Crane Cams in Florida**, to form Cam Dynamics. Ivars's brother Russ joined, and local racer Scooter Brothers became a minor owner. In 1975 the partnership came apart over ownership, and "Cam Dynamics eventually going to Crane Cams."[^comp] Crane Cams lost its foreman to a Memphis head shop, then got the cam company the foreman had helped found. See [Crane Cams](crane-cams.md).
 
 In 1976 Competition Cams was formed by six partners: Smiltnieks, Woodard, McWhirter, Woitesek, Russ Smiltnieks and Ron Coleman, producing out of RHS's warehouse. Woodard sold his stake in 1979. By then RHS, COMP says, had "evolved into one of the first mail-order parts warehouses and one of the first to offer complete turnkey 'crate' engines"<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>.[^comp] SEMA agrees on the 1970s step, saying the trio "would join with Tom Woitesek, Russ Smiltnieks and Ron Coleman to form Competition Cams."[^sema]
 
@@ -98,11 +98,11 @@ In 1976 Competition Cams was formed by six partners: Smiltnieks, Woodard, McWhir
 
 Coleman and Brothers bought Powerhouse Tools, started VThunder (motorcycles) and GoParts (karts) in 1999, bought transmission maker **TCI** in 2001, and formed FAST Electronics and ZEX Nitrous; in 2002 they revived RHS for cylinder heads, and bought Inglese Injection (2007) and Quarter Master (2008). In 2020, after 44 years of ownership, they sold COMP Performance Group to private-equity firm Industrial Opportunity Partners, which already owned **Edelbrock**. The Edelbrock Group was created that year.[^comp] COMP's headquarters are in Olive Branch, Mississippi; its manufacturing and R&D are still on Democrat Road in Memphis.[^comp]
 
-So a company that began when three men raced Oldsmobiles now sits in the same group as the family firm whose founder, [Vic Edelbrock](edelbrock-slingshot.md), raced a roadster to Muroc and bolted the fenders back on.
-
 ## Memphis neighbors
 
-[Memphis and the Mid-South](../places/memphis.md) is the scene COMP says it dominated; its Sun Records section now has a place link, with caveats. [Summer Avenue](../places/summer-avenue-memphis.md) was the cruising street of the same city, though no source ties it to RHS. [Ray Godman](../voices/ray-godman.md), Lakeland Dragway's partner and an NHRA advisor, was Memphis's other drag-racing backbone. [Crane Cams](crane-cams.md) was Woitesek's old employer and the eventual owner of Cam Dynamics. A COMP hydraulic roller cam sits in the restored founder's Corvette at [Summit Racing](summit-racing.md). The [Edelbrock](edelbrock-slingshot.md) Group was formed in 2020 by merging Edelbrock and COMP's parent. And [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md) tells the story of the earlier California cam makers this Memphis trade grew up behind.
+[Memphis and the Mid-South](../places/memphis.md) is the scene COMP says it dominated; its Sun Records section now has a place link, with caveats. [Summer Avenue](../places/summer-avenue-memphis.md) was the cruising street of the same city, though no source ties it to RHS. [Ray Godman](../voices/ray-godman.md), Lakeland Dragway's partner and an NHRA advisor, was Memphis's other drag-racing backbone. [Crane Cams](crane-cams.md) was Woitesek's old employer and the eventual owner of Cam Dynamics. A COMP hydraulic roller cam sits in the restored founder's Corvette at [Summit Racing](summit-racing.md). [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md) tells the story of the earlier California cam makers this Memphis trade grew up behind. The [Edelbrock](edelbrock-slingshot.md) Group was formed in 2020 by merging Edelbrock and COMP's parent.
+
+So a company that began when three men raced Oldsmobiles now sits in the same group as the family firm whose founder, [Vic Edelbrock](edelbrock-slingshot.md), raced a roadster to Muroc and bolted the fenders back on.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

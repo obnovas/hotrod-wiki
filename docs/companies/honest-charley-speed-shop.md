@@ -1,6 +1,6 @@
 ---
 title: 'Honest Charley, Hisself: The Chattanooga Speed Shop That Sold by Mail (1948–1990)'
-summary: Charley Card earned his nickname at a downtown Chattanooga lunch counter near the Read House, and in 1948 opened Honest Charley Speed Shop on McCallie Avenue. He hand-drew the catalog Southwest Virginia called its mail-order bible; he died in 1974 or 1975, and the shop closed in 1990.
+summary: Charley Card earned the name Honest at a downtown Chattanooga lunch counter near the Read House, and in 1948 opened a speed shop on McCallie Avenue. He hand-drew the catalog Southwest Virginia called its mail-order bible.
 department: companies
 era: 1950s
 eras:
@@ -63,7 +63,7 @@ status: Closed 1990; name revived by Corky Coker from 1998[^sema12][^tfp16]
 
 ## A register with no room
 
-Before the parts, there was lunch. In the 1940s Charley Card owned a downtown Chattanooga restaurant near the Read House.[^tfp16] During the war it got so busy there was no room on the counter for the cash register. He told *Hot Rod* in 1970, "so I put it outside the door," and asked customers on their way out what they owed. "Customers said, 'My gosh, Charley, you must be honest.' An' that was it. I painted 'Honest' real big on a sign atop the restaurant."[^sema12] The tellings drift. The hometown paper has him leaving the register open so customers could make their own change. His biography has him taking it off the counter to seat one more paying customer. The revived company's history puts it on the sidewalk under a sign that said "How Honest Are You?"<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^tfp16][^wiki][^mopar]
+Before the parts, there was lunch. In the 1940s Charley Card owned a downtown Chattanooga restaurant near the Read House.[^tfp16] During the war it got so busy there was no room on the counter for the cash register. He told *Hot Rod* in 1970, "so I put it outside the door," and asked customers on their way out what they owed. "Customers said, 'My gosh, Charley, you must be honest.' An' that was it. I painted 'Honest' real big on a sign atop the restaurant."[^sema12] The tellings drift. The hometown paper has him leaving the register open so customers could make their own change. His biography has him taking it off the counter to seat one more paying customer. The revived company's history puts it on the sidewalk under a sign that said "How Honest Are You?"<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^tfp16][^wiki][^mopar] The name Honest came from that counter. In 1948 he opened the speed shop, and the catalog he hand-drew is what the mountain hot rodders ordered from.
 
 The "Hisself" came later. People meeting him, Guldahl wrote, kept asking, "You're not Honest Charley, are you? Are you Honest Charley hisself?"[^sema12]
 
@@ -81,7 +81,9 @@ The shop grew with them. When Guldahl visited in late 1970, Card had just become
 
 ## After Hisself
 
-Card died in 1974 by SEMA's count, and in 1975 by the *Times Free Press* and the company's feature.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^sema12][^tfp16][^mopar] The shop closed in 1990.[^sema12][^tfp16][^mopar] The fuel crisis and his death, the hometown paper and the company's feature say, sent it into a downward spiral.[^tfp16][^mopar] In 1998 Corky Coker of Coker Tire bought the name and trademarks and brought it back. "This shop, and this name rings a bell with just about every hot rodder and drag racer from the early days, and I couldn't stand the thoughts of it going away," he told the *Times Free Press*.[^sema12][^tfp16]
+Card died in 1974 by SEMA's count, and in 1975 by the *Times Free Press* and the company's feature.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^sema12][^tfp16][^mopar] Whether that was 1974 or 1975 is still open. The shop closed in 1990.[^sema12][^tfp16][^mopar] The fuel crisis and his death, the hometown paper and the company's feature say, sent it into a downward spiral.[^tfp16][^mopar] In 1998 Corky Coker of Coker Tire bought the name and trademarks and brought it back. "This shop, and this name rings a bell with just about every hot rodder and drag racer from the early days, and I couldn't stand the thoughts of it going away," he told the *Times Free Press*.[^sema12][^tfp16]
+
+The register had no room on the counter, and that is where the name Honest came from. The catalog he hand-drew is the one the mountain hot rodders ordered from.
 
 *See also:* [The Roanoke Drag Strip](../drag-racing/roanoke-drag-strip-southwest-virginia.md), the customers in Southwest Virginia; [JEGS](jegs.md), a Columbus racer who opened his own shop because the mail was slow; [COMP Cams & RHS](comp-cams-rhs.md), another Mid-South parts story, in Memphis.
 

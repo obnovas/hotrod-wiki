@@ -1,6 +1,6 @@
 ---
 title: 'Holley: A Bicycle Motor from Bradford and the Carburetor That Followed Everybody'
-summary: Holley began with George Holley's motor bicycle at the 1901 Pan-American Exposition in Buffalo. The Bradford, Pa., brothers' company went on to carburetors, Detroit and the aftermarket.
+summary: At the 1901 Pan-American Exposition in Buffalo, George Holley raced a motor bicycle he had designed. The Bradford brothers' company went from that bicycle motor to the carburetor that followed the cars, the war, and the aftermarket.
 department: companies
 era: 1900s
 eras:
@@ -55,19 +55,18 @@ canonical_for: []
 ---
 # Holley: A Bicycle Motor from Bradford and the Carburetor That Followed Everybody
 
-*An oil-boom hotel, a Pan-American track and a state historical marker*
+*A motor bicycle from Bradford, raced at Buffalo in 1901, and the carburetor company that followed*
 
 !!! abstract "Article record"
     **Confidence:** Medium (stronger for the Bradford years than for the aftermarket years) · **Source types:** state historical marker essay (Pennsylvania Historical and Museum Commission, 2008), university heritage feature built with the company foundation's help (Penn State, 2010–11), a 1916 trade-journal ad, company brand pages, SEMA Hall of Fame · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ 1901 vs 1903 for the carburetor licence; ⚠ "almost half" vs "more than half" of WWII carburetors; ⚠ when Holley bought Hooker (1990s vs 2000); the Holley Foundation history pages returned 404 · [How we rate this](../reference/source-standards.md)
 
-On a summer day in 1901 at the Pan-American Exposition in Buffalo, twenty-three-year-old George Holley was out to break the world five-mile record on a motor bicycle he had designed. The August 22, 1901, *McKean County Miner*, as quoted by the Pennsylvania marker essay, reported what happened on one attempt: Holley "lost control of his whirling engine close at the finish and went bounding off the board platter. The only damage was a stir up of the officials. Holley never lost presence of mind nor attempted to dismount, but shut off the power and continued the trip over sod." He broke "all existing marks for five miles" that day.[^mk]
+On a summer day in 1901 at the Pan-American Exposition in Buffalo, twenty-three-year-old George Holley was out to break the world five-mile record on a motor bicycle he had designed. Holley is the company that started with that bicycle. The August 22, 1901, *McKean County Miner*, as quoted by the Pennsylvania marker essay, reported what happened on one attempt: Holley "lost control of his whirling engine close at the finish and went bounding off the board platter. The only damage was a stir up of the officials. Holley never lost presence of mind nor attempted to dismount, but shut off the power and continued the trip over sod." He broke "all existing marks for five miles" that day.[^mk]
 
 ## The hotel keeper's boys
 
 Holley came to Buffalo from **Bradford, Pennsylvania**, an oil boomtown in McKean County, where his father Frank ran the Holley House, a four-story, 70-room hotel. The marker essay says the boomtown culture "spawned a host of refiners, dealers, brokers, and others all seeking to 'strike it rich'," and that in that "fertile environment for entrepreneurial innovation" George and his brother Earl, "natural-born mechanics and tinkerers," did the rest.[^mk]
 
-It started with bicycles. In 1896 George attached a motor to a bicycle, making the motor "an integral part of the bike frame." In 1897, he was nineteen and Earl sixteen, they built a three-wheeled single-cylinder car they called the Runabout, which hit thirty miles an hour. They formed the Holley Motor Company two years later, with Earl on administration and George on engineering, building engines on Davis Street and then whole motorcycles "in response to customer demand." George raced them to promote the business, and in July 1902 he won the first Motorcycle Endurance Contest, Boston to New York.[^mk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
-
+It started with bicycles. In 1896 George attached a motor to a bicycle, making the motor "an integral part of the bike frame." In 1897, he was nineteen and Earl sixteen, they built a three-wheeled single-cylinder car they called the Runabout, which hit thirty miles an hour. They formed the Holley Motor Company two years later, with Earl on administration and George on engineering, building engines on Davis Street and then whole motorcycles "in response to customer demand." George raced them to promote the business, and in July 1902 he won the first Motorcycle Endurance Contest, Boston to New York.[^mk] Whether the French carburetor licence was 1901 or 1903 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 <figure markdown>
 ![A 1916 advertisement for the Holley Model H carburetor, in a red-spattered frame, with the line "Holley Brothers Co., Detroit, Mich."](../assets/images/commons-holley-brothers-ad-1916.jpg){ width="360" loading=lazy }
@@ -84,7 +83,7 @@ The part of the story hot rodders know begins in **1948**, when Holley "entered 
 
 Penn State calls Holley "the first American company dedicated to designing performance carburetors"<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Then came the roll-up. The marker says that in the 1990s Holley "expanded to include **Hooker Headers**, Flowtech Exhaust, Earl's Performance Plumbing, and NOS." SEMA's Hall of Fame profile of Hooker's founder says Gary Hooker "sold Hooker Headers to Holley Performance Products in **2000**."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> Holley's brand page says **Lakewood**, the Ohio bellhousing maker, is "now part of Holley Performance."[^lkw] Holley bought **Mr. Gasket** in September 2015, per the wiki's [Mr. Gasket page](mr-gasket.md). Holley filed for bankruptcy in February 2008, and, the marker adds, "promised that employees would not be affected."[^mk]
+Then came the roll-up. The marker says that in the 1990s Holley "expanded to include **Hooker Headers**, Flowtech Exhaust, Earl's Performance Plumbing, and NOS." SEMA's Hall of Fame profile of Hooker's founder says Gary Hooker "sold Hooker Headers to Holley Performance Products in **2000**."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> Whether that was the 1990s or 2000 is still open. Holley's brand page says **Lakewood**, the Ohio bellhousing maker, is "now part of Holley Performance."[^lkw] Holley bought **Mr. Gasket** in September 2015, per the wiki's [Mr. Gasket page](mr-gasket.md). Holley filed for bankruptcy in February 2008, and, the marker adds, "promised that employees would not be affected."[^mk]
 
 The marker closes on a line that is now dated. In 2008 it says "every NASCAR Sprint Cup team and every National Hot Rod Association (NHRA) Pro-Stock champion" used Holley carburetors.[^mk] Treat that as a 2008 statement.
 
@@ -96,6 +95,8 @@ The marker closes on a line that is now dated. In 2008 it says "every NASCAR Spr
 ## The brands Holley collected
 
 [Mr. Gasket](mr-gasket.md), Cleveland's Hrudka brothers' company, was sold to Holley in 2015. [Hooker Headers](hooker-headers.md), Gary Hooker's header shop, has been a Holley brand since 2000 (or earlier, per the marker); the sale date is a<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> conflict. [Lakewood Industries](lakewood-industries.md), the Ohio bellhousing maker, is now a Holley brand too. And the company of [Stu Hilborn](../people/stu-hilborn.md), the fuel-injection pioneer, is reported to have been acquired by Holley (2019,<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> per that page's Wikipedia summary).
+
+The motor bicycle came from a hotel keeper's boys in Bradford. The carburetor followed the cars, the war, and then the brands.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

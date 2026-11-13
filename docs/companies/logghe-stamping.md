@@ -1,6 +1,6 @@
 ---
 title: 'Logghe Stamping: Fraser''s Flip-Top Chassis Shop'
-summary: The Logghe brothers turned their father's Fraser, Michigan, bracketry shop into a chassis house for dragsters and the flip-top Funny Cars of 1966.
+summary: Gene Logghe was burned at 187 mph at Ubly Dragway in 1962, and his father forbade the brothers to drive. They kept building, and the Fraser shop made the flip-top Funny Cars of 1966.
 department: companies
 era: 1960s
 eras:
@@ -51,6 +51,8 @@ canonical_for: []
 ---
 # Logghe Stamping: Fraser's Flip-Top Chassis Shop
 
+*Gene was burned at Ubly, their father forbade them to drive, and the Fraser shop built the flip-top Funny Cars*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** MMSHOF bio, Garlits Museum HOF, enthusiast press · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Company founding year 1946 vs 1947 · [How we rate this](../reference/source-standards.md)
 
@@ -59,43 +61,43 @@ canonical_for: []
 
     — Eddie Schartman on his first Logghe flip-top Comet, Dec 1965 (NHRA.com, 2016). [Context](../people/eddie-schartman.md)
 
-Gene Logghe was burned in the brothers' own dragster at **Ubly Dragway** on a **187 mph** run in **1962**. Their father then forbade them to drive diggers.[^mms][^gar]
-
-They kept building them. The **Logghe Stamping Company** of Fraser, Michigan, turned a Big Three bracketry shop into the chassis house that defined early Funny Cars. Brothers **Ron** and **Gene Logghe** built the first series of tube-frame, coil-over, one-piece flip-top cars for Lincoln-Mercury in 1966. Customers included [Eddie Schartman](../people/eddie-schartman.md), Dyno Don Nicholson, Jack Chrisman, Connie Kalitta, Gene Snow, [Al Bergler](../people/al-bergler.md), and many others.[^mms][^gar]
+Gene Logghe was burned in the brothers' own dragster at **Ubly Dragway** on a 187 mph run in 1962. Their father then forbade them to drive diggers.[^mms][^gar] They kept building them. The Logghe Stamping Company of Fraser, Michigan, turned a Big Three bracketry shop into the chassis house that defined early Funny Cars. In 1966 brothers Ron and Gene Logghe built the first series of tube-frame, coil-over, one-piece flip-top cars for Lincoln-Mercury. Customers included [Eddie Schartman](../people/eddie-schartman.md), Dyno Don Nicholson, Jack Chrisman, Connie Kalitta, Gene Snow, [Al Bergler](../people/al-bergler.md), and many others.[^mms][^gar]
 
 ## Morris Logghe's shop
 
-It began as their father's business. Morris Logghe, a Belgian immigrant, founded Logghe Stamping as an automotive bracketry company serving Detroit's Big Three.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+It began as their father's business. Morris Logghe, a Belgian immigrant, founded Logghe Stamping as an automotive bracketry company serving Detroit's Big Three.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> The founding year is 1946 vs 1947.
 
-Ron and Gene began working for their father in **1955** (Gene about 17, Ron about 15).[^mms] They first tried sports-car racing, then attended the drag races at the long-defunct strip in **New Baltimore, Mich., in 1958**, where they met local racer Connie Kalitta.[^mms][^gar]
+Ron and Gene began working for their father in 1955 (Gene about 17, Ron about 15).[^mms] They first tried sports-car racing. Then they attended the drag races at the long-defunct strip in New Baltimore, Mich., in 1958, where they met local racer Connie Kalitta.[^mms][^gar]
 
 ## From Kalitta rails to Competition Products
 
-That meeting led to their first chassis. In **1961** Kalitta asked them to build a dragster chassis, their first customer chassis. Success brought more orders; they added clutch cans, steering parts, and axles.[^gar]
+That meeting led to their first chassis. In 1961 Kalitta asked them to build a dragster chassis, their first customer chassis. Success brought more orders. They added clutch cans, steering parts, and axles.[^gar]
 
-Soon they had cars of their own on the strip. Partnership with employees **Jim Marsh** and **Roy Steffey** produced the injected Chevy digger nicknamed **"the Giant Killer."** MMSHOF: in **1964** it became the first non-supercharged car into the sevens.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^mms]
+Soon they had cars of their own on the strip. A partnership with employees Jim Marsh and Roy Steffey produced the injected Chevy digger nicknamed "the Giant Killer." MMSHOF says that in 1964 it became the first non-supercharged car into the sevens.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^mms]
 
-In **1965** Maynard Rupp drove their blown Chrysler **"the Prussian"** (tuned by Steffey) to what Garlits Museum calls the first NHRA points championship for that team.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^gar]
+In 1965 Maynard Rupp drove their blown Chrysler "the Prussian" (tuned by Steffey) to what the Garlits Museum calls the first NHRA points championship for that team.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^gar]
 
-The race-car side became a business of its own. They formed a **Competition Products** division for race cars and parts. Garlits Museum: the shop later turned out **over 600** race cars (Funny Cars, diggers, Pro Stocks, Altereds, Bonneville cars, even go-karts).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^gar] *Car Craft* named Logghe Funny Car Chassis Builder of the Year **1967–70**.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>[^gar]
+The race-car side became a business of its own. They formed a Competition Products division for race cars and parts. The Garlits Museum says the shop later turned out over 600 race cars (Funny Cars, diggers, Pro Stocks, Altereds, Bonneville cars, even go-karts).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^gar] *Car Craft* named Logghe Funny Car Chassis Builder of the Year 1967–70.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>[^gar]
 
 ## The 1966 flip-top Comets
 
-Then the factory called. Lincoln-Mercury's **Al Turner** (with [Fran Hernandez](../people/fran-hernandez.md) in the factory program) asked for cars that could beat Chrysler's altered-wheelbase match racers. The Logghes delivered a **chromoly tube chassis**, **ladder-bar** rear, **four-corner coil-overs**, and a **one-piece flip-top** fiberglass body, first for Nicholson and Schartman on normally aspirated **427 SOHC** engines, then a blown SOHC car for Chrisman.[^mms][^gar][^hr]
+Then the factory called. Lincoln-Mercury's Al Turner (with [Fran Hernandez](../people/fran-hernandez.md) in the factory program) asked for cars that could beat Chrysler's altered-wheelbase match racers. The Logghes delivered a chromoly tube chassis, ladder-bar rear, four-corner coil-overs, and a one-piece flip-top fiberglass body, first for Nicholson and Schartman on normally aspirated 427 SOHC engines, then a blown SOHC car for Chrisman.[^mms][^gar][^hr]
 
 Ron Logghe told MMSHOF they "literally introduced the coil-over design to the racing industry."<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> [Al Bergler](../people/al-bergler.md) did the aluminum tinwork on Logghe cars.[^mms]
 
-Schartman won NHRA's first Funny Car eliminator at the **1966 World Finals** in Tulsa in a Logghe Comet.[^nhra]
+Schartman won NHRA's first Funny Car eliminator at the 1966 World Finals in Tulsa in a Logghe Comet.[^nhra]
 
 Demand outran the shop. Wikipedia (citing secondary histories) notes other builders (Don Hardy, Ronnie Scrima, Dick Fletcher) joined the chassis trade as Logghe could not fill every order.<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Later
 
-It did not last. Racing chassis work at Logghe Stamping was **discontinued in 1975**.[^mms] The stamping company itself closed in **2013**.[^gar]
+Racing chassis work at Logghe Stamping was discontinued in 1975.[^mms] The stamping company itself closed in 2013.[^gar]
 
-Ron Logghe died **May 27, 2020**; Gene died **August 2021** (MMSHOF).[^mms][^gar]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>
+Ron Logghe died May 27, 2020; Gene died August 2021 (MMSHOF).[^mms][^gar]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>
 
-The honors came later: inducted MMSHOF **2010**; Garlits Museum / IDRHOF class of **2021**; NHRA Hot Rod Reunion honorees **2006**.[^mms][^gar]
+They were NHRA Hot Rod Reunion honorees in 2006. The MMSHOF inducted them in 2010. The Garlits Museum / IDRHOF class was 2021.[^mms][^gar]
+
+Their father forbade them to drive diggers. They kept building, and the Fraser shop built the flip-top Funny Cars.
 
 *See also:* [Eddie Schartman](../people/eddie-schartman.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Malcolm Durham](../people/malcolm-durham.md) (later Logghe Camaro), [Gene Snow](../people/gene-snow.md) (Logghe-chassis Charger *Rambunctious*, 118-in. wheelbase, per *Hot Rod* June 1969).
 

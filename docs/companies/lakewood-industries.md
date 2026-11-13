@@ -1,6 +1,6 @@
 ---
 title: 'Lakewood Industries: The Dragster Driver Who Built a Cage for the Clutch'
-summary: Joe Schubeck raced a dragster out of Lakewood, Ohio, and built a steel bellhousing to hold the shrapnel from an exploding flywheel. It became Lakewood Industries.
+summary: Joe Schubeck raced a dragster out of Lakewood, Ohio, built a steel bellhousing to hold the shrapnel from an exploding flywheel, and had to retire as a driver. That shop is Lakewood Industries.
 department: companies
 era: 1960s
 eras:
@@ -48,7 +48,7 @@ canonical_for: []
 ---
 # Lakewood Industries: The Dragster Driver Who Built a Cage for the Clutch
 
-*A speed shop in a Cleveland suburb, a hydroform press and the bellhousing that keeps the shrapnel in*
+*A Lakewood driver built a steel bellhousing for an exploding flywheel, and had to retire as a driver to do it*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** SEMA Hall of Fame feature and induction page (2013; the inductee's own recollections), Holley brand page and blog (company copy, 2016), retailer brand feature · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ founding date (1959 vs "mid-1960s"); ⚠ the two SEMA pieces differ on names and details; ◐ Jack Harris's "Rush Sales" and the Steiskal partnership rest on one SEMA article; no Cleveland newspaper or period catalog read; no injury or incident data seen · [How we rate this](../reference/source-standards.md)
@@ -58,9 +58,11 @@ canonical_for: []
 
     — Joe Schubeck, on his first race, in SEMA News (Aug 2013).[^sema]
 
+Joe Schubeck built a steel bellhousing to hold the shrapnel from an exploding flywheel, and he had to retire as a driver to do it. The company that came out of that is Lakewood Industries.
+
 The lane beside him held a propeller. Joe Schubeck, a high-school kid, had inherited a half-built dragster from a speed-shop owner in Lakewood, Ohio, got the flathead burning nitro methane, and made his first run at the Akron strip, where the crew lined him up against the Arfons brothers' machine. "All I saw were the blades of his propellers spinning next to my head," he said. He didn't shift into high, lost the race, and left having met the whole Arfons family and having learned two things: that "drag racing was incredibly fun," and that he needed a better engine than a flathead.[^sema]
 
-That is the opening of Lakewood Industries, as SEMA tells it. It begins in a magazine and a strip, with a friend's unfinished dragster. All of it comes from Schubeck's own recollection in a Hall of Fame piece, so we label it as his account.
+All of it comes from Schubeck's own recollection in a Hall of Fame piece.
 
 ## The speed shop, the dragster, the Hemi
 
@@ -72,11 +74,11 @@ By his third year racing, he met **Joe Scarpelli**, "an expert on Chrysler Hemi 
 
 ## The bellhousing
 
-The hardest part of a chassis to make was the aluminum direct-drive bellhousing, which needed a lot of welding. Visiting a fabrication shop in Cleveland he learned of hydroforming, found time on a machine, and made a die. "Just 24 seconds after the operator had hit the button," SEMA says, he was "holding a gorgeous, seamless, aluminum bellhousing."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^sema][^hof]
+The hardest part of a chassis to make was the aluminum direct-drive bellhousing, which needed a lot of welding. Visiting a fabrication shop in Cleveland he learned of hydroforming, found time on a machine, and made a die. "Just 24 seconds after the operator had hit the button," SEMA says, he was "holding a gorgeous, seamless, aluminum bellhousing."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^sema][^hof] The Hall of Fame page says 20 seconds.
 
 Then the danger. The article says that across the country "drag racing was plagued with flywheel and clutch explosions," with chunks of cast iron flying into grandstands and, in the Hall of Fame page's words, "blowing cars in half—sometimes proving fatal for drivers and spectators." His old friend Jack Harris, by then "running 'Rush Sales,'" said that if a bellhousing could contain a clutch, Schubeck would have "a multi-million dollar product." The secret, SEMA says, was ductile quarter-inch steel in place of aluminum, and "in-house testing proved that it held the shrapnel from an exploding flywheel."[^sema][^hof]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-The product had a price. Schubeck had to retire as a driver. "Before long," SEMA says, he and partner **Bill Steiskal** had "two shifts going seven days a week," and "Lakewood Chassis Company had now transitioned into Lakewood Industries."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> "All the manufacturers that I read about through Petersen's magazines, i.e., Iskenderian, Edelbrock, now, I was a player with them," Schubeck said.[^sema] See [Ed Iskenderian](../people/ed-iskenderian.md) and [Edelbrock](edelbrock-slingshot.md).<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+The product had a price. Schubeck had to retire as a driver. "Before long," SEMA says, he and partner **Bill Steiskal** had "two shifts going seven days a week," and "Lakewood Chassis Company had now transitioned into Lakewood Industries."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> "All the manufacturers that I read about through Petersen's magazines, i.e., Iskenderian, Edelbrock, now, I was a player with them," Schubeck said.[^sema] See [Ed Iskenderian](../people/ed-iskenderian.md) and [Edelbrock](edelbrock-slingshot.md).<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> Holley's brand page says Schubeck "formed the company just outside Cleveland in Lakewood, Ohio," and dates "those earliest days" to "the mid-1960s." Holley's 2016 blog says only that it began "in a suburb of Cleveland way back in the 1960s."[^lkw][^blog]
 
 ## The hired driver, and Holley
 
@@ -87,6 +89,8 @@ Holley's brand page says Lakewood is "now part of Holley Performance," and that 
 ## Cleveland and Akron neighbors
 
 Schubeck's first race was a loss at [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), the Arfons brothers' strip, where [Arlen Vanke](../people/arlen-vanke.md) also ran. [The Ohio Gassers](../places/ohio-gassers.md) were the other Cleveland-area racers of the same years, including a Mr. Gasket sales manager, who also came out of Cleveland garages and high schools; [Mr. Gasket](mr-gasket.md) is the Cleveland parts company of the same period, another Ohio garage story. The Hairy Oldsmobile and Miss Golden Shifter belong to [Hurst-Campbell](hurst-campbell.md). [Ed Iskenderian](../people/ed-iskenderian.md) was one of the catalog names Schubeck read about before he joined them, and [Holley](holley.md) owns the Lakewood brand today.
+
+He made his first run at the Akron strip. He built the steel bellhousing for the exploding flywheel, and he had to retire as a driver to do it.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

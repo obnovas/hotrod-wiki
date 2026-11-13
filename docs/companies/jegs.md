@@ -1,6 +1,6 @@
 ---
 title: 'JEGS: A Columbus Racer Who Got Tired of Waiting for the Mail'
-summary: Jeg Coughlin Sr. got tired of waiting for parts to come by mail from far away, so in 1960 he opened JEGS on East Eleventh Avenue in Columbus, Ohio, half garage and half parts store.
+summary: Jeg Coughlin Sr. got tired of waiting for parts by mail from the West Coast, so in 1960 he founded Jeg's Automotive, Inc., at 751 East Eleventh Avenue in Columbus, half garage and half parts store.
 department: companies
 era: 1960s
 eras:
@@ -43,7 +43,7 @@ canonical_for: []
 ---
 # JEGS: A Columbus Racer Who Got Tired of Waiting for the Mail
 
-*Jeg Coughlin Sr., a West Coast parts habit, a shop on 11th Avenue, and a county resolution that put the story on the record*
+*Tired of the mail from the West Coast, he opened a shop on 11th Avenue in 1960 that was half garage, half parts store*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** Delaware County (Ohio) Commissioners resolution (Aug 12, 2010), company history pages (TeamJEGS "JEGS 101," the same text as the JEGS help center's "JEGS Story"), trade feature (Chevy Hardcore, 2015), see also [Midwest & East Threads](../places/midwest-east.md) · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** When Jeg Sr. handed the business to his sons; headcount and warehouse-size figures that vary by year; the paywalled *Columbus Dispatch* anniversary story is unread · [How we rate this](../reference/source-standards.md)
@@ -53,15 +53,17 @@ canonical_for: []
 
     — Ray Stagg, JEGS advertising since 1970, on Jeg Coughlin Sr.'s early racing, quoted in Chevy Hardcore, 2015.[^chc]
 
+Jeg Coughlin Sr. got tired of waiting for parts in the mail from the West Coast. In 1960 he founded Jeg's Automotive, Inc., at 751 East Eleventh Avenue, Columbus, Ohio. The shop was "half garage, half parts store."
+
 ## The problem was the mailbox
 
 In the late 1950s, JEGS' own history says, Jeg Coughlin Sr. "was consumed by the burgeoning hot rod culture," and to go faster he had to order parts from "some faraway place, usually located on the West Coast, and then suffering through an agonizing wait to get them in the mail." Being in the Midwest, "there simply weren't any other options, so Coughlin played the mail-order game and, bit by bit, began dominating everyone at the local drag strip with his newly-acquired parts."[^hc] People noticed, and he realized there was a demand that wasn't being met.
 
-It is a neat origin story and the company tells it that way. What the independent record adds is who he was on the strip. Chevy Hardcore says he "drove a blown Chevy-powered 1955 two-door that won him his first national event in 1959," later raced Top Fuel, Top Alcohol, Funny Car, Pro Stock, Pro Comp and Super Eliminator, and won four NHRA North Central Division championships (Pro Comp in 1976, AA/Fuel Dragster in 1977 to 1979). Stagg, who has handled the advertising since 1970, remembers Jeg "would modify his '55 Chevy and an Austin gasser."[^chc] The Austin gasser is on the wiki already: see [The Ohio Gassers](../places/ohio-gassers.md), whose Columbus row lists "Jeg Coughlin (JEGS; blown Hemi Austin A/GS)" alongside Gil Kirk's Rod Shop team.
+The company tells it that way. On the strip, the independent record says who he was. Chevy Hardcore says he "drove a blown Chevy-powered 1955 two-door that won him his first national event in 1959," later raced Top Fuel, Top Alcohol, Funny Car, Pro Stock, Pro Comp and Super Eliminator, and won four NHRA North Central Division championships (Pro Comp in 1976, AA/Fuel Dragster in 1977 to 1979). Stagg, who has handled the advertising since 1970, remembers Jeg "would modify his '55 Chevy and an Austin gasser."[^chc] The Austin gasser is on the wiki already: see [The Ohio Gassers](../places/ohio-gassers.md), whose Columbus row lists "Jeg Coughlin (JEGS; blown Hemi Austin A/GS)" alongside Gil Kirk's Rod Shop team.
 
 ## 751 East Eleventh Avenue
 
-The best-sourced date in the whole JEGS timeline comes from a local government. On August 12, 2010, the Delaware County Board of Commissioners adopted Resolution 10-1059, "recognizing Jeg's High Performance Automotive Parts for fifty years of business." Its first "Whereas": "in 1960, Jeg Coughlin, Sr., founded Jeg's Automotive, Inc., at **751 East Eleventh Avenue, Columbus, Ohio**." Then it runs through the milestones in order.[^res] In 1989 "the premier issue of Jegs Mail Order Catalog is printed"; in 1996 "Jegs goes on-line with jegs.com"; in 1999 JEGS "opened a state-of-the-art distribution and headquarters at 1 Jegs Place in Delaware, Ohio." In 2003 the Coughlin family established the JEGS Foundation, "Racing for Cancer Research," and in 2004 "Jegs Mail Order ships over one million packages to customers."
+On August 12, 2010, the Delaware County Board of Commissioners adopted Resolution 10-1059, "recognizing Jeg's High Performance Automotive Parts for fifty years of business." Its first "Whereas": "in 1960, Jeg Coughlin, Sr., founded Jeg's Automotive, Inc., at **751 East Eleventh Avenue, Columbus, Ohio**." Then it runs through the milestones in order.[^res] In 1989 "the premier issue of Jegs Mail Order Catalog is printed"; in 1996 "Jegs goes on-line with jegs.com"; in 1999 JEGS "opened a state-of-the-art distribution and headquarters at 1 Jegs Place in Delaware, Ohio." In 2003 the Coughlin family established the JEGS Foundation, "Racing for Cancer Research," and in 2004 "Jegs Mail Order ships over one million packages to customers."
 
 In 2006 "Sameday Shipping for orders placed before 9:00 PM" debuted, and, "in recognition of Jeg's National Hot Rod Association leadership and racing on home turf," during the Spring Nationals in Kirkersville that May, "Delaware Mayor Windell Wheeler proclaimed Jegs Week throughout the city of Delaware." By 2010, "currently, JEGS generates over $200 million in annual revenue."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -78,11 +80,13 @@ Stagg's account of the shop is of a place that was not a catalog at all: "We sta
 
 Jeg Sr.'s own recollection<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>: "I ran the thing for 27 years and then sold it to them," his four sons, John, Troy, Mike and Jeg Jr., who "increased annual sales from about $20 million-a-year to a several hundred million-a-year."[^hc] Twenty-seven years from 1960 puts the handoff in 1987, the same help-center page says the company "thrived for nearly 30 years" before the sale, and JEGS' "About Us" page (via our Midwest page) says the early 1990s. No document we can read gives a closing date.
 
-The story behind the founder's retail instincts comes from Stagg: "Jeg Sr.'s dad was an executive at a large retail store in Columbus, Ohio, that ended up being bought by Macy's. Their philosophy was to provide ultimate customer service."[^chc]
+Stagg: "Jeg Sr.'s dad was an executive at a large retail store in Columbus, Ohio, that ended up being bought by Macy's. Their philosophy was to provide ultimate customer service."[^chc]
 
 ## Columbus and the brands on the shelf
 
-JEGS's story runs into several others here. [Midwest & East Threads](../places/midwest-east.md) has the original JEGS section, including the paywalled *Columbus Dispatch* 50th-anniversary article we have not read. [The Ohio Gassers](../places/ohio-gassers.md) has Coughlin's Austin A/GS and the Columbus teams around him. [Moroso](moroso.md) and [Mickey Thompson](mickey-thompson.md) are two of the brands JEGS built its catalog on, both founder-racer companies too. And [Holley](holley.md) shows the other road a speed-parts name can take, ending up as the parent of other garage-born brands; JEGS's own history says its founder sold to his sons.
+JEGS's story runs into several others here. [Midwest & East Threads](../places/midwest-east.md) has the original JEGS section, including the paywalled *Columbus Dispatch* 50th-anniversary article we have not read. [The Ohio Gassers](../places/ohio-gassers.md) has Coughlin's Austin A/GS and the Columbus teams around him. [Moroso](moroso.md) and [Mickey Thompson](mickey-thompson.md) are two of the brands JEGS built its catalog on, both founder-racer companies too. And [Holley](holley.md) shows the other road a speed-parts name can take, ending up as the parent of other garage-born brands. JEGS's own history says its founder sold to his sons.
+
+The parts had come in the mail from the West Coast. The shop he opened at 751 East Eleventh Avenue was half garage, half parts store, and the 11th Avenue shop is still serving customers.
 
 *See also:* [The Web of Influence](web-of-influence.md); [Honest Charley Speed Shop](honest-charley-speed-shop.md), a Chattanooga mail-order shop that started in 1948.
 
