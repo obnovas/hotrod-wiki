@@ -1,6 +1,6 @@
 ---
 title: 'Peggy Hart: The Racer Who Beat the Winners'
-summary: Peggy Hart co-founded the Santa Ana drags with her husband C.J. and raced there, often challenging the winners at the end of the day.
+summary: Peggy Hart co-founded the Santa Ana drags with her husband C.J. and raced there. She often challenged the winners at the end of the day and beat them.
 department: people
 era: 1950s
 eras:
@@ -51,7 +51,7 @@ canonical_for: []
 ---
 # Peggy Hart: The Racer Who Beat the Winners
 
-*1914–1980, Santa Ana's racer-promoter*
+*She co-founded the Santa Ana drags with C.J. and often challenged the winners at the end of the day*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** obituaries, hall-of-fame biography, period magazine interview with C.J. Hart (*Hot Rod*, Jan 1980), book review of a clippings pamphlet · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** none of Peggy's own 1950s words found yet (the California Digital Newspaper Collection was blocked to our fetcher); her cars and the timeline of her classes come from one hall-of-fame bio; ⚠ opening date (June 19 vs July 2, 1950) · [How we rate this](../reference/source-standards.md)
@@ -61,15 +61,13 @@ canonical_for: []
 
     — Steve Gibbs, NHRA, to the Press-Enterprise, 2004 (secondhand). [Full context in Voices](../voices/harts-santa-ana.md)
 
-The Orange County Register called her "the only woman racer and one of the fastest women in the nation," and said she "often challenged the winners at the end, and beat them."[^ocr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
-
-She raced regularly, and won, in a **1933 Willys coupe**.[^nhra][^pe] Steve Gibbs: "Peggy was going as fast as any of them, and beating a lot of guys. She was a trendsetter, a pioneer."[^pe04] Richard Parks: "She was a tenacious race car driver and drove on the drag strip and at the dry lakes."[^parks]
+Peggy Hart co-founded the Santa Ana Drags with her husband C.J. and raced there. The Orange County Register called her "the only woman racer and one of the fastest women in the nation," and said she "often challenged the winners at the end, and beat them."[^ocr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 She was born Mary Margaret "Peggy" Riley, and she married Cloyce J. Hart in 1934.[^ocr] The International Drag Racing Hall of Fame lists her as **1914–1980** (inducted 1998).[^idrhof] She co-founded and co-ran the Santa Ana Drags with C.J. from 1950 ([Santa Ana](../eras/1950s-santa-ana-drags.md)).[^mshf][^lat]
 
-A 2024 LinkedIn post calls her "the first woman dragster driver" (photo dated 1951).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+She raced regularly, and won, in a **1933 Willys coupe**.[^nhra][^pe] Steve Gibbs: "Peggy was going as fast as any of them, and beating a lot of guys. She was a trendsetter, a pioneer."[^pe04] Richard Parks: "She was a tenacious race car driver and drove on the drag strip and at the dry lakes."[^parks]
 
-Her death ended a long partnership. C.J. briefly retired after her death in 1980 and later joined the NHRA Safety Safari. Shortly before he died he said, "I've waited 24 years. I'm going to see Peggy."[^ocr][^pe04]
+A 2024 LinkedIn post calls her "the first woman dragster driver" (photo dated 1951).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> We do not adopt it.
 
 ## Her cars, in order { #her-cars-in-order-round-10 }
 
@@ -89,7 +87,11 @@ The accounts differ on one detail, a supercharger. C.J. says "blown"; the hall o
 
 In the Long & Tuttle clipping pamphlet ***Every Sunday Drag Races: Orange County Airport, Santa Ana***, "three men and one woman are given credit for opening this dragstrip": C.J. Hart, Frank Stillwell, Creighton Hunter and **Peggy Hart**. That is Richard Parks's summary in his 2012 review. Parks adds that "Peggy would take on all comers on the dragstrip and usually beat them handily."[^parksrev]
 
-The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup> Whether the opening date was June 19 or July 2, 1950, is still open. We have not seen the pamphlet.
+
+Her death ended a long partnership. C.J. briefly retired after her death in 1980 and later joined the NHRA Safety Safari. Shortly before he died he said, "I've waited 24 years. I'm going to see Peggy."[^ocr][^pe04]
+
+She co-founded the Santa Ana Drags with C.J., and she raced. She often challenged the winners at the end, and beat them.
 
 *See also:* [Santa Ana Drags](../eras/1950s-santa-ana-drags.md), [Voices: the Harts at Santa Ana](../voices/harts-santa-ana.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Veda Orr](veda-orr.md), [Doris Herbert](doris-herbert.md), and [Roland Leong](roland-leong.md), the car owner whose Top Fuel license C.J. Hart took away. <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 

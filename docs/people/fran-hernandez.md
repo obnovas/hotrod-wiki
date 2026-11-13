@@ -1,6 +1,6 @@
 ---
 title: 'Fran Hernandez: From Goleta Nitro to Lincoln-Mercury Racing'
-summary: Fran Hernandez won a 1949 grudge race at Goleta on nitro and went on to Edelbrock, Stroppe, Autolite and Lincoln-Mercury racing.
+summary: Fran Hernandez, born Feb 8, 1922, won a 1949 grudge at Goleta on nitro in a '32 that looked nearly stock, and later ordered the first Logghe flip-top Comets for Lincoln-Mercury.
 department: people
 era: 1950s
 eras:
@@ -55,7 +55,7 @@ canonical_for: []
 ---
 # Fran Hernandez: From Goleta Nitro to Lincoln-Mercury Racing
 
-*Francisco "Fran" Hernandez, Feb 8, 1922 – Jan 5, 2011*
+*A nitro win at Goleta in a '32 that looked nearly stock, then the first Logghe flip-top Comets*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** Detroit News obituary (via HAMB), Hemmings, Hot Rod, MMSHOF-style bios · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Hemmings 2005 death date (resolved against Detroit News); "coined Funny Car" is family attribution · [How we rate this](../reference/source-standards.md)
@@ -67,6 +67,8 @@ canonical_for: []
 
 ## April 10, 1949: Goleta
 
+Fran Hernandez won a grudge on nitromethane at Goleta, in a '32 that looked nearly stock. He later ran Lincoln-Mercury, and that program ordered the first Logghe flip-top Comets. Family and obituary circles credit him with helping coin "Funny Car."
+
 The Santa Barbara Acceleration Association's first Sunday races at the **Goleta** airstrip access road hosted a grudge between Fran Hernandez and street/lakes racer **Tom Cobbs**. Per Robert C. Post (*High Performance*, via Hemmings): Cobbs ran a blown flathead roadster; Hernandez a trailered fenderless **'32 three-window** with a **296-ci Mercury** flathead that looked nearly stock. He won on **nitromethane**, a fuel he and Edelbrock had studied in tether cars.[^hem][^hr]
 
 Hot Rod and family obituaries call this among the first sanctioned drag races and credit Hernandez with early four-cycle nitro use. Treat "first" claims as contested historiography; the date and win are well attested across secondary sources.[^hr][^dn]
@@ -77,7 +79,7 @@ The man who won that grudge race went a long way from Goleta. Hernandez (born in
 
 ## Lakes, Navy, Edelbrock
 
-The family and the Detroit News fill in the early years: born in Chihuahua, the family's move to California, lakes racing as a teen, and WWII service as a Navy first-class machinist's mate on **USS Cabot (CVL-28)** in the Pacific.[^dn]
+The family and the Detroit News fill in the early years: Francisco "Fran" Hernandez, born Feb 8, 1922, in Chihuahua, the family's move to California, lakes racing as a teen, and WWII service as a Navy first-class machinist's mate on **USS Cabot (CVL-28)** in the Pacific.[^dn]
 
 After discharge he partnered with **Fred C. Offenhauser** in Offenhauser Sales, then sold his share and joined **Vic Edelbrock** around the late-1948 move to West Jefferson Blvd. Classmate **Bobby Meeks** is credited with bringing him in; Tom Madigan's Edelbrock book (via Hemmings) places him with Meeks and Don Towle in Vic's inner circle.[^hem]
 
@@ -98,6 +100,8 @@ In **1969–70** he managed Ford's Brighton (Kar Kraft) facility for the **Boss 
 Our **working date** for his death is Jan 5, 2011, at age 88, in Tecumseh, Mich. (Detroit News, Jan 20, 2011; family funeral text posted on H.A.M.B. Jan 2011).[^dn]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The News named his survivors: wife Patricia (68 years), sons Randy and Rick, daughter Nancy, brother Luis, seven grandchildren.[^dn]
+
+The Goleta grudge was on nitro, in a '32 that looked nearly stock. Lincoln-Mercury ordered the first Logghe flip-top Comets. Family and obituary circles credit him with helping coin "Funny Car."
 
 *See also:* [Edelbrock's Slingshot](../companies/edelbrock-slingshot.md), [Logghe Stamping](../companies/logghe-stamping.md), [Eddie Schartman](eddie-schartman.md), [Stu Hilborn](stu-hilborn.md).
 

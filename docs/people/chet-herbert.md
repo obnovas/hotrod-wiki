@@ -32,26 +32,28 @@ canonical_for: []
 ---
 # Chet Herbert: Roller Cams from a Sears Lathe
 
-*1928–2009*
+*Polio left him paralyzed from the chest down. The cams came off a Sears lathe, and he raced through hired drivers*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, HOF · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
 
+Polio left Chet Herbert paralyzed from the chest down in 1948. He used the time to design parts, and from then on he raced through hired drivers. The roller cams came off a lathe he bought at Sears.
+
 His parents bought him a trumpet to curb his interest in speed. He traded it for a Cushman scooter.[^h]
 
-Chet Herbert was born in March 1928 in Glenbar, Arizona, and raised in Los Angeles.[^h] In 1948 he got polio. Six months in an iron lung left him paralyzed from the chest down. He used the time to design parts, and from then on he raced through hired drivers.[^h]
+He was born in March 1928 in Glenbar, Arizona, and raised in Los Angeles.[^h] In 1948 he got polio. Six months in an iron lung left him paralyzed from the chest down.[^h]
 
-Results came quickly. In 1950, **The Beast**, a stripped Harley, ran 121, then 129 mph at Santa Ana, beating every bike and four-wheeler there.[^h]
+Results came quickly. In 1950, The Beast, a stripped Harley, ran 121, then 129 mph at Santa Ana, beating every bike and four-wheeler there.[^h]
 
 ## The lathe
 
-The Harley pointed the way. Harley engines had used roller lifters since 1929, but no SoCal grinder knew how to grind a roller cam, so Herbert bought a lathe at Sears and converted it. The Chevy six he built reached **275 hp**, more than the Offys it raced. That started Chet Herbert Cams.[^h]
+The Harley pointed the way. Harley engines had used roller lifters since 1929, but no SoCal grinder knew how to grind a roller cam, so Herbert bought a lathe at Sears and converted it. The Chevy six he built reached 275 hp, more than the Offys it raced. That started Chet Herbert Cams.[^h]
 
-Then came bigger machines. **Beast III** was a fiberglass Bonneville streamliner designed with Caltech wind-tunnel consultant Rod Schapel. **Art Chrisman** drove it to 235.991 mph in 1952. See [Beast III](../cars/beast-iii.md).[^kr] On the drag strip, Herbert pioneered twin inline V8 dragsters (1962) and is credited with the "zoomie" header.[^h]
+Then came bigger machines. Beast III was a fiberglass Bonneville streamliner designed with Caltech wind-tunnel consultant Rod Schapel. Art Chrisman drove it to 235.991 mph in 1952. See [Beast III](../cars/beast-iii.md).[^kr] On the drag strip, Herbert pioneered twin inline V8 dragsters (1962) and is credited with the "zoomie" header.[^h]
 
 ## His sister's newspaper
 
-In 1959 he funded his sister **Doris Herbert's** purchase of *Drag News*, which she built into "the drag racer's bible." Both were inducted into the International Drag Racing Hall of Fame in 1993.[^h] He died in April 2009 at 81.[^h]
+In 1959 he funded his sister Doris Herbert's purchase of *Drag News*, which she built into "the drag racer's bible." Both were inducted into the International Drag Racing Hall of Fame in 1993.[^h] He died in April 2009 at 81.[^h] The lathe was from Sears. The drivers were hired. The polio of 1948 had left him paralyzed from the chest down.
 
 ## Images
 

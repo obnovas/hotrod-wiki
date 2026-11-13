@@ -1,6 +1,6 @@
 ---
 title: 'Julian Doty: Seventy Years on the Lakes'
-summary: Julian Doty first went to Muroc in 1934 with his uncle George DuVall and spent seventy years on the lakes, from a head on layaway to the DuVall windshield patterns.
+summary: Julian Doty went to Muroc in 1934 with his uncle George DuVall and stayed on the lakes for seventy years, from a $5-a-week head to the autograph on the SCTA timing slips.
 department: people
 era: 1940s
 eras:
@@ -48,12 +48,12 @@ principal_source:
 ---
 # Julian Doty: Seventy Years on the Lakes
 
-*1922–2012*
+*A 1934 trip to Muroc with his uncle, a head on layaway, and seventy years later his autograph on the timing slip*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (AHRF), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
 
-In 1934 Julian Doty made his first trip to Muroc with his uncle George, in George's Cragar-powered '29 Model A roadster.[^ahrf] He was born **December 10, 1922**, and died **May 2, 2012**. His mother Evelyn was George DuVall's sister.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+In 1934 Julian Doty made his first trip to Muroc with his uncle George, in George's Cragar-powered '29 Model A roadster, and he spent seventy years on the lakes.[^ahrf] He paid for a head on layaway. From 1972 he signed the official timing slips. He was born **December 10, 1922**, and died **May 2, 2012**. His mother Evelyn was George DuVall's sister.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether he was present when the SCTA was founded is still open.
 
 ## A head on layaway
 
@@ -63,19 +63,21 @@ The war took him to Germany, but not away from the lakes. In 1945, he wrote to *
 
 ## The garage and the stolen lights
 
-After the war he was back on the lakebed, this time running it. As SCTA starters in 1947–48, Doty and Sidewinders president Kong Jackson "stole some traffic signals, set them up and voila! more efficient starting."[^ahrf]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+After the war he was back on the lakebed, this time running it. As SCTA starters in 1947–48, Doty and Sidewinders president Kong Jackson "stole some traffic signals, set them up and voila! more efficient starting."[^ahrf]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> That story comes only from the AHRF profile.
 
 He also went east. In 1948 he crewed at Indy, helping Ed Winfield and Jean Marcenac with the Novis. On the way home, Ford men stopped them at a Detroit diner and showed them the unreleased flathead six on the dyno.[^ahrf]
 
 At home there was the shop. The **B&S garage** (Baldwin & Sommerfeld), behind a Seaside station at Santa Monica & Spalding, built the Danny Sakai modified. It moved to Genesee Street in 1946 and ran until 1976.[^ahrf]
 
-Family work came too. In the late 1940s he did machine work at **Pacific Metal Products** (his uncle's employer) on intakes for Eddie Meyer, Tattersfield and Edmonds, plus the brightwork on the Muntz Jet.[^ahrf]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+Family work came too. In the late 1940s he did machine work at **Pacific Metal Products** (his uncle's employer) on intakes for Eddie Meyer, Tattersfield and Edmonds, plus the brightwork on the Muntz Jet.[^ahrf]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> When he bought the DuVall windshield, the sources disagree.
 
 ## The lakester and the autograph
 
 The garage also built a lakester. The B&S wing-tank lakester won the SCTA points championship in 1956 and 1958. Its Tempest four used a DOHC head sketched on napkins by **Leo Goossen** and Arnold Birner at Edwards Steak House. Only five were cast. It set the F/L record of 165.13 mph in 1961.[^ahrf]
 
 His signature mattered too. From 1972 he made and signed official SCTA timing slips. Mike Cook: "if your time slip doesn't have Julian's autograph on it, it's not worth anything."[^ahrf]
+
+The first trip was 1934, in his uncle's '29 roadster. Seventy years on, the timing slip still had his autograph.
 
 ## Open questions & disputed details
 

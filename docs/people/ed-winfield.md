@@ -1,6 +1,6 @@
 ---
 title: 'Ed Winfield: Three-Quarters of the Way to Full Race'
-summary: Ed Winfield left school after the eighth grade and joined Harry A. Miller's shop at 14. He went on to cams, carburetors, patents and a long run of Indy 500 winners.
+summary: Ed Winfield left school after the eighth grade, joined Harry A. Miller's shop at 14, and put a cam master three-quarters of the way to full race.
 department: people
 era: 1920s
 eras:
@@ -32,7 +32,7 @@ canonical_for: []
 ---
 # Ed Winfield: Three-Quarters of the Way to Full Race
 
-*1901–1982*
+*School ended at the eighth grade. At 14 he was in Miller's shop. A cam master was three-quarters of the way to full race.*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** HOF, secondary, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Indy years conflict open · [How we rate this](../reference/source-standards.md)
@@ -42,9 +42,9 @@ canonical_for: []
 <figcaption markdown>US1893920, "Carburetor," sheet 1. Inventor: Edward A. Winfield, filed 1930-01-03, issued 1933-01-10. Source: [Google Patents](https://patents.google.com/patent/US1893920A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
 </figure>
 
-Ed Winfield's formal schooling ended at the eighth grade.[^mshf] At 14 he joined Harry A. Miller's shop, starting in the carburetor department at 60¢ an hour per the Motorsports Hall of Fame (Hemmings says sweeping floors). He learned alongside draftsman Leo Goossen and machinist Fred Offenhauser.[^mshf][^hem1]
+Ed Winfield's formal schooling ended at the eighth grade, and at 14 he was in Harry A. Miller's shop.[^mshf] The cam talk hot rodders still use, "three-quarter race," came from a third master he put between the other two. "It was three-quarters of the way to a full..."
 
-Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1] Whether that year was 1901 or 1910 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> At 14 he joined Harry A. Miller's shop, starting in the carburetor department at 60¢ an hour per the Motorsports Hall of Fame. Hemmings says sweeping floors. He learned alongside draftsman Leo Goossen and machinist Fred Offenhauser.[^mshf][^hem1]
 
 ## A motorcycle that could climb anything
 
@@ -60,9 +60,11 @@ Pete Crane relayed Winfield's own account of how a term hot rodders still use go
 
 Cams led to carburetors. The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1]
+Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1] How long that Indy winning streak was, the sources disagree.
 
 He died in 1982.[^hem2] Hemmings names him the model for Ed Iskenderian and Ed Donovan,[^hem2] and Hagerty's 2026 Isky obituary says Winfield mentored him into cam grinding. (See [Iskenderian](ed-iskenderian.md).)
+
+School ended at the eighth grade. The carburetor department was 60¢ an hour. The third master was three-quarters of the way to a full race.
 
 *See also:* [George Riley and the Heads That Cracked](george-riley.md).
 

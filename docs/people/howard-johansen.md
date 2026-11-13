@@ -1,6 +1,6 @@
 ---
 title: 'Howard Johansen: Lead on the Pistons, Twin Bears on the Strip'
-summary: Howard Johansen founded Howards Power & Racing Equipment, ran a twin-tank streamliner at the first SCTA Bonneville meet and raced Twin Bears on the strip.
+summary: "Howard Johansen started by adding lead to the pistons of his father's Model T, founded Howards cams with his wife in 1945, and raced a twin-tank streamliner and the Twin Bears."
 department: people
 era: 1940s
 eras:
@@ -46,7 +46,7 @@ canonical_for: []
 ---
 # Howard Johansen: Lead on the Pistons, Twin Bears on the Strip
 
-*Howard's Cams, c. 1910–1988*
+*Lead on his father's Model T pistons, Howards cams from 1945, a twin-tank streamliner, and the Twin Bears*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** obituary (Hot Rod 1989), company history, period magazine (via archive story) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Twin Bears win and exact dates unverified · [How we rate this](../reference/source-standards.md)
@@ -56,7 +56,7 @@ canonical_for: []
 <figcaption markdown>The Bonneville Salt Flats, Utah, in 2012. It is a modern landscape, not an SCTA meet. Photo: BLM Utah, 2012-05-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bonneville_Salt_Flats_(28237020403).jpg). License: Public domain.</figcaption>
 </figure>
 
-Howard Johansen's first hop-up was raising the compression on his father's Model T "by adding lead to the top of the pistons. 'It worked... but the lead sure painted the inside of that T's tailpipe.'"[^hr89]
+Howard Johansen's first hop-up was raising the compression on his father's Model T "by adding lead to the top of the pistons. 'It worked... but the lead sure painted the inside of that T's tailpipe.'"[^hr89] The company's own history says he and his wife founded Howards Power & Racing Equipment in 1945. He brought a twin-tank streamliner to the SCTA's first Bonneville meet and raced the Twin-Bear.
 
 ## From a Nebraska Model T to Los Angeles
 
@@ -64,7 +64,7 @@ That Model T was in Nebraska. He moved to Los Angeles in 1941, and after the war
 
 ## The business
 
-The cams came next. The company's own history says he and his wife founded **Howards Power & Racing Equipment** in 1945 to make racing cams. They retired in 1965 and handed it to their oldest son Jerry, who ran it until 1985. Jerry and Don Madden ran the "Howards Cams Rattler" and "Howards Cams Special" Top Fuel cars "as test beds for new products." The company is now Howards Cams & Racing Components in Oshkosh, Wisconsin; it moved there in 1998.[^co]
+The cams came next. The company's own history says he and his wife founded Howards Power & Racing Equipment in 1945 to make racing cams. They retired in 1965 and handed it to their oldest son Jerry, who ran it until 1985. Jerry and Don Madden ran the "Howards Cams Rattler" and "Howards Cams Special" Top Fuel cars "as test beds for new products." The company is now Howards Cams & Racing Components in Oshkosh, Wisconsin; it moved there in 1998.[^co]
 
 Johansen did more than grind cams. He also built injectors, aluminum heads, forged aluminum rods and flywheels (Hot Rod, 1989).[^hr89]
 
@@ -72,15 +72,17 @@ The products won races. The Inliners International "12 Port Story" says that by 
 
 ## The lakes and the salt
 
-He raced, too. He brought a **twin-tank streamliner** (engine in one tank, driver in the other) to the SCTA's first Bonneville meet in 1949. Hot Rod (Oct 1949) reported 147.54 mph on its first run, but "the car, which was rigidly sprung, failed to handle correctly on later runs and was withdrawn."[^tt] He raced it until 1953 and built a second twin-tank car in 1954.[^tt]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+He raced, too. He brought a twin-tank streamliner (engine in one tank, driver in the other) to the SCTA's first Bonneville meet in 1949. Hot Rod (Oct 1949) reported 147.54 mph on its first run, but "the car, which was rigidly sprung, failed to handle correctly on later runs and was withdrawn."[^tt] He raced it until 1953 and built a second twin-tank car in 1954.[^tt]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 Hot Rod's obituary also lists a chopped '36 five-window streamliner with a Marmon V16 and an early '55 Chevy that took on the Oldsmobiles of Gene Adams and others.[^hr89]
 
 ## The Twin Bears
 
-His best-known car was a drag racer. The obituary calls the **Twin-Bear** dragster, driven by Jack Chrisman, his "crowning achievement." It ran two blown small-blocks side by side with their flywheel ring gears meshed, one engine running backward, so a single driveshaft could be used. It "won Top Eliminator at the first NHRA Winternationals."[^hr89]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+His best-known car was a drag racer. The obituary calls the Twin-Bear dragster, driven by Jack Chrisman, his "crowning achievement." It ran two blown small-blocks side by side with their flywheel ring gears meshed, one engine running backward, so a single driveshaft could be used. It "won Top Eliminator at the first NHRA Winternationals."[^hr89]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 His dates are still loose. Hot Rod's "Finish Line" (Jan 1989) says he died aged 78.[^hr89] Earlier rounds cited IDRHOF's "1910–1988." The two are consistent but we have no exact dates yet. For his role in the Gasser Wars and the Doug Cook ad, see [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).
+
+Lead on the pistons of his father's Model T. Then the cams, the twin-tank streamliner, and the Twin-Bear.
 
 ## Open questions & disputed details
 

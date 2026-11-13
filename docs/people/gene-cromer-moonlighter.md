@@ -1,6 +1,6 @@
 ---
 title: 'Named for the Nights in the Shop: Gene Cromer''s Moonlighter and the Upstate Gassers (1960–2021)'
-summary: 'Anderson, S.C., racer Gene Cromer built all his own cars, including the Ford-powered Willys his wife named the Moonlighter for his nights in the shop; it won A/Gas at Donaldson Air Force Base in 1965. He stored it for decades, raced it again in his eighties and died in 2021.'
+summary: "Gene Cromer built all his own cars, and his wife named the Ford-powered Willys the Moonlighter for the nights in the shop. It won A/Gas at Donaldson in 1965, was stored for 45 years, and he raced it again at 84."
 department: people
 era: 1960s
 eras:
@@ -71,7 +71,7 @@ canonical_for: []
 ---
 # Named for the Nights in the Shop: Gene Cromer's Moonlighter and the Upstate Gassers (1960–2021)
 
-*A Willys finished too late to be lettered, a meet at an Air Force base, a friend who kept the scrapbook, and a gasser that went back to the strip after 45 years in a shed*
+*He built all his own cars, and his wife named the Willys the Moonlighter for the nights in the shop. It won A/Gas in 1965, was stored 45 years, and he raced it again at 84.*
 
 !!! abstract "Article record"
     **Confidence:** Medium (Cromer's racing is told by a Georgia drag racing historian who interviewed him and by *Hot Rod* when the car came back; the Donaldson race rests on a friend's scrapbook, a reprinted ad and two spectators' memories; the car's year is disputed) · **Source types:** <span class="hr-badge">Grassroots</span> Marvin T. Smith's profile on *GeorgiaDragRacing.com*; racers' and friends' memories on *Drag Strip List*; a *RacersReunion* photo caption; *Hot Rod* (2016); *Competition Plus* (2021) · **Last verified:** 2026-11-12 (Round 39 citation review) · **Open issues:** ⚠ a 1940 or 1941 Willys; ⚠ May 15–16 or 18; ? Donaldson's only race · [How we rate this](../reference/source-standards.md)
@@ -83,7 +83,9 @@ canonical_for: []
 
 ## A Ford man's Willys
 
-Gene Cromer came to drag racing from motorcycles, about 1960, with a Lincoln 368-powered rail. Next came a '55 Chevy like everybody else's, except that his had a Ford engine, and he remembered that it "broke a lot."[^gdr] In 1965 he built a Ford-powered Willys coupe, a 1941 in *Hot Rod*'s account and a 1940 in Frank Taylor's scrapbook captions.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^hr16][^dslsc] In Marvin T. Smith's words, he "terrorized A/G class." Smith, a Valdosta State sociologist who wrote up Georgia's racers, noted that Cromer "built all his own cars."[^gdr]
+Gene Cromer built all his own cars. The Ford-powered Willys was the one his wife named the Moonlighter, for the nights in the shop. It won A/Gas at Donaldson in 1965, with no lettering on it yet. He stored it in a shed, and at 84 he was back behind the wheel.
+
+Gene Cromer came to drag racing from motorcycles, about 1960, with a Lincoln 368-powered rail. Next came a '55 Chevy like everybody else's, except that his had a Ford engine, and he remembered that it "broke a lot."[^gdr] In 1965 he built a Ford-powered Willys coupe, a 1941 in *Hot Rod*'s account and a 1940 in Frank Taylor's scrapbook captions.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^hr16][^dslsc] In Marvin T. Smith's words, he "terrorized A/G class." Smith, a Valdosta State sociologist who wrote up Georgia's racers, noted that Cromer "built all his own cars."[^gdr] Whether it was a 1940 or a 1941 is still open.
 
 The name came from home. Melvin Craft started hanging around Gene's Speed Shop in the evenings and on weekends in 1964, when the Willys was being built, and became Cromer's right-hand man between rounds from 1965 to 1967. "All those nights in the shop explains why Gene's wife named the car 'The Moonlighter,'" *Hot Rod* wrote in 2016.[^hr16]
 
@@ -101,9 +103,11 @@ In Georgia, Cromer match-raced the Willys gassers of Bunky Bobo, Fred Hurst, Lam
 
 ## Forty-five years in a shed
 
-Cromer kept the Willys. In 2012 he was grand marshal at the first Southeast Gassers race in Greer, and the next year he was back behind the wheel of the restored car, which had been stored in a shed in his backyard.[^cp21] Quain Stott, who first saw the Moonlighter around 1967 and went on to race Pro Mod, rebuilt the chassis to hide a modern cage; Craft and Cromer found the original parts and built the engine. The same Hilborn injection was still on it. By 2016 Cromer was touring eight to ten races a year with his wife Ruth, his daughters Julie and Robin and their families, and at 84 he had run a 6.10 in the eighth mile.[^hr16]
+Cromer kept the Willys. In 2012 he was grand marshal at the first Southeast Gassers race in Greer, and the next year he was back behind the wheel of the restored car, which had been stored in a shed in his backyard.[^cp21] Quain Stott, who first saw the Moonlighter around 1967 and went on to race Pro Mod, rebuilt the chassis to hide a modern cage; Craft and Cromer found the original parts and built the engine. The same Hilborn injection was still on it. By 2016 Cromer was touring eight to ten races a year with his wife Ruth, his daughters Julie and Robin and their families, and at 84 he had run a 6.10 in the eighth mile, back after 45 years.[^hr16]
 
 He was hurt in an accident away from the track on June 18, 2021, and died on July 14.[^cp21] On the *Drag Strip List*, Renee Whysong, who went from Ware Shoals' powder puff class to a dragster in the 1990s, summed up what the upstate strips had been: "We racers were like family, always ready to help each other."[^dslsc]
+
+The Willys his wife named for the nights in the shop won A/Gas in 1965. He stored it in a shed. At 84 he was back behind the wheel.
 
 *See also:* [Blaney Drag Strip](../drag-racing/blaney-drag-strip-elgin-south-carolina.md), the Midlands' NHRA strip; [Chester Drag Strip](../drag-racing/chester-drag-strip-south-carolina.md), with the Gambrells' Ware Shoals strip; [Paradise Drag Strip](../drag-racing/paradise-drag-strip-calhoun.md), the story of Calhoun's strip; [Ohio's gassers](../places/ohio-gassers.md), the same war farther north.
 

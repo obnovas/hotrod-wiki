@@ -1,6 +1,6 @@
 ---
 title: 'Dick Wells (1934–2010): The Man Who Was the "First Active" President'
-summary: Dick Wells (1934–2010) went from Lincoln, Nebraska, to National Dragster, Hot Rod, SEMA and the NSRA. Whether he was its first president is still debated.
+summary: Dick Wells (1934–2010) went from Lincoln, Nebraska, to National Dragster, Hot Rod, SEMA and the NSRA. Whether he was its first president is still open.
 department: people
 era: 1960s
 eras:
@@ -59,6 +59,8 @@ canonical_for:
 ---
 # Dick Wells (1934–2010): The Man Who Was the "First Active" President
 
+*From Lincoln to National Dragster, Hot Rod, SEMA and the NSRA, where whether he was the first president is still open*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** Nebraska Auto Racing Hall of Fame (2009 induction page), Wells's own 2007 autobiographical sketch (as republished after his death), NHRA staff columns by *National Dragster* editor Phil Burgess, Gray Baskerville's *Rod & Custom* recollection, a *Street Rod* magazine-history page, Wikipedia, and <span class="hr-badge">Grassroots</span> hometown daily (*The Lincoln Star*, 1958 and 1971) · **Last verified:** 2026-10-22 (Round 22-West) · **Open issues:** ⚠ who was NSRA's first president (Wells, "first active" vs Bruce Miller, per one source); the funny teenage stories are Wells's own, told late in life ◐; the Wikipedia details on SEMA and state representatives rest on sources we have not read ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -67,11 +69,13 @@ canonical_for:
 
     — **Dick Wells**, as he tells it (in the third person) in his March 2007 biographical sketch, answering a friend who asked for a ride home from school with his tuba. Republished on the Hot Rod Hall of Fame site.[^hof]
 
+Dick Wells went from Lincoln, Nebraska, to *National Dragster*, *Hot Rod*, SEMA and the NSRA. Whether he was its first president is still open. His own sketch and his obituary call him the first "active" president.[^hof]
+
 Dick Wells's first paint job ended with a ruined vacuum cleaner.
 
 He was sixteen in Lincoln, Nebraska, and his friend Dale had decided to paint his '36 Chevy. Dale's parents had gone shopping. Dale got out his mother's brand-new vacuum cleaner with a spray-paint attachment, and the two boys painted the car bright blue outdoors on a brisk autumn day. They knew nothing about painting or masking. The Chevy came out with blue wheels and tires, small openings in the windows, and a finish "akin to thick sandpaper, filled with the remnants of twigs and leaves." The vacuum "sucked up dry leaves and twigs and destroyed his mother's new prized vacuum." Wells's tactful comment on the blue tires: "The blue tires don't look all THAT bad, do they?"[^hof]
 
-He decided not to repaint his own. Decades later he would help invent some of the institutions of American hot rodding.
+He decided not to repaint his own.
 
 ## From Lincoln to Hollywood
 
@@ -81,7 +85,7 @@ It starts with the cars. At 16 his father gave him the family's 1936 Chevy two-d
 
 "Eventually Dick got the hot rod bug." His was a black 1948 Ford two-door, lowered, with dual exhaust, box-style fender skirts and "the 'cat's meow' of the day: twin Appleton spotlights."[^hof]
 
-Work brought him into the parts trade. He started as a stockroom clerk at **Hank's Auto Store** in Lincoln, then salesman, then manager. It sold parts and speed equipment. Later he was assistant manager at Speedway Motors.[^hof] The Nebraska Auto Racing Hall of Fame adds a local detail: the store "became a gathering place of hot rod enthusiasts who eventually persuaded Wells to organize a club for Lincoln's hot rodders." The **Rebels** car club, "which is still in existence today," was established in **1955**.[^narhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> By the fall of 1958 *The Lincoln Star* was calling him "Richard Wells, Lincoln Timing Association president," and he was making the city clubs' case to the safety council for a sanctioned strip (see ["Go Out to Scribner"](../drag-racing/nebraska-go-out-to-scribner.md)).[^ls581031]
+Work brought him into the parts trade. He started as a stockroom clerk at Hank's Auto Store in Lincoln, then salesman, then manager. It sold parts and speed equipment. Later he was assistant manager at Speedway Motors.[^hof] The Nebraska Auto Racing Hall of Fame adds a local detail: the store "became a gathering place of hot rod enthusiasts who eventually persuaded Wells to organize a club for Lincoln's hot rodders." The Rebels car club, "which is still in existence today," was established in 1955.[^narhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> By the fall of 1958 *The Lincoln Star* was calling him "Richard Wells, Lincoln Timing Association president," and he was making the city clubs' case to the safety council for a sanctioned strip (see ["Go Out to Scribner"](../drag-racing/nebraska-go-out-to-scribner.md)).[^ls581031]
 
 ## National Dragster, number one
 
@@ -99,7 +103,7 @@ In an email Burgess quotes, Wells recalled that when he was *Hot Rod*'s feature 
 
 ## The street rod years, and the president question
 
-Wells helped bring the Street Rod Nationals and the National Street Rod Association to life. His own 2007 sketch and his obituary call him the NSRA's first "active" president;[^hof] Wikipedia makes him "the first president and CEO," with the association's headquarters in the offices of *Rod Action*, where he was Ray Brock's partner.[^wiki]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The only contemporary source, a *Lincoln Star* brief of December 5, 1971, reported that a "former Lincolnite" named Wells had been "named president" of the NSRA and had "helped organize and produced the 1971 Street Rod Nationals in Memphis." The brief gives no first name; reading it as Dick Wells is our inference from the Lincoln tie and the Nationals.[^ls711205] and one history gives the first presidency to Portland publisher Bruce Miller instead.[^w99]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+Wells helped bring the Street Rod Nationals and the National Street Rod Association to life. His own 2007 sketch and his obituary call him the NSRA's first "active" president.[^hof] Wikipedia makes him "the first president and CEO," with the association's headquarters in the offices of *Rod Action*, where he was Ray Brock's partner.[^wiki]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The only contemporary source, a *Lincoln Star* brief of December 5, 1971, reported that a "former Lincolnite" named Wells had been "named president" of the NSRA and had "helped organize and produced the 1971 Street Rod Nationals in Memphis." The brief gives no first name. Reading it as Dick Wells is our inference from the Lincoln tie and the Nationals.[^ls711205] One history gives the first presidency to Portland publisher Bruce Miller instead.[^w99]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Wikipedia also says that by 1973 Wells had set up thirty volunteer state representatives, that SEMA adopted the system in 1975, and that SEMA then hired him away.[^wiki]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> The hall's page agrees that he later rejoined SEMA and that he moved its show from California to Las Vegas.[^narhof]
 
@@ -107,7 +111,7 @@ Wikipedia also says that by 1973 Wells had set up thirty volunteer state represe
 
 The honors followed his SEMA years. SEMA's executive director in the 1970s, he was SEMA Person of the Year in 1977 and entered the SEMA Hall of Fame in 1993. He received the ISCA Founder's Award in 1994, an industry award from the Street Rod Marketing Alliance in 1996, and the NHRA Pioneer Award in 2001. He sat on the NHRA board from 1979, and was inducted into the Nebraska Auto Racing Hall of Fame in 2009.[^hof][^narhof]
 
-He died on January 18, 2010, "10 days short of his 76th birthday," after complications from heart surgery.[^hof][^nd10] Phil Burgess opened his tribute with a question: "How do you say goodbye to the guy who invented your job?"[^nd10]
+He died on January 18, 2010, "10 days short of his 76th birthday," after complications from heart surgery.[^hof][^nd10] Phil Burgess opened his tribute with a question: "How do you say goodbye to the guy who invented your job?"[^nd10] He had gone from the Lincoln paint job to *National Dragster*, *Hot Rod*, SEMA and the NSRA. Whether he was the first president is still open.
 
 ## Open questions & disputed details
 

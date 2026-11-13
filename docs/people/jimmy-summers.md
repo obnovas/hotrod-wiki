@@ -1,6 +1,6 @@
 ---
 title: 'Jimmy Summers: The Customizer Across from Fairfax High'
-summary: Jimmy Summers and his brother started as street-corner fender men and opened a custom shop on Melrose Avenue across from Fairfax High.
+summary: "Jimmy Summers and his brother Bill started as street-corner fender men with tools in a bag, then opened a shop at 7919 Melrose Avenue, across from Fairfax High."
 department: people
 era: 1940s
 eras:
@@ -48,28 +48,30 @@ canonical_for: []
 ---
 # Jimmy Summers: The Customizer Across from Fairfax High
 
-*1913–1968*
+*Street-corner fender men with tools in a bag, then a custom shop on Melrose across from Fairfax High*
 
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
 
-His son Lee remembered how it began: Jimmy and his brother Bill worked as street-corner fender men. "They had tools in a bag, and they would go from block to block looking for cars that needed a fender repair."[^k]
+His son Lee remembered how it began: Jimmy and his brother Bill worked as street-corner fender men. "They had tools in a bag, and they would go from block to block looking for cars that needed a fender repair."[^k] By the late 1930s the shop was at 7919 Melrose Ave., across from Fairfax High School.
 
-James Merlin Traft Summers was born **September 22, 1913**, in Lewistown, Montana, and died **October 24, 1968**.[^k] Most of what we know comes from Sondre Kvipt's interviews with his children (Lee, Kris, Karen) and family albums, published in *The Rodder's Journal* #83 (2020) and on Kustomrama.[^k] **Nearly everything below comes from that one family-sourced research project.**<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+James Merlin Traft Summers was born September 22, 1913, in Lewistown, Montana, and died October 24, 1968.[^k] Most of what we know comes from Sondre Kvipt's interviews with his children (Lee, Kris, Karen) and family albums, published in *The Rodder's Journal* #83 (2020) and on Kustomrama.[^k] Nearly everything below comes from that one family-sourced research project.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## 7919 Melrose Avenue
 
-By the late 1930s, his shop was at **7919 Melrose Ave.**, across from Fairfax High School.[^k] Alex Xydias, a Fairfax student, recalled "just four plastered walls, a bare concrete floor, and a gas jet" lit on cold mornings,[^k] and in a later interview said he watched the shop guys for hours "until they'd kick me out."[^sm] Tom Sparks (who worked for Roy Hagy c.1942–43) told Pat Ganahl that Summers "was like a god to us."[^k]
+By the late 1930s, his shop was at 7919 Melrose Ave., across from Fairfax High School.[^k] Alex Xydias, a Fairfax student, recalled "just four plastered walls, a bare concrete floor, and a gas jet" lit on cold mornings,[^k] and in a later interview said he watched the shop guys for hours "until they'd kick me out."[^sm] Tom Sparks (who worked for Roy Hagy c.1942–43) told Pat Ganahl that Summers "was like a god to us."[^k]
 
 His customers knew what they wanted. Xydias described the customer mindset: they "did not want Summers to provide them with a hot Ford as much as they wanted him to provide them with a fake Cord."[^k]
 
 ## What came out of the shop
 
-*Motor Life* (May 1955) credited Summers with the **first channeling job**.[^k]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Shop employee **Bob "Barbells" Fairman** built a chopped '36 Ford with full fadeaway fenders, the first Xydias had seen.[^k]
+*Motor Life* (May 1955) credited Summers with the first channeling job.[^k]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Shop employee Bob "Barbells" Fairman built a chopped '36 Ford with full fadeaway fenders, the first Xydias had seen.[^k]
 
-After the war he added a product line. From 1946–47 Summers sold stamped **"Summers Fender Extensions"** for 1942–48 Chevrolets, Pontiacs and junior Buicks; a 1948 Hot Rod ad lists $69.50 per primered set.[^k] *Popular Mechanics* (May 1947) reported about one hand-tailored car per week.[^k]
+After the war he added a product line. From 1946–47 Summers sold stamped "Summers Fender Extensions" for 1942–48 Chevrolets, Pontiacs and junior Buicks; a 1948 Hot Rod ad lists $69.50 per primered set.[^k] *Popular Mechanics* (May 1947) reported about one hand-tailored car per week.[^k]
 
 In 1962 he built the body for Tony Nancy's dragster.[^k] And somewhere in the family albums sits his 1938 Muroc timing tag: 94.73 mph with a stock V8.[^k]
+
+They had tools in a bag and went from block to block. The shop was at 7919 Melrose, across from Fairfax High.
 
 ## Open questions & disputed details
 
