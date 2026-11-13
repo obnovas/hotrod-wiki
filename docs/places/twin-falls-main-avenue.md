@@ -1,6 +1,6 @@
 ---
 title: 'Twin Falls, Idaho: The Main Avenue "Drag Strip" and the Club That Wanted a Real One (1957–1965)'
-summary: In 1957 the Twin Falls paper put Main Avenue's nickname, the "drag strip," in quotation marks. A local club then offered to pay for a real one (1957–1965).
+summary: "In 1957 the Twin Falls paper put Main Avenue's nickname in quotation marks. A club offered to pay for a real one, and in 1960 the city voted the lease."
 department: places
 eras:
 - 1950s
@@ -52,6 +52,8 @@ canonical_for: []
 ---
 # Twin Falls, Idaho: The Main Avenue "Drag Strip" and the Club That Wanted a Real One (1957–1965)
 
+*The paper put the street's nickname in quotation marks, and the club offered to pay for a real strip*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local daily newspaper (*Times-News*, Twin Falls: an editorial, police-court columns, city-commission reports, club notices and a reader's column, 1957–1965, read as scanned page OCR); one item from a southern Illinois daily (*Harrisburg Daily Register*, 1957) · **Last verified:** 2026-10-17 (Round 16) · **Open issues:** the OCR is rough, so we quote only clean passages and some names and figures are uncertain (flagged); we found no report that a strip was ever built on the Joslin Field lease, and the club was still looking for land in 1961, 1962 and 1964 ◐; the Harrisburg tombstone story is one sentence of hearsay in one paper ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -60,7 +62,9 @@ canonical_for: []
 
     — **Editorial**, *Times-News*, Twin Falls, June 30, 1957, under the headline "Our Main Avenue 'Drag Strip.'" (The scan reads "wc" for "we.")[^ed1957]
 
-In the summer of 1957 the Twin Falls *Times-News* stopped calling Main Avenue a street. In its court column it put the street's nickname in quotation marks, the way you'd hold something at arm's length. A Jerome driver was fined for speeding on the Main avenue "drag strip." A Twin Falls man was fined for using the "drag strip" to make a U-turn. A week later another driver paid for 35 miles an hour in a 25 zone on the Main avenue west "drag strip."[^pc1957]
+In the summer of 1957 the Twin Falls *Times-News* put Main Avenue's nickname in quotation marks, the "drag strip." A local club offered to pay for a real one. The city voted the lease. Years later the club was still looking.
+
+The paper stopped calling Main Avenue a street. In its court column a Jerome driver was fined for speeding on the Main avenue "drag strip." A Twin Falls man was fined for using the "drag strip" to make a U-turn. A week later another driver paid for 35 miles an hour in a 25 zone on the Main avenue west "drag strip."[^pc1957]
 
 The paper had a reason. A week earlier a 3-year-old boy had been killed. A coroner's jury held two teenage boys, 15 and 14, responsible; the editorial called it the first death of its kind in the city. It blamed the grown-ups more than the boys: city officials, police and the courts, who it said had shrugged at "making race tracks out of our principal streets."[^ed1957]
 
@@ -91,7 +95,7 @@ The paper checked in on the club in August 1961, ten months after the lease vote
 
 The paper said the club's main goal was still to build a drag strip somewhere in the Magic Valley. Until then, members went to the "drags" at Boise and Pocatello. The feature called the MVTA small, energetic and controversial. Gary Nelson, still president, said that although plenty of people linked the group with "dragging Main," "the club looks down on such activities," and a member cited for a driving violation was penalized by the club.[^feat1961]
 
-That answers part of the question this page left open. Ten months after the Joslin Field vote, the club was still talking about building a strip, not running one. In October 1961 two members took prizes at the season's last drag races, held at **Pocatello**. Nelson won his gas class with a Corvette-powered Ford pickup, and Ed Boss won altered coupe with a Model A coupe and an Oldsmobile engine, then took best overall construction at the Pocatello car show.[^poc1961]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> In September 1962 the members met at Nelson's home and re-elected him, with **Terry Thornton** as vice president and **Calvin Gould** as secretary. They talked about engines, about merchandise members had to sell or trade, and, in a garbled line, about land for a drag strip.[^off1962]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+Ten months after the Joslin Field vote, the club was still talking about building a strip, not running one. In October 1961 two members took prizes at the season's last drag races, held at **Pocatello**. Nelson won his gas class with a Corvette-powered Ford pickup, and Ed Boss won altered coupe with a Model A coupe and an Oldsmobile engine, then took best overall construction at the Pocatello car show.[^poc1961]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> In September 1962 the members met at Nelson's home and re-elected him, with **Terry Thornton** as vice president and **Calvin Gould** as secretary. They talked about engines, about merchandise members had to sell or trade, and, in a garbled line, about land for a drag strip.[^off1962]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 The club did what other clubs in town did. At the March 1963 Red Cross blood drawing, the MVTA gave six pints, tying the power company, the typographical union and Sears Roebuck.[^blood1963] In February 1964, with car clubs from Twin Falls, Buhl and Burley at the meeting, members elected **Merlin Hudson** of Buhl president. Four Buhl Lions came to explain a fundraiser: **Moore's All-American Redheads**, a touring women's basketball team, would play the Faux Cigar store team in the Buhl high school gym on March 15, and the proceeds would be split, half to the Redheads and half to the timing association.[^hudson1964] Tickets were sold at service stations, the Twin Falls Cigar store, and by any MVTA member.[^redheads1964]
 
@@ -111,6 +115,8 @@ Twin Falls wasn't the only town where the paper put a public road in quotation m
 For other towns that argued about a strip in the same years, see [What the City Planners Wrote (1955)](../drag-racing/planners-report-1955.md), [March 1957: America Argues About Drag Strips](../drag-racing/march-1957-drag-strip-survey.md) and [Would You Rather Have a Picnic? (June 1957)](../drag-racing/recreation-1957-pro-and-con.md). For the other cruise streets we have sourced, see the [cruising overview](cruising-overview.md).
 
 **Visual references (external):** the *Times-News* pages themselves, linked in the footnotes, are scans on the Internet Archive.
+
+The paper put Main Avenue in quotation marks. The club offered to pay for a real strip, and the city voted the lease. Years later they were still looking. The nickname traveled.
 
 *See also:* [Portsmouth, Ohio, 1956](../drag-racing/portsmouth-kustom-kouriers.md); [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md), clubs of the same years one state north; [Dragging Main](dragging-main.md); [Firebird Raceway & the Bootleggers](../drag-racing/firebird-raceway-idaho-bootleggers.md), the Treasure Valley strip Bill New opened near Eagle in 1968; [Pocatello's McDougall Field strip](../drag-racing/pocatello-mcdougall-field-drag-strip.md).
 

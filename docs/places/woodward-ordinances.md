@@ -45,6 +45,8 @@ canonical_for: []
 ---
 # Woodward: The City That Banned the Drive-Ins It Didn't Have
 
+*In 1966 Birmingham banned drive-in restaurants it did not have, and the avenue stayed open*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> municipal museum exhibit text (Birmingham Museum, City of Birmingham, Mich.), local newspaper (*The Oakland Press*, 2014 and 2022), enthusiast press (Hagerty 2011), *Detroit News* 2023 (paywalled; search excerpt only) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** we have no ordinance text, number or vote for Royal Oak or Birmingham; the dates and wording of the 1960s ordinances come from a paywalled article we could not read (◐); the 1963 murder the museum describes was never officially solved · [How we rate this](../reference/source-standards.md)
 
@@ -55,7 +57,7 @@ canonical_for: []
 
 Birmingham, Michigan, wrote a law against drive-in restaurants in 1966, and it did not have one to close.
 
-That is the odd center of how Woodward Avenue's cruising strip ended. Everyone remembers the neon and the burnouts. The way it ended is less well known. It was not one dramatic raid. It was a run of local decisions by small cities, each one reacting to a crowd it did not want and a tragedy it could not undo. This page follows those decisions as far as the sources allow. For the scene itself (the Totem Pole, Ted's, the Wigwam) see [Woodward Avenue](woodward.md).
+Woodward Avenue's cruising did not end in one raid. It was a run of local decisions by small cities. For the scene itself (the Totem Pole, Ted's, the Wigwam) see [Woodward Avenue](woodward.md).
 
 ## The setting, in the city's words
 
@@ -63,17 +65,17 @@ The Birmingham Museum's exhibit page describes "Woodwarding" as "driving up and 
 
 ## A runaway, and a crackdown
 
-The museum's account of how the mood turned is brief and careful. In the summer of 1963 a 14-year-old, **Connie Crossland**, ran away from a juvenile facility and for several weeks was "among the crowds of teenagers along Woodward, catching rides and eating at drive-ins." The museum says she was last seen with two men in a white 1961 Bonneville on July 18, 1963, that her body was found the next morning in Lake Orion, "and her murder has never been officially solved."[^bham]
+In the summer of 1963 a 14-year-old, **Connie Crossland**, ran away from a juvenile facility and for several weeks was "among the crowds of teenagers along Woodward, catching rides and eating at drive-ins." The museum says she was last seen with two men in a white 1961 Bonneville on July 18, 1963, that her body was found the next morning in Lake Orion, "and her murder has never been officially solved."[^bham]
 
-The museum writes that her death "brought new scrutiny to the activities of cruisers along Woodward." Then comes the line that gives this page its title: Birmingham had no drive-ins when she died, but in 1966 "the city passed an ordinance banning them."[^bham]
+The museum writes that her death "brought new scrutiny to the activities of cruisers along Woodward." Birmingham had no drive-ins when she died, but in 1966 "the city passed an ordinance banning them."[^bham]
 
-A *Detroit News* feature from 2023, which we could read only as a search-result excerpt because the site is paywalled, says the reaction went further. It says the **Royal Oak** city commission passed a tougher drive-in ordinance that prohibited cruising and congregating outside cars (the excerpt quotes an October 14, 1965 *News* story). It says a February 23, 1966 *News* item reported that Birmingham had adopted an ordinance that all but barred drive-in restaurants, and that Ted's Drive-In in Bloomfield Hills closed in 1969, which the story treated as the symbolic end of the era.[^dn]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The Birmingham museum and the *News* excerpt agree on 1966.
+A *Detroit News* feature from 2023, which we could read only as a search-result excerpt because the site is paywalled, says the reaction went further. It says the **Royal Oak** city commission passed a tougher drive-in ordinance that prohibited cruising and congregating outside cars (the excerpt quotes an October 14, 1965 *News* story). It says a February 23, 1966 *News* item reported that Birmingham had adopted an ordinance that all but barred drive-in restaurants, and that Ted's Drive-In in Bloomfield Hills closed in 1969, which the story treated as the symbolic end of the era.[^dn]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The Birmingham museum and the *News* excerpt agree on 1966. Whether Ted's closing is the end of the era is still open.
 
 A second killing followed. The museum calls the 1967 "road rage murder of 18-year-old Michael Sass" the "last blow to mid-20th century cruising culture along Woodward."[^bham] We have no other source on that case.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The long hangover: Woodward since the Dream Cruise
 
-The Dream Cruise began in 1995 as a Ferndale soccer-field fundraiser, according to the museum, and grew into an event that "draws over 1 million people and 40,000 cars."[^bham] The tension never fully left, and the local paper keeps score. In **2014** *The Oakland Press* reported that Royal Oak police "logged 117 calls on complaints about cruisers between April and June 23" and "wrote 91 tickets" in the same period. The chief, Corrigan O'Donohue, said the biggest issue was "large groups of car owners gathering in business parking lots near Woodward and Normandy." About a dozen businesses had given police power of attorney "so that officers can issue parking tickets or have vehicles towed."[^op14] A cruiser quoted in the story, Jay Harbin, 81, recalled: "When I was young I used to like to go out there and race from light to light."[^op14]
+The Dream Cruise began in 1995 as a Ferndale soccer-field fundraiser, according to the museum, and grew into an event that "draws over 1 million people and 40,000 cars."[^bham] In **2014** *The Oakland Press* reported that Royal Oak police "logged 117 calls on complaints about cruisers between April and June 23" and "wrote 91 tickets" in the same period. The chief, Corrigan O'Donohue, said the biggest issue was "large groups of car owners gathering in business parking lots near Woodward and Normandy." About a dozen businesses had given police power of attorney "so that officers can issue parking tickets or have vehicles towed."[^op14] A cruiser quoted in the story, Jay Harbin, 81, recalled: "When I was young I used to like to go out there and race from light to light."[^op14]
 
 By **2022** the response was regional. Royal Oak joined Berkley, Pleasant Ridge, Birmingham, Huntington Woods, Bloomfield Hills and the Oakland County Sheriff's Department in a campaign called **Operation Decrescendo**, with noise enforcement and traffic tickets. A state law, the paper says, limits vehicle noise to 90 decibels on roads posted at 35 mph or higher. Berkley's Lt. Andrew Hadfield said the challenge was the early-season cruisers, and "it doesn't mean there should be a five-month speedway along Woodward."[^op22]
 
@@ -81,7 +83,7 @@ The same paper describes the 2022 cruise as "the world's largest one-day automot
 
 ## Why Woodward is the odd one out
 
-Most of our cruising pages describe bans: Modesto's 1990 ordinances, Whittier Boulevard's 1979 closure, Van Nuys's barricades. Woodward's story is different. The 1960s measures these sources describe went after the drive-in restaurants where teenagers gathered, and the museum adds that cities also began "cracking down on cruisers." Yet the avenue itself stayed open, and a pastime that cities once tried to shut down became a tourist event that they now police by the season. Compare [Modesto](modesto.md) and [Whittier Boulevard](whittier-blvd.md).
+Most of our cruising pages describe bans: Modesto's 1990 ordinances, Whittier Boulevard's 1979 closure, Van Nuys's barricades. Woodward's story is different. The 1960s measures these sources describe went after the drive-in restaurants where teenagers gathered, and the museum adds that cities also began "cracking down on cruisers." The avenue itself stayed open. A pastime that cities once tried to shut down became a tourist event that they now police by the season. Compare [Modesto](modesto.md) and [Whittier Boulevard](whittier-blvd.md). Birmingham passed its ban in 1966, and it did not have a drive-in to close.
 
 ## Open questions & disputed details
 

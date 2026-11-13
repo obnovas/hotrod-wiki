@@ -1,6 +1,6 @@
 ---
 title: 'Woodward Avenue: Back In, Keep an Eye on the Action'
-summary: On Woodward Avenue you backed into the drive-in so you could watch the action. The loop, the racing and how Detroit's showrooms joined in.
+summary: On Woodward Avenue you backed into the drive-in so you could watch the action. The loop ran from the Totem Pole to Ted's, and the GTOs from Royal Pontiac ran the same street.
 department: places
 era: 1960s
 eras:
@@ -54,12 +54,12 @@ revival: "the Woodward Dream Cruise, held every August since the 1990s."
 ---
 # Woodward Avenue: Back In, Keep an Eye on the Action
 
-*Detroit's suburban strip, 1950s–1970s*
+*Back in at the drive-in in the 1950s, from the Totem Pole to Ted's, with the GTOs on the same street*
 
 !!! abstract "Article record"
     **Confidence:** Medium (High for the setting, Medium for the anecdotes) · **Source types:** enthusiast press (Hagerty 2011, 2020; Hemmings 2018; Hot Rod 2014), newspaper (Oakland Press 2007) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Factory-car stories are mostly from memory · [How we rate this](../reference/source-standards.md)
 
-The drive-in etiquette on Woodward was simple: "You'd back in so you could keep an eye on the action − only parents and nerds pulled in grill first."[^hag]
+The drive-in etiquette on Woodward was simple: "You'd back in so you could keep an eye on the action − only parents and nerds pulled in grill first."[^hag] The loop ran from the Totem Pole to Ted's. North of Eight Mile was the racing. The GTOs from Royal Pontiac ran the same street.
 
 ## The loop and the racing
 
@@ -73,7 +73,7 @@ Detroit's carmakers were watching, and one dealer in particular was in on it: Ac
 
 The dealer's **Royal Bobcat** GTOs were tuned by Milt Schornack and others at Royal. The first Bobcat was a 1961 Catalina, and the program ended when Ace Wilson Sr. sold the dealership around 1970 (Hagerty 2020).[^hag2]
 
-Some legends were homegrown. The rumor was that the **"Silver Bullet" GTX** was a Mopar engineer's car. It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings).[^hem]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+Some legends were homegrown. The rumor was that the **"Silver Bullet" GTX** was a Mopar engineer's car. It belonged to **Jimmie Addison**, a gas station mechanic from Birmingham who got Hemi race parts through factory contacts (Hemmings).[^hem] This comes only from Hemmings.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 Clubs such as the **Ramchargers** and Drag-Ons came out of the same suburban scene (Hagerty).[^hag] See also [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md).
 
@@ -97,7 +97,7 @@ The people who were there remember the loop:
 
 The police were part of the scene too. Johnson remembers **"Sheriff Irons"** in a big black Chrysler who would pull racers over and ask to look under their hoods ("I think it was," he hedges). Hagerty mentions "lot cops." Hot Rod (2014) says that by the late 1960s "laws were soon enacted that limited the cruising and long-term parking," which led to "demonstrations and a few arrests." It adds that rising muscle-car insurance ("more a month for insurance than their car payment") and then the OPEC oil crisis finished the era off. We have not identified the specific ordinances.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^op][^hag][^hr]
 
-How it ended is its own story: the 1960s ordinances, the 1963 case that led to them, and the policing that followed are in [Woodward: The City That Banned the Drive-Ins It Didn't Have](woodward-ordinances.md).
+How it ended is its own story: the 1960s ordinances, the 1963 case that led to them, and the policing that followed are in [Woodward: The City That Banned the Drive-Ins It Didn't Have](woodward-ordinances.md). You backed in so you could keep an eye on the action. The GTOs were on the same street.
 
 ## Open questions & disputed details
 

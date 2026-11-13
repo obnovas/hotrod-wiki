@@ -1,6 +1,6 @@
 ---
 title: Bob's Big Boy and the "River Road"
-summary: In the 1950s Burbank high schoolers met at Bob's Big Boy to show off their jalopies, then settled challenges on the River Road.
+summary: In the 1950s Burbank high schoolers met at Bob's to show off their jalopies, then settled challenges on the River Road. The Road Kings, founded in 1952, had about 40 racing professionally, and Bob's is still there.
 department: places
 era: 1950s
 eras:
@@ -50,12 +50,12 @@ revival: "a Friday-night classic car show at Bob's, still running."
 ---
 # Bob's Big Boy and the "River Road"
 
-*Burbank, 1950s–60s*
+*High schoolers met at Bob's to show off their jalopies, raced the River Road, and about 40 Road Kings were racing professionally*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper interviews (Burbank Leader/LA Times 2014; LA Times 2013), restaurant history page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Told 55–60 years later · [How we rate this](../reference/source-standards.md)
 
-In the 1950s Burbank high schoolers met at the newly opened Bob's "to show off their jalopies," then settled challenges on the River Road. Some later raced in the river bed itself, which Life magazine photographed in 1957.[^bl]
+In the 1950s Burbank high schoolers met at the newly opened Bob's "to show off their jalopies," then settled challenges on the River Road. Some later raced in the river bed itself, which Life magazine photographed in 1957.[^bl] About 40 Road Kings were racing professionally. Bob's is still there.
 
 ## In their own words
 
@@ -79,9 +79,9 @@ Sebern said he gave up racing after a Hoover High senior was killed in a '32 For
 
 ## From a parking lot to the pros
 
-Ivo's club was the **Road Kings** of Burbank, founded in 1952. The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming **Don Prudhomme**, Kenny Stafford, Tom Jandt, **Tony Nancy**, **Bob Muravez** and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
+Ivo's club was the Road Kings of Burbank, founded in 1952. The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming Don Prudhomme, Kenny Stafford, Tom Jandt, Tony Nancy, Bob Muravez and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
 
-Bob's itself is still there. The restaurant history page says Friday-night car shows and weekend carhop service were brought back during the restoration of the building.[^bob] An LA Times columnist (2013) quotes a regular: "I tell them I lived 'American Graffiti' right here."[^lat13]
+Bob's itself is still there. The restaurant history page says Friday-night car shows and weekend carhop service were brought back during the restoration of the building.[^bob] An LA Times columnist (2013) quotes a regular: "I tell them I lived 'American Graffiti' right here."[^lat13] They had met at Bob's to show off their jalopies. The challenges had been settled on the River Road. About 40 Road Kings were racing professionally.
 
 *See also:* [Harvey's Broiler](harveys-broiler-downey.md).
 

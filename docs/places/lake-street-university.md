@@ -1,6 +1,6 @@
 ---
 title: Lake Street and University Avenue
-summary: The Twin Cities cruised Lake Street in Minneapolis and University Avenue in St. Paul, from the 1950s into the early 1970s.
+summary: The Twin Cities cruised Lake Street and University Avenue and called it the loop. Cruising turned into street races on Portland and Park, and the GSTA held its first car show on September 16, 1956.
 department: places
 era: 1950s
 eras:
@@ -43,12 +43,14 @@ later: "one poster wrote in 2009 that \"they still cruise Uni.\"[^hamb]"
 ---
 # Lake Street and University Avenue
 
-*Cruising "the loop" in the Twin Cities, 1950s–1970s*
+*Lake Street and University Avenue were "the loop," and the cruising turned into street races on Portland and Park*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> timing association history (GSTA), H.A.M.B. thread posts by former cruisers · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Forum posters are anonymous · [How we rate this](../reference/source-standards.md)
 
 ## How cruising turned into racing
+
+The Twin Cities cruised Lake Street in Minneapolis and University Avenue in St. Paul, and called it "the loop." The cruising turned into street races on the one-way streets that crossed Lake Street. The Gopher State Timing Association ties that cruising to the effort to get racing off the streets.
 
 The local club's own history admits where cruising led:
 
@@ -70,7 +72,9 @@ Forum posters remember the places:
 
 The Gopher State Timing Association (GSTA) was part of the same scene. Its own history ties street cruising to the clubs' effort to get racing off the streets, and its first car show, on September 16, 1956, was held in the Red Owl parking lot at Lake St. and 22nd Ave. So.[^gsta] It belongs to the same Upper Midwest network as the [MSRA and Back to the 50's](upper-midwest.md).
 
-Porky's on University Avenue turns up again in the MSRA's 1974 Back to the 50's cruise ([Upper Midwest](upper-midwest.md)).
+Porky's on University Avenue turns up again in the MSRA's 1974 Back to the 50's cruise ([Upper Midwest](upper-midwest.md)). One poster wrote in 2009 that "they still cruise Uni."[^hamb]
+
+Lake Street and University had been "the loop." Portland and Park had been where the cruising turned into street races.
 
 ## Images
 

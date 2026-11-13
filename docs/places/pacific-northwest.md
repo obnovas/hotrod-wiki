@@ -1,6 +1,6 @@
 ---
 title: 'Pacific Northwest: Councils, Woodburn and Fiberglass'
-summary: In the Portland area the clubs organized through a council, the MHRC, which ran the Roadster Show and helped open Woodburn Dragstrip in 1961.
+summary: In Portland a volunteer council, the MHRC, founded in 1954, ran the Roadster Show and helped open Woodburn in 1961. The clubs ran the shows and the strip.
 department: places
 eras:
 - 1950s
@@ -38,22 +38,26 @@ canonical_for: []
 ---
 # Pacific Northwest: Councils, Woodburn and Fiberglass
 
-*Where the volunteers ran the show*
+*A volunteer council ran the roadster show and the strip*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> council/track sites, Wikipedia (◐), company history · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Woodburn early details only via Wikipedia/track site · [How we rate this](../reference/source-standards.md)
 
+In Portland the clubs ran the show through a volunteer council, not through promoters. That is what set the Northwest apart.
+
 ## A council, then a strip
 
-In the Portland area, clubs organized through a **council**. The MHRC was founded in 1954, with Dee Wescott as first president, alongside "community members and elected officials." It runs the **Portland Roadster Show** with volunteers.[^mhrc][^wes]
+The MHRC was founded in 1954, with Dee Wescott as first president, alongside "community members and elected officials." It runs the **Portland Roadster Show** with volunteers.[^mhrc][^wes]
 
-The council's strip came seven years later. Woodburn opened in **June 1961** as an **eighth-mile** strip operated jointly by the MHRC and the **Northwest Timing Association**. It was lengthened to a quarter mile in 1963, and Jim Livingston bought it in 1972 (Wikipedia; track site).[^wd][^wda]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61).[^pir]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+The council's strip came seven years later. Woodburn opened in **June 1961** as an **eighth-mile** strip operated jointly by the MHRC and the **Northwest Timing Association**. It was lengthened to a quarter mile in 1963, and Jim Livingston bought it in 1972 (Wikipedia; track site).[^wd][^wda]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Whether 1963 and 1972 are the years is still open. Wikipedia and the track site may share a source.
+
+Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61).[^pir]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Only that page says so.
 
 ## Fiberglass and volunteers
 
 The council's first president had another claim on history. [Wescott's](../street-rodding/fiberglass-suppliers.md) of Boring, Oregon (1954), and Cal Automotive's founders, Navy men from Whidbey Island, put the Northwest at the start of the fiberglass street-rod body trade.[^wes]
 
-That is what set the Northwest apart. Shows and strips were run by **civic-minded volunteer councils** with elected officials involved, rather than by promoters or magazines. Rain also meant more emphasis on indoor shows and coachwork.
+Shows and strips were run by **civic-minded volunteer councils** with elected officials involved, rather than by promoters or magazines. Rain also meant more emphasis on indoor shows and coachwork. The volunteers ran the show.
 
 *See also:* [Deer Park and Spokane's nitrous secret](../drag-racing/deer-park-spokane-nitrous.md), whose Eagle Electric dragster raced Puyallup on Saturday and Woodburn on Sunday; [Western Washington's airport strips](../drag-racing/western-washington-airport-strips.md), from Shelton and Arlington to Bremerton and Bellingham; [Montana's Hoodoos, Road Runners and Royal Coachmen](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md), whose Arlee club president raced at Deer Park, Wash., in 1962; [the Redding airport drags](../drag-racing/red-bluff-schafer-oil-special.md), where Oregon racers came south in 1969; [*Street Rod* magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), Bruce Miller and Bruce Craig's monthly, with technical editor Russ Meeks and photographer Dale Moreau. For the Oregon strips before Woodburn, see [Scappoose, Aurora and the Columbia Timing Association](../drag-racing/scappoose-aurora-columbia-timing-association.md) and [Eugene's Road Kings, Balboa Park and White City](../drag-racing/eugene-balboa-white-city-oregon.md).
 

@@ -1,6 +1,6 @@
 ---
 title: 'Harvey''s Broiler: Teenage Paris on a Former Chicken Farm'
-summary: Harvey and Minnie Ortner opened Harvey's Broiler in Downey in 1958, a Googie drive-in with a 65-foot sign that Tom Wolfe called "Teenage Paris."
+summary: Harvey and Minnie Ortner opened Harvey's Broiler in Downey in 1958 on a former chicken farm, a Googie drive-in with a 65-foot sign that Tom Wolfe called "Teenage Paris." Kids got together there to find out where's the race.
 department: places
 era: 1950s
 eras:
@@ -46,12 +46,12 @@ later: "\"Cruise Night\" from March 1987 (Lee McCullough), reported in 1989; par
 ---
 # Harvey's Broiler: Teenage Paris on a Former Chicken Farm
 
-*Harvey's Broiler / Johnie's, Downey, 1958–1970; revived 1987–90*
+*A former chicken farm, a 65-foot sign, and Teenage Paris on Firestone, 1958–1970, with cruise night back in 1987–90*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** LA Conservancy, newspaper (LA Times 1989, 2007), LAist (2024) owner interview · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** Drive-in end date not re-verified · [How we rate this](../reference/source-standards.md)
 
-Harvey and Minnie Ortner opened **Harvey's Broiler** in 1958 on a former chicken farm. Architect Paul B. Clayton designed it in the Googie style with a 65-foot sign, and the LA Conservancy calls it "the largest drive-in restaurant in Southern California" when it opened.[^lac][^laist] Tom Wolfe used it as a setting: "Teenage Paris! Harvey's Drive-in!" (quoted by LAist).[^laist]
+Harvey and Minnie Ortner opened Harvey's Broiler in 1958 on a former chicken farm. Architect Paul B. Clayton designed it in the Googie style with a 65-foot sign, and the LA Conservancy calls it "the largest drive-in restaurant in Southern California" when it opened.[^lac][^laist] Tom Wolfe used it as a setting: "Teenage Paris! Harvey's Drive-in!" (quoted by LAist).[^laist] The kids got together to find out where's the race. Cruise night came back in 1987–90.
 
 ## In their own words
 
@@ -75,7 +75,7 @@ At the 1989 revival, the people who had been there remembered:
 
 Louder puts the drive-in at the center of a scene: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard."[^laist]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The quote doesn't name any shops.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Cruising has since come back into the law's favor. A new California law, in effect from January 2024, means "cities can no longer ban lowriders and cruising," according to LAist. LAist does not give the bill number.[^laist]
+Cruising has since come back into the law's favor. A new California law, in effect from January 2024, means "cities can no longer ban lowriders and cruising," according to LAist. LAist does not give the bill number.[^laist] Wolfe had called it Teenage Paris. Kids got together to find out where's the race, and they circled for cherry Cokes. From January 2024, cities could no longer ban lowriders and cruising.
 
 ## Open questions & disputed details
 

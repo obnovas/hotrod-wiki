@@ -1,6 +1,6 @@
 ---
 title: 'Modesto: Draggin'' 10th'
-summary: Modesto's cruise on 10th Street, the town American Graffiti was set in, and how the city policed and ended it.
+summary: "Modesto's cruise, the one American Graffiti was set in, grew until the city barred passing the same spot on McHenry more than once every four hours."
 department: places
 era: 1960s
 eras:
@@ -49,10 +49,14 @@ later: "the \"Graffiti Summer\" events and the Kiwanis American Graffiti car sho
 ---
 # Modesto: Draggin' 10th
 
-*10th Street and McHenry Avenue, 1950s–1993*
+*The cruise the film was set in, and the ordinance on McHenry*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times Feb & Mar 1990), city ordinance record (Stanislaus County Library), historical marker (HMdb), museum page · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ ban year (1990 ordinance vs 1993 "banned") · [How we rate this](../reference/source-standards.md)
+
+Modesto's cruise is the one the film was set in, and the city later barred passing the same spot on McHenry more than once every four hours.
+
+In George Lucas's teens, it was a loop of 10th, G, 11th and O Streets, with Burge's Drive-In (the model for Mel's in *American Graffiti*) at the turnaround. From the late 1960s it moved to **McHenry Avenue**.[^gm][^lat90]
 
 *American Graffiti* (1973) was set in a 1962 version of Modesto, which the LA Times describes as "a small valley town of about 30,000," though most of the film was shot elsewhere.[^lat90]
 
@@ -76,11 +80,13 @@ That year the police chief, a car-club leader and a magazine editor all weighed 
 
 ## Policing
 
-The city acted. On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinances. One barred passing the same spot on McHenry more than once every four hours. Dennis Lema of the Central California Coalition of Car Clubs vowed to challenge them.[^lib][^lat90b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The city acted. On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinances. One barred passing the same spot on McHenry more than once every four hours. Dennis Lema of the Central California Coalition of Car Clubs vowed to challenge them.[^lib][^lat90b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether that ban is the 1990 ordinance or 1993 is still open.
 
 ## The film and the main drag
 
 When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
+
+The film was set on that cruise. The city barred passing the same spot on McHenry more than once every four hours.
 
 *See also:* [Woodward](woodward-ordinances.md).
 

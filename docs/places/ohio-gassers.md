@@ -1,6 +1,6 @@
 ---
 title: The Ohio Gassers
-summary: '"The Ohio Gassers" was never a chartered club: it was a loose circle of Cleveland high-school friends and their rivals across Ohio who ran gas-class cars.'
+summary: 'The Ohio Gassers was never a chartered club. It was a loose circle of Cleveland high-school friends and rivals across Ohio who ran gas-class cars, and out of it came Mr. Gasket, a Crane Cams sales manager, Eddie Schartman, and a blues bassist.'
 department: places
 era: 1960s
 eras:
@@ -65,7 +65,7 @@ canonical_for: []
 ---
 # The Ohio Gassers
 
-*Cleveland, Dayton, Columbus and the door-slammer Midwest*
+*Never a chartered club: a circle of friends, and the shops and cars that came out of it*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> racer-journalist photo histories (Jim Hill, East Coast Drag Times HOF, 2016), *Hot Rod* (Jim Hill, 2015), enthusiast archive with family obituary text and oral history (JR Thompson), NHRA · **Last verified:** 2026-11-01 (Chuck Finders's death date settled; footnotes re-checked in the Round 28 and 29 reviews) · **Open issues:** ⚠ Hassel's 1963 class (B/Gas vs C/Gas); ⚠ who built the 1968 Mr. Gasket Camaro; Hill brother's name (Bill vs Tom) · [How we rate this](../reference/source-standards.md)
@@ -75,7 +75,7 @@ canonical_for: []
 
     — Ron Hassel, Cleveland gasser racer, as quoted by Jim Hill in *Hot Rod*, Nov 23, 2015. [More in Voices](../voices/strip-owners-and-door-slammers.md)
 
-"The Ohio Gassers" was **never a chartered club**. Jim Hill, who raced and photographed the era, calls it an "unofficial group of peers who became known in drag racing lore as 'The Ohio Gassers.'"[^ecmg] It was a loose circle of 1950s Cleveland high-school friends and their rivals across the state. They ran Gas Coupe and Sedan cars (the "gassers"), mostly small-block Chevys in Willys, Anglias and Tri-Five Chevys, and later Modified Production. Out of that circle came [Mr. Gasket](../companies/mr-gasket.md), a Crane Cams sales manager, Funny Car pioneer [Eddie Schartman](../people/eddie-schartman.md), the chassis builder of the [Red Baron](../cars/hill-bros-red-baron.md), and a blues bassist.
+"The Ohio Gassers" was never a chartered club. Jim Hill, who raced and photographed the era, calls it an "unofficial group of peers who became known in drag racing lore as 'The Ohio Gassers.'"[^ecmg] It was a loose circle of 1950s Cleveland high-school friends and their rivals across the state. They ran Gas Coupe and Sedan cars, mostly small-block Chevys in Willys, Anglias and Tri-Five Chevys, and later Modified Production. Out of that circle came Mr. Gasket, a Crane Cams sales manager, Funny Car pioneer Eddie Schartman, the chassis builder of the [Red Baron](../cars/hill-bros-red-baron.md), and a blues bassist. See [Mr. Gasket](../companies/mr-gasket.md) and [Eddie Schartman](../people/eddie-schartman.md).
 
 ## Why gassers, and why here
 
@@ -93,7 +93,7 @@ Jim Hill's list of the group includes Eddie Schartman, Ron Hassel, Sam Gellner, 
 
 Hassel got the street name "Ronnie Red Wheels" because he "loved to paint stock steel rims that bright color." He began with a **'56 Chevy two-door** and held "numerous NHRA class records."[^hr15]
 
-He then ran the **Hassel & Vogelsong '40 Willys** in B and C/Gas. Hill's photo shows him "during B/Gas class runs at The Nationals, 1963."[^ecgm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+He then ran the **Hassel & Vogelsong '40 Willys** in B and C/Gas. Hill's photo shows him "during B/Gas class runs at The Nationals, 1963."[^ecgm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Whether that was B/Gas or C/Gas is still open.
 
 In **1965** he left Ohio for South Florida as **sales manager for Crane Cams**. There he teamed with **Ronnie Cox** and won **B/Gas at the 1966 Nationals** in a **'48 Anglia**. The Hrudkas also loaned him their Dave Meal–built **'48 Thames "Pie Wagon"** A/Gas panel, which he ran in Florida with his own engine and transmission: high-nine-second ETs at 140 mph. Hill's photo of it is from Palm Beach International Raceway.[^ecgm][^ecmg]
 
@@ -131,19 +131,27 @@ Their '55 Chevy won **D/Gas at the 1962 NHRA Nationals**. Their homemade gaskets
 
 ## Around the state
 
-| Place | People and shops (per Jim Hill) |
-|---|---|
-| **Akron** | [Arlen Vanke](../people/arlen-vanke.md), Otie Smith, the Arfons brothers. See [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) |
-| **Dayton** | Jerry Ault (Ault & James Speed Shop; Model T B/Gas; '63 Corvette F/Gas). **"Ohio George" Montgomery** of George's Speed Shop ('33 Willys A/GS, Cadillac, then blown Chevy, then SOHC Ford). Montgomery was nicknamed "The Easter Bunny" because he rarely went west and "only ran at the Nationals." He won Little Eliminator at the **1960 Nationals, Detroit Dragway**, taking a Ford Falcon Ranchero as the prize. Also the Stoltz & Velasquez '40 Willys (Paul's Automotive)[^ecgm] |
-| **Mansfield** | **Virgil Cates**, "The Flying Junkman": one '33 Willys run as C/Gas, then C/Altered, with which "Cates won the NHRA World Championship Comp Eliminator title in **1965**"[^ecgm] <sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> |
-| **Columbus** | **Gil Kirk's Rod Shop** team, later the Nationwise-Rod Shop team: Stickel & Riffle, Jim Thompson–Bob Riffle Anglias, Eckard & Kirk. **Jeg Coughlin** (JEGS; blown Hemi Austin A/GS). See [Midwest & East](midwest-east.md)[^ecgm] |
-| **Cleveland** | The Hill brothers ([Red Baron](../cars/hill-bros-red-baron.md)); the Rodriguez brothers' '56 D/Gas; Ron Hutter's "Hut's Dyno Shop"; Mickey Hart's Hart Automotive A/GS Willys; Tim McDonald's Corvette[^ecgm] |
-| **Toledo / Cincinnati** | Dick Titsworth's Seaport Automotive Anglia; Dick Weinle, racer and later owner of **Edgewater** raceway, Cleves[^ecgm] |
-| **Statewide** | **Barbara Hamilton**: "the first woman licensed by NHRA to drive a supercharged race car in competition" ('37 Willys), ECDT HOF 2004[^ecgm] <sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup> *"first" is a tribute claim.* **Fred Hurst**: candy-apple-red '40 Willys, then a Barracuda and an Opel GT with Hemi power[^ecgm] |
+Per Jim Hill, the names go by town.
+
+In **Akron**, [Arlen Vanke](../people/arlen-vanke.md), Otie Smith, the Arfons brothers. See [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md).
+
+In **Dayton**, Jerry Ault (Ault & James Speed Shop; Model T B/Gas; '63 Corvette F/Gas). **"Ohio George" Montgomery** of George's Speed Shop ('33 Willys A/GS, Cadillac, then blown Chevy, then SOHC Ford). Montgomery was nicknamed "The Easter Bunny" because he rarely went west and "only ran at the Nationals." He won Little Eliminator at the **1960 Nationals, Detroit Dragway**, taking a Ford Falcon Ranchero as the prize. Also the Stoltz & Velasquez '40 Willys (Paul's Automotive).[^ecgm]
+
+In **Mansfield**, **Virgil Cates**, "The Flying Junkman": one '33 Willys run as C/Gas, then C/Altered, with which "Cates won the NHRA World Championship Comp Eliminator title in **1965**"[^ecgm] <sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
+
+In **Columbus**, **Gil Kirk's Rod Shop** team, later the Nationwise-Rod Shop team: Stickel & Riffle, Jim Thompson–Bob Riffle Anglias, Eckard & Kirk. **Jeg Coughlin** (JEGS; blown Hemi Austin A/GS). See [Midwest & East](midwest-east.md)[^ecgm]
+
+In **Cleveland**, the Hill brothers ([Red Baron](../cars/hill-bros-red-baron.md)); the Rodriguez brothers' '56 D/Gas; Ron Hutter's "Hut's Dyno Shop"; Mickey Hart's Hart Automotive A/GS Willys; Tim McDonald's Corvette.[^ecgm]
+
+In **Toledo / Cincinnati**, Dick Titsworth's Seaport Automotive Anglia; Dick Weinle, racer and later owner of **Edgewater** raceway, Cleves.[^ecgm]
+
+Statewide, **Barbara Hamilton**: "the first woman licensed by NHRA to drive a supercharged race car in competition" ('37 Willys), ECDT HOF 2004[^ecgm] <sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup> *"first" is a tribute claim.* **Fred Hurst**: candy-apple-red '40 Willys, then a Barracuda and an Opel GT with Hemi power.[^ecgm]
 
 ## The money behind class wins
 
 There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15]<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup> This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).<sup class="hr-q" id="qr-9"><a href="#q-9" title="Sources disagree: see Open questions">⚠</a></sup>
+
+Never a chartered club. A loose circle of Cleveland high-school friends and their rivals across the state. Out of that circle came Mr. Gasket, a Crane Cams sales manager, Funny Car pioneer Eddie Schartman, and a blues bassist.
 
 *See also:* [Mr. Gasket](../companies/mr-gasket.md), [Eddie Schartman](../people/eddie-schartman.md), [Arlen Vanke](../people/arlen-vanke.md), [Red Baron](../cars/hill-bros-red-baron.md), [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md), [Bob Bartel](../people/bob-bartel.md) (World Series at Cordova, where the Moody & Jones '37 Chevy also won), [Midwest & East](midwest-east.md).
 

@@ -53,7 +53,7 @@ canonical_for: []
 ---
 # The Restless Ribbon: Cruising Peoria Avenue in Tulsa's Brookside (1950s–1970s)
 
-*Twenty blocks of Peoria, a drive-in with a pecking order, a horn for every school, and a speed shop on the strip*
+*Twenty blocks of Peoria, a school or club honk, Soc Row at Pennington's, and a Norton at $10 a race*
 
 !!! abstract "Article record"
     **Confidence:** Medium (four independent memory sources agree on the street, the drive-in and the radio station; nothing yet from a Tulsa newspaper of the time) · **Source types:** <span class="hr-badge">Grassroots</span> the Brookside Business Association's history page, a 2011 *Oklahoma Magazine* feature built on cruisers' interviews, a 2013 personal blog by an Edison High graduate, and readers' letters on the *Restless Ribbon* memory blog (2013–15) · **Last verified:** 2026-11-02 (Round 30) · **Open issues:** ◐ the C&F Racing Equipment speed shop rests on one blog post; when did the name "Restless Ribbon" start? · [How we rate this](../reference/source-standards.md)
@@ -65,7 +65,9 @@ canonical_for: []
 
 ## Twenty blocks of Peoria
 
-Brookside got its name in 1940, when Guy Scroggs called his store Brookside Drug; the brook was presumed to be Crow Creek. The neighborhood's business association tells the rest briefly: "During the 1950's, Brookside became the place for high school students to gather with friends. This lead to the "Restless Ribbon", where cars cruised up and down Peoria, especially through Pennington's Drive-In."[^brook]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+From the 1950s, Tulsa teenagers cruised Peoria Avenue through Brookside, from 31st to 51st, honking a school or club honk and parking on Soc Row at Pennington's. Some raced for pink slips. A speed shop stood on the strip. In 1966 a Norton paid itself off at $10 a race.
+
+Brookside got its name in 1940, when Guy Scroggs called his store Brookside Drug; the brook was presumed to be Crow Creek. The neighborhood's business association tells the rest briefly: "During the 1950's, Brookside became the place for high school students to gather with friends. This lead to the "Restless Ribbon", where cars cruised up and down Peoria, especially through Pennington's Drive-In." Who coined the name is still open.[^brook]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 Hank Moore cruised it through much of the 1950s and left Tulsa in 1960. The soundtrack, he told *Oklahoma Magazine*, was KAKC; the magazine adds that a drive-in movie and snacks, followed by dinner at Pennington's, "would only cost a fellow about $5 at that time." Jerry Conrad, a Central High student, made the loop later in a 1968 LeMans he still owns: "That light turned green and away you'd go, laying rubber all the way." He also remembered: "If you had a half tank of gas, a nice lady and a six-pack of beer in your trunk, you were in heaven."[^okmag]
 
@@ -81,9 +83,9 @@ A later generation sorted the parking lots too. Rick, writing to the *Restless R
 
 The street was also where some racers paid for their machines. Greg bought a new Norton motorcycle from Atlas Cycles in the spring of 1966 for $1,320 and "got it to go 13.20s IN the 1320!" He raced it on Peoria: "At $10 a race - never more - I paid my Norton off before I was sent off to viet nam that autumn."[^rr]
 
-And the parts came from close by. In July 2014 the blog's keeper mourned the loss of a landmark: "the building that housed C&F Racing Equipment has been demolished and the site leveled," to make way for a bank. He asked those who remembered to recall the place by its nickname, "The Headquarters For Instant Oats."[^rr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> Another reader remembered a cruiser on Cragar SuperTrick wheels, which came with a sticker that read "For Drag Racing use only. NOT for street use."[^rr]
+And the parts came from close by. In July 2014 the blog's keeper mourned the loss of a landmark: "the building that housed C&F Racing Equipment has been demolished and the site leveled," to make way for a bank. He asked those who remembered to recall the place by its nickname, "The Headquarters For Instant Oats." Who C and F were, and when, is still one blog post.[^rr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> Another reader remembered a cruiser on Cragar SuperTrick wheels, which came with a sticker that read "For Drag Racing use only. NOT for street use."[^rr]
 
-By the time the feature ran in 2011, Pennington's drive-ins had closed and Judy Pennington had died in 2010; the Admiral Twin, Tulsa's last drive-in theater, burned that year too.[^okmag] Conrad left for college in 1972, "leaving behind the scene to the high schoolers behind him."[^okmag] For the drag strips Tulsa's teenagers could tow to, see [Oklahoma's hometown strips](../drag-racing/oklahoma-city-nationals-rush-springs.md); for other towns' loops, see [Dragging Main](dragging-main.md).
+By the time the feature ran in 2011, Pennington's drive-ins had closed and Judy Pennington had died in 2010; the Admiral Twin, Tulsa's last drive-in theater, burned that year too.[^okmag] Conrad left for college in 1972, "leaving behind the scene to the high schoolers behind him."[^okmag] The school or club honk, Soc Row, and a Norton at $10 a race had been the Ribbon. For the drag strips Tulsa's teenagers could tow to, see [Oklahoma's hometown strips](../drag-racing/oklahoma-city-nationals-rush-springs.md); for other towns' loops, see [Dragging Main](dragging-main.md).
 
 *See also:* [Route 1 in Saugus, Mass.](route-1-saugus-adventure-car-hop.md), another drive-in where the hot rods got the best spots.
 

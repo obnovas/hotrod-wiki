@@ -1,6 +1,6 @@
 ---
 title: Summer Avenue, Memphis
-summary: Memphis cruised Summer Avenue, US 70, a road of drive-ins and motels, in the 1950s and 1960s.
+summary: Summer Avenue, US 70, was where Memphis kids did their drive around drag in the 1950s and 1960s. The first Holiday Inn there was 1952.
 department: places
 era: 1950s
 eras:
@@ -32,12 +32,12 @@ status: "we treat it as a **regional repeat gathering**. We have found no docume
 ---
 # Summer Avenue, Memphis
 
-*1950s–1960s: "a good drive around drag"*
+*A road of drive-ins, and "a good drive around drag"*
 
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> literary nonfiction with interviews (storySouth, Ellen Morris Prewitt), oral history project description (Southern Foodways Alliance, 2021) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** No contemporary newspaper source yet; ties to clubs unproven; the first McDonald's in Memphis ⚠ · [How we rate this](../reference/source-standards.md)
 
-Summer Avenue was lined with drive-ins, motels and some of the first chain businesses: the first Holiday Inn (1952) and "one of the first" Memphis McDonald's locations.[^sfa]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Summer Avenue, US 70, was where Memphis kids did their drive around drag. In the 1950s and 1960s it was lined with drive-ins, motels and some of the first chain businesses: the first Holiday Inn (1952) and "one of the first" Memphis McDonald's locations.[^sfa]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Whether it was the first McDonald's in Memphis or one of the first is still open.
 
 ## In their own words
 
@@ -48,6 +48,8 @@ Summer Avenue was lined with drive-ins, motels and some of the first chain busin
 Prewitt also reports that VW mechanic **John Bain** (MoonBugs) "drag-raced on Summer" as a young man, and quotes him: "Summer was it."[^ss]
 
 One name on Burge's list has a racing echo. Marshall Robilio was a Memphis Rodders racer (see [Ray Godman](../voices/ray-godman.md) and [Memphis](memphis.md)), but the restaurant's tie to his family is unconfirmed.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+
+They would circle the drive-ins on Summer. It was the drive around drag.
 
 ## Open questions & disputed details
 
