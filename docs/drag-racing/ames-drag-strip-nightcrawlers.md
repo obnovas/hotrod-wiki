@@ -1,6 +1,6 @@
 ---
 title: 'The Professor''s Drag Strip: Ames, Iowa, and the Nightcrawlers (1957–1959)'
-summary: An Iowa State College math professor stood up for the Nightcrawlers hot rod club and served as steward of the Ames Drag Strip, which ran from 1957 to 1959.
+summary: An Iowa State College math professor stood up for the Nightcrawlers and served as steward of the Ames Drag Strip, which ran the summers of 1957, 1958 and 1959.
 department: drag-racing
 eras:
 - 1950s
@@ -45,6 +45,8 @@ canonical_for: []
 ---
 # The Professor's Drag Strip: Ames, Iowa, and the Nightcrawlers (1957–1959)
 
+*A math professor stood up for the Nightcrawlers, and their strip south of Ames ran the summers of 1957, 1958 and 1959*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> historical society page and newsletter (Ames History Museum, quoting an *Ames Tribune* feature of June 2, 1958, and reproducing a 1957 ad); a regional magazine feature (*The Iowan*, Feb–Mar 1959); the December 1957 Ames telephone directory (scanned) · **Last verified:** 2026-10-17 (Round 16) · **Open issues:** grandstand or no grandstand ⚠; who owned the land ⚠; the museum's "1st quarter-mile strip in Iowa" sits awkwardly beside a Des Moines strip that *The Iowan* mentions ⚠; the reason given for the closing rests on the museum page alone ◐; we have not traced Dr. Lambert after 1959 · [How we rate this](../reference/source-standards.md)
 
@@ -53,11 +55,11 @@ canonical_for: []
 
     — **Dr. Robert Lambert**, Iowa State College mathematics professor and steward of the Ames Drag Strip, to Pat Lounsbury in *The Iowan*, February–March 1959.[^iowan]
 
-One day in the late 1950s an Iowa State College math professor came back to his car in downtown Ames and found an overtime parking summons on it. He had stayed too long at a service club, where he'd been speaking up for a hot rod club and its drag strip. Somebody got to the ticket before he did. Inside the envelope were fifty cents and a note on a torn scrap of brown paper:
+An Iowa State College math professor stood up for the Nightcrawlers and served as steward of the Ames Drag Strip through the summers of 1957, 1958 and 1959. One day in the late 1950s he came back to his car in downtown Ames and found an overtime parking summons on it. He had stayed too long at a service club, where he'd been speaking up for a hot rod club and its drag strip. Somebody got to the ticket before he did. Inside the envelope were fifty cents and a note on a torn scrap of brown paper:
 
 "From a Nightcrawler who wants to show some small thanks for the support you have shown us in the interest of cars."[^iowan]
 
-The professor was **Dr. Robert Lambert**. The Nightcrawlers were the club he had helped start, made up of Iowa State students and local boys by the *Tribune*'s account,[^ahs] and their big project was a quarter-mile of concrete, oiled dirt and timing lights south of town.
+The professor was Dr. Robert Lambert. The Nightcrawlers were the club he had helped start, made up of Iowa State students and local boys by the *Tribune*'s account,[^ahs] and their big project was a quarter-mile of concrete, oiled dirt and timing lights south of town.
 
 ## Off 13th Street
 
@@ -90,13 +92,15 @@ The club stressed safety and courtesy. The *Tribune* gave the club's aims in the
 
 ## Three things the sources disagree on
 
-The first is the grandstand. *The Iowan* says, "There are no grandstands or bleachers." The museum says the strip "featured a grandstand," along with pits, the starting tower and a concession stand run by **Helen Overland**.[^iowan][^ahs]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> *The Iowan* writer seems to describe 1958 while the museum covers all three summers, so a grandstand added late would fit both. No source says that, though.
+On the grandstand, the sources disagree. *The Iowan* says, "There are no grandstands or bleachers." The museum says the strip "featured a grandstand," along with pits, the starting tower and a concession stand run by **Helen Overland**.[^iowan][^ahs]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> *The Iowan* writer seems to describe 1958 while the museum covers all three summers, so a grandstand added late would fit both. No source says that, though.
 
-The second is the land. *The Iowan* says Armstrong donated the land rent-free. The *Tribune* puts the strip on the J. D. Armstrong property but says it was "owned by Bud Overland," and the museum says the land belonged to Armstrong and to Bud and Gunner Overland.[^iowan][^ahs]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+On the land, the sources disagree. *The Iowan* says Armstrong donated the land rent-free. The *Tribune* puts the strip on the J. D. Armstrong property but says it was "owned by Bud Overland," and the museum says the land belonged to Armstrong and to Bud and Gunner Overland.[^iowan][^ahs]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
-The third is the word "first." The museum calls Ames "the 1st quarter-mile strip in Iowa." Lambert himself told *The Iowan* about a permanent strip at Des Moines, owned by a private investor.[^ahs][^iowan]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
+Then there is the word first. The museum calls Ames "the 1st quarter-mile strip in Iowa." Lambert himself told *The Iowan* about a permanent strip at Des Moines, owned by a private investor.[^ahs][^iowan]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The strip lasted only three summers. The museum's page ends the story in one sentence. When Bud Overland lost both his best friend and his brother in automobile accidents, he lost interest in the drag strip, and it closed after the summer of 1959.[^ahs]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+
+Lambert had stood up for the club, and the note in the parking ticket said thanks. The strip ran the summers of 1957, 1958 and 1959, and then it closed.
 
 ## Open questions & disputed details
 

@@ -1,6 +1,6 @@
 ---
 title: 'Sunday Morning at McGuire, Sunday Night at Atco: South Jersey''s Strips (1960–2023)'
-summary: Four Camden-area businessmen opened Atco Dragway on Memorial Day Weekend 1960, and it raced until July 2023. On Sundays a racer could run Strato Rods, an unused runway at McGuire Air Force Base, in the morning and Atco at night, with trophies, a March of Dimes meet and driver meetings in a towed Mr. Softee truck.
+summary: On a Sunday a racer could run Strato Rods, an unused runway at McGuire Air Force Base, in the morning and Atco at night. Atco opened on Memorial Day Weekend 1960 and ran until July 18, 2023, with trophies, a March of Dimes meet and driver meetings in a towed Mr. Softee truck.
 department: drag-racing
 era: 1960s
 eras:
@@ -80,7 +80,7 @@ peak: 1960–2023
 ---
 # Sunday Morning at McGuire, Sunday Night at Atco: South Jersey's Strips (1960–2023)
 
-*A safety-first strip in the Pine Barrens, a jet car apologizing for 201 mph, a biker wedding 40 feet from the track, and an Air Force runway where a coffee can cooled the fuel and a Mr. Softee truck ran the driver meeting*
+*Sunday morning on a runway at McGuire, Sunday night at Atco, from 1960 until July 18, 2023, and a jet car at 201 mph*
 
 !!! abstract "Article record"
     **Confidence:** Medium (Atco's opening, owners, records and closing come from the *Inquirer*'s 2023 history, which quotes the paper's own archive, and from *Hemmings*; Strato Rods rests on racers' memories and forum posts that disagree on its years, plus two hall-of-fame biographies of its announcer, and is Low to Medium) · **Source types:** <span class="hr-badge">Grassroots</span> racers' memories on *Drag Strip List*; H.A.M.B., Moparts and *NJ Pine Barrens* forum posts; *The Philadelphia Inquirer* (2023, quoting its 1961–75 reports and the *Daily News*); *Hemmings* (2023); EMPA and Garlits museum hall-of-fame biographies · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ⚠ "the first official drag strip in New Jersey"; ⚠ the years of Strato Rods · [How we rate this](../reference/source-standards.md)
@@ -91,6 +91,8 @@ peak: 1960–2023
     — Chuck Dublick, on Strato Rods Dragway, *Drag Strip List*, undated.[^dslnj]
 
 ## Safety first, in the pines
+
+On a Sunday a racer could run Strato Rods in the morning and Atco at night. Strato Rods was an unused runway at McGuire Air Force Base. Atco opened on Memorial Day Weekend 1960. Four Camden-area businessmen built it, and the emphasis was safety first. It ran until July 18, 2023. Out at the runway the racing was for trophies, a coffee can cooled the fuel, and the driver meeting was in a towed Mr. Softee truck.
 
 Atco Dragway officially opened on Memorial Day Weekend 1960. Four Camden-area businessmen built it, Paul Jaffe, Paul B. Katz, Edwin Rosner and Lester M. Medvene, after studying drag strips around the country and copying the best features of each. They picked the site because it was well away from homes. "Our emphasis is on safety first and spectator comfort," Jaffe told the *Inquirer* in 1961.[^inq23] *Hemmings* adds that ground was broken on Jackson Road in 1959.[^hem23] The *Inquirer* called it "the first official drag strip in New Jersey."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^inq23]
 
@@ -108,7 +110,7 @@ Up in Burlington County, the Air Force let racers use an old runway. Matt Delio,
 
 Chuck Dublick raced an E/Gas '56 Chevy there in red primer, and nearly every part of it came from somewhere else. The hood scoop was a propane-tank regulator hood with the front cut out. "The cool can was an old coffee can with copper tubing in it." The tube grille was "old café curtain rods" that sometimes popped out and sparked all the way down the track. The seat came out of an old Austin "and wasn't much more than a lawn chair." The strip was "All concrete. No money, just trophies." Once, staged at about 5,000 rpm, he watched someone run out, grab the Christmas tree and wave both cars onto the grass, because a small plane needed to make an emergency landing. "I love grass-roots racing."[^dslnj]
 
-Ed Beers came to watch in September 1980, when his cousin was in basic training at Dix. They heard cars and "snuck in the pits through the barbed wire fence. Secure military base, huh." What he remembered best was the driver meeting: "They towed an old Mr. Softee truck with a tractor out to the starting line and had their meeting and first round pairings done there."[^dslnj] Bob Drayton and George Adams raced a Day-Glo orange '55 Chevy at Strato Rods and Atco in 1965 and 1966; Frank Perkins brought a 1947 Austin with a Dodge slant six in the late 1960s.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^dslnj]
+Ed Beers came to watch in September 1980, when his cousin was in basic training at Dix. They heard cars and "snuck in the pits through the barbed wire fence. Secure military base, huh." What he remembered best was the driver meeting: "They towed an old Mr. Softee truck with a tractor out to the starting line and had their meeting and first round pairings done there."[^dslnj] Bob Drayton and George Adams raced a Day-Glo orange '55 Chevy at Strato Rods and Atco in 1965 and 1966; Frank Perkins brought a 1947 Austin with a Dodge slant six in the late 1960s.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^dslnj] The accounts disagree on the years.
 
 The two strips worked together. A Moparts poster wrote: "Used to run there every sunday morning. Load up, and race Atco that night," and he won at both on the same day twice.[^moparts] Bob Frey, an Air Force staff sergeant at McGuire, began announcing at Strato Rods, then got a tryout in Atco's tower and for the next 18 years (1966–1984) announced almost every race Atco held. He went on to be the voice of the IHRA and of NHRA television; he described himself as "a skinny, geeky, bald-headed guy with glasses."[^empa][^garlitsfrey] A Browns Mills man remembered that Walt Harris (a hall monitor at Pemberton High, another poster added) let him work Strato Rods for free admission. His crowd hung out at Highway Tire in Browns Mills, on "Nights that usually ended in a race on Mt Misery Rd."[^njpb]
 
@@ -120,6 +122,8 @@ In 1988 Atco hosted the IHRA Summernationals, where Tommy Howes made what *Hemmi
 ![An empty, overgrown entrance area and fencing at the former Atco Dragway in winter](../assets/images/commons-former-atco-dragway-2025.jpg){ loading=lazy }
 <figcaption markdown>The former Atco Dragway in March 2025, almost two years after it closed. Creator: Mr. Matté. Date: 2025-03-29. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Former_Atco_Dragway_(1),_March_2025.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
+
+Sunday morning was the runway at McGuire. Sunday night was Atco. The runway paid in trophies, and the meeting was in the Mr. Softee truck. Atco ran from Memorial Day Weekend 1960 until July 18, 2023.
 
 *See also:* [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before Atco; [Pennsauken, 1958](pennsauken-central-airport-1958.md), the Camden County airport strip that never was, a few miles from Atco; [Georgetown, Delaware](georgetown-speedway-delaware.md), whose young men "enjoyed the drag races at Atco"; [Don Garlits](../people/don-garlits.md).
 

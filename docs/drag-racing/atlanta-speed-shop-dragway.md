@@ -61,7 +61,7 @@ canonical_for: []
 ---
 # From Speed Shop to Strip: Julius Hughes and the Atlanta Speed Shop Dragway (Covington, Ga., 1959–91)
 
-*A Georgia Tech hot rodder opens a parts counter, takes over a county strip and puts his shop's name on it*
+*Julius Hughes put the Atlanta Speed Shop's name on the Newton County strip in 1964, started the $10,000 race, and a family-sourced account says it ran until 1991*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> county weekly (*The Covington News*, Covington, Ga.): legal notices, race notices, sports columns and county-board reports, 1959–77; other Georgia papers (*Forest Park News*, *Oconee Enterprise*, *Athens Banner-Herald*, *Pickens County Progress*), read as page OCR from the Georgia Historic Newspapers search service; a family-sourced memorial page and a race history by local historians (GeorgiaDragRacing.com); the Georgia Racing Hall of Fame's inductee page · **Last verified:** 2026-10-22 (Round 22-East) · **Open issues:** 1955 or 1956 at Kansas City ⚠; "the first speed shop in Georgia" ◐; manager or owner in 1964 ⚠; "the first NHRA sanctioned drag strip in Georgia" ⚠; the *Drag News* line ◐; the 1991 closing ◐ · [How we rate this](../reference/source-standards.md)
@@ -71,7 +71,7 @@ canonical_for: []
 
     — A. B. Shuman, caption to his own snapshot of the first Atlanta $10,000 Drag Race, October 1964, published on GeorgiaDragRacing.com.[^gdr1964]
 
-The day after the crash at the Yellow River Drag Strip in March 1969, a committee of Georgia legislators drove to the other strip in Newton County. Standing on it, the funny car driver Arnie Beswick explained "why he as a driver considered the Speed Shop Strip safer for drivers and spectators."[^cn690306] The strip west of Covington carried the name of an Atlanta parts store, and the same man ran both.
+The strip west of Covington carried the name of an Atlanta parts store, and the same man ran both. Julius Hughes officially opened The Atlanta Speed Shop in 1960. In 1964 the Newton Drag Strip changed its name to Atlanta Speed Shop Dragway, and that October it held the Atlanta $10,000 Drag Race. A family-sourced account says the strip ran until 1991, when the lease agreement was nullified by new land owners in court.
 
 ## The Newton County strip (1959–63)
 
@@ -91,11 +91,16 @@ That October came the big one. The *Covington News* billed "The Atlanta $10,000 
 
 The strip also booked the factory shows. In July 1965 it had the "Hurst Hemi-Under-Glass," which the *Athens Banner-Herald* called "a rolling Detroit research laboratory," for "a series of exhibition runs—the first in the area," with some 5,000 spectators expected.[^abh650725] (For the company behind the car, see [Hurst-Campbell](../companies/hurst-campbell.md).) That October "Sneaky" Pete Robinson was top eliminator at the second $10,000 race,[^cn651028] and the same year Hughes, driving the nitro-burning "Zot III," won the NHRA Division 2 Top Fuel championship.[^gahof][^gdrhughes]
 
+The day after the crash at the Yellow River Drag Strip in March 1969, a committee of Georgia legislators drove to the other strip in Newton County. Standing on it, the funny car driver Arnie Beswick explained "why he as a driver considered the Speed Shop Strip safer for drivers and spectators."[^cn690306] The strip west of Covington carried the name of an Atlanta parts store, and the same man ran both.
+
 In the 1970s the strip turns up mostly in the county-board pages. In December 1972 "Mr. Julius Hughes, owner of the Atlanta Speed Shop Dragstrip," asked for a hearing before the commissioners adopted a license fee, and "explained the operation of the dragstrip and the revenues derived from the operation, including expenses involved."[^cn721221] In September 1973 he was back, with Hulon Hodges, calling the fee "unfair and excessive"; the board took no action.[^cn730927a] The same week the strip gave $125 to the high school's Touchdown Club, whose members had parked cars on race day.[^cn730927b] In April 1974 a Stone Mountain driver, Billy Joe Gay, was killed when his Plymouth Road Runner slid sideways for 180 feet past the finish line into a tree; a sheriff's investigator said "it was the first fatality at the dragstrip that he could remember."[^cn740430] In 1977 a request for a county ambulance at the races was tabled for the county attorney to study.[^cn770203]
 
 The strip outlasted all of it. By the memorial page's account it ran until 1991, operated by Harold Springs and Julius Hughes III, "when the lease agreement was nullified by new land owners in court."[^gdrhughes]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Hughes kept the shop. He "would continue to operate the Atlanta Speed Shop until his death on February 15, 1992."[^gahof]
 
 For the other strip on Highway 278, and the crash that sent the legislators to this one, see [Yellow River Drag Strip](yellow-river-covington.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
+
+The shop's name was on the strip. The Atlanta $10,000 Drag Race started there that October. By the family-sourced account it ran until 1991, when the lease agreement was nullified by new land owners in court.
+
 
 ## Open questions & disputed details
 

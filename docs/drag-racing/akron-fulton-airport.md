@@ -47,7 +47,7 @@ canonical_for: []
 ---
 # Akron's "Champions Raceway"
 
-*Fulton Airport, Otie Smith and Ohio's first racing marker*
+*In 2016, the first Ohio historical marker for racing of any kind, for the airport strip where the Arfons brothers, Otie Smith, and Akron Arlen started*
 
 !!! abstract "Article record"
     **Confidence:** Medium (stronger for the marker text and Smith's career than for "first" claims) · **Source types:** <span class="hr-badge">Grassroots</span> state historical marker (Ohio History Connection 47-77, transcribed by Remarkable Ohio and HMdb), trade-blog event report (OnAllCylinders, 2016), NHRA columnist obituary note (2014) · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ "1959 championship" (marker) vs 1959 *Middle Eliminator* (NHRA); the "first NHRA-sanctioned track east of the Mississippi" claim is unverified; closing year (the marker's "eight years" implies about 1959); Akron *Beacon Journal* obituary is paywalled (402) · [How we rate this](../reference/source-standards.md)
@@ -57,47 +57,47 @@ canonical_for: []
 
     — Otis "Otie" Smith, asked why he liked to drive fast, as quoted by Phil Burgess, NHRA, May 30, 2014. [More in Voices](../voices/strip-owners-and-door-slammers.md)
 
-In 2016 the state of Ohio put up a historical marker for racing, which a 2016 report called the first Ohio historical marker for racing "of any kind."[^oac]
-
-On the south side of Akron, the runways of the city's **Fulton Airport** gave northeast Ohio one of the Midwest's earliest organized drag strips. Four local racers who started there became nationally known: the half-brothers **Art and Walt Arfons**, **Otie Smith**, and ["Akron Arlen" Vanke](../people/arlen-vanke.md).
+In 2016 the state of Ohio put up a historical marker for racing, which a 2016 report called the first Ohio historical marker for racing "of any kind."[^oac] The runways were Fulton Airport, on the south side of Akron, one of the Midwest's earliest organized drag strips. The half-brothers Art and Walt Arfons, Otie Smith, and ["Akron Arlen" Vanke](../people/arlen-vanke.md) started there and became nationally known. The marker says Smith won the 1959 championship. NHRA says Middle Eliminator.[^nhra]
 
 ## What the marker says
 
-Ohio History Connection marker **47-77**, "Akron Fulton Airport Champions Raceway," reads in part:[^ro][^hmdb]
+Ohio History Connection marker 47-77, "Akron Fulton Airport Champions Raceway," reads in part:[^ro][^hmdb]
 
 > "In 1951, several pioneer drag racers opened one of the Midwest's first drag strips known by local racing enthusiasts as the 'Fulton Airport Champions Raceway.' For the next eight years half-brothers Art and Walt Arfons, Otis 'Otie' Smith, and 'Akron Arlen' Vanke raced here. Both Arfons, who were long time bitter rivals, at one point held the world land speed record. Otie, the first president of the Cam Jammers car club in Akron, won the National Hot Rod Association's 1959 championship. Vanke won many national championships as a Stock, Super Stock, and Pro Stock racer."
 
-The marker was erected by the Akron Airport Racing Pioneers and The Ohio History Connection. It was cast in 2015 and dedicated **June 19, 2016**.[^hmdb][^ro] It stands at the Triplett Boulevard / Massillon Road intersection near the airport. Remarkable Ohio places it in Christopher Columbus Memorial Park, about 50 feet north of the original terminal.[^hmdb][^ro]
+The Akron Airport Racing Pioneers and The Ohio History Connection put the marker up. It was cast in 2015 and dedicated June 19, 2016.[^hmdb][^ro] It stands at the Triplett Boulevard / Massillon Road intersection near the airport. Remarkable Ohio places it in Christopher Columbus Memorial Park, about 50 feet north of the original terminal.[^hmdb][^ro]
 
 "For the next eight years" means the strip ran from 1951 to about 1959.
 
 ## The 2016 dedication
 
-OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The piece credited the marker drive to **Randy Lipscomb** of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. **Mary Taylor** was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac] (Vanke's biographers call the field "Akron Municipal Airport.")
+OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The piece credited the marker drive to Randy Lipscomb of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. Mary Taylor was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac] Vanke's biographers call the field "Akron Municipal Airport."
 
-Lipscomb: "This is the spot where these local heroes became drag racing innovators back in the 50's and 60's... we believe that honoring these racing pioneers is long overdue."[^oac]
+Lipscomb said, "This is the spot where these local heroes became drag racing innovators back in the 50's and 60's... we believe that honoring these racing pioneers is long overdue."[^oac]
 
-The same piece recalls the land-speed years. Walt's *Wingfoot Express*, driven by **Tom Green**, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached **576.553 mph** in 1965.[^oac]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+The same piece recalls the land-speed years. Walt's *Wingfoot Express*, driven by Tom Green, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached 576.553 mph in 1965.[^oac]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Otis "Otie" Smith (1919/20–2014)
 
-NHRA columnist **Phil Burgess** wrote on Friday, May 30, 2014, that Smith had died "last Friday" (that is, about **May 23, 2014**) at **94**.[^nhra]
+NHRA columnist Phil Burgess wrote on Friday, May 30, 2014, that Smith had died "last Friday" (that is, about May 23, 2014) at 94.[^nhra]
 
 Smith was "an avowed lifelong car nut" who drove his father's '29 Model A before his teens. He "began racing in 1953, driving a '32 Ford roadster at the Akron airport track."[^nhra]
 
 Burgess calls him "an early supporter of NHRA, running the regional in his hometown before the Nationals was even established." He raced across the Midwest and traveled to Florida, Maine and California, with "about 100 NHRA events in his 13-year career" by his own estimate.[^nhra]
 
-In **1959** he won **Middle Eliminator at the NHRA Nationals in Detroit** in "a very cool supercharged '23-T."[^nhra]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> It was an eliminator title at the Nationals, which NHRA then promoted as its national championship meet. We keep NHRA's wording.
+In 1959 he won Middle Eliminator at the NHRA Nationals in Detroit in "a very cool supercharged '23-T."[^nhra]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> It was an eliminator title at the Nationals, which NHRA then promoted as its national championship meet.
 
-He was the first president of the **Cam Jammers** car club of Akron (marker).[^ro] He ran **Otie's Automotive Specialties** in Akron for 33 years, until 1988 (NHRA). OnAllCylinders says Otie's Automotive was in **Kenmore**, an Akron neighborhood.[^nhra][^oac]
+He was the first president of the Cam Jammers car club of Akron (marker).[^ro] He ran Otie's Automotive Specialties in Akron for 33 years, until 1988 (NHRA). OnAllCylinders says Otie's Automotive was in Kenmore, an Akron neighborhood.[^nhra][^oac]
 
 He was survived by wife Betty, son Bill, and daughters Debbie Hughes and Laurie Smith. Bill raced gas dragsters with his father "for years after 'Otie' stopped driving."[^nhra]
 
 ## How it fits
 
-Akron belongs alongside the other early airport strips of the Midwest and East: the George Field taxiway at Lawrenceville, Ill., where [Bob Bartel](../people/bob-bartel.md)'s World Series began, and the circuit of [Ohio gasser](../places/ohio-gassers.md) tracks (Thompson, Dragway 42, Quaker City, National Trail) that followed. Jim Hill writes that Vanke built his reputation as "a Chevy Gasser racer" before Chrysler backed him.[^ecgm]
+The airport strip belongs with the other early airport strips of the Midwest and East. One is the George Field taxiway at Lawrenceville, Ill., where [Bob Bartel](../people/bob-bartel.md)'s World Series began. Another is the circuit of [Ohio gasser](../places/ohio-gassers.md) tracks (Thompson, Dragway 42, Quaker City, National Trail) that followed. Jim Hill writes that Vanke built his reputation as "a Chevy Gasser racer" before Chrysler backed him.[^ecgm]
 
 The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June 1955, sponsor-written) says the Arfons brothers' six-wheeled "Green Monster" won the top-speed award at the 1954 World Series of Drag Racing at Lawrenceville, Ill., at 132.35 mph, taking the Maremont Trophy and a $1,000 scholarship, and that the Akron group expected about 25 entries in 1955. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
+
+The marker went up in 2016 for the runways at Fulton Airport and for the four who started there. A 2016 report called it the first Ohio historical marker for racing "of any kind."[^oac]
 
 *See also:* [Arlen Vanke](../people/arlen-vanke.md), [The Ohio Gassers](../places/ohio-gassers.md), [Midwest & East](../places/midwest-east.md), [Bob Bartel](../people/bob-bartel.md), [Santa Ana drags](../eras/1950s-santa-ana-drags.md) (the California airport model), [the Phoenix Drag Strip](phoenix-west-side-karbs-litchfield-road.md) (a 1961 jet booking under a garbled Arfons name).
 

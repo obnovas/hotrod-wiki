@@ -1,6 +1,6 @@
 ---
 title: 'Cut Through the Mountain: The Black Widows, Lassiter Mountain, Helena and Alabama''s Hometown Strips (1955–1966)'
-summary: In 1958 Birmingham's Black Widows car club cut a drag strip through the ridge of Lassiter Mountain, with deep embankments for guardrails. Helena had a quarter-mile for nearly a decade in the 1950s and '60s; racers went from strip to strip each weekend, and in 1966 a 12-year-old girl beat her dad's time at Miller's Ferry.
+summary: In 1958 Birmingham's Black Widows cut a drag strip through the ridge of Lassiter Mountain and left the embankments for guardrails. Helena had a quarter-mile for nearly a decade, racers went from strip to strip each weekend, and in 1966 a 12-year-old girl beat her dad's time at Miller's Ferry.
 department: drag-racing
 era: 1950s
 eras:
@@ -77,7 +77,7 @@ canonical_for: []
 ---
 # Cut Through the Mountain: The Black Widows, Lassiter Mountain, Helena and Alabama's Hometown Strips (1955–1966)
 
-*A car club with a bulldozer's ambition, a strip behind a church, and a weekend circuit from Montgomery to the Chattahoochee*
+*In 1958 a club cut through Lassiter Mountain, Helena ran behind a church, and in 1966 a 12-year-old beat her dad at Miller's Ferry*
 
 !!! abstract "Article record"
     **Confidence:** Low (the Black Widows' strip rests on the Encyclopedia of Alabama, Bhamwiki and a 2008 local newspaper story; Helena rests on two *Shelby County Reporter* stories and a local history blog; the weekend circuit is racers' own memories) · **Source types:** <span class="hr-badge">Grassroots</span> Encyclopedia of Alabama photo caption, Bhamwiki, *North Jefferson News* via *The Cullman Times* (2008), *Alabama Yesterdays* blog (2018), *Junkyard Life* (2018), *Shelby County Reporter* (Graham Brooks, 2016; Michael J. Brooks, 2018), *Drag Strip List* memories · **Last verified:** 2026-11-02 (Round 30) · **Open issues:** ⚠ Lassiter Mountain's length (eighth vs quarter mile); ◐ Garlits "200 mph" at Helena; ◐ the Chattahoochee crash · [How we rate this](../reference/source-standards.md)
@@ -88,6 +88,8 @@ canonical_for: []
     — Ann Culpepper Barnett, of near Meridian, Mississippi, on *Drag Strip List*.[^dslal]
 
 ## The club that cut a mountain
+
+In 1958 Birmingham's Black Widows cut a drag strip through the ridge of Lassiter Mountain, leaving deep embankments on either side in lieu of guardrails.[^bham] Helena had a quarter-mile for nearly a decade in the 1950s and '60s.[^scr16] Racers went from strip to strip each weekend. In 1966 a 12-year-old girl beat her dad's time at Miller's Ferry.[^dslal]
 
 North of Birmingham, off Coalburg Road, the Black Widows car club built its own strip in 1958. Bhamwiki describes how: "They cut through the ridge of Lassiter Mountain, leaving deep embankments on either side of the dragway in lieu of guardrails."[^bham] A photo of about 1960 in the Encyclopedia of Alabama shows cars waiting to race at the strip outside Fultondale and calls it "an 1⁄8-mile strip that was founded in 1958 by the Black Widows Car Club."[^eoa] A 2008 newspaper story about its reopening, though, remembered "a quarter-mile strip of asphalt."[^cull]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup>
 
@@ -110,6 +112,8 @@ At Shawmut, Capps's father saw a dragster from Birmingham fail to shut down, ove
 In Montgomery, John B. Hart raced a '53 Corvette across from Gunter Air Force Base, at a strip also called Capital City Dragway. The car was sponsored by his own speed shop on Chandler Street and powered by an engine built by Elliot Sadler of Bessemer; the photo is undated, and *Drag Strip List* files it under the 1970s.[^dslal] On the coast, Ron Shaw's Counts Auto Club ran the Mobile Drag Strip near Dauphin Island "from about 1959 thru the mid 60's" (see [the Pascagoula Timing Association](pascagoula-timing-association.md), which raced there).[^dslal] Near Gadsden, the Green Valley Drag Strip, started in the late 1950s by local businessmen, ran into the 1970s; regulars such as Horace Johnson, in a '67 Fairlane 427, raced there for years.[^dslal][^gt16]
 
 And at Miller's Ferry near Camden, in 1966, Ann Culpepper Barnett beat her father's time in the family's Mercury Comet (her dad raced a yellow 1964 Comet Caliente, then a red Comet GT), and they let her race. "Some guys left when I beat them, but most were nice--bringing me water, etc (in the Southern heat)."[^dslal]
+
+The Black Widows had cut their strip through the mountain. Helena had run behind the church. The racers had gone from strip to strip each weekend. At Miller's Ferry in 1966, a 12-year-old beat her dad's time, and she was the talk of the strip.
 
 ## Open questions & disputed details
 

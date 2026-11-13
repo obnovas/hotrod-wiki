@@ -1,6 +1,6 @@
 ---
 title: 'The Cop and the Auto Shop: Escanaba''s Drag-n''s, 1954–55'
-summary: Kemp Sabourin and Bill Miller started Escanaba's Drag-n's hot rod club above an auto shop in Michigan, with rules that stressed safe driving (1954–55).
+summary: Kemp Sabourin, a city policeman, spent a year driving to Kingsford every weekend, then started Escanaba's Drag-n's above an auto shop in December 1954. A moving violation suspended a member for 30 days.
 department: drag-racing
 eras:
 - 1950s
@@ -45,6 +45,8 @@ canonical_for: []
 ---
 # The Cop and the Auto Shop: Escanaba's Drag-n's, 1954–55
 
+*A city policeman spent a year driving to Kingsford, then started a club above the auto shop, and a ticket meant 30 days out*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local daily newspaper (*Escanaba Daily Press*, seven club items, a school safety conference and a police-ticket column, Jan–Jun 1955, read as scanned OCR), wire feature carried by the same paper (Jul 1954) · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** OCR is rough and a few names and one address are uncertain (flagged); no report of the club's drag strip, auto show or race results was found in the January–June 1955 issues on the archive (July onward is not on the archive, and four earlier issues would not download); the Mexican Road Race claim is unverified ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -53,9 +55,9 @@ canonical_for: []
 
     — **Escanaba Daily Press** staff feature, "Escanaba Hot Rod Club Stresses Safe Driving To Its Membership," Apr 23, 1955. *OCR text, spacing normalized.*[^apr23]
 
-A Michigan policeman spent a year driving to another town every weekend to run with its car club. Then he came home and started his own, above an auto shop.
+Kemp Sabourin, a member of the city police force, spent a year traveling to Kingsford every week end. Then he and Bill Miller started the Drag-n's Auto Club above an auto shop in Escanaba. A moving violation ticket automatically suspends a member from the club for 30 days. The strip they wanted does not show up in the paper.
 
-That is the short version of **Kemp Sabourin** and **Bill Miller**, the two men behind the **Drag-n's Auto Club** of Escanaba, a small city whose daily paper billed itself as serving the "Upper Peninsula's Leading Trade Area."[^apr23] The *Escanaba Daily Press* gave them a feature and six shorter notices between January and June 1955. Their small, earnest story has none of the usual hot rod landmarks. There is no dry lake and no famous shop. There is a police officer, an auto shop with a clubroom upstairs, a strict rulebook and, by the paper's account, a town that mostly believed the worst of hot rodders.
+The *Escanaba Daily Press* billed itself as serving the "Upper Peninsula's Leading Trade Area."[^apr23] It gave them a feature and six shorter notices between January and June 1955. There is no dry lake and no famous shop. There is a police officer, an auto shop with a clubroom upstairs, a strict rulebook and, by the paper's account, a town that mostly believed the worst of hot rodders.
 
 ## The commute and the shop
 
@@ -89,7 +91,7 @@ The piece adds that a home-built hot rod "captured fifth place last year in the 
 
 The Drag-n's wanted a drag strip, and the paper says where. It was "a quarter mile level straight stretch of road" near a radio site whose name is garbled in the scan ("Danfordth," OCR). The road would have to be black-topped "for greatest safety measures." The paper claims many club cars would top 100 mph "in a quarter mile, a distance of three blocks."[^apr23] The club also planned an **auto show** for "the first of June," where any vehicle from a sedan to a motorcycle would be safety-checked and scored for appearance, lights, brakes, steering, exhaust, wiring and papers.[^apr23]
 
-The one event we can document is smaller. A notice on **May 21, 1955** says the club would sponsor "a road race to test speed judgment" on Sunday, May 22, starting at noon from the clubhouse. Only members could enter, "although the public is invited to attend," and prizes would be awarded.[^may21] That is a judgment test, not a timed drag run, which fits the club's safety message. We found no report of the result.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+The one event we can document is smaller. A notice on **May 21, 1955** says the club would sponsor "a road race to test speed judgment" on Sunday, May 22, starting at noon from the clubhouse. Only members could enter, "although the public is invited to attend," and prizes would be awarded.[^may21] That is a judgment test, not a timed drag run, which fits the club's safety message. We found no report of the result. Whether the strip and the auto show ever happened is still open.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## More from the paper's small print { #more-from-the-papers-small-print-added-round-18 }
 
@@ -107,6 +109,8 @@ One ticket from those weeks stands out. On June 10, 1955 the police-ticket colum
 </figure>
 
 The paper had already run the safety pitch. In July 1954 the same paper ran a feature headed "Hot Rodders Playing It Safe" about the Chicago-area Automobile Timing Association of America, with the line that the group came into being in 1953. See [Half Day, Illinois](half-day-ataa-maremont.md). Other clubs were working the same way: [Decatur, Indiana](indiana-small-town-clubs.md) formed its own chapter in 1956 with a police blessing. [Kansas City](kansas-city-timing-association.md) was building a 32-club timing association in 1955, the year the Drag-n's got their plates.
+
+Sabourin had spent a year traveling to Kingsford every week end, then started the club above the shop. A moving violation ticket automatically suspends a member from the club for 30 days. The strip does not show up in the paper.
 
 ## Open questions & disputed details
 
