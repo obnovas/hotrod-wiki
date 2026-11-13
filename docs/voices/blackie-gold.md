@@ -1,6 +1,6 @@
 ---
 title: 'Blackie Gold: Grease Monkey at Ten'
-summary: Hyman "Blackie" Gold, interviewed in 2006, remembers starting as a grease monkey at ten, Muroc, the founding of the SCTA and Pancho Barnes' ranch.
+summary: In 2006 Hyman "Blackie" Gold told how a Pasadena Ford agency gave him the nickname Blackie at 10, and how it went with him through Muroc, the SCTA, and Pancho Barnes' ranch.
 department: voices
 era: 1930s
 eras:
@@ -40,14 +40,14 @@ canonical_for: []
 ---
 # Blackie Gold: Grease Monkey at Ten
 
-*Muroc before the SCTA*
+*A grease monkey at 10, the nickname Blackie, then Muroc, the SCTA, and Pancho Barnes' ranch*
 
 !!! abstract "Article record"
     **Confidence:** Medium (one long first-person interview) · **Source types:** oral history (Pancho Barnes Trust Estate Archive, 2006) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** He was 92 when interviewed and made several unverifiable "first" claims (⚠ below) · [How we rate this](../reference/source-standards.md)
 
 ## How a ten-year-old got a nickname
 
-In **2006** the Pancho Barnes Trust Estate Archive interviewed Hyman "Blackie" Gold (born Feb 28, 1914), and published it as an excerpt from a planned book, *Voices from the Happy Bottom Riding Club*.[^g] His story runs from a Pasadena Ford agency in the 1920s to Muroc, the founding of the SCTA, and Pancho Barnes' ranch after the war. See [1930s Dry Lakes & SCTA](../eras/1930s-dry-lakes-scta.md).
+In 2006 the Pancho Barnes Trust Estate Archive interviewed Hyman "Blackie" Gold, born Feb 28, 1914, and published it as an excerpt from a planned book, *Voices from the Happy Bottom Riding Club*.[^g] The nickname came at a Pasadena Ford agency in the 1920s, where he started as a grease monkey at 10. It went with him to Muroc, the founding of the SCTA, and Pancho Barnes' ranch after the war. See [1930s Dry Lakes & SCTA](../eras/1930s-dry-lakes-scta.md).
 
 The nickname came with his first job:
 
@@ -57,7 +57,7 @@ The nickname came with his first job:
 
 ## Waiting in line at Muroc
 
-A decade later he was racing on the lakes, where timing was everything:
+A decade later he was racing on the lakes, and you had to be early:
 
 > "When you race on the dry lakes you have to get there very early, before the heat sets in. … There might be a 100 cars there waiting in line for their run, and the guys at the front of the line always ran faster than the guys toward the end of the line."
 >
@@ -71,7 +71,9 @@ By the end of the decade the Army was changing the lakebed:
 
 ## Night Flyers and Pancho Barnes
 
-The rest of his story comes in brief. Gold says he started racing Model Ts and As in 1931. He bought a '32 roadster for $75 in 1935 and ran it at Muroc from 1936, reaching about 90 mph in 1939. Around 1936 he founded the **Night Flyers**, which he says was one of the first SCTA member clubs (SCTA founded 1937, in his account). He says Pancho Barnes brought racers "cold desert punch" and sandwiches, and that after the war the racers became honorary members of her Happy Bottom Riding Club.[^g]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+Gold says he started racing Model Ts and As in 1931. He bought a '32 roadster for $75 in 1935 and ran it at Muroc from 1936, about 90 mph in 1939. Around 1936 he founded the **Night Flyers**, which he says was one of the first SCTA member clubs. The SCTA, in his account, was founded in 1937. He says Pancho Barnes brought racers "cold desert punch" and sandwiches, and that after the war the racers became honorary members of her Happy Bottom Riding Club.[^g]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+
+The nickname came at that Ford agency, at 10. Muroc, the Night Flyers, and Pancho Barnes' ranch came after.
 
 ## Open questions & disputed details
 

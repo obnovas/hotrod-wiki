@@ -1,6 +1,6 @@
 ---
 title: 'Show & Custom Voices: Oakland, the KKOA and the First Funny Cars'
-summary: 'Voices from the show and custom world: Mary Slonaker on Oakland in 1949–50, Jerry Titus on the KKOA in Wichita and Eddie Schartman on the first Funny Car.'
+summary: "The voices are Mary Slonaker on an Oakland show that began almost by accident in 1949–50, Jerry Titus on the KKOA in Wichita, and Eddie Schartman in the back seat of a 1966 Funny Car."
 department: voices
 era: 1950s
 eras:
@@ -44,12 +44,12 @@ canonical_for: []
 ---
 # Show & Custom Voices: Oakland, the KKOA and the First Funny Cars
 
-*Three rooms, three decades, and a driver in the wrong seat*
+*Three rooms, three decades, and a driver in the back seat*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** recollections quoted in Hot Rod's "Golden Oldie" (written for the show's 50th, about 1999; web-dated 2023), KKOA's own history, NHRA feature (2016) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** The Golden Oldie print date is unconfirmed · [How we rate this](../reference/source-standards.md)
 
-These are three rooms in three decades: an Oakland show hall, a Wichita club and a Funny Car's back seat.
+Three rooms in three decades: an Oakland show hall in 1949–50, the KKOA in Wichita, and a 1966 Funny Car with the driver in the back seat.
 
 ## Mary Slonaker: Oakland, 1949–50
 
@@ -67,7 +67,7 @@ A decade later, the regulars were coming back year after year:
 
 ## Jerry Titus: KKOA, Wichita
 
-In Wichita, the voice is a club's:
+In Wichita, Jerry Titus said the members make the KKOA work.
 
 > "the members of the KKOA makes it work." … "It's like family at KKOA."
 >
@@ -75,7 +75,7 @@ In Wichita, the voice is a club's:
 
 ## Eddie Schartman: the first Funny Car (1966)
 
-And in Detroit, a new kind of car put the driver somewhere strange:
+And in Detroit, the Funny Car put the driver in the back seat.
 
 > "I walked in there, looked at the car, and said, 'What the hell is this?' … It was a dragster with a body on it and the driver in the back seat and not the front seat, where you belong. … On my first pass, I went 166 mph and took out the [finish-line] lights."
 >
@@ -86,6 +86,8 @@ His main rival was Dyno Don Nicholson:
 > "We were definitely one another's main competition, and unless we blew something up, there was a good chance we were going to win."
 >
 > — **Schartman**, on his rivalry with "Dyno Don" Nicholson.[^ns]
+
+An Oakland show hall, a Wichita club, and a driver in the back seat.
 
 [^go]: Hot Rod, "Golden Oldie." https://www.hotrod.com/features/golden-oldie-982-1789-117-1 (accessed 2026-10-13)
 [^kk]: Kustom Kemps of America, "History." https://www.kustomkempsofamerica.com/history.htm (accessed 2026-10-13)

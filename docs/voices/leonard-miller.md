@@ -1,6 +1,6 @@
 ---
 title: 'Leonard Miller: From a Paoli Junkyard to Team Owner'
-summary: Leonard Miller raced at Bucks County strips in the 1960s and in 1973 co-founded the Black American Racers Association. Here he tells it in his own words.
+summary: Leonard Miller went from a Paoli junkyard to Bucks County strips in the 1960s, including Vargo, and in 1973 co-founded the Black American Racers Association. He tells it in his own words.
 department: voices
 era: 1960s
 eras:
@@ -37,20 +37,22 @@ canonical_for: []
 ---
 # Leonard Miller: From a Paoli Junkyard to Team Owner
 
+*From a Paoli junkyard and the Bucks County strips to the Black American Racers Association in 1973, in his own words*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** radio and newspaper interview (WHYY, Peter Crimmins, June 22, 2018); museum story (NMAH) citing a 2015 Mercer Museum oral history and his 2004 autobiography *Silent Thunder* · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** The NMAH page blocked our fetch this round; we have not yet read the Mercer oral history transcript itself · [How we rate this](../reference/source-standards.md)
 
-Miller (born about 1934; WHYY says he was 5 in 1939) grew up on Philadelphia's Main Line. He raced at Bucks County strips in the 1960s, including Vargo, and in 1973 co-founded the **Black American Racers Association** with Wendell Scott, Malcolm Durham and Ron Hines (Smithsonian NMAH). He tells his story in his 2004 autobiography *Silent Thunder*. This complements [Midwest & East Threads](../places/midwest-east.md). WHYY interviewed him in 2018 for the Mercer Museum's exhibit "Racing: A Need for Speed."[^why]
+Leonard Miller tells it in his own words, from a Paoli junkyard to the Black American Racers Association. He was born about 1934; WHYY says he was 5 in 1939. He grew up on Philadelphia's Main Line. He raced at Bucks County strips in the 1960s, including Vargo, and in 1973 co-founded the **Black American Racers Association** with Wendell Scott, Malcolm Durham and Ron Hines (Smithsonian NMAH). He tells his story in his 2004 autobiography *Silent Thunder*. This complements [Midwest & East Threads](../places/midwest-east.md). WHYY interviewed him in 2018 for the Mercer Museum's exhibit "Racing: A Need for Speed."[^why]
 
 ## In his words
 
-The cars caught him early:
+The cars caught him before the war, at a Memorial Day parade:
 
 > "I learned how wonderful the world was. … When they had a Memorial Day parade – this was before World War II – you'd see Stutz Bearcats, Cords, Duesenbergs in yellow, red and blue. I was taken in by it."
 >
 > — **Leonard Miller**, WHYY, 2018, recalling 1939. *Told about 79 years later.*[^why]
 
-His first car came out of a junkyard:
+His first car came out of a junkyard on Route 30:
 
 > "Bill Jones had a junkyard on Route 30 coming out of Paoli. He was a big African-American numbers writer and gambler. He had the junkyard as a front."
 >
@@ -69,6 +71,8 @@ Miller describes **Vargo** as free of racial hostility. Elsewhere in the same in
 NMAH notes that Black drivers were barred from competing against white drivers in the 1920s, which led to the Colored Speedway Association (1924).[^nmah]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 For Malcolm Durham, the BARA co-founder and an East Coast Chevy match racer, see [Malcolm Durham](../people/malcolm-durham.md).
+
+A Paoli junkyard, the Bucks County strips, including Vargo, and in 1973 the Black American Racers Association. He tells it in his own words.
 
 ## Open questions & disputed details
 

@@ -1,6 +1,6 @@
 ---
 title: 'The Harts of Santa Ana: Pappy, Peggy and Gerald'
-summary: C.J. "Pappy" Hart and Peggy Hart ran the Santa Ana drags from 1950 to 1959. Here are their own words and those of people who knew them.
+summary: C.J. "Pappy" Hart and Peggy Hart ran the Santa Ana drags from 1950 to 1959. This page is his words, and the words of the people who knew the two of them.
 department: voices
 era: 1950s
 eras:
@@ -39,22 +39,24 @@ canonical_for: []
 ---
 # The Harts of Santa Ana: Pappy, Peggy and Gerald
 
+*Pappy and Peggy Hart ran the Santa Ana drags from 1950 to 1959, and these are the words around that*
+
 !!! abstract "Article record"
     **Confidence:** Medium (stronger for the outline than for the anecdotes) · **Source types:** Hart's 2001 National Dragster interview (quoted in obituaries), the obituaries themselves (NHRA, OC Register, LA Times, NYT, AP, Press-Enterprise, Richard Parks), son's 2015 newspaper interview · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** Peggy Hart's own words not yet found · [How we rate this](../reference/source-standards.md)
 
-C.J. "Pappy" Hart (1911–2004) and his wife **Peggy Hart** ran the Santa Ana drags on an Orange County Airport runway from 1950 to 1959. See [Santa Ana](../eras/1950s-santa-ana-drags.md) and [Peggy Hart](../people/peggy-hart.md). The fan site *We Did It For Love* collects his obituaries, and several of them quote him and the people who knew him.[^wd]
+C.J. "Pappy" Hart (1911–2004) and his wife **Peggy Hart** ran the Santa Ana drags on an Orange County Airport runway from 1950 to 1959. This page is his words, and the words of people who knew the two of them. See [Santa Ana](../eras/1950s-santa-ana-drags.md) and [Peggy Hart](../people/peggy-hart.md). The fan site *We Did It For Love* collects his obituaries, and several of them quote him and the people who knew him.[^wd]
 
 ## Pappy, in his words
 
-Pappy explained the strip in terms of safety:
+Pappy said the strip was a way to get people to stop racing on the streets:
 
 > "There's been drag racing since cars were invented, but I guess they say I invented drag racing because I was the first one to have a commercial strip. There was one in [Goleta, Calif.], but they charged no fee at the time. I saw a need to get people to stop racing on the streets; that was dangerous."
 >
 > — **C.J. Hart**, 2001 National Dragster interview, as quoted by NHRA.com (Phil Burgess), June 26, 2004.[^wd]
 
-His own driving was another matter. The New York Times obituary noted that this was "a comment seemingly at odds with his widely reported arrest at age 87 for driving 85 in a 55-mph zone."[^wd]
+The New York Times obituary noted that this was "a comment seemingly at odds with his widely reported arrest at age 87 for driving 85 in a 55-mph zone."[^wd]
 
-He also had a quick answer on stage. In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+He had a quick answer on stage. In April 2004, at a museum panel, a moderator asked why he wasn't driving a Rolls if he was so smart. Hart answered: "Because I'm a Ford man." (NYT, July 4, 2004).[^wd]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Peggy, as others remembered her
 
@@ -66,7 +68,7 @@ Peggy raced, too:
 
 ## Gerald Hart, 2015
 
-Eleven years after Pappy died, the family memories came from his son:
+Eleven years after Pappy died, the family memories came from his son Gerald:
 
 > "Races would be held every Sunday except Mother's Day. They tried it once and they wouldn't let that happen again. Their wives wouldn't let them out."
 >
@@ -78,11 +80,13 @@ Eleven years after Pappy died, the family memories came from his son:
 
 ## Dale Armstrong, racer
 
-The racers remembered him too:
+The racers remembered him too. Dale Armstrong had raced at Lions under Hart:
 
 > "He knew I would race anything to make few bucks. 'Pappy' - that's what everyone called him - always took good care of me. I was treated better at his track than any other."
 >
 > — **Dale Armstrong**, who raced at Lions under Hart from 1964 to 1979, to the Press-Enterprise, 2004.[^wd]
+
+Pappy and Peggy ran the Santa Ana drags from 1950 to 1959. The words here are his, and the words of the people who knew them.
 
 *See also:* [The "Mexican Express" at Lions](esparza-brothers.md).
 
