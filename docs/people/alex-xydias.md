@@ -1,6 +1,6 @@
 ---
 title: 'Alex Xydias: Hanging Out the So-Cal Shingle'
-summary: On Army furlough in the 1940s Alex Xydias watched San Fernando Valley street races and decided to open a speed shop. He named it So-Cal.
+summary: On Army furlough Alex Xydias watched San Fernando Valley street races and got the idea to open a speed shop. He named it So-Cal, and that name came with an obligation to race.
 department: people
 era: 1940s
 eras:
@@ -42,7 +42,7 @@ canonical_for: []
 ---
 # Alex Xydias: Hanging Out the So-Cal Shingle
 
-*Born 1922*
+*On furlough he watched the street races, opened So-Cal, and the name came with an obligation to race*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral, secondary · **Last verified:** 2026-10-12 (Round 1) · [How we rate this](../reference/source-standards.md)
@@ -52,23 +52,25 @@ canonical_for: []
 <figcaption markdown>A belly tank racer shown at the Petersen Automotive Museum and titled "1952 So-Cal Speed Shop Special Belly Tank Racer." The uploader says it is built from a P-38 drop tank. The identification is the uploader's. Photo: CALChux (Flickr), uploaded 2019 (date field reads 1 Jan 2019). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1952_So-Cal_Speed_Shop_Special_Belly_Tank_Racer_(48083256906).jpg). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).</figcaption>
 </figure>
 
-Alex Xydias entered the Army Air Corps in 1942. On furlough he watched San Fernando Valley street races, and it got him thinking: "I was really surprised at how fast the cars ran and I got the idea to open a speed shop."[^yum]
+On furlough from the Army Air Corps, Alex Xydias watched San Fernando Valley street races and got the idea to open a speed shop. He named it So-Cal. The name came with an obligation: he had to race.
+
+He entered the Army Air Corps in 1942. On furlough he watched the races, and it got him thinking: "I was really surprised at how fast the cars ran and I got the idea to open a speed shop."[^yum]
 
 ## Before the Army
 
-The cars had been in his life for years. He was born **March 22, 1922**, in Los Angeles. His first hot rod was a '29 roadster he drove to Fairfax High.[^yum] He hung around Jimmy Summers' shop across the street ([see Summers](jimmy-summers.md)).[^sm]
+The cars had been in his life for years. He was born March 22, 1922, in Los Angeles. His first hot rod was a '29 roadster he drove to Fairfax High.[^yum] He hung around Jimmy Summers' shop across the street ([see Summers](jimmy-summers.md)).[^sm]
 
 ## The name
 
-The shop needed a name. He liked the name of a speed shop in Culver City<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> and coined "So-Cal": "then I was the only one."[^css]
+The shop needed a name. He liked the name of a speed shop in Culver City<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> and coined "So-Cal": "then I was the only one."[^css] He doesn't name it.
 
-He opened on Olive Avenue, Burbank, on his discharge day, **March 3, 1946**, with borrowed money.[^yum] That name came with an obligation: "If I had 'speed shop' in the name I had to start to race."[^css]
+He opened on Olive Avenue, Burbank, on his discharge day, March 3, 1946, with borrowed money.[^yum] That name came with an obligation: "If I had 'speed shop' in the name I had to start to race."[^css]
 
 ## Racing the name
 
 So he raced. His V8-60 belly tank lakester ran 136 mph in 1948 and made the cover of Hot Rod. A Batchelor-designed streamliner topped 210 mph in 1952. He closed the shop in 1961 as OHV engines overtook flatheads.[^fc]
 
-After the shop he went on to produce films, edit Car Craft and Hot Rod Industry News, and help start the SEMA Show. And he revived So-Cal with Pete Chapouris after Bruce Meyer and Chapouris restored the belly tank.[^fc][^css]
+After the shop he went on to produce films, edit Car Craft and Hot Rod Industry News, and help start the SEMA Show. He revived So-Cal with Pete Chapouris after Bruce Meyer and Chapouris restored the belly tank.[^fc][^css] The idea had come on furlough. The name came with the obligation to race.
 
 ## Open questions & disputed details
 

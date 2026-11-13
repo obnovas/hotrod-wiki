@@ -1,6 +1,6 @@
 ---
 title: 'Ed "Isky" Iskenderian: The Camfather'
-summary: Ed "Isky" Iskenderian was born in 1921 in Cutler, California, to Armenian immigrant parents and became the camshaft maker known as the Camfather.
+summary: Ed Iskenderian was born in 1921 after frosts ruined the family vineyard, was mentored by Ed Winfield, was SEMA's first president in 1963, and died February 4, 2026, at 104.
 department: people
 era: 1950s
 eras:
@@ -36,7 +36,7 @@ canonical_for:
 ---
 # Ed "Isky" Iskenderian: The Camfather
 
-*1921–2026*
+*Frosts ruined the vineyard. Ed Winfield mentored his cam grinding. He was the first president of SEMA, and its last surviving founder.*
 
 !!! abstract "Article record"
     **Confidence:** High · **Source types:** obituaries (5 agreeing), oral, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · [How we rate this](../reference/source-standards.md)
@@ -49,7 +49,9 @@ canonical_for:
 !!! note "Verified"
     His death on **February 4, 2026**, at 104, in Los Angeles is confirmed by NHRA, Hagerty, Car and Driver, SEMA, and Legacy.com.[^nhra][^hag][^cd][^sema][^leg]
 
-Frosts ruined the family vineyard in Cutler, in Tulare County, California. Ed Iskenderian was born there on **July 10, 1921**, to Armenian immigrant parents, and the family moved to Los Angeles when he was a year old.[^nhra][^leg]
+Frosts ruined the family vineyard in Cutler. He was **mentored by Ed Winfield** in starting cam grinding. He was a founding member and first president of SEMA (1963), and its last surviving founder. The last interview ended with "Goodbye, boys!"
+
+Ed Iskenderian was born in Cutler, in Tulare County, California, on **July 10, 1921**, to Armenian immigrant parents, and the family moved to Los Angeles when he was a year old.[^nhra][^leg]
 
 He attended LA Polytechnic High and built a Model T roadster that is now at the Museum of American Speed. It has a flathead V8 with Maxi heads, which moved the exhaust valves into the head.[^leg][^hag] In 1940 Jimmy Summers "pounded out a few dents" on that T for $10 ([Jimmy Summers](jimmy-summers.md)).[^summers] During the war he served in the Army Air Forces Air Transport Command in the Pacific.[^leg]
 
@@ -62,6 +64,8 @@ He also made noise. He was the chief instigator of the [Camgrinder Wars](../eras
 His last interview, in a nursing home south of LA in September 2025, ended with "Goodbye, boys!"[^hag]
 
 **Correction:** the earlier wiki note "1921–2026 (unverified)" from the Garlits Museum list is now confirmed.
+
+Frosts had ruined the vineyard. The family had moved when he was a year old. He was **mentored by Ed Winfield** in starting cam grinding. He was a founding member and first president of SEMA (1963), and its last surviving founder. The interview ended with "Goodbye, boys!"
 
 *See also:* [Jack Engle](jack-engle.md).
 

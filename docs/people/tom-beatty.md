@@ -1,6 +1,6 @@
 ---
 title: Tom Beatty and the "Rust Bucket"
-summary: Tom Beatty's unpainted, rusty 1929 Ford roadster ran 154.63 mph in 1951. He also built a belly tank and raced with the Glendale club.
+summary: Tom Beatty's unpainted, rusty 1929 Ford roadster ran 154.63 mph in 1951. He built a belly tank in the car port next to Navarro's shop, and it was SCTA Top Speed of the Season five straight years.
 department: people
 eras:
 - 1940s
@@ -40,7 +40,7 @@ canonical_for: []
 ---
 # Tom Beatty and the "Rust Bucket"
 
-*The Glendale Strokers, a channeled roadster and a record-setting belly tank*
+*An unpainted, rusty 1929 Ford ran 154.63 mph in 1951, and the belly tank from the car port next door was Top Speed of the Season*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (Navarro via AHRF), period magazine (via auction text), auction catalog · **Last verified:** 2026-10-12 (Round 2) · **Open issues:** Record conflicts open · [How we rate this](../reference/source-standards.md)
@@ -50,11 +50,13 @@ canonical_for: []
 <figcaption markdown>The belly tank lakester that the Henry Ford Museum displays as the "1951 Beatty belly tank lakester" (Dearborn, Mich., 2012). The identification is the photographer's and the museum's. We have not checked it against the Beatty records discussed below. Photo: Michael Barera, 2012-08-24. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Henry_Ford_Museum_August_2012_29_(1951_Beatty_belly_tank_lakester).jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
 
-Tom Beatty's channeled 1929 Ford roadster was unpainted and rusty, looking "gutted by a fire" (Hop Up, August 1951). It was clocked at 154.63 mph in 1951 with a '41 block, Navarro heads and manifold, and a GMC two-stroke diesel blower. It used an upside-down Model A front suspension, and the steering wheel was stripped to the wire core and wrapped in friction tape.[^rust]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+Tom Beatty's channeled 1929 Ford roadster was unpainted and rusty, looking "gutted by a fire" (Hop Up, August 1951). It was clocked at 154.63 mph in 1951 with a '41 block, Navarro heads and manifold, and a GMC two-stroke diesel blower. It used an upside-down Model A front suspension, and the steering wheel was stripped to the wire core and wrapped in friction tape.[^rust]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> AHRF calls the car a '27.
+
+He built the belly tank in the car port next door. That tank was SCTA Top Speed of the Season.
 
 ## The club and the car port
 
-Beatty was a Glendale club man. Barney Navarro joined the club in 1940 along with Tom Beatty, George Hill and Doane Spencer.[^ahrf]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Beatty was a Glendale club man. Barney Navarro joined the club in 1940 along with Tom Beatty, George Hill and Doane Spencer.[^ahrf]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> AHRF writes Glendale Strokers. The spelling is still open.
 
 The two stayed close. Navarro: "Tom lived next door to my shop and had a covered car port where he could do the welding and assembly work."[^ahrf]
 
@@ -62,13 +64,13 @@ The two stayed close. Navarro: "Tom lived next door to my shop and had a covered
 
 That car port produced the belly tank. Beatty built a ¾-in. chrome-moly truss chassis with swing-axle independent rear suspension, a modified Ford gearbox, and an inverted Model A front axle. Hop Up (Dec 1951) wrote: "Finally an original tank has come along."[^tank]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Then it went fast. In 1952 came 203 mph one-way and a 197.17 mph two-way record per AHRF;[^ahrf] 203.61 one-way per RM. It was Hot Rod's "Hot Rod of the Month" (Nov 1952) with a Rex Burnett cutaway.[^tank]
+In 1952 came 203 mph one-way and a 197.17 mph two-way record per AHRF.[^ahrf] RM has 203.61 one-way. It was Hot Rod's "Hot Rod of the Month" (Nov 1952) with a Rex Burnett cutaway.[^tank]
 
-And it kept going. RM says it was SCTA Top Speed of the Season five straight years (1951–55), and again in 1959. It reached 211.267 mph in 1955 (the 16th member of the 200 MPH Club), switched to Olds power in 1958, and ran a 243.438 mph average in 1962.[^tank]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+RM says it was SCTA Top Speed of the Season five straight years (1951–55), and again in 1959. It reached 211.267 mph in 1955, the 16th member of the 200 MPH Club. It switched to Olds power in 1958, and ran a 243.438 mph average in 1962.[^tank]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The shop
 
-By then Beatty was in business. He opened **Tom Beatty Automotive Engineering**, Sun Valley, in 1958, selling 6-71 blower manifolds and multi-belt drives.[^tank]
+In 1958 he opened Tom Beatty Automotive Engineering, Sun Valley, selling 6-71 blower manifolds and multi-belt drives.[^tank] The roadster was unpainted and rusty, and it ran 154.63 mph in 1951. The belly tank from the car port next door was SCTA Top Speed of the Season five straight years (1951–55), and again in 1959.
 
 *See also:* [the Denver Timing Association](../drag-racing/denver-timing-association-bandimere.md), whose charter member Bob Olds remembered Beatty letting him drive the belly tanker one way at Bonneville.
 

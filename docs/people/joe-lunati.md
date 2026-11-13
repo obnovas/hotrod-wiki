@@ -1,6 +1,6 @@
 ---
 title: 'Joe Lunati: Eighth-Grade Math'
-summary: Joe Lunati raced with a Memphis car club, ran Trouble Maker and Dixie Devil, and put his name on a line of camshafts.
+summary: "Joe Lunati rode the Memphis city bus to his uncle's grocery, raced with the Memphis Rodders, and put his name on a line of camshafts. His family said the math was 8th grade."
 department: people
 era: 1960s
 eras:
@@ -54,7 +54,7 @@ canonical_for:
 ---
 # Joe Lunati: Eighth-Grade Math
 
-*From the Memphis Rodders to Lunati Cams*
+*From a Memphis grocery and the Memphis Rodders to a line of cams, and 8th grade math*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> family obituary (Memphis Funeral Home, 2023); small-town newspaper race ads and reports (*Sikeston Daily Standard*, 1966; *Monroe Morning World*, 1967); wire report of the 1966 Nationals; company obituary (Edelbrock Group, 2023); NHRA In Memoriam (2023) · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** birthplace and year: Memphis, 1935 (family, company) vs. New Orleans, 1939 (NHRA) ⚠; cam shop founded 1968 (company, NHRA) vs. 1969 (family) ⚠; NHRA national titles: five (family, company) vs. three (NHRA) ⚠ · [How we rate this](../reference/source-standards.md)
@@ -64,7 +64,7 @@ canonical_for:
 
     — Joe Lunati's family obituary, Memphis Funeral Home, September 2023.[^obit]
 
-Joe Lunati rode the city bus downtown as a kid to work at his Uncle Pete's grocery, sweated in the Kroger bakery, and raced with a Memphis car club. He ended up with his name on a line of camshafts. His family called him "the ultimate prankster": "when you saw that grin you knew something was up."[^obit]
+Joe Lunati rode the city bus downtown as a kid to work at his Uncle Pete's grocery, sweated in the Kroger bakery, and raced with a Memphis car club. He ended up with his name on a line of camshafts. His family called him "the ultimate prankster": "when you saw that grin you knew something was up."[^obit] His family said the math was 8th grade.
 
 ## A Memphis kid
 
@@ -84,7 +84,9 @@ By the next spring Lunati was a touring attraction in the Deep South. A May 1967
 
 Then came cams. By day he rebuilt production engines. In the evenings, the company says, he experimented "with different cam grinds using the shop's cam grinder and found his calling." "In 1968, Lunati made the leap to open his own cam shop," and by 1970 it was serving "weekend sportsman drag racers and local Memphis area circle track racers." Crankshafts, rods and pistons followed.[^edel]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> By the mid-1990s he sold the company to Holley. It went to COMP Performance Group in 2007, and in 2023 it became Edelbrock Group's sixth "power brand."[^edel] COMP, another Memphis cam maker, has its own Memphis roots; see [COMP Cams and RHS](../companies/comp-cams-rhs.md).
 
-He never left the sport. He kept racing go-karts with his children and won a World Karting Association Mechanic of the Year award. He also kept going to the Memphis Rodders reunions "until his health declined."[^obit][^edel] He died in Germantown, Tenn., on September 13, 2023, at 88. His family's last word on him was local: "He was a cornerstone in the Memphis drag racing history."[^obit]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
+He never left the sport. He kept racing go-karts with his children and won a World Karting Association Mechanic of the Year award. He also kept going to the Memphis Rodders reunions "until his health declined."[^obit][^edel] He died in Germantown, Tenn., on September 13, 2023, at 88. His family's last word on him was local: "He was a cornerstone in the Memphis drag racing history."[^obit]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup> The 2023 obituaries differ on his birthplace, his title count, and the company's founding year.
+
+He rode the city bus to his Uncle Pete's grocery and raced with the Memphis Rodders. His name went on the camshafts. The math, his family said, was 8th grade.
 
 ## Open questions & disputed details
 

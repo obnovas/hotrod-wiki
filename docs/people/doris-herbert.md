@@ -1,6 +1,6 @@
 ---
 title: Doris Herbert and "The Drag Racer's Bible"
-summary: Doris Herbert's Drag News kept the national Standard 1320 Record List and set timing standards for reputable strips, sanctioned or not.
+summary: Doris Herbert bought Drag News, set timing standards after a questionable 204.54 mph clocking, and kept the national Standard 1320 Record List. On Oct 1, 1960, Garlits was official at a backed-up 182.18 mph.
 department: people
 era: 1950s
 eras:
@@ -49,18 +49,20 @@ canonical_for: []
 ---
 # Doris Herbert and "The Drag Racer's Bible"
 
+*She bought Drag News, and a questionable 204.54 mph clocking had to be backed-up on the list she kept*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary · **Last verified:** 2026-10-12 (Round 2) · [How we rate this](../reference/source-standards.md)
 
-Isky promoted a questionable 204.54 mph clocking for Chris Karamesines at Alton, Illinois. Doris Herbert's answer was to set universal timing standards for reputable strips, sanctioned or not, and to keep the national **Drag News Standard 1320 Record List**.[^cp1]
+Doris Herbert did not start *Drag News*. She bought it, and a speed had to be backed-up to make her list. Isky promoted a questionable 204.54 mph clocking for Chris Karamesines at Alton, Illinois. Her answer was to set universal timing standards for reputable strips, sanctioned or not, and to keep the national **Drag News Standard 1320 Record List**.[^cp1]
 
 The Oct 1, 1960 issue named Garlits officially fastest at a backed-up 182.18 mph (Half Moon Bay).[^cp1] The Hall of Fame credits this with countering promoter-inflated "popcorn" speeds, and credits the **Mr. Eliminator** list's best-of-three challenge races as a root of match racing and pro drag racing.[^hof]
 
 ## The paper
 
-She did not start the paper. **Drag News** began on **March 4, 1955** as an eight-page biweekly, founded by Dean Brown (publisher-editor) and Dick McMullen (ad sales). It soon went weekly on newsprint.[^cp1]
+**Drag News** began on **March 4, 1955** as an eight-page biweekly, founded by Dean Brown (publisher-editor) and Dick McMullen (ad sales). It soon went weekly on newsprint.[^cp1]
 
-She bought it four years later. Her brother **Chet Herbert** arranged and funded her purchase in 1959.[^hem] She replaced editor Dan Raulston in **April 1959**.[^cp1] Raulston launched a rival, *Drag Racer*, two months later; seven issues came out June–October 1959.[^cp1]
+She bought it four years later. Her brother **Chet Herbert** arranged and funded her purchase in 1959.[^hem] She replaced editor Dan Raulston in **April 1959**.[^cp1] Raulston launched a rival, *Drag Racer*, two months later. Seven issues came out June–October 1959.[^cp1]
 
 ## Nobody's pet paper
 
@@ -70,9 +72,11 @@ She sent Bud DeBoer out as a field rep in 1965 on a 40,000-mile drive in an oran
 
 In 1967, *Drag News* outlasted *Drag Sport Illustrated*, *Drag World* and *Drag Digest*. Wallace attributes this to her North American contributor network and year-round advertisers.[^cp67]
 
-She was the first journalist inducted into the International Drag Racing Hall of Fame (1993) and sold the paper in **1976** after 17 years.[^hof]
+She was the first journalist inducted into the International Drag Racing Hall of Fame (1993). She sold the paper in **1976** after 17 years.[^hof]
 
 She had critics. NHRA's *National Dragster* editor wrote in 2009 that, per Dick Wells, Wally Parks sent critical letters to *Drag News* under the pen name "Parks Wengard," which spelled backwards is "Drag News Krap."[^r12nd] See [Dick Wells](dick-wells.md).
+
+She did not start the paper. She bought it. The 204.54 had been questionable, and the list she kept had to be backed-up. It named Garlits at a backed-up 182.18 mph.
 
 *See also:* [Inyokern](../drag-racing/inyokern-dust-devils.md).
 

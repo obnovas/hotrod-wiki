@@ -1,6 +1,6 @@
 ---
 title: '"Fast Eddie" Schartman: Taking Out the Finish-Line Lights'
-summary: '"Fast Eddie" Schartman took out the finish-line lights on his first pass in a Logghe flip-top Comet in December 1965. This is his story in his own words.'
+summary: On his first pass in a Logghe flip-top Comet in December 1965, Eddie Schartman went 166 mph and took out the finish-line lights, then won NHRA's first Funny Car eliminator in 1966.
 department: people
 era: 1960s
 eras:
@@ -44,7 +44,7 @@ principal_source: "Phil Burgess's 2016 interview with Schartman, then 78, in Nat
 ---
 # "Fast Eddie" Schartman: Taking Out the Finish-Line Lights
 
-*Cleveland gasser to the first Funny Car title*
+*On his first pass in a flip-top Comet he went 166 mph and took out the finish-line lights*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (2016 interview), secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Self-reported firsts flagged · [How we rate this](../reference/source-standards.md)
@@ -55,6 +55,8 @@ principal_source: "Phil Burgess's 2016 interview with Schartman, then 78, in Nat
     — Eddie Schartman, NHRA.com, 2016. [Full context in Voices](../voices/show-custom-voices.md)
 
 ## The flip-top Comet
+
+On his first pass in a flip-top Comet, Eddie Schartman went 166 mph and took out the finish-line lights. He had come out of a Cleveland wrecking yard. At the 1966 World Finals in Tulsa he won NHRA's first Funny Car eliminator.
 
 His first ride came in December 1965 at Motor City Dragway. "I said, 'What the hell is this?' It was a dragster with a body on it and the driver in the back seat... On my first pass, I went 166 mph and took out the [finish-line] lights."[^nhra]
 
@@ -75,6 +77,8 @@ The road to the Comet ran through a Chevy dealer. He worked at Jackshaw Chevrole
 ## Later
 
 The end came in small ways. In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick because it had Mercury Comet taillights. He quit match racing in 1975 over rainouts ("The rainout money was like $150") and went into car dealerships and NAPA stores. He was inducted into IDRHOF in 2012.[^nhra]
+
+The first pass, in December 1965, went 166 mph and took out the finish-line lights. The 1966 World Finals was NHRA's first Funny Car eliminator win.
 
 *See also:* [The Ohio Gassers](../places/ohio-gassers.md) (his Cleveland circle) and [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) (Roy Gay was runner-up to Schartman at the 1967 Manufacturers Championships).
 

@@ -1,6 +1,6 @@
 ---
 title: '"Akron" Arlen Vanke: Backyard Racer from Ohio'
-summary: '"Akron" Arlen Vanke started racing at the Akron airport strip and went on to Knafel Pontiac, Mopar and Pro Stock. Hemmings says his dual-quad Hemi work coined the word "Vanked."'
+summary: Hemmings says Arlen Vanke built cars in a residential garage without a proper lift. He started at the Akron airport strip and went on to Knafel Pontiac, Mopar and Pro Stock, and Hemmings says his dual-quad Hemi work coined the word Vanked.
 department: people
 era: 1960s
 eras:
@@ -37,18 +37,18 @@ canonical_for: []
 ---
 # "Akron" Arlen Vanke: Backyard Racer from Ohio
 
-*c. 1937–2017*
+*c. 1937–2017. He built the cars in a garage without a proper lift*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** obituary, HOF, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Start year conflict (1951 vs 1953) · [How we rate this](../reference/source-standards.md)
 
-Hemmings says Arlen Vanke built cars "in a residential garage that didn't even have a proper lift."[^hem]
+Hemmings says Arlen Vanke built cars "in a residential garage that didn't even have a proper lift."[^hem] From that garage he started at the Akron airport strip and went on to Knafel Pontiac, Mopar and Pro Stock. Hemmings says his dual-quad Hemi work coined the word "Vanked."
 
 ## Akron
 
-Akron's strip has its own place in history. NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether he started in 1951 or 1953 is still open.
 
-Then came the '56 Chevy gasser. MMSHOF: Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+Then came the '56 Chevy gasser. MMSHOF says Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Knafel Pontiac and the Tin Indians
 
@@ -62,7 +62,7 @@ Hemmings' obituary says his dual-quad intake work on the 426 Hemi coined the wor
 
 NHRA results: Jr. Stock at the 1966 Springnationals and Super Stock at the 1968 U.S. Nationals.[^nhra] MMSHOF says he won all five 1970 SWC points meets in a Duster and calls him the first man to do so.[^mm]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
-He died June 15, 2017, at a care facility in Deming, New Mexico; Hemmings gives his age as 80.[^nhra][^hem2] See [Midwest & East Threads](../places/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers").
+He died June 15, 2017, at a care facility in Deming, New Mexico. Hemmings gives his age as 80.[^nhra][^hem2] See [Midwest & East Threads](../places/midwest-east.md) and [Mr. Gasket](../companies/mr-gasket.md) (the "Ohio Gassers"). The cars had come from a garage without a proper lift. He introduced himself as "Arlen Vanke from Akron, Ohio."
 
 *See also:* [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) (the 2016 marker text, Otie Smith) and [The Ohio Gassers](../places/ohio-gassers.md).
 

@@ -1,6 +1,6 @@
 ---
 title: 'Malcolm Durham: Strip Blazer'
-summary: 'Malcolm Durham learned mechanics on tractors in Goldsboro, N.C., and raced from 1957: 409 Chevys in Washington, then a Logghe-chassised Funny Car.'
+summary: 'Malcolm Durham learned mechanics on tractors in Goldsboro, N.C., raced from 1957, and ran Strip Blazer cars from a 409 Chevy to a Logghe-chassised Funny Car. He averaged $800 per appearance in the late 1960s.'
 department: people
 era: 1960s
 eras:
@@ -54,7 +54,7 @@ canonical_for: []
 ---
 # Malcolm Durham: Strip Blazer
 
-*From Aquasco to the match-race circuit*
+*From tractors in Goldsboro and a 1957 start at Easy Street to the Strip Blazer, at $800 per appearance*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** NHRA Top 50 profile (2001), NHRA.com Fred Files quote (2009) · **Last verified:** 2026-10-14 (Round 9) · **Open issues:** Full oral history still thin; Top 50 rank listed as 48 vs 46 in later column · [How we rate this](../reference/source-standards.md)
@@ -64,9 +64,7 @@ canonical_for: []
 
     — Malcolm Durham, quoted by Phil Burgess, NHRA.com, July 31, 2009. [Voices](../voices/injection-and-tin.md)
 
-Malcolm Durham learned mechanics on tractors, on the family farm in Goldsboro, N.C.[^top50] He began racing in **1957** at Easy Street Dragstrip, Newton Grove, N.C., in a 225-hp **'56 Chevy**.[^top50]
-
-From that start he became an East Coast stocker-to-Funny Car match racer whose **Strip Blazer** cars made him one of the most visible Black professional drag racers of the 1960s. NHRA ranked him among its Top 50 Drivers in **2001**.[^top50][^fred]
+Malcolm Durham learned mechanics on tractors, on the family farm in Goldsboro, N.C.[^top50] He began racing in **1957** at Easy Street Dragstrip, Newton Grove, N.C., in a 225-hp **'56 Chevy**.[^top50] He ran Strip Blazer cars. He said being black made him unique, and he tried to capitalize on it. In the late 1960s he averaged $800 per appearance. NHRA ranked him among its Top 50 Drivers in **2001**.[^top50][^fred]
 
 ## Washington and the 409 years
 
@@ -80,13 +78,15 @@ He match-raced Don Nicholson, Sox & Martin, the Ramchargers, Hayden Proffitt, Da
 
 In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cites bests of **9.56 / 150 mph**.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^top50] In **1966** came a tube-frame Camaro and a UDRA Nationals win at U.S. 30, then a wheelbase stretch into the eights.[^top50]
 
-In **1967** he added a supercharger and ran **7.98 / 178**. In the off-season came a new **[Logghe](../companies/logghe-stamping.md)-chassised Camaro**, one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^top50]
+In **1967** he added a supercharger and ran **7.98 / 178**. In the off-season came a new Logghe-chassised Camaro from [Logghe](../companies/logghe-stamping.md), one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^top50]
 
 Later came a Pro Stock **'73 Vega** (9.17 best cited) and a conversion to B/EA. He paused racing to send his eldest son, Bernard, to college, came back with a brief **1984** Pro Stock Camaro that he crashed at Rockingham in **1985**, and returned in **1989** with a nostalgia '65 Chevelle.[^top50]
 
 ## What he said about the road
 
-Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on using visibility as a booking advantage ($800 average appearance fees in the late 1960s). The same column notes he inspired other Black Funny Car racers including **Lee Jones** (later drove Strip Blazer floppers for Durham) and mentions **Western Bunns**'s Soul Twister cars as part of that East Coast scene.[^fred]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on using visibility as a booking advantage ($800 average appearance fees in the late 1960s). The same column notes he inspired other Black Funny Car racers including **Lee Jones** (later drove Strip Blazer floppers for Durham) and mentions **Western Bunns**'s Soul Twister cars as part of that East Coast scene.[^fred]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> Whether the Top 50 slot was No. 46 or No. 48, the sources disagree.
+
+The tractors were in Goldsboro. The Strip Blazer cars ran from that 1957 start, and he tried to capitalize on being black.
 
 *See also:* [Logghe Stamping](../companies/logghe-stamping.md), [Leonard Miller](../voices/leonard-miller.md), [Midwest & East](../places/midwest-east.md), [Injection & Tin voices](../voices/injection-and-tin.md).
 

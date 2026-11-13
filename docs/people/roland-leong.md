@@ -1,6 +1,6 @@
 ---
 title: 'Roland Leong: "The Hawaiian," from Kahuku to the Winternationals'
-summary: Roland Leong, born in Honolulu in May 1944, raced gas dragsters at Kahuku, worked at Dragmasters, crashed on his first Top Fuel run and hired Don Prudhomme, whom he had met in Hawaii. In 1965 they won both the Winternationals and the U.S. Nationals, and his Hawaiian cars ran for 30 years.
+summary: Roland Leong, born in Honolulu in May 1944, raced cars of his own at the Kahuku drag strip, crashed on his first Top Fuel run, and hired Don Prudhomme. In 1965 the Hawaiian won both the Winternationals and the U.S. Nationals, and his cars ran for 30 years.
 department: people
 era: 1960s
 eras:
@@ -65,7 +65,7 @@ canonical_for: []
 ---
 # Roland Leong: "The Hawaiian," from Kahuku to the Winternationals
 
-*An island kid from a family with a stake in a hot rod shop, a friendship made loading a gas dragster, and the license that was taken away for his own good*
+*He raced at Kahuku, Hart took his license after a crash, and the Hawaiian won both nationals in 1965*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the outline is consistent across his Honolulu obituary and three NHRA pieces by Phil Burgess, one built on a 2009 interview with Leong; they disagree on when he met Prudhomme) · **Source types:** <span class="hr-badge">Grassroots</span> hometown newspaper obituary (*Honolulu Star-Advertiser*, 2024), Leong's own words to NHRA (2009, reprinted 2024) and to *Drag Strip List*, NHRA news and tributes (2023–24) · **Last verified:** 2026-11-02 (Round 30) · **Open issues:** ⚠ when and where he met Prudhomme (1963 at Hawaii Raceway Park's opening, or 1964); ◐ the family hot rod shop's name; ⚠ how old he was when he hired Ongais · [How we rate this](../reference/source-standards.md)
@@ -77,13 +77,13 @@ canonical_for: []
 
 ## An island kid with a gas dragster
 
-Roland Hung Chew Leong was born in May 1944 at Queen's Hospital in Honolulu and grew up in Pacific Heights. His first "race car" was the family car; then he raced cars of his own at the Kahuku drag strip and elsewhere. He dropped out of 'Iolani School in the 11th grade to chase a career in NHRA drag racing.[^sa24] His parents, James and Teddy, owned an insurance agency "and a stake in a local hot rod shop where Roland worked," NHRA wrote, and his mother was "well-known in the islands as part of a speed-shop operation."[^nhra23][^bigbook]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup> "I was young and all we cared about was racing," he wrote to *Drag Strip List* of his Kahuku days; he set the strip's record there in 1964.[^dsl] The full story of Kahuku Point is on [the Kahuku page](../drag-racing/kahuku-point-hawaii-drag-strip.md).
+Roland Hung Chew Leong raced cars of his own at the Kahuku drag strip, dropped out of 'Iolani School in the 11th grade to chase a career in NHRA drag racing, and the Hawaiian cars ran for 30 years.[^sa24] He crashed on his first Top Fuel run, C.J. Hart took his license, and he hired Don Prudhomme. He kept looking for people from home. He was born in May 1944 at Queen's Hospital in Honolulu and grew up in Pacific Heights. His first "race car" was the family car; then he raced cars of his own at the Kahuku drag strip and elsewhere. His parents, James and Teddy, owned an insurance agency "and a stake in a local hot rod shop where Roland worked," NHRA wrote, and his mother was "well-known in the islands as part of a speed-shop operation."[^nhra23][^bigbook]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup> NHRA never names the shop. "I was young and all we cared about was racing," he wrote to *Drag Strip List* of his Kahuku days; he set the strip's record there in 1964.[^dsl] The full story of Kahuku Point is on [the Kahuku page](../drag-racing/kahuku-point-hawaii-drag-strip.md).
 
-He was already "commuting" to races in California, the *Star-Advertiser* says. Dode Martin of Dragmasters gave him his first California job, at the chassis shop near San Diego, and Leong ran a Dragmaster-built Top Gas dragster, driving it himself at Indianapolis in 1963.[^sa24][^aloha][^bigbook] That year his mother sent another Hawaiian, Danny Ongais, to help him. Ongais drove the new car in 1964 and won Top Gas at the Winternationals in Pomona.[^bigbook][^sa24]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup> Leong moved to California for good in 1964.[^sa24]
+He was already "commuting" to races in California, the *Star-Advertiser* says. Dode Martin of Dragmasters gave him his first California job, at the chassis shop near San Diego, and Leong ran a Dragmaster-built Top Gas dragster, driving it himself at Indianapolis in 1963.[^sa24][^aloha][^bigbook] That year his mother sent another Hawaiian, Danny Ongais, to help him. Ongais drove the new car in 1964 and won Top Gas at the Winternationals in Pomona.[^bigbook][^sa24]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup> How old he was when he hired Ongais is still open. Leong moved to California for good in 1964.[^sa24]
 
 ## The crash, and the friend from Hawaii
 
-When the Greer-Black-Prudhomme team came to Hawaii to make demonstration runs at Jimmy Pflueger's new Hawaii Raceway Park, Leong and the young Don Prudhomme "bonded immediately."[^sa24]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> "We were like brothers, I was closer to him than my own brother," Prudhomme said after Leong died.[^sa24]
+When the Greer-Black-Prudhomme team came to Hawaii to make demonstration runs at Jimmy Pflueger's new Hawaii Raceway Park, Leong and the young Don Prudhomme "bonded immediately."[^sa24]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Whether that was 1963 or 1964 is still open. "We were like brothers, I was closer to him than my own brother," Prudhomme said after Leong died.[^sa24]
 
 Leong wanted to drive Top Fuel himself. In mid-1964 he tried for his license and crashed on his first run at Lions Drag Strip, at more than 191 mph.[^bigbook][^nhra23] Keith Black told him he would not tune for him as long as he was driving, and suggested he hire Prudhomme, a young car painter whose G-B-P team had just broken up.[^bigbook][^nhra23] The man who took Leong's license away was the track manager, C.J. Hart, husband of [Peggy Hart](peggy-hart.md). Leong thanked him years later: "If you didn't take my license away, I probably would have killed myself by now."[^bigbook]
 
@@ -94,6 +94,8 @@ With Prudhomme driving, Leong's Hawaiian won Top Fuel at both the 1965 Winternat
 In 1969 Leong switched to Funny Cars, and the Hawaiian name on their bodies became a draw; Hawaiian Punch later sponsored them.[^sa24] Over 30 years he hired, fired or lost more than 20 drivers. "I hired and fired them, but I'll tell you what, it's easier to make the car run good than to put together a good team."[^bigbook] One of them, Mike Dunn, started on his crew in 1977; Leong introduced him to the woman he married.[^sa24]
 
 He never stopped looking for people from home. Jerry Inouye, a retired Honolulu police officer, met him in the pits at the Winternationals when Leong waved his group over and asked if they were from Hawaii: "I can tell by the way you walk." Inouye ended up working on nitro cars through Leong's introductions.[^sa24] Leong died on Dec. 29, 2023, at 79. He was in the Hawaii Sports Hall of Fame (2020) and the Hawaii Motorsports Hall of Fame, and his mother had saved his Hawaii newspaper clippings, which went into Lou Hart's 2023 biography.[^sa24][^nhra23][^aloha]
+
+He had raced cars of his own at the Kahuku drag strip. The license was taken after the crash, Prudhomme drove, and the Hawaiian cars ran for 30 years. He was still looking for people from home.
 
 *See also:* [Don Prudhomme](don-prudhomme.md), whose Snake career continues on his own page; [Don Garlits](don-garlits.md).
 

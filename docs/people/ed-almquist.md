@@ -1,6 +1,6 @@
 ---
 title: 'Ed Almquist: Speed by Mail from Milford, Pennsylvania'
-summary: Ed Almquist sold speed parts by mail from Milford, Pennsylvania, starting with a vapor injector made from a Mason jar and a $12.95 log manifold.
+summary: Ed Almquist sold speed parts by mail from a $35 rented room in Milford, starting with a Mason jar that cost 50¢ to make and sold for $6, plus a log manifold at $12.95.
 department: people
 era: 1950s
 eras:
@@ -44,7 +44,7 @@ canonical_for:
 ---
 # Ed Almquist: Speed by Mail from Milford, Pennsylvania
 
-*1921–2015*
+*Speed by mail from a $35 rented room in Milford, starting with a Mason jar that cost 50¢ to make and sold for $6*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> obituary, HOF, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Hurst co-design claim single-sourced · [How we rate this](../reference/source-standards.md)
@@ -54,7 +54,7 @@ canonical_for:
 <figcaption markdown>US3082639, "Gear shift (Almquist Engineering Co.)," sheet 1. Inventor: Edgar W. Almquist, filed 1962-09-11, issued 1963-03-26. Source: [Google Patents](https://patents.google.com/patent/US3082639A/en). License: public domain (U.S. patent drawing). See [Patents](../reference/patents.md).</figcaption>
 </figure>
 
-*A rare non-California founder.* One of his early products was a water/alcohol vapor injector made from a Mason jar that cost 50¢ to make and sold for $6. He also sold a two-carb "log manifold" for $12.95. He started in a $35 rented room, then moved to a partitioned gymnasium. (Port Jervis *Times Herald-Record*, via search excerpt<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.)[^thr] The paper said that while California makers had the West Coast, Almquist equipment was the choice in the Midwest and East.[^thr]
+Ed Almquist sold speed parts by mail from Milford, Pennsylvania. He was a rare non-California founder. One of his early products was a water/alcohol vapor injector made from a Mason jar that cost 50¢ to make and sold for $6. He also sold a two-carb "log manifold" for $12.95. He started in a $35 rented room, then moved to a partitioned gymnasium. The Port Jervis *Times Herald-Record*, via search excerpt, is the account of the jar, the room, and the gymnasium.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^thr] The paper said that while California makers had the West Coast, Almquist equipment was the choice in the Midwest and East.[^thr]
 
 ## From celery farm to ship's engine room
 
@@ -64,7 +64,7 @@ The war took him to sea. He served in the U.S. Maritime Service 1943–47 per hi
 
 ## The manual
 
-Those shipboard notes became a business. He printed two small books on a borrowed mimeograph and advertised the *Speed and Mileage Manual* with a **$12 ad in Popular Mechanics**. He estimated more than 10,000 copies sold.[^hem] He is credited with the first widely circulated performance how-to, copyrighted **1946**.[^hem][^hof]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Those shipboard notes became a business. He printed two small books on a borrowed mimeograph and advertised the *Speed and Mileage Manual* with a **$12 ad in Popular Mechanics**. He estimated more than 10,000 copies sold.[^hem] He is credited with the first widely circulated performance how-to, copyrighted **1946**.[^hem][^hof] His obituary says 1947.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## Shifters, shifts in the market
 
@@ -75,6 +75,8 @@ He had already diversified: Almquist started Sparkomatic in 1954, with partner J
 The obituary lists Almquist Engineering, Sparkomatic and **Offy Products** "through 1965," more than 100 products, and 7 U.S. patents. He later wrote *Hot Rod Pioneers*.[^obit] He received the International Drag Racing Hall of Fame Founder's Award in 2011.[^hof]
 
 His name also turns up in period custom literature: a pamphlet from "Pennsylvania speed merchant Ed Almquist" taught restyling techniques alongside Dan Post's *Blue Book*.[^revs]
+
+California makers had the West Coast. From a $35 rented room in Milford, the Mason jar that cost 50¢ to make and sold for $6 was the start, and Almquist equipment was the choice in the Midwest and East.
 
 *See also:* [Techniques & Styles](../cars/techniques-and-styles.md).
 

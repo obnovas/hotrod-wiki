@@ -1,6 +1,6 @@
 ---
 title: 'Tom McEwen: The Mongoose, from a Borrowed Oldsmobile to Hot Wheels (1937–2018)'
-summary: Tom McEwen, born in Pensacola in 1937 and raised in Long Beach, took the name Mongoose after beating Don Prudhomme at Lions on September 12, 1964, and with him turned a Mattel Hot Wheels deal into drag racing's largest marketing plan of its time.
+summary: Tom McEwen beat Don Prudhomme at Lions on September 12, 1964, took the name Mongoose, and with Prudhomme ran a Mattel Hot Wheels deal from 1970 through 1972. He began in his mother's 1953 Oldsmobile at Santa Ana.
 department: people
 era: 1970s
 eras:
@@ -68,7 +68,7 @@ canonical_for: []
 ---
 # Tom McEwen: The Mongoose, from a Borrowed Oldsmobile to Hot Wheels (1937–2018)
 
-*A Long Beach kid in his mother's Oldsmobile, a name borrowed from Kipling, and a toy-company rivalry that put Funny Cars in living rooms*
+*He beat Prudhomme at Lions on September 12, 1964, took the name Mongoose, and kids raced Snake and Mongoose Hot Wheels on orange tracks*
 
 !!! abstract "Article record"
     **Confidence:** Medium (NHRA's 2018 obituary, the Motorsports Hall of Fame biography and a Hemmings remembrance agree on the Lions match, the Mattel deal and the 1978 U.S. Nationals; they split on the date of his death, the spelling and age of his son, and how soon before Indianapolis the boy died) · **Source types:** NHRA.com staff obituary (June 11, 2018) and career recap, Motorsports Hall of Fame of America nomination biography by Greg Sharp (class of 2001), Hemmings remembrance (Kurt Ernst, June 12, 2018), a remembrance by V. Moore at Moore Good Ink (June 12, 2018) for the Long Beach childhood and family details · **Last verified:** 2026-11-08 (Round 35) · **Open issues:** ⚠ died June 10 or 11, 2018; ⚠ Jamie or Jaime, and at what age; ⚠ how many days before the 1978 U.S. Nationals · [How we rate this](../reference/source-standards.md)
@@ -78,11 +78,13 @@ canonical_for: []
 
     — Tom McEwen, quoted by NHRA and again by Hemmings, 2018.[^nhra18][^hemm18]
 
+On September 12, 1964, at Lions, Tom McEwen beat Don Prudhomme and took the name Mongoose. The Mattel Hot Wheels deal with Prudhomme ran from 1970 through 1972. Kids raced Snake and Mongoose Hot Wheels on orange tracks. He began by sneaking his mother's Oldsmobile out to Santa Ana.
+
 ## A borrowed Oldsmobile
 
 Tom McEwen was born on January 14, 1937, in Pensacola, Florida, according to the Motorsports Hall of Fame. A 2018 remembrance by V. Moore says he moved to California with his mother and younger brother, Richard, after his father's early death, and grew up in Long Beach.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^mshf][^moore18]
 
-He began by sneaking his mother's 1953 Oldsmobile out to race at Santa Ana before he was old enough to have a driver's license, the hall of fame says. NHRA and Hemmings date the start to 1953, at age 16, in that same '53 Olds at Santa Ana Dragstrip in Irvine; NHRA adds a '54 Olds at Lions Dragstrip in Long Beach. He moved up through gas coupes, supercharged gassers and altereds. The hall of fame says Art Chrisman coached him in dragster driving, and that he later drove for owners including Ed Donovan, Gene Adams, Lou Baney, Chrysler and Ford.[^mshf][^nhra18][^hemm18]
+He began by sneaking his mother's 1953 Oldsmobile out to race at Santa Ana before he was old enough to have a driver's license, the hall of fame says. NHRA and Hemmings date the start to 1953, at age 16, in that same '53 Olds at Santa Ana Dragstrip in Irvine. NHRA adds a '54 Olds at Lions Dragstrip in Long Beach. He moved up through gas coupes, supercharged gassers and altereds. The hall of fame says Art Chrisman coached him in dragster driving, and that he later drove for owners including Ed Donovan, Gene Adams, Lou Baney, Chrysler and Ford.[^mshf][^nhra18][^hemm18]
 
 In 1962 he drove Adams's Shark car, which NHRA calls one of the first dragsters to use a streamlined body with an enclosed chute pack. In 1963 he was runner-up to Art Malone at the Bakersfield March Meet in the Broussard-Garrison-Purcell-Davis car.[^nhra18]
 
@@ -96,7 +98,7 @@ He theorized, the hall of fame says, that "a big following and good performance 
 
 ## Wildlife Racing
 
-McEwen's mother, Sybil, was a secretary at Mattel; the rest of how that meeting happened is told on the [Prudhomme page](don-prudhomme.md). In mid-1969 he and Prudhomme formed Wildlife Racing. The Mattel deal ran from 1970 through 1972. Kids raced Snake and Mongoose Hot Wheels on orange tracks; Hemmings says it was McEwen who came up with the idea to approach his mother's employer. In 1973 the team ran Carefree sugarless gum. They dissolved the corporation at the end of that season.[^nhra18][^hemm18][^prudhomme]
+McEwen's mother, Sybil, was a secretary at Mattel; the rest of how that meeting happened is told on the [Prudhomme page](don-prudhomme.md). In mid-1969 he and Prudhomme formed Wildlife Racing. The Mattel deal ran from 1970 through 1972. Kids raced Snake and Mongoose Hot Wheels on orange tracks. Hemmings says it was McEwen who came up with the idea to approach his mother's employer. In 1973 the team ran Carefree sugarless gum. They dissolved the corporation at the end of that season.[^nhra18][^hemm18][^prudhomme]
 
 "We were a good team; we complemented each other," McEwen said. "Don was the serious guy, spent a lot of time with his car, and I was more like the wrestlers today; saying how bad I was going to beat him to build interest in the deal."[^nhra18]
 
@@ -109,6 +111,8 @@ Moore's remembrance, the only source this round that gives the later family deta
 He was voted No. 16 on NHRA's Top 50 Drivers list in 2001 and was inducted into the Motorsports Hall of Fame of America and the International Drag Racing Hall of Fame. In 2018 he helped put together the NHRA Legends Tour and had already appeared in Las Vegas and Houston. He died in June 2018, at 81; NHRA and Hemmings give June 10, the hall of fame gives June 11, and Moore writes that he died in his sleep sometime Sunday night or Monday morning, June 10–11.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Moore says he was survived by his son Tom and his daughter Katie.[^nhra18][^hemm18][^mshf][^moore18]
 
 From a Long Beach hospital bed in 1970, [Don Garlits](don-garlits.md) watched *Star Trek* with McEwen and sketched the rear-engine car; that story stays on Garlits's page.
+
+He began in his mother's Oldsmobile. The name Mongoose came after Lions, on September 12, 1964, when he beat Prudhomme. Kids raced Snake and Mongoose Hot Wheels on orange tracks from 1970 through 1972.
 
 *See also:* [Don Prudhomme](don-prudhomme.md); [Keith Black](keith-black.md), whose engines powered the Greer-Black-Prudhomme car McEwen beat at Lions in 1964; [Orange County International Raceway](../drag-racing/orange-county-international-raceway.md); [Firebird International Raceway (Chandler)](../drag-racing/firebird-international-raceway-chandler.md).
 
