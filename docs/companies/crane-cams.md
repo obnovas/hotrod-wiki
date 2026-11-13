@@ -1,6 +1,6 @@
 ---
 title: 'Crane Cams: The Machinist''s Son Who Ground His Own'
-summary: Harvey Crane bought a camshaft that "wasn't accurately made," ground his own, and built Crane Cams from Hallandale to Daytona. In 1966 each class winner at the Nationals got a refund of the cam and kit.
+summary: Harvey Crane found a California camshaft "wasn't accurately made," ground his own, and built Crane Cams from Hallandale to Daytona. In 1966 each class winner at the Nationals got a refund of the cam and kit.
 department: companies
 era: 1960s
 eras:
@@ -54,7 +54,7 @@ canonical_for: []
 ---
 # Crane Cams: The Machinist's Son Who Ground His Own
 
-*A machinist's son ground his own cam because a California one wasn't accurately made, and a refund for the little guys*
+*A machinist's son ground his own cam after he found a California one wasn't accurately made, and a refund for the little guys*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local-newspaper obituary (*Orlando Sentinel*, 2013), funeral-home obituary (Lohman Funeral Homes, 2013), SEMA News obituary and heritage pieces, a patent, wiki pages built on racer-journalist sources · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ birthplace (Ojus vs Hallandale); ⚠ "retired" vs ousted in 1989; ⚠ when computer cam design began; ⚠ number of first-show exhibitors; the unnamed California cam maker is unidentified · [How we rate this](../reference/source-standards.md)
@@ -99,7 +99,7 @@ He started a **cam school** at his Port Orange home, and more than 100 students 
 
 [The Ohio Gassers](../places/ohio-gassers.md) tells of Ron Hassel's move to Crane Cams in 1965 and Hill's story of the 1966 class-winner refunds. [Ed Iskenderian](../people/ed-iskenderian.md) and [Patents](../reference/patents.md) cover the lifter-guide patent that Crane's tappet patent cites. Crane's shop foreman Tom Woitesek left for Memphis in 1972 and became a founder of [COMP Cams and RHS](comp-cams-rhs.md), and Cam Dynamics ended up with Crane Cams. In the *Sentinel*'s story, the inaccurate cam came from the California trade of [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md), though the maker is unnamed. The first SEMA show at Dodger Stadium, where Crane exhibited, is on the [Dick Wells](../people/dick-wells.md) page. And [Moroso](moroso.md), South Florida's other big performance name, owned the Palm Beach raceway that appears in Hill's Hassel photo.
 
-The cam from California wasn't accurately made, so he ground his own, and that was the company. In 1966 the little guys who had supported him got the price of the cam and kit back.
+He found the cam from California wasn't accurately made, so he ground his own, and that was the company. In 1966 the little guys who had supported him got the price of the cam and kit back.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

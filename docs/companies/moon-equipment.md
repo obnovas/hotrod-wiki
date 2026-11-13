@@ -1,6 +1,6 @@
 ---
 title: 'Moon Equipment: The Café, the Fuel Block and the Eyes'
-summary: Dean Moon machined a fuel block in 1941 and began selling copies at Bell Auto Parts. The garage behind Moon's Café had no roof, and a dealer told to pay later reopened the company as Mooneyes USA.
+summary: Dean Moon machined a fuel block in 1941 and began selling copies at Bell Auto Parts. The garage behind Moon's Café had no roof, and the dealer he told to pay later reopened the company as Mooneyes USA.
 department: companies
 era: 1950s
 eras:
