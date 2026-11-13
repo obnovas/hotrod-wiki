@@ -1,6 +1,6 @@
 ---
 title: 'East to the End of Rittiman Road: San Antonio''s Double Eagle and Alamo Dragway (1957–77)'
-summary: San Antonio's racers remember the Double Eagle strip off Gibbs-Sprawl Road, where a 15-year-old ran 77 mph in 1957, and street races they called "Little Green Valley." In 1977 the Martinez brothers' Alamo Dragway on Highway 16 took the AHRA nationals from Fort Worth.
+summary: "San Antonio's racing was the Double Eagle off the end of Rittiman Road, where a 15-year-old ran 77 mph in 1957, the street races called Little Green Valley, and the Martinez brothers' Alamo Dragway, which took the AHRA nationals in 1977."
 department: drag-racing
 era: 1960s
 eras:
@@ -74,6 +74,8 @@ canonical_for: []
 ---
 # East to the End of Rittiman Road: San Antonio's Double Eagle and Alamo Dragway (1957–77)
 
+*A 15-year-old ran 77 mph at the Double Eagle in 1957, kids raced a back road called Little Green Valley, and in 1977 the AHRA nationals came to Alamo Dragway*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> first-person racer stories (a Draglist "Story of the Day," 2001, and a H.A.M.B. forum thread, 2009–14); the *San Antonio Express-News*, 1975–77, read as OCR on the Internet Archive; a 2024 funeral-home obituary · **Last verified:** 2026-10-27 (Round 24; forum, Draglist, obituary and newspaper quotes rechecked) · **Open issues:** Double Eagle's opening year ◐; Martindale as San Antonio's first strip ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -82,13 +84,13 @@ canonical_for: []
 
     — A *San Antonio Express-News* writer remembering the 1950s, Aug. 31, 1975.[^sa750831]
 
-San Antonio's drag racing history is mostly told by the people who were there, and it comes down to two strips and a back road. The Double Eagle lived on the northeast side, out past the end of Rittiman Road. Alamo Dragway sat south of town on the Poteet highway. In between, the kids who could not get to either raced on a dark stretch they called "Little Green Valley."
+San Antonio's drag racing comes down to two strips and a back road. The Double Eagle lived on the northeast side, out past the end of Rittiman Road, where a 15-year-old ran 77 mph in 1957. Alamo Dragway sat south of town on the Poteet highway. In 1977 the Martinez brothers took the AHRA nationals there from Fort Worth. In between, the kids who could not get to either raced on a dark stretch they called "Little Green Valley."
 
 ## The Double Eagle (1950s–60s)
 
 A 1975 columnist looking back at the 1950s put it plainly: "The real hot rods were to be found, anyway, at the old Double Eagle Drag Strip, an attempt to legitimitize the sport which our parents never did trust."[^sa750831]
 
-Racers who posted on the H.A.M.B. forum put the strip at "Rittiman/Gibbs Sprawl/Walzem," and people who grew up in nearby Windcrest and Converse remember seeing its stands and starting line through the brush.[^hamb1] One of those racers, TexasHardcore, later placed it "off Gibbs-Sprawl between Rittiman & Walzem" and thought "it was opened in '57 or so."[^hamb2]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> In the same post he named an older strip too: Martindale Air Base, which "was a dragstrip in the 50's. Probably the first in SA."[^hamb2]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> A radio ad still rang in one Austin-area listener's ears decades later: KTSA's Ricky Ware sending fans to the drags "east to the end of Rittiman Road!!"[^hamb2]
+Racers who posted on the H.A.M.B. forum put the strip at "Rittiman/Gibbs Sprawl/Walzem." People who grew up in nearby Windcrest and Converse remember seeing its stands and starting line through the brush.[^hamb1] One of those racers, TexasHardcore, later placed it "off Gibbs-Sprawl between Rittiman & Walzem" and thought "it was opened in '57 or so."[^hamb2]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> In the same post he named an older strip too: Martindale Air Base, which "was a dragstrip in the 50's. Probably the first in SA."[^hamb2]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> A radio ad still rang in one Austin-area listener's ears decades later: KTSA's Ricky Ware sending fans to the drags "east to the end of Rittiman Road!!"[^hamb2]
 
 Travis Perrenot's first run came at the Double Eagle in the summer of 1957. His family ran an A/Gas Dragster with a Cadillac engine and six Stromberg "leakers" on a homemade log manifold, with his father as "driver, owner, crewchief." Travis had turned 15 that February and held a Texas "hardship" license, which was enough for the track. Then his father handed him the car. Travis expected 140 mph, maybe 160. "First time slip (which I have plans to gold plate) says only 77 MPH!!!" And there was no escape: "They wouldn't let me hide under the pickup or in the weeds."[^perrenot]
 
@@ -113,6 +115,8 @@ Then came the big one. "After 13 years at Green Valley Race City in Fort Worth, 
 The nationals got off to a rough start. The *Express-News* counted "the 12,360 on hand" when Frank Bradley's dragster "catapulted its blower at least 30 feet into the air." Gary Beck won Top Fuel by default when Jim Edwards of Angleton broke a blower belt on the line.[^sa770704] That fall the strip went back to local fare: a Wheel Stand Nationals for cars running "up to 120 m.p.h. on their back wheels."[^sa771001]
 
 John Ray Martinez, born in San Antonio in 1951, died in 2024. His obituary says he "owned and operated the esteemed Alamo Dragway in San Antonio" and that "He was born with speed in his blood." He was laid to rest at the Mendolia-Martinez Cemetery.[^martinez]
+
+The Double Eagle had been the strip past the end of Rittiman Road, and Little Green Valley the back road. In 1977 the nationals came to the Martinez brothers' track south of town.
 
 ## Open questions & disputed details
 

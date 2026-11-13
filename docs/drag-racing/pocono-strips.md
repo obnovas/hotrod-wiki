@@ -1,6 +1,6 @@
 ---
 title: Where Could a Pocono Hot Rodder Race? A Flood Levee, Wind Gap, Bear Creek and the Airport That Wasn't (1958–68)
-summary: The Ridge Runners never got their own strip. From 1958 to 1968 Monroe County hot rodders tried a flood levee, Wind Gap, Bear Creek and an airport that wasn't.
+summary: The Ridge Runners never got their own strip. From 1958 to 1968 Monroe County hot rodders tried a flood levee, Wind Gap, Bear Creek, and an airport that wasn't, and the levee they used was 19 feet wide.
 department: drag-racing
 eras:
 - 1950s
@@ -55,6 +55,8 @@ canonical_for: []
 ---
 # Where Could a Pocono Hot Rodder Race? A Flood Levee, Wind Gap, Bear Creek and the Airport That Wasn't (1958–68)
 
+*The Ridge Runners never got a strip of their own. From 1958 to 1968 it was a flood levee, Wind Gap, Bear Creek, and an airport that wasn't*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*The Daily Record*, later *The Pocono Record*, Stroudsburg, Pa.): a club letter (1958), a borough council report (1962), a club member's wife's letter to the editor (1964), sports briefs, results and display ads (1964–68), all read as scanned page OCR; two *Car Craft* items (1959, 1961) for context · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** Mountain View's opening year is inferred from a 1964 "fifth season" line ◐; the Pocono Drag Lodge's opening year is not found ◐; the 1964 letter writer's first name is garbled in the scan; no source says whether the Mount Pocono Airport Authority answered · [How we rate this](../reference/source-standards.md)
 
@@ -63,7 +65,7 @@ canonical_for: []
 
     — **A Mount Pocono mother** whose husband belonged to the Ridge Runners, letter to the editor, *The Daily Record*, June 5, 1964 (OCR; the bracketed word is garbled in the scan).[^dr640605]
 
-In May 1958 the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md) told their local paper they would buy land for a drag strip if someone would sell it to them.[^dr580524] They never got their own. This page follows the question every Monroe County hot rodder had to answer for the next ten years: if not on the highway, then where?
+In May 1958 the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md) told their local paper they would buy land for a drag strip if someone would sell it to them.[^dr580524] They never got their own. For the next ten years a Monroe County hot rodder still had the same question. If not on the highway, then where? A flood levee, Wind Gap, Bear Creek, and an airport that wasn't.
 
 ## 1962: the flood levee
 
@@ -91,7 +93,7 @@ We have found no reply from the airport authority, and no drag race at the Mount
 
 By 1968 the Pocono Drag Lodge on Route 115 at Bear Creek was advertising in the Stroudsburg paper, by then called *The Pocono Record*, almost every week. Its "1968 SEASON'S OPENER" on Sunday, May 19, matched the funny cars **Limefire** and **Jungle Jim**, with $50 to the top eliminator, "Plus 200 Cars Drag Racing."[^pr680518]
 
-The paper's Monday briefs named the local winners. On Sunday, June 23, Harry Smith of Saylorsburg was "among the 62 class winners."[^pr680624] On Sunday, Aug. 4, Rich Everitt of Stroudsburg was one of 56, with others from Saylorsburg, Bangor, Moscow, Jim Thorpe and Palmerton; "A total of 220 drivers took part in the races."[^pr680806] That is the shape of a working local strip: a few professional funny cars to sell tickets, and a couple of hundred weekend racers from the surrounding towns running for class wins.
+The paper's Monday briefs named the local winners. On Sunday, June 23, Harry Smith of Saylorsburg was "among the 62 class winners."[^pr680624] On Sunday, Aug. 4, Rich Everitt of Stroudsburg was one of 56, with others from Saylorsburg, Bangor, Moscow, Jim Thorpe and Palmerton; "A total of 220 drivers took part in the races."[^pr680806] That is a working local strip: a few professional funny cars to sell tickets, and a couple of hundred weekend racers from the surrounding towns running for class wins.
 
 On Saturday, Aug. 31, the paper previewed the Drag Lodge's **third annual Funny Car, Super Stock and Gas Spectacular**, to be the facility's biggest and last event of the season. It promised dozens of funny cars, super stockers and gassers, named funny cars including Lime Fire, Phantom Charger, Rebel Barracuda, Tickle Me Pink Charger and Jolly Green Javelin, and said the event drew more than 10,000 fans and paid more than $3,500 in prizes, with funny cars getting $100 a round. The regular field would be limited to 500 vehicles.[^pr680831] A "third annual" spectacular in 1968 means the first was held in 1966.
 
@@ -106,7 +108,9 @@ Ten years after the Ridge Runners offered to buy a patch of land, the Poconos we
 
 ## The club that put Pennsylvania on a stage
 
-One more trace. In December 1959 *Car Craft* covered the NHRA's first National Champion Custom Car Show in Detroit, held with that year's Labor Day Nationals. Among the displays was a booth "built by Northeastern Pennsylvania Timing Association," with three club members' cars, including Mike Coffee's street rod, plus live models, club trophies and a stereo hi-fi system.[^cc5912] The Ridge Runners had voted to join that association in 1958 (see [the Ridge Runners page](stroudsburg-ridge-runners.md)). The item does not say whether any Monroe County car was in the booth.
+There is one more trace, from 1959. In December 1959 *Car Craft* covered the NHRA's first National Champion Custom Car Show in Detroit, held with that year's Labor Day Nationals. Among the displays was a booth "built by Northeastern Pennsylvania Timing Association," with three club members' cars, including Mike Coffee's street rod, plus live models, club trophies and a stereo hi-fi system.[^cc5912] The Ridge Runners had voted to join that association in 1958 (see [the Ridge Runners page](stroudsburg-ridge-runners.md)). The item does not say whether any Monroe County car was in the booth.
+
+The booth was in Detroit. The Ridge Runners still had no strip of their own. The levee got a padlock, the airport sent no reply we have found, and Bear Creek was the Pocono Drag Lodge.
 
 *See also:* [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md); [The Clockers of Cumberland, Md.](cumberland-clockers.md), a club that raced at York; [The Kingston Igniters](kingston-igniters.md), another club with no strip; the airfield strips at [Akron](akron-fulton-airport.md) and [Ames](ames-drag-strip-nightcrawlers.md); [Hurst-Campbell](../companies/hurst-campbell.md), the speed-parts company of the Philadelphia suburbs.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> For the New Jersey strips across the river, see [Island Dragway](island-dragway-great-meadows.md) and [Linden and New Jersey's short strips](linden-njta-new-jersey-short-strips.md).
 

@@ -1,6 +1,6 @@
 ---
 title: 'Golden State Raceway: The Jaycees'' Drag Strip at Santa Maria Airport (Santa Maria and Lompoc, Calif., 1959–77)'
-summary: Car Craft listed monthly drags at Santa Maria, Calif., in 1959, and by 1969 the local Jaycees ran the Golden State Raceway on airport land, where a Reseda racer set a 7.50-second record on pump gas. A 1975 letter called the strip "doomed," but Lompoc racers were still winning there in 1977.
+summary: "By 1969 the Santa Maria Jaycees ran Golden State Raceway on airport land, where a Reseda racer set a 7.50 on pump gas. A 1975 letter called the strip doomed, and Lompoc racers were still winning there in 1977."
 department: drag-racing
 era: 1970s
 eras:
@@ -62,6 +62,8 @@ canonical_for: []
 ---
 # Golden State Raceway: The Jaycees' Drag Strip at Santa Maria Airport (Santa Maria and Lompoc, Calif., 1959–77)
 
+*A Jaycees strip on airport land, a 7.50 on pump gas in 1969, and a 1975 letter that called it doomed while the racing went on into 1977*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> Small-town daily (*Lompoc Record*, Lompoc, Calif.), 1969–77: meet previews, results, letters to the editor and a news brief, read as OCR on the Internet Archive; *Car Craft* strip calendars, 1959 and 1961 · **Last verified:** 2026-10-22 (Round 23-West) · **Open issues:** how Dragons, Inc., of 1959–61 connects to the Jaycees' strip ?; when the strip closed ?; the 1969 record figures are partly garbled in one later report ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -70,7 +72,7 @@ canonical_for: []
 
     — Martin D. U'Ren of Santa Maria, letter to the *Lompoc Record*, Dec. 17, 1975.[^lr751217]
 
-Santa Maria had a drag strip by 1959, but most of what survives about it comes from a neighboring town's paper, the *Lompoc Record*, whose sports page carried the strip's previews and results. The story starts in a magazine calendar and ends with one reader's letter.
+Santa Maria had a drag strip by 1959. By 1969 the local Jaycees ran Golden State Raceway on airport land, where a Reseda racer set a 7.50 on pump gas. A 1975 letter called the strip doomed. Lompoc racers were still winning there in 1977. Most of what survives about it comes from a neighboring town's paper, the *Lompoc Record*.
 
 ## Dragons and Jaycees (1959–70)
 
@@ -87,6 +89,8 @@ By the early 1970s Lompoc drivers were winning regularly at Santa Maria. In Augu
 *Santa Maria Public Airport from the air, Sept. 3, 1994. U.S. Geological Survey photo, public domain, via Wikimedia Commons.*
 
 In December 1975 Martin D. U'Ren wrote that he had learned of "the probable demise of the Golden State Raceway, with the end of the year." The airport owned the land, the Chamber of Commerce was apparently withdrawing its support, and "our dragstrip seems doomed."[^lr751217] It lasted longer than he feared. In April 1977 Skip Allington won Pro Stock at the Golden State Raceway with 11.56 seconds at 113.63 mph.[^lr770425]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> At Redding, a car club ran the [airport runway where Red Bluff's dragster raced](red-bluff-schafer-oil-special.md). At Santa Maria a civic club ran the strip, on land owned by an airport that could take it back.
+
+The letter had called the strip doomed. The airport still owned the land. Lompoc was still winning there in 1977.
 
 ## Open questions & disputed details
 

@@ -1,6 +1,6 @@
 ---
 title: 'Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain (Wilmington, Mass., 1948–72)'
-summary: Two Wilmington, Mass., hot rodders raced at dawn on the Beverly Airport, talked the Sanford, Maine, airport into a race with barricades for the pilots, and in 1950 swapped engines behind a Bonneville motel. In the 1960s the Cain family's Chrysler-Plymouth dealership raced the Hurri-Cain Hemis.
+summary: "Fred Cain and Fran Bannister raced Sunday mornings at Beverly, put barricades on the Sanford runway so pilots would not land, and in 1950 swapped engines behind a Bonneville motel. The Cain dealership later raced the Hurri-Cain."
 department: drag-racing
 era: 1950s
 eras:
@@ -67,7 +67,7 @@ canonical_for: []
 ---
 # Barricades at the End of the Runway: Fred Cain, Fran Bannister and the Hurri-Cain (Wilmington, Mass., 1948–72)
 
-*Sunday mornings on a borrowed runway, a tripod on a coupe's roof, and a dealership's Hemi*
+*Sunday mornings on a borrowed runway, barricades so the pilots would not land, a tripod behind a Bonneville motel, and a dealership's Hemi*
 
 !!! abstract "Article record"
     **Confidence:** Low (the early years rest on two retrospective features in one town weekly) · **Source types:** <span class="hr-badge">Grassroots</span> town weekly (*Town Crier*, Wilmington, Mass.): a 1969 display ad, a 1972 school story, and 2007 and 2008 Hall of Fame features by Larz F. Neilson, read as scanned page OCR on the Internet Archive, the 1972 page checked against the image; a car museum's exhibit page; a hot rod wiki page · **Last verified:** 2026-10-22 (Round 23-East) · **Open issues:** a '39 or a '40 coupe ⚠; the first Sanford race and its 15 years ◐; Bannister's 127 mph "record" ◐; the 1990 return ⚠; the Hurri-Cain's first year ?; the World Cup Meet's strip ? · [How we rate this](../reference/source-standards.md)
@@ -77,6 +77,8 @@ canonical_for: []
 
     — Fred D. Cain, as reported by Larz F. Neilson, *Town Crier* (Wilmington, Mass.), Aug. 20, 2008.[^tc080820]
 
+Fred Cain and Fran Bannister raced at dawn on a borrowed runway, then talked an airport into one race and had to put barricades up so the pilots would not land. In 1950 they changed engines behind a Bonneville motel. Later the Cain family's Chrysler-Plymouth dealership raced the Hurri-Cain.
+
 The Beverly Airport gave the hot rodders one runway, on Sunday mornings, from 6:00 to 8:30. That is how the Wilmington *Town Crier* told Fred D. Cain's story in 2008: he and a few friends raced a 1939 Ford coupe there in the late 1940s until "some motorcyclists decided to use another runway," and the permission was rescinded.[^tc080820]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> His father, Fred F. Cain, was a partner in the Shawsheen Pines Airport off Hopkins Street, where they could use a hangar, but that runway "wasn't paved and it was too short for racing."[^tc080820]
 
 So they went to Maine.
@@ -85,7 +87,7 @@ So they went to Maine.
 
 Cain and his neighbor on Clark Street, Fran Bannister, asked the Sanford Airport for permission to hold one race: Bannister in his '32 roadster against Cain in the '39 coupe. They got one runway, "but had to erect barricades at the end to warn pilots not to land there." Bannister won. "The following Sunday, 30 racers showed up, and the drag races ran at Sanford for over 15 years." In time they raced on the airports at Orange, Mass., and Laconia, N.H., too.[^tc080820]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> A 2007 feature in the same paper adds that the deal was struck with the airport and the New England Timing Association, and that the elder Cain used to fly from the Tew Mac Airport in Tewksbury to Sanford to watch his son race.[^tc070718]
 
-Bannister was an Army veteran who had been a motor-pool mechanic.[^tc080820] The Audrain Automobile Museum, which has shown the restored roadster, describes its 1939 Ford truck grille and hand-made aluminum hood, says *Hot Rod* featured the car in March 1950, and says Fran and his brother Ralph built several notable cars together.[^audrain] According to the hot rod wiki *Kustomrama*, which cites a later book, the brothers built this one at the Boston trucking company where both worked as mechanics and finished it in 1949.[^kr]
+Bannister was an Army veteran who had been a motor-pool mechanic.[^tc080820] The Audrain Automobile Museum, which has shown the restored roadster, describes its 1939 Ford truck grille and hand-made aluminum hood, says *Hot Rod* featured the car in March 1950, and says Fran and his brother Ralph built several cars together.[^audrain] According to the hot rod wiki *Kustomrama*, which cites a later book, the brothers built this one at the Boston trucking company where both worked as mechanics and finished it in 1949.[^kr]
 
 ## Behind the motel at Bonneville (1950)
 
@@ -104,6 +106,8 @@ In June 1972 Bobby Cain brought the car to the Swain School in Wilmington. On Ma
 Fran Bannister worked for Fred Cain for many years and retired to Georgia. In 1990, the 2008 feature says, he went back to the salt at 70 and ran 112.199.[^tc080820]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Sources disagree: see Open questions">⚠</a></sup> Fred Cain went into the Tyrods New England Racers and Hot Rodders Hall of Fame in July 2008, a year after Bob Cain went into New England Dragway's. The feature that reported it did not end on the strip. Fred's high-speed antics, it said, were "not limited to dry land," and he had many stories to tell, "including racing his boat at 175 m.p.h."[^tc080820]
 
 For a runway fight that went the other way, see [Tear Gas on the Runways (Pennsauken, N.J.)](pennsauken-central-airport-1958.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
+
+They had put the barricades up so the pilots would not land. They had changed engines behind the motel. The dealership still raced the Hurri-Cain.
 
 *See also:* Connecticut, whose racers had only out-of-state airfield strips such as Sanford until 1961: [Help Them Get a Drag Strip (Connecticut)](connecticut-clubs-nutmeg-state-timing-association.md). The New England Hot Rod Council that ran Sanford went on to build [New England Dragway at Epping, N.H.](new-england-dragway-epping.md), and four Sanford racers started [Winterport Dragway in Maine](winterport-fernald-field-maine.md).
 

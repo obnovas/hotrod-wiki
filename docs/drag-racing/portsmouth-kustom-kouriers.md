@@ -1,6 +1,6 @@
 ---
 title: 'Portsmouth, Ohio, 1956: The Phones Went Dead and the Hot Rod Club Carried the Messages'
-summary: When the telephones went dead in Portsmouth, Ohio, in 1956, the Kustom Kouriers hot rod club carried messages for the city.
+summary: When the telephones went dead in Portsmouth, Ohio, in 1956, the Kustom Kouriers hot rod club carried messages for the hospitals, in a city of about 40,000.
 department: drag-racing
 eras:
 - 1950s
@@ -36,6 +36,8 @@ canonical_for: []
 ---
 # Portsmouth, Ohio, 1956: The Phones Went Dead and the Hot Rod Club Carried the Messages
 
+*When the telephones went dead in Portsmouth in 1956, the hot rod club carried the messages*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** an Associated Press dispatch of Sept. 19, 1956, as printed in small-town dailies (*Circleville Herald* and *Washington C.H. Record-Herald*, Ohio; *Hope Star*, Ark.); a national magazine feature written after the strike by an Ohio State journalism teacher (*Saturday Evening Post*, June 8, 1957), all read as scanned OCR · **Last verified:** 2026-10-17 (Round 16) · **Open issues:** neither source names a single club member; the AP places the courier offer in the September shutdown and the *Post* in the 61-day blackout that began Oct. 15 ⚠ (both may be true); we have not read the *Portsmouth Times* itself · [How we rate this](../reference/source-standards.md)
 
@@ -44,7 +46,7 @@ canonical_for: []
 
     — **Front-page editorial**, *Portsmouth Times*, on the fifth day of the blackout, as quoted by Evan Hill in the *Saturday Evening Post*, June 8, 1957.[^sep]
 
-Most hot rod club stories from the 1950s are about winning over a town. This one is about a town that needed its hot rodders.
+Most hot rod club stories from the 1950s are about winning over a town. This one is about a town that needed its hot rodders. In 1956 the telephones went dead in Portsmouth, Ohio, and the Kustom Kouriers carried the messages.
 
 ## A city with no dial tone
 
@@ -64,6 +66,8 @@ The car clubs had a part in it. Two clubs offered to run messages: the Portsmout
 ![A linen postcard of a long steel bridge over a wide river, with a small city on the far bank](../assets/images/commons-portsmouth-ohio-grant-bridge-postcard.jpg){ loading=lazy }
 <figcaption markdown>The U.S. Grant Bridge over the Ohio River, with Portsmouth in the background, on a linen postcard from about 1930–45, before the events on this page. Creator: Portsmouth News Agency, publisher; Tichnor Bros., printer (Boston Public Library, Tichnor Brothers collection #73184). Date: c. 1930–1945. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:U.S._Grant_Bridge,_Portsmouth,_Ohio._Connecting_Kentucky_and_Ohio,_U.S._Route_23_showing_Portsmouth,_Ohio,_in_background_(73184).jpg). License: Public domain.</figcaption>
 </figure>
+
+The phones were dead. The town needed its hot rodders, and the Kustom Kouriers carried the messages.
 
 ## Open questions & disputed details
 

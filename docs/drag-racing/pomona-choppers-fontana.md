@@ -1,6 +1,6 @@
 ---
 title: 'Pomona''s Choppers & the Fontana Strip: "If You Can''t Control Them, Join Them"'
-summary: In 1951 Pomona's police chief told the FBI bulletin how his department stopped fighting its hot rodders and helped the Choppers club get a legal drag strip at Fontana.
+summary: In 1951 Pomona's police chief told the FBI bulletin that the department had stopped fighting its hot rodders and helped the Choppers club get a legal drag strip at Fontana.
 department: drag-racing
 eras:
 - 1940s
@@ -46,6 +46,8 @@ canonical_for: []
 ---
 # Pomona's Choppers & the Fontana Strip: "If You Can't Control Them, Join Them"
 
+*In 1951 Pomona's police stopped fighting the hot rodders and helped the Choppers get a legal strip at Fontana*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> municipal police chief's first-person account (FBI Law Enforcement Bulletin, Dec 1951), planning-officials report (ASPO, 1955), NHRA features (2012, 2015), <span class="hr-badge">Grassroots</span> town newspaper (1953), local-court blog item (1947) · **Last verified:** 2026-10-22 (Round 22-West) · **Open issues:** the chief is describing his own program, so the account is promotional; the date of the strip's move to the fairgrounds is not documented · [How we rate this](../reference/source-standards.md)
 
@@ -54,7 +56,7 @@ canonical_for: []
 
     — **Ralph E. Parker**, Chief of Police, Pomona, Calif., FBI Law Enforcement Bulletin, December 1951.[^leb]
 
-In 1951 the chief of a Southern California city police department wrote up, for the FBI's monthly bulletin to other police, how his department had stopped fighting its hot rodders and started working with them. It is one of the clearest first-hand records of how a **local police force** helped create an early legal drag strip.
+In 1951 Pomona's police stopped fighting the hot rodders and helped the Choppers get a legal strip at Fontana. Chief Ralph E. Parker wrote it up for the FBI's monthly bulletin to other police. The approach not tried was to join them.
 
 ## The problem, as the police radio heard it
 
@@ -64,27 +66,29 @@ A 1947 item from a blog that posts daily 1947 news shows the older approach in a
 
 ## What the police tried instead
 
-In **1949** young owners formed clubs with names such as "Spooks," "Choppers" and "Cam Twirlers."[^leb]
+In 1949 young owners formed clubs with names such as "Spooks," "Choppers" and "Cam Twirlers."[^leb]
 
-Pomona's police met them halfway. Traffic Officer **E. J. Coons**, "a racing enthusiast himself," met the clubs and explained the complaints. The department then donated its **Officers Club rooms** one evening a week as a meeting place, and he showed safety films and gave talks.[^leb]
+Pomona's police met them halfway. Traffic Officer E. J. Coons, "a racing enthusiast himself," met the clubs and explained the complaints. The department then donated its Officers Club rooms one evening a week as a meeting place, and he showed safety films and gave talks.[^leb]
 
-The clubs also got a point system. Poker runs, secret-destination runs and time runs earned points: five for winning a run, one for taking part. A moving-violation citation cost **10 points**, and under the honor system each member reported his own citations at the next meeting. A donated "Perpetual Activity Trophy" went to the semiannual winner. Parker says membership "tripled" and citations and complaints fell.[^leb]
+The clubs also got a point system. Poker runs, secret-destination runs and time runs earned points: five for winning a run, one for taking part. A moving-violation citation cost 10 points, and under the honor system each member reported his own citations at the next meeting. A donated "Perpetual Activity Trophy" went to the semiannual winner. Parker says membership "tripled" and citations and complaints fell.[^leb]
 
 ## The strip, and the red tape
 
-After about 15 months the club wanted "a runway trial strip." The first sites were rejected for safety, and the club finally **leased an air strip at Fontana Airport**. Then came the red tape.[^leb] San Bernardino County had an ordinance against racing, and it took two meetings with the supervisors, with letters from police chiefs and highway patrol officials, to get it amended. The regional Civil Aeronautics Administration office also had to approve. And insurers refused until "a Pomona insurance broker" wrote **$100,000/300,000 public liability and $50,000 property damage** coverage.
+After about 15 months the club wanted "a runway trial strip." The first sites were rejected for safety, and the club finally leased an air strip at Fontana Airport. Then came the red tape.[^leb] San Bernardino County had an ordinance against racing, and it took two meetings with the supervisors, with letters from police chiefs and highway patrol officials, to get it amended. The regional Civil Aeronautics Administration office also had to approve. And insurers refused until "a Pomona insurance broker" wrote **$100,000/300,000 public liability and $50,000 property damage** coverage.
 
-The "Choppers" Club "dug in" on **April 1, 1951**, with the program's operating body appearing in the bulletin as the **Fontana Racing Association**. Admission was 25 cents, and the best crowd so far was eleven hundred. Parker's closing line: "The hot rodder is no longer a problem in Pomona—he is part of a program."[^leb]
+The "Choppers" Club "dug in" on April 1, 1951, with the program's operating body appearing in the bulletin as the Fontana Racing Association. Admission was 25 cents, and the best crowd so far was eleven hundred. Parker's closing line: "The hot rodder is no longer a problem in Pomona—he is part of a program."[^leb]
 
 ## Later: the fairgrounds
 
-Fontana was not the end. A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the **Pomona Valley Timing Association**, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in **April 1953**. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> The bulletin's "E. J. Coons" and NHRA's "Bud Coons" are the same man: Burgess's 2015 obituary names him as Eldo J. "Bud" Coons, a Pomona police sergeant,[^nhra2015] and in the fall of 1953 the Palm Springs paper reported Chief Parker and his sergeant advising desert youths on a timing association,[^ds531012] naming him a month later as "Sgt. Bud Coons of the Pomona police department."[^ds531119] (See [the Palm Springs Timing Association](palm-springs-timing-association.md).)
+Fontana was not the end. A 1955 planning-officials report says Pomona's city built an asphalt strip in the Los Angeles County fairgrounds parking lot and the club agreed to repay the city's investment of more than $5,000 from dues and admissions.[^aspo] NHRA's Phil Burgess (2012) writes that the Choppers, incorporated as the Pomona Valley Timing Association, raced on that fairgrounds strip, and credits Chief Parker and officer "Bud Coons" with paving the way for the first NHRA-sanctioned event at Pomona in April 1953. A street sign installed in 1979 names the track's road Parker Avenue.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> The bulletin's "E. J. Coons" and NHRA's "Bud Coons" are the same man: Burgess's 2015 obituary names him as Eldo J. "Bud" Coons, a Pomona police sergeant,[^nhra2015] and in the fall of 1953 the Palm Springs paper reported Chief Parker and his sergeant advising desert youths on a timing association,[^ds531012] naming him a month later as "Sgt. Bud Coons of the Pomona police department."[^ds531119] (See [the Palm Springs Timing Association](palm-springs-timing-association.md).)
 
 ## Why it matters
 
-This story ties a **police department** directly to the strip that later became NHRA's Pomona Raceway and the Winternationals home. See also [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) for the county-airport deal that preceded it.
+The department was in the program with the club. The strip later became NHRA's Pomona Raceway and the Winternationals home. See also [Santa Ana Drags](../eras/1950s-santa-ana-drags.md) for the county-airport deal that preceded it.
 
 Compare the other local programs in [What the City Planners Wrote (1955)](planners-report-1955.md) and the sheriff-backed strip at [Inyokern](inyokern-dust-devils.md).
+
+The police had tried the arrests. Then the Choppers had a strip at Fontana, and the department was part of the program.
 
 <figure markdown>
 ![The Pomona strip in February 2008, at what is now Auto Club Raceway at Pomona on the Fairp](../assets/images/commons-pomona-drag-strip-2008.jpg){ loading=lazy }

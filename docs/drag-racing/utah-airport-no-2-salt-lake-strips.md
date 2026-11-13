@@ -89,7 +89,7 @@ canonical_for: []
 ---
 # Sundays at Airport No. 2: Utah's Runway Drags, a Clubhouse Paid for by a Street Race and the Salt Lake Strip War of 1965 (1950–1975)
 
-*Fifteen cars at Provo, a closed street in Ogden, and the Sunday the crowd walked two miles east*
+*Airport runways, a street closed to pay for a clubhouse, and the Sunday in 1965 the crowd went two miles east*
 
 !!! abstract "Article record"
     **Confidence:** Medium (most of the story comes from Drag Strip List's strip histories, drawn from Utah newspapers, and from racers' memories collected there, many in Mel Bashore's interviews; a city history site and an obituary agree on the big strips) · **Source types:** <span class="hr-badge">Grassroots</span> Drag Strip List's Utah strip histories from the *Salt Lake Tribune* and other papers, racers' memories (interviews, 2017–22), West Valley City History, an obituary (2024) · **Last verified:** 2026-11-03 (Round 31) · **Open issues:** ⚠ when Don Garlits first raced in Utah; ◐ the DanCapp blower company · [How we rate this](../reference/source-standards.md)
@@ -98,6 +98,8 @@ canonical_for: []
     "We had a lot of fun, but didn't make any money."
 
     — Ron Winegar, co-owner of West Jordan's Copper Raceway, 1965–66, interviewed in 2017.[^dslut]
+
+Utah's hot rodders raced on airport runways, from fifteen cars at Provo in 1950 to Sundays at Salt Lake City's Airport No. 2. An Ogden club closed a city street in 1955 and the proceeds paid for its clubhouse. In 1965 a new strip two miles east emptied Salt Lake Raceway on a Sunday.
 
 ## Fifteen cars and a runway
 
@@ -117,9 +119,11 @@ The racers were not happy. In March 1964 the Salt Lake Valley Quarter Mile Assoc
 
 ## Bonneville Raceway and the rest of the state
 
-The Bonneville Drag Strip's founders wanted more. In 1966 Godfrey, Bob Gee, Jim Campbell and the Howard Haynes family bought 60 acres at 6555 West 2100 South and spent $250,000 on a half-mile oval, a road course and a nearly 3,000-foot drag strip; Bonneville Raceway held its first drags on July 23–24, 1968.[^wvc] Larry Rees, 30, was killed there in his AA/FD that Aug. 31.[^dslutah] Bob Ipson leased it in 1973, and as Rocky Mountain Raceway it ran until 2018.[^wvc] One of its 1970s Top Fuel racers, Rex Pearmain, recalled buying cheap Kennecott diesel 6-71 blower rotors, and said Mark Danakis and a partner named Capps "started a blower company called DanCapp."[^dslut]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup> When Don Garlits came, the papers counted the crowd: 4,200 people saw him beat Noorda at the Bonneville Drag Strip on May 7, 1967.[^dslutah]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup>
+The Bonneville Drag Strip's founders wanted more. In 1966 Godfrey, Bob Gee, Jim Campbell and the Howard Haynes family bought 60 acres at 6555 West 2100 South and spent $250,000 on a half-mile oval, a road course and a nearly 3,000-foot drag strip; Bonneville Raceway held its first drags on July 23–24, 1968.[^wvc] Larry Rees, 30, was killed there in his AA/FD that Aug. 31.[^dslutah] Bob Ipson leased it in 1973, and as Rocky Mountain Raceway it ran until 2018.[^wvc] One of its 1970s Top Fuel racers, Rex Pearmain, recalled buying cheap Kennecott diesel 6-71 blower rotors, and said Mark Danakis and a partner named Capps "started a blower company called DanCapp."[^dslut]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup> We have found no ad, business filing or catalog for it. When Don Garlits came, the papers counted the crowd: 4,200 people saw him beat Noorda at the Bonneville Drag Strip on May 7, 1967.[^dslutah]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> When he first raced in Utah is still open.
 
 Outside the Salt Lake Valley the old runways kept serving. Moab's abandoned airport held its first NHRA-sanctioned race on Oct. 10, 1965, with 42 entries from Utah, Colorado and New Mexico and 500 spectators.[^dslutah] At Pleasant Grove in 1972, police officer John Frampton organized races on a closed road by the county dump "to give youth a place to race under controlled, supervised conditions"; by 1974 they were nicknamed the "Dump Yard Nationals."[^dslutah] And at St. George, Dan Johnson remembered running 221.25 mph and being paid $200 for every track record he broke.[^dslut] In Hanksville, on Labor Day 1975, a church youth group ran drags on an abandoned road between two river bridges for the town's bicentennial.[^dslutah]
+
+The runways came first, fifteen cars at Provo and Sundays at Airport No. 2. A closed street in Ogden paid for a clubhouse. In 1965 the crowd went to the new strip, two miles east, and Salt Lake Raceway closed.
 
 *See also:* [Las Vegas and Henderson](las-vegas-henderson-drag-strips.md), the next big strips southwest; [Casper and Wyoming's strips](casper-bar-nunn-wyoming-strips.md) and [Denver](denver-timing-association-bandimere.md) to the east.
 
