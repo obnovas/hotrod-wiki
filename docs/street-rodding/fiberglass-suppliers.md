@@ -1,6 +1,6 @@
 ---
 title: Fiberglass for the Fenderless
-summary: Fiberglass bodies for fenderless rods, from Diablo's $149.50 T roadster body in 1957 to Cal Automotive and Wescott's of Boring, Oregon.
+summary: Steel bodies for fenderless rods were running out. Fiberglass filled the gap, from Diablo's $149.50 T roadster body in 1957 to Wescott's, near Portland in 1954, and Cal Automotive, from Whidbey Island.
 department: street-rodding
 era: 1950s
 eras:
@@ -35,16 +35,16 @@ canonical_for: []
 ---
 # Fiberglass for the Fenderless
 
-*Early street rod body suppliers, 1957–1980s*
+*Steel bodies were running out, and the fiberglass that filled the gap was not all SoCal, from a $149.50 T body in 1957*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** company histories, period ads (via secondary), obituary · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Who was "first" in fiberglass bodies · [How we rate this](../reference/source-standards.md)
 
-Street rodding needed old bodies, and steel ones were running out. Fiberglass reproductions filled the gap.
+Street rodding needed old bodies, and steel ones were running out. Fiberglass reproductions filled the gap. The street-rod parts business is usually associated with SoCal. Wescott's and Cal Automotive's founders had Pacific Northwest roots.
 
 ## The T roadster bodies
 
-Take a 1957 magazine ad. An ad for Diablo Speed Shop's fiberglass T roadster body appeared in Hot Rod in **August 1957**, priced at **$149.50**. It was bought by Buzz Pitzen<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> (Kustomrama).[^dia]
+A 1957 magazine ad for Diablo Speed Shop's fiberglass T roadster body appeared in Hot Rod in **August 1957**, priced at **$149.50**. It was bought by Buzz Pitzen<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> (Kustomrama).[^dia]
 
 Three years later came Cal Automotive. Bud Lang and Curt Hamilton were Navy buddies from Whidbey Island and members of the Alky-Haulers club. Their T body ad ran in **Car Craft, August 1960**, at **$109.50 and $124.50**. Dean Jeffries prepared a rented steel '23 T body and Nat Reeder made the mold (TBucketPlans).[^cal] The first buyer was reportedly "Wild Willy" Borsch.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -58,7 +58,9 @@ Up north, the story starts earlier. Dee Wescott started making fiberglass parts 
 
 According to Wescott's company history, it added a 1931 coupe body (1969) and a roadster (about 1971).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> In the 1980s it restricted its line to 1926–48 Fords, matching the NSRA's 1948 cutoff.[^wes] Dee Wescott died in 2009.[^wes]
 
-That northern start is the point. The street-rod parts business is usually associated with SoCal. Two of the important fiberglass players, Wescott's and Cal Automotive's founders, had **Pacific Northwest** roots.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
+That northern start is the point. The street-rod parts business is usually associated with SoCal. Two of the important fiberglass players, Wescott's and Cal Automotive's founders, had **Pacific Northwest** roots. Neither account settles which body came first.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
+
+Steel ones were running out. The fiberglass came from Boring and from Whidbey Island, and from a $149.50 ad in 1957. Not all of it was SoCal.
 
 ## Open questions & disputed details
 

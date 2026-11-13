@@ -1,6 +1,6 @@
 ---
 title: 'Street Rod in the Small-Town Paper: Henry Gregor Felsen''s Serial (1953–1954)'
-summary: In 1954 small-town papers ran Henry Gregor Felsen's novel Street Rod as a daily serial, so a kid in Hope, Arkansas, could follow a hot rodder's fight with city hall.
+summary: In 1954 small-town papers ran Henry Gregor Felsen's novel Street Rod as a daily serial, so a kid in Hope, Arkansas, could follow a hot rodder's fight with city hall. The towns were having that same argument.
 department: media
 eras:
 - 1950s
@@ -41,6 +41,8 @@ canonical_for: []
 ---
 # *Street Rod* in the Small-Town Paper: Henry Gregor Felsen's Serial (1953–1954)
 
+*In 1954 a small-town paper ran Felsen's novel Street Rod, a hot rodder's fight with city hall, the same argument the towns were having*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town dailies that ran the serial (*Escanaba Daily Press*, Mich.; *Hope Star*, Ark.; *Harrisburg Daily Register*, Ill.; 1954, read as page OCR), university archive finding aid (University of Iowa Special Collections), a 1953 trade review (*Kirkus*), Open Library catalog record, a 2010s book review (Speedreaders), a collector's blog · **Last verified:** 2026-10-16 (Round 14) · **Open issues:** ⚠ which Felsen novel carries the "Iowa Timing Association" dedication; the novel's own text could be seen only as search snippets (the scans are lending-only) ◐; we have not identified the Iowa Timing Association's members or meets · [How we rate this](../reference/source-standards.md)
 
@@ -49,13 +51,13 @@ canonical_for: []
 
     — **Ricky Madison**, the hero of Felsen's *Street Rod*, after his father asks whether a supervised drag strip would work in his town; installment in the *Hope Star*, Hope, Arkansas, May 29, 1954.[^hope0529]
 
-In the spring of 1954 a kid in Hope, Arkansas, could follow a hot rodder's fight with city hall in the local paper, one installment a day. The same story ran that May in Escanaba, Michigan, and that July in Harrisburg, Illinois. Each installment carried the same small print: "Copyright 1953 by Henry Gregor Felsen. Printed by arrangement with the publishers, Random House, Inc. Distributed by NEA Service."[^esc0511][^harr0701]
+In the spring of 1954 a kid in Hope, Arkansas, could follow a hot rodder's fight with city hall in the local paper, one installment a day. The same story ran that May in Escanaba, Michigan, and that July in Harrisburg, Illinois. The novel was *Street Rod*. The towns were having that same argument.
 
-The novel was *Street Rod*. Its hero, 16-year-old Ricky Madison of "Dellville," Iowa, buys a car without permission, builds it up, and tries to talk his town into a supervised drag strip.[^kirkus][^ol]
+Each installment carried the same small print: "Copyright 1953 by Henry Gregor Felsen. Printed by arrangement with the publishers, Random House, Inc. Distributed by NEA Service."[^esc0511][^harr0701] Its hero, 16-year-old Ricky Madison of "Dellville," Iowa, buys a car without permission, builds it up, and tries to talk his town into a supervised drag strip.[^kirkus][^ol]
 
 ## The writer from the Iowa Writers' Project
 
-Felsen was born in Brooklyn in 1916. The University of Iowa's archive says he spent two years at the university, left because he could not afford the tuition, came back to Iowa City to write for the Iowa Writers' Project guidebook, served with the Marines in the Pacific writing for *Leatherneck*, and returned to Iowa in 1946 to stay for most of his life. His car novels, *Hot Rod*, *Street Rod* and *Crash Club*, sold about eight million copies, and *Hot Rod* stayed on a children's bestseller list for nearly thirty years, the finding aid says.[^uiowa]
+Felsen was born in Brooklyn in 1916. The University of Iowa's archive says he spent two years at the university and left because he could not afford the tuition. He came back to Iowa City to write for the Iowa Writers' Project guidebook, served with the Marines in the Pacific writing for *Leatherneck*, and returned to Iowa in 1946 to stay for most of his life. His car novels, *Hot Rod*, *Street Rod* and *Crash Club*, sold about eight million copies. *Hot Rod* stayed on a children's bestseller list for nearly thirty years, the finding aid says.[^uiowa]
 
 Random House published *Street Rod* in 1953, 277 pages.[^ol] *Kirkus* priced it at $2.50 and did not go easy: "Hot rodding and the competitive spirit born of boredom and the wish to be a big shot, get a scathing denunciation," the review began, in a novel that "probes further than Felsen's former Hot Rod."[^kirkus]
 
@@ -66,6 +68,8 @@ The newspaper version keeps the book's civic argument front and center. In the *
 By the May 31 installment Ricky is in front of the mayor, explaining the new Dellville Timing Association. "We're trying to help solve a problem," he says, and he explains that a drag race is an acceleration race: "It tests cars." Gus Vorkle, at the meeting, isn't buying it: "You want the city to give you a race track and encourage hot-rod driving."[^hope0531] In the novel the council turns the boys down, and *Kirkus* says an out-of-town wreck makes the town's elders so wary that they forbid dating in cars.[^ebsco][^kirkus]
 
 None of that is history; it's a novel. But the argument is the one real towns were having that same year. In June 1954 the police of Columbia, Missouri, started the Motor Sports Club ([City planners, 1955](../drag-racing/planners-report-1955.md)), and that December eight members organized the Drag-n's in Escanaba, the same town whose paper had run *Street Rod* in May ([The Cop and the Auto Shop](../drag-racing/escanaba-dragns.md)). We have found nothing that connects the serial to either club.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+
+The paper in Hope ran a hot rodder's fight with city hall, one installment a day. Escanaba and Harrisburg ran the same story. The towns were having that argument too.
 
 ## Open questions & disputed details
 

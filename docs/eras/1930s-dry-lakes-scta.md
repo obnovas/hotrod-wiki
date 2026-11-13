@@ -1,6 +1,6 @@
 ---
 title: 'Muroc: Where Everybody Raced at Once'
-summary: In the 1920s and 1930s Los Angeles racers drove to Muroc Dry Lake and raced side by side in unruly lineups, until the timing associations and the SCTA brought the stopwatch.
+summary: In the 1920s and 1930s Los Angeles racers drove roughly 100 miles to Muroc and raced side by side in lineups, until the SCTA brought the stopwatch on November 29, 1937. Then the air base took the lake.
 department: eras
 era: 1930s
 eras:
@@ -48,7 +48,7 @@ canonical_for:
 ---
 # Muroc: Where Everybody Raced at Once
 
-*The 1930s dry lakes and the founding of the SCTA*
+*Side by side at Muroc until the SCTA brought the stopwatch, and then the air base took the lake*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** club history, secondary, oral · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** First-meet date conflict open · [How we rate this](../reference/source-standards.md)
@@ -68,29 +68,31 @@ canonical_for:
 <figcaption markdown>El Mirage Dry Lake, San Bernardino County, today a BLM off-highway vehicle area. It is a modern view of the lakebed, not a period racing photo. Photo: Bureau of Land Management California, 2015-06-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Mirage_Dry_Lake_Off-Highway_Vehicle_Recreation_Area_(29486068103).jpg). License: Public domain.</figcaption>
 </figure>
 
-In the 1920s, the weekend racers of greater Los Angeles drove roughly 100 miles north to Muroc Dry Lake, partly to get away from the police. They brought modified four-cylinder Fords and raced them side by side across the lakebed in unruly "lineups."[^mojave]
+In the 1920s, the weekend racers of greater Los Angeles drove roughly 100 miles north to Muroc Dry Lake, partly to get away from the police, and raced side by side.[^mojave] The Southern California Timing Association put a stopwatch on those lineups in 1937. Then the air base took the lake, and after the war El Mirage became the main lakebed.
 
-By the early 1930s someone was trying to organize it. Bell Auto's George Wight is said to have worked with the young Gilmore Oil company to organize dry-lakes events at Muroc in the early 1930s.[^jj-bell]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+They brought modified four-cylinder Fords and raced them across the lakebed in unruly "lineups."[^mojave] By the early 1930s someone was trying to organize it. Bell Auto's George Wight is said to have worked with the young Gilmore Oil company to organize dry-lakes events at Muroc in the early 1930s.[^jj-bell]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Enter the stopwatch
 
-The Southern California Timing Association was organized on **November 29, 1937**, to run speed trials on the dry lakes and to set safety guidelines. The mass starts gave way to running against the clock.[^rr][^mojave]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+The Southern California Timing Association was organized on November 29, 1937, to run speed trials on the dry lakes and to set safety guidelines. The mass starts gave way to running against the clock.[^rr][^mojave]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Who was in the room is where it gets good.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Who was in the room is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Drake's *Flat Out* lists the Hollywood Throttlers, 90MPH Club, Road Runners, Bungholers, Night Owls, and Mercuries & Centuries, meeting at the Throttlers' clubhouse. Carrol's book has the Knight Riders, Sidewinders, Throttlers, Idlers, Ramblers, Road Runners and 90MPH Club.
 
-Only three names show up in every account: **Throttlers, 90MPH Club, Road Runners**. Of the charter clubs, the Road Runners and the Sidewinders are still around today.[^rr]
+Only three names show up in every account: Throttlers, 90MPH Club, Road Runners. Of the charter clubs, the Road Runners and the Sidewinders are still around today.[^rr]
 
 Coachbuilt.com adds that George DuVall and Julian Doty were charter Hollywood Throttlers "present when the SCTA was founded."[^cb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## May or March?
 
-The new association grew fast, though even its first meet has two dates. By mid-1938 the SCTA had 23 member clubs and 451 members. The Road Runners, with Wally Parks coordinating patrols at the first meet, were the third largest club with 31 members.[^rrpdf] Wally Parks and Ak Miller were founding Road Runners; Miller later became SCTA president, and Parks went on to found the NHRA in 1951.[^rr]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
+The new association grew fast, though even its first meet has two dates.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> By mid-1938 the SCTA had 23 member clubs and 451 members. The Road Runners, with Wally Parks coordinating patrols at the first meet, were the third largest club with 31 members.[^rrpdf] Wally Parks and Ak Miller were founding Road Runners. Miller later became SCTA president, and Parks went on to found the NHRA in 1951.[^rr]
 
 ## The lakebed gets drafted
 
-Then Muroc was gone. It became restricted and was absorbed into what is now Edwards Air Force Base (today Rogers Dry Lake). Harper was too short and Rosamond too soft, and after the war El Mirage became the main lakebed.[^mojave] Barney Navarro remembered the **November 1941** meet as "the last Muroc meet before the war."[^navarro]
+Then Muroc was gone. It became restricted and was absorbed into what is now Edwards Air Force Base (today Rogers Dry Lake). Harper was too short and Rosamond too soft, and after the war El Mirage became the main lakebed.[^mojave] Barney Navarro remembered the November 1941 meet as "the last Muroc meet before the war."[^navarro]
+
+They had come roughly 100 miles and raced side by side in those lineups. On November 29, 1937, the mass starts gave way to running against the clock. Then the air base took the lake.
 
 ## Open questions & disputed details
 

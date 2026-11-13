@@ -1,6 +1,6 @@
 ---
 title: Lead Sleds Come Back, by Way of Wichita
-summary: The Kustom Kemps of America started with 14 charter members in Wichita in 1980 and brought the lead sled back with its first Lead Sled Spectacular in 1981.
+summary: The Kustom Kemps of America started with 14 charter members in Wichita in 1980, numbers drawn from a '52 Caddie hubcap, and the lead sled came back with its first Lead Sled Spectacular in 1981.
 department: customs
 era: 1980s
 eras:
@@ -31,7 +31,7 @@ canonical_for: []
 ---
 # Lead Sleds Come Back, by Way of Wichita
 
-*KKOA and the revival, 1979–83*
+*KKOA and the revival, 1979–83: the lead sled came back by way of Wichita, not Southern California*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> club history, period magazine (Hot Rod 1981, 1983) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-show count conflicts (300+ vs 400) · [How we rate this](../reference/source-standards.md)
@@ -41,7 +41,7 @@ canonical_for: []
 
     — Jerry Titus, KKOA history page. [Full context in Voices](../voices/show-custom-voices.md)
 
-The Kustom Kemps of America started with 14 charter members, whose low membership numbers were "drawn from a '52 Caddie hubcap."[^kk]
+The Kustom Kemps of America started with 14 charter members in Wichita, and the lead sled came back with them. The low membership numbers were "drawn from a '52 Caddie hubcap."[^kk] This was not Southern California.
 
 ## Wichita, October 1, 1980
 
@@ -51,7 +51,7 @@ It explains "kemp" as late-'50s teen slang for a car that gained national exposu
 
 ## The first Lead Sled Spectacular (1981)
 
-The club's first big show drew the press. **Street Rodder** (editor Geoff Carter) and Tex Smith attended. The KKOA calls Street Rodder's national coverage "highly unusual those days for a street rodding mag."[^kk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The club's first big show drew the press. **Street Rodder** (editor Geoff Carter) and Tex Smith attended. The KKOA calls Street Rodder's national coverage "highly unusual those days for a street rodding mag."[^kk]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether the first show was 300 customs or 400 is still open.
 
 The 1981 Hot Rod piece framed the revival as a response to the energy crisis: "If we can't bring back 29-cent gas and 110 octane from the 50s, let's bring back the ultimate cruisemobile... built for comfort, not for speed." It singles out Eldon Titus of Wichita's '49 Buick, with a molded grille and '55 Chevy headlights in candy red.[^hr81]
 
@@ -62,6 +62,8 @@ In 1982, at the Des Moines fairgrounds, turnout roughly doubled. Hot Rod noted a
 The revival was born in **Kansas and Iowa**, not Southern California. It was nostalgia-driven and self-consciously low-buck ("easy, fun, and relatively inexpensive," Hot Rod 1983). It brought back the KKOA's founding generation of builders (Starbird, Barris, Bailon, Winfield, the Alexander Brothers) as guests of honor.[^kk][^hr83]
 
 Compare the NSRA's [1948-and-older line](../street-rodding/nsra-early-nationals.md). Both groups drew a calendar boundary around what counts.
+
+The lead sled came back by way of Wichita. It started with 14 charter members, and the low membership numbers were "drawn from a '52 Caddie hubcap." The first Lead Sled Spectacular was 1981. Not Southern California.
 
 ## Open questions & disputed details
 

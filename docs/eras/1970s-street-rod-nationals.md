@@ -1,6 +1,6 @@
 ---
 title: Peoria, and the Boss Who Never Said Yes
-summary: In 1970 the Rod & Custom crew organized the first Street Rod Nationals in Peoria, though their bosses never said yes. Here is why Peoria, and how many came.
+summary: "In August 1970 the Rod & Custom crew held the first Street Rod Nationals in Peoria with 600 street rods, though Petersen management, the 7th floor, never approved it."
 department: eras
 era: 1970s
 eras:
@@ -44,7 +44,7 @@ canonical_for:
 ---
 # Peoria, and the Boss Who Never Said Yes
 
-*The 1970s street rod resurgence*
+*Peoria in August 1970: the first Street Rod Nationals, with no OK from the 7th floor, and 600 street rods came*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, oral · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Best Car conflict open · [How we rate this](../reference/source-standards.md)
@@ -54,13 +54,15 @@ canonical_for:
 
     — Tom Medley, Rod & Custom, 2007. [Full context in Voices](../voices/peoria-1970.md)
 
-By the late 1960s, street rodders were again "lightning rods, much like the hot rodders of the '40s," with several states passing unfriendly laws.[^rc] At *Rod & Custom*, editor **Tom Medley** ("Street is Neat"), Bud Bryan, Jim "Jake" Jacobs and freelancer **LeRoi "Tex" Smith** planned a national gathering. Bryan, on why: "The sport, at that point, was fragmented nationally. The Midwest and the East Coast guys didn't know much about the West Coast guys."[^rc]
+By the late 1960s, street rodders were again "lightning rods, much like the hot rodders of the '40s," with several states passing unfriendly laws.[^rc] At *Rod & Custom*, editor Tom Medley ("Street is Neat"), Bud Bryan, Jim "Jake" Jacobs and freelancer LeRoi "Tex" Smith planned a national gathering. Petersen management ("the 7th floor") never approved it. The staff went ahead anyway, and on August 14–16, 1970, 600 street rods came to a hayfield in Peoria.
+
+Bryan, on why: "The sport, at that point, was fragmented nationally. The Midwest and the East Coast guys didn't know much about the West Coast guys."[^rc]
 
 ## Why Peoria
 
-The first question was where. Medley picked the **Slo-Pokes** club of Peoria, Illinois because Peoria "was almost the center of the population of the U.S." He met the mayor and council to assure them "we weren't a bunch of greasy fingered motorcycle guys."
+The first question was where. Medley picked the Slo-Pokes club of Peoria, Illinois because Peoria "was almost the center of the population of the U.S." He met the mayor and council to assure them "we weren't a bunch of greasy fingered motorcycle guys."
 
-The second was permission, and it never came: Petersen management ("the 7th floor") never approved it. The staff went ahead anyway. Gary Magner of the **Minnesota Street Rod Association** co-hosted.[^rc]
+The second was permission, and it never came: Petersen management ("the 7th floor") never approved it. The staff went ahead anyway. Gary Magner of the Minnesota Street Rod Association co-hosted.[^rc]
 
 ## A hayfield, a rally and a long way home
 
@@ -72,7 +74,9 @@ That Best Car call is still a puzzle; see [Midwest & East Threads](../places/mid
 
 ## The numbers
 
-The count holds up. Hagerty, citing MotorTrend, gives **August 14–16, 1970** and **600 street rods**. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] We checked those figures on Hagerty's page. *Hot Rod* gave the same count two years after the event: the first Nationals "drew 600 rods and a couple of thousand surprised and delighted" fans.[^hr72] The figure of about 200 in Rod & Custom's account counts the drivers in the rally, not the whole turnout.[^rc] The NSRA's founding date is not yet confirmed from an NSRA source.
+The count holds up. Hagerty, citing MotorTrend, gives August 14–16, 1970 and 600 street rods. It reports nearly 5,000 rods by the 10th Nationals (1979, St. Paul) and the event's first Louisville stop in 1988.[^nsra] We checked those figures on Hagerty's page. *Hot Rod* gave the same count two years after the event: the first Nationals "drew 600 rods and a couple of thousand surprised and delighted" fans.[^hr72] The figure of about 200 in Rod & Custom's account counts the drivers in the rally, not the whole turnout.[^rc] The NSRA's founding date is not yet confirmed from an NSRA source.
+
+The 7th floor never approved it. The staff went ahead anyway, and 600 street rods came to that hayfield in Peoria.
 
 *See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md).
 

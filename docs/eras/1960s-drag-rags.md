@@ -1,6 +1,6 @@
 ---
 title: The Drag Rags
-summary: The "drag rags", Drag News and the other cheap weekly tabloids, were controlled neither by a sanctioning body nor by Petersen. Dave Wallace argues they recorded the truest accounts of drag racing's growth.
+summary: "Drag News and the other cheap weeklies were controlled neither by a sanctioning body nor by Petersen. Dave Wallace argues they recorded the truest accounts, from the March 4, 1955 founding to the independents still publishing in 1967."
 department: eras
 era: 1960s
 eras:
@@ -29,7 +29,7 @@ canonical_for: []
 ---
 # The Drag Rags
 
-*The 1960s and the independent press that wrote it down*
+*Cheap weeklies, controlled neither by a sanctioning body nor by Petersen, that Wallace says recorded the truest accounts*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary (season series), period press via excerpts · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Some excerpts only · [How we rate this](../reference/source-standards.md)
@@ -39,7 +39,7 @@ canonical_for: []
 
     — Kenny Youngblood, in *Mexican Express* (2022). [Full context in Voices](../voices/esparza-brothers.md)
 
-Cheap independent tabloids, the "drag rags," controlled neither by a sanctioning body nor by NHRA-leaning Petersen Publishing (where Wally Parks was editorial director until 1963), "recorded the truest accounts to be found" of drag racing's growth. That is Dave Wallace's argument.[^cp1]
+Cheap independent tabloids, the "drag rags," controlled neither by a sanctioning body nor by NHRA-leaning Petersen Publishing (where Wally Parks was editorial director until 1963), "recorded the truest accounts to be found" of drag racing's growth. That is Dave Wallace's argument.[^cp1] By 1967 only *Drag News* and *Drag Digest* remained, and the rags survive in boxes.
 
 ## Newsprint and nerve
 
@@ -55,11 +55,13 @@ It did not last. In 1966, *Drag Sport Illustrated* shut down and *Drag World* wa
 
 ## What the rags caught
 
-Wallace's season series also turns up smaller stories. Isky believed a tiny ad in the September 1958 *Hot Rod* set off the **Gasser Wars**: Howard Johansen's ad on Doug Cook's defection. See [the Camgrinder Wars](1950s-camgrinder-wars.md).[^cp1] Bob Muravez raced as "Floyd Lippencott Jr.," and the press kept his real name and face out of print for years.[^cp1] And Pete Millar had his *Drag Cartoons* and his National Association For The Advancement Of Flatheads.[^cp1]
+Wallace's season series also turns up smaller stories. Isky believed a tiny ad in the September 1958 *Hot Rod* set off the Gasser Wars: Howard Johansen's ad on Doug Cook's defection. See [the Camgrinder Wars](1950s-camgrinder-wars.md).[^cp1] Bob Muravez raced as "Floyd Lippencott Jr.," and the press kept his real name and face out of print for years.[^cp1] And Pete Millar had his *Drag Cartoons* and his National Association For The Advancement Of Flatheads.[^cp1]
 
 By 1967 the sport the rags had covered was changing. Funny Cars were drawing a new generation of fans, while supercharged gassers still held the doorslammer crowd.[^cp67] OCIR (1967–83), designed and managed by Mike Jones, is credited with stadium seating, electronic scoreboards and the Manufacturers Meet. The Irvine Company did not renew the lease after 1983.[^cp67]
 
 The rags themselves survive in boxes. The Wallace Family Archives offers duplicate issues of many drag rags, per Competition Plus.[^cp67] That is a potential primary source for future rounds.
+
+They were controlled neither by a sanctioning body nor by Petersen. Wallace's argument is that they recorded the truest accounts to be found. The rags survive in boxes.
 
 ## Images
 

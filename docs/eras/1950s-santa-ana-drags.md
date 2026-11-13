@@ -1,6 +1,6 @@
 ---
 title: Pappy Hart and the Bayonets
-summary: Orange County hot rodders raced on abandoned airstrips until, by one account, a company of U.S. Marines with fixed bayonets ran them off. Then C.J. "Pappy" Hart opened the Santa Ana drags in 1950.
+summary: "Orange County hot rodders raced on abandoned airstrips until, by one account, Marines with fixed bayonets ran them off. C.J. Hart opened the Santa Ana drags on June 19, 1950, and the county evicted him on June 21, 1959."
 department: eras
 era: 1950s
 eras:
@@ -46,7 +46,7 @@ canonical_for:
 ---
 # Pappy Hart and the Bayonets
 
-*Santa Ana and the first commercial drag strip, 1950–59*
+*Santa Ana, 1950–59: Marines with fixed bayonets, then Pappy Hart's strip, until the county evicted him*
 
 !!! abstract "Article record"
     **Confidence:** High · **Source types:** obituaries (5+ agreeing), secondary · **Last verified:** 2026-10-27 (Round 24) · **Open issues:** Lions tenure conflict open; why a quarter mile ⚠ · [How we rate this](../reference/source-standards.md)
@@ -58,13 +58,13 @@ canonical_for:
 
 ## Routed by bayonets
 
-In the late 1940s, Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's **Mile Square**. C.J. "Pappy" Hart recalled the good part: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" The bad part came one Sunday, when a company of U.S. Marines with fixed bayonets ran them off.[^mshf]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+In the late 1940s, Orange County hot rodders raced on abandoned wartime airstrips such as the Navy's Mile Square, until, by one account, a company of U.S. Marines with fixed bayonets ran them off.[^mshf]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> C.J. "Pappy" Hart opened a strip at the airport on June 19, 1950. The same airport ended it on June 21, 1959.
 
-Hart's answer was a real strip.
+Hart recalled the good part: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" The bad part came one Sunday, when, by that account, the Marines ran them off. His answer was a real strip.
 
 ## A strip, a Victrola and $1,000
 
-The Orange County Airport manager (today John Wayne Airport) offered an unused strip if Hart paid the airport 10% of proceeds and got insurance. With less than $1,000, Hart, his wife **Peggy**, and two backers opened on **June 19, 1950**.[^mshf] The backers were **Frank Stillwell and Creighton Hunter**, fellow members of the Santa Ana Elks Lodge. The project had the blessing of CHP commissioner Clifford E. Peterson and the county supervisors, and Hunter and Stillwell sold out to Hart a few months in.[^pe]
+The Orange County Airport manager (today John Wayne Airport) offered an unused strip if Hart paid the airport 10% of proceeds and got insurance. With less than $1,000, Hart, his wife Peggy, and two backers opened on June 19, 1950.[^mshf] The backers were Frank Stillwell and Creighton Hunter, fellow members of the Santa Ana Elks Lodge. The project had the blessing of CHP commissioner Clifford E. Peterson and the county supervisors, and Hunter and Stillwell sold out to Hart a few months in.[^pe]
 
 It was a shoestring operation. The timing system was "cobbled together from an old Victrola" (NHRA, 2004).[^nhra04]
 
@@ -76,17 +76,19 @@ Hart was emphatic that he'd invented nothing: "I didn't invent drag racing... Wh
 
 ## How the rules got invented
 
-The rules came from wherever they could be found. The **quarter mile**, by Hart's own account in his Hall of Fame biography, came from horse racing: "There was a lot of talk in those days that quarter horses were faster than cars," he explained, and the public could relate to quarter-mile times.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> **Timing** started with a stopwatch, then homemade electric timers.[^mshf]
+The rules came from wherever they could be found. The quarter mile, by Hart's own account in his Hall of Fame biography, came from horse racing: "There was a lot of talk in those days that quarter horses were faster than cars," he explained, and the public could relate to quarter-mile times.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> Timing started with a stopwatch, then homemade electric timers.[^mshf]
 
-**Classes** came next: stockers split by axle ratio, model year and displacement, with "hot-car" classes added when lakes racers showed up, along with the first cash awards. The "Dollar-A-Mile" program paid Top Eliminator $1 per mph.[^mshf]
+Classes came next: stockers split by axle ratio, model year and displacement, with "hot-car" classes added when lakes racers showed up, along with the first cash awards. The "Dollar-A-Mile" program paid Top Eliminator $1 per mph.[^mshf]
 
 The cars soon tested those rules. Chet Herbert's stripped Harley "The Beast" ran 121 and then 129 mph at Santa Ana in 1950, beating every bike and car there.[^herbert]
 
 ## Eviction and after
 
-The airport that made the strip possible also ended it. The strip ran until **June 21, 1959**, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of **Lions Drag Strip**, staying until 1971. There he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe]
+The airport that made the strip possible also ended it. The strip ran until June 21, 1959, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of Lions Drag Strip, staying until 1971. There he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe]
 
-Hart died on **June 25, 2004**. NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Hart died on June 25, 2004. NHRA, the Orange County Register, the NYT, AP and the Press-Enterprise all give June 25, and the NYT and AP quote his son Gerald.[^nhra04][^nyt] The LA Times wrote "died Saturday" (June 26) and MSHF gives June 26. Both are outliers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+
+By that account, the bayonets had run them off the airstrips. Hart opened the drags on June 19, 1950. On June 21, 1959, the county evicted him to expand the airport.
 
 ## Open questions & disputed details
 

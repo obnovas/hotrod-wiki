@@ -1,6 +1,6 @@
 ---
 title: 'Beast III: Three Days Without Sleep'
-summary: 'Chet Herbert''s Beast III was finished in a rush: its body arrived after the 1952 Nationals had started, volunteers assembled it at Chrisman & Sons Garage in Compton, and Herbert went three or four days without sleep.'
+summary: 'Chet Herbert''s Beast III was finished in a rush: its body arrived after the 1952 Nationals had started, volunteers assembled it at Chrisman & Sons Garage in Compton, and Herbert went three or four days without sleep. The mold was cut up, so the body is one of a kind, and Art Chrisman ran 235.991.'
 department: cars
 eras:
 - 1950s
@@ -39,12 +39,12 @@ principal_source: "Kustomrama, which compiles this from *Merchants of Speed*, *S
 ---
 # Beast III: Three Days Without Sleep
 
-*Chet Herbert's streamliner, 1952*
+*Chet Herbert's streamliner, 1952: the body arrived after the Nationals had started, and Chrisman ran 235.991*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, auction/collection · **Last verified:** 2026-10-12 (Round 2) · **Open issues:** Some details single-sourced · [How we rate this](../reference/source-standards.md)
 
-The body arrived after the 1952 Nationals had started. Volunteers assembled the car at **Chrisman & Sons Garage**, Compton. Herbert stayed up three or four days and finally had to be belted into his wheelchair so he wouldn't fall out.[^k]
+The body arrived after the 1952 Nationals had started. Volunteers assembled the car at **Chrisman & Sons Garage**, Compton. Herbert stayed up three or four days and finally had to be belted into his wheelchair so he wouldn't fall out.[^k] The mold was cut up, so the body is one of a kind. Art Chrisman ran 235.991, the fastest single-engine car in America.
 
 ## Drawn in a wind tunnel, built from borrowed parts
 
@@ -56,11 +56,13 @@ Under the body, much of it was borrowed. The car had a partial chassis from Paul
 
 At Bonneville it needed help just to get moving. Entered as the "Herbert Cams Special," #666, D/Streamliner, it was push-started by a Chevy coupe and Howard Johansen's Model A in tandem, to 130 mph.[^k]
 
-George Bentley ran 182, 197 and 211 mph, then missed a shift. When he didn't show the next morning, **Art Chrisman** took over and ran 219, 224, 230, and a **235.991 mph** record (238.095 best one-way), making it the fastest single-engine car in America. Chrisman became the 10th member of the 200 MPH Club.[^k]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+George Bentley ran 182, 197 and 211 mph, then missed a shift. When he didn't show the next morning, **Art Chrisman** took over and ran 219, 224, 230, and a **235.991 mph** record (238.095 best one-way), making it the fastest single-engine car in America. Chrisman became the 10th member of the 200 MPH Club.[^k]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Everything here is from one compiler so far.
 
 ## The long afterlife
 
 The record was not the end of it. Dana Fuller set diesel records with it in 1953. It was retired in 1955, bought by Ed Hegarty in 2002, unearthed in 2009 by Dave Crouse and Mark Brinker, took second in class at Pebble Beach in 2010, and was donated to the NHRA Museum (exhibit opened 2014).[^k]
+
+They assembled it after the 1952 Nationals had started. The mold was cut up. Chrisman ran 235.991, and it was the fastest single-engine car in America.
 
 ## Open questions & disputed details
 

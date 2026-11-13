@@ -1,6 +1,6 @@
 ---
 title: The Hirohata Mercury
-summary: 'Bob Hirohata''s 1951 Mercury, chopped by Sam and George Barris of Barris Kustom: how it was built, and what became of the car and its owner.'
+summary: 'Bob Hirohata had to sell everything he owned for a 1951 Mercury that Sam and George Barris chopped. Whether the build was 97 days or 14, the sources are not close.'
 department: customs
 era: 1950s
 eras:
@@ -47,7 +47,7 @@ canonical_for: []
 ---
 # The Hirohata Mercury
 
-*Barris Kustom's ice-green Merc, and the argument over how long it took*
+*Bob Hirohata had to sell everything he owned for a 1951 Mercury Sam and George Barris chopped, and the sources are not close on how long it took*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary, museum/registry · **Last verified:** 2026-10-13 (Round 3) · **Open issues:** Build-time conflict open · [How we rate this](../reference/source-standards.md)
@@ -57,15 +57,13 @@ canonical_for: []
 <figcaption markdown>The 1951 Mercury "Hirohata Merc" at "Cars at the Capital," National Mall, Washington, D.C., spring 2017. The car was recorded in the Historic American Engineering Record (HAER CA-2328). Photo: Historic Vehicle Association (HVA), 2017. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1951_Mercury_Sport_Coupe_Hirohata_Merc_(HAER_CA-2328).png). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
 
-"I had to sell everything I owned and put my great aunt in hock to pay for the car," said Bob Hirohata.[^revs]
-
-The car belonged to Robert "Bob" Hirohata of Los Angeles and was built by Sam and George Barris at Barris Kustom. It started as a 1951 Mercury coupe, bought barely used from an older couple.[^revs]
+"I had to sell everything I owned and put my great aunt in hock to pay for the car," said Bob Hirohata.[^revs] The car belonged to Robert "Bob" Hirohata of Los Angeles and was built by Sam and George Barris at Barris Kustom. It started as a 1951 Mercury coupe, bought barely used from an older couple.[^revs] Whether the build was 97 days or 14, the sources are not close.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The build
 
-The roof was chopped about 4 in. in front and 7 in. at the rear, with the B-pillar removed for a hardtop look (tried earlier on Nick Matranga's '39 Merc).[^revs] Out front: frenched headlights, '52 Lincoln taillight lenses, a peaked and extended hood, a handmade grille, flared skirts, and scoops with '52 Chevy grille teeth.[^revs] '53 Buick side spears divided ice green over organic green metallic.[^revs]
+The roof was chopped about 4 in. in front and 7 in. at the rear, with the B-pillar removed for a hardtop look (tried earlier on Nick Matranga's '39 Merc).[^revs] Out front came frenched headlights, '52 Lincoln taillight lenses, a peaked and extended hood, a handmade grille, flared skirts, and scoops with '52 Chevy grille teeth.[^revs] '53 Buick side spears divided ice green over organic green metallic.[^revs]
 
-It sat about 5 in. off the ground: de-arched leafs, lowering blocks, and a C'd rear frame.[^revs] The interior was by Glen Houser's **Carson Top Shop**, the trunk by **Gaylord**, and the dash striping later by **Von Dutch**. Hirohata made the teardrop knobs himself.[^revs] A 1953 Cadillac V8 was installed by Dick Lyon (Lyon Engineering) for the drive to Indianapolis.[^revs]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+It sat about 5 in. off the ground: de-arched leafs, lowering blocks, and a C'd rear frame.[^revs] The interior was by Glen Houser's **Carson Top Shop**, the trunk by **Gaylord**, and the dash striping later by **Von Dutch**. Hirohata made the teardrop knobs himself.[^revs] A 1953 Cadillac V8 was installed by Dick Lyon (Lyon Engineering) for the drive to Indianapolis.[^revs]
 
 Cost was "about $3,500" per George Barris. Hirohata won his class at the 1952 Motorama, drove it to Indianapolis in 1953 and took Best Custom there, then advertised it in Hot Rod (May 1955) for $4,900.[^revs]
 
@@ -76,6 +74,8 @@ By 1959 it was on a used-car lot. Jim McNeil bought it in **1959 for $500** from
 Bob Hirohata was murdered on May 14, 1981, in Temple City, and the case was never solved.[^revs]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 Decades later the car came back. Pat Ganahl at Rod & Custom pushed the restoration with original crew (Barris, Frank Sonzogni, Junior Conway). It won its class at Pebble Beach in 2015 and was displayed on the National Mall by the HVA in 2017.[^revs]
+
+He had to sell everything he owned to pay for the car. McNeil found the business cards behind the radio speaker: "I never touched them... I wanted to feel their presence." Whether the build was 97 days or 14, the sources are not close.
 
 ## Open questions & disputed details
 
