@@ -1,29 +1,33 @@
 # Editorial Voice
 
-*How we tell it. The facts are sacred; the telling is where we get to have fun.*
+*How we tell it. One point, then the story, in plain words.*
 
-This archive began as a detective's notebook, and it still is one. But a notebook is for the detective. The pages people read are for everybody else, and nobody ever fell in love with a flathead because of a bulleted list. So every article here is edited toward a short, true story: a scene or a line to open, a few beats to carry it, and an ending that sticks.
+This archive began as a detective's notebook, and it still is one. The pages people read are a reporter's story: simple, casual, matter-of-fact, and warm. The spirit is the plain awe you hear when someone like Mike Rowe, Paul Harvey, Anderson Cooper, Denzel Washington, or Morgan Freeman tells a true thing and then gets out of its way. That is a spirit, not a script. We do not borrow anyone's catchphrase.
 
 ## The voice
 
-**Warm, vivid, knowing, a little wry.** Think of the best feature writing from the old *Hot Rod* and *Rod & Custom* shelf, a good oral-history interviewer, and a friend who has forgotten more about Winfield cams than you will ever learn and is delighted to tell you anyway.
+**One point, told straight.** Every article has one main point, stated in the opening: what makes this story unique in hot rodding. The rest is that story, beginning to end. The ending lands on the same point.
 
-- **A gearhead's gearhead.** We know what a belly tank is and we do not stop to apologize for it. We explain a term only when the story needs it, and then in a clause, not a paragraph.
-- **Period flavor, not parody.** The era's rhythm is welcome: short sentences, blunt verbs, the occasional shop-floor idiom. Fake slang is not. If we would wince hearing a person say it, we do not write it.
-- **Wry, never snide.** We can smile at a 1950s ad war or a promoter's inflated speed. We never sneer at the people in the story.
-- **Plain words first.** "Machined," not "undertook the machining of." "Ran," not "was observed to achieve."
-- **Short.** Most pieces should read in two to four minutes. If a paragraph is only there to be complete, it goes.
+- **Assume the basics.** Readers know drag racing, a quarter mile, an ET, a mph figure, a hot rod, and a car show. Do not define them. A sentence that exists to teach a common word is a sentence to cut.
+- **Explain what is actually unusual.** A person. A novel idea. An odd or one-of-a-kind detail, and why it stood out in the industry. Boats down a drag strip. A national meet held after the bosses had said no. A wife and three children as the pit crew. Say it once, plainly.
+- **Keep the detail its real size.** Do not inflate a local fact into a legend, and do not turn a strange fact into a joke or a lecture. No melodrama. If it was a lease that was not renewed, say that.
+- **Short, plain sentences.** Casual. Spoken. "Ran," not "was observed to achieve." The story keeps moving. No aside that stops it to define a term.
+- **Warm, never snide.** We can like these people. We do not sneer, and we do not pile on adjectives to manufacture awe. The awe is already in the fact, if the fact is the right one.
+- **Cited in the sentence.** The footnote stays on the claim. A quoted line stays verbatim. A small human detail is welcome when a source gives it, and only then.
+- **Period flavor, not parody.** A shop-floor word the sources use is fine. Fake slang is not. If we would wince hearing a person say it, we do not write it.
 
 ## The shape of a piece
 
-1. **Open on a scene or a line.** The best opening is the most striking thing the sources actually say: a man chasing racers off an airstrip, a part paid for in labor, a number that two sources cannot agree on. No "X was a notable figure in…" openings, ever.
-2. **Tell it in beats, as one train of thought.** Short paragraphs (two to four sentences, easy on a phone), each carrying one movement of the story: the problem, the workaround, the break, the fallout. Each paragraph should follow from the one before; a transition ("That fall...", "The town said no.", "It did not last.") is better than a new subhead. Subheads are used sparingly (two or three at most), and they should be fun and specific, not labels like "Background" or "Legacy." No bullet lists inside the story.
+1. **Open on the point.** Say what is unique here, in plain words. Not a Wikipedia lead, and not a definition. No "X was a notable figure in…" openings, ever.
+2. **Tell it straight through.** From the beginning of the story to the end, in time when the sources give a time. Each paragraph follows the one before. A transition ("That fall...", "The town said no.") is better than a new subhead. Subheads are used sparingly (two or three at most), and they should be specific, not labels like "Background" or "Legacy." No bullet lists inside the story. No glossary detour in the middle.
 3. **Keep the detective's notebook at the back.** When sources conflict, that is a feature, not a flaw, but it is not argued mid-story. The claim stays in place with its footnote and a superscript ⚠ (sources disagree) or ◐ (single source so far). What each source says, and why the disagreement is interesting, goes into the last section, **Open questions & disputed details**, which links back to the spot. A short hedge in the sentence itself ("by one account", "he recalled") stays.
-4. **Land the ending.** Finish on the last true, resonant thing the sources give us: a quote, a consequence, a loose thread. Do not summarize, and do not moralize.
+4. **Land on the point.** The last lines are the same truth the opening named, now that the reader has watched it happen. Do not summarize the whole page. Do not moralize. Do not add a sign-off.
 
 ## The facts (non-negotiable)
 
 Narrative technique here means **structure, pacing, word choice, and framing. Never invention.**
+
+What we may not add is a fact the cited sources did not give: a hometown, a feeling, a color, a motive, a mileage, what a nickname referred to, what the weather was. If the sources do not say, the sentence does not guess, and it does not pause to teach a word the reader already has. The gap stays in Open questions, or it stays unsaid.
 
 - **No fact, number, date, color, scene detail, motive, thought, or quote may appear that is not already in the sourced content.** We do not know what the weather was, what anyone felt, or what anyone said unless a source says so.
 - **No invented dialogue, no composite scenes, no imagined interiors.** "He must have…" and "one can picture…" are banned. If we want the reader to see it, we find the line in the source that shows it.
@@ -55,22 +59,25 @@ Voices pages are built from quotes, so they cite differently from stories. Each 
 
 ## What we avoid
 
+- **Glossary prose**: defining a quarter mile, an ET, a red light, a gasser, a flathead, or a street rod in the middle of a story.
+- **Inflated details**: a paragraph on a nickname the sources never explain, or three sentences where the fact was one.
 - **Listicle prose**: paragraphs that are really bullet points with the bullets taken off.
 - **Encyclopedia phrases**: "is a notable," "played a significant role," "is widely regarded as," "legacy" as a subhead, "in conclusion."
 - **Filler openings**: "In the world of hot rodding…," "Throughout history…"
-- **Purple excess**: three adjectives where one noun would do, engines "roaring" into every sunset.
+- **Purple excess**: three adjectives where one noun would do, engines "roaring" into every sunset. Warmth is pacing and real detail, not decoration.
 - **Fake drama**: stakes the sources don't show. If it was a quiet little business decision, we let it be a quiet little business decision, and let the facts supply the charm.
-- **Fake certainty**: smoothing a disputed date into a clean one because it reads better.
+- **Fake certainty**: smoothing a disputed date into a clean one because it reads better. Inventing the missing half of a nickname, a jet car's body style, or a town's character because the sentence would be smoother with it.
 
 ## A quick test before anything ships
 
-1. Could a reader tell the opening apart from a Wikipedia lead? (They should.)
-2. Is every number, date, name and color still traceable to a footnote?
-3. Is each ⚠ and ◐ still there, and still honest, with its item in Open questions? And is everything left in Open questions still open? When an Open questions item is resolved, it leaves the list: fold the answer into the story with its citations, remove the inline marker and the item, update `docs/data/canonical.yml` (value and snippet) if the fact is canonical, log it under **Resolved** on the Research Trail with the date and the source that settled it, and update any Quick answer that cited it.
-4. Does each paragraph lead into the next? Read it on a phone: if a subhead or aside interrupts a thought, cut it or move it to Open questions.
-5. Is the summary in the front matter true to the article, hedges included? Does a fact told elsewhere link to its one canonical home?
-6. Did we cut a quote, move a citation off its claim, or add a detail "for color"? If yes, undo it.
-7. Does the last line earn its place?
+1. Can you say this article's one point in a single sentence, and does the opening say it?
+2. Did we stop to define drag racing, a quarter mile, an ET, a mph number, a hot rod, or a car show? If yes, cut that sentence.
+3. Is the unusual detail still its real size, and is every number, date, name, and color still on its footnote?
+4. Is each ⚠ and ◐ still there, and still honest, with its item in Open questions? And is everything left in Open questions still open? When an Open questions item is resolved, it leaves the list: fold the answer into the story with its citations, remove the inline marker and the item, update `docs/data/canonical.yml` (value and snippet) if the fact is canonical, log it under **Resolved** on the Research Trail with the date and the source that settled it, and update any Quick answer that cited it.
+5. Does the story run from beginning to end, without a lecture in the middle? If a subhead or aside stops the thought, cut it or move it to Open questions.
+6. Is the summary in the front matter true to the article, hedges included? Does a fact told elsewhere link to its one canonical home?
+7. Did we cut a quote, move a citation off its claim, or add a detail "for color"? If yes, undo it.
+8. Does the ending land on the same point the opening named?
 
 ## Where a new page goes
 File each page in the department that matches its subject, not its source type: see the ten questions in [How the Site Is Organized](taxonomy.md#how-to-choose-a-department). Local or homegrown sourcing is shown with the Grassroots badge in the article record, never with a folder.
