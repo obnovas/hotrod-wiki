@@ -1,6 +1,6 @@
 ---
 title: 'Racing Toward Route 1: Charlestown Dragway and Rhode Island''s Navy Runway (1956–64)'
-summary: From 1956 to 1964 the Southern New England Timing Association ran drags on a runway of the Navy's auxiliary field at Charlestown, Rhode Island. A Johnston club's '34 Ford won early, the Navy's Newport paper listed race days, and racers still argue over which runway and why it stopped.
+summary: From 1956 to 1964 the Southern New England Timing Association ran drags on a Navy runway at Charlestown. A Johnston club's '34 Ford won the big race when the track first opened, and the racers still do not agree which runway, or why it stopped.
 department: drag-racing
 era: 1950s
 eras:
@@ -75,7 +75,7 @@ canonical_for: []
 ---
 # Racing Toward Route 1: Charlestown Dragway and Rhode Island's Navy Runway (1956–64)
 
-*A Navy emergency field by a salt pond, a '34 Ford built in a Johnston garage, and a race day listed in the base paper between the yacht races and the golf*
+*From 1956 to 1964 they raced a Navy runway toward Route 1, a Johnston '34 won the big race, and why it stopped is still open*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the strip's years and sponsor rest on a 1999 magazine item, a 2013 dead-strip feature and racers' own memories, which agree with each other; the Navy's base paper confirms race days in 1960 and 1962; most of the detail is firsthand forum posts, told 50 or more years later) · **Source types:** <span class="hr-badge">Grassroots</span> racers' and families' firsthand posts on The H.A.M.B. (2013–14) and the Dover Drag Strip forum (2011); a club's own history page (Dominators Hot Rod Club); the *Newport Navalog*, the Newport naval base weekly, 1956, 1960 and 1962, read as Library of Congress Chronicling America page OCR, with the 1956 and 1960 notices checked against the page images; *Hot Rod* (Nov. 1999); BangShift.com (2013); the U.S. Army Corps of Engineers' page on the former landing field; Wikipedia, only for its uncited 1958–59 date · **Last verified:** 2026-11-01 (Round 29) · **Open issues:** an uncited 1958–59 date ?; why the racing stopped ◐; which runway ?; the Rod Knockers' 1956 win ◐ · [How we rate this](../reference/source-standards.md)
@@ -85,15 +85,17 @@ canonical_for: []
 
     — hotrodbob406, whose father raced there with the Rod Knockers in 1956, on The H.A.M.B. (2013).[^hamb23]
 
+From 1956 to 1964 the Southern New England Timing Association ran drags on a Navy runway at Charlestown, toward Route 1. A Johnston club took a '34 Ford and won the big race when the track first opened. The Navy paper listed the race days. Which runway, and why the racing stopped, is still open.
+
 In 1956 a Johnston, Rhode Island, club called the Rod Knockers took a '34 Ford to a Navy airfield on the south shore. The car belonged to Jerry Thompson, and the members had built it in a small garage on Plainfield Street that belonged to Jimmy Blickhorn. "They won the big race there in 1956, right when the track first opened," the son of one member, John Costa, wrote in 2013, posting a photograph of Costa, Hank Fournier, Thompson, Blickhorn in the car and Anthony "Neno" Dellefemine.[^hamb7][^hamb9]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see the bottom of the page">◐</a></sup> Costa died in 1990; his son sat down later with Fournier, Blickhorn and Dellefemine, "now in there 70's," to hear the bench racing, and remembered his father talking about the day Don Garlits came to Charlestown in 1959.[^hamb9]
 
 ## A runway by the salt pond
 
 The field was Naval Auxiliary Air Station Charlestown. The Navy acquired the land in 1940–42 to train pilots and flight crews for the war, and afterward used it as a support field for the big Quonset Point air station.[^usace] Its three runways made an "A," racers remembered.[^hamb4][^hamb41] A sailor who raced there in 1964 remembered it as an emergency landing field "for pilots that took off from Quonset Point and had problems and needed to land/crash."[^hamb2]
 
-The Southern New England Timing Association brought the drags. *Hot Rod* wrote in 1999 that the association "sponsored racing at Charlestown from 1956 to 1964,"[^hr99]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> and Brian Lohnes of BangShift, who photographed the empty site in the winter of 2012–13, wrote that the association first held "two test events at the facility using a closed runway." They went well, and "Charlie Town," as racers called it, became "the third active drag racing facility in New England," after the airports at Orange, Massachusetts, and Sanford, Maine. The three strips, he wrote, "worked in unison for years with their schedules," so each had enough dates to survive.[^bs13] (Sanford's story is told in [Sanford's Hurri-Cain](sanford-cain-bannister.md); the Connecticut clubs who drove to all three are in [Help Them Get a Drag Strip](connecticut-clubs-nutmeg-state-timing-association.md).)
+The Southern New England Timing Association brought the drags. *Hot Rod* wrote in 1999 that the association "sponsored racing at Charlestown from 1956 to 1964,"[^hr99]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> Where an uncited 1958 and 1959 date comes from is still open. Brian Lohnes of BangShift, who photographed the empty site in the winter of 2012–13, wrote that the association first held "two test events at the facility using a closed runway." They went well, and "Charlie Town," as racers called it, became "the third active drag racing facility in New England," after the airports at Orange, Massachusetts, and Sanford, Maine. The three strips, he wrote, "worked in unison for years with their schedules," so each had enough dates to survive.[^bs13] (Sanford's story is told in [Sanford's Hurri-Cain](sanford-cain-bannister.md); the Connecticut clubs who drove to all three are in [Help Them Get a Drag Strip](connecticut-clubs-nutmeg-state-timing-association.md).)
 
-Racers remember the strip as a long runway beside Ninigret Pond. One wrote that the runway used was about 5,000 feet long and that "They raced towards the north east (towards US rt 1)."[^hamb10] The shutdown area was so long, a racer who was there remembered, "you really did not need a chute to stop," and a racer who ran his twin-engine Dodge dragster through the traps one morning drove it the rest of the way down the runway and back to the pits on the parallel strip used for the scales and inspection.[^hamb36]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+Racers remember the strip as a long runway beside Ninigret Pond. One wrote that the runway used was about 5,000 feet long and that "They raced towards the north east (towards US rt 1)."[^hamb10] The shutdown area was so long, a racer who was there remembered, "you really did not need a chute to stop," and a racer who ran his twin-engine Dodge dragster through the traps one morning drove it the rest of the way down the runway and back to the pits on the parallel strip used for the scales and inspection.[^hamb36]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> Which of the three runways was the strip is still open.
 
 ## Clubs from three states
 
@@ -110,6 +112,8 @@ The paper had been doing it for years. Two springs earlier, its June 1960 events
 The last races were in 1964.[^hamb10][^bs13] Why they stopped is still a question: one racer wrote that when the Vietnam War "got cranked up, the base Commander at Quonset said he didn't have the personnel to staff it on race day," and Lohnes guessed that Connecticut Dragway, "a modern and dedicated strip just down the road," had something to do with it.[^hamb10][^bs13]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup> The base itself, Lohnes noted, "was not shut down until 1974."[^bs13] The Navy's land passed to the Town of Charlestown and the U.S. Fish and Wildlife Service in 1981 and is now Ninigret Park and the Ninigret National Wildlife Refuge.[^usace] The racers who walk it call it Ninigret Park.[^hamb41] When a Warwick man moved to Rhode Island in 1985, "The drag strip was still there & the start line was very distinct as was the finish line"; it has since been cut up into walking and bike paths.[^hamb40]
 
 The racers kept meeting. Old friends staged a Charlestown Dragway Reunion as a benefit for Sarkisian, by then in a wheelchair with multiple sclerosis; *Hot Rod* counted nearly 200 cars and 1,000 people at the second one, in Warren, with a '47 Fiat that had been "run regularly at Charlestown Dragway in its heyday."[^hr99] To Lohnes, the overgrown runway was, to gearheads, "the most hallowed of ground."[^bs13]
+
+The '34 had won the big race when the track first opened. The Navy paper had listed the race days. They raced toward Route 1 from 1956 to 1964. Which runway, and why it stopped, is still open.
 
 ## Open questions & disputed details
 

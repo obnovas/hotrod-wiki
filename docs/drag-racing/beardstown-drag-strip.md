@@ -1,6 +1,6 @@
 ---
 title: 'Hog Butcher on Weekdays, Fun Capital on Sundays: the Beardstown Drag Strip (Beardstown, Ill., 1967–72)'
-summary: Beardstown, a packing-house town on the Illinois River, drew 2,000 people to its new drag strip in 1967. By 1970 Garlits was on the bill.
+summary: Beardstown, a packing-house town on the Illinois River, drew 2,000 people to its new drag strip in 1967 and called Sundays its Fun Capital. In 1972 Don Garlits was on the bill against Ken Dobson.
 department: drag-racing
 eras:
 - 1960s
@@ -36,6 +36,8 @@ canonical_for: []
 ---
 # Hog Butcher on Weekdays, Fun Capital on Sundays: the Beardstown Drag Strip (Beardstown, Ill., 1967–72)
 
+*Hog butcher on weekdays, 2,000 people on opening day in 1967, and Garlits on the bill in 1972*
+
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> daily newspaper (*Jacksonville Daily Journal*, Jacksonville, Ill.): a Beardstown correspondent's column, sports notes and display ads, 1967–72, read as scanned page OCR; one encyclopedia entry for background · **Last verified:** 2026-10-22 (Round 20) · **Open issues:** whether the 1967 "Seward Drag strip on the Arenzville road" and the 1970s "Beardstown Drag Strip" are the same place ◐; the founder, the exact site and the closing year are unknown; the Garlits match race was announced, and we have no report of the result ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -44,7 +46,7 @@ canonical_for: []
 
     — Beardstown column, *Jacksonville Daily Journal*, May 28, 1967.[^jdj670528]
 
-Beardstown sits on the Illinois River in Cass County, a packing-house town with a lift bridge. In the spring of 1967 its newspaper correspondent noticed something new about Sundays.
+Beardstown sits on the Illinois River in Cass County, a packing-house town with a lift bridge. On weekdays the town had a reputation as hog butcher of Illinois. In the spring of 1967 Sundays were Fun Capital, and the new strip drew 2,000 people on opening day. In 1972 Garlits was on the bill against Ken Dobson, and the result is still open.
 
 ## 2,000 on opening day (1967)
 
@@ -63,7 +65,9 @@ The strip was still running three years later. By 1970 ads in the Jacksonville p
 
 Two years later it changed hands. In May 1972 the ads read "DRAG RACING EVERY SUNDAY … Beardstown DRAG STRIP New Owner & Operator" Ken Dobson, with "AHRA SANCTIONED DRAGS."[^jdj720527] Two weeks later the Jacksonville sports column told fans they had "a treat in store this weekend at the Beardstown Drag Strip, promoted by Ken Dobson of Jacksonville." There would be racing Friday and Saturday nights and Sunday afternoon, "with perhaps the top name in all of drag racing, 'Big Daddy' Don Gorlits [*sic*] pitted against Dobson in a special match race Friday evening."[^jdj720609]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-A small river town drew a crowd of 2,000 to a country-road strip, and five years later had Garlits on the bill. Like [Malden, Mo.](semo-malden-drag-strip.md) in the same years, it ran under AHRA rather than NHRA sanction. Compare [Sedalia's unfinished strip](sedalia-big-sir.md) for a Midwestern town that never got that far. The 1967 page also ran a story on Beardstown's wartime Civilian Pilot Training program and a newly opened airport.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+Like [Malden, Mo.](semo-malden-drag-strip.md) in the same years, it ran under AHRA rather than NHRA sanction. Compare [Sedalia's unfinished strip](sedalia-big-sir.md) for a Midwestern town that never got that far. The 1967 page also ran a story on Beardstown's wartime Civilian Pilot Training program and a newly opened airport, and nothing in the column ties the strip to either field.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+
+On weekdays it was the hog butcher of Illinois. On a Sunday in 1967 the strip drew 2,000 people. In 1972 Garlits was on the bill, and the result is still open.
 
 ## Open questions & disputed details
 

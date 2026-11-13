@@ -1,6 +1,6 @@
 ---
 title: 'Courtesy Cards and a Rail Job: The Clockers of Cumberland, Md. (1958–62)'
-summary: The Clockers, a Cumberland, Md., hot rod club of 14 members in 1958, met at the YMCA, raced at Lancaster and York, Pa., and left courtesy cards with drivers they helped. By 1962 the club was running go-kart races.
+summary: The Clockers, a Cumberland club of 14 members in 1958, left courtesy cards with drivers they helped and raced at Lancaster and York. By 1962 the club was running go-kart races, and what became of them after that is still open.
 department: drag-racing
 eras:
 - 1950s
@@ -58,7 +58,7 @@ canonical_for: []
 ---
 # Courtesy Cards and a Rail Job: The Clockers of Cumberland, Md. (1958–62)
 
-*A Maryland club fixes flats on the highway, washes cars on a used-car lot and drives to York to race*
+*A club of 14 left courtesy cards with drivers they helped, raced a rail dragster at York, and by 1962 was running go-kart races*
 
 !!! abstract "Article record"
     **Confidence:** Low (most points rest on a single local paper) · **Source types:** <span class="hr-badge">Grassroots</span> small-city daily newspaper (*The Cumberland News*, Cumberland, Md.): club notices, a YMCA program, a Heart Fund story and a display ad, 1958–62, read as scanned page OCR on the Internet Archive · **Last verified:** 2026-10-22 (Round 22-East) · **Open issues:** where the club raced at Lancaster ◐; whether "the Hot Rod Club of Cumberland" is the same club ?; Spoerl's 142 mph ◐; the Winchester club's name ?; what became of the club ? · [How we rate this](../reference/source-standards.md)
@@ -68,13 +68,15 @@ canonical_for: []
 
     — The Clockers, through their president, Robert Beckman, *The Cumberland News*, Oct. 6, 1958.[^cn581006]
 
+The Clockers were a Cumberland club of 14 members in 1958. They left "courtesy cards with the club's and member's names on them" with drivers they helped, and they raced at Lancaster and at York, where William Spoerl turned 142 miles per hour in a rail dragster. By 1962 the club was running go-kart races. What became of them after that ad is still open.
+
 In February 1961 a group of Cumberland teenagers signed up to canvass parts of Allegany County for the Heart Fund on Heart Sunday. They were the Cumberland Clockers, "a group of local teen-age boys whose purpose is to foster safety among motorists," and the paper explained what they usually handed out: "courtesy cards with the club's and member's names on them." Members made a point of helping drivers with "motor trouble, flat tires, etc., along the highways," and of "leaving a courtesy card with the assisted person."[^cn610222]
 
 That was the public face of the club. The rest of the time, the Clockers were drag racers.
 
 ## From the YMCA to North Mechanic Street (1958–61)
 
-The club first turned up in the paper in October 1958. "The Clockers, local hot rod club," would meet at the Central YMCA, the president, Robert Beckman, announced; for eight months it had met at members' homes. It had 14 members. "This summer, members raced at Lancaster, Pa."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> At the Cumberland Fair "they had an exhibit which included three competition engines."[^cn581006] Three weeks later the YMCA's program listed a "Clockers meeting 8 p.m." on the same day that "The Hot Rod Club of Cumberland" was to meet there.[^cn581027]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> In July 1960 the "Clockers Car Club" showed a movie "on the 1959 national drag championship" at the Y.[^cn600715]
+The club first turned up in the paper in October 1958. "The Clockers, local hot rod club," would meet at the Central YMCA, the president, Robert Beckman, announced; for eight months it had met at members' homes. It had 14 members. "This summer, members raced at Lancaster, Pa."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> At the Cumberland Fair "they had an exhibit which included three competition engines."[^cn581006] Three weeks later the YMCA's program listed a "Clockers meeting 8 p.m." on the same day that "The Hot Rod Club of Cumberland" was to meet there.[^cn581027]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> The paper does not say they are the same club. In July 1960 the "Clockers Car Club" showed a movie "on the 1959 national drag championship" at the Y.[^cn600715]
 
 By the spring of 1961 the club had its own space and its own routine. In March eight members, Robert Smith first among them, planned to attend a car show put on by the "Sio-Mo-Shuns Car Club" of Winchester, Va.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> During the past month, the paper said, the club had "been represented at the Lancaster, Pa., Drag-o-Rama Car show," had completed "the club garage and offices located on North Mechanic Street," and had taken part in the Heart Fund drive; it now met on Mondays at 7 p.m.[^cn610330] In April it met in "the club's garage at 536 North Mechanic Street" and planned a Saturday trip to "the drag-strip races ... at the York, Pa., Drag-O-Way," ten members and two advisers, James R. Smith and William Macy. Money from a car wash had bought a jack.[^cn610425] (York's U.S. 30 Drag-O-Way also turns up in *Car Craft*'s 1961 strip calendar; see [the Pocono strips](pocono-strips.md).)
 
@@ -82,9 +84,11 @@ By the spring of 1961 the club had its own space and its own routine. In March e
 
 In May the Clockers, now in a club room at 554 North Centre Street, decided to wash cars "this Sunday and every other Sunday during the summer" at Spoerl's Used Car Lot, 845 North Mechanic Street. William Spoerl was a member. At York the Saturday before, he had "turned 142 miles per hour when he drove a rail dragster," and in about two weeks he would try "to better a 163 mph mark set recently at the track."[^cn610504]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-That summer the club moved again, to a room on Hampton Place, and found a second sport. Eight members would officiate at the Road Runner kart races, and by July the Clockers were officiating every other week at "the Road Runners Go-Kart track on Eastman Road," planning another fair exhibit and another car wash at Spoerl's.[^cn610629][^cn610721] A year later the paper carried their ad: "Clockers Car Club GO-KART RACES SUNDAY JULY 1st 2 P.M. Road Runners Kart Track Eastman Road," pit entries closing at 1:30, "Donation $1," children under 12 free.[^cn620630]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup>
+That summer the club moved again, to a room on Hampton Place, and found a second sport. Eight members would officiate at the Road Runner kart races, and by July the Clockers were officiating every other week at "the Road Runners Go-Kart track on Eastman Road," planning another fair exhibit and another car wash at Spoerl's.[^cn610629][^cn610721] A year later the paper carried their ad: "Clockers Car Club GO-KART RACES SUNDAY JULY 1st 2 P.M. Road Runners Kart Track Eastman Road," pit entries closing at 1:30, "Donation $1," children under 12 free.[^cn620630]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup> What became of the Clockers after that ad is still open.
 
 For the clubs across the state line in Adams County, Pa., see [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+
+They were 14 members in 1958, leaving courtesy cards with drivers they helped, and Spoerl had turned 142 in a rail dragster at York. By 1962 the paper had their go-kart ad. What became of the club after that is still open.
 
 *See also:* down the Potomac, [the D.C. Dragons](dc-dragons-jo-ann-johnson.md) and [the Washington suburbs' drag strip argument](washington-suburbs-drag-strip-debate.md).
 

@@ -72,7 +72,7 @@ peak: 1960s; revived after 1984
 ---
 # A Dime at the Gate: Beech Bend Raceway on the Barren River (Bowling Green, Ky., 1946– )
 
-*Three boys with a borrowed road grader, a one-carburetor rule for the Nashville boys, a man sent to Atlanta to see what drag racing was, and grandstands from a ballpark*
+*Ten cents at the gate, three teenagers and a road grader, and a drag strip the histories date to 1951, 1956 or the mid-1960's*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the park's own histories, a Kentucky hall of fame page and the park's lawyer and publicist agree on Garvin, the motorcycle start and the stock cars; they disagree on when the drag strip opened, when Garvin bought the land and died, which fair the ferris wheel came from, and who laid out the first track; racers' memories put the strip on dirt in 1957; no 1950s Bowling Green newspaper page was read) · **Source types:** <span class="hr-badge">Grassroots</span> Kentucky Motorsports Hall of Fame history page; the park's own 2004 history page; a 2009 Bowling Green *Daily News* interview with Robert Dickey, Garvin's publicist and lawyer and author of a book on him; racers' memories on *Drag Strip List*; the visitors bureau page; a 2020 *Dragzine* feature with the track manager · **Last verified:** 2026-11-10 (Round 37 citation review) · **Open issues:** ⚠ when the drag strip opened (1951, 1956 or mid-1960s); ⚠ when Garvin bought the land and when he died; ⚠ which World's Fair the ferris wheel came from; ⚠ who laid out the first track; ⚠ when the strip was paved; ⚠ the "oldest" claim; ◐ the Sulphur Dell grandstands · [How we rate this](../reference/source-standards.md)
@@ -81,6 +81,8 @@ peak: 1960s; revived after 1984
     "When Garvin heard about drag racing, he sent D.A. Faxon to Atlanta to investigate, and before too many weeks passed, the quarter- mile drag strip became a reality in 1956."
 
     — Robert Dickey, Garvin's former publicist and lawyer, to Jack Montgomery, Bowling Green *Daily News*, March 26, 2009.[^bgdn]
+
+Charles Garvin charged ten cents at a picnic ground in a bend of the Barren River. Three teenagers started the racing with a county road grader, and the boys had to do the work. When he heard about drag racing, he sent D.A. Faxon to Atlanta to investigate. The sources disagree on the year: 1951, 1956, or the mid-1960s. Dallas and Alfreda Jones bought the racetracks in 1984, and the family still runs them.
 
 ## Ten cents and a road grader
 
@@ -103,6 +105,8 @@ In the 1960s the strip drew racers from three states. Joe "Muggs" Tichenor broug
 The park peaked in the 1960s and faded in the 1970s, when attractions like Opryland drew the crowds and Garvin's health failed. After he died the amusement park closed; the oval and drag strip kept running under a local manager, and a company with ties to the country singer Ronnie Milsap reopened the park for two seasons from 1981 before it went back to the Garvin family.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>[^bb04] Somewhere in those years the strip was turned around. "Most fans and racers don't realize the track actually faced in a different direction until early in the 1970s," Porter says; at about the eighth-mile mark you can still see "a patch of the old racing surface pointed toward where the current pits are." The hall of fame puts the new starting line in 1971.[^dz20][^kmhof] The covered, chair-back grandstands that went up then came, Porter says, from Sulphur Dell, the Nashville ballpark where minor league games were played until 1969.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^dz20]
 
 In 1984 Dallas and Alfreda Jones bought the racetracks, and in 1987 the overgrown amusement park beside them.[^bb04] Their grandson Porter started at about 14 on the track crew, "working the waterbox, then the staging lanes, and eventually the starting line"; his uncle Clay Jones, who died in 2014, could run the computer or announce "in a pinch." In 2003 the park was chosen to host the NHRA Hot Rod Reunion.[^dz20][^bb04] Dickey's line about the place, "It is said to be the oldest continuous operation drag strip in the USA," is a claim Union Grove, Wisconsin, makes too; see [Great Lakes Dragaway](great-lakes-dragaway-union-grove.md).<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>[^bgdn]
+
+Ten cents at the gate, three teenagers and a road grader, and a man sent to Atlanta when Garvin heard about drag racing. The histories date the strip to 1951, 1956, or sometime in the mid-1960's. Dallas and Alfreda Jones bought the racetracks in 1984, and the family still runs them.
 
 *See also:* [Cedar Creek and Kentucky's hometown strips](cedar-creek-bullitt-dragway-kentucky.md), where a racer believes Beech Bend was the state's first strip; [The Roanoke Drag Strip](roanoke-drag-strip-southwest-virginia.md), another 1950s strip that shared its grounds with a stock car oval.
 

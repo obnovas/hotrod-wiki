@@ -1,6 +1,6 @@
 ---
 title: 'From Strip to Runway: Cumming Dragway (Forsyth County, Ga., 1963–88)'
-summary: A drag strip four miles west of Cumming, Ga., ran Super Stock match races, funny cars and pro stock championships from 1963 into the 1970s. By 1984 its owner was landing airplanes on it, and the county went to court.
+summary: A strip 4 miles west of Cumming ran from 1963, with Super Stocks, funny cars and pro stocks. By 1984 the owner was landing airplanes on the former site of the Cumming drag strip, and the county went to court.
 department: drag-racing
 era: 1970s
 eras:
@@ -57,7 +57,7 @@ canonical_for: []
 ---
 # From Strip to Runway: Cumming Dragway (Forsyth County, Ga., 1963–88)
 
-*Most strips in this archive began as airfields. This one went the other way.*
+*Most strips in this archive began as airfields. This one went the other way, and by 1984 the owner was landing airplanes on it*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> county weekly (*The Forsyth County News*, Cumming, Ga.): display ads, race reports, a columnist's note, a front-page land-use fight, letters and a 2015 obituary, 1963–2015; one suburban weekly ad (*The Kennesaw Neighbor*). Newspapers read as page OCR from the Georgia Historic Newspapers search service · **Last verified:** 2026-10-22 (Round 23-East) · **Open issues:** who built the strip and when ?; Houston or Huston Platt ⚠; the 218 mph track record ◐; which "first annual" championship ⚠; when racing ended ?; how the airstrip fight ended ? · [How we rate this](../reference/source-standards.md)
@@ -67,9 +67,7 @@ canonical_for: []
 
     — A letter to the editor, *The Forsyth County News*, Jan. 25, 1984.[^fcn840125b]
 
-On Jan. 2, 1984, a reporter for *The Forsyth County News* photographed a small plane taking off and taxiing on a 41.58-acre tract on Hurt Bridge Road. The tract was, the paper explained, "the former site of the Cumming drag strip." Three months earlier the county planning director had written to the owner: "The reports were that the dragstrip is being used as a landing strip for aircraft. I drove by the property today and found that to be true."[^fcn840118]
-
-In most of the stories on this site, hot rodders talk their way onto a runway. In Forsyth County the runway came last.
+Most strips in this archive began as airfields. In most of the stories on this site, hot rodders talk their way onto a runway. In Forsyth County the runway came last. Cumming Dragway ran from 1963, 4 miles west of Cumming, and by 1984 the owner was landing airplanes on the former site of the Cumming drag strip. The county went to court. How the airstrip fight ended is still open.
 
 ## Super Stocks on Highway 20 (1963–68)
 
@@ -93,13 +91,15 @@ By 1972 Swims was owner and Tavenier promoter, and the program had turned to pro
 
 By May 1979 the paper's headline was in the past tense: "CUMMING DRAGWAY USED TO HOST MANY FAMOUS DRAGSTERS."[^fcn790502]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup> In 1980 a yard sale was advertised "near Cumming Drag Strip," a landmark now rather than a track.[^fcn800423]
 
-Then came the planes. The owner, Lamar Suddeth, had tried in October 1983 to rezone the tract for multi-family housing and run into a petition with 180-plus names. After the January 1984 photographs the county sued "to enjoin Suddeth from using the property as a landing strip for aircraft" until he had an airport permit.[^fcn840118][^fcn840125] Not every neighbor minded. One letter praised the "clever and excellent planned use of the old drag strip as a small air plane 'airpark,'" and said the owner had given surrounding owners a chance to comment.[^fcn840125b]
+Then came the planes. The owner, Lamar Suddeth, had tried in October 1983 to rezone the tract for multi-family housing and run into a petition with 180-plus names. On Jan. 2, 1984, a reporter for *The Forsyth County News* photographed a small plane taking off and taxiing on a 41.58-acre tract on Hurt Bridge Road. The tract was, the paper explained, "the former site of the Cumming drag strip." Three months earlier the county planning director had written to the owner: "The reports were that the dragstrip is being used as a landing strip for aircraft. I drove by the property today and found that to be true."[^fcn840118] After the January 1984 photographs the county sued "to enjoin Suddeth from using the property as a landing strip for aircraft" until he had an airport permit.[^fcn840118][^fcn840125] Not every neighbor minded. One letter praised the "clever and excellent planned use of the old drag strip as a small air plane 'airpark,'" and said the owner had given surrounding owners a chance to comment.[^fcn840125b]
 
-The fight ran on for years. In April 1987 a superior court judge upheld the county's denial of an airport rezoning, and Suddeth said he had leased the airstrip to the U.S. Army; Army Reserve officials, the paper reported, had "a different story."[^fcn870426] That December deputies answering a neighbor's call "observed five different types of aircraft on the strip's apron," and Suddeth ordered them off his land.[^fcn871213] By May 1988 Suddeth had asphalted the old strip "and marked it as a runway"; his two building permits listed the "construction of two 20,000-square foot poultry houses," and the county was asking for an injunction.[^fcn880525]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup>
+The fight ran on for years. In April 1987 a superior court judge upheld the county's denial of an airport rezoning, and Suddeth said he had leased the airstrip to the U.S. Army; Army Reserve officials, the paper reported, had "a different story."[^fcn870426] That December deputies answering a neighbor's call "observed five different types of aircraft on the strip's apron," and Suddeth ordered them off his land.[^fcn871213] By May 1988 Suddeth had asphalted the old strip "and marked it as a runway"; his two building permits listed the "construction of two 20,000-square foot poultry houses," and the county was asking for an injunction.[^fcn880525]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup> How the airstrip fight ended is still open.
 
 In 2000 the paper looked back at Cumming's Sunday nights, the dirt track at the foot of Sawnee Mountain and "the rumble of a drag strip off Hurt Bridge Road near Aaron Sosebee Road." Its verdict on the strip took one sentence: "The dragway became a landing strip for a private plane."[^fcn000326] When Hubert Platt died in 2015, the same paper called him "a Cumming resident who was one of the state's most decorated drag racers."[^fcn151002]
 
 For the other Atlanta-area strips of the same years, see [Yellow River Drag Strip](yellow-river-covington.md) and [From Speed Shop to Strip](atlanta-speed-shop-dragway.md).<sup class="hr-q" id="qr-8"><a href="#q-8" title="Open question: see the bottom of the page">?</a></sup>
+
+The strip had run from 1963. By 1984 airplanes were landing on the former site of the Cumming drag strip, and the county went to court. The paper's line was one sentence: "The dragway became a landing strip for a private plane." How the fight ended is still open.
 
 ## Open questions & disputed details
 

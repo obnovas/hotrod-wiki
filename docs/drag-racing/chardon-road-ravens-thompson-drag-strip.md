@@ -1,6 +1,6 @@
 ---
 title: 'Windshields on a Sunday: Chardon''s Road Ravens and the Track of Champions at Thompson (1955–61)'
-summary: In Chardon, Ohio, an optometrist advised the Road Ravens, a hot rod club that met with the sheriff and spent a Sunday wiping windshields. Just east, Thompson Drag Strip billed itself the Track of Champions when Don Garlits brought the Swamp Rat in 1961; it still races as Kuhnle Motorsports Park.
+summary: In Chardon the Road Ravens met the sheriff in 1956 and spent a Sunday wiping windshields. Just east, Thompson Drag Strip called the place the Track of Champions when Don Garlits brought the Swamp Rat in 1961, and the strip kept racing.
 department: drag-racing
 era: 1950s
 eras:
@@ -75,7 +75,7 @@ canonical_for: []
 ---
 # Windshields on a Sunday: Chardon's Road Ravens and the Track of Champions at Thompson (1955–61)
 
-*An optometrist's living room full of policemen, a club garage with a television in the lounge, and the Swamp Rat on Ohio's longest straight*
+*The law came to an optometrist's house, the club spent a Sunday wiping windshields, and Garlits came for Ohio's longest straight*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the club rests on the county seat's weekly, read issue by issue as page OCR, with names and dates; the strip's early years rest on the same paper's 1961 ads and stories; its founding date and its "oldest in Ohio" title come from later trade and local stories that do not agree) · **Source types:** <span class="hr-badge">Grassroots</span> county-seat weekly (*Geauga Record*, Chardon, Ohio): club news, photographs, a sheriff's campaign ad, court news and drag strip ads, 1956–61, read as Library of Congress Chronicling America page OCR, with the key passages checked against the page images; *The News-Herald* (Willoughby, Ohio), 2014; Hemmings (2024); Performance Racing Industry (2019); DragStory (NHRA release, 2025) · **Last verified:** 2026-11-01 (Round 29) · **Open issues:** when Thompson opened, 1958 or 1960 ⚠; Ohio's oldest strip? ⚠; did Thompson launch Garlits? ◐; what became of the Road Ravens ? · [How we rate this](../reference/source-standards.md)
@@ -84,6 +84,8 @@ canonical_for: []
     "Prospective members are expected to prove their interest in promoting safe, courteous and sportsmanlike driving."
 
     — the Road Ravens Hot Rod Club's membership rule, as the *Geauga Record* printed it (March 1, 1956).[^gr560301]
+
+In Chardon the Road Ravens sat down with the sheriff and spent a Sunday wiping windshields. Just east, Thompson Drag Strip called the place "The Track of Champions" when Don Garlits brought the Swamp Rat, because Thompson has Ohio's longest straight track. The strip kept racing. What became of the Ravens after 1957 is still open.
 
 On a Wednesday evening in February 1956, the law came to Dr. Louis Berta's house in Chardon, the Geauga County seat east of Cleveland. Sheriff John Phelps was there, with Chardon patrolman Joseph Holowaty, Charles White of the Painesville police and Al Hewis of the Ohio State Highway Patrol. So were the officers of the Road Ravens Hot Rod Club, which Berta, a Chardon optometrist, had advised since October: president Earl Stoltz, vice president Bruce Erickson, secretary Walt Asuma, treasurer Tom Adams and sergeant at arms Jim Thrasher, with Jack Urban, "Garry Writht" (as printed) and Bill Dolan on the board of directors. The meeting was "to promote better relations and understanding of the hot rod movement," the *Geauga Record* reported, and they talked about safety, curbing speed and "show off" driving.[^gr560301]
 
@@ -95,13 +97,13 @@ The sheriff kept the connection. Running for re-election that spring and again i
 
 By December 1956 the club had its own garage, next to the junior high school auditorium on East Park Street, and it invited the public in for an open house on the 18th, with other area clubs as guests. "The Road Ravens are trying to prove by example that hot rodding can be a beneficial pastime for every teenage boy whose main interest in life is cars," the *Record* wrote. They spent many evenings there working on their rods, and a separate "lounge" area held a television set, a radio and a record player, where members could "share ideas both mechanical and social."[^gr561206]
 
-In March 1957 the paper ran a photograph of Ray Miller and Bruce Erickson wiping a windshield. The Ravens, "a club of young men interested in automobiles," had spent part of a Sunday cleaning the windshields of cars parked in and around Chardon "as a safety measure," with Earl Stoltz, Joe Sears, William Boyles, William Atkins, Fred Quigley, Ronald Balslay, Frank Steinford and William Pomeroy along.[^gr570328]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+In March 1957 the paper ran a photograph of Ray Miller and Bruce Erickson wiping a windshield. The Ravens, "a club of young men interested in automobiles," had spent part of a Sunday cleaning the windshields of cars parked in and around Chardon "as a safety measure," with Earl Stoltz, Joe Sears, William Boyles, William Atkins, Fred Quigley, Ronald Balslay, Frank Steinford and William Pomeroy along.[^gr570328]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> Whether the club raced at Thompson, and when it folded, is not yet known.
 
 ## The Track of Champions
 
-Just east of Chardon, at Routes 528 and 166 in Thompson Township, Geauga County got a strip of its own.[^gr610817]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> By the summer of 1961 Thompson Drag Strip was running every Saturday night and buying ads in the *Record*. One, in late July, promised "WORLD'S FASTEST DRAGSTERS," with "World Champion DON GARLITS racing his 200 mph SWAMP RAT" on Saturday night and, all day Sunday, the "Drag Master Two-Thing" of Dode Martin and Tom Nelson in an "Exclusive Ohio appearance."[^gr610727]
+Just east of Chardon, at Routes 528 and 166 in Thompson Township, Geauga County got a strip of its own.[^gr610817]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Whether it opened in 1958 or 1960 is still open. By the summer of 1961 Thompson Drag Strip was running every Saturday night and buying ads in the *Record*. One, in late July, promised "WORLD'S FASTEST DRAGSTERS," with "World Champion DON GARLITS racing his 200 mph SWAMP RAT" on Saturday night and, all day Sunday, the "Drag Master Two-Thing" of Dode Martin and Tom Nelson in an "Exclusive Ohio appearance."[^gr610727]
 
-Garlits came back in August for his "final appearance of the season in Northern Ohio." The *Record*'s story gave the Swamp Rat the official world speed record of 189.45 mph and a Thompson track record of 182.45, said it had been custom built "in his own speed shop in Tampa, Florida," and reported that he had just beaten Art Malone in a Michigan match race at 191 mph. It also explained why he came: "Garlits chose Thompson Drag Strip for his Northern Ohio appearances because Thompson has Ohio's longest straight track, 4,000 feet over-all, allowing more room for safer stops at the end of the 1320-ft. run." There would be "no increase in admission," and the ad beside it, for a $3,000 invitational the next weekend, called the place "The Track of Champions."[^gr610817]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see the bottom of the page">◐</a></sup>
+Garlits came back in August for his "final appearance of the season in Northern Ohio." The *Record*'s story gave the Swamp Rat the official world speed record of 189.45 mph and a Thompson track record of 182.45, said it had been custom built "in his own speed shop in Tampa, Florida," and reported that he had just beaten Art Malone in a Michigan match race at 191 mph. It also explained why he came: "Garlits chose Thompson Drag Strip for his Northern Ohio appearances because Thompson has Ohio's longest straight track, 4,000 feet over-all, allowing more room for safer stops at the end of the 1320-ft. run." There would be "no increase in admission," and the ad beside it, for a $3,000 invitational the next weekend, called the place "The Track of Champions."[^gr610817]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see the bottom of the page">◐</a></sup> In 1961 he came as a star, not a beginner.
 
 *See also:* in Alabama, a Helena racer remembers Garlits making 200 mph there; see [Cut Through the Mountain](alabama-black-widows-lassiter-helena.md#q-2).
 
@@ -111,9 +113,11 @@ The strip did not end the road racing, and the *Record* kept score of that too. 
 
 ## Still racing
 
-Thompson kept racing. Cleveland's gasser crowd ran there in the 1960s ([The Ohio Gassers](../places/ohio-gassers.md)), and by 2014 *The News-Herald* could call it "the oldest continuously running drag strip in Ohio," on 200 acres of pasture, with a weekly bracket program and Wednesday-night grudge racing.[^nh14]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup> The owner, Ken Edgar, had just put about $250,000 into resurfacing the track and shutdown area and replacing the scoreboard and timing lights, and Jim Curtis had been the track manager for 24 years.[^nh14] "It's an old school track," said Ed Kasicki of Aurora, who brought his supercharged 1933 Willys to the Gassers Reunion there. "It's close knit. Everybody knows everybody."[^nh14]
+Thompson kept racing. Cleveland's gasser crowd ran there in the 1960s ([The Ohio Gassers](../places/ohio-gassers.md)), and by 2014 *The News-Herald* could call it "the oldest continuously running drag strip in Ohio," on 200 acres of pasture, with a weekly bracket program and Wednesday-night grudge racing.[^nh14]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup> The stories do not agree on oldest. The owner, Ken Edgar, had just put about $250,000 into resurfacing the track and shutdown area and replacing the scoreboard and timing lights, and Jim Curtis had been the track manager for 24 years.[^nh14] "It's an old school track," said Ed Kasicki of Aurora, who brought his supercharged 1933 Willys to the Gassers Reunion there. "It's close knit. Everybody knows everybody."[^nh14]
 
 The brothers Tom and Kim Kuhnle bought it in December 2021 and renamed it Kuhnle Motorsports Park.[^hem24] In February 2024 the owners announced that the track was closed and up for lease or sale.[^hem24] By December 2025 it was running nostalgia gasser races and semi-truck racing, and the NHRA welcomed it to its Member Track Network. "When I got my driver's license at 16, Thompson Drag Raceway, now Kuhnle Motorsports Park, was one of the first places I would go," Kim Kuhnle said.[^ds25]
+
+The Ravens had sat with the sheriff and spent a Sunday wiping windshields. Garlits had come because Thompson has Ohio's longest straight track, and the ad called the place "The Track of Champions." The strip kept racing.
 
 ## Open questions & disputed details
 
