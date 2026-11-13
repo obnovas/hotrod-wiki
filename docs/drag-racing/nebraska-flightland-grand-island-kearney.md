@@ -76,8 +76,6 @@ peak: 1957–early 1970s
 
 *Trophies he engraved, an airport paved with racing revenue by Kidder's account, and a tower built in the family's backyard*
 
-*A roadster racer with an engraving tool, an airport one racer said was paved with gate money, a beehive under a helmet, and a tower built in the family's backyard*
-
 !!! abstract "Article record"
     **Confidence:** Low (a 1960 state aeronautics bulletin, a Kearney TV station's 50th-anniversary story and a state racing hall of fame biography anchor the dates; most of the color comes from racers' and a family's recollections, each flagged where it stands alone; the Kearney opening day is read from that anniversary, which never prints 1964) · **Source types:** <span class="hr-badge">Grassroots</span> Nebraska Department of Aeronautics monthly bulletin (June 1960); racers' and family recollections on *Drag Strip List* (Gene Kidder at 86, Ron Krull, Shain Humphrey, Lita Madison, Jerry Burklund, Don Cameron); NTV News, Kearney (2014); Nebraska Auto Racing Hall of Fame (2008 class) · **Last verified:** 2026-11-09 (Round 36 citation check) · **Open issues:** ◐ paving Flightland with racing money; ◐ the Shaundos' strip at the air base; where Cornhusker Raceway Park was; Highway 33 or 133 · [How we rate this](../reference/source-standards.md)
 

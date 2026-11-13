@@ -99,8 +99,6 @@ peak: 1960s–1976
 
 *A strip run "with an iron fist," and a shutdown that climbed "just like a kids' carnival slide," with a rancher's Cessna on the way to a 1976 Pueblo strip*
 
-*A strip run "with an iron fist," Anglias rolling back to the line, a burnout that began with your bumper on the fence, a 10-year-old in a too-big helmet, and a rancher's Cessna that stopped a drag race for an hour*
-
 !!! abstract "Article record"
     **Confidence:** Low (Mountain View's layout and owner come from a 2011 drag racing magazine feature and the memory of a boy whose father's company built the pavement; its years, and most of the other strips, rest on one racer's memory each; Century 21's dates come from the Aurora History Museum; Pueblo's council story is a hall-of-fame line we repeat only as that) · **Source types:** <span class="hr-badge">Grassroots</span> racers' and families' memories on *Drag Strip List*; a racer's own history site; the Aurora History Museum (2025); H.A.M.B. forum post; Colorado Motorsports and Greater Pueblo Sports hall-of-fame biographies; *Dragzine* (2011) · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ? Mountain View's years; ⚠ where Colorado's first 200 was run; ⚠ Century 21's lifespan; ◐ the pistol at council · [How we rate this](../reference/source-standards.md)
 

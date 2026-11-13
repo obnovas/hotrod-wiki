@@ -58,8 +58,6 @@ canonical_for: []
 
 *Vermont's only legal strip, opened beside Route 7 on June 23, 1963, as a safer place than the public roads*
 
-*Two B&M Motors partners, a Burlington driver, a field of memories and a strip you can still see in the distance*
-
 !!! abstract "Article record"
     **Confidence:** Medium (a 2019 state historic marker and the dedication-day story give the opening date, the owners and the closing; the rest rests on racers' and spectators' memories posted 50 years later, and on two BangShift features that guessed at dates before the marker went up) · **Source types:** <span class="hr-badge">Grassroots</span> Vermont Division for Historic Preservation marker text (2019), checked against the marker photograph in the Historical Marker Database; WCAX-TV's report of the Milton Historical Society's dedication (Aug. 17, 2019); the Vermont Historical Society's "This Place in History" note; firsthand comments on BangShift.com (2013–14); BangShift features (2013, 2014); a *Burlington Free Press* history column (2017), behind a paywall and read only as a search excerpt · **Last verified:** 2026-11-01 (Round 29) · **Open issues:** opening year ⚠; closing year ?; why it closed ⚠; length and site ?; what Shirley Muldowney raced ◐ · [How we rate this](../reference/source-standards.md)
 

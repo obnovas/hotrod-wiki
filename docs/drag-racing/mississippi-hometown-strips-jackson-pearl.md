@@ -88,8 +88,6 @@ status: Riverside closed (site of Pearl High School); Byram Dragway racing (2024
 
 *Hometown memories, from a 1959 finish line that went to gravel to a 500-foot strip in Byram with the Jackson Dragway name*
 
-*A finish line that turned to gravel, a '55 T-Bird still racing sixty years on, highway patrol cars parked along I-20, a bride who got lost past the finish line, and a grandfather's trophy nobody can place*
-
 !!! abstract "Article record"
     **Confidence:** Low (almost all of this is racers' and families' memories, one each, on a racer-built archive and a forum; Riverside's history comes from a local racer's site quoting an old-timer and the state's records; the strips' own dates are mostly unconfirmed) · **Source types:** <span class="hr-badge">Grassroots</span> racers' memories on *Drag Strip List* and *Racingjunk Forums*; a Pearl racer's hobby site; WJTV (Jackson) "Your Hometown" (2024) · **Last verified:** 2026-11-12 (Round 39 citation review) · **Open issues:** ? which 1959 Jackson track; ◐ who built and owned Riverside; ◐ Riverside into the 1990s; ◐ Grenada in the 1950s · [How we rate this](../reference/source-standards.md)
 
