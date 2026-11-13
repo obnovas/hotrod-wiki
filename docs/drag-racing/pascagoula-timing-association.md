@@ -55,7 +55,7 @@ canonical_for: []
 ---
 # Ten for Ten at Biloxi: The Pascagoula Timing Association and the Gulf Coast Drags (1961–63)
 
-*A Mississippi Gulf Coast town's drag racing club met at the courthouse, thanked the high school principal in print, and brought home trophies from three states*
+*A courthouse club that went to Biloxi, entered 10, and won 10*
 
 !!! abstract "Article record"
     **Confidence:** Medium (one local paper under two titles, read as page OCR; results are the club's own reports as printed) · **Source types:** <span class="hr-badge">Grassroots</span> small-town paper (*The Chronicle-Star and Moss Point Advertiser*, 1961; *The Chronicle*, Pascagoula, 1963): club notes, results, a letter to the editor, a strip ad · **Last verified:** 2026-10-28 (Round 25; quotes checked against the page OCR) · **Open issues:** the 1961 championship ?; the Dauphin Island Dragway's dates ? · [How we rate this](../reference/source-standards.md)
@@ -64,6 +64,8 @@ canonical_for: []
     "If the showing of that film can save the life of just one human being, that is all the thanks I need."
 
     — Pascagoula High School principal Aubrey Johnson, as quoted by club reporter James Gully in a letter to *The Chronicle*, June 30, 1961.[^cs610630]
+
+In 1961 a new Pascagoula club met at the courthouse, and at Biloxi that summer it entered 10 events and won 10 trophies. Mrs. Hyde took the last of them. By 1963 the club was sponsoring a match race at the Dauphin Island Dragway.
 
 The new club got one paragraph in the paper in May 1961. H. D. Beckham had been elected president of "the newly organized Pascagoula Timing Association, an automobile club made up of local drag racing enthusiasts," at its second meeting. S. V. Hyde was vice president, Alex Love Jr. secretary, Billy Kirkpatrick treasurer, P. O. Bennett sergeant-at-arms, and James Gully reporter. The club also had a chaplain, Wayne Barton. It met every Monday at 7:30 p.m. at the courthouse, and about 33 members came to that meeting.[^cs610505]
 
@@ -75,11 +77,11 @@ The reporter made the paper again a few weeks later, with a letter. The club, "d
 
 On the strip the club was a powerhouse. At a Saturday meet in Mobile that July, with about 200 cars entered from Alabama and Louisiana as well, the Pascagoula Timing Association took 13 of 20 trophies, putting it in the lead for a championship to be presented in September after six weeks of competition. Jerry Reid, driving the Maverick, took the Little Eliminator trophy.[^cs610728]
 
-The next weekend was better. At Pensacola on Saturday the club entered seven events and won seven trophies; the one class it lost it made up for when Roy Parnell took the middle eliminator. On Sunday about 20 Pascagoulans went to the Gulf Coast Drag event at Biloxi, where they entered only 10 events, the paper explained, because otherwise they would have been racing each other. "Of the 10 entries, PTA won 10 trophies." The last of them was the powder puff race, won by Mrs. Barbara Hyde. "Mrs. Hyde was the first Pascagoula woman to enter 1961 competition."[^cs610804]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+The next weekend was better. At Pensacola on Saturday the club entered seven events and won seven trophies; the one class it lost it made up for when Roy Parnell took the middle eliminator. On Sunday about 20 Pascagoulans went to the Gulf Coast Drag event at Biloxi, where they entered only 10 events, the paper explained, because otherwise they would have been racing each other. "Of the 10 entries, PTA won 10 trophies." The last of them was the powder puff race, won by Mrs. Barbara Hyde. "Mrs. Hyde was the first Pascagoula woman to enter 1961 competition."[^cs610804]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> Whether the club won the September championship is still open.
 
 ## The crop-duster Ford and Jack Cooley's "Black Trash" Chevy (1963)
 
-Two years later the club had a strip to promote, across the state line. In November 1963 *The Chronicle* carried an ad for the Dauphin Island Dragway, "8 miles North of Dauphin Island," for Sunday, November 17, gates at 10 a.m., eliminations at 2, "SPONSORED BY PASCAGOULA TIMING ASSOCIATION." The draw was a grudge match, three out of five: David Harrell's 427 fiberglass Ford against Jack Cooley's 427 aluminum Chevy, "Black Trash." In their last meeting Harrell had the Trash "in the hole two races to one when he blew a rear-end." Cooley held the strip's low elapsed time record of 12.32; Harrell had set a new top speed record of 119.7 miles an hour "with his crop-duster Ford."[^ch631114]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Two years later the club had a strip to promote, across the state line. In November 1963 *The Chronicle* carried an ad for the Dauphin Island Dragway, "8 miles North of Dauphin Island," for Sunday, November 17, gates at 10 a.m., eliminations at 2, "SPONSORED BY PASCAGOULA TIMING ASSOCIATION." The draw was a grudge match, three out of five: David Harrell's 427 fiberglass Ford against Jack Cooley's 427 aluminum Chevy, "Black Trash." In their last meeting Harrell had the Trash "in the hole two races to one when he blew a rear-end." Cooley held the strip's low elapsed time record of 12.32. Harrell had set a new top speed record of 119.7 miles an hour "with his crop-duster Ford."[^ch631114]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> When the strip did open and close, the ad does not say. The courthouse club went ten for ten at Biloxi. Two years later the club sponsored the match.
 
 *See also:* the Counts Auto Club that ran the Mobile strip near Dauphin Island, and Alabama's inland strips, in [Cut Through the Mountain](alabama-black-widows-lassiter-helena.md).
 

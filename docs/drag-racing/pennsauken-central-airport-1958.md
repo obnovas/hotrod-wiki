@@ -42,6 +42,8 @@ canonical_for: []
 ---
 # Tear Gas on the Runways: Pennsauken's Central Airport, May 1958
 
+*Tear gas on a Tuesday night, and bulldozers on the runways the next day*
+
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** two Associated Press stories as printed in small-town Pennsylvania dailies (*Gettysburg Times* and the Stroudsburg *Daily Record*, May 29, 1958), read as scanned page OCR; Wikipedia for the airport and Airport Circle · **Last verified:** 2026-10-21 (Round 19) · **Open issues:** both accounts come from one wire service ◐; the number of cars (1,000 in one story; the other's OCR could read 1,000 or 1,600) ◐; we have not read the Camden *Courier-Post* or Philadelphia papers, which would have had their own reporters there · [How we rate this](../reference/source-standards.md)
 
@@ -50,7 +52,7 @@ canonical_for: []
 
     — a young racer leaving Central Airport, as reported by the Associated Press, May 1958.[^dr580529]
 
-Every town that fought its street racers in the 1950s had a story like this, but Pennsauken's was the biggest. On a Tuesday night in May 1958, on the abandoned runways of Camden's old airport, a police chief faced what he said were a thousand cars and two thousand teenagers. He used fire hoses and tear gas. The next day the township brought in bulldozers and tore up the runways.
+On a Tuesday night in May 1958, on the abandoned runways of Camden's old airport, a police chief faced what he said were a thousand cars and two thousand teenagers. He used fire hoses and tear gas. The next day the township brought in bulldozers and tore up the runways. Every town fought its street racers in the 1950s. Pennsauken's night was the biggest.
 
 ## An empty airport by the first traffic circle
 
@@ -71,9 +73,9 @@ The next day "bulldozers and road graders ripped up three long asphalt runways a
 
 ## Why it ran in Gettysburg and Stroudsburg
 
-The story traveled. Both stories we read were printed in small Pennsylvania papers far from Camden. To their readers this was not distant news: the cars came from four states, including Pennsylvania, and their own towns were arguing about hot rods too. On the same Stroudsburg page as the bulldozer story, the [Ridge Runners](stroudsburg-ridge-runners.md) were planning a summer of sanctioned drag races. In Adams County, the [Hanover and Gettysburg clubs](hanover-adams-county-clubs.md) of 1956–59 kept asking neighbors, service clubs and police for permission.
+Both stories we read were printed in small Pennsylvania papers far from Camden. The cars came from four states, including Pennsylvania, and those towns were arguing about hot rods too. On the same Stroudsburg page as the bulldozer story, the [Ridge Runners](stroudsburg-ridge-runners.md) were planning a summer of sanctioned drag races. In Adams County, the [Hanover and Gettysburg clubs](hanover-adams-county-clubs.md) of 1956–59 kept asking neighbors, service clubs and police for permission.
 
-Pennsauken is the other side of the old-airfield story. At [Cotati](marin-cotati-strips.md), [Malden](semo-malden-drag-strip.md) and [Akron](akron-fulton-airport.md), a city or a civic club took over an empty runway and made it a strip with rules. In Pennsauken the owner was a developer, no one organized a strip, and the racers ran it themselves until the township ripped up the pavement. Compare the 1957 arguments in [Opinions Differ on Hot Rods](new-york-towns-panel-1957.md) and [Recreation magazine's pro and con](recreation-1957-pro-and-con.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+At [Cotati](marin-cotati-strips.md), [Malden](semo-malden-drag-strip.md) and [Akron](akron-fulton-airport.md), a city or a civic club took over an empty runway and made it a strip with rules. In Pennsauken the owner was a developer, no one organized a strip, and the racers ran it themselves until the township ripped up the pavement. The 1957 arguments are in [Opinions Differ on Hot Rods](new-york-towns-panel-1957.md) and [Recreation magazine's pro and con](recreation-1957-pro-and-con.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> The fire hoses and the tear gas were one night. The next day the bulldozers tore up the runways.
 
 ## Open questions & disputed details
 

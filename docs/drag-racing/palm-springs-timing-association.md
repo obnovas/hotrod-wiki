@@ -51,6 +51,8 @@ canonical_for: []
 ---
 # Not a Police Dragnet: the Palm Springs Stockers and the Timing Association That Waited for a Strip (Palm Springs, Calif., 1951–59)
 
+*Two Pomona policemen, 35 youths and an NHRA crew, and in these pages no strip*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> twice-weekly town newspaper (*The Desert Sun*, Palm Springs, Calif.): club and police news, 1951–59, read as scanned page OCR; one NHRA obituary for a name · **Last verified:** 2026-10-22 (Round 22-West) · **Open issues:** whether the association ever got land or held a meet ◐; the October 1953 story spells the Pomona sergeant two ways · [How we rate this](../reference/source-standards.md)
 
@@ -59,13 +61,13 @@ canonical_for: []
 
     — Officer T. M. Aitken and Detective Ted Greene, *The Desert Sun*, Nov. 2, 1953.[^ds531102]
 
-Palm Springs was a winter resort of film stars and golf tournaments, and in the early 1950s it had something less glamorous: teenagers with cars, and nowhere to run them. The town paper followed the story for most of a decade. It runs from a club's timed road rally to a police-sponsored association that was promised help from the National Hot Rod Association and then waited for a strip.
+In 1953 two Pomona policemen helped form the Palm Springs Timing Association, and 35 youths joined, with an NHRA crew promised for a first meet. A junior police exam had a true-or-false on a police dragnet. The answer was false. The town paper followed it from a 1951 safety run through 1959. No strip has turned up in the issues we read.
 
 ## A safety run with a hot rod on the trophy (1951)
 
-The first hot rod group in these pages was the **Palm Springs Stockers**. In May 1951 the club announced a "Reliability Safety Run," worked out at secretary Doug Doyle's home with city police, school officials, county probation officers and the state police. The 105-mile course left the Palm Springs airport, climbed through Idyllwild, came down to Banning and returned. The organizers expected 100 to 150 entrants and said the run was "expected to draw nationwide attention from stock car and hot rod fans." The fastest driver would not win; the winner would be the one "closest to the time which a state patrol car determines is the maximum safe driving speed."[^ds510511]
+Palm Springs was a winter resort of film stars and golf tournaments, and in the early 1950s it had teenagers with cars, and nowhere to run them. The first hot rod group in these pages was the **Palm Springs Stockers**. In May 1951 the club announced a "Reliability Safety Run," worked out at secretary Doug Doyle's home with city police, school officials, county probation officers and the state police. The 105-mile course left the Palm Springs airport, climbed through Idyllwild, came down to Banning and returned. The organizers expected 100 to 150 entrants and said the run was "expected to draw nationwide attention from stock car and hot rod fans." The fastest driver would not win. The winner would be the one "closest to the time which a state patrol car determines is the maximum safe driving speed."[^ds510511]
 
-It was won by Chuck Hoffmeier, an employee of Desert Forge, in a 1941 Packard convertible. His time was 2:53.43 (hours, minutes and seconds) against the judges' 2:53.45, "just two seconds off." His prize was a two-foot Stockers trophy "with a hot rod perched on top," plus a carburetor manifold donated, like the other prizes, by a Southern California auto concern. Frances Doyle was second in a 1951 Mercury.[^ds510525]
+Chuck Hoffmeier won it, an employee of Desert Forge, in a 1941 Packard convertible. His time was 2:53.43 (hours, minutes and seconds) against the judges' 2:53.45, "just two seconds off." His prize was a two-foot Stockers trophy "with a hot rod perched on top," plus a carburetor manifold donated, like the other prizes, by a Southern California auto concern. Frances Doyle was second in a 1951 Mercury.[^ds510525]
 
 <figure markdown>
 ![A 1950s color postcard of Palm Canyon Drive in Palm Springs, with palm trees, a "Desert Circus" banner across the street and 1950s cars at the curb](../assets/images/commons-palm-springs-postcard-1950s.jpg){ loading=lazy }
@@ -76,7 +78,7 @@ It was won by Chuck Hoffmeier, an employee of Desert Forge, in a 1941 Packard co
 
 Two years later the Stockers met with the Palm Springs police and two guests from Pomona: "Chief Ralph E. Parker and Sgt. E. Cooncs of the Pomona police department" (the scan's spelling, which becomes "Sgt. Coones" a paragraph later). Parker's department had stopped fighting its own hot rodders and helped the Choppers club to a legal strip, a story Parker told the FBI's bulletin in December 1951[^nhracoons] (see [Pomona's Choppers & the Fontana Strip](pomona-choppers-fontana.md)). In Palm Springs the two "described the organization in Pomona, and gave advice on forming a similar group here." Police Chief John S. Davis named Detective Ted Greene and Patrolman T. M. Aitken as liaison officers. The paper added a condition: "Actual construction of the strip will not start until the association is in operation."[^ds531012]
 
-Two weeks later Chief Davis posted sample questions for his new Junior Police Reserve exam. One was a true-or-false: "The Drag Strip Association is chiefly concerned with setting up a police dragnet."[^ds531026] (The answer was false.)
+Two weeks later Chief Davis posted sample questions for his new Junior Police Reserve exam. One was a true-or-false: "The Drag Strip Association is chiefly concerned with setting up a police dragnet."[^ds531026] The answer was false.
 
 ## Thirty-five youths and an NHRA promise (November 1953)
 
@@ -86,11 +88,11 @@ At that meeting 35 youths from Palm Springs, Banning, Beaumont, Cherry Valley, I
 
 ## Waiting (1954–59)
 
-The program then went to the service clubs. In January 1954 the Kiwanis and the Soroptimists met together to see a 35mm film, "The Cool Hot Rod," "shown in connection with the drag strip program."[^ds540111] The streets had not gone quiet: that Easter's vacation report counted "six youths cited for drag racing on city streets."[^ds540419] In June 1955 the paper noted that a longtime visitor, Walt Woestman, who had been coming to Palm Springs since 1924, "has been active in trying to promote a drag strip for them in Palm Springs."[^ds550609]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+The program then went to the service clubs. In January 1954 the Kiwanis and the Soroptimists met together to see a 35mm film, "The Cool Hot Rod," "shown in connection with the drag strip program."[^ds540111] The streets had not gone quiet. That Easter's vacation report counted "six youths cited for drag racing on city streets."[^ds540419] In June 1955 the paper noted that a longtime visitor, Walt Woestman, who had been coming to Palm Springs since 1924, "has been active in trying to promote a drag strip for them in Palm Springs."[^ds550609]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Whether the strip ever happened is still open. This is the only mention of his effort.
 
-By 1957 another club had the Youth Center: a photo page showed the Emperors Car Club's dance there, with club president Dave Hartnett and secretary Jim Harris.[^ds570525] In December 1959 an editorial praised a "switch in emphasis among our youth from unauthorized drag racing to officially supervised Safe Driving Contests."[^ds591212] It did not mention the strip.
+By 1957 another club had the Youth Center. A photo page showed the Emperors Car Club's dance there, with club president Dave Hartnett and secretary Jim Harris.[^ds570525] In December 1959 an editorial praised a "switch in emphasis among our youth from unauthorized drag racing to officially supervised Safe Driving Contests."[^ds591212] It did not mention the strip.
 
-A small town borrowing a bigger town's police model is a pattern elsewhere in the wiki. Compare [Inyokern's sheriff's strip](inyokern-dust-devils.md), which got built, and [Marin County's eight-year hunt](marin-cotati-strips.md), which mostly did not. Palm Springs had the police, the name, the charter and an NHRA promise, but in these pages it never had a strip.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+[Inyokern's sheriff's strip](inyokern-dust-devils.md) got built. [Marin County's eight-year hunt](marin-cotati-strips.md) mostly did not. Palm Springs had the police, the name, the charter and an NHRA promise. In these pages it never had a strip.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 

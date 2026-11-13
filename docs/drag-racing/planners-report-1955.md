@@ -1,6 +1,6 @@
 ---
 title: 'What the City Planners Wrote (1955): Hot Rod Clubs in Small-Town America'
-summary: In May 1955 the American Society of Planning Officials told city planners they would have to find sites for drag strips. Its report names small towns and clubs that rarely appear in magazine histories.
+summary: In May 1955 the American Society of Planning Officials told city planners they would have to find sites for drag strips. Its report names small towns and clubs that rarely appear in magazine histories, a converted hatchery among them, where only 16 of 100 members voted for a strip.
 department: drag-racing
 eras:
 - 1940s
@@ -56,6 +56,8 @@ canonical_for: []
 ---
 # What the City Planners Wrote (1955): Hot Rod Clubs in Small-Town America
 
+*In May 1955 a planning report told cities to find sites for drag strips, and it names the small-town clubs that rarely appear in magazine histories*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> municipal-planning report (American Society of Planning Officials, Information Report No. 74, May 1955), club-history forum post (Lone Star Speedzone) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** the report is a compilation of other people's accounts; three of its claims are unverified (below); the Kerrville item is a forum post · [How we rate this](../reference/source-standards.md)
 
@@ -64,24 +66,29 @@ canonical_for: []
 
     — **American Society of Planning Officials**, Information Report No. 74, May 1955.[^aspo]
 
-In May 1955 the American Society of Planning Officials (Chicago) sent its member city planners a report titled *Hot Rods, Car Clubs and Drag Strips*. Planning commissions, it warned, "will be called upon" to find sites for hot rod racing and to recommend zoning for drag strips.[^aspo] It reads like a snapshot of what small cities were trying in the early 1950s, and it names towns and clubs that rarely appear in magazine histories.
+In May 1955 the American Society of Planning Officials, in Chicago, sent its city planners a report titled *Hot Rods, Car Clubs and Drag Strips*. Planning commissions, it warned, "will be called upon" to find sites for hot rod racing and to recommend zoning for drag strips.[^aspo] It is a snapshot of what small cities were trying in the early 1950s, and it names towns and clubs that rarely appear in magazine histories.
 
 ## The state program that ended
 
-California had tried a statewide approach first. The report says the **California Highway Patrol** ran a program from **1948 until 1953**, picking advisers for their interest in the sport to work with existing clubs. In 1953 "a new order from headquarters" barred patrol members from taking part in speed events or advising clubs "whose chief purpose was to promote speed events." Local police and civic groups carried on.[^aspo]
+California had tried a statewide approach first. The report says the California Highway Patrol ran a program from 1948 until 1953, picking advisers for their interest in the sport to work with existing clubs. In 1953 "a new order from headquarters" barred patrol members from taking part in speed events or advising clubs "whose chief purpose was to promote speed events." Local police and civic groups carried on.[^aspo]
 
-It says drag strips "were not sponsored or run by the highway patrol, but by local police forces and civic groups."[^aspo] Local police programs it lists include Pomona (see [Pomona's Choppers](pomona-choppers-fontana.md)), Los Angeles County, Pasadena and Madera.[^aspo]
+Drag strips, it says, "were not sponsored or run by the highway patrol, but by local police forces and civic groups."[^aspo] Local police programs on the list include Pomona (see [Pomona's Choppers](pomona-choppers-fontana.md)), Los Angeles County, Pasadena and Madera.[^aspo]
 
 ## Small-town programs it describes
 
-| Place | What the report says |
-|---|---|
-| **Columbia, Missouri** | The Columbia Motor Sports Club was started in June 1954 by the police department "after a number of teen-agers had been arrested raiding a local auto parts yard." Within a year it had 100 members and $2 dues, and local businesses, "including the auto parts garage," gave more than $2,000. The clubhouse was "a converted hatchery." Only 16 of the 100 members voted for a drag strip. The report notes city juvenile cases fell from 31 in January 1953 and 39 in May to none in December 1953, but adds the figures "are apparently for the whole city, so the direct effect of the club may be questionable." |
-| **Sioux Falls, South Dakota** | The "Igniters" formed after police arrested local hot rodders racing on highways. The city had no money, so the Lions' Club led a drive among businessmen for a clubhouse, tools and eventually a strip. |
-| **Glen Cove, Long Island** | The Long Island Hot Rod Association (450 members, 19 clubs in Nassau County and Queens) held races supervised by a Glen Cove traffic patrolman who sponsored the "Glen Cove Road Panthers." A city street had been blocked off for them until the association acquired a strip. |
-| **Grand Rapids, Michigan** | The Grand Valley Timing Association grew in two years into ten clubs, was backed by the police department and traffic engineer, and was paving a strip at an abandoned airport with its own funds, with local merchants supplying labor and materials "at cost or a small profit." |
-| **West Toledo, Ohio** | The local Kiwanis club got every hot rod club's officers together, and the clubs agreed to sponsor a drag race in summer 1953 with insurance and police supervision. The Kiwanis also had fathers and sons sign "safe-driving agreements," which the municipal and juvenile court judges agreed to enforce by impounding a license. |
-| **Kansas City, Missouri** | The Kansas City Timing Association worked with the police and was trying to lease a site in the Northeast Industrial District. |
+The report then went town by town.
+
+In Columbia, Missouri, the Columbia Motor Sports Club was started in June 1954 by the police department "after a number of teen-agers had been arrested raiding a local auto parts yard." Within a year it had 100 members and $2 dues, and local businesses, "including the auto parts garage," gave more than $2,000. The clubhouse was "a converted hatchery." Only 16 of the 100 members voted for a drag strip. City juvenile cases fell from 31 in January 1953 and 39 in May to none in December 1953, but the figures "are apparently for the whole city, so the direct effect of the club may be questionable."[^aspo]
+
+In Sioux Falls, South Dakota, the "Igniters" formed after police arrested local hot rodders racing on highways. The city had no money, so the Lions' Club led a drive among businessmen for a clubhouse, tools and eventually a strip.[^aspo]
+
+In Glen Cove, on Long Island, the Long Island Hot Rod Association (450 members, 19 clubs in Nassau County and Queens) held races supervised by a Glen Cove traffic patrolman who sponsored the "Glen Cove Road Panthers." A city street had been blocked off for them until the association acquired a strip.[^aspo]
+
+In Grand Rapids, Michigan, the Grand Valley Timing Association grew in two years into ten clubs, was backed by the police department and traffic engineer, and was paving a strip at an abandoned airport with its own funds, with local merchants supplying labor and materials "at cost or a small profit."[^aspo]
+
+In West Toledo, Ohio, the local Kiwanis club got every hot rod club's officers together, and the clubs agreed to sponsor a drag race in summer 1953 with insurance and police supervision. The Kiwanis also had fathers and sons sign "safe-driving agreements," which the municipal and juvenile court judges agreed to enforce by impounding a license.[^aspo]
+
+In Kansas City, Missouri, the Kansas City Timing Association worked with the police and was trying to lease a site in the Northeast Industrial District.[^aspo]
 
 Municipal Judge Geraldine Macelwane, quoted on the Toledo program: "The list of violators in Juvenile Court is growing smaller each Wednesday, although enforcement agencies are still zealously watching for teen-age offenders."[^aspo]
 
@@ -91,13 +98,15 @@ The report also caught how clubs were changing. Club names like "Sideswipers," "
 
 About forty percent of clubs admitted girls, and a room in the police station was sometimes the clubhouse.[^aspo]
 
-A Texas example comes from a forum,<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> where a researcher says the **Drag-Uns** of Kerrville were an NHRA-chartered club "sponsored by the Kerrville Police Department," formed in 1953 with 27 members, and held their first race on March 29, 1953 at Louis Schreiner Airport.[^kerr] Another poster says the Alamo Timing Association ran a Kerrville race on Aug. 23, 1953.[^kerr]
+A Texas example comes from a forum,<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> where a researcher says the Drag-Uns of Kerrville were an NHRA-chartered club "sponsored by the Kerrville Police Department," formed in 1953 with 27 members, and held their first race on March 29, 1953 at Louis Schreiner Airport.[^kerr] Another poster says the Alamo Timing Association ran a Kerrville race on Aug. 23, 1953.[^kerr] The thread quotes no period source.
 
 ## What came after
 
 Kansas City got its strip. The Kansas City Timing Association's strip opened July 17, 1955, according to the detective who organized it. See [The Detective Whose Son Was a Dragster](kansas-city-timing-association.md).
 
 Other small-town clubs never made the report, among them [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both known from local newspapers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+
+Magazine histories rarely had these clubs. The May 1955 report did. Columbia kept a converted hatchery, and only 16 of the 100 members voted for a drag strip.
 
 *See also:* [Hot Rod Club, Third Row](high-school-hot-rod-clubs.md); [Street Rod in the Small-Town Paper](../media/street-rod-newspaper-serial.md).
 

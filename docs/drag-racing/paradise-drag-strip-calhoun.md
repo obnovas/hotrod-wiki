@@ -58,7 +58,7 @@ canonical_for: []
 ---
 # Easter at Paradise: The Paradise Drag Strip (Calhoun, Ga., 1961–2016)
 
-*A wire story, a small-town paper's neighborhood columns and a reader's call-in trace a north Georgia strip across fifty-five years*
+*A legal Sunday strip, an Easter crowd of 1,500, and families still going decades later*
 
 !!! abstract "Article record"
     **Confidence:** Low (a 1961 state news service report and an AP version that disagree on details, then scattered mentions in weekly columns and a daily; no history of the strip itself) · **Source types:** <span class="hr-badge">Grassroots</span> small-town weekly (*Summerville News*, Summerville, Ga.) community columns and club news, 1964–67; a regional daily (*The Daily Citizen*, Dalton, Ga.) call-in column and profile, 2012–17; the *Atlanta Constitution*'s state news service and an AP report in the *Butler Herald*, 1961 · **Last verified:** 2026-10-27 (Round 24; quotes rechecked against the page OCR) · **Open issues:** the victim's age ⚠; the distance from the start ⚠; when the strip opened ?; Otto Timms ? · [How we rate this](../reference/source-standards.md)
@@ -68,13 +68,13 @@ canonical_for: []
 
     — Frank Gowin of Ringgold, an injured spectator, *Atlanta Constitution*, Apr. 3, 1961.[^ac610403]
 
-On Easter Sunday 1961, 1,500 people stood along the quarter-mile Paradise Drag Strip "just north of" Calhoun, Ga., for a special holiday race. One car never got straight.[^ac610403]
+On Easter Sunday 1961, 1,500 people stood along the quarter-mile Paradise Drag Strip "just north of" Calhoun, Ga., for a special holiday race. One car never got straight.[^ac610403] A spectator was killed at the legal Sunday strip. Families from nearby towns kept going to the races for decades.
 
 ## Easter Sunday, 1961
 
-The driver was Mrs. Virginia Quarles, 30, of Rome, with her husband, Frank Quarles Jr., 34, riding as passenger. Frank Gowin, 31, of Ringgold saw the car "fish tail" out of control just after it left the starting line. "She had too much power, and the tires couldn't get traction," he said. The car "spun off the track and rammed through a wooden rail," and three parked cars were heavily damaged. Deward Lee Duncan of Chatsworth was killed and 10 others were hurt, among them his brother-in-law Russell Hemphill, both Quarleses, Gowin, and spectators from Calhoun, Chatsworth, Rossville and Ringgold, two of them teenagers.[^ac610403]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The driver was Mrs. Virginia Quarles, 30, of Rome, with her husband, Frank Quarles Jr., 34, riding as passenger. Frank Gowin, 31, of Ringgold saw the car "fish tail" out of control just after it left the starting line. "She had too much power, and the tires couldn't get traction," he said. The car "spun off the track and rammed through a wooden rail," and three parked cars were heavily damaged. Deward Lee Duncan of Chatsworth was killed and 10 others were hurt, among them his brother-in-law Russell Hemphill, both Quarleses, Gowin, and spectators from Calhoun, Chatsworth, Rossville and Ringgold, two of them teenagers.[^ac610403]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> The papers do not agree how old he was.
 
-Gordon County Sheriff Hughdon Davis quoted Mrs. Quarles as saying the car began to "fishtail" a moment after the start and "she was never able to get it under control." He said it was the first time a serious incident had occurred at "the legal drag racing strip here," where, he said, races were held nearly every Sunday.[^ac610403] The Associated Press version ran as far away as Butler, in Taylor County, under the headline "Man Is Killed As Drag Racer Hits Crowd."[^bh610406]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Gordon County Sheriff Hughdon Davis quoted Mrs. Quarles as saying the car began to "fishtail" a moment after the start and "she was never able to get it under control." He said it was the first time a serious incident had occurred at "the legal drag racing strip here," where, he said, races were held nearly every Sunday.[^ac610403] The Associated Press version ran as far away as Butler, in Taylor County, under the headline "Man Is Killed As Drag Racer Hits Crowd."[^bh610406]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> The papers do not agree how far from the start the car left the track.
 
 Eight years later, after the 1969 crash at the [Yellow River Drag Strip](yellow-river-covington.md) near Covington, which UPI first reported had killed eleven people (later local reports said twelve; see [the death toll](yellow-river-covington.md#q-3)), a UPI story listed Georgia's earlier drag strip deaths: a boy killed at Dallas, Ga., in 1965, and "In 1961 a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident."[^gdn690303]
 
@@ -88,7 +88,7 @@ The *News*'s neighborhood columns show who went. In April 1965 one column report
 
 The strip outlasted most of its 1960s neighbors. In 2007 *Mundo Hispánico* profiled a Woodstock girl in junior drag racing who had raced at "el Paradise Drag Strip de Calhoun."[^mh070329] In 2012 a man trying to sell a valuable race car told *The Daily Citizen* that if no buyer came along, "it will go to the drag strip (at East Brainerd near Chattanooga or Calhoun)."[^dc121121] In 2016 an 18-year-old from Chatsworth, profiled by the same paper, listed her jobs as "Burger King and Paradise Drag Strip."[^dc160602]
 
-In March 2017 a reader called the Dalton paper's call-in column: "I'm interested to know if anyone in the surrounding areas ever raced at Paradise Drag Strip in Calhoun in the late '60s and early '70s. I'm wanting to know if anyone had any pictures of races during those days. My husband, Leon Welch, used to race down there."[^dc170325]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+In March 2017 a reader called the Dalton paper's call-in column: "I'm interested to know if anyone in the surrounding areas ever raced at Paradise Drag Strip in Calhoun in the late '60s and early '70s. I'm wanting to know if anyone had any pictures of races during those days. My husband, Leon Welch, used to race down there."[^dc170325]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> Whether the strip is still running is still open. The Easter car had left the track into the crowd. A reader called for pictures of the races.
 
 *See also:* another Southern Sunday strip of the same years, [Cedar Creek in Bullitt County, Ky.](cedar-creek-bullitt-dragway-kentucky.md)
 

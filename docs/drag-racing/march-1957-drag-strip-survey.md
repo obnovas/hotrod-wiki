@@ -1,6 +1,6 @@
 ---
 title: 'March 1957: America Argues About Drag Strips'
-summary: In March 1957 newspapers across the country argued about drag strips. Here are the cases for and against, and a Denver puzzle we have not solved.
+summary: In March 1957 a Chicago wire story in the Medford paper collected the arguments about drag strips. The reactions were mixed, and a Denver line about public funds is still a puzzle.
 department: drag-racing
 eras:
 - 1950s
@@ -51,6 +51,8 @@ canonical_for: []
 ---
 # March 1957: America Argues About Drag Strips
 
+*A March 1957 wire story collected the arguments, the reactions were mixed, and the Denver line still does not settle*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local daily carrying a United Press wire survey (*Medford Mail Tribune*, Oregon, Mar 19, 1957, read as page OCR), local history site and club-history post on Denver (Pete Garramone, *Drag Racing Story of the Day*), Denver Public Library blog, racingcircuits.info · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the page OCR is scrambled in places (only clean passages are quoted); one wire story is a snapshot, not a count; which Denver-area strip the story means is unresolved (one wire story) ◐; the story's byline was not legible · [How we rate this](../reference/source-standards.md)
 
@@ -59,9 +61,7 @@ canonical_for: []
 
     — **John McCormick**, safety director of Cleveland, explaining why he banned drag racing on all city streets, United Press via the *Medford Mail Tribune*, Mar 19, 1957. *OCR text.*[^mmt]
 
-On Tuesday, March 19, 1957, a reader in Medford, Oregon, opened the paper to a headline that could have run in almost any town in America: "Drag Strips for Hot Rod Drivers Discussed With Mixed Reactions."[^mmt]
-
-The Chicago-datelined United Press story is a rare cross-section. In March 1957 the arguments were still raw. The reporter collected opinions from police, safety groups and the sport's own sponsor. The mix is the story.
+On Tuesday, March 19, 1957, a reader in Medford, Oregon, opened the paper to a headline that could have run in almost any town in America: "Drag Strips for Hot Rod Drivers Discussed With Mixed Reactions."[^mmt] The Chicago-datelined United Press story collected opinions from police, safety groups and the sport's own sponsor. The reactions were mixed. A drag strip near Denver, the story said, was being built by the county commission with public funds, and Denver's own history does not settle it.
 
 ## The case for the strip
 
@@ -71,14 +71,14 @@ The second claim is a broader version of the "accident-free season" the ATAA's 1
 
 ## The case against
 
-The critics had more voices. First came the **National Safety Council**. The story says the council "came out a few weeks ago in direct opposition to drag racing, supervised or otherwise." It conceded that "many activities of hot rod clubs may be commendable," but "the overall emphasis is on getting more speed out of a car."[^mmt] That is a turn. In June 1955, a *Motor Age* article credited the council with saying supervised hot rodding "is one of the best answers" to the "shot-rod" problem,[^ma] and the council's own magazine ran a Kansas City detective's account in May 1956 under the title [Give the Hot Rodders a Break](kansas-city-timing-association.md).[^pond] We have not seen the council's 1957 statement itself.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+The critics had more voices. First came the **National Safety Council**. The story says the council "came out a few weeks ago in direct opposition to drag racing, supervised or otherwise." It conceded that "many activities of hot rod clubs may be commendable," but "the overall emphasis is on getting more speed out of a car."[^mmt] In June 1955, a *Motor Age* article credited the council with saying supervised hot rodding "is one of the best answers" to the "shot-rod" problem,[^ma] and the council's own magazine ran a Kansas City detective's account in May 1956 under the title [Give the Hot Rodders a Break](kansas-city-timing-association.md).[^pond] We have not seen the council's 1957 statement itself.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 Local safety groups agreed. In **Atlanta**, **Robert Leopold**, manager of the citizens' group called the Traffic and Safety Council of Atlanta, said: "I cannot quarrel with the ideals of hot rod clubs on paper. But given a souped up car and the opportunity, many youths will succumb to temptation on the public streets and highways." Atlanta had "two commercial drag strips on private property just outside" the city, "but none within the city limits."[^mmt]
 Near **Seattle**, the Automobile Club of Washington said it was "not sure we stand behind it anymore. It does not generate the right safety attitude. Kids and in some cases adults are carrying drag racing from the strips to the highways."[^mmt] The same story says two strips were being considered near Seattle and "several" existed in the state, with events "usually" sponsored by what the scan prints as the "West Washington Timing Association," which required participants to be insured.
 And in **Cleveland**, safety director McCormick had banned drag racing on any city street.[^mmt]
 
 ## The Denver puzzle
 
-One item reads like a headline in itself: a drag strip near Denver "is being built by the county commission with public funds. At the same time, an ordinance expressly forbidding drag racing on city streets is expected to be passed by the city council."[^mmt] The writer sets it against cities that "oppose drag strips vigorously," and notes that "in some, public funds have been used to build hot rod racing facilities."[^mmt]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+One item reads like a headline in itself: a drag strip near Denver "is being built by the county commission with public funds. At the same time, an ordinance expressly forbidding drag racing on city streets is expected to be passed by the city council."[^mmt] The writer sets it against cities that "oppose drag strips vigorously," and notes that "in some, public funds have been used to build hot rod racing facilities."[^mmt]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Which Denver strip that was is still open.
 
 Denver's own history does not settle it. The Denver Hot Rod Club (the Strippers) and the Denver Timing Association "promoted safe drag racing in the Denver area in the early and mid '50s," according to a club member's recollection that credits them with helping to build **Continental Divide Raceway**, which opened in 1959.[^strip]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 Continental Divide was announced in 1956 as a sports complex, the project of Colorado Motor Raceway Inc., which the site says had gone under by 1957. Denver millionaire Sid Langsam bought out the company in March 1959 and opened the half-mile drag strip on **July 19, 1959**, with 8,600 fans and 250 entries.[^rc]
@@ -88,10 +88,9 @@ None of these says a county commission used public money for a strip in 1957. Th
 
 ## What the survey shows
 
-Read together, the survey shows no consensus. The same month, one city was paying for facilities and another was passing ordinances.
-It also shows the vocabulary. "Shot rodder" and "hot rodder" were by then safety-publicity terms in every paper. (A 1954 book review in Greencastle, Indiana, uses the same split. See [Hoosier Road Runners](indiana-small-town-clubs.md).)
-And it shows who spoke for whom. The ATAA's founder is the only named defender in the story. The police and safety voices are the critics.
-As for the paper itself, the *Medford Mail Tribune* printed it on page 6, beside a United Press "Quotes From the News" column. Only the scanned OCR was read, and the left-to-right column order is scrambled. We quote only phrases that read cleanly.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+The same month, one city was paying for facilities and another was passing ordinances. "Shot rodder" and "hot rodder" were by then safety-publicity terms in every paper. (A 1954 book review in Greencastle, Indiana, uses the same split. See [Hoosier Road Runners](indiana-small-town-clubs.md).) The ATAA's founder is the only named defender in the story. The police and safety voices are the critics. The *Medford Mail Tribune* printed it on page 6, beside a United Press "Quotes From the News" column. Only the scanned OCR was read, and the left-to-right column order is scrambled. We quote only phrases that read cleanly.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+
+The reactions were mixed. It is still the sponsor's word. The council came out in direct opposition to drag racing. None of the Denver projects says a county commission used public money for a strip in 1957.
 
 ## Open questions & disputed details
 
