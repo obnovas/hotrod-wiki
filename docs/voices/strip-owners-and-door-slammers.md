@@ -1,6 +1,6 @@
 ---
 title: 'Voices: Strip Owners & Door-Slammers'
-summary: 'Strip owners and door-slammer racers in their own words: the Harts, the Gays, Bob Bartel, Gene Snow and others, each quote labeled by when it was told.'
+summary: "The families who owned the strips and the door-slammer racers who filled them are here in their own words, from the Harts, the Gays, and Bob Bartel to Gene Snow, each quote labeled by when it was told."
 department: voices
 era: 1960s
 eras:
@@ -49,16 +49,16 @@ canonical_for: []
 ---
 # Voices: Strip Owners & Door-Slammers
 
-*The people who ran the tracks, and the people who filled them*
+*The families who ran the strips, and the door-slammer racers who filled them*
 
 !!! abstract "Article record"
     **Confidence:** Medium (all quotes are verbatim from pages we opened on 2026-10-15) · **Source types:** NHRA bios and columns, *Hot Rod* (1980, 2015), *Street Rodder* anniversary feature, track-owner tribute, trade-blog event report · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** no first-hand words from Peggy Hart herself; Bob Bartel's August 2009 newspaper interview could not be opened (rate-limited) · [How we rate this](../reference/source-standards.md)
 
-These are first-hand and near-first-hand words from the families who **owned the strips** (the Harts, the Gays, Bob Bartel) and the **Midwest and Texas door-slammer racers** who filled them. Every quote is labeled by when it was told. Full articles: [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [The Ohio Gassers](../places/ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Peggy Hart](../people/peggy-hart.md), [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
+The families who **owned the strips** (the Harts, the Gays, Bob Bartel) and the **Midwest and Texas door-slammer racers** who filled them are here, in first-hand and near-first-hand words. Every quote is labeled by when it was told. Full articles: [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [The Ohio Gassers](../places/ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Peggy Hart](../people/peggy-hart.md), [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 ## Gene Snow: used cars, Crowerglide and 200 mph (NHRA Top 50, 2001)
 
-Snow came to racing through the used-car lot:
+Snow came to racing by quitting electrical engineering for a used-car lot.
 
 > "I did that because I could make more money than what engineers were making at General Dynamics."
 
@@ -166,13 +166,13 @@ Hart told all this years later (1950–71 events; told 1979). This is the earlie
 
 ## Jim Clark: losing the *Street Rod* title (2012/2014)
 
-The last voice is from the magazines that covered the street-rod side:
+The last voice is Jim Clark, on losing the Street Rod name.
 
 > "We originally intended to call it Street Rod, but not long before we went to print Bruce Miller in Portland, Oregon, came out with Street Rod magazine. So we changed our name. It was released in May 1972."
 
 — Jim Clark, *Street Rodder*'s first editor, in "Street Rodder's 40th Anniversary – Time Flies," hotrod.com, posted Apr 8, 2014. Access 2026-10-15. https://www.hotrod.com/features/street-rodders-40th-anniversary
 
-Told about 40 years later, and confirmed by the *Street Rod* issue run (first issue October 1971). See [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
+Told about 40 years later, and confirmed by the *Street Rod* issue run (first issue October 1971). See [*Street Rod* magazine](../media/street-rod-magazine-portland.md). The families who ran the strips, and the racers who filled them, are the voices here, each quote labeled by when it was told.
 
 *See also:* Ken Kull and Pete Hill on the [Red Baron](../cars/hill-bros-red-baron.md); Eddie Schartman on the first flip-top Funny Car in [Show & Custom Voices](show-custom-voices.md); Steve Gibbs and Gerald Hart on Peggy in [The Harts of Santa Ana](harts-santa-ana.md).
 

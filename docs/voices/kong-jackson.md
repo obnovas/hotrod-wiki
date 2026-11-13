@@ -1,6 +1,6 @@
 ---
 title: 'Kong Jackson: "No Organization. No Nuthin''."'
-summary: Kong Jackson on the lakes before the SCTA, Army Jeeps at Muroc and flatheads, from Tom Medley's 1988 interview as quoted by Fuel Curve.
+summary: Kong Jackson on the lakes before the SCTA, Army Jeeps at Muroc, and flatheads, told to Tom Medley in 1988 and quoted later by Fuel Curve. Three people between us and the man.
 department: voices
 era: 1930s
 eras:
@@ -35,16 +35,16 @@ canonical_for: []
 ---
 # Kong Jackson: "No Organization. No Nuthin'."
 
-*Three people between us and the man himself*
+*Jackson to Medley in 1988, then Fuel Curve: three people between us and the man*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** 1988 interview by Tom Medley, quoted by Fuel Curve; friend's recollection (Alex Xydias) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** We have not read Medley's original book text · [How we rate this](../reference/source-standards.md)
 
-Tom Medley interviewed Charles "Kong" Jackson in **1988** for *Tex Smith's Hot Rod History*. Fuel Curve later quoted that interview, so these words come to us **secondhand**: from Jackson, via Medley, via Fuel Curve. Jackson's career is covered in [Kong Jackson](../people/kong-jackson.md).
+These words come secondhand, three people between us and the man. Tom Medley interviewed Charles "Kong" Jackson in 1988 for *Tex Smith's Hot Rod History*. Fuel Curve later quoted that interview: Jackson, then Medley, then Fuel Curve. He told Medley about the lakes before the SCTA, Army Jeeps at Muroc, and flatheads. His career is in [Kong Jackson](../people/kong-jackson.md).
 
 ## Before the SCTA
 
-Jackson started with the years before anyone was in charge:
+He started with the years before anyone was in charge:
 
 > "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."
 >
@@ -52,7 +52,7 @@ Jackson started with the years before anyone was in charge:
 
 ## Jeeps and bayonets
 
-Then the Army ended the racing at Muroc:
+Then the Army ended the racing at Muroc, with a Jeep and bayonets:
 
 > "We saw 'em coming and we knew what they were there for because the U.S. Army Air Corp was southwest of where we were running, and all our dust was blowing over their camp. We were working on our cars when here came a Jeep and out jumped these guys with bayonets. Man, we just split!"
 >
@@ -60,7 +60,7 @@ Then the Army ended the racing at Muroc:
 
 ## Still crazy about Flatheads
 
-He closed the interview looking back on all of it:
+He closed on the flatheads:
 
 > "When you start thinking about all the wild things we did in those days, you kind of wonder how we ever made it. I'm still as crazy as ever about Flatheads."
 >
@@ -68,7 +68,9 @@ He closed the interview looking back on all of it:
 
 ## A friend remembers
 
-The last word goes to a friend. Alex Xydias told Fuel Curve that Kong "was a really, really smart guy, who was president of the Sidewinders car club and timer at the lakes." He said So-Cal sold Jackson's ignitions: "Think we charged 49 bucks."[^fc]
+A friend has the last word. Alex Xydias told Fuel Curve that Kong "was a really, really smart guy, who was president of the Sidewinders car club and timer at the lakes." He said So-Cal sold Jackson's ignitions: "Think we charged 49 bucks."[^fc]
+
+Jackson to Medley in 1988, Medley to Fuel Curve. The lakes before the SCTA, the Army at Muroc, and the flatheads, through three people.
 
 *See also:* [Blackie Gold](blackie-gold.md).
 

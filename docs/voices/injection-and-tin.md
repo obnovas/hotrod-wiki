@@ -1,6 +1,6 @@
 ---
 title: 'Voices: Injection, Factory Racing & Detroit Tin'
-summary: First-hand words on lakes fuel injection, Lincoln-Mercury racing, Detroit aluminum work and East Coast match racing, from Stu Hilborn, Al Bergler, Malcolm Durham and others.
+summary: Stu Hilborn, Al Bergler, Malcolm Durham and others tell lakes fuel injection, Lincoln-Mercury racing, Detroit aluminum, and East Coast match racing in their own words, most of them years later.
 department: voices
 era: 1950s
 eras:
@@ -45,16 +45,16 @@ canonical_for: []
 ---
 # Voices: Injection, Factory Racing & Detroit Tin
 
-*Fuel injectors, factory racing and aluminum noses, told by the people who made them*
+*Lakes injection, factory racing, and Detroit aluminum, told by the people who did the work*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** quoted interviews and obituaries we opened · **Last verified:** 2026-10-14 (Round 9) · [How we rate this](../reference/source-standards.md)
 
-These are first-hand and near-first-hand words from the people behind lakes injection, Lincoln-Mercury racing, Detroit aluminum work and East Coast match racing. Most were told long after the fact, and each quote says when. Full biographies: [Stu Hilborn](../people/stu-hilborn.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Malcolm Durham](../people/malcolm-durham.md), [Logghe Stamping](../companies/logghe-stamping.md).
+These are first-hand and near-first-hand words on lakes injection, Lincoln-Mercury racing, Detroit aluminum work, and East Coast match racing. Most were told long after the fact, and each quote says when. Full biographies: [Stu Hilborn](../people/stu-hilborn.md), [Fran Hernandez](../people/fran-hernandez.md), [Al Bergler](../people/al-bergler.md), [Malcolm Durham](../people/malcolm-durham.md), [Logghe Stamping](../companies/logghe-stamping.md).
 
 ## Stuart Hilborn: from the lakes to the factory
 
-Hilborn started where so many did, with a stock car and an idea:
+Hilborn started with the cars out of Detroit, and an idea:
 
 > "I was very impressed that they had doubled the horsepower of the cars as they came out of Detroit with virtually no money at all, just work... I decided I was going to have a race car."
 
@@ -70,7 +70,7 @@ After the war came the injector, and the streamliner that proved it:
 
 *Told years later, in a company-site memoir.*<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-Then the injectors took over his life:
+Then he quit racing and started manufacturing them:
 
 > "I began to build fuel injectors for the Offenhauser midget engine and these were doing so well, I eventually had to quit racing and start my manufacturing career."
 
@@ -84,7 +84,7 @@ His son and a racing colleague speak for Fran Hernandez.
 
 — Randy Hernandez, quoted by Mark Hicks, Detroit News, Jan 20, 2011, as pasted on The H.A.M.B. by Harms Way, Jan 29, 2011. Access 2026-10-14. https://www.jalopyjournal.com/forum/threads/hot-rod-legend-from-the-greatest-generation-fran-hernandez-rip.555417/
 
-*A family tribute in an obituary, affectionate by design.* Bud Moore saw the engineer:
+*A family tribute in an obituary, affectionate by design.* Bud Moore on the engineer:
 
 > "He was a great engineer... He understood what the drivers wanted. He was a real big help for all of us, because he knew what needed to be done."
 
@@ -92,7 +92,7 @@ His son and a racing colleague speak for Fran Hernandez.
 
 ## Al Bergler, in his shop (2024)
 
-Bergler's story starts on a used-car lot:
+Bergler started on a used-car lot, ferrying the trade-ins:
 
 > "I always looked for the coolest car... and then I would drive that one back to the lot."
 
@@ -114,7 +114,7 @@ Decades later, a push-start brought it all back:
 
 *Told years later: 2003 event, 2024 interview. Tribute-adjacent emotion; the factual booking (Golden, 2003 Reunion) is in the same piece.*
 
-And on why he stopped driving:
+On why he stopped driving:
 
 > "The match race money was drying up... and it was time to focus on my business."
 
@@ -137,6 +137,8 @@ The last voice is a letter, an invitation to settle an East–West argument:
 — Letter from a Freeway Drag Strip promoter to Garlits, as quoted in Garlits's memoir and reprinted on houstonfreewaydragstrip.com history page. Access 2026-10-14. https://www.houstonfreewaydragstrip.com/houston-international-speedway-history.htm
 
 *Secondhand, via a memoir quotation on a fan history site; we have not opened the original Garlits book page.*<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+
+Lakes injection, Lincoln-Mercury racing, Detroit aluminum, and an East Coast showdown. The people who did the work said so, most of them years later.
 
 *See also:* Eddie Schartman on the first Logghe flip-top, in [Show & Custom Voices](show-custom-voices.md) and [Eddie Schartman](../people/eddie-schartman.md).
 
