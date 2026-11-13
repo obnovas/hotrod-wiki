@@ -61,7 +61,7 @@ canonical_for: []
 ---
 # "No Hot Rods, Please!": The Virgin Islands Talk Back to the Hot Rod (1936–63)
 
-*Islands with no strip, no straight roads and one firm editorial position*
+*No strip and no straight roads, and a 1960 paper that said the hot rod does not belong in these parts*
 
 !!! abstract "Article record"
     **Confidence:** Medium (high for what the papers printed, page OCR of three island newspapers read page by page; low for how much hot rodding there really was, since the papers mostly record complaints) · **Source types:** <span class="hr-badge">Grassroots</span> local newspapers: *The St. Croix Avis* (Christiansted, 1954–63), the *West End News* (Frederiksted, 1957–61) and *The Daily News of the Virgin Islands* (St. Thomas, 1962–63), all read as Library of Congress Chronicling America page OCR; obvious OCR slips in quotations are corrected · **Last verified:** 2026-10-30 (Round 27) · **Open issues:** who the hot rodders were ?; whether the Senate acted ?; Meg Gordon's group ? · [How we rate this](../reference/source-standards.md)
@@ -71,17 +71,19 @@ canonical_for: []
 
     — Editorial, *The St. Croix Avis*, March 7, 1960.[^avis60b]
 
-This is a story about rules and public opinion more than about cars: how a territory with no drag strip argued, in its newspapers and its traffic court, over whether the hot rod belonged there at all. The hot rod reached the Virgin Islands first as a picture. The movie houses ran Hollywood's teenage hot rod pictures: *Hot Rod Girl* in Frederiksted in December 1957 and at the Christiansted Theatre in 1959, *Drag Strip Girl* in 1958, *Hot Rod Rumble* in 1959 and *Hot Rod Gang* ("Crazy Kids living to a wild rock'n Roll Beat") in 1960.[^avisfilms] The *Avis* had printed a story on a national survey in 1954 assuring readers that most licensed teenagers were "definitely opposed to 'hot-rodding' on regular highways."[^avis54]
+The U.S. Virgin Islands had hill roads and no drag strip, and in 1960 *The St. Croix Avis* said the hot rod does not belong in these parts. The papers also kept a hot rod with the name "Lover Boy" written on it that hit a commissioner's car, a home-built racer flown to Puerto Rico for $50.00, and a neighbor's offer to watch the highway races from his porch.
+
+The hot rod reached the islands first as a picture. The movie houses ran Hollywood's teenage hot rod pictures: *Hot Rod Girl* in Frederiksted in December 1957 and at the Christiansted Theatre in 1959, *Drag Strip Girl* in 1958, *Hot Rod Rumble* in 1959 and *Hot Rod Gang* ("Crazy Kids living to a wild rock'n Roll Beat") in 1960.[^avisfilms] The *Avis* had printed a story on a national survey in 1954 assuring readers that most licensed teenagers were "definitely opposed to 'hot-rodding' on regular highways."[^avis54]
 
 ## "Lover Boy" meets the commissioner
 
 The real thing turned up on the road in St. Thomas on a Friday in February 1960. Carlos Downing, the commissioner of property and procurement, was turning left from 6th Street at Sugar Estate with his wife and daughter when his car was hit by "a hot rod car No. T 1965, with the name 'Lover Boy' written on it." The commissioner's car was knocked into a wire fence; "The hot rod ended up on the right hand side of the race track." The driver, Elroy Donovan, who had two girls and another boy with him, had only a learner's permit. He was arrested and charged with speeding and driving without a license.[^avis60a]
 
-A month later the *Avis* gave its verdict. The hot rod, it explained, "is an automobile which has been tampered with": a youngster "proceeds to remake it in his own image," removing the nameplates, making "a snub-nosed affair of the hood" and souping it up. "A hot rod is essentially a racing car, and heaven knows we have no place for auto racing in these Islands, and one quick trip on any of our roads will bear ample testimony to this." The Senate should "hasten to outlaw this monster," the editorial said, though the public safety department might already have the power to keep hot rods off the road at inspection time. A shorter item on the same page put it plainest: "No more hot rods, please."[^avis60b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+A month later the *Avis* gave its verdict. The hot rod, it explained, "is an automobile which has been tampered with": a youngster "proceeds to remake it in his own image," removing the nameplates, making "a snub-nosed affair of the hood" and souping it up. "A hot rod is essentially a racing car, and heaven knows we have no place for auto racing in these Islands, and one quick trip on any of our roads will bear ample testimony to this." The Senate should "hasten to outlaw this monster," the editorial said, though the public safety department might already have the power to keep hot rods off the road at inspection time. A shorter item on the same page put it plainest: "No more hot rods, please."[^avis60b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> Whether the Senate or the public safety department ever acted is still open.
 
 ## The other side of the ledger
 
-Not every mention was a complaint. In Frederiksted's New Year's parade of 1961, the *West End News* reported, one of the troupes was "Meg Gordon's Hot Rod Group," which joined Uncle Sam's Troupe and the Trojans Steel Band in rounding out the parade.[^wen61]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Not every mention was a complaint. In Frederiksted's New Year's parade of 1961, the *West End News* reported, one of the troupes was "Meg Gordon's Hot Rod Group," which joined Uncle Sam's Troupe and the Trojans Steel Band in rounding out the parade.[^wen61]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> Whether they were a car club, a youth group or a costume troupe, the parade report does not say.
 
 And some islanders built race cars anyway. In 1962 Page Winter, a local builder, and three friends put together a "Sprite Special" in about five weeks and flew it to Puerto Rico on Southern Air "at a cost of $50.00" for the Grand Prix de Puerto Rico at the Antilles Auto Racing Circuit in Caguas. It qualified as a Class II modified racer and was running well in practice when its transmission blew. "[T]here was a complete lack of time and money," said the team manager, Rudy Thompson; island racing fans had already held a Halloween benefit at the Coffee House that raised $130. The team planned to try again in December.[^dn62a]
 
@@ -90,6 +92,8 @@ And some islanders built race cars anyway. In 1962 Page Winter, a local builder,
 The racing the papers worried about happened on public roads. In December 1962 a judge heard a suspected case of "drag racing," "an offense not too common on the island," the *Daily News* said; the evidence did not support the charge, and the three men were fined $20 and $25 for speeding instead.[^dn62b] The next summer the paper's history columnist, John Brennessy, reminded readers that it was nothing new: a 1936 editorial had complained about "irresponsible boys who delight to race insanely in fragments of cars."[^dn63a]
 
 The most vivid account came in October 1963, after a Sunday-night accident on the Harwood Highway. Joseph Vogel, who signed himself "Mgr. Sports Dept.," wrote to Commissioner Otis Felix that his neighbors had expected such an accident for months, and offered the commissioner a seat on his porch. "In fact, we have a full race program," he wrote. Then, in case the commissioner was interested, he laid it out: "Well, we have drag races from the sub-base stop light, and then we really get to the main event by racing almost three abreast over the hill by Lucy's Market." His sign-off: "the Harwood Highway Race Track is open 24 hours a day."[^dn63b]
+
+The *Avis* had said "No more hot rods, please," and that the hot rod does not belong in these parts. The highway races went on, and Vogel had a full race program on his porch.
 
 ## Open questions & disputed details
 

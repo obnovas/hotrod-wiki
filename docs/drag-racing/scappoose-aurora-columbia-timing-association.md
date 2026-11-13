@@ -1,6 +1,6 @@
 ---
 title: 'A Quarter to Watch an Old Ford: Scappoose, Aurora and the Columbia Timing Association (1951–1969)'
-summary: Two Portland clubs formed the Columbia Timing Association in 1951, and its first legal drags ran at Scappoose airport in May 1952, about 30 cars at 80 to 90 mph. When Scappoose closed, the clubs moved to Aurora and Woodburn, ran a yearly meet at Madras, and raced at McMinnville's airport from 1959 to 1966.
+summary: "Two Portland clubs formed the Columbia Timing Association in 1951, and its first legal drags ran at Scappoose airport in May 1952, about 30 cars at 80 to 90 mph. When that airport closed, the clubs moved the meets on."
 department: drag-racing
 era: 1950s
 eras:
@@ -86,7 +86,7 @@ peak: 1952–1966
 ---
 # A Quarter to Watch an Old Ford: Scappoose, Aurora and the Columbia Timing Association (1951–1969)
 
-*A buck's worth of gas, a lawyer who doubted anyone would pay, a blown '32 towed home on a rope, a racer who ported heads from his wheelchair, and a 50cc scooter that won a state champion's jacket*
+*A lawyer doubted anyone would pay a quarter to watch an old Ford, and the clubs ran Scappoose in 1952, then moved the meets on*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the founding and the first meet rest on one participant's memoir, Albert Drake's, and the club's own history; the later strips rest on racers' memories, two of them taped interviews, which disagree on Scappoose's years and its end, and are Low to Medium) · **Source types:** <span class="hr-badge">Grassroots</span> Albert Drake, *Reflections in a Spinner Hubcap* (Flat Out Press excerpt); the Road Angels' club history; racers' memories and telephone interviews on *Drag Strip List*; *Eugene Register-Guard*, 1955 · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ⚠ Scappoose's years; ? who shut Scappoose; ◐ the Hylifters at Corvallis · [How we rate this](../reference/source-standards.md)
@@ -97,6 +97,8 @@ peak: 1952–1966
     — Albert Drake, on the first Portland-area drags, May 1952, *Reflections in a Spinner Hubcap*.[^drake]
 
 ## Two clubs and an airport
+
+Two Portland clubs formed the Columbia Timing Association in 1951 so they could race closer than Eugene. The first legal drags ran at the Scappoose airport in May 1952, about 30 cars at 80 to 90 mph. A lawyer had scoffed that anyone would pay a quarter to watch an old Ford. When Scappoose closed, the clubs moved the meets on.
 
 The **Road Angels** got together in Portland in 1950, officially took the name in 1951, and were one of the founding clubs of the **Columbia Timing Association**.[^ra] Albert Drake joined them in July 1951. The next month, he writes, the Road Angels joined the **Ramblers** to form the CTA, "whose purpose was to promote a drag strip closer to Portland." The nearest legal drags were 120 miles south at Eugene, where the clubs of the Northwest Timing Association had been racing for about a year. Drake and his father had driven his A-V8 roadster down to watch them the summer before. A newspaper there called them "sprint contests."[^drake]
 
@@ -115,6 +117,8 @@ Larry Stopper told Mel Bashore in 2017 that he raced a brand-new '55 Chevy Del R
 Jim Beardslee, interviewed in 2017, raced a B/Altered '33 three-window at **Aurora**, "just out of Portland," from the mid-1950s. It had a flag starter, no ET clocks, "just time clocks," and "All the car clubs from Eugene up to Portland raced up there at Aurora." *Hot Rod* photographer Pete Sukalac shot his car there for a two-page article.[^dslor] By September 1955 the Eugene paper was quoting Aurora's best speed, 139 mph.[^erg55] The CTA also ran a race once a year at **Madras**, in central Oregon. Beardslee took a '50 Ford with a '55 Cadillac engine to 125 mph there in 1955 and won a plaque "that I was supposed to put on my dash." Mel Bryson made his NHRA license runs at Madras in 1969 in a blown-Hemi '33 Willys. It was "over 100 degrees," his goggles were full of sweat and he "had only the vaguest idea where the center of the lane was." The runs were signed by funny car driver Kenny Goodell and by Jim Livingston, who owned and managed the strip. Jeff Gaynor took over as manager and promoter in 1989, and his best crowd came that year, when Tom McEwen brought his '57 Chevy funny car.[^dslor]
 
 **McMinnville**'s airport, Marty Strode wrote, ran "from '59 through '66"; Johnnie Hart set the NHRA D/Dragster record there in 1962.[^dslor] Robert Sully watched his uncle Gordy race the "Tidy Tee" there in the late 1950s. Gordy had been born less than two miles from the airport on the old Sully farm, and his car was built by Ken Austin of Newberg and written up in *Hot Rod* in 1957. In 1963 Roy White, 15, won an "Oregon State Champ" jacket at McMinnville on a lightly modified Caper Cycle scooter in the 50cc class. It hangs in a shadow box in his garage.[^dslor] Down the valley, according to research by *Drag Strip List*'s editor, the **Hylifters** of Corvallis, formed in 1951, ran drags at the Corvallis Municipal Airport in 1954 under the NWTA.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^dslor]
+
+The nearest legal drags had been 120 miles south. A lawyer had scoffed that anyone would pay a quarter to watch an old Ford. The clubs ran Scappoose anyway, and when that airport closed they moved the meets on.
 
 *See also:* [The Pacific Northwest](../places/pacific-northwest.md), for Woodburn, the strip the clubs built together in 1961; [Eugene and White City](eugene-balboa-white-city-oregon.md), the NWTA's home ground to the south; [Western Washington's airport strips](western-washington-airport-strips.md), across the Columbia; [Tom McEwen](../people/tom-mcewen.md).
 

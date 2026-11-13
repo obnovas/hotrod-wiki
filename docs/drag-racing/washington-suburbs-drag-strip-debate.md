@@ -86,7 +86,7 @@ canonical_for: []
 ---
 # "Our Name Is Mud": Washington's Suburbs Argue Over Drag Strips (1953–63)
 
-*Teenagers asked for a place to race, an editorial called it foolishness, a father of three boys wrote back, and the racing went out to Manassas and Aquasco anyway*
+*From 1953 to 1963 the suburbs argued over a drag strip, the racing went to Manassas and Aquasco, and the county said no*
 
 !!! abstract "Article record"
     **Confidence:** Medium (contemporary news reports, an editorial, letters and race notices, all from one daily paper; OCR checked page by page) · **Source types:** <span class="hr-badge">Grassroots</span> the *Evening Star* (Washington, D.C.), 1953–63, via Chronicling America: county hearing reports, the Sunday teen pages, letters to the editor and short sports notices · **Last verified:** 2026-10-29 (Round 26) · **Open issues:** how long the Old Dominion strip was ⚠; whether the two Jesse Baggetts are one man ◐ · [How we rate this](../reference/source-standards.md)
@@ -95,6 +95,8 @@ canonical_for: []
     "Our name is mud, right to begin with. You say 'hot rod,' and, b-r-other, you've had it."
 
     — Lorick Fox, 29, a sixth-grade teacher, speaking for Prince Georges County hot rodders, Oct. 16, 1953.[^es531017]
+
+From a 1953 Prince Georges hearing through the spring of 1963, Washington's suburbs argued over whether hot rodders should have a drag strip. The racing went to Manassas and to Aquasco, where Art Arfons of Akron brought his jet-powered "Green Monster" and ran 198 mph. That was the spring the county refused a strip of its own.
 
 ## The hearing (1953)
 
@@ -106,7 +108,7 @@ Within weeks the clubs and the officials had a formal body, the Prince Georges A
 
 ## Across the river: Old Dominion
 
-The strip came first in Virginia. In May 1954 Al Gore, director of Old Dominion Speedway at Manassas, announced he would "introduce hot rod competition Sunday at 1 p.m. on his new half-mile drag strip,"[^es540507] and by summer the [D.C. Dragons](dc-dragons-jo-ann-johnson.md) were running meets there. In March 1956 Gore said the strip would be lengthened to a mile, which "will allow for a quarter mile dragging rather than the present one-fifth mile."[^es560322]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Old Dominion's strip stayed busy: a motorcycle scramble ran on it in December 1957;[^es571201] in May 1959 Joe Tucci of Quantico brought a new Chrysler-powered dragster to its "5th-mile drag strip" to take on the Alexandria Accelerators' Ford-powered record holder;[^es590513] a new eighth-mile strip opened in June 1960 alongside the old fifth-mile one, and that September the strip got new asphalt.[^es600605][^es600918] In 1963 the "fifth-of-a-mile straightaway" ran only stock and sportsman classes, as listed by the National Hot Rod Association.[^es630301]
+The strip came first in Virginia. In May 1954 Al Gore, director of Old Dominion Speedway at Manassas, announced he would "introduce hot rod competition Sunday at 1 p.m. on his new half-mile drag strip,"[^es540507] and by summer the [D.C. Dragons](dc-dragons-jo-ann-johnson.md) were running meets there. In March 1956 Gore said the strip would be lengthened to a mile, which "will allow for a quarter mile dragging rather than the present one-fifth mile."[^es560322]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Old Dominion's strip stayed busy: a motorcycle scramble ran on it in December 1957;[^es571201] in May 1959 Joe Tucci of Quantico brought a new Chrysler-powered dragster to its "5th-mile drag strip" to take on the Alexandria Accelerators' Ford-powered record holder;[^es590513] a new eighth-mile strip opened in June 1960 alongside the old fifth-mile one, and that September the strip got new asphalt.[^es600605][^es600918] In 1963 the "fifth-of-a-mile straightaway" ran only stock and sportsman classes, as listed by the National Hot Rod Association.[^es630301] How long that first strip was is still open.
 
 ## The argument (1956)
 
@@ -128,7 +130,9 @@ In April 1963 Aquasco added 1,500 feet, widened the strip to 60 feet and paved t
 
 ## No (1963)
 
-That same spring the county said no to a strip of its own. In March more than 50 residents of Cheltenham and Brandywine opposed Thomas J. La Roque's plan for a drag strip on 30 acres about half a mile south of Route 301, near the Boys Village; a state police sergeant, R. E. Stallings, testified that drag racing would encourage young drivers to break traffic laws, and the county commissioners voted unanimously to deny it.[^es630319] La Roque refiled for a $250,000 raceway and grandstand. After a four-hour hearing in May, Commissioner Jesse S. Baggett told him, "What you're doing is bringing in another typical nuisance that the people in that area won't derive any benefit from," and the board said no again.[^es630522] A week later Judge William B. Bowie refused to order a permit, agreeing with the county attorney, Robert B. Mathias, that "the county's right to issue a permit implies the right to deny it."[^es630529]
+That same spring the county said no to a strip of its own. In March more than 50 residents of Cheltenham and Brandywine opposed Thomas J. La Roque's plan for a drag strip on 30 acres about half a mile south of Route 301, near the Boys Village; a state police sergeant, R. E. Stallings, testified that drag racing would encourage young drivers to break traffic laws, and the county commissioners voted unanimously to deny it.[^es630319] La Roque refiled for a $250,000 raceway and grandstand. After a four-hour hearing in May, Commissioner Jesse S. Baggett told him, "What you're doing is bringing in another typical nuisance that the people in that area won't derive any benefit from," and the board said no again.[^es630522] A week later Judge William B. Bowie refused to order a permit, agreeing with the county attorney, Robert B. Mathias, that "the county's right to issue a permit implies the right to deny it."[^es630529] Whether Mayor Jesse Baggett of 1953 and Commissioner Jesse S. Baggett of 1963 are one man is still open.
+
+The teenagers had asked in 1953. The editorial had called a strip foolishness, and a father of three boys had written back. The racing was at Manassas and Aquasco. The county said no.
 
 ## Open questions & disputed details
 

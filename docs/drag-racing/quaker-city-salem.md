@@ -1,6 +1,6 @@
 ---
 title: 'Headlights on a Pole: Quaker City Drag Strip, Salem, Ohio (1957–77)'
-summary: Dick Mossey laid out Quaker City Drag Strip on farmland north of Salem, Ohio, with a silo for a timing tower and headlights on a pole for night racing (1957–77).
+summary: Dick Mossey laid out Quaker City Drag Strip on farmland north of Salem, Ohio, with a silo for a timing tower and headlights on a pole, and in 1958 a pilot landed on the 3,000-foot strip.
 department: drag-racing
 eras:
 - 1950s
@@ -53,6 +53,8 @@ canonical_for: []
 ---
 # Headlights on a Pole: Quaker City Drag Strip, Salem, Ohio (1957–77)
 
+*A silo for a timing tower, ten headlights on a pole, a pilot on the strip in 1958, and the strip is still running*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*The Salem News*, Salem, Ohio): local items, sports notes, club and bowling notices and ads, 1958–77, read as scanned page OCR; *Yesteryears*, the *Salem News*'s weekly local-history journal (Mar. 2, 1992), interviewing Dick and Vivian Mossey; a 2016 *Salem News* story; the track's own "About" page · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** opening year 1957 (owners, track, a 1964 "eighth straight year") vs a 1977 "20th year" that points to 1958 ⚠; the claim that E.T. bracket racing began here rests on the owners' memories ◐; who "Mrs. Nell Mossey," owner of the barn, was ◐; Norm Fox's purchase, 2010 or 2011 ⚠ · [How we rate this](../reference/source-standards.md)
 
@@ -61,7 +63,7 @@ canonical_for: []
 
     — Vivian Mossey, remembering 1957, in *Yesteryears* (*The Salem News*), Mar. 2, 1992.[^yest]
 
-Salem calls itself the Quaker City, after the Friends who founded it. In the late 1950s a young man named Dick Mossey came home from the service, got tired of hauling his car to Akron every weekend, and laid out a drag strip on farmland three miles north of town. A silo became the timing tower. Ten car headlights wired to a pole lit the night races. And in 1958 a pilot from Michigan landed his airplane on it.
+Salem calls itself the Quaker City, after the Friends who founded it. In the late 1950s a young man named Dick Mossey came home from the service, got tired of hauling his car to Akron every weekend, and laid out a drag strip on farmland three miles north of town. A silo became the timing tower. Ten car headlights wired to a pole lit the night races. In 1958 a pilot from Michigan landed his airplane on it. The strip is still running.
 
 <figure markdown>
 ![Large-letter postcard reading Greetings from Salem, Ohio, The Quaker City](../assets/images/commons-salem-ohio-quaker-city-postcard.jpg){ loading=lazy }
@@ -70,11 +72,11 @@ Salem calls itself the Quaker City, after the Friends who founded it. In the lat
 
 ## Tired of driving to Akron
 
-Dick Mossey first saw organized drag racing while stationed on the West Coast; he told *Yesteryears* he went to races "right around Pomona." Back home in Salem he "hopped up his rig and drove it to the Rubber Bowl in Akron to drag race," and after he had his fill of that drive he opened his own strip. "It just looked like such a good deal," he said.[^yest] A 2016 *Salem News* story puts it the same way: he "got tired of making the drive to Akron to race," and he and Vivian opened the track in 1957.[^sn2016] The Akron strip he was driving to was the runway at Fulton Airport, now marked by a state historical marker (see [Akron Fulton Airport](akron-fulton-airport.md)).[^sn2016]
+Dick Mossey first saw organized drag racing while stationed on the West Coast. He told *Yesteryears* he went to races "right around Pomona." Back home in Salem he "hopped up his rig and drove it to the Rubber Bowl in Akron to drag race," and after he had his fill of that drive he opened his own strip. "It just looked like such a good deal," he said.[^yest] A 2016 *Salem News* story puts it the same way: he "got tired of making the drive to Akron to race," and he and Vivian opened the track in 1957.[^sn2016] The Akron strip he was driving to was the runway at Fulton Airport, now marked by a state historical marker (see [Akron Fulton Airport](akron-fulton-airport.md)).[^sn2016]
 
 A drag strip was already on the county's agenda that spring. On May 24, 1957, *The Salem News* reported a youth-facilities meeting in Lisbon, the Columbiana County seat, called by Mayor Wilbur Warren as a follow-up to a county-wide meeting on May 9. "After discussion on a proposed racing drag strip, it was decided that the cost might be out of proportion to the benefits that a few would derive from it." Not everyone agreed: the "no answer on the drag strip was criticized by some present who thought it should be talked over with the boys and girls first, to see if the drag strip would be practical."[^sn570524]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> The public answer was no. The private one came from a farm on Route 165.
 
-The first season was homemade in every sense. The Mosseys formed the **Quaker City Timing Association** "for the business end." The **Oilers Car Club** of Alliance ran the races. The first sanctioning body was NASCAR, not NHRA. Racers in their late teens and early twenties paid $2 to race all day. There was no prize money: "If you ran and won class, you got a trophy," and Mossey remembered about 100 cars coming out, "mostly backyard racing types." Two flagmen lined the cars up, "whether they were lined up perfect or not, who knows."[^yest]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The first season was homemade in every sense. The Mosseys formed the Quaker City Timing Association "for the business end." The Oilers Car Club of Alliance ran the races. The first sanctioning body was NASCAR, not NHRA. Racers in their late teens and early twenties paid $2 to race all day. There was no prize money: "If you ran and won class, you got a trophy," and Mossey remembered about 100 cars coming out, "mostly backyard racing types." Two flagmen lined the cars up, "whether they were lined up perfect or not, who knows."[^yest]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The plane, the barn and the trophies (1958)
 
@@ -99,6 +101,8 @@ In the mid-1960s, the 2016 story says, Quaker City "hosted top names across the 
 By the 1970s the strip ran on bracket money. On July 3, 1977, more than 2,000 people watched over 400 racers from seven states and Canada race "for $10,000 in prizes" at the Bracket Bonanza. Two weeks later Don "The Snake" Prudhomme, the track record holder, beat a four-car funny car field, with Bob Pickett's Mickey Thompson–backed Marines car, Denny Savage's Chi-Town Hustler and Canton's Stan Bowman, at 213 mph after a 90-minute thunderstorm delay.[^sn770705][^sn770718] That September about 30 Quaker City regulars drove to Beech Bend in Kentucky for the NHRA Division III meet; the paper called the strip "a hot bed of NHRA Division III activity."[^sn770928]
 
 Quaker City is still running. Norm Fox bought it (in 2011 per the track,[^qcmp] 2010 per *Drag Illustrated*[^di])<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> and rebuilt it as Quaker City Motorsports Park.[^qcmp] It is the rare small-town strip in this wiki that outlived its founders, perhaps because it never depended on borrowed runway. Compare the airfield strips at [Malden](semo-malden-drag-strip.md) and [Cotati](marin-cotati-strips.md), and the Ohio circuit in [Ohio Gassers](../places/ohio-gassers.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+
+The timing tower was a silo. Ten headlights were wired to a pole. A Tri-Pacer landed on the strip in 1958. The strip is still running.
 
 *See also:* [Hog Butcher on Weekdays, Fun Capital on Sundays](beardstown-drag-strip.md); and, across the river, [Open on Sunday](kanawha-valley-drag-strip-winfield.md), West Virginia's first strip, which says it drew Ohio racers on Sundays.
 

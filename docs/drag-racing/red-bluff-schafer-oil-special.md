@@ -1,6 +1,6 @@
 ---
 title: '"A Little Town Near the Oregon Border": the Schafer Oil Special and the Redding Airport Drags (Red Bluff and Redding, Calif., 1968–71)'
-summary: In 1969 a father-and-son junior fuel dragster from Red Bluff, Calif., qualified fourth of 60 at Bakersfield and finished "right behind" the winner in the final. At home it raced on a Redding airport runway that the Shasta Roadsters ran as a strip.
+summary: In 1969 a father-and-son junior fuel dragster from Red Bluff qualified fourth of 60 at Bakersfield. At home it raced on a Redding airport runway the club ran as a strip.
 department: drag-racing
 eras:
 - 1960s
@@ -53,6 +53,8 @@ canonical_for: []
 ---
 # "A Little Town Near the Oregon Border": the Schafer Oil Special and the Redding Airport Drags (Red Bluff and Redding, Calif., 1968–71)
 
+*In 1969 a Red Bluff father and son qualified fourth of 60 at Bakersfield, from a little town near the Oregon border, and raced at home on a Redding airport runway*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-city daily (*Red Bluff Daily News*, Red Bluff, Calif.): sports-page photos, meet previews and results, and the sports editor's first-person column, 1968–71, read as scanned page OCR · **Last verified:** 2026-10-22 (Round 22-West) · **Open issues:** the Bakersfield results are the local paper's own account and have not been checked against a national result list ◐; whether Red Bluff ever got its own strip ? · [How we rate this](../reference/source-standards.md)
 
@@ -61,11 +63,11 @@ canonical_for: []
 
     — The Bakersfield announcer before the junior fuel final, as heard by *Daily News* sports editor Bob Kennedy, March 5, 1969.[^rb690305]
 
-Red Bluff is the seat of Tehama County, in the upper Sacramento Valley south of Redding. In the late 1960s its small daily had a local drag racing team to follow, a father and son with an oil company name on the car. It also had a sports editor who followed them to Bakersfield to watch them race the biggest names in the sport.
+In the late 1960s the small daily in Red Bluff had a local drag racing team to follow, a father and son with an oil company name on the car. In 1969 their junior fuel dragster went to Bakersfield, qualified fourth of 60, and finished behind the winner. The announcer had been calling Red Bluff "a little town near the Oregon border." At home the car raced on a Redding airport runway. Red Bluff had no strip of its own.
 
 ## The Shasta Roadsters' runway (1968)
 
-The team's home strip was a runway. In August 1968 the *Daily News* ran a photo of Jack Schafer making a final check of the fuel system and carburetors on the **Schafer Oil Company Special** before "the annual Labor Day Drag Races Sunday and Monday at the Redding Municipal Airport," sponsored by the **Shasta Roadsters**. The driver, Garvin Tonkin of Red Bluff, said he hoped to reach about 190 mph. More than 40 dragsters were coming "from all over the state," along with stock cars in various classes, and the Northern California Drag Racers Association was holding a points meet the same Monday.[^rb680831] Afterward the paper reported that "Jack and Bob Schafer didn't win much money at Redding, which is unusual for these boys."[^rb680903]
+The team's home strip was a runway. In August 1968 the *Daily News* ran a photo of Jack Schafer making a final check of the fuel system and carburetors on the Schafer Oil Company Special before "the annual Labor Day Drag Races Sunday and Monday at the Redding Municipal Airport," sponsored by the Shasta Roadsters. The driver, Garvin Tonkin of Red Bluff, said he hoped to reach about 190 mph. More than 40 dragsters were coming "from all over the state," along with stock cars in various classes, and the Northern California Drag Racers Association was holding a points meet the same Monday.[^rb680831] Afterward the paper reported that "Jack and Bob Schafer didn't win much money at Redding, which is unusual for these boys."[^rb680903]
 
 ## Bakersfield (1969)
 
@@ -82,6 +84,8 @@ Two weeks later the Shasta Roadsters opened their 1969 season at the Redding Mun
 The strip was still a shared runway. A May 1970 feature on a sailplane contest at the airport described campers lined up along "the far runway that is used occasionally as a drag strip by the Redding Roadsters."[^rb700525] Red Bluff had no strip of its own. In December 1971 the Red Bluff Jaycees announced that Tehama County Sheriff Lyle Williams would talk to them about "the possibilities of constructing a drag strip and round track in Red Bluff."[^rb711230]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 Northern California clubs also hunted for strips at [Modesto](modesto-century-toppers.md) and in [Marin and Cotati](marin-cotati-strips.md), and on the Central Coast the Jaycees ran [Santa Maria's airport strip](santa-maria-golden-state-raceway.md). Redding had a runway the club could borrow, and Red Bluff had a local team that took its runway car to Bakersfield.
+
+The announcer called Red Bluff "a little town near the Oregon border." The car finished behind the old pros. The home strip was still the Redding airport runway, and Red Bluff had no strip of its own.
 
 ## Open questions & disputed details
 

@@ -1,6 +1,6 @@
 ---
 title: 'The Ridge Runners of Stroudsburg: A Club Court, a Work Detail and a Strip They Offered to Buy (1957–64)'
-summary: In the Pocono Mountains, the Ridge Runners of Stroudsburg tried their own members for traffic violations, sentenced them to work details and offered to buy land for a strip (1957–64).
+summary: In the Pocono Mountains, the Ridge Runners of Stroudsburg tried their own members for traffic violations, sentenced them to a work detail, and offered to buy land for a strip. In 1964 they were still asking, with a fine of twenty-five cents per word.
 department: drag-racing
 eras:
 - 1950s
@@ -50,6 +50,8 @@ canonical_for: []
 ---
 # The Ridge Runners of Stroudsburg: A Club Court, a Work Detail and a Strip They Offered to Buy (1957–64)
 
+*A Pocono club that tried its own members, sentenced them to a work detail, and offered to buy a strip*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*The Daily Record*, Stroudsburg, Pa.): club meeting notes, a member's report, the club's own letter to the editor with the paper's editorial reply (May 24, 1958), and a member's wife's letter quoting the club's constitution and bylaws (June 5, 1964), all read as scanned page OCR · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** no club officers named in the items we read; where the half-fine rule came from ◐; whether the club ever got its strip is not found; the Allegheny County judge's first name and the National Safety Council figures in the letter are garbled in the scan, so we leave them out · [How we rate this](../reference/source-standards.md)
 
@@ -58,7 +60,7 @@ canonical_for: []
 
     — **The Ridge Runners Hot Rod Club**, letter to the editor, *The Daily Record*, Stroudsburg, Pa., May 24, 1958.[^dr580524]
 
-In the Pocono Mountains of eastern Pennsylvania, a hot rod club put two of its own members on trial for traffic violations and sentenced them to manual labor. Then it told a judge on the other side of the state how to do his job.
+In the Pocono Mountains of eastern Pennsylvania, the Ridge Runners of Stroudsburg tried two of their own members for traffic violations, and they were sentenced to a work detail. Then the club told a judge on the other side of the state it was willing to buy land for a strip. From 1957 to 1964, they were still asking.
 
 ## A meeting behind 39 Broad Street
 
@@ -73,9 +75,9 @@ By late November, member **Bernard Lawler** was writing up the meetings for the 
 
 ## Club court
 
-On Dec. 11, 1957, the paper reported that two new members brought the club to 25. Then came the line that makes this club stand out: "A court was held for two members who disobeyed traffic laws during the past week and they were sentenced to a work detail."[^dr571211]
+On Dec. 11, 1957, the paper reported that two new members brought the club to 25. "A court was held for two members who disobeyed traffic laws during the past week and they were sentenced to a work detail."[^dr571211]
 
-The same report said the club had been "accepted as a charter member of the National Hot Rod Assn., with headquarters in Los Angeles," with a renewal running to January 1959. The renewal came after the parent body investigated "the Monroe County club's safety record," and the club would also receive its "1958 Safety High Point Award Plaque."[^dr571211]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+The same report said the club had been "accepted as a charter member of the National Hot Rod Assn., with headquarters in Los Angeles," with a renewal running to January 1959. The renewal came after the parent body investigated "the Monroe County club's safety record," and the club would also receive its "1958 Safety High Point Award Plaque."[^dr571211]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The club notice says so. We have not found the award in any NHRA source.
 
 A week later the club planned a **safety clinic** for Feb. 11 and 16 to check members' brakes, wiring, lights, front ends, tires, appearance and exhaust systems, with a session on Pennsylvania traffic laws. "Parents are particularly invited."[^dr571218]
 
@@ -105,9 +107,9 @@ Six years after the letter to the judge, the club was still in business and stil
 
 Her letter is the only place we have found the club's own rulebook quoted, and she quoted it generously (the scan is rough; we correct obvious OCR slips).[^dr640605] Under Article III, the club was "for all young men with a driving permit or license, or whose interests are of a mechanical or administrative nature." Article II gave its purpose: "to promote safe and sound driving practices on the streets and highways—to acquaint the general public with the joys of motoring as a sport, not merely as a means of transportation,— to help unveil to the public the true meaning of the 'Hot Rod'."
 
-The penalties were specific. "Any member swearing in council meeting shall be fined twenty-five cents per word . . . to be paid on the spot." A member who got a traffic violation paid the club "up to one-half of the fine imposed by the local police department." A member caught drag racing on the highway, "whether by police or members of this organization," was fined $5 for a first offense and $25 for a second, and expelled "for a period of sixty days minimum."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+The penalties were specific. "Any member swearing in council meeting shall be fined twenty-five cents per word . . . to be paid on the spot." A member who got a traffic violation paid the club "up to one-half of the fine imposed by the local police department." A member caught drag racing on the highway, "whether by police or members of this organization," was fined $5 for a first offense and $25 for a second, and expelled "for a period of sixty days minimum." Where that half-fine rule came from is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-The letter's real purpose was a strip, and it is told on [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): she proposed that the Mount Pocono Airport Authority let the club race on its runway and keep the proceeds.
+The letter's real purpose was a strip. She proposed that the Mount Pocono Airport Authority let the club race on its runway and keep the proceeds, and that part is told on [Where Could a Pocono Hot Rodder Race?](pocono-strips.md). They had tried their own members. They had offered to buy the land. In 1964 they were still asking.
 
 *See also:* [Where Could a Pocono Hot Rodder Race?](pocono-strips.md), a Georgia club with the same name in [Who Builds the Strip?](georgia-clubs-hy-winders-ridge-runners.md), [The Sedalia Drag-Ons](sedalia-drag-ons.md), [Kingston's Igniters](kingston-igniters.md), [Belleville's Gear Jammers](belleville-gear-jammers.md) and the strip debates in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>; [Tear Gas on the Runways](pennsauken-central-airport-1958.md); [Petitions, Jackets and a No-Ticket Rule](hanover-adams-county-clubs.md).
 

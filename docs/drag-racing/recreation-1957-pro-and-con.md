@@ -1,6 +1,6 @@
 ---
 title: '"Would You Rather Have a Picnic?" The Recreation Directors'' Drag Strip Debate (June 1957)'
-summary: In June 1957 the recreation directors' trade magazine asked whether towns should sponsor drag racing, and printed a case for and a case against.
+summary: In June 1957 the recreation directors' magazine asked whether towns should sponsor drag racing, printed a case for and a case against, and never picked a winner.
 department: drag-racing
 eras:
 - 1950s
@@ -42,6 +42,8 @@ canonical_for: []
 ---
 # "Would You Rather Have a Picnic?" The Recreation Directors' Drag Strip Debate (June 1957)
 
+*In June 1957 the recreation magazine printed a case for drag strips and a case against, and never picked a winner*
+
 !!! abstract "Article record"
     **Confidence:** Medium (strong for what the magazine printed) · **Source types:** professional journal of the recreation field (*Recreation*, National Recreation Association, June 1957; clean scan on the Internet Archive), which quotes a club charter, a local recreation director, newspapers and safety bodies at second hand; an alumni-magazine death notice (*MIT Technology Review*, 1978); an IRS list of tax-exempt organizations (1985), seen as a search snippet · **Last verified:** 2026-10-16 (Round 14) · **Open issues:** every newspaper, *Life* and National Safety Council quote here is as *Recreation* reprinted it; we have not read the originals ◐; the Wilmington club's later history is thin ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -50,7 +52,7 @@ canonical_for: []
 
     — **George Sargisson**, executive director of Recreation and Promotion Service, Inc., Wilmington, Delaware, as quoted in *Recreation*, June 1957.[^rec]
 
-In June 1957 the people who ran America's playgrounds, pools and parks opened their trade magazine to a two-page spread whose display type, as far as the scan shows it, begins "Would you rather have a picnic." The subhead set the terms: "Showing two sides of a current, controversial activity. Shall we sponsor high-speed competition?"[^rec]
+In June 1957 the people who ran America's playgrounds, pools and parks opened their trade magazine to a two-page spread. The display type, as far as the scan shows it, begins "Would you rather have a picnic." The subhead set the terms: "Showing two sides of a current, controversial activity. Shall we sponsor high-speed competition?"[^rec] The magazine printed a case for drag strips and a case against. It never picked a winner.
 
 ## Pro: take it off the road
 
@@ -60,7 +62,7 @@ Then came the roll call of towns where local groups, often the recreation depart
 
 ## Wilmington's club for everybody
 
-The pro side's star example was **Wilmington, Delaware**. There, the magazine said, the local recreation agency, Recreation and Promotion Service, Inc., first appointed a hot-rod committee, and the committee eventually organized **Wilmington Automotive Activities** "for all local automobile fans." The group had a borrowed clubhouse, and "membership is open to the week-end pleasure driver as well as to the lad with the stripped down Model A." Members signed a code. The certificate of incorporation, quoted at length, pledged to teach "the principles of safety, courtesy and observance of law in the driving, operation and maintenance of motor vehicles of all kinds." Activities ran from talks by industry people and racing drivers to car shows, skill-driving contests, "use of drag strip and racing."[^rec]
+The pro side's star example was Wilmington, Delaware. There, the magazine said, the local recreation agency, Recreation and Promotion Service, Inc., first appointed a hot-rod committee, and the committee eventually organized Wilmington Automotive Activities "for all local automobile fans." The group had a borrowed clubhouse, and "membership is open to the week-end pleasure driver as well as to the lad with the stripped down Model A." Members signed a code. The certificate of incorporation, quoted at length, pledged to teach "the principles of safety, courtesy and observance of law in the driving, operation and maintenance of motor vehicles of all kinds." Activities ran from talks by industry people and racing drivers to car shows, skill-driving contests, "use of drag strip and racing."[^rec]
 
 The writer allowed one moment of plain enthusiasm: "The hot rods themselves are, in many instances, wondrous to behold."[^rec]
 
@@ -72,11 +74,13 @@ The facing page was headed "Some folks think that racing automobiles at top spee
 
 The council's survey, the magazine reported, drew nearly 400 replies from traffic officials and others, with information on about 2,000 clubs in nearly 200 cities. Sixty-seven per cent favored hot rod clubs "except where they involve competitive speed contests," and the replies warned against safety projects that were only a way to win public support for a strip. The International Association of Chiefs of Police, meeting in Chicago the previous September, had called on police "to refrain from participating in the establishment and/or operation of drag strips or other similar activity for speed contests."[^rec] (This is the same turn we traced in [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md).)
 
-The con side had its own model club: Minneapolis's **Rod Buddies**, who, per *The Optimist Magazine*, were trying to prove that a hot rodder is not always a "squirrel." Seven of their cars went on a "safe driving safari" to Remer, Minnesota, radioing reports of other motorists' violations back to a Minneapolis station.[^rec]
+The con side had its own model club: Minneapolis's Rod Buddies, who, per *The Optimist Magazine*, were trying to prove that a hot rodder is not always a "squirrel." Seven of their cars went on a "safe driving safari" to Remer, Minnesota, radioing reports of other motorists' violations back to a Minneapolis station.[^rec]
 
 And it gave the last word to an editorial from a Reading, Pennsylvania, newspaper: "we shall offer no objection to 'drag strips'—if those who want to use them also pay for them," because "driving 'souped-up' automobiles at top speed can scarcely be called public recreation."[^rec]
 
 The magazine never picked a winner. Even the con side made room for the 1955 planners' report (see [What the City Planners Wrote](planners-report-1955.md)), quoting its line that clashes of opinion "can be lessened" if races are held under proper supervision at a safe site. What it does show is who was arguing in mid-1957: not just police and newspapers, but the recreation departments that might have been asked to run the strips.
+
+A case for, and a case against. Wilmington's club was open to the week-end driver and the lad with the Model A. The magazine never picked a winner.
 
 ## Open questions & disputed details
 
