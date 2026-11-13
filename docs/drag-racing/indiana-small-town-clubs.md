@@ -94,6 +94,8 @@ The same winter, Greencastle readers learned how a big-city club kept its member
 
 The local items, the Decatur notices and the Syracuse profile, are short, unsigned and plain. They give names, places and times, but not results. The syndicated items, the UP filler and the Dodge column, show what ideas reached small towns, but they do not describe local clubs. The Hoosier State Chronicles OCR is imperfect, so quotes here are trimmed to phrases that read cleanly. Which "national Hot Rod club" Decatur joined, the notice does not name. After the February 1957 car wash we found no item about the club. In the local notices a hot rod club is a safety notice, with the blessing of the police.
 
+*See also:* [Bunker Hill Dragstrip](bunker-hill-dragstrip-indiana.md), the Miami County strip that opened in 1956, while these clubs were still safety clubs in the papers.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

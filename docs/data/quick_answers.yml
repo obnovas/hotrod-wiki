@@ -902,6 +902,48 @@ themes:
         link: drag-racing/greybull-cheyenne-wyoming-strips.md
         also: [drag-racing/casper-bar-nunn-wyoming-strips.md]
         flag: drag-racing/greybull-cheyenne-wyoming-strips.md#q-2
+      - id: minnesota-dragways-gsta
+        q: How did the Twin Cities get a drag strip?
+        a: >-
+          The clubs earned it. In 1954 a police captain brought twenty-five clubs together as the Gopher State Timing
+          Association, which ran reliability runs and polled its own traffic tickets until the Minneapolis
+          Optimists built Minnesota Dragways near Coon Rapids, opened June 28, 1959 (⚠ an earlier site was announced, see Open questions). It closed in 1976.
+        link: drag-racing/minnesota-dragways-coon-rapids-gsta.md
+        also: [places/lake-street-university.md]
+        flag: drag-racing/minnesota-dragways-coon-rapids-gsta.md#q-1
+      - id: bunker-hill-dragstrip
+        q: What was Indiana's first drag strip?
+        a: >-
+          Jim Hullinger's Bunker Hill Dragstrip, opened August 25, 1956. He lit it with car headlights, and in
+          1964 he built roller starters for it that he sold to other tracks as the Safe-Start. It still runs (⚠ the year he sold it, see Open questions).
+        link: drag-racing/bunker-hill-dragstrip-indiana.md
+        also: [drag-racing/indiana-small-town-clubs.md]
+        flag: drag-racing/bunker-hill-dragstrip-indiana.md#q-1
+      - id: m-n-raceway-wichita
+        q: Where is Wichita's drag strip, and who owns it?
+        a: >-
+          On the Simon family's farm near Maize, northwest of Wichita, where neighbors asked to race in 1963 (⚠ or 1964, see Open questions). It has had four names,
+          now Kansas International Dragway, and the founders' grandchildren reopened it themselves in 2024.
+        link: drag-racing/m-n-raceway-wichita-simon-farm.md
+        also: [drag-racing/great-bend-srca.md]
+        flag: drag-racing/m-n-raceway-wichita-simon-farm.md#q-1
+      - id: des-moines-dragway
+        q: What was Des Moines Dragway?
+        a: >-
+          A farmer's strip in what is now Urbandale, built by Ernest Day at his son's urging (◐ see Open questions). It raced from July 13, 1957, to 1967,
+          and houses covered the last of it in 2003.
+        link: drag-racing/des-moines-dragway-ernest-day.md
+        also: [drag-racing/ames-drag-strip-nightcrawlers.md]
+        flag: drag-racing/des-moines-dragway-ernest-day.md#q-1
+      - id: lakeland-dragway
+        q: Why was Memphis's drag strip at an amusement park?
+        a: >-
+          Lakeland Dragway was built by Louis Garner's Lakeland Development Corporation as one attraction of
+          its park on a man-made lake east of Memphis (⚠ 1960 or 1961, see Open questions). Five local racers took the lease in 1963, and the strip
+          outlived the park, closing in 1979.
+        link: drag-racing/lakeland-dragway-amusement-park.md
+        also: [places/memphis.md]
+        flag: drag-racing/lakeland-dragway-amusement-park.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -940,7 +982,7 @@ themes:
         q: Why does Memphis come up so often?
         a: >-
           Memphis built a scene of its own. Its racers ran at an abandoned WWII air base at Halls, Tennessee,
-          about 70 miles away (⚠ see Open questions), Lakeland Dragway opened on July 4, 1960, and the Memphis
+          about 70 miles away (⚠ see Open questions), Lakeland Dragway opened in 1960 by local accounts (⚠ or 1961, see Open questions), and the Memphis
           Rodders date from 1947. The city also gave the parts business Joe Lunati and Racing Head Service, and
           hosted the 2nd Street Rod Nationals in 1971.
         link: places/memphis.md

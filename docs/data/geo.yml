@@ -32,6 +32,7 @@ places:
   'Anderson, South Carolina': {lat: 34.5215, lon: -82.6435, precision: town, source: 'Census Gazetteer 2024: Anderson city'}
   'Angleton, Texas': {lat: 29.1718, lon: -95.4293, precision: town, source: 'Census Gazetteer 2024: Angleton city'}
   'Annapolis, Maryland': {lat: 38.9722, lon: -76.5053, precision: town, source: 'Census Gazetteer 2024: Annapolis city'}
+  'Anoka, Minnesota': {lat: 45.2144, lon: -93.3916, precision: town, source: 'Census Gazetteer 2024: Anoka city'}
   'Appleton, Wisconsin': {lat: 44.2789, lon: -88.3883, precision: town, source: 'Census Gazetteer 2024: Appleton city'}
   'Aquasco, Maryland': {lat: 38.5915, lon: -76.6971, precision: town, source: 'Census Gazetteer 2024: Aquasco CDP'}
   'Ardmore, Oklahoma': {lat: 34.1965, lon: -97.1318, precision: town, source: 'Census Gazetteer 2024: Ardmore city'}
@@ -71,6 +72,7 @@ places:
   'Bethesda, Maryland': {lat: 38.9873, lon: -77.1186, precision: town, source: 'Census Gazetteer 2024: Bethesda CDP'}
   'Beverly Hills, California': {lat: 34.0792, lon: -118.4024, precision: town, source: 'Census Gazetteer 2024: Beverly Hills city'}
   'Beverly, Massachusetts': {lat: 42.5567, lon: -70.845, precision: town, source: 'Census Gazetteer 2024: Beverly city'}
+  'Big Lake, Minnesota': {lat: 45.3424, lon: -93.743, precision: town, source: 'Census Gazetteer 2024: Big Lake city'}
   'Big Pine Key, Florida': {lat: 24.6851, lon: -81.3625, precision: town, source: 'Census Gazetteer 2024: Big Pine Key CDP'}
   'Billings, Montana': {lat: 45.7885, lon: -108.5525, precision: town, source: 'Census Gazetteer 2024: Billings city'}
   'Biloxi, Mississippi': {lat: 30.4267, lon: -88.9358, precision: town, source: 'Census Gazetteer 2024: Biloxi city'}
@@ -98,6 +100,7 @@ places:
   'Buckeye, Arizona': {lat: 33.4316, lon: -112.6416, precision: town, source: 'Census Gazetteer 2024: Buckeye city'}
   'Buffalo, New York': {lat: 42.8925, lon: -78.8597, precision: town, source: 'Census Gazetteer 2024: Buffalo city'}
   'Bullitt County, Kentucky': {lat: 37.9699, lon: -85.7026, precision: county, source: 'Census Gazetteer 2024: Bullitt County'}
+  'Bunker Hill, Indiana': {lat: 40.6601, lon: -86.1014, precision: town, source: 'Census Gazetteer 2024: Bunker Hill town'}
   'Burbank, California': {lat: 34.1901, lon: -118.3264, precision: town, source: 'Census Gazetteer 2024: Burbank city'}
   'Burlington, North Carolina': {lat: 36.0761, lon: -79.4683, precision: town, source: 'Census Gazetteer 2024: Burlington city'}
   'Burlington, Vermont': {lat: 44.4919, lon: -73.2389, precision: town, source: 'Census Gazetteer 2024: Burlington city'}
@@ -142,6 +145,7 @@ places:
   'Colchester, Connecticut': {lat: 41.5776, lon: -72.3327, precision: town, source: 'Census Gazetteer 2024: Colchester CDP'}
   'Colorado City, Colorado': {lat: 37.9394, lon: -104.8431, precision: town, source: 'Census Gazetteer 2024: Colorado City CDP'}
   'Colorado Springs, Colorado': {lat: 38.8673, lon: -104.7607, precision: town, source: 'Census Gazetteer 2024: Colorado Springs city'}
+  'Columbia Heights, Minnesota': {lat: 45.0491, lon: -93.2467, precision: town, source: 'Census Gazetteer 2024: Columbia Heights city'}
   'Columbia, Missouri': {lat: 38.9473, lon: -92.3264, precision: town, source: 'Census Gazetteer 2024: Columbia city'}
   'Columbia, South Carolina': {lat: 34.0405, lon: -80.9061, precision: town, source: 'Census Gazetteer 2024: Columbia city'}
   'Columbus, Mississippi': {lat: 33.5082, lon: -88.4071, precision: town, source: 'Census Gazetteer 2024: Columbus city'}
@@ -151,7 +155,9 @@ places:
   'Comstock, Wisconsin': {lat: 45.4777, lon: -92.0752, precision: town, source: 'USGS GNIS: Comstock (Populated Place, Barron County, GNIS 1563304)'}
   'Concord, North Carolina': {lat: 35.3921, lon: -80.6355, precision: town, source: 'Census Gazetteer 2024: Concord city'}
   'Conrad, Montana': {lat: 48.1741, lon: -111.9466, precision: town, source: 'Census Gazetteer 2024: Conrad city'}
+  'Converse, Indiana': {lat: 40.5789, lon: -85.8754, precision: town, source: 'Census Gazetteer 2024: Converse town'}
   'Converse, Texas': {lat: 29.5125, lon: -98.3046, precision: town, source: 'Census Gazetteer 2024: Converse city'}
+  'Coon Rapids, Minnesota': {lat: 45.1764, lon: -93.3115, precision: town, source: 'Census Gazetteer 2024: Coon Rapids city'}
   'Cordova, Illinois': {lat: 41.677, lon: -90.3207, precision: town, source: 'Census Gazetteer 2024: Cordova village'}
   'Corpus Christi, Texas': {lat: 27.7543, lon: -97.1734, precision: town, source: 'Census Gazetteer 2024: Corpus Christi city'}
   'Corvallis, Oregon': {lat: 44.5699, lon: -123.2783, precision: town, source: 'Census Gazetteer 2024: Corvallis city'}
@@ -163,6 +169,7 @@ places:
   'Cumberland, Maryland': {lat: 39.6513, lon: -78.758, precision: town, source: 'Census Gazetteer 2024: Cumberland city'}
   'Cumming, Georgia': {lat: 34.2061, lon: -84.1338, precision: town, source: 'Census Gazetteer 2024: Cumming city'}
   'Cuyahoga Falls, Ohio': {lat: 41.1829, lon: -81.553, precision: town, source: 'Census Gazetteer 2024: Cuyahoga Falls city'}
+  'Dallas Center, Iowa': {lat: 41.6855, lon: -93.9807, precision: town, source: 'Census Gazetteer 2024: Dallas Center city'}
   'Dallas, Texas': {lat: 32.7933, lon: -96.7665, precision: town, source: 'Census Gazetteer 2024: Dallas city'}
   'Dauphin Island, Alabama': {lat: 30.2509, lon: -88.1713, precision: town, source: 'Census Gazetteer 2024: Dauphin Island town'}
   'Davenport, Iowa': {lat: 41.5568, lon: -90.6039, precision: town, source: 'Census Gazetteer 2024: Davenport city'}
@@ -192,8 +199,10 @@ places:
   'East Los Angeles, California': {lat: 34.0315, lon: -118.1686, precision: town, source: 'Census Gazetteer 2024: East Los Angeles CDP'}
   'East Stroudsburg, Pennsylvania': {lat: 41.0049, lon: -75.1715, precision: town, source: 'Census Gazetteer 2024: East Stroudsburg borough'}
   'Eau Claire, Wisconsin': {lat: 44.8183, lon: -91.4948, precision: town, source: 'Census Gazetteer 2024: Eau Claire city'}
+  'Eddyville, Iowa': {lat: 41.1593, lon: -92.6303, precision: town, source: 'Census Gazetteer 2024: Eddyville city'}
   'Elgin, South Carolina': {lat: 34.1702, lon: -80.7931, precision: town, source: 'Census Gazetteer 2024: Elgin town'}
   'Elizabeth City, North Carolina': {lat: 36.2942, lon: -76.2382, precision: town, source: 'Census Gazetteer 2024: Elizabeth City city'}
+  'Elk River, Minnesota': {lat: 45.3322, lon: -93.5665, precision: town, source: 'Census Gazetteer 2024: Elk River city'}
   'Enid, Oklahoma': {lat: 36.4067, lon: -97.8699, precision: town, source: 'Census Gazetteer 2024: Enid city'}
   'Epping, New Hampshire': {lat: 43.0349, lon: -71.0984, precision: town, source: 'Census Gazetteer 2024: Epping CDP'}
   'Erie, Colorado': {lat: 40.0403, lon: -105.0383, precision: town, source: 'Census Gazetteer 2024: Erie town'}
@@ -203,6 +212,7 @@ places:
   'Fairbanks, Alaska': {lat: 64.8365, lon: -147.6517, precision: town, source: 'Census Gazetteer 2024: Fairbanks city'}
   'Fairburn, Georgia': {lat: 33.5478, lon: -84.5873, precision: town, source: 'Census Gazetteer 2024: Fairburn city'}
   'Fairmont, West Virginia': {lat: 39.4769, lon: -80.1491, precision: town, source: 'Census Gazetteer 2024: Fairmont city'}
+  'Faribault, Minnesota': {lat: 44.2997, lon: -93.2789, precision: town, source: 'Census Gazetteer 2024: Faribault city'}
   'Farmington, Michigan': {lat: 42.4614, lon: -83.3784, precision: town, source: 'Census Gazetteer 2024: Farmington city'}
   'Farmington, North Carolina': {lat: 36.0085, lon: -80.5357, precision: town, source: 'Census Gazetteer 2024: Farmington CDP'}
   'Ferndale, Michigan': {lat: 42.4592, lon: -83.1314, precision: town, source: 'Census Gazetteer 2024: Ferndale city'}
@@ -313,6 +323,7 @@ places:
   'Kingsford, Michigan': {lat: 45.8064, lon: -88.1004, precision: town, source: 'Census Gazetteer 2024: Kingsford city'}
   'Kingston, New York': {lat: 41.9301, lon: -73.9968, precision: town, source: 'Census Gazetteer 2024: Kingston city'}
   'Kodiak, Alaska': {lat: 57.7912, lon: -152.4197, precision: town, source: 'Census Gazetteer 2024: Kodiak city'}
+  'Kokomo, Indiana': {lat: 40.464, lon: -86.1273, precision: town, source: 'Census Gazetteer 2024: Kokomo city'}
   'Laconia, New Hampshire': {lat: 43.5765, lon: -71.4823, precision: town, source: 'Census Gazetteer 2024: Laconia city'}
   'Lafayette, Louisiana': {lat: 30.2056, lon: -92.0281, precision: town, source: 'Census Gazetteer 2024: Lafayette city'}
   'Lake Butler, Florida': {lat: 30.0177, lon: -82.3434, precision: town, source: 'Census Gazetteer 2024: Lake Butler city'}
@@ -321,6 +332,7 @@ places:
   'Lake Elsinore, California': {lat: 33.686, lon: -117.3354, precision: town, source: 'Census Gazetteer 2024: Lake Elsinore city'}
   'Lake Geneva, Wisconsin': {lat: 42.5833, lon: -88.4285, precision: town, source: 'Census Gazetteer 2024: Lake Geneva city'}
   'Lake Oswego, Oregon': {lat: 45.4136, lon: -122.7, precision: town, source: 'Census Gazetteer 2024: Lake Oswego city'}
+  'Lakeland, Tennessee': {lat: 35.2628, lon: -89.725, precision: town, source: 'Census Gazetteer 2024: Lakeland city'}
   'Lakewood, Colorado': {lat: 39.6989, lon: -105.1176, precision: town, source: 'Census Gazetteer 2024: Lakewood city'}
   'Lakewood, Ohio': {lat: 41.4833, lon: -81.8011, precision: town, source: 'Census Gazetteer 2024: Lakewood city'}
   'Lamoine, Maine': {lat: 44.492, lon: -68.3201, precision: town, source: 'Census Gazetteer 2024: Lamoine town'}
@@ -331,6 +343,7 @@ places:
   'Las Vegas, Nevada': {lat: 36.2335, lon: -115.264, precision: town, source: 'Census Gazetteer 2024: Las Vegas city'}
   'Lawrenceville, Illinois': {lat: 38.7263, lon: -87.6873, precision: town, source: 'Census Gazetteer 2024: Lawrenceville city'}
   'Lewistown, Montana': {lat: 47.0514, lon: -109.4524, precision: town, source: 'Census Gazetteer 2024: Lewistown city'}
+  'Lexington, Minnesota': {lat: 45.1382, lon: -93.1714, precision: town, source: 'Census Gazetteer 2024: Lexington city'}
   'Lincoln, Nebraska': {lat: 40.8103, lon: -96.6749, precision: town, source: 'Census Gazetteer 2024: Lincoln city'}
   'Linden, New Jersey': {lat: 40.6273, lon: -74.2363, precision: town, source: 'Census Gazetteer 2024: Linden city'}
   'Little Rock, Arkansas': {lat: 34.7254, lon: -92.3586, precision: town, source: 'Census Gazetteer 2024: Little Rock city'}
@@ -344,6 +357,7 @@ places:
   'Lynwood, California': {lat: 33.924, lon: -118.2017, precision: town, source: 'Census Gazetteer 2024: Lynwood city'}
   'Madras, Oregon': {lat: 44.6639, lon: -121.1604, precision: town, source: 'Census Gazetteer 2024: Madras city'}
   'Magnolia, New Jersey': {lat: 39.8562, lon: -75.0364, precision: town, source: 'Census Gazetteer 2024: Magnolia borough'}
+  'Maize, Kansas': {lat: 37.7749, lon: -97.4591, precision: town, source: 'Census Gazetteer 2024: Maize city'}
   'Malden, Missouri': {lat: 36.601, lon: -89.9975, precision: town, source: 'Census Gazetteer 2024: Malden city'}
   'Manassas, Virginia': {lat: 38.7468, lon: -77.4826, precision: town, source: 'Census Gazetteer 2024: Manassas city'}
   'Manchester, New Hampshire': {lat: 42.9849, lon: -71.4441, precision: town, source: 'Census Gazetteer 2024: Manchester city'}
@@ -558,6 +572,7 @@ places:
   'Temple, Texas': {lat: 31.1049, lon: -97.3885, precision: town, source: 'Census Gazetteer 2024: Temple city'}
   'Thompson, Ohio': {lat: 41.6757, lon: -81.0586, precision: town, source: 'Census Gazetteer 2024: Thompson township (Geauga County)'}
   'Tillamook, Oregon': {lat: 45.4561, lon: -123.8331, precision: town, source: 'Census Gazetteer 2024: Tillamook city'}
+  'Tipton, Indiana': {lat: 40.2825, lon: -86.0432, precision: town, source: 'Census Gazetteer 2024: Tipton city'}
   'Toledo, Ohio': {lat: 41.6641, lon: -83.5819, precision: town, source: 'Census Gazetteer 2024: Toledo city'}
   'Torrance, California': {lat: 33.8305, lon: -118.3566, precision: town, source: 'Census Gazetteer 2024: Torrance city'}
   'Trinidad, Colorado': {lat: 37.1732, lon: -104.4903, precision: town, source: 'Census Gazetteer 2024: Trinidad city'}
@@ -567,6 +582,8 @@ places:
   'Tuskegee, Alabama': {lat: 32.4187, lon: -85.6825, precision: town, source: 'Census Gazetteer 2024: Tuskegee city'}
   'Twin Falls, Idaho': {lat: 42.5638, lon: -114.4606, precision: town, source: 'Census Gazetteer 2024: Twin Falls city'}
   'Union Grove, Wisconsin': {lat: 42.6864, lon: -88.0495, precision: town, source: 'Census Gazetteer 2024: Union Grove village'}
+  'Urbandale, Iowa': {lat: 41.6367, lon: -93.7799, precision: town, source: 'Census Gazetteer 2024: Urbandale city'}
+  'Valley Center, Kansas': {lat: 37.833, lon: -97.3677, precision: town, source: 'Census Gazetteer 2024: Valley Center city'}
   'Valley, Alabama': {lat: 32.8014, lon: -85.2044, precision: town, source: 'Census Gazetteer 2024: Valley city'}
   'Van Nuys, California': {lat: 34.1867, lon: -118.449, precision: town, source: 'USGS GNIS: Van Nuys (Populated Place, Los Angeles County, GNIS 250945)'}
   'Vancouver, Washington': {lat: 45.6372, lon: -122.5966, precision: town, source: 'Census Gazetteer 2024: Vancouver city'}
@@ -591,6 +608,7 @@ places:
   'White City, Oregon': {lat: 42.4317, lon: -122.8322, precision: town, source: 'Census Gazetteer 2024: White City CDP'}
   'Whitehall, Ohio': {lat: 39.969, lon: -82.8839, precision: town, source: 'Census Gazetteer 2024: Whitehall city'}
   'Whittier, California': {lat: 33.9668, lon: -118.0201, precision: town, source: 'Census Gazetteer 2024: Whittier city'}
+  'Wichita, Kansas': {lat: 37.6906, lon: -97.3458, precision: town, source: 'Census Gazetteer 2024: Wichita city'}
   'Williston, Florida': {lat: 29.3939, lon: -82.4423, precision: town, source: 'Census Gazetteer 2024: Williston city'}
   'Wilmington, Delaware': {lat: 39.7357, lon: -75.5321, precision: town, source: 'Census Gazetteer 2024: Wilmington city'}
   'Wilmington, Massachusetts': {lat: 42.5646, lon: -71.1645, precision: town, source: 'Census Gazetteer 2024: Wilmington CDP'}
@@ -646,7 +664,8 @@ strips:
   Bonneville Salt Flats: {place: 'Bonneville Salt Flats, Utah'}
   Bremerton Raceway: {place: 'Bremerton, Washington'}
   Brooksville Drag Strip: {place: 'Brooksville, Florida'}
-  "Bud's Race Track (Nettleton)": {place: 'Nettleton, Mississippi'}
+  Bud's Race Track (Nettleton): {place: 'Nettleton, Mississippi'}
+  Bunker Hill Dragstrip: {place: 'Bunker Hill, Indiana'}
   Burns Flat Drags: {place: 'Burns Flat, Oklahoma'}
   Byram Dragway: {place: 'Byram, Mississippi'}
   Callaghan Drag Strip: {place: 'Covington, Virginia'}
@@ -676,6 +695,7 @@ strips:
   Dauphin Island Dragway: {place: 'Dauphin Island, Alabama'}
   Davis-Monthan Air Force Base drag strip: {place: 'Tucson, Arizona'}
   Deer Park drag strip: {place: 'Deer Park, Washington'}
+  Des Moines Dragway: {place: 'Urbandale, Iowa'}
   Detroit Dragway: {place: 'Brownstown Township, Michigan'}
   Donaldson Air Force Base drag strip: {place: 'Greenville, South Carolina'}
   Double Eagle Drag Strip: {place: 'San Antonio, Texas'}
@@ -684,6 +704,7 @@ strips:
   Dragway 42: {place: 'West Salem, Ohio'}
   Duncan Dragway: {place: 'Duncan, Oklahoma'}
   Easy Street Dragstrip: {place: 'Newton Grove, North Carolina'}
+  Eddyville Raceway Park: {place: 'Eddyville, Iowa'}
   Eldora Raceway (Fairmont): {place: 'Fairmont, West Virginia'}
   Esler Field: {place: 'Pineville, Louisiana'}
   Eubank Boulevard drags: {place: 'Albuquerque, New Mexico'}
@@ -737,12 +758,14 @@ strips:
   Kansas City International Raceway: {place: 'Kansas City, Missouri'}
   Kansas City strip (KCTA): {place: 'Kansas City, Missouri'}
   Kansas City Timing Association strip: {place: 'Kansas City, Missouri'}
+  Kansas International Dragway: {place: 'Maize, Kansas'}
   Kearney Dragway: {place: 'Kearney, Nebraska'}
   KK Sports Arena: {place: 'Kaukauna, Wisconsin'}
   Lake Charles Dragway: {place: 'Lake Charles, Louisiana'}
   Lake City (Fla.) Drag Safari strip: {place: 'Lake City, Florida'}
   Lake Geneva Speed Center: {place: 'Lake Geneva, Wisconsin'}
   Lake Murray Drive strip: {place: 'Ardmore, Oklahoma'}
+  Lakeland Dragway: {place: 'Lakeland, Tennessee'}
   Lakeview Drag Strip: {place: 'Bassett, Virginia'}
   LaPlace Dragway: {place: 'LaPlace, Louisiana'}
   Las Vegas Motor Speedway: {place: 'Las Vegas, Nevada'}
@@ -751,16 +774,19 @@ strips:
   Linden Airport drag strip: {place: 'Linden, New Jersey'}
   Lions Drag Strip: {place: 'Long Beach, California'}
   Lowry Air Force Base drags: {place: 'Denver, Colorado'}
+  M-N Raceway: {place: 'Maize, Kansas'}
   Madras Airport Drag Strip: {place: 'Madras, Oregon'}
   Magic City International Dragway: {place: 'Minot, North Dakota'}
   Mahlon Sweet Airport drag strip: {place: 'Eugene, Oregon'}
   Marana Army Air Field drags: {place: 'Marana, Arizona'}
+  McConnell AFB runway: {place: 'Wichita, Kansas'}
   McMinnville Airport drag strip: {place: 'McMinnville, Oregon'}
   Menaul Truck Bypass drags: {place: 'Albuquerque, New Mexico'}
   Midway Drag Strip: {place: 'Grand Junction, Colorado'}
   Mile High Raceway: {place: 'Erie, Colorado'}
   Miller's Ferry Drag Strip: {place: 'Camden, Alabama'}
   Milton Speedway: {place: 'Milton, Vermont'}
+  Minnesota Dragways: {place: 'Coon Rapids, Minnesota'}
   Minot International Airport (1964 car-versus-Cessna race): {place: 'Minot, North Dakota'}
   Mobile Dragway: {place: 'Mobile, Alabama'}
   Motor City Dragway: {place: 'New Baltimore, Michigan'}
@@ -882,7 +908,6 @@ not_mapped:
   Frederiksted, U.S. Virgin Islands: a U.S. territory outside the Story Map's frame of the fifty states and D.C.; not pinned
   Fulton International Airport, Ohio: an airport in Akron; the story is pinned at Akron, Ohio, which it also names
   Grenada Dragways: a racer's memory names it, but no source we read gives its site or years (see the Mississippi article's Open questions), so it has no pin yet
-  Lakeland Dragway: the articles that name it do not give its town, so it has no pin yet
   Lincoln Speedway: in Berwick Township, Adams County, Pa., which is not one of the story's cities
   Little River Drag Strip: the articles that name it do not give its town, so it has no pin yet
   National Trail Raceway: the articles that name it do not give its town, so it has no pin yet

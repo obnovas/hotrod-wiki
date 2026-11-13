@@ -877,3 +877,36 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [hof] "Bill Canty" (2019) and "Alan Bockla" (2008), Colorado Motorsports Hall of Fame. https://coloradomotorsportshalloffame.com/bill-canty/ and https://coloradomotorsportshalloffame.com/alan-bockla/
 - [museum] "Aurora's Short Track: The Century 21 International Speedway," City of Aurora (Aurora History Museum exhibition notice), June 17, 2025. https://www.auroragov.org/news/whats_new/aurora_s_short_track_exhibit
 - [hof] "Thomas Carlyle 'Tom' Gilmore," Greater Pueblo Sports Association Hall of Fame. https://www.pueblogshof.com/index.php/thomas-carlyle-tom-gilmore
+
+## Round 40 additions (Minnesota Dragways and the GSTA, Bunker Hill Dragstrip, the Simons' M-N Raceway, Des Moines Dragway, Lakeland Dragway)
+- [local] Gopher State Timing Association, "GSTA History" (club site; quotes "The GSTA Story," printed in the original *Timer*, 1957). https://www.gstarod-custom.com/gsta-history
+- [local] Tom Erickson, *Gopher State Timing Association* history booklet (with a reprint of "Wife Finds Racing Isn't a Drag," *The Minneapolis Star*, May 21, 1967), transcribed on doczz.net. https://doczz.net/doc/306386/tom-erickson---gopher-state-timing-association
+- [local] John Evans (Anoka County Historical Society), "Anoka County History: Remembering Minnesota Dragways," *ABC Newspapers*, August 20, 2013. https://www.hometownsource.com/abc_newspapers/news/local/anoka-county-history-remembering-minnesota-dragways/article_c872146f-2149-5042-ac53-50d70c5c265a.html
+- [ref] "Minnesota Dragways [MN]," *Speedway and Road Race History*. https://www.speedwayandroadracehistory.com/minnesota-dragways-mn.html
+- [forum] "Question about the old Minnesota Dragways," *Nitromater*, July 31–August 11, 2011. https://nitromater.com/threads/question-about-the-old-minnesota-dragways.28603/
+- [mag] Brian Lohnes, "Vintage Video: An Awesome Look At The Long Gone Minnesota Dragways," *BangShift*, August 14, 2019. https://bangshift.com/bangshift1320/the-long-gone-minnesota-dragways/
+- [obit] "James E. Hullinger," *Kokomo Tribune*, January 26, 2012. https://obituaries.kokomotribune.com/obituary/james-hullinger-717208051
+- [local] "Bunker Hill Dragstrip to celebrate 65 years," *Kokomo Tribune*, August 24, 2021 (opening paragraphs only). https://www.kokomotribune.com/news/bunker-hill-dragstrip-to-celebrate-65-years/article_fa4022d6-042a-11ec-b7c7-6bf14fec65be.html
+- [local] "Historic Dragstrip on The Market," *Inside Indiana Business*, August 18, 2015. https://www.insideindianabusiness.com/articles/historic-dragstrip-on-the-market
+- [mag] Phil Burgess, "Roll players: A look back at the era when cars were fired up with roller starters," NHRA, May 30, 2020. https://www.nhra.com/news/2020/roll-players-look-back-era-when-cars-were-fired-roller-starters
+- [local] "Brett Engel" racer feature (2022) and "About," *Bunker Hill Dragstrip*. https://www.bunkerhilldragstrip.com/press/2022/article/121033 · https://www.bunkerhilldragstrip.com/about/
+- [mag] "Racing Pioneers to be honored at Bunker Hill Hot Rod Reunion," *Drag Race Central*, 2003 (search excerpt only; the page was blocked). https://www.dragracecentral.com/drcstory.asp?ID=20703
+- [local] Carrie Rengers, "Was that an earthquake in Maize? No, just a popular attraction returning from hiatus," *The Wichita Eagle*, April 1, 2024. https://www.kansas.com/news/business/biz-columns-blogs/carrie-rengers/article287167320.html
+- [obit] "Helen Marie Simon" (1921–2022), Baker Funeral Home, Valley Center, Kan. https://www.bakerfhvc.com/obituaries/helen-simon
+- [local] "About Us," Kansas International Dragway. https://www.ksinternationaldragway.com/blank
+- [local] Bob Lawrence, "Former and Current Auto Racing Venues in Sedgwick County, Kansas," *Kansas Racing History*. https://kansasracinghistory.com/sedgwickracetracks.htm
+- [local] Bill Arick, "Valley Center was home to a hot rod club," *Ark Valley News*, May 16, 2024. http://www.arkvalleynews.com/web/isite.dll?1715875867628=
+- [local] Mike Berry, "Drag racing reunion brings competitors back together again" (September 21, 2013) and "Wheels: Gearing up for another Old Drag Racers Reunion" (September 22, 2016), *The Wichita Eagle*. https://www.kansas.com/cars/article1123767.html · https://www.kansas.com/cars/article103424432.html
+- [mag] "Kansas International Dragway Reenergizes 60-Year Legacy," *Drag Illustrated*, January 22, 2024. https://dragillustrated.com/kansas-international-dragway-reenergizes-60-year-legacy/
+- [mag] Tyler West, "A Legacy of Straight-Line Speed in the Sunflower State," *RacingJunk News*, February 3, 2026. https://www.racingjunk.com/news/a-legacy-of-straight-line-speed-in-the-sunflower-state/
+- [local] Larry Lathom, *Des Moines Dragway* (local historian's site: history, home page, 50th anniversary and TV coverage pages). http://www.desmoinesdragway.com/
+- [mag] Andrew Wolf, "Flashback Friday: Iowa's Des Moines Dragway," *Dragzine*, July 15, 2011. https://www.dragzine.com/news/flashback-friday-iowas-des-moines-dragway/
+- [mag] Pat Lounsbury, "Welcome Drag Racers," *The Iowan*, February–March 1959 (Internet Archive OCR). https://archive.org/details/sim_iowan_february-march-1959_7_3
+- [forum] "Des Moines dragway," the H.A.M.B., 2007–08. https://www.jalopyjournal.com/forum/threads/des-moines-dragway.199074/
+- [local] "History of Lakeland Amusement Park," *Lakeland Lake* (dated timeline of the Lakeland Development Corporation's records). https://lakelandlake.com/lakeland-amusement-park/history-of-lakeland-amusement-park/
+- [local] "Lakeland," *Rural Heritage Trust* (Shelby County heritage site). https://www.ruralheritagetrust.com/lakeland.htm
+- [local] Michael Waddell, "Sundays! Sundays! Sundays! were for drag racing at Lakeland International speedway," *Daily Memphian*, August 17, 2025 (free excerpt only). https://dailymemphian.com/article/52861/lakeland-international-raceway-drag-racing-the-lake-district
+- [forum] Asphalt Outlaw Hero, "Farewell Lakeland Drag Strip," the H.A.M.B., March 22, 2008. https://www.jalopyjournal.com/forum/threads/farewell-lakeland-drag-strip.252094/
+- [local] Vance, "When life was simpler.....," *The Moonpie Chronicles*, February 2, 2010. http://moonpiechronicles.blogspot.com/2010/02/when-life-was-simpler.html
+- [mag] Thomas A. DeMauro, "Behind The Camera: Two-Lane Blacktop," *High Performance Pontiac*, June 1, 2008. https://www.hotrod.com/news/hppp-0806-behind-the-camera-two-lane-blacktop
+- [ref] "32 Locations," *Looking for Two-Lane Blacktop* (film-location study). https://lookingfortwolaneblacktop.wordpress.com/32-locations/

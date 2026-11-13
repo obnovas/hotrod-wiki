@@ -87,7 +87,7 @@ The strip outlasted the nationals. The Tribune calls it a "National Hot Rod Asso
 <figcaption markdown>USGS orthophoto of Great Bend Municipal Airport (the former Army airfield), 2006. We have not identified the drag strip in this image. Creator: United States Geological Survey (USGS). Date: 2006. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Great_Bend_Municipal_Airport_KS_2006_USGS.jpg). License: Public domain.</figcaption>
 </figure>
 
-*See also:* [A Watermelon Farmer's Dragster](oklahoma-city-nationals-rush-springs.md), on Melvin Heath of Rush Springs, Okla., who had a disappointing 1955 Nationals here and won the next year, and on the 1957–58 Nationals at the Oklahoma City fairgrounds. Tucson's Greth and Fisher Speed Sport roadster, which the Cacklefest site says took top honors at an AHRA Nationals here, is in [the Tucson story](tucson-davis-monthan-speed-sport.md).
+*See also:* [A Watermelon Farmer's Dragster](oklahoma-city-nationals-rush-springs.md), on Melvin Heath of Rush Springs, Okla., who had a disappointing 1955 Nationals here and won the next year, and on the 1957–58 Nationals at the Oklahoma City fairgrounds. Tucson's Greth and Fisher Speed Sport roadster, which the Cacklefest site says took top honors at an AHRA Nationals here, is in [the Tucson story](tucson-davis-monthan-speed-sport.md). Wichita's own strip, on a farm near Maize from 1963, is in [M-N Raceway](m-n-raceway-wichita-simon-farm.md).
 
 ## Open questions & disputed details
 

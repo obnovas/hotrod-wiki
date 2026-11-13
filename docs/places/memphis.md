@@ -48,6 +48,7 @@ related:
 - people/joe-lunati.md
 - street-rodding/nsra-early-nationals.md
 - companies/comp-cams-rhs.md
+- drag-racing/lakeland-dragway-amusement-park.md
 canonical_for: []
 ---
 # Memphis and the Mid-South
@@ -55,7 +56,7 @@ canonical_for: []
 *An old bomber base at Halls, a Bo-Weevil at Lakeland, Rodders from 1947, and no Sun Records story*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town newspaper race results (1962), club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15); Bootheel section added 2026-10-21 (Round 19); Kingfish, Lunati and Rodders additions 2026-10-22 (Round 20) · **Open issues:** Halls start year ⚠; September 1955 meet result ◐; Two-Lane Blacktop at Lakeland ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town newspaper race results (1962), club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15); Bootheel section added 2026-10-21 (Round 19); Kingfish, Lunati and Rodders additions 2026-10-22 (Round 20); Two-Lane Blacktop resolved and Lakeland's opening year flagged 2026-11-13 (Round 40) · **Open issues:** Halls start year ⚠; September 1955 meet result ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I became interested in drag racing in 1953 just as it was starting to come on. … I got in touch with Wally at Hot Rod to offer my help."
@@ -70,9 +71,9 @@ The biggest day there was the September 1955 NHRA Drag Safari meet: 84 cars, 471
 
 ## Ray Godman and Lakeland Dragway (1960–79)
 
-By 1960 Memphis had a strip of its own. Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in Lakeland Dragway, which opened July 4, 1960. Its first starter was Buster Couch, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
+By 1960 Memphis had a strip of its own. Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in Lakeland Dragway, which opened July 4, 1960.<sup class="hr-q" id="qr-10"><a href="#q-10" title="Sources disagree: see Open questions">⚠</a></sup> Its first starter was Buster Couch, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
 
-Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It was a location in *Two-Lane Blacktop* (1971): the film's long drag strip scene was shot at Lakeland International Raceway, and a 2008 account of the filming puts a technical advisor's cameo, with a Mopar, at the start of that scene.[^tl][^hpp08][^l2lb] The strip belonged to an amusement park on a man-made lake, and its full story is in [A Drag Strip by the Skyride](../drag-racing/lakeland-dragway-amusement-park.md).
 
 Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first Hot Rod Fastest Street Car Shootout in 1992.[^hr92][^hr12]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -108,7 +109,7 @@ The bomber base had the meets, the Bo-Weevil ran at Lakeland, and the Rodders da
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Who won the September 1955 meet?** Only SEMA News, citing *Hot Rod* (Dec 1955), gives the result: Bob James of the Dallas Custom Racing Team over the Godman & Dyer A/MR Model T.[^sema] An earlier draft said other summaries gave Godman & Dyer Top Eliminator. Neither the Memphis Tech High page (read in its 2024 Wayback copy) nor the BangShift obituary says so, so we have dropped that. The Tech High page has Godman and Dyer winning their *class* at the 1955 Great Bend Nationals, a different event.[^mth][^bs] We still want the *Hot Rod* report itself. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Was Lakeland in *Two-Lane Blacktop*?** We have this from secondary sources only.[^dm][^tl] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-10" class="hr-q-anchor"></a>**Disputed.** **Did Lakeland open in 1960 or 1961?** The local histories give July 4, 1960, but the developer's own timeline has the strip announced in February 1961 and built after that. The full dispute is on the [Lakeland Dragway](../drag-racing/lakeland-dragway-amusement-park.md#open-questions-disputed-details) page. <a class="hr-q-back" href="#qr-10" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **The first Shootout, at Memphis in 1992?** Only *Hot Rod*, which ran the event, reports it: its December 1992 story and its 2012 anniversary piece put the first Fastest Street Car Shootout at Memphis on Sept. 19–20, 1992.[^hr92][^hr12] We have no independent account. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
@@ -146,6 +147,8 @@ The bomber base had the meets, the Bo-Weevil ran at Lakeland, and the Rodders da
 [^sema]: SEMA News, "Drag Racing, Memphis Style" (June 2024; citing Hot Rod, Dec 1955). https://www.sema.org/news-media/magazine/2024/06/drag-racing-memphis-style (accessed 2026-10-13)
 [^dm]: Daily Memphian, "Sundays were for racing at Lakeland International." https://dailymemphian.com/article/52861/lakeland-international-raceway-drag-racing-the-lake-district (accessed 2026-10-13)
 [^tl]: Memphis Rodders, "Two-Lane Memories." http://memphisrodders.com/files/dc0cc7ae4bcfcaca80f74cf5a4b24ce3-12.html (accessed 2026-10-13)
+[^hpp08]: Thomas A. DeMauro, "Behind The Camera: Two-Lane Blacktop," *High Performance Pontiac*, June 1, 2008 (web reprint at hotrod.com). https://www.hotrod.com/news/hppp-0806-behind-the-camera-two-lane-blacktop (accessed 2026-11-13)
+[^l2lb]: "32 Locations," *Looking for Two-Lane Blacktop* (film-location study), entry 28. https://lookingfortwolaneblacktop.wordpress.com/32-locations/ (accessed 2026-11-13)
 [^bs]: BangShift, "Raymond Godman Has Died." https://bangshift.com/bangshift1320/pioneering-drag-racing-legend-raymond-godman-died-war-hero-helped-set-foundation-mid-south-drag-racing/ (accessed 2026-10-13)
 [^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html (accessed 2026-10-13)
 [^r12ma]: M. Robert Wolfson (Maremont Automotive Products, Inc.), "The World Series Comes Early" and "For 1955 Hot Rodders," Chilton's *Motor Age*, June 1955 (scanned OCR; sponsor-written). https://archive.org/details/sim_motor-age_1955-06_74_7 (accessed 2026-10-15)

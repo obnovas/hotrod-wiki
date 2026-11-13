@@ -112,7 +112,7 @@ Lambert had stood up for the club, and the note in the parking ticket said thank
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Whose land was it?** *The Iowan* calls the site D. Armstrong's property but also says it was "owned by Bud Overland"; the museum says the land belonged to Armstrong and to Bud and Gunner Overland.[^iowan][^ahs] A county plat or deed for 1957–59 would settle it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Was Ames Iowa's first quarter-mile strip?** The museum says so;[^ahs] Lambert himself told *The Iowan* about a permanent strip at Des Moines.[^iowan] We have not dated the Des Moines strip from a primary source. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Was Ames Iowa's first quarter-mile strip?** The museum says so;[^ahs] Lambert himself told *The Iowan* about a permanent strip at Des Moines.[^iowan] The Des Moines strip's own history site now dates its first day of racing to July 13, 1957, but that is a local historian's site, not a primary source, and the Ames strip's 1957 opening day is not in our sources, so the order is still open ([Des Moines Dragway](des-moines-dragway-ernest-day.md)). <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 <a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Why did it close?** Only the Ames History Museum says Bud Overland lost interest after his best friend and his brother died in car accidents, and that the strip closed after the summer of 1959.[^ahs] Lead: the *Ames Tribune* for 1959–60. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 

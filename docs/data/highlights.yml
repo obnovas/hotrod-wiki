@@ -1768,3 +1768,48 @@ highlights:
     added: '2026-11-12'
     eras: [1970s]
     regions: ['Denver, Colo.']
+
+  - id: minnesota-powder-puff-due-date
+    headline: At Minnesota Dragways in 1967, a racer won her powder puff trophy two weeks before her baby
+      was due
+    teaser: Charles Johnson's wife, 22, raced in the Sunday powder puff derby at Coon Rapids while her husband
+      spent the day at the strip. Her doctor knew, she told The Minneapolis Star, and didn't say anything
+      against it.
+    link: drag-racing/minnesota-dragways-coon-rapids-gsta.md#the-fastest-piece-of-real-estate-in-minnesota
+    evidence: [as long as I could fit behind the steering wheel, two weeks before her baby was due]
+    source_type: [Local news, Club newsletter]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-13'
+    eras: [1960s]
+    regions: ['Coon Rapids, Minn.']
+
+  - id: wichita-corn-through-the-track
+    headline: Wichita's drag strip went on a sandy farm field, and corn sometimes came up through the track
+    teaser: In 1963 neighbors asked the Simons about racing on their land near Maize, Kansas. The family
+      has kept the strip more than sixty years, and runs it again.
+    link: drag-racing/m-n-raceway-wichita-simon-farm.md#neighbors-at-the-door
+    evidence: Still, corn sometimes popped up through the track.
+    source_type: [Local news, Obituary]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-13'
+    eras: [1960s]
+    regions: ['Maize, Kan.']
+
+  - id: bunker-hill-roller-starters
+    headline: Indiana's first drag strip was lit by car headlights, and its owner built roller starters
+      for it
+    teaser: Jim Hullinger of Bunker Hill had no hot-car staging, so in 1964 he built rollers to start the
+      cars in the lanes. He sold them as the Safe-Start, to as many as three dozen tracks.
+    link: drag-racing/bunker-hill-dragstrip-indiana.md#headlights-and-scoreboards
+    evidence: [figured there had to be a better way of getting the cars lit and staged, using car headlights]
+    source_type: [Trade press, Obituary]
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: '2026-11-13'
+    eras: [1960s]
+    regions: ['Bunker Hill, Ind.']

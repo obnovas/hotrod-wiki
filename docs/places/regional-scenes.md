@@ -71,15 +71,17 @@ This page points the way only. Each linked page tells its own story and carries 
 
 **Arkansas and Louisiana.** [Church First, Then the Drags: the Hope Drag Strip](../drag-racing/hope-airport-drag-strip.md) · [For Parents Only: Harmon Raceway (Monroe, La.)](../drag-racing/harmon-raceway-monroe.md).
 
-**Tennessee and the Mid-South.** [Memphis and the Mid-South](memphis.md) · [Summer Avenue, Memphis](summer-avenue-memphis.md) · [Ray Godman and Preston Davis](../voices/ray-godman.md).
+**Tennessee and the Mid-South.** [Memphis and the Mid-South](memphis.md) · [Summer Avenue, Memphis](summer-avenue-memphis.md) · [Ray Godman and Preston Davis](../voices/ray-godman.md) · [A Drag Strip by the Skyride: Lakeland Dragway](../drag-racing/lakeland-dragway-amusement-park.md).
 
 ## Midwest, Southwest and Northwest
 
 **Ohio.** [The Ohio Gassers](ohio-gassers.md) · [Akron's "Champions Raceway"](../drag-racing/akron-fulton-airport.md) · [Quaker City Drag Strip, Salem](../drag-racing/quaker-city-salem.md) · [Who Says Hot Rods Are for Kids? Columbus's Trotters and High Winders](../drag-racing/columbus-trotters-high-winders.md) · [Windshields on a Sunday: Chardon's Road Ravens and Thompson Drag Strip](../drag-racing/chardon-road-ravens-thompson-drag-strip.md).
 
-**Michigan, Indiana and Illinois.** [The Upset at Cordova](../drag-racing/detroit-cordova.md) · [Woodward Avenue](woodward.md) · [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md).
+**Michigan, Indiana and Illinois.** [The Upset at Cordova](../drag-racing/detroit-cordova.md) · [Woodward Avenue](woodward.md) · [Hoosier Road Runners](../drag-racing/indiana-small-town-clubs.md) · [Headlights, Scoreboards and Rollers: Bunker Hill Dragstrip](../drag-racing/bunker-hill-dragstrip-indiana.md).
 
-**Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [The SEMO Drag Strip at Malden, Mo.](../drag-racing/semo-malden-drag-strip.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
+**Wisconsin, Minnesota, Missouri, Kansas and Nebraska.** [A Strip in a Ravine (Kaukauna)](../drag-racing/kk-sports-arena-kaukauna.md) · [Upper Midwest: Streets Before Strips](upper-midwest.md) · [Kansas City, 1955–66](../drag-racing/kansas-city-timing-association.md) · [The SEMO Drag Strip at Malden, Mo.](../drag-racing/semo-malden-drag-strip.md) · [Corn Through the Track: the Simons' M-N Raceway, Wichita](../drag-racing/m-n-raceway-wichita-simon-farm.md) · [Bonds From the Car Show: Minnesota Dragways and the GSTA](../drag-racing/minnesota-dragways-coon-rapids-gsta.md) · [Great Bend, Kansas](../drag-racing/great-bend-srca.md) · ["Go Out to Scribner" (Lincoln, Neb.)](../drag-racing/nebraska-go-out-to-scribner.md).
+
+**Iowa.** [The Professor's Drag Strip (Ames)](../drag-racing/ames-drag-strip-nightcrawlers.md) · [A Farmer's Strip on Grimes Road: Des Moines Dragway](../drag-racing/des-moines-dragway-ernest-day.md).
 
 **The Dakotas.** [Huskies, a Coke Freeze and the Loop: Sioux Falls hot rodders and South Dakota's clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) · [Everywhere but Here: North Dakota's borrowed strips and Minot's fastest man](../drag-racing/north-dakota-minot-borrowed-strips.md).
 
