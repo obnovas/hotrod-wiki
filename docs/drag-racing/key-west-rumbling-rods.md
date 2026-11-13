@@ -1,6 +1,6 @@
 ---
 title: 'Three Tickets in Eighteen Months: The Rumbling Rods and the Keys'' Missing Drag Strip (1958–62)'
-summary: From 1958 to 1962, Florida Keys hot rodders kept asking for a drag strip, and the Key West paper shows none built. An Upper Keys club organized under the NHRA in 1959, Key West's Rumbling Rods kept a near-spotless driving record and raced in Miami, and a Navy-and-civilian club fined members for cursing.
+summary: From 1958 to 1962, Florida Keys hot rodders kept asking for a drag strip, and the Key West paper shows none built. The Rumbling Rods had a turnover of more than 60 drivers and only three tickets, and they raced in Miami.
 department: drag-racing
 era: 1960s
 eras:
@@ -64,7 +64,7 @@ canonical_for: []
 ---
 # Three Tickets in Eighteen Months: The Rumbling Rods and the Keys' Missing Drag Strip (1958–62)
 
-*The southernmost town in the Keys had hot rod clubs, club rules, a stock car track and letters to the editor, and every one of them asked for the same thing*
+*From 1958 to 1962 the Keys clubs kept asking for a drag strip, and the Key West paper shows none built*
 
 !!! abstract "Article record"
     **Confidence:** Medium (one local daily, read as page OCR; club claims are the clubs' own, as the paper printed them) · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily (*The Key West Citizen*): Upper Keys community column, sports pages, county commission reports, police blotter, letters to the editor, 1958–62 · **Last verified:** 2026-10-28 (Round 25; quotes checked against the page OCR) · **Open issues:** the Vagabonds after 1959 ?; whether a Keys strip was ever built ? · [How we rate this](../reference/source-standards.md)
@@ -74,13 +74,13 @@ canonical_for: []
 
     — one official, smiling, as quoted in *The Key West Citizen*, Oct. 1, 1961.[^kw611001]
 
-In October 1958 a new teacher in Marathon, Mary Ellen Peach, was asked what caused juvenile delinquency. "Children rebelling," she said. "They have too much time on hand." Then she added: "as for the hot-rodding, I think it would be nice to have an adult-chaperoned drag strip for those who enjoy working with cars and like to show their work off."[^kw581020]
+From 1958 to 1962 the hot rodders of the Florida Keys kept asking for a drag strip, and the Key West paper shows none built. In October 1958 a new teacher in Marathon, Mary Ellen Peach, was asked what caused juvenile delinquency. "Children rebelling," she said. "They have too much time on hand." Then she added: "as for the hot-rodding, I think it would be nice to have an adult-chaperoned drag strip for those who enjoy working with cars and like to show their work off."[^kw581020]
 
 ## The Upper Keys organize (1959)
 
-The next summer the hot rodders on the upper end of the chain decided to do something about it themselves. "Hot Rodders Unite," the *Citizen*'s Upper Keys columnist, Nikki Bears, wrote in July 1959. Twenty-two boys had decided "to organize under sanction of the National Hot Rodders Association," and they expected the name "Vagabonds" to be theirs once the NHRA approved it. Charles Hotchkiss of Islamorada, who had the idea, was elected president and acting secretary; he had already helped organize two clubs in Connecticut. Their adviser was Cpl. Joe Pinder of the sheriff's department. They asked the Islamorada Fire Department for a weekly meeting room, and Ray Albury, manager of the Texaco station in Islamorada, offered his garage for the mechanical work. A strip had not been chosen, Bears wrote, but sites were being considered "where the group will not cause disturbances and can have fun with safety the prime consideration."[^kw590719]
+The next summer the hot rodders on the upper end of the chain decided to do something about it themselves. "Hot Rodders Unite," the *Citizen*'s Upper Keys columnist, Nikki Bears, wrote in July 1959. Twenty-two boys had decided "to organize under sanction of the National Hot Rodders Association," and they expected the name "Vagabonds" to be theirs once the NHRA approved it. Charles Hotchkiss of Islamorada, who had the idea, was elected president and acting secretary. He had already helped organize two clubs in Connecticut. Their adviser was Cpl. Joe Pinder of the sheriff's department. They asked the Islamorada Fire Department for a weekly meeting room, and Ray Albury, manager of the Texaco station in Islamorada, offered his garage for the mechanical work. A strip had not been chosen, Bears wrote, but sites were being considered "where the group will not cause disturbances and can have fun with safety the prime consideration."[^kw590719]
 
-Three days later the paper's front-page column picked up the story. There had been "many complaints for the past two years about drag racing on U. S. 1" by the Upper Keys hot rodders, it said, and nothing much had been done about it until the drivers organized themselves. "A drag strip is to be supplied for their activities in the near future."[^kw590722]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+Three days later the paper's front-page column picked up the story. There had been "many complaints for the past two years about drag racing on U. S. 1" by the Upper Keys hot rodders, it said, and nothing much had been done about it until the drivers organized themselves. "A drag strip is to be supplied for their activities in the near future."[^kw590722]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> Whether the Upper Keys club got its strip, or its name, the paper we read does not say.
 
 That October a letter writer in Key West, signing only as "One Who Is Interested In Cars and Hot Rods," asked whether the town knew "the difference between a hot rodder in a well engineered car and a young punk in a car with loud pipes." "Where in Key West, or in Monroe County, is there a drag strip and enough interested people to build one and run one?" The writer's answer: "A drag strip is the answer!"[^kw591018]
 
@@ -96,9 +96,11 @@ Somebody asked. In February 1962 a county commissioner reported "a request for u
 
 ## The Island Hoppers (1962)
 
-By the summer of 1962 there was a second club in town, and it was built on an unusual truce. "The Navy and the Key West youth don't always get along with one another," the *Citizen* began, "but in the case of the Island Hoppers, they do." The club of military and civilian boys had about 35 members, met in an old garage behind the old express office on Caroline Street, and charged a $10 initiation fee; nobody needed a car to join. Meetings were weekly. Members who cursed were fined 25 cents, and anyone who spoke out of turn paid 10. "We are willing to accept any safety rules the Key West police ask us to observe," said the safety chairman, Al Albertus. The president was Ernie Blacow of the Navy. They too competed in Miami and hoped for a strip of their own.[^kw620824]
+By the summer of 1962 there was a second club in town, and it was built on an unusual truce. "The Navy and the Key West youth don't always get along with one another," the *Citizen* began, "but in the case of the Island Hoppers, they do." The club of military and civilian boys had about 35 members, met in an old garage behind the old express office on Caroline Street, and charged a $10 initiation fee. Nobody needed a car to join. Meetings were weekly. Members who cursed were fined 25 cents, and anyone who spoke out of turn paid 10. "We are willing to accept any safety rules the Key West police ask us to observe," said the safety chairman, Al Albertus. The president was Ernie Blacow of the Navy. They too competed in Miami and hoped for a strip of their own.[^kw620824]
 
 That October another letter writer asked, "Why can't Key West have a drag strip?" He had gone to see a man with a plot of land "that is ideal for a drag strip," a very prominent citizen. "He just laughed."[^kw621016]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+
+The clubs had their rules, and the Rumbling Rods had been written only three tickets. They raced in Miami, or on the Stock Island oval. Through 1962 the *Citizen* shows them asking, and it does not show a strip.
 
 *See also:* the same years along the Gulf Coast, where [the Pascagoula Timing Association](pascagoula-timing-association.md) swept trophies at Mobile, Pensacola and Biloxi, and at the opposite corner of the map, [Palmer, Alaska's hunt for a strip](palmer-alaska-polar-dragway.md). Farther out in the Caribbean, where there was no strip to hope for, the U.S. Virgin Islands' papers argued over whether the hot rod belonged on island roads at all: see ["No Hot Rods, Please!"](virgin-islands-no-hot-rods.md).
 

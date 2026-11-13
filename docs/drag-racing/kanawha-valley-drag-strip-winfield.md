@@ -62,7 +62,7 @@ canonical_for: []
 ---
 # Open on Sunday: Winfield's Kanawha Valley Drag Strip and West Virginia's Airport Racers (1958–76)
 
-*Plant workers, gas-pipe dragsters, a flagman in the middle of the road and a weekend circuit that ran through Putnam County*
+*The first organized drag strip in WV was open on Sunday, and the Ohio racers came*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the opening year, the "first" claim and the 1976 closing come from a 2019 state marker and the racers who founded the West Virginia Drag Racers Hall of Fame; no 1958 newspaper has been found yet; the Bridgeport airport drags rest on one family photo collection and a museum volunteer's identification) · **Source types:** <span class="hr-badge">Grassroots</span> West Virginia Archives and History marker text (2019), checked against the marker photograph in the Historical Marker Database; the *Putnam Herald* (via the *Herald-Dispatch*, 2017); WCHS-TV (2017); *The Dominion Post*, Morgantown (2022, 2023); a family photo blog built on Ralph Murphy's slides (2024) · **Last verified:** 2026-11-01 (Round 29) · **Open issues:** were Ohio's strips really closed on Sundays ⚠; the Centipedes' airport drags and the "first" strip ◐; the founders' names and the strip's owners ? · [How we rate this](../reference/source-standards.md)
@@ -72,9 +72,9 @@ canonical_for: []
 
     — Gary Jarvis of Winfield, a founder of the West Virginia Drag Racers Hall of Fame, to *The Dominion Post*, 2022.[^dp22]
 
-West Virginia's drag racing has a birthplace, and it is a stretch of road a couple of miles outside Winfield, in Putnam County. The state marker there reads: "Located near here was the original Kanawha Valley Drag Strip, opened in 1958. The first organized drag strip in WV." It "helped legitimize the sport in the area," the marker goes on.[^marker] People called it the Winfield Dragstrip and the Rt. 17 Dragstrip, the *Putnam Herald* noted, but officially it was the Kanawha Valley Dragstrip, on what is now Rt. 817 "a few miles before you enter Winfield."[^hd] From the 1950s into the late 1970s it was, the paper wrote, the place for "gearheads, shade tree mechanics and braggadocios teenagers" to "run what they brung."[^hd]
+West Virginia's drag racing has a birthplace, and it is a stretch of road a couple of miles outside Winfield, in Putnam County. The state marker there reads: "Located near here was the original Kanawha Valley Drag Strip, opened in 1958. The first organized drag strip in WV." It "helped legitimize the sport in the area," the marker goes on.[^marker] It was open on Sunday. Gary Jarvis says that is why the Ohio racers made it part of their weekend circuit, and it closed in 1976. People called it the Winfield Dragstrip and the Rt. 17 Dragstrip, the *Putnam Herald* noted, but officially it was the Kanawha Valley Dragstrip, on what is now Rt. 817 "a few miles before you enter Winfield."[^hd] From the 1950s into the late 1970s it was, the paper wrote, the place for "gearheads, shade tree mechanics and braggadocios teenagers" to "run what they brung."[^hd]
 
-"In 1958, a group got together and built a drag strip in Winfield," is how *The Dominion Post* put it in 2022.[^dp22]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> Gary Jarvis, who grew up racing there, remembers the start: "My brother was there on that first day," he said. "I have a cousin who was there on that first day. And a couple of those flagmen are still around."[^dp23]
+"In 1958, a group got together and built a drag strip in Winfield," is how *The Dominion Post* put it in 2022.[^dp22]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> Who built it, and who owned it, the sources do not say. Gary Jarvis, who grew up racing there, remembers the start: "My brother was there on that first day," he said. "I have a cousin who was there on that first day. And a couple of those flagmen are still around."[^dp23]
 
 ## Plant men and gas pipe
 
@@ -84,7 +84,7 @@ Before the Christmas Tree start lights went in, flagmen started the races, stand
 
 ## The Ohio connection
 
-The marker says the strip "benefited from its proximity to neighboring Ohio, drawing on that state's established fanbase," and that fans at the weekly events "could see up to two hundred drivers competing until the strip's closure in 1976."[^marker] Jarvis tells why the Ohio racers came. "You had 26 dragstrips in Ohio," he said, "but there was one thing. They were all closed on Sundays."[^dp22]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> For men who had to punch a time clock on Monday, Winfield became the Sunday stop.[^dp22]
+The marker says the strip "benefited from its proximity to neighboring Ohio, drawing on that state's established fanbase," and that fans at the weekly events "could see up to two hundred drivers competing until the strip's closure in 1976."[^marker] Jarvis tells why the Ohio racers came. "You had 26 dragstrips in Ohio," he said, "but there was one thing. They were all closed on Sundays."[^dp22]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Whether those Ohio strips were all closed on Sundays, the sources disagree. For men who had to punch a time clock on Monday, Winfield became the Sunday stop.[^dp22]
 
 Other strips followed across the state, among them Eldora Raceway at Fairmont. "I always considered Eldora my home track," said Mike Kelly, a Monongalia County school board member who still races. Eldora was later paved over for an industrial park, and, the *Post* wrote, "All the other tracks in the Mountain State are gone, also."[^dp22]
 
@@ -92,13 +92,15 @@ Other strips followed across the state, among them Eldora Raceway at Fairmont. "
 
 Up in Harrison County, the racing began on an airport. Ralph Murphy of Nutter Fort kept a camera close at hand, and his slides, now digitized by a relative, include the drags. "On Sunday afternoons during the years 1958–1959," the family's blog explains, "a local car club known as the Centipede Car Club (The Centipedes)" raced at the North Central West Virginia Airport, the Benedum Airport, in Bridgeport, "with the airport's runway acting as their track."[^blog]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup>
 
-Murphy's neighbors across West Virginia Avenue were Warren and Peggy Compton. Warren and his brother Gerald "owned the Compton Sheet Metal and Roofing Company," and Warren built a silver slingshot dragster and its trailer himself, "in the Broadway neighborhood at their metal shop." One of the airport photos shows a hot rod convertible once owned by the late Nick Alvaro; "Remarkably, this car still exists and now belongs to his son." A volunteer at the Clarksburg History Museum identified the black hot rod in the pictures and tracked down Warren's son Greg, who still lives in the area. Greg remembered playing with a green toy truck "once sold at the racetrack."[^blog]
+Murphy's neighbors across West Virginia Avenue were Warren and Peggy Compton. Warren and his brother Gerald "owned the Compton Sheet Metal and Roofing Company," and Warren built a silver slingshot dragster and its trailer himself, "in the Broadway neighborhood at their metal shop." One of the airport photos shows a hot rod convertible once owned by the late Nick Alvaro. "Remarkably, this car still exists and now belongs to his son." A volunteer at the Clarksburg History Museum identified the black hot rod in the pictures and tracked down Warren's son Greg, who still lives in the area. Greg remembered playing with a green toy truck "once sold at the racetrack."[^blog]
 
 ## The Hall of Fame in city hall
 
 Jarvis and Winter came up with the West Virginia Drag Racers Hall of Fame, which started in 2013.[^wchs][^hd] In June 2017 the Winfield city council gave it a permanent home in the municipal building, at no cost to the city: "We might have brought a couple hangers to hang pictures on. Other than that, that's it," Mayor Randy Barrett said.[^wchs] "Drag racing started two miles up the road, so why not bring it back to its roots," Winter said.[^wchs] By then more than 80 racers had been inducted, and the Class of 2017, 32 strong, included Charleston Mayor Danny Jones.[^wchs] In 2019 the hall and West Virginia Archives and History put up the marker.[^marker]
 
 (For the Ohio strips that drew from the same crowds, see [Quaker City at Salem](quaker-city-salem.md) and [Thompson Drag Strip](chardon-road-ravens-thompson-drag-strip.md); for the strips in Kentucky, see [Cedar Creek](cedar-creek-bullitt-dragway-kentucky.md).)
+
+The marker calls it the first organized drag strip in WV. It was open on Sunday. Jarvis says that is why the Ohio racers came. It closed in 1976.
 
 ## Open questions & disputed details
 

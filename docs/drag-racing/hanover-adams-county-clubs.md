@@ -1,6 +1,6 @@
 ---
 title: 'Petitions, Jackets and a No-Ticket Rule: Hot Rod Clubs Around Gettysburg and Hanover (1956–59)'
-summary: The Gettysburg paper's small columns show hot rod clubs around Hanover and Gettysburg asking neighbors for permission to meet, touring the Lions clubs and picking jacket colors (1956–59).
+summary: From 1956 to 1959, hot rod clubs around Hanover and Gettysburg petitioned the neighbors, picked jacket colors, and kept a rule that a traffic arrest meant you were out.
 department: drag-racing
 eras:
 - 1950s
@@ -47,6 +47,8 @@ canonical_for: []
 ---
 # Petitions, Jackets and a No-Ticket Rule: Hot Rod Clubs Around Gettysburg and Hanover (1956–59)
 
+*Around Hanover and Gettysburg the clubs were asking the neighbors, picking jacket colors, and kept a rule that a member who was arrested was out*
+
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> small-town daily newspaper (*Gettysburg Times*, Gettysburg, Pa.): village correspondents' columns, club notices and a classified ad, 1956–59, read as scanned page OCR · **Last verified:** 2026-10-21 (Round 19) · **Open issues:** the Fly-Wheels have two different presidents and two different descriptions in March 1959 ⚠; the March 6 sentence naming a sponsoring "National ... Hanover Hot Rod Club" is garbled ◐; "Flaming Carbs" is our reading of the OCR's "Flaming Carte" ◐; we have not read the Hanover *Evening Sun*, which should have much more · [How we rate this](../reference/source-standards.md)
 
@@ -55,15 +57,15 @@ canonical_for: []
 
     — The Fly-Wheels of Adams County, *Gettysburg Times*, March 6, 1959.[^gt590306]
 
-Gettysburg's paper is mostly about the battlefield, the farms and the churches. But in the late 1950s its small columns from the surrounding towns show something else going on: a hot rod club in Hanover asking a whole neighborhood for permission to meet, a Hanover man touring the Lions clubs to explain how such clubs worked, and teenagers in Gettysburg and across the Maryland line picking jacket colors and promising to stay out of traffic court.
+Around Hanover and Gettysburg, the clubs were asking the neighbors before they met, picking jacket colors, and they wrote a rule that a member who was arrested was out. Gettysburg's paper is mostly about the battlefield, the farms and the churches. In the late 1950s its small columns from the surrounding towns show the asking: a hot rod club in Hanover with a petition for a whole neighborhood, a Hanover man at the Lions clubs, and teenagers in Gettysburg and across the Maryland line promising to stay out of traffic court.
 
 ## Hanover asks the neighbors (1956)
 
-In May 1956 the Littlestown column reported that the **Hanover Hot Kustom Klub** had decided to petition the people living near **Lincoln Speedway** in Berwick Township, Adams County, "asking that they do not oppose" the speedway's use as a Sunday afternoon meeting place for the club. The owner had already said yes, "with the provision that members first petition the residents."[^gt560510] Lincoln Speedway was a stock-car track on the Hanover side of the county. The request was a polite one: Sunday afternoons in a churchgoing county, at a track that was already noisy the rest of the week.
+In May 1956 the Littlestown column reported that the Hanover Hot Kustom Klub had decided to petition the people living near Lincoln Speedway in Berwick Township, Adams County, "asking that they do not oppose" the speedway's use as a Sunday afternoon meeting place for the club. The owner had already said yes, "with the provision that members first petition the residents."[^gt560510] Lincoln Speedway was a stock-car track on the Hanover side of the county. The request was for Sunday afternoons, at a track that was already noisy the rest of the week.
 
 ## The Hanover experience, on tour (1958)
 
-In April 1958 the Lions Club at York Springs, at the other end of Adams County, had a guest. "Jimmy Price, Hanover" spoke "on the advantages of a well supervised hot rod club in a community and gave the experiences of Hanover and some other communities and explained how they are operated."[^gt580418] That a service club wanted to hear about them suggests Hanover's clubs were seen as something worth copying.
+In April 1958 the Lions Club at York Springs, at the other end of Adams County, had a guest. "Jimmy Price, Hanover" spoke "on the advantages of a well supervised hot rod club in a community and gave the experiences of Hanover and some other communities and explained how they are operated."[^gt580418] What those Hanover experiences were, the column does not say.
 
 The police were watching too. That September, just south of the state line, three Frederick County, Maryland, youths were fined on charges of driving faster than "reasonable and proper" as state police "began a crack down on drag racing in the county."[^gt580922]
 
@@ -78,9 +80,9 @@ By early 1959 new clubs were forming. Across the line in Taneytown, Maryland, a 
 
 Two weeks later the paper introduced the **Fly-Wheels of Adams County**, "a newly organized club," which planned a paper and scrap drive to raise money. President **William Moorehead** said the members met weekly at his grandparents' motel on Lincolnway West and hoped to rent a garage in Gettysburg as a permanent clubhouse. The club existed "to help fellow travelers in distress along the highway," and a member who was arrested for any traffic violation was out.[^gt590306]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-A second Fly-Wheels announcement followed. On March 25 the paper announced the organization of "the 'Fly Wheels,' a Gettysburg 'hot-rod' Club," giving the president of the "three-week old group" as **Francis L. Althoff Jr.** of Hanover Street. This club planned "to race its vehicles at the airport at Thomasville," and its first event was a car wash at the Hunt Avenue service station, where members would pick up the cars, wash them and bring them back.[^gt590325] The next day the club ran a classified ad: "FLY-WHEELS GETTYSBURG HOT ROD CLUB Will Wash Cars at Hunt Avenue, Inc., Saturday, March 28," for $1.50 a car with pickup and delivery, and with the profits going to the club (the last words of the ad are garbled in the scan).[^gt590326]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+A second Fly-Wheels announcement followed. On March 25 the paper announced the organization of "the 'Fly Wheels,' a Gettysburg 'hot-rod' Club," giving the president of the "three-week old group" as **Francis L. Althoff Jr.** of Hanover Street. This club planned "to race its vehicles at the airport at Thomasville," and its first event was a car wash at the Hunt Avenue service station, where members would pick up the cars, wash them and bring them back.[^gt590325] The next day the club ran a classified ad: "FLY-WHEELS GETTYSBURG HOT ROD CLUB Will Wash Cars at Hunt Avenue, Inc., Saturday, March 28," for $1.50 a car with pickup and delivery, and with the profits going to the club (the last words of the ad are garbled in the scan).[^gt590326]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> The paper has two presidents for the Fly-Wheels in three weeks, and the two descriptions disagree.
 
-This is the small-town East in miniature. There is no strip yet, only a borrowed stock-car track, a country airfield and a car wash, and every step needed someone's permission: the neighbors, the Lions, the police. Compare the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md), the [Kingston Igniters](kingston-igniters.md) and the [Indiana small-town clubs](indiana-small-town-clubs.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+There is no strip yet, only a borrowed stock-car track, a country airfield and a car wash, and every step needed someone's permission: the neighbors, the Lions, the police. Compare the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md), the [Kingston Igniters](kingston-igniters.md) and the [Indiana small-town clubs](indiana-small-town-clubs.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> The jackets were turquoise. A member who was arrested was out. The neighbors still had to say yes.
 
 *See also:* [Tear Gas on the Runways](pennsauken-central-airport-1958.md) and, across the Maryland line, [The Clockers of Cumberland](cumberland-clockers.md).
 

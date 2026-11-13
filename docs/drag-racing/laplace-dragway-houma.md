@@ -1,6 +1,6 @@
 ---
 title: 'A Hearse on the Last Day: LaPlace Dragway and the Runways of South Louisiana (1960–1980)'
-summary: LaPlace Dragway opened off Airline Highway on May 6, 1962, hosted the 1976 Cajun Nationals and the first Andouille Festival, and closed in March 1980 with a racer in a hearse. Racers recall Houma's 1960 runway strip, which paid a dollar a mile an hour over 100, and Lake Charles racing on an Air Force base.
+summary: LaPlace Dragway opened off Airline Highway on May 6, 1962, and closed in March 1980 with a racer in a hearse. Houma's 1960 runway paid a dollar a mile an hour over 100.
 department: drag-racing
 era: 1960s
 eras:
@@ -77,7 +77,7 @@ peak: 1962–1980
 ---
 # A Hearse on the Last Day: LaPlace Dragway and the Runways of South Louisiana (1960–1980)
 
-*A gumbo photo that led to a dragstrip, a dollar for every mile an hour over 100, a scoreboard behind the starting line, and Don Garlits on a bicycle*
+*A gumbo photo led back to the strip, Houma paid a dollar a mile an hour over 100, and the last day put a hearse on the track*
 
 !!! abstract "Article record"
     **Confidence:** Medium (for LaPlace, a parish newspaper's 2022 story, built from its own back issues and two local racers, gives the opening date, schedule, prices and closing, and a racer's memory adds the street; Houma and Lake Charles rest on one racer each, decades later, and are Low) · **Source types:** <span class="hr-badge">Grassroots</span> *L'Observateur* (LaPlace), March 2, 2022; racers' and families' memories on *Drag Strip List* · **Last verified:** 2026-11-10 (Round 37) · **Open issues:** ◐ Garlits as the last to cross; ? Houma's first race on a Sunday, May 30, 1960, which was a Monday; ◐ the Houma armory story; ◐ taxiway racing at Chennault · [How we rate this](../reference/source-standards.md)
@@ -86,6 +86,8 @@ peak: 1962–1980
     "I got $23 for running that speed as the operators paid anyone who ran over 100 mph a dollar for each mph."
 
     — Don Prieto, on Houma's first race in 1960, *Drag Strip List*, undated.[^dslla]
+
+Willie Robert found LaPlace Dragway by accident, looking for a photo of a gumbo competition he had won. It ended in March 1980. On the last day, Simon remembered, Marvin "Scopey" Miller raced down the strip in a hearse, and the last person across it was Don Garlits, riding a bicycle. Before LaPlace, Houma paid a dollar for every mile an hour over 100.
 
 ## The South's finest dragstrip
 
@@ -99,11 +101,13 @@ It ended in March 1980. On the last day, Simon remembered, Marvin "Scopey" Mille
 
 ## A dollar a mile an hour
 
-Before LaPlace, south Louisiana raced on old runways. Don Prieto remembered Houma's first strip as an abandoned World War II runway "in not so great shape" beside the National Guard armory, leased by Gordon Novel and Randy Ehlinger, and its first race "on Sunday, May 30, 1960."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> He went with Gene Zeller, who had a Chrysler-powered Chassis Research K88, and Marino Monjure, who had a Chevy in a TE440. Prieto drove Q Ball Wales's old belly tanker with a Chevy on six carburetors. It was his first time in a dragster, and on the first run he drove it off into the dirt, "something Paul Candies never let me forget." Later that day he ran 10.38 at 123 mph, and the operators paid a dollar for every mile an hour over 100, so he collected $23; Zeller ran 152 and Monjure 149, "so we all went home with more than we arrived with."[^dslla]
+Before LaPlace, south Louisiana raced on old runways. Don Prieto remembered Houma's first strip as an abandoned World War II runway "in not so great shape" beside the National Guard armory, leased by Gordon Novel and Randy Ehlinger, and its first race "on Sunday, May 30, 1960."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> Whether that Sunday was May 30 is still open. He went with Gene Zeller, who had a Chrysler-powered Chassis Research K88, and Marino Monjure, who had a Chevy in a TE440. Prieto drove Q Ball Wales's old belly tanker with a Chevy on six carburetors. It was his first time in a dragster, and on the first run he drove it off into the dirt, "something Paul Candies never let me forget." Later that day he ran 10.38 at 123 mph, and the operators paid a dollar for every mile an hour over 100, so he collected $23; Zeller ran 152 and Monjure 149, "so we all went home with more than we arrived with."[^dslla]
 
 Prieto added a postscript: that the lease, he later learned, was a cover so that Novel, "the same Gordon Novel that was pursued by Jim Garrison" in the Kennedy investigation, could steal guns from the armory for the Bay of Pigs invasion.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> "It was a wild time in those early days of drag racing."[^dslla]
 
 Houma's later strip, Southland Dragway, was built to a California pattern. Glenn Menard remembered A.S.&I. scoreboards behind the starting line, "identical to Orange County Raceway in Irvine, California, which was the template for Southland's design," and chair-back reserved seats in the first section of grandstands.[^dslla] West toward Texas, Lake Charles raced on the old Chennault Air Force Base. Before it closed, Max Williamson wrote, racers drove past B-52s "heavily guarded by armed airmen" to race taxiways that General Curtis LeMay, commanding SAC, let some bases use as drag strips.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> In the early 1980s the main runway was the strip, with "several miles of shut down," Jerry Lee remembered. Kip Bonin grew up in its pits when Boyd Miles of B&M Speed Shop ran it and his father's Hi Noon Lions Club ran the concessions; Dee Hood more or less adopted him as pit crew. He took his photos of Hood's pearl-white '57 Chevy, *Hot 'n Heavy*, to school, and the teacher confiscated them: "I WANT MY PICTURES BACK." Years later Erin Hood ("Dee is my dad") answered on the same page with a photo of the car.[^dslla]
+
+The gumbo photo had led back to the strip. Houma had paid a dollar for every mile an hour over 100. The last day had a hearse on it, and Don Garlits riding a bicycle.
 
 *See also:* [Pel State Dragway](pel-state-dragway-opelousas.md), the Davids' airport strip at Opelousas; their grandson counts Houma among four tracks W. H. David once ran at the same time; [Orange County International Raceway](orange-county-international-raceway.md), Southland's model; [Houston's Freeway Dragstrip](houston-freeway-dragstrip.md), the Gay family's home track.
 

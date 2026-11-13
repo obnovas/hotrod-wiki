@@ -1,6 +1,6 @@
 ---
 title: 'Hoosier Road Runners: Hot Rod Clubs in Small-Town Indiana, 1953–58'
-summary: In 1956 twenty-four young men in Decatur, Indiana, joined a hot rod club that said it had police blessing. This page follows small-town Indiana clubs from 1953 to 1958.
+summary: In 1956 twenty-four young men in Decatur, Indiana, joined a hot rod club the paper said had the blessing of the police. From 1953 to 1958 the small-town record is short safety notices, and then the notices stop.
 department: drag-racing
 eras:
 - 1950s
@@ -42,6 +42,8 @@ canonical_for: []
 ---
 # Hoosier Road Runners: Hot Rod Clubs in Small-Town Indiana, 1953–58
 
+*From 1953 to 1958 a hot rod club in small-town Indiana is a safety club in the local notices*
+
 !!! abstract "Article record"
     **Confidence:** Low · **Source types:** <span class="hr-badge">Grassroots</span> small-town dailies and weeklies from Indiana's digital newspaper program (*Decatur Daily Democrat*, *The Daily Banner* of Greencastle, *Syracuse-Wawasee Journal*), read as page OCR; two items are syndicated (a UP filler and a Dodge-produced column) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** the "national Hot Rod club" Decatur joined is not named (open question); we found no coverage of the Road Runners after February 1957; the Flying Pistons appear in one profile only; the Detroit item is automaker public relations ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -50,9 +52,7 @@ canonical_for: []
 
     — A columnist in **The Daily Banner** (Greencastle, Ind.), reviewing a teen-driving book, Dec 9, 1954. *OCR text; the byline reads "Margaret Latrobe" in the scan.*[^banner]
 
-In September 1956 twenty-four young men in Decatur, Indiana, signed up for a hot rod club that said it had the blessing of the police.
-
-Decatur is a small Adams County town of the kind that never makes a hot rod history. There was no dry lake and no famous shop, and the *Decatur Daily Democrat* gave the club a few lines at a time between a cross-country meet and a grocery-store ad. Those lines are worth reading precisely because nobody was trying to make history. They show what a small town did when a handful of teenagers wanted to talk about cars.
+From 1953 to 1958 a hot rod club in small-town Indiana is a safety club in the local notices. In September 1956 twenty-four young men in Decatur, Indiana, signed up for one that said it had the blessing of the police. Decatur is a small Adams County town of the kind that never makes a hot rod history. There was no dry lake and no famous shop, and the *Decatur Daily Democrat* gave the club a few lines at a time between a cross-country meet and a grocery-store ad. Those lines are worth reading precisely because nobody was trying to make history. They show what a small town did when a handful of teenagers wanted to talk about cars.
 
 ## A teen-driving book in Greencastle (1954)
 
@@ -68,17 +68,19 @@ Decatur's own paper had already carried the idea. Almost two years earlier, a De
 
 Three years later Decatur had a club of its own. The paper's coverage of it runs over five weeks.
 
-| Date | What the *Decatur Daily Democrat* printed |
-|---|---|
-| **Sept 12, 1956** | "Plan Organization Of Hot Rod Club Here": Decatur enthusiasts would meet at the Decatur Youth and Community Center on Thursday night "for the purpose of organizing a chapter of the national Hot Rod club." The organization "has the blessing of police officers of many cities of the nation," and its purpose was "safety on the highways and organizing the racing enthusiasm into clubs in order to control the enthusiasm of young drivers." Anyone 16 or older could join, and the meeting would name officers and apply for a charter.[^d912] |
-| **Sept 19** | A meeting "of the newly organized Hot Rod club" Thursday at 7:30 p.m. at the center. "Twenty-four young men from the Decatur area are already enrolled as members of the new club."[^d919] |
-| **Sept 22** | "The Roadrunners of Decatur, newly formed hot rod club" would meet Monday evening at 7:30; anyone 16 or older was urged to attend.[^d922] |
-| **Oct 6** | "A scheduled meeting of the Road Runners, Decatur's hot rod club, has been postponed until further notice."[^d1006] |
-| **Jan 31 and Feb 1, 1957** | A paid notice: "Car wash sponsored by Road Runners Hot Rod Club," Saturday, Feb. 2, 8 a.m. to 8 p.m., at Keith's Marathon, 13th and Nuttman Ave.[^d0201] |
+On Sept 12, 1956, "Plan Organization Of Hot Rod Club Here" ran in the *Decatur Daily Democrat*. Decatur enthusiasts would meet at the Decatur Youth and Community Center on Thursday night "for the purpose of organizing a chapter of the national Hot Rod club." The organization "has the blessing of police officers of many cities of the nation," and its purpose was "safety on the highways and organizing the racing enthusiasm into clubs in order to control the enthusiasm of young drivers." Anyone 16 or older could join, and the meeting would name officers and apply for a charter.[^d912]
 
-The notices tell us more than they mean to. A youth center was the clubhouse: unlike the Escanaba club's shop (see [The Cop and the Auto Shop](escanaba-dragns.md)), Decatur's meetings were held in a town youth and community center. The police pitch came first, too. The organizing notice leads with the police and with "safety on the highways." Compare the small-town clubs in [What the City Planners Wrote](planners-report-1955.md), whose members worked with police departments.
+On Sept 19 a meeting "of the newly organized Hot Rod club" was Thursday at 7:30 p.m. at the center. "Twenty-four young men from the Decatur area are already enrolled as members of the new club."[^d919]
 
-Fund-raising looked like any other club's: a winter car wash, with a notice that gave the club's name as "Road Runners." Even the spelling varies: "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+On Sept 22 "The Roadrunners of Decatur, newly formed hot rod club" would meet Monday evening at 7:30. Anyone 16 or older was urged to attend.[^d922]
+
+On Oct 6 the paper said "A scheduled meeting of the Road Runners, Decatur's hot rod club, has been postponed until further notice."[^d1006]
+
+On Jan 31 and Feb 1, 1957 a paid notice ran: "Car wash sponsored by Road Runners Hot Rod Club," Saturday, Feb. 2, 8 a.m. to 8 p.m., at Keith's Marathon, 13th and Nuttman Ave.[^d0201]
+
+The notices tell us more than they mean to. A youth center was the clubhouse. Unlike the Escanaba club's shop (see [The Cop and the Auto Shop](escanaba-dragns.md)), Decatur's meetings were held in a town youth and community center. The police pitch came first, too. The organizing notice leads with the police and with "safety on the highways." Compare the small-town clubs in [What the City Planners Wrote](planners-report-1955.md), whose members worked with police departments.
+
+Fund-raising looked like any other club's, a winter car wash, and the notice gave the club's name as "Road Runners." Even the spelling varies: "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The Flying Pistons (Syracuse, 1958)
 
@@ -86,11 +88,11 @@ By 1958 a club could turn up in a school profile. The *Syracuse-Wawasee Journal*
 
 ## A Detroit ticket-writer, in Greencastle (1958)
 
-The same winter, Greencastle readers learned how a big-city club kept its members honest. On February 4, 1958 *The Daily Banner* ran a syndicated column by "Jeanne Smith, Dodge Safety Consultant," about a Detroit patrolman, **William H. Tomlinson**, who "accepted the club sponsorship on one condition — the boys would have to adhere to certain safety rules which he would enforce as strictly as he does traffic laws when he is riding his motorcycle." The result was the **Detroit Modified Rod and Custom Club**, with "more than 100 members, between the ages of 16 and 22." At each meeting a block of new business is set aside for members to declare any traffic tickets since the last meeting; besides paying the fine in traffic court, they pay "a fine to the club fund."[^d58]
+The same winter, Greencastle readers learned how a big-city club kept its members honest. On February 4, 1958 *The Daily Banner* ran a syndicated column by "Jeanne Smith, Dodge Safety Consultant," about a Detroit patrolman, William H. Tomlinson, who "accepted the club sponsorship on one condition — the boys would have to adhere to certain safety rules which he would enforce as strictly as he does traffic laws when he is riding his motorcycle." The result was the Detroit Modified Rod and Custom Club, with "more than 100 members, between the ages of 16 and 22." At each meeting a block of new business is set aside for members to declare any traffic tickets since the last meeting. Besides paying the fine in traffic court, they pay "a fine to the club fund."[^d58]
 
 "What a boy did before he became a member of the club doesn't matter," Tomlinson is quoted as saying. "What he does while he is a member, however, is of interest to all the group." And: "I would say that 50 percent of all the members were ticketed by me before joining this club."[^d58]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-The local items (the Decatur notices, the Syracuse profile) are short, unsigned and plain. They give names, places and times, but not results. The syndicated items (the UP filler, the Dodge column) show what ideas reached small towns, but they do not describe local clubs. And the Hoosier State Chronicles OCR is imperfect, so quotes here are trimmed to phrases that read cleanly.
+The local items, the Decatur notices and the Syracuse profile, are short, unsigned and plain. They give names, places and times, but not results. The syndicated items, the UP filler and the Dodge column, show what ideas reached small towns, but they do not describe local clubs. The Hoosier State Chronicles OCR is imperfect, so quotes here are trimmed to phrases that read cleanly. Which "national Hot Rod club" Decatur joined, the notice does not name. After the February 1957 car wash we found no item about the club. In the local notices a hot rod club is a safety notice, with the blessing of the police.
 
 ## Open questions & disputed details
 

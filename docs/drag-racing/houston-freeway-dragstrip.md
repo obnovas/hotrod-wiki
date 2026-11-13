@@ -59,7 +59,7 @@ canonical_for: []
 ---
 # Houston Freeway Dragstrip
 
-*Purpose-built on the Gulf Freeway at Dickinson*
+*Touring racers stayed at the Gay family's house, and we credit Carl and Marie Gay as the buyers*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local history site (quotes Chronicle / Garlits), NHRA columns (2008 ghost tracks; 2015 Gay family profile; 2001 Top 50 Snow bio), forum recollections · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** exact closing date (1987 vs "unknown"); exact year the Gay family bought the strip (by 1961 at the latest); ⚠ buyer was Carl and Marie Gay, not Don, per NHRA (Round 10 correction) · [How we rate this](../reference/source-standards.md)
@@ -69,23 +69,23 @@ canonical_for: []
 
     — Invitation letter to Don Garlits from a Freeway Drag Strip promoter, July (year in Garlits's memoir context ~1958), quoted via houstonfreewaydragstrip.com. [Voices](../voices/injection-and-tin.md)
 
-"They'd all stay at our house," Don Gay recalled of the touring racers who came through his family's track. "We'd say, 'Hey, my mom has a two-story house. Why don't you stay?' We'd sit by the swimming pool on Friday night and drink and talk."[^gay]
+"They'd all stay at our house," Don Gay recalled of the touring racers who came through his family's track. "We'd say, 'Hey, my mom has a two-story house. Why don't you stay?' We'd sit by the swimming pool on Friday night and drink and talk."[^gay] The strip was the family's. A local page says Don bought it in 1960, when he was about 13. We therefore credit the Gay family (Carl and Marie) as buyers.
 
-The strip south of Houston on the east side of **I-45 / Gulf Freeway** near **Dickinson, Texas** (today roughly I-45 and 16th St / FM 646) was one of the Gulf Coast's purpose-built quarter-miles. Local history pages call it, over time, **Freeway Drag Strip**, **Houston International Speedway / Raceway / Dragway**, **South Texas Dragway**, and related tower names. It ran as an NHRA Division 4 track and closed in the late 1980s; a Walmart later occupied the old starting-line area.[^hfd][^nhra]
+The strip sat south of Houston on the east side of I-45 / Gulf Freeway near Dickinson, Texas (today roughly I-45 and 16th St / FM 646). It was one of the Gulf Coast's purpose-built quarter-miles. Local history pages call it, over time, Freeway Drag Strip, Houston International Speedway / Raceway / Dragway, South Texas Dragway, and related tower names. It ran as an NHRA Division 4 track and closed in the late 1980s; a Walmart later occupied the old starting-line area.[^hfd][^nhra]
 
 ## Before the strip
 
-Houston-area street racing fed the track: Road Kings activity, unfinished Westbury subdivision pavement, Richmond & Post Oak, the Greater Houston Timing Association, and events at the Hitchcock blimp base and Ellington Field (local site: 20,000+ at an Ellington event).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+Before the strip, Houston was already racing on the street. There was Road Kings activity, unfinished pavement in the Westbury subdivision, and Richmond & Post Oak. The Greater Houston Timing Association was part of that street racing, and there were events at the Hitchcock blimp base and at Ellington Field. The local site: 20,000+ at an Ellington event.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> That club chronology comes from the history site.
 
 Land for the strip was donated by the **Fingers Furniture** family, per the same local history site.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^hfd]
 
 ## Opening and the 1958 showdown
 
-The strip opened in **fall 1957**, described as the region's first known **purpose-built** drag strip (as opposed to airports).[^hfd]
+The strip opened in fall 1957, described as the region's first known purpose-built drag strip, as opposed to airports.[^hfd]
 
-The *Houston Chronicle Magazine* of **March 1, 1959** ("The Flag Says Go") named starter Tim Evers, with Bobby Langley's Scorpion II and Lin Huiet among those "zooming over 160 mph."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The *Houston Chronicle Magazine* of March 1, 1959 ("The Flag Says Go") named starter Tim Evers, with Bobby Langley's Scorpion II and Lin Huiet among those "zooming over 160 mph."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> We have that magazine only as the history site quotes it.
 
-The strip drew outside racers early. Don Garlits's memoir (quoted on the history site) recounts a July invitation to a California/Florida/Texas fuel showdown at Freeway: Pete Ogden in a Palamides streamliner, Jack Ewell in Kamboor's Jado Special, Red Case, and Texas star Bobby Langley in Scorpion II. It was Garlits against the field.[^hfd]
+The strip drew outside racers early. Don Garlits's memoir, quoted on the history site, recounts a July invitation to a California, Florida and Texas fuel showdown at Freeway. Pete Ogden was in a Palamides streamliner. Jack Ewell was in Kamboor's Jado Special. Red Case was there, and Texas star Bobby Langley in Scorpion II. It was Garlits against the field.[^hfd]
 
 ## Who bought it
 
@@ -101,7 +101,7 @@ The result was ***Infinity***. With lead mechanic **James Osteen** they took a *
 
 The family's two-story house was where touring racers stayed (see Don's quote above and [Voices](../voices/strip-owners-and-door-slammers.md)).
 
-The track also saw a milestone. Fort Worth's [Gene Snow](../people/gene-snow.md) made what NHRA calls Funny Car's first 200-mph pass, **200.88 mph**, "at Don and Carl Gay's track in Dickinson, Texas."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+The track also saw a milestone. Fort Worth's [Gene Snow](../people/gene-snow.md) made what NHRA calls Funny Car's first 200-mph pass, 200.88 mph, "at Don and Carl Gay's track in Dickinson, Texas."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> When that pass was is still open.
 
 **Roy Gay** was runner-up to [Eddie Schartman](../people/eddie-schartman.md) at the 1967 Manufacturers Championships at OCIR. He was killed in a 1972 motorcycle accident.[^gay]
 
@@ -111,11 +111,13 @@ The family went on to a new track. In the late 1980s the Gay family and the **An
 
 Tower and sanctioning names shifted (NHRA / AHRA labels appear on different-era photos). Treat the name list as a photo-caption census, not a legal chain of title.[^hfd]
 
-The records are disputed too. Local historians and Standard 1320 researchers argue that **Kent Chatagnier** of Beaumont ("Kent's Speed Shop" fueler) ran **197–201+ mph** at Houston in **1960** under then Drag News rules, later "forgotten" when record-keeping was reset.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
+The records are disputed too. Local historians and Standard 1320 researchers argue that Kent Chatagnier of Beaumont ("Kent's Speed Shop" fueler) ran 197–201+ mph at Houston in 1960 under then Drag News rules, later "forgotten" when record-keeping was reset.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> NHRA does not recognize it.
 
 NHRA.com's "Ghost tracks" (2008) says that by **2000** the site was largely demolished, and a reader noted that a Walmart sat on the old starting line.[^nhra]
 
-As for the closing, a Yellow Bullet forum recollection says it came at the end of **1987**, with Houston Raceway Park (Baytown) opening **1988**. Other secondary text says "unknown date."<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>
+As for the closing, a Yellow Bullet forum recollection says it came at the end of 1987, with Houston Raceway Park (Baytown) opening 1988. Other secondary text says "unknown date."<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup> When the strip closed is still open.
+
+The racers had stayed at the two-story house. Don was about 13 in 1960. We therefore credit the Gay family (Carl and Marie) as buyers.
 
 *See also:* [Gene Snow](../people/gene-snow.md), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Texas: Caddo Mills...](../places/texas.md), [Westheimer cruising](../places/westheimer-houston.md), [Detroit & Cordova](detroit-cordova.md) (other early purpose-built strips), [Regional Scenes](../places/regional-scenes.md).
 

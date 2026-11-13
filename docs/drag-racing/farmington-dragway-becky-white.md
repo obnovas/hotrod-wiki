@@ -76,7 +76,7 @@ peak: bracket racing, 1960s–today
 ---
 # Free Admission and a Hot Dog: Becky White's Years at Farmington Dragway (Mocksville, N.C., 1963– )
 
-*A deal at the gate, a Royal typewriter, a velvet dress from a home economics class, and a track that told its neighbors no twice*
+*Free admission for a race story, typed on a Royal her dad bought about 1957, and a hot dog once a week*
 
 !!! abstract "Article record"
     **Confidence:** Low (Medium for the strip's 1963 opening: the track's co-owner, RACER and the writer agree; the rest is one woman's memoir written thirty years later, posted unsigned on her own news blog, whose résumé page matches it, and a 2011 county-paper report; no 1960s or 1980 *Davie County Enterprise* page was read) · **Source types:** <span class="hr-badge">Grassroots</span> Becky White's memorial post for Norman Drouillard Sr. and her résumé page on *Quick Times Racing News* (2010); the *Davie County Enterprise Record* (2011); racers' memories on *Drag Strip List*; RACER's IHRA track profile (2017) · **Last verified:** 2026-11-10 (Round 37 citation review) · **Open issues:** ◐ the 1980 attempt to close the track and her part in stopping it; ◐ "more drag strips per square mile"; ? who built the strip in 1963 · [How we rate this](../reference/source-standards.md)
@@ -88,7 +88,9 @@ peak: bracket racing, 1960s–today
 
 ## The deal at the gate
 
-Farmington Dragway opened in Davie County in 1963,<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> and it has raced at a quarter mile, a fifth and now an eighth.[^racer17f] Becky White remembered the year for her own reason: "it opened in 1963…the same year my first daughter was born." She lived seven miles away, close enough that "if the wind was blowing in the right direction, I could hear the cars," and she had pictures of all three of her girls at the track before they were six months old.[^bw10]
+In April 1979 Becky White got in free at Farmington by writing a race story for the local paper. She typed on her old Royal typewriter, the one her dad bought about 1957 or '58, and she got a hot dog once a week. In 1980 the neighbors tried to close the track, and she wrote that up.
+
+Farmington Dragway opened in Davie County in 1963, and who built it is still open.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> It has raced at a quarter mile, a fifth and now an eighth.[^racer17f] Becky White remembered the year for her own reason: "it opened in 1963…the same year my first daughter was born." She lived seven miles away, close enough that "if the wind was blowing in the right direction, I could hear the cars," and she had pictures of all three of her girls at the track before they were six months old.[^bw10]
 
 In April 1979, after what she called several years of barely coping, she drove to the strip hoping it might help get her "out of the funk." Her friend Larry Allen was working the gate and pointed out the owners, Jerry Joyce and Norman Drouillard. She did not mean to make a deal, she wrote, but she heard herself make one: free admission every week in exchange for a race story in the local paper. "Five bucks I can use to pay on rent or groceries for my kids!" They said yes. Her girls were under sixteen and got in free too, "and I got a hot dog once a week!"[^bw10]
 
@@ -107,6 +109,8 @@ It did not last at Farmington. One weekend in July 1981, when she got to the tra
 The neighbors came back. In May 2011 the *Davie County Enterprise Record* reported that the dragway "opened in the early 1960s – before many of the people who complain about the current Farmington Motorsports Park moved here," and quoted the owners' lawyer, Grady McClamrock Jr.: "They moved in knowing the dragstrip was there."[^er11] By 2017 the race director and former co-owner was Mark Joyce, who claimed that "per square mile, North Carolina has more drag strips" than any other state.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^racer17f]
 
 Farmington was not the Piedmont's first. Glenn Goss's aunt and uncle raced on the old Fairchild Airport at Burlington around 1952–53, beside the armory on Highway 70, where a Walmart stands now. Years later, teaching driver's education in Concord, Goss asked a student why her street was so wide; it had been the Concord Drag Strip, and he had been there as a teenager, "but had completely forgotten about it."[^dslnc]
+
+She had asked for free admission and a story in the local paper. She got a hot dog once a week, and she typed on the Royal her dad bought about 1957 or '58. The neighbors tried to close the track in 1980, and she wrote that up.
 
 *See also:* [North Carolina's drag strip debate, 1956](north-carolina-drag-strip-debate-1956.md); [Chester, S.C.](chester-drag-strip-south-carolina.md); [The drag rags](../eras/1960s-drag-rags.md), the weekly papers *Quick Times* followed.
 

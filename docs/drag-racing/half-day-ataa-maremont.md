@@ -1,6 +1,6 @@
 ---
 title: 'Half Day, Illinois: The Muffler Maker''s Drag Strip (1952–55)'
-summary: A Chicago muffler maker put its name on a drag strip at Half Day, Illinois, and then insisted on seat belts. This is the story of the Automobile Timing Association of America (1952–55).
+summary: A Chicago muffler maker put its name on a drag strip at Half Day, Illinois, and then insisted on seat belts. The ATAA raced there from 1952, and in 1954 its World Series drew 350 hot rodders and 10,000 spectators.
 department: drag-racing
 eras:
 - 1950s
@@ -53,6 +53,8 @@ canonical_for:
 ---
 # Half Day, Illinois: The Muffler Maker's Drag Strip (1952–55)
 
+*A Chicago muffler company put its name on a drag strip at Half Day, and then it made seat belts standard equipment*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** local daily carrying a 1954 wire feature (*Escanaba Daily Press*), trade and safety periodicals (*Traffic Digest and Review*, *The Police Chief*, *Sales Management*, Chilton's *Motor Age*; all repeat the sponsor's own press material), NHRA drag-strip history (citing Mel Bayshore) · **Last verified:** 2026-10-15 (Round 12) · **Open issues:** ⚠ ATAA start 1952 vs 1953; ⚠ attendance and entries at the St. Charles, Mo. meet; ⚠ planning-meeting invitees (26 vs 28, OCR); every safety figure is the sponsor's own; Granatelli's role is single-sourced ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -63,15 +65,13 @@ canonical_for:
 
 A Chicago muffler company put its name on a drag strip, and then it insisted on seat belts.
 
-That is the core of the **Automobile Timing Association of America (ATAA)** story, and it is stranger than it sounds. Maremont Automotive Products was a Chicago parts maker; its ad in the same *Motor Age* issue sells mufflers.[^ma] In the early 1950s the company's president, Arnold Maremont,[^sm] paid for a half-mile strip on a wartime outlying airfield at **Half Day, Illinois**, a Chicago suburb, and called it Maremont Speedway. The sponsor's own trade-press releases say that "safety belts, crash helmets and heavy 'roll bars' are standard equipment" there.[^sm] By 1954 the ATAA was sending crews to other states. By 1955 it was running something it called the **World Series of Drag Racing**.
-
-Nearly everything we know about the strip's first years comes from Maremont's own publicity, reprinted by magazines and local papers that liked a good safety story. We say so each time.
+Maremont Automotive Products was a Chicago parts maker. Its ad in the same *Motor Age* issue sells mufflers.[^ma] In the early 1950s the company's president, Arnold Maremont,[^sm] paid for a half-mile strip on a wartime outlying airfield at Half Day, Illinois, a Chicago suburb, and called it Maremont Speedway. The sponsor's own trade-press releases say that "safety belts, crash helmets and heavy 'roll bars' are standard equipment" there.[^sm] By 1954 the Automobile Timing Association of America (ATAA) was sending crews to other states. By 1955 it was running something it called the World Series of Drag Racing. Nearly everything on those first years is Maremont's own publicity, reprinted by magazines and local papers.
 
 ## The strip
 
 Even the strip's basic history comes secondhand. The NHRA's 2023 Illinois drag-strip primer, summarizing Mel Bayshore's strip list, says Half Day Speedway opened in 1952 on an outlying satellite airfield used by Glenview Naval Air Station in World War II, "part of what was known as Maremont Speedway." It says the ATAA "first conducted drag races there starting on April 6, 1952, but the track was shut down the following year."[^nhra] The primer also credits the strip to "the brainchild of Andy Granatelli," which we have not seen elsewhere.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-The format was simple: a half-mile course on an abandoned airstrip or unused four-lane highway. Two cars ran from a standing start, timed electronically over the first quarter-mile, and the second quarter-mile was for "safe deceleration."[^sm]
+The course was a half-mile on an abandoned airstrip or an unused four-lane highway. Two cars ran from a standing start, timed electronically over the first quarter-mile, and the second quarter-mile was for "safe deceleration."[^sm]
 
 It drew a crowd. *Traffic Digest and Review* and *The Police Chief* both repeat the ATAA's figure that "last summer's" program drew "an average of 300 hot rodders and 3,000 spectators" every Sunday.[^tdr][^pc] *Sales Management* says there were "no accidents in 25 Sundays of racing."[^sm] One detail from the same feature shows how far some came: "One Indiana farmer rode his motorcycle 150 miles each way to compete in each Sunday's events."[^sm]
 
@@ -79,7 +79,7 @@ The program said every car had to pass a safety inspection stricter than city or
 
 ## The association
 
-Behind the strip was the association, a non-profit that Maremont underwrote. The *Escanaba Daily Press* ran a July 22, 1954 wire feature headed "Hot Rodders Playing It Safe" that says it "came into being in 1953" to operate the Half Day strip and that Maremont, "a Chicago manufacturer of automotive products and racing enthusiast," underwrote its expenses.[^esc] (OCR; spacing normalized.) The headquarters were at 1705 S. Ashland Ave., Chicago, with Joseph Di Lorenzo as national director.[^tdr]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Behind the strip was the association, a non-profit that Maremont underwrote. The *Escanaba Daily Press* ran a July 22, 1954 wire feature headed "Hot Rodders Playing It Safe" that says it "came into being in 1953" to operate the Half Day strip and that Maremont, "a Chicago manufacturer of automotive products and racing enthusiast," underwrote its expenses.[^esc] (OCR; spacing normalized.) The headquarters were at 1705 S. Ashland Ave., Chicago, with Joseph Di Lorenzo as national director.[^tdr]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Whether that start was 1952 or 1953 is still open.
 
 ### Who signed on
 
@@ -116,7 +116,7 @@ For 1955 the piece expects the Akron club to bring about 25 entries, Detroit's M
 
 ## What changed by 1957
 
-The safety pitch did not settle the argument. In March 1957, a wire survey on drag strips quoted Arnold H. Maremont as saying "There never has been an accident at a race sponsored by the ATAA," while the National Safety Council had just come out against drag racing, "supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md). Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed.<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
+The safety pitch did not settle the argument. In March 1957, a wire survey on drag strips quoted Arnold H. Maremont as saying "There never has been an accident at a race sponsored by the ATAA," while the National Safety Council had just come out against drag racing, "supervised or otherwise." See [March 1957: America Argues About Drag Strips](march-1957-drag-strip-survey.md). Bartel's tribute says NHRA "absorbed" the ATAA in 1957, which we have not independently confirmed.<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup> The muffler company had put its name on the strip and insisted on the belts. That is what the record kept.
 
 ## Open questions & disputed details
 

@@ -44,6 +44,8 @@ canonical_for: []
 ---
 # A Strip in a Ravine: the Fox Valley's Drag Strip Hunt and the KK Sports Arena (Appleton–Kaukauna, Wis., 1960–68)
 
+*The county said no to a public strip. A farmer's ravine south of Kaukauna got one anyway*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> daily newspaper (*Appleton Post-Crescent*, Appleton, Wis.): readers' letters, county-board and plan-commission reports, sports notes, display ads, a fatal-accident report and a 1968 feature, read as scanned page OCR · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** the 1964 claim that the strip would be only the state's "second" ◐; the 1968 president's Union Grove role ◐; the first drag meet at KK (1964 promotion day or 1966 "opening") ◐; whether the 1965 rezoning request was the same land ◐ · [How we rate this](../reference/source-standards.md)
 
@@ -52,7 +54,7 @@ canonical_for: []
 
     — D. R. Seeger, letter to the *Appleton Post-Crescent*, Dec. 22, 1960.[^pc601222]
 
-Wisconsin's Fox River valley, the paper-mill towns of Appleton, Kaukauna, Kimberly, Little Chute, Neenah and Menasha, spent four years asking for a drag strip. The letters came from a driver, a car club and a county supervisor. The answer came from a farmer's ravine south of Kaukauna, where two men were building a stock car track.
+Wisconsin's Fox River valley, the paper-mill towns of Appleton, Kaukauna, Kimberly, Little Chute, Neenah and Menasha, spent four years asking for a drag strip. The letters came from a driver, a car club and a county supervisor. The county said no. The answer came from a farmer's ravine south of Kaukauna, where two men were building a stock car track.
 
 ## The asking (1960–64)
 
@@ -64,7 +66,7 @@ In May 1964 a freshman Outagamie County supervisor, Norman Beyer, asked the coun
 
 ## KK Sports Arena (1964)
 
-That same month the paper announced a new speedway "one-half mile east of Little Chicago on County Trunk KK," run by partners **Clarence DeLeeuw** and **Clyde Schumacher**. It was being built "in a ravine," a natural amphitheater with bleachers set into the hillside for 4,000 people. There would be a quarter-mile stock car track and a half-mile track for modifieds, sports cars, motorcycles and horse racing. "A drag strip is also in the plans for which a club is now being organized. When completed, the drag strip will be the second in the state The only other one is in Union Grove."[^pc640529]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+That same month the paper announced a new speedway "one-half mile east of Little Chicago on County Trunk KK," run by partners **Clarence DeLeeuw** and **Clyde Schumacher**. It was being built "in a ravine," a natural amphitheater with bleachers set into the hillside for 4,000 people. There would be a quarter-mile stock car track and a half-mile track for modifieds, sports cars, motorcycles and horse racing. "A drag strip is also in the plans for which a club is now being organized. When completed, the drag strip will be the second in the state The only other one is in Union Grove."[^pc640529]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Whether it was only the second in the state is still open.
 
 Building it turned up a surprise. In June 1964 the paper photographed charred wood and clay "thought to be materials dating back to the Ice Age," found when owner-operator Clarence DeLeeuw had a hill cut away; he planned to have a geology professor look at them (the professor's college is lost in the scan).[^pc640620] That September an arena ad promised a "Big 'DRAG STRIP' PROMOTION DAY" for Sunday, September 27.[^pc640919]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -83,7 +85,7 @@ On Sunday, August 7, 1966, Thomas J. Broas, 28, of Black Creek, a father of thre
 
 By April 1968, when the arena was paving a banked half-mile oval, the paper said the building program "started back in 1964" was worth "approximately $600,000." What had been "200 acres of grass, hills, and woodlands owned by a farmer" now held a quarter-mile and figure-8 track, the half-mile, and "a quarter-mile drag strip," whose bleachers held about 8,500, with hillside room for many more. A photo from the scorers' booth showed two women running the strip's "new 'Chrondek' timing equipment."[^pc680421] The same feature named the arena's president, a 46-year-old Kaukauna man; the scan is interleaved, but the 1970 bankruptcy reports confirm the name as "Joseph Van Daalwyk, route 3, owner of a large construction company."[^pc700719]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
-The Fox Valley's strip came the way many Midwestern strips did. The clubs asked for a county strip on public land. The county said no. Then a private oval builder added a drag strip, and four years later it had Chrondek timers. Compare [Kansas City](kansas-city-timing-association.md), where the clubs did get a public site, and [Malden](semo-malden-drag-strip.md), where a town owned an empty air base. KK's big years, and the bankruptcy that closed it on July 18, 1970, are told in [The Hospitality Drag Strip](kk-sports-arena-hospitality-bankruptcy.md).<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
+The clubs asked for a county strip on public land. The county said no. Then a private oval builder added a drag strip in the ravine, and four years later it had Chrondek timers. At [Kansas City](kansas-city-timing-association.md) the clubs did get a public site, and at [Malden](semo-malden-drag-strip.md) a town owned an empty air base. KK's big years, and the bankruptcy that closed it on July 18, 1970, are told in [The Hospitality Drag Strip](kk-sports-arena-hospitality-bankruptcy.md). A farmer's ravine south of Kaukauna got the strip.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup>
 
 *See also:* [Great Lakes Dragaway](great-lakes-dragaway-union-grove.md), the club-built Union Grove strip of 1955 that Wisconsin's other early strips are measured against.
 
