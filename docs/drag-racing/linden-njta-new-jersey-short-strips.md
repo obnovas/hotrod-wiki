@@ -1,6 +1,6 @@
 ---
 title: 'Soda-Pop Signs for Hoods: Linden 1954, the New Jersey Timing Association and the Short Strips (1952–1967)'
-summary: New Jersey's clubs formed the New Jersey Timing Association in 1952, and NHRA's Safety Safari brought them a fifth-mile strip at Linden Airport in 1954. After that the state raced where it could, on 320-foot stadium straights, eighth-miles in front of grandstands, and Flemington's strip on Route 12, abandoned in 1967.
+summary: New Jersey's clubs formed the New Jersey Timing Association in 1952. In 1954 the Safety Safari ran a fifth-mile at Linden, where drivers beat soda-pop signs into hoods, and the state then raced short tracks, including 320 feet at Old Bridge.
 department: drag-racing
 era: 1950s
 eras:
@@ -92,7 +92,7 @@ peak: 1952–1967
 ---
 # Soda-Pop Signs for Hoods: Linden 1954, the New Jersey Timing Association and the Short Strips (1952–1967)
 
-*Thirty clubs in a restaurant basement, a fifth-mile on an airport runway, a bus from Annapolis, hoods beaten out of roadside signs, and a strip with a traffic light at the line*
+*Thirty clubs met in a basement, drivers beat soda-pop signs into hoods at Linden, and Route 12 had a traffic light at the line*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the association's founding and the Linden meet rest on a club historian's forum series built on *Hot Rod* and dated photographs, and on Eric Rickman's own 1954 journal as Richard Parks retells it; the short tracks rest on racers' memories, mostly one each, and are Low) · **Source types:** <span class="hr-badge">Grassroots</span> Frank Carey's New Jersey Timing Association history (H.A.M.B., 2017); racers' memories and a 2020 telephone interview on *Drag Strip List*; a H.A.M.B. thread on the lost Route 12 strip; a state sports history site · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ⚠ the Linden crowd; ◐ Woodbine and Manville as the first paved strips; ? when Flemington opened; ◐ Old Bridge's 178 mph · [How we rate this](../reference/source-standards.md)
@@ -101,6 +101,8 @@ peak: 1952–1967
     "One guy wanted to race so bad he welded the sign onto his car and there was no way to get in and inspect the motor."
 
     — Richard Parks, telling the 1954 Linden meet from Eric Rickman's journal, *Drag Strip List*, undated.[^dslnj]
+
+In 1952 more than 30 New Jersey hot rod clubs founded the New Jersey Timing Association in the basement of Coby's Restaurant. In 1954 the Safety Safari came to Linden Airport. The main runway was too short for a quarter mile, so they ran a fifth of a mile. Drivers beat soda-pop and beer signs into hoods, and one welded his sign on. After Linden the state raced short tracks, 320 feet at Old Bridge and a traffic light at the line on Route 12, until the quarter-miles opened.
 
 ## Thirty clubs and a basement
 
@@ -114,7 +116,7 @@ In 1954 the NHRA's traveling **Safety Safari** came to Linden with the NJTA. The
 
 The best account is the Safari's own. Richard Parks, telling it from Eric Rickman's journal, writes that the crew was up at 5 a.m. and was met at the airport by a group of men who had chartered a bus, the **Crabtown Dragsters** of Annapolis. So many cars came that the inspection line had to shut down. "They just about took us over," Rickman wrote. Chic Cannon turned cars away, and back they came "with their new roll bars still too hot to touch." Cannon rejected cars with no hoods, so the drivers fanned out, pulled down soda-pop and beer signs for miles around, beat them into hoods and came back to race. One welded his sign on, which meant no one could inspect the motor.[^dslnj]
 
-Rickman was angry with the promoter, the airport manager, who said he had lost money: "The promoter sat there and lied in his teeth. We know from past experience that there were from eight to ten thousand people there. He charged a dollar a head and said he only made $2600.00."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Coons, of the Safari crew, told the manager he ought to fix the hole in his fence. Coons also talked New Jersey law with Officer Whycoff, the local Highway Patrol inspector, who liked how the Safari ran things. A 15-minute rain squall came through and nobody left. "The meet was a howling success in every respect," Rickman wrote.[^dslnj]
+Rickman was angry with the promoter, the airport manager, who said he had lost money: "The promoter sat there and lied in his teeth. We know from past experience that there were from eight to ten thousand people there. He charged a dollar a head and said he only made $2600.00."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether that crowd was four thousand or eight to ten thousand is still open. Coons, of the Safari crew, told the manager he ought to fix the hole in his fence. Coons also talked New Jersey law with Officer Whycoff, the local Highway Patrol inspector, who liked how the Safari ran things. A 15-minute rain squall came through and nobody left. "The meet was a howling success in every respect," Rickman wrote.[^dslnj]
 
 ## Three hundred and twenty feet
 
@@ -128,7 +130,7 @@ Down south, **Atlantic City Speedway** in Pleasantville ran an eighth-mile on it
 
 The **Flemington Route 12 Dragway** sat near County Road 615 and Route 12, near Pittstown, northwest of Flemington. On the H.A.M.B., a poster called Bruce 23 said it was "abandoned in 1967," that a family who bought the house next door had "one helluva driveway," and that the state now owns it.[^hambpitt] Jon Asher raced there in high school in the late 1950s, which "meant taking my Dad's Dodge out there without his knowledge!"<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> Jim Colleran ran it in 1964: "I remember the traffic light at the line." Lomastro won his class there three or four times in 1964–65 in his white Dodge, "Rampage" on the fender, against Jerry Stein's red "Teacher's Pet" Plymouth and Johnny Abraitis's '62 Plymouth, "Both went on to be famous, big-time drag racers."[^dslnj]
 
-In 1965 Raceway Park opened in Old Bridge off Englishtown Road and became a major NHRA track.[^njsh] Island Dragway at Great Meadows and Atco Dragway had both opened around 1960, and with three real quarter-miles the short tracks' day was over.
+In 1965 Raceway Park opened in Old Bridge off Englishtown Road and became a major NHRA track.[^njsh] Island Dragway at Great Meadows and Atco Dragway had both opened around 1960, and with three real quarter-miles the short tracks' day was over. It came from a restaurant basement, and at Linden the hoods were soda-pop signs.
 
 *See also:* [Atco and Strato Rods](atco-strato-rods-south-jersey.md), South Jersey's strips; [Island Dragway](island-dragway-great-meadows.md), where Lomastro met the dealer-backed cars; [Pennsauken, 1958](pennsauken-central-airport-1958.md), a strip New Jersey did not get; [Connecticut's clubs](connecticut-clubs-nutmeg-state-timing-association.md), another state timing association of the same years.
 

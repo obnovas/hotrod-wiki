@@ -1,6 +1,6 @@
 ---
 title: 'March of Dimes at the Castroville Airfield: The Alamo Timing Association and Medina County''s Drags (Castroville, Hondo and Devine, Tex., 1956–57)'
-summary: In 1956 a Devine hot rod club with 11 charter members asked its Chamber of Commerce for a drag strip, and in February 1957 the Alamo Timing Association drew an estimated 2,500 people to charity drags at the Castroville Municipal Airfield. That fall a Hondo racer, Jerry Koch, was winning trophies there in a '56 Chevrolet.
+summary: 'In 1956 a Devine hot rod club with 11 charter members asked for a drag strip, and in February 1957 the Alamo Timing Association drew an estimated 2,500 people to March of Dimes drags at the Castroville airfield. By 1971 Hondo was turning drag racing down.'
 department: drag-racing
 era: 1950s
 eras:
@@ -62,6 +62,8 @@ canonical_for: []
 ---
 # March of Dimes at the Castroville Airfield: The Alamo Timing Association and Medina County's Drags (Castroville, Hondo and Devine, Tex., 1956–57)
 
+*A Devine club of 11 asked in 1956, a March of Dimes crowd of 2,500 came to Castroville in 1957, and in 1971 the council had refused drag races at the air field*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> County weekly (*Hondo Anvil Herald*, Hondo, Tex.), 1956–57 and 1971: club notices, race results, a profile of an air cadet and a local column, read as OCR from the paper's scans on the Internet Archive · **Last verified:** 2026-10-22 (Round 23-West) · **Open issues:** Rutledge's 139.85 at Laredo is reported once ◐; when Castroville's monthly drags began and ended ?; whether Devine got its strip ? · [How we rate this](../reference/source-standards.md)
 
@@ -70,19 +72,19 @@ canonical_for: []
 
     — By-laws of the Devine Hot Rod Club, *Hondo Anvil Herald*, Sept. 7, 1956.[^hah560907]
 
-In the 1950s Medina County had what a drag racer most wanted: airfields. Hondo had an air base where cadets took primary pilot training, and Castroville had a municipal airfield.[^hah560706] The county weekly, the *Hondo Anvil Herald*, covered how the races came there, from a club's request in 1956 to a mother's worries in 1957.
+In the 1950s Medina County had what a drag racer most wanted: airfields. Hondo had an air base where cadets took primary pilot training, and Castroville had a municipal airfield.[^hah560706] A Devine club with 11 charter members asked for a strip in 1956. On a Sunday in February 1957 the Alamo Timing Association drew an estimated 2,500 people to charity drags at the Castroville field. By 1971 the town was turning down requests to race at the air field.
 
 ## A strip for Devine (1956)
 
 The paper's first hot-rodder was not local. In July 1956 it profiled Aviation Cadet Jimmie D. Burkett of Boise, Idaho, who had arrived at Hondo Air Base for primary pilot training. In Idaho he had "served as vice-president of a hot rod club," belonged to the Boise Valley Timing Association, built a 1927 Model T street roadster and a coupe, and acted "as flag man at drag races for the Board of Control of the Timing Association" before a season in midget races.[^hah560706]
 
-In late August the Devine correspondent, Don Lawrence, reported that "the Devine Chamber of Commerce has been handed a proposal for a hot rod strip." The paper's headline set out the bargain: "Eliminate Public Dragging / Drag Strip Now Being Studied." The hope was that a strip would help young boys see that "one place is best" for dragging.[^hah560831] A week later the paper reported that Devine enthusiasts had organized a Hot Rod Club with 11 charter members. David Williams was president, Douglas Holden vice-president, Cotton Wilborn secretary-treasurer and Dale Fell reporter. The by-laws promised to promote safety, build interest in "auto and speed mechanics," set up competitive events and "help fellow motorists at any time." The only requirement for membership was a driver's license.[^hah560907]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
-
-That October, Hondo racers were invited to New Braunfels for the Jaycees' first drags at the Clear Springs Air Strip, south of town toward Seguin. The races ran under NHRA sanction on an asphalt strip a mile long, which the paper noted "exceeds the half mile" required, with electric timing clocks and trophies in all 27 automotive and motorcycle classes. Meets were to be held on the third Sunday of each month.[^hah561019]
+In late August the Devine correspondent, Don Lawrence, reported that "the Devine Chamber of Commerce has been handed a proposal for a hot rod strip." The paper's headline set out the bargain: "Eliminate Public Dragging / Drag Strip Now Being Studied." The hope was that a strip would help young boys see that "one place is best" for dragging.[^hah560831] A week later the paper reported that Devine enthusiasts had organized a Hot Rod Club with 11 charter members. David Williams was president, Douglas Holden vice-president, Cotton Wilborn secretary-treasurer and Dale Fell reporter. The by-laws promised to promote safety, build interest in "auto and speed mechanics," set up competitive events and "help fellow motorists at any time." The only requirement for membership was a driver's license.[^hah560907]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> We have found no later item saying a strip was built at Devine.
 
 ## Castroville (1957)
 
-The big day came on a Sunday in February 1957. The **Alamo Timing Association**, working with Air Force and Castroville city officials, held March of Dimes charity drag races at the Castroville Municipal Airfield. They drew about 200 car entries and 30 motorcycles before an estimated crowd of 2,500. Bobby Joe Rutledge of San Antonio took top eliminator at 123.11. In the final he met Gilbert Goodlett of Corpus Christi, who drove a "Chevy V-8 powered 32' Ford Cpe." It was close in second gear, "but the mighty Ardun driven by Rutledge stormed away in high to win." The paper called the car an "Ardun-Merc" and added that it had turned 139.85 at Laredo.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Goodlett got top gas time at 102.44, and R. E. Sparks of Victoria was top motorcycle eliminator at 104.18. Harold Lozano reported the net proceeds for the association.[^hah570215]
+That October, Hondo racers were invited to New Braunfels for the Jaycees' first drags at the Clear Springs Air Strip, south of town toward Seguin. The races ran under NHRA sanction on an asphalt strip a mile long, which the paper noted "exceeds the half mile" required, with electric timing clocks and trophies in all 27 automotive and motorcycle classes. Meets were to be held on the third Sunday of each month.[^hah561019]
+
+The big day came on a Sunday in February 1957. The Alamo Timing Association, working with Air Force and Castroville city officials, held March of Dimes charity drag races at the Castroville Municipal Airfield. They drew about 200 car entries and 30 motorcycles before an estimated crowd of 2,500. Bobby Joe Rutledge of San Antonio took top eliminator at 123.11. In the final he met Gilbert Goodlett of Corpus Christi, who drove a "Chevy V-8 powered 32' Ford Cpe." It was close in second gear, "but the mighty Ardun driven by Rutledge stormed away in high to win." The paper called the car an "Ardun-Merc" and added that it had turned 139.85 at Laredo.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Goodlett got top gas time at 102.44, and R. E. Sparks of Victoria was top motorcycle eliminator at 104.18. Harold Lozano reported the net proceeds for the association.[^hah570215]
 
 That spring the Legislature passed two bills "affecting the hot rod crowd," as the paper put it. One made girls under 18 and boys under 17 responsible for their own traffic violations, and the other moved the decision on licenses for drivers under 16 from county judges to the Department of Public Safety.[^hah570524] In August the paper reported that Texas Aviation Industries was adding to Hondo Air Base a bowling alley, a driving range and, "for hot rod fans, a new automobile hobby shop" in the old National Guard motor pool.[^hah570802]
 
@@ -92,7 +94,7 @@ By fall the Castroville drags were regular. On Oct. 27 Jerry Koch of Hondo won a
 
 *Castroville's city hall, the former first Medina County courthouse, in 2013. Photo: Larry D. Moore, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons.*
 
-The paper's last word came 14 years later. In March 1971 the Sports Car Club of America asked Hondo for a one-time race at the old air field, and two councilmen pointed out that "the council has refused local people permission to hold drag races at the air field."[^hah710311] In the 1950s the county's airfields had hosted drag racing. By 1971 the town was turning down requests for it. For other small-town Texas clubs of the period, see [Cameron's Accelerators](cameron-accelerators.md) and [Canyon's Orchids, Plugs and Celtics](canyon-orchids-celtics-amarillo.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+The paper's last word came 14 years later. In March 1971 the Sports Car Club of America asked Hondo for a one-time race at the old air field, and two councilmen pointed out that "the council has refused local people permission to hold drag races at the air field."[^hah710311] In the 1950s the county's airfields had hosted drag racing. By 1971 the town was turning down requests for it. Devine had asked, and Castroville had drawn the crowd. For other small-town Texas clubs of the period, see [Cameron's Accelerators](cameron-accelerators.md) and [Canyon's Orchids, Plugs and Celtics](canyon-orchids-celtics-amarillo.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Open questions & disputed details
 

@@ -1,6 +1,6 @@
 ---
 title: 'Sand on the Track: Las Vegas, Henderson and Southern Nevada''s Eight Drag Strips (1953–2000)'
-summary: Las Vegas hot rodders who grew up in a junkyard got the sheriff to watch over their first legal drags on Vegas Valley Drive in 1953, then raced on a club-run Henderson runway where sand blew across the track and jet cars blasted the berm. Casino-backed Stardust, "Jean International" and the Speedrome followed.
+summary: Las Vegas hot rodders who grew up in a junkyard got the sheriff to watch their first legal drags in 1953. The sand blew onto the Henderson track, and it was on the track at Stardust and the Speedrome.
 department: drag-racing
 era: 1950s
 eras:
@@ -89,7 +89,7 @@ canonical_for: []
 ---
 # Sand on the Track: Las Vegas, Henderson and Southern Nevada's Eight Drag Strips (1953–2000)
 
-*A junkyard for a speed shop, a sheriff who sent his deputies to watch, and a desert strip where the wind kept bringing the sand back*
+*They grew up in a junkyard, the sheriff sent his deputies to watch, and the wind kept bringing the sand back*
 
 !!! abstract "Article record"
     **Confidence:** Medium (a hometown paper's 2011 retrospective built on racers' own memories, with a companion list that differs from it on dates; firsthand forum memories of the Henderson strip; one racer-historian's note from 1956 Nevada newspapers) · **Source types:** <span class="hr-badge">Grassroots</span> local newspaper retrospective (Jeff Wolf, *Las Vegas Review-Journal*, March 30, 2011, and its list "Dragstrips in Southern Nevada"); forum recollections (H.A.M.B., "Thunderbird Raceway- Henderson, Nevada circa 1960," 2011–22; Jalopy Journal post, 2011); a drag-racing database note drawn from 1956 newspapers (Mel Bashore, Draglist) · **Last verified:** 2026-10-30 (Round 27; quotes checked against the pages) · **Open issues:** Vegas Drive's years ⚠; the berm and the jet cars ⚠; AHRA Winter Nationals ◐; who built Stardust ? · [How we rate this](../reference/source-standards.md)
@@ -98,6 +98,8 @@ canonical_for: []
     "No one wanted us to race (illegally) on the streets, and the police began to accommodate us."
 
     — Cecil Fredi, an original member of the Las Vegas Hustlers, to the *Las Vegas Review-Journal* (2011).[^rj11]
+
+They grew up in a junkyard. In 1953 the original club members remember Sheriff Butch Leypoldt assigning officers to watch the first legal drags, "the first of Southern Nevada's eight dragstrips." The sand blew onto the Henderson track, and it was still on the track at Stardust and at the Speedrome they called the Sand-drome.
 
 Before there was a strip there was Main Street. Club members gathered downtown, cruised, and settled challenges in illegal races on the edge of a town that was then only a few blocks from Main. "We lived 'American Graffiti,'" Steve Kirby, an original member of the Las Vegas Hustlers, told the *Review-Journal* in 2001.[^rj11] The old racers credit three clubs, the Hustlers, the Sinners and the Crapshooters, with the racing fever of the mid-1950s.[^rj11]
 
@@ -128,6 +130,8 @@ The next eight years had no strip at all. The Southern Nevada Timing Association
 ## Up north: a dragster built with airplane parts
 
 Reno's racers had their own runway, the Douglas-Tahoe Airport near Minden. Mel Bashore's notes from 1956 Nevada papers describe Brent Tyler as "something of a mad scientist": for 1956 he moved his flathead to the rear of his dragster, with a turned-around Cord differential and Morris Minor torsion bars, and Warren Welsh turned the day's top speed, 118.03 mph, on May 27. Then the *Nevada State Journal* of July 1 ran the front-page headline "Man builds hot-rod with airplane parts." Tyler was arrested for grand larceny over $150 worth of parts from two planes parked at a Reno airport, until it turned out the owner's son had given him permission to take them from a wrecked Fairchild trainer, and the charges were dropped. That August the Cal-Neva Timing Association held half-mile races at Douglas-Tahoe.[^dl56]
+
+In Las Vegas they grew up in the junkyard, the sheriff assigning officers to watch the first strip. The sand was still on the track at the one they called the Sand-drome.
 
 *See also:* Utah's runway drags and the Salt Lake strip war of 1965, in [Sundays at Airport No. 2](utah-airport-no-2-salt-lake-strips.md).
 

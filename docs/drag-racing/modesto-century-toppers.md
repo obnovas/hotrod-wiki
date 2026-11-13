@@ -1,6 +1,6 @@
 ---
 title: 'Modesto''s Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946–50)'
-summary: Modesto's first hot rod club, the Century Toppers, met in the garage that launched a famous customizer and worked with the California Highway Patrol in 1949 (1946–50).
+summary: 'Modesto''s first hot rod club, the Century Toppers, met in a converted chicken coop, at Windy''s Custom Shop, and in 1949 the paper shows them working with the Highway Patrol. Whether the club began in 1946 or late 1947 is still open.'
 department: drag-racing
 eras:
 - 1940s
@@ -41,6 +41,8 @@ canonical_for: []
 ---
 # Modesto's Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946–50)
 
+*A club that met in a converted chicken coop, worked with the Highway Patrol in 1949, and an open year, 1946 or late 1947*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> local-history magazine/site interviews and a remembrance (Modestoview, Chris Murphy), enthusiast wiki summarizing Modesto Bee and Tracy Press clippings (Kustomrama) · **Last verified:** 2026-10-15 (Round 11) · **Open issues:** ⚠ founding year (1946 vs late 1947); the 1949–50 newspaper items are known only through Kustomrama's summaries, not the original clippings · [How we rate this](../reference/source-standards.md)
 
@@ -49,7 +51,7 @@ canonical_for: []
 
     — **Gene Winfield**, interviewed by Chris Murphy for Modestoview (undated, about the Modesto Cruise Route opening).[^int]
 
-The Century Toppers were Modesto's first hot rod club, named for cars that could top 100 mph. They matter here because the same garage where they met launched one of the country's best-known customizers, and because their 1949 paper trail shows a small-town club working **with** the California Highway Patrol rather than against it.[^mv]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+The Century Toppers were Modesto's first hot rod club, named for cars that could top 100 mph. They met in a converted chicken coop, at his "Windy's Custom Shop," and in 1949 the paper shows the club working with the California Highway Patrol.[^mv] Whether that was 1946 or late 1947 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## The coop, the jackets and the lakes
 
@@ -83,7 +85,7 @@ A month later the club was working with the police. On April 30, 1949, the *Mode
 
 This matches the pattern in [What the City Planners Wrote (1955)](planners-report-1955.md), which says the CHP worked with clubs from 1948 until a 1953 order ended it.
 
-The club also put cars on display. The Century Toppers held their first car show December 10–11, 1949 at the Griswold & Wight Ford dealership, with Orvel "Speed" Reichert in charge. Kustomrama adds that Winfield remembers **Al Slonaker**, the man behind the Oakland Roadster Show, visiting to choose cars for his first show.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side of that story.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The club also put cars on display. The Century Toppers held their first car show December 10–11, 1949 at the Griswold & Wight Ford dealership, with Orvel "Speed" Reichert in charge. Kustomrama adds that Winfield remembers Al Slonaker, the man behind the Oakland Roadster Show, visiting to choose cars for his first show.[^kr] See [the show circuit](../media/show-circuit.md) for the Oakland side of that story.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 <figure markdown>
 ![Gene Winfield demonstrating metalwork to students at the Milwaukee World of Wheels show, 2](../assets/images/commons-gene-winfield-milwaukee-2013.jpg){ loading=lazy }
@@ -94,6 +96,8 @@ The club also put cars on display. The Century Toppers held their first car show
 ![Winfield's Reactor (Citroën DS chassis, Corvair turbo engine), seen at a 2020 show in Vale](../assets/images/commons-winfield-reactor.jpg){ loading=lazy }
 <figcaption markdown>Winfield's *Reactor* (Citroën DS chassis, Corvair turbo engine), seen at a 2020 show in Valencia, California. Modestoview says it visited Modesto in recent years. It is later than the club years. Creator: PLawrence99cx. Date: 2020-08-27 19:45:39. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reactor_by_Gene_Winfield.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
+
+The 1949 papers put the club on the same side as the Highway Patrol. The year they started is still open.
 
 ## Open questions & disputed details
 

@@ -1,6 +1,6 @@
 ---
 title: '"Anyone With $3000": Jackson, Pearl and Mississippi''s Hometown Strips (1959–2024)'
-summary: 'Racers'' memories trace Mississippi''s own strips, from Jackson''s 1959 track and the Sports Arena to Riverside beside I-20 in Pearl, opened in 1972 and replaced by Pearl High School after a 1987 lawsuit, plus Greenville, Columbus, Nettleton and Grenada. The Jackson Dragway name ended up on a 500-foot strip in Byram.'
+summary: 'Racers'' memories are what remain of Mississippi''s hometown strips: a 1959 Jackson track that went to gravel, Riverside beside Interstate 20 opened in 1972 and replaced by Pearl High School after a 1987 lawsuit, and the Jackson Dragway name on a 500-foot strip in Byram.'
 department: drag-racing
 era: 1970s
 eras:
@@ -86,7 +86,7 @@ status: Riverside closed (site of Pearl High School); Byram Dragway racing (2024
 ---
 # "Anyone With $3000": Jackson, Pearl and Mississippi's Hometown Strips (1959–2024)
 
-*A finish line that turned to gravel, a '55 T-Bird still racing sixty years on, highway patrol cars parked along I-20, a bride who got lost past the finish line, and a grandfather's trophy nobody can place*
+*Hometown memories, from a 1959 finish line that went to gravel to a 500-foot strip in Byram with the Jackson Dragway name*
 
 !!! abstract "Article record"
     **Confidence:** Low (almost all of this is racers' and families' memories, one each, on a racer-built archive and a forum; Riverside's history comes from a local racer's site quoting an old-timer and the state's records; the strips' own dates are mostly unconfirmed) · **Source types:** <span class="hr-badge">Grassroots</span> racers' memories on *Drag Strip List* and *Racingjunk Forums*; a Pearl racer's hobby site; WJTV (Jackson) "Your Hometown" (2024) · **Last verified:** 2026-11-12 (Round 39 citation review) · **Open issues:** ? which 1959 Jackson track; ◐ who built and owned Riverside; ◐ Riverside into the 1990s; ◐ Grenada in the 1950s · [How we rate this](../reference/source-standards.md)
@@ -96,9 +96,11 @@ status: Riverside closed (site of Pearl High School); Byram Dragway racing (2024
 
     — Jeffery Slade, on Riverside Raceway in the late 1970s, *Drag Strip List*.[^dslms]
 
+Mississippi's drag racers mostly raced at home. What the record kept is what they remembered. A 1959 track north of Jackson went to gravel past the finish line. Riverside, in Pearl, opened beside Interstate 20 in 1972 and later lost the land to a high school. The Jackson Dragway name ended up on a 500-foot strip in Byram.
+
 ## Gravel past the finish line
 
-Mississippi's drag racers mostly raced at home. Asked on a racers' forum in 2009 where he made his first pass, a racer posting as JimmySmith answered: "Jackson Ms, 1959 Track was just north of Jackson." It was a "circle track and drag strip," and "after finish line it went to gravel."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>[^rj09]
+Asked on a racers' forum in 2009 where he made his first pass, a racer posting as JimmySmith answered: "Jackson Ms, 1959 Track was just north of Jackson." It was a "circle track and drag strip," and "after finish line it went to gravel."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>[^rj09]
 
 In the 1960s the place to race in Jackson was the Jackson Sports Arena. David Church ran a '55 Ford in junior stock there and sent the *Drag Strip List* a photo, taken by a friend in the mid-1960s, of Claude Young's '55 T-Bird in a match race against Albert Ray Dulaney's '55 Chevy. "We own the T-Bird now and still race it (Y-Block power now)."[^dslms] Sam Williford, born in 1973, never saw the strip, but he owns a car that raced there: Barney Lewis Sharp's red '62 Pontiac Catalina, the "Big Chief," photographed at the Arena around 1963–64 before it was lettered.[^dslms]
 
@@ -118,7 +120,7 @@ Up in the Delta, a Jimmy Smith (we can't tell if he is the forum poster) managed
 
 David Church raced once at the Columbus strip in 1972, while a student at Mississippi State, against a "home-made looking 'Christmas Tree.'" He remembered the "Oldtimer," a 1950 Olds from Greenwood that "always ran good," and lost the Super Stock final to an AMX.[^dslms] At Nettleton, Carolyn Cooley's cousin Michael drove the children around Bud's Race Track in an old coupe; her grandmother lived across the highway. David and Dexter Orear raced a Mr. Riley there one day, "We had beat him at Fulton Dragstrip," and Michael M. Mann remembered "top notch guys" coming in to race.[^dslms]
 
-Some of it is now only a trophy. Liz Durham's grandfather, Charles Preston Durham, "known locally as Brother Durham," came from Durant in Holmes County and raced around the state, she believes in the 1950s. Most of his trophies are lost, but she found one that says Grenada Dragways. "Does that ring any bells?"<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^dslms]
+Some of it is now only a trophy. Liz Durham's grandfather, Charles Preston Durham, "known locally as Brother Durham," came from Durant in Holmes County and raced around the state, she believes in the 1950s. Most of his trophies are lost, but she found one that says Grenada Dragways. "Does that ring any bells?"<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^dslms] They raced at home. The memories are what the record kept.
 
 *See also:* [Biloxi Dragway](biloxi-dragway-gulf-coast.md), the Gulf Coast's strip; [Ten for Ten at Biloxi](pascagoula-timing-association.md), Pascagoula's club; [Carlisle Drag Strip](carlisle-drag-strip-arkansas.md), across the river in Arkansas; [Dragging Main](../places/dragging-main.md).
 

@@ -1,6 +1,6 @@
 ---
 title: 'The Ace''s Runway: McDougall Field and the Pocatello Drag Strip (Idaho, 1928–1990s)'
-summary: Pocatello named its first airport for a World War I ace killed at an Armistice Day air show. After the city moved its airport in 1949, McDougall Field's east-west runway became eastern Idaho's drag strip, home to a timing-tower romance, a 1973 buyer and night racing; it closed in 1973, about 1993 or 1999, by different accounts.
+summary: Pocatello named its airport for a hometown ace killed at an Armistice Day air show. After 1949 the east-west runway was the drag strip, a timing-tower clerk said she would take a racer's keys, and the close is still given as 1973, about 1993, or 1999.
 department: drag-racing
 era: 1950s
 eras:
@@ -70,7 +70,7 @@ canonical_for: []
 ---
 # The Ace's Runway: McDougall Field and the Pocatello Drag Strip (Idaho, 1928–1990s)
 
-*An airport named for a hometown flier, a runway the interstate cut in half, and a timing-tower clerk who threatened to take a racer's keys*
+*An airport named for a hometown ace, a runway the interstate cut in half, and a timing-tower clerk who said she would take a racer's keys*
 
 !!! abstract "Article record"
     **Confidence:** Low (a local historian's newspaper column, an abandoned-airfields researcher's notes from site visits and maps, the Firebird Raceway National Register nomination and two Firebird family-history pieces agree that the old McDougall runway became Pocatello's drag strip; they disagree on when it closed, and no Pocatello newspaper page from the racing years has been read yet) · **Source types:** <span class="hr-badge">Grassroots</span> *Idaho State Journal* history column (Justin Smith, 2020); *Abandoned & Little-Known Airfields* (Paul Freeman, with recollections by Robert Pearson and Bret Kepner); National Register nomination for Firebird Raceway (2018); Firebird Raceway family history (2020, 2022); a compiled women racers' biography site; racers' recollections and Kathy Steinmetz's photograph captions on *Drag Strip List* · **Last verified:** 2026-11-09 (Round 36) · **Open issues:** ⚠ closed 1973, about 1993 or 1999; ◐ which "abandoned air base" hosted the 1954–55 Safety Safari; ◐ the year of Kathy Steinmetz's timing-tower story; ⚠ when McDougall Field was dedicated · [How we rate this](../reference/source-standards.md)
@@ -80,9 +80,11 @@ canonical_for: []
 
     — Kathy Steinmetz, on meeting Al Steinmetz at the Pocatello Drag Strip in 1967, as quoted on *Speed Queens of the Drag Strip*.[^wdr]
 
+From 1928, the field Pocatello named for a hometown ace was the airport, and then the drag strip. The interstate cut the runway in half. A clerk in the timing tower told a racer she would take his keys. The sources still do not agree when it closed: 1973, about 1993, or 1999.
+
 ## An airport for an ace
 
-In 1928 Pocatello bought a piece of land near what is now the Simplot plant, already in use as an informal landing field, and county tractors leveled the sagebrush that spring. The field wasn't finished, or dedicated, when Harry Owens McDougall came home that November for an Armistice Day air show. He was 32, a local boy who lived in Boise by then, Idaho's only flying ace of the Great War, with the Distinguished Flying Cross and the Croix de Guerre. During an air race two miles west of town his plane went into a tailspin and nose-dived into the ground, killing him and his 20-year-old sister-in-law, Elda Rice. The town renamed its airport for him. Local historian Justin Smith dates the official dedication of McDougall Field to Jan. 1, 1929; a commemorative postmark on the abandoned-airfields site reads Nov. 11, 1929.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^isj20][^af]
+In 1928 Pocatello bought a piece of land near what is now the Simplot plant, already in use as an informal landing field, and county tractors leveled the sagebrush that spring. The field wasn't finished, or dedicated, when Harry Owens McDougall came home that November for an Armistice Day air show. He was 32, a local boy who lived in Boise by then, Idaho's only flying ace of the Great War, with the Distinguished Flying Cross and the Croix de Guerre. During an air race two miles west of town his plane went into a tailspin and nose-dived into the ground, killing him and his 20-year-old sister-in-law, Elda Rice. The town renamed its airport for him. Local historian Justin Smith dates the official dedication of McDougall Field to Jan. 1, 1929. A commemorative postmark on the abandoned-airfields site reads Nov. 11, 1929.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^isj20][^af]
 
 The airport grew through the 1930s and the war: a paved east-west runway by 1941, three paved runways at its peak, a terminal with a restaurant downstairs and the control tower upstairs. Then the Army's much bigger Pocatello air base nearby went quiet after the war, and on Feb. 20, 1949, it was conveyed to the city to replace McDougall. McDougall Field disappeared from the aeronautical charts that year.[^isj20][^af]
 
@@ -112,7 +114,9 @@ The surface told its age. Vincent Hinman warned of "the low spot in the right ha
 
 How it ended depends on whom you ask.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> The nomination says that in 1973 the city "declined to renew the lease for the strip due to other environmental concerns," and Hemmings' 2019 story repeats that Pocatello "operated until 1973 based on a lease from that city." Robert Pearson, who grew up in Pocatello and walked the old field in 2002, remembered racing there much later: "The airport was used as a drag strip for several years but about 10 years ago that operation was shut down when FMC (the big factory just to the south) bought the property." Kepner agreed that the strip was purchased and was so worn by then that "it wouldn't have been around much longer, anyway."[^nrhp][^hemm19][^af] Kathy Steinmetz, who raced there from 1967, sold her car and became the announcer for Ed Jones in 1995, put the end later still: she announced "until the track closed in 1999." Her captions also have Hennessey buying the strip, not losing it, in 1973.[^dslid]
 
-The pull of the place outlasted the pavement. The nomination says the owner of Sage Raceway, the eighth-mile strip in Idaho Falls, "grew up racing on the track in Pocatello, and after realizing it had closed decided to open his own dragstrip." Satellite pictures still show the hangar foundations and slightly more than half of the old runway south of I-86, west of U.S. 30.[^nrhp][^af][^isj20]
+The nomination says the owner of Sage Raceway, the eighth-mile strip in Idaho Falls, "grew up racing on the track in Pocatello, and after realizing it had closed decided to open his own dragstrip." Satellite pictures still show the hangar foundations and slightly more than half of the old runway south of I-86, west of U.S. 30.[^nrhp][^af][^isj20]
+
+McDougall came home before the field was finished, and the town named the airport for him. The runway became the strip, the interstate cut it, and a racer brought his keys to the clerk in the tower. The sources still do not agree when it closed.
 
 *See also:* [The Bootleggers and Firebird Raceway](firebird-raceway-idaho-bootleggers.md), western Idaho's side of the story; [Twin Falls Main Avenue](../places/twin-falls-main-avenue.md); [Utah Airport No. 2](utah-airport-no-2-salt-lake-strips.md), another airport strip a day's tow south.
 
