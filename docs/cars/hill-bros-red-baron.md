@@ -1,6 +1,6 @@
 ---
 title: 'The "Red Baron": A Mock Apology on Wheels'
-summary: The Hill brothers' "Red Baron" Willys gasser and Pete Hill's 1967 mock apology letter to Drag News, told mostly through oral history and documents gathered on a Gasser Legends page.
+summary: The Hill brothers' "Red Baron" Willys was finished in eleven days, and Pete Hill's Oct 7, 1967 mock apology to Drag News needled the West Coast AA/GS teams.
 department: cars
 era: 1960s
 eras:
@@ -45,7 +45,7 @@ principal_source: "JR Thompson's Gasser Legends page, which includes Ken Kull's 
 ---
 # The "Red Baron": A Mock Apology on Wheels
 
-*The Hill brothers' '33 Willys, 1967–69*
+*The Hill brothers' '33 Willys, a 1967 mock apology to Drag News, finished in eleven days, 1967–69*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (Pete Hill, Dave Hales, Ken Kull), document (1967 Drag News letter), secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Record speed lacks a timing slip · [How we rate this](../reference/source-standards.md)
@@ -57,7 +57,7 @@ principal_source: "JR Thompson's Gasser Legends page, which includes Ken Kull's 
 
 ## "WE'RE SORRY"
 
-Pete Hill's mock apology letter to Drag News (dated Oct 7, 1967) needled the West Coast AA/GS teams: the Kohler Bros., Stone-Woods-Cook, Shores & Hess and Mazmanian. It promised to come west on Nov 1. Pete later wrote: "I wrote the enclosed letter... just to piss everyone off... I ran two runs....162- and 163.63. That record stood for two years."[^jrt]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Hot Rod/Mopar Muscle connects the 163.63 to an Orange County record in 1968.[^mm] We have not seen a period timing slip.
+Pete Hill's mock apology letter to Drag News (dated Oct 7, 1967) needled the West Coast AA/GS teams: the Kohler Bros., Stone-Woods-Cook, Shores & Hess and Mazmanian. It promised to come west on Nov 1. The Willys behind the letter had been finished in eleven days. Pete later wrote: "I wrote the enclosed letter... just to piss everyone off... I ran two runs....162- and 163.63. That record stood for two years."[^jrt]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Hot Rod/Mopar Muscle connects the 163.63 to an Orange County record in 1968.[^mm] We have not seen a period timing slip. Whether that record stood for two years is still open.
 
 ## How it got to Cleveland (per Dave Hales)
 
@@ -72,6 +72,8 @@ The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills buil
 The Red Baron raced until late 1969, then bracket-raced under another name. It sat about 30 years before Ken Kull and his father George bought it in spring 2000 and restored it to 1967 specification "in just eleven weeks."[^jrt]
 
 JR Thompson's page, which includes Pete's own letter, names the brothers **Pete and Bill** Hill.[^jrt] Chuck Finders' own career (CF Engineering, the "Dark Horse"/"Traveler" Willys, death date) and the Ohio scene around the Hills are on [The Ohio Gassers](../places/ohio-gassers.md).
+
+The letter needled the West Coast AA/GS teams. The car behind it was finished in eleven days. We have not seen a period timing slip.
 
 ## Open questions & disputed details
 

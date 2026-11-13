@@ -1,6 +1,6 @@
 ---
 title: Street Rod Before Street Rodder
-summary: Before Street Rodder there was Street Rod, a 64-page monthly made in Portland, Oregon, apartments. It ran 20 issues, from October 1971 to July 1973.
+summary: "Before Street Rodder there was Street Rod, a 64-page, 75-cent monthly made in Portland apartments. It ran 20 issues, from October 1971 to July 1973, and then the cash flow and the paper shortage ended it."
 department: media
 era: 1970s
 eras:
@@ -43,7 +43,7 @@ canonical_for: []
 ---
 # Street Rod Before *Street Rodder*
 
-*The Portland magazine (1971–73) and Bruce Miller*
+*A 64-page, 75-cent monthly from Portland, 20 issues, October 1971 to July 1973*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** collector's cover-and-contents index with a publication history informed by co-founder Bruce Craig (99W Speed Shop), founders' recollections (*Street Rodder* 40th anniversary, 2012/2014), period magazine profile (*Hot Rod*, July 1978), enthusiast memoir · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ First NSRA president (Bruce Miller vs Dick Wells); ⚠ "first Street Rod Nationals in Memphis in 1970" is a misstatement (Peoria 1970, Memphis 1971); single main source for business history; no copy of an issue seen · [How we rate this](../reference/source-standards.md)
@@ -53,15 +53,15 @@ canonical_for: []
 
     — Jim Clark, first editor of *Street Rodder*, recalled for its 40th anniversary (posted Apr 8, 2014). *Told about 40 years later.* [More in Voices](../voices/street-rodder-founding.md)
 
-Before ***Street Rodder*** there was ***Street Rod***. It was a 64-page, 75-cent monthly put together in Portland, Oregon, apartments by two men who met at church. It ran for **20 issues, October 1971 to July 1973**, and its title forced the California founders of *Street Rodder* to rename their magazine. That makes it one of the first periodicals devoted entirely to the new street-rod movement, and a Pacific Northwest one. It was an open question on our [Street Rodder founding](../voices/street-rodder-founding.md) page; this article answers it.
+Before *Street Rodder* there was *Street Rod*. It was a 64-page, 75-cent monthly put together in Portland, Oregon, apartments by two men who met at church. It ran for 20 issues, October 1971 to July 1973, and its title forced the California founders of *Street Rodder* to rename their magazine. That makes it one of the first periodicals devoted entirely to the new street-rod movement, and a Pacific Northwest one. It was an open question on our [Street Rodder founding](../voices/street-rodder-founding.md) page; this article answers it. The cash flow and a paper shortage ended it after the July 1973 issue.
 
 ## The founders
 
 *Street Rod* "was started by **Bruce Miller and Bruce Craig** in Portland, Oregon." Miller was "the publisher and the controlling owner."[^99w]
 
-Miller moved to Portland in **1971** to work for United Medical Lab. He met Craig **at church**. Craig offered to help because his wife "had experience with typesetting."[^99w]
+Miller moved to Portland in 1971 to work for United Medical Lab. He met Craig at church. Craig offered to help because his wife "had experience with typesetting."[^99w]
 
-The 99W history calls Miller "a real 'schmoozer'" who connected with **Tex Smith**. That connection "ultimately yielded a contract with **Kable News Service** for Street Rod's printing and distribution."[^99w]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+The 99W history calls Miller "a real 'schmoozer'" who connected with Tex Smith. That connection "ultimately yielded a contract with **Kable News Service** for Street Rod's printing and distribution."[^99w]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Bruce Miller and the NSRA
 
@@ -71,21 +71,21 @@ In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, To
 
 ## Making the magazine
 
-The first issue drew heavily on a **June 1971** trip Miller and Craig made to the **Yellowstone Rod Run** in a group of six to eight cars. The group included **John Slaughter**, "another church member, fellow hot rodder and investor." "Both Bruce's wrote copy and took photographs."[^99w]
+The first issue drew heavily on a June 1971 trip Miller and Craig made to the Yellowstone Rod Run in a group of six to eight cars. The group included John Slaughter, "another church member, fellow hot rodder and investor." "Both Bruce's wrote copy and took photographs."[^99w]
 
-Miller "funded the first year of production largely with his credit card."[^99w] **Spence Murray** traveled to Portland to help Craig produce the first issue.[^99w]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
+Miller "funded the first year of production largely with his credit card."[^99w] Spence Murray traveled to Portland to help Craig produce the first issue.[^99w]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
-The first issue ran **10,000 copies**. Production moved from Craig's apartment to Miller's (until March 1972), then to rented offices in Portland's **Sellwood** neighborhood. 99W places that "near Milwaukee, Oregon," meaning neighboring **Milwaukie**.[^99w]
+The first issue ran 10,000 copies. Production moved from Craig's apartment to Miller's (until March 1972), then to rented offices in Portland's Sellwood neighborhood. 99W places that "near Milwaukee, Oregon," meaning neighboring Milwaukie.[^99w]
 
-Others filled out the masthead. **Dale Moreau** was the photographer. Miller met him at United Medical Labs, and Moreau later became Freightliner's corporate photographer. **Russ Meeks**, "another well known Portland hot rodder," was technical editor.[^99w]
+Others filled out the masthead. Dale Moreau was the photographer. Miller met him at United Medical Labs, and Moreau later became Freightliner's corporate photographer. Russ Meeks, "another well known Portland hot rodder," was technical editor.[^99w]
 
-Sales were about **40,000 per month** net paid, as 99W tells it. Its own data note adds that the publisher "did not provide net paid circulation data to N.W. Ayer," so the figure cannot be checked against Ayer's directory.[^99w]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> The format was 64 pages at $0.75, with coverage of "how-to-do-its, rod run coverage, rodding trends, car features and club activities."[^99w]
+Sales were about 40,000 per month net paid, as 99W tells it. Its own data note adds that the publisher "did not provide net paid circulation data to N.W. Ayer," so the figure cannot be checked against Ayer's directory.[^99w]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> The format was 64 pages at $0.75, with coverage of "how-to-do-its, rod run coverage, rodding trends, car features and club activities."[^99w]
 
 ## The end (1973)
 
-The money ran short. In **January 1973** Craig "had not been paid." In a restructuring he took an ownership percentage and **a '39 Ford**. Miller's ownership "was ended by trading for a **Model A truck**." Slaughter, who owned a business that designed and installed golf courses, took control as publisher and editor.[^99w]
+The money ran short. In January 1973 Craig "had not been paid." In a restructuring he took an ownership percentage and a '39 Ford. Miller's ownership "was ended by trading for a **Model A truck**." Slaughter, who owned a business that designed and installed golf courses, took control as publisher and editor.[^99w]
 
-Craig later explained that the magazine bought paper on 90-day credit. During the **mid-1973 paper shortage**, with no supply contract, the printer required three months' prepayment, "and cash flow did not allow them to keep the magazine operating." It folded **after the July 1973 issue**.[^99w]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
+Craig later explained that the magazine bought paper on 90-day credit. During the mid-1973 paper shortage, with no supply contract, the printer required three months' prepayment, "and cash flow did not allow them to keep the magazine operating." It folded after the July 1973 issue.[^99w]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup>
 
 ### Issue run (per the 99W cover index)
 
@@ -96,6 +96,8 @@ Craig later explained that the magazine bought paper on 90-day credit. During th
 | Vol 3 | No 1 Jan/Feb 1973; No 3 Mar; No 4 Apr; No 5 May; No 6 June; No 7 **July 1973 (last)** |
 
 That is 20 issues, which matches 99W's count. There is no Vol 3 No 2, apparently because the combined January/February 1973 issue took that number.[^99w]
+
+The title had forced the California founders of *Street Rodder* to rename their magazine. It folded after the July 1973 issue.
 
 *See also:* [Street Rodder founding voices](../voices/street-rodder-founding.md), [NSRA and the early Nationals](../street-rodding/nsra-early-nationals.md), [Pacific Northwest](../places/pacific-northwest.md), [Street Rod Nationals era](../eras/1970s-street-rod-nationals.md), [The drag rags](../eras/1960s-drag-rags.md).
 

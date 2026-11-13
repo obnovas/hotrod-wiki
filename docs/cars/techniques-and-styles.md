@@ -1,6 +1,6 @@
 ---
 title: Techniques & Styles
-summary: 'A short guide to how customizing and hot rod styles changed: from 1930s "restyling" and the "fake Cord" to metal-finish versus lead, the lead-sled era and Pro Street.'
+summary: 'From about 1935 to 1946 customizing was called restyling, and the goal was a fake Cord, not a hot Ford. From 1949 to 1955 the look was named for the lead.'
 department: cars
 era: 1940s
 eras:
@@ -34,7 +34,7 @@ canonical_for: []
 ---
 # Techniques & Styles
 
-*Period-correct traits, and who got there first*
+*Early customizing was called restyling, and the goal was a fake Cord. Then the look was named for the lead*
 
 <figure markdown>
 ![A 1941 Ford V8-11A flathead in a Super DeLuxe](../assets/images/commons-ford-flathead-1941.jpg){ loading=lazy }
@@ -43,19 +43,21 @@ canonical_for: []
 
 ## From fake Cords to lead sleds
 
-Early customizing (c.1935–1946) was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k]
+Early customizing (c.1935–1946) was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k] The next era was named for the lead.
 
-The vocabulary grew with the work: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] Then channeling: Summers is credited with the first channel job by *Motor Life*, 1955<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>.[^k] The know-how traveled on paper, in Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs]
+The vocabulary grew with the work: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] Then channeling. Summers is credited with the first channel job by *Motor Life*, 1955.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^k] Whether Summers was first to channel a body is still open. The know-how traveled on paper, in Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs]
 
 Not every builder reached for the same material. Roy Hagy "didn't like to use much lead; he'd metal-finish everything" (Tom Sparks via Pat Ganahl).[^hagy] See [Roy Hagy](../people/roy-hagy.md).
 
-The next era was named for the lead. From about 1949 to 1955 the look was lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sectioning, with seams and holes finished in tin and lead (hence "lead sleds").[^revs] The chopped '49–'51 Mercury became the defining canvas after Sam Barris's '49.[^revs]
+From about 1949 to 1955 the look was lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sectioning, with seams and holes finished in tin and lead (hence "lead sleds").[^revs] The chopped '49–'51 Mercury became the defining canvas after Sam Barris's '49.[^revs]
 
 ## Under the hood
 
 The engine side had its own words. "Semi," "three-quarter," and "full race" cam grades come from Winfield's master cams ([Ed Winfield](../people/ed-winfield.md)).[^w] Add multi-carb intakes (Thickstun, Weiand, Edelbrock Slingshot, Navarro), milled or aluminum heads, and the GMC blower by 1948.[^ahrf]
 
 Decades later the street got a style of its own, [Pro Street](../eras/1980s-pro-street.md), from 1979 to the late 1980s.
+
+It was called "restyling," and the goal was a "fake Cord," not a hot Ford. The next era was named for the lead.
 
 *See also:* [Customs on Paper and in Plastic](../media/trend-books-kits-roth.md).
 

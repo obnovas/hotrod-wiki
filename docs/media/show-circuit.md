@@ -1,6 +1,6 @@
 ---
 title: Rope Barriers, Water Drums and the Show Circuit
-summary: The first National Roadster Show in Oakland had rope barriers on water drums and about 100 cars. From there, Detroit's Autorama and Portland's Roadster Show built the show circuit.
+summary: "The first National Roadster Show, Jan 19–22, 1950, had rope barriers on water drums and about 100 cars. Detroit's first Autorama, in 1953, had 45–50 vehicles, and Portland's show has been produced by volunteers since 1956."
 department: media
 era: 1950s
 eras:
@@ -53,7 +53,7 @@ canonical_for: []
 ---
 # Rope Barriers, Water Drums and the Show Circuit
 
-*Oakland, Detroit, ISCA and Portland*
+*Rope barriers, water drums, and about 100 cars in Oakland, then Detroit's Autorama and a Portland show run by volunteers*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** recollections (Mary Slonaker via Hot Rod), HOF bio, club histories, secondary · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** Attendance figures conflict · [How we rate this](../reference/source-standards.md)
@@ -63,31 +63,33 @@ canonical_for: []
 
     — Mary Slonaker, Hot Rod "Golden Oldie". [Full context in Voices](../voices/show-custom-voices.md)
 
-Hot Rod describes the first National Roadster Show this way: rope barriers held up by water-filled 55-gallon drums, pigeons in the rafters, and about 100 cars.[^go]
+Hot Rod describes the first National Roadster Show this way: rope barriers held up by water-filled 55-gallon drums, pigeons in the rafters, and about 100 cars.[^go] Detroit's Autorama and the Portland show, run by volunteers, came after. The circuit pulled California cars east.
 
 ## Oakland, 1950: "roadster," not "hot rod"
 
 It began as a sideshow. Promoter Al Slonaker first slipped some track roadsters and Barris customs into an "International Car Show" of new cars. Mary Slonaker recalled: "We didn't know rods from roller skates, but people liked them so much that Al decided the next year to hold a hot-rod-only car show." She added that "'hot rod' was still a no-no, so he substituted 'roadster'" (Hot Rod, "Golden Oldie").[^go]
 
-The show ran **Jan 19–22, 1950**, at the Oakland Exposition Building.[^go]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The show ran Jan 19–22, 1950, at the Oakland Exposition Building.[^go]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The first America's Most Beautiful Roadster (AMBR) was Bill Niekamp's lakes-bred '29 Ford roadster of Long Beach. Larry Neves (Oakland) and Fred Ige (West LA) were runners-up, and a roadster was built on the floor in 32 hours under Ben Hubbard.[^k50] "Grand" was added to the name in 1963.[^hr]
 
-The AMBR list is dominated by T and A roadsters through the 1950s, then Richard Peters' **Ala Kart** won in 1958 and 1959 (Rod Shows).[^rs] In 1970 the AMBR winner, Andy Brizio, drove his '23 T to Peoria ([Peoria 1970](../eras/1970s-street-rod-nationals.md)).[^rc]
+The AMBR list is dominated by T and A roadsters through the 1950s, then Richard Peters' Ala Kart won in 1958 and 1959 (Rod Shows).[^rs] In 1970 the AMBR winner, Andy Brizio, drove his '23 T to Peoria ([Peoria 1970](../eras/1970s-street-rod-nationals.md)).[^rc]
 
 ## Detroit Autorama, 1953, and the circuit
 
-Detroit started smaller. According to SEMA's Hall of Fame bio of Bob Larivee Sr., the first Autorama (1953, University of Detroit Field House) had only **45–50 vehicles**. It was a fundraiser for the New Baltimore strip, Motor City Dragway, which opened in spring 1957 with Larivee as its first manager ([Detroit & Cordova](../drag-racing/detroit-cordova.md)).[^sema]
+Detroit started smaller. According to SEMA's Hall of Fame bio of Bob Larivee Sr., the first Autorama (1953, University of Detroit Field House) had only 45–50 vehicles. It was a fundraiser for the New Baltimore strip, Motor City Dragway, which opened in spring 1957 with Larivee as its first manager ([Detroit & Cordova](../drag-racing/detroit-cordova.md)).[^sema]
 
-Promoter **Don Ridler** brought in musical acts: "Little Anthony & the Imperials, the Big Bopper and the Kalin Twins." The cars were now sharing the bill with pop music.[^sema]
+Promoter Don Ridler brought in musical acts: "Little Anthony & the Imperials, the Big Bopper and the Kalin Twins." The cars were now sharing the bill with pop music.[^sema]
 
-Then the show became a business. In 1959 Larivee and his brother Marvin Jr. formed **Promotions Inc.** Their first shows were with Ontario clubs (the Piston Pushers of Hamilton and the Tecumseh Hot Rod association of Windsor), and Toronto in 1960 made a $10,000 profit.[^sema] In 1962 he went west to court Edelbrock, Weiand's Ed Cholakian, Roth and Wally Parks. In **1963** he created the **International Show Car Association (ISCA)** to standardize judging.[^sema] SEMA says Promotions Inc. was putting on 100 shows a year twenty years later.[^sema] Detroit's automakers used his shows for debuts, such as the Mustang.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+Then the show became a business. In 1959 Larivee and his brother Marvin Jr. formed Promotions Inc. Their first shows were with Ontario clubs (the Piston Pushers of Hamilton and the Tecumseh Hot Rod association of Windsor), and Toronto in 1960 made a $10,000 profit.[^sema] In 1962 he went west to court Edelbrock, Weiand's Ed Cholakian, Roth and Wally Parks. In 1963 he created the International Show Car Association (ISCA) to standardize judging.[^sema] SEMA says Promotions Inc. was putting on 100 shows a year twenty years later.[^sema] Detroit's automakers used his shows for debuts, such as the Mustang.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 The circuit was a Midwest–Canada invention that pulled California cars east, not the other way round.
 
 ## Portland Roadster Show (1956)
 
-In Portland, volunteers run the show. The Multnomah Hot Rod Council was founded in 1954 by Dee Wescott, "community members and elected officials." It produces the **Portland Roadster Show**, which it has owned and produced since 1956. MHRC calls it "the only [large show] that is ran entirely by volunteers."[^mhrc] See [Pacific Northwest](../places/pacific-northwest.md).
+In Portland, volunteers run the show. The Multnomah Hot Rod Council was founded in 1954 by Dee Wescott, "community members and elected officials." It produces the Portland Roadster Show, which it has owned and produced since 1956. MHRC calls it "the only [large show] that is ran entirely by volunteers."[^mhrc] See [Pacific Northwest](../places/pacific-northwest.md).
+
+Oakland started with the rope barriers, the water drums, and about 100 cars. The circuit pulled California cars east. In Portland the large show is the one the volunteers run.
 
 *See also:* [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
 
