@@ -52,7 +52,7 @@ canonical_for: []
 ---
 # Memphis and the Mid-South
 
-*A bomber base, a bo-weevil and a missing Sun Records story*
+*An old bomber base at Halls, a Bo-Weevil at Lakeland, Rodders from 1947, and no Sun Records story*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> small-town newspaper race results (1962), club history site, school history site, SEMA article (citing Hot Rod 1955), obituary/recollection, photo index · **Last verified:** 2026-10-13 (Round 6); Sun Records section updated 2026-10-16 (Round 15); Bootheel section added 2026-10-21 (Round 19); Kingfish, Lunati and Rodders additions 2026-10-22 (Round 20) · **Open issues:** Halls start year ⚠; September 1955 meet result ◐; Two-Lane Blacktop at Lakeland ◐; no independent Sun Records link; one company claim about the Union and Marshall corner ◐ · [How we rate this](../reference/source-standards.md)
@@ -64,17 +64,17 @@ canonical_for: []
 
 ## Halls: racing on an old bomber base
 
-The drags ran at an abandoned WWII air base at **Halls, Tennessee**, about 70 miles from the city.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Memphis racing was a Mid-South circuit. The drags ran at an abandoned WWII air base at Halls, Tennessee, about 70 miles from the city. The cars went north to the Bootheel. The Memphis Rodders date from 1947. A documented link to Sun Records is not in the sources. Whether the start was 1953 or 1955 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-The biggest day there was the **September 1955 NHRA Drag Safari meet**: 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the **Dallas Custom Racing Team** winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
+The biggest day there was the September 1955 NHRA Drag Safari meet: 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the Dallas Custom Racing Team winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
 
 ## Ray Godman and Lakeland Dragway (1960–79)
 
-By 1960 Memphis had a strip of its own. Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in **Lakeland Dragway**, which opened **July 4, 1960**. Its first starter was **Buster Couch**, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
+By 1960 Memphis had a strip of its own. Ray Godman was a Korean War veteran who had been wounded by a sniper, and he became an NHRA advisor. He and Red Dyer won their class at the 1955 Great Bend Nationals. He was a partner in Lakeland Dragway, which opened July 4, 1960. Its first starter was Buster Couch, later NHRA's chief starter. He also ran the Bo-Weevil Top Fuel car with Preston Davis.[^sema][^bs]
 
 Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It is reportedly a location in *Two-Lane Blacktop* (1971).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first **Hot Rod Fastest Street Car Shootout** in 1992.[^hr92][^hr12]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first Hot Rod Fastest Street Car Shootout in 1992.[^hr92][^hr12]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Road trips to the Bootheel (1962–66)
 
@@ -82,19 +82,21 @@ Memphis cars went north to race, too. At the SEMO Drag Strip on the old Malden A
 
 ## The Memphis Rodders (1947) and the Street Rod Nationals
 
-The city's car-club scene goes back further. The **Memphis Rodders** date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at **Klyce Motors, 17 S. Cleveland**, on **March 15, 1952**.[^mr]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
+The city's car-club scene goes back further. The Memphis Rodders date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at Klyce Motors, 17 S. Cleveland, on March 15, 1952.[^mr]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
-The club's best-known alumnus in the parts business is **[Joe Lunati](../people/joe-lunati.md)**, who "began drag racing with the Memphis Rodders in the early '60s," opened his own cam shop in 1968 (his family says 1969<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>), and was still showing up at Rodders reunions late in life.[^edel] His family called him "a cornerstone in the Memphis drag racing history."[^lunobit]
+The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
+
+The club's best-known alumnus in the parts business is [Joe Lunati](../people/joe-lunati.md), who "began drag racing with the Memphis Rodders in the early '60s," opened his own cam shop in 1968 (his family says 1969<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>), and was still showing up at Rodders reunions late in life.[^edel] His family called him "a cornerstone in the Memphis drag racing history."[^lunobit]
 
 The street-rod crowd came too. Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NSRA](../street-rodding/nsra-early-nationals.md).
 
 ## Sun Records?
 
-We looked for a documented link between Sun Records-era musicians and Memphis builders or clubs and **found none**. We aren't going to invent one. The photo below shows the place and the period only.
+We looked for a documented link between Sun Records-era musicians and Memphis builders or clubs and found none. We aren't going to invent one. The photo below shows the place and the period only.
 
 There is one company claim, and it is about a street corner, not a musician. COMP Cams says its founders' Racing Head Service rented a shop "at the corner of Union and Marshall, which happened to be Sun Studios, where Elvis was discovered."<sup class="hr-q" id="qr-9"><a href="#q-9" title="Single source so far: see Open questions">◐</a></sup> Read the full story, with its doubts, in [COMP Cams & Racing Head Service](../companies/comp-cams-rhs.md).[^comp15]
 
-The Rodders also traveled. Chilton's *Motor Age* (June 1955, sponsor-written) says the Rodders of Memphis "won second place last year with a speed of 130.05 mph" at the ATAA's 1954 World Series (the scan cuts the sentence before it, so the category is unclear), and lists the Memphis Rodders among the 1955 contingents. See [Half Day, Illinois](../drag-racing/half-day-ataa-maremont.md).[^r12ma]
+The bomber base had the meets, the Bo-Weevil ran at Lakeland, and the Rodders date from 1947. A Sun Records story is not in the record.
 
 *See also:* [Second Sunday at Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md), an Arkansas bomber-field strip where, one racer wrote, "the latest stuff always seemed to come from Memphis."
 

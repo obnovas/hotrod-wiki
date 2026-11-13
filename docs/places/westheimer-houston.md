@@ -1,6 +1,6 @@
 ---
 title: Westheimer Road, Houston
-summary: Houston's 1980s cruise on Westheimer Road, east through Montrose to a turnaround at Elgin and back.
+summary: Cruisers drove Westheimer east through Montrose, turned around at Elgin, and drove back. About 1986 the city set up roadblocks, and Lomax says it vanished in about a month.
 department: places
 eras:
 - 1970s
@@ -37,10 +37,12 @@ status: "a **regional repeat gathering**, with no documented builder or company 
 ---
 # Westheimer Road, Houston
 
-*The teenage ritual of the late 1970s to 1986*
+*From the late 1970s to about 1986, cruisers drove Westheimer and turned back, the way a small town does*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** first-person newspaper column (John Nova Lomax, Houston Press, Aug 12, 2009) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** One source; the crackdown date is approximate ("about 1986") · [How we rate this](../reference/source-standards.md)
+
+From the late 1970s, cruisers drove east from west Houston through Montrose, turned around at Elgin, and drove back. John Nova Lomax did it as a Strake Jesuit student. About 1986 the city set up roadblocks, banning turning off of side-streets, and he says it vanished in about a month.
 
 ## The ritual
 
@@ -60,7 +62,7 @@ The city ended it, quickly:
 >
 > — **Lomax**, 2009.[^hp]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-The kids did not stop cruising. He says the scene then moved to the Richmond Strip, Shepherd Plaza, downtown, Midtown and Washington Avenue.[^hp]
+The kids did not stop cruising. He says the scene then moved to the Richmond Strip, Shepherd Plaza, downtown, Midtown and Washington Avenue.[^hp] Whether that date is 1986 is still open. They drove down the strip and turned back around, the way a small town does, and the city ended it in about a month.
 
 ## Open questions & disputed details
 

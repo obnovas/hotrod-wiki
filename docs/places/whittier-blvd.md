@@ -1,6 +1,6 @@
 ---
 title: Whittier Boulevard
-summary: Cruising Whittier Boulevard in East Los Angeles, which the LA Times called "an odd ritual" in 1979, until the Sheriff's Department closed it.
+summary: The LA Times called cruising Whittier Boulevard an odd ritual in 1979. The Sheriff's Department barred the mile, and cruising came back in 2017.
 department: places
 era: 1970s
 eras:
@@ -44,12 +44,12 @@ later: "cruising returned in 2017, under a 1997 county ordinance.<sup class=\"hr
 ---
 # Whittier Boulevard
 
-*East Los Angeles, 1960s–1979; 2017 revival*
+*An odd ritual in 1979, the mile barred, and cruising back on the boulevard in 2017*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times 1979 via 2017 archive feature; LA Times 2017), local history blog (Barrio Boychik 2015) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure date; violence figures come from the Sheriff's Dept · [How we rate this](../reference/source-standards.md)
 
-The LA Times called cruising Whittier "an odd ritual–a cross among a harmless urban mating dance, a California car obsession, a relief from boredom and a senseless flirtation with death" in 1979, and "a tradition gone sour, tarnished by gang violence." It quoted the Sheriff's Department: 16 homicides on Whittier in the past year and a half, half of all gang-related deaths in its East LA jurisdiction.[^lat79] Every Friday, Saturday and Sunday, from 9:30 p.m. to 5 a.m., all vehicles were barred from the mile-long stretch.[^lat17]
+In 1979 the LA Times called cruising Whittier "an odd ritual–a cross among a harmless urban mating dance, a California car obsession, a relief from boredom and a senseless flirtation with death", and "a tradition gone sour, tarnished by gang violence." It quoted the Sheriff's Department: 16 homicides on Whittier in the past year and a half, half of all gang-related deaths in its East LA jurisdiction.[^lat79] Every Friday, Saturday and Sunday, from 9:30 p.m. to 5 a.m., all vehicles were barred from the mile-long stretch.[^lat17] When that closure started is still open. The street drew national attention that year through the film *Boulevard Nights*.
 
 ## In their own words
 
@@ -65,7 +65,7 @@ Nearly forty years later the cruise came back, and the voices were mixed:
 
 ## How it fits
 
-This is a regional repeat gathering, documented for its policing history more than for links to specific shops or builders.
+Cruising returned in 2017, under a 1997 county ordinance. The Times had called it an odd ritual and a tradition gone sour. The Sheriff's Department barred the mile. Cruising came back.
 
 *See also:* [The Ruelas Brothers and the Dukes](../voices/ruelas-dukes.md).
 

@@ -54,6 +54,8 @@ canonical_for: []
 ---
 # Dragging Main: The Small-Town Loop, in the Kids' Own Words (1950s–1980s)
 
+*One main street, a loop until midnight, and the kids' own words for it: dragging Main*
+
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> high school yearbooks (Franklin, N.C., 1957–58; Scottsbluff, Neb., 1979; Hays, Kan., 1987), a university oral history (Richmond, Calif., interviews of 1985), and one small-town newspaper editorial already on this wiki (Twin Falls, Idaho, 1957), all read as scanned OCR · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** yearbooks speak for the students who wrote them, not for a whole town ◐; the 1987 Hays yearbook gives two different starting points for the loop ◐; no ordinance, arrest count or police record for any of these loops has been found yet; "dragging Main" meant a slow loop in some places and a race in others, and the sources rarely say which · [How we rate this](../reference/source-standards.md)
 
@@ -62,25 +64,25 @@ canonical_for: []
 
     — **Kathy Lennox and Dawn Shields**, students, in the 1987 Hays High School yearbook, Hays, Kansas.[^hays87]
 
-Every town with one main street and too many teenagers invented the same thing and gave it the same name. You got in the car, you drove from one end of Main to the other, you turned around, and you did it again until midnight. Nobody needed a club, a strip or a sanction. They called it **dragging Main**.
+Every town with one main street and too many teenagers invented the same thing and gave it the same name. You got in the car, you drove from one end of Main to the other, you turned around, and you did it again until midnight. Nobody needed a club, a strip or a sanction. They called it dragging Main.
 
-The big cruise strips on this wiki, from [Woodward](woodward.md) to [Van Nuys](van-nuys.md), have books and documentaries. The small ones mostly have yearbooks. This page collects what the kids themselves wrote down, town by town. None of these loops is tied to a famous builder or company. They are recorded here as what they were: **regional repeat gatherings**, every Friday and Saturday night, for decades.
+The big cruise strips, from [Woodward](woodward.md) to [Van Nuys](van-nuys.md), have books and documentaries. The small ones mostly have yearbooks. None of these loops is tied to a famous builder or company. They were regional repeat gatherings, every Friday and Saturday night, for decades.
 
-The phrase could mean two different things. In **Twin Falls, Idaho**, in 1957, a woman told the local paper that some girls had invited her to go "dragging Main," which they said meant racing any other carload of teenagers down the avenue (see [Main Avenue, Twin Falls](twin-falls-main-avenue.md)). Everywhere else in this file, it means a slow parade. The yearbooks below describe looking, honking and turning around, not racing. When an old-timer says he "dragged Main," it is worth asking which kind.
+The phrase could mean two different things. In Twin Falls, Idaho, in 1957, a woman told the local paper that some girls had invited her to go "dragging Main," which they said meant racing any other carload of teenagers down the avenue (see [Main Avenue, Twin Falls](twin-falls-main-avenue.md)). In the yearbooks below, it means a slow parade. The yearbooks describe looking, honking and turning around, not racing. When an old-timer says he "dragged Main," it is worth asking which kind.
 
 ## Franklin, North Carolina (1957–58): a hobby you could list
 
 In the Franklin High School yearbook, *The Laurel Leaf*, every senior listed a motto, activities, a hobby and future plans. In 1957, one senior gave his hobby as "Dragging Main, resting," and another simply as "Dragging Main."[^ff57] The next year's seniors listed "Hunting, fishing, loafing, and dragging main" and "Driving, loafing, and dragging main." Both of the 1958 seniors gave the Air Force as a future plan.[^ff58]
 
-That is the whole record, and it says a lot. In a small North Carolina town in 1957, dragging Main was ordinary enough to print beside hunting and fishing as something a boy did with his time.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+In a small North Carolina town in 1957, dragging Main was ordinary enough to print beside hunting and fishing as something a boy did with his time. We have not found a Franklin newspaper item about it.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Richmond, California (1950s): "You would have a hard time getting across"
 
 On the West Coast, the record is an adult's. In 1985 the University of California's Regional Oral History Office interviewed a longtime Richmond couple, **Harry and Marguerite Williams**, for a series on the city's history. The interviewer, Judith Dunning, asked about the 1950s. Marguerite Williams, born in 1924, remembered the cruise as a traffic problem.
 
-"These kids would tie the streets up dragging the main. You would have a hard time getting across," she said. The town had little else for teenagers to do, she said, with no movie theaters, and "they were dragging the main over on San Pablo, but they didn't want them to do it in Richmond."[^rich85] She recalled police stopping drivers, checking identification and looking for beer, and she said the tickets did not fall evenly on every group of kids, a complaint that came up at the city council more than once.[^rich85]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+"These kids would tie the streets up dragging the main. You would have a hard time getting across," she said. The town had little else for teenagers to do, she said, with no movie theaters, and "they were dragging the main over on San Pablo, but they didn't want them to do it in Richmond."[^rich85] She recalled police stopping drivers, checking identification and looking for beer, and she said the tickets did not fall evenly on every group of kids, a complaint that came up at the city council more than once. It is one witness's memory, recorded some 30 years later.[^rich85]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-Hers is the only adult voice on this page, and the only one who did not enjoy it.
+Hers is the only adult voice, and the only one who did not enjoy it.
 
 ## Scottsbluff, Nebraska (1979): Broadway and McDonald's
 
@@ -99,7 +101,7 @@ Scottsbluff had organized drag racing too. *Car Craft*'s national strip calendar
 
 The best description we have found is a two-page spread in the 1987 Hays High School yearbook, signed by **Kathy Lennox and Dawn Shields**. It opens with a claim nobody would dispute: "One thing Hays has in common with towns of every size across America -the teenagers drag Main."[^hays87]
 
-Then it gives the route. Draggers "usually enter Main on or around Thirteenth street, the Fox Theater corner." They drive all the way down Main to **Fourth Street and the Varsity Drive-In**, "a hangout for "couples to be" or friends who just want to meet," and turn around.[^hays87]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+Then it gives the route. Draggers "usually enter Main on or around Thirteenth street, the Fox Theater corner." They drive all the way down Main to Fourth Street and the Varsity Drive-In, "a hangout for "couples to be" or friends who just want to meet," and turn around. A caption on the same spread says "starting from about Eighth and Main."[^hays87]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 The writers explain why it worked: dragging Main "is a way to centralize all weekend activities. Usually by driving down once, you can see all of your friends."[^hays87] Most draggers were from Hays High and Thomas More Prep, with visitors from Ellis, Victoria, Russell and Plainville. "After all, the nearest "city" is Salina, 90 miles away." College students drove it once or twice after the bars and parties.[^hays87]
 
@@ -112,9 +114,9 @@ Not everyone was charmed. The older generation thought it "a waste of gas and ti
 
 ## What the four towns share
 
-Three of them had a fixed route between two landmarks: a theater at one end and a drive-in at the other (Hays); a main street and a McDonald's (Scottsbluff); one avenue and not the next town's (Richmond). The adults complained the same way, about wasted gas and a street you couldn't cross. Richmond in the 1950s and Hays in 1987 say nearly the same thing about the traffic, 30 years apart.
+Three of them had a fixed route between two landmarks. Hays had a theater at one end and a drive-in at the other. Scottsbluff had a main street and a McDonald's. Richmond had one avenue, and not the next town's. The adults complained the same way, about wasted gas and a street you couldn't cross. Richmond in the 1950s and Hays in 1987 say nearly the same thing about the traffic, 30 years apart.
 
-There was a sense of inheritance, too. "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier.
+There was a sense of inheritance, too. "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier. You drove from one end of Main to the other, you turned around, and you did it again until midnight. They called it dragging Main.
 
 *See also:* [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>; [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
 

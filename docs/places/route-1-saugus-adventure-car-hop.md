@@ -52,7 +52,7 @@ canonical_for: []
 ---
 # A Quarter Mile to the Overpass: Adventure Car Hop, the Ginsburger and Route 1 in Saugus (Mass., 1958–1964)
 
-*A drive-in with a pecking order, a burger served on a record, and a race to the bridge*
+*A Ginsburger, a pecking order, and a race to the overpass, until the lot was paved over*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the scene rests on one regular's memoir and readers' memories, and the radio side on the *Boston Globe*'s obituary; where the car hop stood and when it closed come from secondhand reports) · **Source types:** <span class="hr-badge">Grassroots</span> a regular's memoir in *Hemmings* (2018), a Boston-area blog post with readers' memories (2011–20), the Boston Radio Interest mailing list (1998, relaying a Saugus Historical Society book and a 1990 *Boston Globe* story), a diner-history blog (2008), the *Boston Globe* obituary of Arnie Ginsburg (2020), the Music Museum of New England, Wikipedia (one hall of fame fact) · **Last verified:** 2026-11-04 (Round 32) · **Open issues:** ◐ when the car hop closed; ? where it stood, and which bridge ended the races; ◐ Ginsburg's hot rod hall of fame honor · [How we rate this](../reference/source-standards.md)
@@ -61,6 +61,8 @@ canonical_for: []
     "From the exit of Adventure's parking lot to the first overpass on Route 1 was almost exactly a quarter mile."
 
     — a regular remembering the fall of 1958, "Three-speed stick," *Hemmings*, 2018.[^hem]
+
+From the fall of 1958, teenagers from around Boston went to the Adventure Car Hop on Route 1 in Saugus for a Ginsburger and a race. The exit of the lot to the first overpass was almost exactly a quarter mile. Then the spot was paved over.
 
 ## The lot
 
@@ -76,7 +78,7 @@ People drove a long way for it. One reader of the 2011 blog post remembered goin
 
 ## The quarter mile
 
-Then there was the road. The exit of the lot was almost exactly a quarter mile from the first overpass on Route 1, the *Hemmings* writer remembered, "So it was not uncommon to see a pair of cars head out, stage quickly, accelerate to the overpass, then back off. We'd listen intently, count the shifts, and shriek when we heard the inevitable chirp of burnt rubber." The winner usually came back waving; "the loser slunk off in shame." They raced for a few bucks, or to see who would pay for the burgers: "We didn't race for the Massachusetts equivalent of pink slips; that was only in the movies."[^hem] One of the blog's readers put it in a line: "I remember the drags from ACH to the Walnut Street bridge!"[^glob]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Then there was the road. The exit of the lot was almost exactly a quarter mile from the first overpass on Route 1, the *Hemmings* writer remembered, "So it was not uncommon to see a pair of cars head out, stage quickly, accelerate to the overpass, then back off. We'd listen intently, count the shifts, and shriek when we heard the inevitable chirp of burnt rubber." The winner usually came back waving; "the loser slunk off in shame." They raced for a few bucks, or to see who would pay for the burgers: "We didn't race for the Massachusetts equivalent of pink slips; that was only in the movies."[^hem] One of the blog's readers put it in a line: "I remember the drags from ACH to the Walnut Street bridge!"[^glob]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> Where the lot stood, and whether that bridge was the first overpass, is still open.
 
 A sanctioned strip existed. "Sure, we could head up to Sanford, Maine, our nearest sanctioned drag strip, but dragging it out on Route 1 was immediate gratification."[^hem] (Sanford's airport drags are told on [their own page](../drag-racing/sanford-cain-bannister.md).) The Saugus police patrolled that stretch loosely, the state police turned up now and then, and the officers to watch for were the Registry of Motor Vehicles', who would "pounce on a car with loud mufflers or a burned-out taillamp like crows on carrion."[^hem]
 
@@ -84,7 +86,9 @@ A sanctioned strip existed. "Sure, we could head up to Sanford, Maine, our neare
 
 The car hop did not outlast the early 1960s. Fast-food chains were taking the car hops' customers as the decade went on, the diner-history blogger wrote.[^dhw] In 1998 a Boston radio historian, Donna Halper, told a mailing list that a 1990 *Boston Globe* story about car hops said Adventure had closed in 1964, and asked, "can that be right?"[^bri]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> The same week she relayed that a Saugus Historical Society book put it on the north side of Route 1 at Walnut Street, and a listener who went looking found the spot beside the Continental restaurant and Caruso's Diplomat, a storage shed in "a gigantic parking area." "It had all been paved over."[^bri]
 
-Ginsburg went on to manage radio stations and, in the 1980s, to help launch a Boston music-video channel; he died in 2020 at 93.[^globe][^mmone] Wikipedia lists him among the inductees of the [New England Hot Rod Hall of Fame](../drag-racing/new-england-dragway-epping.md#hall-of-fame-at-the-pit-gate), as the radio voice behind the region's cruising soundtrack.[^wpned]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see the bottom of the page">◐</a></sup>
+Ginsburg went on to manage radio stations and, in the 1980s, to help launch a Boston music-video channel; he died in 2020 at 93.[^globe][^mmone] Wikipedia lists him among the inductees of the [New England Hot Rod Hall of Fame](../drag-racing/new-england-dragway-epping.md#hall-of-fame-at-the-pit-gate), as the radio voice behind the region's cruising soundtrack.[^wpned]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see the bottom of the page">◐</a></sup> Only Wikipedia says so.
+
+The lot had a pecking order and a Ginsburger on a 45. The race was to the overpass. Then the spot was paved over.
 
 *See also:* [The Restless Ribbon](brookside-restless-ribbon-tulsa.md), Tulsa's drive-in pecking order; and [New England Dragway](../drag-racing/new-england-dragway-epping.md), the strip the region's clubs built in 1966.
 

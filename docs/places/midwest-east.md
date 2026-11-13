@@ -1,6 +1,6 @@
 ---
 title: 'Beyond California: Midwest & East Threads'
-summary: 'Threads from the Midwest and East: JEGS in Columbus, Bucks County strips and other scenes far from California.'
+summary: 'East of California the threads are a Columbus parts store, a Peoria club, and the cars around Detroit. Each one is a fuller story.'
 department: places
 era: 1960s
 eras:
@@ -48,7 +48,7 @@ canonical_for: []
 ---
 # Beyond California: Midwest & East Threads
 
-*A working index of everybody who wasn't in California*
+*A Columbus parts store, a Peoria club, and the cars around Detroit*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** club/HOF histories, local magazine · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
@@ -58,27 +58,29 @@ canonical_for: []
 
     — Leonard Miller, on 1960s Bucks County strips, WHYY 2018. [Full context in Voices](../voices/leonard-miller.md)
 
-These are the threads we have followed east of California. Each one leads to a fuller story; see also [Ed Almquist](../people/ed-almquist.md) (PA), [Setto Postoian](../people/setto-postoian.md) (MI), and [Mr. Gasket](../companies/mr-gasket.md) (OH).
+East of California, the threads are a parts store, a club, and the cars. Each one leads to a fuller story: [Ed Almquist](../people/ed-almquist.md) (PA), [Setto Postoian](../people/setto-postoian.md) (MI), and [Mr. Gasket](../companies/mr-gasket.md) (OH).
 
 ## A parts store in Columbus, a club in Peoria
 
 In Columbus, Ohio, the thread is a parts store. Jeg Coughlin was "frustrated by the unavailability of quality car parts in his Midwest hometown." In 1960 he opened **JEGS Automotive** in a 4,000 sq ft Columbus shop, "half garage, half parts store," building engines part-time and hunting down parts to sell.[^jegs] He turned the business over to his four sons in the early 1990s.[^jegs] Search summaries mention earlier borrowed gas-station space and a Bonham Avenue building, then an 11th Avenue store.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The full company profile, with the county's 1960 address, is at [JEGS](../companies/jegs.md).
 
-In Peoria it is a club: the Slo-Pokes, who hosted the 1970 Nationals ([Peoria](../eras/1970s-street-rod-nationals.md)). Even the name's spelling varies: "Slo-Pokes" (Rod & Custom, Peoria Magazine), "Slo Poks" (Modern Rodding).[^rc][^pm][^mr] Peoria Magazine reports 1,200 participants under the banner "All roads lead to Peoria." Chuck McCarty credits the club with introducing him to cruise-ins in the '60s.[^pm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+In Peoria the thread is a club. The Slo-Pokes hosted the 1970 Nationals ([Peoria](../eras/1970s-street-rod-nationals.md)). Even the name's spelling varies: "Slo-Pokes" (Rod & Custom, Peoria Magazine), "Slo Poks" (Modern Rodding).[^rc][^pm][^mr] Peoria Magazine reports 1,200 participants under the banner "All roads lead to Peoria." Chuck McCarty credits the club with introducing him to cruise-ins in the '60s.[^pm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Modern Rodding adds a footnote to the story: "Technically the National Street Rod Association wasn't created until after the first event."[^mr]
+Modern Rodding adds this: "Technically the National Street Rod Association wasn't created until after the first event."[^mr]
 
 ## Buffalo and Kentucky
 
 Farther east, in Buffalo, N.Y., the thread is the Torrid Torkers. Jim Oddy joined the club at 16 in 1957, per the International Drag Racing Hall of Fame list.[^idr] Other club details (a '36 Chevy, cruises to Canadian strips) come only from a search summary.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-Kentucky's thread runs through the NSRA. The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the NSRA's Louisville era: the first Louisville Nationals in 1988, a record 25 consecutive years through 2022, and the Kentucky Safety Team ranked #1 nationally in 1986.[^ky] The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+Kentucky's thread runs through the NSRA. The Kentucky Motorsports Hall of Fame "NSTRA" history page is mainly about the NSRA's Louisville era: the first Louisville Nationals in 1988, a record 25 consecutive years through 2022, and the Kentucky Safety Team ranked #1 nationally in 1986.[^ky] The "NSTRA" in the page name seems to refer to the NSRA's state program, not a drag-racing body. The page doesn't say.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Detroit chassis and tin
 
 Around Detroit the threads are the cars themselves. [Logghe Stamping](../companies/logghe-stamping.md) of Fraser built flip-top Funny Car chassis for Lincoln-Mercury in 1966. [Al Bergler](../people/al-bergler.md) won the first Ridler Award (1964), did Logghe tinwork and campaigned the Motown Shaker. [Malcolm Durham](../people/malcolm-durham.md) went from the East Coast Strip Blazer to a Logghe Camaro.
 
-See also: [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob Bartel](../people/bob-bartel.md), [The Ohio Gassers](ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md). In New England: [Barricades at the End of the Runway](../drag-racing/sanford-cain-bannister.md), the Sanford, Maine, airport drags and the Hurri-Cain. Farther east and south: [The Clockers of Cumberland, Md.](../drag-racing/cumberland-clockers.md), [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md), [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md) [the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) and [Cumming Dragway](../drag-racing/cumming-dragway.md) in Georgia.
+From there the threads go on. [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md), [Bob Bartel](../people/bob-bartel.md), [The Ohio Gassers](ohio-gassers.md), [Akron Fulton Airport](../drag-racing/akron-fulton-airport.md), [Arlen Vanke](../people/arlen-vanke.md), [Eddie Schartman](../people/eddie-schartman.md), [Red Baron](../cars/hill-bros-red-baron.md). In New England: [Barricades at the End of the Runway](../drag-racing/sanford-cain-bannister.md), the Sanford, Maine, airport drags and the Hurri-Cain. Farther east and south: [The Clockers of Cumberland, Md.](../drag-racing/cumberland-clockers.md), [Hot Rod Clubs Around Gettysburg and Hanover](../drag-racing/hanover-adams-county-clubs.md), [Yellow River Drag Strip](../drag-racing/yellow-river-covington.md), [the Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) and [Cumming Dragway](../drag-racing/cumming-dragway.md) in Georgia.
+
+The threads are a parts store, a club, and the cars. East of California, each one is a fuller story.
 
 ## Open questions & disputed details
 
