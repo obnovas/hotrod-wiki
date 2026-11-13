@@ -56,7 +56,7 @@ canonical_for: []
 ---
 # Moroso: A Basement in Greenwich and a Dragstrip He Bought on a Whim
 
-*A Connecticut racer who sold racers what they needed, then bought the track they needed*
+*He started in a Greenwich basement, sold racers what they needed, and bought the track because there were not enough racetracks*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** *Hot Rod* feature (Nov 1983), wire obituary (CBS Sportsline, 1998), company history page, Wikipedia (secondary, citing a 1990 *Chicago Tribune* profile and a 2003 book we did not see) · **Last verified:** 2026-10-22 (Round 21) · **Open issues:** ⚠ what the basement made; ⚠ the year of the track purchase and how much he spent; ◐ innovation "firsts" rest on the company's own page; the Hemmings profile and the company's "Where It All Started" PDF were unreadable here; no Connecticut local paper found yet · [How we rate this](../reference/source-standards.md)
@@ -66,15 +66,13 @@ canonical_for: []
 
     — Dick Moroso, in *Hot Rod* (Nov 1983), on why a parts maker spent a fortune on a dragstrip.[^hr83]
 
-Ask Dick Moroso in 1983 why he had bought a falling-down dragstrip in Florida and, *Hot Rod* wrote, "he will look distracted, avert his eyes, and mutter something about 'brain fade' and 'Florida sun.'"[^hr83] Then he would give the real answer: "We have too many industrial parks and not enough racetracks."[^hr83]
-
-The rest of the story begins in a basement in Connecticut.
+Dick Moroso started in his parents' basement in Greenwich, Conn., sold racers what they needed, and bought a falling-down dragstrip in Florida. Ask him in 1983 why he had bought it and, *Hot Rod* wrote, "he will look distracted, avert his eyes, and mutter something about 'brain fade' and 'Florida sun.'"[^hr83] Then he would give the real answer: "We have too many industrial parks and not enough racetracks."[^hr83]
 
 ## Greenwich
 
-Richard D. Moroso grew up in Old Greenwich, Connecticut, per Wikipedia (born in New Rochelle, New York, in 1939). CBS's 1998 obituary says he "began racing cars while still in his teens" and, "by the time he was in his early 20s," was "designing car engines in his parents' basement in Greenwich, Conn."[^cbs][^wp] Wikipedia says that in the early 1960s he was *selling speed parts* out of the family basement under the name **Speed Associates**, and that in the mid-1960s he and partner Hank Dietrich opened Performance Automotive in Stamford.[^wp]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Richard D. Moroso grew up in Old Greenwich, Connecticut, per Wikipedia (born in New Rochelle, New York, in 1939). CBS's 1998 obituary says he "began racing cars while still in his teens" and, "by the time he was in his early 20s," was "designing car engines in his parents' basement in Greenwich, Conn."[^cbs][^wp] Wikipedia says that in the early 1960s he was *selling speed parts* out of the family basement under the name **Speed Associates**, and that in the mid-1960s he and partner Hank Dietrich opened Performance Automotive in Stamford.[^wp]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether the basement was for designing engines or for selling parts is still open.
 
-He raced as he built. CBS says he won his class at the 1966 Labor Day U.S. Nationals in Indianapolis; Wikipedia gives it as D/Modified Production, in a 1961 Corvette, at 13.32 seconds and 103.21 mph, citing Larry Davis's 2003 *Gasser Wars*.[^cbs][^wp]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+He raced as he built. CBS says he won his class at the 1966 Labor Day U.S. Nationals in Indianapolis. Wikipedia gives it as D/Modified Production, in a 1961 Corvette, at 13.32 seconds and 103.21 mph, citing Larry Davis's 2003 *Gasser Wars*.[^cbs][^wp]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 A wire report from that meet, printed in a Marin County, Calif., daily, shows he went further than his class, to the Street Eliminator final, where he lost to a Memphis racer who would also put his name on parts: "Joe Lunati of Memphis, Tenn., captured the Street Eliminator in a dash against Richard Moroso, Old Greenwich, Conn." Lunati ran 10.244 seconds to Moroso's 13.61.[^ij660906] See [Joe Lunati](../people/joe-lunati.md), whose cam shop opened in 1968 or 1969, depending on the account; the Moroso company dates itself to 1968.
 
@@ -82,13 +80,13 @@ The company's own history says "Moroso was started in 1968 by Dick Moroso, one o
 
 ## What the company says it invented
 
-The company credits Dick Moroso with "many innovations": it says he was "instrumental in nurturing the warehouse distribution (WD) network" that supplied "the growing number of speed shops appearing in every corner of the country," and that he pioneered "deep-sump oil pans, electric water pumps, tall valve covers, lightweight front drag tires, racing vacuum pumps, and others."[^co]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The company credits Dick Moroso with "many innovations": it says he was "instrumental in nurturing the warehouse distribution (WD) network" that supplied "the growing number of speed shops appearing in every corner of the country," and that he pioneered "deep-sump oil pans, electric water pumps, tall valve covers, lightweight front drag tires, racing vacuum pumps, and others."[^co]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Those firsts rest on the company's own page.
 
 At its 30th anniversary, the company says, he "lost a year-long battle with cancer" in November 1998; his son Rick became president in 1997. CBS says Dick died at 59 in a hospice in Branford, Connecticut, and that *Hot Rod* had named him one of the 100 most influential people in drag racing.[^co][^cbs] The company still makes oil pans, ignition wire and more in Guilford, with the chassis brand Competition Engineering.[^co]
 
 ## The track he bought
 
-CBS says that in 1982 he "bought the neglected Palm Beach International Raceway on a whim and turned it into Moroso Motorsports Park."[^cbs] *Hot Rod* says "January '82" and "nearly half a million dollars" in rehabilitation, and notes that the previous owner already planned to turn the land into an industrial park. Moroso signed a contract promising to keep it a raceway for at least 10 years and said, "It's my intention to keep it a racetrack forever."[^hr83]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
+CBS says that in 1982 he "bought the neglected Palm Beach International Raceway on a whim and turned it into Moroso Motorsports Park."[^cbs] *Hot Rod* says "January '82" and "nearly half a million dollars" in rehabilitation, and notes that the previous owner already planned to turn the land into an industrial park. Moroso signed a contract promising to keep it a raceway for at least 10 years and said, "It's my intention to keep it a racetrack forever."[^hr83]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> When he bought it, and for how much, is still open.
 
 What the magazine saw is grassroots drag racing at its most routine. The track ran "every Wednesday and Saturday night" with "150-200 cars," where before "it was operating once a month for a small, local crowd." On a Wednesday night in the summer "more than 100 racers showed up towing everything from doorslammers to fuel bikes to a full-on nitro Funny Car," and Wednesdays were "strictly for testing and grudge racing." The photos name local racers: Tom Wright of "Boca Baton" [sic] with an '68 El Camino running 8.68 at 157; Doug Bryant, who "does dry hops in his 11-second Hornet"; Paul Smith, whose "Entertainer" Funny Car used the park as its home track; and Jack Woltemar's "Daytona replica." The track also hosted SCCA national and regional meets, a 650-car Bracket Championship, a December "Citrus Nationals" for fuelers, and NHRA Division 2's season opener.[^hr83]
 
@@ -102,6 +100,8 @@ One local detail made it work: across the highway stood a large **Pratt & Whitne
 ## South Florida neighbors
 
 [The Ohio Gassers](../places/ohio-gassers.md) page has a Cleveland gasser racer, Ron Hassel, who ran a '48 Thames in South Florida; Jim Hill's photo of it comes from Palm Beach International Raceway, the track Moroso later bought. Hassel's employer, [Crane Cams](crane-cams.md), was a South Florida performance company in the same corner of the state. [Midwest & East](../places/midwest-east.md) is the wiki's regional page for the Northeast and Midwest scenes Moroso sold into. The 1953 "Safety Second" item in [Indiana's small-town clubs](../drag-racing/indiana-small-town-clubs.md) concerns a different Connecticut town, Manchester, a decade before Moroso's start and with no documented tie to him; it shows what Connecticut teenage car clubs looked like in his youth. And [Mickey Thompson](mickey-thompson.md) was another racer-turned-manufacturer-turned-track-promoter.
+
+He had started in a basement in Greenwich. He sold race parts. He bought the track because there were too many industrial parks and not enough racetracks.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

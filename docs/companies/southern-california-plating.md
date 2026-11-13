@@ -1,6 +1,6 @@
 ---
 title: The Plating Shop with the Rolling Billboards
-summary: Leonard DeBell's Southern California Plating Co. advertised itself with customized delivery trucks wearing DuVall-designed grilles, bumpers and V-windshields.
+summary: 'Leonard DeBell''s Southern California Plating Co. advertised itself with customized delivery trucks wearing DuVall-designed grilles and bumpers. The 1935 Ford phaeton has not been seen since.'
 department: companies
 eras:
 - 1930s
@@ -39,12 +39,12 @@ principal_source: "Coachbuilt.com's census-based research.[^cb]"
 ---
 # The Plating Shop with the Rolling Billboards
 
-*Southern California Plating Co. and Leonard K. DeBell*
+*Customized delivery trucks advertised the plating shop, and the 1935 Ford phaeton has not been seen since*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** secondary (census-based), oral (Doty via Ganahl) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** RJ #36 not read first-hand · [How we rate this](../reference/source-standards.md)
 
-Leonard DeBell promoted his shop with customized delivery trucks: whitewalls, wheel discs, V-windshields and [DuVall](../people/george-duvall.md)-designed grilles and bumpers.[^cb][^kr]
+Leonard DeBell promoted his shop with customized delivery trucks: whitewalls, wheel discs, V-windshields and [DuVall](../people/george-duvall.md)-designed grilles and bumpers.[^cb][^kr] One of them was a 1935 Ford phaeton, and the car has not been seen since.
 
 ## The owner and the shop
 
@@ -58,13 +58,15 @@ One of the trucks was a 1935 Ford phaeton, and Coachbuilt gives detailed credits
 
 ## The parts business
 
-The shop also made parts. **Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+The shop also made parts. **Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Who had the Jeep head is still open.
 
-Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> That credit is one account so far.
 
 ## The car that vanished
 
 The phaeton itself is gone. Julian Doty told Pat Ganahl he last saw the phaeton around 1963–64, dusty in a body shop DeBell owned on Melrose one block east of Vermont. He tried to buy it from DeBell's son Tony and failed. "The car has not been seen since."[^cb]
+
+He had promoted the shop with those trucks. The phaeton was one of them, and it has not been seen since.
 
 ## Open questions & disputed details
 

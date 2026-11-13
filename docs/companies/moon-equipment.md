@@ -1,6 +1,6 @@
 ---
 title: 'Moon Equipment: The Café, the Fuel Block and the Eyes'
-summary: From Moon's Café in Santa Fe Springs to the fuel block and the Mooneyes logo, this is the story of Dean Moon and its rebirth as Mooneyes USA.
+summary: Dean Moon machined a fuel block in 1941 and began selling copies at Bell Auto Parts. The garage behind Moon's Café had no roof, and the dealer he told to pay later reopened the company as Mooneyes USA.
 department: companies
 era: 1950s
 eras:
@@ -61,10 +61,12 @@ canonical_for: []
 ---
 # Moon Equipment: The Café, the Fuel Block and the Eyes
 
-*Santa Fe Springs, a roofless garage behind Pop's café, and the dealer who reopened it*
+*A fuel block, a roofless garage behind Moon's Café, and the dealer who was told to pay later*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** trade press (*THE SHOP*, 2025; *Hot Rod*, 2025), SEMA News (2013), cross-references to wiki pages built on local sources · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ founding year (1950 vs October 1953); ⚠ who took the Mooneyes dragster to Brighton in 1963; ⚠ Korean War service; ◐ 10,000 wheel covers a month; ◐ Nissan engine claim; Hemmings and Moon's own About page not read · [How we rate this](../reference/source-standards.md)
+
+Dean Moon machined a fuel block in 1941, and the whole company hangs off it. Out back of Pop's café, the garage had a dirt floor and no roof.
 
 Dallas "Pop" Moon moved his family from New Richland, Minnesota, to California in 1936, and *THE SHOP* says the move was precipitated by a $75 bust for, ironically, moonshining. He bought Tessie's Café in Santa Fe Springs, a few blocks from the oil field's "Four Corners," renamed it Moon's Café, and put his sons to work bussing tables and flipping eggs.[^shop]
 
@@ -72,7 +74,7 @@ The boys' real workplace was the garage out back. "Not that it was a real garage
 
 ## Selling copies to Bell Auto Parts
 
-The fuel block became a business after the war. After the Merchant Marines and a $400 '34 Ford five-window coupe, Dean reworked the fuel block, and he and his younger brother "Buzz" began selling copies "to Bell Auto Parts and other local speed shops."[^shop] That is the **Bell Auto Parts** of the [prewar speed-shop story](prewar-speed-shops.md), and it is exactly how Moon Equipment was born: not in a catalog, but over a speed-shop counter. *THE SHOP* adds that the company existed only "unofficially" at first.[^shop]
+The fuel block became a business after the war. After the Merchant Marines and a $400 '34 Ford five-window coupe, Dean reworked the fuel block, and he and his younger brother "Buzz" began selling copies "to Bell Auto Parts and other local speed shops."[^shop] That is the **Bell Auto Parts** of the [prewar speed-shop story](prewar-speed-shops.md), and it is exactly how Moon Equipment was born: not in a catalog, but over a speed-shop counter. *THE SHOP* adds that the company existed only "unofficially" at first.[^shop] Whether the company dates from 1950 or October 1953 is still open.
 
 His day job in 1949 was at Urich-Gibbs, "the local Lincoln Mercury dealer." There he worked on cars for the Carrera Panamericana and helped fellow Whittier racer **Ak Miller**. He and Buzz bought a chopped '32 Ford Tudor, ran it fenderless at the **inaugural Santa Ana Drags, July 2, 1950**, and won the Racing Sedan class. The car was lettered "Urich-Gibbs," which *THE SHOP* calls "one of the earliest examples of corporate sponsorship."[^shop] That date and strip are the ones on the wiki's own [Santa Ana Drags page](../eras/1950s-santa-ana-drags.md), where a clippings pamphlet's July 2 is already weighed against a June 19 date. *THE SHOP* gives July 2 for the same meet, a second source for that date.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -104,6 +106,8 @@ The company's second life came from a customer. Shige Suganuma came to Californi
 ## Bell Auto, Santa Ana and SEMA
 
 The first fuel-block copies were sold at Bell Auto Parts, one of the [prewar speed shops](prewar-speed-shops.md). Moon's Tudor won Racing Sedan at the July 2, 1950 inaugural meet of the [Santa Ana Drags](../eras/1950s-santa-ana-drags.md). [Ed Iskenderian](../people/ed-iskenderian.md) was SEMA's founding president, and Moon followed him. Whittier is the town of Moon's high school and of fellow racer Ak Miller, but no source ties Moon to the cruising on [Whittier Boulevard](../places/whittier-blvd.md), so that link is geographic only. The 1963 Brighton story is told from the other side on the [Mickey Thompson](mickey-thompson.md) page. And [Hooker Headers](hooker-headers.md) and [Crane Cams](crane-cams.md) were neighbors at the first SEMA show.
+
+The Mooneyes sign now sits on the ground in Santa Fe Springs. The company hangs off the fuel block, and the garage out back of Moon's Café had a dirt floor and no roof.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

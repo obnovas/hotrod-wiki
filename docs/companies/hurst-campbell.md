@@ -56,14 +56,12 @@ canonical_for: []
 ---
 # Hurst-Campbell: The Shifter King's Two-Car Garage
 
-*Abington, Warminster, and the Bucks County magazines that watched it happen*
+*No employees, only associates: a two-car garage in Abington, a 58,000-square-foot plant in Warminster, and a shifter name inside a Detroit car*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> two Bucks County magazines (*Panorama*, Oct 1965; *Bucks County Life*, Nov 1965 and Jan–Feb 1966), a family account from Bill Campbell's daughter, an enthusiast-press history (Ate Up With Motor), trade press (*Hot Rod*, 2020), patents, and a Round 17 paper trail (a 1962 Dodge brochure, 1962–63 federal copyright registrations and a 1966 AMC parts list); a small-town Indiana paper (*Rushville Republican*, 1971) · **Last verified:** 2026-10-22 (Round 21; the Warminster move resolved to 1965) · **Open issues:** ◐ incorporation date; ⚠ 1965 sales figure; ⚠ who conceived the rescue tool; ◐ Almquist's role; ? Anco or Sparkomatic · [How we rate this](../reference/source-standards.md)
 
-Hurst-Campbell, Inc., a Doylestown magazine told its Bucks County readers in October 1965, "has no employees." Everyone was an associate. The company had just opened a new 58,000-square-foot plant across from the Johnsville Naval Air Station in Warminster, and the founder and his partner swung open the doors to "welcome back their 250 vacationing associates."[^pan]
-
-The magazine was proud of the contrast. The "small converted two-car garage in Abington" that had been Hurst-Campbell's first home was only a few miles from the new gold-brick building, and the "10-year journey from dream to reality" had, it said, felt about as short as the drive between the two.[^pan]
+Hurst-Campbell, Inc., a Doylestown magazine told its Bucks County readers in October 1965, "has no employees." Everyone was an associate. The company had just opened a new 58,000-square-foot plant across from the Johnsville Naval Air Station in Warminster, and the founder and his partner swung open the doors to "welcome back their 250 vacationing associates."[^pan] The "small converted two-car garage in Abington" that had been the first home was only a few miles from the new gold-brick building. The "10-year journey from dream to reality," it said, had felt about as short as the drive between the two.[^pan] The name Hurst on a shifter handle was "the only trademark name to appear inside a Detroit product."[^pan]
 
 ## A bumper guard and a nationwide tour
 
@@ -73,7 +71,7 @@ The bumper guards lasted until Volkswagens began arriving in the U.S. already ca
 
 Ate Up With Motor tells the same early years from the enthusiast side. Hurst settled in eastern Pennsylvania in 1954 after the Navy and "became very active in the local drag racing scene." In the mid-fifties he and Bill Campbell started a garage in Abington building aftermarket engine mounts. His formal training was limited, the piece says, but he was "a natural showman with a flair for clever promotions."[^auwm]
 
-The best story about that showmanship comes from *Hot Rod*. Petersen's chief photographer Bob D'Olivo met George before the original Hurst-Campbell promoted its kits for converting "three on the tree" to floor shift: "A well-dressed gent walked through the front door on Hollywood Blvd. carrying motor mounts and asking for any editor who happened to be there."[^hr20]
+Petersen's chief photographer Bob D'Olivo met George before the original Hurst-Campbell promoted its kits for converting "three on the tree" to floor shift. *Hot Rod* says: "A well-dressed gent walked through the front door on Hollywood Blvd. carrying motor mounts and asking for any editor who happened to be there."[^hr20]
 
 ## From Anco to Warminster
 
@@ -88,9 +86,9 @@ Almquist's own page, built on his Milford, Pennsylvania, obituary and a Port Jer
 
 ## The paper trail: where to send your order
 
-The surest way to place a mail-order speed company is to find the address it printed for customers. Four dull documents settle the Warminster question.
+Four dull documents settle the Warminster question. The address the company printed for customers is in them.
 
-The first is a 1962 Dodge Dart 440 magazine-insert brochure, scanned by a Facebook group of brochure collectors, closes with "Additional high performance equipment available from independent manufacturers." Among them is "Hurst-Campbell Inc., 341 W. Glenside Ave., Glenside, Pa. (shift conversions)."[^dodge62] The company was in good company. The same list names Edelbrock Equipment Co. in Los Angeles (manifolds), Ed Iskenderian in Inglewood ("adj. push rods"), Weiand in Los Angeles (manifolds), Offenhauser Sales Corp., Howard Cams, Hedman Hedders, Camcraft of Detroit, ForgeTrue Pistons and Auto Marine Laboratories of Wyckoff, New Jersey. Hurst-Campbell is the only Pennsylvania firm on it.[^dodge62] See [Edelbrock](edelbrock-slingshot.md), [Ed Iskenderian](../people/ed-iskenderian.md) and [Barney Navarro](../people/barney-navarro.md) (for Weiand).
+The first is a 1962 Dodge Dart 440 magazine-insert brochure, scanned by a Facebook group of brochure collectors. It closes with "Additional high performance equipment available from independent manufacturers." Among them is "Hurst-Campbell Inc., 341 W. Glenside Ave., Glenside, Pa. (shift conversions)."[^dodge62] The company was in good company. The same list names Edelbrock Equipment Co. in Los Angeles (manifolds), Ed Iskenderian in Inglewood ("adj. push rods"), Weiand in Los Angeles (manifolds), Offenhauser Sales Corp., Howard Cams, Hedman Hedders, Camcraft of Detroit, ForgeTrue Pistons and Auto Marine Laboratories of Wyckoff, New Jersey. Hurst-Campbell is the only Pennsylvania firm on it.[^dodge62] See [Edelbrock](edelbrock-slingshot.md), [Ed Iskenderian](../people/ed-iskenderian.md) and [Barney Navarro](../people/barney-navarro.md) (for Weiand).
 
 Glenside is a census-designated place split between **Abington** and Cheltenham townships.[^glen] So a 1962 Glenside address fits *Panorama*'s "converted two-car garage in Abington," though we can't tell from the address alone which township No. 341 was in, or whether it was the garage.
 
@@ -123,7 +121,9 @@ The promotion also had a face. Ate Up With Motor says Hurst hired beauty queen L
 
 ## Almquist, Schubeck and Bucks County
 
-Hurst's "Hemi-Under-Glass" exhibition car was booked at a Georgia strip in 1965; see [From Speed Shop to Strip](../drag-racing/atlanta-speed-shop-dragway.md). [Ed Almquist](../people/ed-almquist.md) was the Milford mail-order man who built shifters with Hurst and Campbell in 1959, per his local paper, and filed his own gear-shift patent a month before theirs; [Patents](../reference/patents.md) lists both Hurst and Campbell shifter patents (US 3,172,301 and 3,192,793) and Almquist's US 3,082,639. [Mr. Gasket](mr-gasket.md) bought what was left of Hurst Performance in 1986, per Hagerty<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup>. Hurst's hired driver for the Hairy Olds was "Gentleman Joe" Schubeck of [Lakewood Industries](lakewood-industries.md). Pontiac ad man Jim Wangers, who appears on the [Woodward Avenue](../places/woodward.md) page driving Woodward GTOs, helped Hurst put together the 1967 Firebird pitch for Pontiac's John DeLorean.[^auwm] And [Midwest & East Threads](../places/midwest-east.md) and [Leonard Miller](../voices/leonard-miller.md) cover the Bucks County drag scene of the 1960s, the same county and decade as the Warminster plant. No source ties Miller to Hurst; the link is place and time.
+Hurst's "Hemi-Under-Glass" exhibition car was booked at a Georgia strip in 1965; see [From Speed Shop to Strip](../drag-racing/atlanta-speed-shop-dragway.md). [Ed Almquist](../people/ed-almquist.md) was the Milford mail-order man who built shifters with Hurst and Campbell in 1959, per his local paper, and filed his own gear-shift patent a month before theirs; [Patents](../reference/patents.md) lists both Hurst and Campbell shifter patents (US 3,172,301 and 3,192,793) and Almquist's US 3,082,639. [Mr. Gasket](mr-gasket.md) bought what was left of Hurst Performance in 1986, per Hagerty<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup>. Hurst's hired driver for the Hairy Olds was "Gentleman Joe" Schubeck of [Lakewood Industries](lakewood-industries.md). Pontiac ad man Jim Wangers, who appears on the [Woodward Avenue](../places/woodward.md) page driving Woodward GTOs, helped Hurst put together the 1967 Firebird pitch for Pontiac's John DeLorean.[^auwm] And [Midwest & East Threads](../places/midwest-east.md) and [Leonard Miller](../voices/leonard-miller.md) cover the Bucks County drag scene of the 1960s, the same county and decade as the Warminster plant. No source ties Miller to Hurst. The link is place and time.
+
+Everyone at the company was an associate. The first home was the small converted two-car garage in Abington. The Hurst name was the trademark inside a Detroit product.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 

@@ -51,7 +51,7 @@ canonical_for: []
 ---
 # Summit Racing: A Corvette, a Donut-Shop Basement and Two Little Ads
 
-*How a Northeast Ohio drag-racing buddy discount became the World's Speed Shop*
+*A 1967 Corvette, a donut-shop basement, and two little ads became the World's Speed Shop*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** trade press (RACER, 2016; Classic American, 2018), company jobs page, drag-racing museum Founders Award page (2026), Wikipedia (secondary) · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ first-store town and year; ⚠ date of the first catalog; ⚠ Wikipedia's "founded" city; the Akron *Beacon Journal*'s 2018 profile is paywalled (HTTP 402) and was not read; no local-paper coverage of the founder found yet · [How we rate this](../reference/source-standards.md)
@@ -61,17 +61,17 @@ canonical_for: []
 
     — Paul Sergi's father, as passed on by the Don Garlits Museum of Drag Racing's Founders Award write-up on Sergi (2026), about the farm lessons behind the company's customer service.[^garlits]
 
-Summit Racing's first "store," Classic American says, was the basement of a donut shop in Stow, Ohio. "The coffee and pastries were nice, but the location didn't get a lot of traffic."[^ca]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+Summit Racing began as a Northeast Ohio drag racer's parts discount, with a 1967 Corvette and a donut-shop basement, and then two little ads. Summit Racing's first "store," Classic American says, was the basement of a donut shop in Stow, Ohio. "The coffee and pastries were nice, but the location didn't get a lot of traffic."[^ca]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 It was 1968. A young engineer owned a 1967 Corvette roadster with the L71 427 and, per the company's own history, "made some connections to get hop-up parts at a discount," and "it wasn't long before his drag racing buddies found out and wanted the same deal."[^ca][^jobs] The Don Garlits Museum, which gave the founder, **Paul Sergi**, its Founders Award for the Class of 2025, fills in the farm boy behind it: a New Jersey family farm, car magazines at the local drugstore, college, and a new 1967 Corvette he still owns. When the 427 needed a special tool to adjust its valves, his closest speed shop "wasn't close enough to be convenient." He and its owner became friends, he began buying parts at distributor prices, and his racing buddies wanted in. The Corvette "became a delivery truck, and a spare bedroom became a warehouse."[^garlits]
 
-RACER's version has the founder as "a drag racer who was frustrated by the lack of speed shops in the Northeast Ohio area."[^racer] The two accounts agree on the need and differ on the nuance: a shop too far away, or no shop at all.
+RACER's version has the founder as "a drag racer who was frustrated by the lack of speed shops in the Northeast Ohio area."[^racer] The two accounts agree on the need and differ on the nuance: a shop too far away, or no shop at all. Where that first store was, and when, is still open.
 
 ## Two little ads
 
 Advertising in the local newspaper came next, then a choice between his full-time job and the business. RACER says that by 1969 demand had grown enough for a first retail store in Akron, and that "three years later" Summit tested mail order "by placing small ads for Mickey Thompson ET wheels in *Hot Rod* and *Car Craft* magazines. Orders began rolling in from all over the country."[^racer] The wheels in those first ads were [Mickey Thompson](mickey-thompson.md)'s, from a company the Southern California drag racer had founded in 1963.
 
-The catalog followed. RACER says Summit printed its own catalog and hired sales and customer-service representatives by 1976; Classic American counts "nearly 200 editions" of the "Big Book" since "the first one appeared in 1974," annual until 1987, when it went to six a year.[^racer][^ca] The 1987 move was to a four-building facility in Akron, and by 1992 it had a new three-story headquarters in Tallmadge. SummitRacing.com launched in 1997, a Sparks, Nevada, distribution center in 1998, and big retail stores in Tallmadge and McDonough, Georgia, followed.[^racer] The Garlits write-up says the company's first mail-order catalog was created as Sergi placed small ads in national magazines, and adds the **Handshake Guarantee**, the 24/7 order line and the website.[^garlits]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+The catalog followed. RACER says Summit printed its own catalog and hired sales and customer-service representatives by 1976; Classic American counts "nearly 200 editions" of the "Big Book" since "the first one appeared in 1974," annual until 1987, when it went to six a year.[^racer][^ca] The 1987 move was to a four-building facility in Akron, and by 1992 it had a new three-story headquarters in Tallmadge. SummitRacing.com launched in 1997, a Sparks, Nevada, distribution center in 1998, and big retail stores in Tallmadge and McDonough, Georgia, followed.[^racer] The Garlits write-up says the company's first mail-order catalog was created as Sergi placed small ads in national magazines, and adds the **Handshake Guarantee**, the 24/7 order line and the website.[^garlits]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> When the first catalog appeared is still open.
 
 ## A Corvette that stayed
 
@@ -87,6 +87,8 @@ Summit also bought the naming rights to Norwalk Raceway Park in 2007, becoming S
 ## Ohio neighbors and suppliers
 
 The [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) is where the Arfons brothers, Otie Smith and Arlen Vanke raced, a few years before Summit began in the same part of the state; the link is place, not documented contact. [Arlen Vanke](../people/arlen-vanke.md) was an Akron racer who ordered a Pontiac Super Duty Catalina from a local dealer in 1961, the kind of customer Summit's early drag-racing buddies were. [The Ohio Gassers](../places/ohio-gassers.md) were the same state's racers, including Columbus's Jeg Coughlin, listed in Hill's account with "JEGS"; a JEGS profile is on the Research Trail. [Mr. Gasket](mr-gasket.md) was another Ohio parts business that began in a trunk and a basement, a few years earlier, and [Holley](holley.md) has owned that brand since 2015. Summit's first mail-order ads sold [Mickey Thompson](mickey-thompson.md)'s ET wheels, and the cam in the restored Corvette is from [COMP Cams and Racing Head Service](comp-cams-rhs.md).
+
+A Corvette, a donut-shop basement, and two little ads. The Corvette stayed.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 
