@@ -1,6 +1,6 @@
 ---
 title: 'The Dragstrip That Didn''t Want to Die: Dover Drag Strip, Wingdale, N.Y. (1961–1976)'
-summary: 'A Connecticut gas station owner watched an airport drag meet in Montgomery, N.Y., and the next day went looking for land. Chet Anderson opened Dover Drag Strip in Wingdale on May 14, 1961; it closed in 1976, and a former announcer''s website has kept its racers reuniting.'
+summary: 'By the strip''s own history, a Connecticut gas station owner watched an airport drag meet in Montgomery, N.Y., and the next day went looking for land. Chet Anderson opened Dover Drag Strip in Wingdale on May 14, 1961; it closed in 1976, and a former announcer''s website has kept its racers reuniting.'
 department: drag-racing
 era: 1960s
 eras:
@@ -73,7 +73,7 @@ status: Closed 1976; the site is reportedly a gravel pit[^nhra08]
 ---
 # The Dragstrip That Didn't Want to Die: Dover Drag Strip, Wingdale, N.Y. (1961–1976)
 
-*A gas station owner saw one day of drag racing, bought a farm the next, and fifty years after the gates closed his racers still hold a reunion*
+*By the strip's own account, a gas station owner saw one day of drag racing and bought a farm the next, and fifty years after the gates closed his racers still hold a reunion*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the founding story is the strip's own history page, written by its former announcer, and a *New York Times* column built on his interview; the one-year sanction, the closing reason and the Montgomery volunteers each rest on a single account) · **Source types:** <span class="hr-badge">Grassroots</span> a former announcer's history site (Doverdragstrip.com); a racer's recollections printed in *The New York Times* (2010) and NHRA's *National Dragster* column (2008); a reader's memory in the same NHRA column; H.A.M.B. forum posts (2008); a trade-press event report (2021) · **Last verified:** 2026-11-14 (Round 41) · **Open issues:** ⚠ when Lawrence began announcing; ◐ the one-year NHRA sanction; ◐ why it closed; ◐ the Montgomery volunteers and the club's own history; ? Frank Marrata's name · [How we rate this](../reference/source-standards.md)

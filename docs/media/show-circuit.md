@@ -91,7 +91,7 @@ In Portland, volunteers run the show. The Multnomah Hot Rod Council was founded 
 
 Oakland started with the rope barriers, the water drums, and about 100 cars. The circuit pulled California cars east. In Portland the large show is the one the volunteers run.
 
-*See also:* [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
+*See also:* [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md); [the Ozark Drifters' Auto-Rama](../customs/ozark-drifters-ceola-scrapbook-arkansas.md), a Springdale indoor show known from one member's scrapbook.
 
 ## Open questions & disputed details
 

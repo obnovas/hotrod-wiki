@@ -118,6 +118,8 @@ John Ray Martinez, born in San Antonio in 1951, died in 2024. His obituary says 
 
 The Double Eagle had been the strip past the end of Rittiman Road, and Little Green Valley the back road. In 1977 the nationals came to the Martinez brothers' track south of town.
 
+*See also:* [Big Spring's Lions Club strip](big-spring-lions-club-drag-strip-deshazo.md), where, by Howard Deshazo's account, a service club took on a strip in 1956.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

@@ -8,7 +8,7 @@ Customizing is its own tradition inside hot rodding. A hot rod asks how fast; a 
 
 - [Hirohata Mercury](hirohata-mercury.md): Barris Kustom's ice-green 1951 Merc, and the argument over how long it took to build.
 - [KKOA & the Lead Sled Revival](kkoa-lead-sled-revival.md): Wichita, 1979–83, when a club brought the lead sled back.
-- [Washing the Signs (Ozark Drifters, Ark.)](ozark-drifters-ceola-scrapbook-arkansas.md): a Fayetteville club that sentenced its own speeder to wash street signs, and one member's scrapbook (1960–64).
+- [Washing the Signs (Ozark Drifters, Ark.)](ozark-drifters-ceola-scrapbook-arkansas.md): according to the Ceola family scrapbook, a Fayetteville club that sentenced its own speeder to wash street signs (1960–64).
 
 **Elsewhere in the wiki**
 

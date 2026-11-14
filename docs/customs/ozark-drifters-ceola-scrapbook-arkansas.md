@@ -1,6 +1,6 @@
 ---
 title: 'Washing the Signs: The Ozark Drifters, Dick Ceola''s Truck and the Auto-Rama, Northwest Arkansas (1960–1964)'
-summary: 'A Fayetteville, Ark., car club sentenced its own speeder to wash street signs, carried a 1934 Ford two miles through town for the newspapers, and ran an indoor Auto-Rama that outgrew its armory. We know it because a Springdale member kept a scrapbook, and his family shared it.'
+summary: 'According to the Ceola family scrapbook, a Fayetteville, Ark., car club sentenced its own speeder to wash street signs, carried a 1934 Ford two miles through town, and ran an indoor Auto-Rama that outgrew its armory. A Springdale member kept the scrapbook, and his family shared it.'
 department: customs
 era: 1960s
 eras:
@@ -52,7 +52,7 @@ status: Club renamed Road Angels of Springdale about 1963–64; Ceola's truck so
 ---
 # Washing the Signs: The Ozark Drifters, Dick Ceola's Truck and the Auto-Rama, Northwest Arkansas (1960–1964)
 
-*A club that sentenced its own speeder, an indoor show with a wet floor, and one member's scrapbook*
+*A club that, according to the Ceola family scrapbook, sentenced its own speeder, and an indoor show with a wet floor*
 
 !!! abstract "Article record"
     **Confidence:** Low (everything comes from one family's collection as presented on Kustomrama, a custom-car wiki, through Nicholas Coe and the Ceola family; the page text is brief, and the clippings it shows were not transcribed there, so we have not read the *Northwest Arkansas Times* itself) · **Source types:** <span class="hr-badge">Grassroots</span> a member's scrapbook, album notes, flyers and club paperwork, shared by his family through Kustomrama; paraphrased newspaper reports · **Last verified:** 2026-11-14 (Round 41) · **Open issues:** ◐ one family's collection; ◐ the truck's cost, $3,000 or $3,500 on the same page; ? whose 1934 Ford; ? where the truck is · [How we rate this](../reference/source-standards.md)
@@ -76,7 +76,7 @@ Ceola started building a 1930 Ford Model A truck in 1960, and it was done in 196
 
 The club put on its first Auto-Rama, an indoor show, at the National Guard Armory in Springdale in December 1962. Ceola's truck, fire-engine red with a white firewall and a white rolled and pleated interior, took first in the full entry custom class and was judged the entry with the best exterior appearance. It was also picked best of show in an audience poll.[^truck] The local paper's clippings are in the scrapbook, and one spells his name "Dick Cola."[^truck] A caption on the People's Choice photo reads: "The big one didn't get away, all five feet of it go to Dicky for peoples choice of entire show."[^truck] Harry and Larry Arrington of Camden, Ark., drove their 1934 Ford five-window coupe, "Thor," to the same show and won Best Street Rod, Best Display and Greatest Distance driven.[^arr]
 
-The second Auto-Rama, in 1963, moved to the Springdale Roller Rink. According to the *Northwest Arkansas Times*, as Kustomrama summarizes it, the show drew cars from Arkansas, Missouri, Oklahoma and Texas and thousands of onlookers over its Saturday and Sunday. The club thought it was better than the first. It rained both days, though, and "the hardwood floor didn't like the water that the cars carried in. Neither did the owner of the rink." Twenty-three owners and groups got awards. A 1957 Ford four-door from Sherman, Texas, won Radical Custom, and an Amarillo, Texas, entry took farthest distance, best paint, best engine and best display. The Ozark Drifters won best club display, and Ceola's truck won early pickup.[^rama]
+The second Auto-Rama, in 1963, moved to the Springdale Roller Rink. As Kustomrama summarizes the *Northwest Arkansas Times*, the show drew cars from Arkansas, Missouri, Oklahoma and Texas and thousands of onlookers over Saturday and Sunday. The club thought the second show was better than the first, the same page says, partly because of the new rink. It rained both days. Kustomrama, not the newspaper, puts the trouble this way: the hardwood floor didn't like the water the cars carried in, and neither did the owner of the rink. Twenty-three owners and groups got awards. A 1957 Ford four-door from Sherman, Texas, won Radical Custom, and an Amarillo, Texas, entry took farthest distance, best paint, best engine and best display. The Ozark Drifters won best club display, and Ceola's truck won early pickup.[^rama]
 
 ## A club under another name
 

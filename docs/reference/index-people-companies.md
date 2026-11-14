@@ -253,7 +253,7 @@
 | Gates, Roger | Reseda, Calif., racer; Golden State Raceway record, 1969 ◐ | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
 | Gay, Carl & Marie | Gay Pontiac; owners of Houston Drag Raceway (Dickinson) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
 | Gay, Don & Roy | *Infinity* Pontiac Funny Cars | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
-| Genova, Joe | Spokane produce vendor who founded Ron's Drive-In, 1958 ⚠ | [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md) |
+| Genova, Joe | Spokane produce vendor who founded Ron's Drive-In, 1958 or 1957 ⚠ | [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md) |
 | Georgetown Dragsters, Inc. | Sponsor of the Georgetown Speedway strip's 1956 opening | [Georgetown Speedway](../drag-racing/georgetown-speedway-delaware.md) |
 | Gerveny, Carl | Ran Denver's Scotchman drive-in after 1953; closed it in 1977 | [Denver's cruise](../places/denver-16th-street-colfax-scotchman.md) |
 | Gibbs, Burt, Cecilia & Fred | North A Street junkyard, Las Vegas; Fred killed in a 1961 car accident | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |

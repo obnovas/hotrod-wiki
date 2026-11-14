@@ -974,11 +974,11 @@ themes:
         q: Who built Chattanooga's Middle Valley drag strip?
         a: >-
           The Brainerd Optimist Club, as a charity project, opening in Middle Valley on August 11, 1957, after
-          newspaperman Buddy Houts pressed for a legal strip. Which hot rod club was tied to it, and when the strip
-          left Middle Valley, are both told two ways (⚠ see Open questions).
+          newspaperman Buddy Houts pressed for a legal strip. Which hot rod club worked with him is told two ways
+          (⚠ see Open questions), and so is the year the strip left Middle Valley (⚠ see Open questions).
         link: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md
         also: [companies/honest-charley-speed-shop.md]
-        flag: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-2
+        flag: [drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-1, drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-2]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1195,12 +1195,12 @@ themes:
         q: Who was Honest Charley?
         a: >-
           Charley Card, a Chattanooga restaurant owner whose nickname came from putting his cash register
-          outside the door (the tellings differ; ⚠ see Open questions). He opened Honest Charley Speed Shop on
-          McCallie Avenue in 1948, and he would hand-draw each page of the catalog Southwest Virginia hot
-          rodders called their mail-order "bible."
+          outside the door (the tellings differ; ⚠ see Open questions). The speed shop is dated to 1948, and
+          whether it stood on McCallie Avenue then or only in the mid-1950s is open (⚠ see Open questions).
+          He hand-drew the catalog Southwest Virginia hot rodders called their mail-order "bible."
         link: companies/honest-charley-speed-shop.md
         also: [drag-racing/roanoke-drag-strip-southwest-virginia.md, companies/jegs.md]
-        flag: companies/honest-charley-speed-shop.md#q-1
+        flag: [companies/honest-charley-speed-shop.md#q-1, companies/honest-charley-speed-shop.md#q-4]
   - id: people
     title: People
     questions:

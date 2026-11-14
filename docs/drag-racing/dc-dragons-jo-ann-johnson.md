@@ -109,6 +109,8 @@ In June 1956 about 100 organized hot rodders, led by John B. Raffa of 8500 Garfi
 
 The Dragons kept turning up. In September 1957 they joined the Metropolitan Auto Racing Fans Club at the Guy Mason Recreation Center to hear Johnny Parsons of Indianapolis fame,[^es570922] and at the 1958 Rod and Custom Show a Bethesda-Chevy Chase senior, Blake Thomas, "member of the Dragons D. C. Hot Rod Club," posed for the *Star*'s photographer.[^es580323] The club that met in the police station had debated 45 minutes before voting her in. She sat in the kitchen, chewing her nails.
 
+*See also:* [The Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md), a Fayetteville club that, according to the Ceola family scrapbook, sentenced its own speeder to wash street signs.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
