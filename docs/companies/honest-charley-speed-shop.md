@@ -85,7 +85,7 @@ Card died in 1974 by SEMA's count, and in 1975 by the *Times Free Press* and the
 
 The register had no room on the counter, and that is where the name Honest came from. The catalog he hand-drew is the one the mountain hot rodders ordered from.
 
-*See also:* [The Roanoke Drag Strip](../drag-racing/roanoke-drag-strip-southwest-virginia.md), the customers in Southwest Virginia; [JEGS](jegs.md), a Columbus racer who opened his own shop because the mail was slow; [COMP Cams & RHS](comp-cams-rhs.md), another Mid-South parts story, in Memphis.
+*See also:* [The Brainerd Optimist strip](../drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md), where a club member's 2013 column places Honest Charley's opening on McCallie Avenue in the mid-1950s, not 1948 (see that page's q-3); [The Roanoke Drag Strip](../drag-racing/roanoke-drag-strip-southwest-virginia.md), the customers in Southwest Virginia; [JEGS](jegs.md), a Columbus racer who opened his own shop because the mail was slow; [COMP Cams & RHS](comp-cams-rhs.md), another Mid-South parts story, in Memphis.
 
 ## Open questions & disputed details
 

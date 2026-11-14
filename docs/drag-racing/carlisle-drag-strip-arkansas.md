@@ -122,7 +122,7 @@ It stayed a part-time strip on a working airfield. Miller remembered crop duster
 
 The second Sunday had been the race, on the runway chosen for the state's first formal drag strip. The latest stuff always seemed to come from Memphis, and a tire iron blocked access to the hood. When that first meet was is still open.
 
-*See also:* [Lakeland Dragway](lakeland-dragway-amusement-park.md), the Memphis strip in an amusement park; [Memphis](../places/memphis.md), where Godman's Lakeland strip and the city's racers are told; [Hope](hope-airport-drag-strip.md), another Arkansas airport strip; [The Roanoke Drag Strip](roanoke-drag-strip-southwest-virginia.md), where a 1960 protest ended in a three-hour teardown instead.
+*See also:* [George Ray's Wildcat strip](george-rays-wildcat-drag-strip-paragould.md), Paragould's concrete strip, 1961; [Lakeland Dragway](lakeland-dragway-amusement-park.md), the Memphis strip in an amusement park; [Memphis](../places/memphis.md), where Godman's Lakeland strip and the city's racers are told; [Hope](hope-airport-drag-strip.md), another Arkansas airport strip; [The Roanoke Drag Strip](roanoke-drag-strip-southwest-virginia.md), where a 1960 protest ended in a three-hour teardown instead.
 
 ## Open questions & disputed details
 

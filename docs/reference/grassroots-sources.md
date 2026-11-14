@@ -244,6 +244,21 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 41 additions
+- Local news and columns: *Chattanoogan.com*'s local-history columns (Jolley, Ashley, Summers) → [Brainerd Optimist strip](../drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md); *The Spokesman-Review* (1997, 2004, 2025) → [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md); KAIT-TV Jonesboro (2009, 2011) and a funeral-home obituary → [George Ray's Wildcat strip](../drag-racing/george-rays-wildcat-drag-strip-paragould.md).
+- Club and family collections: the Dick Ceola scrapbook, as presented on Kustomrama → [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md); the Highland Lakes Timing Association repost of Howard Deshazo's memoir → [Big Spring](../drag-racing/big-spring-lions-club-drag-strip-deshazo.md); the strip's own history page and reunion coverage → [Dover Drag Strip](../drag-racing/dover-drag-strip-wingdale-new-york.md).
+- Public records: the Arkansas National Register nomination for George Ray's strip (2005–06) → [George Ray's Wildcat strip](../drag-racing/george-rays-wildcat-drag-strip-paragould.md).
+- Forums: the H.A.M.B.'s "Montgomery, NY drag races" and "Drag strips in Arkansas" threads → the Dover and Paragould pages.
+
+### Round 41 status
+| Archive | Round 41 status |
+|---|---|
+| Texas Tech Southwest Collection (Lubbock oral history, *Big Spring Herald* scans) | HTTP 403 and timeouts; seen only as search excerpts, nothing used. Big Spring stays on Deshazo's own account. |
+| *Greenwich Time* (Dover memories story) | Paywall (HTTP 402); not bypassed or used. |
+| newspaperarchive.com | Timed out. |
+| newbrainerdoptimistdragstrip.com | Domain expired; read in an Internet Archive capture. |
+| Drag Strip List (Dover and Paragould pages) | Not readable this round (404 or script-rendered); not used. |
+
 ### Round 40 status
 | Archive | Round 40 status |
 |---|---|

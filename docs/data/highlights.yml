@@ -1813,3 +1813,45 @@ highlights:
     added: '2026-11-13'
     eras: [1960s]
     regions: ['Bunker Hill, Ind.']
+
+  - id: houts-thrown-out-of-every-meeting
+    headline: A Chattanooga newspaperman said he was nearly thrown out of every meeting asking for a legal drag strip
+    teaser: Buddy Houts pressed Chattanooga's civic groups for a place for teenagers to race. The Brainerd
+      Optimist Club built it as a charity project, and it opened August 11, 1957.
+    link: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#the-man-at-the-meetings
+    evidence: [just about thrown out of every meeting]
+    source_type: [Local news]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-14'
+    eras: [1950s]
+    regions: ['Chattanooga, Tenn.']
+
+  - id: ozark-drifters-washing-signs
+    headline: An Arkansas car club sentenced its own speeder to wash street signs
+    teaser: The Ozark Drifters of Fayetteville decided the court's fine was not enough. We know because
+      member Dick Ceola kept a scrapbook, and his family shared it.
+    link: customs/ozark-drifters-ceola-scrapbook-arkansas.md#washing-the-signs
+    evidence: [wasn't sufficient punishment]
+    source_type: [Club newsletter, Local news]
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-14'
+    eras: [1960s]
+    regions: ['Fayetteville, Ark.']
+
+  - id: rons-frying-a-hamburger
+    headline: The man who built Spokane Valley's hot rod drive-in knew nothing about frying a hamburger
+    teaser: Joe Genova was a produce vendor with an eighth-grade education. He built Ron's on his parents'
+      old farm on Sprague Avenue, and the cruisers are still there on Thursdays.
+    link: places/rons-drive-in-sprague-avenue-spokane-valley.md#a-produce-man-and-a-model
+    evidence: [I don't know anything about frying a hamburger]
+    source_type: [Local news, Obituary]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-14'
+    eras: [1950s]
+    regions: ['Spokane Valley, Wash.']

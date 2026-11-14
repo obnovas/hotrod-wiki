@@ -96,6 +96,8 @@ By fall the Castroville drags were regular. On Oct. 27 Jerry Koch of Hondo won a
 
 The paper's last word came 14 years later. In March 1971 the Sports Car Club of America asked Hondo for a one-time race at the old air field, and two councilmen pointed out that "the council has refused local people permission to hold drag races at the air field."[^hah710311] In the 1950s the county's airfields had hosted drag racing. By 1971 the town was turning down requests for it. Devine had asked, and Castroville had drawn the crowd. For other small-town Texas clubs of the period, see [Cameron's Accelerators](cameron-accelerators.md) and [Canyon's Orchids, Plugs and Celtics](canyon-orchids-celtics-amarillo.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
+*See also:* [Big Spring's Lions Club strip](big-spring-lions-club-drag-strip-deshazo.md), another Texas town that got a strip through a service club in the 1950s.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

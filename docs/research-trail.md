@@ -65,6 +65,24 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 - **Blocked or unavailable (not bypassed):** thisistucson.com and the 2017 *Star* column (HTTP 429; read in a mirror); arizonaracinghistory.com (404); the *Exeter News-Letter* on Seacoastonline (paywall, 402); the *Ellsworth American* (429); Google News Archive scans of the *Spokane Daily Chronicle* and *Bangor Daily News* (page images only). Utah, Colorado and Oklahoma's newspaper portals were not retried.
 
 
+## Log, Round 41 (Dover Drag Strip, George Ray's Wildcat Strip, the Ozark Drifters, Big Spring's Lions Club strip, the Brainerd Optimist strip, Ron's Drive-In; 2026-11-14)
+- **Scope:** regions the Midwest-heavy Round 40 left alone: the Northeast (New York), the Arkansas and Tennessee mid-South, West Texas, Georgia's border and the Inland Northwest. Grassroots first: a strip's own reunion site, local-TV and funeral-home pages, a National Register nomination, a Chattanooga local-history column series, a family scrapbook and the Spokane daily's drive-in coverage.
+- **New articles (6):**
+    - New York: [Dover Drag Strip](drag-racing/dover-drag-strip-wingdale-new-york.md) (a gas station owner at an airport meet in Montgomery; May 14, 1961; fifty years of reunions).
+    - Arkansas: [George Ray's Wildcat Strip](drag-racing/george-rays-wildcat-drag-strip-paragould.md) (a bad day at Halls, concrete and a catwalk, Nov. 1961; the National Register nomination).
+    - Arkansas: [The Ozark Drifters](customs/ozark-drifters-ceola-scrapbook-arkansas.md) (the Ceola scrapbook; washing street signs; the Auto-Rama).
+    - Texas: [Big Spring's Lions Club strip](drag-racing/big-spring-lions-club-drag-strip-deshazo.md) (Deshazo's account: a project of the month, a mobile timing van).
+    - Tennessee: [Brainerd Optimist strip](drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md) (Buddy Houts at the meetings; Aug. 11, 1957; neighbors and a lawyer).
+    - Washington: [Ron's Drive-In](places/rons-drive-in-sprague-avenue-spokane-valley.md) (Joe Genova's 1958 drive-in on the family homestead; Thursday cruises).
+- **Resolved:** none. The 1957 Chattanooga, 1957 Big Spring and 1958 Spokane newspapers that would settle the open dates were not readable.
+- **Advanced, still open:** [Lakeland](drag-racing/lakeland-dragway-amusement-park.md) q-1: the Arkansas National Register nomination also gives July 4, 1960, but credits the track's own website, so it is not independent.
+- **New conflicts or single-source flags:** Dover: Lawrence's announcer start ⚠, the founding story ◐, the one-year NHRA sanction ◐, the closing reason ◐, Marrata/Moratta/Maratta ?, the Motormounts ◐. Paragould: concrete length ⚠, why Ray left Halls ⚠, the prize fighter ◐, the pith helmet ◐. Ozark Drifters: one family's collection ◐, truck cost ◐, whose 1934 Ford ?. Big Spring: the whole account ◐, "first mobile timing unit" ◐, later history ?. Chattanooga: Road Masters or Road Gents ⚠, the strip leaving Middle Valley 1963 or 1964 ⚠, Honest Charley's McCallie Avenue date ⚠ (Rose's mid-1950s against our 1948 page, noted on that page), "first hot rod club" ◐. Spokane: 1958 or 1957 ⚠, "introduced teenagers to cruise night" ◐.
+- **Corrections made while writing:** none to published pages beyond the cross-links; drafts dropped several unsupported phrases (an invented "first drag strip" for Chattanooga, a brand name misspelled in a source, and others) before publishing.
+- **Highlights:** three added, all grassroots (Houts "thrown out of every meeting"; the Ozark Drifters washing signs; Genova and the hamburger).
+- **Quick answers:** six added (Dover, George Ray's strip, Big Spring, Brainerd Optimist, Ron's, the Ozark Drifters).
+- **Blocked or unavailable (not bypassed):** Texas Tech's Southwest Collection (403), *Greenwich Time* (402), newspaperarchive.com (timeout), Drag Strip List pages; see the Round 41 status table in [Grassroots Sources](reference/grassroots-sources.md).
+- **Images:** none.
+
 ## Log, Round 40 (Minnesota Dragways and the GSTA, Bunker Hill Dragstrip, the Simons' M-N Raceway, Des Moines Dragway, Lakeland Dragway; 2026-11-13)
 - **Scope:** four states the map was thin in (Minnesota, Indiana, Kansas and Iowa) and Tennessee's Lakeland, which the Memphis page told only in passing. Grassroots first: the GSTA's own 1957 history and a later club booklet, an Anoka County Historical Society volunteer's column, two funeral-home and newspaper obituaries, *The Wichita Eagle* and the Valley Center *Ark Valley News*, a Des Moines local historian's site, a dated timeline of the Lakeland Development Corporation's records, the Shelby County heritage site, and racers' memories on the H.A.M.B. and *Nitromater*.
 - **New articles (5):**
@@ -122,7 +140,15 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 - **N7, applied, with a note.** Burlington's footnote now includes the November 7, 2025 archive, which was readable and contains the street names, the "soft pine trees," Pete Robinson, Lou Azar and "Johnny Dowey of the Columbia area bought the strip and managed it." On this pass the live HTTP URL returned 200 and the same article, not the HTTP 500 Henry recorded; the HTTPS URL returned 404. The archive is cited anyway, the same way Cromer's footnote already cites one, so a reader is not left with only the live host. The bibliography and the grassroots catalog carry the archive URL too.
 - **Skipped:** none of Henry's eight items. No new claim was taken from *Drag Strip List*'s history pages beyond what the citation fixes required.
 
-## Next breadcrumbs (Round 40)
+## Next breadcrumbs (Round 41)
+- **New York and Connecticut:** the *Poughkeepsie Journal* and *Dover Plains* papers, 1961 and 1976 (Dover's opening and closing); the NHRA sanction records for 1961; who Frank Marrata/Moratta/Maratta was in Connecticut deed and town records; the *Greenwich Time* piece, if a legal copy turns up.
+- **Arkansas:** the *Paragould Daily Press* on George Ray (1961 and 2009); Kepner's DragRacingOnline tribute; whether the strip still runs (our newest source is 2011); Halls' airport strip in Lauderdale County, Tenn. papers; the *Northwest Arkansas Times*, 1962-63, for the Auto-Rama.
+- **Texas:** the *Big Spring Herald*, Nov. 1956-Jan. 1957; the Texas Tech Lubbock oral history (needs a readable copy); Deshazo's January 1958 *Hot Rod* article.
+- **Tennessee and Georgia:** the *Chattanooga News-Free Press*, May 10 and Aug. 11-12, 1957 and Sept. 11, 1957; Houts's 1986 interview; the 1963-64 end of Middle Valley (Flewellen's Skypark); Honest Charley's McCallie Avenue date.
+- **Washington:** the *Spokane Daily Chronicle* and *Spokane Valley Herald*, 1957-58; the Old Irons Auto Club's founding; Spokane's 1950s clubs and strips.
+- **Carried from Round 40:** the Minnesota, Indiana, Kansas and Iowa newspaper leads and Lakeland's opening year in the Memphis papers.
+
+## Next breadcrumbs (Round 40) — superseded by Round 41
 - **Minnesota:** the *Anoka County Union* and *Minneapolis Star*/*Tribune*, summer 1957 and June 1959 (the announced Anoka site and the Coon Rapids opening); the original GSTA *Timer*; Minneapolis Optimist Club records; John Foster's obituary; the 1970 closing agreement in Coon Rapids city council minutes.
 - **Indiana:** the *Kokomo Tribune*, August 1956 (Bunker Hill's opening) and 1996–97 (the sale); Miami County deed records; Indiana interurban maps for the right-of-way; a patent under Hullinger or the Safe-Start name in USPTO full text.
 - **Kansas:** *The Wichita Eagle* and *Beacon*, 1963–64 (M-N's first races); what "M-N" stood for, from the Simon family; the Mill'ers club's own records; the McConnell AFB base paper, 1958.

@@ -109,7 +109,7 @@ The strip closed in 1979, reopened in 1980 as Connecticut International Raceway,
 
 The clubs had asked the town to help them get a drag strip in Connecticut, because they were forced to go to neighboring states. Maratta and the Nutmeg State Timing Association got one at East Haddam in 1961. The strip closed, and the state had no drag strip at all.
 
-*See also:* New England's other small-state strips, [Milton Speedway, Vermont](milton-speedway-vermont.md) and [Charlestown Dragway, Rhode Island](charlestown-dragway-rhode-island.md). The region's clubs finally built a strip of their own in 1966: [New England Dragway at Epping, N.H.](new-england-dragway-epping.md)
+*See also:* [Dover Drag Strip](dover-drag-strip-wingdale-new-york.md), over the line in Wingdale, N.Y., whose history page spells a Connecticut Dragway builder "Frank Marrata" (the spelling is open, see that page's q-5); New England's other small-state strips, [Milton Speedway, Vermont](milton-speedway-vermont.md) and [Charlestown Dragway, Rhode Island](charlestown-dragway-rhode-island.md). The region's clubs finally built a strip of their own in 1966: [New England Dragway at Epping, N.H.](new-england-dragway-epping.md)
 
 ## Open questions & disputed details
 

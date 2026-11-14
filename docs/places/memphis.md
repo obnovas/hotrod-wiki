@@ -99,7 +99,7 @@ There is one company claim, and it is about a street corner, not a musician. COM
 
 The bomber base had the meets, the Bo-Weevil ran at Lakeland, and the Rodders date from 1947. A Sun Records story is not in the record.
 
-*See also:* [Second Sunday at Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md), an Arkansas bomber-field strip where, one racer wrote, "the latest stuff always seemed to come from Memphis."
+*See also:* [George Ray's Wildcat strip](../drag-racing/george-rays-wildcat-drag-strip-paragould.md), built by a man who left the Halls strip; [Brainerd Optimist strip](../drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md), Chattanooga's charity strip; [Second Sunday at Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md), an Arkansas bomber-field strip where, one racer wrote, "the latest stuff always seemed to come from Memphis."
 
 ## Open questions & disputed details
 

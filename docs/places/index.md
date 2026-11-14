@@ -25,6 +25,7 @@ Hot rodding wasn't only a SoCal export, and it didn't happen only on strips. Thi
 - [Woodward Avenue](woodward.md) and [Woodward's Ordinances](woodward-ordinances.md)
 - [Van Nuys Boulevard](van-nuys.md), [Bob's Big Boy & the River Road](bobs-big-boy-river-road.md), [Harvey's Broiler](harveys-broiler-downey.md), [Whittier Boulevard](whittier-blvd.md) and [Modesto](modesto.md)
 - [Summer Avenue, Memphis](summer-avenue-memphis.md), [Lake Street & University Ave](lake-street-university.md), [Westheimer, Houston](westheimer-houston.md) and [Central Ave, Albuquerque](central-avenue-albuquerque.md)
+- [Ron's Drive-In, Spokane Valley, Wash.](rons-drive-in-sprague-avenue-spokane-valley.md): a produce vendor who had never fried a burger builds a drive-in on the family farm in 1958, and the hot rods keep parking there (⚠ opening year).
 - [Main Avenue, Twin Falls, Idaho](twin-falls-main-avenue.md): the street the local paper called a "drag strip," and the timing association that offered to pay for a real one (1957–65).
 - [Dragging Main](dragging-main.md): the small-town loop in yearbooks and an oral history, from Franklin, N.C., to Hays, Kan. (1950s–1980s).
 - [The Restless Ribbon (Tulsa)](brookside-restless-ribbon-tulsa.md): Peoria Avenue from 31st to 51st, school honks, Soc Row at Pennington's, pink-slip races and a speed shop on the strip (1950s–1970s).

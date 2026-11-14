@@ -911,3 +911,26 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [local] Vance, "When life was simpler.....," *The Moonpie Chronicles*, February 2, 2010. http://moonpiechronicles.blogspot.com/2010/02/when-life-was-simpler.html
 - [mag] Thomas A. DeMauro, "Behind The Camera: Two-Lane Blacktop," *High Performance Pontiac*, June 1, 2008. https://www.hotrod.com/news/hppp-0806-behind-the-camera-two-lane-blacktop
 - [ref] "32 Locations," *Looking for Two-Lane Blacktop* (film-location study). https://lookingfortwolaneblacktop.wordpress.com/32-locations/
+
+## Round 41 additions (Dover Drag Strip, George Ray's Wildcat Strip, the Ozark Drifters, Big Spring's Lions Club strip, the Brainerd Optimist strip, Ron's Drive-In)
+- [local] "History," Dover Drag Strip (the strip's former announcer's site). https://doverdragstrip.com/history/
+- [mag] Jim Motavalli, "Memories of a New York Dragstrip," *The New York Times* (Wheels blog), May 10, 2010. https://archive.nytimes.com/wheels.blogs.nytimes.com/2010/05/10/memories-of-a-new-york-dragstrip/
+- [mag] Phil Burgess, "Back on the ghost-track trail," NHRA, Nov. 7, 2008. https://www.nhra.com/news/2008/back-ghost-track-trail
+- [local] John McCartney, "Dover Drag Strip Nostalgia Drags a Big Hit," *Drag Racing Action Online*, Nov. 20, 2021. https://dragracingactiononline.com/2021/11/dover-drag-strip-nostalgia-drags-a-big-hit/
+- [forum] "Montgomery, NY drag races," the H.A.M.B., July 2008 and later. https://www.jalopyjournal.com/forum/threads/montgomery-ny-drag-races.212770/
+- [ref] "George Ray's Dragstrip," National Register of Historic Places Registration Form, Arkansas Historic Preservation Program. (URL in the article's footnote.)
+- [local] KAIT-TV (Jonesboro), "Drag Racing Legend George Ray Passes Away," Dec. 7, 2009, and "A little bit of drag racing history from Paragould," July 14, 2011. https://www.kait8.com/story/15082802/a-little-bit-of-drag-racing-history-from-paragould/
+- [obit] "George Elzie Ray," Heath Funeral Home, Paragould, Dec. 2009. https://www.heathfuneralhome.com/obituaries/george-elzie-ray
+- [mag] Brian Lohnes, "George Ray is Dead but Thankfully His Wildcat Hot Rod Dragstrip is Not," *BangShift*, Dec. 9, 2009. https://bangshift.com/general-news/george-ray-is-dead-but-thankfully-his-dragstrip-is-not/
+- [forum] "Drag strips in Arkansas," the H.A.M.B., July 22, 2018. https://www.jalopyjournal.com/forum/threads/drag-strips-in-arkansas.941281/
+- [ref] Kustomrama, "Ozark Drifters Kar Klub of Fayetteville," "Dick Ceola's 1930 Ford," "Dick Ceola," "Ozark Drifters Auto-Rama 1963" and "Harry and Larry Arrington's 1934 Ford" (photos and captions from the Dick Ceola Collection, courtesy of Nicholas Coe and the Ceola family). https://www.kustomrama.com/wiki/Ozark_Drifters_Kar_Klub_of_Fayetteville
+- [local] Howard L. Deshazo, "To Go This Far Was Beyond Our Dreams," Highland Lakes Timing Association, July 31, 2014 (reposting Rust and Chrome Mag). https://highlandlakestimingassociation.com/2014/07/31/
+- [local] Harmon Jolley, "River City Racing - the Brainerd Optimist Drag Strip of Middle Valley," *Chattanoogan.com*, March 28, 2010. https://www.chattanoogan.com/2010/3/28/172116/River-City-Racing---the-Bra
+- [local] Jim Ashley, "Memories of the Local Road Master's Hot Rod Club," *Chattanoogan.com*, June 17, 2013, and "Remembering Buddy Houts: He Made Us Laugh," March 17, 2014. https://www.chattanoogan.com/2013/6/17/253429/Memories-of-the-Local-Road-Master-s.aspx
+- [local] Jerry Summers, "Drag Racing In Tennessee, Georgia And Alabama," *Chattanoogan.com*, Aug. 5, 2021. https://www.chattanoogan.com/2021/8/5/432244/Jerry-Summers-Drag-Racing-In.aspx
+- [local] "Track Info," New Brainerd Optimist Dragstrip (expired site; Internet Archive capture). https://web.archive.org/web/2016/http://newbrainerdoptimistdragstrip.com/trackinfo.html
+- [obit] Tom Lutey, "Joe Genova, founder of Ron's Drive-In, dies," *The Spokesman-Review*, Sept. 1, 2004. https://www.spokesman.com/stories/2004/sep/01/joe-genova-founder-of-rons-drive-in-dies/
+- [local] Sam Francis, "Classic Cars Visit A Classic Hangout," *The Spokesman-Review*, Aug. 23, 1997. https://www.spokesman.com/stories/1997/aug/23/classic-cars-visit-a-classic-hangout/
+- [local] Angie Gaddy, "Ron's Drive-In Goes West With A Second Restaurant," *The Spokesman-Review*, Nov. 27, 1997. https://www.spokesman.com/stories/1997/nov/27/rons-drive-in-goes-west-with-a-second-restaurant/
+- [local] Jesse Tinsley, "Then and now: Top Hat Drive-In," *The Spokesman-Review*, Feb. 17, 2025. https://www.spokesman.com/stories/2025/feb/17/then-and-now-top-hat-drive-in/
+- [local] "Cruise Nights 2026," Inland Northwest Car Club Council. https://incarclubcouncil.com/cruise-nights/

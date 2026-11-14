@@ -104,7 +104,7 @@ Hurricane Irene flooded the strip in 2011, and Sandy flooded it again in 2012. B
 
 He had announced a racetrack, on the family farm. Melissa and Carl reopened it. Since Atco closed in July 2023, it is the last drag strip in New Jersey.
 
-*See also:* [Atco and Strato Rods](atco-strato-rods-south-jersey.md), the South Jersey strips; [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before 1960; [The Pocono strips](pocono-strips.md), whose Stroudsburg neighbors were sent to Island to learn how a drag race was run; [Don Garlits](../people/don-garlits.md).
+*See also:* [Dover Drag Strip](dover-drag-strip-wingdale-new-york.md), a New York strip whose history page says it was NHRA-sanctioned for one year; [Atco and Strato Rods](atco-strato-rods-south-jersey.md), the South Jersey strips; [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before 1960; [The Pocono strips](pocono-strips.md), whose Stroudsburg neighbors were sent to Island to learn how a drag race was run; [Don Garlits](../people/don-garlits.md).
 
 ## Open questions & disputed details
 

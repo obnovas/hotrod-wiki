@@ -944,6 +944,41 @@ themes:
         link: drag-racing/lakeland-dragway-amusement-park.md
         also: [places/memphis.md]
         flag: drag-racing/lakeland-dragway-amusement-park.md#q-1
+      - id: dover-drag-strip
+        q: How did a Connecticut gas station owner end up with a drag strip in New York?
+        a: >-
+          By the strip's own history page, Chet Anderson watched an airport drag meet in Montgomery, N.Y., and the next
+          day went looking for land (◐ that story is the strip's own, see Open questions). Dover Drag Strip opened in
+          Wingdale on May 14, 1961, and closed in 1976. Its racers still hold reunions.
+        link: drag-racing/dover-drag-strip-wingdale-new-york.md
+        also: [drag-racing/connecticut-clubs-nutmeg-state-timing-association.md]
+        flag: drag-racing/dover-drag-strip-wingdale-new-york.md#q-2
+      - id: georges-wildcat-strip
+        q: Which early drag strip is still the one its builder poured?
+        a: >-
+          George Ray's Wildcat Hot Rod Drag Strip in Paragould, Ark., poured in concrete in November 1961 after Ray
+          disliked a strip in Halls, Tenn. The National Register of Historic Places calls it "virtually unaltered"
+          (⚠ the sources give its length two ways, see Open questions). His wife kept it running after he died in 2009.
+        link: drag-racing/george-rays-wildcat-drag-strip-paragould.md
+        also: [drag-racing/carlisle-drag-strip-arkansas.md]
+        flag: drag-racing/george-rays-wildcat-drag-strip-paragould.md#q-1
+      - id: big-spring-lions-club-strip
+        q: Did a Lions Club really start a drag strip in Texas?
+        a: >-
+          By Howard Deshazo's own account, yes: in November 1956 an Air Force captain asked Big Spring's new Lions Club
+          to take on a drag strip, and less than 55 days later the town held a sanctioned event (◐ his memoir is the
+          only source we have read, see Open questions).
+        link: drag-racing/big-spring-lions-club-drag-strip-deshazo.md
+        flag: drag-racing/big-spring-lions-club-drag-strip-deshazo.md#q-1
+      - id: brainerd-optimist-strip
+        q: Who built Chattanooga's Middle Valley drag strip?
+        a: >-
+          The Brainerd Optimist Club, as a charity project, opening in Middle Valley on August 11, 1957, after
+          newspaperman Buddy Houts pressed for a legal strip. Which hot rod club was tied to it, and when the strip
+          left Middle Valley, are both told two ways (⚠ see Open questions).
+        link: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md
+        also: [companies/honest-charley-speed-shop.md]
+        flag: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-2
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1039,6 +1074,15 @@ themes:
         also: [drag-racing/denver-timing-association-bandimere.md]
         flag: places/denver-16th-street-colfax-scotchman.md#q-1
 
+      - id: rons-drive-in-spokane
+        q: Where do hot rodders cruise in Spokane Valley?
+        a: >-
+          Ron's Drive-In on East Sprague, opened by produce vendor Joe Genova in 1958 (⚠ a 1997 item says "40 years
+          ago," see Open questions). A Valley club was holding Thursday cruises there by 1997, and a 2026 club-council
+          list still shows a Thursday cruise night at Ron's.
+        link: places/rons-drive-in-sprague-avenue-spokane-valley.md
+        also: [places/cruising-overview.md]
+        flag: places/rons-drive-in-sprague-avenue-spokane-valley.md#q-1
   - id: companies-and-parts
     title: Companies and the parts business
     questions:
@@ -1375,6 +1419,14 @@ themes:
         link: drag-racing/pel-state-dragway-opelousas.md#the-fuel-test-and-the-christmas-tree
         also: [drag-racing/pocatello-mcdougall-field-drag-strip.md]
         flag: drag-racing/pel-state-dragway-opelousas.md#q-1
+      - id: ozark-drifters
+        q: What did one Arkansas car club do when a member got a speeding ticket?
+        a: >-
+          The Ozark Drifters of Fayetteville decided the court's fine "wasn't sufficient punishment" and had the member
+          wash street signs, as the club's scrapbook, shared on Kustomrama, tells it (◐ one family's collection, see
+          Open questions).
+        link: customs/ozark-drifters-ceola-scrapbook-arkansas.md
+        flag: customs/ozark-drifters-ceola-scrapbook-arkansas.md#q-1
   - id: media-and-shows
     title: Media and shows
     questions:
