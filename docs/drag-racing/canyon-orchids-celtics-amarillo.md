@@ -91,6 +91,8 @@ In 1962 the Celtics' ad asked readers to support the local club at the strip. Fo
 
 The clubs had been trying to convince the town they were safe drivers. In April 1966, 70 were arrested at the strip up the road, in a dry county.
 
+*See also:* [Big Spring's Lions Club strip](big-spring-lions-club-drag-strip-deshazo.md), where, by Howard Deshazo's account, a service club took on a strip in 1956.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

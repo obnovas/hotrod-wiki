@@ -577,10 +577,10 @@ edges:
   - {from: rleong, to: nhra, type: scene, label: "Left school for NHRA racing; 1965 Winternationals and U.S. Nationals with Prudhomme", page: people/roland-leong.md,
      evidence: ["to chase a career in NHRA drag racing"]}
   # ----- Round 36
-  - {from: honestcharley, to: ccard, type: founded, label: "Opened Honest Charley Speed Shop on McCallie Avenue in 1948", page: companies/honest-charley-speed-shop.md,
-     evidence: ["In 1948 he opened Honest Charley Speed Shop on McCallie Avenue"]}
-  - {from: honestcharley, to: chattanooga, type: hometown, label: "McCallie Avenue, Chattanooga, from 1948", page: companies/honest-charley-speed-shop.md,
-     evidence: ["on McCallie Avenue"]}
+  - {from: honestcharley, to: ccard, type: founded, label: "Dated the speed shop to 1948; McCallie is a mid-1950s memory", page: companies/honest-charley-speed-shop.md,
+     flag: conflict, evidence: ["date the shop to 1948"]}
+  - {from: honestcharley, to: chattanooga, type: hometown, label: "Chattanooga; McCallie Avenue is a mid-1950s memory", page: companies/honest-charley-speed-shop.md,
+     flag: conflict, evidence: ["on McCallie Avenue across from Warner Park"]}
   - {from: honestcharley, to: roanokestrip, type: customer, label: "The catalog was Southwest Virginia's mail-order 'bible'", page: drag-racing/roanoke-drag-strip-southwest-virginia.md,
      evidence: ["the catalog from Honest Charley's Speed Shop in Chattanooga, Tennessee"]}
   - {from: fcr, to: omahadragway, type: scene, label: "Founder Terry Fritsch made his first quarter-mile run at Flightland, 1961", page: drag-racing/nebraska-flightland-grand-island-kearney.md,

@@ -53,7 +53,7 @@ status: Open in 2011, run by Ray's widow, Bonnie[^kait11]
 ---
 # Run at Your Own Risk: George Ray's Wildcat Hot Rod Drag Strip, Paragould, Ark. (1961– )
 
-*A man who didn't like how a Tennessee strip treated Arkansas racers built his own, and ran it his way until he died*
+*A man who didn't like a Tennessee strip built his own, and ran it his way until he died*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the building and the layout come from the 2005–06 National Register nomination, which drew on e-mails with Ray and a friend; the rest comes from two local TV reports, a funeral-home obituary and a forum post; the length of the concrete and the reason Ray left Tennessee are told two ways) · **Source types:** <span class="hr-badge">Grassroots</span> National Register of Historic Places registration form (Arkansas Historic Preservation Program); obituary (Heath Funeral Home, 2009); local TV news (KAIT, Jonesboro, 2009 and 2011); a tourism-association page; BangShift (2009); H.A.M.B. forum (2014, 2018) · **Last verified:** 2026-11-14 (Round 41) · **Open issues:** ⚠ 2,960 feet or 2,600 feet of concrete; ⚠ why Ray left Halls; ◐ the prize fighter; ◐ the pith helmet · [How we rate this](../reference/source-standards.md)
@@ -85,7 +85,7 @@ Wallin told KAIT that his father had brought him to the strip to get him to stop
 
 George Ray died on December 5, 2009, at 85. His obituary says he was the owner and operator of the drag strip for 49 years, and that memorials could go to Cars for Kids.[^obit] His wife, Bonnie, kept running the track.[^kait11] BangShift wrote that he had "cemented himself as a drag racing legend by maintaining everything, even the rules at the strip, as if it were still the early 1960s."[^bs09] By 2011 the strip was an eighth of a mile, with the walkway over the track and many of the older buildings still there.[^kait11] Cray told the station it was "the only game in town." Ray had gone to a strip he didn't like, come home and built one. Many of the first-generation strips in his region, the nomination says, have since been abandoned, left to fall apart or torn down. His is still the one he poured.
 
-*See also:* [Second Sunday at Carlisle](carlisle-drag-strip-arkansas.md), the airport strip that came first in Arkansas; [Lakeland Dragway](lakeland-dragway-amusement-park.md); [Memphis and the Mid-South](../places/memphis.md), for the Halls air base; [Malden, Mo.](semo-malden-drag-strip.md).
+*See also:* [The Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md), northwest Arkansas's club, known from the Ceola family scrapbook; [Second Sunday at Carlisle](carlisle-drag-strip-arkansas.md), the airport strip that came first in Arkansas; [Lakeland Dragway](lakeland-dragway-amusement-park.md); [Memphis and the Mid-South](../places/memphis.md), for the Halls air base; [Malden, Mo.](semo-malden-drag-strip.md).
 
 ## Open questions & disputed details
 

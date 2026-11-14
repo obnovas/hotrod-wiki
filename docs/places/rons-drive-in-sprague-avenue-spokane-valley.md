@@ -1,6 +1,6 @@
 ---
-title: '"I Don''t Know Anything About Frying a Hamburger": Ron''s Drive-In and Sprague Avenue, Spokane Valley (1958– )'
-summary: 'Joe Genova, a Spokane produce vendor with an eighth-grade education, opened Ron''s Drive-In on his family''s Sprague Avenue homestead in 1958. Teenagers filled the lot, a classic-car club was parking there on Thursdays by 1997, and a 2026 club list still shows a Thursday cruise night.'
+title: '"I Don''t Know Anything About Frying a Hamburger": Ron''s Drive-In and Sprague Avenue, Spokane Valley (1958 or 1957– )'
+summary: 'Joe Genova, a Spokane produce vendor with an eighth-grade education, opened Ron''s Drive-In on his family''s Sprague Avenue homestead in 1958 or 1957. Teenagers filled the lot, a classic-car club was parking there on Thursdays by 1997, and a 2026 club list still shows a Thursday cruise night.'
 department: places
 era: 1950s
 eras:
@@ -10,7 +10,7 @@ eras:
 - 1990s
 - 2020s
 years:
-- 1958
+- 1957
 - 2026
 region: Northwest
 states:
@@ -51,7 +51,7 @@ canonical_for: []
 location: 12502 E. Sprague Avenue, Spokane Valley, Wash., one block east of Pines Road[^obit04][^sr97]
 status: Open; a Thursday cruise night at Ron's is on a 2026 regional club list[^cc26]
 ---
-# "I Don't Know Anything About Frying a Hamburger": Ron's Drive-In and Sprague Avenue, Spokane Valley (1958– )
+# "I Don't Know Anything About Frying a Hamburger": Ron's Drive-In and Sprague Avenue, Spokane Valley (1958 or 1957– )
 
 *A produce vendor who had never cooked a burger built a drive-in on the family's old farm, and hot rodders have been parking there for sixty years*
 
@@ -65,9 +65,9 @@ status: Open; a Thursday cruise night at Ron's is on a 2026 regional club list[^
 
 ## A produce man and a model
 
-Ron's Drive-In is a hot rod hangout that was built by a man who knew nothing about restaurants. Joe Genova was a produce vendor on Spokane's North Side, facing competition from a big grocery store, when he decided to try something new. He had an eighth-grade education. "I don't know anything about frying a hamburger," his sister, Helen Ronayne, remembered him saying when he opened. "But he had the land and he had the smarts and the head to make it go."[^obit04]
+Ron's Drive-In is a hot rod hangout that was built by a man who knew nothing about restaurants. Joe Genova was a produce vendor on Spokane's North Side, facing competition from a big grocery store, when he decided to try something new. He had an eighth-grade education. His sister, Helen Ronayne, remembered the remark he made when he opened: "I don't know anything about frying a hamburger." She went on: "But he had the land and he had the smarts and the head to make it go."[^obit04]
 
-The land was the Genova family homestead, one block east of Pines Road on Sprague Avenue, where his immigrant Italian parents had farmed when he was a child. He tore down the family house and built a life-sized version of a model he had made in his basement: a 30-by-30-foot stainless steel kitchen ringed with glass windows. The drive-in opened in 1958.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Some people were sure it would not last, his son Ron said, because the freeway had just opened. Joe named it for his eldest son, and for 37 years began each day in the kitchen picking and slicing tomatoes himself.[^obit04]
+The land was the Genova family homestead, one block east of Pines Road on Sprague Avenue, where his immigrant Italian parents had farmed when he was a child. He tore down the family house and built a life-sized version of a model he had made in his basement: a 30-by-30-foot stainless steel kitchen ringed with glass windows. The drive-in opened in 1958.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Some people were sure it would not last, his son Ron said, because the freeway had just opened. Joe named it for his eldest son, and for 37 years began each day in the kitchen hand-selecting and slicing tomatoes himself.[^obit04]
 
 ## Saturday nights, and a raw onion
 

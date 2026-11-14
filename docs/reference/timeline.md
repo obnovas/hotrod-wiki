@@ -31,7 +31,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1948 | Howie Wilson drives Hilborn streamliner 150.5 mph at El Mirage (SEMA account) | [Stu Hilborn](../people/stu-hilborn.md) |
 | 1948–53 | California Highway Patrol works with hot rod clubs until a 1953 order ends it | [City planners, 1955](../drag-racing/planners-report-1955.md) |
 | 1948 | Denver street racers advertise a meeting at Wyman Elementary; over 220 come. The Denver Timing Association is incorporated Apr 9, 1949 | [Denver & Bandimere](../drag-racing/denver-timing-association-bandimere.md) |
-| 1948 | Honest Charley Speed Shop opens on McCallie Avenue, Chattanooga; Card hand-draws the catalog, and SEMA calls him one of the first to publish one | [Honest Charley](../companies/honest-charley-speed-shop.md) |
+| 1948 | Honest Charley Speed Shop is dated to 1948; the McCallie Avenue opening is a mid-1950s memory ⚠; Card hand-draws the catalog, and SEMA calls him one of the first to publish one | [Honest Charley](../companies/honest-charley-speed-shop.md) |
 | 1949 | SCTA's first Bonneville meet. Johansen's twin-tank streamliner runs 147.54 | [Howard Johansen](../people/howard-johansen.md) |
 | 1949 | Apr 10: Fran Hernandez beats Tom Cobbs at Goleta (nitro '32 coupe) | [Fran Hernandez](../people/fran-hernandez.md) |
 | 1949 ◐ | Hono-Kai Timing Association formed in Honolulu, about 20 members; a Navy roadway for drags until the authorities refuse (via *Best Hot Rods*, 1952) | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
@@ -312,8 +312,8 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1963 | A West High senior-to-be and friends cruise Denver's one-way 16th Street and cross the viaduct to the Scotchman (July) | [Denver's cruise](../places/denver-16th-street-colfax-scotchman.md) |
 | 1963 ⚠ | Neighbors ask the Simons to put a strip on their Maize, Kan., farm: M & N Raceway | [M-N Raceway](../drag-racing/m-n-raceway-wichita-simon-farm.md) |
 | 1963 | Five local racers take over the Lakeland Dragway lease (Jan 16) | [Lakeland Dragway](../drag-racing/lakeland-dragway-amusement-park.md) |
-| 1962 | The Ozark Drifters hold their first Auto-Rama at the National Guard Armory, Springdale, Ark. (Dec) | [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md) |
-| 1963 | Ozark Drifters carry a 1934 Ford two miles through Fayetteville (Apr); second Auto-Rama at the Springdale Roller Rink | [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md) |
+| 1962 | According to the Ceola family scrapbook, the Ozark Drifters hold their first Auto-Rama at the National Guard Armory, Springdale, Ark. (Dec) | [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md) |
+| 1963 | According to the same scrapbook, the Ozark Drifters carry a 1934 Ford two miles through Fayetteville (Apr); second Auto-Rama at the Springdale Roller Rink | [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md) |
 | 1964 | Al Bergler's Aggravation II wins first Ridler Award, Detroit Autorama | [Al Bergler](../people/al-bergler.md) |
 | 1964–67 ⚠ | Mr. Gasket founded or incorporated | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1964 | Don Gay wins A/Stock at Indy. Altizer-Finders-Kibler "Traveler" B/GS record 9.76/146.57 (Nov, ◐) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |

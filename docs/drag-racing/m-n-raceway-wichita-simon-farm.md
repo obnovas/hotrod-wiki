@@ -19,7 +19,7 @@ cities:
 - Wichita, Kansas
 - Valley Center, Kansas
 - Great Bend, Kansas
-peak: 1963–2008
+peak: 1963 or 1964–2008
 people:
 - Marcellus "Sally" Simon
 - Helen Simon

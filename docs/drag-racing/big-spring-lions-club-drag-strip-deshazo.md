@@ -1,5 +1,5 @@
 ---
-title: 'Fifty-Five Days: Howard Deshazo, the Lions Club and a Drag Strip for Big Spring, Texas (from 1956)'
+title: 'By His Account, Fifty-Five Days: Howard Deshazo, the Lions Club and a Drag Strip for Big Spring, Texas (from 1956)'
 summary: 'In November 1956 an Air Force captain asked the new Big Spring Lions Club to take on a drag strip. Howard Deshazo says that less than 55 days later the Texas town held its first sanctioned drag event, and he designed a mobile timing van, built on a 1949 Ford delivery truck, to take the show to smaller towns.'
 department: drag-racing
 era: 1950s
@@ -46,9 +46,9 @@ canonical_for: []
 location: Big Spring, Texas, with Webb Air Force Base's commander holding "a potential strip site"[^hl]
 status: Unknown after the first seasons; our only source is Deshazo's own account[^hl]
 ---
-# Fifty-Five Days: Howard Deshazo, the Lions Club and a Drag Strip for Big Spring, Texas (from 1956)
+# By His Account, Fifty-Five Days: Howard Deshazo, the Lions Club and a Drag Strip for Big Spring, Texas (from 1956)
 
-*A town of oilmen, bankers and airmen said yes to a drag strip in under two months, and a young Texan built the timing van to prove it*
+*By Howard Deshazo's account, a town of oilmen, bankers and airmen said yes to a drag strip in under two months, and a young Texan built the timing van to prove it*
 
 !!! abstract "Article record"
     **Confidence:** Low (everything comes from one first-person account by Howard Deshazo, posted in 2014 on the Highland Lakes Timing Association's site from a Rust and Chrome magazine post, which quotes his *Hot Rod* article of January 1958; we have not read that article or any Big Spring newspaper) · **Source types:** <span class="hr-badge">Grassroots</span> a participant's memoir, reposted by a local timing association; a quotation from *Hot Rod* (January 1958) as he gives it · **Last verified:** 2026-11-14 (Round 41) · **Open issues:** ◐ the whole account is one man's; ◐ "first mobile timing unit"; ? the date of the first event, and the strip's later years · [How we rate this](../reference/source-standards.md)
