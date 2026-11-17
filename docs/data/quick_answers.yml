@@ -973,12 +973,14 @@ themes:
       - id: brainerd-optimist-strip
         q: Who built Chattanooga's Middle Valley drag strip?
         a: >-
-          The Brainerd Optimist Club, as a charity project, opening in Middle Valley on August 11, 1957, after
-          newspaperman Buddy Houts pressed for a legal strip. Which hot rod club worked with him is told two ways
-          (⚠ see Open questions), and so is the year the strip left Middle Valley (⚠ see Open questions).
+          An Optimist club built it as a charity project and opened it in Middle Valley on August 11, 1957, after
+          newspaperman Buddy Houts pressed for a legal strip. Rose calls that club the East Brainerd Optimist Club
+          and the appeal a strip in Hixson; Jolley says the Brainerd Optimists, on Crabtree Road in Middle Valley
+          (⚠ see Open questions). Which hot rod club worked with him is told two ways (⚠ see Open questions), and so
+          is the year the strip left Middle Valley (⚠ see Open questions).
         link: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md
         also: [companies/honest-charley-speed-shop.md]
-        flag: [drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-1, drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-2]
+        flag: [drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-5, drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-1, drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-2]
       - id: westhampton-turned-around
         q: Why did Long Island's racers turn their own drag strip around?
         a: >-
@@ -1009,7 +1011,7 @@ themes:
       - id: pico-raceway-airport-racers
         q: Why did a Vermont sheriff help build a race track?
         a: >-
-          By two local accounts, young men were drag racing on the Rutland airport runways, so Sheriff Geno Franzoni,
+          By local accounts, young men were drag racing on the Rutland airport runways, so Sheriff Geno Franzoni,
           a racer's father and a farmer built Pico Raceway in 1951 (◐ see Open questions). About 4,000 people came
           the first day.
         link: drag-racing/pico-raceway-rutland-airport.md

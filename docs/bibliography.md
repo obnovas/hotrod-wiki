@@ -955,6 +955,7 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [local] Dan Leeth, "Revved Up Reno," *Spokesman-Review*, July 9, 2000. https://www.spokesman.com/stories/2000/jul/09/revved-up-reno-classic-cars-from-across-the-west/
 - [ref] "History of Hot August Nights," Hot August Nights. https://hotaugustnights.net/history-of-hot-august-nights/
 - [forum] Milburn Moore, "'Draggin' Main' --- When Did It Begin?," *Mil's Place* (blog), July 12, 2014, and reader comment. https://milmoore.blogspot.com/2014/07/draggin-main-when-did-it-begin.html
+- [forum] Art Snipes, letter printed in Milburn Moore, "Main Street and Hotel Clovis---C.H.S. 'Kids' Remember!," *Mil's Place* (blog), January 9, 2013. http://milmoore.blogspot.com/2013/01/main-street-and-hotel-clovis-chs-kids.html
 - [local] David Stevens, "From the editor's desk: This won't be a drag" (June 18, 2014) and "Editor's Desk: Main Street sparks good memories" (June 25, 2014), *Eastern New Mexico News*. https://www.easternnewmexiconews.com/story/2014/06/25/news/editors-desk-main-street-sparks-good-memories/74923.html
 - [local] "Get ready to roll at Draggin' Main," *Eastern New Mexico News*, June 23, 2015. https://www.easternnewmexiconews.com/story/2015/06/23/news/get-ready-to-roll-at-draggin-main/74368.html
 - [ref] Stewart Green, "A Spectator's Guide to the Clovis Music Festival and Draggin' Main," New Mexico True. https://www.newmexico.org/blog/post/a-spectators-guide-to-the-clovis-music-festival-and-draggin-main/

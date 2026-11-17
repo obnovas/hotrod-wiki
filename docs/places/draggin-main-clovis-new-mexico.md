@@ -20,6 +20,7 @@ cities:
 - Clovis, New Mexico
 people:
 - Milburn Moore
+- Art Snipes
 - Susan Stebbins Mallory
 - Jimmy Abernethy
 - Wanda King
@@ -61,8 +62,8 @@ status: Revived in 2014; joined with the Clovis Music Festival in 2017[^ed14][^n
     — Milburn Moore, *Mil's Place*, July 12, 2014.[^mil14]
 
 <figure markdown>
-![Storefronts along North Main Street in Clovis, New Mexico, with cars parked at the curb, 2017](../assets/images/commons-clovis-north-main-street-2017.jpg){ loading=lazy }
-<figcaption markdown>North Main Street, Clovis, January 17, 2017. Photo: Greg Gjerdingen, via Wikimedia Commons, CC BY 2.0. See [Image credits](../reference/image-credits.md).</figcaption>
+![Brick storefronts and parked cars on a downtown street in Clovis, New Mexico, bare trees, January 2017](../assets/images/commons-clovis-north-main-street-2017.jpg){ loading=lazy }
+<figcaption markdown>Downtown Clovis on a winter afternoon, January 17, 2017. The cars at the curb are parked. Photo: Greg Gjerdingen, via Wikimedia Commons, CC BY 2.0. See [Image credits](../reference/image-credits.md).</figcaption>
 </figure>
 
 ## Bumper to bumper on Sunday
@@ -77,7 +78,7 @@ Main was eight blocks, and kids got tired of it. Moore's crowd would go out Firs
 
 Susan Stebbins Mallory, writing to the same blog, remembered going out First to circle a drive-in, back to Main, then out Seventh to circle the Foxy. When gas started costing more, kids parked around Gateway Auto at Main and Sixth and stood around talking and watching the cars. On Sundays they dragged Main until six and then had to go home. The best part was turning around at the end of Main near the train station: "Do you remember the crows which gathered in the trees around there and the city had trouble getting rid of them?" She left Clovis for the last time in 1968, she wrote, "and there was no dragging Main then."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^mil14]
 
-Another of Moore's readers worked Saturday nights at Safeway, "swinging a mop up and down those long aisles while everyone else was dragging Main." It still worked out. Dragging Main one Friday night, that reader spotted Wanda King in front of Standridge Drug, circled the block and asked her to get in, "the beginning of a long and beautiful relationship that lasted over 61 years."[^ed14b]
+Art Snipes, Clovis High class of 1951, wrote that he worked at Safeway on Saturday nights, "swinging a mop up and down those long aisles while everyone else was dragging Main." It still worked out. Dragging Main one Friday night, he spotted Wanda King in front of Standridge Drug, circled the block and asked her to get in, "the beginning of a long and beautiful relationship that lasted over 61 years."[^mil13]
 
 ## The brick street again
 
@@ -104,7 +105,7 @@ The *Clovis News-Journal* for city action against cruising (1960s–1990s); Clov
 ## Sources
 
 [^mil14]: Mil [Milburn Moore], "'Draggin' Main' --- When Did It Begin?," *Mil's Place* (blog), July 12, 2014, with reader comment of August 4, 2015. https://milmoore.blogspot.com/2014/07/draggin-main-when-did-it-begin.html (accessed 2026-11-17)
-[^ed14b]: David Stevens, "Editor's Desk: Main Street sparks good memories," *Eastern New Mexico News* (*Clovis News Journal*), June 25, 2014. https://www.easternnewmexiconews.com/story/2014/06/25/news/editors-desk-main-street-sparks-good-memories/74923.html (accessed 2026-11-17)
+[^mil13]: Art Snipes (Clovis High, class of 1951), letter printed in Mil [Milburn Moore], "Main Street and Hotel Clovis---C.H.S. 'Kids' Remember!," *Mil's Place* (blog), January 9, 2013. http://milmoore.blogspot.com/2013/01/main-street-and-hotel-clovis-chs-kids.html (accessed 2026-11-17)
 [^ed14]: David Stevens, "From the editor's desk: This won't be a drag," *Eastern New Mexico News* (*Clovis News Journal*), June 18, 2014. https://www.easternnewmexiconews.com/story/2014/06/18/news/from-the-editors-desk-this-wont-be-a-drag/72866.html (accessed 2026-11-17)
 [^enmn15]: "Get ready to roll at Draggin' Main," *Eastern New Mexico News*, June 23, 2015. https://www.easternnewmexiconews.com/story/2015/06/23/news/get-ready-to-roll-at-draggin-main/74368.html (accessed 2026-11-17)
 [^nmt]: Stewart Green, "A Spectator's Guide to the Clovis Music Festival and Draggin' Main," New Mexico True (New Mexico Tourism Department). https://www.newmexico.org/blog/post/a-spectators-guide-to-the-clovis-music-festival-and-draggin-main/ (accessed 2026-11-17)

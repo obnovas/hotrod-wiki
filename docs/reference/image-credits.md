@@ -217,5 +217,5 @@ Round 15 also reuses `commons-sun-studio-highsmith.jpg` (Carol M. Highsmith, Lib
 
 | File | Shows | Creator | Date | Source | License |
 |---|---|---|---|---|---|
-| `commons-hot-august-nights-reno-2006.jpg` | A row of 1955 Chevrolets with hoods up at a Hot August Nights show-and-shine, Reno | Ken Lund | 2006-08-03 | [Commons](https://commons.wikimedia.org/wiki/File:Hot_August_Nights,_Reno,_Nevada_(210469387).jpg) | CC BY-SA 2.0 |
-| `commons-clovis-north-main-street-2017.jpg` | Storefronts and parked cars on North Main Street, Clovis, N.M. (context only) | Greg Gjerdingen | 2017-01-17 | [Commons](https://commons.wikimedia.org/wiki/File:North_Main_Street,_Clovis,_NM_(32126117830)_(2017-01-17_by_Greg_Gjerdingen).jpg) | CC BY 2.0 |
+| `commons-hot-august-nights-reno-2006.jpg` | Chevrolets with hoods up at an outdoor show in Reno; the photographer titled it Hot August Nights | Ken Lund | 2006-08-03 | [Commons](https://commons.wikimedia.org/wiki/File:Hot_August_Nights,_Reno,_Nevada_(210469387).jpg) | CC BY-SA 2.0 |
+| `commons-clovis-north-main-street-2017.jpg` | Brick storefronts and parked cars on a downtown street in Clovis, N.M., a winter afternoon (context only; the Commons file title says North Main Street) | Greg Gjerdingen | 2017-01-17 | [Commons](https://commons.wikimedia.org/wiki/File:North_Main_Street,_Clovis,_NM_(32126117830)_(2017-01-17_by_Greg_Gjerdingen).jpg) | CC BY 2.0 |

@@ -1,5 +1,5 @@
 ---
-title: 'Room for a Fifth of a Mile: The Cathells'' U.S. 13 Dragway, Delmar, Del. (1963– )'
+title: 'By the Family''s History, a Fifth of a Mile: The Cathells'' U.S. 13 Dragway, Delmar, Del. (1963– )'
 summary: 'By the family''s history, the Cathells built U.S. 13 Dragway near Delmar, Del., in 1963 so a son and his friends had a safe place to race, found their field had room for only a fifth of a mile, and bought more (a 2019 marker says it opened as a quarter mile). The family still ran it into the 2020s.'
 department: drag-racing
 era: 1960s
@@ -55,9 +55,9 @@ canonical_for: []
 location: West side of U.S. 13, about a mile north of Delmar, Sussex County, Del.[^hist]
 status: Open; leased to Mark and Denise Cathell's SDM Promotions from 2022[^pr21]
 ---
-# Room for a Fifth of a Mile: The Cathells' U.S. 13 Dragway, Delmar, Del. (1963– )
+# By the Family's History, a Fifth of a Mile: The Cathells' U.S. 13 Dragway, Delmar, Del. (1963– )
 
-*A father built a strip so his son and his friends had somewhere safe to race, and the land came up short*
+*A father built a strip so his son and his friends had somewhere safe to race, and, by the family's history, the land came up short*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the founding comes from the family's own track history and a 2015 interview with Charlie Cathell on Salisbury's WMDT; a 2019 state historical marker adds the dirt track; the first length is told two ways) · **Source types:** <span class="hr-badge">Grassroots</span> Delaware Public Archives historical marker (2019); the track's own history and press releases (2015, 2021); local TV (WMDT, Salisbury, 2015) · **Last verified:** 2026-11-17 (Round 42) · **Open issues:** ⚠ a fifth of a mile or a quarter in 1963; ? the opening date · [How we rate this](../reference/source-standards.md)
@@ -85,7 +85,7 @@ Next came a dirt oval beside the strip. The history says the grandstands were pu
 
 Charlie Cathell ran the place for 35 years. In 2021 he announced that he, his wife Joyce and his brother Hal would retire at the end of the season, and that the track had been built in 1963 "by his parents William and Juanita." Mark Cathell and his wife, Denise, leased the property to run it from 2022. "My lifelong dream has been to take over the family business," Mark said.[^pr21] Along the way the dragway hosted the NHRA Division One Bracket Finals in 2005, which drew nearly 800 teams, and Charlie was named promoter of the year in 2004 and went into the NHRA Northeast Division Hall of Fame.[^hist] Mark Cathell told WMDT that "most of the family members have raced at sometime in their life."[^wmdt15]
 
-The Cathells went looking for a quarter mile because the cars at Georgetown had trouble stopping. Their own field came up short too, at a fifth of a mile, and the family bought the extra ground it took to give the cars room. Then they kept it in the family.
+The Cathells went looking for a quarter mile because the cars at Georgetown had trouble stopping. By the family's history their own field came up short too, at a fifth of a mile, and they bought more land. A 2019 marker says the strip opened as a quarter mile. Then they kept it in the family.
 
 *See also:* [Georgetown Speedway](georgetown-speedway-delaware.md), the eighth-mile strip where the Cathells raced first, and where an August 1963 notice called the Friday-night drags "the only one of its kind operating on Delmarva"; [Atco & Strato Rods](atco-strato-rods-south-jersey.md); [Island Dragway](island-dragway-great-meadows.md), another family strip across the Delaware.
 
