@@ -124,7 +124,7 @@ For the Georgia strips where Garlits ran a few years later, see [Yellow River](y
 
 The president had handed over the oranges from the Brooksville Citrus Growers Association, and *Drag News* had asked who Don Garlits was and where Brooksville was. In 1962 the Road Angels wrote that they did not get the drag strip.
 
-*See also:* at the far southern tip of Florida, [Key West's Rumbling Rods](key-west-rumbling-rods.md), and the Gulf Coast's [Pascagoula Timing Association](pascagoula-timing-association.md).
+*See also:* at the far southern tip of Florida, [Key West's Rumbling Rods](key-west-rumbling-rods.md), and the Gulf Coast's [Pascagoula Timing Association](pascagoula-timing-association.md). The same year, in Texas, [Big Spring's Lions Club](big-spring-lions-club-drag-strip-deshazo.md) took on a strip, by Howard Deshazo's account.
 
 ## Open questions & disputed details
 

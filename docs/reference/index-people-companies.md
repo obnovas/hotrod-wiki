@@ -682,6 +682,7 @@
 | Smith, Nick | Beat Lynwood Craft in Super Stock at Roanoke, 1960, and survived a teardown ◐ | [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md) |
 | Smith, Norman "Sonny Boy" | Super stock Ford; records at Newton County and Fairburn, 1962 | [Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) |
 | Smith, Otis "Otie" | Akron; 1959 Nationals Middle Eliminator; Otie's Automotive | [Akron Fulton](../drag-racing/akron-fulton-airport.md) |
+| Snipes, Art | Clovis High class of 1951; met Wanda King dragging Main (his letter on Mil's Place) | [Clovis](../places/draggin-main-clovis-new-mexico.md) |
 | Snow, Gene | Fort Worth used-car dealer; *Rambunctious*; first 200-mph Funny Car | [Gene Snow](../people/gene-snow.md), [Harmon Raceway](../drag-racing/harmon-raceway-monroe.md) |
 | So-Cal Speed Shop | Xydias | [Alex Xydias](../people/alex-xydias.md) |
 | Soldotna Timing Association | Kenai Peninsula, Alaska, club with a matching-fine bylaw, 1963 | [Palmer & Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md) |

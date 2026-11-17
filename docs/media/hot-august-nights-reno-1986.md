@@ -62,8 +62,8 @@ status: Annual since 1986; the Hot August Nights Foundation followed in 2007[^ha
     — Mike Shaal, lined up in his stock MGA at the Hot August Nights runway drags, to the *Spokesman-Review*, July 9, 2000.[^sr00]
 
 <figure markdown>
-![A row of 1955 Chevrolets with their hoods up at a Hot August Nights show-and-shine in Reno, 2006](../assets/images/commons-hot-august-nights-reno-2006.jpg){ loading=lazy }
-<figcaption markdown>A row of 1955 Chevrolets, hoods up, at Hot August Nights in Reno, August 3, 2006. Photo: Ken Lund, via Wikimedia Commons, CC BY-SA 2.0. See [Image credits](../reference/image-credits.md).</figcaption>
+![A row of Chevrolet cars with their hoods up at an outdoor show in Reno, August 2006](../assets/images/commons-hot-august-nights-reno-2006.jpg){ loading=lazy }
+<figcaption markdown>Chevrolets with their hoods up at an outdoor show in Reno, August 3, 2006. The photographer titled the picture Hot August Nights. Photo: Ken Lund, via Wikimedia Commons, CC BY-SA 2.0. See [Image credits](../reference/image-credits.md).</figcaption>
 </figure>
 
 ## A dance for Easter Seals

@@ -1,6 +1,6 @@
 ---
 title: 'Somewhere to Blow Off Steam: The Sheriff, the Runway Racers and Pico Raceway, Rutland, Vermont (1951–52)'
-summary: 'By two local accounts, Pico Raceway near Rutland, Vt., was built in 1951 because young men were drag racing on the airport runways, and the sheriff and one racer''s father decided they needed somewhere to blow off steam. A farmer gave land for a half-mile dirt track that drew about 4,000 people on its first day.'
+summary: 'By local accounts, Pico Raceway near Rutland, Vt., was built in 1951 because young men were drag racing on the airport runways, and the sheriff and one racer''s father decided they needed somewhere to blow off steam. A farmer gave land for a half-mile dirt track that drew about 4,000 people on its first day.'
 department: drag-racing
 era: 1950s
 eras:
