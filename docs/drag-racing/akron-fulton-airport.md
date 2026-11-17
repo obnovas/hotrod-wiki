@@ -59,7 +59,7 @@ canonical_for: []
 
 In 2016 the state of Ohio put up a historical marker for racing, which a 2016 report called the first Ohio historical marker for racing "of any kind."[^oac] The runways were Fulton Airport, on the south side of Akron, one of the Midwest's earliest organized drag strips. The half-brothers Art and Walt Arfons, Otie Smith, and ["Akron Arlen" Vanke](../people/arlen-vanke.md) started there and became nationally known. The marker says Smith won the 1959 championship. NHRA says Middle Eliminator.[^nhra]
 
-## What the marker says
+## The marker on Massillon Road
 
 Ohio History Connection marker 47-77, "Akron Fulton Airport Champions Raceway," reads in part:[^ro][^hmdb]
 
@@ -69,13 +69,7 @@ The Akron Airport Racing Pioneers and The Ohio History Connection put the marker
 
 "For the next eight years" means the strip ran from 1951 to about 1959.
 
-## The 2016 dedication
-
-OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The piece credited the marker drive to Randy Lipscomb of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. Mary Taylor was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac] Vanke's biographers call the field "Akron Municipal Airport."
-
-Lipscomb said, "This is the spot where these local heroes became drag racing innovators back in the 50's and 60's... we believe that honoring these racing pioneers is long overdue."[^oac]
-
-The same piece recalls the land-speed years. Walt's *Wingfoot Express*, driven by Tom Green, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached 576.553 mph in 1965.[^oac]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June 1955, sponsor-written) says the Arfons brothers' six-wheeled "Green Monster" won the top-speed award at the 1954 World Series of Drag Racing at Lawrenceville, Ill., at 132.35 mph, taking the Maremont Trophy and a $1,000 scholarship, and that the Akron group expected about 25 entries in 1955. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
 
 ## Otis "Otie" Smith (1919/20–2014)
 
@@ -91,11 +85,15 @@ He was the first president of the Cam Jammers car club of Akron (marker).[^ro] H
 
 He was survived by wife Betty, son Bill, and daughters Debbie Hughes and Laurie Smith. Bill raced gas dragsters with his father "for years after 'Otie' stopped driving."[^nhra]
 
-## How it fits
+## June 19, 2016
+
+OnAllCylinders called the strip the "**first NHRA sanctioned drag race track east of the Mississippi**."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The piece credited the marker drive to Randy Lipscomb of Akron Race Legends, with Paul Suloff, Bob Jones, John Stevenson and Ken Andrus. Lt. Gov. Mary Taylor was the scheduled keynote speaker, and sons of the Arfons brothers, Smith and Vanke were expected to attend.[^oac] Vanke's biographers call the field "Akron Municipal Airport."
+
+Lipscomb said, "This is the spot where these local heroes became drag racing innovators back in the 50's and 60's... we believe that honoring these racing pioneers is long overdue."[^oac]
+
+The same piece recalls the land-speed years. Walt's *Wingfoot Express*, driven by Tom Green, set 413 mph in 1964. Art's *Green Monster* topped it at 434 mph three days later, and Art reached 576.553 mph in 1965.[^oac]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 The airport strip belongs with the other early airport strips of the Midwest and East. One is the George Field taxiway at Lawrenceville, Ill., where [Bob Bartel](../people/bob-bartel.md)'s World Series began. Another is the circuit of [Ohio gasser](../places/ohio-gassers.md) tracks (Thompson, Dragway 42, Quaker City, National Trail) that followed. Jim Hill writes that Vanke built his reputation as "a Chevy Gasser racer" before Chrysler backed him.[^ecgm]
-
-The Arfons brothers had raced at Lawrenceville, too. Chilton's *Motor Age* (June 1955, sponsor-written) says the Arfons brothers' six-wheeled "Green Monster" won the top-speed award at the 1954 World Series of Drag Racing at Lawrenceville, Ill., at 132.35 mph, taking the Maremont Trophy and a $1,000 scholarship, and that the Akron group expected about 25 entries in 1955. See [Half Day, Illinois](half-day-ataa-maremont.md).[^r12ma]
 
 The marker went up in 2016 for the runways at Fulton Airport and for the four who started there. A 2016 report called it the first Ohio historical marker for racing "of any kind."[^oac]
 

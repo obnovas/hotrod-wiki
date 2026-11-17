@@ -54,19 +54,17 @@ canonical_for: []
 
 From 1953 to 1958 a hot rod club in small-town Indiana is a safety club in the local notices. In September 1956 twenty-four young men in Decatur, Indiana, signed up for one that said it had the blessing of the police. Decatur is a small Adams County town of the kind that never makes a hot rod history. There was no dry lake and no famous shop, and the *Decatur Daily Democrat* gave the club a few lines at a time between a cross-country meet and a grocery-store ad. Those lines are worth reading precisely because nobody was trying to make history. They show what a small town did when a handful of teenagers wanted to talk about cars.
 
-## A teen-driving book in Greencastle (1954)
+## Safety Second
+
+A Decatur filler item from United Press, almost two years before the Greencastle column, had told its readers about Manchester, Connecticut, where youths "who had formed the Hot Rod club and the 100-Mile-an-Hour club were sobered by the deaths of two young motorists." They founded "the 35 Miles Per Hour club."[^dcdd53] It ran under the headline "Safety Second."
 
 On December 9, 1954 *The Daily Banner* in Greencastle ran a column reviewing *Driving Today and Tomorrow* by Margaret O. Hyde. The columnist decided to trust the kids: "I would take the youngster, provided he had read a certain little book."[^banner]
 
 The review draws a line that the 1950s safety campaigns drew everywhere. There was "a good deal of criticism and disparagement of the 'Hot Rod' cult by those who confuse it with 'shot rod.'" The scan's description of "shot rodders" is partly garbled, but it plainly means souped-up jalopies and ignored traffic rules. In contrast, "The Hot Rod Club is an entirely different story, as the author of this well-illustrated book points out." Its members were "true 'auto enthusiasts' with a definite code of driving technique," who agreed "to observe motor vehicle laws wherever they travel, and to show courtesy and consideration to fellow drivers and pedestrians."[^banner] (OCR garbles part of the passage; only phrases that read cleanly are quoted.)
 
-## Safety Second (Decatur, 1953)
+## The Road Runners of Decatur (1956–57)
 
-Decatur's own paper had already carried the idea. Almost two years earlier, a Decatur filler item from United Press had told its readers about Manchester, Connecticut, where youths "who had formed the Hot Rod club and the 100-Mile-an-Hour club were sobered by the deaths of two young motorists." They founded "the 35 Miles Per Hour club."[^dcdd53] It ran under the headline "Safety Second."
-
-## Decatur's Road Runners (1956–57)
-
-Three years later Decatur had a club of its own. The paper's coverage of it runs over five weeks.
+Three years after that United Press item, Decatur had a club of its own. The paper's coverage of it runs over five weeks.
 
 On Sept 12, 1956, "Plan Organization Of Hot Rod Club Here" ran in the *Decatur Daily Democrat*. Decatur enthusiasts would meet at the Decatur Youth and Community Center on Thursday night "for the purpose of organizing a chapter of the national Hot Rod club." The organization "has the blessing of police officers of many cities of the nation," and its purpose was "safety on the highways and organizing the racing enthusiasm into clubs in order to control the enthusiasm of young drivers." Anyone 16 or older could join, and the meeting would name officers and apply for a charter.[^d912]
 
@@ -82,11 +80,9 @@ The notices tell us more than they mean to. A youth center was the clubhouse. Un
 
 Fund-raising looked like any other club's, a winter car wash, and the notice gave the club's name as "Road Runners." Even the spelling varies: "Roadrunners" in one notice, "Road Runners" in the others.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-## The Flying Pistons (Syracuse, 1958)
+## A senior named Deb, and a ticket writer
 
 By 1958 a club could turn up in a school profile. The *Syracuse-Wawasee Journal* of January 23, 1958 ran a student profile of a senior, "Deb," son of Mr. and Mrs. George Thornburg of Syracuse, Ind. Among his athletics (basketball, cross-country and track) it adds: "He is also a member of the Flying Pistons Hot Rod Club." His favorite subject was physics, and his favorite song was "Reddy Teddy" by Little Richard. "Deb says he dislikes girls and sleeping, which we find hard to believe."[^swwj] (OCR; the surname is read from the parents' line.) It is a single line, but it tells us that by 1958 a hot rod club in a small town was an ordinary extracurricular, listed beside basketball letters.
-
-## A Detroit ticket-writer, in Greencastle (1958)
 
 The same winter, Greencastle readers learned how a big-city club kept its members honest. On February 4, 1958 *The Daily Banner* ran a syndicated column by "Jeanne Smith, Dodge Safety Consultant," about a Detroit patrolman, William H. Tomlinson, who "accepted the club sponsorship on one condition — the boys would have to adhere to certain safety rules which he would enforce as strictly as he does traffic laws when he is riding his motorcycle." The result was the Detroit Modified Rod and Custom Club, with "more than 100 members, between the ages of 16 and 22." At each meeting a block of new business is set aside for members to declare any traffic tickets since the last meeting. Besides paying the fine in traffic court, they pay "a fine to the club fund."[^d58]
 

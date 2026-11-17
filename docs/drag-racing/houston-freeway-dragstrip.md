@@ -73,13 +73,9 @@ canonical_for: []
 
 The strip sat south of Houston on the east side of I-45 / Gulf Freeway near Dickinson, Texas (today roughly I-45 and 16th St / FM 646). It was one of the Gulf Coast's purpose-built quarter-miles. Local history pages call it, over time, Freeway Drag Strip, Houston International Speedway / Raceway / Dragway, South Texas Dragway, and related tower names. It ran as an NHRA Division 4 track and closed in the late 1980s; a Walmart later occupied the old starting-line area.[^hfd][^nhra]
 
-## Before the strip
-
 Before the strip, Houston was already racing on the street. There was Road Kings activity, unfinished pavement in the Westbury subdivision, and Richmond & Post Oak. The Greater Houston Timing Association was part of that street racing, and there were events at the Hitchcock blimp base and at Ellington Field. The local site: 20,000+ at an Ellington event.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> That club chronology comes from the history site.
 
 Land for the strip was donated by the **Fingers Furniture** family, per the same local history site.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^hfd]
-
-## Opening and the 1958 showdown
 
 The strip opened in fall 1957, described as the region's first known purpose-built drag strip, as opposed to airports.[^hfd]
 
@@ -106,8 +102,6 @@ The track also saw a milestone. Fort Worth's [Gene Snow](../people/gene-snow.md)
 **Roy Gay** was runner-up to [Eddie Schartman](../people/eddie-schartman.md) at the 1967 Manufacturers Championships at OCIR. He was killed in a 1972 motorcycle accident.[^gay]
 
 The family went on to a new track. In the late 1980s the Gay family and the **Angel brothers** (Greg, Gary and Glenn) founded **Houston Raceway Park in Baytown**, on an old rice farm.[^gay] On Oct. 6, 1988, Gene Snow ran the first sub-five-second pass at an NHRA event there (see [Gene Snow](../people/gene-snow.md)). This supports the Yellow Bullet memory below that the Dickinson track closed about 1987.
-
-## Names, records and closing
 
 Tower and sanctioning names shifted (NHRA / AHRA labels appear on different-era photos). Treat the name list as a photo-caption census, not a legal chain of title.[^hfd]
 

@@ -67,8 +67,6 @@ A Chicago muffler company put its name on a drag strip, and then it insisted on 
 
 Maremont Automotive Products was a Chicago parts maker. Its ad in the same *Motor Age* issue sells mufflers.[^ma] In the early 1950s the company's president, Arnold Maremont,[^sm] paid for a half-mile strip on a wartime outlying airfield at Half Day, Illinois, a Chicago suburb, and called it Maremont Speedway. The sponsor's own trade-press releases say that "safety belts, crash helmets and heavy 'roll bars' are standard equipment" there.[^sm] By 1954 the Automobile Timing Association of America (ATAA) was sending crews to other states. By 1955 it was running something it called the World Series of Drag Racing. Nearly everything on those first years is Maremont's own publicity, reprinted by magazines and local papers.
 
-## The strip
-
 Even the strip's basic history comes secondhand. The NHRA's 2023 Illinois drag-strip primer, summarizing Mel Bayshore's strip list, says Half Day Speedway opened in 1952 on an outlying satellite airfield used by Glenview Naval Air Station in World War II, "part of what was known as Maremont Speedway." It says the ATAA "first conducted drag races there starting on April 6, 1952, but the track was shut down the following year."[^nhra] The primer also credits the strip to "the brainchild of Andy Granatelli," which we have not seen elsewhere.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 The course was a half-mile on an abandoned airstrip or an unused four-lane highway. Two cars ran from a standing start, timed electronically over the first quarter-mile, and the second quarter-mile was for "safe deceleration."[^sm]
@@ -77,19 +75,11 @@ It drew a crowd. *Traffic Digest and Review* and *The Police Chief* both repeat 
 
 The program said every car had to pass a safety inspection stricter than city or state tests.[^tdr] Classes were set by dividing engine displacement into the car's weight without the driver.[^ma]
 
-## The association
-
 Behind the strip was the association, a non-profit that Maremont underwrote. The *Escanaba Daily Press* ran a July 22, 1954 wire feature headed "Hot Rodders Playing It Safe" that says it "came into being in 1953" to operate the Half Day strip and that Maremont, "a Chicago manufacturer of automotive products and racing enthusiast," underwrote its expenses.[^esc] (OCR; spacing normalized.) The headquarters were at 1705 S. Ashland Ave., Chicago, with Joseph Di Lorenzo as national director.[^tdr]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> Whether that start was 1952 or 1953 is still open.
-
-### Who signed on
 
 The sponsor wanted official backing, and said it had it. *Traffic Digest and Review* and *The Police Chief* list local endorsements: the Cook County sheriff, John Babb; the Chicago Police Department's traffic chief, Michael J. Ahern; David M. Baldwin, director of the National Safety Council's Traffic Division; and Charles Chaplin, mayor of Northbrook, Ill.[^tdr] They are in the ATAA's own news release, so they are the sponsor's claim that these men endorsed it.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-### The blizzard meeting
-
 The sponsor's best story is about turnout. *Sales Management* (June 1, 1954) says that when the ATAA invited 26 hot rodders to a planning meeting in Chicago, "53 enthusiasts showed up, despite a raging blizzard that stalled motorists all over the city."[^sm] The wire feature in the Escanaba paper says Maremont put it as "28 hot-rod leaders" and "53 showed up."[^esc]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
-
-## Beyond Illinois: the St. Charles test
 
 The next step was to take the program on the road. In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree on its size: "some 140" competitors and "approximately 1,500" spectators in the earliest report, "more than 200" and 2,000 in later retellings.[^sm][^tdr]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -103,14 +93,7 @@ The name arrived before the event. *Sales Management* in 1954 and the wire featu
 
 That is the first period evidence we have for the date of the first World Series, and it matches the 1954 date in the Bartel tribute. It undercuts the "1956" (a 2017 newspaper summary) and "1953" (promoter copy) dates. See [Bob Bartel](../people/bob-bartel.md#when-was-the-first-world-series). We still lack a program or an ad, and *Motor Age* is a sponsor's article, so we call it strong but not final.<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
-### What won in 1954 (as *Motor Age* reports it)
-
-| Award | Winner |
-|---|---|
-| Maremont Trophy and $1,000 scholarship (top speed) | "Green Monster," built by the three Arfons brothers of Akron, Ohio: six wheels, a 12-cylinder, 1,450 hp Allison aircraft engine, two Ford truck rear ends facing each other, two '40 Ford hoods for a nose. 132.35 mph, 4,000 pounds[^ma] |
-| ATAA Award for Engineering Achievement | The "Bandit" of the Bean Bandit club, San Diego: aluminum body, Ford flathead V8, built in one month[^ma] |
-| ATAA Award for Superior Design | A 1932 Model B Ford roadster with a '51 Mercury engine, entered by C. A. Gillespie of Bradley, Ill., who spent $3,300 and two years on it[^ma] |
-| Second place (the scan cuts the preceding sentence, so the category is unclear) | The Rodders of Memphis, "with a speed of 130.05 mph"[^ma] |
+*Motor Age* reports the 1954 winners this way. The Maremont Trophy and $1,000 scholarship, for top speed, went to the "Green Monster," built by the three Arfons brothers of Akron, Ohio: six wheels, a 12-cylinder, 1,450 hp Allison aircraft engine, two Ford truck rear ends facing each other, two '40 Ford hoods for a nose. 132.35 mph, 4,000 pounds.[^ma] The ATAA Award for Engineering Achievement went to the "Bandit" of the Bean Bandit club, San Diego: aluminum body, Ford flathead V8, built in one month.[^ma] The ATAA Award for Superior Design went to a 1932 Model B Ford roadster with a '51 Mercury engine, entered by C. A. Gillespie of Bradley, Ill., who spent $3,300 and two years on it.[^ma] Second place (the scan cuts the preceding sentence, so the category is unclear) went to the Rodders of Memphis, "with a speed of 130.05 mph."[^ma]
 
 For 1955 the piece expects the Akron club to bring about 25 entries, Detroit's Motor City Modifiers 30 to 40 cars, and clubs from Michigan (it counts 3,000 members in 40 clubs), Washington, D.C., and Memphis.[^ma] See [Akron Fulton Airport](akron-fulton-airport.md), [Memphis](../places/memphis.md) and [Detroit & Cordova](detroit-cordova.md).
 

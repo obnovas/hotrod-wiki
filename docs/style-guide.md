@@ -4,6 +4,8 @@
 
 This archive began as a detective's notebook, and it still is one. The pages people read are a reporter's story: simple, casual, matter-of-fact, and warm. The spirit is the plain awe you hear when someone like Mike Rowe, Paul Harvey, Anderson Cooper, Denzel Washington, or Morgan Freeman tells a true thing and then gets out of its way. That is a spirit, not a script. We do not borrow anyone's catchphrase.
 
+The model is the Biloxi Dragway article, [A Parade of Boats Down the Strip](drag-racing/biloxi-dragway-gulf-coast.md). State one point in the opening, the thing that makes the story unique. Tell the story straight through, in time when the sources give a time. Land the ending on that same point.
+
 ## The voice
 
 **One point, told straight.** Every article has one main point, stated in the opening: what makes this story unique in hot rodding. The rest is that story, beginning to end. The ending lands on the same point.
