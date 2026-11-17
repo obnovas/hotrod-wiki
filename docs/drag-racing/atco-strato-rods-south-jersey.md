@@ -125,7 +125,7 @@ In 1988 Atco hosted the IHRA Summernationals, where Tommy Howes made what *Hemmi
 
 Sunday morning was the runway at McGuire. Sunday night was Atco. The runway paid in trophies, and the meeting was in the Mr. Softee truck. Atco ran from Memorial Day Weekend 1960 until July 18, 2023.
 
-*See also:* [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before Atco; [Pennsauken, 1958](pennsauken-central-airport-1958.md), the Camden County airport strip that never was, a few miles from Atco; [Georgetown, Delaware](georgetown-speedway-delaware.md), whose young men "enjoyed the drag races at Atco"; [Don Garlits](../people/don-garlits.md).
+*See also:* [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before Atco; [Pennsauken, 1958](pennsauken-central-airport-1958.md), the Camden County airport strip that never was, a few miles from Atco; [Georgetown, Delaware](georgetown-speedway-delaware.md), whose young men "enjoyed the drag races at Atco"; [Don Garlits](../people/don-garlits.md); [U.S. 13 Dragway](us-13-dragway-delmar-cathell.md), the Cathell family's Delmarva strip since 1963.
 
 ## Open questions & disputed details
 

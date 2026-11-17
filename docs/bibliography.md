@@ -934,3 +934,29 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [local] Angie Gaddy, "Ron's Drive-In Goes West With A Second Restaurant," *The Spokesman-Review*, Nov. 27, 1997. https://www.spokesman.com/stories/1997/nov/27/rons-drive-in-goes-west-with-a-second-restaurant/
 - [local] Jesse Tinsley, "Then and now: Top Hat Drive-In," *The Spokesman-Review*, Feb. 17, 2025. https://www.spokesman.com/stories/2025/feb/17/then-and-now-top-hat-drive-in/
 - [local] "Cruise Nights 2026," Inland Northwest Car Club Council. https://incarclubcouncil.com/cruise-nights/
+
+## Round 42 additions (Westhampton Drag Strip, U.S. 13 Dragway, Salina's old runway, Hot August Nights, Draggin' Main in Clovis, Pico Raceway)
+- [local] "Racing Enthusiasts Eager To Have A New Drag Strip On Long Island," *The Southampton Press* (27east.com), May 23, 2017. https://www.27east.com/southampton-press/article_335d005b-c602-592f-accf-d310db10fdc3.html
+- [local] Erica Jackson, "Photographer Captured Westhampton Race History," Westhampton Patch, April 16, 2012. https://patch.com/new-york/westhampton-hamptonbays/photographer-captured-westhampton-race-history-photos
+- [forum] Ken Bausert, "Westhampton Drag Strip, Yesterday & Today," *Ken Bausert's Nostalgic Museum* (blog), May 20, 2009, and readers' comments. https://kenbausertsnostalgicmuseum.blogspot.com/2009/05/westhampton-drag-strip-yesterday-today.html
+- [forum] "WESTHAMPTON DRAGWAY…Long Island," Bench Racing from the Past forum, Dover Drag Strip site. https://doverdragstrip.com/forums/topic/westhampton-dragway-long-island/
+- [mag] "Drag racers win years-long fight to restore competition to Long Island," Hagerty Media, Sept. 1, 2021. https://www.hagerty.com/media/motorsports/drag-racers-win-fight-long-island-epcal/
+- [local] "History," U.S. 13 Dragway / Delaware International Speedway, and the track's press releases (2015, 2021). https://www.delawareracing.com/history/default.aspx
+- [local] "U.S. 13 Dragway & Delaware International Speedway: how it all started," WMDT (Salisbury, Md.), May 2015. https://www.wmdt.com/2015/05/u-s-13-dragway-delaware-international-speedway-how-it-all-started/
+- [ref] "Delaware International Speedway," historical marker SC-278 (2019), Delaware Public Archives. https://archives.delaware.gov/delaware-historical-markers/delaware-international-speedway/
+- [local] Todd Pittenger, "Back to the Track," KSAL (Salina), April 19, 2026. https://www.ksal.com/back-to-the-track/
+- [local] "Tweety Bird Comes Home," Salina311, April 26, 2026, and "407 Cars Return to Historic Salina Raceway Site," Salina311, May 4, 2026. https://www.salina311.com/stories/2026-04-26-tweety-bird-comes-home-historic-salina-drag-car-returning-to-salina-after-decades-away/
+- [local] "First time event to occur celebrating Salina's rich history of drag racing," *Salina Post*, 2026. https://salinapost.com/posts/be206b55-7f86-40fb-ac91-98bfd7b7c13a
+- [local] "Early GB drag race winner returns for race week," *Great Bend Tribune*, June 18, 2022. https://www.gbtribune.com/news/local-news/early-gb-drag-race-winner-returns-race-week/
+- [local] Charles Rankin, "The largest custom car show in the world returns to Salina," *Salina Journal*, July 20, 2022. https://www.salina.com/story/entertainment/2022/07/20/custom-cars-leadsled-spectacular-august-2022-schedule-event/10083684002/
+- [ref] "History," Salina Airport Authority. https://www.salinaairport.com/172/History
+- [local] Harry Spencer, "Hot August Nights," *Sparks Tribune*, Aug. 21, 2018 (Jim Webster's written account of the founding). https://sparkstrib.com/2018/08/21/hot-august-nights-8/
+- [local] Jimmy Boegle, "The turbulent history of Hot August Nights," *Reno News & Review*, July 27, 2000 (reprinted 2026). https://renonr.com/newsletter/from-the-archives-hot-august-nights-now-in-its-15th-year-survives-despite-a-history-of-controversy-july-27-2000/
+- [local] Dan Leeth, "Revved Up Reno," *Spokesman-Review*, July 9, 2000. https://www.spokesman.com/stories/2000/jul/09/revved-up-reno-classic-cars-from-across-the-west/
+- [ref] "History of Hot August Nights," Hot August Nights. https://hotaugustnights.net/history-of-hot-august-nights/
+- [forum] Milburn Moore, "'Draggin' Main' --- When Did It Begin?," *Mil's Place* (blog), July 12, 2014, and reader comment. https://milmoore.blogspot.com/2014/07/draggin-main-when-did-it-begin.html
+- [local] David Stevens, "From the editor's desk: This won't be a drag" (June 18, 2014) and "Editor's Desk: Main Street sparks good memories" (June 25, 2014), *Eastern New Mexico News*. https://www.easternnewmexiconews.com/story/2014/06/25/news/editors-desk-main-street-sparks-good-memories/74923.html
+- [local] "Get ready to roll at Draggin' Main," *Eastern New Mexico News*, June 23, 2015. https://www.easternnewmexiconews.com/story/2015/06/23/news/get-ready-to-roll-at-draggin-main/74368.html
+- [ref] Stewart Green, "A Spectator's Guide to the Clovis Music Festival and Draggin' Main," New Mexico True. https://www.newmexico.org/blog/post/a-spectators-guide-to-the-clovis-music-festival-and-draggin-main/
+- [local] Tom Haley, "Pico Raceway's history largely a blur," *Rutland Herald*, Oct. 25, 2007, via YankeeRacer.com (report on a Rutland Historical Society roundtable). https://yankeeracer.com/2007/10/25/pico-raceways-history-largely-a-blur/
+- [local] Bill Ladabouche, "Oh, That Must Be Uncle Al," Catamount Stadium history site, Sept. 10, 2015. http://www.catamountstadium.com/weeklyblog.sept102015.ohthatmustbeuncleal.html

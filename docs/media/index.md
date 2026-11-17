@@ -10,6 +10,7 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [The Show Circuit](show-circuit.md): Oakland (1950), Detroit Autorama (1953), Larivee's Promotions Inc. and ISCA (1963), and the Portland Roadster Show (1956).
 - [*Street Rod* Magazine (Portland, 1971–73)](street-rod-magazine-portland.md): Bruce Miller and Bruce Craig's 20-issue monthly, which took the title first.
 - [*Street Rod* in the Small-Town Paper (1953–54)](street-rod-newspaper-serial.md): Henry Gregor Felsen's novel about a teenage timing association, serialized by NEA in papers from Escanaba to Hope, Arkansas.
+- [A Dance That Grew Cars: Hot August Nights (Reno, 1986)](hot-august-nights-reno-1986.md): a realtors' '50s dance for Easter Seals, a Classic Chevys show and shine, and a softball tournament's lesson (⚠ who named it, and why).
 
 **Elsewhere in the wiki**
 

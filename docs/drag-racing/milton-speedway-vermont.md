@@ -86,7 +86,7 @@ Before the marker, the place was nearly a ghost. When Lohnes went looking in 201
 
 (For New England's older airport strips, at Sanford, Maine, and Charlestown, Rhode Island, see [Barricades at the End of the Runway](sanford-cain-bannister.md) and [Racing Toward Route 1](charlestown-dragway-rhode-island.md).)
 
-*See also:* [Winterport, Maine](winterport-fernald-field-maine.md), another northern New England strip of the same years, opened in 1967 on a town airfield.
+*See also:* [Winterport, Maine](winterport-fernald-field-maine.md), another northern New England strip of the same years, opened in 1967 on a town airfield; [Pico Raceway](pico-raceway-rutland-airport.md), Rutland's 1951 track, built by local accounts to get the boys off the airport runways.
 
 ## Open questions & disputed details
 

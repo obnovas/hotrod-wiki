@@ -112,6 +112,7 @@ places:
   'Caddo Mills, Texas': {lat: 33.0745, lon: -96.2269, precision: town, source: 'Census Gazetteer 2024: Caddo Mills city'}
   'Cahokia, Illinois': {lat: 38.5721, lon: -90.1553, precision: town, source: 'Census Gazetteer 2024: Cahokia Heights city'}
   'Calhoun, Georgia': {lat: 34.4998, lon: -84.9331, precision: town, source: 'Census Gazetteer 2024: Calhoun city'}
+  'Calverton, New York': {lat: 40.9199, lon: -72.7734, precision: town, source: 'Census Gazetteer 2024: Calverton CDP'}
   'Camden, Alabama': {lat: 31.9985, lon: -87.2889, precision: town, source: 'Census Gazetteer 2024: Camden city'}
   'Camden, Arkansas': {lat: 33.5677, lon: -92.8491, precision: town, source: 'Census Gazetteer 2024: Camden city'}
   'Camden, New Jersey': {lat: 39.9368, lon: -75.1066, precision: town, source: 'Census Gazetteer 2024: Camden city'}
@@ -145,6 +146,7 @@ places:
   'Circleville, Ohio': {lat: 39.6012, lon: -82.9325, precision: town, source: 'Census Gazetteer 2024: Circleville city'}
   'Clarksburg, West Virginia': {lat: 39.2703, lon: -80.3618, precision: town, source: 'Census Gazetteer 2024: Clarksburg city'}
   'Cleveland, Ohio': {lat: 41.4785, lon: -81.6794, precision: town, source: 'Census Gazetteer 2024: Cleveland city'}
+  'Clovis, New Mexico': {lat: 34.4386, lon: -103.1942, precision: town, source: 'Census Gazetteer 2024: Clovis city'}
   'Colchester, Connecticut': {lat: 41.5776, lon: -72.3327, precision: town, source: 'Census Gazetteer 2024: Colchester CDP'}
   'Colorado City, Colorado': {lat: 37.9394, lon: -104.8431, precision: town, source: 'Census Gazetteer 2024: Colorado City CDP'}
   'Colorado Springs, Colorado': {lat: 38.8673, lon: -104.7607, precision: town, source: 'Census Gazetteer 2024: Colorado Springs city'}
@@ -182,6 +184,7 @@ places:
   'Decatur, Indiana': {lat: 40.8289, lon: -84.9278, precision: town, source: 'Census Gazetteer 2024: Decatur city'}
   'Deer Park, Washington': {lat: 47.9642, lon: -117.4398, precision: town, source: 'Census Gazetteer 2024: Deer Park city'}
   'Delaware, Ohio': {lat: 40.2865, lon: -83.0749, precision: town, source: 'Census Gazetteer 2024: Delaware city'}
+  'Delmar, Delaware': {lat: 38.4725, lon: -75.5439, precision: town, source: 'Census Gazetteer 2024: Delmar town'}
   'Denton, Texas': {lat: 33.2174, lon: -97.1413, precision: town, source: 'Census Gazetteer 2024: Denton city'}
   'Denver, Colorado': {lat: 39.7619, lon: -104.8811, precision: town, source: 'Census Gazetteer 2024: Denver city'}
   'Des Moines, Iowa': {lat: 41.5726, lon: -93.6102, precision: town, source: 'Census Gazetteer 2024: Des Moines city'}
@@ -213,6 +216,7 @@ places:
   'Escanaba, Michigan': {lat: 45.7463, lon: -87.0836, precision: town, source: 'Census Gazetteer 2024: Escanaba city'}
   'Eugene, Oregon': {lat: 44.0568, lon: -123.119, precision: town, source: 'Census Gazetteer 2024: Eugene city'}
   'Everett, Massachusetts': {lat: 42.4059, lon: -71.0546, precision: town, source: 'Census Gazetteer 2024: Everett city'}
+  'Fair Haven, Vermont': {lat: 43.5928, lon: -73.2689, precision: town, source: 'Census Gazetteer 2024: Fair Haven CDP'}
   'Fairbanks, Alaska': {lat: 64.8365, lon: -147.6517, precision: town, source: 'Census Gazetteer 2024: Fairbanks city'}
   'Fairburn, Georgia': {lat: 33.5478, lon: -84.5873, precision: town, source: 'Census Gazetteer 2024: Fairburn city'}
   'Fairmont, West Virginia': {lat: 39.4769, lon: -80.1491, precision: town, source: 'Census Gazetteer 2024: Fairmont city'}
@@ -366,6 +370,7 @@ places:
   'Malden, Missouri': {lat: 36.601, lon: -89.9975, precision: town, source: 'Census Gazetteer 2024: Malden city'}
   'Manassas, Virginia': {lat: 38.7468, lon: -77.4826, precision: town, source: 'Census Gazetteer 2024: Manassas city'}
   'Manchester, New Hampshire': {lat: 42.9849, lon: -71.4441, precision: town, source: 'Census Gazetteer 2024: Manchester city'}
+  'Manhattan, Kansas': {lat: 39.1883, lon: -96.6059, precision: town, source: 'Census Gazetteer 2024: Manhattan city'}
   'Mansfield, Ohio': {lat: 40.7667, lon: -82.5308, precision: town, source: 'Census Gazetteer 2024: Mansfield city'}
   'Manteo, North Carolina': {lat: 35.8986, lon: -75.6513, precision: town, source: 'Census Gazetteer 2024: Manteo town'}
   'Manville, New Jersey': {lat: 40.5413, lon: -74.5893, precision: town, source: 'Census Gazetteer 2024: Manville borough'}
@@ -505,10 +510,12 @@ places:
   'Roswell, New Mexico': {lat: 33.3734, lon: -104.5294, precision: town, source: 'Census Gazetteer 2024: Roswell city'}
   'Royal Oak, Michigan': {lat: 42.5078, lon: -83.1539, precision: town, source: 'Census Gazetteer 2024: Royal Oak city'}
   'Rush Springs, Oklahoma': {lat: 34.7789, lon: -97.9573, precision: town, source: 'Census Gazetteer 2024: Rush Springs town'}
+  'Rutland, Vermont': {lat: 43.6097, lon: -72.9778, precision: town, source: 'Census Gazetteer 2024: Rutland city'}
   'Saco, Maine': {lat: 43.528, lon: -70.4196, precision: town, source: 'Census Gazetteer 2024: Saco city'}
   'Sacramento, California': {lat: 38.5677, lon: -121.4682, precision: town, source: 'Census Gazetteer 2024: Sacramento city'}
   'Salem, Ohio': {lat: 40.9046, lon: -80.8489, precision: town, source: 'Census Gazetteer 2024: Salem city'}
   'Salem, Virginia': {lat: 37.2853, lon: -80.0552, precision: town, source: 'Census Gazetteer 2024: Salem city'}
+  'Salina, Kansas': {lat: 38.8131, lon: -97.6145, precision: town, source: 'Census Gazetteer 2024: Salina city'}
   'Salisbury, Maryland': {lat: 38.3753, lon: -75.5859, precision: town, source: 'Census Gazetteer 2024: Salisbury city'}
   'Salisbury, North Carolina': {lat: 35.6662, lon: -80.4926, precision: town, source: 'Census Gazetteer 2024: Salisbury city'}
   'Salt Lake City, Utah': {lat: 40.7769, lon: -111.931, precision: town, source: 'Census Gazetteer 2024: Salt Lake City city'}
@@ -614,6 +621,7 @@ places:
   'West Jordan, Utah': {lat: 40.6027, lon: -112.0013, precision: town, source: 'Census Gazetteer 2024: West Jordan city'}
   'West Salem, Ohio': {lat: 40.9698, lon: -82.1079, precision: town, source: 'Census Gazetteer 2024: West Salem village'}
   'West Valley City, Utah': {lat: 40.6885, lon: -112.0118, precision: town, source: 'Census Gazetteer 2024: West Valley City city'}
+  'Westhampton, New York': {lat: 40.8468, lon: -72.6599, precision: town, source: 'Census Gazetteer 2024: Westhampton CDP'}
   'Wheat Ridge, Colorado': {lat: 39.7727, lon: -105.1048, precision: town, source: 'Census Gazetteer 2024: Wheat Ridge city'}
   'White City, Oregon': {lat: 42.4317, lon: -122.8322, precision: town, source: 'Census Gazetteer 2024: White City CDP'}
   'Whitehall, Ohio': {lat: 39.969, lon: -82.8839, precision: town, source: 'Census Gazetteer 2024: Whitehall city'}
@@ -667,12 +675,14 @@ strips:
   Bennettsville Drag Strip: {place: 'Bennettsville, South Carolina'}
   Big Al's Dragway: {place: 'Richlands, Virginia'}
   Big Horn Dragway (Greybull): {place: 'Greybull, Wyoming'}
+  Big Spring drag strip: {place: 'Big Spring, Texas'}
   Biloxi Dragway: {place: 'Biloxi, Mississippi'}
   Black Mountain air strip (proposed): {place: 'Black Mountain, North Carolina'}
   Blaney Drag Strip: {place: 'Elgin, South Carolina'}
   Bonneville Drag Strip: {place: 'Salt Lake City, Utah'}
   Bonneville Raceway: {place: 'West Valley City, Utah'}
   Bonneville Salt Flats: {place: 'Bonneville Salt Flats, Utah'}
+  Brainerd Optimist Drag Strip: {place: 'Chattanooga, Tennessee'}
   Bremerton Raceway: {place: 'Bremerton, Washington'}
   Brooksville Drag Strip: {place: 'Brooksville, Florida'}
   Bud's Race Track (Nettleton): {place: 'Nettleton, Mississippi'}
@@ -712,6 +722,7 @@ strips:
   Double Eagle Drag Strip: {place: 'San Antonio, Texas'}
   Douglas Motorsports Park: {place: 'Douglas, Wyoming'}
   Douglas-Tahoe Airport: {place: 'Minden, Nevada'}
+  Dover Drag Strip: {place: 'Wingdale, New York'}
   Dragway 42: {place: 'West Salem, Ohio'}
   Duncan Dragway: {place: 'Duncan, Oklahoma'}
   Easy Street Dragstrip: {place: 'Newton Grove, North Carolina'}
@@ -732,6 +743,7 @@ strips:
   Frederick Municipal Airport: {place: 'Frederick, Maryland'}
   Fulton Dragstrip: {place: 'Fulton, Mississippi'}
   George Field (Lawrenceville): {place: 'Lawrenceville, Illinois'}
+  George Ray's Wildcat Hot Rod Drag Strip: {place: 'Paragould, Arkansas'}
   Georgetown Speedway drag strip: {place: 'Georgetown, Delaware'}
   Golden State Raceway: {place: 'Santa Maria, California'}
   Golden Triangle Drag Strip: {place: 'Oldsmar, Florida'}
@@ -747,6 +759,7 @@ strips:
   Hagerstown Speedway: {place: 'Hagerstown, Maryland'}
   Half Day Speedway (Maremont Speedway): {place: 'Half Day, Illinois'}
   Halls (WWII air base): {place: 'Halls, Tennessee'}
+  Halls airport drag strip: {place: 'Halls, Tennessee'}
   Hammond Airport: {place: 'Hammond, Louisiana'}
   Harmon Raceway (Monroe): {place: 'Monroe, Louisiana'}
   Harmony Speedway drag strip: {place: 'Harmony, New Jersey'}
@@ -906,12 +919,12 @@ strips:
   Yuma Drag Strip (Highway 80): {place: 'Yuma, Arizona'}
   Yuma Drag Strip (Wellton airstrip): {place: 'Wellton, Arizona'}
   Zephyrhills Airport drag strip: {place: 'Zephyrhills, Florida'}
-
-  Dover Drag Strip: {place: 'Wingdale, New York'}
-  George Ray's Wildcat Hot Rod Drag Strip: {place: 'Paragould, Arkansas'}
-  Halls airport drag strip: {place: 'Halls, Tennessee'}
-  Big Spring drag strip: {place: 'Big Spring, Texas'}
-  Brainerd Optimist Drag Strip: {place: 'Chattanooga, Tennessee'}
+  Westhampton Raceway: {place: 'Westhampton, New York'}
+  Calverton (EPCAL) drag strip: {place: 'Calverton, New York'}
+  U.S. 13 Dragway: {place: 'Delmar, Delaware'}
+  Salina Raceway: {place: 'Salina, Kansas'}
+  Smoky Hill Air Force Base drag strip: {place: 'Salina, Kansas'}
+  Rutland airport (street drags): {place: 'Rutland, Vermont'}
 
 not_mapped:
   75-80 Drag-A-Way: the articles that name it do not give its town, so it has no pin yet

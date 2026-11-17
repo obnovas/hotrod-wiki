@@ -12,6 +12,8 @@ paths:
         why: "Start in 1946: a club, a chicken coop and the Highway Patrol, before there was anywhere legal to run."
       - page: drag-racing/sanford-cain-bannister.md
         why: "Meanwhile in New England: dawn races on an airport runway, then barricades for the pilots at Sanford, Maine."
+      - page: drag-racing/pico-raceway-rutland-airport.md
+        why: "Vermont, 1951: by local accounts, a sheriff catches the boys racing on the airport runways and helps build them a track instead."
       - page: drag-racing/western-washington-airport-strips.md
         why: "From 1952 Washington's clubs race on Navy and county airfields; at Bremerton they take the lights home after every race."
       - page: drag-racing/pomona-choppers-fontana.md
@@ -314,6 +316,8 @@ paths:
         why: "The map and the scorecard."
       - page: places/dragging-main.md
         why: "Start small: the loop, in the kids' own words."
+      - page: places/draggin-main-clovis-new-mexico.md
+        why: "One small town up close: eight blocks in Clovis, a $55 fender-bender, and nobody agrees when it stopped."
       - page: places/brookside-restless-ribbon-tulsa.md
         why: "A city loop in Tulsa, with a pecking order in the drive-in and a speed shop on the strip."
       - page: places/route-1-saugus-adventure-car-hop.md
@@ -575,6 +579,12 @@ paths:
         why: "Florida's answer to the California slight: a Tampa bookkeeper who made them eat a path of beer cans."
       - page: drag-racing/golden-triangle-oldsmar.md
         why: "A cow-pasture strip in his Tampa backyard, where a skinny flagger sent him back for jumping the flag."
+      - page: drag-racing/westhampton-drag-strip-long-island.md
+        why: "Long Island: racers pour a new starting line themselves to quiet the neighbors, and the strip is sold anyway."
+      - page: drag-racing/us-13-dragway-delmar-cathell.md
+        why: "Delmarva: a family farm strip that came up a fifth of a mile short, still in the family six decades on."
+      - page: drag-racing/salina-raceway-old-runway-kansas.md
+        why: "Kansas: an old runway, a fiberglass Thunderbird, and a town that went looking for its starting line in 2026."
       - page: people/don-prudhomme.md
         why: "The California driver the other regions were up against: a Van Nuys painter who became the Snake, via Hawaii and Hot Wheels."
       - page: people/keith-black.md

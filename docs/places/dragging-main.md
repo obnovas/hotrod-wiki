@@ -118,7 +118,7 @@ Three of them had a fixed route between two landmarks. Hays had a theater at one
 
 There was a sense of inheritance, too. "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier. You drove from one end of Main to the other, you turned around, and you did it again until midnight. They called it dragging Main.
 
-*See also:* [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>; [Central Avenue, Albuquerque](central-avenue-albuquerque.md).
+*See also:* [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>; [Central Avenue, Albuquerque](central-avenue-albuquerque.md); [Draggin' Main in Clovis, N.M.](draggin-main-clovis-new-mexico.md), eight blocks of brick and a revival in 2014.
 
 ## Open questions & disputed details
 

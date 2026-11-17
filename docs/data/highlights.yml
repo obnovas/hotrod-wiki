@@ -1855,3 +1855,59 @@ highlights:
     added: '2026-11-14'
     eras: [1950s]
     regions: ['Spokane Valley, Wash.']
+
+  - id: westhampton-turned-the-track-around
+    headline: Told the noise was the problem, Long Island's racers moved their own starting line
+    teaser: Town officials asked Westhampton's owner to turn the track around, away from the homes by Old Country
+      Road. A racer estimated volunteers did about 90 percent of the work, and the strip was sold anyway in 2004.
+    link: drag-racing/westhampton-drag-strip-long-island.md#the-starting-line-moves
+    evidence: [volunteers did about 90 percent of the renovations]
+    source_type: [Local news]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-17'
+    eras: [1990s, 2000s]
+    regions: ['Westhampton, N.Y.']
+
+  - id: salina-tweety-bird-sylvester
+    headline: In Salina a fiberglass Thunderbird called Tweety Bird match-raced a Chevy called Sylvester
+    teaser: The yellow 1955 T-Bird was rebuilt in fiberglass by a man from a Salina ride-making shop and weighed
+      1,810 pounds, its owner says. A 1957 Chevy named Sylvester made the match race, and it "drew fans."
+    link: drag-racing/salina-raceway-old-runway-kansas.md#fiberglass-from-the-ride-factory
+    evidence: [it only weighed 1,810 pounds, "It drew interest, it drew fans,"]
+    source_type: [Local news, Oral history]
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-17'
+    eras: [1960s, 1970s]
+    regions: ['Salina, Kan.']
+
+  - id: pico-sheriff-blow-off-steam
+    headline: A Vermont sheriff caught boys racing on the airport runways and helped build them a track
+    teaser: By two local accounts, Rutland's sheriff confronted one racer's father, who blurted out that the boys
+      needed somewhere to blow off steam. A farmer offered land, and Pico Raceway opened in 1951.
+    link: drag-racing/pico-raceway-rutland-airport.md#the-runway-problem
+    evidence: [needed some place to blow off steam]
+    source_type: [Local history site, Local news]
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-17'
+    eras: [1950s]
+    regions: ['Rutland, Vt.']
+
+  - id: hot-august-nights-softball-lesson
+    headline: Hot August Nights borrowed its big idea from an Easter Seals softball tournament
+    teaser: Out-of-town softball teams loved Reno, so Jim Webster figured car clubs would too. A Reno realtors'
+      '50s dance for Easter Seals became a regional car show in about four months.
+    link: media/hot-august-nights-reno-1986.md#the-softball-lesson
+    evidence: [We found the softball teams loved the magic of Reno]
+    source_type: [Oral history, Local news]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-17'
+    eras: [1980s]
+    regions: ['Reno, Nev.']

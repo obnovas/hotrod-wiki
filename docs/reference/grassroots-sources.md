@@ -244,6 +244,21 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 42 additions
+- Local newspapers and columns: *The Southampton Press* (2017) and Westhampton Patch (2012) → [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md); the *Great Bend Tribune* (2022), *Salina Journal* (2022), KSAL, Salina311 and the *Salina Post* (2026) → [Salina](../drag-racing/salina-raceway-old-runway-kansas.md); Harry Spencer's *Sparks Tribune* column printing Jim Webster's own account (2018) and the *Reno News & Review* (2000) → [Hot August Nights](../media/hot-august-nights-reno-1986.md); the *Eastern New Mexico News* editor's columns (2014–15) → [Clovis](../places/draggin-main-clovis-new-mexico.md); the *Rutland Herald*'s report on a Rutland Historical Society roundtable (2007) → [Pico Raceway](../drag-racing/pico-raceway-rutland-airport.md).
+- Family and hometown memory: the Cathell family's track history and Charlie Cathell's WMDT interview → [U.S. 13 Dragway](../drag-racing/us-13-dragway-delmar-cathell.md); Milburn Moore's *Mil's Place* blog and its readers → Clovis; Ken Bausert's blog and its commenters → Westhampton; Bill Ladabouche's memoir of Al Romano → Pico.
+- Public records: Delaware Public Archives marker SC-278 (2019) → U.S. 13 Dragway; the Salina Airport Authority's history of Schilling AFB → Salina.
+
+### Round 42 status
+| Archive | Round 42 status |
+|---|---|
+| NYS Historic Newspapers (nyshistoricnewspapers.org) | Cloudflare browser challenge; not bypassed. Westhampton's opening year stays ⚠. |
+| Library of Congress *Chronicling America* (Delaware, Maryland, 1963–66) | Searched; no Delmar or U.S. 13 drag strip notice found. |
+| delawareracing.com | Refused our page fetcher (403); read directly as an ordinary page request. |
+| *Salina Journal* (salina.com) | Refused plain requests ("Access Restricted"); read through our page fetcher. |
+| Delaware Business Now column; hotrodiowa.com; Cedar Falls Raceway site; a Clovis city commission PDF | Empty, 404 or failed downloads; not used. |
+| Google Patents | No Round 42 patents. |
+
 ### Round 41 additions
 - Local news and columns: *Chattanoogan.com*'s local-history columns (Jolley, Ashley, Summers) → [Brainerd Optimist strip](../drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md); *The Spokesman-Review* (1997, 2004, 2025) → [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md); KAIT-TV Jonesboro (2009, 2011) and a funeral-home obituary → [George Ray's Wildcat strip](../drag-racing/george-rays-wildcat-drag-strip-paragould.md).
 - Club and family collections: the Dick Ceola scrapbook, as presented on Kustomrama → [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md); the Highland Lakes Timing Association repost of Howard Deshazo's memoir → [Big Spring](../drag-racing/big-spring-lions-club-drag-strip-deshazo.md); the strip's own history page and reunion coverage → [Dover Drag Strip](../drag-racing/dover-drag-strip-wingdale-new-york.md).

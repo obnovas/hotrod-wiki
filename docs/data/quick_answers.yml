@@ -979,6 +979,42 @@ themes:
         link: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md
         also: [companies/honest-charley-speed-shop.md]
         flag: [drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-1, drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md#q-2]
+      - id: westhampton-turned-around
+        q: Why did Long Island's racers turn their own drag strip around?
+        a: >-
+          To quiet it for the homes near Old Country Road. Town officials asked owner Gary Chimeri to move the
+          starting line to the Sunrise Highway end, and a racer estimated volunteers did about 90 percent of the
+          work. The Westhampton strip, opened in 1953 or 1952 (⚠ see Open questions), was sold anyway in 2004.
+        link: drag-racing/westhampton-drag-strip-long-island.md
+        also: [drag-racing/dover-drag-strip-wingdale-new-york.md]
+        flag: drag-racing/westhampton-drag-strip-long-island.md#q-1
+      - id: us-13-dragway-fifth-mile
+        q: Why did Delaware's U.S. 13 Dragway start out short?
+        a: >-
+          By the family's own history, the farmland the Cathells bought north of Delmar in 1963 only had room for a
+          fifth-mile track, so they bought more to make a quarter mile. The state's 2019 marker says it opened as a
+          quarter mile (⚠ see Open questions).
+        link: drag-racing/us-13-dragway-delmar-cathell.md
+        also: [drag-racing/georgetown-speedway-delaware.md]
+        flag: drag-racing/us-13-dragway-delmar-cathell.md#q-1
+      - id: salina-old-runway
+        q: Did Salina, Kansas, have a drag strip?
+        a: >-
+          By a 2026 local radio story, yes: first at the air base west of town in the 1950s, then on an abandoned
+          runway east of town in the late 1960s and early 1970s (◐ see Open questions). In 2026, 407 cars came back
+          to the old starting line.
+        link: drag-racing/salina-raceway-old-runway-kansas.md
+        also: [drag-racing/great-bend-srca.md]
+        flag: drag-racing/salina-raceway-old-runway-kansas.md#q-1
+      - id: pico-raceway-airport-racers
+        q: Why did a Vermont sheriff help build a race track?
+        a: >-
+          By two local accounts, young men were drag racing on the Rutland airport runways, so Sheriff Geno Franzoni,
+          a racer's father and a farmer built Pico Raceway in 1951 (◐ see Open questions). About 4,000 people came
+          the first day.
+        link: drag-racing/pico-raceway-rutland-airport.md
+        also: [drag-racing/milton-speedway-vermont.md]
+        flag: drag-racing/pico-raceway-rutland-airport.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1083,6 +1119,15 @@ themes:
         link: places/rons-drive-in-sprague-avenue-spokane-valley.md
         also: [places/cruising-overview.md]
         flag: places/rons-drive-in-sprague-avenue-spokane-valley.md#q-1
+      - id: clovis-draggin-main
+        q: When did Clovis, New Mexico, drag Main?
+        a: >-
+          Friday and Saturday nights and Sunday afternoons, on eight blocks of Main Street, for decades. When it began
+          (⚠ see Open questions) and when it ended (⚠ see Open questions) are remembered differently. Two hot rod guys revived it for a night
+          on June 28, 2014.
+        link: places/draggin-main-clovis-new-mexico.md
+        also: [places/dragging-main.md]
+        flag: [places/draggin-main-clovis-new-mexico.md#q-1, places/draggin-main-clovis-new-mexico.md#q-2]
   - id: companies-and-parts
     title: Companies and the parts business
     questions:
@@ -1494,6 +1539,15 @@ themes:
           Quick Times Racing News and soon ran it herself.
         link: drag-racing/farmington-dragway-becky-white.md
         also: [eras/1960s-drag-rags.md]
+      - id: hot-august-nights-start
+        q: How did Hot August Nights start?
+        a: >-
+          As a Reno realtors' '50s dance for Easter Seals in 1986. Jim Webster of Easter Seals added a Classic Chevys
+          show and shine and borrowed his softball tournament's trick of inviting out-of-town teams. Who named it,
+          and why, is told three ways (⚠ see Open questions).
+        link: media/hot-august-nights-reno-1986.md
+        also: [media/show-circuit.md]
+        flag: media/hot-august-nights-reno-1986.md#q-1
   - id: how-we-know
     title: Sources and how we know
     questions:

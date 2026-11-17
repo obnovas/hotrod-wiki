@@ -212,3 +212,10 @@ Round 15 also reuses `commons-sun-studio-highsmith.jpg` (Carol M. Highsmith, Lib
 |---|---|---|---|---|---|
 | `commons-greybull-firefighting-aircraft-2004.jpg` | Retired firefighting aircraft at the South Big Horn County Airport, Greybull, Wyo., the old Big Horn Dragway field (context only) | Andrij Bulba | 2004-06-01 | [Commons](https://commons.wikimedia.org/wiki/File:Retired_firefighting_aircraft_at_South_Big_Horn_County_Airport_Wyoming_20040601.jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
 | `nara-colfax-avenue-west-denver-1972.jpg` | Colfax Avenue, Denver, toward the State Capitol dome, April 1972 | Bruce McAllister | 1972-04 | [Commons](https://commons.wikimedia.org/wiki/File:Colfax_Avenue_West,_Denver_-_NARA_-_544793.jpg) (U.S. National Archives 544793) | Public domain (U.S. government work) |
+
+## Added in Round 42
+
+| File | Shows | Creator | Date | Source | License |
+|---|---|---|---|---|---|
+| `commons-hot-august-nights-reno-2006.jpg` | A row of 1955 Chevrolets with hoods up at a Hot August Nights show-and-shine, Reno | Ken Lund | 2006-08-03 | [Commons](https://commons.wikimedia.org/wiki/File:Hot_August_Nights,_Reno,_Nevada_(210469387).jpg) | CC BY-SA 2.0 |
+| `commons-clovis-north-main-street-2017.jpg` | Storefronts and parked cars on North Main Street, Clovis, N.M. (context only) | Greg Gjerdingen | 2017-01-17 | [Commons](https://commons.wikimedia.org/wiki/File:North_Main_Street,_Clovis,_NM_(32126117830)_(2017-01-17_by_Greg_Gjerdingen).jpg) | CC BY 2.0 |

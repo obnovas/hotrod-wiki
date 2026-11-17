@@ -65,6 +65,24 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 - **Blocked or unavailable (not bypassed):** thisistucson.com and the 2017 *Star* column (HTTP 429; read in a mirror); arizonaracinghistory.com (404); the *Exeter News-Letter* on Seacoastonline (paywall, 402); the *Ellsworth American* (429); Google News Archive scans of the *Spokane Daily Chronicle* and *Bangor Daily News* (page images only). Utah, Colorado and Oklahoma's newspaper portals were not retried.
 
 
+## Log, Round 42 (Westhampton Drag Strip, U.S. 13 Dragway, Salina's old runway, Hot August Nights, Draggin' Main in Clovis, Pico Raceway; 2026-11-17)
+- **Scope:** states thin on the Story Map: Long Island, Delaware's Delmarva, central Kansas, Nevada, eastern New Mexico and Vermont. Grassroots first: a hometown weekly and a Patch site, a family track's own history and a state marker, a Salina radio story and two local news sites, a founder's own written account printed in a Sparks column, a hometown memory blog and the Clovis editor's columns, and a historical society roundtable reported in the *Rutland Herald*. The Round 41 newspaper leads (1957 Chattanooga, 1961 Poughkeepsie) were not readable this round.
+- **New articles (6):**
+    - New York: [Westhampton Drag Strip](drag-racing/westhampton-drag-strip-long-island.md) (racers turn the track around themselves; sold for senior housing in 2004; the drags return to the Calverton runways in 2021).
+    - Delaware: [U.S. 13 Dragway](drag-racing/us-13-dragway-delmar-cathell.md) (a father's safe place for his son's friends; a fifth of a mile until more land was bought; fans backed up to the fence).
+    - Kansas: [Salina's old runway and Tweety Bird](drag-racing/salina-raceway-old-runway-kansas.md) (country-road racing; Gary Wooster's 1955 win at Great Bend; a fiberglass T-Bird vs. "Sylvester"; 407 cars back at the starting line in 2026).
+    - Nevada: [Hot August Nights](media/hot-august-nights-reno-1986.md) (a realtors' dance for Easter Seals, a Classic Chevys show and shine, and the softball tournament's out-of-town lesson).
+    - New Mexico: [Draggin' Main in Clovis](places/draggin-main-clovis-new-mexico.md) (eight blocks, a $55 fender-bender in front of Montgomery Ward, Wanda King at Standridge Drug; revived 2014).
+    - Vermont: [Pico Raceway](drag-racing/pico-raceway-rutland-airport.md) (by local accounts, airport-runway drag racing, a sheriff and a racer's father; 1951).
+- **Resolved:** none. Honest Charley ⚠ q-4 and Lakeland's opening year stay open; no 1948 or 1956 Chattanooga or 1960–61 Memphis paper was readable.
+- **New conflicts or single-source flags:** Westhampton: opening year 1953 vs 1952 ⚠, who ran it ◐, the Thanksgiving turkeys ◐. U.S. 13: a fifth of a mile vs a quarter in 1963 ⚠, the opening date ?. Salina: the 1950s air-base strip ◐ (and the runway strip's years), Wooster's coupe or roadster ? (text vs caption), the Roush race ◐. Hot August Nights: who named it and why ⚠ (Webster: Davidson's Neil Diamond album; Davison himself in 2000: a month-long event; the event's site: the hot August weather), and the founder's surname spelled two ways. Clovis: when dragging Main began ⚠ (1930s, late 1940s, 1950s) and when it ended ⚠ (1968 vs 1970 vs the 1980s). Pico: the airport story ◐; when GE built on the site ? (one page says both the 1960s and "by the 1970's").
+- **Corrections made while writing:** drafts dropped unsupported inferences before publishing (a "Maryland line" location, a nephew relationship, a machine-shop location, a claim that Salina had no marker, a "family trade" link between Gary Ward and Ward Manufacturing, a caption detail misread as a "Hemi," and a Class of 1951 attribution that belonged to a different reader). A column's spelling "Crosby" was kept as printed.
+- **Highlights:** four added, all grassroots (Westhampton's turnaround; Tweety Bird and Sylvester; the Pico sheriff; Hot August Nights' softball lesson).
+- **Quick answers:** six added (Westhampton, U.S. 13 Dragway, Salina, Pico, Clovis, Hot August Nights); 178 in all.
+- **Story Map:** 8 new places (Westhampton and Calverton, N.Y.; Delmar, Del.; Salina and Manhattan, Kan.; Clovis, N.M.; Rutland and Fair Haven, Vt.) and 6 new strip pins; 631 places and 277 strips.
+- **Blocked or unavailable (not bypassed):** NYS Historic Newspapers (Cloudflare challenge); Library of Congress searches found no Delmar notice; a Delaware business column, hotrodiowa.com, the Cedar Falls Raceway site and a Clovis commission PDF were empty or failed; see the Round 42 status table in [Grassroots Sources](reference/grassroots-sources.md).
+- **Images:** two, both openly licensed context photos from Wikimedia Commons (Hot August Nights, 2006, CC BY-SA 2.0; North Main Street, Clovis, 2017, CC BY 2.0).
+
 ## Log, Round 41 (Dover Drag Strip, George Ray's Wildcat Strip, the Ozark Drifters, Big Spring's Lions Club strip, the Brainerd Optimist strip, Ron's Drive-In; 2026-11-14)
 - **Scope:** regions the Midwest-heavy Round 40 left alone: the Northeast (New York), the Arkansas and Tennessee mid-South, West Texas, Georgia's border and the Inland Northwest. Grassroots first: a strip's own reunion site, local-TV and funeral-home pages, a National Register nomination, a Chattanooga local-history column series, a family scrapbook and the Spokane daily's drive-in coverage.
 - **New articles (6):**
@@ -145,7 +163,17 @@ Each entry: **date** · page and question · the answer in one line · the sourc
 - **N7, applied, with a note.** Burlington's footnote now includes the November 7, 2025 archive, which was readable and contains the street names, the "soft pine trees," Pete Robinson, Lou Azar and "Johnny Dowey of the Columbia area bought the strip and managed it." On this pass the live HTTP URL returned 200 and the same article, not the HTTP 500 Henry recorded; the HTTPS URL returned 404. The archive is cited anyway, the same way Cromer's footnote already cites one, so a reader is not left with only the live host. The bibliography and the grassroots catalog carry the archive URL too.
 - **Skipped:** none of Henry's eight items. No new claim was taken from *Drag Strip List*'s history pages beyond what the citation fixes required.
 
-## Next breadcrumbs (Round 41)
+## Next breadcrumbs (Round 42)
+- **New York:** the *Southampton Press* and *Riverhead News*, 1952–53, for Westhampton's opening (to settle q-1); the Catronio family; the *New York Times* story Hagerty cites on the 2004 rezoning.
+- **Delaware and Maryland:** the *Salisbury Times* and *Delmarva News*, August 1963 (U.S. 13's opening and its first length); the Delmar Drag Club.
+- **Kansas:** the *Salina Journal*, 1955–75, through the Salina Public Library (the air-base strip, the runway strip's years, Tweety Bird vs. Sylvester and the 1971 Roush race); the Salina Raceway Facebook page's photos; Arkansas City's Strother Field, closed to planes on Sundays for drag racing in 1968 (Kansas aviation newsletter).
+- **Nevada:** the *Reno Gazette-Journal*, August 1986; the four founders' 2019 Nevada Historical Society talk; Classic Chevys of Reno.
+- **New Mexico:** the *Clovis News-Journal* on any city action against cruising (1960s–80s); Rats Radecky's 1965 Carlsbad record (Pages Past).
+- **Vermont:** the *Rutland Herald*, August 1951 (the Sunday racing vote, the first race, the "Race War" story); the Rutland Historical Society's roundtable recording.
+- **Elsewhere, not yet started:** Knoxville's Broadway Speedway; Charlotte's Independence Boulevard and South 21; Cedar Falls and NEITA (Iowa); Dacotah Speedway, Bismarck.
+- **Carried from Round 41:** the Dover, Paragould, Big Spring, Chattanooga and Spokane newspaper leads; Honest Charley's McCallie Avenue date; Lakeland's opening year.
+
+## Next breadcrumbs (Round 41) — superseded by Round 42
 - **New York and Connecticut:** the *Poughkeepsie Journal* and *Dover Plains* papers, 1961 and 1976 (Dover's opening and closing); the NHRA sanction records for 1961; who Frank Marrata/Moratta/Maratta was in Connecticut deed and town records; the *Greenwich Time* piece, if a legal copy turns up.
 - **Arkansas:** the *Paragould Daily Press* on George Ray (1961 and 2009); Kepner's DragRacingOnline tribute; whether the strip still runs (our newest source is 2011); Halls' airport strip in Lauderdale County, Tenn. papers; the *Northwest Arkansas Times*, 1962-63, for the Auto-Rama.
 - **Texas:** the *Big Spring Herald*, Nov. 1956-Jan. 1957; the Texas Tech Lubbock oral history (needs a readable copy); Deshazo's January 1958 *Hot Rod* article.

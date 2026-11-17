@@ -103,6 +103,8 @@ The columnist stressed the rules. The strip was "Affiliated with the National Ho
 
 By August 1963 the Delaware Racing Club, which promoted the speedway, had moved its stock car nights from Friday to Wednesday. The drags took the empty night. "The vacated Friday night spot has been taken up by the Delmarva Timing Association," the *Chronicle* reported in August. "Drags will operate under the arc lights every Friday night." Registration opened at 5 p.m. and eliminations started at 8, and the paper called it "the only one of its kind operating on Delmarva," though it now described it as a quarter-mile strip.[^mc630802]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup> Whether that August strip was an eighth or a quarter is still open. The 1956 ad had said bring your pleasure car, no roll bars needed. The length is still open.
 
+*See also:* [the Cathells' U.S. 13 Dragway](us-13-dragway-delmar-cathell.md), the Delmar quarter mile built in 1963 by a family who had raced here.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

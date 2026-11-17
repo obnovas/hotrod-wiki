@@ -56,6 +56,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1951 | Palm Springs Stockers' Reliability Safety Run: the winner is the driver closest to a patrol car's safe time | [Palm Springs TA](../drag-racing/palm-springs-timing-association.md) |
 | 1951 | Tucson's Outcasts club is racing on the old Marana Army Air Field (a son's family account, with a 1951 plate tag) | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | 1951 | Portland's Road Angels and Ramblers form the Columbia Timing Association to promote a strip closer to Portland (Aug) | [Scappoose & CTA](../drag-racing/scappoose-aurora-columbia-timing-association.md) |
+| 1951 ◐ | Rutland Town, Vt., voters approve Sunday racing 125–64 (Aug) for Pico Raceway, built (by local accounts) after the sheriff was called to stop drag racing at the airport; about 4,000 come the first day | [Pico Raceway](../drag-racing/pico-raceway-rutland-airport.md) |
 | 1952 | Yuma's Dragsters club races on Wellton Auxiliary Army Airfield with Bureau of Reclamation approval ◐ | [Yuma](../drag-racing/yuma-timing-association.md) |
 | 1952 | First Holiday Inn opens on Summer Avenue, Memphis, a cruising and drive-around strip | [Summer Avenue](../places/summer-avenue-memphis.md) |
 | 1952 | Memphis Rodders exhibit at Klyce Motors (Mar 15) ◐ | [Memphis](../places/memphis.md) |
@@ -84,6 +85,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1953 ⚠ | First official New England Hot Rod Council drags at Newington Airport, N.H. (the council's founding is dated 1953 or the mid-1950s) | [New England Dragway](../drag-racing/new-england-dragway-epping.md) |
 | 1953 | Boise's Bootleggers club formed (May 8) when the Gearjammers were full | [Firebird / Bootleggers](../drag-racing/firebird-raceway-idaho-bootleggers.md) |
 | 1953 | The Gofur Timing Association holds drags on an abandoned road between Elk River and Big Lake, Minn. | [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md) |
+| 1953 ⚠ | Westhampton, Long Island's dirt drag strip opens off Old Country Road (NHRA; Hagerty says 1952) | [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md) |
 | 1954 ⚠ | First World Series of Drag Racing, Lawrenceville, Ill. (vs 1956/1953; see [Bartel](../people/bob-bartel.md)) Sparkomatic founded | [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Almquist](../people/ed-almquist.md) |
 | 1954 | *Motor Age* (Jun 1955) dates the first annual World Series to Oct 1954 at Lawrenceville (~350 hot rodders, ~10,000 spectators); Green Monster 132.35 mph ◐ | [Half Day](../drag-racing/half-day-ataa-maremont.md) |
 | 1954 | Multnomah Hot Rod Council founded. Wescott's begins | [Pacific NW](../places/pacific-northwest.md) |
@@ -126,6 +128,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1955 ⚠ | Great Lakes Dragaway opens on the Kenosha–Racine county line, built with over a dozen Milwaukee clubs (1956 by one count ⚠); W. H. David opens his first strip at Esterwood, La. | [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md), [Pel State](../drag-racing/pel-state-dragway-opelousas.md) |
 | 1955 | Eugene's Active Club sponsors an all-Sunday drag meet at Mahlon Sweet Airport (Sept); Jim Beardslee runs 125 mph at Madras | [Eugene & White City](../drag-racing/eugene-balboa-white-city-oregon.md), [Scappoose & CTA](../drag-racing/scappoose-aurora-columbia-timing-association.md) |
 | 1955 | Buddy Houts says he helped found the Road Masters Hot Rod Club in Chattanooga (Rose's column; ⚠ Jolley names the Road Gents) | [Brainerd Optimist strip](../drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md) |
+| 1955 | Gary Wooster and Jim Sampson of Salina, Kan., who had raced on blocked-off country roads, win top elimination and fastest time at the Great Bend NHRA meet | [Salina](../drag-racing/salina-raceway-old-runway-kansas.md), [Great Bend](../drag-racing/great-bend-srca.md) |
 | 1956 | First Portland Roadster Show | [Pacific NW](../places/pacific-northwest.md) |
 | 1956 | GSTA's first car show, Red Owl lot, Lake St & 22nd Ave S, Minneapolis | [Lake Street](../places/lake-street-university.md) |
 | 1956 | Maj. Eugene Pond's "Give the Hot Rodders a Break" runs in the National Safety Council's *Public Safety* (May) | [Kansas City](../drag-racing/kansas-city-timing-association.md) |
@@ -314,6 +317,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1963 | Five local racers take over the Lakeland Dragway lease (Jan 16) | [Lakeland Dragway](../drag-racing/lakeland-dragway-amusement-park.md) |
 | 1962 | According to the Ceola family scrapbook, the Ozark Drifters hold their first Auto-Rama at the National Guard Armory, Springdale, Ark. (Dec) | [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md) |
 | 1963 | According to the same scrapbook, the Ozark Drifters carry a 1934 Ford two miles through Fayetteville (Apr); second Auto-Rama at the Springdale Roller Rink | [Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md) |
+| 1963 ⚠ | The Cathells open U.S. 13 Dragway north of Delmar, Del. (Aug); the field allows only a fifth of a mile until they buy more land (the 2019 marker says a quarter mile) | [U.S. 13 Dragway](../drag-racing/us-13-dragway-delmar-cathell.md) |
 | 1964 | Al Bergler's Aggravation II wins first Ridler Award, Detroit Autorama | [Al Bergler](../people/al-bergler.md) |
 | 1964–67 ⚠ | Mr. Gasket founded or incorporated | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1964 | Don Gay wins A/Stock at Indy. Altizer-Finders-Kibler "Traveler" B/GS record 9.76/146.57 (Nov, ◐) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
@@ -361,6 +365,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1965 | Prudhomme wins the Winternationals and the Nationals in Roland Leong's Hawaiian | [Don Prudhomme](../people/don-prudhomme.md), [Roland Leong](../people/roland-leong.md) |
 | 1965 | Raceway Park opens in Old Bridge, N.J., off Englishtown Road | [Linden & NJ strips](../drag-racing/linden-njta-new-jersey-short-strips.md) |
 | 1965 ⚠ | Gene Cromer's new *Moonlighter*, a 1940 or 1941 Willys, wins A/Gas at Donaldson AFB, Greenville, S.C. (May; ? the base's only drag meet) | [Gene Cromer](../people/gene-cromer-moonlighter.md) |
+| 1965 ◐ | Schilling AFB at Salina, Kan., closes (June 30); by one 2026 account, the town's drag strip moves from the base to an abandoned runway east of town | [Salina](../drag-racing/salina-raceway-old-runway-kansas.md) |
 | 1966–68 | AMC's performance list gives Hurst-Campbell's Warminster address | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | 1966 | Kingfish blown Barracuda vs. Joe Lunati's 427 Corvair at Malden, Mo. (Easter, Apr 10); KK drag strip "opening" (June 5); Thomas J. Broas killed, Outagamie County's first race track fatality (Aug 7) | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md), [Joe Lunati](../people/joe-lunati.md), [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md) |
 | 1966 | Joe Lunati of Memphis beats Richard Moroso in the Street Eliminator final at the NHRA Nationals, Indianapolis (Labor Day); Outagamie County rezones 75 acres beside KK Sports Arena for a "mile-long drag strip" (Dec, ◐) | [Joe Lunati](../people/joe-lunati.md), [Moroso](../companies/moroso.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
@@ -370,6 +375,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1966 | New England Dragway opens at Epping, N.H. (Sept 11); Evel Knievel jumps ten cars at Greth and Fisher's Tucson car show (Nov) | [New England Dragway](../drag-racing/new-england-dragway-epping.md), [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | 1966 | First Christmas tree at Pocatello Dragway | [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md) |
 | 1966 | Bob Frey moves from announcing at McGuire's Strato Rods to Atco's tower, where he calls nearly every race until 1984 (Strato Rods' own years ⚠) | [Atco & Strato Rods](../drag-racing/atco-strato-rods-south-jersey.md) |
+| 1966 | Gary Ward buys the '55 Thunderbird in Salina that becomes the fiberglass match racer Tweety Bird | [Salina](../drag-racing/salina-raceway-old-runway-kansas.md) |
 | 1967 | Hill brothers' Red Baron Willys built in 11 days. "WE'RE SORRY" letter | [Red Baron](../cars/hill-bros-red-baron.md) |
 | 1967 | Minnesota Street Rod Association formed | [Upper Midwest](../places/upper-midwest.md) |
 | 1967 | First SEMA trade show, Dodger Stadium (98 booths), produced by Dick Wells with Ray Brock and Alex Xydias | [Dick Wells](../people/dick-wells.md) |
@@ -467,6 +473,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1986 | Houston roadblocks end Westheimer cruising (about 1986) | [Westheimer](../places/westheimer-houston.md) |
 | 1986 | Bartel sells Cordova to Bob Gipson | [Bob Bartel](../people/bob-bartel.md) |
 | 1986 ⚠ | Green Valley's last NHRA Winston event (Feb) and "the Last Race," with jet dragsters (June 15) | [Green Valley](../drag-racing/green-valley-raceway-smithfield.md) |
+| 1986 | The first Hot August Nights, a Reno realtors' '50s dance for Easter Seals with a Classic Chevys show and shine, fills the Reno-Sparks Convention Center (Aug 1) | [Hot August Nights](../media/hot-august-nights-reno-1986.md) |
 | 1987 ⚠ | Houston Freeway / International Dragway closes (forum working date) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
 | 1987 | Lee McCullough starts Cruise Night at Johnie's Broiler, Downey | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
 | 1987 | Hays, Kan., yearbook maps the dragging-Main route, Fox Theater corner to the Varsity Drive-In ⚠ start point | [Dragging Main](../places/dragging-main.md) |
@@ -485,12 +492,14 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1999 | JEGS opens its headquarters and distribution center at 1 Jegs Place, Delaware, Ohio | [JEGS](../companies/jegs.md) |
 | 1999 ⚠ | Pocatello's strip closes, by Kathy Steinmetz's account (others say 1973 or about 1993 ⚠) | [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md) |
 | 2003 | The last of Des Moines Dragway's pavement goes for houses (June) | [Des Moines Dragway](../drag-racing/des-moines-dragway-ernest-day.md) |
+| 2004 | Westhampton's strip and 66 acres sold for about $7 million; senior housing and a Drag Street follow | [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md) |
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../places/central-avenue-albuquerque.md) |
 | 2005 ⚠ | Inyokern strip shut after an FAA threat; date of the last race disputed | [Inyokern](../drag-racing/inyokern-dust-devils.md) |
 | 2009 | George Ray dies at 85; his wife Bonnie keeps the Paragould track running (KAIT, 2011) | [George Ray's Wildcat](../drag-racing/george-rays-wildcat-drag-strip-paragould.md) |
 | 2010 | Dick Wells dies (Jan 18), NSRA's "first active president" ⚠ | [Dick Wells](../people/dick-wells.md) |
 | 2013 | Gila River Indian Community declines to renew Firebird's lease (Jan); by July, Dick Hahne takes over as Wild Horse Pass Motor Sports Park | [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md) |
 | 2013 | Island Dragway closes after Hurricanes Irene and Sandy (Jan) and reopens under the Kowalicks' granddaughter on the Fourth of July weekend | [Island Dragway](../drag-racing/island-dragway-great-meadows.md) |
+| 2014 | Draggin' Main revived on Clovis, N.M.'s brick Main Street (June 28); 3,500 to 4,000 come, by the organizers' count | [Clovis](../places/draggin-main-clovis-new-mexico.md) |
 | 2015 | Douglas Motorsports Park, by then Wyoming's only active drag strip (NHRA-sanctioned), closes when the city declines to renew its lease (Dec) | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
 | 2018 | Firebird Raceway listed on the National Register of Historic Places (Dec 24; announced 2019) | [Firebird / Bootleggers](../drag-racing/firebird-raceway-idaho-bootleggers.md) |
 | 2018 ⚠ | Tom McEwen dies (June 10 or June 11) | [Tom McEwen](../people/tom-mcewen.md) |
@@ -499,6 +508,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2021 | Red Greth dies in Tucson at 86 (Apr 13) | [Red Greth](../people/red-greth.md) |
 | 2021 | Tom and Kim Kuhnle buy Thompson Drag Raceway and rename it Kuhnle Motorsports Park (Dec) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | 2021 | Gene Cromer dies (July 14) | [Gene Cromer](../people/gene-cromer-moonlighter.md) |
+| 2021 | Riverhead allows eight NHRA-sanctioned drag events on the EPCAL runways at Calverton, Long Island | [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md) |
 | 2022 | Helen Simon of M-N Raceway dies at 100 (Jun 15) | [M-N Raceway](../drag-racing/m-n-raceway-wichita-simon-farm.md) |
 | 2023 | Firebird International Raceway, then Wild Horse Pass, is renamed Firebird Motorsports Park (Dec) | [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md) |
 | 2023–24 | CA AB 436 (Alvarez) chaptered Oct 13, 2023; effective Jan 1, 2024—removes local authority to ban cruising; repeals VC 24008 | [Cruise Nights](../places/cruising-overview.md) |
@@ -507,3 +517,4 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2024 | Rapid Shifters and Counts of the Cobblestone run the second Vintage Dirt Drags at Bandit Speedway, Box Elder, S.D. | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
 | 2024 | The Simon grandchildren reopen Kansas International Dragway themselves | [M-N Raceway](../drag-racing/m-n-raceway-wichita-simon-farm.md) |
 | 2025 | Kuhnle Motorsports Park (the old Thompson strip) joins the NHRA Member Track Network (Dec) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
+| 2026 | "Back to the Track": 407 cars return to Salina's old runway starting line (May 3) | [Salina](../drag-racing/salina-raceway-old-runway-kansas.md) |

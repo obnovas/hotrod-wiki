@@ -107,7 +107,7 @@ The site was where the retired racers found each other. In 2009 Lawrence held th
 
 A few small pieces of the old strip's story survive in forum posts. One H.A.M.B. member wrote in 2008 that his New Jersey club, the Motormounts of Maplewood, used to volunteer at Montgomery. Its job was to make sure every car in competition had its hubcaps off and its lug nuts tight. The volunteers got in free, and "in 1960, that was a good deal."<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^hamb08] A man from Ridgefield, Conn., wrote that he went to Dover once, in 1961 at age 10, and still has his ticket stub.[^hamb08] The first customer kept his ticket. So did a ten-year-old. A drag strip that closed in 1976 is still being kept alive by the people who raced there.
 
-*See also:* [Connecticut's clubs and Connecticut Dragway](connecticut-clubs-nutmeg-state-timing-association.md); [Island Dragway](island-dragway-great-meadows.md), site of the first reunion race; [Atco and Strato Rods](atco-strato-rods-south-jersey.md); [Pocono's strips](pocono-strips.md).
+*See also:* [Connecticut's clubs and Connecticut Dragway](connecticut-clubs-nutmeg-state-timing-association.md); [Island Dragway](island-dragway-great-meadows.md), site of the first reunion race; [Atco and Strato Rods](atco-strato-rods-south-jersey.md); [Pocono's strips](pocono-strips.md); [Westhampton](westhampton-drag-strip-long-island.md), the Long Island strip whose racers turned the track around.
 
 ## Open questions & disputed details
 
