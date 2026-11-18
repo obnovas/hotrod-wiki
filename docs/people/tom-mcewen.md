@@ -104,7 +104,7 @@ Moore's remembrance, the only source this round that gives the later family deta
 
 In 2001 he was voted No. 16 on NHRA's Top 50 Drivers list, and he was inducted into the Motorsports Hall of Fame of America and the International Drag Racing Hall of Fame. He helped put together the NHRA Legends Tour in 2018, and he had already appeared in Las Vegas and Houston. He died in June 2018, at 81. NHRA and Hemmings give June 10, the hall of fame gives June 11, and Moore writes that he died in his sleep sometime Sunday night or Monday morning, June 10–11.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Moore says he was survived by his son Tom and his daughter Katie.[^nhra18][^hemm18][^mshf][^moore18]
 
-His mother's Oldsmobile, sneaked out to Santa Ana, was the beginning. The Mongoose name came from beating Prudhomme at Lions on September 12, 1964. Kids raced Snake and Mongoose Hot Wheels on orange tracks from 1970 through 1972.
+His mother's Oldsmobile, sneaked out to Santa Ana, was the beginning. The name Mongoose came after Lions, on September 12, 1964, when he beat Prudhomme. Kids raced Snake and Mongoose Hot Wheels on orange tracks from 1970 through 1972.
 
 *See also:* [Don Prudhomme](don-prudhomme.md); [Keith Black](keith-black.md), whose engines powered the Greer-Black-Prudhomme car McEwen beat at Lions in 1964; [Orange County International Raceway](../drag-racing/orange-county-international-raceway.md); [Firebird International Raceway (Chandler)](../drag-racing/firebird-international-raceway-chandler.md).
 

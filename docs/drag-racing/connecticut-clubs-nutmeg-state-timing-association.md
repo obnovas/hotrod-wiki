@@ -73,7 +73,7 @@ canonical_for: []
 
     — the Ringbusters of Newington, in *The Newington Citizen*, March 5, 1959.[^nc590305b]
 
-Connecticut's hot rodders had no legal place to race, and they went to neighboring states. The clubs held polio dances, handed out Halloween cider and doughnuts, and asked the town to help them get a drag strip in Connecticut. Frank Maratta and the Nutmeg State Timing Association got one at East Haddam in 1961. Even then, the clubs were still explaining themselves. When the strip closed, the state had no drag strip at all.
+With no legal place to race, Connecticut's hot rodders went to neighboring states. The clubs held polio dances, handed out Halloween cider and doughnuts, and asked the town to help them get a drag strip in Connecticut. Frank Maratta and the Nutmeg State Timing Association got one at East Haddam in 1961. Even then, the clubs were still explaining themselves. When the strip closed, the state had no drag strip at all.
 
 The *East Hartford Gazette*, in May 1954, scolded "East Hartford's finest" for letting two Oldsmobiles drag up Main Street. The hot rod fever, the paper said, "has spread from owners of souped up Model Ts with twin pipes, superchargers and overdrives to owners of Holiday 88s." A green Holiday and a brand new robin's egg blue one had come off the toll gate jockeying for position, then raced north up Main Street to the Town Hall.[^ehg540506]
 
@@ -99,7 +99,7 @@ The clubs were still explaining themselves, even with a strip. In December 1963 
 
 The strip closed in 1979, reopened in 1980 as Connecticut International Raceway, and closed for good after the 1985 season,[^olr98][^ch14] though one 2013 report gives 1986.[^rdct13]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> Whether it closed in 1985 or 1986 is still open. In 1998 a state legislative analyst reported that Connecticut, which "had one of the first commercial drag racing facilities in the northeast," had no drag strip at all. Its racers had moved on to New England Dragway in New Hampshire, Lebanon Valley in New York and Englishtown in New Jersey.[^olr98]
 
-The clubs had asked the town to help them get a drag strip in Connecticut. They were forced to go to neighboring states. Maratta and the Nutmeg State Timing Association got one at East Haddam in 1961. The strip closed, and the state had no drag strip at all.
+The clubs had asked the town to help them get a drag strip in Connecticut, because they were forced to go to neighboring states. Maratta and the Nutmeg State Timing Association got one at East Haddam in 1961. The strip closed, and the state had no drag strip at all.
 
 *See also:* [Dover Drag Strip](dover-drag-strip-wingdale-new-york.md), over the line in Wingdale, N.Y., whose history page spells a Connecticut Dragway builder "Frank Marrata" (the spelling is open, see that page's q-5); New England's other small-state strips, [Milton Speedway, Vermont](milton-speedway-vermont.md) and [Charlestown Dragway, Rhode Island](charlestown-dragway-rhode-island.md). The region's clubs finally built a strip of their own in 1966: [New England Dragway at Epping, N.H.](new-england-dragway-epping.md)
 

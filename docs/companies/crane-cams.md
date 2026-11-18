@@ -64,7 +64,7 @@ canonical_for: []
 
     — Harvey Crane Jr., shortly before his 80th birthday, as quoted in SEMA's obituary (2013).[^semaob]
 
-Harvey Crane bought a camshaft from a California company, hoping it would make his hot rod go. He found it "wasn't accurately made." The *Orlando Sentinel* says he ground one to his own exacting specifications, and that grinding became his life's work.[^os] The work was Crane Cams, from a rented corner in Hallandale to a plant in Daytona. In the *Sentinel*'s story, the inaccurate cam came from the California trade of [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md), though the maker is unnamed. In 1966 the winner of each class at the Nationals got the price of the Crane cam and kit back.
+Harvey Crane bought a camshaft from a California company, hoping it would make his hot rod go. He found it "wasn't accurately made." So, the *Orlando Sentinel* says, he ground one to his own exacting specifications, and made that his life's work.[^os] That work became Crane Cams, from a rented corner in Hallandale to a plant in Daytona. In the *Sentinel*'s story, the inaccurate cam came from the California trade of [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md), though the maker is unnamed. In 1966 the winner of each class at the Nationals got the price of the Crane cam and kit back.
 
 The skill was one he had grown up with. He was a machinist's son whose father repaired and fabricated parts, and Harvey learned the equipment young. Whether he was born in Ojus or Hallandale is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> As a teenager in South Florida he raced his own 1939 Ford coupe in the illegal drag races held at airstrips and secluded streets, and he learned to build engines to be more competitive.[^os] SEMA says he discovered hot rods at 13, was known by his teens for fast, reliable flathead V-8s, and at 18 left home to tour the Midwest's rough dirt tracks, tuning a pair of flathead-powered "jalopy" racers.[^semaob] SEMA's later heritage piece says he ground his first camshaft in 1946, at 15, for a Henderson motorcycle engine in a midget racer.[^first]
 
@@ -91,7 +91,7 @@ In 1980 Crane Cams built a new Daytona Beach facility, and in 1985 it closed the
 
 At his Port Orange home he started a **cam school**, and more than 100 students from racing, automotive, industrial and marine work came; SEMA says many of the leading racing cam designers today are graduates.[^semaob] A Carolina cam-shop owner told the *Sentinel*: "He had an excellent reputation for integrity."[^os] Crane died May 31, 2013, at 81, was inducted into the SEMA Hall of Fame (1981, per SEMA News) and the East Coast Drag Racing Hall of Fame in Henderson, North Carolina (per SEMA's obituary), and the family asked that memorial gifts go to the Darrell Gwynn Foundation.[^semaob][^first][^lohman]
 
-A bought cam from California wasn't accurately made. He ground his own, and Crane Cams was that work. In 1966 the little guys who had supported him got the price of the cam and kit back.
+He found the cam from California wasn't accurately made, so he ground his own, and that was the company. In 1966 the little guys who had supported him got the price of the cam and kit back.
 
 *See also:* [The Web of Influence](web-of-influence.md).
 
