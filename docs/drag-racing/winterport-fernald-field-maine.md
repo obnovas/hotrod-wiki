@@ -89,8 +89,6 @@ canonical_for: []
 
     — Jim Watson of Gouldsboro, president of the Winterport Dragway Association, to the *Bangor Daily News*, 2017.[^bdn17]
 
-## Too far to Sanford
-
 The town of Winterport still owns the field. In 1967 four racers asked for its old abandoned airfield, to reduce the long tow south to Sanford, and Carl Crowley christened the new strip in his 1964 Pontiac GTO. In 2025 a lease fight ended the association's run.
 
 For a racer in eastern Maine in the early 1960s, a drag race meant a long tow south to the airport at Sanford, the strip the [New England Hot Rod Council](new-england-dragway-epping.md) ran from 1955. Carl Crowley of Lamoine began racing there in 1959.[^mvrca] So did Cappy Holt, Gary Jenkins and Gary Sargent. The four "wanted to reduce the travel," the *Bangor Daily News* wrote, so they went to the town of Winterport about its old abandoned airfield.[^bdn10] "They were a little tentative but they let us give it a try and here we are 43 years later," Crowley said in 2010.[^bdn10]
@@ -105,13 +103,9 @@ Winterport Dragway's first race card came in 1967. Holt, whom the paper called a
 
 By the Maine Motorsports Hall of Fame's count, Maine has had four drag strips: Sanford, Norridgewock, Winterport and Oxford.[^mvrca] At Oxford Plains, Larry Stegna raced a Hemi-powered '55 Chevy convertible gasser painted like an Indianapolis pace car.[^dslme] When the Maine Motorsports Hall of Fame took in Crowley in its class of 2023, it counted him among a handful of drivers who had raced and won at all four.[^mvrca]
 
-## The association years
-
 The racers ran it themselves. In 2010 the Winterport Dragway Association, which owned and operated the dragway, was racing an eighth-mile. Its president, Bob Reynolds, counted 200 to 300 spectators on a normal Sunday, and more than 800, with about 80 vintage dragsters, when the Gassah Guys Nostalgia Reunion came to town. Its promoter, Vaughan Stevens of Augusta, said the men who had quit racing 35 years before were building facsimiles of their 1960s and '70s cars. Crowley explained why. "Their houses are paid for, the kids are out of the house and their educations are paid for so the guys are saying to their wives that they want to go back drag racing."[^bdn10]
 
 In the 50th anniversary year, 2017, the strip was repaved, and more than $100,000 was raised or donated for new scoreboards and computers.[^bdn17] "It's probably even more social than it is racing," said Willy Larrabee of Stockton Springs. "If your car breaks and someone else isn't racing, they'll let you use their car."[^bdn17]
-
-## The town's lease
 
 The land was never the racers'. Fernald Field belongs to the town. The *Bangor Daily News* says the federal government had used it as an airport, and *Dragzine* says it was a military airbase named for Roy L. Fernald that the government gave to Winterport in the 1950s.[^bdn25a][^dz25]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> What Fernald Field was is still open. The association leased it year to year, and the town keeps those leases among its public documents.[^town]
 

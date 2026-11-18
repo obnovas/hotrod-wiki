@@ -89,19 +89,13 @@ Gene Cromer came to drag racing from motorcycles, about 1960, with a Lincoln 368
 
 The name came from home. Melvin Craft started hanging around Gene's Speed Shop in the evenings and on weekends in 1964, when the Willys was being built, and became Cromer's right-hand man between rounds from 1965 to 1967. "All those nights in the shop explains why Gene's wife named the car 'The Moonlighter,'" *Hot Rod* wrote in 2016.[^hr16]
 
-## A meet at Donaldson
-
 Its first race was an NHRA meet in Greenville in 1965, at Donaldson Air Force Base. The car was so fresh it had no lettering yet, and it won A/Gas.[^hr16][^dslsc] Cromer's friend Frank Taylor, who has the scrapbook, calls it "the only race there," and has the ad from *Drag Speed Illustrated* for May 15–16, 1965, a photo of Cromer leaning on his '58 Ranchero tow car, and one of the Willys outside his shop.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>[^dslsc] A photo posted on *RacersReunion* of a '65 Plymouth from Richmond, Virginia, is captioned "5-18-65 Donaldson AFB."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^rr10]
 
 Rex O'Steen went that summer Saturday to watch Ken Cothran's yellow '65 Chevelle Malibu SS 327 four-speed. "My father had a Chevrolet dealership in downtown Greenville and Ken was a 'wild' parts salesman there."[^dslsc]
 
-## The upstate's Saturday nights
-
 Cromer ran a lot at Starlite 25, the strip everyone called Ware Shoals. Taylor wrote that it started as dirt in the '50s and was a paved quarter mile by the mid-'60s; in 2013 he found an old Starlite 25 Dragstrip truck in the woods at the end of the strip. Tommy Hill's father didn't like running there "because the shutdown was downhill!"[^dslsc] Cromer's scrapbook has the other upstate gassers too: Ed Skelton of Anderson in his Mustang, and David "Dougal" McDowell of Belton in the "Little Lemon" Henry J.[^dslsc]
 
 In Georgia, Cromer match-raced the Willys gassers of Bunky Bobo, Fred Hurst, Lamar Walden and Bogan Renfroe. He built the headers for Renfroe's SOHC "Cat Skinner" Willys, and Renfroe called him his mentor. He ran A/Gas at the NHRA Nationals in 1965 and 1967. When the Willys went to nitro and kept wheelstanding, he took Skelton's advice and swapped the four-speed for a C-6 automatic, and the first time out it stood up again. At Calhoun, he told Smith, he "went through the lights backwards!"[^gdr] His '66 Mustang funny car roadster won the Atlanta $10,000 meet in 1967 over Huston Platt, and an AHRA national event in Competition Eliminator at Rockingham as a B/Fuel Altered. A Pro Stock Maverick followed, but with two daughters in school it cost too much, and after about 1972 he never got back to it.[^gdr]
-
-## Forty-five years in a shed
 
 Cromer kept the Willys. In 2012 he was grand marshal at the first Southeast Gassers race in Greer, and the next year he was back behind the wheel of the restored car, which had been stored in a shed in his backyard.[^cp21] Quain Stott, who first saw the Moonlighter around 1967 and went on to race Pro Mod, rebuilt the chassis to hide a modern cage; Craft and Cromer found the original parts and built the engine. The same Hilborn injection was still on it. By 2016 Cromer was touring eight to ten races a year with his wife Ruth, his daughters Julie and Robin and their families, and at 84 he had run a 6.10 in the eighth mile, back after 45 years.[^hr16]
 

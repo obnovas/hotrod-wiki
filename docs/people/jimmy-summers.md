@@ -57,13 +57,9 @@ His son Lee remembered how it began: Jimmy and his brother Bill worked as street
 
 James Merlin Traft Summers was born September 22, 1913, in Lewistown, Montana, and died October 24, 1968.[^k] Most of what we know comes from Sondre Kvipt's interviews with his children (Lee, Kris, Karen) and family albums, published in *The Rodder's Journal* #83 (2020) and on Kustomrama.[^k] Nearly everything below comes from that one family-sourced research project.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-## 7919 Melrose Avenue
-
 By the late 1930s, his shop was at 7919 Melrose Ave., across from Fairfax High School.[^k] Alex Xydias, a Fairfax student, recalled "just four plastered walls, a bare concrete floor, and a gas jet" lit on cold mornings,[^k] and in a later interview said he watched the shop guys for hours "until they'd kick me out."[^sm] Tom Sparks (who worked for Roy Hagy c.1942–43) told Pat Ganahl that Summers "was like a god to us."[^k]
 
 His customers knew what they wanted. Xydias described the customer mindset: they "did not want Summers to provide them with a hot Ford as much as they wanted him to provide them with a fake Cord."[^k]
-
-## What came out of the shop
 
 *Motor Life* (May 1955) credited Summers with the first channeling job.[^k]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Shop employee Bob "Barbells" Fairman built a chopped '36 Ford with full fadeaway fenders, the first Xydias had seen.[^k]
 

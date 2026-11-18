@@ -63,8 +63,6 @@ canonical_for: []
 
 In 1953 two Pomona policemen helped form the Palm Springs Timing Association, and 35 youths joined, with an NHRA crew promised for a first meet. A junior police exam had a true-or-false on a police dragnet. The answer was false. The town paper followed it from a 1951 safety run through 1959. No strip has turned up in the issues we read.
 
-## A safety run with a hot rod on the trophy (1951)
-
 Palm Springs was a winter resort of film stars and golf tournaments, and in the early 1950s it had teenagers with cars, and nowhere to run them. The first hot rod group in these pages was the **Palm Springs Stockers**. In May 1951 the club announced a "Reliability Safety Run," worked out at secretary Doug Doyle's home with city police, school officials, county probation officers and the state police. The 105-mile course left the Palm Springs airport, climbed through Idyllwild, came down to Banning and returned. The organizers expected 100 to 150 entrants and said the run was "expected to draw nationwide attention from stock car and hot rod fans." The fastest driver would not win. The winner would be the one "closest to the time which a state patrol car determines is the maximum safe driving speed."[^ds510511]
 
 Chuck Hoffmeier won it, an employee of Desert Forge, in a 1941 Packard convertible. His time was 2:53.43 (hours, minutes and seconds) against the judges' 2:53.45, "just two seconds off." His prize was a two-foot Stockers trophy "with a hot rod perched on top," plus a carburetor manifold donated, like the other prizes, by a Southern California auto concern. Frances Doyle was second in a 1951 Mercury.[^ds510525]
@@ -79,8 +77,6 @@ Chuck Hoffmeier won it, an employee of Desert Forge, in a 1941 Packard convertib
 Two years later the Stockers met with the Palm Springs police and two guests from Pomona: "Chief Ralph E. Parker and Sgt. E. Cooncs of the Pomona police department" (the scan's spelling, which becomes "Sgt. Coones" a paragraph later). Parker's department had stopped fighting its own hot rodders and helped the Choppers club to a legal strip, a story Parker told the FBI's bulletin in December 1951[^nhracoons] (see [Pomona's Choppers & the Fontana Strip](pomona-choppers-fontana.md)). In Palm Springs the two "described the organization in Pomona, and gave advice on forming a similar group here." Police Chief John S. Davis named Detective Ted Greene and Patrolman T. M. Aitken as liaison officers. The paper added a condition: "Actual construction of the strip will not start until the association is in operation."[^ds531012]
 
 Two weeks later Chief Davis posted sample questions for his new Junior Police Reserve exam. One was a true-or-false: "The Drag Strip Association is chiefly concerned with setting up a police dragnet."[^ds531026] The answer was false.
-
-## Thirty-five youths and an NHRA promise (November 1953)
 
 The association drew on the whole pass. Sixty youths came to a preliminary meeting, and the group was described as "composed of youths from the Village, Indio, Banning and Beaumont." Greene and Aitken told them it would not all be fun, in the words quoted at the top of this page.[^ds531102] The organizational meeting was moved to Saturday, November 14, to avoid another youth event,[^ds531105] and Chief Davis told a civic meeting that the youngsters' support and enthusiasm would soon bring the strip inside the city, "under competent supervision."[^ds531109]
 
