@@ -73,7 +73,9 @@ canonical_for: []
 
 The U.S. Virgin Islands had hill roads and no drag strip, and in 1960 *The St. Croix Avis* said the hot rod does not belong in these parts. The papers also kept a hot rod with the name "Lover Boy" written on it that hit a commissioner's car, a home-built racer flown to Puerto Rico for $50.00, and a neighbor's offer to watch the highway races from his porch.
 
-The hot rod reached the islands first as a picture. The movie houses ran Hollywood's teenage hot rod pictures: *Hot Rod Girl* in Frederiksted in December 1957 and at the Christiansted Theatre in 1959, *Drag Strip Girl* in 1958, *Hot Rod Rumble* in 1959 and *Hot Rod Gang* ("Crazy Kids living to a wild rock'n Roll Beat") in 1960.[^avisfilms] The *Avis* had printed a story on a national survey in 1954 assuring readers that most licensed teenagers were "definitely opposed to 'hot-rodding' on regular highways."[^avis54]
+The *Avis* had printed a story on a national survey in 1954 assuring readers that most licensed teenagers were "definitely opposed to 'hot-rodding' on regular highways."[^avis54]
+
+The hot rod reached the islands first as a picture. The movie houses ran Hollywood's teenage hot rod pictures: *Hot Rod Girl* in Frederiksted in December 1957 and at the Christiansted Theatre in 1959, *Drag Strip Girl* in 1958, *Hot Rod Rumble* in 1959 and *Hot Rod Gang* ("Crazy Kids living to a wild rock'n Roll Beat") in 1960.[^avisfilms]
 
 ## "Lover Boy" meets the commissioner
 

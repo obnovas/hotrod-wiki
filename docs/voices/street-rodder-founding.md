@@ -40,9 +40,11 @@ canonical_for: []
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** founders' recollections in Street Rodder's 40th-anniversary feature (2012; web Apr 8, 2014); SEMA News heritage piece (2012); 99W cover index · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** resolved in Round 10: see [*Street Rod* magazine (Portland)](../media/street-rod-magazine-portland.md) · [How we rate this](../reference/source-standards.md)
 
-*Street Rodder* first appeared in **May 1972** from Tom and Rose McMullen's TRM Publications, which until then published motorcycle titles (Street Chopper, Chopper Guide). Tex Smith announced that they needed to diversify into street rodding. They dropped Hot Bike to fund it. The name Street Rod was already taken in Portland. Tom McMullen had himself been a Hot Rod cover subject in April 1963, with his flamed Deuce (SEMA News).[^sema] See [Street Rodding](../street-rodding/index.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+*Street Rodder* first appeared in **May 1972** from Tom and Rose McMullen's TRM Publications, which until then published motorcycle titles (Street Chopper, Chopper Guide). Tex Smith announced that they needed to diversify into street rodding. They dropped Hot Bike to fund it. The name Street Rod was already taken in Portland. See [Street Rodding](../street-rodding/index.md).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 ## How it got started
+
+Tom McMullen had himself been a Hot Rod cover subject in April 1963, with his flamed Deuce (SEMA News).[^sema]
 
 Smith remembered pushing for the magazine.
 

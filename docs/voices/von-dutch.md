@@ -43,6 +43,16 @@ canonical_for: []
 
 Kenneth "Von Dutch" Howard (died 1992, aged 63, per the LA Times) is credited with reviving pinstriping in the 1950s. His own words are few: keep poor, and nothing is original. Most of what circulates about him is anecdote. Here we separate **his own words** from **friends' stories**. See [Trend Books, Kits & Roth](../media/trend-books-kits-roth.md) and his 1961 rocket car on that page.
 
+## A friend remembers (Bob Burns)
+
+The rest comes through friends. Bob Burns remembered him putting metal ahead of paint:
+
+> "I'm a mechanic first. … If I had my way I'd be a gunsmith! I like to make things out of metal, because metal is forever. When you paint something, how long does it last? A few years, and then it's gone!"
+>
+> — Von Dutch, **as Burns remembered** him saying. *Secondhand recollection.*[^bb]
+
+Burns adds that when Dutch quit striping in 1958, customers did not say what they wanted: "he just told him how much 'time' he wanted to purchase."[^bb] He says Dutch started striping cars "as a joke" at Al Titus' motorcycle shop in Lynwood ("Linwood" in his text).[^bb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+
 ## Poor on purpose (1965)
 
 The longest passage in his own words is about money, and about staying poor. Which magazine ran it in 1965 is still open.
@@ -54,16 +64,6 @@ The longest passage in his own words is about money, and about staying poor. Whi
 ## The sign
 
 He said much the same about ideas. Late in life, according to the LA Times, he lettered a sign urging viewers to "use any of my stuff you want to. Nothing is original. Everything is in the subconscious, we just 'tap' it sometimes and think we have originated something." The sign was shown at Cal State Northridge in 2002.[^lat]
-
-## A friend remembers (Bob Burns)
-
-The rest comes through friends. Bob Burns remembered him putting metal ahead of paint:
-
-> "I'm a mechanic first. … If I had my way I'd be a gunsmith! I like to make things out of metal, because metal is forever. When you paint something, how long does it last? A few years, and then it's gone!"
->
-> — Von Dutch, **as Burns remembered** him saying. *Secondhand recollection.*[^bb]
-
-Burns adds that when Dutch quit striping in 1958, customers did not say what they wanted: "he just told him how much 'time' he wanted to purchase."[^bb] He says Dutch started striping cars "as a joke" at Al Titus' motorcycle shop in Lynwood ("Linwood" in his text).[^bb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 His own words are few. Keep poor, and nothing is original. Everyone else's stories are the rest.
 

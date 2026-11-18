@@ -74,14 +74,6 @@ His driver earned Garlits's respect on holeshots.
 >
 > — **Ray Godman**, 2014.[^nh]
 
-## Preston Davis
-
-Davis gave Godman the credit.
-
-> "He's the history of drag racing in Memphis; there ain't no doubt about it. Raymond and I had our ups and downs over the years — it was mostly over money — but he'd get out of that wheelchair and get under that car with me to check the bearings."
->
-> — **Preston Davis**, 2014.[^nh]
-
 ## A fan's memory: Lakeland, 2008
 
 On Feb 25, 2008, a Memphis Rodders blogger (signed "LK") reacted to a *Commercial Appeal* feature on Lakeland's redevelopment:<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
@@ -90,7 +82,15 @@ On Feb 25, 2008, a Memphis Rodders blogger (signed "LK") reacted to a *Commercia
 >
 > — **"LK," Memphis Rodders site**, 2008.[^tl] He flags his own memory as uncertain.
 
-He had come from the fighting in Korea, run the Tennessee Bo-Weevil, and co-founded Lakeland. Davis said Godman is the history of drag racing in Memphis.
+## Preston Davis
+
+Davis gave Godman the credit.
+
+> "He's the history of drag racing in Memphis; there ain't no doubt about it. Raymond and I had our ups and downs over the years — it was mostly over money — but he'd get out of that wheelchair and get under that car with me to check the bearings."
+>
+> — **Preston Davis**, 2014.[^nh]
+
+Godman had come from the fighting in Korea, run the Tennessee Bo-Weevil, and co-founded Lakeland. Davis said Godman is the history of drag racing in Memphis.
 
 ## Open questions & disputed details
 

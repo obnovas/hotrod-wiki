@@ -1,6 +1,6 @@
 ---
 title: 'Show & Custom Voices: Oakland, the KKOA and the First Funny Cars'
-summary: "The voices are Mary Slonaker on an Oakland show that began almost by accident in 1949–50, Jerry Titus on the KKOA in Wichita, and Eddie Schartman in the back seat of a 1966 Funny Car."
+summary: "The voices are Mary Slonaker on an Oakland show that began almost by accident in 1949–50, Eddie Schartman in the back seat of a 1966 Funny Car, and Jerry Titus on the KKOA in Wichita."
 department: voices
 era: 1950s
 eras:
@@ -49,7 +49,7 @@ canonical_for: []
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** recollections quoted in Hot Rod's "Golden Oldie" (written for the show's 50th, about 1999; web-dated 2023), KKOA's own history, NHRA feature (2016) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** The Golden Oldie print date is unconfirmed · [How we rate this](../reference/source-standards.md)
 
-Three rooms in three decades: an Oakland show hall in 1949–50, the KKOA in Wichita, and a 1966 Funny Car with the driver in the back seat.
+Three rooms in three decades: an Oakland show hall in 1949–50, a 1966 Funny Car with the driver in the back seat, and the KKOA in Wichita.
 
 ## Mary Slonaker: Oakland, 1949–50
 
@@ -65,14 +65,6 @@ A decade later, the regulars were coming back year after year:
 >
 > — **Tom Prufer**, who first entered Oakland in 1959, same article.[^go]
 
-## Jerry Titus: KKOA, Wichita
-
-In Wichita, Jerry Titus said the members make the KKOA work.
-
-> "the members of the KKOA makes it work." … "It's like family at KKOA."
->
-> — **Jerry Titus**, KKOA president since 1980, on the club's history page (undated).[^kk] It is the club's own voice and promotional by nature. See [KKOA](../customs/kkoa-lead-sled-revival.md).
-
 ## Eddie Schartman: the first Funny Car (1966)
 
 And in Detroit, the Funny Car put the driver in the back seat.
@@ -87,7 +79,15 @@ His main rival was Dyno Don Nicholson:
 >
 > — **Schartman**, on his rivalry with "Dyno Don" Nicholson.[^ns]
 
-An Oakland show hall, a Wichita club, and a driver in the back seat.
+## Jerry Titus: KKOA, Wichita
+
+In Wichita, Jerry Titus said the members make the KKOA work.
+
+> "the members of the KKOA makes it work." … "It's like family at KKOA."
+>
+> — **Jerry Titus**, KKOA president since 1980, on the club's history page (undated).[^kk] It is the club's own voice and promotional by nature. See [KKOA](../customs/kkoa-lead-sled-revival.md).
+
+An Oakland show hall, a driver in the back seat, and a Wichita club.
 
 [^go]: Hot Rod, "Golden Oldie." https://www.hotrod.com/features/golden-oldie-982-1789-117-1 (accessed 2026-10-13)
 [^kk]: Kustom Kemps of America, "History." https://www.kustomkempsofamerica.com/history.htm (accessed 2026-10-13)

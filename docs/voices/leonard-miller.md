@@ -44,6 +44,8 @@ canonical_for: []
 
 Leonard Miller tells it in his own words, from a Paoli junkyard to the Black American Racers Association. He was born about 1934; WHYY says he was 5 in 1939. He grew up on Philadelphia's Main Line. He raced at Bucks County strips in the 1960s, including Vargo, and in 1973 co-founded the **Black American Racers Association** with Wendell Scott, Malcolm Durham and Ron Hines (Smithsonian NMAH). He tells his story in his 2004 autobiography *Silent Thunder*. This complements [Midwest & East Threads](../places/midwest-east.md). WHYY interviewed him in 2018 for the Mercer Museum's exhibit "Racing: A Need for Speed."[^why]
 
+NMAH notes that Black drivers were barred from competing against white drivers in the 1920s, which led to the Colored Speedway Association (1924).[^nmah]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+
 ## In his words
 
 The cars caught him before the war, at a Memorial Day parade:
@@ -67,8 +69,6 @@ He remembers Vargo in the 1960s this way:
 ## Reading it carefully
 
 Miller describes **Vargo** as free of racial hostility. Elsewhere in the same interview he is sharply critical of corporate sponsorship and of NASCAR's record on Black driver development.[^why] One good local experience does not tell us what Black racers faced nationally.
-
-NMAH notes that Black drivers were barred from competing against white drivers in the 1920s, which led to the Colored Speedway Association (1924).[^nmah]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 For Malcolm Durham, the BARA co-founder and an East Coast Chevy match racer, see [Malcolm Durham](../people/malcolm-durham.md).
 

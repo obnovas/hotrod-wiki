@@ -66,6 +66,14 @@ Peggy raced, too:
 >
 > — **Steve Gibbs**, NHRA vice president of competition, to the Press-Enterprise (Lyle Spencer), 2004.[^wd] *Secondhand*: Peggy died in 1980, and we have not found her own words.
 
+## Dale Armstrong, racer
+
+The racers remembered him too. Dale Armstrong had raced at Lions under Hart:
+
+> "He knew I would race anything to make few bucks. 'Pappy' - that's what everyone called him - always took good care of me. I was treated better at his track than any other."
+>
+> — **Dale Armstrong**, who raced at Lions under Hart from 1964 to 1979, to the Press-Enterprise, 2004.[^wd]
+
 ## Gerald Hart, 2015
 
 Eleven years after Pappy died, the family memories came from his son Gerald:
@@ -77,14 +85,6 @@ Eleven years after Pappy died, the family memories came from his son Gerald:
 > "He was 88 years old when I made him retire. He was falling asleep on the freeway."
 >
 > — **Gerald Hart**, Press-Enterprise, 2015.[^pe]
-
-## Dale Armstrong, racer
-
-The racers remembered him too. Dale Armstrong had raced at Lions under Hart:
-
-> "He knew I would race anything to make few bucks. 'Pappy' - that's what everyone called him - always took good care of me. I was treated better at his track than any other."
->
-> — **Dale Armstrong**, who raced at Lions under Hart from 1964 to 1979, to the Press-Enterprise, 2004.[^wd]
 
 Pappy and Peggy ran the Santa Ana drags from 1950 to 1959. The words here are his, and the words of the people who knew them.
 
