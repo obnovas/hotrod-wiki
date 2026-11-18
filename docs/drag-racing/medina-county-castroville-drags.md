@@ -74,13 +74,9 @@ canonical_for: []
 
 In the 1950s Medina County had what a drag racer most wanted: airfields. Hondo had an air base where cadets took primary pilot training, and Castroville had a municipal airfield.[^hah560706] A Devine club with 11 charter members asked for a strip in 1956. On a Sunday in February 1957 the Alamo Timing Association drew an estimated 2,500 people to charity drags at the Castroville field. By 1971 the town was turning down requests to race at the air field.
 
-## A strip for Devine (1956)
-
 The paper's first hot-rodder was not local. In July 1956 it profiled Aviation Cadet Jimmie D. Burkett of Boise, Idaho, who had arrived at Hondo Air Base for primary pilot training. In Idaho he had "served as vice-president of a hot rod club," belonged to the Boise Valley Timing Association, built a 1927 Model T street roadster and a coupe, and acted "as flag man at drag races for the Board of Control of the Timing Association" before a season in midget races.[^hah560706]
 
 In late August the Devine correspondent, Don Lawrence, reported that "the Devine Chamber of Commerce has been handed a proposal for a hot rod strip." The paper's headline set out the bargain: "Eliminate Public Dragging / Drag Strip Now Being Studied." The hope was that a strip would help young boys see that "one place is best" for dragging.[^hah560831] A week later the paper reported that Devine enthusiasts had organized a Hot Rod Club with 11 charter members. David Williams was president, Douglas Holden vice-president, Cotton Wilborn secretary-treasurer and Dale Fell reporter. The by-laws promised to promote safety, build interest in "auto and speed mechanics," set up competitive events and "help fellow motorists at any time." The only requirement for membership was a driver's license.[^hah560907]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> We have found no later item saying a strip was built at Devine.
-
-## Castroville (1957)
 
 That October, Hondo racers were invited to New Braunfels for the Jaycees' first drags at the Clear Springs Air Strip, south of town toward Seguin. The races ran under NHRA sanction on an asphalt strip a mile long, which the paper noted "exceeds the half mile" required, with electric timing clocks and trophies in all 27 automotive and motorcycle classes. Meets were to be held on the third Sunday of each month.[^hah561019]
 

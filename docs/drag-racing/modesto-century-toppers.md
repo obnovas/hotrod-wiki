@@ -53,15 +53,11 @@ canonical_for: []
 
 The Century Toppers were Modesto's first hot rod club, named for cars that could top 100 mph. They met in a converted chicken coop, at his "Windy's Custom Shop," and in 1949 the paper shows the club working with the California Highway Patrol.[^mv] Whether that was 1946 or late 1947 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
-## The coop, the jackets and the lakes
-
 It started in a chicken coop. Winfield began customizing in his mother's converted chicken coop on Figaro Street, and the club met at his "Windy's Custom Shop," per Modestoview and Kustomrama. Later he moved to 451 Tully Road, across from Modesto Junior College.[^int][^kr]
 
 The club was open. Orvel Reichert said you did not need a hot rod, custom or car to join. The white jackets had Kelly-green trim and a top-hat logo, and members sometimes wore "a cheap black top hat" while driving.[^kr]
 
 Some of them went racing. "Several members" ran dry-lakes events through the Valley Timing Association. Winfield says he built fast cars "and go to El Mirage and then Bonneville in '51."[^kr][^int]
-
-## In their own words: racing and cruising
 
 Closer to home, the racing was on county roads:
 
@@ -74,8 +70,6 @@ And the cruising was on 10th Street:
 > "At first it was only 10th back and forth, and then later they opened it up and made 10th one way and 11th back and it was a loop."
 >
 > — **Gene Winfield**, on cruising 10th Street, same interview. This is the loop described on our [Modesto cruising page](../places/modesto.md).[^int]
-
-## The paper trail (via Kustomrama)
 
 In 1949 the club turned up in the papers, and the stories show it on the side of the law. Kustomrama summarizes the items; we have not seen the original pages.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
