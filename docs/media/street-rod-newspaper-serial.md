@@ -53,13 +53,13 @@ canonical_for: []
 
 In the spring of 1954 a kid in Hope, Arkansas, could follow a hot rodder's fight with city hall in the local paper, one installment a day. The same story ran that May in Escanaba, Michigan, and that July in Harrisburg, Illinois. The novel was *Street Rod*. The towns were having that same argument.
 
-Each installment carried the same small print: "Copyright 1953 by Henry Gregor Felsen. Printed by arrangement with the publishers, Random House, Inc. Distributed by NEA Service."[^esc0511][^harr0701] Its hero, 16-year-old Ricky Madison of "Dellville," Iowa, buys a car without permission, builds it up, and tries to talk his town into a supervised drag strip.[^kirkus][^ol]
-
 ## The writer from the Iowa Writers' Project
 
 Felsen was born in Brooklyn in 1916. The University of Iowa's archive says he spent two years at the university and left because he could not afford the tuition. He came back to Iowa City to write for the Iowa Writers' Project guidebook, served with the Marines in the Pacific writing for *Leatherneck*, and returned to Iowa in 1946 to stay for most of his life. His car novels, *Hot Rod*, *Street Rod* and *Crash Club*, sold about eight million copies. *Hot Rod* stayed on a children's bestseller list for nearly thirty years, the finding aid says.[^uiowa]
 
 Random House published *Street Rod* in 1953, 277 pages.[^ol] *Kirkus* priced it at $2.50 and did not go easy: "Hot rodding and the competitive spirit born of boredom and the wish to be a big shot, get a scathing denunciation," the review began, in a novel that "probes further than Felsen's former Hot Rod."[^kirkus]
+
+Each installment carried the same small print: "Copyright 1953 by Henry Gregor Felsen. Printed by arrangement with the publishers, Random House, Inc. Distributed by NEA Service."[^esc0511][^harr0701] Its hero, 16-year-old Ricky Madison of "Dellville," Iowa, buys a car without permission, builds it up, and tries to talk his town into a supervised drag strip.[^kirkus][^ol]
 
 ## The drag-strip episodes
 

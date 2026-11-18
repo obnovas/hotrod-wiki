@@ -48,6 +48,16 @@ revival: "monthly cruises from June 2009 (Van Nuys Cruising Association)."
 
 Cruising Van Nuys Boulevard went back to a "regular Saturday-night parade down the boulevard" in 1912. The LA Times Magazine said so in 1986. By the mid-1950s cruisers came "from as far away as Santa Barbara and San Diego," with crowds of up to 20,000, including onlookers in lawn chairs, and the RTD rerouted buses on cruise nights.[^lat86] The police closed the boulevard.
 
+> "You had everything from your Mustangs to lowriders and hot rods. ... Essentially you were out there to see your friends, show off your car and just sort of be there. It was the place for young people to be."
+>
+> — **Rick McCloskey**, photographer, recalling summer 1972, CNN (2017).[^cnn]
+
+## Policing and the end
+
+The crowds brought the rules. Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980. The LA Times (1986) says major crime on cruise nights was up "five to 10 times" by 1978.[^lat86]
+
+Sjoquist told Hot Rod that earlier captains had tried no-parking signs and ticket sweeps. When "confronted with Wednesday-night crowds of 10,000 to 15,000," the LAPD got permission to close the street at its discretion.[^hr81]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> When the street closed is still open.
+
 ## The turnarounds
 
 The turnarounds were the Hughes supermarket lot, June Ellen's Donuts and Bob's Big Boy (McCloskey).[^cnn] When the police closed the street, Hot Rod wrote in July 1981, "the action picks up at the local McDonald's parking lot." The cars of that era included supercars, VW Beetles and mini-trucks.[^hr81]
@@ -56,10 +66,6 @@ The turnarounds were the Hughes supermarket lot, June Ellen's Donuts and Bob's B
 
 The people who were there, on both sides of the law, mostly remember the fun:
 
-> "You had everything from your Mustangs to lowriders and hot rods. ... Essentially you were out there to see your friends, show off your car and just sort of be there. It was the place for young people to be."
->
-> — **Rick McCloskey**, photographer, recalling summer 1972, CNN (2017).[^cnn]
-
 > "I think that 90 percent of the people out on the Boulevard are out there to have a good time. … They like to cruise and show off their cars, and they like to meet people."
 >
 > — **LAPD Capt. Arthur Sjoquist**, the officer who closed the boulevard, Hot Rod (July 1981). This is a contemporary account, not a memory.[^hr81]
@@ -67,12 +73,6 @@ The people who were there, on both sides of the law, mostly remember the fun:
 > "Remember when we were young and the cops were old? … Now the cops are young and we're old."
 >
 > — **Reid Stolz**, 51, Van Nuys Cruising Association, LA Times (Jan 13, 2010).[^lat10]
-
-## Policing and the end
-
-The crowds brought the rules. Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980. The LA Times (1986) says major crime on cruise nights was up "five to 10 times" by 1978.[^lat86]
-
-Sjoquist told Hot Rod that earlier captains had tried no-parking signs and ticket sweeps. When "confronted with Wednesday-night crowds of 10,000 to 15,000," the LAPD got permission to close the street at its discretion.[^hr81]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> When the street closed is still open.
 
 ## The Re-Cruise and the comeback
 
