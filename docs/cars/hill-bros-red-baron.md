@@ -55,17 +55,19 @@ principal_source: "JR Thompson's Gasser Legends page, which includes Ken Kull's 
 <figcaption markdown>A 1941 Willys Americar gasser-style coupe at a 2017 show. **It is not the Red Baron.** It shows the Willys gasser type only. Photo: Sicnag (Flickr), 2017-01-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1941_Willys_Americar_441_Gasser_Coupe_(32189280151).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).</figcaption>
 </figure>
 
-## "WE'RE SORRY"
-
-Pete Hill's mock apology letter to Drag News (dated Oct 7, 1967) needled the West Coast AA/GS teams: the Kohler Bros., Stone-Woods-Cook, Shores & Hess and Mazmanian. It promised to come west on Nov 1. The Willys behind the letter had been finished in eleven days. Pete later wrote: "I wrote the enclosed letter... just to piss everyone off... I ran two runs....162- and 163.63. That record stood for two years."[^jrt]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Hot Rod/Mopar Muscle connects the 163.63 to an Orange County record in 1968.[^mm] We have not seen a period timing slip. Whether that record stood for two years is still open.
-
 ## How it got to Cleveland (per Dave Hales)
 
-The car behind the letter had come a long way. It was partly built by **Fred Bear** (S&S Racing Team) in his Virginia garage in 1966–67. He left to go NASCAR racing. Bear and Hales delivered it to **Joe and Tom Hrudka** ([Mr. Gasket](../companies/mr-gasket.md)) in Ohio in spring 1967.
+It was partly built by **Fred Bear** (S&S Racing Team) in his Virginia garage in 1966–67. He left to go NASCAR racing. Bear and Hales delivered it to **Joe and Tom Hrudka** ([Mr. Gasket](../companies/mr-gasket.md)) in Ohio in spring 1967.
 
 The Hrudkas "immediately sold it to the Hill Bros." According to Kull, the deal was that the Hills would run the Mr. Gasket logo. Hales next saw it at the King of Kings AA/GS meet at Capitol Raceway, Maryland, "about two weeks" later, "completely finished and beautiful."[^jrt]
 
-The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills built it in eleven days. Finders said he worked around the clock while "Pete and Bill just kept bringing him fried chicken." It had a blown, injected 426 Hemi. Pete drove and tuned; Bill ran the business and promotion. They had earlier raced a '40 Willys bought from Big John Mazmanian.[^jrt]
+They had earlier raced a '40 Willys bought from Big John Mazmanian.[^jrt] The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills built it in eleven days. Finders said he worked around the clock while "Pete and Bill just kept bringing him fried chicken." It had a blown, injected 426 Hemi. Pete drove and tuned; Bill ran the business and promotion.[^jrt]
+
+The car behind the letter had come a long way.
+
+## "WE'RE SORRY"
+
+Pete Hill's mock apology letter to Drag News (dated Oct 7, 1967) needled the West Coast AA/GS teams: the Kohler Bros., Stone-Woods-Cook, Shores & Hess and Mazmanian. It promised to come west on Nov 1. The Willys behind the letter had been finished in eleven days. Pete later wrote: "I wrote the enclosed letter... just to piss everyone off... I ran two runs....162- and 163.63. That record stood for two years."[^jrt]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Hot Rod/Mopar Muscle connects the 163.63 to an Orange County record in 1968.[^mm] We have not seen a period timing slip. Whether that record stood for two years is still open.
 
 ## After
 
@@ -80,7 +82,6 @@ The letter needled the West Coast AA/GS teams. The car behind it was finished in
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did the record really stand two years?** The Oct 7, 1967 mock apology to *Drag News* and Pete's later "That record stood for two years" both come to us only through JR Thompson's Hill Bros. page.[^jrt] We have not seen the letter in *Drag News* itself or a record list that shows how long the 162–163.63 mph mark stood. Lead: *Drag News*, Oct–Nov 1967. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
-
 
 **Not yet read:** the East Coast Drag Racing HOF's Midwest gasser roundup, not yet read in full.[^ec]
 

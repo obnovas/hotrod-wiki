@@ -54,6 +54,8 @@ In February 1957 a sheriff, a police chief, and a safety man gave three answers 
 
 The Kingston paper that carried it was the same one that had been following the town's own hot rod club for more than a year (see [The Kingston Igniters](kingston-igniters.md)). Nothing in the story is about Kingston. It is how the people who run New York's towns talked about the cars in the winter of 1957.
 
+Glen Cove had been a name in this story before. In 1955 a city-planners' survey described a Long Island association of 19 clubs whose races were supervised by a Glen Cove traffic patrolman, with a city street blocked off for them until the association got a strip (see [What the City Planners Wrote](planners-report-1955.md)).
+
 ## Three speakers, three answers
 
 Sheriff Harold Calkins of Schenectady County said a brake should be put on the hot rodders "before they 'get out of hand.'" He allowed that some good comes from hot rod clubs. Even so, he recommended a state law requiring special licenses for drag strip driving. He also suggested special permits for hot rod owners and a ban on driving hot rod cars on public highways. He thought the energy would be better burned up in "Boys Clubs, Boy Scouts or similar organizations."[^kf570214]
@@ -66,7 +68,7 @@ The wire writer added a line for readers who did not know one: a drag strip is "
 
 ## Why Glen Cove matters
 
-Glen Cove had been a name in this story before. In 1955 a city-planners' survey described a Long Island association of 19 clubs whose races were supervised by a Glen Cove traffic patrolman, with a city street blocked off for them until the association got a strip (see [What the City Planners Wrote](planners-report-1955.md)). In June 1957 the recreation directors' magazine listed Glen Cove among the towns where local groups had sponsored clubs and strips (see [Would You Rather Have a Picnic?](recreation-1957-pro-and-con.md)).
+In June 1957 the recreation directors' magazine listed Glen Cove among the towns where local groups had sponsored clubs and strips (see [Would You Rather Have a Picnic?](recreation-1957-pro-and-con.md)).
 
 So when the town's police chief told a statewide audience that regulating hot rodders would be "just picking on the kids," he was speaking from a town that had spent years working with them. What came of the panel, the wire story does not say.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 

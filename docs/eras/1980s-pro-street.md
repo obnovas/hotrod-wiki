@@ -41,11 +41,13 @@ canonical_for: []
 
 "I don't ever recall a Pro Stocker having a supercharger on it."[^hr] That is Scott Sullivan, pushing back on the common description of Pro Street as an NHRA Pro Stocker for the street. He was working from a small shop in Dayton. Steve Reyes put the name on it in 1979, and in 1988 Sullivan drove his '55 Chevy cross-country.
 
+Sullivan admits the real start is "much harder to pin down": in 1974 he tucked 15x9 Cragars and 11.5-wide tires under a '71 Demon by tubbing it.[^hr]
+
 Sullivan, a self-taught builder working from a small shop in Dayton, Ohio since 1977, is cited as one of the style's originators.[^hr] What he was after was "something that looks like a race car, is plenty fast, but is fun to drive," putting "all the things I saw as a kid at the dragstrip on a street car."[^hr]
 
 ## Who named it
 
-The name came before anyone agreed on the origin. Sullivan dates the label to 1979, when photographer-writer Steve Reyes wrote an article featuring Sullivan's '66 Nova, a '66 Chevelle called "Goldenrod," and others, and called the trend "Pro Street." Sullivan admits the real start is "much harder to pin down": in 1974 he tucked 15x9 Cragars and 11.5-wide tires under a '71 Demon by tubbing it.[^hr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+The name came before anyone agreed on the origin. Sullivan dates the label to 1979, when photographer-writer Steve Reyes wrote an article featuring Sullivan's '66 Nova, a '66 Chevelle called "Goldenrod," and others, and called the trend "Pro Street."[^hr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 The cars were meant to be driven, and he proved it: in 1988 he drove his '55 Chevy "Cheez Whiz" cross-country with photographer Jeff Smith.[^hr]
 
