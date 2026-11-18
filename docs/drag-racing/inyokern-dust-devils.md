@@ -62,23 +62,17 @@ canonical_for: []
 
 A sheriff started it, and a federal agency ended it. For about 51 years a volunteer car club kept a quarter-mile on a taxiway at the Inyokern airport in Kern County. The LA Times says it began when Sheriff "Mac" McKernan, facing young people racing hot rods on rural roads "during the first Eisenhower administration," helped them form a nonprofit and "arranged for them to drag race legally and safely on a taxiway" of the Inyokern Airport.[^lat] Ganahl's blog gives the opening as Oct. 24, 1954.[^pg]
 
-## How a club ran a strip
-
 The LA Times feature shows how a club kept a strip alive for half a century.[^lat] The racers paid the airport about $1,000 per racing day, the airport manager's figure, and gave other funds, such as entry fees, to local charities including the Boy Scouts. To meet insurance requirements, volunteers erected two guardrails "begged from other tracks" nearly 20 years earlier.
 
 The club also worked the town. Members spoke to Ridgecrest shop classes and invited students to "high school days" on the taxiway. The club's public address system was loaned to local clubs and parades. They bought modern timing equipment with volunteer fundraising, sold sponsorships on hubcaps, and rented the timing gear to other tracks.[^lat]
 
 What they kept was old-fashioned. Pat Ganahl, who visited in 2003, wrote: "But if you want a '50s drag race experience today, go to Inyokern. It's a time warp." He described a bare track with one small bleacher, no timing stand, two outhouses and an old Cadillac ambulance.[^pg]
 
-## The shutdown
-
 Then came the inspection. The LA Times says the FAA threatened the county-owned airport's certification and federal funding if "non-aviation activity such as drag racing continues," after a routine inspection of the airport, a move that "puzzled and saddened locals." Club president Garrett: "We're just regular working folks in an isolated place."[^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> The date of the last race is still open.
 
 > "So many things don't work in our society. … Yet here's something positive that does, and some guy wants to crush it. I don't understand."
 >
 > — **Steve Parsons**, local champion, LA Times (2005).[^lat]
-
-## The man at the microphone
 
 The strip also launched a career. Bernie Partridge joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
