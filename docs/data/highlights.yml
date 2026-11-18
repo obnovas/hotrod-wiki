@@ -1911,3 +1911,59 @@ highlights:
     added: '2026-11-17'
     eras: [1980s]
     regions: ['Reno, Nev.']
+
+  - id: back-to-50s-grandview-surprise
+    headline: The first Back to the 50's ended with street rods waiting outside a showing of American Graffiti
+    teaser: On June 21, 1974, the Minnesota Street Rod Association split into four groups and converged on St.
+      Paul's Grandview Theater, timed for when the film let out at 9:27 p.m., and handed out handbills.
+    link: street-rodding/back-to-the-50s-msra-st-paul-1974.md#friday-night-june-21-1974
+    evidence: [the totally unsuspecting theater patrons, timed for when the film let out at 9:27 p.]
+    source_type: [Club newsletter]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-18'
+    eras: [1970s]
+    regions: ['St. Paul, Minn.']
+
+  - id: petaluma-cop-car-430-am
+    headline: Petaluma re-created American Graffiti's cop-car scene at 4:30 in the morning, the hour Lucas shot it
+    teaser: In 2008 the town's own car show finally moved fully downtown. "The police department said we should
+      try baby steps," a board member said, and the lot front was rebuilt for the re-creation.
+    link: media/american-graffiti-petaluma-1972.md#the-police-said-take-baby-steps
+    evidence: [the police department said we should try baby steps, at 4:30 in the morning on May 15, 2008]
+    source_type: [Local news]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-18'
+    eras: [1970s, 2000s]
+    regions: ['Petaluma, Calif.']
+
+  - id: broadway-speedway-sissy
+    headline: At Knoxville's Broadway Speedway, asking for a roll bar got you called a sissy
+    teaser: Eddie Harvey drove midgets there with a leather cap and goggles. "If you mentioned putting a
+      roll bar on your car, you were considered a sissy," he told a Knoxville columnist.
+    link: drag-racing/broadway-speedway-knoxville-eddie-harvey.md#a-leather-cap-and-goggles
+    evidence: [If you mentioned putting a roll bar on your car, you were considered a sissy]
+    source_type: [Local news, Oral history]
+    confidence: Low-Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-18'
+    eras: [1940s, 1950s]
+    regions: ['Knoxville, Tenn.']
+
+  - id: pro-touring-light-pole
+    headline: A Pro-Touring pioneer fixed his dead 1969 Camaro under a hotel parking-lot light
+    teaser: GM engineer Mark Stielow had the car flat-bedded to an Embassy Suites in Scottsdale and worked on it
+      at night "right under one of the light poles," then drove it in the 1993 One Lap of America.
+    link: eras/1990s-pro-touring-garage-engineers.md#a-hotel-parking-lot-in-scottsdale
+    evidence: [drop it in a spot right under one of the light poles]
+    source_type: [Trade press, Oral history]
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: '2026-11-18'
+    eras: [1990s]
+    regions: ['Scottsdale, Ariz.']

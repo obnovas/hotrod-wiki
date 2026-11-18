@@ -244,6 +244,23 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 43 additions
+- Local newspapers and columns: the *Petaluma Argus-Courier* (2007/2019, 2008, 2022, 2023) → [Petaluma & *American Graffiti*](../media/american-graffiti-petaluma-1972.md); Jack Neely's *Metro Pulse* "Secret History" column (2003) → [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md); John Sweeney's *Cruisin' News* column (2017) → [Joe Bailon](../people/joe-bailon-candy-apple.md).
+- Club newsletters and histories: Jerry Johnson's July 1974 *LineChaser* report and the MSRA's own history → [Back to the 50's](../street-rodding/back-to-the-50s-msra-st-paul-1974.md); Kustomrama's scans of 1950s Bay Area and Fresno newspaper clippings → Joe Bailon.
+- Local libraries and family: the Petaluma History Room (Sonoma County Library) and Petaluma Historical Library & Museum → Petaluma; the Eddie's Auto Parts family history page and Eddie Harvey's funeral-home obituary → Broadway Speedway.
+- Builders in their own words: Mark Stielow's and Kyle Tucker's interviews in *Hemmings*, *Hot Rod*, PRI and RacingJunk → [Pro-Touring](../eras/1990s-pro-touring-garage-engineers.md).
+
+### Round 43 status
+| Archive | Round 43 status |
+|---|---|
+| *Star Tribune* (Back to the 50's coverage, 2024) | HTTP 504 and blocked; not used. |
+| Charlotte, N.C., Historic Landmarks Commission PDFs | HTTP 500; Charlotte story held for a later round. |
+| *Charlotte Observer* | Timed out; not used. |
+| Cedar Falls Raceway site | Empty again; Cedar Falls held. |
+| H.A.M.B. Satan's Angels thread | Did not load cleanly; not used. |
+| David McGee's East Tennessee racing book (2014) | Only a copy on an untrusted file host turned up; cited by title, without a link. |
+| Google Patents | No Round 43 patents. |
+
 ### Round 42 additions
 - Local newspapers and columns: *The Southampton Press* (2017) and Westhampton Patch (2012) → [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md); the *Great Bend Tribune* (2022), *Salina Journal* (2022), KSAL, Salina311 and the *Salina Post* (2026) → [Salina](../drag-racing/salina-raceway-old-runway-kansas.md); Harry Spencer's *Sparks Tribune* column printing Jim Webster's own account (2018) and the *Reno News & Review* (2000) → [Hot August Nights](../media/hot-august-nights-reno-1986.md); the *Eastern New Mexico News* editor's columns (2014–15) → [Clovis](../places/draggin-main-clovis-new-mexico.md); the *Rutland Herald*'s report on a Rutland Historical Society roundtable (2007) → [Pico Raceway](../drag-racing/pico-raceway-rutland-airport.md).
 - Family and hometown memory: the Cathell family's track history and Charlie Cathell's WMDT interview → [U.S. 13 Dragway](../drag-racing/us-13-dragway-delmar-cathell.md); Milburn Moore's *Mil's Place* blog and its readers → Clovis; Ken Bausert's blog and its commenters → Westhampton; Bill Ladabouche's memoir of Al Romano → Pico.

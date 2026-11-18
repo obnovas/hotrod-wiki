@@ -7,7 +7,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 |---|---|---|
 | `cars/beast-iii.md` | done | batch 11 |
 | `cars/hill-bros-red-baron.md` | done | batch 11 |
-| `cars/techniques-and-styles.md` | todo | |
+| `cars/techniques-and-styles.md` | done | batch 13 |
 | `companies/comp-cams-rhs.md` | done | batch 3 |
 | `companies/crane-cams.md` | done | batch 4 |
 | `companies/edelbrock-slingshot.md` | done | batch 5 |
@@ -22,7 +22,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `companies/moon-equipment.md` | done | batch 7 |
 | `companies/moroso.md` | done | batch 6 |
 | `companies/mr-gasket.md` | done | batch 2 |
-| `companies/prewar-speed-shops.md` | todo | |
+| `companies/prewar-speed-shops.md` | done | batch 13 |
 | `companies/southern-california-plating.md` | done | batch 6 |
 | `companies/summit-racing.md` | done | batch 5 |
 | `companies/web-of-influence.md` | done | batch 14 |
@@ -81,7 +81,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/half-day-ataa-maremont.md` | done | batch 2 hedged the summary's 1952 and moved qr-6 onto the ATAA chapters |
 | `drag-racing/hanover-adams-county-clubs.md` | done | batch 6 |
 | `drag-racing/harmon-raceway-monroe.md` | done | batch 14 |
-| `drag-racing/high-school-hot-rod-clubs.md` | todo | |
+| `drag-racing/high-school-hot-rod-clubs.md` | done | batch 13 |
 | `drag-racing/hope-airport-drag-strip.md` | done | batch 8 |
 | `drag-racing/houston-freeway-dragstrip.md` | done | batch 1 |
 | `drag-racing/indiana-small-town-clubs.md` | done | batch 1 |
@@ -150,7 +150,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/tucson-davis-monthan-speed-sport.md` | done | batch 2 |
 | `drag-racing/us-13-dragway-delmar-cathell.md` | done | batch 5 |
 | `drag-racing/utah-airport-no-2-salt-lake-strips.md` | done | batch 9 |
-| `drag-racing/virgin-islands-no-hot-rods.md` | todo | |
+| `drag-racing/virgin-islands-no-hot-rods.md` | done | batch 12 |
 | `drag-racing/washington-suburbs-drag-strip-debate.md` | done | batch 9 |
 | `drag-racing/western-washington-airport-strips.md` | done | batch 4 |
 | `drag-racing/westhampton-drag-strip-long-island.md` | done | batch 7 |
@@ -165,14 +165,14 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `eras/1970s-street-rod-nationals.md` | done | batch 4 |
 | `eras/1980s-pro-street.md` | done | batch 11 |
 | `media/hot-august-nights-reno-1986.md` | done | batch 14 |
-| `media/show-circuit.md` | todo | |
+| `media/show-circuit.md` | done | batch 13 |
 | `media/street-rod-magazine-portland.md` | done | batch 10 |
 | `media/street-rod-newspaper-serial.md` | done | batch 10 |
-| `media/trend-books-kits-roth.md` | todo | |
+| `media/trend-books-kits-roth.md` | done | batch 12 |
 | `people/al-bergler.md` | done | batch 6 |
 | `people/alex-xydias.md` | done | batch 10 |
 | `people/arlen-vanke.md` | done | batch 2 |
-| `people/arnie-ginsburg.md` | todo | |
+| `people/arnie-ginsburg.md` | done | batch 12 |
 | `people/barney-navarro.md` | done | batch 5 |
 | `people/bob-bartel.md` | done | batch 1 |
 | `people/chet-herbert.md` | done | batch 10 |
@@ -219,12 +219,12 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `places/midwest-east.md` | done | batch 14 |
 | `places/modesto.md` | done | batch 11 |
 | `places/ohio-gassers.md` | done | batch 2 moved qr-3 onto the 1968 Camaro and qr-9 onto Pete and Bill |
-| `places/pacific-northwest.md` | todo | |
+| `places/pacific-northwest.md` | done | batch 13 |
 | `places/regional-scenes.md` | done | batch 14 |
 | `places/rons-drive-in-sprague-avenue-spokane-valley.md` | done | batch 10 |
 | `places/route-1-saugus-adventure-car-hop.md` | done | batch 14 |
 | `places/summer-avenue-memphis.md` | done | batch 14 |
-| `places/texas.md` | todo | |
+| `places/texas.md` | done | batch 13 |
 | `places/twin-falls-main-avenue.md` | done | batch 3 |
 | `places/upper-midwest.md` | done | batch 14 |
 | `places/van-nuys.md` | done | batch 10 |
@@ -235,16 +235,16 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `street-rodding/fiberglass-suppliers.md` | done | batch 10 |
 | `street-rodding/nsra-early-nationals.md` | done | batch 3 |
 | `voices/blackie-gold.md` | done | batch 14 |
-| `voices/dallas-folksay-custom-automotive.md` | todo | |
+| `voices/dallas-folksay-custom-automotive.md` | done | batch 12 |
 | `voices/esparza-brothers.md` | done | batch 14 |
-| `voices/harts-santa-ana.md` | todo | |
-| `voices/injection-and-tin.md` | todo | |
+| `voices/harts-santa-ana.md` | done | batch 12 |
+| `voices/injection-and-tin.md` | done | batch 12 |
 | `voices/kong-jackson.md` | done | batch 14 |
-| `voices/leonard-miller.md` | todo | |
+| `voices/leonard-miller.md` | done | batch 12 |
 | `voices/peoria-1970.md` | done | batch 14 |
-| `voices/ray-godman.md` | todo | |
-| `voices/ruelas-dukes.md` | todo | |
-| `voices/show-custom-voices.md` | todo | |
-| `voices/street-rodder-founding.md` | todo | |
+| `voices/ray-godman.md` | done | batch 12 |
+| `voices/ruelas-dukes.md` | done | batch 12 |
+| `voices/show-custom-voices.md` | done | batch 12 |
+| `voices/street-rodder-founding.md` | done | batch 12 |
 | `voices/strip-owners-and-door-slammers.md` | done | batch 14 |
-| `voices/von-dutch.md` | todo | |
+| `voices/von-dutch.md` | done | batch 12 |

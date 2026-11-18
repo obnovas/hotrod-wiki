@@ -52,7 +52,9 @@ canonical_for: []
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** magazine feature with extended interviews (LA Times West, Lynell George, July 16, 2006) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** Club founding year not taken from this source; Coachbuilt profile not reachable this round · [How we rate this](../reference/source-standards.md)
 
-In the mid-1950s Josefina Ruelas brought her sons Julio, Oscar, Fernando and Ernie from Tijuana to 41st Street and Long Beach Avenue in South Los Angeles. In 2006 Lynell George found them still working on "primer-gray" cars in their yard on Saturday mornings, as they had "for the last 40 years and more." They had built cars for *Zoot Suit*. Julio's '54 Chevy was on the cover of Tierra's 1980 album *City Nights*.[^lat] This is the custom tradition that grew alongside the [hot rod](../customs/index.md) story but is seldom told with it.
+In the mid-1950s Josefina Ruelas brought her sons Julio, Oscar, Fernando and Ernie from Tijuana to 41st Street and Long Beach Avenue in South Los Angeles. They had built cars for *Zoot Suit*. Julio's '54 Chevy was on the cover of Tierra's 1980 album *City Nights*.[^lat] 
+
+In 2006 Lynell George found them still working on "primer-gray" cars in their yard on Saturday mornings, as they had "for the last 40 years and more."[^lat] This is the custom tradition that grew alongside the [hot rod](../customs/index.md) story but is seldom told with it.
 
 ## In their words
 

@@ -318,6 +318,8 @@ paths:
         why: "Start small: the loop, in the kids' own words."
       - page: places/draggin-main-clovis-new-mexico.md
         why: "One small town up close: eight blocks in Clovis, a $55 fender-bender, and nobody agrees when it stopped."
+      - page: media/american-graffiti-petaluma-1972.md
+        why: "The movie version: Lucas shoots Modesto's cruise in Petaluma, and the town's car people turn it into their own show."
       - page: media/hot-august-nights-reno-1986.md
         why: "Reno, 1986: a realtors' charity dance borrows a softball tournament's lesson and grows into Hot August Nights (⚠ who named it)."
       - page: places/brookside-restless-ribbon-tulsa.md
@@ -370,10 +372,14 @@ paths:
         why: "The people who drove there."
       - page: street-rodding/nsra-early-nationals.md
         why: "From a hayfield to an association."
+      - page: street-rodding/back-to-the-50s-msra-st-paul-1974.md
+        why: "St. Paul, 1974: a club rehearses for hosting the Nats with a Friday-night cruise, and meets a crowd leaving American Graffiti."
       - page: people/dick-wells.md
         why: "The first-president question (canonical nsra-first-president)."
       - page: eras/1980s-pro-street.md
         why: "Where the 1980s took it."
+      - page: eras/1990s-pro-touring-garage-engineers.md
+        why: "The 1990s: GM engineers build handling Camaros at night, and a backyard shop becomes Detroit Speed."
 
   - id: customs
     letter: I
@@ -396,6 +402,8 @@ paths:
         why: "Customs on paper and in plastic."
       - page: media/show-circuit.md
         why: "Where they were shown."
+      - page: people/joe-bailon-candy-apple.md
+        why: "The Bay Area painter who chased a taillight's glow for ten years and gave the method away with the paint."
       - page: voices/show-custom-voices.md
         why: "Show and custom people in their own words."
       - page: voices/von-dutch.md
@@ -428,6 +436,8 @@ paths:
         why: "Up the road in Paragould, a man who runs his own strip his own way, with a catwalk and, by one memory, a pith helmet."
       - page: companies/honest-charley-speed-shop.md
         why: "Up the road in Chattanooga, the hand-drawn mail-order catalog the mountain hot rodders called their bible."
+      - page: drag-racing/broadway-speedway-knoxville-eddie-harvey.md
+        why: "Knoxville: a parts man who raced without a roll bar at the Broadway Speedway and built the town its next track."
 
   - id: not-on-the-program
     letter: K

@@ -47,11 +47,9 @@ In Portland the clubs ran the show through a volunteer council, not through prom
 
 ## A council, then a strip
 
-The MHRC was founded in 1954, with Dee Wescott as first president, alongside "community members and elected officials." It runs the **Portland Roadster Show** with volunteers.[^mhrc][^wes]
+The MHRC was founded in 1954, with Dee Wescott as first president, alongside "community members and elected officials." It runs the **Portland Roadster Show** with volunteers.[^mhrc][^wes] Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61).[^pir]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Only that page says so.
 
 The council's strip came seven years later. Woodburn opened in **June 1961** as an **eighth-mile** strip operated jointly by the MHRC and the **Northwest Timing Association**. It was lengthened to a quarter mile in 1963, and Jim Livingston bought it in 1972 (Wikipedia; track site).[^wd][^wda]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> Whether 1963 and 1972 are the years is still open. Wikipedia and the track site may share a source.
-
-Before Woodburn, Portland-area racers used the area of the vanished Vanport site, now Portland International Raceway (Jefferson61).[^pir]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Only that page says so.
 
 ## Fiberglass and volunteers
 
