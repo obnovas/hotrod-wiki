@@ -67,17 +67,13 @@ canonical_for: []
 
     — Jim Clark, first Street Rodder editor, 2012. [Full context in Voices](../voices/street-rodder-founding.md)
 
-## From Peoria to an association
-
 The Street Rod Nationals began as a hayfield meet the bosses had already turned down, and the association that followed drew a line at how old a street rod had to be.
 
 In 1970 Tom Medley, Tex Smith, Bud Bryan, and Jim "Jake" Jacobs planned it anyway. The Petersen "7th floor" management said no.[^rc] They held it in a hayfield in Peoria, Illinois. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association, the MSRA, helped.[^rc] 600 street rods came.[^hag] About 200 of their drivers ran the rally, and 1970 AMBR winner Andy Brizio drove his '23 T there from California.[^rc] The weekend itself is on the [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md) page.
 
 The **NSRA** was formed in the event's wake. Hagerty says Dick Wells was its first president, and that SEMA later hired him.[^hag]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> Other accounts give the office to Bruce Miller, a publisher in Portland, or call Wells "the first active president." The sources sit side by side on the [Dick Wells](../people/dick-wells.md) page.
 
-## Moving Nationals
-
-The meet did not stay in the hayfield. In 1971 the Nationals went to **Memphis**, the 2nd Nationals. Memphis hosted again in 1975 and 1980, which a carnut.com photo index places.[^cn] Secondary accounts, TBucketPlans among them, put that 1971 count at about 1,200–1,300 rods. They point at *Hot Rod*'s October 1972 story "Street!", which we have only as a search summary.[^tb71]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+The meet did not stay in the hayfield. In 1971 the 2nd Nationals went to **Memphis**. Memphis hosted again in 1975 and 1980, which a carnut.com photo index places.[^cn] Secondary accounts, TBucketPlans among them, put that 1971 count at about 1,200–1,300 rods. They point at *Hot Rod*'s October 1972 story "Street!", which we have only as a search summary.[^tb71]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 Three years later it was **St. Paul**, the 5th Nationals, in 1974. The MSRA's first **Back to the 50's**, in June 1974, was a test run for it.[^msra] See [Upper Midwest](../places/upper-midwest.md). In the 1980s the Nationals rotated with Columbus, Ohio, on a three-year cycle. The account does not name the other stops. They moved to **Louisville** in 1988 and, Hagerty says, settled there for good in the 1990s.[^hag]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -85,9 +81,10 @@ Three years later it was **St. Paul**, the 5th Nationals, in 1974. The MSRA's fi
 
 The moves were the show finding a home. The unusual part was the line the association drew while it traveled.
 
-Jim Clark, first editor of *Street Rodder*, said in 2012 that the magazine had started with no 1948 cutoff. His line is at the top of this page. The NSRA drew one anyway. Eligibility was limited to cars built in **1948 and earlier**, and 1949-and-up cars went through a separate street-machine track.[^wp] Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^wp] The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra] The Kustom Kemps of America, the KKOA, set '62-and-older in 1983.[^hr83] Each group picked its own year.
+Jim Clark, first editor of *Street Rodder*, said in 2012 that the magazine had started with no 1948 cutoff. His line is at the top of this page. The NSRA drew one anyway. Eligibility was limited to cars built in **1948 and earlier**, and 1949-and-up cars went through a separate street-machine track.[^wp] Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^wp] The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra] In 1983 the Kustom Kemps of America, the KKOA, set '62-and-older.[^hr83] Each group picked its own year.
 
 The bosses had said no, and the hayfield happened anyway. *Street Rodder* had not drawn a year. The association did, and that line is what it kept.
+
 
 *See also:* [Peoria 1970](../voices/peoria-1970.md).
 

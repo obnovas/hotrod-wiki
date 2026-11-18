@@ -48,13 +48,9 @@ canonical_for: []
 
 Most hot rod club stories from the 1950s are about winning over a town. This one is about a town that needed its hot rodders. In 1956 the telephones went dead in Portsmouth, Ohio, and the Kustom Kouriers carried the messages.
 
-## A city with no dial tone
-
 In the summer of 1956, workers at the Ohio Consolidated Telephone Company in Portsmouth, an Ohio River city of about 40,000, were on strike, and the strike turned violent. By Evan Hill's count in the *Saturday Evening Post*, there had been sixty-seven cable cuts by September 3, and some lines had been slashed three times.[^sep]
 
 On the night of September 18, after five supervisors repairing cables near Sciotoville were attacked, the company closed its Portsmouth and Sciotoville exchanges. The AP reported the next day that the city had no telephone service at all, local or long distance. Police Chief Hugh Rudity declared an emergency and called in every officer and auxiliary. Telegrams were the only way to reach anyone outside town. And: "A local 'hot rod' club organized its members to act as couriers for hospitals in the area."[^ap]
-
-## Sixty-one days
 
 That was only a rehearsal. Twice, Hill wrote, the main exchange was evacuated and the whole region was silent for three days. By October 15 vandals had slashed 290 cables, and that night a mob stormed the telephone building. The main switch was pulled "for sixty-one days."[^sep]
 

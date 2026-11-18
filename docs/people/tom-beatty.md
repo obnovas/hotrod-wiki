@@ -54,21 +54,15 @@ Tom Beatty's channeled 1929 Ford roadster was unpainted and rusty, looking "gutt
 
 He built the belly tank in the car port next door. That tank was SCTA Top Speed of the Season.
 
-## The club and the car port
-
 Beatty was a Glendale club man. Barney Navarro joined the club in 1940 along with Tom Beatty, George Hill and Doane Spencer.[^ahrf]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> AHRF writes Glendale Strokers. The spelling is still open.
 
 The two stayed close. Navarro: "Tom lived next door to my shop and had a covered car port where he could do the welding and assembly work."[^ahrf]
-
-## The belly tank
 
 That car port produced the belly tank. Beatty built a ¾-in. chrome-moly truss chassis with swing-axle independent rear suspension, a modified Ford gearbox, and an inverted Model A front axle. Hop Up (Dec 1951) wrote: "Finally an original tank has come along."[^tank]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 In 1952 came 203 mph one-way and a 197.17 mph two-way record per AHRF.[^ahrf] RM has 203.61 one-way. It was Hot Rod's "Hot Rod of the Month" (Nov 1952) with a Rex Burnett cutaway.[^tank]
 
 RM says it was SCTA Top Speed of the Season five straight years (1951–55), and again in 1959. It reached 211.267 mph in 1955, the 16th member of the 200 MPH Club. It switched to Olds power in 1958, and ran a 243.438 mph average in 1962.[^tank]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
-
-## The shop
 
 In 1958 he opened Tom Beatty Automotive Engineering, Sun Valley, selling 6-71 blower manifolds and multi-belt drives.[^tank] The roadster was unpainted and rusty, and it ran 154.63 mph in 1951. The belly tank from the car port next door was SCTA Top Speed of the Season five straight years (1951–55), and again in 1959.
 

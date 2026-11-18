@@ -62,13 +62,9 @@ canonical_for:
 
 Two hours after Gary Hooker brought home a new 1962 Chevrolet 409, SEMA says, "the cylinder heads were off." And "then history happened: Hooker couldn't afford to buy headers, so he made his own." His secret "was to make the headers longer and the tubing larger than what was already available."[^hof] Those pipes became Hooker Headers. The headers on Vanke's Hemi Duster were production headers anyone could buy.
 
-## A kid from Pomona
-
 SEMA says Hooker's story began in Sioux City, Iowa, but "the family moved to Pomona, California, when he was about five years old." His father was a lay minister, the family was poor, and a neighbor usually had a copy of *Hot Rod* or *Popular Mechanics*. His high school had auto shop and machine shop and "so I took advantage of that." His first car was a '40 Ford flathead with a three-quarter race cam, bought for $175 with a part-time job.[^hof] Whether it began in Sioux City in 1962 or in a Pomona-area shop in 1964 is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 He was working for General Dynamics as an electronics technician, "around age 20," when he could afford the 409.[^hof] Pomona was also the city whose police chief told the FBI in 1951 that "If you can't control them—join them" was the only approach left with local hot rodders; see [Pomona's Choppers & the Fontana Strip](../drag-racing/pomona-choppers-fontana.md). Nothing links the two, but it was the same town's car culture.
-
-## The dyno, the borrowed money and the fire
 
 The story that follows is Hooker's own. Before racing the car he took it to **Jack Bayer** to be dyno-tuned, where Bayer had just finished testing a customer's car with the same motor. Hooker's made more horsepower. "Jack said to me, 'It's got to be those headers,'" Hooker recalled, and asked for a set. "I told him, 'No, those are the only ones I've made. But if you give me a ride home, we can take the headers off my car and put them on your 409.'" That night, with Hooker's headers, the customer's car "raced a couple of mph faster and a tenth quicker." "I more or less went into business right then," he said.[^hof]
 
@@ -80,8 +76,6 @@ Then disaster struck. In the summer of 1965 he rented a bigger shop, but "faulty
 
 His explanation for the growth is plain: "I think I was successful because I changed early on from having an emphasis on racing to an emphasis on building the product. It was always a customer-driven company."[^hof]
 
-## An ad for Akron Arlen
-
 In February 1971 *Hot Rod* ran a Hooker Headers ad congratulating Akron's **Arlen Vanke** on his 1970 NHRA Division Three Pro Stock championship; *Mopar Connection* says it showed Vanke winning all five Division Three races, and that the ad said Vanke would move to Columbus, Ohio, rather than give up his Hooker Headers.[^mc] The feature's other detail is the one that matters: the headers on Vanke's Hemi Duster "were production headers that anyone could purchase." The same feature says Vanke "built engines, transmissions, rear ends, and constructed cars in his backyard garage" and "drove the ramp truck to and from events," a working-man's drag racer who got some factory assistance but not the "lucrative Chrysler contracts" of Sox & Martin or Dick Landy.[^mc] See [Arlen Vanke](../people/arlen-vanke.md), whose page says his five 1970 wins are a promotional Hall of Fame claim needing checking.
 
 So a Pomona kid's headers rode on an Akron backyard builder's Duster. Both stories were about the same shortage: people who couldn't afford the right part, or couldn't buy one off the shelf, building their own.
@@ -89,8 +83,6 @@ So a Pomona kid's headers rode on an Akron backyard builder's Duster. Both stori
 ## What it became
 
 SEMA says Hooker sold the business to Holley Performance Products in **2000**; Hagerty agrees. The Pennsylvania historical marker for Holley, by contrast, says the roll-up came in "the 1990s."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> The brand's site calls Hooker "the first header manufacturer to receive a CARB E.O. (California Air Resources Board Executive Order) exemption"<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>, a firm's own claim.[^site] Gary Hooker says the Hall of Fame honor is "a salute to those people who worked together each day," and calls it "collaborating energy."[^hof] Whether the induction was 2012 or 2016 is still open.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Sources disagree: see Open questions">⚠</a></sup>
-
-## Vanke, Pomona and the 1967 show
 
 Hooker's ad saluted [Arlen Vanke](../people/arlen-vanke.md), the Akron racer, for his 1970 Division Three title. [Pomona's Choppers & the Fontana Strip](../drag-racing/pomona-choppers-fontana.md) documents the 1951 police-chief story from Hooker's hometown; the tie is place only. [Holley](holley.md) has owned the company since 2000 (or the 1990s<sup class="hr-q" id="qr-7"><a href="#q-7" title="Sources disagree: see Open questions">⚠</a></sup>).
 And the 1967 first trade show, where Hooker set up a booth like [Crane Cams](crane-cams.md), is told on the [Dick Wells](../people/dick-wells.md) page.

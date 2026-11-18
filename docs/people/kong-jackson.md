@@ -50,21 +50,15 @@ canonical_for:
 
 Kong Jackson raced the lakes when there was no organization, recalled Army Jeeps breaking up a Muroc meet, and gave his name to an ignition. When he died is still argued.
 
-## Before the SCTA
-
 Jackson raced the lakes when there were no rules at all. Fuel Curve (2023) quotes Jackson from Tom Medley's interview in Tex Smith's *Hot Rod History*: "Before the Road Runners, Ninety Mile an Hour, Sidewinders, and Throttlers formed the SCTA in 1938, guys were getting killed at the lakes, running into each other. No organization. No nuthin'."[^fc]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether that was 1937 or 1938 is still open.
 
 ## Muroc, 1941
 
 Then the war reached the lakebed. "Here came a Jeep and out jumped these guys with bayonets. Man, we just split!" The Army Air Corps camp was downwind of the racers' dust. Jackson told Medley that about 90 percent of the men racing that day were in the service within two months.[^fc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Fuel Curve alone has him joining the Army, then back at the lakes by 1938, and the order does not fit.
 
-## Kong ignition
-
 After the war he built a flathead distributor with dual high-speed points and a four-lobe breaker cam "ground by... Ed Winfield." It had a cable control so the driver could advance or retard the timing from the seat. Fuel Curve says Clay Smith used this feature on the Lincoln team in the 1953 Mexican Road Race.[^fc]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Only Fuel Curve says so.
 
 Alex Xydias, quoted by Fuel Curve: "Kong was a really, really smart guy, who was president of the Sidewinders car club and timer at the lakes... I sold them at So-Cal Speed Shop. Think we charged 49 bucks." Xydias bought the whole business when Jackson was recalled for Korea.[^fc] See [Alex Xydias](alex-xydias.md). In later years **Kong Engineering** made flathead aluminum heads and intakes for the revival.[^fc][^ls]
-
-## When did he die?
 
 Even his death date is argued. The contemporaneous post (death Sept 4, 2000) is the stronger evidence, and we treat **2000** as the working date. A follow-up on the same list (Sept 2000) repeats the loss; Fuel Curve's "2002" remains unexplained. We have still found no LA Times or Daily News obituary; the list posts stand.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
