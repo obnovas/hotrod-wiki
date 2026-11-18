@@ -83,23 +83,17 @@ status: Closed 1976; the site is reportedly a gravel pit[^nhra08]
 
     — Dean "Dino" Lawrence, the track's announcer, to Jim Motavalli, *The New York Times*, May 10, 2010.[^nyt10]
 
-## A day at Montgomery
-
 Dover Drag Strip began with one man watching one meet. Chet Anderson ran a gas station in Brookfield, Conn. In 1959 a friend took him to the airport at Montgomery, N.Y., where hot rodders were running timed quarter-mile races with help from NHRA's Safety Safari. By the strip's own history page, Anderson rode over with Mark Mastriani of the Danbury Modifiers, in Mastriani's '55 Chevy. Mastriani raced. Anderson "disappeared for the day," the page says. He was "checking it all out."[^dds]
 
 The next day he went looking for somewhere to build his own. He had met a man named Frank Marrata at Montgomery and asked him to be partners on a strip in Connecticut. Marrata said no, though the page says he later built Connecticut Dragway at East Haddam.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see Open questions">?</a></sup>[^dds] Anderson found 144 acres of farmland across the line in Wingdale, N.Y., and bought it. He needed the ground cleared and graded, and that was Joe Archiere's job. Archiere had the heavy equipment.[^dds]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 The track opened on May 14, 1961, and the Danbury Modifiers were its crew and its inspectors.[^dds] Someone had slept at the gate to be first in. By the history page, it was a pair camping in a '59 Pontiac. At daylight somebody thumped on the trunk lid to wake James "Grover" Grove, who became the first paid customer and still has his ticket. The one doing the thumping was Mastriani.[^dds]
 
-## Sunday at Dover
-
 It cost $1 to get in and $3 for a pit pass, a woman who went as a young teenager told NHRA's Phil Burgess in 2008. Afterward the racers went to Josey's Tavern on the Ten Mile River, down the road in Wingdale.[^nhra08] The crew was a small-town one, and the history page names it. Charles Van Muren, "Van," managed first. Tim Hallock took over in 1962, Mastriani ran it until 1965, and Joe Tanner ran it until 1973. Christ Swift was the last manager. George Hosford was the original starter and was known for his acrobatics with the flag. The announcers went through Harry "Blue Goose" Loper, Ralph "Chink" Butera and Gary Teto before Dean "Dino" Lawrence, who the page says called races from 1965 to 1972.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^dds] Frank Rice and Mike Mannion ran and repaired the clocks, and Mannion had married Archiere's niece. The American Legion, not the Lions Club, ran the food stand.[^dds]
 
 Garlits ran Dover four times, and the strip's own photos show it.[^nyt10] Al Baran of Connecticut built a Corvette-powered Model T there in 1967 from a pile of scrounged parts, among them a '49 Ford axle he dragged out of a farmer's field. It ran low 12s at 111 mph. "We had so much fun at Dover," he told the *Times*. "Those were simpler times." Then he was drafted.[^nyt10]
 
 Dover was sanctioned by NHRA for only one year, the history page says. A "precarious drop off the left side of the shut down area and inadequate guard rails wouldn't meet NHRAs insurance standards."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^dds] It did not seem to matter to the crowd. By the same page, "Dover became the place to be for racers from five states."[^dds]
-
-## Fifty years of reunions
 
 The track closed in 1976.[^dds][^nyt10] Lawrence said it was because "the track owners were not keeping up with the competition." They would have had to take "the next step into public relations, advertising and sponsorships."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^nyt10] Lawrence, by then a sign-shop owner in North Carolina, built a website for the strip in 2008. By 2010 it held more than 3,500 historic photos and had 750 members, one of them in New Zealand. Former Dover cars had turned up in Great Britain and Sweden.[^nyt10]
 

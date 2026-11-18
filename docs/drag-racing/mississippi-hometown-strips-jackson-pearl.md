@@ -98,8 +98,6 @@ status: Riverside closed (site of Pearl High School); Byram Dragway racing (2024
 
 Mississippi's drag racers mostly raced at home. What the record kept is what they remembered. A 1959 track north of Jackson went to gravel past the finish line. Riverside, in Pearl, opened beside Interstate 20 in 1972 and later lost the land to a high school. The Jackson Dragway name ended up on a 500-foot strip in Byram.
 
-## Gravel past the finish line
-
 Asked on a racers' forum in 2009 where he made his first pass, a racer posting as JimmySmith answered: "Jackson Ms, 1959 Track was just north of Jackson." It was a "circle track and drag strip," and "after finish line it went to gravel."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>[^rj09]
 
 In the 1960s the place to race in Jackson was the Jackson Sports Arena. David Church ran a '55 Ford in junior stock there and sent the *Drag Strip List* a photo, taken by a friend in the mid-1960s, of Claude Young's '55 T-Bird in a match race against Albert Ray Dulaney's '55 Chevy. "We own the T-Bird now and still race it (Y-Block power now)."[^dslms] Sam Williford, born in 1973, never saw the strip, but he owns a car that raced there: Barney Lewis Sharp's red '62 Pontiac Catalina, the "Big Chief," photographed at the Arena around 1963–64 before it was lettered.[^dslms]
@@ -113,8 +111,6 @@ Jeffery Slade raced there in the late '70s. "James Alford Jr. fixed up the old D
 The site traces the owners from there. Cary Busby sold the track to Bob Heard around 1976. In June 1980 the state suspended its operation for failure to pay franchise taxes; it was still closed through 1981 and reopened in 1982 as Jackson Dragway, under Charles Rogers, with the Winston Rebel Funny Car Nationals on October 23–24, 1982. The land belonged to the Pearl Public School District, which the strip paid a yearly lease, and in 1987 the district sued to end the lease so that it could build a high school there. Pearl High School "obliterated much of the old drag strip," though remnants survive on its western end.[^23t] The old-timer remembered it running "up into the 90's" before the lease ended.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^23t]
 
 The name moved again. WJTV's 2024 "Your Hometown" segment on Byram describes the Byram Dragway as the former Jackson Dragway, a 500-foot strip built in 2002 that races on Tuesday nights from 7 to midnight, from around Mardi Gras until around Thanksgiving. One driver, Melvin Smith, told the station he had raced since he was 17 and that it runs in his family.[^wjtv]
-
-## The Delta and the hill country
 
 Up in the Delta, a Jimmy Smith (we can't tell if he is the forum poster) managed the Greenville Dragway for seven years, "from '75 till '82," and wrote that he had raced at 15 of the 29 Mississippi tracks on the *Drag Strip List*. Don Hurst first raced at Greenville in 1973, probably at the two-day Mississippi State Championships, in a '69 GTO, and won his class. His future wife, T. J. Colvin, ran a '68 Firebird named "Easy Lovin.'" On her first pass she got "lost in space" after turning left past the finish line, looking for a return road that wasn't there, until she saw other cars driving back down the left side of the track. She won her bracket that night; the second day was rained out. They married on September 9, 1978.[^dslms]
 
