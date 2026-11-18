@@ -85,15 +85,11 @@ status: Closed 1976; now a residential neighborhood[^abc13]
 
     — Mrs. Charles Johnson, 22, on her husband's Sundays at Minnesota Dragways, *The Minneapolis Star*, May 21, 1967, reprinted by the Gopher State Timing Association.[^erk]
 
-## Off the overpass
-
 The Twin Cities' drag strip was not handed to the clubs. They spent five years earning it: meetings in a police precinct, reliability runs where breaking a traffic law cost points, a poll of their own traffic tickets. Then a service club built it, and the clubs bought bonds with their car-show money to help pay for it. It lasted until the suburb around it filled in.
 
 The first try came before any of that. In 1953 a Gofur Timing Association held drags on an abandoned stretch of road south of Highway 10, between Elk River and Big Lake. It was narrow and had a curve in the shutdown. The timing was a stopwatch at the finish line, started by hand when the flag dropped. The races stopped after a fast '36 Ford coupe rolled while trying to stop, and because the Highway Patrol objected to the cars parked on the overpass to watch.[^gsta] The racing moved to the old University of Minnesota airport, across Highway 8 from Twin City Speedway in Lexington, until the university sent its police to end it.[^gsta]
 
 In 1954 Captain Clifford Bailey of the Northside police precinct brought the clubs together, and the first meetings were held in the precinct itself. Twenty-five clubs answered, from the Road Knights and Throttle Jammers to the Bumper Buddies and the Dragons. They elected John Foster president, and he was re-elected through 1966.[^gsta] Foster was from LeMars, Iowa, and had come to Minnesota in 1946. He joined the Strokers as an adviser in 1954, and the club's 1957 history says he also found time to build "the most sanitary Merc in this part of the country."[^gsta]
-
-## Proving it, one run at a time
 
 The Gopher State Timing Association decided that rushing a strip was folly and that it needed a sponsor, so the work was public relations.[^gsta] Its first reliability run, in the early spring of 1955, sent 54 cars about 50 miles from the Columbia Heights Chalet to Faribault. Breaking a traffic law cost points, and Bob Bishop of the Bumper Buddies won.[^gsta] The Road Angels and Bumper Buddies ran an ice-racing track in winter. On Heart Sunday of 1957 they gave the whole gate, about $140, to the Heart Fund.[^gsta] In 1956 the association polled its clubs and found that members averaged less than half as many traffic tickets after joining as before.[^gsta]
 

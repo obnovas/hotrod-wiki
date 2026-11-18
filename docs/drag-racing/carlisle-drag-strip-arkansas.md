@@ -90,15 +90,11 @@ peak: late 1950s–1960s
 
 The Arkansas Timing Association put the state's first formal drag strip on a World War II auxiliary runway at Carlisle. It raced on the second Sunday. Woodie Taylor ran Twin City Speed Shop out of his garage in North Little Rock. Babe Sanders blocked access to the hood with a tire iron. Whether the first meet was April 1955, a race in 1957, or an opening in the summer of 1958 is still open.
 
-## Behind the airport
-
 Before there was a strip, Little Rock had a road. Paul Brower, who raced at Carlisle for years, wrote that there was "a certain degree of 'organization'" in the 1950s when anonymous drivers gathered on Fourche Dam Pike, "the narrow two-lane road 'behind' Adams Field," the Little Rock airport. Their show place was the Snappy Service Drive In, "the meeting/show place for many hot rodders of the day."[^brower]
 
 The real thing came from the war. Brower wrote that Carlisle Drag Strip was a World War II auxiliary airfield that supported Stuttgart Army Airfield, built in 1942. Its asphalt runways were laid in an "L" over thousands of loads of crushed stone, "said to be" hauled from Granite Mountain in Little Rock to carry bombers flown by student pilots from Stuttgart.[^brower] An encyclopedia entry gives the field a service name he does not: Stuttgart Army Airfield Auxiliary No. 1, built in 1942–43, unstaffed, for practice landings and emergencies, and abandoned after the war.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^wikicar] A similar field at Hazen, about 15 miles away, could not be reached from Highway 70, "so Carlisle was chosen by the Arkansas Timing Association as the site for the state's first 'formal' drag strip."[^brower]
 
 The ATA was five men from Little Rock and North Little Rock: O. D. Brazil and his brother Charles, Jim Reynolds, Woodie Taylor and Richard Thompson. It ran under NHRA rules and classes, and a pit pass bought NHRA insurance. At first you had to be an owner, driver or crew member to get one, "until promoters figured out that there was a small profit to be made on each pit pass." Brower dates the first drag meet to April 1955.[^brower] Downing remembered a race there in 1957. Bill McCown went the week it opened in the summer of 1958. Whether the first meet was April 1955, 1957, or the summer of 1958 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
-
-## A railroad engineer's speed shop
 
 The founders raced what they built. Woodie Taylor, a Missouri Pacific railroad engineer, ran Twin City Speed Shop out of his garage in North Little Rock. His first hot rod was a '48 Chevrolet pickup with a Studebaker V8 ("Yes, Studebaker"). He later put a Scotty Fenn Chassis Research K-88 under a B/Dragster that ran in the 120-mph, 11-second range. Dick Beard, a North Little Rock salvage-yard operator and a Little Rock Dragsters member, was there from the start with an Oldsmobile-powered chopped and channeled '34 Ford. Its short crossmember was saved by a flathead head stud and "a clenched-fist-size weld." His roll bar was black water pipe with threaded elbows.[^brower]
 
@@ -106,13 +102,9 @@ O. D. Brazil started on a Triumph motorcycle ridden by Ray Stancil. Pat Stancil 
 
 Brower's own dragster, on the old Beard chassis with an aluminum body, a Chrysler on six Strombergs and an Iskenderian cam, matched the national record of 144.6 mph at 10.46 on its first lap. Over two seasons it won all but two class trophies at Carlisle, plus "$25 savings bonds!" In 1963 it upset Raymond Godman and John Albright at the NHRA Division Four championship race in Memphis, 160.62 at 9.91, for $750 and a box of Sears Craftsman tools. The tools, Brower wrote of himself, "he still has today."[^brower]
 
-## The Memphis crowd
-
 Carlisle raced on the second Sunday, April through October. Brower wrote that "the latest stuff always seemed to come from Memphis." Godman, a Memphis insurance agent who raced from a wheelchair after Korean War injuries, set strip and national records there and later promoted Lakeland, Memphis's strip, which is on the [Memphis](../places/memphis.md) page.[^brower] Little Rock meat packer Mike Heim's roadster team won the top spot on the *Drag News* Middle Eliminator list by beating a Des Moines roadster two out of three at Carlisle, "(See some promoter involvement here?)," Brower added, and held it for over a year. The list, and *Drag News*'s founder, are on the [Doris Herbert](../people/doris-herbert.md) page. Brower is the only account of that list.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^brower]
 
 The touring pros came for match races against Godman, Brazil & Brower and the Louisiana fuelers: Don Garlits "on several occasions," Art Malone, Tommy Ivo, Chris Karamesines and most of the Texas fuel cars. A Little Rock boy named Lance Miller, whose father, Tommy "T" Miller, raced his everyday GTOs there, remembered Garlits giving him a spark plug, and a Sunday when his father and a friend took their low Pontiac down flooded farm roads to sneak in at the pits for free.[^brower][^miller]
-
-## A tire iron and a rice field
 
 At Carlisle, as everywhere, the stock cars outnumbered the hot rods. Brower thought about half of all 1955 Chevrolets ever made were raced. Was there cheating? "Is the sky blue?" A $25 deposit forced a competitor to tear down, and most protests ended with somebody backing down and "leaving the strip in a symphony of profanity." Babe Sanders of North Little Rock, who won regularly in an Impala, settled several by guarding his hood with a tire iron. Babe, Brower explained, "was a 1958 version of Arnold Schwarzenegger. Only bigger and meaner." Only Brower tells it.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^brower]
 
