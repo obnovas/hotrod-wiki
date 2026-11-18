@@ -66,7 +66,7 @@ status: Died September 25, 2017, at 94; his unfinished Miss Elegance 2 went to K
 ---
 # The Color of a Taillight: Joe Bailon and Candy Apple Red (Hayward, California, 1946–2017)
 
-*Salt in the paint, Christmas-tree flakes through a reworked spray gun, and a red that anyone could copy once they read the instructions*
+*By one account, salt in the paint and Christmas-tree flakes through a reworked spray gun, and a red that anyone could copy once they read the instructions*
 
 !!! abstract "Article record"
     **Confidence:** Medium (Bailon's own story of the taillight and the 1956 mix is in his foundation profile and his obituaries; the custom shows come from Bay Area and Fresno newspapers of 1952–53 as gathered on Kustomrama; the paint experiments and the first candy car are each told once) · **Source types:** <span class="hr-badge">Grassroots</span> Bay Area and Fresno newspapers, 1952–60, and a helper's recollection (Dick Falk, 2019), as collected by Kustomrama; a Sacramento car paper's column by a radio host who knew him (*Cruisin' News*, 2017); the American Hot Rod Foundation's profile; *Hemmings* (2017) · **Last verified:** 2026-11-18 (Round 43) · **Open issues:** ◐ the salt and Christmas-tree flakes; ◐ the first candy car; ◐ how the '41 Chevy was wrecked; ◐ how many gauges · [How we rate this](../reference/source-standards.md)

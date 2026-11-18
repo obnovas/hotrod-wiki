@@ -1,5 +1,5 @@
 ---
-title: 'No Roll Bars at Broadway: Eddie Harvey, the Broadway Speedway and Knoxville''s Drag Strip (1948–1978)'
+title: 'No Roll Bars at Broadway: Eddie Harvey, the Broadway Speedway and Knoxville''s Drag Strip (1948 to the late 1970s)'
 summary: 'Knoxville''s Broadway Speedway opened in May 1948 off Maynardville Highway with midget racing, where, parts-store owner Eddie Harvey remembered, asking for a roll bar got you called a sissy. Harvey later built his own track farther out the same highway, and its grandstands now stand at Knoxville Dragway.'
 department: drag-racing
 era: 1950s
@@ -56,7 +56,7 @@ canonical_for: []
 location: The Knoxville end of Maynardville Highway, past Fountain City, on land now a livestock yard (Broadway Speedway); Knoxville Raceway and Knoxville Dragway several miles farther out the same highway[^mp03][^mcg14]
 status: Broadway Speedway gone, closed 1957 or 1958; Knoxville Dragway still racing on Harvey's old oval site[^mcg14][^eap]
 ---
-# No Roll Bars at Broadway: Eddie Harvey, the Broadway Speedway and Knoxville's Drag Strip (1948–1978)
+# No Roll Bars at Broadway: Eddie Harvey, the Broadway Speedway and Knoxville's Drag Strip (1948 to the late 1970s)
 
 *A $55 poster, a parts man's photo albums, and a speedway that became a stockyard*
 

@@ -38,7 +38,7 @@ canonical_for: []
 *The street rod association came first, in 1967, and the Nationals at Peoria came after*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> association history, obituary, founder-era recollections (HotRod Hotline) · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** First-year car counts approximate · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> association history, the MSRA *LineChaser*, Gary Magner (2017), the club's 2024 entry form, obituary, founder-era recollections (HotRod Hotline) · **Last verified:** 2026-11-18 (Round 43) · **Open issues:** First-year car counts approximate · [How we rate this](../reference/source-standards.md)
 
 In Minnesota the street came before the strip. The Minnesota Street Rod Association began in 1967, when Jerry Johnson (member #1) proposed uniting the St. Paul and Minneapolis clubs into one body.[^hh50][^jj] By 1970 the MSRA was strong enough to co-host the first Street Rod Nationals at Peoria with the Slo-Pokes.[^rc] The street rod association came first. Drag racing came second.
 
@@ -46,7 +46,7 @@ In Minnesota the street came before the strip. The Minnesota Street Rod Associat
 
 Four years after Peoria, the MSRA held an event of its own. The first Back to the 50's was held on a Friday night, June 21, 1974, at the Midway Shopping Center, St. Paul, with a cruise to Porky's Drive-In.[^msra][^lc74] The club's history page puts the crowd at about 125–150 cars; the club magazine's report the next month counted more than 250.[^msra][^lc74] It was a rehearsal for hosting the 5th Nationals in St. Paul that year: the July 1974 *LineChaser* called it a "pre-promotion for the NSRA Street Rod Nationals," and members handed out more than 2,500 handbills for the Nats.[^lc74] The whole night is told in [A Tune-Up for the Nats](../street-rodding/back-to-the-50s-msra-st-paul-1974.md).
 
-Eligibility was 1964 and older, looser than the NSRA's 1948 line.[^msra]
+The year rule came later, and it was looser than the NSRA's 1948 line. Magner in 2017 called it "the 1964 and older rule," and the club's 2024 entry form still said "'64 and EARLIER."[^mag][^reg24] Those accounts do not date the 1974 night.
 
 It later moved to the State Fairgrounds and became one of the biggest street-rod gatherings anywhere (HotRod Hotline; ClassicCars Journal).[^hh2][^cc] We have not verified a current car count.
 
@@ -83,6 +83,8 @@ The *St. Paul Dispatch* and *Pioneer Press* for June 22, 1974, on the first Back
 [^hh50]: HotRod Hotline, "Fifty Years of the MSRA." https://hotrodhotline.com/fifty-years-of-the-msra/ (accessed 2026-10-13)
 [^jj]: HotRod Hotline, "MSRA Founding Member Jerry Johnson Passes Away." https://hotrodhotline.com/msra-founding-member-jerry-johnson-passes-away/ (accessed 2026-10-13)
 [^msra]: Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/ (accessed 2026-10-13)
+[^mag]: Gary Magner, MSRA lifetime member #193, "Fifty Years of the MSRA," HotRod Hotline, April 5, 2017 ("the 1964 and older rule that applies to 'Back to the 50's'"). https://hotrodhotline.com/fifty-years-of-the-msra/ (accessed 2026-11-18)
+[^reg24]: MSRA Back to the 50's, north pre-registration form for June 21–23, 2024 (printed Oct. 2023): "ONLY PROPERLY INSURED, LICENSED STREET LEGAL '64 and EARLIER PASSENGER PRODUCTION CARS OR TRUCKS ACCEPTED FOR PARTICIPATION." https://msrabacktothe50s.com/wp-content/uploads/2024/02/msra-back-to-the-50s-2024-north-preregistration-form.pdf (accessed 2026-11-18)
 [^lc74]: Jerry Johnson, report in the MSRA *LineChaser*, July 1974, with the members' February 2012 look-back, reposted as "History of Back to the Fifties, Part I," HotRod Hotline, April 12, 2013. https://hotrodhotline.com/history-of-back-to-the-fifties-part-i/ (accessed 2026-11-18)
 [^hh2]: HotRod Hotline, "History of Back to the Fifties, Part II." https://hotrodhotline.com/history-of-back-to-the-fifties-part-ii/ (accessed 2026-10-13)
 [^cc]: ClassicCars.com Journal, "'Back to the 50's' celebrates hot rod culture's golden age" (2018). https://journal.classiccars.com/2018/06/30/back-to-the-50s-celebrates-hot-rod-cultures-golden-age/ (accessed 2026-10-12)

@@ -972,6 +972,8 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [mag] Ellen Richardson, "Behind the Wheel: Battle of the Builders Winner Kyle Tucker," RacingJunk News, Dec. 19, 2018. https://www.racingjunk.com/news/behind-the-wheel-battle-of-the-builders-winner-kyle-tucker/
 - [club] Jerry Johnson, *LineChaser* (MSRA), July 1974, with the February 2012 look-back, reposted as "History of Back to the Fifties, Part I," HotRod Hotline, Apr. 12, 2013. https://hotrodhotline.com/history-of-back-to-the-fifties-part-i/
 - [club] Gary Magner, "Fifty Years of the MSRA," HotRod Hotline, Apr. 5, 2017. https://hotrodhotline.com/fifty-years-of-the-msra/
+- [mag] Tim Bernsau, "Back to the 50's 2019: America's Largest Street Rod Show," *Hot Rod*, Aug. 7, 2019. https://www.hotrod.com/features/back-to-the-50s-2019-americas-largest-street-rod-show
+- [club] MSRA Back to the 50's, north pre-registration form, June 21–23, 2024. https://msrabacktothe50s.com/wp-content/uploads/2024/02/msra-back-to-the-50s-2024-north-preregistration-form.pdf
 - [club] Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/
 - [mag] Jim Volgarino, "'Back to the 50's' celebrates hot rod culture's golden age," ClassicCars.com Journal, June 30, 2018. https://journal.classiccars.com/2018/06/30/back-to-the-50s-celebrates-hot-rod-cultures-golden-age/
 - [hof] "Joe Bailon," American Hot Rod Foundation. https://ahrf.com/pioneer/joe-bailon/
