@@ -55,7 +55,7 @@ canonical_for: []
 
 NHRA calls the 1955 National Championship Drags at Great Bend "its first national event." A club of "motorheads," a city that owned a surplus bomber field, and a Chamber of Commerce letter are how a Kansas town got it. Then it rained and washed out Sunday's finals.[^nhra][^srca][^gbt]
 
-In 1946 the City of Great Bend acquired the B-29 Army Air Force base after the military declared it surplus. The first race on the old field came on May 12, 1953. On January 19, 1954, the Sunflower Rod and Custom Association (SRCA) was formed. It joined NHRA in April 1955.
+The club tells it in order. In 1946 the City of Great Bend acquired the B-29 Army Air Force base after the military declared it surplus. The first race on the old field came on May 12, 1953. On January 19, 1954, the Sunflower Rod and Custom Association (SRCA) was formed. It joined NHRA in April 1955.
 
 That same year came the letter: "The Great Bend Chamber of Commerce on behalf of SRCA wrote a letter to Wally Parks requesting that Great Bend, KS be the site for the FIRST National Event. NHRA said YES."
 
