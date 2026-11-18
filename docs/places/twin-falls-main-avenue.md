@@ -68,8 +68,6 @@ The paper stopped calling Main Avenue a street. In its court column a Jerome dri
 
 The paper had a reason. A week earlier a 3-year-old boy had been killed. A coroner's jury held two teenage boys, 15 and 14, responsible; the editorial called it the first death of its kind in the city. It blamed the grown-ups more than the boys: city officials, police and the courts, who it said had shrugged at "making race tracks out of our principal streets."[^ed1957]
 
-## Dragging Main
-
 The same editorial is the best description we have of what Main Avenue looked like after dark. Readers had written in by the hundreds, it said. One woman was invited by some girls to go "dragging Main," which they told her meant racing any other carload of teenagers down the avenue. A businessman complained of the "latest wrinkle": several carloads driving abreast as slowly as possible while they passed soft-drink bottles from window to window. A visitor from Weiser asked a reporter whether the town had any law and order at all, and said nobody could sleep in a downtown hotel until 1:30 in the morning for the engines, the screeching rubber and the horns.[^ed1957]
 
 The court column kept the quotation marks for years. By December 1957 City Police Judge J. O. Pumphrey had begun handing out heavier fines for speeding on the Main Avenue "drag strip," the front page reported, and warned that they would get heavier still if the speeding didn't stop.[^fines1957] In August 1958 a driver caught in a radar check was fined $13 and costs for speeding on the Main avenue east "drag strip."[^pc1958]
@@ -79,8 +77,6 @@ The court column kept the quotation marks for years. By December 1957 City Polic
 <figcaption markdown>Main Avenue, Twin Falls, Idaho, on a linen postcard from about 1930–45, before the years this page covers. Creator: Tichnor Brothers, publisher (Boston Public Library, Tichnor Brothers collection #78288). Date: c. 1930–1945. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Main_Avenue,_Twin_Falls,_Idaho_(78288).jpg). License: Public domain.</figcaption>
 </figure>
 
-## The club that offered to pay
-
 In July 1960 the paper announced an "organizational meeting" of the **Magic Valley Timing Association** at the Idaho Power Company auditorium, open to anyone interested in drag racing.[^org1960]
 
 By the end of August its president, **Gary Nelson** of Twin Falls, was in front of the city commission with a sketch: a quarter-mile strip, a return road, a pit area, a mandatory safety-inspection area, and bales of hay to protect spectators. The paper's headline said the council had given the "drag racers" some encouragement. The club had 33 paid members, and so far its dues had gone to the National Hot Rod Association. It needed several thousand dollars, which members planned to raise themselves, and it asked the city only for the land; members would do the work. The county's probate judge, whom the paper described as the teenagers' idea of an enemy, told the commissioners the young men had the right approach, because they had stopped asking taxpayers to pay for a strip.[^council1960]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
@@ -88,8 +84,6 @@ By the end of August its president, **Gary Nelson** of Twin Falls, was in front 
 Four days earlier a reader had already made the joke in the paper's "Pot Shots" column, under the heading "Four Lanes to Drag": with one-way traffic planned for Main starting Oct. 1, the kids would now have a four-lane drag strip.[^pot1960]
 
 On October 18, 1960, the city commission "voted unanimously" to lease the club a strip of land at **Joslin Field**, the airport. The city manager recommended it with conditions: the area fenced and kept clean, the runway approaches kept clear, operating hours set so that nearby residents weren't disturbed, and a lease of at least five years. The city attorney was told to draw it up, subject to federal aviation rules.[^lease1960]
-
-## What happened next
 
 The paper checked in on the club in August 1961, ten months after the lease vote, with a long Sunday feature. The **Magic Valley Timing Association** now had about 30 members and an NHRA charter. Its roots went back a few years to a club called the **Road Lords**, which became the **Coachmen**; the MVTA itself had been organized "about a year ago." Members met every Wednesday evening in the basement of Carleson's garage to trade ideas for their projects, which mostly came out of club talk or the hot rod magazines. For a while there had been an auxiliary for wives and girlfriends, the **Magic Valley Timettes**, who held rummage sales, but it was not active just then. The cars around town had names lettered on their fenders: Twilight Zone, Friendly Persuasion, Alley Oop, Rebel Rouser.[^feat1961]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 

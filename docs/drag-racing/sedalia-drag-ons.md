@@ -67,8 +67,6 @@ Sedalia's Drag-Ons spent seven years trying to earn a drag strip and never got o
 
 Sedalia, Missouri, home of the State Fair, sits in the farm country east of Kansas City. In the late 1950s it had no drag strip.
 
-## The card under the windshield wiper
-
 In June 1957 the Drag-Ons held a meeting at the courthouse, and a trip was set for the coming weekend to the Kansas City strip, which the paper described as a National Hot Rod Association strip. Soon, the paper said, motorists helped by a member would be handed a courtesy card, and it printed the wording: "You Have Been Helped By The DRAG-ONS of SEDALIA, A MOTOR CAR CLUB. Dedicated to the Safety and Courtesy of the American Highways. 'We Hope You Have a Safe Trip.'"[^sd570605] (The scan's columns are interleaved, so the wording is pieced together from the OCR.)
 
 The same meeting heard that "not a fatal accident has ever occurred on a sanctioned drag strip," and that the only deaths had been among those racing illegally.[^sd570605]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
@@ -80,27 +78,19 @@ Two weeks later the members went to the Kansas City strip, where "Many of the lo
 <figcaption markdown>The Pettis County Courthouse in Sedalia, where the Drag-Ons met in 1957 (photo 2018). Creator: 25or6to4. Date: 2018-02-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pettis_County_Courthouse,_Sedalia,_MO.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
 
-## Three laws and a second chance
-
 The next spring the club made its case in print. In March 1958 *Democrat* sports editor D. Kelly Scruton gave his column to a letter from the club's president, Jr. Vasquez. The Drag-Ons, Vasquez wrote, had three laws: obey the motor vehicle laws, be courteous to other drivers and pedestrians, and "publicize the sport of drag racing in its true light."[^sd580309]
 
 The penalty system was blunt. A member found guilty of breaking the rules "is fined by the club, but given one more chance to prove himself worthy of membership. If caught again, he is fined by the club, the city police, and disregarded as a club member."[^sd580309]
 
 Vasquez's real point was the strip. Only a strip could take racing off the highways, he wrote, and "The citizens of Marshall have already realized this and are giving full support to their hot rod club, which is now being formed."[^sd580309] Scruton backed the idea, but he was frank about the club's start. When the Drag-Ons were first organized, he wrote, some members "failed to keep faith with these rules and regulations."[^sd580309]
 
-## Car washes, Air Force drags and a record hop
-
 The club was busy that spring. It read and approved its constitution at its own clubhouse.[^sd580430] Sue Wilson, chairman of the Sedalia cancer drive, signed the members up, and their "Operation Simo-Wash" car wash at the Wayne Richardson Service Station on May 10 raised $60.40 for the Cancer Society.[^sd580514]
 
 In June 1958 the guests at a meeting were the Push Rods of Marshall, probably the new club Vasquez had mentioned. The Drag-Ons planned to go to drag races at Whiteman Air Force Base on Sunday, June 8, sponsored by the base's club, with cars expected from Kansas City and Great Bend, Kansas. They also booked a July 4 "Record Hop" at the Liberty Park Convention Hall: $1 stag, $1.50 drag.[^sd580604] For Great Bend, see [Great Bend, Kansas](great-bend-srca.md).
 
-## Hot and cold
-
 Then the trail goes quiet. In January 1962 Scruton wrote that drag strips were "up for discussion again" now that the Drag-Ons had revived. He added that the club "should however, keep going and quit running hot-and-cold," and noted that members had been helping stranded motorists and pushing cars out of the recent storms.[^sd620107] A week later President Bill Bottcher read a list of custom car shows to a meeting at the club building on East 14th, and the members called a special meeting to choose jackets.[^sd620116]
 
 The revived club joined the 1962 push for a Sedalia strip, which is its own story: see [The Big S.I.R.](sedalia-big-sir.md). In May 1963 a trip to the Kansas City strip was rained out, and the club made plans to attend the nationals at Indianapolis, Aug. 30 to Sept. 2.[^sd630521]
-
-## The truck for Butterfield's ranch
 
 The best story came last. In November 1964, the *Democrat*'s Sunday feature section ran a full page by Larry Embry headlined "Drag-Ons Rebuild Old Car For Gift to Boys' Ranch."[^sd641115]
 

@@ -73,8 +73,6 @@ The kids found their own answer first. In August 1962, East Stroudsburg's counci
 
 It was a two-town drag strip that nobody built on purpose, and the council's answer was a padlock.
 
-## 1964: Wind Gap, Allentown and a mother's proposal
-
 The nearest real strip we can find in the paper was at Wind Gap. On April 4, 1964, a sports brief announced that "the Mountain View drag strip in Wind Gap" would open its fifth season of racing on Sunday, with pits at 10 a.m., time trials at noon and eliminations at 2 p.m.[^dr640404]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 *Car Craft*'s national strip calendar for July 1961 lists only two Pennsylvania strips, Vargo's Dragway in Bucks County and the U.S. 30 Drag-O-Way near York. Wind Gap isn't on it.[^cc6107] Those calendars printed what strips sent in, so the absence proves nothing, but it does show how small a strip like Mountain View was.
@@ -88,8 +86,6 @@ She quoted the club's constitution and bylaws at length (see [the Ridge Runners 
 Anyone who wanted to see how a drag race was run, she added, could go to **Island Dragway** at Great Meadows, N.J., or the **Pocono Drag Lodge** at Bear Creek, Pa.[^dr640605] Island Dragway, on Route 46, was in *Car Craft*'s 1961 calendar for "Every Sunday, weather permitting."[^cc6107]
 
 We have found no reply from the airport authority, and no drag race at the Mount Pocono airport.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
-
-## 1968: the Drag Lodge and the big track
 
 By 1968 the Pocono Drag Lodge on Route 115 at Bear Creek was advertising in the Stroudsburg paper, by then called *The Pocono Record*, almost every week. Its "1968 SEASON'S OPENER" on Sunday, May 19, matched the funny cars **Limefire** and **Jungle Jim**, with $50 to the top eliminator, "Plus 200 Cars Drag Racing."[^pr680518]
 

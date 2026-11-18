@@ -63,13 +63,9 @@ canonical_for: []
 
 Gene Logghe was burned in the brothers' own dragster at **Ubly Dragway** on a 187 mph run in 1962. Their father then forbade them to drive diggers.[^mms][^gar] They kept building them. The Logghe Stamping Company of Fraser, Michigan, turned a Big Three bracketry shop into the chassis house that defined early Funny Cars. In 1966 brothers Ron and Gene Logghe built the first series of tube-frame, coil-over, one-piece flip-top cars for Lincoln-Mercury. Customers included [Eddie Schartman](../people/eddie-schartman.md), Dyno Don Nicholson, Jack Chrisman, Connie Kalitta, Gene Snow, [Al Bergler](../people/al-bergler.md), and many others.[^mms][^gar]
 
-## Morris Logghe's shop
-
 It began as their father's business. Morris Logghe, a Belgian immigrant, founded Logghe Stamping as an automotive bracketry company serving Detroit's Big Three.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> The founding year is 1946 vs 1947.
 
 Ron and Gene began working for their father in 1955 (Gene about 17, Ron about 15).[^mms] They first tried sports-car racing. Then they attended the drag races at the long-defunct strip in New Baltimore, Mich., in 1958, where they met local racer Connie Kalitta.[^mms][^gar]
-
-## From Kalitta rails to Competition Products
 
 That meeting led to their first chassis. In 1961 Kalitta asked them to build a dragster chassis, their first customer chassis. Success brought more orders. They added clutch cans, steering parts, and axles.[^gar]
 
@@ -88,8 +84,6 @@ Ron Logghe told MMSHOF they "literally introduced the coil-over design to the ra
 Schartman won NHRA's first Funny Car eliminator at the 1966 World Finals in Tulsa in a Logghe Comet.[^nhra]
 
 Demand outran the shop. Wikipedia (citing secondary histories) notes other builders (Don Hardy, Ronnie Scrima, Dick Fletcher) joined the chassis trade as Logghe could not fill every order.<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
-
-## Later
 
 Racing chassis work at Logghe Stamping was discontinued in 1975.[^mms] The stamping company itself closed in 2013.[^gar]
 

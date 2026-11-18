@@ -77,8 +77,6 @@ He was sixteen in Lincoln, Nebraska, and his friend Dale had decided to paint hi
 
 He decided not to repaint his own.
 
-## From Lincoln to Hollywood
-
 Wells told his own story with a lot of jokes, and the sketch he wrote in March 2007 is the best source for the early part of it.[^hof]
 
 It starts with the cars. At 16 his father gave him the family's 1936 Chevy two-door, which "jumped out of high gear," so a friend had to hold the floor shifter down while they cruised. In high school he also owned a 1948 Crosley station wagon that would not start on cold Nebraska mornings but was "small, light and easy to push." One day the Lincoln High football team carried the Crosley up the stairs and left it crosswise in front of the school's main doors. His friend Paul, a tuba player in the marching band, was told he could ride home, or the tuba could, but not both. Paul never spoke to him again.[^hof]
@@ -87,15 +85,11 @@ It starts with the cars. At 16 his father gave him the family's 1936 Chevy two-d
 
 Work brought him into the parts trade. He started as a stockroom clerk at Hank's Auto Store in Lincoln, then salesman, then manager. It sold parts and speed equipment. Later he was assistant manager at Speedway Motors.[^hof] The Nebraska Auto Racing Hall of Fame adds a local detail: the store "became a gathering place of hot rod enthusiasts who eventually persuaded Wells to organize a club for Lincoln's hot rodders." The Rebels car club, "which is still in existence today," was established in 1955.[^narhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> By the fall of 1958 *The Lincoln Star* was calling him "Richard Wells, Lincoln Timing Association president," and he was making the city clubs' case to the safety council for a sanctioned strip (see ["Go Out to Scribner"](../drag-racing/nebraska-go-out-to-scribner.md)).[^ls581031]
 
-## National Dragster, number one
-
 In 1960 he moved to Southern California, hoping for a job with a major speed-equipment maker. Instead, the NHRA hired him as the first editor of its new paper, *National Dragster*, "handpicked by NHRA founder Wally Parks." He edited it through 1960 and returned for a second stint in 1961–63.[^nd10][^narhof]
 
 A few of his stories survive in NHRA columns. At a 2009 museum exhibit celebrating 50 years of the paper, Wells told the crowd that "the print-shop foreman refused to print the first issue because they hadn't been paid." Wells "had to roust Wally out of bed in the wee hours of the morning," and Parks "paid with a personal check to get the first issue printed."[^nd09] Burgess's other column recalls the same story: "how Wally had to write a personal check to the printer before he'd roll the presses."[^nd10]
 
 At the same event Wells told how Parks "used to send critical letters to Drag News, DRAGSTER's scrappy rival," under the pen name Parks Wengard. Burgess, who had assumed that was just Parks's name, worked out the joke: "Parks Wengard spelled backwards is, well .... Drag News Krap, Wally's own little dig at his main competitor."[^nd09] For the rival paper, see [Doris Herbert](doris-herbert.md).
-
-## Hot Rod, Motor Trend and a stadium of speed parts
 
 Then came the magazines. At Tex Smith's urging he became managing editor, then feature editor, of *Hot Rod*, and later executive editor of *Motor Trend*. At Petersen Publishing he moved into special events. In 1967, with Ray Brock and [Alex Xydias](alex-xydias.md), he produced the first trade show of what became the SEMA Show, with 98 booths under the grandstands at Dodger Stadium.[^hof][^narhof]
 
@@ -106,8 +100,6 @@ In an email Burgess quotes, Wells recalled that when he was *Hot Rod*'s feature 
 Wells helped bring the Street Rod Nationals and the National Street Rod Association to life. His own 2007 sketch and his obituary call him the NSRA's first "active" president.[^hof] Wikipedia makes him "the first president and CEO," with the association's headquarters in the offices of *Rod Action*, where he was Ray Brock's partner.[^wiki]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The only contemporary source, a *Lincoln Star* brief of December 5, 1971, reported that a "former Lincolnite" named Wells had been "named president" of the NSRA and had "helped organize and produced the 1971 Street Rod Nationals in Memphis." The brief gives no first name. Reading it as Dick Wells is our inference from the Lincoln tie and the Nationals.[^ls711205] One history gives the first presidency to Portland publisher Bruce Miller instead.[^w99]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Wikipedia also says that by 1973 Wells had set up thirty volunteer state representatives, that SEMA adopted the system in 1975, and that SEMA then hired him away.[^wiki]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> The hall's page agrees that he later rejoined SEMA and that he moved its show from California to Las Vegas.[^narhof]
-
-## Honors and the end
 
 The honors followed his SEMA years. SEMA's executive director in the 1970s, he was SEMA Person of the Year in 1977 and entered the SEMA Hall of Fame in 1993. He received the ISCA Founder's Award in 1994, an industry award from the Street Rod Marketing Alliance in 1996, and the NHRA Pioneer Award in 2001. He sat on the NHRA board from 1979, and was inducted into the Nebraska Auto Racing Hall of Fame in 2009.[^hof][^narhof]
 

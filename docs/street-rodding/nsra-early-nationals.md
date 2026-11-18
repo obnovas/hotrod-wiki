@@ -67,15 +67,11 @@ canonical_for: []
 
     — Jim Clark, first Street Rodder editor, 2012. [Full context in Voices](../voices/street-rodder-founding.md)
 
-## From Peoria to an association
-
 The Street Rod Nationals began as a hayfield meet the bosses had already turned down, and the association that followed drew a line at how old a street rod had to be.
 
 In 1970 Tom Medley, Tex Smith, Bud Bryan, and Jim "Jake" Jacobs planned it anyway. The Petersen "7th floor" management said no.[^rc] They held it in a hayfield in Peoria, Illinois. The Peoria **Slo-Pokes** hosted, and the new Minnesota Street Rod Association, the MSRA, helped.[^rc] 600 street rods came.[^hag] About 200 of their drivers ran the rally, and 1970 AMBR winner Andy Brizio drove his '23 T there from California.[^rc] The weekend itself is on the [1970 Street Rod Nationals](../eras/1970s-street-rod-nationals.md) page.
 
 The **NSRA** was formed in the event's wake. Hagerty says Dick Wells was its first president, and that SEMA later hired him.[^hag]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> Other accounts give the office to Bruce Miller, a publisher in Portland, or call Wells "the first active president." The sources sit side by side on the [Dick Wells](../people/dick-wells.md) page.
-
-## Moving Nationals
 
 The meet did not stay in the hayfield. In 1971 the Nationals went to **Memphis**, the 2nd Nationals. Memphis hosted again in 1975 and 1980, which a carnut.com photo index places.[^cn] Secondary accounts, TBucketPlans among them, put that 1971 count at about 1,200–1,300 rods. They point at *Hot Rod*'s October 1972 story "Street!", which we have only as a search summary.[^tb71]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 

@@ -90,15 +90,11 @@ peak: 1960–2023
 
     — Chuck Dublick, on Strato Rods Dragway, *Drag Strip List*, undated.[^dslnj]
 
-## Safety first, in the pines
-
 On a Sunday a racer could run Strato Rods in the morning and Atco at night. Strato Rods was an unused runway at McGuire Air Force Base. Atco opened on Memorial Day Weekend 1960. Four Camden-area businessmen built it, and the emphasis was safety first. It ran until July 18, 2023. Out at the runway the racing was for trophies, a coffee can cooled the fuel, and the driver meeting was in a towed Mr. Softee truck.
 
 Atco Dragway officially opened on Memorial Day Weekend 1960. Four Camden-area businessmen built it, Paul Jaffe, Paul B. Katz, Edwin Rosner and Lester M. Medvene, after studying drag strips around the country and copying the best features of each. They picked the site because it was well away from homes. "Our emphasis is on safety first and spectator comfort," Jaffe told the *Inquirer* in 1961.[^inq23] *Hemmings* adds that ground was broken on Jackson Road in 1959.[^hem23] The *Inquirer* called it "the first official drag strip in New Jersey."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^inq23]
 
 The strip was smooth and it paid for speed. "Just the place for records to be set. It's real smooth," Don Garlits told the *Daily News* in 1961, eyeing a $1,000 prize for breaking the strip record: "they can start making out the check right now." He didn't collect it. Atco's first 200 belonged to Art Arfons of Akron, who ran 201.78 mph in his jet-powered *Cyclops* in May 1962. Arfons called the car "just the thing you need to run down to the corner for a loaf of bread," and after his record run he apologized: "I'm sorry I didn't hit 210 for you."[^inq23]
-
-## Seven dollars to find out
 
 Atco's regulars weren't the famous names, though. They were ordinary drivers from around Philadelphia. "Even if they just drive a little Valiant, they can race," Medvene said in 1973. A $7 pit ticket in 1975 let you take your own car down the track. Ed Hartnett, a 26-year-old electrical technician with Philadelphia Electric, had about $7,000 in his '69 Camaro: "It's over very quickly. The sensation I'm aware of is silence." John Conn, 26, of Magnolia wished there were more tracks: "Any time you race on the streets, it's hairy, you know."[^inq23] Ralph Bernstein's brother Skip drove down in 1961 in his '57 Plymouth, ran 14.8s, then ran out of gas and "pulled to the side like he was on a public street. Too funny!"[^dslnj]
 
@@ -113,8 +109,6 @@ Chuck Dublick raced an E/Gas '56 Chevy there in red primer, and nearly every par
 Ed Beers came to watch in September 1980, when his cousin was in basic training at Dix. They heard cars and "snuck in the pits through the barbed wire fence. Secure military base, huh." What he remembered best was the driver meeting: "They towed an old Mr. Softee truck with a tractor out to the starting line and had their meeting and first round pairings done there."[^dslnj] Bob Drayton and George Adams raced a Day-Glo orange '55 Chevy at Strato Rods and Atco in 1965 and 1966; Frank Perkins brought a 1947 Austin with a Dodge slant six in the late 1960s.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^dslnj] The accounts disagree on the years.
 
 The two strips worked together. A Moparts poster wrote: "Used to run there every sunday morning. Load up, and race Atco that night," and he won at both on the same day twice.[^moparts] Bob Frey, an Air Force staff sergeant at McGuire, began announcing at Strato Rods, then got a tryout in Atco's tower and for the next 18 years (1966–1984) announced almost every race Atco held. He went on to be the voice of the IHRA and of NHRA television; he described himself as "a skinny, geeky, bald-headed guy with glasses."[^empa][^garlitsfrey] A Browns Mills man remembered that Walt Harris (a hall monitor at Pemberton High, another poster added) let him work Strato Rods for free admission. His crowd hung out at Highway Tire in Browns Mills, on "Nights that usually ended in a race on Mt Misery Rd."[^njpb]
-
-## The end of the line
 
 In 1988 Atco hosted the IHRA Summernationals, where Tommy Howes made what *Hemmings* calls the first full-bodied six-second pass.[^hem23] By August 2020, Insurance Auto Auctions, which had already bought and torn up Englishtown's strip, had applied to the Pinelands Commission to turn Atco's 180-acre site into a car auction lot, with owner Leonard Capone Jr. co-signing. Atco closed permanently on July 18, 2023, right after its 29th Pan American Nationals, with no reason given.[^inq23][^hem23] That left [Island Dragway](island-dragway-great-meadows.md), about 90 miles north, as the only drag strip in New Jersey.[^inq23]
 

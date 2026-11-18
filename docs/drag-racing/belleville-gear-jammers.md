@@ -82,8 +82,6 @@ Twelve clubs came that day, from around St. Louis and from as far as Mattoon and
 <figcaption markdown>One of the 1928 Curtiss-Wright hangars at today's St. Louis Downtown Airport in Cahokia, Ill., the field once called Parks Metropolitan Airport. Photographed in 2014; it shows the airport, not the strip. Creator: Nyttend. Date: 2014-05-26. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Curtiss-Wright_hangar_at_St_Louis_Downtown.jpg). License: Public domain (released by the photographer).</figcaption>
 </figure>
 
-## The Missouri side wanted one too
-
 Across the river, the St. Louis clubs spent the decade asking for a strip of their own.
 
 In February 1954 Joseph R. Naber, president of the Midwest Hot Rod Club of Brentwood, answered a letter-writer who doubted the new cars were safe. Detroit could add safety belts, he wrote, but 99 per cent of people wouldn't bother to use them, and it couldn't build in the best safety device of all: "The cautious and courteous driver."[^naber]
@@ -94,11 +92,7 @@ By November 1958 the campaign was on bumper stickers. A letter signed S.J.G. quo
 
 The hot rodders had their own letter-writers. That October a physician who said he had served hot-rod organizations in three states as safety director objected to the paper calling a 90-mph crash on the Daniel Boone Expressway in Ladue "drag racing." He wrote that he had "yet to see a member of an organized hot-rod club who was not aware of his responsibilities."[^madness] *The signature is garbled in the scan, so we leave the writer unnamed.*
 
-## The engine in the crate
-
 In March 1959 the Drag-ons Hot Rod Club of Normandy had "reluctantly put up for sale" a World War I Hispano Suiza airplane engine. It was still crated and unused, water-cooled, with 12 cylinders in a V. Club member Gary Evans said they had meant to convert it for a "dragster," but they had no garage to do the work. The club had got it two years before, "from a man who had two of them in his basement."[^dragons]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
-
-## The Gear Jammers go national
 
 The Belleville club kept a higher profile than the clubs on the Missouri side. In March 1957 it put on a show of custom machines, classics, antiques and sports cars at Ainad Temple in East St. Louis.[^show1957] In its December 1958 issue, *Car Craft* covered what it called "the fourth annual National Drags" and reported that the Gear Jammers had given up running their own cars to work the event. Wayne Mertens (the magazine's spelling) accepted the *Car Craft* Sportsmanship Trophy for the club from NHRA field director Tex Smith. The magazine praised the members "who gave up running their cars in competition in order to become invaluable event personnel."[^cc1958]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> *Hot Rod*'s 1959 index lists the "Belleville Gear Jammers" as Club of the Month for January.[^hr1959]
 
