@@ -71,7 +71,7 @@ The garage also built a lakester. The B&S wing-tank lakester won the SCTA points
 
 His signature mattered too. From 1972 he made and signed official SCTA timing slips. Mike Cook: "if your time slip doesn't have Julian's autograph on it, it's not worth anything."[^ahrf]
 
-He was born **December 10, 1922**, and died **May 2, 2012**.
+He was born **December 10, 1922**, and died **May 2, 2012**.[^cb]
 
 The first trip was 1934, in his uncle's '29 roadster. Seventy years on, the timing slip still had his autograph.
 

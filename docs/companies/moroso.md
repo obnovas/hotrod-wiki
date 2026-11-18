@@ -84,7 +84,7 @@ What the magazine saw is grassroots drag racing at its most routine. The track r
 
 One local detail made it work: across the highway stood a large **Pratt & Whitney** jet-engine plant whose 4-mile "noise zone" included the raceway, "so the track does not have to worry about decibel counts and has no curfew on night racing."[^hr83]
 
-At its 30th anniversary, the company says, he "lost a year-long battle with cancer" in November 1998; his son Rick became president in 1997. CBS says Dick died at 59 in a hospice in Branford, Connecticut, and that *Hot Rod* had named him one of the 100 most influential people in drag racing.[^co][^cbs] The company still makes oil pans, ignition wire and more in Guilford, with the chassis brand Competition Engineering.[^co]
+At its 30th anniversary, the company says, Dick Moroso "lost a year-long battle with cancer" in November 1998; his son Rick became president in 1997. CBS says Dick died at 59 in a hospice in Branford, Connecticut, and that *Hot Rod* had named him one of the 100 most influential people in drag racing.[^co][^cbs] The company still makes oil pans, ignition wire and more in Guilford, with the chassis brand Competition Engineering.[^co]
 
 <figure markdown>
 ![An aerial view of a long drag-strip straight with a winding road course beside it, set in Florida wetlands, with a highway crossing the lower right.](../assets/images/commons-palm-beach-international-raceway.jpg){ loading=lazy }

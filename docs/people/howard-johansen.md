@@ -72,9 +72,11 @@ Hot Rod's obituary also lists a chopped '36 five-window streamliner with a Marmo
 
 His best-known car was a drag racer. The obituary calls the Twin-Bear dragster, driven by Jack Chrisman, his "crowning achievement." It ran two blown small-blocks side by side with their flywheel ring gears meshed, one engine running backward, so a single driveshaft could be used. It "won Top Eliminator at the first NHRA Winternationals."[^hr89]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-They retired in 1965 and handed it to their oldest son Jerry, who ran it until 1985. Jerry and Don Madden ran the "Howards Cams Rattler" and "Howards Cams Special" Top Fuel cars "as test beds for new products." The company is now Howards Cams & Racing Components in Oshkosh, Wisconsin; it moved there in 1998.[^co]
+Howard and his wife retired in 1965 and handed the company to their oldest son Jerry, who ran it until 1985. Jerry and Don Madden ran the "Howards Cams Rattler" and "Howards Cams Special" Top Fuel cars "as test beds for new products."[^co]
 
 His dates are still loose. Hot Rod's "Finish Line" (Jan 1989) says he died aged 78.[^hr89] Earlier rounds cited IDRHOF's "1910–1988." The two are consistent but we have no exact dates yet. For his role in the Gasser Wars and the Doug Cook ad, see [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).
+
+The company is now Howards Cams & Racing Components in Oshkosh, Wisconsin; it moved there in 1998.[^co]
 
 Lead on the pistons of his father's Model T. Then the cams, the twin-tank streamliner, and the Twin-Bear.
 
