@@ -42,6 +42,8 @@ canonical_for: []
 
 The first organized drags in Texas were three hand-held stopwatches on the abandoned airfield at Caddo Mills. Clubs ran them on ex-military airfields away from the city. The difference was the distance.
 
+The clubs were older than the strip. The **Chaparral Roadster Club** (Dallas) was founded in 1949 with Jim Overbey as its first president, according to Karl Knecht, who posted Overbey's photo album.[^hamb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> In the same account, the **Fort Worth Turtles** formed in 1948.[^hamb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The dates come only from Knecht.
+
 ## Caddo Mills (1951)
 
 Caddo Mills was an old airfield before it was a strip. The first organized race on the abandoned WWII airfield at **Caddo Mills** was held **Aug 19, 1951**. It was arranged by Dallas's **Chaparral Roadster Club** with local officials. There were 56 cars at a **$1 entry**, timed with **three hand-held stopwatches** (Dragzine).[^dz] The strip became Texas's first NHRA-sanctioned drag strip.[^dz]
@@ -50,9 +52,7 @@ Later the North Texas Timing Association ran it with Chrondek timers.[^dz]<sup c
 
 Recollections on Drag List add detail from people who were there.[^dl]
 
-## The clubs and the road
-
-The clubs were older than the strip. The **Chaparral Roadster Club** (Dallas) was founded in 1949 with Jim Overbey as its first president, according to Karl Knecht, who posted Overbey's photo album.[^hamb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> In the same account, the **Fort Worth Turtles** formed in 1948.[^hamb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The dates come only from Knecht.
+## The road
 
 Texas teams also travelled. The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
 
