@@ -62,6 +62,8 @@ canonical_for: []
 
 A sheriff started it, and a federal agency ended it. For about 51 years a volunteer car club kept a quarter-mile on a taxiway at the Inyokern airport in Kern County. The LA Times says it began when Sheriff "Mac" McKernan, facing young people racing hot rods on rural roads "during the first Eisenhower administration," helped them form a nonprofit and "arranged for them to drag race legally and safely on a taxiway" of the Inyokern Airport.[^lat] Ganahl's blog gives the opening as Oct. 24, 1954.[^pg]
 
+The strip also launched a career. Bernie Partridge joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+
 The LA Times feature shows how a club kept a strip alive for half a century.[^lat] The racers paid the airport about $1,000 per racing day, the airport manager's figure, and gave other funds, such as entry fees, to local charities including the Boy Scouts. To meet insurance requirements, volunteers erected two guardrails "begged from other tracks" nearly 20 years earlier.
 
 The club also worked the town. Members spoke to Ridgecrest shop classes and invited students to "high school days" on the taxiway. The club's public address system was loaned to local clubs and parades. They bought modern timing equipment with volunteer fundraising, sold sponsorships on hubcaps, and rented the timing gear to other tracks.[^lat]
@@ -74,9 +76,7 @@ Then came the inspection. The LA Times says the FAA threatened the county-owned 
 >
 > — **Steve Parsons**, local champion, LA Times (2005).[^lat]
 
-The strip also launched a career. Bernie Partridge joined the Dust Devils Auto Club of Ridgecrest in 1951, was elected president in 1953, and managed the Inyokern Dragstrip from 1954 through 1962, says his San Bernardino Sun obituary. He became NHRA's chief announcer in 1958 and Southwest Division director in December 1962, and retired in 1989. The obituary adds that he "gave legendary racer Don Garlits his 'Big Daddy' nickname while announcing at the 1962 U.S. Nationals."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
-
-At his 2012 memorial, NHRA's report quotes David Leighton, who worked with his father Gus and Partridge, "Dust Devils Auto Club alumni all," setting up impromptu airport tracks: "We opened and closed more racetracks than Steve Evans did."[^nhra]
+At Partridge's 2012 memorial, NHRA's report quotes David Leighton, who worked with his father Gus and Partridge, "Dust Devils Auto Club alumni all," setting up impromptu airport tracks: "We opened and closed more racetracks than Steve Evans did."[^nhra]
 
 The town still tells the story. In April 2025 the Historical Society of the Upper Mojave Desert announced a talk on Mark Pahuta's two-hour film *The Hot Rod Years*, built from interviews with twenty local hot rodders. The release says "racing on Trona Hill and cruising China Lake Boulevard between A&W, and Foster's Freeze was the stuff of local racing legend." It calls the Inyokern strip "the longest continuously running drag strip in the country" and lists interviewees including Don Waldron, J.D. Williams, Tex Whitson, Bob Cram, Billie Raglin and Dave Leighton.[^hs] We have not seen the film.
 

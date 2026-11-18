@@ -86,7 +86,7 @@ The next spring, in Hardin, Roger Shaw's youth council column raised the "contro
 
 The strips that did exist could bring trouble with them. In May 1959 the *Glasgow Courier* wrote that Lewistown was "recovering from a wild melee" after "camp followers of the worst kind" came to town for "an authorized drag race program." The editorial said the meet itself was "well run and orderly," and it quoted a spokesman for the local Road-Stur Club: "There was no way we could handle the rough element." The *Poplar Standard* reprinted the editorial a week later.[^ps590522]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> We know the meet only from the editorial as reprinted in Poplar.
 
-Montana's strips also served North Dakotans next door. Bruce Olson of Beach, North Dakota, a Montana border town, "ran the Coupe at both the Lewistown & Bozeman (Belgrade) Air/Drag Strips (circa 1958)," his son wrote; the Bozeman strip, by that account, was the airport at Belgrade.[^hemi32mt] Later a North Dakota racer, Hank Berry, drove 55 miles to a drag strip at Glendive until it closed in the late 1970s.[^nodakmt] (Full story: [North Dakota's borrowed strips](north-dakota-minot-borrowed-strips.md).)
+Montana's strips also served North Dakotans next door. Bruce Olson of Beach, North Dakota, a Montana border town, "ran the Coupe at both the Lewistown & Bozeman (Belgrade) Air/Drag Strips (circa 1958)," his son wrote; the Bozeman strip, by that account, was the airport at Belgrade.[^hemi32mt] (Full story: [North Dakota's borrowed strips](north-dakota-minot-borrowed-strips.md).)
 
 ## Arlee and Ronan (1960–62)
 
@@ -101,6 +101,10 @@ By the summer of 1962 the Road Runners' president was racing as far away as Deer
 *St. Ignatius, home of the weekly that printed the Arlee and Ronan clubs' statements. Photo: Tony Hisgett, 2012, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*
 
 Clubs elsewhere in this wiki wrote the same kind of statements: the [Orchids and Celtics of Canyon, Texas](canyon-orchids-celtics-amarillo.md) and the [Twin Falls club](../places/twin-falls-main-avenue.md) that formed to get off Main Avenue. In Montana the clubs first explained a skull emblem, then printed their members' names, and by 1962 one club's president was driving the family car to Deer Park and winning.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+
+## Glendive (late 1970s)
+
+Later a North Dakota racer, Hank Berry, drove 55 miles to a drag strip at Glendive until it closed in the late 1970s.[^nodakmt]
 
 *See also:* another far-northern strip hunt in the same years, [Palmer, Alaska, and Polar Dragway](palmer-alaska-polar-dragway.md). Next door, Wyoming's hot rodders raced on an old airport's runways: see [Casper and Wyoming's strips](casper-bar-nunn-wyoming-strips.md).
 
