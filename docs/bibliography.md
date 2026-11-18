@@ -961,3 +961,30 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [ref] Stewart Green, "A Spectator's Guide to the Clovis Music Festival and Draggin' Main," New Mexico True. https://www.newmexico.org/blog/post/a-spectators-guide-to-the-clovis-music-festival-and-draggin-main/
 - [local] Tom Haley, "Pico Raceway's history largely a blur," *Rutland Herald*, Oct. 25, 2007, via YankeeRacer.com (report on a Rutland Historical Society roundtable). https://yankeeracer.com/2007/10/25/pico-raceways-history-largely-a-blur/
 - [local] Bill Ladabouche, "Oh, That Must Be Uncle Al," Catamount Stadium history site, Sept. 10, 2015. http://www.catamountstadium.com/weeklyblog.sept102015.ohthatmustbeuncleal.html
+
+## Round 43 additions (Pro-Touring from the garage, Back to the 50's, Joe Bailon, Petaluma and *American Graffiti*, Broadway Speedway)
+- [mag] Terry McGean, "Mark Stielow's trend-setting 'Tri-Tip' Camaro heads to SEMA," *Hemmings*, Oct. 31, 2019 (updated Mar. 24, 2024). https://www.hemmings.com/stories/mark-stielows-trend-setting-tri-tip-camaro-heads-to-sema/
+- [mag] Steven Rupp, "Mark Stielow's 'Tri-Tip': The 1969 Camaro That Helped Launch Pro Touring!," *Hot Rod*, Aug. 8, 2022. https://www.hotrod.com/features/1969-tri-tip-camaro-pro-touring-history
+- [mag] Scott Parker, "What is Pro Touring?," *Street Muscle*, May 11, 2020 (Jeff Smith's account of the name). https://www.streetmusclemag.com/features/what-is-pro-touring/
+- [web] "The Path to Hot-Rodding Fame," Carhutt (repost of a Stielow profile). https://www.carhutt.com/the-path-to-hot-rodding-fame/
+- [trade] Dave Argabright, "Industry Insights: Kyle Tucker," *Performance Racing Industry*, Oct. 1, 2021. https://www.performanceracing.com/magazine/columns/10-01-2021/industry-insights-kyle-tucker
+- [corp] Jesse Kiser, "Detroit Speed Celebrates 20 Years With A Very Special Gift To Their Founder," Holley Motor Life, Nov. 1, 2021. https://www.holley.com/blog/post/detroit_speed_celebrates_20_years_with_a_very_special_gift_to_their_founder/
+- [mag] Ellen Richardson, "Behind the Wheel: Battle of the Builders Winner Kyle Tucker," RacingJunk News, Dec. 19, 2018. https://www.racingjunk.com/news/behind-the-wheel-battle-of-the-builders-winner-kyle-tucker/
+- [club] Jerry Johnson, *LineChaser* (MSRA), July 1974, with the February 2012 look-back, reposted as "History of Back to the Fifties, Part I," HotRod Hotline, Apr. 12, 2013. https://hotrodhotline.com/history-of-back-to-the-fifties-part-i/
+- [club] Gary Magner, "Fifty Years of the MSRA," HotRod Hotline, Apr. 5, 2017. https://hotrodhotline.com/fifty-years-of-the-msra/
+- [club] Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/
+- [mag] Jim Volgarino, "'Back to the 50's' celebrates hot rod culture's golden age," ClassicCars.com Journal, June 30, 2018. https://journal.classiccars.com/2018/06/30/back-to-the-50s-celebrates-hot-rod-cultures-golden-age/
+- [hof] "Joe Bailon," American Hot Rod Foundation. https://ahrf.com/pioneer/joe-bailon/
+- [obit] Daniel Strohl, "Joe Bailon, inventor of 'candy apple red' and other paints, dies aged 94," *Hemmings*, Sept. 27, 2017. https://www.hemmings.com/stories/joe-bailon-inventor-of-candy-apple-red-and-other-paints-dies-aged-94/
+- [ref] "Joe Bailon" and "Jerry Sahagon's 1951 Chevrolet," Kustomrama (with 1952–60 Bay Area and Fresno newspaper clippings). https://www.kustomrama.com/wiki/Joe_Bailon
+- [local] John Sweeney, "Dings & Dents – November 2017," *Cruisin' News* (Sacramento), Nov. 8, 2017. https://cruisinnews.com/dings-dents-november-2017/
+- [corp] Lucas O. Seastrom, "50 Years Ago: American Graffiti Begins Filming," Lucasfilm.com, June 30, 2022. https://www.lucasfilm.com/news/50-years-ago-american-graffiti-begins-filming/
+- [local] Clark Miller, "Celebrating city's link to 'American Graffiti'," *Petaluma Argus-Courier*, May 17, 2023. https://www.petalumanews.com/2023/05/17/celebrating-citys-link-to-american-graffiti/
+- [local] Harlan Osborne, "Toolin' Around Town: city streets, shiny cars and Mackenzie Phillips," *Petaluma Argus-Courier*, May 12, 2022. https://www.petalumanews.com/2022/05/12/toolin-around-town-city-streets-shiny-cars-and-mackenzie-phillips/
+- [local] Chris Samson, "Classic cop car scene in 'American Graffiti' re-created at 4:30 a.m.," and Meloni Courtway, "Downtown 'Graffiti' car show and cruise draws big crowd," *Petaluma Argus-Courier*, May 22 and 21, 2008. https://www.petalumanews.com/2008/05/22/classic-cop-car-scene-in-american-graffiti-re-created-at-430-am/
+- [local] Harlan Osborne, "Lund's Drive In was the place be seen in 1950s Petaluma," *Petaluma Argus-Courier*, Aug. 22, 2019 (first published 2007). https://www.petalumanews.com/2019/08/22/lunds-drive-in-was-the-place-be-seen-in-1950s-petaluma/
+- [museum] Connie Williams, "Driving in and eating out Petaluma: 1950s and 60s," Petaluma History Room, Sonoma County Library, June 14, 2023, and "Celebrating 50 years Of American Graffiti," Petaluma Historical Library & Museum, 2023. https://digital.sonomalibrary.org/local-history-culture/not-just-chickens/driving-in-and-eating-out-petaluma-1950s-and-60s.
+- [local] Jack Neely, "Secret History: The Broadway Speedway," *Metro Pulse* (Knoxville), Jan. 16, 2003 (archived copy). https://monkeyfire.com/mpol/dir_zine/dir_2003/1303/t_secret.html
+- [family] "Racing," Eddie's Auto Parts, Knoxville. http://w.eddiesautopartsknoxville.com/eddiesautopartsknoxville.com/racing.php
+- [obit] "Edward R. 'Eddie' Harvey," Mynatt Funeral Homes, April 2014. https://www.mynattfh.com/obituaries/edward-r-eddie-harvey
+- [book] David McGee, *A History of East Tennessee Auto Racing: The Thrill of the Mountains* (The History Press, 2014).

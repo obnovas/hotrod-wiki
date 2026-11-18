@@ -57,6 +57,8 @@ The recipe: large rear tires under stock-looking bodies via wheel tubs, back-hal
 
 He does not recall a Pro Stocker with a supercharger on it. Reyes called the trend Pro Street in 1979. In 1988 the '55 Chevy "Cheez Whiz" still went cross-country.
 
+A decade later the next style got a name the same way, by Pro Street's example: see [Under the Light Pole](1990s-pro-touring-garage-engineers.md) for Pro-Touring.
+
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*

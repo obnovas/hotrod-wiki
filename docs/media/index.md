@@ -11,10 +11,11 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [*Street Rod* Magazine (Portland, 1971–73)](street-rod-magazine-portland.md): Bruce Miller and Bruce Craig's 20-issue monthly, which took the title first.
 - [*Street Rod* in the Small-Town Paper (1953–54)](street-rod-newspaper-serial.md): Henry Gregor Felsen's novel about a teenage timing association, serialized by NEA in papers from Escanaba to Hope, Arkansas.
 - [A Dance That Grew Cars: Hot August Nights (Reno, 1986)](hot-august-nights-reno-1986.md): a realtors' '50s dance for Easter Seals, a Classic Chevys show and shine, and a softball tournament's lesson (⚠ who named it, and why).
+- [Where Lucas Shot It: Petaluma and *American Graffiti* (1972)](american-graffiti-petaluma-1972.md): San Rafael says no after one night, Petaluma says yes, a drive-in where the Pacers met, and the car show the town's own car people built in 2006 (⚠ when Lund took over Hollie's).
 
 **Elsewhere in the wiki**
 
 - The drag-racing press: [The Drag Rags (1960s)](../eras/1960s-drag-rags.md) and [Doris Herbert](../people/doris-herbert.md) of *Drag News*; [Dick Wells](../people/dick-wells.md), the first editor of *National Dragster*.
 - Show and custom recollections: [Show & Custom Voices](../voices/show-custom-voices.md).
 
-*Open threads:* Hollywood films such as *Hot Rod Gang* (1958) and *American Graffiti* (1973), and Rod & Custom's 25-cent "little" books. Both are listed on the [Research Trail](../research-trail.md) until we have sources.
+*Open threads:* Hollywood films such as *Hot Rod Gang* (1958) and the cars of *American Graffiti* (1973; its Petaluma filming is now told in [Where Lucas Shot It](american-graffiti-petaluma-1972.md)), and Rod & Custom's 25-cent "little" books. Both are listed on the [Research Trail](../research-trail.md) until we have sources.

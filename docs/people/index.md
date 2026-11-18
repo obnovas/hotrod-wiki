@@ -40,6 +40,7 @@ Most of them started in a garage, a shed or a borrowed corner of someone else's 
 - [Tom McEwen](tom-mcewen.md): Pensacola-born, Long Beach-raised Mongoose; Lions 1964, Hot Wheels, five NHRA nationals including Indianapolis 1978 (⚠ death date; son's name and age).
 - [Gene Cromer](gene-cromer-moonlighter.md): Anderson, S.C., builder of every car he raced; the Willys gasser his wife named the *Moonlighter*, an A/Gas win at Donaldson AFB in 1965 (? whether it was the base's only meet), and racing again in his eighties (⚠ 1940 or 1941 Willys).
 - [Roland Leong](roland-leong.md): "The Hawaiian": Kahuku gas dragsters, Dragmasters, the crash that made him an owner, and Prudhomme (⚠ when they met).
+- [Joe Bailon](joe-bailon-candy-apple.md): the Bay Area customizer who chased a taillight's glow for about ten years, got Candy Apple Red in 1956, and sold a method anyone could copy (◐ the Christmas-tree flakes; ◐ the first candy car).
 - Bruce Miller: see [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 *Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Jeg Coughlin Sr., Ron Hassel, "Ohio George" Montgomery, Carl & Marie Gay.

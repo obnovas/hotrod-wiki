@@ -124,6 +124,16 @@ themes:
         also: [cars/techniques-and-styles.md]
         flag: eras/1980s-pro-street.md#q-2
 
+      - id: pro-touring-start
+        q: Where did Pro-Touring come from?
+        a: >-
+          From young GM engineers' own garages. Mark Stielow drove a 1969 Camaro he had fixed under a hotel
+          parking-lot light to the 1993 One Lap of America, and Kyle and Stacy Tucker's home-garage Camaro, Twister,
+          started Detroit Speed; Stielow later phoned editor Jeff Smith with the name. When Twister debuted is told two
+          ways (⚠ see Open questions).
+        link: eras/1990s-pro-touring-garage-engineers.md
+        also: [eras/1980s-pro-street.md]
+        flag: eras/1990s-pro-touring-garage-engineers.md#q-2
   - id: strips-and-towns
     title: Drag strips and the towns that argued about them
     questions:
@@ -1017,6 +1027,15 @@ themes:
         link: drag-racing/pico-raceway-rutland-airport.md
         also: [drag-racing/milton-speedway-vermont.md]
         flag: drag-racing/pico-raceway-rutland-airport.md#q-1
+      - id: broadway-speedway-knoxville
+        q: What was Knoxville's Broadway Speedway?
+        a: >-
+          A track off Maynardville Highway that opened in May 1948 with midget racing, where, Eddie Harvey
+          remembered, asking for a roll bar got you called a sissy. Harvey later built his own track farther out
+          the same highway; when it became a drag strip is told two ways (⚠ see Open questions).
+        link: drag-racing/broadway-speedway-knoxville-eddie-harvey.md
+        also: [companies/honest-charley-speed-shop.md]
+        flag: drag-racing/broadway-speedway-knoxville-eddie-harvey.md#q-4
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1130,6 +1149,14 @@ themes:
         link: places/draggin-main-clovis-new-mexico.md
         also: [places/dragging-main.md]
         flag: [places/draggin-main-clovis-new-mexico.md#q-1, places/draggin-main-clovis-new-mexico.md#q-2]
+      - id: american-graffiti-petaluma
+        q: Why was American Graffiti filmed in Petaluma?
+        a: >-
+          San Rafael withdrew its permission after one night of shooting in June 1972, so George Lucas moved to
+          Petaluma, a town with its own drive-in and car-club scene. Local car people formed Cruisin' the Boulevard
+          in 2005 and turned the film into a downtown car show.
+        link: media/american-graffiti-petaluma-1972.md
+        also: [street-rodding/back-to-the-50s-msra-st-paul-1974.md]
   - id: companies-and-parts
     title: Companies and the parts business
     questions:
@@ -1405,6 +1432,15 @@ themes:
         link: people/gene-cromer-moonlighter.md
         also: [drag-racing/blaney-drag-strip-elgin-south-carolina.md]
         flag: people/gene-cromer-moonlighter.md#q-1
+      - id: joe-bailon-candy-apple
+        q: Who came up with Candy Apple Red?
+        a: >-
+          Joe Bailon, a Bay Area customizer, who chased the glow of a taillight on a wet street for about ten years
+          before he got it right in 1956. It was a way of painting, not a product. Which car wore it first rests on
+          a single source (◐ see Open questions).
+        link: people/joe-bailon-candy-apple.md
+        also: [customs/index.md]
+        flag: people/joe-bailon-candy-apple.md#q-4
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1550,6 +1586,15 @@ themes:
         link: media/hot-august-nights-reno-1986.md
         also: [media/show-circuit.md]
         flag: media/hot-august-nights-reno-1986.md#q-1
+      - id: back-to-the-50s-start
+        q: How did Back to the 50's begin?
+        a: >-
+          As the Minnesota Street Rod Association's rehearsal for hosting the Street Rod Nationals: a Friday night
+          shopping-center show in St. Paul on June 21, 1974, a cruise to Porky's and a surprise for a crowd leaving
+          American Graffiti. How many cars came that night is disputed (⚠ see Open questions).
+        link: street-rodding/back-to-the-50s-msra-st-paul-1974.md
+        also: [places/upper-midwest.md, street-rodding/nsra-early-nationals.md]
+        flag: street-rodding/back-to-the-50s-msra-st-paul-1974.md#q-1
   - id: how-we-know
     title: Sources and how we know
     questions:

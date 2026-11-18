@@ -44,7 +44,7 @@ In Minnesota the street came before the strip. The Minnesota Street Rod Associat
 
 ## Back to the 50's
 
-Four years after Peoria, the MSRA held an event of its own. The first Back to the 50's was held June 23–25, 1974, at the Midway Shopping Center, St. Paul. It drew about 125–150 cars and included a cruise to Porky's Drive-In.[^msra] The MSRA treats it as a rehearsal for hosting the 5th Nationals in St. Paul that year.[^msra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> That is the MSRA's own account.
+Four years after Peoria, the MSRA held an event of its own. The first Back to the 50's was held on a Friday night, June 21, 1974, at the Midway Shopping Center, St. Paul, with a cruise to Porky's Drive-In.[^msra][^lc74] The club's history page puts the crowd at about 125–150 cars; the club magazine's report the next month counted more than 250.[^msra][^lc74] It was a rehearsal for hosting the 5th Nationals in St. Paul that year: the July 1974 *LineChaser* called it a "pre-promotion for the NSRA Street Rod Nationals," and members handed out more than 2,500 handbills for the Nats.[^lc74] The whole night is told in [A Tune-Up for the Nats](../street-rodding/back-to-the-50s-msra-st-paul-1974.md).
 
 Eligibility was 1964 and older, looser than the NSRA's 1948 line.[^msra]
 
@@ -58,7 +58,9 @@ A cold climate and long distances shaped a culture of summer driving events and 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **A rehearsal for the 5th Nationals?** That the 1974 Back to the 50's was a rehearsal for hosting the Nationals in St. Paul is the MSRA's own account.[^msra] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+### Next leads
+
+The *St. Paul Dispatch* and *Pioneer Press* for June 22, 1974, on the first Back to the 50's (see [A Tune-Up for the Nats](../street-rodding/back-to-the-50s-msra-st-paul-1974.md#q-1) for the car-count question).
 
 ## Images
 
@@ -81,6 +83,7 @@ A cold climate and long distances shaped a culture of summer driving events and 
 [^hh50]: HotRod Hotline, "Fifty Years of the MSRA." https://hotrodhotline.com/fifty-years-of-the-msra/ (accessed 2026-10-13)
 [^jj]: HotRod Hotline, "MSRA Founding Member Jerry Johnson Passes Away." https://hotrodhotline.com/msra-founding-member-jerry-johnson-passes-away/ (accessed 2026-10-13)
 [^msra]: Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/ (accessed 2026-10-13)
+[^lc74]: Jerry Johnson, report in the MSRA *LineChaser*, July 1974, with the members' February 2012 look-back, reposted as "History of Back to the Fifties, Part I," HotRod Hotline, April 12, 2013. https://hotrodhotline.com/history-of-back-to-the-fifties-part-i/ (accessed 2026-11-18)
 [^hh2]: HotRod Hotline, "History of Back to the Fifties, Part II." https://hotrodhotline.com/history-of-back-to-the-fifties-part-ii/ (accessed 2026-10-13)
 [^cc]: ClassicCars.com Journal, "'Back to the 50's' celebrates hot rod culture's golden age" (2018). https://journal.classiccars.com/2018/06/30/back-to-the-50s-celebrates-hot-rod-cultures-golden-age/ (accessed 2026-10-12)
 [^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals (accessed 2026-10-12)
