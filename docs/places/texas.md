@@ -52,7 +52,7 @@ Later the North Texas Timing Association ran it with Chrondek timers.[^dz]<sup c
 
 Recollections on Drag List add detail from people who were there.[^dl]
 
-## The clubs and the road
+## The road
 
 Texas teams also travelled. The **Dallas Custom Racing Team** won at Memphis's Halls meet in 1955 ([Memphis](memphis.md)). It is evidence of a Southern circuit that Texas teams travelled.[^sema]
 

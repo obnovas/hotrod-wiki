@@ -43,11 +43,11 @@ canonical_for: []
 
 ## From fake Cords to lead sleds
 
-Early customizing (c.1935–1946) was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k] The next era was named for the lead.
+Early customizing (c.1935–1946) was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k] The vocabulary grew with the work: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] The know-how traveled on paper, in Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs] The next era was named for the lead.
 
 From about 1949 to 1955 the look was lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sectioning, with seams and holes finished in tin and lead (hence "lead sleds").[^revs] The chopped '49–'51 Mercury became the defining canvas after Sam Barris's '49.[^revs]
 
-The vocabulary grew with the work: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] Then channeling. Summers is credited with the first channel job by *Motor Life*, 1955.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^k] Whether Summers was first to channel a body is still open. The know-how traveled on paper, in Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs]
+Then channeling. Summers is credited with the first channel job by *Motor Life*, 1955.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^k] Whether Summers was first to channel a body is still open.
 
 Not every builder reached for the same material. Roy Hagy "didn't like to use much lead; he'd metal-finish everything" (Tom Sparks via Pat Ganahl).[^hagy] See [Roy Hagy](../people/roy-hagy.md).
 
