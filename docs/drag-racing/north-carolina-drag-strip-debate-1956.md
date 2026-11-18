@@ -85,6 +85,8 @@ In April 1957, after two highway races killed three people in Forsyth and Frankl
 
 Private money did not wait for permission. In July 1957 the *Coastland Times* news roundup reported that two Asheville businessmen planned to operate a private drag strip at Black Mountain, with "supervised" drag racing on a small private air strip, a week after a judge there handed down stiff punishment to 13 teenagers accused of drag racing.[^ct570705]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> Whether those drags ever ran is still open.
 
+## Sunday at Easy Street (1960)
+
 The state had said no. The kids went anyway. In December 1960 the Chapel Hill high school's news column in the *Weekly* reported that "High school boys—and I hear a few girls—made a mass migration to the Easy Street Drag Strip last Sunday afternoon to watch the races." For the kids who stayed home, the student columnist added, it was boredom: the usual Sunday afternoon riding had been cut short "by loss of the boys with cars."[^chw601208] Easy Street, at Newton Grove, is where Malcolm Durham began racing in 1957.[^durham]
 
 An airman and a stock car man had asked for a supervised strip. A judge had called it a practice murder place, and the state had said no. On a Sunday in 1960 the Chapel Hill kids were at Easy Street.
