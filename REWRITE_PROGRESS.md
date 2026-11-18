@@ -35,15 +35,15 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/atco-strato-rods-south-jersey.md` | done | batch 3 |
 | `drag-racing/atlanta-speed-shop-dragway.md` | done | batch 3 |
 | `drag-racing/beardstown-drag-strip.md` | done | batch 5 |
-| `drag-racing/beech-bend-raceway-bowling-green.md` | todo | |
+| `drag-racing/beech-bend-raceway-bowling-green.md` | done | batch 8 |
 | `drag-racing/beeline-dragway-mesa.md` | done | batch 7 |
 | `drag-racing/belleville-gear-jammers.md` | done | batch 3 |
 | `drag-racing/big-spring-lions-club-drag-strip-deshazo.md` | todo | |
 | `drag-racing/biloxi-dragway-gulf-coast.md` | todo | |
 | `drag-racing/blaney-drag-strip-elgin-south-carolina.md` | todo | |
-| `drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md` | todo | |
+| `drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md` | done | batch 8 |
 | `drag-racing/brooksville-jaycees-drag-strip.md` | done | batch 4 |
-| `drag-racing/bunker-hill-dragstrip-indiana.md` | todo | |
+| `drag-racing/bunker-hill-dragstrip-indiana.md` | done | batch 8 |
 | `drag-racing/cameron-accelerators.md` | done | batch 6 |
 | `drag-racing/canyon-orchids-celtics-amarillo.md` | done | batch 3 |
 | `drag-racing/carlisle-drag-strip-arkansas.md` | todo | |
@@ -55,7 +55,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/chester-drag-strip-south-carolina.md` | done | batch 4 |
 | `drag-racing/columbus-trotters-high-winders.md` | done | batch 6 |
 | `drag-racing/connecticut-clubs-nutmeg-state-timing-association.md` | done | batch 4 |
-| `drag-racing/cumberland-clockers.md` | todo | |
+| `drag-racing/cumberland-clockers.md` | done | batch 8 |
 | `drag-racing/cumming-dragway.md` | todo | |
 | `drag-racing/dc-dragons-jo-ann-johnson.md` | done | batch 7 |
 | `drag-racing/deer-park-spokane-nitrous.md` | done | batch 10 |
@@ -67,12 +67,12 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/eugene-balboa-white-city-oregon.md` | done | batch 10 |
 | `drag-racing/fairburn-atlanta-daily-world.md` | todo | |
 | `drag-racing/farmington-dragway-becky-white.md` | done | batch 7 |
-| `drag-racing/firebird-international-raceway-chandler.md` | todo | |
-| `drag-racing/firebird-raceway-idaho-bootleggers.md` | todo | |
+| `drag-racing/firebird-international-raceway-chandler.md` | done | batch 8 |
+| `drag-racing/firebird-raceway-idaho-bootleggers.md` | done | batch 8 |
 | `drag-racing/fox-valley-road-deacons-gas-ketts.md` | done | batch 5 |
-| `drag-racing/george-rays-wildcat-drag-strip-paragould.md` | todo | |
+| `drag-racing/george-rays-wildcat-drag-strip-paragould.md` | done | batch 8 |
 | `drag-racing/georgetown-speedway-delaware.md` | done | batch 7 |
-| `drag-racing/georgia-clubs-hy-winders-ridge-runners.md` | todo | |
+| `drag-racing/georgia-clubs-hy-winders-ridge-runners.md` | done | batch 8 |
 | `drag-racing/golden-triangle-oldsmar.md` | done | batch 5 |
 | `drag-racing/great-bend-srca.md` | done | batch 2 |
 | `drag-racing/great-lakes-dragaway-union-grove.md` | todo | |
@@ -82,48 +82,48 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/hanover-adams-county-clubs.md` | done | batch 6 |
 | `drag-racing/harmon-raceway-monroe.md` | todo | |
 | `drag-racing/high-school-hot-rod-clubs.md` | todo | |
-| `drag-racing/hope-airport-drag-strip.md` | todo | |
+| `drag-racing/hope-airport-drag-strip.md` | done | batch 8 |
 | `drag-racing/houston-freeway-dragstrip.md` | done | batch 1 |
 | `drag-racing/indiana-small-town-clubs.md` | done | batch 1 |
-| `drag-racing/inyokern-dust-devils.md` | todo | |
+| `drag-racing/inyokern-dust-devils.md` | done | batch 8 |
 | `drag-racing/island-dragway-great-meadows.md` | done | batch 3 |
 | `drag-racing/kahuku-point-hawaii-drag-strip.md` | done | batch 7 |
-| `drag-racing/kanawha-valley-drag-strip-winfield.md` | todo | |
+| `drag-racing/kanawha-valley-drag-strip-winfield.md` | done | batch 8 |
 | `drag-racing/kansas-city-timing-association.md` | done | batch 2 |
 | `drag-racing/key-west-rumbling-rods.md` | done | batch 7 |
 | `drag-racing/kingston-igniters.md` | done | batch 3 |
 | `drag-racing/kk-sports-arena-hospitality-bankruptcy.md` | todo | |
 | `drag-racing/kk-sports-arena-kaukauna.md` | todo | |
 | `drag-racing/lake-butler-mid-state-timing-association.md` | done | batch 5 |
-| `drag-racing/lakeland-dragway-amusement-park.md` | todo | |
+| `drag-racing/lakeland-dragway-amusement-park.md` | done | batch 8 |
 | `drag-racing/laplace-dragway-houma.md` | done | batch 7 |
 | `drag-racing/las-vegas-henderson-drag-strips.md` | todo | |
 | `drag-racing/linden-njta-new-jersey-short-strips.md` | done | batch 10 |
-| `drag-racing/m-n-raceway-wichita-simon-farm.md` | todo | |
+| `drag-racing/m-n-raceway-wichita-simon-farm.md` | done | batch 8 |
 | `drag-racing/marana-army-air-field-drags.md` | done | batch 5 |
 | `drag-racing/march-1957-drag-strip-survey.md` | done | batch 4 |
 | `drag-racing/marin-cotati-strips.md` | done | batch 10 |
-| `drag-racing/medina-county-castroville-drags.md` | todo | |
+| `drag-racing/medina-county-castroville-drags.md` | done | batch 8 |
 | `drag-racing/milton-speedway-vermont.md` | done | batch 6 |
 | `drag-racing/minnesota-dragways-coon-rapids-gsta.md` | todo | |
 | `drag-racing/mississippi-hometown-strips-jackson-pearl.md` | todo | |
-| `drag-racing/modesto-century-toppers.md` | todo | |
-| `drag-racing/montana-hoodoos-road-runners-royal-coachmen.md` | todo | |
+| `drag-racing/modesto-century-toppers.md` | done | batch 8 |
+| `drag-racing/montana-hoodoos-road-runners-royal-coachmen.md` | done | batch 8 |
 | `drag-racing/mountain-view-erie-colorado-strips.md` | todo | |
 | `drag-racing/nebraska-flightland-grand-island-kearney.md` | todo | |
 | `drag-racing/nebraska-go-out-to-scribner.md` | done | batch 4 |
 | `drag-racing/new-england-dragway-epping.md` | done | batch 4 |
 | `drag-racing/new-mexico-timing-association-albuquerque.md` | todo | |
 | `drag-racing/new-york-towns-panel-1957.md` | todo | |
-| `drag-racing/north-carolina-drag-strip-debate-1956.md` | todo | |
+| `drag-racing/north-carolina-drag-strip-debate-1956.md` | done | batch 8 |
 | `drag-racing/north-dakota-minot-borrowed-strips.md` | todo | |
 | `drag-racing/oklahoma-city-nationals-rush-springs.md` | done | batch 3 |
-| `drag-racing/orange-county-international-raceway.md` | todo | |
+| `drag-racing/orange-county-international-raceway.md` | done | batch 8 |
 | `drag-racing/palm-springs-timing-association.md` | done | batch 7 |
 | `drag-racing/palmer-alaska-polar-dragway.md` | done | batch 10 |
 | `drag-racing/paradise-drag-strip-calhoun.md` | done | batch 7 |
 | `drag-racing/pascagoula-timing-association.md` | done | batch 4 |
-| `drag-racing/pel-state-dragway-opelousas.md` | todo | |
+| `drag-racing/pel-state-dragway-opelousas.md` | done | batch 8 |
 | `drag-racing/pennsauken-central-airport-1958.md` | done | batch 4 |
 | `drag-racing/perryville-marsh-airstrip.md` | done | batch 5 |
 | `drag-racing/phoenix-west-side-karbs-litchfield-road.md` | done | batch 2 |
@@ -140,7 +140,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/salina-raceway-old-runway-kansas.md` | done | batch 6 |
 | `drag-racing/san-antonio-double-eagle-alamo-dragway.md` | todo | |
 | `drag-racing/sanford-cain-bannister.md` | done | batch 2 |
-| `drag-racing/santa-maria-golden-state-raceway.md` | todo | |
+| `drag-racing/santa-maria-golden-state-raceway.md` | done | batch 8 |
 | `drag-racing/scappoose-aurora-columbia-timing-association.md` | todo | |
 | `drag-racing/sedalia-big-sir.md` | todo | |
 | `drag-racing/sedalia-drag-ons.md` | done | batch 3 |

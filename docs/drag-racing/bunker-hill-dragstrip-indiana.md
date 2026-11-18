@@ -74,8 +74,6 @@ status: Open (an eighth-mile strip since its later years)[^bhabout]
 
     — Jay Hullinger, on his father's roller starters, to Phil Burgess, NHRA, 2020.[^nhra20]
 
-## A stock car man's strip
-
 Bunker Hill was billed as Indiana's first drag strip, by the track's account and the *Kokomo Tribune*'s.[^bhabout][^kt21]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> It was run by a man who fixed what bothered him. He lit the track with car headlights. He built his own scoreboards. And when push-starting dragsters slowed his show, he built a machine to start them, and other tracks bought it.
 
 Jim Hullinger was born in Howard County on July 30, 1925, graduated from Clay Township High School in 1943 and served in the Army from 1944 to 1946. He married Mary Matt Crenshaw in October 1945. He worked at Continental Steel and Syndicate Sales. In the 1950s he was a leading stock car and modified racer at the Kokomo and Warsaw speedways.[^obit]
@@ -89,8 +87,6 @@ Hullinger did his own engineering. NHRA's Phil Burgess, writing in 2020, called 
 He kept tinkering and sold them as the Safe-Start. A one-car unit cost $3,377 and a two-car unit $5,495, each driven by a 283-cubic-inch Chevy engine and transmission. Wider ones were made for sprint cars, and he staged a demonstration for USAC. NHRA counts as many as three dozen tracks that used them, mostly in the Midwest, Indianapolis and Bowling Green among them.[^nhra20] His obituary puts it at almost 40 units at major tracks and says parts of the design were patented.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see Open questions">?</a></sup>[^obit] The first ones had a hydraulic ramp that came up behind the car to hold it, and it did not last long. His son Jay remembered the trouble drivers had. A driver who ran the tires faster than the rollers could shoot off the platform, and when he grabbed the brake the rollers "would slam him back against the gate. It was just amazing that there we so many racers who couldn't figure out the basis of it."[^nhra20]
 
 Roller starters lasted only from 1964 through 1974. NHRA required remote starters for Top Fuel cars in 1975.[^nhra20] Roland Leong said rollers in the pits "made it a lot safer" and called them "definitely a blessing."[^nhra20] By 2020 the collector Mike Roth had dug Bunker Hill's original single-roller bed out of "its long resting place at the Hullinger home," its chains rusted and broken, to restore it.[^nhra20]
-
-## The kid on the bicycle
 
 The strip stayed a hometown place. Jerry Engel of Bunker Hill raced a Dodge there in the 1960s. His son Brett rode his bike to the track as a boy: "I used to ride my bicycle there and Jim Hullinger (the track owner) would chase me off." From home, a few miles away, he could hear the cars on Saturday nights. Brett started racing motorcycles at Bunker Hill in 1986, won a track championship in his first full season in 1987, and by 2022 his father was his pit crew.[^bh22]
 
