@@ -68,8 +68,6 @@ canonical_for: []
 
 In May 1955 the American Society of Planning Officials, in Chicago, sent its city planners a report titled *Hot Rods, Car Clubs and Drag Strips*. Planning commissions, it warned, "will be called upon" to find sites for hot rod racing and to recommend zoning for drag strips.[^aspo] It is a snapshot of what small cities were trying in the early 1950s, and it names towns and clubs that rarely appear in magazine histories.
 
-## The state program that ended
-
 California had tried a statewide approach first. The report says the California Highway Patrol ran a program from 1948 until 1953, picking advisers for their interest in the sport to work with existing clubs. In 1953 "a new order from headquarters" barred patrol members from taking part in speed events or advising clubs "whose chief purpose was to promote speed events." Local police and civic groups carried on.[^aspo]
 
 Drag strips, it says, "were not sponsored or run by the highway patrol, but by local police forces and civic groups."[^aspo] Local police programs on the list include Pomona (see [Pomona's Choppers](pomona-choppers-fontana.md)), Los Angeles County, Pasadena and Madera.[^aspo]
@@ -91,8 +89,6 @@ In West Toledo, Ohio, the local Kiwanis club got every hot rod club's officers t
 In Kansas City, Missouri, the Kansas City Timing Association worked with the police and was trying to lease a site in the Northeast Industrial District.[^aspo]
 
 Municipal Judge Geraldine Macelwane, quoted on the Toledo program: "The list of violators in Juvenile Court is growing smaller each Wednesday, although enforcement agencies are still zealously watching for teen-age offenders."[^aspo]
-
-## Small details worth keeping
 
 The report also caught how clubs were changing. Club names like "Sideswipers," "Hell Drivers" and "Fender Rippers" were "once common" but by 1955 were "considered to be bad public relations," and no club with such a name could affiliate with either national organization.[^aspo]
 

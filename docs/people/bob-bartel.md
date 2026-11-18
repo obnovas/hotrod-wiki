@@ -68,15 +68,13 @@ canonical_for: []
 
     — Bob Bartel, asking not to be buried at the Cordova track, quoted in the Competition Plus tribute, Feb 20, 2018. [More in Voices](../voices/strip-owners-and-door-slammers.md)
 
-When Bob Bartel's car clubs couldn't afford a drag strip, he cashed Sears stock and, with businessmen from Moline, Rock Island, Davenport and Bettendorf, bought river-silt farmland from the Sullivan family two-thirds of a mile from the Mississippi.[^cp] He built the Quad City Drag Strip at Cordova, Illinois, and kept the World Series of Drag Racing there from 1957 until 2015. He was a Sears employee and a Quad Cities car-club man who helped start a national drag-racing body outside California. His story widens our [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md) page: for a few years in the mid-1950s the Midwest ran its own national meet, with cash purses, separate from NHRA.
-
-## The man (from the obituary)
+When Bob Bartel's car clubs couldn't afford a drag strip, he cashed Sears stock and, with businessmen from Moline, Rock Island, Davenport and Bettendorf, bought river-silt farmland from the Sullivan family two-thirds of a mile from the Mississippi.[^cp] He built the Quad City Drag Strip at Cordova, Illinois, and kept the World Series of Drag Racing there from 1957 until 2015.
 
 Robert J. "Bob" Bartel was born Aug. 5, 1921, in Sterling, Ill., to Joseph and Ethal (Logsdon) Bartel. He graduated from Sterling schools and attended the University of Illinois.[^obit] He married Dawn Sheridan at Sacred Heart Church, Moline, Nov. 28, 1946, and they were married more than 71 years.[^obit]
 
-He worked for Sears Roebuck. "In 1956, Bob, his brother, Don, and two local businessmen, purchased a farm in Cordova, IL. This venture became the Cordova Dragstrip." He retired in 1986.[^obit] He was a member of the Antique Car Club and the "Over The Hill Coffee Group," and died Feb. 18, 2018, at Friendship Manor, Rock Island, aged 96.[^obit]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
+## Cash purses, and a taxiway at George Field
 
-## The ATAA and a Midwest national meet
+He was a Sears employee and a Quad Cities car-club man who helped start a national drag-racing body outside California. His story widens our [Detroit Dragway & Cordova](../drag-racing/detroit-cordova.md) page: for a few years in the mid-1950s the Midwest ran its own national meet, with cash purses, separate from NHRA.
 
 The tribute's text (bylined Bobby Bennett at Competition Plus and credited to Bret Kepner on BangShift) makes several claims.[^cp][^bs] It says that in 1953, at 31, Bartel and Jim Lamona began hosting races under the Automobile Timing Association of America (ATAA). Unlike NHRA, which posted "only trophies and contingency prizes," the ATAA "paid cash purses."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -86,9 +84,11 @@ It credits Bartel and Ed Otto with brokering a deal with Bill France Sr. for a N
 
 The ATAA's own run ended when NHRA "absorbed" (bought out) it in 1957, "a takeover which required the vast majority of cash assets of the NHRA." Bartel then formed the National Association of Drag Strips, which sanctioned Midwest and East Coast tracks through the 1960s.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Open question: see the bottom of the page">?</a></sup> When the first World Series was is still open.
 
-## Building Cordova
+## The farm the clubs could not buy
 
 Bartel belonged to the Moline Moons car club (formed late 1940s). The tribute says street racing in the Quad Cities "eventually led to the fatalities of several of his childhood friends," and the nearest strips were in Chicago. He proposed a strip "paid for and operated by a union of local car clubs." When the clubs couldn't afford it, he cashed Sears stock and bought the farmland.[^cp]
+
+He worked for Sears Roebuck. "In 1956, Bob, his brother, Don, and two local businessmen, purchased a farm in Cordova, IL. This venture became the Cordova Dragstrip."
 
 The Quad City Drag Strip opened Labor Day weekend 1956. It hosted the ATAA North Central Regional that fall. The new asphalt then shifted, and Bartel paid to resurface it himself.[^cp]
 
@@ -102,13 +102,15 @@ In 1957 Don Garlits beat Emery Cook in the semifinal. Per the tribute, Garlits "
 
 In 1968, floods washed out the surface, so Bartel shortened the World Series to 1,000 feet for the fastest classes. The tribute says he was also "the first to offer a true National Title for Funny Car competitors."<sup class="hr-q" id="qr-9"><a href="#q-9" title="Single source so far: see Open questions">◐</a></sup>[^cp] The track hosted events from "nine different drag racing associations" over its life.[^cp]
 
-## Later owners and the name fight
+## The name, after the sale
 
-Cordova was sold to racer Bob Gipson (1986), then Scott Gardner (1996). The IHRA (IRG Sports + Entertainment) bought it in late 2014.[^cp]
+He retired in 1986.[^obit] Cordova was sold to racer Bob Gipson (1986), then Scott Gardner (1996). The IHRA (IRG Sports + Entertainment) bought it in late 2014.[^cp]
 
 IRG moved the 2016 World Series to Memphis International Raceway. Bartel was "emotionally crushed," and the event returned to Cordova in 2017, which Bartel attended at 96.[^cp]
 
 Bartel and racer Ron Colson said they owned the World Series name, citing a USPTO document dated Oct. 11, 2016. Colson said the name had never been contested under Gipson or Gardner.[^qc]<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup> (Colson raced a B/Gas '41 Studebaker before driving the Chi-Town Hustler. See [Ohio & Midwest Gassers](../places/ohio-gassers.md).)
+
+He was a member of the Antique Car Club and the "Over The Hill Coffee Group," and died Feb. 18, 2018, at Friendship Manor, Rock Island, aged 96.[^obit]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The clubs couldn't afford the strip. He cashed the Sears stock, and the World Series stayed at Cordova from 1957 until 2015.
 

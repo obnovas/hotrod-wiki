@@ -63,8 +63,6 @@ canonical_for: []
 
     — Ray Godman, NHRA.com, 2014. [Full context in Voices](../voices/ray-godman.md)
 
-## Halls: racing on an old bomber base
-
 Memphis racing was a Mid-South circuit. The drags ran at an abandoned WWII air base at Halls, Tennessee, about 70 miles from the city. The cars went north to the Bootheel. The Memphis Rodders date from 1947. A documented link to Sun Records is not in the sources. Whether the start was 1953 or 1955 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The biggest day there was the September 1955 NHRA Drag Safari meet: 84 cars, 471 runs and about 3,500 spectators. SEMA News (citing Hot Rod, Dec 1955) has Bob James of the Dallas Custom Racing Team winning at 123.11 mph over the Godman & Dyer A/MR Model T.[^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Texans showed up at a Tennessee meet, so it was a Mid-South circuit rather than a city scene.
@@ -75,13 +73,7 @@ By 1960 or 1961 Memphis had a strip of its own. Ray Godman was a Korean War vete
 
 Lakeland also ran as Lakeland International Raceway and Shelby County International Raceway, and had a USAC road course by 1969. It closed in 1979.[^dm] It was a location in *Two-Lane Blacktop* (1971): the film's long drag strip scene was shot at Lakeland International Raceway, and a 2008 account of the filming puts a technical advisor's cameo, with a Mopar, at the start of that scene.[^hpp08][^l2lb] The strip belonged to an amusement park on a man-made lake, and its full story is in [A Drag Strip by the Skyride](../drag-racing/lakeland-dragway-amusement-park.md).
 
-Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first Hot Rod Fastest Street Car Shootout in 1992.[^hr92][^hr12]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
-
-## Road trips to the Bootheel (1962–66)
-
-Memphis cars went north to race, too. At the SEMO Drag Strip on the old Malden Air Base in Missouri, on July 22, 1962, **Bill Taylor of Memphis** was top eliminator in an AA dragster and **Kenneth McKee of Memphis** was little eliminator in a Chevy-powered B gas Willys, against 97 entries.[^sk62] The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> On Easter Sunday 1966 Malden's ad brought the Kingfish blown Barracuda north. The Sunday before, Larry Reyes had run 9.02 seconds at 157 mph in it for a new Lakeland track record. It raced "JOE LUNATI'S 1966 427 CORVAIR," and Lunati broke his differential warming up for the rematch.[^sk66a][^sk66b] See [Memphis Comes to the Bootheel](../drag-racing/semo-malden-drag-strip.md).
-
-## The Memphis Rodders (1947) and the Street Rod Nationals
+Memphis cars went north to race, too, from 1962–66. At the SEMO Drag Strip on the old Malden Air Base in Missouri, on July 22, 1962, **Bill Taylor of Memphis** was top eliminator in an AA dragster and **Kenneth McKee of Memphis** was little eliminator in a Chevy-powered B gas Willys, against 97 entries.[^sk62] The strip's 1965 opening-day ad appears to headline a Tennessee fuel dragster that reads like Ray Godman's Bo-Weevil, but the scan is garbled.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup> On Easter Sunday 1966 Malden's ad brought the Kingfish blown Barracuda north. The Sunday before, Larry Reyes had run 9.02 seconds at 157 mph in it for a new Lakeland track record. It raced "JOE LUNATI'S 1966 427 CORVAIR," and Lunati broke his differential warming up for the rematch.[^sk66a][^sk66b] See [Memphis Comes to the Bootheel](../drag-racing/semo-malden-drag-strip.md).
 
 The city's car-club scene goes back further. The Memphis Rodders date from 1947 (club site).[^mr] A Commercial Appeal photo reproduced by the club shows a Rodders exhibit at Klyce Motors, 17 S. Cleveland, on March 15, 1952.[^mr]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> Jimmy Fulghum's '32, a club car, survives and is now owned by David Kelley (club site).[^mr]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -91,7 +83,7 @@ The club's best-known alumnus in the parts business is [Joe Lunati](../people/jo
 
 The street-rod crowd came too. Memphis hosted the 2nd Nationals (1971) and again in 1975 and 1980.[^cn] See [NSRA](../street-rodding/nsra-early-nationals.md).
 
-## Sun Records?
+Later, Memphis Motorsports Park (later Memphis International Raceway) hosted the first Hot Rod Fastest Street Car Shootout in 1992.[^hr92][^hr12]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 We looked for a documented link between Sun Records-era musicians and Memphis builders or clubs and found none. We aren't going to invent one. The photo below shows the place and the period only.
 
