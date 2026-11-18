@@ -77,15 +77,11 @@ Hot Rod notes Cobbs dyno'd engines at [Stu Hilborn](stu-hilborn.md)'s injection 
 
 The man who won that grudge race went a long way from Goleta. Hernandez (born in Chihuahua, Mexico; died in Tecumseh, Mich.) grew up in Los Angeles, raced the dry lakes, helped put nitromethane into early drag racing, then ran Lincoln-Mercury's performance program that ordered the first [Logghe](../companies/logghe-stamping.md) flip-top Comets.[^dn][^hem]
 
-## Lakes, Navy, Edelbrock
-
 The family and the Detroit News fill in the early years: Francisco "Fran" Hernandez, born Feb 8, 1922, in Chihuahua, the family's move to California, lakes racing as a teen, and WWII service as a Navy first-class machinist's mate on **USS Cabot (CVL-28)** in the Pacific.[^dn]
 
 After discharge he partnered with **Fred C. Offenhauser** in Offenhauser Sales, then sold his share and joined **Vic Edelbrock** around the late-1948 move to West Jefferson Blvd. Classmate **Bobby Meeks** is credited with bringing him in; Tom Madigan's Edelbrock book (via Hemmings) places him with Meeks and Don Towle in Vic's inner circle.[^hem]
 
 He raced with Meeks's Coupes Club in the Rusetta Timing Association and held lakes records.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^hem]
-
-## Stroppe, Autolite, Lincoln-Mercury
 
 Then came the factories. In the late 1950s he was with Bill Stroppe's team and an Autolite consultant. After Ford bought Autolite (**1961**), Hernandez became director of Autolite Racing while Stroppe stayed independent.[^hem]
 
@@ -94,8 +90,6 @@ As head of Lincoln-Mercury racing, he ran A/FX Comets with drivers including Dyn
 Family and obituary circles credit him with helping coin **"Funny Car"** and with the first-generation Mercury Comet Cyclone GT floppers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
 In **1969–70** he managed Ford's Brighton (Kar Kraft) facility for the **Boss 429** Mustang program with Roy Lunn.[^dn][^hem] Later came Ford fabrication/build (family says presidential limousines for Reagan and G.H.W. Bush), retirement in the 1990s, and consulting.[^dn]
-
-## The end of the road
 
 Our **working date** for his death is Jan 5, 2011, at age 88, in Tecumseh, Mich. (Detroit News, Jan 20, 2011; family funeral text posted on H.A.M.B. Jan 2011).[^dn]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 

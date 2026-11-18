@@ -89,8 +89,6 @@ peak: 1962–1980
 
 Willie Robert found LaPlace Dragway by accident, looking for a photo of a gumbo competition he had won. It ended in March 1980. On the last day, Simon remembered, Marvin "Scopey" Miller raced down the strip in a hearse, and the last person across it was Don Garlits, riding a bicycle. Before LaPlace, Houma paid a dollar for every mile an hour over 100.
 
-## The South's finest dragstrip
-
 Willie Robert found the dragstrip by accident. He was in the library going through back copies of *L'Observateur*, the LaPlace paper, looking for a photo of a gumbo competition he had won, when he kept turning up pictures of the LaPlace Dragway. He started collecting everything he could find and posting "blast from the past" photos for longtime residents on Facebook, and in 2022 the paper told the strip's story from his files.[^lob22]
 
 LaPlace Dragway held its grand opening on May 6, 1962, off Airline Highway. Gates opened at 8 a.m.; racing started at 12:30 on the first and third Sundays of every month. General admission was $2 for adults and 50 cents for children at first. It was billed as "the South's finest dragstrip."[^lob22] Thomas Madere raced a '63½ Galaxie 427 in A/Stock there in 1962–64 and kept running into Don Gay's Super Duty Catalina: "I never beat him, he was 16 and I was 19 at the time."[^dslla]

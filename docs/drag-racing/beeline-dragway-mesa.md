@@ -70,8 +70,6 @@ canonical_for: []
 
     — Benjamin Leatherman, *Phoenix New Times*, September 5, 2012.[^pnt12]
 
-## "The first drag strip to be built on an Indian Reservation"
-
 In 1963 the Beeline Corporation broke ground on Salt River Indian Reservation land beside the Beeline Highway. The *Navajo Times* called it "The first drag strip to be built on an Indian Reservation."[^nt63] For more than a decade it hosted the AHRA Winternationals. The sources split on the closing year, 1973, 1975, or January 1979. A three-story timing tower stood over it for decades after.
 
 At the end of August 1963 the *Navajo Times*, the tribal weekly at Window Rock, ran a short item for "Hot Rodders and Fans." A new firm, the Beeline Corporation, had broken ground on a dragway on the Salt River Indian Reservation, "east of the McDowell-Beeline Highway intersection." It would have dual-lane timers and push lanes for the dragsters, and it was due to open that fall. The president of the firm, which was building the $100,000 dragway and planned to run it, was "C. TIM ROGERS of North Woodmere in Scottsdale."[^nt63]
@@ -80,13 +78,9 @@ Later accounts remember him as Jim. Leatherman's 2012 *New Times* story and the 
 
 The strip sat about a mile north of Mesa, on the south side of State Highway 87 by the historical society's account. The EPA's 2015 factsheet, written with the Community, describes the property as native desert until it was developed in the late 1950s and early 1960s as a gravel pit and dragway: about 63 acres of dragway and a roughly 10-acre gravel pit to the north. In the summer heat the races were on Saturday nights, the historical society remembered; in the cooler months, Sundays. Over it all stood a three-story concrete-and-steel timing tower.[^trhs15][^epa15][^pnt12]
 
-## AHRA's winter stop
-
 For more than a decade Beeline hosted the American Hot Rod Association's yearly Winternationals, and the *New Times* says thousands came. The muscle cars of the day ran there (Chargers, Mustangs, GTOs), along with the long, skinny dragsters, and so did the stars: Don "Big Daddy" Garlits, "Dandy" Dick Landy, Tom McEwen and Shirley Muldowney; the historical society adds Don "The Snake" Prudhomme. The local guide credits Dave Strickler with Top Stock at the 1964 meet.[^pnt12][^trhs15][^tips]
 
 In 1971 [Garlits](../people/don-garlits.md) brought his new rear-engine Swamp Rat XIV. A fan's uncle filmed that year's Winternationals, and when the reel turned up in 2011 Dragzine argued that the footage showed "the actual debut of the Swamp Rat XIV at Beeline," since the meet "took place in late January – prior to the NHRA Winternationals." NHRA's own history has the car's first public outing at Lions in early January. A race-results database dates the Beeline meet February 21, 1971, with Garlits out in the quarterfinals to Gary Cochran, who went on to beat Chris Karamesines in the final.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^dz11][^nhra15][^urh71]
-
-## When the clocks went quiet
 
 The *New Times* says the place lost its luster in the mid-1970s to falling interest and television, and that the new Firebird International Raceway near Chandler filled its niche; the historical society names Firebird and Phoenix International Raceway. On the closing year the sources split. Leatherman says 1975. The Three Rivers quarterly says 1973. The EPA factsheet says operations "ceased in January 1979," that the strip was torn down in the 1980s, and that most of the demolition debris went into the gravel pit. At some point, the historical society says, Motorola used the timing tower for radio testing.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^pnt12][^trhs15][^epa15]
 
