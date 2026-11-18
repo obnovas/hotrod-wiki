@@ -65,13 +65,13 @@ Hurst-Campbell, Inc., a Doylestown magazine told its Bucks County readers in Oct
 
 ## A bumper guard and a nationwide tour
 
-Ate Up With Motor tells the same early years from the enthusiast side. Hurst settled in eastern Pennsylvania in 1954 after the Navy and "became very active in the local drag racing scene." In the mid-fifties he and Bill Campbell started a garage in Abington building aftermarket engine mounts. His formal training was limited, the piece says, but he was "a natural showman with a flair for clever promotions."[^auwm]
-
-Petersen's chief photographer Bob D'Olivo met George before the original Hurst-Campbell promoted its kits for converting "three on the tree" to floor shift. *Hot Rod* says: "A well-dressed gent walked through the front door on Hollywood Blvd. carrying motor mounts and asking for any editor who happened to be there."[^hr20]
-
 George H. Hurst Jr. was 38. He had spent 11 years in the Navy and laid the groundwork for the company while stationed at Willow Grove Naval Air Station, where, says *Panorama*, he became "a source of service and information for the entire base," from tune-ups on his buddies' cars to a complete body restoration on a commanding officer's imported classic.[^pan] He put late-model engines into pre-war Lincoln Continentals. Then a friend wanted a custom bumper guard for a Volkswagen, dozens of orders followed, and the magazine says it was that bumper guard that launched him on the road to being known as "The Shifter King."[^pan]
 
-The bumper guards lasted until Volkswagens began arriving in the U.S. already carrying a very similar unit. Creditors "began to talk of voluntary bankruptcy." Hurst loaded his old car with order blanks, samples and "personal courage" and drove a nationwide tour, and "when he returned, he had enough orders for motor mounts to put the company back on solid ground."[^pan]
+Ate Up With Motor tells the same early years from the enthusiast side. Hurst settled in eastern Pennsylvania in 1954 after the Navy and "became very active in the local drag racing scene."[^auwm]
+
+The bumper guards lasted until Volkswagens began arriving in the U.S. already carrying a very similar unit. Creditors "began to talk of voluntary bankruptcy." Hurst loaded his old car with order blanks, samples and "personal courage" and drove a nationwide tour, and "when he returned, he had enough orders for motor mounts to put the company back on solid ground."[^pan] In the mid-fifties he and Bill Campbell started a garage in Abington building aftermarket engine mounts. His formal training was limited, the piece says, but he was "a natural showman with a flair for clever promotions."[^auwm]
+
+Petersen's chief photographer Bob D'Olivo met George before the original Hurst-Campbell promoted its kits for converting "three on the tree" to floor shift. *Hot Rod* says: "A well-dressed gent walked through the front door on Hollywood Blvd. carrying motor mounts and asking for any editor who happened to be there."[^hr20]
 
 ## From Anco to Warminster
 

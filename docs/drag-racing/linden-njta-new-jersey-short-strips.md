@@ -120,7 +120,7 @@ Rickman was angry with the promoter, the airport manager, who said he had lost m
 
 ## Three hundred and twenty feet
 
-Down south, **Atlantic City Speedway** in Pleasantville ran an eighth-mile on its half-mile stock car oval on Friday nights. Ed Mathot worked the starting line, "holding onto door handles to keep the stick cars from rolling while the flag man (yes the flag man) jumped up in the air." Greg Zyla won his first drag race there in 1968 in a GTX; the trophy has a 1957 Plymouth on top.[^dslnj] **Vineland Speedway**, a paved oval and road course where Mark Donohue and Roger Penske raced,[^njsh] held its first drag race on May 10, 1958, Bill Hall remembered (he was 14), and ran until, Lou Casazza wrote, "The track closed at the end of '65." Hall, at 17, raced his mother's 1960 Comet there while she was on vacation ("She did not know"), and he painted the rims red. John Fiorani kept his time slip from September 5, 1959.[^dslnj]
+**Vineland Speedway**, a paved oval and road course where Mark Donohue and Roger Penske raced,[^njsh] held its first drag race on May 10, 1958, Bill Hall remembered (he was 14), and ran until, Lou Casazza wrote, "The track closed at the end of '65." Hall, at 17, raced his mother's 1960 Comet there while she was on vacation ("She did not know"), and he painted the rims red. John Fiorani kept his time slip from September 5, 1959.[^dslnj]
 
 After Linden, New Jersey raced on whatever pavement it was allowed. **Old Bridge Stadium**, a NASCAR stop from the mid-1950s to the late 1960s,[^njsh] ran drags on its straight. Jon Asher, later a drag racing editor, went around 1959–60: "Oh man, what a place! Drag races that went 320 feet!" He took his dad's car without his knowledge and called it C/GA ("yeah, I know: who has automatic gasser classes?") to get more runs. The Don's Speed Shop dragster "supposedly ran something like 178 MPH in the track's 320 feet, but who am I to question it?"<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> Ralph Bernstein drove a friend's new Mustang there in March 1964 because the owner had only a learner's permit: "The 3/8 circle track had 1/16 mile drags," and he ran 5.9 at 61 mph. A fan named Milt remembered his first trip there, around 1966, when he lettered a buddy's red Mustang "Perc's Pig" in white shoe polish, which stayed on the doors "in ghost letters for a long time!"[^dslnj]
 
@@ -128,9 +128,13 @@ After Linden, New Jersey raced on whatever pavement it was allowed. **Old Bridge
 
 ## A traffic light on Route 12
 
-In 1965 Raceway Park opened in Old Bridge off Englishtown Road and became a major NHRA track.[^njsh] Island Dragway at Great Meadows and Atco Dragway had both opened around 1960, and with three real quarter-miles the short tracks' day was over. It came from a restaurant basement, and at Linden the hoods were soda-pop signs.
-
 The **Flemington Route 12 Dragway** sat near County Road 615 and Route 12, near Pittstown, northwest of Flemington. On the H.A.M.B., a poster called Bruce 23 said it was "abandoned in 1967," that a family who bought the house next door had "one helluva driveway," and that the state now owns it.[^hambpitt] Jon Asher raced there in high school in the late 1950s, which "meant taking my Dad's Dodge out there without his knowledge!"<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> Jim Colleran ran it in 1964: "I remember the traffic light at the line." Lomastro won his class there three or four times in 1964–65 in his white Dodge, "Rampage" on the fender, against Jerry Stein's red "Teacher's Pet" Plymouth and Johnny Abraitis's '62 Plymouth, "Both went on to be famous, big-time drag racers."[^dslnj]
+
+In 1965 Raceway Park opened in Old Bridge off Englishtown Road and became a major NHRA track.[^njsh] Island Dragway at Great Meadows and Atco Dragway had both opened around 1960, and with three real quarter-miles the short tracks' day was over.
+
+Down south, **Atlantic City Speedway** in Pleasantville ran an eighth-mile on its half-mile stock car oval on Friday nights. Ed Mathot worked the starting line, "holding onto door handles to keep the stick cars from rolling while the flag man (yes the flag man) jumped up in the air." Greg Zyla won his first drag race there in 1968 in a GTX; the trophy has a 1957 Plymouth on top.[^dslnj]
+
+It came from a restaurant basement, and at Linden the hoods were soda-pop signs.
 
 *See also:* [Atco and Strato Rods](atco-strato-rods-south-jersey.md), South Jersey's strips; [Island Dragway](island-dragway-great-meadows.md), where Lomastro met the dealer-backed cars; [Pennsauken, 1958](pennsauken-central-airport-1958.md), a strip New Jersey did not get; [Connecticut's clubs](connecticut-clubs-nutmeg-state-timing-association.md), another state timing association of the same years.
 

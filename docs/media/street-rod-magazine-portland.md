@@ -79,8 +79,6 @@ Sales were about 40,000 per month net paid, as 99W tells it. Its own data note a
 
 The 99W history says, "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Full story: [Dick Wells (1934–2010)](../people/dick-wells.md#the-street-rod-years-and-the-president-question).
 
-In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
-
 ## The end (1973)
 
 The money ran short. In January 1973 Craig "had not been paid." In a restructuring he took an ownership percentage and a '39 Ford. Miller's ownership "was ended by trading for a **Model A truck**." Slaughter, who owned a business that designed and installed golf courses, took control as publisher and editor.[^99w]
@@ -96,6 +94,8 @@ Craig later explained that the magazine bought paper on 90-day credit. During th
 | Vol 3 | No 1 Jan/Feb 1973; No 3 Mar; No 4 Apr; No 5 May; No 6 June; No 7 **July 1973 (last)** |
 
 That is 20 issues, which matches 99W's count. There is no Vol 3 No 2, apparently because the combined January/February 1973 issue took that number.[^99w]
+
+In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 The title had forced the California founders of *Street Rodder* to rename their magazine. It folded after the July 1973 issue.
 
