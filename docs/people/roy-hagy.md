@@ -47,6 +47,8 @@ principal_source: "Almost everything known here comes from one oral source: Tom 
 
 Roy Hagy wouldn't use much lead. He would metal-finish everything, and he always worked alone. Almost everything known about him comes from one oral source.
 
+Others learned from him too. George and Tom Bistagne learned bodywork from Hagy around 1939–40.[^k] One known car is Tommy Winship's 1940 Ford coupe (later Earl Bruce's), with a chopped top, filled quarter windows, rounded door corners, and dechromed trim.[^k]
+
 Tom Sparks worked for him around 1942–43, at about 15, and remembered the rule of the shop: "Hagy worked mostly on what we call fat-fender cars today: '36s, '39-'40s. He did mostly filling, removing handles, recessing license plates, and chopping tops. **Hagy didn't like to use much lead; he'd metal-finish everything.** ... And he always worked alone."[^k]
 
 Sparks was an unpaid "sand boy" and learned gas welding and painting there.[^k]
@@ -54,8 +56,6 @@ Sparks was an unpaid "sand boy" and learned gas welding and painting there.[^k]
 ## Where he fits
 
 Hagy and Jimmy Summers are named as two of the first LA shops to specialize in customizing production cars, as opposed to coachbuilders like Bohman & Schwartz or Coachcraft.[^k] His shop was on Vermont at Second Street. When Sparks worked there, Hagy was working out of a back room at Russell Johnson's paint shop.[^k]
-
-Others learned from him too. George and Tom Bistagne learned bodywork from Hagy around 1939–40.[^k] One known car is Tommy Winship's 1940 Ford coupe (later Earl Bruce's), with a chopped top, filled quarter windows, rounded door corners, and dechromed trim.[^k]
 
 Sparks also had a view on where chopping came from: "It had to start sometime in the mid- to late-1930s." He added a caveat: "We weren't in Hollywood, and we didn't go very far."[^k]
 

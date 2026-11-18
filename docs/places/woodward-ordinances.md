@@ -67,9 +67,9 @@ The Birmingham Museum's exhibit page describes "Woodwarding" as "driving up and 
 
 In the summer of 1963 a 14-year-old, **Connie Crossland**, ran away from a juvenile facility and for several weeks was "among the crowds of teenagers along Woodward, catching rides and eating at drive-ins." The museum says she was last seen with two men in a white 1961 Bonneville on July 18, 1963, that her body was found the next morning in Lake Orion, "and her murder has never been officially solved."[^bham]
 
-The museum writes that her death "brought new scrutiny to the activities of cruisers along Woodward." Birmingham had no drive-ins when she died, but in 1966 "the city passed an ordinance banning them."[^bham]
-
 A *Detroit News* feature from 2023, which we could read only as a search-result excerpt because the site is paywalled, says the reaction went further. It says the **Royal Oak** city commission passed a tougher drive-in ordinance that prohibited cruising and congregating outside cars (the excerpt quotes an October 14, 1965 *News* story). It says a February 23, 1966 *News* item reported that Birmingham had adopted an ordinance that all but barred drive-in restaurants, and that Ted's Drive-In in Bloomfield Hills closed in 1969, which the story treated as the symbolic end of the era.[^dn]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The Birmingham museum and the *News* excerpt agree on 1966. Whether Ted's closing is the end of the era is still open.
+
+The museum writes that her death "brought new scrutiny to the activities of cruisers along Woodward." Birmingham had no drive-ins when she died, but in 1966 "the city passed an ordinance banning them."[^bham]
 
 A second killing followed. The museum calls the 1967 "road rage murder of 18-year-old Michael Sass" the "last blow to mid-20th century cruising culture along Woodward."[^bham] We have no other source on that case.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 

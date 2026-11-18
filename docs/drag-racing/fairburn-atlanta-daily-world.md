@@ -72,13 +72,15 @@ canonical_for: []
 
     — Drag racing report, *Atlanta Daily World*, Sept. 14, 1963.[^adw630914]
 
-From 1959 to 1963 the *Daily World*'s sports pages followed the night races south of Fairburn the way other papers followed baseball, and the racers went by nickname: Wallace "Fox" Jones, Joe "Jo-Jo" Johnson, Norman "Sonny Boy" Smith. The Labor Day card at Ted Edwards Skyport in 1960 ran all day. A motorcycle drag race sanctioned by the American Motorcycle Association started at noon, and a parachute jump came at 3 p.m., along with "a drag race for white drivers." Then, the *Atlanta Daily World* told its readers, "Colored racers will swing into action at 7:00 p.m." The night race paid double elimination money, and a $50 war bond waited for anyone who broke Charlie Scott's record of 125 miles an hour.[^adw600903]
+From 1959 to 1963 the *Daily World*'s sports pages followed the night races south of Fairburn the way other papers followed baseball, and the racers went by nickname: Wallace "Fox" Jones, Joe "Jo-Jo" Johnson, Norman "Sonny Boy" Smith.
 
 ## "A legal place to speed" (1959–60)
 
 In July 1959 a *Daily World* sports column introduced Ted Edwards, "who operates the Ted Edwards Skyport and Drag Races, on U.S. Highway 29." His ads placed it "SOUTH OF FAIRBURN, GA." Edwards said his races drew hundreds each week, with "22 classes of races based on weight, horsepower and other factors," and he described the strip as the "only legal place to speed in Fulton County." His ads promised "22 Classes 22 Trophies" and "A LEGAL PLACE TO SPEED."[^adw590715][^adw590717] By 1960 it was "Every Sat. Night 7 P.M.," with "Admission $1.00."[^adw600701][^adw600813]
 
 That summer the paper had a champion to promote. Dewitt Prickett, it reported, had "recently chalked up a speed of 110.2 at the Ted Edwards Drag Strip," with an elapsed time of 12.60, and "has been acclaimed southern champ of the sport." Edwards billed a "SOUTHERN NEGRO CHAMPIONSHIP RACE" for July 16, with a savings bond for anyone who broke Prickett's record.[^adw600716] Two weeks later Prickett was matched against Charlie Scott (Charles Scott in some of the ads), "Well Known Stock Car Driver," whom the ad called the "Only Negro to Qualify for NASCAR."[^adw600730]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> By mid-August the ad featured Scott alone: "New Track Record Set August 6 Of 125 Miles Per Hour."[^adw600813] A columnist passed along Edwards' report that the sport's popularity was "growing week by week," and his own advice: "Addicts who crave this type of racing should make a bee line for Ted Edwards' place which is only 17 miles from Atlanta."[^adw600816]
+
+The Labor Day card at Ted Edwards Skyport in 1960 ran all day. A motorcycle drag race sanctioned by the American Motorcycle Association started at noon, and a parachute jump came at 3 p.m., along with "a drag race for white drivers." Then, the *Atlanta Daily World* told its readers, "Colored racers will swing into action at 7:00 p.m." The night race paid double elimination money, and a $50 war bond waited for anyone who broke Charlie Scott's record of 125 miles an hour.[^adw600903]
 
 ## Fox, Jo-Jo and Sonny Boy (1962)
 

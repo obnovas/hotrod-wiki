@@ -53,15 +53,15 @@ In May 2005, Mayor Martin Chavez signed the "Cruising on Public Streets" ordinan
 
 In May 2006 APD began logging license plates at "No Cruising" control points from 8 p.m. to 3 a.m. Seeing a car three times in two hours counted as a violation, with a $10 fine that came to about $69 with fees (Weekly Alibi).[^alibi]
 
-It lasted thirteen years. In 2018, the city council unanimously repealed the ordinance as redundant with a 1994 irresponsible-driving law, and approved a program for recognized special-interest vehicle clubs to coordinate cruise events with businesses (Route 66 News, citing the Albuquerque Journal).[^r66]
-
-## In their own words
-
 The cruisers saw it differently from the city:
 
 > "I'm sure after the car show, everybody's going to go cruising."
 >
 > — **Shawnasi Martinez**, a Downtown cruiser, Weekly Alibi (May 25, 2006), on the first weekend of enforcement.[^alibi]
+
+It lasted thirteen years. In 2018, the city council unanimously repealed the ordinance as redundant with a 1994 irresponsible-driving law, and approved a program for recognized special-interest vehicle clubs to coordinate cruise events with businesses (Route 66 News, citing the Albuquerque Journal).[^r66]
+
+## In their own words
 
 Twelve years later, the argument was about freedom:
 

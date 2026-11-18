@@ -58,6 +58,8 @@ Modesto's cruise is the one the film was set in, and the city later barred passi
 
 In George Lucas's teens, it was a loop of 10th, G, 11th and O Streets, with Burge's Drive-In (the model for Mel's in *American Graffiti*) at the turnaround. From the late 1960s it moved to **McHenry Avenue**.[^gm][^lat90]
 
+When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
+
 *American Graffiti* (1973) was set in a 1962 version of Modesto, which the LA Times describes as "a small valley town of about 30,000," though most of the film was shot elsewhere.[^lat90]
 
 Then the cruise outgrew the town. By 1990, according to city officials, up to 6,000 teenagers from around the San Joaquin Valley crowded McHenry Ave on weekend nights.[^lat90b]
@@ -83,8 +85,6 @@ That year the police chief, a car-club leader and a magazine editor all weighed 
 The city acted. On **March 27, 1990**, the city passed anti-cruising and anti-loitering ordinances. One barred passing the same spot on McHenry more than once every four hours. Dennis Lema of the Central California Coalition of Car Clubs vowed to challenge them.[^lib][^lat90b]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether that ban is the 1990 ordinance or 1993 is still open.
 
 ## The film and the main drag
-
-When George Lucas was a teenager, "draggin' 10th" was the place to cruise (LA Times 1990). Pat Ganahl's comment ties the small-town main drag to the custom-car tradition. For the late-1940s club scene behind the cruise, see [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md).
 
 The film was set on that cruise. The city barred passing the same spot on McHenry more than once every four hours.
 
