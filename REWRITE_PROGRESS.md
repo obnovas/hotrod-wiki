@@ -156,7 +156,7 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `drag-racing/westhampton-drag-strip-long-island.md` | todo | |
 | `drag-racing/winslow-renegades-airport.md` | todo | |
 | `drag-racing/winterport-fernald-field-maine.md` | todo | |
-| `drag-racing/yellow-river-covington.md` | done | batch 2 |
+| `drag-racing/yellow-river-covington.md` | todo | |
 | `drag-racing/yuma-timing-association.md` | todo | |
 | `eras/1930s-dry-lakes-scta.md` | todo | |
 | `eras/1950s-camgrinder-wars.md` | todo | |
