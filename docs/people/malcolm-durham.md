@@ -66,23 +66,17 @@ canonical_for: []
 
 Malcolm Durham learned mechanics on tractors, on the family farm in Goldsboro, N.C.[^top50] He began racing in **1957** at Easy Street Dragstrip, Newton Grove, N.C., in a 225-hp **'56 Chevy**.[^top50] He ran Strip Blazer cars. He said being black made him unique, and he tried to capitalize on it. In the late 1960s he averaged $800 per appearance. NHRA ranked him among its Top 50 Drivers in **2001**.[^top50][^fred]
 
-## Washington and the 409 years
+He moved to Washington, D.C., where he took trade-school auto courses and ran the '56 with success at **Aquasco Speedway** (Md.).[^top50]
 
-He moved to Washington, D.C., took trade-school auto courses, and ran the '56 with success at **Aquasco Speedway** (Md.).[^top50]
+Hicks Chevrolet had him as a mechanic in **1962**, and he campaigned a **409** '62 Chevy with Z-11 heads; the Top 50 text says he won nearly **90%** of races entered.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^top50] He moved into car sales and ran the first **427** Z-11 '63 Chevy available in D.C. as **Strip Blazer I**. Its first outing at 75-80 Drag-A-Way improved on his 409 best (12.26 → 12.01 per Top 50).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^top50]
 
-In **1962** he was a mechanic at Hicks Chevrolet and campaigned a **409** '62 Chevy with Z-11 heads; the Top 50 text says he won nearly **90%** of races entered.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^top50] He moved into car sales and ran the first **427** Z-11 '63 Chevy available in D.C. as **Strip Blazer I**. Its first outing at 75-80 Drag-A-Way improved on his 409 best (12.26 → 12.01 per Top 50).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^top50]
+Match races on the East Coast circuit put him against Don Nicholson, Sox & Martin, the Ramchargers, Hayden Proffitt, Dave Strickler, Bill Jenkins, and others.[^top50] After Chevrolet withdrew from racing (end of **1963**), he put the Z-11 into a midsize **'64 Chevelle** (**Strip Blazer II**) and, in match races that year, beat Sox & Martin multiple times.[^top50]
 
-He match-raced Don Nicholson, Sox & Martin, the Ramchargers, Hayden Proffitt, Dave Strickler, Bill Jenkins, and others on the East Coast circuit.[^top50] After Chevrolet withdrew from racing (end of **1963**), he put the Z-11 into a midsize **'64 Chevelle** (**Strip Blazer II**) and beat Sox & Martin multiple times in match races that year.[^top50]
+In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cites bests of **9.56 / 150 mph**.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^top50] **1966** brought a tube-frame Camaro and a UDRA Nationals win at U.S. 30, then a wheelbase stretch into the eights.[^top50]
 
-## Funny Car and Logghe
+In **1967** he added a supercharger and ran **7.98 / 178**, and in the off-season came a new Logghe-chassised Camaro from [Logghe](../companies/logghe-stamping.md), one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^top50]
 
-In **1965** he updated the Chevelle sheetmetal, injectors and nitro; Top 50 cites bests of **9.56 / 150 mph**.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^top50] In **1966** came a tube-frame Camaro and a UDRA Nationals win at U.S. 30, then a wheelbase stretch into the eights.[^top50]
-
-In **1967** he added a supercharger and ran **7.98 / 178**. In the off-season came a new Logghe-chassised Camaro from [Logghe](../companies/logghe-stamping.md), one of his best rides, with regular **7.5s** in **1968**; he broke **200 mph** in **1969** per Top 50.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^top50]
-
-Later came a Pro Stock **'73 Vega** (9.17 best cited) and a conversion to B/EA. He paused racing to send his eldest son, Bernard, to college, came back with a brief **1984** Pro Stock Camaro that he crashed at Rockingham in **1985**, and returned in **1989** with a nostalgia '65 Chevelle.[^top50]
-
-## What he said about the road
+A Pro Stock **'73 Vega** (9.17 best cited) and a conversion to B/EA came later, and he paused racing to send his eldest son, Bernard, to college, came back with a brief **1984** Pro Stock Camaro that he crashed at Rockingham in **1985**, and returned in **1989** with a nostalgia '65 Chevelle.[^top50]
 
 Burgess's 2009 "Fred Files" column quotes Durham on Southern hostility and on using visibility as a booking advantage ($800 average appearance fees in the late 1960s). The same column notes he inspired other Black Funny Car racers including **Lee Jones** (later drove Strip Blazer floppers for Durham) and mentions **Western Bunns**'s Soul Twister cars as part of that East Coast scene.[^fred]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> Whether the Top 50 slot was No. 46 or No. 48, the sources disagree.
 

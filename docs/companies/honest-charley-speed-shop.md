@@ -61,25 +61,17 @@ status: Closed 1990; name revived by Corky Coker from 1998[^sema12][^tfp16]
 
     — Charley Card to *Hot Rod*'s Ralph Guldahl, late 1970, quoted in SEMA eNews, 2012.[^sema12]
 
-## A register with no room
-
 Before the parts, there was lunch. In the 1940s Charley Card owned a downtown Chattanooga restaurant near the Read House.[^tfp16] During the war it got so busy there was no room on the counter for the cash register. He told *Hot Rod* in 1970, "so I put it outside the door," and asked customers on their way out what they owed. "Customers said, 'My gosh, Charley, you must be honest.' An' that was it. I painted 'Honest' real big on a sign atop the restaurant."[^sema12] The tellings drift. The hometown paper has him leaving the register open so customers could make their own change. His biography has him taking it off the counter to seat one more paying customer. The revived company's history puts it on the sidewalk under a sign that said "How Honest Are You?"<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^tfp16][^wiki][^mopar] The name Honest came from that counter. In 1948 he opened the speed shop, and the catalog he hand-drew is what the mountain hot rodders ordered from.
 
 The "Hisself" came later. People meeting him, Guldahl wrote, kept asking, "You're not Honest Charley, are you? Are you Honest Charley hisself?"[^sema12]
-
-## The shop and the catalog
 
 Card was a car man before he was a parts man. The *Times Free Press* calls him a leader of the Chattanooga Racing Association, "one of the original sponsors of NASCAR."[^tfp16] The company's own feature tells of a hot rodder who tried to pay for a meal with an aftermarket intake manifold for a flathead Ford; Card took it and sold it at a profit.[^mopar]
 
 The hometown paper, SEMA and the company's feature date the shop to 1948, and none of them names the street. Larry Rose, remembering the mid-1950s, told a 2013 column that Honest Charley's opened "on McCallie Avenue across from Warner Park."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>[^tfp16][^sema12][^mopar][^ash13] The trade remembers him for the catalog. The company's feature says he would "hand-draw each page," and that the cartoon caricatures and slogans were created by "Honest Hisself." SEMA calls him "one of the first to publish a parts catalog as far back as 1948."[^mopar][^sema12] The slogans did the selling: "Send money, I'll pay the postage," and "Your money back if it ain't right!"[^mopar] His biography calls the shop the first coast-to-coast mail-order distributor of high-performance parts; the hometown paper's 2016 profile says "the world's first mail-order speed shop."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^wiki][^tfp16]
 
-## The mountain trade
-
 Chattanooga sat near the Georgia, Alabama and North Carolina lines, and the company's feature says moonshine runners were good customers in the early years: the multiple carburetors, suspension tricks and free-flowing exhaust on the old Fords that hauled whiskey through the mountains came from Honest Charley's.[^mopar] To the northeast, Southwest Virginia's hot rodders had no speed shop of their own. The Blue Ridge Institute says they used junkyard parts or ordered by mail, and that "the regional mail-order 'bible' for the region's car builders was the catalog from Honest Charley's Speed Shop in Chattanooga, Tennessee." Their clubs and their strip at Roanoke are told on the [Roanoke Drag Strip](../drag-racing/roanoke-drag-strip-southwest-virginia.md) page.[^bri1]
 
 The shop grew with them. When Guldahl visited in late 1970, Card had just become the second inductee into SEMA's Hall of Fame, and the photograph shows him parked in front of a brand-new 30,000-square-foot speed parts store on Honest Street. He was proud of the IBM 360 that tracked his inventory and orders.[^sema12] Retail stores and distribution centers, the company's feature says, reached across Tennessee, Georgia and Florida, but most of the business still came through the catalog.[^mopar] Racers who won with Honest Charley stickers on their cars collected an "Honest Charley Bonus," and the name rode on Jungle Jim Liberman's funny cars.[^mopar]
-
-## After Hisself
 
 Card died in 1974 by SEMA's count, and in 1975 by the *Times Free Press* and the company's feature.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^sema12][^tfp16][^mopar] Whether that was 1974 or 1975 is still open. The shop closed in 1990.[^sema12][^tfp16][^mopar] The fuel crisis and his death, the hometown paper and the company's feature say, sent it into a downward spiral.[^tfp16][^mopar] In 1998 Corky Coker of Coker Tire bought the name and trademarks and brought it back. "This shop, and this name rings a bell with just about every hot rodder and drag racer from the early days, and I couldn't stand the thoughts of it going away," he told the *Times Free Press*.[^sema12][^tfp16]
 

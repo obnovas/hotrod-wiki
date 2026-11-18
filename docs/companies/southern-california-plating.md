@@ -46,23 +46,15 @@ principal_source: "Coachbuilt.com's census-based research.[^cb]"
 
 Leonard DeBell promoted his shop with customized delivery trucks: whitewalls, wheel discs, V-windshields and [DuVall](../people/george-duvall.md)-designed grilles and bumpers.[^cb][^kr] One of them was a 1935 Ford phaeton, and the car has not been seen since.
 
-## The owner and the shop
-
 The man behind the trucks had a long paper trail. Leonard K. DeBell was born April 23, 1904, in Louisville, Colorado, to Italian-born parents (father Stefano Zarlengo), and died January 24, 1992, in Los Angeles. The 1930 census lists him as "salesman, nickel-plating" and the 1940 census as "proprietor, electro-plating."[^cb] The census implies the name change from Zarlengo but does not explain it.
 
 The shop was at 4444 Sunset Blvd., later 3434 San Fernando Rd., Los Angeles.[^cb] Much of its work was building and plating grilles and accessories for midget racers.[^cb]
 
-## The 1935 Ford phaeton delivery
-
 One of the trucks was a 1935 Ford phaeton, and Coachbuilt gives detailed credits: a lift-up rear hatch by Chad Schultz of Joe Newell's body shop; a brass Cord-style grille by Frank Kurtis; a padded top by George Thomas (Ivar & Cahuenga); sea-foam green paint by Charles Remidi; a 1936 Cadillac front bumper, and Wood-Lites behind chrome openings.[^cb] Period photos ran in *Motor Life*, May 1955.[^cb]
-
-## The parts business
 
 The shop also made parts. **Pacific Metal Products** (also 4444 Sunset) took over the manufacturing division and sold DuVall's postwar rocker-arm OHV conversion for 1933–47 Willys fours, rated at 80 hp.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Who had the Jeep head is still open.
 
 Its front end on the 1931 Ford pickup has been credited with inspiring the 1933–34 Terraplane grille.[^cb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> That credit is one account so far.
-
-## The car that vanished
 
 The phaeton itself is gone. Julian Doty told Pat Ganahl he last saw the phaeton around 1963–64, dusty in a body shop DeBell owned on Melrose one block east of Vermont. He tried to buy it from DeBell's son Tony and failed. "The car has not been seen since."[^cb]
 

@@ -56,13 +56,9 @@ canonical_for:
 
 Ed Almquist sold speed parts by mail from Milford, Pennsylvania. He was a rare non-California founder. One of his early products was a water/alcohol vapor injector made from a Mason jar that cost 50¢ to make and sold for $6. He also sold a two-carb "log manifold" for $12.95. He started in a $35 rented room, then moved to a partitioned gymnasium. The Port Jervis *Times Herald-Record*, via search excerpt, is the account of the jar, the room, and the gymnasium.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^thr] The paper said that while California makers had the West Coast, Almquist equipment was the choice in the Midwest and East.[^thr]
 
-## From celery farm to ship's engine room
-
-He came to it from Minnesota. He was born Nov 24, 1921, in Zim, Minnesota, and died July 22, 2015, at home in Milford, PA.[^obit] Before the war he farmed celery and worked as a part-time railroad brakeman, raced "jalopies" on weekends, and took University of Minnesota extension courses in diesel engineering.[^hem]
+He came to it from Minnesota. He was born Nov 24, 1921, in Zim, Minnesota.[^obit] Before the war he farmed celery and worked as a part-time railroad brakeman, raced "jalopies" on weekends, and took University of Minnesota extension courses in diesel engineering.[^hem]
 
 The war took him to sea. He served in the U.S. Maritime Service 1943–47 per his obituary.[^obit] He became a licensed marine engineering officer and wrote down his Minnesota racing hop-up knowledge while aboard ship.[^hem]
-
-## The manual
 
 Those shipboard notes became a business. He printed two small books on a borrowed mimeograph and advertised the *Speed and Mileage Manual* with a **$12 ad in Popular Mechanics**. He estimated more than 10,000 copies sold.[^hem] He is credited with the first widely circulated performance how-to, copyrighted **1946**.[^hem][^hof] His obituary says 1947.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -75,6 +71,8 @@ He had already diversified: Almquist started Sparkomatic in 1954, with partner J
 The obituary lists Almquist Engineering, Sparkomatic and **Offy Products** "through 1965," more than 100 products, and 7 U.S. patents. He later wrote *Hot Rod Pioneers*.[^obit] He received the International Drag Racing Hall of Fame Founder's Award in 2011.[^hof]
 
 His name also turns up in period custom literature: a pamphlet from "Pennsylvania speed merchant Ed Almquist" taught restyling techniques alongside Dan Post's *Blue Book*.[^revs]
+
+He died July 22, 2015, at home in Milford, PA.[^obit]
 
 California makers had the West Coast. From a $35 rented room in Milford, the Mason jar that cost 50¢ to make and sold for $6 was the start, and Almquist equipment was the choice in the Midwest and East.
 

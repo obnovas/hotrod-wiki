@@ -52,21 +52,15 @@ George DuVall saw a newspaper photo of a Southern California Plating Co. truck w
 
 He had graduated from Hollywood High in 1931 and studied mechanical engineering at UCLA.[^k] Owner Leonard DeBell saw DuVall's work on his own cars and moved him to design: custom bumpers and grilles, mostly for Depression-era Fords, influenced by Harley Earl, all chrome-plated. DuVall left UCLA for So. Cal. Plating full time in 1933.[^k]
 
-George H. DuVall Jr. was born Aug 19, 1913, in Los Angeles and died Feb 12, 1999, in Peggs, Oklahoma. His 1931 Hollywood High yearbook entry reads "Auto Body Designer 'Duv' Cal Tech."[^cb] In 1990 Dean Batchelor interviewed him for R&C ("Flying V's").[^cb] See also [Julian Doty](julian-doty.md) and [So. Cal. Plating](../companies/southern-california-plating.md).
-
-## The company trucks
-
 His showcase was the company's own fleet. DeBell believed in self-promotion, so the company trucks were always customized. The 1935 Ford phaeton delivery (designed late 1935 with Frank Kurtis, finished 1936) was stretched 12 in. and had a Cord-inspired brass grille, hidden headlights and Sea Foam Green paint by Charles Remidi. It was the first vehicle with a DuVall windshield.[^k] A grille on an earlier So. Cal. Plating truck is said to have inspired the Hudson Terraplane's.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-## The windshield
-
 The DuVall windshield was a five-piece bronze casting for 1935–46 Ford cowls, built by So. Cal. Plating, which held the pattern rights. Its first known hot rod use was Jimmy Summers fitting one to Jack Dorn's '32 roadster in the early 1940s.[^k][^summers]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
-
-## The Hollywood Hubcap
 
 He also gave the custom crowd a hubcap. It has been called the first mass-produced aftermarket custom hubcap. Per Albert Drake, the first version had an S stamped in relief that appeared to spin, and a later one used a chromed bar.[^k]
 
 Xydias put DuVall in company: "Jimmy Summers and George DuVall were two of the best-known guys before the war."[^summers]
+
+George H. DuVall Jr. was born Aug 19, 1913, in Los Angeles and died Feb 12, 1999, in Peggs, Oklahoma. His 1931 Hollywood High yearbook entry reads "Auto Body Designer 'Duv' Cal Tech."[^cb] In 1990 Dean Batchelor interviewed him for R&C ("Flying V's").[^cb] See also [Julian Doty](julian-doty.md) and [So. Cal. Plating](../companies/southern-california-plating.md).
 
 He took the delivery job after a newspaper photo of the truck. The work turned into the DuVall windshield and the Hollywood Hubcap.
 
