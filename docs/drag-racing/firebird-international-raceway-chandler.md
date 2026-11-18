@@ -78,8 +78,6 @@ canonical_for: []
 
     — NHRA announcer Alan Reinhart, who was handed a microphone at a Saturday-night sportsman race in the early 1980s when the regular announcer did not show up, to Dragzine, December 2023.[^dz23]
 
-## After Orange County, a second Firebird
-
 This is not [Firebird Raceway in Eagle, Idaho](firebird-raceway-idaho-bootleggers.md). Charlie Allen built the Phoenix-area Firebird on Gila River Indian Community land so he could keep promoting races after [Orange County International Raceway](orange-county-international-raceway.md) closed under him. The lease almost closed it. A highway overpass was supposed to cut through it. The name came back. The Idaho strip is the Bootleggers' sagebrush track, the first U.S. dragstrip on the National Register. This one sits along Interstate 10, south of Chandler, about ten miles south of downtown Phoenix, a 2007 *Arizona Driver* feature said.[^azd07][^ocir][^nhra22]
 
 The Valley had already had [Beeline Dragway](beeline-dragway-mesa.md), the Salt River strip that hosted AHRA's Winternationals. That earlier lease, and the argument over when it closed, stay on that page.
@@ -88,13 +86,9 @@ Allen had begun construction on Firebird International Raceway outside Phoenix i
 
 Allen had booked John Force into match-race shows while he still ran Orange County. Force came to the new desert track in its opening year to support him, NHRA wrote, and was in the first national-event Funny Car field the following year. He is, that 2022 preview said, the only driver entered that season who had also competed at the inaugural national event, a field that included [Don Prudhomme](../people/don-prudhomme.md), [Tom McEwen](../people/tom-mcewen.md) and Ed McCulloch. Force was runner-up to John Collins, his fifth NHRA runner-up without a win, after smoking the tires in a Coca-Cola Corvette, in his first year with crew chief Austin Coil.[^nhra22]
 
-## The first Fallnationals
-
 The track's first NHRA national event was the 1985 Fallnationals. *National Dragster*'s 2016 look back called it the first national event held at the facility, by then renamed Wild Horse Pass Motorsports Park, "formerly known as Firebird Int'l Raceway Park." [Gene Snow](../people/gene-snow.md) won Top Fuel, his first title in the class, after barely making the field: a 5.628 at 254.95 mph over Dick LaHaie's 5.635 at 241.93. Bob Glidden won Pro Stock over Joe Lepone Jr. and, the same article says, clinched the 1985 NHRA world championship. The win was Glidden's 46th, "12 more than anyone else in the history of the sport at the time." Collins collected his first NHRA national-event win in Funny Car after 22 years of racing, when Force spun the tires off the line. McEwen lost in the first round to McCulloch after a magneto was installed incorrectly.[^nhra85]
 
 *Arizona Driver* billed the place as the only track in the country that hosted racing on both "the asphalt quarter mile and the liquid quarter mile," with an NHRA drag strip, an IHBA- and APBA-sanctioned lake (120 acres, 1.1 miles long, a 2.4-mile oval in that telling), road courses, the Bob Bondurant School of High Performance Driving and weekly programs for amateur racers. The magazine put the complex at 440 acres and said more than 600,000 people a year came through the gates. It also claimed more than 10,000,000 visitors since 1983. Force later won at the track eight times (1994, 1995, 1996, 1997, 1999, 2000, 2001 and 2005) and was runner-up six times.[^azd07][^nhra22]
-
-## The lease runs out, twice
 
 In January 2013 KTAR reported that Allen, in a written statement, said the Gila River Indian Community would not extend or renew the track's lease, and that the facility, on Interstate 10 south of Chandler, would close in April. NHRA vice president of racing operations Graham Light told the station the Phoenix market mattered: "For the last 29 years, it's been one of our favorite spots on our 24-race NHRA series." Hemmings, a day later, reported that Friday editions of the *Arizona Republic* had quoted NHRA president Tom Compton as "very optimistic that the venue will be on the NHRA Mello Yello Drag Racing Series schedule in 2014," and that Forrest Lucas, who had built the off-road track, said the Community would allow him to operate that course and the lake. The Bondurant school was also based there.[^ktar13][^hemm13]
 

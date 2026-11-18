@@ -91,15 +91,11 @@ peak: 1958–1968
 
 W. H. and Jayne David ran a strip you built every other Sunday, at Esterwood in 1955 and then on the Opelousas airport. The tower sat on a 1951 Chevy panel truck. The family says he invented the Christmas tree. NHRA's history calls that one of several claims.
 
-## A strip you built every other Sunday
-
 The man behind Louisiana's early strips said his name "dah-VEED." W. H. David of Lafayette founded the Pel State Timing Association, Pel State being short for the Pelican State, and ran it with his wife, Jayne.[^nhra13] His grandson Rick David wrote that he "opened his first drag strip in 1955 at Esterwood, LA," and moved to Opelousas in 1958.[^rdavid] The Division 4 Hall of Fame dates Pel State Dragway's opening to May 4, 1958, "with 427 race cars and 2,200 spectators."[^d4hof]
 
 Pel State was on the Opelousas airport, so nothing could stay up. Before every meet, on the second and fourth Sundays, the crew strung the fencing, the public-address wire and the timing wire, and when a dragster left the pavement for "a trip through the grass," it could take out the timing or the PA lying on the ground. There were no guardrails; spectators sat in or on their cars behind the temporary wire fence. The tower was a platform and canopy on top of a 1951 Chevy one-ton panel truck, and from it Dave McClelland, a Shreveport television personality who made the trip down, called the races. Across from the front gate stood a place called The Gate, "although no racer would admit to ever frequenting the place."[^d4hof]
 
 Every strip in Louisiana worked that way, one racer remembered. Max Williamson, who raced his C/A '32 Ford three-window for Top Eliminator at Pel State "many Sundays," wrote that "every track in that era was run on runways," most of them still active, and had to be set up and torn down each time. He also kept copies of Pel State's *Tire Marks*, "which was published after each race"; *Drag Strip List* shows the back page of the July 5, 1959, issue.[^dslla] Jayne David wrote, edited and printed it, her grandson says.[^rdavid]
-
-## Four strips at once
 
 By Rick David's count his grandfather at one point had four NHRA-sanctioned tracks running at once in Louisiana: Opelousas, Hammond, Lake Charles and Houma.[^rdavid] The racers place themselves on that map. Leonard G. Sitzman beat "Power Glide Pete" for the trophy at the Hammond airport in August 1957 in his '57 Chevy, on his way back to LSU. Williamson, between 1955 and 1962, raced Pel State, Hammond, Houma, Lake Charles, Alexandria and Mansfield, and his club, the Cenla Gents of Alexandria, put on its own races at the old Pollock airport and at Esler Field in Pineville.[^dslla] David Lambdin, who won the state C Sports title in a '63 Corvette convertible, raced Pel State in 1966 and 1967.[^dslla]
 
