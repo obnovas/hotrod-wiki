@@ -94,9 +94,9 @@ Then the paper's own editorial took the air out of it. Passing the inspection, i
 
 ## What the advisers wrote
 
-By the early 1960s the purpose statement had settled into a formula. At **Southeast Guilford High School** in Greensboro, North Carolina, in the school's first yearbook (1963), the Hot Rod Club "was organized under the leadership of Mr. James Russell." Its purpose "was to promote safe driving habits among the students and to give students a better understanding of the maintenance of their vehicle." The club ran a Christmas clothing drive, earned money with a car-inspection service, and hoped "to buy a car for their club project."[^seg]
-
 The idea had reached the textbooks, too. A 1955 book on secondary-school administration by Roland C. Faunce includes, in a numbered list, "Hot-rod club (to promote safe driving)," right between comfortable library chairs and a visitor's locker room. We could see only that search snippet, not what the list was for.[^faunce]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+
+By the early 1960s the purpose statement had settled into a formula. At **Southeast Guilford High School** in Greensboro, North Carolina, in the school's first yearbook (1963), the Hot Rod Club "was organized under the leadership of Mr. James Russell." Its purpose "was to promote safe driving habits among the students and to give students a better understanding of the maintenance of their vehicle." The club ran a Christmas clothing drive, earned money with a car-inspection service, and hoped "to buy a car for their club project."[^seg]
 
 ## Circleville, Ohio, 1964–1967
 

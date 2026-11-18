@@ -7,7 +7,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 |---|---|---|
 | `cars/beast-iii.md` | todo | |
 | `cars/hill-bros-red-baron.md` | todo | |
-| `cars/techniques-and-styles.md` | todo | |
+| `cars/techniques-and-styles.md` | done | batch 13 |
 | `companies/comp-cams-rhs.md` | done | batch 3 |
 | `companies/crane-cams.md` | done | batch 4 |
 | `companies/edelbrock-slingshot.md` | done | batch 5 |
@@ -22,7 +22,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `companies/moon-equipment.md` | done | batch 7 |
 | `companies/moroso.md` | done | batch 6 |
 | `companies/mr-gasket.md` | done | batch 2 |
-| `companies/prewar-speed-shops.md` | todo | |
+| `companies/prewar-speed-shops.md` | done | batch 13 |
 | `companies/southern-california-plating.md` | done | batch 6 |
 | `companies/summit-racing.md` | done | batch 5 |
 | `companies/web-of-influence.md` | todo | |
@@ -81,7 +81,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/half-day-ataa-maremont.md` | done | batch 2 hedged the summary's 1952 and moved qr-6 onto the ATAA chapters |
 | `drag-racing/hanover-adams-county-clubs.md` | done | batch 6 |
 | `drag-racing/harmon-raceway-monroe.md` | todo | |
-| `drag-racing/high-school-hot-rod-clubs.md` | todo | |
+| `drag-racing/high-school-hot-rod-clubs.md` | done | batch 13 |
 | `drag-racing/hope-airport-drag-strip.md` | done | batch 8 |
 | `drag-racing/houston-freeway-dragstrip.md` | done | batch 1 |
 | `drag-racing/indiana-small-town-clubs.md` | done | batch 1 |
@@ -165,7 +165,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `eras/1970s-street-rod-nationals.md` | done | batch 4 |
 | `eras/1980s-pro-street.md` | todo | |
 | `media/hot-august-nights-reno-1986.md` | todo | |
-| `media/show-circuit.md` | todo | |
+| `media/show-circuit.md` | done | batch 13 |
 | `media/street-rod-magazine-portland.md` | done | batch 10 |
 | `media/street-rod-newspaper-serial.md` | done | batch 10 |
 | `media/trend-books-kits-roth.md` | todo | |
@@ -219,12 +219,12 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `places/midwest-east.md` | todo | |
 | `places/modesto.md` | todo | |
 | `places/ohio-gassers.md` | done | batch 2 moved qr-3 onto the 1968 Camaro and qr-9 onto Pete and Bill |
-| `places/pacific-northwest.md` | todo | |
+| `places/pacific-northwest.md` | done | batch 13 |
 | `places/regional-scenes.md` | todo | |
 | `places/rons-drive-in-sprague-avenue-spokane-valley.md` | done | batch 10 |
 | `places/route-1-saugus-adventure-car-hop.md` | todo | |
 | `places/summer-avenue-memphis.md` | todo | |
-| `places/texas.md` | todo | |
+| `places/texas.md` | done | batch 13 |
 | `places/twin-falls-main-avenue.md` | done | batch 3 |
 | `places/upper-midwest.md` | todo | |
 | `places/van-nuys.md` | done | batch 10 |

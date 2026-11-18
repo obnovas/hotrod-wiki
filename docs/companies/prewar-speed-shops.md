@@ -71,13 +71,13 @@ The shop outlived him. Wight died in 1943. His widow ran the shop until **Roy Ri
 
 Lee Chapel came next. A c.1950 catalog posted on the H.A.M.B. claims 21 years in business for Lee's Speed Shop, which implies **1929**.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The year is an inference from that catalog. Lee's was at 3263 San Fernando Rd., LA (sharing a junkyard), moved in 1933 to 4557 Alhambra Ave., closed in 1937 while Chapel toured with a midget, and reopened in 1939 at 1143 E. 14th St., **Oakland**.[^hem]
 
-## Karl and Veda Orr, 1940
-
-Then came the Orrs. The Orr Speed Shop opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] See [Veda Orr](../people/veda-orr.md). Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k]
-
 ## Jim White, 1932
 
 Batchelor's list leaves one out, and Hemmings adds him. Based on Roger Harrell's book, Jim White's Speed Shop opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main, run with brother Nick Harrell until **1976**.[^hem]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The run until 1976 is one account so far.
+
+## Karl and Veda Orr, 1940
+
+Then came the Orrs. The Orr Speed Shop opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] See [Veda Orr](../people/veda-orr.md). Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k]
 
 First there was the junkyard in Bell. Then Lee Chapel, then Karl Orr, and Jim White, the name Batchelor left out. Then everyone got into the act.
 

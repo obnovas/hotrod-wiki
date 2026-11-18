@@ -71,9 +71,9 @@ It began as a sideshow. Promoter Al Slonaker first slipped some track roadsters 
 
 The show ran Jan 19–22, 1950, at the Oakland Exposition Building.[^go]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
-The first America's Most Beautiful Roadster (AMBR) was Bill Niekamp's lakes-bred '29 Ford roadster of Long Beach. Larry Neves (Oakland) and Fred Ige (West LA) were runners-up, and a roadster was built on the floor in 32 hours under Ben Hubbard.[^k50] "Grand" was added to the name in 1963.[^hr]
+The first America's Most Beautiful Roadster (AMBR) was Bill Niekamp's lakes-bred '29 Ford roadster of Long Beach. Larry Neves (Oakland) and Fred Ige (West LA) were runners-up, and a roadster was built on the floor in 32 hours under Ben Hubbard.[^k50]
 
-The AMBR list is dominated by T and A roadsters through the 1950s, then Richard Peters' Ala Kart won in 1958 and 1959 (Rod Shows).[^rs] In 1970 the AMBR winner, Andy Brizio, drove his '23 T to Peoria ([Peoria 1970](../eras/1970s-street-rod-nationals.md)).[^rc]
+The AMBR list is dominated by T and A roadsters through the 1950s, then Richard Peters' Ala Kart won in 1958 and 1959 (Rod Shows).[^rs] "Grand" was added to the name in 1963.[^hr] In 1970 the AMBR winner, Andy Brizio, drove his '23 T to Peoria ([Peoria 1970](../eras/1970s-street-rod-nationals.md)).[^rc]
 
 ## Detroit Autorama, 1953, and the circuit
 
