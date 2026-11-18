@@ -54,11 +54,11 @@ canonical_for: []
 
 On furlough from the Army Air Corps, Alex Xydias watched San Fernando Valley street races and got the idea to open a speed shop. He named it So-Cal. The name came with an obligation: he had to race.
 
-He entered the Army Air Corps in 1942. On furlough he watched the races, and it got him thinking: "I was really surprised at how fast the cars ran and I got the idea to open a speed shop."[^yum]
-
 ## Before the Army
 
 The cars had been in his life for years. He was born March 22, 1922, in Los Angeles. His first hot rod was a '29 roadster he drove to Fairfax High.[^yum] He hung around Jimmy Summers' shop across the street ([see Summers](jimmy-summers.md)).[^sm]
+
+He entered the Army Air Corps in 1942. On furlough he watched the races, and it got him thinking: "I was really surprised at how fast the cars ran and I got the idea to open a speed shop."[^yum]
 
 ## The name
 
