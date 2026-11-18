@@ -1,7 +1,7 @@
 # Rewrite progress
 
 Story rewrites in the Biloxi voice. This file sits at the repo root and is not part of the site.
-Status: `done` has had a narrative pass. `todo` has not.
+Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-finish retelling, not a heading cut.
 
 | Article | Status | Note |
 |---|---|---|
@@ -9,9 +9,9 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `cars/hill-bros-red-baron.md` | todo | |
 | `cars/techniques-and-styles.md` | todo | |
 | `companies/comp-cams-rhs.md` | todo | |
-| `companies/crane-cams.md` | todo | |
+| `companies/crane-cams.md` | done | batch 4 |
 | `companies/edelbrock-slingshot.md` | todo | |
-| `companies/holley.md` | todo | |
+| `companies/holley.md` | done | batch 4 |
 | `companies/honest-charley-speed-shop.md` | todo | |
 | `companies/hooker-headers.md` | todo | |
 | `companies/hurst-campbell.md` | todo | |
@@ -31,7 +31,7 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `customs/ozark-drifters-ceola-scrapbook-arkansas.md` | todo | |
 | `drag-racing/akron-fulton-airport.md` | done | batch 2 hedged the deck's first marker to the 2016 report |
 | `drag-racing/alabama-black-widows-lassiter-helena.md` | todo | |
-| `drag-racing/ames-drag-strip-nightcrawlers.md` | todo | |
+| `drag-racing/ames-drag-strip-nightcrawlers.md` | done | batch 4 |
 | `drag-racing/atco-strato-rods-south-jersey.md` | todo | |
 | `drag-racing/atlanta-speed-shop-dragway.md` | todo | |
 | `drag-racing/beardstown-drag-strip.md` | todo | |
@@ -42,19 +42,19 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `drag-racing/biloxi-dragway-gulf-coast.md` | todo | |
 | `drag-racing/blaney-drag-strip-elgin-south-carolina.md` | todo | |
 | `drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md` | todo | |
-| `drag-racing/brooksville-jaycees-drag-strip.md` | todo | |
+| `drag-racing/brooksville-jaycees-drag-strip.md` | done | batch 4 |
 | `drag-racing/bunker-hill-dragstrip-indiana.md` | todo | |
 | `drag-racing/cameron-accelerators.md` | todo | |
 | `drag-racing/canyon-orchids-celtics-amarillo.md` | todo | |
 | `drag-racing/carlisle-drag-strip-arkansas.md` | todo | |
 | `drag-racing/casa-grande-municipal-airport-cgta.md` | todo | |
-| `drag-racing/casper-bar-nunn-wyoming-strips.md` | todo | |
+| `drag-racing/casper-bar-nunn-wyoming-strips.md` | done | batch 4 |
 | `drag-racing/cedar-creek-bullitt-dragway-kentucky.md` | todo | |
 | `drag-racing/chardon-road-ravens-thompson-drag-strip.md` | todo | |
 | `drag-racing/charlestown-dragway-rhode-island.md` | todo | |
-| `drag-racing/chester-drag-strip-south-carolina.md` | todo | |
+| `drag-racing/chester-drag-strip-south-carolina.md` | done | batch 4 |
 | `drag-racing/columbus-trotters-high-winders.md` | todo | |
-| `drag-racing/connecticut-clubs-nutmeg-state-timing-association.md` | todo | |
+| `drag-racing/connecticut-clubs-nutmeg-state-timing-association.md` | done | batch 4 |
 | `drag-racing/cumberland-clockers.md` | todo | |
 | `drag-racing/cumming-dragway.md` | todo | |
 | `drag-racing/dc-dragons-jo-ann-johnson.md` | todo | |
@@ -101,7 +101,7 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `drag-racing/linden-njta-new-jersey-short-strips.md` | todo | |
 | `drag-racing/m-n-raceway-wichita-simon-farm.md` | todo | |
 | `drag-racing/marana-army-air-field-drags.md` | todo | |
-| `drag-racing/march-1957-drag-strip-survey.md` | todo | |
+| `drag-racing/march-1957-drag-strip-survey.md` | done | batch 4 |
 | `drag-racing/marin-cotati-strips.md` | todo | |
 | `drag-racing/medina-county-castroville-drags.md` | todo | |
 | `drag-racing/milton-speedway-vermont.md` | todo | |
@@ -111,8 +111,8 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `drag-racing/montana-hoodoos-road-runners-royal-coachmen.md` | todo | |
 | `drag-racing/mountain-view-erie-colorado-strips.md` | todo | |
 | `drag-racing/nebraska-flightland-grand-island-kearney.md` | todo | |
-| `drag-racing/nebraska-go-out-to-scribner.md` | todo | |
-| `drag-racing/new-england-dragway-epping.md` | todo | |
+| `drag-racing/nebraska-go-out-to-scribner.md` | done | batch 4 |
+| `drag-racing/new-england-dragway-epping.md` | done | batch 4 |
 | `drag-racing/new-mexico-timing-association-albuquerque.md` | todo | |
 | `drag-racing/new-york-towns-panel-1957.md` | todo | |
 | `drag-racing/north-carolina-drag-strip-debate-1956.md` | todo | |
@@ -122,9 +122,9 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `drag-racing/palm-springs-timing-association.md` | todo | |
 | `drag-racing/palmer-alaska-polar-dragway.md` | todo | |
 | `drag-racing/paradise-drag-strip-calhoun.md` | todo | |
-| `drag-racing/pascagoula-timing-association.md` | todo | |
+| `drag-racing/pascagoula-timing-association.md` | done | batch 4 |
 | `drag-racing/pel-state-dragway-opelousas.md` | todo | |
-| `drag-racing/pennsauken-central-airport-1958.md` | todo | |
+| `drag-racing/pennsauken-central-airport-1958.md` | done | batch 4 |
 | `drag-racing/perryville-marsh-airstrip.md` | todo | |
 | `drag-racing/phoenix-west-side-karbs-litchfield-road.md` | done | batch 2 |
 | `drag-racing/pico-raceway-rutland-airport.md` | todo | |
@@ -152,17 +152,17 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `drag-racing/utah-airport-no-2-salt-lake-strips.md` | todo | |
 | `drag-racing/virgin-islands-no-hot-rods.md` | todo | |
 | `drag-racing/washington-suburbs-drag-strip-debate.md` | todo | |
-| `drag-racing/western-washington-airport-strips.md` | todo | |
+| `drag-racing/western-washington-airport-strips.md` | done | batch 4 |
 | `drag-racing/westhampton-drag-strip-long-island.md` | todo | |
 | `drag-racing/winslow-renegades-airport.md` | todo | |
 | `drag-racing/winterport-fernald-field-maine.md` | todo | |
 | `drag-racing/yellow-river-covington.md` | todo | |
 | `drag-racing/yuma-timing-association.md` | todo | |
-| `eras/1930s-dry-lakes-scta.md` | todo | |
+| `eras/1930s-dry-lakes-scta.md` | done | batch 4 |
 | `eras/1950s-camgrinder-wars.md` | todo | |
 | `eras/1950s-santa-ana-drags.md` | done | batch 2 |
 | `eras/1960s-drag-rags.md` | todo | |
-| `eras/1970s-street-rod-nationals.md` | todo | |
+| `eras/1970s-street-rod-nationals.md` | done | batch 4 |
 | `eras/1980s-pro-street.md` | todo | |
 | `media/hot-august-nights-reno-1986.md` | todo | |
 | `media/show-circuit.md` | todo | |
@@ -192,19 +192,19 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `people/howard-johansen.md` | todo | |
 | `people/jack-engle.md` | todo | |
 | `people/jimmy-summers.md` | todo | |
-| `people/joe-lunati.md` | todo | |
+| `people/joe-lunati.md` | done | batch 4 |
 | `people/julian-doty.md` | todo | |
 | `people/keith-black.md` | todo | |
 | `people/kong-jackson.md` | todo | |
 | `people/malcolm-durham.md` | todo | |
-| `people/peggy-hart.md` | todo | |
+| `people/peggy-hart.md` | done | batch 4 |
 | `people/red-greth.md` | todo | |
 | `people/roland-leong.md` | todo | |
 | `people/roy-hagy.md` | todo | |
 | `people/setto-postoian.md` | todo | |
-| `people/stu-hilborn.md` | todo | |
+| `people/stu-hilborn.md` | done | batch 4 |
 | `people/tom-beatty.md` | todo | |
-| `people/tom-mcewen.md` | todo | |
+| `people/tom-mcewen.md` | done | batch 4 |
 | `people/veda-orr.md` | todo | |
 | `places/bobs-big-boy-river-road.md` | todo | |
 | `places/brookside-restless-ribbon-tulsa.md` | todo | |
@@ -231,7 +231,7 @@ Status: `done` has had a narrative pass. `todo` has not.
 | `places/westheimer-houston.md` | todo | |
 | `places/whittier-blvd.md` | todo | |
 | `places/woodward-ordinances.md` | todo | |
-| `places/woodward.md` | todo | |
+| `places/woodward.md` | done | batch 4 |
 | `street-rodding/fiberglass-suppliers.md` | todo | |
 | `street-rodding/nsra-early-nationals.md` | todo | |
 | `voices/blackie-gold.md` | todo | |

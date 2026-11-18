@@ -68,31 +68,31 @@ canonical_for:
 <figcaption markdown>El Mirage Dry Lake, San Bernardino County, today a BLM off-highway vehicle area. It is a modern view of the lakebed, not a period racing photo. Photo: Bureau of Land Management California, 2015-06-08. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Mirage_Dry_Lake_Off-Highway_Vehicle_Recreation_Area_(29486068103).jpg). License: Public domain.</figcaption>
 </figure>
 
-In the 1920s, the weekend racers of greater Los Angeles drove roughly 100 miles north to Muroc Dry Lake, partly to get away from the police, and raced side by side.[^mojave] The Southern California Timing Association put a stopwatch on those lineups in 1937. Then the air base took the lake, and after the war El Mirage became the main lakebed.
+Partly to get away from the police, the weekend racers of greater Los Angeles drove roughly 100 miles north to Muroc Dry Lake in the 1920s and raced side by side.[^mojave] In 1937 the Southern California Timing Association put a stopwatch on those lineups. Then the air base took the lake, and after the war El Mirage became the main lakebed.
 
-They brought modified four-cylinder Fords and raced them across the lakebed in unruly "lineups."[^mojave] By the early 1930s someone was trying to organize it. Bell Auto's George Wight is said to have worked with the young Gilmore Oil company to organize dry-lakes events at Muroc in the early 1930s.[^jj-bell]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+They brought modified four-cylinder Fords and raced them across the lakebed in unruly "lineups."[^mojave] Someone, by the early 1930s, was trying to organize it. Bell Auto's George Wight is said to have worked with the young Gilmore Oil company to organize dry-lakes events at Muroc in the early 1930s.[^jj-bell]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## Enter the stopwatch
 
-The Southern California Timing Association was organized on November 29, 1937, to run speed trials on the dry lakes and to set safety guidelines. The mass starts gave way to running against the clock.[^rr][^mojave]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
+On November 29, 1937, the Southern California Timing Association was organized to run speed trials on the dry lakes and to set safety guidelines. The mass starts gave way to running against the clock.[^rr][^mojave]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Who was in the room is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+It is still open who was in the room.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
-Drake's *Flat Out* lists the Hollywood Throttlers, 90MPH Club, Road Runners, Bungholers, Night Owls, and Mercuries & Centuries, meeting at the Throttlers' clubhouse. Carrol's book has the Knight Riders, Sidewinders, Throttlers, Idlers, Ramblers, Road Runners and 90MPH Club.
+The clubs in Drake's *Flat Out* are the Hollywood Throttlers, 90MPH Club, Road Runners, Bungholers, Night Owls, and Mercuries & Centuries, meeting at the Throttlers' clubhouse. Carrol's book names the Knight Riders, Sidewinders, Throttlers, Idlers, Ramblers, Road Runners and 90MPH Club.
 
-Only three names show up in every account: Throttlers, 90MPH Club, Road Runners. Of the charter clubs, the Road Runners and the Sidewinders are still around today.[^rr]
+Every account has just three names in common: Throttlers, 90MPH Club, Road Runners. Of the charter clubs, the Road Runners and the Sidewinders are still around today.[^rr]
 
-Coachbuilt.com adds that George DuVall and Julian Doty were charter Hollywood Throttlers "present when the SCTA was founded."[^cb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+Coachbuilt.com adds that George DuVall and Julian Doty, charter Hollywood Throttlers, were "present when the SCTA was founded."[^cb]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 ## May or March?
 
-The new association grew fast, though even its first meet has two dates.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> By mid-1938 the SCTA had 23 member clubs and 451 members. The Road Runners, with Wally Parks coordinating patrols at the first meet, were the third largest club with 31 members.[^rrpdf] Wally Parks and Ak Miller were founding Road Runners. Miller later became SCTA president, and Parks went on to found the NHRA in 1951.[^rr]
+The new association grew fast. Even its first meet has two dates.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup> By mid-1938 the SCTA had 23 member clubs and 451 members. The Road Runners were the third largest club, with 31 members, and Wally Parks was coordinating patrols at the first meet.[^rrpdf] Among the founding Road Runners were Wally Parks and Ak Miller. Parks went on to found the NHRA in 1951, and Miller later became SCTA president.[^rr]
 
 ## The lakebed gets drafted
 
-Then Muroc was gone. It became restricted and was absorbed into what is now Edwards Air Force Base (today Rogers Dry Lake). Harper was too short and Rosamond too soft, and after the war El Mirage became the main lakebed.[^mojave] Barney Navarro remembered the November 1941 meet as "the last Muroc meet before the war."[^navarro]
+Then Muroc was gone. It became restricted, and was absorbed into what is now Edwards Air Force Base (today Rogers Dry Lake). Harper was too short and Rosamond was too soft, and after the war El Mirage became the main lakebed.[^mojave] The November 1941 meet, as Barney Navarro remembered it, was "the last Muroc meet before the war."[^navarro]
 
-They had come roughly 100 miles and raced side by side in those lineups. On November 29, 1937, the mass starts gave way to running against the clock. Then the air base took the lake.
+They came roughly 100 miles and raced side by side in those lineups. The mass starts gave way to running against the clock on November 29, 1937. Then the air base took the lake, and after the war El Mirage became the main lakebed.
 
 ## Open questions & disputed details
 

@@ -56,35 +56,13 @@ canonical_for: []
 
 In August 1947, during a carbureted test, a rear wheel on Stu Hilborn's streamliner collapsed and the car tumbled. Hilborn spent time in a body cast. Eddie Miller Jr. rebuilt the wrecked body while he recovered.[^sema] He promised his mother he would not drive again. From that car came Hilborn fuel injection, and a business.
 
-The crash cost him the driver's seat, so Howard (Howie) Wilson drove. By SEMA's account, Hot Rod put Hilborn and the car on the cover of its fourth issue (April 1948) at about 136 mph, and in July 1948 Wilson ran 150.5 mph at El Mirage, the first documented 150 mph lakes pass in that account.[^sema]
+Stuart Garfield Hilborn, Oct 9, 1917, was a Calgary-born Southern California lakes racer who turned wartime experiments into Hilborn Fuel Injection, the mechanical constant-flow systems whose velocity stacks became a visual shorthand for mid-century race engines. His first trip to the dry lakes was Muroc, 1938. He told AHRF he was struck that unpaid engine builders were doubling Detroit horsepower.[^aw] Neighbor Eddie Miller (Indy veteran) helped him build a flathead Model A. Autoweek says about 123 mph. SEMA says about 120 mph on the lakes.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> On Dec 7, 1941, he picked up a narrow streamliner previously raced by Bill Warth, then entered the Army Air Corps as a gunnery instructor. SEMA: only a couple of runs before service.[^sema]
 
-His own version is less specific. Hilborn's company-site text (quoted by Autoweek) says that after the rebuild the car "became the first car to break 150 mph," without naming the driver in that sentence.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+After the war he built a mechanical fuel injector and tested it on the streamliner, swapping between injection and multiple carbs.[^sema] The crash cost him the driver's seat, so Howard (Howie) Wilson drove. By SEMA's account, Hot Rod put Hilborn and the car on the cover of its fourth issue (April 1948) at about 136 mph, and in July 1948 Wilson ran 150.5 mph at El Mirage, the first documented 150 mph lakes pass in that account.[^sema] His own version is less specific. Hilborn's company-site text (quoted by Autoweek) says that after the rebuild the car "became the first car to break 150 mph," without naming the driver in that sentence.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-## The man behind the stacks
+The injector worked, and demand forced him out of racing into manufacturing: Offenhauser midget injectors first, then a business (Fuel Injection Engineering Co. / Hilborn Fuel Injection) that supplied oval track, drag, lakes, and Indy cars for decades.[^aw][^sema] Autoweek reported his injectors on 34 Indianapolis 500 winners.[^aw][^sema] The work is on paper too. U.S. 3,473,523, "Fuel Injection System," inventor Stuart G. Hilborn, assignee Fuel Injection Engineering Co., issued Jan 14, 1969.[^p3523] U.S. 3,519,407, "Fuel Injection Nozzle," same inventor/assignee, issued July 7, 1970.[^p9407] He entered the SEMA Hall of Fame in 1996.[^sema]
 
-Stuart Garfield Hilborn, Oct 9, 1917, was a Calgary-born Southern California lakes racer who turned wartime experiments into Hilborn Fuel Injection, the mechanical constant-flow systems whose velocity stacks became a visual shorthand for mid-century race engines. Autoweek reported his injectors on 34 Indianapolis 500 winners.[^aw][^sema]
-
-## Lakes before the war
-
-His first trip to the dry lakes was Muroc, 1938. He told AHRF he was struck that unpaid engine builders were doubling Detroit horsepower.[^aw]
-
-Neighbor Eddie Miller (Indy veteran) helped him build a flathead Model A. Autoweek says about 123 mph. SEMA says about 120 mph on the lakes.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
-
-Then the war interrupted. On Dec 7, 1941, he picked up a narrow streamliner previously raced by Bill Warth, then entered the Army Air Corps as a gunnery instructor. SEMA: only a couple of runs before service.[^sema]
-
-## From the streamliner to a business
-
-After the war he built a mechanical fuel injector and tested it on the streamliner, swapping between injection and multiple carbs.[^sema]
-
-The injector worked, and demand forced him out of racing into manufacturing: Offenhauser midget injectors first, then a business (Fuel Injection Engineering Co. / Hilborn Fuel Injection) that supplied oval track, drag, lakes, and Indy cars for decades.[^aw][^sema]
-
-## Patents and the long goodbye
-
-The work is on paper too. U.S. 3,473,523, "Fuel Injection System," inventor Stuart G. Hilborn, assignee Fuel Injection Engineering Co., issued Jan 14, 1969.[^p3523] U.S. 3,519,407, "Fuel Injection Nozzle," same inventor/assignee, issued July 7, 1970.[^p9407] He entered the SEMA Hall of Fame in 1996.[^sema]
-
-He died Dec 16, 2013, age 96, in Aliso Viejo, Calif.; survived by wife Ginny, children Edris and Duane.[^aw]
-
-The company was later acquired by Holley (2019 per Wikipedia summary); Holley announced ending Hilborn mechanical production in Feb 2024.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The streamliner had tumbled in August 1947. He had promised his mother he would not drive. From that car came the business.
+He died Dec 16, 2013, age 96, in Aliso Viejo, Calif.; survived by wife Ginny, children Edris and Duane.[^aw] The company was later acquired by Holley (2019 per Wikipedia summary); Holley announced ending Hilborn mechanical production in Feb 2024.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The streamliner had tumbled in August 1947. He had promised his mother he would not drive. From that car came the business.
 
 *See also:* [Dry Lakes & the SCTA](../eras/1930s-dry-lakes-scta.md), [Patents](../reference/patents.md), [Fran Hernandez](fran-hernandez.md) (Cobbs dyno'd at Hilborn's shop per Hot Rod), [Injection & Tin voices](../voices/injection-and-tin.md).
 
