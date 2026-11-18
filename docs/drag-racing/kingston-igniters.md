@@ -65,7 +65,7 @@ The *Freeman* reported in August 1955 that "About 30 young men" had come to the 
 
 William Locke (president), Amos MacCreery (vice president), Peter Steketee (treasurer), William Ziros (inspector) and Joseph Cornelski (secretary) were the first officers. Don Eaton, Gus Lovy, Leroy "Pappy" Wells and Carl Cline were on the advisory board.[^kf550816]
 
-Three possible strip sites were ready by the third meeting, from a committee of Anthony De Paola, Louis Roberti, Connie Venditti and John Resso, but no action was taken. Senator Wicks, visited by a delegation, approved of the club's aims.[^kf550820]
+By the third meeting a committee of Anthony De Paola, Louis Roberti, Connie Venditti and John Resso had three possible strip sites to report, but no action was taken. A delegation visited Senator Wicks, who approved of the club's aims.[^kf550820]
 
 Late that August, District Attorney Howard C. St. John spoke to the club. He told the members that the community looked to them as an example of safe driving and that any traffic violation by a member would be "a reflection on the organization." He also said the club "should have a track, such as they now seek, on which to drive."[^kf550826]
 
@@ -75,7 +75,7 @@ The club met weekly at the Kingston Recreation Center, 97 Broadway, and had abou
 
 Deputy Sheriff Carl Cline, "founder of the organization," announced in March 1956 safe-driving trophies for members with perfect driving records, a campaign starting April 1. The trophies would be presented by LeRoy Wells of the White Star Transfer Co.[^kf560312]
 
-What a hot rod club actually did was on view that same month, at the Kingston Lions Industrial Exposition and Home Show at the state armory in March 1956. A *Freeman* photo shows Amos McCreery Jr., Robert Powell, LeRoy Wells and Gus Lovy, now president, beside "a completely rebuilt car": a 1931 Ford roadster with a 1948 engine and dual carburetion. The caption called the project part of a club safety campaign "to acquaint club members with the operation of a car and to realize its power."[^kf560321]
+That same month, at the Kingston Lions Industrial Exposition and Home Show at the state armory in March 1956, the Igniters showed what a hot rod club actually did. A *Freeman* photo shows Amos McCreery Jr., Robert Powell, LeRoy Wells and Gus Lovy, now president, beside "a completely rebuilt car": a 1931 Ford roadster with a 1948 engine and dual carburetion. The caption called the project part of a club safety campaign "to acquaint club members with the operation of a car and to realize its power."[^kf560321]
 
 In May 1956 the headline was "'Drag Strip' Is Still Sought by Igniters Club." So far, according to County Jailer Carl Cline, one of the club's founding "sparks," they had had no success. Trophies for six-month, one-year and five-year perfect driving records had been donated by the White Star Transfer Co. The idea was spreading, Lovy said: the Poughkeepsie Police Athletic League had talked with local hot rod leaders about starting a club there.[^kf560517] Lovy reported in June that Igniters had gone to Poughkeepsie to help organize a safety campaign for the young drivers there.[^kf560606]
 
@@ -88,7 +88,7 @@ The club changed course after that.
 
 Richard Cooney was elected president in November 1958, at a meeting in the supervisors' room of the Ulster County Courthouse. Safe driving and paying dues on time were what he stressed, and the advisers told the members to look for a meeting place "which they could call their own."[^kf581125]
 
-The board met at Wells's home two months later and changed the operation of the club "from a hot rod to a motor club." The name stayed. New club plates went to the members (purple, with aluminum lettering), and the first road rally, a 17-mile run around the county from Hasbrouck Avenue near the Strand to Dietz Stadium, went to Kenneth Lamphere with co-pilot George Bilyou.[^kf590114][^kf590130] A newspaper collection drive was what the Igniters were running by November 1959.[^kf591107]
+The board met at Wells's home two months later and changed the operation of the club "from a hot rod to a motor club." The name stayed. Members got new club plates (purple, with aluminum lettering), and the first road rally, a 17-mile run around the county from Hasbrouck Avenue near the Strand to Dietz Stadium, went to Kenneth Lamphere with co-pilot George Bilyou.[^kf590114][^kf590130] A newspaper collection drive was what the Igniters were running by November 1959.[^kf591107]
 
 Why the change happened, the papers never say. The timing suggests a club that had waited four years for a strip that never came and found something else to do with its cars. That is our reading, not the *Freeman*'s. Sedalia's Drag-Ons and Stroudsburg's Ridge Runners hunted for strips at the same time. See [The Sedalia Drag-Ons](sedalia-drag-ons.md) and [The Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md).
 
