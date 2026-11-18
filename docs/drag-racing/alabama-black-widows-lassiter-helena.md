@@ -87,8 +87,6 @@ canonical_for: []
 
     — Ann Culpepper Barnett, of near Meridian, Mississippi, on *Drag Strip List*.[^dslal]
 
-## The club that cut a mountain
-
 In 1958 Birmingham's Black Widows cut a drag strip through the ridge of Lassiter Mountain, leaving deep embankments on either side in lieu of guardrails.[^bham] Helena had a quarter-mile for nearly a decade in the 1950s and '60s.[^scr16] Racers went from strip to strip each weekend. In 1966 a 12-year-old girl beat her dad's time at Miller's Ferry.[^dslal]
 
 North of Birmingham, off Coalburg Road, the Black Widows car club built its own strip in 1958. Bhamwiki describes how: "They cut through the ridge of Lassiter Mountain, leaving deep embankments on either side of the dragway in lieu of guardrails."[^bham] A photo of about 1960 in the Encyclopedia of Alabama shows cars waiting to race at the strip outside Fultondale and calls it "an 1⁄8-mile strip that was founded in 1958 by the Black Widows Car Club."[^eoa] A 2008 newspaper story about its reopening, though, remembered "a quarter-mile strip of asphalt."[^cull]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup>
@@ -96,8 +94,6 @@ North of Birmingham, off Coalburg Road, the Black Widows car club built its own 
 The members were working men with their own garages. *Junkyard Life* wrote that Gilbert Hurst of Fultondale, father of the wagon's owner, Lynn, was "a founding member of the Black Widows (a local car club that opened legendary local drag strip Lassiter Mountain)" and ran his own auto repair business in the 1960s. Lynn remembers the family's 1958 Chevrolet Brookwood wagon at the track.[^junk] The track later had an owner, Tony Lee, and in the mid-1960s, while Chrysler was boycotting NASCAR, Richard Petty "was a frequent competitor at Lassiter Mountain, driving his Barracuda."[^bham]
 
 Promoter Randall Shew, who had fond memories of going there in the 1970s, remembered the early clubs and cars, the Black Widow Car Club, "Bad Habit" and "Wee Willie," and admitted the place had a rough edge: "The roughneck element of the dragstrip has gone away," he promised in 2008. The embankment still separated the 60-foot-wide strip from the bleachers. Rick Pennington of Performance Specialties Inc. in Fultondale, who runs a machine shop and whose uncles took him there in its early days, called it "your typical southern-style dragstrip."[^cull]
-
-## Helena, behind the church
 
 South of Birmingham, in Shelby County, Helena had a quarter-mile strip for nearly a decade in the 1950s and 1960s, behind what is now Gospel Light Baptist Church on Roy Drive, off Shelby County 58.[^scr16] "I suppose the woods have taken over," George Blaylock, who raced there, said of the site in 2018.[^scr18] In February 2016 the Kenneth R. Penhale City of Helena Museum opened an exhibit about it. Racers lent trophies, a brochure and photographs. "None of these guys here are from Helena and most live in Birmingham, Anniston, Gadsden," museum director Ken Penhale said of the drivers in the photos.[^scr16] On a Saturday in 2018 the *Alabama Yesterdays* blog found the museum "crowded with people who had come to reminisce and learn about the quarter-mile Helena Drag Strip."[^alyest]
 

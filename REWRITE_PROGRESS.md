@@ -19,7 +19,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `companies/lakewood-industries.md` | todo | |
 | `companies/logghe-stamping.md` | todo | |
 | `companies/mickey-thompson.md` | todo | |
-| `companies/moon-equipment.md` | todo | |
+| `companies/moon-equipment.md` | done | batch 7 |
 | `companies/moroso.md` | todo | |
 | `companies/mr-gasket.md` | done | batch 2 |
 | `companies/prewar-speed-shops.md` | todo | |
@@ -30,13 +30,13 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `customs/kkoa-lead-sled-revival.md` | todo | |
 | `customs/ozark-drifters-ceola-scrapbook-arkansas.md` | todo | |
 | `drag-racing/akron-fulton-airport.md` | done | batch 2 hedged the deck's first marker to the 2016 report |
-| `drag-racing/alabama-black-widows-lassiter-helena.md` | todo | |
+| `drag-racing/alabama-black-widows-lassiter-helena.md` | done | batch 7 |
 | `drag-racing/ames-drag-strip-nightcrawlers.md` | done | batch 4 |
 | `drag-racing/atco-strato-rods-south-jersey.md` | todo | |
 | `drag-racing/atlanta-speed-shop-dragway.md` | todo | |
 | `drag-racing/beardstown-drag-strip.md` | todo | |
 | `drag-racing/beech-bend-raceway-bowling-green.md` | todo | |
-| `drag-racing/beeline-dragway-mesa.md` | todo | |
+| `drag-racing/beeline-dragway-mesa.md` | done | batch 7 |
 | `drag-racing/belleville-gear-jammers.md` | todo | |
 | `drag-racing/big-spring-lions-club-drag-strip-deshazo.md` | todo | |
 | `drag-racing/biloxi-dragway-gulf-coast.md` | todo | |
@@ -49,7 +49,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/carlisle-drag-strip-arkansas.md` | todo | |
 | `drag-racing/casa-grande-municipal-airport-cgta.md` | todo | |
 | `drag-racing/casper-bar-nunn-wyoming-strips.md` | done | batch 4 |
-| `drag-racing/cedar-creek-bullitt-dragway-kentucky.md` | todo | |
+| `drag-racing/cedar-creek-bullitt-dragway-kentucky.md` | done | batch 7 |
 | `drag-racing/chardon-road-ravens-thompson-drag-strip.md` | todo | |
 | `drag-racing/charlestown-dragway-rhode-island.md` | todo | |
 | `drag-racing/chester-drag-strip-south-carolina.md` | done | batch 4 |
@@ -57,7 +57,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/connecticut-clubs-nutmeg-state-timing-association.md` | done | batch 4 |
 | `drag-racing/cumberland-clockers.md` | todo | |
 | `drag-racing/cumming-dragway.md` | todo | |
-| `drag-racing/dc-dragons-jo-ann-johnson.md` | todo | |
+| `drag-racing/dc-dragons-jo-ann-johnson.md` | done | batch 7 |
 | `drag-racing/deer-park-spokane-nitrous.md` | todo | |
 | `drag-racing/denver-timing-association-bandimere.md` | done | batch 2 |
 | `drag-racing/des-moines-dragway-ernest-day.md` | todo | |
@@ -66,17 +66,17 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/escanaba-dragns.md` | done | batch 2 |
 | `drag-racing/eugene-balboa-white-city-oregon.md` | todo | |
 | `drag-racing/fairburn-atlanta-daily-world.md` | todo | |
-| `drag-racing/farmington-dragway-becky-white.md` | todo | |
+| `drag-racing/farmington-dragway-becky-white.md` | done | batch 7 |
 | `drag-racing/firebird-international-raceway-chandler.md` | todo | |
 | `drag-racing/firebird-raceway-idaho-bootleggers.md` | todo | |
 | `drag-racing/fox-valley-road-deacons-gas-ketts.md` | todo | |
 | `drag-racing/george-rays-wildcat-drag-strip-paragould.md` | todo | |
-| `drag-racing/georgetown-speedway-delaware.md` | todo | |
+| `drag-racing/georgetown-speedway-delaware.md` | done | batch 7 |
 | `drag-racing/georgia-clubs-hy-winders-ridge-runners.md` | todo | |
 | `drag-racing/golden-triangle-oldsmar.md` | todo | |
 | `drag-racing/great-bend-srca.md` | done | batch 2 |
 | `drag-racing/great-lakes-dragaway-union-grove.md` | todo | |
-| `drag-racing/green-valley-raceway-smithfield.md` | todo | |
+| `drag-racing/green-valley-raceway-smithfield.md` | done | batch 7 |
 | `drag-racing/greybull-cheyenne-wyoming-strips.md` | todo | |
 | `drag-racing/half-day-ataa-maremont.md` | done | batch 2 hedged the summary's 1952 and moved qr-6 onto the ATAA chapters |
 | `drag-racing/hanover-adams-county-clubs.md` | todo | |
@@ -87,16 +87,16 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/indiana-small-town-clubs.md` | done | batch 1 |
 | `drag-racing/inyokern-dust-devils.md` | todo | |
 | `drag-racing/island-dragway-great-meadows.md` | todo | |
-| `drag-racing/kahuku-point-hawaii-drag-strip.md` | todo | |
+| `drag-racing/kahuku-point-hawaii-drag-strip.md` | done | batch 7 |
 | `drag-racing/kanawha-valley-drag-strip-winfield.md` | todo | |
 | `drag-racing/kansas-city-timing-association.md` | done | batch 2 |
-| `drag-racing/key-west-rumbling-rods.md` | todo | |
+| `drag-racing/key-west-rumbling-rods.md` | done | batch 7 |
 | `drag-racing/kingston-igniters.md` | todo | |
 | `drag-racing/kk-sports-arena-hospitality-bankruptcy.md` | todo | |
 | `drag-racing/kk-sports-arena-kaukauna.md` | todo | |
 | `drag-racing/lake-butler-mid-state-timing-association.md` | todo | |
 | `drag-racing/lakeland-dragway-amusement-park.md` | todo | |
-| `drag-racing/laplace-dragway-houma.md` | todo | |
+| `drag-racing/laplace-dragway-houma.md` | done | batch 7 |
 | `drag-racing/las-vegas-henderson-drag-strips.md` | todo | |
 | `drag-racing/linden-njta-new-jersey-short-strips.md` | todo | |
 | `drag-racing/m-n-raceway-wichita-simon-farm.md` | todo | |
@@ -119,9 +119,9 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/north-dakota-minot-borrowed-strips.md` | todo | |
 | `drag-racing/oklahoma-city-nationals-rush-springs.md` | todo | |
 | `drag-racing/orange-county-international-raceway.md` | todo | |
-| `drag-racing/palm-springs-timing-association.md` | todo | |
+| `drag-racing/palm-springs-timing-association.md` | done | batch 7 |
 | `drag-racing/palmer-alaska-polar-dragway.md` | todo | |
-| `drag-racing/paradise-drag-strip-calhoun.md` | todo | |
+| `drag-racing/paradise-drag-strip-calhoun.md` | done | batch 7 |
 | `drag-racing/pascagoula-timing-association.md` | done | batch 4 |
 | `drag-racing/pel-state-dragway-opelousas.md` | todo | |
 | `drag-racing/pennsauken-central-airport-1958.md` | done | batch 4 |
@@ -153,9 +153,9 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/virgin-islands-no-hot-rods.md` | todo | |
 | `drag-racing/washington-suburbs-drag-strip-debate.md` | todo | |
 | `drag-racing/western-washington-airport-strips.md` | done | batch 4 |
-| `drag-racing/westhampton-drag-strip-long-island.md` | todo | |
+| `drag-racing/westhampton-drag-strip-long-island.md` | done | batch 7 |
 | `drag-racing/winslow-renegades-airport.md` | todo | |
-| `drag-racing/winterport-fernald-field-maine.md` | todo | |
+| `drag-racing/winterport-fernald-field-maine.md` | done | batch 7 |
 | `drag-racing/yellow-river-covington.md` | todo | |
 | `drag-racing/yuma-timing-association.md` | todo | |
 | `eras/1930s-dry-lakes-scta.md` | done | batch 4 |
@@ -184,21 +184,21 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `people/ed-iskenderian.md` | done | batch 2 |
 | `people/ed-winfield.md` | todo | |
 | `people/eddie-schartman.md` | done | batch 2 |
-| `people/fran-hernandez.md` | todo | |
-| `people/gene-cromer-moonlighter.md` | todo | |
+| `people/fran-hernandez.md` | done | batch 7 |
+| `people/gene-cromer-moonlighter.md` | done | batch 7 |
 | `people/gene-snow.md` | done | batch 2 |
 | `people/george-duvall.md` | todo | |
 | `people/george-riley.md` | todo | |
 | `people/howard-johansen.md` | todo | |
 | `people/jack-engle.md` | todo | |
-| `people/jimmy-summers.md` | todo | |
+| `people/jimmy-summers.md` | done | batch 7 |
 | `people/joe-lunati.md` | done | batch 4 |
 | `people/julian-doty.md` | todo | |
-| `people/keith-black.md` | todo | |
+| `people/keith-black.md` | done | batch 7 |
 | `people/kong-jackson.md` | todo | |
 | `people/malcolm-durham.md` | todo | |
 | `people/peggy-hart.md` | done | batch 4 |
-| `people/red-greth.md` | todo | |
+| `people/red-greth.md` | done | batch 7 |
 | `people/roland-leong.md` | todo | |
 | `people/roy-hagy.md` | todo | |
 | `people/setto-postoian.md` | todo | |

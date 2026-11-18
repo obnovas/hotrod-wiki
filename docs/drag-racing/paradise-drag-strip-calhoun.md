@@ -70,8 +70,6 @@ canonical_for: []
 
 On Easter Sunday 1961, 1,500 people stood along the quarter-mile Paradise Drag Strip "just north of" Calhoun, Ga., for a special holiday race. One car never got straight.[^ac610403] A spectator was killed at the legal Sunday strip. Families from nearby towns kept going to the races for decades.
 
-## Easter Sunday, 1961
-
 The driver was Mrs. Virginia Quarles, 30, of Rome, with her husband, Frank Quarles Jr., 34, riding as passenger. Frank Gowin, 31, of Ringgold saw the car "fish tail" out of control just after it left the starting line. "She had too much power, and the tires couldn't get traction," he said. The car "spun off the track and rammed through a wooden rail," and three parked cars were heavily damaged. Deward Lee Duncan of Chatsworth was killed and 10 others were hurt, among them his brother-in-law Russell Hemphill, both Quarleses, Gowin, and spectators from Calhoun, Chatsworth, Rossville and Ringgold, two of them teenagers.[^ac610403]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> The papers do not agree how old he was.
 
 Gordon County Sheriff Hughdon Davis quoted Mrs. Quarles as saying the car began to "fishtail" a moment after the start and "she was never able to get it under control." He said it was the first time a serious incident had occurred at "the legal drag racing strip here," where, he said, races were held nearly every Sunday.[^ac610403] The Associated Press version ran as far away as Butler, in Taylor County, under the headline "Man Is Killed As Drag Racer Hits Crowd."[^bh610406]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> The papers do not agree how far from the start the car left the track.

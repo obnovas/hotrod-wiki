@@ -73,8 +73,6 @@ status: Closed 2004; since 2021 a permitted drag strip on the old runways at EPC
 
     — Ken Bausert, who raced his '50 Mercury there, on his blog, May 20, 2009.[^kb09]
 
-## Sundays out Sunrise Highway
-
 Strips lost to houses and noise complaints are common enough that Hagerty calls their obituaries "commonplace."[^hag21] Westhampton's is different in one way. Told the noise was the problem, the racers rebuilt the starting line at the other end of the track with their own hands, and the strip was sold anyway. It had been running about fifty years by then.
 
 The strip sat off Old Country Road on eastern Long Island. It opened as a dirt strip in 1953 and was paved two years later, according to NHRA's Phil Burgess, who also listed its names: Westhampton Raceway from 1953 to 1971, then Suffolk County Raceway, Hampton Raceway in the 1980s, Long Island Dragway from 1991 and Long Island Motorsports Park from 1996.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^nhra08] A 2012 Patch story calls it the "1953-built dirt drag strip."[^patch12]
@@ -92,8 +90,6 @@ Before it closed, *The Southampton Press* wrote, hundreds of people would show u
 In 1998, he said, rumors started that the track would close over noise complaints, and his business began to taper off. Town officials asked the owner, Gary Chimeri, to turn the track around: the starting line had been near Old Country Road and the nearby homes, and now racers would start near Sunrise Highway and finish toward Old Country Road. Nick Montana, a fabricator who had raced there since the late 1970s, said the racers did most of the work. They moved and rewired the scoreboard and timing system and poured a new starting line, and he estimated that volunteers did about 90 percent of the renovations. Some drivers added mufflers.[^27e17]
 
 Then, in 2004, Chimeri sold the track and its 66 acres to Engel-Burman of Lynbrook for an estimated $7 million, and a 189-unit senior housing development went up on the site.[^27e17] Hagerty later wrote that the land had been rezoned for residential use and that the town supervisor had told *The New York Times* a drag strip was "an idea whose time has come and gone."[^hag21] Ted Pappacena, a custodian from Smithtown who photographed the track for decades, told Patch in 2012, "I was disappointed it closed."[^patch12] Bausert went back on a rainy weekday and found a gated entrance where the old one had been, with homes about where the pits and stands stood.[^kb09] Burgess found the old strip on a satellite image in 2008, and a street in the development called Drag Street.[^nhra08]
-
-## Back on a runway
 
 Long Island racers towed off the island after that, to Englishtown, N.J., and farther.[^27e17] In 2016 John Cozzali of Mastic started a Facebook group called "Long Island Needs a Drag Strip."[^hag21] In 2017 the *Press* reported that a Suffolk County Legislature committee was looking for a site, and that Cozzali, who had raced an '88 Thunderbird called "The Bounty Hunter" at Westhampton, sat on it.[^27e17] In 2021 the Riverhead town board allowed eight events on the old runways at EPCAL in Calverton, about 15 minutes from the old strip, with NHRA sanction and a promoter from Florida, Pete Scalzo, who had offered compromises such as mufflers and a limit of about 115 mph to keep the sound down. The town marked August 21 as "Drag Racing Day."[^hag21]
 
