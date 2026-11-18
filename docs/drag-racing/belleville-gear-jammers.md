@@ -57,7 +57,7 @@ canonical_for:
 
     — **Wayne Mehrtens** of Belleville, Ill., a club member, to the *St. Louis Post-Dispatch*, June 11, 1956.[^pd1956]
 
-The Gear Jammers organized in June 1952. By June 1956 they had the only authorized strip in the St. Louis area, an airfield on the Illinois side of the river. A moving-violation arrest cost a member twice. He paid the court, then paid the club treasury a sum equal to half his fine. Across the river, the clubs spent the decade asking for a strip of their own.
+The Gear Jammers organized in June 1952. By June 1956 they had the only authorized strip in the St. Louis area, an airfield on the Illinois side of the river. A moving-violation arrest cost a member twice. He paid the court, then paid the club treasury a sum equal to half his fine.[^pd1956] Across the river, the clubs spent the decade asking for a strip of their own.
 
 ## The club with the half-fine rule
 
@@ -88,13 +88,15 @@ In February 1954 Joseph R. Naber, president of the Midwest Hot Rod Club of Brent
 
 In August 1955 the paper reported that fifteen north St. Louis youths in the Strokers Club had gone eight months, since the club formed the previous December, without a single traffic arrest among them. Their president, Edwin Styffe Jr., 17, said: "Some mixed-up adults don't realize that a true hot rodder is interested in speed racing on supervised tracks only." (The scan doubles the word "is.") The boys hoped a "drag strip" would open there. Styffe was spending his summer driving a delivery truck: "So far I haven't put any scratches on it or broken any eggs."[^strokers] A club called the Strokers raced at the Gear Jammers' meet the next June. The paper doesn't say whether it was the same club.[^pd1956]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
+The Belleville club kept a higher profile than the clubs on the Missouri side. In March 1957 it put on a show of custom machines, classics, antiques and sports cars at Ainad Temple in East St. Louis.[^show1957]
+
 By November 1958 the campaign was on bumper stickers. A letter signed S.J.G. quoted two of them: "St. Louis needs a drag strip." and "A drag strip will mean safer streets." The writer saw a threat in the second one: "If you don't let us have a drag strip you may get slaughtered by our speeding cars." The letter set the stickers beside a newspaper headline from the weekend before: "Three youths burned beyond recognition in climax to drag race."[^sjg]
 
 The hot rodders had their own letter-writers. That October a physician who said he had served hot-rod organizations in three states as safety director objected to the paper calling a 90-mph crash on the Daniel Boone Expressway in Ladue "drag racing." He wrote that he had "yet to see a member of an organized hot-rod club who was not aware of his responsibilities."[^madness] *The signature is garbled in the scan, so we leave the writer unnamed.*
 
-In March 1959 the Drag-ons Hot Rod Club of Normandy had "reluctantly put up for sale" a World War I Hispano Suiza airplane engine. It was still crated and unused, water-cooled, with 12 cylinders in a V. Club member Gary Evans said they had meant to convert it for a "dragster," but they had no garage to do the work. The club had got it two years before, "from a man who had two of them in his basement."[^dragons]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
+In its December 1958 issue, *Car Craft* covered what it called "the fourth annual National Drags" and reported that the Gear Jammers had given up running their own cars to work the event. Wayne Mertens (the magazine's spelling) accepted the *Car Craft* Sportsmanship Trophy for the club from NHRA field director Tex Smith. The magazine praised the members "who gave up running their cars in competition in order to become invaluable event personnel."[^cc1958]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> *Hot Rod*'s 1959 index lists the "Belleville Gear Jammers" as Club of the Month for January.[^hr1959]
 
-The Belleville club kept a higher profile than the clubs on the Missouri side. In March 1957 it put on a show of custom machines, classics, antiques and sports cars at Ainad Temple in East St. Louis.[^show1957] In its December 1958 issue, *Car Craft* covered what it called "the fourth annual National Drags" and reported that the Gear Jammers had given up running their own cars to work the event. Wayne Mertens (the magazine's spelling) accepted the *Car Craft* Sportsmanship Trophy for the club from NHRA field director Tex Smith. The magazine praised the members "who gave up running their cars in competition in order to become invaluable event personnel."[^cc1958]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> *Hot Rod*'s 1959 index lists the "Belleville Gear Jammers" as Club of the Month for January.[^hr1959]
+In March 1959 the Drag-ons Hot Rod Club of Normandy had "reluctantly put up for sale" a World War I Hispano Suiza airplane engine. It was still crated and unused, water-cooled, with 12 cylinders in a V. Club member Gary Evans said they had meant to convert it for a "dragster," but they had no garage to do the work. The club had got it two years before, "from a man who had two of them in his basement."[^dragons]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
 The Missouri side wanted a strip of its own. The Gear Jammers had the airfield, and a moving-violation arrest meant a member paid the club treasury a sum equal to half his fine. We have not found whether the Missouri side got its strip in the 1950s.
 
@@ -114,7 +116,7 @@ The club's own ads can't agree on a name for the place. In September 1955 the Ge
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **What was the 1000-horsepower V-12?** We give the paper's description as printed; we have not identified the engine.[^dragons] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Mehrtens or Mertens?** The newspaper and *Car Craft* spell it differently.[^cc1958] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Mehrtens or Mertens?** The newspaper and *Car Craft* spell it differently.[^pd1956][^cc1958] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ## Sources
 

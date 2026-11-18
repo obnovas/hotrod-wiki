@@ -54,25 +54,25 @@ principal_source: "Dave Wallace, who interviewed the surviving \"generals\" (Isk
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (1994 Wallace interviews), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
 
-In the first issue of HOT ROD, January 1948, Weber Tool Co. was the only cam advertiser. By the second issue the others had shown up, and the headlines were still mild: "Winners Use Iskenderian Cams" and "CRA Track Cars 5 and 66 Use Howard Cams."[^hr] It did not stay that way. By 1960 the tone was personal, and at Howard Johansen's funeral (c.1988) someone told Isky, "Howard used to get a kick out of reading your ads!"[^hr]
+In the first issue of HOT ROD, January 1948, the only cam advertiser was Weber Tool Co. By the second issue the others had shown up, and the headlines were still mild: "Winners Use Iskenderian Cams" and "CRA Track Cars 5 and 66 Use Howard Cams."[^hr] It did not stay that way. By 1960 the tone was personal. At Howard Johansen's funeral (c.1988) someone told Isky, "Howard used to get a kick out of reading your ads!"[^hr]
 
-*Drag News* carried hero ads within three days of Sunday's finals, and it was free of Wally Parks's guidelines at Petersen ("some said censorship"). *Hot Rod* covered the same events two months later, if at all.[^hr] If you wanted to shout at a rival while the race was still warm, you bought space in *Drag News*.
+Hero ads in *Drag News* ran within three days of Sunday's finals, and the paper was free of Wally Parks's guidelines at Petersen ("some said censorship"). *Hot Rod* covered the same events two months later, if at all.[^hr] If you wanted to shout at a rival while the race was still warm, you bought space in *Drag News*.
 
-It started with superlatives. In 1956 Howard's Cams called Red Henslee's roadster "The World's Fastest-Accelerating Roadster." Isky answered in the March 1956 HRM with Jazzy Nelson's fuel Fiat as "The World's Fastest-Accelerating Car," on a 9.10 e.t. that historian Robert C. Post says was "almost certainly not" real.[^hr]
+Superlatives were the start. Howard's Cams in 1956 called Red Henslee's roadster "The World's Fastest-Accelerating Roadster." Isky's answer, in the March 1956 HRM, was Jazzy Nelson's fuel Fiat as "The World's Fastest-Accelerating Car," on a 9.10 e.t. that historian Robert C. Post says was "almost certainly not" real.[^hr]
 
-In February 1957 Isky claimed Emery Cook's 166.97 mph at Lions for his "5-Cycle" cam. Howard answered with ads of four bicyclists and a fifth bike ridden by a clown.[^hr]
+In February 1957 Isky claimed Emery Cook's 166.97 mph at Lions for his "5-Cycle" cam. Howard's answer was ads of four bicyclists and a fifth bike ridden by a clown.[^hr]
 
-Then, in September 1958, came the ad at the center of our open lead. Per Iskenderian, Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
+In September 1958, the ad at the center of our open lead arrived. Per Iskenderian, Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
 
-Meanwhile Jack Engle opened a third front with type-only ads "signed" by gasser stars, though the satirical style pointed to Engle himself.[^hr]
+Jack Engle, meanwhile, opened a third front with type-only ads "signed" by gasser stars, though the satirical style pointed to Engle himself.[^hr]
 
-In 1959 Howard countered Isky's five cycles with "eight-cycle" cams, and Chet Herbert became the first serious challenger for Top Eliminator business.[^cp59]
+Howard in 1959 countered Isky's five cycles with "eight-cycle" cams, and Chet Herbert became the first serious challenger for Top Eliminator business.[^cp59]
 
 In 1960 it turned personal. Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 Engle, looking back: "There was some hostility, but I would say the intent was competitive in nature... it was more or less a game."[^hr] Isky never visited Johansen, thinking he was angry.
 
-Then, at Johansen's funeral (c.1988), someone told him: "Howard used to get a kick out of reading your ads!"[^hr]
+Someone told him at Johansen's funeral (c.1988): "Howard used to get a kick out of reading your ads!"[^hr]
 
 The headlines in January 1948 were mild. Engle said the intent was a game. At the funeral, someone told Isky that Howard used to get a kick out of reading the ads.
 
