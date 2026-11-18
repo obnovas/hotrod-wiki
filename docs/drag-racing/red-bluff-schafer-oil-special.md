@@ -65,8 +65,6 @@ canonical_for: []
 
 In the late 1960s the small daily in Red Bluff had a local drag racing team to follow, a father and son with an oil company name on the car. In 1969 their junior fuel dragster went to Bakersfield, qualified fourth of 60, and finished behind the winner. The announcer had been calling Red Bluff "a little town near the Oregon border." At home the car raced on a Redding airport runway. Red Bluff had no strip of its own.
 
-## The Shasta Roadsters' runway (1968)
-
 The team's home strip was a runway. In August 1968 the *Daily News* ran a photo of Jack Schafer making a final check of the fuel system and carburetors on the Schafer Oil Company Special before "the annual Labor Day Drag Races Sunday and Monday at the Redding Municipal Airport," sponsored by the Shasta Roadsters. The driver, Garvin Tonkin of Red Bluff, said he hoped to reach about 190 mph. More than 40 dragsters were coming "from all over the state," along with stock cars in various classes, and the Northern California Drag Racers Association was holding a points meet the same Monday.[^rb680831] Afterward the paper reported that "Jack and Bob Schafer didn't win much money at Redding, which is unusual for these boys."[^rb680903]
 
 ## Bakersfield (1969)

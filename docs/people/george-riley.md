@@ -35,13 +35,9 @@ canonical_for: []
 
 George Riley was an inventor who raced cars, planes and boats. Hot Rod credits him with the inboard/outboard boat engine configuration and says he opened his shop in 1919 to make Model T speed equipment.[^hr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The heads were the Two-Port and the Four-Port. Owners on the Ford Barn forum report that the early two-ports cracked. The Two-Port was reproduced in cast iron from an original bought in 1998.
 
-## What he built
-
 Riley's conversions were F-heads: intake valves moved to the head, exhaust valves left in the block, unlike Miller heads with both valves overhead.[^hr]
 
 The Two-Port ("Valve-In-Head") was marketed from 1930, advertised at 80 hp. Foundry problems in the Depression left about half the castings worthless.[^hemm] The Racing Four Port followed in 1933,[^hemm] first seen in competition in August 1932 per Hot Rod.[^hr] Riley claimed up to 160 hp at 4,500 rpm.[^moas] The heads suited short oval-track races more than long ones.[^cm]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
-
-## Back from the dead
 
 Decades later the Two-Port came back. Charlie Yapp's Secrets of Speed Society reproduced the Two-Port in cast iron from an original bought in 1998, with a redesigned water jacket.[^hemm]
 

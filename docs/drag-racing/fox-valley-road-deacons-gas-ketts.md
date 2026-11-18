@@ -60,17 +60,11 @@ canonical_for: []
 
 In the early 1960s, Appleton, Wisconsin, had at least four car clubs, and one of them was all girls. The Gas-Ketts started the umbrella association. Together the clubs ran a car show in a shopping mall, gave elderly people free rides to church at Christmas, stopped for stranded motorists on U.S. 41, and wrote to the paper asking for a drag strip.
 
-## The Gas-Ketts
-
 In April 1963 the *Post-Crescent* ran the headline "Fox Cities' First Girls' Car Club Makes Boys Laugh—But Not Long." The Gas-Ketts had formed the previous August. Their officers were Karen Enwall of Appleton, president; Delores Schumacher of Kaukauna, vice president; Marilyn Bruce of Appleton, secretary; and Lori Schelfhout of Kimberly, treasurer. They were looking for a 1932 Ford coupe to rebuild and customize themselves. Their jackets were blue with black lettering, and the emblem showed a girl holding a broken gasket.[^pc630414]
 
 The club gave itself three purposes. The third, "principally," was "to promote the construction of a dragway as a safe and wholesome outlet for the energies of youth — a purpose shared with other Fox Cities car clubs." The Venturi Car Club and the Road Deacons had helped them get started, and, the paper said, "the girls took the initiative in organizing the Fox Valley Rod and Custom Association, which unites the efforts of all the car clubs in the area." With the other clubs they ran a holiday taxi service the Christmas before, giving elderly people free rides to church.[^pc630414] "Now the boys wish more girls — or 'my girl' — were interested in this," Bruce said. "They think girls should know more about cars, how to keep them up and avoid difficulties."[^pc630414]
 
-## The association's car show (1963)
-
 That July the Fox Valley Rod and Custom Association held its "2nd Annual Free 'Customized' Car Show" in the mall at Valley Fair Shopping Center: about 25 cars, "all worked over, re-designed, rebuilt, restored," with members on hand to explain them and auto safety films running throughout. The ad named the clubs: "Venturi Car Club, Road Deacons Car Club, Coachmen Car Club and one girls' group called the Gas-kets Car Club." Its stated purpose: "to bring safety to our city and state."[^pc630719]
-
-## The Road Deacons
 
 The Road Deacons Rod and Custom Club had already written to the paper in November 1962 to make the case for a strip (see [KK Sports Arena](kk-sports-arena-kaukauna.md)).[^pc621127] In August 1964 reporter Fern Smith found them doing something else: "a closed circle of 12 youth in Neenah and Appleton dedicated to 'doing a good turn' for motorists in distress, day or night." It was not going well. A salesman from the Chicago area, stalled on the shoulder of U.S. 41, locked his doors and rolled up his windows when two Deacons walked up. They got his car started and, when it kept dying, pushed it to a filling station. He apologized and bought them dinner: "When two fellows in jackets like yours approach a car where I come from, it can only spell trouble." Another afternoon two Deacons changed a young housewife's flat, and "by the time the lady had stopped shaking we had her on her way."[^pc640806]
 

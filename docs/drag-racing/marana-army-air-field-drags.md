@@ -65,15 +65,11 @@ canonical_for: []
 
 The first organized drags near Tucson were on the old Marana Army Air Field, sanctioned and supervised by the Arizona Highway Patrol, at least as early as 1951. By 1959 Marana was Arizona's only night-drag venue. In June 1959 the Civil Aeronautics Authority ordered the strip shut down, because Marana was an emergency aircraft landing field.
 
-## Before Davis-Monthan
-
 The first organized drags near Tucson were not on the Air Force base. They were on the old Marana Army Air Field—built in 1942–43, later Pinal Airpark—northwest of town,[^pinal] sanctioned and supervised by the Arizona Highway Patrol and conducted by the Southern Arizona Timing Association at least as early as 1951. Drag Strip List calls Marana Arizona's oldest drag venue.[^dslaz]
 
 Thomas Funk says his father, Duane Funk, was an early member of Tucson's Outcasts club, "racing as early as 1951 at Marana"; he has a photo of his dad's street coupe with a Marana race ad painted on it and a 1951 plate tag. Dave Smith, whose father was a Highway Patrol officer, thought he was there for the first race, in 1952. Ted Sitterley drove in his first drag race at Marana early in 1953 on a learner's permit—"but no one cared"—and remembered "Lyle Fisher spinning donuts in the dirt, Billy Herbert on his Velocette motorcycle, the Lords, and all the other young racers."[^dslaz]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> Whether the first race was 1951 or 1952 is still open. Frank Townsend, a Tucson High graduate of 1956, later told the *Arizona Daily Star* he raced a '32 Ford coupe at the Marana drag strip up to 95 mph in the quarter, in a white carpenter's uniform treated with boric acid as a fire retardant.[^star10]
 
 On August 10, 1952, Bill Gundy set a track mark of 111.508 mph. A March 8, 1953, report said the meet was using a new set of rules and awarding trophies in ten classes for cars and motorcycles; monthly racing continued through 1953. On January 3, 1954, the Outcasts staged a cerebral palsy benefit on the main landing runway—no general admission, but entry fees for timing and trophies.[^dslaz]
-
-## Rillito Field, then the lights
 
 A separate short chapter sits just east. Drag Strip List places the first race at Rillito Field—Marana Auxiliary Army Air Field No. 2, today under Marana Regional Airport—on July 8, 1951, with bi-weekly Sunday races that generally drew over forty cars. Racing may have lasted only a few weeks before the main Marana field took over.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup>[^dslaz]
 
