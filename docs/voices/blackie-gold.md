@@ -55,13 +55,19 @@ The nickname came with his first job:
 >
 > — **Blackie Gold**, 2006 interview, recalling about 1924. *Told about 80 years later.*[^g]
 
+Gold says he started racing Model Ts and As in 1931.[^g]
+
 ## Waiting in line at Muroc
 
-A decade later he was racing on the lakes, and you had to be early:
+A decade after the nickname, he was racing on the lakes, and you had to be early:
 
 > "When you race on the dry lakes you have to get there very early, before the heat sets in. … There might be a 100 cars there waiting in line for their run, and the guys at the front of the line always ran faster than the guys toward the end of the line."
 >
 > — **Blackie Gold**, 2006, on late-1930s Muroc.[^g]
+
+## Night Flyers and Pancho Barnes
+
+He bought a '32 roadster for $75 in 1935 and ran it at Muroc from 1936, about 90 mph in 1939.[^g] Around 1936 he founded the **Night Flyers**, which he says was one of the first SCTA member clubs. The SCTA, in his account, was founded in 1937.[^g]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> He says Pancho Barnes brought racers "cold desert punch" and sandwiches.[^g]
 
 By the end of the decade the Army was changing the lakebed:
 
@@ -69,9 +75,7 @@ By the end of the decade the Army was changing the lakebed:
 >
 > — **Blackie Gold**, 2006.[^g] This matches [Kong Jackson's](kong-jackson.md) story of the Army chasing racers off.
 
-## Night Flyers and Pancho Barnes
-
-Gold says he started racing Model Ts and As in 1931. He bought a '32 roadster for $75 in 1935 and ran it at Muroc from 1936, about 90 mph in 1939. Around 1936 he founded the **Night Flyers**, which he says was one of the first SCTA member clubs. The SCTA, in his account, was founded in 1937. He says Pancho Barnes brought racers "cold desert punch" and sandwiches, and that after the war the racers became honorary members of her Happy Bottom Riding Club.[^g]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+After the war, he says, the racers became honorary members of her Happy Bottom Riding Club.[^g]
 
 The nickname came at that Ford agency, at 10. Muroc, the Night Flyers, and Pancho Barnes' ranch came after.
 

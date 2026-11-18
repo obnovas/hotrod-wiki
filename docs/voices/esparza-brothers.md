@@ -48,7 +48,7 @@ canonical_for: []
 >
 > — **Rick Esparza**, on Lions Drag Strip, 2022.[^lb]
 
-Rick and Fred Esparza built a **1941 Willys truck** into a drag car they called the *Mexican Express* and raced it at **Lions Drag Strip** in Wilmington (1955–72) for seven years. They set no records. That is part of why their story is worth telling: it is about the many racers who never made the record books. Their father, a Navy man, moved the family to West Long Beach in 1958. Danny Miguel's documentary about them was reviewed by the Long Beach Post's *Hi-lo* on Aug 21, 2022.[^lb]
+Their father, a Navy man, moved the family to West Long Beach in 1958. Rick and Fred Esparza built a **1941 Willys truck** into a drag car they called the *Mexican Express* and raced it at **Lions Drag Strip** in Wilmington (1955–72) for seven years. They set no records. That is part of why their story is worth telling: it is about the many racers who never made the record books. Danny Miguel's documentary about them was reviewed by the Long Beach Post's *Hi-lo* on Aug 21, 2022.[^lb]
 
 ## In their words
 
