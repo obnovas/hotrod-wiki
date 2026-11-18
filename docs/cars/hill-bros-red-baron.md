@@ -57,11 +57,13 @@ principal_source: "JR Thompson's Gasser Legends page, which includes Ken Kull's 
 
 ## How it got to Cleveland (per Dave Hales)
 
-The car behind the letter had come a long way. It was partly built by **Fred Bear** (S&S Racing Team) in his Virginia garage in 1966–67. He left to go NASCAR racing. Bear and Hales delivered it to **Joe and Tom Hrudka** ([Mr. Gasket](../companies/mr-gasket.md)) in Ohio in spring 1967.
+It was partly built by **Fred Bear** (S&S Racing Team) in his Virginia garage in 1966–67. He left to go NASCAR racing. Bear and Hales delivered it to **Joe and Tom Hrudka** ([Mr. Gasket](../companies/mr-gasket.md)) in Ohio in spring 1967.
 
 The Hrudkas "immediately sold it to the Hill Bros." According to Kull, the deal was that the Hills would run the Mr. Gasket logo. Hales next saw it at the King of Kings AA/GS meet at Capitol Raceway, Maryland, "about two weeks" later, "completely finished and beautiful."[^jrt]
 
-The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills built it in eleven days. Finders said he worked around the clock while "Pete and Bill just kept bringing him fried chicken." It had a blown, injected 426 Hemi. Pete drove and tuned; Bill ran the business and promotion. They had earlier raced a '40 Willys bought from Big John Mazmanian.[^jrt]
+They had earlier raced a '40 Willys bought from Big John Mazmanian.[^jrt] The Hills finished it fast. Chassis builder **Chuck Finders** and the Hills built it in eleven days. Finders said he worked around the clock while "Pete and Bill just kept bringing him fried chicken." It had a blown, injected 426 Hemi. Pete drove and tuned; Bill ran the business and promotion.[^jrt]
+
+The car behind the letter had come a long way.
 
 ## "WE'RE SORRY"
 

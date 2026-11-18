@@ -53,21 +53,21 @@ In May 2005, Mayor Martin Chavez signed the "Cruising on Public Streets" ordinan
 
 In May 2006 APD began logging license plates at "No Cruising" control points from 8 p.m. to 3 a.m. Seeing a car three times in two hours counted as a violation, with a $10 fine that came to about $69 with fees (Weekly Alibi).[^alibi]
 
+## In their own words
+
 The cruisers saw it differently from the city:
 
 > "I'm sure after the car show, everybody's going to go cruising."
 >
 > — **Shawnasi Martinez**, a Downtown cruiser, Weekly Alibi (May 25, 2006), on the first weekend of enforcement.[^alibi]
 
-It lasted thirteen years. In 2018, the city council unanimously repealed the ordinance as redundant with a 1994 irresponsible-driving law, and approved a program for recognized special-interest vehicle clubs to coordinate cruise events with businesses (Route 66 News, citing the Albuquerque Journal).[^r66]
-
-## In their own words
-
 Twelve years later, the argument was about freedom:
 
 > "It's a God-given right – it's a freedom. Cruising has been not only a part of my life growing up, but also the kids that are growing up."
 >
 > — **Lorenzo Otero**, 2018 (via Route 66 News).[^r66]
+
+It lasted thirteen years. In 2018, the city council unanimously repealed the ordinance as redundant with a 1994 irresponsible-driving law, and approved a program for recognized special-interest vehicle clubs to coordinate cruise events with businesses (Route 66 News, citing the Albuquerque Journal).[^r66]
 
 Route 66 News adds a comparison: Springfield, Missouri, passed an early-1990s anti-cruising ordinance for Kearney Street (also Route 66), and later allowed organized cruises there.[^r66] APD began logging license plates from 8 p.m. to 3 a.m. The 2018 repeal was framed as letting Route 66 enthusiasts cruise Central Avenue legally.
 

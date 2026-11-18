@@ -47,7 +47,7 @@ Sullivan, a self-taught builder working from a small shop in Dayton, Ohio since 
 
 ## Who named it
 
-The name came before anyone agreed on the origin. Sullivan dates the label to 1979, when photographer-writer Steve Reyes wrote an article featuring Sullivan's '66 Nova, a '66 Chevelle called "Goldenrod," and others, and called the trend "Pro Street."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+The name came before anyone agreed on the origin. Sullivan dates the label to 1979, when photographer-writer Steve Reyes wrote an article featuring Sullivan's '66 Nova, a '66 Chevelle called "Goldenrod," and others, and called the trend "Pro Street."[^hr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 The cars were meant to be driven, and he proved it: in 1988 he drove his '55 Chevy "Cheez Whiz" cross-country with photographer Jeff Smith.[^hr]
 

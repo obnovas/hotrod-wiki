@@ -47,7 +47,7 @@ principal_source: "Almost everything known here comes from one oral source: Tom 
 
 Roy Hagy wouldn't use much lead. He would metal-finish everything, and he always worked alone. Almost everything known about him comes from one oral source.
 
-Others learned from him too. George and Tom Bistagne learned bodywork from Hagy around 1939–40.[^k] One known car is Tommy Winship's 1940 Ford coupe (later Earl Bruce's), with a chopped top, filled quarter windows, rounded door corners, and dechromed trim.[^k]
+Others learned from him. George and Tom Bistagne learned bodywork from Hagy around 1939–40.[^k] One known car is Tommy Winship's 1940 Ford coupe (later Earl Bruce's), with a chopped top, filled quarter windows, rounded door corners, and dechromed trim.[^k]
 
 Tom Sparks worked for him around 1942–43, at about 15, and remembered the rule of the shop: "Hagy worked mostly on what we call fat-fender cars today: '36s, '39-'40s. He did mostly filling, removing handles, recessing license plates, and chopping tops. **Hagy didn't like to use much lead; he'd metal-finish everything.** ... And he always worked alone."[^k]
 

@@ -60,7 +60,7 @@ status: Unknown after the first seasons; our only source is Deshazo's own accoun
 
 ## A project of the month
 
-Deshazo had gone to the 1954 national meet at Caddo Mills, Texas, where the top speed in the quarter mile was 98.8 mph, "an astounding" number to him then, and that was where he decided he wanted in.
+Deshazo had gone to the 1954 national meet at Caddo Mills, Texas, where the top speed in the quarter mile was 98.8 mph, "an astounding" number to him then, and that was where he decided he wanted in.[^hl]
 
 Big Spring's drag strip is the story of a whole town saying yes at once. Howard Deshazo wrote that on November 5, 1956, at a meeting of the new Big Spring Lions Club, Capt. R. O. Franz, then stationed at Webb Air Force Base, moved that "A Drag Strip For Big Spring" be adopted as the club's "project of the month." In the passage he quotes from his own *Hot Rod* article of January 1958: "Less than 55 days later Big Spring had its first full-fledged drag event, backed by every civic organization in the city and sanctioned by NHRA."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^hl]
 
