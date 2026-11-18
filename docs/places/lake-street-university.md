@@ -58,6 +58,8 @@ The local club's own history admits where cruising led:
 >
 > — **Gopher State Timing Association**, club history (undated; drawing on "The GSTA Story," 1957).[^gsta]
 
+The Gopher State Timing Association (GSTA) was part of the same scene. Its own history ties street cruising to the clubs' effort to get racing off the streets, and its first car show, on September 16, 1956, was held in the Red Owl parking lot at Lake St. and 22nd Ave. So.[^gsta] It belongs to the same Upper Midwest network as the [MSRA and Back to the 50's](upper-midwest.md). The same clubs' campaign for a strip of their own, and the Coon Rapids strip that came of it in 1959, is told in [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md).
+
 Forum posters remember the places:
 
 > "We cruised Lake Street a lot in the early 60's....never thought to take any pictures. I remember Porky's, the BigWheel, the Avalon theater, Sears, etc."
@@ -69,8 +71,6 @@ Forum posters remember the places:
 > — Another poster, same thread.[^hamb]
 
 ## The club and the loop
-
-The Gopher State Timing Association (GSTA) was part of the same scene. Its own history ties street cruising to the clubs' effort to get racing off the streets, and its first car show, on September 16, 1956, was held in the Red Owl parking lot at Lake St. and 22nd Ave. So.[^gsta] It belongs to the same Upper Midwest network as the [MSRA and Back to the 50's](upper-midwest.md). The same clubs' campaign for a strip of their own, and the Coon Rapids strip that came of it in 1959, is told in [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md).
 
 Porky's on University Avenue turns up again in the MSRA's 1974 Back to the 50's cruise ([Upper Midwest](upper-midwest.md)). One poster wrote in 2009 that "they still cruise Uni."[^hamb]
 

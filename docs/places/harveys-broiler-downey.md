@@ -61,6 +61,10 @@ The drive-in's purpose, as later told:
 >
 > — **Jim Louder**, current owner (Bob's Big Boy Broiler), LAist (Jan 7, 2024). He is retelling the site's history, not his own memory.[^laist]
 
+## The custom-car neighborhood
+
+Louder puts the drive-in at the center of a scene: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard."[^laist]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The quote doesn't name any shops.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+
 At the 1989 revival, the people who had been there remembered:
 
 > "This was our old stomping ground. … You got your cherry Cokes and hamburgers and circled around Harvey's."
@@ -70,10 +74,6 @@ At the 1989 revival, the people who had been there remembered:
 > "There's an essence this restaurant has that none other has. We can relive the time we spent here, the girls we went out with . . ."
 >
 > — **Lee McCullough**, 46, who started cruise night and had cruised Harvey's when it opened, 1989.[^lat89]
-
-## The custom-car neighborhood
-
-Louder puts the drive-in at the center of a scene: "This area in the late '50s was considered sort of the heartbeat of the custom car movement … There was customizers and painters up and down here on Firestone Boulevard."[^laist]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The quote doesn't name any shops.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Cruising has since come back into the law's favor. A new California law, in effect from January 2024, means "cities can no longer ban lowriders and cruising," according to LAist. LAist does not give the bill number.[^laist] Wolfe had called it Teenage Paris. Kids got together to find out where's the race, and they circled for cherry Cokes. From January 2024, cities could no longer ban lowriders and cruising.
 

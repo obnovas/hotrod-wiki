@@ -60,6 +60,8 @@ status: Unknown after the first seasons; our only source is Deshazo's own accoun
 
 ## A project of the month
 
+Deshazo had gone to the 1954 national meet at Caddo Mills, Texas, where the top speed in the quarter mile was 98.8 mph, "an astounding" number to him then, and that was where he decided he wanted in.[^hl]
+
 Big Spring's drag strip is the story of a whole town saying yes at once. Howard Deshazo wrote that on November 5, 1956, at a meeting of the new Big Spring Lions Club, Capt. R. O. Franz, then stationed at Webb Air Force Base, moved that "A Drag Strip For Big Spring" be adopted as the club's "project of the month." In the passage he quotes from his own *Hot Rod* article of January 1958: "Less than 55 days later Big Spring had its first full-fledged drag event, backed by every civic organization in the city and sanctioned by NHRA."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^hl]
 
 He remembered the first strip committee's roster as "a Who's Who of Big Spring": a district attorney, a judge, a state representative, a news editor, a city commissioner, a bank president, a YMCA secretary, a school principal, physicians, auto dealers, a refinery president and the commander of the Air Force base, "who held the key to the whole project — a potential strip site."[^hl] A local oilman, "quite prominent in the oil business," with influence among the town's fathers, got interested and helped get the first drag organized.[^hl]
@@ -72,7 +74,7 @@ Deshazo designed a mobile timing unit for the new electronic timing equipment, a
 
 With the van, he wrote, "We used the timing unit to hold drags in towns so small no one would ever believe could have happened." The *Hot Rod* piece, he said, was a letter he sent to the magazine: "Of course, not being a writer, I simply wrote a letter telling him all of the details. He simply edited it and put my name on it. Ha!" It put Big Spring on the map, he wrote, and brought visitors from the West Texas oilfields. Through Wally Parks he became an NHRA advisor for the area.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">?</a></sup>[^hl]
 
-He remembered the place by its name. They had brought drag racing, he wrote, to "a place named after a spring, a spring that had been dry for a hundred years." The town let them try, and people turned out and paid. Deshazo had gone to the 1954 national meet at Caddo Mills, Texas, where the top speed in the quarter mile was 98.8 mph, "an astounding" number to him then, and that was where he decided he wanted in. The host of the 2014 post notes that Deshazo died in 2010.[^hl] A town that wanted a strip had a committee, a site and a timing van inside two months, and its manager had designed the van himself.
+He remembered the place by its name. They had brought drag racing, he wrote, to "a place named after a spring, a spring that had been dry for a hundred years." The town let them try, and people turned out and paid. The host of the 2014 post notes that Deshazo died in 2010.[^hl] A town that wanted a strip had a committee, a site and a timing van inside two months, and its manager had designed the van himself.
 
 *See also:* [Texas](../places/texas.md); [San Antonio's Double Eagle and Alamo Dragway](san-antonio-double-eagle-alamo-dragway.md); [Canyon, Amarillo and the Panhandle clubs](canyon-orchids-celtics-amarillo.md).
 
