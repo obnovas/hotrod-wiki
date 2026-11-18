@@ -54,15 +54,11 @@ canonical_for: []
 
 Rather than pay $300 for a digger nose, Al Bergler bent one himself. A Logghe-associated aluminum man quoted $300 for the piece, three weeks' body-shop pay. Bergler bent it over a 4-inch pipe, and soon he did "almost all the aluminum work for Logghe-built dragsters and funny cars."[^hag] MMSHOF says he did the interior tinwork on Logghe Bros. cars.[^mms] He won the first Don Ridler Memorial Award, and he was the campaigner of the Motown Shaker Funny Cars through the match-race era. He is still on that pipe.
 
-## Gratiot Avenue kid
-
 The cars came early. He was Detroit-born. About age five in 1941, he was already playing with wheeled toys (family photo caption).[^hag] At 16 (1950) he bought a '41 Ford convertible for $75 borrowed from grandparents, after polishing cars at a Gratiot used-car lot for 50¢/hour. He also sold peanuts at Motor City Speedway.[^hag]
 
 School pointed the same way. He left Pershing High for Washington Trade School: mornings academics, afternoons welding and sheetmetal. He chopped a teacher's '36 Ford in his last semester.[^hag]
 
 His first shops were not always welcome. A brief shop on Gratiot hosted touring racers. Tom Ivo worked nights with loud music. Neighbors complained. Bergler lost the lease. Later he worked from a shop on Groesbeck, around the corner from [Logghe](../companies/logghe-stamping.md).[^hag]
-
-## From Aggravation to Ridler
 
 The race cars followed. Early builds were a '34 Ford (top cut off, stock Chrysler Hemi, six Strombergs); a rear-engine Crosley "The Exterminator"; then Bantam-bodied competition coupes.[^hag]
 
@@ -71,8 +67,6 @@ His first Bantam coupe, Aggravation, had Chassis Research kit rails, a Logghe fr
 Aggravation II had a new Logghe chassis, a stroker blown Chrysler bought from Connie Kalitta, a Bantam body and Bergler's own finish work. It won the first Ridler Award at the 1964 Detroit Autorama. On the strip, Super Eliminator and Best Appearing at the 1966 NHRA SpringNationals (8.10 / 184 mph on gasoline cited by Hagerty).<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^hag][^mms]
 
 The wins kept coming. MMSHOF also records Division 3 Super Eliminator points (1966), World Finals runner-up (1966), and the P.A. Sturtevant Mechanic Hall of Fame award (1966).[^mms] A later '23 T-based coupe with canopy won competition coupe and Best Appearing at the 1967 Winternationals, and Super Eliminator at the 1967 SpringNationals.[^hag][^mms]
-
-## Motown Shaker
 
 Then came Funny Cars. In 1971 came the Vega-bodied Funny Car on a Logghe chassis with Tom Prock, with a name inspired by Pete Seaton's "Seaton's Shaker." Prock left. Butch Maas drove the Coca-Cola Cavalcade circuit in 1972.[^mms] Bergler drove more from 1973, with Mustang, then Corvette (~1977), then Firebird (~1980) bodies.[^hag]
 
