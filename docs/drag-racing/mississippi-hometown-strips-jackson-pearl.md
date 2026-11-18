@@ -98,9 +98,9 @@ status: Riverside closed (site of Pearl High School); Byram Dragway racing (2024
 
 Mississippi's drag racers mostly raced at home. What the record kept is what they remembered. A 1959 track north of Jackson went to gravel past the finish line. Riverside, in Pearl, opened beside Interstate 20 in 1972 and later lost the land to a high school. The Jackson Dragway name ended up on a 500-foot strip in Byram.
 
-## Gravel past the finish line
-
 Asked on a racers' forum in 2009 where he made his first pass, a racer posting as JimmySmith answered: "Jackson Ms, 1959 Track was just north of Jackson." It was a "circle track and drag strip," and "after finish line it went to gravel."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>[^rj09]
+
+Some of it is now only a trophy. Liz Durham's grandfather, Charles Preston Durham, "known locally as Brother Durham," came from Durant in Holmes County and raced around the state, she believes in the 1950s. Most of his trophies are lost, but she found one that says Grenada Dragways. "Does that ring any bells?"<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^dslms]
 
 In the 1960s the place to race in Jackson was the Jackson Sports Arena. David Church ran a '55 Ford in junior stock there and sent the *Drag Strip List* a photo, taken by a friend in the mid-1960s, of Claude Young's '55 T-Bird in a match race against Albert Ray Dulaney's '55 Chevy. "We own the T-Bird now and still race it (Y-Block power now)."[^dslms] Sam Williford, born in 1973, never saw the strip, but he owns a car that raced there: Barney Lewis Sharp's red '62 Pontiac Catalina, the "Big Chief," photographed at the Arena around 1963–64 before it was lettered.[^dslms]
 
@@ -114,13 +114,11 @@ The site traces the owners from there. Cary Busby sold the track to Bob Heard ar
 
 The name moved again. WJTV's 2024 "Your Hometown" segment on Byram describes the Byram Dragway as the former Jackson Dragway, a 500-foot strip built in 2002 that races on Tuesday nights from 7 to midnight, from around Mardi Gras until around Thanksgiving. One driver, Melvin Smith, told the station he had raced since he was 17 and that it runs in his family.[^wjtv]
 
-## The Delta and the hill country
-
-Up in the Delta, a Jimmy Smith (we can't tell if he is the forum poster) managed the Greenville Dragway for seven years, "from '75 till '82," and wrote that he had raced at 15 of the 29 Mississippi tracks on the *Drag Strip List*. Don Hurst first raced at Greenville in 1973, probably at the two-day Mississippi State Championships, in a '69 GTO, and won his class. His future wife, T. J. Colvin, ran a '68 Firebird named "Easy Lovin.'" On her first pass she got "lost in space" after turning left past the finish line, looking for a return road that wasn't there, until she saw other cars driving back down the left side of the track. She won her bracket that night; the second day was rained out. They married on September 9, 1978.[^dslms]
-
 David Church raced once at the Columbus strip in 1972, while a student at Mississippi State, against a "home-made looking 'Christmas Tree.'" He remembered the "Oldtimer," a 1950 Olds from Greenwood that "always ran good," and lost the Super Stock final to an AMX.[^dslms] At Nettleton, Carolyn Cooley's cousin Michael drove the children around Bud's Race Track in an old coupe; her grandmother lived across the highway. David and Dexter Orear raced a Mr. Riley there one day, "We had beat him at Fulton Dragstrip," and Michael M. Mann remembered "top notch guys" coming in to race.[^dslms]
 
-Some of it is now only a trophy. Liz Durham's grandfather, Charles Preston Durham, "known locally as Brother Durham," came from Durant in Holmes County and raced around the state, she believes in the 1950s. Most of his trophies are lost, but she found one that says Grenada Dragways. "Does that ring any bells?"<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^dslms] They raced at home. The memories are what the record kept.
+Don Hurst first raced at Greenville in 1973, probably at the two-day Mississippi State Championships, in a '69 GTO, and won his class. His future wife, T. J. Colvin, ran a '68 Firebird named "Easy Lovin.'" On her first pass she got "lost in space" after turning left past the finish line, looking for a return road that wasn't there, until she saw other cars driving back down the left side of the track. She won her bracket that night; the second day was rained out.[^dslms] Up in the Delta, a Jimmy Smith (we can't tell if he is the forum poster) managed the Greenville Dragway for seven years, "from '75 till '82," and wrote that he had raced at 15 of the 29 Mississippi tracks on the *Drag Strip List*.[^dslms] Hurst and Colvin married on September 9, 1978.[^dslms]
+
+They raced at home. The memories are what the record kept.
 
 *See also:* [Biloxi Dragway](biloxi-dragway-gulf-coast.md), the Gulf Coast's strip; [Ten for Ten at Biloxi](pascagoula-timing-association.md), Pascagoula's club; [Carlisle Drag Strip](carlisle-drag-strip-arkansas.md), across the river in Arkansas; [Dragging Main](../places/dragging-main.md).
 

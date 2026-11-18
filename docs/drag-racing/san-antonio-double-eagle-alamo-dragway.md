@@ -98,8 +98,6 @@ The forum memories fill in the rest. One racer's father wrecked their front-blow
 
 The Double Eagle closed, but the land stayed empty for years. "They then cut trenches accross it to keep people from racing on it, now houses sit on the land where double eagle once was," one local wrote in 2009.[^hamb1]
 
-## Little Green Valley
-
 Not every race was on a strip. A local who used to ride his bike to the Double Eagle from the Austin Highway before he could drive later flagged street races between Biff Jones's altered-wheelbase '36 Chevy pickup and Edgar Beck's '57, "The Fugitive," at a spot "we all called 'Little Green Valley' - Now Thousand Oaks Blvd. at Jones-Maltsburger Rd." The name borrowed from the big AHRA track near Fort Worth (see [Green Valley Raceway](green-valley-raceway-smithfield.md)). "You always knew there was a street race going down because of the twenty to thirty car parade heading north from the Austin Highway late at night."[^hamb2] Jones's pickup, later lettered "Texas Trick Truck," was a San Antonio Gear Grinders club truck, and in 2011 a club member said he still had it.[^hamb2]
 
 ## Alamo Dragway and the Martinez family (1970s)

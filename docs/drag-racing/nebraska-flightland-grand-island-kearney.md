@@ -86,15 +86,11 @@ peak: 1957–early 1970s
 
 While Lincoln's clubs hunted for a sanctioned strip, as told in ["Go Out to Scribner"](nebraska-go-out-to-scribner.md), Gene Kidder of Lincoln took his 1929 Ford roadster to the airport drags at Grand Island and engraved the trophies, up to about the 200th. Omaha's strip was an airport one racer said was paved with racing revenue. Out at Kearney, a family built the tower in the backyard and opened on a day a 2014 story calls the "50 year milestone."
 
-## Blank trophies at Grand Island
-
 "In those days, they awarded trophies without winner's names engraved on them and sometimes lacked even the name of the track," he remembered, so he engraved his own, to about the 200th. After that, many tracks gave $25 savings bonds instead, and he spent them on gas to get from track to track.[^dslne]
 
 Timing was simple. "In those early days, most tracks only reported the MPH," Kidder wrote; the traps sat 66 feet before and 66 feet after the finish line, and "the 1320 feet were not wired for ET." The speeds stuck to the hardware anyway. On June 23, 1957, he won A Roadster at the NHRA Midwest Regionals at Grand Island at 111.11 mph, in front of 5,000 spectators, on a trophy that carries his name and his brother's; on July 13, 1959, he won there again at 105.37. His brother, Floyd Kidder Jr., did all the towing in the early years. Gene called it "a family collaboration."[^dslne]
 
 At home in Lincoln, Kidder raced on both runways at Lincoln Air Force Base, first in a 1929 roadster with an early Chrysler Hemi and by 1963 in a '63 wedge Plymouth in Super Stock. A trophy from there reads "Shaundos Drag Strip, Lincoln, Nebraska"; the caption on his photograph says a car club called the Shaundos ran the drags on the base's runways.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^dslne]
-
-## An airport for Omaha's homebuilders
 
 Omaha's racers got their own airport strip by accident. In June 1960 the state Department of Aeronautics bulletin reported that Omaha's Clear Ridge Airport had been sold to Vickers, a Sperry-Rand subsidiary, and closed. Two private pilots and Omaha homebuilders, Don Kroeger and Ray Fackler, had a 166-acre tract northwest of Omaha and decided to make it an airport: a 3,100-foot hard-surfaced runway, T-hangars, a planned steak house, opening scheduled for July 1, 1960, beside "highway 133." "The airport will be named after the corporation's title of Flightland."[^aero60]
 
@@ -102,19 +98,17 @@ Kidder remembered the airstrip as grass, with asphalt laid in 1960 by Kroeger, w
 
 That same year a young Omaha racer made his first quarter-mile run there. The Nebraska Auto Racing Hall of Fame says Terry Fritsch finished his first drag car in 1961, an A Dragster with a tubular frame and a modified Oldsmobile, and ran it "at Flightland Drag Strip at the Blair, Nebraska Airport at a speed of over 104 miles per hour." Just before his 16th birthday he became the youngest driver ever at the U.S. Nationals. He won Competition Eliminator at the 1966 World Championships in Tulsa and at the 1969 U.S. Nationals, and in 1978 he founded FCR Performance in Omaha, a racing-engine business.[^narhof]
 
-## A beehive and a headache
-
 The spectators remembered the show. Ron Krull of Irvington followed Missouri Valley, Iowa, racer Dick Reeh's '39 Ford coupe with a '48 Mercury flathead, home-made aluminum interior and "Cadillac LaSalle 3-speed on the floor," 14.2 at about 95 in G/G. He watched Tommy Ivo's four-engine Buick dragster do exhibitions, Chris Karamesines, and Judy Lilly in an A/MS Corvette: "She had to be told every time on the line to put her brain bucket on. She didn't want to squash her beehive hairdo!" The car he remembered best was a white '57 Chevy post sedan named "Tension," lettered "in such a creative way that looking at the lettering too long, you could get a headache."[^dslne] Robert Shiffer, who went to see the Ivo car too, remembered the setting: "It had a cornfield at the end of the strip."[^dslne]
-
-Kroeger, in Kidder's account, later moved the racing to "what is known as Cornhusker at Lincoln I-80." Others remember Cornhusker Raceway Park as Omaha's. Don Cameron, who raced a '54 Chevy pickup there on Wednesday nights in 1973, said rainouts did it in: in 1972 or '73 eight of nine weekend races washed out, and, as he understood it, booked racers were paid rain or shine; neighbors who had built close by complained about the noise, the strip closed, and it "was made into an airport."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see Open questions">?</a></sup>[^dslne] Neither account gives an address for Cornhusker Raceway Park.
-
-## A tower in the backyard
 
 Out west, a Kearney racer got tired of waiting. "My dad was going to Grand Island to race, they weren't getting opened early enough," Doug Sheldon told NTV News in 2014. "He thought he could do a better job so he talked to the city, got it worked out and opened up, was going to open up for two years and sell it, but sold it 25 years later." His father, Carroll Sheldon, was the track's original developer. The story ran on July 5, 2014, and calls that day the "golden anniversary of the opening" and a "50 year milestone," so the opening reads as July 5, 1964. As Kearney Raceway Park, the station says, it had "outlasted every other drag strip in the state."[^ntv14]
 
 It was a family operation from the start. Carroll's niece, Lita Madison, wrote that her uncle built the race tower "at our home, which was the old family homestead," with her father, brother and sisters helping, "in our huge backyard." Her father, Sid Sheldon, took tickets at the pit gate from the first day until the strip was sold. Aunt Helen ran the concession stand, "hot dogs, yum-yum burgers, chips, beverages and candy," and the trophy room was added onto it later. All the kids worked there; Lita and her sisters arrived at 7 a.m. to help at the stand.[^dslne]
 
-Racers came a long way to break things there. Jerry Burklund, who said he had done "too much street drag racing," broke a gear set at Kearney in the late 1960s and borrowed his uncle's pickup in Ceresco. His uncle asked how far down the road it was. "We had about a 10-foot chain and we pulled it the whole 140 miles back to Ceresco. Funny today, but . . . ."[^dslne] Kidder had engraved the trophies. Flightland was the airport. Kearney was the tower in the backyard.
+Racers came a long way to break things there. Jerry Burklund, who said he had done "too much street drag racing," broke a gear set at Kearney in the late 1960s and borrowed his uncle's pickup in Ceresco. His uncle asked how far down the road it was. "We had about a 10-foot chain and we pulled it the whole 140 miles back to Ceresco. Funny today, but . . . ."[^dslne]
+
+Kroeger, in Kidder's account, later moved the racing to "what is known as Cornhusker at Lincoln I-80." Others remember Cornhusker Raceway Park as Omaha's. Don Cameron, who raced a '54 Chevy pickup there on Wednesday nights in 1973, said rainouts did it in: in 1972 or '73 eight of nine weekend races washed out, and, as he understood it, booked racers were paid rain or shine; neighbors who had built close by complained about the noise, the strip closed, and it "was made into an airport."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see Open questions">?</a></sup>[^dslne] Neither account gives an address for Cornhusker Raceway Park.
+
+Kidder had engraved the trophies. Flightland was the airport. Kearney was the tower in the backyard.
 
 *See also:* ["Go Out to Scribner"](nebraska-go-out-to-scribner.md), the Lincoln clubs' 1950s hunt for a sanctioned strip and the Grand Island Jaycee drags of 1959; [Sioux Falls & South Dakota's clubs](sioux-falls-south-dakota-clubs.md), up the Missouri; [The Professor's Drag Strip](ames-drag-strip-nightcrawlers.md), Iowa's club-run strip; [Dragging Main](../places/dragging-main.md), where a Scottsbluff yearbook goes cruising.
 
