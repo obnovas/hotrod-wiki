@@ -46,8 +46,6 @@ Ed Winfield's formal schooling ended at the eighth grade, and at 14 he was in Ha
 
 Edward Arnold Winfield was born **October 4, 1901**,[^mshf][^hem1] in or near Flintridge, northeast of Los Angeles.[^hem1] Whether that year was 1901 or 1910 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> At 14 he joined Harry A. Miller's shop, starting in the carburetor department at 60¢ an hour per the Motorsports Hall of Fame. Hemmings says sweeping floors. He learned alongside draftsman Leo Goossen and machinist Fred Offenhauser.[^mshf][^hem1]
 
-## A motorcycle that could climb anything
-
 At 16, with hand tools, he reworked the cam in his single-cylinder motorcycle: "I could climb any mountain road around here in high gear!"[^mshf]
 
 The cams came next. In **1919** Winfield converted a used grinding machine into a cam grinder.[^mshf]
@@ -55,8 +53,6 @@ The cams came next. In **1919** Winfield converted a used grinding machine into 
 ## The origin of "three-quarter race"
 
 Pete Crane relayed Winfield's own account of how a term hot rodders still use got its name. He first made only two masters, semi race and full race, then a third in between, and combined the full-race master (intake) with the new one (exhaust): "It was three-quarters of the way to a full..."[^hem2] It is a rare first-hand origin story for a bit of shop talk.
-
-## Carburetors and Indy
 
 Cams led to carburetors. The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 

@@ -67,21 +67,15 @@ status: Open; leased to Mark and Denise Cathell's SDM Promotions from 2022[^pr21
 
     — Charlie Cathell to WMDT (Salisbury, Md.), May 2015.[^wmdt15]
 
-## Too short to stop
-
 The U.S. 13 Dragway started with a family that went looking for room for cars to stop, then bought a field that was too short. They fixed it by buying more of the field, and they were still running the place close to sixty years later.
 
 Bill Cathell and his son Charlie were go-kart fans first, by the track's own history. That turned into drag racing at Georgetown, Delaware's popular eighth-mile strip, and racing there gave them the idea for their own quarter mile, "after noticing the difficulty cars had stopping after reaching speeds of 100 miles per hour." Bill also wanted "a place where his son and his friends could drag race in a safe and controlled manner."[^hist] Charlie Cathell put it the same way to Salisbury's WMDT in 2015: his father wanted a dragway so Charlie and his friends would have a safe place to race.[^wmdt15]
 
 In 1963 the family bought a parcel of farmland on the west side of U.S. 13 about a mile north of Delmar. "To their dismay," the history says, "they discovered that they only had enough room for a fifth-mile track." A fifth of a mile did not leave enough room to shut down, so the Cathells bought more land and stretched it to a quarter mile.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^hist] WMDT's 2015 report says it was built as a fifth of a mile and expanded to a quarter by 1965.[^wmdt15] Charlie said his mother and father, William and Juanita, built it and opened it in August 1963.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see Open questions">?</a></sup>[^wmdt15][^pr21]
 
-## Backed up to the fence
-
 The first year was slow. There were no grandstands. Fans backed their vehicles up to the fence to watch, and the track's history says many still do. The Delmar Drag Club helped keep the place going that first year, and the club was still around when the history was written.[^hist] The family's 2015 press notes add a smaller detail: since 1963 the track has let children under 13 in free.[^pr15]
 
 Next came a dirt oval beside the strip. The history says the grandstands were put on wheels and towed back and forth between the two tracks. The Delmarva Auto Racing Association leased the oval from 1965 to 1968, and when the family took it back in 1969 they moved it to the other side of the strip. The state's 2019 historical marker tells the same story.[^hist][^marker]
-
-## The same family
 
 Charlie Cathell ran the place for 35 years. In 2021 he announced that he, his wife Joyce and his brother Hal would retire at the end of the season, and that the track had been built in 1963 "by his parents William and Juanita." Mark Cathell and his wife, Denise, leased the property to run it from 2022. "My lifelong dream has been to take over the family business," Mark said.[^pr21] Along the way the dragway hosted the NHRA Division One Bracket Finals in 2005, which drew nearly 800 teams, and Charlie was named promoter of the year in 2004 and went into the NHRA Northeast Division Hall of Fame.[^hist] Mark Cathell told WMDT that "most of the family members have raced at sometime in their life."[^wmdt15]
 

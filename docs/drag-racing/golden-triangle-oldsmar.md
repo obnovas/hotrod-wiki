@@ -62,8 +62,6 @@ canonical_for: []
 
     — Bob Nugent, remembering a Top Eliminator start between Don Garlits and Chris Karamesines, HotrodsOnline memoir, undated.[^nugent]
 
-## Sunday morning to the pasture
-
 Golden Triangle was a cow pasture in the swamp between Clearwater, Tampa and St. Petersburg. The Blockbusters ran it. The touring names came to choose off Garlits, and a skinny flagger waved him back for jumping. Whether the name Swamp Rat came from that swamp or from California is still open.
 
 Bob Nugent remembered the drive out: a crisp Florida morning, a black 1956 Pontiac hardtop against a Sierra Gold Ford Tudor, a horse lifting its head as they flew past a horse track, several miles of deserted road to the cutoff. "We went to the Golden Triangle Drag Strip in Oldsmar, Florida and made drag racing history." It was, he wrote, "a cow pasture, out in the boondocks, in between nowhere and noplace." He and his buddy Larry Davis were the flaggers. "Standing in front of a pair of backyard engineered racers and flagging them off was a cool but dangerous business."[^nugent]
@@ -81,8 +79,6 @@ Nugent's sharpest memory is a winter Top Eliminator between Karamesines and Garl
 How Garlits got that name is told, as a California insult in a 1959 *Drag News* ad, on the [Setto Postoian page](../people/setto-postoian.md). Nugent himself wrote that before he was "Big Daddy," Garlits "was known as the 'Swamp Rat', a name given him by the dudes in California." The H.A.M.B. flagger remembered it differently: the Oldsmar strip "is where Garlits got the name 'Swamp Rat.'"<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^nugent][^hamb11][^postoian]
 
 The strip was not NHRA-sanctioned, Nugent wrote, "therefore any runs made there were not official." He remembered Garlits setting a world's record one day that was not recognized. A few months later Garlits broke the record at a West Coast track and it counted. Nugent could not remember whether the figure was 160 mph or 180 mph. He leaned toward 160: "I think it was 160 because there was a magazine article at the time that stated it was scientifically impossible to reach over 160 MPH in the quarter." Years later he visited the abandoned site and "stood in the same spot that I flagged years ago": junk parked over what was left, "little of the track remains." Not all the memories were fond. "Two people lost their lives at that track. I remember a lot of fist fights. I am haunted by the memory of a separate section for black people." At Garlits's museum he saw a poster advertising Golden Triangle, and in another room a photograph of a skinny kid beside Garlits at [Brooksville](brooksville-jaycees-drag-strip.md). The skinny kid was him.[^nugent]
-
-## Twin City nights
 
 On the same H.A.M.B. thread, the editor of *Drag Strip List*, writing as Beavertail, said he was trying to date the closing of "Twin City Dragway (aka Golden Triangle Drag Strip)." He had "found newspaper articles about it through 1975" and thought it might have run a year or two longer. He also wrote that he had uploaded a newspaper photograph of Art Malone setting the 1/8th-mile world record while driving for Garlits in 1959 at Golden Triangle. Those newspapers were not opened this round.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> Opening and closing years are still open.[^hamb11]
 

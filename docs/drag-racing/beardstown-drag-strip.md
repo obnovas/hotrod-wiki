@@ -48,8 +48,6 @@ canonical_for: []
 
 Beardstown sits on the Illinois River in Cass County, a packing-house town with a lift bridge. On weekdays the town had a reputation as hog butcher of Illinois. In the spring of 1967 Sundays were Fun Capital, and the new strip drew 2,000 people on opening day. In 1972 Garlits was on the bill against Ken Dobson, and the result is still open.
 
-## 2,000 on opening day (1967)
-
 The town, the column said, had "apparently done everything possible to establish a reputation as 'hog butcher of Illinois' on weekdays." On weekends it was packed with bowlers for the annual KC tournament, "and for the past two weeks additional sports fans have been crowding in for drag races. The Seward Drag strip on the Arenzville road attracted 2,000 people on opening day, and apparently did just as well or better the following Sunday." Spectators paid $1.50 apiece. The strip "had cars parked for more than a mile along each side of the entrance — on both sides of the Arenzville blacktop."[^jdj670528]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 <figure markdown>
@@ -57,11 +55,7 @@ The town, the column said, had "apparently done everything possible to establish
 <figcaption markdown>The Illinois River lift bridge at Beardstown, Illinois, in 2007. Context only; no photo of the strip has turned up. Photo: Rick from Baton Rouge, Feb. 12, 2007. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Illinois_River_Lift_Bridge,_Beardstown,_Illinois.jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</figcaption>
 </figure>
 
-## The Michigan Madman comes to Cass County (1970)
-
 The strip was still running three years later. By 1970 ads in the Jacksonville paper billed the **Beardstown Drag Strip** for an A.H.R.A. Super Stock Circuit date, with a car show, time trials from 9 a.m. to 1:30 p.m. and races at 2. Children under 12 got in free with an adult.[^jdj700501] That May, "E. J. Potter presented the feature attraction at Sunday's drag racing program at the Beardstown Drag Strip. Potter made three runs on his Chevy-powered" machine (the rest of the line is lost in the scan).[^jdj700520] Potter, the "Michigan Madman" from Ithaca, Mich., toured the strips for 13 years with motorcycles built around V8 engines.[^wikipotter]
-
-## Ken Dobson's strip (1972)
 
 Two years later it changed hands. In May 1972 the ads read "DRAG RACING EVERY SUNDAY … Beardstown DRAG STRIP New Owner & Operator" Ken Dobson, with "AHRA SANCTIONED DRAGS."[^jdj720527] Two weeks later the Jacksonville sports column told fans they had "a treat in store this weekend at the Beardstown Drag Strip, promoted by Ken Dobson of Jacksonville." There would be racing Friday and Saturday nights and Sunday afternoon, "with perhaps the top name in all of drag racing, 'Big Daddy' Don Gorlits [*sic*] pitted against Dobson in a special match race Friday evening."[^jdj720609]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
