@@ -154,6 +154,8 @@ Back west, the man who opened Santa Ana talked about where it all started:
 
 — Hart, on the 1950 informal meets at Mile Square before the Marines ran them off, same article. Access 2026-10-15.
 
+On Peggy, the article paraphrases him: "she ran a blown Cadillac dragster back in 1954 that went 130 mph, says Hart with obvious pride," and quotes him that she missed a Bonneville two-way record "when we lost Number Seven on the way back."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+
 > "Then we got real big, and anytime they went over 130 in the Top Eliminator final we'd give the winner a dollar a mile. Hell, the biggest purse I ever paid was $155!"
 
 — Hart, on Santa Ana's lakes-car purses, same article. Access 2026-10-15.
@@ -162,7 +164,7 @@ Back west, the man who opened Santa Ana talked about where it all started:
 
 — Hart, on Sunday bracket racing at Lions, same article. Access 2026-10-15.
 
-Hart told all this years later (1950–71 events; told 1979). This is the earliest long interview with Hart we have opened. On Peggy, the article paraphrases him: "she ran a blown Cadillac dragster back in 1954 that went 130 mph, says Hart with obvious pride," and quotes him that she missed a Bonneville two-way record "when we lost Number Seven on the way back."<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The same article dates his Lions start to both "'65" and "'63." See [Santa Ana](../eras/1950s-santa-ana-drags.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
+Hart told all this years later (1950–71 events; told 1979). This is the earliest long interview with Hart we have opened. The same article dates his Lions start to both "'65" and "'63." See [Santa Ana](../eras/1950s-santa-ana-drags.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Jim Clark: losing the *Street Rod* title (2012/2014)
 

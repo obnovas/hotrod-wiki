@@ -40,7 +40,7 @@ related:
 canonical_for: []
 location: "Whittier Blvd, East LA. The mile between Atlantic Blvd and Eastern Ave was the core."
 peak: "1960s to 1970s; the street drew national attention through the film *Boulevard Nights* (1979)."
-later: "cruising returned in 2017, under a 1997 county ordinance.<sup class=\"hr-q\" id=\"qr-1\"><a href=\"#q-1\" title=\"Open question: see the bottom of the page\">?</a></sup>"
+later: "cruising returned in 2017, under a 1997 county ordinance."
 ---
 # Whittier Boulevard
 
@@ -49,7 +49,7 @@ later: "cruising returned in 2017, under a 1997 county ordinance.<sup class=\"hr
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> newspaper (LA Times 1979 via 2017 archive feature; LA Times 2017), local history blog (Barrio Boychik 2015) · **Last verified:** 2026-10-13 (Round 8) · **Open issues:** ⚠ closure date; violence figures come from the Sheriff's Dept · [How we rate this](../reference/source-standards.md)
 
-In 1979 the LA Times called cruising Whittier "an odd ritual–a cross among a harmless urban mating dance, a California car obsession, a relief from boredom and a senseless flirtation with death", and "a tradition gone sour, tarnished by gang violence." It quoted the Sheriff's Department: 16 homicides on Whittier in the past year and a half, half of all gang-related deaths in its East LA jurisdiction.[^lat79] Every Friday, Saturday and Sunday, from 9:30 p.m. to 5 a.m., all vehicles were barred from the mile-long stretch.[^lat17] When that closure started is still open. The street drew national attention that year through the film *Boulevard Nights*.
+In 1979 the LA Times called cruising Whittier "an odd ritual–a cross among a harmless urban mating dance, a California car obsession, a relief from boredom and a senseless flirtation with death", and "a tradition gone sour, tarnished by gang violence." It quoted the Sheriff's Department: 16 homicides on Whittier in the past year and a half, half of all gang-related deaths in its East LA jurisdiction.[^lat79] Every Friday, Saturday and Sunday, from 9:30 p.m. to 5 a.m., all vehicles were barred from the mile-long stretch.[^lat17] When that closure started is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> The street drew national attention that year through the film *Boulevard Nights*.
 
 ## In their own words
 

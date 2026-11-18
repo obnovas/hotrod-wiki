@@ -25,9 +25,9 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `companies/prewar-speed-shops.md` | done | batch 13 |
 | `companies/southern-california-plating.md` | done | batch 6 |
 | `companies/summit-racing.md` | done | batch 5 |
-| `companies/web-of-influence.md` | todo | |
-| `customs/hirohata-mercury.md` | todo | |
-| `customs/kkoa-lead-sled-revival.md` | todo | |
+| `companies/web-of-influence.md` | done | batch 14 |
+| `customs/hirohata-mercury.md` | done | batch 14 |
+| `customs/kkoa-lead-sled-revival.md` | done | batch 14 |
 | `customs/ozark-drifters-ceola-scrapbook-arkansas.md` | done | batch 10 |
 | `drag-racing/akron-fulton-airport.md` | done | batch 2 hedged the deck's first marker to the 2016 report |
 | `drag-racing/alabama-black-widows-lassiter-helena.md` | done | batch 7 |
@@ -56,7 +56,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/columbus-trotters-high-winders.md` | done | batch 6 |
 | `drag-racing/connecticut-clubs-nutmeg-state-timing-association.md` | done | batch 4 |
 | `drag-racing/cumberland-clockers.md` | done | batch 8 |
-| `drag-racing/cumming-dragway.md` | todo | |
+| `drag-racing/cumming-dragway.md` | done | batch 14 |
 | `drag-racing/dc-dragons-jo-ann-johnson.md` | done | batch 7 |
 | `drag-racing/deer-park-spokane-nitrous.md` | done | batch 10 |
 | `drag-racing/denver-timing-association-bandimere.md` | done | batch 2 |
@@ -80,7 +80,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/greybull-cheyenne-wyoming-strips.md` | done | batch 9 |
 | `drag-racing/half-day-ataa-maremont.md` | done | batch 2 hedged the summary's 1952 and moved qr-6 onto the ATAA chapters |
 | `drag-racing/hanover-adams-county-clubs.md` | done | batch 6 |
-| `drag-racing/harmon-raceway-monroe.md` | todo | |
+| `drag-racing/harmon-raceway-monroe.md` | done | batch 14 |
 | `drag-racing/high-school-hot-rod-clubs.md` | done | batch 13 |
 | `drag-racing/hope-airport-drag-strip.md` | done | batch 8 |
 | `drag-racing/houston-freeway-dragstrip.md` | done | batch 1 |
@@ -92,7 +92,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/kansas-city-timing-association.md` | done | batch 2 |
 | `drag-racing/key-west-rumbling-rods.md` | done | batch 7 |
 | `drag-racing/kingston-igniters.md` | done | batch 3 |
-| `drag-racing/kk-sports-arena-hospitality-bankruptcy.md` | todo | |
+| `drag-racing/kk-sports-arena-hospitality-bankruptcy.md` | done | batch 14 |
 | `drag-racing/kk-sports-arena-kaukauna.md` | done | batch 11 |
 | `drag-racing/lake-butler-mid-state-timing-association.md` | done | batch 5 |
 | `drag-racing/lakeland-dragway-amusement-park.md` | done | batch 8 |
@@ -142,7 +142,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/sanford-cain-bannister.md` | done | batch 2 |
 | `drag-racing/santa-maria-golden-state-raceway.md` | done | batch 8 |
 | `drag-racing/scappoose-aurora-columbia-timing-association.md` | done | batch 9 |
-| `drag-racing/sedalia-big-sir.md` | todo | |
+| `drag-racing/sedalia-big-sir.md` | done | batch 14 |
 | `drag-racing/sedalia-drag-ons.md` | done | batch 3 |
 | `drag-racing/semo-malden-drag-strip.md` | done | batch 2 |
 | `drag-racing/sioux-falls-south-dakota-clubs.md` | done | batch 9 |
@@ -156,7 +156,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/westhampton-drag-strip-long-island.md` | done | batch 7 |
 | `drag-racing/winslow-renegades-airport.md` | done | batch 5 |
 | `drag-racing/winterport-fernald-field-maine.md` | done | batch 7 |
-| `drag-racing/yellow-river-covington.md` | todo | |
+| `drag-racing/yellow-river-covington.md` | done | batch 14 |
 | `drag-racing/yuma-timing-association.md` | done | batch 5 |
 | `eras/1930s-dry-lakes-scta.md` | done | batch 4 |
 | `eras/1950s-camgrinder-wars.md` | done | batch 3 |
@@ -164,7 +164,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `eras/1960s-drag-rags.md` | done | batch 10 |
 | `eras/1970s-street-rod-nationals.md` | done | batch 4 |
 | `eras/1980s-pro-street.md` | done | batch 11 |
-| `media/hot-august-nights-reno-1986.md` | todo | |
+| `media/hot-august-nights-reno-1986.md` | done | batch 14 |
 | `media/show-circuit.md` | done | batch 13 |
 | `media/street-rod-magazine-portland.md` | done | batch 10 |
 | `media/street-rod-newspaper-serial.md` | done | batch 10 |
@@ -209,42 +209,42 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `places/bobs-big-boy-river-road.md` | done | batch 10 |
 | `places/brookside-restless-ribbon-tulsa.md` | done | batch 11 |
 | `places/central-avenue-albuquerque.md` | done | batch 11 |
-| `places/cruising-overview.md` | todo | |
+| `places/cruising-overview.md` | done | batch 14 |
 | `places/denver-16th-street-colfax-scotchman.md` | done | batch 10 |
 | `places/draggin-main-clovis-new-mexico.md` | done | batch 10 |
 | `places/dragging-main.md` | done | batch 2 |
 | `places/harveys-broiler-downey.md` | done | batch 11 |
 | `places/lake-street-university.md` | done | batch 11 |
 | `places/memphis.md` | done | batch 2 pointed the 1965 SEMO ad at the SEMO page's 1965 Sikeston citation, not the 1962 results story |
-| `places/midwest-east.md` | todo | |
+| `places/midwest-east.md` | done | batch 14 |
 | `places/modesto.md` | done | batch 11 |
 | `places/ohio-gassers.md` | done | batch 2 moved qr-3 onto the 1968 Camaro and qr-9 onto Pete and Bill |
 | `places/pacific-northwest.md` | done | batch 13 |
-| `places/regional-scenes.md` | todo | |
+| `places/regional-scenes.md` | done | batch 14 |
 | `places/rons-drive-in-sprague-avenue-spokane-valley.md` | done | batch 10 |
-| `places/route-1-saugus-adventure-car-hop.md` | todo | |
-| `places/summer-avenue-memphis.md` | todo | |
+| `places/route-1-saugus-adventure-car-hop.md` | done | batch 14 |
+| `places/summer-avenue-memphis.md` | done | batch 14 |
 | `places/texas.md` | done | batch 13 |
 | `places/twin-falls-main-avenue.md` | done | batch 3 |
-| `places/upper-midwest.md` | todo | |
+| `places/upper-midwest.md` | done | batch 14 |
 | `places/van-nuys.md` | done | batch 10 |
-| `places/westheimer-houston.md` | todo | |
-| `places/whittier-blvd.md` | todo | |
+| `places/westheimer-houston.md` | done | batch 14 |
+| `places/whittier-blvd.md` | done | batch 14 |
 | `places/woodward-ordinances.md` | done | batch 11 |
 | `places/woodward.md` | done | batch 4 |
 | `street-rodding/fiberglass-suppliers.md` | done | batch 10 |
 | `street-rodding/nsra-early-nationals.md` | done | batch 3 |
-| `voices/blackie-gold.md` | todo | |
+| `voices/blackie-gold.md` | done | batch 14 |
 | `voices/dallas-folksay-custom-automotive.md` | done | batch 12 |
-| `voices/esparza-brothers.md` | todo | |
+| `voices/esparza-brothers.md` | done | batch 14 |
 | `voices/harts-santa-ana.md` | done | batch 12 |
 | `voices/injection-and-tin.md` | done | batch 12 |
-| `voices/kong-jackson.md` | todo | |
+| `voices/kong-jackson.md` | done | batch 14 |
 | `voices/leonard-miller.md` | done | batch 12 |
-| `voices/peoria-1970.md` | todo | |
+| `voices/peoria-1970.md` | done | batch 14 |
 | `voices/ray-godman.md` | done | batch 12 |
 | `voices/ruelas-dukes.md` | done | batch 12 |
 | `voices/show-custom-voices.md` | done | batch 12 |
 | `voices/street-rodder-founding.md` | done | batch 12 |
-| `voices/strip-owners-and-door-slammers.md` | todo | |
+| `voices/strip-owners-and-door-slammers.md` | done | batch 14 |
 | `voices/von-dutch.md` | done | batch 12 |

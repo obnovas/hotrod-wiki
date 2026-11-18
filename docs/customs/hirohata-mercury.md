@@ -63,9 +63,7 @@ canonical_for: []
 
 The roof was chopped about 4 in. in front and 7 in. at the rear, with the B-pillar removed for a hardtop look (tried earlier on Nick Matranga's '39 Merc).[^revs] Out front came frenched headlights, '52 Lincoln taillight lenses, a peaked and extended hood, a handmade grille, flared skirts, and scoops with '52 Chevy grille teeth.[^revs] '53 Buick side spears divided ice green over organic green metallic.[^revs]
 
-It sat about 5 in. off the ground: de-arched leafs, lowering blocks, and a C'd rear frame.[^revs] The interior was by Glen Houser's **Carson Top Shop**, the trunk by **Gaylord**, and the dash striping later by **Von Dutch**. Hirohata made the teardrop knobs himself.[^revs] A 1953 Cadillac V8 was installed by Dick Lyon (Lyon Engineering) for the drive to Indianapolis.[^revs]
-
-Cost was "about $3,500" per George Barris. Hirohata won his class at the 1952 Motorama, drove it to Indianapolis in 1953 and took Best Custom there, then advertised it in Hot Rod (May 1955) for $4,900.[^revs]
+It sat about 5 in. off the ground: de-arched leafs, lowering blocks, and a C'd rear frame.[^revs] The interior was by Glen Houser's **Carson Top Shop**, the trunk by **Gaylord**, and the dash striping later by **Von Dutch**. Hirohata made the teardrop knobs himself.[^revs] Cost was "about $3,500" per George Barris. Hirohata won his class at the 1952 Motorama.[^revs] A 1953 Cadillac V8 was installed by Dick Lyon (Lyon Engineering) for the drive to Indianapolis.[^revs] He drove it to Indianapolis in 1953 and took Best Custom there, then advertised it in Hot Rod (May 1955) for $4,900.[^revs]
 
 ## Afterlife
 
