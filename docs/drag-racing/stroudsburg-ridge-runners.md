@@ -62,8 +62,6 @@ canonical_for: []
 
 In the Pocono Mountains of eastern Pennsylvania, the Ridge Runners of Stroudsburg tried two of their own members for traffic violations, and they were sentenced to a work detail. Then the club told a judge on the other side of the state it was willing to buy land for a strip. From 1957 to 1964, they were still asking.
 
-## A meeting behind 39 Broad Street
-
 The first trace in the *Daily Record* is a notice in September 1957. "The Ridge Runners, local hot rod club," would meet at the rear of 39 Broad St. A State Police representative was to speak, the police of Stroudsburg and East Stroudsburg would attend, and the meeting was sponsored by the Junior Chamber of Commerce.[^dr570910]
 
 By late November, member **Bernard Lawler** was writing up the meetings for the paper. He listed jackets, secret ballots ("a constructive idea of a club member himself") and "a top priority project for construction of a drag strip outside of Stroudsburg." The highlight was a recording by a radio announcer, **Dopey Duncan**, "who discussed the true meaning of hotrodding."[^dr571130]
@@ -73,8 +71,6 @@ By late November, member **Bernard Lawler** was writing up the meetings for the 
 <figcaption markdown>Main Street at Broad Street and North Fifth Street in Stroudsburg, 2022. The club's first meeting place was at the rear of 39 Broad St.; this photo does not show that building. Creator: Famartin. Date: 2022-08-09. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2022-08-09_14_19_06_View_south_along_U.S._Route_209_Business_(Main_Street)_at_Pennsylvania_State_Route_191_(Broad_Street-North_Fifth_Street)_in_Stroudsburg,_Monroe_County,_Pennsylvania.jpg). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).</figcaption>
 </figure>
 
-## Club court
-
 On Dec. 11, 1957, the paper reported that two new members brought the club to 25. "A court was held for two members who disobeyed traffic laws during the past week and they were sentenced to a work detail."[^dr571211]
 
 The same report said the club had been "accepted as a charter member of the National Hot Rod Assn., with headquarters in Los Angeles," with a renewal running to January 1959. The renewal came after the parent body investigated "the Monroe County club's safety record," and the club would also receive its "1958 Safety High Point Award Plaque."[^dr571211]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The club notice says so. We have not found the award in any NHRA source.
@@ -83,8 +79,6 @@ A week later the club planned a **safety clinic** for Feb. 11 and 16 to check me
 
 Club courts were common. Belleville's Gear Jammers fined their own members, and Sedalia's Drag-Ons made a ticketed member stand trial at the next meeting. A work detail is the first labor sentence we've found. See [Belleville's Gear Jammers](belleville-gear-jammers.md) and [The Sedalia Drag-Ons](sedalia-drag-ons.md).
 
-## The letter to the judge
-
 The strip stayed the goal. In spring 1958 the Ridge Runners voted to join the **Northeastern Pennsylvania Timing Assn.**[^dr580416] Members met at the home of **Floyd Pugh**, 562 Fifth St., to talk over a drag strip "to be constructed this Summer," and a float for the Four-County Firemen's Convention parade.[^dr580522]
 
 Then the *Daily Record* ran an editorial quoting an Allegheny County judge named Lewis. As the club's letter quotes it, the editorial warned that a couple of hot rodders staging a drag race on a public highway were "endangering the life and limb of every pedestrian" in sight. (The scan of that passage is rough, so we quote only the clean words.) The club wrote back.[^dr580524]
@@ -92,8 +86,6 @@ Then the *Daily Record* ran an editorial quoting an Allegheny County judge named
 The Ridge Runners described themselves as a club of 40 members "dedicated to safety on the highway," and said they "would like to have an area set aside for drag racing, which we are willing to buy."[^dr580524] They invited the judge to their Tuesday meetings to read their constitution. Some members, they wrote, wondered whether he had ever seen a drag race and stood in line for inspection, since the cars there "are much safer than some that are being built in Detroit today."[^dr580524] They proposed that the next legislature set aside areas throughout the state for drag racing, and they added the line quoted at the top of this page.[^dr580524]
 
 The paper printed the letter on its editorial page beside a reply, "Concerning Drag Strips." The editors said they "gladly" published it and praised a group of 40 members, 30 of them teenagers, because "not one member has been involved with the law since joining the club."[^dr580524] They agreed that highway officials, safety authorities and the public should give the club's request for a strip serious consideration, but they repeated their own stand: license revocation, even jail, for anyone convicted of racing on public roads.[^dr580524]
-
-## Races, a club car and a model contest
 
 In June 1958 the club discussed summer drag races "under the sanction of the Northeastern Pennsylvania Timing Assn.," open to all competitors.[^dr580604] In September 1959 members were working on a club car, a committee was named to look for land for a proposed drag strip, and Capt. Charles Drummond of the Salvation Army was booked to speak.[^dr590924] That October the club announced a Sunday-morning inspection of every member's car for safety and cleanliness, at its own clubhouse.[^dr591028]
 

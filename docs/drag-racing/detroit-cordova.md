@@ -71,8 +71,6 @@ In 1957 (Aug 21–25), an unknown Don Garlits ran only 133 mph at Cordova until 
 
 BangShift puts the meet in context. Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the AHRA meet at Great Bend and the ATAA World Series were the only true national gatherings of fuel cars before 1959.[^bs]
 
-## The World Series of Drag Racing
-
 The event itself was older than Cordova. According to Competition Plus, Bob Bartel and his partner Lamona held the first World Series in October 1954 on a taxiway at George Field, Lawrenceville, Illinois. Competition Plus calls it "one year before the NHRA... had a similar race." It drew entrants from as far as California and New York. It moved from the taxiway to a full runway in 1955. When the first World Series was, the sources disagree.[^cp]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Then it came to Cordova. Bartel's Quad City Drag Strip opened Labor Day weekend 1956. A late-1956 government mandate pushed racing off airports. The World Series moved to Cordova the weekend before Labor Day 1957, the "first of sixty consecutive" there. Whether Cordova opened in 1955 or 1956, the sources disagree.[^cp]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>

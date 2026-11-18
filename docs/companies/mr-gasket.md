@@ -58,15 +58,9 @@ principal_source: "Jim Hill, East Coast Drag Racing Hall of Fame (2016).[^ec]"
 
 Store-bought exhaust gaskets wouldn't stay put and blocked ported 283 Chevy heads. Joe Hrudka worked out thicker, larger, one-piece gaskets with his father-in-law, a partner at Manufacturers Gasket in Cleveland. They hand-cut them, then used steel-rule dies in a hand press. They sold them from the trunk of Joe's '57 Chevy tow car, and part numbers **150 (exhaust) and 150A (intake)** remain in the line.[^ec] SEMA says the earliest prototypes were made in his home basement and first sold as **Speed Specialties**.[^sema] Mr. Gasket went from that trunk to Wall Street.
 
-## Gas-class racers first
+The gaskets came out of racing. Joe and Tom Hrudka of suburban Cleveland raced a '55 Chevy that won D/Gas at the 1962 NHRA Nationals, then a '40 Willys in C and D/Gas.[^ec] SEMA says they were back-to-back NHRA champions in 1961 and 1962.[^sema] They ran with the informal "Ohio Gassers": Eddie Schartman, Ron Hassel, Arlen Vanke, the Hill brothers, Dave Meal and others. They raced at Thompson, Dragway 42, Quaker City and National Trail, often four or five times a week in the short Ohio season.[^ec]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> When it was founded, and what it was worth, nobody's books quite agree.
 
-The gaskets came out of racing. Joe and Tom Hrudka of suburban Cleveland raced a '55 Chevy that won D/Gas at the 1962 NHRA Nationals, then a '40 Willys in C and D/Gas.[^ec] SEMA says they were back-to-back NHRA champions in 1961 and 1962.[^sema]
-
-They ran with the informal "Ohio Gassers": Eddie Schartman, Ron Hassel, Arlen Vanke, the Hill brothers, Dave Meal and others. They raced at Thompson, Dragway 42, Quaker City and National Trail, often four or five times a week in the short Ohio season.[^ec]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> When it was founded, and what it was worth, nobody's books quite agree.
-
-## Later
-
-Then the company changed hands. Joe left the company in 1976 under a non-compete and collected Tri-Five Chevys until 1981.[^ec] The company went through Chapter 11 in 1991, was sold to Echlin in 1993, and to Holley in September 2015.[^ec][^enc]
+Joe left the company in 1976 under a non-compete and collected Tri-Five Chevys until 1981.[^ec] The company went through Chapter 11 in 1991, was sold to Echlin in 1993, and to Holley in September 2015.[^ec][^enc]
 
 ## Joe Hrudka (1938–2026) { #update-round-4-joe-hrudka-19382026 }
 

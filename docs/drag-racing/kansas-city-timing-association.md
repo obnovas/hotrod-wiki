@@ -70,15 +70,11 @@ The photo caption in the magazine says it in ten words: "Kansas City police, una
 
 The man who made that happen was not a juvenile officer or a traffic cop. Major Eugene M. Pond was the department's chief of detectives, and he had a personal reason. "My son was a teen-age dragster," he wrote, "so I had both a personal and professional interest in providing a drag strip facility where these young hot rodders could compete without endangering lives on city streets and country roads."[^pond] A caption names the boy as Gene, 16, and says he had recently won a drag race trophy.[^pond]
 
-## The meeting
-
-Pond's account of how it began is short and businesslike.[^pond] First he called a meeting of the "Greater Kansas City law enforcement administrators": police chiefs, sheriffs and the heads of the Missouri and Kansas highway patrols. He presented a plan for a drag strip with "rigid rules and regulations." Then he met the hot rodders themselves. "They went for it in a big way," he wrote, and the result was 32 clubs from communities around the metro area.
+Pond called a meeting of the "Greater Kansas City law enforcement administrators"[^pond]: police chiefs, sheriffs and the heads of the Missouri and Kansas highway patrols. He presented a plan for a drag strip with "rigid rules and regulations." Then he met the hot rodders themselves. "They went for it in a big way," he wrote, and the result was 32 clubs from communities around the metro area.
 
 Civic clubs, the YMCA and driver-training instructors supplied adult advisers. Pond stresses that the clubs "run their organizations" but accept the advice. The clubs sent two members each to a new body, the Kansas City Timing Association, incorporated in Missouri as a non-profit and later affiliated with the National Hot Rod Association. It adopted NHRA's code of ethics and rules.
 
 The May 1955 planners' survey had the same association, working with the police and trying to lease a site in the Northeast Industrial District.[^aspo] See [What the City Planners Wrote](planners-report-1955.md).
-
-## The month the hot rodders checked everyone else's cars
 
 Before there was a strip, Pond got the clubs to volunteer for the National Vehicle Safety Check Program. His figures for May 1955, as printed, run like this.[^pond] The check ran 19 days between May 2 and May 28, and rain cancelled the rest. The busiest day saw "as many as 400 cars." They checked 3,947 vehicles. 660 were in perfect condition, "about 17 per cent." 158 were rated mechanically unsafe.
 
@@ -97,8 +93,6 @@ The strip itself was asphalt, 3,850 feet long and "wide enough for two cars." Po
 "The organization of the clubs into the Timing Association has brought all of us into a new relationship with the police," said Ray Erickson of the Crank Twisters. "We now have a place where we can compete under safety rules, inspection, and good sportsmanship."[^pond]
 
 Pond also describes a club discipline system: "A traffic violator is severely dealt with by his club with additional fines being levied and participation in club activities limited by suspension."[^pond] That is the same idea as the Escanaba club's 30-day suspension (see [The Cop and the Auto Shop](escanaba-dragns.md)).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
-
-## Second witnesses: a Sedalia club, the AP and the Chouteau Bridge
 
 The best checks on Pond came from the *Sedalia Democrat*, which covered Kansas City's strip because its own hot rodders kept driving there.
 

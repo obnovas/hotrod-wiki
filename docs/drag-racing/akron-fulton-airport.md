@@ -47,7 +47,7 @@ canonical_for: []
 ---
 # Akron's "Champions Raceway"
 
-*In 2016, the first Ohio historical marker for racing of any kind, for the airport strip where the Arfons brothers, Otie Smith, and Akron Arlen started*
+*In 2016, a report called it the first Ohio historical marker for racing of any kind, for the airport strip where the Arfons brothers, Otie Smith, and Akron Arlen started*
 
 !!! abstract "Article record"
     **Confidence:** Medium (stronger for the marker text and Smith's career than for "first" claims) · **Source types:** <span class="hr-badge">Grassroots</span> state historical marker (Ohio History Connection 47-77, transcribed by Remarkable Ohio and HMdb), trade-blog event report (OnAllCylinders, 2016), NHRA columnist obituary note (2014) · **Last verified:** 2026-10-15 (Round 10) · **Open issues:** ⚠ "1959 championship" (marker) vs 1959 *Middle Eliminator* (NHRA); the "first NHRA-sanctioned track east of the Mississippi" claim is unverified; closing year (the marker's "eight years" implies about 1959); Akron *Beacon Journal* obituary is paywalled (402) · [How we rate this](../reference/source-standards.md)

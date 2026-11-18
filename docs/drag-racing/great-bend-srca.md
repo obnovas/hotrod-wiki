@@ -55,15 +55,11 @@ canonical_for: []
 
 NHRA calls the 1955 National Championship Drags at Great Bend "its first national event." A club of "motorheads," a city that owned a surplus bomber field, and a Chamber of Commerce letter are how a Kansas town got it. Then it rained and washed out Sunday's finals.[^nhra][^srca][^gbt]
 
-## The timeline, from the club's own page
-
 The club tells it in order. In 1946 the City of Great Bend acquired the B-29 Army Air Force base after the military declared it surplus. The first race on the old field came on May 12, 1953. On January 19, 1954, the Sunflower Rod and Custom Association (SRCA) was formed. It joined NHRA in April 1955.
 
 That same year came the letter: "The Great Bend Chamber of Commerce on behalf of SRCA wrote a letter to Wally Parks requesting that Great Bend, KS be the site for the FIRST National Event. NHRA said YES."
 
 NHRA did not keep it. From 1956 to 1959 the new AHRA held its nationals there on the 8,000-foot track. In 1960 AHRA's president moved them to Kansas City. In 1993–94 the club reorganized under its original name, and it says the track was recognized as a Kansas Historical Site in 1994.[^srca]
-
-## The 1955 meet
 
 NHRA's retrospective (2021) says Hot Rod's August 1955 issue announced Great Bend as the site, using an 8,000-foot runway at the municipal airport, Sept. 29 to Oct. 2, with a $5 entry fee and 30 classes.[^nhra]
 
@@ -72,8 +68,6 @@ Then it rained. "The worst rainstorm in 30 years" hit on the third day and washe
 The inspectors were no kinder. NHRA's tech team disqualified several winners, mostly in Stock classes. In one class "the first three finishers were found to be running 'out of class.'"[^nhra]
 
 Two winners turn up elsewhere in this archive. NHRA lists Howard Johansen as "C" Gas Coupe class winner (see [Howard Johansen](../people/howard-johansen.md)) and Raymond Godman as "A" Modified Roadster winner (see [Ray Godman](../voices/ray-godman.md)).[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> A top-speed figure differs by one digit between sources. These are different claims.
-
-## What kept it going
 
 The strip outlasted the nationals. The Tribune calls it a "National Hot Rod Association member city-leased track" and says it was one of four tracks chosen for Hot Rod Drag Week in 2011. The club says it reorganized in 1993 "to help in maintaining the track," and that the track was resurfaced in 2000 with a Kansas DOT grant.[^gbt][^srca] The club, not a promoter, still runs it. The Chamber of Commerce letter got the first national event onto the bomber field. It rained and washed out Sunday's finals. The club still runs the strip.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Half Day, Illinois: The Muffler Maker''s Drag Strip (1952–55)'
-summary: A Chicago muffler maker put its name on a drag strip at Half Day, Illinois, and then insisted on seat belts. The ATAA raced there from 1952, and in 1954 its World Series drew 350 hot rodders and 10,000 spectators.
+summary: A Chicago muffler maker put its name on a drag strip at Half Day, Illinois, and then insisted on seat belts. Sources date the ATAA's first races there to 1952 or 1953, and in 1954 its World Series drew 350 hot rodders and 10,000 spectators.
 department: drag-racing
 eras:
 - 1950s
@@ -83,7 +83,7 @@ The sponsor's best story is about turnout. *Sales Management* (June 1, 1954) say
 
 The next step was to take the program on the road. In mid-November (1953, from context), the ATAA tried a one-day event at **St. Charles, Mo.**, 25 miles from St. Louis. The accounts disagree on its size: "some 140" competitors and "approximately 1,500" spectators in the earliest report, "more than 200" and 2,000 in later retellings.[^sm][^tdr]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
-For the 1954 season *Sales Management* says the ATAA would help local hot rodders pick a strip and then "send a crew of specialists" (an electrician for timing and public-address systems, a safety manager to inspect and classify vehicles, and a track manager) to run the first program in each area, then leave the local unit to carry on.[^sm] The wire feature says Maremont claimed the ATAA then represented "some 5,000 hot-rodders in Illinois, Wisconsin and Indiana."[^esc]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
+For the 1954 season *Sales Management* says the ATAA would help local hot rodders pick a strip and then "send a crew of specialists" (an electrician for timing and public-address systems, a safety manager to inspect and classify vehicles, and a track manager) to run the first program in each area, then leave the local unit to carry on.[^sm] The wire feature says Maremont claimed the ATAA then represented "some 5,000 hot-rodders in Illinois, Wisconsin and Indiana."[^esc] By mid-1955 *Motor Age*, a sponsor's piece, says ATAA chapters existed in Corpus Christi, Washington, D.C., and Puyallup, Wash. (printed "Payallupe"), and that the ATAA published its own paper, *The Dragster*.[^ma]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The "World Series"
 

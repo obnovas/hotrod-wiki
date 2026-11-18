@@ -94,8 +94,6 @@ canonical_for: []
 
     — Don Prudhomme, on meeting Roland Leong, to NHRA, January 2024 (quoted on the Leong page).[^leong]
 
-## Van Nuys Boulevard
-
 Don Prudhomme learned to paint in his father's body shop on Van Nuys Boulevard and dropped out of high school to do it. Joel Purcell started calling him Snake, and he didn't like it at first. With Tom McEwen, a Mattel deal put Hot Wheels money into both camps and Funny Cars into living rooms.
 
 He was born in Los Angeles in 1941. His parents, Newman and Ida, had moved from Louisiana in 1938. His father worked body shops, the one the son remembered most being Ray Brooks on Van Nuys Boulevard near Saint Elizabeth School. Don delivered papers, mowed lawns and worked on a nearby ranch to buy a minibike at 14. He dropped out of Van Nuys High before the 11th grade to paint cars. "I wanted to get out and make a living because I didn't have any money," he told the *Los Angeles Times* in 2007, which called leaving school his greatest regret. "I'm not proud of it, but I've done OK."[^hr06][^lat07][^hemm13]
@@ -104,13 +102,9 @@ He and Tom McCourry, his best friend since they were 12, raced junkers that Tom'
 
 Downtime went to the San Fernando and Saugus strips with Tommy Ivo. He bought a Buick-powered rail from Ivo, then moved up to a blown, fuel-burning Chrysler built with Dave Zeuschel. By the fall of 1961 he was campaigning a Kent Fuller chassis with Zeuschel. In March 1962, at 20, he won Top Fuel at the Smokers' March Meet at Famoso, from about 90 entrants, beating Ted Gotelli and Bob Leasher in the final. *Drag News* gave him the meet's top speed, 185.36 mph. Soon afterward Keith Black needed a driver for a car financed by Tommy Greer.[^nhra10][^hemm13][^hr06][^lat07]
 
-## Greer-Black-Prudhomme
-
 From its June 1962 debut win at Pomona through the end of 1964, the Greer-Black-Prudhomme dragster dominated Southern California Top Fuel. A Schiefer Clutch advertisement claimed a 236–7 win-loss record; NHRA's later count is closer to 81–8—still a terror whenever the car lost.[^nhra10][^book20]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup> Black's combination smoked the tires less than most and stayed tunable. Crewmember Joel Purcell started calling him "Snake" because of the way he left the starting line. Prudhomme didn't like it at first. "I always had trouble with my last name. People couldn't pronounce it," he wrote later. "When I started becoming Snake, it was so easy."[^nhra10][^book20]
 
 Greer's business went bankrupt; Black would not finance the car alone. About the same time Roland Leong crashed on his first Top Fuel pass at Lions and needed a driver. Black suggested Prudhomme. Prudhomme had met Leong in Hawaii, when the Greer-Black car was shipped over for a match race. Whether that was 1963 or 1964 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup> They debuted at the 1965 Winternationals, with Prudhomme two months short of 24 and Leong just 20, and won. A few months later they won the Nationals at Indianapolis. Of that summer's tour Prudhomme told Robert C. Post, as quoted in Post's book *High Performance*, "We were killers. We toured for four months and got beat only twice." He left after 1965 to prove the driving was his.[^nhra10][^hemm13][^book20][^leong]
-
-## Snake and Mongoose
 
 Tom McEwen took the "Mongoose" name—an animal that kills snakes—on Ed Donovan's suggestion. McEwen's mother, Sybil, was a secretary at Mattel, and his stepfather, Joe Ball, was an attorney whose clients included Mattel; that got them a meeting with vice president Art Spear. Prudhomme was skeptical. The deal put Hot Wheels money into both camps and pushed them into Funny Cars because Mattel sold toy cars, not rails. Kids staged Snake-versus-Mongoose races on orange tracks in living rooms; match races filled the rest of the calendar. It was not the first non-racing sponsor in the sport, NHRA notes, but it was the largest marketing plan the class had seen.[^nhra10][^hemm13]
 

@@ -94,8 +94,6 @@ canonical_for: []
 
     — Don Garlits, remembering the tea-set presentation, Hemmings, 2018.[^hemm18]
 
-## Under the oak trees
-
 Donald Glenn Garlits was a Tampa bookkeeper who showed up at an old Army field in a stock convertible. The Strokers gave him a tea set, and their president told him he could never beat the Californians. On March 8, 1970, a transmission at Lions cut the car, and his right foot, in two. From a hospital bed he put the engine behind the driver. Within about a year the slingshot was nearly gone.
 
 He was born in Tampa on January 14, 1932. As a teenager he worked on cars under oak trees. He captained his school's bookkeeping team to a state championship and took an accountant's job at Maas Brothers downtown. He had worked eight years on his stepfather's dairy, and his stepfather saw he was unhappy in the office: "Don, money isn't everything. You love cars and that's what you should be in." Garlits took a cut in pay to work in a body shop.[^og22][^msm15][^hr79]
@@ -103,8 +101,6 @@ He was born in Tampa on January 14, 1932. As a teenager he worked on cars under 
 In June 1950, the same month C.J. Hart opened the commercial strip at Santa Ana, an 18-year-old Tampa bookkeeper showed up at Zephyrhills Airport in a stock 1940 Ford convertible. The local club had borrowed the old Army Air Corps training field from the city. A sheriff came to keep order. About 18 cars raced all day, hand-timed. "We were just a bunch of black leather-jacketed hoodlums," Garlits said in 2015. "I still wear mine in honour of where we started, the roots of it all." They raced at Zephyrhills for several years, until the county put the field back to work for private planes.[^hr79][^hemm18][^msm15]
 
 He met Patricia Bieger while water-skiing at Lake Magdalene. Her father had contempt for the hot rodder, so Garlits traded the Cadillac-powered Ford for a bone-stock 1950 Ford Tudor. They married. About a month later, on the way to a picnic at Bok Tower, he spotted a "Drags Today" sign on Highway 60, paid 50 cents each at the gate and another 50 cents to run the sedan, and won his first trophy. He still keeps it in his office.[^hemm18][^og22]
-
-## Swamp Rat I
 
 He stripped a 1927 Ford T roadster into what *Hot Rod* called the area's first "slingshot" dragster. In 1955 it won Top Eliminator at the NHRA Drag Safari at Lake City, though only after NHRA officials made him go back and brace his roll bar. The Safari's tech man, Chic Cannon, remembered failing that roll bar at Jacksonville instead.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see the bottom of the page">⚠</a></sup> The Strokers gave the couple a little tea set, and the president told him he could never beat the Californians. Garlits didn't answer, but he remembered it, and he remembered that *Hot Rod* left his picture out of the Lake City coverage. "The guys in the California offices of HOT ROD took one look at my heap and laughed out loud," he wrote in his 1967 autobiography.[^hemm18][^hr79]
 
@@ -114,15 +110,11 @@ On November 10, 1957, he wrote, he drove it to 176.4 mph in 8.78 seconds, the fi
 
 At the March 1959 meet at Famoso, near Bakersfield, the fans laid down crushed beer cans wherever the black Florida car went. "It got so bad," Garlits swore, "that one of us had to walk in front of the car as we pushed it through the pits, to kick a path through the empties." His unblown car could only run 9.00 at 172 mph. He qualified, destroyed two Hemis, and never made it to eliminations. He kept coming back until the 1965 March Meet, when two of his own Swamp Rats met in the final and he beat teammate "Starvin' Marvin" Schwartz.[^hr79]
 
-## The explosion, and the engine behind him
-
 On March 8, 1970, at Lions Drag Strip, the transmission in his front-engined Swamp Rat XIII exploded on the starting line, cutting the car, and his right foot, in two. From his bed at a Long Beach hospital, between episodes of *Star Trek* watched with Tom McEwen, he worked out a car with the engine behind the driver, mainly, NHRA's Phil Burgess wrote, to prevent another accident like his own. In test runs at Tampa Dragway the new car veered off the track several times until Connie Swingle slowed the steering from the slingshot's 6:1 to 10:1. On December 27, 1970, at Sunshine Dragstrip in St. Petersburg, it made runs he could trust.[^nhra15][^nhra20][^msm15]
 
 It was not the first rear-engine Top Fueler, and NHRA says so. After runner-up finishes at Lions and Orange County in January 1971, Swamp Rat XIV won the NHRA Winternationals at Pomona and then the March Meet, and within about a year the slingshot was nearly gone. Dragzine has argued that an AHRA meet at Arizona's Beeline Dragway that winter was the car's real debut. See [Beeline](../drag-racing/beeline-dragway-mesa.md#q-3).[^nhra15][^nhra20]
 
 Swamp Rat XXX, rear-engined with a streamlined body and an enclosed canopy, won the 1986 NHRA championship at 272.55 mph, by the Smithsonian's count, and went to the National Museum of American History as a gift of Don Garlits, Inc. The museum's catalog says he "began racing in 1950 in modified stock cars at Zephyr Hills, Fla. … shifting to drag racing in 1959," a line that does not match his own timeline.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^nmah][^og22]
-
-## A museum in the swamp
 
 In 1976, during a week off between two races in England, the Garlitses toured English automotive museums. Garlits said the United States should have a drag-racing museum, and his host, Les Brooks, asked why he didn't build one. They built it on the family's lakefront property at Seffner, outside Tampa, By 1981 it filled 12,000 square feet, "but no paying customers." So they moved it to the interstate, off Exit 341 near Ocala. It drew over 11,000 lookers in 1983 while they were still building exhibits. They cut the ribbon in 1984 and sold 27,000 admissions that year. Pat died in 2014 after 61 years of marriage. "She is as responsible for any of this that you see as I am," he told the *Ocala Gazette* at 90, in the shop behind the museum where he was still building electric Swamp Rats.[^hemm76][^og22]
 
