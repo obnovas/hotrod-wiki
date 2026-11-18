@@ -63,11 +63,15 @@ canonical_for: []
 
 Peggy Hart co-founded the Santa Ana Drags with her husband C.J. and raced there. The Orange County Register called her "the only woman racer and one of the fastest women in the nation," and said she "often challenged the winners at the end, and beat them."[^ocr]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-She was born Mary Margaret "Peggy" Riley, and she married Cloyce J. Hart in 1934.[^ocr] The International Drag Racing Hall of Fame lists her as **1914–1980** (inducted 1998).[^idrhof] She co-founded and co-ran the Santa Ana Drags with C.J. from 1950 ([Santa Ana](../eras/1950s-santa-ana-drags.md)).[^mshf][^lat]
+She was born Mary Margaret "Peggy" Riley, and she married Cloyce J. Hart in 1934.[^ocr] The International Drag Racing Hall of Fame lists her as **1914–1980** (inducted 1998).[^idrhof]
 
-She raced regularly, and won, in a **1933 Willys coupe**.[^nhra][^pe] Steve Gibbs: "Peggy was going as fast as any of them, and beating a lot of guys. She was a trendsetter, a pioneer."[^pe04] Richard Parks: "She was a tenacious race car driver and drove on the drag strip and at the dry lakes."[^parks]
+## Founder of the strip, not just the wife of one
 
-A 2024 LinkedIn post calls her "the first woman dragster driver" (photo dated 1951).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> We do not adopt it.
+She co-founded and co-ran the Santa Ana Drags with C.J. from 1950 ([Santa Ana](../eras/1950s-santa-ana-drags.md)).[^mshf][^lat] In the Long & Tuttle clipping pamphlet ***Every Sunday Drag Races: Orange County Airport, Santa Ana***, "three men and one woman are given credit for opening this dragstrip": C.J. Hart, Frank Stillwell, Creighton Hunter and **Peggy Hart**. That is Richard Parks's summary in his 2012 review. Parks adds that "Peggy would take on all comers on the dragstrip and usually beat them handily."[^parksrev]
+
+The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup> Whether the opening date was June 19 or July 2, 1950, is still open. We have not seen the pamphlet.
+
+She raced regularly, and won, in a **1933 Willys coupe**.[^nhra][^pe] Steve Gibbs: "Peggy was going as fast as any of them, and beating a lot of guys. She was a trendsetter, a pioneer."[^pe04] Richard Parks: "She was a tenacious race car driver and drove on the drag strip and at the dry lakes."[^parks] A 2024 LinkedIn post calls her "the first woman dragster driver" (photo dated 1951).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> We do not adopt it.
 
 ## Her cars, in order { #her-cars-in-order-round-10 }
 
@@ -75,19 +79,7 @@ The International Drag Racing Hall of Fame biography (Class of 1998) gives the f
 
 It adds: "She even drove at **El Mirage** dry lake and the **Bonneville Salt Flats**." Its own claim is cautious: Peggy "was **one of the first** women to drive a 'hot' car in competition on an organized drag strip."[^idrbio]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
-## C.J.'s version, 1980
-
-*Hot Rod*'s Dave Wallace interviewed C.J. at the Harts' Lake Elsinore home for the January 1980 issue. Peggy died in 1980. He calls her C.J.'s "partner of 45 years," which fits their 1934 marriage, and writes: "she ran a **blown Cadillac dragster** back in 1954 that went 130 mph, says Hart with obvious pride, and she just missed a **two-way class record at Bonneville** one year 'when we lost Number Seven on the way back.'"[^hr80]
-
-This is the only first-hand source for the Bonneville attempt. "Number Seven" is most likely a cylinder (the car lost a cylinder on the return run). That reading is ours, not Hart's.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
-
-The accounts differ on one detail, a supercharger. C.J. says "blown"; the hall of fame says "Cad-powered gas dragster." The two don't strictly conflict, but only C.J.'s account says it had a supercharger.
-
-## Founder of the strip, not just the wife of one
-
-In the Long & Tuttle clipping pamphlet ***Every Sunday Drag Races: Orange County Airport, Santa Ana***, "three men and one woman are given credit for opening this dragstrip": C.J. Hart, Frank Stillwell, Creighton Hunter and **Peggy Hart**. That is Richard Parks's summary in his 2012 review. Parks adds that "Peggy would take on all comers on the dragstrip and usually beat them handily."[^parksrev]
-
-The pamphlet is a xeroxed set of newspaper clippings, "from the first race on **July 2, 1950**, through August 27, 1956." Parks says many were written by announcer **Don Tuttle** (at the strip after his 1952 Navy discharge), probably for the *Orange County Register*.[^parksrev] It has no page numbers, and Parks warns "the data is sometimes suspect."<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup><sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup> Whether the opening date was June 19 or July 2, 1950, is still open. We have not seen the pamphlet.
+*Hot Rod*'s Dave Wallace interviewed C.J. at the Harts' Lake Elsinore home for the January 1980 issue. Peggy died in 1980. He calls her C.J.'s "partner of 45 years," which fits their 1934 marriage, and writes: "she ran a **blown Cadillac dragster** back in 1954 that went 130 mph, says Hart with obvious pride, and she just missed a **two-way class record at Bonneville** one year 'when we lost Number Seven on the way back.'"[^hr80] This is the only first-hand source for the Bonneville attempt. "Number Seven" is most likely a cylinder (the car lost a cylinder on the return run). That reading is ours, not Hart's.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> The accounts differ on one detail, a supercharger. C.J. says "blown"; the hall of fame says "Cad-powered gas dragster." The two don't strictly conflict, but only C.J.'s account says it had a supercharger.
 
 Her death ended a long partnership. C.J. briefly retired after her death in 1980 and later joined the NHRA Safety Safari. Shortly before he died he said, "I've waited 24 years. I'm going to see Peggy."[^ocr][^pe04]
 
