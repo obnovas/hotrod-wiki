@@ -75,8 +75,6 @@ canonical_for: []
 
     — Jo Ann Johnson, secretary of the D.C. Dragons, in the *Evening Star*'s Teen Scene column, Oct. 2, 1953.[^es531002]
 
-## "What we really need is a drag strip!"
-
 The D.C. Dragons met in the Bethesda police station and fined a member the price of his own ticket. In July 1954 they debated 45 minutes before voting her in. Jo Ann Johnson was the first girl voted into a local hot-rod club. She sat in the kitchen, chewing her nails.
 
 In the spring of 1952 the *Evening Star* still had to explain to its readers what a drag race was: "two hopped-up stock cars being flagged off from a slow-rolling start down a straightaway course of measured length." The Arlington and Washington Hot Rod Club was racing at the Hagerstown Speedway in western Maryland.[^es520504]
@@ -85,19 +83,13 @@ A year later the paper's teenage columnist, Sharon Doran, took up the cause. Abo
 
 Readers wrote back. John Reistrup, 17, secretary of the "Timers" of Riverdale, Maryland, wrote that the Dragons had "the reputation of being the most able bunch of bull-throwers ever gathered together in one bunch," but agreed on one thing: "every hot rodder wants a drag strip." Then the Dragons' secretary, Jo Ann Johnson, answered for her club. "We, the Dragons, D. C., are having a campaign to obtain a drag strip. Our main problem is getting people to realize that our aims are constructive not destructive." The club wanted the strip, she wrote, "for ourselves and others who, as youths of a community, need help."[^es531002]
 
-## Voted in
-
 In July 1954 the *Star*'s Sunday picture magazine sent a reporter, Meredith S. Buel, to meet her. Jo Ann Johnson, 18, of 5616 Roosevelt Street, Bethesda, a former University of Maryland student and a tag-and-title clerk for a Washington car dealer, "was the first girl voted into a local hot-rod club known as the 'D. C. Dragons.'" Its members came from Washington, Maryland and Virginia and ranged from 16 to 25.[^es540704]
 
 She had started two years earlier, asking questions of her next-door neighbor Al Smith, a Dragon, while he worked on his car, until one day he said, "Here, start cleaning these valves." "Now," she said, "I know how to adjust brakes and clutches, and to channel and chop." When she asked to join, the members "debated 45 minutes before voting her in—'while I sat in the kitchen, chewing my nails.'" A year later the club president, Arnold Stein, a 20-year-old pre-dental student at Maryland, said she had proved one of the most conscientious members. She was shopping a junkyard for an eight-cylinder engine for her engineless 1932 coupe. Two more young women had since joined. Jane Heater, 18, a recent Anacostia High graduate and now the club secretary, was building up a $40 1939 coupe. Charlotte Alderton, 19, a dairy clerk, planned to build a car with Jo Ann.[^es540704]
 
 Hot rodding, Jo Ann told the reporter, was "a supervised sport stressing mechanical mastery in a race against time," not a grim game of tearing through communities "peeling the wheels and fish tailing."[^es540704] What became of her after that feature is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-## The club as jury
-
 The Dragons met in the Bethesda police station and ran on the honor system. A member who got a traffic ticket reported it to the club, "which acts as a jury." He was usually fined the amount of the ticket and could be sent to traffic school, and frequent violators were expelled. A Dragon was pledged to help motorists with car trouble.[^es540704] A St. Albans junior, Bill Ellis, put the rule more simply that November. The club "doesn't allow 'squirreling around'... and they fine you if you are caught speeding, the same fine as your ticket."[^es541126]
-
-## A strip near Manassas
 
 By the summer of 1954 the campaign had paid off, at least across the river. "The club recently acquired a half-mile drag strip near Manassas, Va.," the picture magazine reported. Dragons checked every car before it ran. In one photograph Jo Ann checks a tire while Jane Heater fills out the inspection list, and Charlotte Alderton takes information from a driver, Bernie Linder of Alexandria. Arnold Stein had thrown the races open to everyone, with a special invitation to the street racers. "We won't race those teen-age, driver maniacs when they pull up alongside on a street. We ask them to come down to the track where we show them what a true hot rod is like."[^es540704]
 
