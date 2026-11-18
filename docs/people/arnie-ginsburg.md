@@ -67,7 +67,7 @@ Arnie Ginsburg's Night Train ads sent listeners to Adventure Car Hop on Route 1 
 
 ## Night Train
 
-He graduated from Brookline High School in 1944 and began professional radio in 1956 as a disc jockey at WBOS 1600 AM, building a Top 40 show that made him a force in Boston's pop and rock scene. In 1958 he moved to WMEX, where the train whistle on his "Night Train" show earned him the "Woo Woo" nickname. Bells, whistles and sound effects were the trademark.[^wbz]
+He graduated from Brookline High School in 1944 and began professional radio in 1956 as a disc jockey at WBOS 1600 AM, building a Top 40 show that made him a force in Boston's pop and rock scene. In 1958 he moved to WMEX, where the train whistle on his "Night Train" show earned him the "Woo Woo" nickname. Bells, whistles and sound effects were the trademark.[^mbhof][^wbz]
 
 He later had a brief on-air stint at WRKO in 1967, then shifted into sales there, became general manager of WBCN in 1970 and of WWEL in 1972, hosted a Saturday-night oldies show on WBZ from 1973, partnered in Kiss 108 FM in 1979, and with John Garabedian co-owned V-66, Boston's video music channel, in 1985.[^mmone][^wbz] He retired in 1986 and lived in Ogunquit, Maine, with his longtime partner, Carlos Alberto Vega. The Massachusetts Broadcasters Hall of Fame, which inducted him in 2008, called him the most popular Boston disc jockey of the 1950s and '60s and noted that he even put humor in the commercials, "singing along with the Adventure Car Hop jingle" or working his record hops at the Surf Ballroom at Nantasket Beach.[^mbhof][^wbz]
 

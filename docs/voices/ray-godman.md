@@ -90,7 +90,7 @@ Davis gave Godman the credit.
 >
 > — **Preston Davis**, 2014.[^nh]
 
-He had come from the fighting in Korea, run the Tennessee Bo-Weevil, and co-founded Lakeland. Davis said Godman is the history of drag racing in Memphis.
+Godman had come from the fighting in Korea, run the Tennessee Bo-Weevil, and co-founded Lakeland. Davis said Godman is the history of drag racing in Memphis.
 
 ## Open questions & disputed details
 
