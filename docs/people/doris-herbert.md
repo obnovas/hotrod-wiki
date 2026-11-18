@@ -58,13 +58,9 @@ Doris Herbert did not start *Drag News*. She bought it, and a speed had to be ba
 
 The Oct 1, 1960 issue named Garlits officially fastest at a backed-up 182.18 mph (Half Moon Bay).[^cp1] The Hall of Fame credits this with countering promoter-inflated "popcorn" speeds, and credits the **Mr. Eliminator** list's best-of-three challenge races as a root of match racing and pro drag racing.[^hof]
 
-## The paper
-
 **Drag News** began on **March 4, 1955** as an eight-page biweekly, founded by Dean Brown (publisher-editor) and Dick McMullen (ad sales). It soon went weekly on newsprint.[^cp1]
 
 She bought it four years later. Her brother **Chet Herbert** arranged and funded her purchase in 1959.[^hem] She replaced editor Dan Raulston in **April 1959**.[^cp1] Raulston launched a rival, *Drag Racer*, two months later. Seven issues came out June–October 1959.[^cp1]
-
-## Nobody's pet paper
 
 Per the Hall of Fame, she was "fearful of neither sanctioning organizations or advertisers."[^hof] Dave Wallace notes she sometimes simply cut off a race story when it didn't fit the space.[^cp67]
 

@@ -67,13 +67,9 @@ It was 1968. A young engineer owned a 1967 Corvette roadster with the L71 427 an
 
 RACER's version has the founder as "a drag racer who was frustrated by the lack of speed shops in the Northeast Ohio area."[^racer] The two accounts agree on the need and differ on the nuance: a shop too far away, or no shop at all. Where that first store was, and when, is still open.
 
-## Two little ads
-
 Advertising in the local newspaper came next, then a choice between his full-time job and the business. RACER says that by 1969 demand had grown enough for a first retail store in Akron, and that "three years later" Summit tested mail order "by placing small ads for Mickey Thompson ET wheels in *Hot Rod* and *Car Craft* magazines. Orders began rolling in from all over the country."[^racer] The wheels in those first ads were [Mickey Thompson](mickey-thompson.md)'s, from a company the Southern California drag racer had founded in 1963.
 
 The catalog followed. RACER says Summit printed its own catalog and hired sales and customer-service representatives by 1976; Classic American counts "nearly 200 editions" of the "Big Book" since "the first one appeared in 1974," annual until 1987, when it went to six a year.[^racer][^ca] The 1987 move was to a four-building facility in Akron, and by 1992 it had a new three-story headquarters in Tallmadge. SummitRacing.com launched in 1997, a Sparks, Nevada, distribution center in 1998, and big retail stores in Tallmadge and McDonough, Georgia, followed.[^racer] The Garlits write-up says the company's first mail-order catalog was created as Sergi placed small ads in national magazines, and adds the **Handshake Guarantee**, the 24/7 order line and the website.[^garlits]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> When the first catalog appeared is still open.
-
-## A Corvette that stayed
 
 The 1967 Corvette was a company car long after it was a bargain hunter's delivery truck. The company says it served as "a faithful daily driver" and "performance test car" until it was put away for a rebuild "one day when there was time," and restored decades later by two long-time employees.[^jobs] Classic American says the restored L71 was punched out to 496 cubic inches with a COMP Cams hydraulic roller cam, Quick Fuel carburetors and Trick Flow heads, making about 590 horsepower.[^ca] That cam is the same COMP Cams whose [Memphis story](comp-cams-rhs.md) is next door in this department.
 
@@ -83,8 +79,6 @@ Summit also bought the naming rights to Norwalk Raceway Park in 2007, becoming S
 ![A group of Can-Am sports-racing cars parked together at Norwalk, Ohio, in 2007.](../assets/images/commons-norwalk-raceway-park-2007.jpg){ loading=lazy }
 <figcaption markdown>Can-Am cars at Norwalk, Ohio, toward the end of the 2007 Pontiac Nationals (a 30th-anniversary Can-Am reunion), the track Summit later named. Creator: TropicDave. Date: 2007-12-23 19:38. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:3_Can_Ams_at_Norwalk_30th_Anniv.JPG). License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).</figcaption>
 </figure>
-
-## Ohio neighbors and suppliers
 
 The [Akron Fulton Airport strip](../drag-racing/akron-fulton-airport.md) is where the Arfons brothers, Otie Smith and Arlen Vanke raced, a few years before Summit began in the same part of the state; the link is place, not documented contact. [Arlen Vanke](../people/arlen-vanke.md) was an Akron racer who ordered a Pontiac Super Duty Catalina from a local dealer in 1961, the kind of customer Summit's early drag-racing buddies were. [The Ohio Gassers](../places/ohio-gassers.md) were the same state's racers, including Columbus's Jeg Coughlin, listed in Hill's account with "JEGS"; a JEGS profile is on the Research Trail. [Mr. Gasket](mr-gasket.md) was another Ohio parts business that began in a trunk and a basement, a few years earlier, and [Holley](holley.md) has owned that brand since 2015. Summit's first mail-order ads sold [Mickey Thompson](mickey-thompson.md)'s ET wheels, and the cam in the restored Corvette is from [COMP Cams and Racing Head Service](comp-cams-rhs.md).
 
