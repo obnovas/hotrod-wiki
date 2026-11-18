@@ -60,7 +60,7 @@ canonical_for: []
 *The hayfield the bosses had already refused, the association that followed, and the model year that decided who could come*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** participant recollection (Medley, Brizio via R&C), Hagerty, NSRA, MSRA founder recollection · **Last verified:** 2026-10-13 (Round 6) · **Open issues:** 1970 car count; 1971 Memphis count unverified · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** participant recollection (Medley, Brizio via R&C), Hagerty, the MSRA *LineChaser* (July 1974), Gary Magner (2017), *Hot Rod* (2019), the MSRA's 2024 entry form · **Last verified:** 2026-11-18 (Round 43) · **Open issues:** 1970 car count; 1971 Memphis count unverified · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "STREET RODDER originally covered the whole spectrum of street activity. … There was no 1948 cut-off year."
@@ -75,13 +75,13 @@ The **NSRA** was formed in the event's wake. Hagerty says Dick Wells was its fir
 
 The meet did not stay in the hayfield. In 1971 the 2nd Nationals went to **Memphis**. Memphis hosted again in 1975 and 1980, which a carnut.com photo index places.[^cn] Secondary accounts, TBucketPlans among them, put that 1971 count at about 1,200–1,300 rods. They point at *Hot Rod*'s October 1972 story "Street!", which we have only as a search summary.[^tb71]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>
 
-Three years later it was **St. Paul**, the 5th Nationals, in 1974. The MSRA's first **Back to the 50's**, in June 1974, was a test run for it.[^msra] See [Upper Midwest](../places/upper-midwest.md). In the 1980s the Nationals rotated with Columbus, Ohio, on a three-year cycle. The account does not name the other stops. They moved to **Louisville** in 1988 and, Hagerty says, settled there for good in the 1990s.[^hag]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
+Three years later it was **St. Paul**, the 5th Nationals, in 1974. The MSRA's first **Back to the 50's**, in June 1974, was the tune-up. Jerry Johnson's July 1974 *LineChaser* called the night "a pre-promotion for the NSRA Street Rod Nationals," and Magner later wrote that the board had suggested "a test run, so to speak," the month before.[^lc74][^mag] See [Upper Midwest](../places/upper-midwest.md). In the 1980s the Nationals rotated with Columbus, Ohio, on a three-year cycle. The account does not name the other stops. They moved to **Louisville** in 1988 and, Hagerty says, settled there for good in the 1990s.[^hag]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The 1948-and-older rule
 
 The moves were the show finding a home. The unusual part was the line the association drew while it traveled.
 
-Jim Clark, first editor of *Street Rodder*, said in 2012 that the magazine had started with no 1948 cutoff. His line is at the top of this page. The NSRA drew one anyway. Eligibility was limited to cars built in **1948 and earlier**, and 1949-and-up cars went through a separate street-machine track.[^wp] Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^wp] The MSRA's 1974 Back to the 50's used a looser **1964-and-older** cutoff.[^msra] In 1983 the Kustom Kemps of America, the KKOA, set '62-and-older.[^hr83] Each group picked its own year.
+Jim Clark, first editor of *Street Rodder*, said in 2012 that the magazine had started with no 1948 cutoff. His line is at the top of this page. The NSRA drew one anyway. Eligibility was limited to cars built in **1948 and earlier**, and 1949-and-up cars went through a separate street-machine track.[^wp] Wikipedia reports a switch in 2010 to a rolling "30 years and older" rule.<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^wp] Back to the 50's drew a looser line later on. Magner in 2017 called it "the 1964 and older rule."[^mag] The club's 2024 entry form still took only "'64 and EARLIER" cars and trucks,[^reg24] and *Hot Rod* said the 2019 show was open to "1964-and-earlier" cars and trucks.[^hr19] Those accounts do not date the 1974 night. In 1983 the Kustom Kemps of America, the KKOA, set '62-and-older.[^hr83] Each group picked its own year.
 
 The bosses had said no, and the hayfield happened anyway. *Street Rodder* had not drawn a year. The association did, and that line is what it kept.
 
@@ -131,7 +131,10 @@ The bosses had said no, and the hayfield happened anyway. *Street Rodder* had no
 [^rc]: Dick Martin, "1st Street Rod Nationals," Rod & Custom (2007). https://www.hotrod.com/news/0710rc-1st-street-rod-nationals (accessed 2026-10-12)
 [^hag]: Hagerty, "Celebrating the 55th year of the NSRA Street Rod Nationals." https://www.hagerty.com/media/events/celebrating-the-55th-year-of-the-nsra-street-rod-nationals/ (accessed 2026-10-12)
 [^cn]: carnut.com, "NSRA Nats Memphis 71" and "Memphis 75" galleries. https://www.carnut.com/show/71/nats/natp2.html ; https://www.carnut.com/show/nats75/memind.html (accessed 2026-10-13)
-[^msra]: Minnesota Street Rod Association, "History." https://msra.com/about-msra/history/ (accessed 2026-10-13)
+[^lc74]: Jerry Johnson, report in the MSRA *LineChaser*, July 1974 ("a pre-promotion for the NSRA Street Rod Nationals"), with the members' February 2012 look-back, reposted as "History of Back to the Fifties, Part I," HotRod Hotline, April 12, 2013. https://hotrodhotline.com/history-of-back-to-the-fifties-part-i/ (accessed 2026-11-18)
+[^mag]: Gary Magner, MSRA lifetime member #193, "Fifty Years of the MSRA," HotRod Hotline, April 5, 2017 ("a test run, so to speak"; "the 1964 and older rule that applies to 'Back to the 50's'"). https://hotrodhotline.com/fifty-years-of-the-msra/ (accessed 2026-11-18)
+[^reg24]: MSRA Back to the 50's, north pre-registration form for June 21–23, 2024 (printed Oct. 2023): "ONLY PROPERLY INSURED, LICENSED STREET LEGAL '64 and EARLIER PASSENGER PRODUCTION CARS OR TRUCKS ACCEPTED FOR PARTICIPATION." https://msrabacktothe50s.com/wp-content/uploads/2024/02/msra-back-to-the-50s-2024-north-preregistration-form.pdf (accessed 2026-11-18)
+[^hr19]: Tim Bernsau, "Back to the 50's 2019: America's Largest Street Rod Show," *Hot Rod*, August 7, 2019. The 46th show "is open to 1964-and-earlier (premuscle car) passenger production cars and trucks." https://www.hotrod.com/features/back-to-the-50s-2019-americas-largest-street-rod-show (accessed 2026-11-18)
 [^wp]: Wikipedia, "National Street Rod Association." https://en.wikipedia.org/wiki/National_Street_Rod_Association (accessed 2026-10-12)
 [^hr83]: Hot Rod, "Tough Sledding," May 1983. https://www.hotrod.com/features/tough-sledding-may-1983-982-1178-84-1 (accessed 2026-10-13)
 [^tb71]: TBucketPlans, "1971 Street Rod Nationals: Leg Show T-Bucket." https://www.tbucketplans.com/1971-street-rod-nationals-leg-show-t-bucket/ (accessed 2026-10-13)
