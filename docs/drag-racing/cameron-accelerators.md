@@ -67,15 +67,11 @@ For seven years a teenage hot rod club in Cameron kept going quiet and starting 
 <figcaption markdown>The Milam County Courthouse, Cameron, Texas. Context only; it does not show the club or its garage. Creator: Larry D. Moore. Date: 2008-08-22. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Milam_county_courthouse.jpg). License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</figcaption>
 </figure>
 
-## The garage and the club (1956)
-
 In May 1956 the *Herald*'s headline asked a question: "Cameron 'Accelerators' Getting Drag Strip(?)." The story opened, "The National Association of Hot Rodders moved into Cameron on March 16." The club met every Thursday night at Charlie L. Krenek's garage and had 21 members, with Gene Mitchan as president, Louis Krenek as vice president and Billy Slavik as reporter. "Krenek allows the teen-agers the run of his garage, tools and all," for demonstrations and for work on their hot rods and stock cars after each business meeting. Safety, the story said, was "one of the cardinal principals" of the club.[^ch560510] How Louis Krenek was related to Charlie L. Krenek, the paper does not say.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 The question mark in the headline was about the airport. "Most important development in the new organization here now is the advent of a 'Drag' strip at the airport," the paper wrote. "A strip at the Rogers controlled airport is about to be readied by the airport manager for the boys to have their races each Sunday." The runway was long enough for the full quarter mile, but it was "considered 420 feet too short for a regulation course" because the cars needed room to stop past the finish line. The details were still being worked out, "using the Temple, Gatesville and Waco strips as examples," with perhaps a fifty-cent gate fee for every car and a $1 "Drag fee." Police Chief Willie Dolan had told the club's meeting "I am all for you, the whole police force will do everything we can for you," and the First National Bank agreed to lend its loudspeakers for the weekend races.[^ch560510]
 
 Three weeks later a member answered the town in print, in a column signed "By An 'Accelerator.'" It began: "Some people think a hot rod is a car that has been chopped and dropped down a couple of inches with dual exhaust and a high powered engine to give it more speed." That was partly right, the writer said, but people who called a hot rod something "all souped up so it can go fast and kill people" should not jump to conclusions. His definition is quoted at the top of this page.[^ch560531]
-
-## License numbers for the police (1957)
 
 The club had faded by the next winter. In February 1957 Billy Slavik, the 1956 club's reporter and now "president of the Cameron Hot Rod Club," called young men to a meeting at Krenek's Speed Shop "for the reforming of the club." The members wanted to build one hot rod for races sponsored by the national association. Their aim was to develop racing engines "while at the same time not having to endanger others by holding drag races in streets," and to race only under the rules of the National Hot Rod Association.[^ch570207] Whether Krenek's Speed Shop and Charlie's Garage were the same business, the paper does not say.
 
@@ -84,8 +80,6 @@ Two weeks later 19 youths were meeting weekly as the Accelerators, and the paper
 The next week a photo showed two members with their trophies. Burke Barr had won his in Class A races, and J. T. "Toddy" Lawrence had taken one in Class C at a drag race in Temple. The caption called them "the only members" of the new club "that have been successful competitors in recognized drag races."[^ch570228] In March the club met with the Cameron Rotary Club. An editorial said the boys "impressed those men more with their intelligence than with talk of reckless driving."[^ch570321]
 
 There was somewhere to race by 1960. The *Herald*'s review of that year recorded that Leon Ernest "won Top honors at Little River Drag Strip, winning F and E classes in his 49 Plymouth."[^ch610105] Little River Drag Strip is named once, with no location.
-
-## A strip on the Wohleb farm (1963)
 
 In May 1963 the Accelerators met at "Charlie's Garage" and organized again. Chuck Krenek was elected president, Bobby Hughes vice president, Wally Short reporter, and Shirley Baker secretary-treasurer. The club's main aim, the paper said, was "to abolish 'hot rodding' and teach members to become safe drivers." Krenek said the club needed the support of adults as well as teenagers in enforcing its safety rules.[^ch630509] How Chuck Krenek was related to Charlie L. Krenek, the paper does not say.
 

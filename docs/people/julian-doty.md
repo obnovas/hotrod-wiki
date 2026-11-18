@@ -53,15 +53,11 @@ principal_source:
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** oral (AHRF), secondary · **Last verified:** 2026-10-13 (Round 3) · [How we rate this](../reference/source-standards.md)
 
-In 1934 Julian Doty made his first trip to Muroc with his uncle George, in George's Cragar-powered '29 Model A roadster, and he spent seventy years on the lakes.[^ahrf] He paid for a head on layaway. From 1972 he signed the official timing slips. He was born **December 10, 1922**, and died **May 2, 2012**. His mother Evelyn was George DuVall's sister.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether he was present when the SCTA was founded is still open.
-
-## A head on layaway
+In 1934 Julian Doty made his first trip to Muroc with his uncle George, in George's Cragar-powered '29 Model A roadster, and he spent seventy years on the lakes.[^ahrf] He paid for a head on layaway. From 1972 he signed the official timing slips. His mother Evelyn was George DuVall's sister.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether he was present when the SCTA was founded is still open.
 
 He paid for speed a little at a time. He bought a Miller-Schofield head for $120 at $5 a week. In 1940 his '31 Model A roadster topped 101 mph at Muroc, and he drove it on the street until 1972 (90,000 miles).[^ahrf]
 
 The war took him to Germany, but not away from the lakes. In 1945, he wrote to *S.C.T.A. News* from Germany (Vol. II, No. 14): "I hope to have a car running next year."[^ahrf] It is a direct example of the wartime letters described on the [Veda Orr](veda-orr.md) page.
-
-## The garage and the stolen lights
 
 After the war he was back on the lakebed, this time running it. As SCTA starters in 1947–48, Doty and Sidewinders president Kong Jackson "stole some traffic signals, set them up and voila! more efficient starting."[^ahrf]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> That story comes only from the AHRF profile.
 
@@ -71,11 +67,11 @@ At home there was the shop. The **B&S garage** (Baldwin & Sommerfeld), behind a 
 
 Family work came too. In the late 1940s he did machine work at **Pacific Metal Products** (his uncle's employer) on intakes for Eddie Meyer, Tattersfield and Edmonds, plus the brightwork on the Muntz Jet.[^ahrf]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup> When he bought the DuVall windshield, the sources disagree.
 
-## The lakester and the autograph
-
 The garage also built a lakester. The B&S wing-tank lakester won the SCTA points championship in 1956 and 1958. Its Tempest four used a DOHC head sketched on napkins by **Leo Goossen** and Arnold Birner at Edwards Steak House. Only five were cast. It set the F/L record of 165.13 mph in 1961.[^ahrf]
 
 His signature mattered too. From 1972 he made and signed official SCTA timing slips. Mike Cook: "if your time slip doesn't have Julian's autograph on it, it's not worth anything."[^ahrf]
+
+He was born **December 10, 1922**, and died **May 2, 2012**.
 
 The first trip was 1934, in his uncle's '29 roadster. Seventy years on, the timing slip still had his autograph.
 

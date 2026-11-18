@@ -59,11 +59,7 @@ canonical_for: []
 
 Around Hanover and Gettysburg, the clubs were asking the neighbors before they met, picking jacket colors, and they wrote a rule that a member who was arrested was out. Gettysburg's paper is mostly about the battlefield, the farms and the churches. In the late 1950s its small columns from the surrounding towns show the asking: a hot rod club in Hanover with a petition for a whole neighborhood, a Hanover man at the Lions clubs, and teenagers in Gettysburg and across the Maryland line promising to stay out of traffic court.
 
-## Hanover asks the neighbors (1956)
-
 In May 1956 the Littlestown column reported that the Hanover Hot Kustom Klub had decided to petition the people living near Lincoln Speedway in Berwick Township, Adams County, "asking that they do not oppose" the speedway's use as a Sunday afternoon meeting place for the club. The owner had already said yes, "with the provision that members first petition the residents."[^gt560510] Lincoln Speedway was a stock-car track on the Hanover side of the county. The request was for Sunday afternoons, at a track that was already noisy the rest of the week.
-
-## The Hanover experience, on tour (1958)
 
 In April 1958 the Lions Club at York Springs, at the other end of Adams County, had a guest. "Jimmy Price, Hanover" spoke "on the advantages of a well supervised hot rod club in a community and gave the experiences of Hanover and some other communities and explained how they are operated."[^gt580418] What those Hanover experiences were, the column does not say.
 
