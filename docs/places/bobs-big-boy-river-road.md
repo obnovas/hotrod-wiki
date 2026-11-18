@@ -57,6 +57,8 @@ revival: "a Friday-night classic car show at Bob's, still running."
 
 In the 1950s Burbank high schoolers met at the newly opened Bob's "to show off their jalopies," then settled challenges on the River Road. Some later raced in the river bed itself, which Life magazine photographed in 1957.[^bl] About 40 Road Kings were racing professionally. Bob's is still there.
 
+Ivo's club was the Road Kings of Burbank, founded in 1952. The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming Don Prudhomme, Kenny Stafford, Tom Jandt, Tony Nancy, Bob Muravez and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
+
 ## In their own words
 
 Tommy Ivo described the routine:
@@ -78,8 +80,6 @@ In the river bottom, the police were part of the audience:
 Sebern said he gave up racing after a Hoover High senior was killed in a '32 Ford "in the early '60s."[^bl]
 
 ## From a parking lot to the pros
-
-Ivo's club was the Road Kings of Burbank, founded in 1952. The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming Don Prudhomme, Kenny Stafford, Tom Jandt, Tony Nancy, Bob Muravez and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
 
 Bob's itself is still there. The restaurant history page says Friday-night car shows and weekend carhop service were brought back during the restoration of the building.[^bob] An LA Times columnist (2013) quotes a regular: "I tell them I lived 'American Graffiti' right here."[^lat13] They had met at Bob's to show off their jalopies. The challenges had been settled on the River Road. About 40 Road Kings were racing professionally.
 

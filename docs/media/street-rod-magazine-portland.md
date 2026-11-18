@@ -63,12 +63,6 @@ Miller moved to Portland in 1971 to work for United Medical Lab. He met Craig at
 
 The 99W history calls Miller "a real 'schmoozer'" who connected with Tex Smith. That connection "ultimately yielded a contract with **Kable News Service** for Street Rod's printing and distribution."[^99w]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-## Bruce Miller and the NSRA
-
-The 99W history says, "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Full story: [Dick Wells (1934–2010)](../people/dick-wells.md#the-street-rod-years-and-the-president-question).
-
-In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
-
 ## Making the magazine
 
 The first issue drew heavily on a June 1971 trip Miller and Craig made to the Yellowstone Rod Run in a group of six to eight cars. The group included John Slaughter, "another church member, fellow hot rodder and investor." "Both Bruce's wrote copy and took photographs."[^99w]
@@ -80,6 +74,12 @@ The first issue ran 10,000 copies. Production moved from Craig's apartment to Mi
 Others filled out the masthead. Dale Moreau was the photographer. Miller met him at United Medical Labs, and Moreau later became Freightliner's corporate photographer. Russ Meeks, "another well known Portland hot rodder," was technical editor.[^99w]
 
 Sales were about 40,000 per month net paid, as 99W tells it. Its own data note adds that the publisher "did not provide net paid circulation data to N.W. Ayer," so the figure cannot be checked against Ayer's directory.[^99w]<sup class="hr-q" id="qr-7"><a href="#q-7" title="Single source so far: see Open questions">◐</a></sup> The format was 64 pages at $0.75, with coverage of "how-to-do-its, rod run coverage, rodding trends, car features and club activities."[^99w]
+
+## Bruce Miller and the NSRA
+
+The 99W history says, "Mr. Miller held NSRA membership number **#1** as he was the **first President**."[^99w]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> Full story: [Dick Wells (1934–2010)](../people/dick-wells.md#the-street-rod-years-and-the-president-question).
+
+In a July 1978 *Hot Rod* profile, Tex Smith lists the NSRA's founders as "me, Tom [Medley], Bud [Bryan], **Bruce Miller**, Vern Walker, Billy Weber and Cotton Werksman."[^tex] This period source confirms that Miller was a founder, though not that he was president. Greg Wapling's memoir says Cotton Werksman, Dick Royer, Bruce Miller, Bugg and Walker "chipped in" and "became a part of the NSRA."[^wap]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup>
 
 ## The end (1973)
 

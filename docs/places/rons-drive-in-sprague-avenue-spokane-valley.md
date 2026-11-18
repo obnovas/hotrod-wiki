@@ -69,6 +69,8 @@ Ron's Drive-In is a hot rod hangout that was built by a man who knew nothing abo
 
 The land was the Genova family homestead, one block east of Pines Road on Sprague Avenue, where his immigrant Italian parents had farmed when he was a child. He tore down the family house and built a life-sized version of a model he had made in his basement: a 30-by-30-foot stainless steel kitchen ringed with glass windows. The drive-in opened in 1958.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Some people were sure it would not last, his son Ron said, because the freeway had just opened. Joe named it for his eldest son, and for 37 years began each day in the kitchen hand-selecting and slicing tomatoes himself.[^obit04]
 
+The Top Hat Drive-In, at 2101 E. Sprague, had been the teenagers' place from the 1940s into the 1960s, with uniformed carhops, and it closed in the late 1960s.[^th25] A produce man who knew nothing about frying a hamburger built a drive-in on the family's old farm, and the Valley's hot rodders made it theirs. By the 2026 list, they still park there on Thursdays.
+
 ## Saturday nights, and a raw onion
 
 On Saturday nights the lot filled with teenagers. A burger, Coke and fries cost less than 50 cents. Bonita Cox, who worked the counter in the 1970s, said it "reminded me of 'Happy Days'": kids came in after football games and stayed until 1 a.m., an hour after closing. When they got out of hand, Genova walked out of the kitchen into the crowd. "Go find yourself a girlfriend," he would say, and everyone listened.[^obit04] The *Spokesman-Review*'s obituary credited him with "simultaneously introducing Spokane Valley to fast-food hamburgers and teenagers to cruise night."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^obit04]
@@ -80,8 +82,6 @@ By the summer of 1997 the lot was a Thursday-night rendezvous, sponsored by the 
 ## Still on Thursdays
 
 The original drive-in gave way to a building with indoor seating in 1979, and Genova sold the business in 1995.[^obit04] In November 1997 the *Spokesman-Review* reported that a second Ron's had opened four miles west, in the former Burger Basket building.[^sr97b] Genova died on August 30, 2004, at 89. Ron said customers from Alaska had ordered burgers and had them flown north to friends.[^obit04] The Inland Northwest Car Club Council's 2026 cruise-night list shows Thursday at Ron's Drive Inn, 12502 E. Sprague, "Directed by Riverside City Cruisers."[^cc26]
-
-The Top Hat Drive-In, at 2101 E. Sprague, had been the teenagers' place from the 1940s into the 1960s, with uniformed carhops, and it closed in the late 1960s.[^th25] A produce man who knew nothing about frying a hamburger built a drive-in on the family's old farm, and the Valley's hot rodders made it theirs. By the 2026 list, they still park there on Thursdays.
 
 *See also:* [Cruising overview](cruising-overview.md); [The Pacific Northwest](pacific-northwest.md); [Western Washington's airport strips](../drag-racing/western-washington-airport-strips.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md).
 

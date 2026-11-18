@@ -101,8 +101,6 @@ Then the Cotati strip opened after all. The papers do not show how the Navy's Ap
 
 On Dec. 20, 1956, the *Independent-Journal* reported that the strip had been closed "until next summer" on Chief Flohr's orders after a fatal crash the previous Sunday. Joseph V. Mahoney, 26, a San Jose State College student, had been traveling 129 mph. The strip's director, Dick Berndt, blamed the chief's action on "unfavorable publicity."[^ij561220]
 
-The strip came back. By December 1959 the paper was previewing the end of Cotati's 1959 season, with a Petaluma club's record-breaking roadster expected.[^ij591203] In March 1964 Cotati hosted the California State Drag Championships, with Don Garlits of Tampa, Connie Kalitta and others in the fuel class, at a strip "off Highway 101, between Petaluma and Santa Rosa near the Russian River turnoff."[^ij640328]
-
 ## Marin keeps asking (1957–60)
 
 Marin kept trying for its own strip. In May 1957 labor offered a plan: Thomas W. Beyer of Machinists Lodge 238 (the paper also spells him Beyers) asked the Marin Central Labor Council to join management in a donated-labor project: a five-eighths-mile oval plus a drag strip, at about $75,000 "exclusive of land," with "a committee of the younger generation" given real parts to play.[^ij570516]
@@ -122,6 +120,8 @@ In 1961 Behr ran in a recall election against Supervisor Blair. On a KTIM radio 
 Behr won. "It was the first recall that has ever been won at the supervisorial level," he told an interviewer in 1988.[^behroh] He served on the board in the 1960s and in the state senate from 1971 to 1978, and he is remembered mainly as a conservationist.[^wikibehr] His long oral history does not mention the drag strip at all (we searched the text for "drag" and "hot rod").[^behroh]
 
 The students kept asking. In May 1963 a San Rafael High School student running for "Youth in Government" mayor, Bruce Wold, said students had suggested a drag strip in San Rafael "or on some abandoned air strip in the county," and that a candidate's duty was "to please constituents."[^ij630503] In the papers we read through 1964, Marin's racers were still going up the highway to Cotati.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+
+The strip came back. By December 1959 the paper was previewing the end of Cotati's 1959 season, with a Petaluma club's record-breaking roadster expected.[^ij591203] In March 1964 Cotati hosted the California State Drag Championships, with Don Garlits of Tampa, Connie Kalitta and others in the fuel class, at a strip "off Highway 101, between Petaluma and Santa Rosa near the Russian River turnoff."[^ij640328]
 
 In Kansas City the police chief built the strip with the clubs. Here a lawyer, a labor man, a carnival, a real-estate offer and a student candidate all tried, and the county never quite said yes. The strip the Marin kids got was across the county line, at an airfield the Navy first refused to let go. Compare [Sedalia's eleven-year chase](sedalia-big-sir.md), [Kingston's four years](kingston-igniters.md), the [Pocono hunt](pocono-strips.md), [Palm Springs' timing association](palm-springs-timing-association.md) [Redding's borrowed runway](red-bluff-schafer-oil-special.md) and [Santa Maria's Jaycee-run airport strip](santa-maria-golden-state-raceway.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 

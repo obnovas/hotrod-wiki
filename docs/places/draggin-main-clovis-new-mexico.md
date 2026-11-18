@@ -76,9 +76,9 @@ Main was eight blocks, and kids got tired of it. Moore's crowd would go out Firs
 
 ## Circling the Foxy
 
-Susan Stebbins Mallory, writing to the same blog, remembered going out First to circle a drive-in, back to Main, then out Seventh to circle the Foxy. When gas started costing more, kids parked around Gateway Auto at Main and Sixth and stood around talking and watching the cars. On Sundays they dragged Main until six and then had to go home. The best part was turning around at the end of Main near the train station: "Do you remember the crows which gathered in the trees around there and the city had trouble getting rid of them?" She left Clovis for the last time in 1968, she wrote, "and there was no dragging Main then."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^mil14]
-
 Art Snipes, Clovis High class of 1951, wrote that he worked at Safeway on Saturday nights, "swinging a mop up and down those long aisles while everyone else was dragging Main." It still worked out. Dragging Main one Friday night, he spotted Wanda King in front of Standridge Drug, circled the block and asked her to get in, "the beginning of a long and beautiful relationship that lasted over 61 years."[^mil13]
+
+Susan Stebbins Mallory, writing to the same blog, remembered going out First to circle a drive-in, back to Main, then out Seventh to circle the Foxy. When gas started costing more, kids parked around Gateway Auto at Main and Sixth and stood around talking and watching the cars. On Sundays they dragged Main until six and then had to go home. The best part was turning around at the end of Main near the train station: "Do you remember the crows which gathered in the trees around there and the city had trouble getting rid of them?" She left Clovis for the last time in 1968, she wrote, "and there was no dragging Main then."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^mil14]
 
 ## The brick street again
 

@@ -66,8 +66,6 @@ The pro side's star example was Wilmington, Delaware. There, the magazine said, 
 
 The writer allowed one moment of plain enthusiasm: "The hot rods themselves are, in many instances, wondrous to behold."[^rec]
 
-The club lasted longer than the debate. When Harcourt C. "Ace" Vernon of Wilmington died on July 3, 1978, his class notes in *MIT Technology Review* described a DuPont chemical engineer who retired in 1972 and was "a sports car enthusiast and the founding president of Wilmington Automotive Activities."[^mit] An IRS list of tax-exempt organizations was still carrying "Wilmington Automotive Activities Inc., Wilmington, De." in 1985.[^irs]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
-
 ## Con: "NOT public recreation"
 
 The facing page was headed "Some folks think that racing automobiles at top speed is NOT public recreation!" It quoted *Life* (April 29, 1957): "Safety groups and some police officials feel that the glorification of speed on the strips infects the teen-agers with a fatal spirit of derring-do on the highways." It quoted the National Safety Council's new statement against speed contests: "Public interest would be better served if the energy and enthusiasm now devoted to drag racing were channelled into more constructive activities."[^rec]
@@ -77,6 +75,8 @@ The council's survey, the magazine reported, drew nearly 400 replies from traffi
 The con side had its own model club: Minneapolis's Rod Buddies, who, per *The Optimist Magazine*, were trying to prove that a hot rodder is not always a "squirrel." Seven of their cars went on a "safe driving safari" to Remer, Minnesota, radioing reports of other motorists' violations back to a Minneapolis station.[^rec]
 
 And it gave the last word to an editorial from a Reading, Pennsylvania, newspaper: "we shall offer no objection to 'drag strips'—if those who want to use them also pay for them," because "driving 'souped-up' automobiles at top speed can scarcely be called public recreation."[^rec]
+
+The club lasted longer than the debate. When Harcourt C. "Ace" Vernon of Wilmington died on July 3, 1978, his class notes in *MIT Technology Review* described a DuPont chemical engineer who retired in 1972 and was "a sports car enthusiast and the founding president of Wilmington Automotive Activities."[^mit] An IRS list of tax-exempt organizations was still carrying "Wilmington Automotive Activities Inc., Wilmington, De." in 1985.[^irs]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 The magazine never picked a winner. Even the con side made room for the 1955 planners' report (see [What the City Planners Wrote](planners-report-1955.md)), quoting its line that clashes of opinion "can be lessened" if races are held under proper supervision at a safe site. What it does show is who was arguing in mid-1957: not just police and newspapers, but the recreation departments that might have been asked to run the strips.
 

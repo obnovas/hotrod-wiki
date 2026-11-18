@@ -39,9 +39,9 @@ canonical_for: []
 
 Polio left Chet Herbert paralyzed from the chest down in 1948. He used the time to design parts, and from then on he raced through hired drivers. The roller cams came off a lathe he bought at Sears.
 
-His parents bought him a trumpet to curb his interest in speed. He traded it for a Cushman scooter.[^h]
-
 He was born in March 1928 in Glenbar, Arizona, and raised in Los Angeles.[^h] In 1948 he got polio. Six months in an iron lung left him paralyzed from the chest down.[^h]
+
+His parents bought him a trumpet to curb his interest in speed. He traded it for a Cushman scooter.[^h]
 
 Results came quickly. In 1950, The Beast, a stripped Harley, ran 121, then 129 mph at Santa Ana, beating every bike and four-wheeler there.[^h]
 
