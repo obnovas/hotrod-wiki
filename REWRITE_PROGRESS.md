@@ -150,7 +150,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/tucson-davis-monthan-speed-sport.md` | done | batch 2 |
 | `drag-racing/us-13-dragway-delmar-cathell.md` | done | batch 5 |
 | `drag-racing/utah-airport-no-2-salt-lake-strips.md` | done | batch 9 |
-| `drag-racing/virgin-islands-no-hot-rods.md` | todo | |
+| `drag-racing/virgin-islands-no-hot-rods.md` | done | batch 12 |
 | `drag-racing/washington-suburbs-drag-strip-debate.md` | done | batch 9 |
 | `drag-racing/western-washington-airport-strips.md` | done | batch 4 |
 | `drag-racing/westhampton-drag-strip-long-island.md` | done | batch 7 |
@@ -168,11 +168,11 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `media/show-circuit.md` | todo | |
 | `media/street-rod-magazine-portland.md` | todo | |
 | `media/street-rod-newspaper-serial.md` | todo | |
-| `media/trend-books-kits-roth.md` | todo | |
+| `media/trend-books-kits-roth.md` | done | batch 12 |
 | `people/al-bergler.md` | done | batch 6 |
 | `people/alex-xydias.md` | todo | |
 | `people/arlen-vanke.md` | done | batch 2 |
-| `people/arnie-ginsburg.md` | todo | |
+| `people/arnie-ginsburg.md` | done | batch 12 |
 | `people/barney-navarro.md` | done | batch 5 |
 | `people/bob-bartel.md` | done | batch 1 |
 | `people/chet-herbert.md` | todo | |
@@ -235,16 +235,16 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `street-rodding/fiberglass-suppliers.md` | todo | |
 | `street-rodding/nsra-early-nationals.md` | done | batch 3 |
 | `voices/blackie-gold.md` | todo | |
-| `voices/dallas-folksay-custom-automotive.md` | todo | |
+| `voices/dallas-folksay-custom-automotive.md` | done | batch 12 |
 | `voices/esparza-brothers.md` | todo | |
-| `voices/harts-santa-ana.md` | todo | |
-| `voices/injection-and-tin.md` | todo | |
+| `voices/harts-santa-ana.md` | done | batch 12 |
+| `voices/injection-and-tin.md` | done | batch 12 |
 | `voices/kong-jackson.md` | todo | |
-| `voices/leonard-miller.md` | todo | |
+| `voices/leonard-miller.md` | done | batch 12 |
 | `voices/peoria-1970.md` | todo | |
-| `voices/ray-godman.md` | todo | |
-| `voices/ruelas-dukes.md` | todo | |
-| `voices/show-custom-voices.md` | todo | |
-| `voices/street-rodder-founding.md` | todo | |
+| `voices/ray-godman.md` | done | batch 12 |
+| `voices/ruelas-dukes.md` | done | batch 12 |
+| `voices/show-custom-voices.md` | done | batch 12 |
+| `voices/street-rodder-founding.md` | done | batch 12 |
 | `voices/strip-owners-and-door-slammers.md` | todo | |
-| `voices/von-dutch.md` | todo | |
+| `voices/von-dutch.md` | done | batch 12 |

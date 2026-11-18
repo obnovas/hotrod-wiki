@@ -65,14 +65,6 @@ A decade later, the regulars were coming back year after year:
 >
 > — **Tom Prufer**, who first entered Oakland in 1959, same article.[^go]
 
-## Jerry Titus: KKOA, Wichita
-
-In Wichita, Jerry Titus said the members make the KKOA work.
-
-> "the members of the KKOA makes it work." … "It's like family at KKOA."
->
-> — **Jerry Titus**, KKOA president since 1980, on the club's history page (undated).[^kk] It is the club's own voice and promotional by nature. See [KKOA](../customs/kkoa-lead-sled-revival.md).
-
 ## Eddie Schartman: the first Funny Car (1966)
 
 And in Detroit, the Funny Car put the driver in the back seat.
@@ -86,6 +78,14 @@ His main rival was Dyno Don Nicholson:
 > "We were definitely one another's main competition, and unless we blew something up, there was a good chance we were going to win."
 >
 > — **Schartman**, on his rivalry with "Dyno Don" Nicholson.[^ns]
+
+## Jerry Titus: KKOA, Wichita
+
+In Wichita, Jerry Titus said the members make the KKOA work.
+
+> "the members of the KKOA makes it work." … "It's like family at KKOA."
+>
+> — **Jerry Titus**, KKOA president since 1980, on the club's history page (undated).[^kk] It is the club's own voice and promotional by nature. See [KKOA](../customs/kkoa-lead-sled-revival.md).
 
 An Oakland show hall, a Wichita club, and a driver in the back seat.
 

@@ -106,6 +106,12 @@ When a Logghe tin man quoted him $300 for a nose, he taught himself:
 
 — Bergler, on teaching himself aluminum noses over a 4-inch pipe when a Logghe tin man quoted $300. Same Hagerty article. Access 2026-10-14.
 
+On why he stopped driving:
+
+> "The match race money was drying up... and it was time to focus on my business."
+
+— Bergler, on leaving Funny Car driving ~1983. Same Hagerty article. Access 2026-10-14.
+
 Decades later, a push-start brought it all back:
 
 > "It was an emotional experience... It's like I was young and taking on the best at 200 mph with the sound of the exhaust pounding in my eardrums and flames shooting skyward to either side of me. I was overcome by memories of great times."
@@ -113,12 +119,6 @@ Decades later, a push-start brought it all back:
 — Bergler, on his first cacklefest push-start (2003 Hot Rod Reunion, Bowling Green) in Ed Golden's Probe AA/FD. Same Hagerty article. Access 2026-10-14.
 
 *Told years later: 2003 event, 2024 interview. Tribute-adjacent emotion; the factual booking (Golden, 2003 Reunion) is in the same piece.*
-
-On why he stopped driving:
-
-> "The match race money was drying up... and it was time to focus on my business."
-
-— Bergler, on leaving Funny Car driving ~1983. Same Hagerty article. Access 2026-10-14.
 
 ## Malcolm Durham, on booking and the South
 

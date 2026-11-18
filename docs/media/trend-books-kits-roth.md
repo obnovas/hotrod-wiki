@@ -49,13 +49,13 @@ Petersen's *Custom Cars* Trend Book No. 101 (1951) put the custom on paper, and 
 
 Kustomrama's index of the book shows how *national* the first annual already was. Dick Bair's '39 Ford came from Akron, Ohio, and was driven to Barris in California and back. Ray Birky was from Antioch, Illinois. Woody's Body Shop was from Grand Island, Nebraska. Rudy Makela's '42 Cadillac was from Indianapolis. Other cars came from Denver, Seattle, Vermont, Augusta (Georgia), Miami Springs, Chicago and Pennsylvania.[^tb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-According to the 99W Speed Shop list (and Kustomrama), the Custom Cars annuals ran from No. 101 (1951) to No. 206 (1962). The line was then rebranded **Spotlite Books**.[^99w]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> When did Trend become Spotlite, that list is the one we have.
-
 ## AMT's 3-in-1 (1958): customizing becomes a toy
 
 Seven years later the custom went into the toy box. In 1958 AMT took unassembled promotional models, "add[ed] some extra parts," and sold them as kits that could be built **stock, competition or custom**. The custom parts were skirts, continental kits and spotlights (Promotex, 2002).[^px] Round2, today's owner of the AMT brand, says the response was "phenomenal" and that AMT built its own plant in Troy, Michigan, by 1961.[^r2]
 
 The 1959 custom options included louvers, spotlights, moon discs, bubble skirts, lowering blocks, lake pipes, and flame and scallop decals (Centerline Hobbies).[^cl] This was a mail-order vocabulary of 1950s customizing, sold to teenagers nationwide. Who invented the 3-in-1 is still open.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+
+According to the 99W Speed Shop list (and Kustomrama), the Custom Cars annuals ran from No. 101 (1951) to No. 206 (1962). The line was then rebranded **Spotlite Books**.[^99w]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> When did Trend become Spotlite, that list is the one we have.
 
 Soon the customizers' names were on the box. Coachbuilt's interview with Gene Winfield says AMT included Barris tips in 1961 and 1962. From 1963 there was an "AMT Customizing Team": Barris, the Alexander Brothers, Bill Cushenbery and Winfield.[^cbw] Winfield said he was a consultant from 1962 and later ran AMT's **Speed & Custom Division**.[^cbw] Round2 says that division was founded in 1965 and based in Phoenix.[^r2] AMT kitted replicas of real show cars, including the Ala Kart.[^r2]
 
