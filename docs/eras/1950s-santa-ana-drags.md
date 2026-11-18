@@ -62,8 +62,6 @@ In the late 1940s, Orange County hot rodders raced on abandoned wartime airstrip
 
 Hart recalled the good part: "We used to run off seven, eight abreast... With that many cars running, you'd have to beat somebody!" The bad part came one Sunday, when, by that account, the Marines ran them off. His answer was a real strip.
 
-## A strip, a Victrola and $1,000
-
 The Orange County Airport manager (today John Wayne Airport) offered an unused strip if Hart paid the airport 10% of proceeds and got insurance. With less than $1,000, Hart, his wife Peggy, and two backers opened on June 19, 1950.[^mshf] The backers were Frank Stillwell and Creighton Hunter, fellow members of the Santa Ana Elks Lodge. The project had the blessing of CHP commissioner Clifford E. Peterson and the county supervisors, and Hunter and Stillwell sold out to Hart a few months in.[^pe]
 
 It was a shoestring operation. The timing system was "cobbled together from an old Victrola" (NHRA, 2004).[^nhra04]
@@ -81,8 +79,6 @@ The rules came from wherever they could be found. The quarter mile, by Hart's ow
 Classes came next: stockers split by axle ratio, model year and displacement, with "hot-car" classes added when lakes racers showed up, along with the first cash awards. The "Dollar-A-Mile" program paid Top Eliminator $1 per mph.[^mshf]
 
 The cars soon tested those rules. Chet Herbert's stripped Harley "The Beast" ran 121 and then 129 mph at Santa Ana in 1950, beating every bike and car there.[^herbert]
-
-## Eviction and after
 
 The airport that made the strip possible also ended it. The strip ran until June 21, 1959, when the county evicted Hart to expand the airport.[^pe] In 1965 he succeeded Mickey Thompson as manager of Lions Drag Strip, staying until 1971. There he created the Junior Fuel class and developed bracket and grudge racing.[^sema][^pe]
 

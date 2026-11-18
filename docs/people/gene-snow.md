@@ -71,13 +71,9 @@ Gene Snow's sales method was to race cars off his own lot. "I would win a race w
 
 Gene "the Snowman" Snow was a Fort Worth used-car dealer who became one of the early Funny Car's most technical drivers. His Logghe-chassis Dodge Charger *Rambunctious* made the class's first 200-mph pass at Don and Carl Gay's track in Dickinson, Texas, the [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md). He also ran the first official 200-mph Funny Car pass at an NHRA national event (Dallas, May 3, 1970).[^top50][^nd16] Whether that 200.88 was 1968 or 1969 is still open.
 
-## From engineering to the used-car lot
-
 Snow left the University of Texas at Arlington after three years of electrical engineering. "I did that because I could make more money [selling used cars] than what engineers were making at General Dynamics," he told NHRA.[^top50]
 
 He went into partnership with L.G. Melton in Fort Worth and raced cars from the lot to promote sales.[^top50] He ran a 348 '58 Chevy Impala, a new 409 Chevy (1962), then a 413 '62 Plymouth Sport Fury midseason, which began the *Rambunctious* Chrysler line. Next came a '63 Max Wedge 426 Dodge and a '64 426 Hemi Dodge.[^top50]
-
-## The altered-wheelbase Dart (1965–68)
 
 In 1965 Snow began racing against the new Funny Cars in an altered-wheelbase Dodge Dart built by fellow Texan Don Hardy. The chassis was lengthened in 1966 to improve handling.[^top50][^nd16]
 
@@ -85,15 +81,11 @@ The class had no NHRA home yet. NHRA did not recognize Funny Cars, so the Dart r
 
 The photographs below, which the uploader dates to Austin, Texas, 1967, show the Dart with "Engine by Ted Detar" lettering and a tilt front end.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-## Direct drive, the Logghe Charger and 1970
-
 Then the cars got faster. Snow ran a supercharged '68 Dart, then a '68 Charger body, and dropped the automatic transmission for direct drive. "We worked with Crower to come up with a four-disc Crowerglide centrifugal clutch," he said. "Though it was sluggish off the line, it would mow down the automatic cars, which always nosed-over at about 185 mph."[^top50] National Dragster's Phil Burgess places the direct-drive experiments in late 1968 and into 1969.[^nd16]
 
 In June 1969 *Hot Rod* (photos by Don Green) printed the period spec sheet. It describes the '69 Dodge Charger as built by Snow with mechanic Jake Johnston "a job lasting nearly two months and involving over $13,000." Its "backbone" was a Logghe Stamping Company chassis on a 118-inch wheelbase, with a Logghe tube axle. The engine was a '69 426 Hemi with a Keith Black No. 2 cam, Larkin-prepared 6-71 blower and Enderle 3-port injector. Halibrand mags, Hurst/Airheart disc brakes and a Simpson "200-mph" chute completed it. The Fiberglas Ltd. body was reworked by Stewart's Corvette Shop and painted by Sir Nat of Oklahoma City. The headline: "it trips 7.51 e.t.'s on 205-mph blasts."[^hr69] See [Logghe Stamping](../companies/logghe-stamping.md).<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
 In 1970, the year NHRA expanded to seven national events, Snow won the Summernationals (York, Pa.), the World Finals (Dallas) and the postseason Supernationals (Ontario). He was runner-up at the Winternationals and Springnationals and also won the AHRA championship and its Driver of the Year award. He ran 6.76/218.44 at Lions late in the season. "We carried a spare motor the whole year and never had to use it," he said.[^top50][^nd16]
-
-## Teams, Top Fuel, the first four, and later
 
 In 1971 Snow ran one of the first multicar teams, with two mini-Chargers and Jake Johnston driving the second. Then came the Revell Snowman colors for a 1/16 kit (1972), a Top Fueler for Chip Woodall, and an injected car for Terry Pringle.[^top50]
 

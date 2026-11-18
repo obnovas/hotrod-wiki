@@ -112,8 +112,6 @@ Not everyone was charmed. The older generation thought it "a waste of gas and ti
 <figcaption markdown>A streamlined former filling station at 700 Main Street, Hays, Kansas, in 2014, on the stretch of Main between Thirteenth and Fourth streets that the 1987 yearbook says the draggers drove. The yearbook does not mention this building. Creator: Ammodramus. Date: 2014-09-22. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hays,_Kansas_700_Main_Street_from_SW_1.JPG). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en).</figcaption>
 </figure>
 
-## What the four towns share
-
 Three of them had a fixed route between two landmarks. Hays had a theater at one end and a drive-in at the other. Scottsbluff had a main street and a McDonald's. Richmond had one avenue, and not the next town's. The adults complained the same way, about wasted gas and a street you couldn't cross. Richmond in the 1950s and Hays in 1987 say nearly the same thing about the traffic, 30 years apart.
 
 There was a sense of inheritance, too. "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier. You drove from one end of Main to the other, you turned around, and you did it again until midnight. They called it dragging Main.

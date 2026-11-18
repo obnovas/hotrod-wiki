@@ -95,7 +95,7 @@ He then ran the **Hassel & Vogelsong '40 Willys** in B and C/Gas. Hill's photo s
 
 Hill calls Dave Meal "the notably talented Cleveland race car builder."[^ecgm] He built the Hrudkas' **'40 Willys C/Gasser**: injected small-block Chevy, four-speed, "8,000 rpm power," 11-second, 120-mph runs at Dragway 42, with the front wheels up "through first two gears." It carried an early Mr. Gasket logo.[^ecmg]
 
-In **1965** he built the A/Gas **'48 Thames panel "Pie Wagon,"** "very light, flimsy and flexy."[^ecmg]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
+In **1965** he built the A/Gas **'48 Thames panel "Pie Wagon,"** "very light, flimsy and flexy."[^ecmg]
 
 In **1965** Hassel left Ohio for South Florida as **sales manager for Crane Cams**. There he teamed with **Ronnie Cox** and won **B/Gas at the 1966 Nationals** in a **'48 Anglia**. The Hrudkas also loaned him their Dave Meal–built **'48 Thames "Pie Wagon"** A/Gas panel, which he ran in Florida with his own engine and transmission: high-nine-second ETs at 140 mph. Hill's photo of it is from Palm Beach International Raceway.[^ecgm][^ecmg]
 
@@ -107,7 +107,7 @@ The **"Dark Horse"** was a '33 Willys with a **Tim Woods** engine, painted to ma
 
 The **"Traveler"** was the same car, rebuilt with partners **Bill Altizer and Neal Kibler**. It "set and held both speed and low ET in B/GS (**146.57 MPH in 9.76 ET**) in November 1964."[^jrt1]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>
 
-In **1967**, Ken Kull writes, "I had Chuck come in **from Ohio**," and says Finders built the Hill brothers' **Red Baron** in eleven days while "Pete and Bill just kept bringing him fried chicken."[^jrthill] See [Red Baron](../cars/hill-bros-red-baron.md).
+In **1967**, Ken Kull writes, "I had Chuck come in **from Ohio**," and says Finders built the Hill brothers' **Red Baron** in eleven days while "Pete and Bill just kept bringing him fried chicken."[^jrthill]<sup class="hr-q" id="qr-9"><a href="#q-9" title="Sources disagree: see Open questions">⚠</a></sup> See [Red Baron](../cars/hill-bros-red-baron.md).
 
 In the **1970s** he ran fuel Funny Cars and contended in Division 3. He lost a leg in a late-1970s racing accident. The farewell says Don Garlits "ran down to the accident then ran back to the tower and asked everyone to pray for Chuck." He came back to win his class in Willys.[^jrt1]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -135,7 +135,7 @@ In **Toledo / Cincinnati**, Dick Titsworth's Seaport Automotive Anglia; Dick Wei
 
 Statewide, **Barbara Hamilton**: "the first woman licensed by NHRA to drive a supercharged race car in competition" ('37 Willys), ECDT HOF 2004[^ecgm] <sup class="hr-q" id="qr-8"><a href="#q-8" title="Single source so far: see Open questions">◐</a></sup> *"first" is a tribute claim.* **Fred Hurst**: candy-apple-red '40 Willys, then a Barracuda and an Opel GT with Hemi power.[^ecgm]
 
-There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15]<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup> This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md).<sup class="hr-q" id="qr-9"><a href="#q-9" title="Sources disagree: see Open questions">⚠</a></sup>
+There was money in it, too. Hill's *Hot Rod* piece explains why a Nationals class "T" sticker mattered so much to these racers. In **1966 Harvey Crane** began refunding the cam and valvetrain price to class winners. NHRA then limited class cash to **$100 in 1967**, but by **1969** "a class winner displaying all the correct decals could collect nearly $2,000." Hill adds that he "wrote all the hot copy for Harvey Crane."[^hr15]<sup class="hr-q" id="qr-10"><a href="#q-10" title="Single source so far: see Open questions">◐</a></sup> This ties the Ohio scene to the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md). Who built the 1968 Mr. Gasket Test Car, a blown big-block Camaro, is still open.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Never a chartered club. A loose circle of Cleveland high-school friends and their rivals across the state. Out of that circle came Mr. Gasket, a Crane Cams sales manager, Funny Car pioneer Eddie Schartman, and a blues bassist.
 

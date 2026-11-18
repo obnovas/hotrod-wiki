@@ -59,8 +59,6 @@ Kemp Sabourin, a member of the city police force, spent a year traveling to King
 
 The *Escanaba Daily Press* billed itself as serving the "Upper Peninsula's Leading Trade Area."[^apr23] It gave them a feature and six shorter notices between January and June 1955. There is no dry lake and no famous shop. There is a police officer, an auto shop with a clubroom upstairs, a strict rulebook and, by the paper's account, a town that mostly believed the worst of hot rodders.
 
-## The commute and the shop
-
 The April 23, 1955 feature says Sabourin, "a member of the city police force," and Miller "decided to organize a local hot rod club after spending a year of traveling to Kingsford every week end" to take part in the activities of a Kingsford car club. The scan reads "Kingsford Shailenger's Auto Club," and we cannot be sure of that spelling (OCR). It adds that Sault Ste. Marie and the Copper Country also had hot rod clubs.[^apr23]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 The feature places the club's home at **1418 Washington Avenue**. The auto shop "belongs to Kemp and Bill," and the clubroom sits above it. Members could use the shop "at anytime" to build and repair their cars.[^apr23] (The January item's scan reads the street as "Wallington Ave.," which looks like an OCR slip. A May notice prints "Washington Ave." too.[^may21])
@@ -68,8 +66,6 @@ The feature places the club's home at **1418 Washington Avenue**. The auto shop 
 The feature dates the founding to **December 1954** and says eight of the town's "driving enthusiasts" organized it. Besides Sabourin and Miller, the charter members it lists are Earl Anderson, Wayne Berthaume, Bill Kolich, Jerry Larson, John Lasnoski Jr. and John Moore. Thirteen more had joined by April.[^apr23] The treasurer's name is garbled in the scan, so we leave it out.
 
 On **January 5, 1955** the paper reported that organization "has been completed and officers named on a provisional basis": Sabourin as president and Miller as vice president for six months, until an election. The club met "each Monday evening at 7:30," had 24 members, and wanted a quarter-mile strip for the summer.[^jan5] By April 16 it had "over 25."[^apr16]
-
-## The rules and the cars
 
 The Drag-n's looked a lot like the safety clubs the city planners described in 1955 (see [What the City Planners Wrote](planners-report-1955.md)). The paper lists the rules, and they start with the cars themselves. Members got aluminum plates with "a black background and a hot rod and the name Drag-n's and Escanaba." The plates were meant to tell other drivers which hot rods belonged to the club and which belonged to other drivers. Members said this would "help abate undue criticism."[^apr23] A member's plate stayed on only if his car met standards for lights, brakes, front end, rear end, exhaust and wiring.[^apr23]
 
@@ -86,8 +82,6 @@ The cars came slowly, and the feature is blunt about money. "The cars that are b
 Of the dragster the paper quotes them: "Putting a motor in a car is one of the easiest steps, but hooking up the many parts of the car proves a bit more difficult."[^apr23]
 
 The piece adds that a home-built hot rod "captured fifth place last year in the Mexican Road Race." It gives no name or car, and nothing else in this wiki supports it. We repeat it as the paper's claim only.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^apr23]
-
-## The strip that never shows up
 
 The Drag-n's wanted a drag strip, and the paper says where. It was "a quarter mile level straight stretch of road" near a radio site whose name is garbled in the scan ("Danfordth," OCR). The road would have to be black-topped "for greatest safety measures." The paper claims many club cars would top 100 mph "in a quarter mile, a distance of three blocks."[^apr23] The club also planned an **auto show** for "the first of June," where any vehicle from a sedan to a motorcycle would be safety-checked and scored for appearance, lights, brakes, steering, exhaust, wiring and papers.[^apr23]
 

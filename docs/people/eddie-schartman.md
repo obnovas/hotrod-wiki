@@ -54,9 +54,13 @@ principal_source: "Phil Burgess's 2016 interview with Schartman, then 78, in Nat
 
     — Eddie Schartman, NHRA.com, 2016. [Full context in Voices](../voices/show-custom-voices.md)
 
-## The flip-top Comet
-
 On his first pass in a flip-top Comet, Eddie Schartman went 166 mph and took out the finish-line lights. He had come out of a Cleveland wrecking yard. At the 1966 World Finals in Tulsa he won NHRA's first Funny Car eliminator.
+
+He started young. His father, Ed Sr., raced dirt tracks, and the family owned a wrecking yard. Eddie built a flathead '40 Ford drag car at 14. He finished Berea High School in 1956 and drove a street '56 Chevy (338 ci) to Daytona Speed Week, where he "won everything in sight." He then set the NHRA B/Gas record in a '55 Chevy.[^nhra] He was one of the "Ohio Gassers" (see [Mr. Gasket](../companies/mr-gasket.md)).
+
+The road to the Comet ran through a Chevy dealer. He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to build engines for "Dyno Don" Nicholson. He drove Nicholson's '62 Chevy for 50 percent of the winnings, then got the A/FX Comet wagon "The Ugly Duckling." Mercury later gave him his own Comet and $5,000 from Cleveland-area Mercury dealers.[^nhra]
+
+## The flip-top Comet
 
 His first ride came in December 1965 at Motor City Dragway. "I said, 'What the hell is this?' It was a dragster with a body on it and the driver in the back seat... On my first pass, I went 166 mph and took out the [finish-line] lights."[^nhra]
 
@@ -68,15 +72,7 @@ In 1967 came Air Lift sponsorship, with "Famous Amos" Satterlee as crew chief. H
 
 That season also produced his claim to an accidental rear spoiler, from Maple Grove in 1967: angle iron bolted to the trunk. "It went straight and picked up 5 mph. We'd invented the [rear-deck] spoiler and didn't even know it."[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
-## Wrecking yard kid to Jackshaw Chevrolet
-
-He started young. His father, Ed Sr., raced dirt tracks, and the family owned a wrecking yard. Eddie built a flathead '40 Ford drag car at 14. He finished Berea High School in 1956 and drove a street '56 Chevy (338 ci) to Daytona Speed Week, where he "won everything in sight." He then set the NHRA B/Gas record in a '55 Chevy.[^nhra] He was one of the "Ohio Gassers" (see [Mr. Gasket](../companies/mr-gasket.md)).
-
-The road to the Comet ran through a Chevy dealer. He worked at Jackshaw Chevrolet in Cleveland. In 1964 he moved to Atlanta to build engines for "Dyno Don" Nicholson. He drove Nicholson's '62 Chevy for 50 percent of the winnings, then got the A/FX Comet wagon "The Ugly Duckling." Mercury later gave him his own Comet and $5,000 from Cleveland-area Mercury dealers.[^nhra]
-
-## Later
-
-The end came in small ways. In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick because it had Mercury Comet taillights. He quit match racing in 1975 over rainouts ("The rainout money was like $150") and went into car dealerships and NAPA stores. He was inducted into IDRHOF in 2012.[^nhra]
+In Pro Stock, the 1972 Gatornationals tech crew disqualified his Maverick because it had Mercury Comet taillights. He quit match racing in 1975 over rainouts ("The rainout money was like $150") and went into car dealerships and NAPA stores. He was inducted into IDRHOF in 2012.[^nhra]
 
 The first pass, in December 1965, went 166 mph and took out the finish-line lights. The 1966 World Finals was NHRA's first Funny Car eliminator win.
 

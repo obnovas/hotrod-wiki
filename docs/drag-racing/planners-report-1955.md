@@ -100,7 +100,7 @@ A Texas example comes from a forum,<sup class="hr-q" id="qr-1"><a href="#q-1" ti
 
 Kansas City got its strip. The Kansas City Timing Association's strip opened July 17, 1955, according to the detective who organized it. See [The Detective Whose Son Was a Dragster](kansas-city-timing-association.md).
 
-Other small-town clubs never made the report, among them [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both known from local newspapers.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
+Other small-town clubs never made the report, among them [Escanaba, Mich.](escanaba-dragns.md) (1954–55) and [Decatur, Ind.](indiana-small-town-clubs.md) (1956–57), both known from local newspapers. The report also says "in one day of hot rod racing at Muroc Dry Lake, California, twenty-seven hot rodders were killed" and that on another night county police arrested 187 hot rodders. It gives no date or source.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>[^aspo]
 
 Magazine histories rarely had these clubs. The May 1955 report did. Columbia kept a converted hatchery, and only 16 of the 100 members voted for a drag strip.
 
