@@ -43,13 +43,9 @@ Dean Batchelor wrote that the 1943–45 issues "were filled with letters from SC
 
 Tom Medley drew covers for several issues while serving in the postwar occupation in Berlin. He called her "the glue that held hot rodding together during the war years."[^fc][^hem-orr] Per Batchelor (via Hemmings), the newsletter made Orr's the first stop for returning GIs.[^hem-orr] And Alex Xydias, about 100 at the time, put it plainly: "the best thing that Veda ever did was sending those newsletters to G.I.s."[^fc]
 
-## Karl and Veda
-
 Karl Orr was born in Missouri in 1906, raced Model Ts from 1921, and came to Los Angeles in 1923. By 1935 he was in the 90mph Club, known as much for his "prickly personality" as for his driving. He married Veda in 1936.[^fc] Their Orr Speed Shop opened in 1940 at 11140 Washington Place, Culver City ([Prewar Speed Shops](../companies/prewar-speed-shops.md)).[^hem-shops]
 
 She raced, too. Veda set a Full Fendered Roadster record of 104.40 mph at Muroc in her '32 Ford, which was also her daily driver. She later raised it to 114.24 mph and ran 131-plus mph in the Taylor-Blair modified.[^fc]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> When she became an SCTA member is still open.
-
-## The Pictorials
 
 After the war she handed the newsletter back to Parks and Snapp and published *Veda Orr's Dry Lakes Pictorial* and *Veda Orr's Hot Rod Pictorial*.[^fc] The *New Revised Hot Rod Pictorial* covers the 1946–48 time trials (Bill Burke's streamliner, the Blair Special, Veda's own '32, and others).[^kr] Floyd Clymer published an edition in 1949, and Veloce Press reissued it in 2010.[^hrh]
 

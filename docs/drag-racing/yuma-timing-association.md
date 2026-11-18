@@ -55,13 +55,9 @@ canonical_for: []
 !!! quote "In their own words"
     A Yuma racer's son, writing to Drag Strip List, still had his father's Yuma Timing Association shirt, trophies and the Tucson Timing Association's rule book.[^dslaz]
 
-## Wellton, 1952
-
 Drag races east of Yuma began about 1952 at an abandoned World War II emergency airstrip, with Bureau of Reclamation approval. The newspaper articles disagreed on how far the later Highway 80 strip was. On January 12, 1958, the Yuma Timing Association drew 545 people and 72 entries to a March of Dimes meet.
 
 Wellton Auxiliary Army Airfield, by Drag Strip List's identification, was fifteen miles east of Yuma. The Dragsters of Yuma car club ran the racing with Bureau of Reclamation approval. By early 1953 the fastest club member had been timed at 79 mph.[^dslaz]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup> Club names, dates and the approval come from Drag Strip List's digest of the notices.
-
-## The Barons' strip on Highway 80
 
 In 1956 the Barons hot rod club opened a new drag strip just south of Highway 80, east of Yuma. Newspaper articles disagreed on how far: eight miles, twelve miles, or fifteen. Later notices settled on milepost fifteen and a mile off the highway.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup> Their first race was May 27, 1956. A September meet drew racers from Arizona and California, with spectators charged 75 cents. Races followed on October 14 and December 9, 1956, and on May 12 and June 23, 1957.[^dslaz]
 

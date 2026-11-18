@@ -64,19 +64,13 @@ canonical_for: []
 
     — inscription on Jim Baker's first trophy, won at the Casa Grande airport strip on the third Sunday of a late-1950s month, as he told Drag Strip List.[^dslaz]
 
-## The Karb Kats get a runway
-
 In January 1957 the Karb Kats, in a cotton-and-copper town on the Tucson–Phoenix highway, got the Casa Grande city council's leave to race at the city-owned municipal airport, five miles north of town. The council said yes. By February the National Hot Rod Association had sanctioned the strip, the first meet drew over 1,000 people and 89 entries, and the club soon paved almost a mile of racing surface. The last race in the record is August 10, 1958.
 
 On February 10 the first of the monthly races drew those 1,000 people and 89 entries, under the Casa Grande Timing Association. Carl Grimes won A/Altered in his Buick-powered Fiat. Johnny Loper took D/Gas in a '52 Olds at 92 mph. Top eliminator went to the Bardelli-Groves-Sandy fuel-injected dragster at 130 mph.[^dslaz] Dates, entry counts, speeds and club names here come from Drag Strip List's digest.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see the bottom of the page">◐</a></sup>
 
-## Almost a mile
-
 The first race went so well that the club repaved the quarter-mile and added 300 feet past the traps, with another 1,000 feet of graded dirt for shutdown, in time for the March 10 meet—almost a mile of racing surface. That length brought 14 pre-entered dragsters and 103 entries. Grimes clocked the fastest speed, 125 mph in the Fiat, with Lloyd Haugh driving. Before the May 12 race, Chandler's Gents, Modifiers and Pagans joined the Karb Kats in a racing organization called the Casa Grande Valley Timing Association. On July 14 a Chrysler-engined dragster sponsored by Tucson's Lords set a track record of 139.25 mph.[^dslaz]
 
 Jim Baker, looking back, remembered the strip as the place he won his first trophy, inscribed "CGTA Class Winner," on the third Sunday of each month in the late 1950s.[^dslaz] The club's own paperwork reached the local paper. The *Casa Grande Dispatch* of March 28, 1957, printed the Articles of Incorporation of Karb Kats, Inc., dated March 18.[^dslaz]
-
-## One anniversary, then silence
 
 On Sunday, February 9, 1958, the Karb Kats called their meet the first annual race, celebrating a year of airport racing. An A Dragster of Cox, Turk & Franks from Mesa took top eliminator at 114.29 mph before more than 500 spectators and 81 entries. Loper won B/Gas at 89 mph. March 9 was billed as the South Central Arizona Championships, with $50 for top eliminator and $25 for fastest time. On April 13 Grimes and Louis Rogers's Buick Fiat took top eliminator at 121.13 mph. The last race for which Drag Strip List found documentation was August 10, 1958—Art Meek in top eliminator, Al Eshenbaugh winning C Dragster—with 50 entries and 150 spectators at the 15th monthly meeting. The editor's guess is that the new Chandler Associated Drag Strip drew the racers away; that is speculation, not a source.[^dslaz] Why racing stopped after August 1958 is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 

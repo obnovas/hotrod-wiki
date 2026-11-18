@@ -49,11 +49,7 @@ canonical_for: []
 
 Vic Edelbrock drove his roadster to Muroc, pulled the fenders and windshield, raced, and bolted them back on to drive home.[^ed] He was the kid from Kansas. He worked with Tommy Thickstun, wasn't satisfied, and designed the Slingshot, the first product with the Edelbrock name.
 
-## A kid from Kansas
-
 Vic Edelbrock Sr. (1913–1962) was born in Kansas; the year is the company's,[^ed] and the International Drag Racing Hall of Fame list gives 1912.[^idrhof]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether that was 1912 or 1913 is still open. He went to work full time at 14 after a fire destroyed his father's grocery store, and came to California in 1931.[^enc][^ed] He opened a repair shop on Wilshire Blvd. in Beverly Hills with his brother-in-law, then moved to Venice & Hoover in 1934.[^ed]
-
-## The Thickstun detour
 
 The roadster came first. In **1938** he bought a '32 Ford roadster. He first worked with Tommy Thickstun on the "Thickstun" manifold, wasn't satisfied, and designed his own: a 180° aluminum two-Stromberg-97 flathead manifold called the **Slingshot**, the first product with the Edelbrock name. About 100 were made before the war.[^ed][^enc] How fast the roadster went is still open.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
