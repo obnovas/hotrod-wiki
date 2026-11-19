@@ -1,5 +1,5 @@
 ---
-title: 'So People Could See the Upholstery: Tony Nancy, the Sherman Oaks Trimmer Who Went Racing (Los Angeles, 1933–2004)'
+title: 'So People Could See the Upholstery: Tony Nancy, the Sherman Oaks Trimmer Who Went Racing (Los Angeles, 1933 or 1929–2004)'
 summary: 'Tony Nancy learned the trim trade for 25 cents an hour, opened an upholstery shop in the San Fernando Valley, and by one account went drag racing so people could see his interiors at the track. He won the 1963 Winternationals Competition Eliminator and retired from racing in 1976 to stitch full time.'
 department: people
 era: 1960s
@@ -12,7 +12,7 @@ eras:
 - 1990s
 - 2000s
 years:
-- 1933
+- 1929
 - 2004
 region: West
 states:
@@ -68,12 +68,12 @@ canonical_for: []
 location: A trim shop at Woodman and Ventura Boulevard, Sherman Oaks; earlier Hollywood Custom Auto Interiors at Gower and Santa Monica[^ahrf][^hem]
 status: Retired from racing after the 1976 March Meet; died November 11, 2004[^ahrf][^hem]
 ---
-# So People Could See the Upholstery: Tony Nancy, the Sherman Oaks Trimmer Who Went Racing (Los Angeles, 1933–2004)
+# So People Could See the Upholstery: Tony Nancy, the Sherman Oaks Trimmer Who Went Racing (Los Angeles, 1933 or 1929–2004)
 
 *Twenty-five cents an hour, a roadster to show off the stitching, and a shop that somehow stayed open through it all*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (his racing record is in many magazines; the trim-shop side comes from the American Hot Rod Foundation's profile, which quotes his engine builder's interview and his own book, a *Hemmings* remembrance and a Goodguys column; they differ on his birth year and on why he started racing) · **Source types:** Oral history (Tommy Sparks to the American Hot Rod Foundation); a fan's memorial page; *Hemmings* (posted 2018); Goodguys' Fuel Curve; Tom Madigan's book *The Loner*, as quoted by the foundation · **Last verified:** 2026-11-19 (Round 44) · **Open issues:** ⚠ his birth year; ⚠ why he went racing; ⚠ the date and engine of the Buick roadster; ⚠ how he got the name "The Loner"; ⚠ when the first Wedge crashed; ◐ Clark Gable's padded top · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (his racing record is in many magazines; the trim-shop side comes from the American Hot Rod Foundation's profile, which quotes his engine builder's interview and his own book, a *Hemmings* remembrance and a Goodguys column; they differ on his birth year and on why he started racing) · **Source types:** Oral history (Tommy Sparks to the American Hot Rod Foundation); a fan's memorial page; *Hemmings* (posted 2018); Goodguys' Fuel Curve; Tom Madigan's book *The Loner*, as quoted by the foundation · **Last verified:** 2026-11-19 (Round 44 citation review) · **Open issues:** ⚠ his birth year; ⚠ why he went racing; ⚠ the date and engine of the Buick roadster; ⚠ how he got the name "The Loner"; ⚠ when the first Wedge crashed; ◐ Clark Gable's padded top · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "He wanted to race a roadster, though, so that people could see his upholstery work at the racetrack."
@@ -116,17 +116,17 @@ He raced to show off his upholstery, and the racing made him famous. When he was
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Sources disagree.** **When was he born?** The American Hot Rod Foundation says November 14, 1933, and Fuel Curve says 1933.[^ahrf][^fc] A memorial page on a racing fan's site heads its tribute "11/14/1929 - 11/11/2004" and then reprints the foundation's text with 1933.[^wag] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was he born?** The American Hot Rod Foundation says November 14, 1933, and Fuel Curve says 1933.[^ahrf][^fc] A memorial page on a racing fan's site heads its tribute "11/14/1929 - 11/11/2004" and then reprints the foundation's text with 1933.[^wag] The front-matter `years` span is `[1929, 2004]`. That field is `[first, last]`, two integers, and 1929 is the earlier year a source gives, so the span covers 1933. It does not decide the question. The title says 1933 or 1929. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Sources disagree.** **Why did he go racing?** Tommy Sparks told the foundation Nancy wanted a roadster to show his upholstery at the track, modeled on Sparks's own Willys.[^ahrf] Fuel Curve says that by 1956 he was doing leather upholstery for race cars and that his view changed "when a customer took him to the drags at San Fernando."[^fc] The two may both be true; neither mentions the other. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Why did he go racing?** Tommy Sparks told the foundation Nancy wanted a roadster to show his upholstery at the track, modeled on Sparks's own Willys.[^ahrf] Fuel Curve says that by 1956 he was doing leather upholstery for race cars and that his view changed "when a customer took him to the drags at San Fernando."[^fc] The two may both be true; neither mentions the other. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Sources disagree.** **When was the Buick roadster on the cover, and how big was the Buick?** *Hemmings* says "April 1960" and a 4-inch-stroked 450-cubic-inch nailhead; Fuel Curve says 1960 and a 450.[^hem][^fc] The foundation says "the April 1962 issue of HOT ROD" and a 482-cubic-inch Buick.[^ahrf] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **When was the Buick roadster on the cover, and how big was the Buick?** *Hemmings* says "April 1960" and a 4-inch-stroked 450-cubic-inch nailhead; Fuel Curve says 1960 and a 450.[^hem][^fc] The foundation says "the April 1962 issue of HOT ROD" and a 482-cubic-inch Buick.[^ahrf] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Sources disagree.** **Where did "The Loner" come from?** *Hemmings*: "because he could literally field a car by himself." The foundation, from Madigan's book: from wanting to be completely different. Fuel Curve agrees with *Hemmings* that he could handle every job solo.[^hem][^ahrf][^fc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Disputed.** **Where did "The Loner" come from?** *Hemmings*: "because he could literally field a car by himself." The foundation, from Madigan's book: from wanting to be completely different. Fuel Curve agrees with *Hemmings* that he could handle every job solo.[^hem][^ahrf][^fc] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Clark Gable's padded top.** Only Fuel Curve tells the Hillcrest Cadillac story.[^fc] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **Clark Gable's padded top?** Only Fuel Curve tells the Hillcrest Cadillac story.[^fc] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Sources disagree.** **When did the first Wedge crash?** *Hemmings*: "in Sandusky, Ohio, in the summer of 1963." The foundation: "just six weeks before the U.K. trip," at 186 mph, which it places in 1964.[^hem][^ahrf] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Disputed.** **When did the first Wedge crash?** *Hemmings*: "in Sandusky, Ohio, in the summer of 1963." The foundation: "just six weeks before the U.K. trip," at 186 mph, which it places in 1964.[^hem][^ahrf] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ### Next leads
 

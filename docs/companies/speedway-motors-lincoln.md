@@ -98,9 +98,9 @@ His four sons took over a company with more than 20,000 parts in its catalogs, a
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Sources disagree.** **Fiancée or wife?** *Rod & Custom* (2012) says he was engaged to Joyce in 1952 and calls the $300 a loan "from his fiance, Joyce."[^rc] The museum says he graduated, married Joyce and opened the store all in 1952, with the loan "from his new bride"; SEMA's obituary says "his wife Joyce."[^moas][^sema14] Both can be true if they married later that year. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Fiancée or wife?** *Rod & Custom* (2012) says he was engaged to Joyce in 1952 and calls the $300 a loan "from his fiance, Joyce."[^rc] The museum says he graduated, married Joyce and opened the store all in 1952, with the loan "from his new bride"; SEMA's obituary says "his wife Joyce."[^moas][^sema14] Both can be true if they married later that year. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Sources disagree.** **When did he start racing cars?** The museum says he built his first track roadster, number 4x, in 1948; *Rod & Custom* says that "By 1949" he had moved up to roaring roadsters.[^moas][^rc] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did he start racing cars?** The museum says he built his first track roadster, number 4x, in 1948; *Rod & Custom* says that "By 1949" he had moved up to roaring roadsters.[^moas][^rc] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 
