@@ -1,6 +1,6 @@
 ---
 title: 'A Drag Strip by the Skyride: Lakeland Dragway, Memphis (1960 or 1961–79)'
-summary: 'Memphis''s drag strip was one attraction of Louis Garner''s Lakeland amusement park, alongside a skyride from the Brussels World''s Fair and a paddle-wheeler on a man-made lake. Five local racers took over its lease in 1963, and it outlived the park, closing in 1979.'
+summary: 'Memphis''s drag strip was one attraction of Louis Garner''s Lakeland amusement park, alongside a skyride from the Brussels World''s Fair and a paddle-wheeler on a man-made lake. In 1963 the company leased the strip to five local racers, and it outlived the park, closing in 1979.'
 department: drag-racing
 era: 1960s
 eras:

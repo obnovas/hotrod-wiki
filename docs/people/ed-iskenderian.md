@@ -1,6 +1,6 @@
 ---
 title: 'Ed "Isky" Iskenderian: The Camfather'
-summary: Ed Iskenderian was born in 1921 after frosts ruined the family vineyard, was mentored by Ed Winfield, was SEMA's first president in 1963, and died February 4, 2026, at 104.
+summary: Ed Iskenderian was born in 1921 to a wine-making family, and severe frosts caused the move to Los Angeles when he was a year old. He was mentored by Ed Winfield, was SEMA's first president in 1963, and died February 4, 2026, at 104.
 department: people
 era: 1950s
 eras:
@@ -36,7 +36,7 @@ canonical_for:
 ---
 # Ed "Isky" Iskenderian: The Camfather
 
-*Frosts ruined the vineyard. Ed Winfield mentored his cam grinding. He was the first president of SEMA, and its last surviving founder.*
+*Severe frosts moved a wine-making family to Los Angeles. Ed Winfield mentored his cam grinding. He was the first president of SEMA, and its last surviving founder.*
 
 !!! abstract "Article record"
     **Confidence:** High · **Source types:** obituaries (5 agreeing), oral, primary (patents) · **Last verified:** 2026-10-13 (Round 4) · [How we rate this](../reference/source-standards.md)
@@ -49,9 +49,9 @@ canonical_for:
 !!! note "Verified"
     His death on **February 4, 2026**, at 104, in Los Angeles is confirmed by NHRA, Hagerty, Car and Driver, SEMA, and Legacy.com.[^nhra][^hag][^cd][^sema][^leg]
 
-Frosts ruined the family vineyard in Cutler. He was **mentored by Ed Winfield** in starting cam grinding. He was a founding member and first president of SEMA (1963), and its last surviving founder.
+Severe frosts sent a wine-making family from Cutler to Los Angeles when he was a year old.[^nhra] He was **mentored by Ed Winfield** in starting cam grinding. He was a founding member and first president of SEMA (1963), and its last surviving founder.
 
-Ed Iskenderian was born in Cutler, in Tulare County, California, on **July 10, 1921**, to Armenian immigrant parents, and the family moved to Los Angeles when he was a year old.[^nhra][^leg] He attended LA Polytechnic High and built a Model T roadster that is now at the Museum of American Speed. It has a flathead V8 with Maxi heads, which moved the exhaust valves into the head.[^leg][^hag] In 1940 Jimmy Summers "pounded out a few dents" on that T for $10 ([Jimmy Summers](jimmy-summers.md)).[^summers] During the war he served in the Army Air Forces Air Transport Command in the Pacific.[^leg]
+Ed Iskenderian was born in Cutler, in Tulare County, California, on **July 10, 1921**, to Armenian immigrant parents. NHRA's Greg Sharp says the family was in the wine-making business, and that several severe frosts caused the move to Los Angeles when he was a year old.[^nhra][^leg] He attended LA Polytechnic High and built a Model T roadster that is now at the Museum of American Speed. It has a flathead V8 with Maxi heads, which moved the exhaust valves into the head.[^leg][^hag] In 1940 Jimmy Summers "pounded out a few dents" on that T for $10 ([Jimmy Summers](jimmy-summers.md)).[^summers] During the war he served in the Army Air Forces Air Transport Command in the Pacific.[^leg]
 
 ## Cams, and trouble
 
@@ -61,7 +61,7 @@ Then came cams. He was **mentored by Ed Winfield** in starting cam grinding.[^ha
 
 His last interview, in a nursing home south of LA in September 2025, ended with "Goodbye, boys!"[^hag]
 
-Frosts had ruined the vineyard. The family had moved when he was a year old. He was **mentored by Ed Winfield** in starting cam grinding. He was a founding member and first president of SEMA (1963), and its last surviving founder. The interview ended with "Goodbye, boys!"
+Severe frosts had sent the family to Los Angeles when he was a year old. He was **mentored by Ed Winfield** in starting cam grinding. He was a founding member and first president of SEMA (1963), and its last surviving founder. The interview ended with "Goodbye, boys!"
 
 *See also:* [Jack Engle](jack-engle.md).
 
@@ -72,7 +72,7 @@ Frosts had ruined the vineyard. The family had moved when he was a year old. He 
 <figcaption markdown>US 2,846,988, sheet 1: Isky's earliest patent found (1956). The text gives his address as Inglewood, Calif. Creator: Edward Iskenderian (inventor); USPTO. Date: filed 1956-10-30, issued 1958-08-12. Source: [Google Patents](https://patents.google.com/patent/US2846988A/en). License: Public domain (U.S. patent drawing).</figcaption>
 </figure>
 
-[^nhra]: Phil Burgess, "Ed Iskenderian, beloved 'Camfather' of hot rodding, passes away at 104," NHRA, Feb 4, 2026. https://nhra.com/news/2026/ed-iskenderian-beloved-camfather-hot-rodding-passes-away-104 (accessed 2026-10-13)
+[^nhra]: Phil Burgess, "Ed Iskenderian, beloved 'Camfather' of hot rodding, passes away at 104," NHRA, Feb 4, 2026. https://nhra.com/news/2026/ed-iskenderian-beloved-camfather-hot-rodding-passes-away-104 (accessed 2026-11-19)
 [^hag]: Brandan Gillogly, "Ed Iskenderian, 'The Camfather,' Has Passed Away at Age 104," Hagerty, Feb 4, 2026. https://www.hagerty.com/media/news/ed-iskenderian-the-camfather-has-passed-away-at-age-104/ (accessed 2026-10-13)
 [^cd]: Elana Scherr, Car and Driver, Feb 4, 2026. https://www.caranddriver.com/news/a70250198/ed-isky-iskenderian-obituary/ (accessed 2026-10-13)
 [^sema]: SEMA News, "SEMA and PRI Mourn the Loss of Industry Icon Ed 'Isky' Iskenderian, 104." https://www.sema.org/news-media/enews/2026/06/sema-and-pri-mourn-loss-industry-icon-ed-isky-iskenderian-104 (accessed 2026-10-12)

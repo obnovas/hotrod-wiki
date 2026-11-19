@@ -54,7 +54,7 @@ Cruising Van Nuys Boulevard went back to a "regular Saturday-night parade down t
 
 ## Policing and the end
 
-The crowds brought the rules. Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980. The LA Times (1986) says major crime on cruise nights was up "five to 10 times" by 1978.[^lat86]
+The crowds brought the rules. By 1978, the *LA Times* wrote in 1986, major crime on cruise nights was up "five to 10 times." Signs reading "No Stopping 9 p.m. to 12 Midnight" went up in 1980.[^lat86]
 
 Sjoquist told Hot Rod that earlier captains had tried no-parking signs and ticket sweeps. When "confronted with Wednesday-night crowds of 10,000 to 15,000," the LAPD got permission to close the street at its discretion.[^hr81]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> When the street closed is still open.
 

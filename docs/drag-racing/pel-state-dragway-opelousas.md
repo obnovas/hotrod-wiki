@@ -75,7 +75,7 @@ related:
 - eras/1960s-drag-rags.md
 canonical_for: []
 location: The Opelousas, La., airport; Esterwood, La., before it[^d4hof][^rdavid]
-peak: 1958–1968
+peak: 1958–1970
 ---
 # Christmas Lights and a Panel-Truck Tower: W. H. and Jayne David's Pel State Dragway (Opelousas, La., 1955–1970)
 
@@ -99,7 +99,7 @@ Every strip in Louisiana worked that way, one racer remembered. Max Williamson, 
 
 By Rick David's count his grandfather at one point had four NHRA-sanctioned tracks running at once in Louisiana: Opelousas, Hammond, Lake Charles and Houma.[^rdavid] The racers place themselves on that map. Leonard G. Sitzman beat "Power Glide Pete" for the trophy at the Hammond airport in August 1957 in his '57 Chevy, on his way back to LSU. Williamson, between 1955 and 1962, raced Pel State, Hammond, Houma, Lake Charles, Alexandria and Mansfield, and his club, the Cenla Gents of Alexandria, put on its own races at the old Pollock airport and at Esler Field in Pineville.[^dslla] David Lambdin, who won the state C Sports title in a '63 Corvette convertible, raced Pel State in 1966 and 1967.[^dslla]
 
-The Division 4 page closes Pel State in 1968.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> Only that page gives the year. David then helped build the strip at Baton Rouge, "State Capital Raceway" on that page and "State Capitol Dragway" to his grandson, which opened in 1970.[^d4hof][^rdavid]
+The Division 4 page closes Pel State in 1968.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> Only that page gives the year. W. H. David then helped build the strip at Baton Rouge, "State Capital Raceway" on that page and "State Capitol Dragway" to his grandson, which opened in 1970.[^d4hof][^rdavid]
 
 ## The fuel test and the Christmas tree
 

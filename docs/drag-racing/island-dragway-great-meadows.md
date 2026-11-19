@@ -74,7 +74,7 @@ status: Racing (2026)
 ---
 # A Golf Course or a Racetrack: Island Dragway, Great Meadows (1960–2026)
 
-*He couldn't decide between a golf course and a racetrack, and the family strip is now the last one in New Jersey*
+*He wanted either a golf course or a racetrack, and the family strip is now the last one in New Jersey*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the founding, the floods and the reopening come from the family itself, through a county magazine in 2021 and the track's own history, with the Warren County daily's reports of 2010 and 2013; the 1964 record is well documented but its "first" is argued; the racers' memories are one each) · **Source types:** <span class="hr-badge">Grassroots</span> *Inside Warren* (2021); *The Express-Times* (2010, 2013); racers' memories on *Drag Strip List*; the track's own history; *Wander Jersey* (2026); *MotorTrend* (2013) · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ⚠ 1959 or 1960; ⚠ the first 200; ⚠ the year Edward Kowalick died; ◐ the Frantic Four's 7.92 · [How we rate this](../reference/source-standards.md)
@@ -84,7 +84,7 @@ status: Racing (2026)
 
     — Melissa Milano, third-generation operator, *Inside Warren*, April 2021.[^iw21]
 
-When California started building drag strips, Edward Kowalick was looking for something to do with his farm in Great Meadows. The family story, as his granddaughter Melissa tells it from her mother, is that he couldn't decide between a golf course and a racetrack, until he announced: "We're going to bring this drag racing stuff to the east coast." In the late '50s construction began, and the first races were held in 1960.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^iw21] Whether that was 1959 or 1960 is still open. He and his wife Catherine built it on part of their fields, just off Route 46 and Hope Road.[^lvl10][^lvl13] The strip uses 43 acres of the family's 500.[^iw21]
+When California started building drag strips, Edward Kowalick was looking for something to do with his farm in Great Meadows. The family story, as his granddaughter Melissa tells it from her mother, is that he wanted to build either a golf course or a racetrack. He announced: "We're going to bring this drag racing stuff to the east coast." In the late '50s construction began, and the first races were held in 1960.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^iw21] Whether that was 1959 or 1960 is still open. He and his wife Catherine built it on part of their fields, just off Route 46 and Hope Road.[^lvl10][^lvl13] The strip uses 43 acres of the family's 500.[^iw21]
 
 Where the name came from, nobody knows for sure, and no one is left who could say. One theory: "Back in the 1800s or so, when this was all marshland, that was called Rose Island. This was always called Island Farm, so the drag strip just became Island Dragway." The other is that the land is ringed by water, "the ditches and the Pequest River on the far end – it's an island. It could be either one."[^iw21] Rhea Fountain was there "in its opening year" and kept a friend's middle eliminator trophy from March 25, 1961.[^dslnj] *Car Craft*'s 1961 calendar had the strip racing "Every Sunday, weather permitting" ([Pocono strips](pocono-strips.md)).
 

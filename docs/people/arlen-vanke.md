@@ -40,11 +40,11 @@ canonical_for: []
 *c. 1937–2017. He built the cars in a garage without a proper lift*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** obituary, HOF, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Start year conflict (1951 vs 1953) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** obituary, HOF, secondary · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Start year conflict (1951 vs 1953); the strip's exact close ◐ · [How we rate this](../reference/source-standards.md)
 
 Hemmings says Arlen Vanke built cars "in a residential garage that didn't even have a proper lift."[^hem] From that garage he started at the Akron airport strip and went on to Knafel Pontiac, Mopar and Pro Stock. Hemmings says his dual-quad Hemi work coined the word "Vanked."
 
-NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup><sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether he started in 1951 or 1953 is still open.
+NHRA (2017) calls the Akron airport strip "the first NHRA sanctioned racetrack east of the Mississippi River." In 2016 it received an Ohio Historical Marker naming Vanke, Walt and Art Arfons, and Otis "Otie" Smith.[^nhra]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether he started in 1951 or 1953 is still open. The Knafel site says the strip opened in 1951 and ran until 1959.[^tin]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The Ohio marker, quoted on the [Akron page](../drag-racing/akron-fulton-airport.md), says "In 1951" and "for the next eight years."
 
 Then came the '56 Chevy gasser. MMSHOF says Arlen and his father Lou found that "for another $200" a Chevy coupe could have the Corvette options. The car won "36 straight victories in regional events."[^mm]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
@@ -64,7 +64,7 @@ He died June 15, 2017, at a care facility in Deming, New Mexico. Hemmings gives 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did he start?** MMSHOF says his first race was in **1953**, at sixteen, at Akron Municipal Airport in a 1940 flathead Ford sedan.[^mm] Hemmings says that in **1951** his mother watched him lose and then wrote a $600 check for parts.[^hem] The Knafel Pontiac fan site gives the car's times as 14.80 at 87 mph with tri-carbs. It says he raced B/Gas every weekend in summer 1953 and usually lost to George Montgomery's Cadillac-powered '34 Ford.[^tin] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **When did Akron's strip open and close?** The Knafel site says it opened in 1951 and ran until 1959;[^tin] we have no second source for the dates. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did the strip close in 1959?** The Knafel site says it opened in 1951 and ran until 1959.[^tin] The Ohio marker also says "In 1951" and "for the next eight years," which is about 1959, and the [Akron page](../drag-racing/akron-fulton-airport.md) has not found a closing notice. The opening year is in both. The exact close is still the Knafel site's. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **36 straight wins?** The figure comes only from the Michigan Motor Sports Hall of Fame.[^mm] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

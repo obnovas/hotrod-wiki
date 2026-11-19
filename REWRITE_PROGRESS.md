@@ -23,10 +23,10 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `companies/moroso.md` | done | batch 6 |
 | `companies/mr-gasket.md` | done | batch 2 |
 | `companies/prewar-speed-shops.md` | done | batch 13 |
-| `companies/southern-california-plating.md` | done | batch 6 |
+| `companies/speedway-motors-lincoln.md` | done | round 44, written in the voice |
 | `companies/summit-racing.md` | done | batch 5 |
 | `companies/web-of-influence.md` | done | batch 14 |
-| `customs/hirohata-mercury.md` | done | batch 14 |
+| `customs/daves-dream-chimayo-lowrider.md` | done | round 44, written in the voice |
 | `customs/kkoa-lead-sled-revival.md` | done | batch 14 |
 | `customs/ozark-drifters-ceola-scrapbook-arkansas.md` | done | batch 10 |
 | `drag-racing/akron-fulton-airport.md` | done | batch 2 hedged the deck's first marker to the 2016 report |
@@ -39,9 +39,9 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `drag-racing/beeline-dragway-mesa.md` | done | batch 7 |
 | `drag-racing/belleville-gear-jammers.md` | done | batch 3 |
 | `drag-racing/big-spring-lions-club-drag-strip-deshazo.md` | done | batch 11 |
-| `drag-racing/biloxi-dragway-gulf-coast.md` | todo | |
+| `drag-racing/biloxi-dragway-gulf-coast.md` | done | model article for the voice |
 | `drag-racing/blaney-drag-strip-elgin-south-carolina.md` | done | batch 9 |
-| `drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md` | done | batch 8 |
+| `drag-racing/broadway-speedway-knoxville-eddie-harvey.md` | done | round 43, written in the voice |
 | `drag-racing/brooksville-jaycees-drag-strip.md` | done | batch 4 |
 | `drag-racing/bunker-hill-dragstrip-indiana.md` | done | batch 8 |
 | `drag-racing/cameron-accelerators.md` | done | batch 6 |
@@ -163,8 +163,8 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `eras/1950s-santa-ana-drags.md` | done | batch 2 |
 | `eras/1960s-drag-rags.md` | done | batch 10 |
 | `eras/1970s-street-rod-nationals.md` | done | batch 4 |
-| `eras/1980s-pro-street.md` | done | batch 11 |
-| `media/hot-august-nights-reno-1986.md` | done | batch 14 |
+| `eras/1990s-pro-touring-garage-engineers.md` | done | round 43, written in the voice |
+| `media/american-graffiti-petaluma-1972.md` | done | round 43, written in the voice |
 | `media/show-circuit.md` | done | batch 13 |
 | `media/street-rod-magazine-portland.md` | done | batch 10 |
 | `media/street-rod-newspaper-serial.md` | done | batch 10 |
@@ -191,11 +191,11 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `people/george-riley.md` | done | batch 5 |
 | `people/howard-johansen.md` | done | batch 6 |
 | `people/jack-engle.md` | done | batch 6 |
-| `people/jimmy-summers.md` | done | batch 7 |
+| `people/joe-bailon-candy-apple.md` | done | round 43, written in the voice |
 | `people/joe-lunati.md` | done | batch 4 |
 | `people/julian-doty.md` | done | batch 6 |
 | `people/keith-black.md` | done | batch 7 |
-| `people/kong-jackson.md` | done | batch 6 |
+| `people/larry-watson-bellflower-paint.md` | done | round 44, written in the voice |
 | `people/malcolm-durham.md` | done | batch 3 |
 | `people/peggy-hart.md` | done | batch 4 |
 | `people/red-greth.md` | done | batch 7 |
@@ -204,7 +204,7 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `people/setto-postoian.md` | done | batch 3 |
 | `people/stu-hilborn.md` | done | batch 4 |
 | `people/tom-beatty.md` | done | batch 6 |
-| `people/tom-mcewen.md` | done | batch 4 |
+| `people/tony-nancy-sherman-oaks-trimmer.md` | done | round 44, written in the voice |
 | `people/veda-orr.md` | done | batch 5 |
 | `places/bobs-big-boy-river-road.md` | done | batch 10 |
 | `places/brookside-restless-ribbon-tulsa.md` | done | batch 11 |
@@ -232,8 +232,8 @@ Status: `done` has had a narrative pass. `todo` has not. Batch 4 is a start-to-f
 | `places/whittier-blvd.md` | done | batch 14 |
 | `places/woodward-ordinances.md` | done | batch 11 |
 | `places/woodward.md` | done | batch 4 |
-| `street-rodding/fiberglass-suppliers.md` | done | batch 10 |
-| `street-rodding/nsra-early-nationals.md` | done | batch 3 |
+| `street-rodding/back-to-the-50s-msra-st-paul-1974.md` | done | round 43, written in the voice |
+| `street-rodding/lodi-mini-nats-goodguys-meadors.md` | done | round 44, written in the voice |
 | `voices/blackie-gold.md` | done | batch 14 |
 | `voices/dallas-folksay-custom-automotive.md` | done | batch 12 |
 | `voices/esparza-brothers.md` | done | batch 14 |

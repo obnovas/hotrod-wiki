@@ -60,7 +60,7 @@ status: Unknown after the first seasons; our only source is Deshazo's own accoun
 
 ## A project of the month
 
-Deshazo had gone to the 1954 national meet at Caddo Mills, Texas, where the top speed in the quarter mile was 98.8 mph, "an astounding" number to him then, and that was where he decided he wanted in.[^hl]
+Deshazo remembered the 1954 national meet at Caddo Mills, Texas, where the top speed in the quarter mile was 98.8 mph, "an astounding" number to him then, and right away he wanted in.[^hl]
 
 Big Spring's drag strip is the story of a whole town saying yes at once. Howard Deshazo wrote that on November 5, 1956, at a meeting of the new Big Spring Lions Club, Capt. R. O. Franz, then stationed at Webb Air Force Base, moved that "A Drag Strip For Big Spring" be adopted as the club's "project of the month." In the passage he quotes from his own *Hot Rod* article of January 1958: "Less than 55 days later Big Spring had its first full-fledged drag event, backed by every civic organization in the city and sanctioned by NHRA."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>[^hl]
 
@@ -82,7 +82,7 @@ He remembered the place by its name. They had brought drag racing, he wrote, to 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **The Lions Club, the 55 days and the roster.** All of it is Deshazo's own account, written decades later, plus his quotation of his own 1958 article. The page we read is a repost of a Rust and Chrome magazine item on the Highland Lakes Timing Association's site.[^hl] We do not know the date of the Lions Club meeting's minutes or of the first event; by his arithmetic it was before the end of 1956, but he gives no day. A *Big Spring Daily Herald* scan from late 1956 or early 1957, which the Texas Tech Southwest Collection holds, would settle it; its files refused our fetch. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Is the Lions Club story, the 55 days and the roster all Deshazo's account?** All of it is Deshazo's own account, written decades later, plus his quotation of his own 1958 article. The page we read is a repost of a Rust and Chrome magazine item on the Highland Lakes Timing Association's site.[^hl] We do not know the date of the Lions Club meeting's minutes or of the first event; by his arithmetic it was before the end of 1956, but he gives no day. A *Big Spring Daily Herald* scan from late 1956 or early 1957, which the Texas Tech Southwest Collection holds, would settle it; its files refused our fetch. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Was it the first mobile timing unit?** Deshazo's own words, and he hedges them with "perhaps anywhere in the country."[^hl] We have no other account of the van. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

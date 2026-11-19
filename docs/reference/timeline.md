@@ -47,7 +47,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1950 | The Rod Benders (1950–54), first on the Sioux Falls, S.D., club list | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
 | 1950s | Tulsa teenagers cruise Peoria Avenue through Brookside, the "Restless Ribbon," centered on Pennington's Drive-In | [Restless Ribbon](../places/brookside-restless-ribbon-tulsa.md) |
 | 1950 | The Provo Clutchers race on the Provo, Utah, airport runway (Sept 30): 15 cars, the only race held there | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
-| 1950 | Garlits races a stock 1940 Ford at Zephyrhills Airport the same month Santa Ana opens (June) | [Don Garlits](../people/don-garlits.md) |
+| 1950 | Garlits races a 1940 Ford convertible at Zephyrhills Airport the same month Santa Ana opens (June; ⚠ stock or a Mercury engine) | [Don Garlits](../people/don-garlits.md) |
 | 1950 | Roanoke's Gas Gobblers, Southwest Virginia's earliest listed hot rod club; Starkey Speedway opens in November | [Roanoke](../drag-racing/roanoke-drag-strip-southwest-virginia.md) |
 | 1950 ⚠ | Eugene's Road Kings, organized by former police chief Keith Jones, hold their "first full-fledged hot-rod meet" at Mahlon Sweet Airport (Sept 3; an Aug 20 first race also claimed ⚠) | [Eugene & White City](../drag-racing/eugene-balboa-white-city-oregon.md) |
 | 1951 | Hirohata Merc built (build time disputed). Beatty's belly tank on the salt | [Hirohata](../customs/hirohata-mercury.md), [Tom Beatty](../people/tom-beatty.md) |

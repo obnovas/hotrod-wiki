@@ -55,7 +55,7 @@ principal_source:
 
 In 1934 Julian Doty made his first trip to Muroc with his uncle George, in George's Cragar-powered '29 Model A roadster, and he spent seventy years on the lakes.[^ahrf] He paid for a head on layaway. From 1972 he signed the official timing slips. His mother Evelyn was George DuVall's sister.[^cb]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> Whether he was present when the SCTA was founded is still open.
 
-He paid for speed a little at a time. He bought a Miller-Schofield head for $120 at $5 a week. In 1940 his '31 Model A roadster topped 101 mph at Muroc, and he drove it on the street until 1972 (90,000 miles).[^ahrf]
+He paid for speed a little at a time. He bought a Miller head for $120 at $5 a week. The foundation spells the name Schoefeld. In 1940 his '31 Model A roadster topped 101 mph at Muroc, and he drove it on the street until 1972 (90,000 miles).[^ahrf]
 
 The war took him to Germany, but not away from the lakes. In 1945, he wrote to *S.C.T.A. News* from Germany (Vol. II, No. 14): "I hope to have a car running next year."[^ahrf] It is a direct example of the wartime letters described on the [Veda Orr](veda-orr.md) page.
 

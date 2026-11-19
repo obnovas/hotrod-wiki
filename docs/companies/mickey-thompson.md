@@ -1,6 +1,6 @@
 ---
 title: 'Mickey Thompson: The Pressman Who Dug the Post Holes Himself'
-summary: Mickey Thompson dug the post holes for his own drag strip after his shift at the Los Angeles Times. The pressman with a garage and no money went on to the slick, the slingshot and a mail-order wheel.
+summary: Mickey Thompson dug the post holes for his own drag strip after his shift at the Los Angeles Times. The pressman with a garage and no money went on to the slingshot, the slick and a mail-order wheel.
 department: companies
 era: 1960s
 eras:
@@ -50,7 +50,7 @@ canonical_for: []
 ---
 # Mickey Thompson: The Pressman Who Dug the Post Holes Himself
 
-*He dug the post holes himself after the shift at the Los Angeles Times, then the slick, the slingshot and a mail-order wheel*
+*He dug the post holes himself after the shift at the Los Angeles Times, then the slingshot, the slick and a mail-order wheel*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** *Hot Rod* profile (Dec 1978; Thompson in his own words), NHRA *National Dragster* editor's photo feature (2013, quoting a 2013-era biography), SEMA Hall of Fame (1984), Wikipedia (secondary), a RACER company history that names Thompson's wheels · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** ⚠ who deserves credit for the slingshot dragster and when it debuted; ⚠ the Brighton 1963 story; ◐ nearly every "first" below is Thompson's own claim; the Mickey Thompson tire and wheel brand's later ownership was not traced; no Alhambra or El Monte local-paper coverage found yet · [How we rate this](../reference/source-standards.md)

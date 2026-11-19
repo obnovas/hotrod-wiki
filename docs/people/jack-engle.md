@@ -74,7 +74,7 @@ The family caption has the homemade grinder in early 1941, before Isky ground hi
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **Did Engle grind cams before Isky?** This is family oral history, from his son Mark to Kustomrama.[^kr] The Winfield link fits the mentoring story on the [Iskenderian](ed-iskenderian.md) page. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did the business start?** Four versions, in the table above: grinding from 1939 and Engle Manufacturing Co. from 1941 (the company's obituary flyer[^obit]); "since 1941" (englecams.com[^site]); 1942 (Kustomrama[^kr]); Engle Racing Cams in 1950 (Wikipedia[^wiki]). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did the business start?** Four versions, in the table below: grinding from 1939 and Engle Manufacturing Co. from 1941 (the company's obituary flyer[^obit]); "since 1941" (englecams.com[^site]); 1942 (Kustomrama[^kr]); Engle Racing Cams in 1950 (Wikipedia[^wiki]). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **North American Aviation before and after the war?** Only Wikipedia says so.[^wiki] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

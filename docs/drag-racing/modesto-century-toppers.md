@@ -1,5 +1,5 @@
 ---
-title: 'Modesto''s Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946–50)'
+title: 'Modesto''s Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946 or 1947–50)'
 summary: 'Modesto''s first hot rod club, the Century Toppers, met in a converted chicken coop, at Windy''s Custom Shop, and in 1949 the paper shows them working with the Highway Patrol. Whether the club began in 1946 or late 1947 is still open.'
 department: drag-racing
 eras:
@@ -39,7 +39,7 @@ related:
 - voices/show-custom-voices.md
 canonical_for: []
 ---
-# Modesto's Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946–50)
+# Modesto's Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946 or 1947–50)
 
 *A club that met in a converted chicken coop, worked with the Highway Patrol in 1949, and an open year, 1946 or late 1947*
 
@@ -51,7 +51,7 @@ canonical_for: []
 
     — **Gene Winfield**, interviewed by Chris Murphy for Modestoview (undated, about the Modesto Cruise Route opening).[^int]
 
-The Century Toppers were Modesto's first hot rod club, named for cars that could top 100 mph. They met in a converted chicken coop, at his "Windy's Custom Shop," and in 1949 the paper shows the club working with the California Highway Patrol.[^mv] Whether that was 1946 or late 1947 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+The Century Toppers were Modesto's first hot rod club, named for cars that could top 100 mph. They met in a converted chicken coop, at Gene Winfield's shop, "Windy's Custom Shop," and in 1949 the paper shows the club working with the California Highway Patrol.[^mv] Whether that was 1946 or late 1947 is still open.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
 
 It started in a chicken coop. Winfield began customizing in his mother's converted chicken coop on Figaro Street, and the club met at his "Windy's Custom Shop," per Modestoview and Kustomrama. Later he moved to 451 Tully Road, across from Modesto Junior College.[^int][^kr]
 

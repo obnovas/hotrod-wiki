@@ -228,7 +228,7 @@ themes:
         q: Why does Cordova, Illinois, matter?
         a: >-
           It is where an unknown Don Garlits earned a "name." At the 1957 World Series of Drag Racing, Emery Cook
-          showed him how to build a hand-operated fuel pressure pump and Garlits beat Cook & Bedwell in the
+          showed him how to build a hand-operated fuel pressure pump. Garlits ran 139 mph with it, then beat Cook & Bedwell in the
           semis; Detroit's Setto Postoian then beat him in the final of both the 1957 and 1958 World Series,
           though a 1958 preview reads as 1956 and 1957 (⚠ see Open questions).
         link: drag-racing/detroit-cordova.md#1957-the-garlits-upset
@@ -533,12 +533,13 @@ themes:
       - id: west-virginia-first-strip
         q: Where did drag racing start in West Virginia?
         a: >-
-          Near Winfield, in Putnam County. The Kanawha Valley Drag Strip opened there in 1958, the state's first
-          organized strip, and ran until 1976; a founder of the state's drag racing hall of fame says the Ohio racers
-          came because it raced on Sundays (⚠ see Open questions).
+          Near Winfield, in Putnam County. The Kanawha Valley Drag Strip opened there in 1958. The state marker
+          calls it the state's first organized strip (◐ see Open questions), and it ran until 1976; a founder of
+          the state's drag racing hall of fame says the Ohio racers came because it raced on Sundays
+          (⚠ see Open questions).
         link: drag-racing/kanawha-valley-drag-strip-winfield.md
         also: [drag-racing/quaker-city-salem.md, drag-racing/chardon-road-ravens-thompson-drag-strip.md]
-        flag: drag-racing/kanawha-valley-drag-strip-winfield.md#q-1
+        flag: [drag-racing/kanawha-valley-drag-strip-winfield.md#q-2, drag-racing/kanawha-valley-drag-strip-winfield.md#q-1]
       - id: hawaii-before-statehood
         q: Was there drag racing in Hawaii before statehood?
         a: >-
@@ -949,7 +950,7 @@ themes:
         q: Why was Memphis's drag strip at an amusement park?
         a: >-
           Lakeland Dragway was built by Louis Garner's Lakeland Development Corporation as one attraction of
-          its park on a man-made lake east of Memphis (⚠ 1960 or 1961, see Open questions). Five local racers took the lease in 1963, and the strip
+          its park on a man-made lake east of Memphis (⚠ 1960 or 1961, see Open questions). In 1963 the company leased the strip to five local racers, and the strip
           outlived the park, closing in 1979.
         link: drag-racing/lakeland-dragway-amusement-park.md
         also: [places/memphis.md]
@@ -1083,9 +1084,10 @@ themes:
       - id: what-is-dragging-main
         q: What does "dragging Main" mean?
         a: >-
-          In towns with one main street, teenagers drove from one end to the other and back until midnight,
-          and called it dragging Main. Most of the kids who wrote it down meant a slow parade, but in Twin
-          Falls, Idaho, in 1957 it meant racing any other carload down the avenue.
+          In towns with one main street, teenagers drove from one end to the other and back, and called it
+          dragging Main. The 1987 Hays yearbook says Main was hard to cross from 8 p.m. to midnight. Most of
+          the kids who wrote it down meant a slow parade, but in Twin Falls, Idaho, in 1957 it meant racing
+          any other carload down the avenue.
         link: places/dragging-main.md
         also: [places/twin-falls-main-avenue.md, places/cruising-overview.md]
       - id: how-did-cruising-end
@@ -1396,12 +1398,13 @@ themes:
       - id: who-was-don-garlits
         q: Who was Don Garlits before he was Big Daddy?
         a: >-
-          A Tampa bookkeeper who raced a stock '40 Ford at Zephyrhills in June 1950, joined the Strokers,
-          built Swamp Rat I on Chevrolet rails and turned pro after a California challenge in 1959. He later
-          built the rear-engine Top Fueler and the museum near Ocala (⚠ frame year; see Open questions).
+          A Tampa bookkeeper who raced a 1940 Ford convertible at Zephyrhills in June 1950 (⚠ stock, or a
+          Mercury engine; see Open questions), joined the Strokers, built Swamp Rat I on Chevrolet rails and
+          turned pro after a California challenge in 1959. He later built the rear-engine Top Fueler and the
+          museum near Ocala (⚠ frame year; see Open questions).
         link: people/don-garlits.md
         also: [drag-racing/brooksville-jaycees-drag-strip.md, people/don-prudhomme.md]
-        flag: people/don-garlits.md#q-1
+        flag: [people/don-garlits.md#q-4, people/don-garlits.md#q-1]
       - id: who-was-don-prudhomme
         q: Who is Don "the Snake" Prudhomme?
         a: >-

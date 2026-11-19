@@ -1,5 +1,5 @@
 ---
-title: 'An Uphill Shutdown and a Pistol at City Council: Erie''s Mountain View Dragway and Colorado Beyond Bandimere (1959–1976)'
+title: 'An Uphill Shutdown and a Pistol at City Council: Erie''s Mountain View Dragway and Colorado Beyond Bandimere'
 summary: 'Erie''s Mountain View Dragway had a shutdown that climbed like a carnival slide. Around it were Thunder Road at 96th and Tower Road, Century 21 from 1971 to 1974, and a 1974 meet where a rancher landed a Cessna, before Pueblo''s strip opened in 1976.'
 department: drag-racing
 era: 1960s
@@ -95,7 +95,7 @@ canonical_for: []
 location: Erie, about 10 miles north of the Denver metro area and west of I-25; Thunder Road at 96th and Tower Road; Century 21 south of today's Denver International Airport; Midway on the old runway at the south end of the Grand Junction airport[^dz11][^dslco][^aur25]
 peak: 1960s–1976
 ---
-# An Uphill Shutdown and a Pistol at City Council: Erie's Mountain View Dragway and Colorado Beyond Bandimere (1959–1976)
+# An Uphill Shutdown and a Pistol at City Council: Erie's Mountain View Dragway and Colorado Beyond Bandimere
 
 *A strip run "with an iron fist," and a shutdown that climbed "just like a kids' carnival slide," with a rancher's Cessna on the way to a 1976 Pueblo strip*
 

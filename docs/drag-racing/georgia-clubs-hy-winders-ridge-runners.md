@@ -91,7 +91,7 @@ In May 1964, in Chattooga County, Summerville's mayor, J. R. Dowdy, called a pub
 
 The club set a $5 entrance fee and $1 monthly dues, washed cars at Fowler's Standard Service for $1.50 (and raised about $62), and invited Otto Timms, "owner of the Calhoun drag strip," to speak.[^sn640611][^sn640618] By late July it had about $400. "Investors for the drag strip are needed and the cost is estimated at $15,000," the paper reported, and "Many members are going to the Paradise Drag Strip in Calhoun."[^sn640730] In August Groover announced a site on the Jerry Hamby property on Dry Valley Road, about three miles west of town, which the club planned "to lease," and the mayor urged the public to help, saying "The land for the drag strip has already been donated."[^sn640806][^sn640813]<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> Whether the land was leased or donated is still open. The club named a "Safe Driver of the Month" from its own members. The prize was "a wax job done by the other members."[^sn640820]
 
-The Summerville paper did not follow the strip to an ending. In 1988 it profiled a former member, John "Monk" Groover, 48, then racing stock cars at Woodstock and Rome. In the 1960s, it said, the "Ridge Runners Club" had been "a group of friends in Chattooga County who, according to other former members, raced on county roads. They decided the illegal midnight road racing was too dangerous for themselves as well as others, so they formed the club and leased a drag track in Calhoun."[^sn880428]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup><sup class="hr-q" id="qr-7"><a href="#q-7" title="Open question: see the bottom of the page">?</a></sup> Whether "Monk" Groover was the 1964 president is still open. Forest Park had a backer and a use permit still open. Perry's editor had told the young man to build his own drag strip. Summerville had a site, leased or donated, still open. The clubs had set out to build the strip. The papers do not show a strip built.
+The Summerville paper did not follow the strip to an ending. In 1988 it profiled a former member, John "Monk" Groover, 48, then racing stock cars at Woodstock and Rome. In the 1960s, it said, the "Ridge Runners Club" had been "a group of friends in Chattooga County who, according to other former members, raced on county roads. They decided the illegal midnight road racing was too dangerous for themselves as well as others, so they formed the club and leased a drag track in Calhoun."[^sn880428]<sup class="hr-q" id="qr-6"><a href="#q-6" title="Open question: see the bottom of the page">?</a></sup> Whether "Monk" Groover was the 1964 president is still open. Forest Park had a backer and a use permit still open. Perry's editor had told the young man to build his own drag strip. Summerville had a site, leased or donated, still open. The clubs had set out to build the strip. The papers do not show a strip built.
 
 ## Open questions & disputed details
 
@@ -109,11 +109,9 @@ The Summerville paper did not follow the strip to an ending. In 1988 it profiled
 
 <a id="q-6" class="hr-q-anchor"></a>**Open question.** **Is "Monk" Groover the 1964 president?** The 1988 profile does not say that John "Monk" Groover was the club's president, only a member; the 1964 president is "John Groover." The ages fit (48 in 1988), but we have not confirmed they are the same man.[^sn880428] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
-<a id="q-7" class="hr-q-anchor"></a>
-
 ### Next leads
 
-Forest Park papers for July–December 1958 (the use permit); a Paulding County paper for the Dallas strip; the *Houston Home Journal* for Oct. 20, 1960 (the letter); the *Summerville News* for 1964–65 (Dry Valley) and the Calhoun papers for Otto Timms and the Paradise Drag Strip. <a class="hr-q-back" href="#qr-7" title="Back to the story">↩</a>
+Forest Park papers for July–December 1958 (the use permit); a Paulding County paper for the Dallas strip; the *Houston Home Journal* for Oct. 20, 1960 (the letter); the *Summerville News* for 1964–65 (Dry Valley) and the Calhoun papers for Otto Timms and the Paradise Drag Strip.
 
 ## Sources
 

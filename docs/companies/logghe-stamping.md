@@ -61,7 +61,7 @@ canonical_for: []
 
     — Eddie Schartman on his first Logghe flip-top Comet, Dec 1965 (NHRA.com, 2016). [Context](../people/eddie-schartman.md)
 
-Gene Logghe was burned in the brothers' own dragster at **Ubly Dragway** on a 187 mph run in 1962. Their father then forbade them to drive diggers.[^mms][^gar] They kept building them. The Logghe Stamping Company of Fraser, Michigan, turned a Big Three bracketry shop into the chassis house that defined early Funny Cars.
+Gene Logghe was burned in the brothers' own dragster at **Ubly Dragway** on a 187 mph run in 1962.[^mms] Their father then forbade them to drive diggers.[^gar] They kept building them. The Logghe Stamping Company of Fraser, Michigan, turned a Big Three bracketry shop into the chassis house that defined early Funny Cars.
 
 It began as their father's business. Morris Logghe, a Belgian immigrant, founded Logghe Stamping as an automotive bracketry company serving Detroit's Big Three.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup> The founding year is 1946 vs 1947.
 
@@ -77,7 +77,7 @@ Demand outran the shop. Wikipedia (citing secondary histories) notes other build
 
 The race-car side became a business of its own. They formed a Competition Products division for race cars and parts. The Garlits Museum says the shop later turned out over 600 race cars (Funny Cars, diggers, Pro Stocks, Altereds, Bonneville cars, even go-karts).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^gar] *Car Craft* named Logghe Funny Car Chassis Builder of the Year 1967–70.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>[^gar]
 
-Racing chassis work at Logghe Stamping was discontinued in 1975.[^mms] The stamping company itself closed in 2013.[^gar] They were NHRA Hot Rod Reunion honorees in 2006. The MMSHOF inducted them in 2010. The Garlits Museum / IDRHOF class was 2021.[^mms][^gar] Ron Logghe died May 27, 2020; Gene died August 2021 (MMSHOF).[^mms][^gar]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>
+Racing chassis work at Logghe Stamping was discontinued in 1975.[^mms] The stamping company itself closed in 2013.[^gar] They were NHRA Hot Rod Reunion honorees in 2006. The MMSHOF inducted them in 2010. The Garlits Museum / IDRHOF class was 2021.[^mms][^gar] Ron Logghe died May 27, 2020; Gene died August 2021 (MMSHOF).[^mms]<sup class="hr-q" id="qr-8"><a href="#q-8" title="Sources disagree: see Open questions">⚠</a></sup>
 
 Their father forbade them to drive diggers. They kept building, and the Fraser shop built the flip-top Funny Cars.
 
