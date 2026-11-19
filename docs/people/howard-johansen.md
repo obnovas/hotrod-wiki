@@ -64,9 +64,9 @@ The cams came next. The company's own history says he and his wife founded Howar
 
 Johansen did more than grind cams. He also built injectors, aluminum heads, forged aluminum rods and flywheels (Hot Rod, 1989).[^hr89]
 
-The products won races. The Inliners International "12 Port Story" says that by the end of 1952, Howard-equipped cars held 12 of 13 records at the Fontana, Santa Ana, Saugus and San Diego strips. In 1952 he also cast an aluminum wedge-chamber 12-port head for the GMC six, patterned on the 1953 Cadillac chamber.[^ilp] The same source says NHRA turned down his aircraft-style cable steering.[^ilp]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+He raced, too. He brought a twin-tank streamliner (engine in one tank, driver in the other) to the SCTA's first Bonneville meet in 1949. Hot Rod (Oct 1949) reported 147.54 mph on its first run, but "the car, which was rigidly sprung, failed to handle correctly on later runs and was withdrawn."[^tt] He raced it until 1953.[^tt]
 
-He raced, too. He brought a twin-tank streamliner (engine in one tank, driver in the other) to the SCTA's first Bonneville meet in 1949. Hot Rod (Oct 1949) reported 147.54 mph on its first run, but "the car, which was rigidly sprung, failed to handle correctly on later runs and was withdrawn."[^tt] He raced it until 1953 and built a second twin-tank car in 1954.[^tt]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The products won races. The Inliners International "12 Port Story" says that by the end of 1952, Howard-equipped cars held 12 of 13 records at the Fontana, Santa Ana, Saugus and San Diego strips. In 1952 he also cast an aluminum wedge-chamber 12-port head for the GMC six, patterned on the 1953 Cadillac chamber.[^ilp] The same source says NHRA turned down his aircraft-style cable steering.[^ilp]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> He built a second twin-tank car in 1954.[^tt]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 Hot Rod's obituary also lists a chopped '36 five-window streamliner with a Marmon V16 and an early '55 Chevy that took on the Oldsmobiles of Gene Adams and others.[^hr89]
 

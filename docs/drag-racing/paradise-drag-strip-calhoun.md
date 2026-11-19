@@ -74,13 +74,13 @@ The driver was Mrs. Virginia Quarles, 30, of Rome, with her husband, Frank Quarl
 
 Gordon County Sheriff Hughdon Davis quoted Mrs. Quarles as saying the car began to "fishtail" a moment after the start and "she was never able to get it under control." He said it was the first time a serious incident had occurred at "the legal drag racing strip here," where, he said, races were held nearly every Sunday.[^ac610403] The Associated Press version ran as far away as Butler, in Taylor County, under the headline "Man Is Killed As Drag Racer Hits Crowd."[^bh610406]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup> The papers do not agree how far from the start the car left the track.
 
-Eight years later, after the 1969 crash at the [Yellow River Drag Strip](yellow-river-covington.md) near Covington, which UPI first reported had killed eleven people (later local reports said twelve; see [the death toll](yellow-river-covington.md#q-3)), a UPI story listed Georgia's earlier drag strip deaths: a boy killed at Dallas, Ga., in 1965, and "In 1961 a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident."[^gdn690303]
-
 ## The man from the Calhoun drag strip (1964–65)
 
 In 1964 the Ridge Runners, a hot rod club in Summerville, over in Chattooga County, wanted a strip of their own, and they asked the man who had one. "The principal owner of the Calhoun drag strip, Leo Otto Timms," the *Summerville News* announced, would come to the Recreation Center "to discuss the mechanics of establishing a drag strip, including financing and other matters." The club figured a track would cost $10,000 to $20,000.[^sn640604]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> By late July the club had raised some $400 toward a strip now estimated at $15,000. While it looked for investors, "Many members are going to the Paradise Drag Strip in Calhoun."[^sn640730] The club's side of the story, and its Dry Valley site, is told in [Who Builds the Strip?](georgia-clubs-hy-winders-ridge-runners.md)
 
 The *News*'s neighborhood columns show who went. In April 1965 one column reported that Donnie Maddox and Donald Day "took a little elimination at Brainerd Optimist Drag Strip in Chattanooga, Tenn. Saturday night and gas elimination at Paradise Rrag Strip [sic] at Calhoun, Sunday." Mrs. Day and the children had gone along to Brainerd.[^sn650415] In October 1967 two couples "enjoyed the races at 'Paradise Drag Strip' in Calhoun Sunday."[^sn671019]
+
+After the 1969 crash at the [Yellow River Drag Strip](yellow-river-covington.md) near Covington, which UPI first reported had killed eleven people (later local reports said twelve; see [the death toll](yellow-river-covington.md#q-3)), a UPI story listed Georgia's earlier drag strip deaths: a boy killed at Dallas, Ga., in 1965, and "In 1961 a similar wreck killed an 8-year-old boy in a Calhoun drag racing accident."[^gdn690303]
 
 ## Still racing (2007–17)
 

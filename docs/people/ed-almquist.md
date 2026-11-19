@@ -64,9 +64,9 @@ Those shipboard notes became a business. He printed two small books on a borrowe
 
 ## Shifters, shifts in the market
 
-The market moved on. Hemmings says the mail-order business declined after the 1955 small-block Chevy, which "Ed wasn't ready for."[^hem]
+He diversified. Almquist started Sparkomatic in 1954, with partner Jonas Anchel.[^thr]
 
-He had already diversified: Almquist started Sparkomatic in 1954, with partner Jonas Anchel. A 1959 partnership with **George Hurst and Bill Campbell** on floor shifters dissolved, and the Times Herald-Record calls him co-designer of the Hurst shifter.[^thr]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
+The market moved on. Hemmings says the mail-order business declined after the 1955 small-block Chevy, which "Ed wasn't ready for."[^hem] A 1959 partnership with **George Hurst and Bill Campbell** on floor shifters dissolved, and the Times Herald-Record calls him co-designer of the Hurst shifter.[^thr]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
 
 The obituary lists Almquist Engineering, Sparkomatic and **Offy Products** "through 1965," more than 100 products, and 7 U.S. patents. He later wrote *Hot Rod Pioneers*.[^obit] He received the International Drag Racing Hall of Fame Founder's Award in 2011.[^hof]
 
