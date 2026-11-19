@@ -57,7 +57,7 @@ His son Lee remembered how it began: Jimmy and his brother Bill worked as street
 
 James Merlin Traft Summers was born September 22, 1913, in Lewistown, Montana, and died October 24, 1968.[^k] Most of what we know comes from Sondre Kvipt's interviews with his children (Lee, Kris, Karen) and family albums, published in *The Rodder's Journal* #83 (2020) and on Kustomrama.[^k] Nearly everything below comes from that one family-sourced research project.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
-By the late 1930s, his shop was at 7919 Melrose Ave., across from Fairfax High School.[^k] Alex Xydias, a Fairfax student, recalled "just four plastered walls, a bare concrete floor, and a gas jet" lit on cold mornings,[^k] and in a later interview said he watched the shop guys for hours "until they'd kick me out."[^sm] Tom Sparks (who worked for Roy Hagy c.1942–43) told Pat Ganahl that Summers "was like a god to us."[^k]
+By the late 1930s, his shop was at 7919 Melrose Ave., across from Fairfax High School.[^k] Somewhere in the family albums sits his 1938 Muroc timing tag: 94.73 mph with a stock V8.[^k] Alex Xydias, a Fairfax student, recalled "just four plastered walls, a bare concrete floor, and a gas jet" lit on cold mornings,[^k] and in a later interview said he watched the shop guys for hours "until they'd kick me out."[^sm] Tom Sparks (who worked for Roy Hagy c.1942–43) told Pat Ganahl that Summers "was like a god to us."[^k]
 
 His customers knew what they wanted. Xydias described the customer mindset: they "did not want Summers to provide them with a hot Ford as much as they wanted him to provide them with a fake Cord."[^k]
 
@@ -65,7 +65,7 @@ His customers knew what they wanted. Xydias described the customer mindset: they
 
 After the war he added a product line. From 1946–47 Summers sold stamped "Summers Fender Extensions" for 1942–48 Chevrolets, Pontiacs and junior Buicks; a 1948 Hot Rod ad lists $69.50 per primered set.[^k] *Popular Mechanics* (May 1947) reported about one hand-tailored car per week.[^k]
 
-In 1962 he built the body for [Tony Nancy](tony-nancy-sherman-oaks-trimmer.md)'s dragster.[^k] And somewhere in the family albums sits his 1938 Muroc timing tag: 94.73 mph with a stock V8.[^k]
+In 1962 he built the body for [Tony Nancy](tony-nancy-sherman-oaks-trimmer.md)'s dragster.[^k]
 
 They had tools in a bag and went from block to block. The shop was at 7919 Melrose, across from Fairfax High.
 

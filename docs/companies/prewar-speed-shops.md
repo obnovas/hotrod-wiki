@@ -65,19 +65,19 @@ The first came out of a junkyard. George Wight started a junkyard in Bell, Calif
 
 The junkyard became a parts lab. Per the Jalopy Journal, hot rodders brought back reports on parts they ran, and Wight kept notes on what worked. When **Cragar** (Harlan Fengler and Crane Gartz's company, which had taken over the Miller-Schofield/Goossen "Valve-in-Head" Model A head) failed in 1932, Wight bought the heads, patterns and tooling after six months of negotiation. He got the price under $100 by 1933 and introduced an "Improved Cragar Head" in 1935.[^jj]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> The price, and that head, are one account so far.
 
-The shop outlived him. Wight died in 1943. His widow ran the shop until **Roy Richter** bought it in 1945. Richter built it into an early mail-order speed shop and sold it to Chuck Strader in 1978; Strader ran it in Huntington Beach until 1987.[^hem][^jj]
-
 ## Lee Chapel, c. 1929
 
 Lee Chapel came next. A c.1950 catalog posted on the H.A.M.B. claims 21 years in business for Lee's Speed Shop, which implies **1929**.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> The year is an inference from that catalog. Lee's was at 3263 San Fernando Rd., LA (sharing a junkyard), moved in 1933 to 4557 Alhambra Ave., closed in 1937 while Chapel toured with a midget, and reopened in 1939 at 1143 E. 14th St., **Oakland**.[^hem]
 
 ## Jim White, 1932
 
-Batchelor's list leaves one out, and Hemmings adds him. Based on Roger Harrell's book, Jim White's Speed Shop opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main, run with brother Nick Harrell until **1976**.[^hem]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The run until 1976 is one account so far.
+Batchelor's list leaves one out, and Hemmings adds him. Based on Roger Harrell's book, Jim White's Speed Shop opened in 1932 near San Pedro & 99th in South Central LA, moved mid-1933 to 11006 S. Main, then in 1940 to 10924 S. Main.[^hem]
 
 ## Karl and Veda Orr, 1940
 
-Then came the Orrs. The Orr Speed Shop opened in 1940 at **11140 Washington Place, Culver City**. It closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] See [Veda Orr](../people/veda-orr.md). Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k]
+Then came the Orrs. The Orr Speed Shop opened in 1940 at **11140 Washington Place, Culver City**.[^hem] The Bell shop outlived Wight. He died in 1943. His widow ran the shop until **Roy Richter** bought it in 1945. Richter built it into an early mail-order speed shop.[^hem][^jj] Veda Orr also photographed for *California Timing News* (Feb 1947 photos of the Summers Merc).[^k] The Orr shop closed sometime in the 1950s and reopened in the 1960s on Sierra Highway in Mint Canyon.[^hem] See [Veda Orr](../people/veda-orr.md).
+
+Jim White ran the shop at 10924 S. Main with his brother Nick Harrell until **1976**.[^hem]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup> The run until 1976 is one account so far. Richter sold Bell Auto Parts to Chuck Strader in 1978; Strader ran it in Huntington Beach until 1987.[^hem][^jj]
 
 First there was the junkyard in Bell. Then Lee Chapel, then Karl Orr, and Jim White, the name Batchelor left out. Then everyone got into the act.
 

@@ -43,7 +43,7 @@ canonical_for: []
 
 ## From fake Cords to lead sleds
 
-Early customizing (c.1935–1946) was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k] The vocabulary grew with the work: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] The know-how traveled on paper, in Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs] The next era was named for the lead.
+Early customizing (c.1935–1946) was called "restyling," and the goal was a "fake Cord," not a hot Ford. Grilles, bumpers and trim were swapped from more expensive makes, and insignias were removed.[^k] The vocabulary grew with the work: chopped tops, DuVall windshields, padded Carson tops, solid or leaded-in rear fenders, fadeaway fenders.[^k] The know-how traveled on paper, in Dan Post's *Blue Book of Custom Re-Styling* and a pamphlet from Pennsylvania's [Ed Almquist](../people/ed-almquist.md).[^revs] The GMC blower was in the engine work by 1948.[^ahrf] The next era was named for the lead.
 
 From about 1949 to 1955 the look was lowering, de-chroming, deep metallic paint, reshaped fenders, top chops and sectioning, with seams and holes finished in tin and lead (hence "lead sleds").[^revs] The chopped '49–'51 Mercury became the defining canvas after Sam Barris's '49.[^revs]
 
@@ -53,7 +53,7 @@ Not every builder reached for the same material. Roy Hagy "didn't like to use mu
 
 ## Under the hood
 
-The engine side had its own words. "Semi," "three-quarter," and "full race" cam grades come from Winfield's master cams ([Ed Winfield](../people/ed-winfield.md)).[^w] Add multi-carb intakes (Thickstun, Weiand, Edelbrock Slingshot, Navarro), milled or aluminum heads, and the GMC blower by 1948.[^ahrf]
+The engine side had its own words. "Semi," "three-quarter," and "full race" cam grades come from Winfield's master cams ([Ed Winfield](../people/ed-winfield.md)).[^w] Add multi-carb intakes (Thickstun, Weiand, Edelbrock Slingshot, Navarro) and milled or aluminum heads.[^ahrf]
 
 Decades later the street got a style of its own, [Pro Street](../eras/1980s-pro-street.md), from 1979 to the late 1980s.
 
