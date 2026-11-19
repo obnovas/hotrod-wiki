@@ -990,3 +990,27 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [family] "Racing," Eddie's Auto Parts, Knoxville. http://w.eddiesautopartsknoxville.com/eddiesautopartsknoxville.com/racing.php
 - [obit] "Edward R. 'Eddie' Harvey," Mynatt Funeral Homes, April 2014. https://www.mynattfh.com/obituaries/edward-r-eddie-harvey
 - [book] David McGee, *A History of East Tennessee Auto Racing: The Thrill of the Mountains* (The History Press, 2014).
+
+## Round 44 additions (Larry Watson, Tony Nancy, Dave's Dream, the Lodi Mini-Nats and Goodguys, Speedway Motors)
+- [ref] "Larry Watson," Kustomrama, with recollections by Keith Christensen and Roger O'Dell (2020), Dave Ellis (2019) and Teddy Zgrzemski (2021). https://kustomrama.com/wiki/Larry_Watson
+- [local] Eric Pierce, "Legendary custom painter Larry Watson dead at 69," *The Downey Patriot*, Aug. 19, 2010. https://www.thedowneypatriot.com/articles/legendary-custom-painter-larry-watson-dead-at-69
+- [mag] Tim Bernsau, "Larry Watson Passes Away," *Street Rodder*, via HotRod.com, July 21, 2010. https://www.hotrod.com/news/1007sr-larry-watson-passes-away
+- [local] "Remembering a custom-car icon," *Victor Valley Daily Press*, July 29, 2010 (paywalled; search excerpt only). https://www.vvdailypress.com/story/news/2010/07/29/remembering-custom-car-icon/37084123007/
+- [hof] "Tony Nancy," American Hot Rod Foundation (quoting Tommy Sparks and Tom Madigan's *The Loner*). https://ahrf.com/pioneer/tony-nancy/
+- [mag] Hemmings Contributor, "They called him 'The Loner'," *Hemmings*, Sept. 23, 2018. https://www.hemmings.com/stories/they-called-him-the-loner/
+- [corp] Gary Medley, "Tony Nancy – Hot Rodding's Swiss Army Knife," Fuel Curve (Goodguys). https://fuelcurve.com/tony-nancy/
+- [web] "In Memory: Tony 'Loner' Nancy," WAG Times fan memorial page, 2019. http://wagtimes.com/drivertonynancy.html
+- [local] "It's High Time: Low-Rider Is 'Real Americana'," *Deseret News*, Apr. 5, 1992. https://www.deseret.com/1992/4/5/18977021/it-s-high-time-low-rider-is-real-americana/
+- [web] "Lowriders," Hotel Chimayó de Santa Fe. https://www.hotelchimayo.com/experience/lowriders
+- [museum] National Museum of American History, "Lowrider: Dave's Dream," the "Dave's Dream" exhibition page and press release (May 24, 2022); National Museum of African American History and Culture, "Lowriders" (search excerpts only). https://americanhistory.si.edu/explore/exhibitions/daves-dream
+- [mag] Mark Vaughn, "Goodguys Rod & Custom founder Gary Meadors, 1939–2015," *Autoweek*, Dec. 2015. https://www.autoweek.com/car-life/a1883081/goodguys-rod-custom-founder-gary-meadors-1939-2015/
+- [trade] "Gary Meadors, Founder of Goodguys Rod & Custom Association, Passes Away," SEMA eNews, 2015. https://www.sema.org/news-media/enews/2015/53/gary-meadors-founder-goodguys-rod-custom-association-passes-away
+- [corp] "Legends of Hot Rodding: Gary Meadors' '32 Ford Tudor Sedan," *Goodguys Gazette*, Feb. 2023. https://goodguys.mydigitalpublication.com/articles/legends-of-hot-rodding?article_id=4443042&i=775531
+- [mag] "Goodguys Rod & Custom Association: Jamming the Gears for Over 30 Years," *Street Trucks* (interview with John Drummond). https://www.streettrucksmag.com/goodguys-rod-custom-association-jamming-the-gears-for-over-30-years/
+- [club] "1973 & 1974 LODI Mini Nats," The H.A.M.B., thread begun Jan. 15, 2018 by HEMI32 (a Nor-Cal Early Iron member's son), with firsthand posts. https://www.jalopyjournal.com/forum/threads/1973-1974-lodi-mini-nats.1093196/
+- [obit] "Retro Rumblings: 'Low Fat' Larry Westervelt 1943–2021," Fuel Curve (Goodguys), 2021. https://fuelcurve.com/larry-westervelt/
+- [mag] Damon Lee, "History of Speedway Motors: Six Decades of Speed," *Rod & Custom*, June 1, 2012, via HotRod.com (also cited in Round 22-West). https://www.hotrod.com/news/1206rc-history-of-speedway-motors
+- [museum] "Bill Smith," Museum of American Speed, Lincoln, Neb. https://www.museumofamericanspeed.org/billsmith.html
+- [obit] Thom Taylor, "Speedy Bill Smith of Speedway Motors Dead at 84," HotRod.com, 2014. https://www.hotrod.com/news/speedy-bill-smith-of-speedway-motors-dead-at-84
+- [trade] "SEMA Hall of Famer 'Speedy' Bill Smith Passes Away," SEMA eNews, 2014. https://www.sema.org/news-media/enews/2014/23/sema-hall-famer-speedy-bill-smith-passes-away
+- [book] Bill Smith with Dave Argabright, autobiography (2009), excerpt "Cool Man Window Tint: a Speedy Bill adventure." https://daveargabright.com/the-story-blog/cool-man-window-tint-a-speedy-bill-adventure/

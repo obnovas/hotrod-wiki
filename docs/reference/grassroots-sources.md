@@ -244,6 +244,27 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 44 additions
+- Firsthand forum posts: the H.A.M.B. thread "1973 & 1974 LODI Mini Nats" (2018–21), with a Nor-Cal Early Iron member's son's slides, his list of every Lodi, Merced and Pleasanton event from 1973 to 1990, and memories of a poker run, a spark plug contest and a transmission rebuilt overnight → [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md).
+- Oral recollections collected by a volunteer wiki: Kustomrama's 2019–21 interviews with Keith Christensen, Roger O'Dell, Dave Ellis and Teddy Zgrzemski → [Larry Watson](../people/larry-watson-bellflower-paint.md).
+- Local newspapers: *The Downey Patriot* (2010) → Larry Watson; the *Deseret News* (1992), quoting the widow, the first owner and a car-club member → [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md).
+- Founders in their own words: Bill Smith's recollections in *Rod & Custom* (2012) and his 2009 autobiography, and the family's Museum of American Speed → [Speedway Motors](../companies/speedway-motors-lincoln.md); Tommy Sparks's interview and Tom Madigan's *The Loner*, via the American Hot Rod Foundation → [Tony Nancy](../people/tony-nancy-sherman-oaks-trimmer.md).
+- A fellow club member's obituary: Larry Westervelt in Fuel Curve (2021) → Lodi & Goodguys.
+
+### Round 44 status
+| Archive | Round 44 status |
+|---|---|
+| *Victor Valley Daily Press* (Watson obituary, 2010) | HTTP 402 paywall; the Internet Archive refused the copy; search excerpt only, not quoted. |
+| Smithsonian pages (americanhistory.si.edu, nmaahc.si.edu) | Verification page; search excerpts only, paraphrased, not quoted. |
+| Georgia Historic Newspapers (*Covington News*, 1978) | Verification challenge; the Covington, Ga., *Dukes of Hazzard* story held. |
+| covnews.com, horsepowermemories.com, an Angelfire page | 404, 500 and timeout; not used. |
+| Charlotte, N.C., landmarks PDF | Connection failed again; Charlotte held. |
+| Historypin | HTTP 403; not used. |
+| *Lincoln Journal Star* | HTTP 429; Speedway's 1952 opening not found in the paper this round. |
+| Kustomrama | Blocked to our command-line fetcher; read through a second fetcher. |
+| Cedar Falls (NEITA) | A family obituary turned up but does not mention the strip; held. |
+| Google Patents | No Round 44 patents. |
+
 ### Round 43 additions
 - Local newspapers and columns: the *Petaluma Argus-Courier* (2007/2019, 2008, 2022, 2023) → [Petaluma & *American Graffiti*](../media/american-graffiti-petaluma-1972.md); Jack Neely's *Metro Pulse* "Secret History" column (2003) → [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md); John Sweeney's *Cruisin' News* column (2017) → [Joe Bailon](../people/joe-bailon-candy-apple.md).
 - Club newsletters and histories: Jerry Johnson's July 1974 *LineChaser* report and the MSRA's own history → [Back to the 50's](../street-rodding/back-to-the-50s-msra-st-paul-1974.md); Kustomrama's scans of 1950s Bay Area and Fresno newspaper clippings → Joe Bailon.

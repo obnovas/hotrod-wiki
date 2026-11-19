@@ -81,7 +81,7 @@ Sebern said he gave up racing after a Hoover High senior was killed in a '32 For
 
 ## From a parking lot to the pros
 
-The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming Don Prudhomme, Kenny Stafford, Tom Jandt, Tony Nancy, Bob Muravez and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
+The Leader says that in the 1960s "about 40 Road Kings were racing professionally," naming Don Prudhomme, Kenny Stafford, Tom Jandt, [Tony Nancy](../people/tony-nancy-sherman-oaks-trimmer.md), Bob Muravez and Ivo.[^bl] This is the clearest case in this section of a hangout that fed a generation of pro drag racers.
 
 Bob's itself is still there. The restaurant history page says Friday-night car shows and weekend carhop service were brought back during the restoration of the building.[^bob] An LA Times columnist (2013) quotes a regular: "I tell them I lived 'American Graffiti' right here."[^lat13] They had met at Bob's to show off their jalopies. The challenges had been settled on the River Road. About 40 Road Kings were racing professionally.
 

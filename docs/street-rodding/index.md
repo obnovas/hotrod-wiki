@@ -7,6 +7,7 @@ Street rodding grew out of hot rodding in the late 1960s. It was a hobby of driv
 *Short on time?* The [Quick Answers](../reference/quick-answers.md#street-rodding-vs-hot-rodding) give the short version of the big questions about street rodding, each with a link to the full story.
 
 - [NSRA & the Early Nationals](nsra-early-nationals.md): Peoria 1970, Memphis 1971, St. Paul 1974, and the 1948-and-older rule.
+- [Come Get Stuck in Lodi: the Mini-Nats and How Goodguys Began](lodi-mini-nats-goodguys-meadors.md): Nor-Cal Early Iron's 1973 weekend at the Lodi fairgrounds, 566 entries written by hand, a spark plug contest, and the yellow Deuce that became a logo (⚠ 1983 or 1987).
 - [A Tune-Up for the Nats: Back to the 50's (St. Paul, 1974)](back-to-the-50s-msra-st-paul-1974.md): the MSRA rehearses for hosting the Nationals with a Friday-night cruise from the Midway lot, ambushes a theater letting out of *American Graffiti*, and grows to about 12,000 cars (⚠ the first night's count).
 - [Fiberglass Bodies & Early Suppliers](fiberglass-suppliers.md): Diablo, Cal Automotive, Wescott's.
 - The hobby's press: [*Street Rod* Magazine (Portland, 1971–73)](../media/street-rod-magazine-portland.md), filed under [Media & Shows](../media/index.md).

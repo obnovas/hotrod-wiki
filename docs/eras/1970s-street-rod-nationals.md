@@ -78,7 +78,7 @@ Two years after the event, *Hot Rod* gave the same count: the first Nationals "d
 
 The 7th floor never approved it. The staff went ahead anyway, and that hayfield in Peoria is where the 600 street rods came.
 
-*See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md).
+*See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md); [Speedway Motors](../companies/speedway-motors-lincoln.md), at the first Nationals in 1970; [Come Get Stuck in Lodi](../street-rodding/lodi-mini-nats-goodguys-meadors.md), the West Coast's Mini-Nats.
 
 ## Images
 

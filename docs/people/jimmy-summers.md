@@ -65,7 +65,7 @@ His customers knew what they wanted. Xydias described the customer mindset: they
 
 After the war he added a product line. From 1946–47 Summers sold stamped "Summers Fender Extensions" for 1942–48 Chevrolets, Pontiacs and junior Buicks; a 1948 Hot Rod ad lists $69.50 per primered set.[^k] *Popular Mechanics* (May 1947) reported about one hand-tailored car per week.[^k]
 
-In 1962 he built the body for Tony Nancy's dragster.[^k] And somewhere in the family albums sits his 1938 Muroc timing tag: 94.73 mph with a stock V8.[^k]
+In 1962 he built the body for [Tony Nancy](tony-nancy-sherman-oaks-trimmer.md)'s dragster.[^k] And somewhere in the family albums sits his 1938 Muroc timing tag: 94.73 mph with a stock V8.[^k]
 
 They had tools in a bag and went from block to block. The shop was at 7919 Melrose, across from Fairfax High.
 

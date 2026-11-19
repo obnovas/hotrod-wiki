@@ -112,7 +112,7 @@ Bailon died September 25, 2017, at 94, two days after a stroke.[^ahrf][^kr] Miss
 
 The red is in every paint shop's vocabulary now. What it came from was a man who wanted a whole car the color of the taillight in front of him, and who gave the method away with the paint.
 
-*See also:* [Customs and Custom Techniques](../cars/techniques-and-styles.md); [The Show Circuit](../media/show-circuit.md); the [KKOA lead-sled revival](../customs/kkoa-lead-sled-revival.md), which brought Bailon back as a guest of honor.
+*See also:* [Customs and Custom Techniques](../cars/techniques-and-styles.md); [The Show Circuit](../media/show-circuit.md); the [KKOA lead-sled revival](../customs/kkoa-lead-sled-revival.md), which brought Bailon back as a guest of honor; [Larry Watson](larry-watson-bellflower-paint.md), who used candy for his panel paint jobs; and [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md), a New Mexico lowrider in candy-apple red lacquer.
 
 ## Open questions & disputed details
 

@@ -105,7 +105,7 @@ By 1968 Jim Davis, "longtime president of the Missouri Valley Timing Association
 
 The teenager in 1954 had told them to go out to Scribner. Lincoln's clubs had the oval, O Street, and the airport, and they had asked for a fourth, a sanctioned strip near home.
 
-*See also:* [Engraving His Own Trophies](nebraska-flightland-grand-island-kearney.md), what came next: the blank trophies a Lincoln racer engraved, Omaha Dragway at Flightland, and a Kearney strip whose opening a 2014 anniversary dates to July 5, 1964.
+*See also:* [Engraving His Own Trophies](nebraska-flightland-grand-island-kearney.md), what came next: the blank trophies a Lincoln racer engraved, Omaha Dragway at Flightland, and a Kearney strip whose opening a 2014 anniversary dates to July 5, 1964; and [Speedway Motors](../companies/speedway-motors-lincoln.md), the story of the shop that donated the 1956 ad.
 
 ## Open questions & disputed details
 

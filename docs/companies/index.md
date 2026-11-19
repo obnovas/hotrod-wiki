@@ -34,6 +34,7 @@ The smaller outfits, where the person and the shop were nearly the same thing.
 - [Logghe Stamping](logghe-stamping.md): Fraser, Mich.; Ron & Gene Logghe's flip-top Funny Car chassis (1966).
 - [Southern California Plating Co.](southern-california-plating.md): Leonard DeBell's promotional trucks and the lost 1935 phaeton.
 - [Honest Charley Speed Shop](honest-charley-speed-shop.md): a Chattanooga lunch counter's nickname, a hand-drawn catalog, and the mail-order book Southwest Virginia's hot rodders called their bible (⚠ McCallie Avenue in 1948 or the mid-1950s; ⚠ died 1974 or 1975).
+- [Speedway Motors](speedway-motors-lincoln.md): a 400-square-foot Lincoln store on a $300 loan, an empty box on the shelf for every part, orders on the evening bus, and a founder who never moved to California (⚠ fiancée or wife).
 - Also covered on people pages: Winfield, Riley, Navarro Racing Equipment, Chet Herbert Cams, So-Cal Speed Shop, Summers Fender Extensions.
 
 ## How the profiles are built

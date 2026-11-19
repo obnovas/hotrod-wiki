@@ -86,7 +86,7 @@ nodes:
   - {id: amc,        label: American Motors (1966-68 list), type: institution, page: companies/hurst-campbell.md}
   - {id: sema,       label: SEMA,            type: institution, page: people/ed-iskenderian.md}
   # ---- Round 22-West: Lincoln, Palm Springs
-  - {id: speedway,   label: Speedway Motors, type: company, group: garage-born, page: drag-racing/nebraska-go-out-to-scribner.md}
+  - {id: speedway,   label: Speedway Motors, type: company, group: garage-born, page: companies/speedway-motors-lincoln.md}
   - {id: dwells,     label: Dick Wells,      type: person,  page: people/dick-wells.md}
   - {id: lincoln,    label: "Lincoln, Neb.", type: place,   page: drag-racing/nebraska-go-out-to-scribner.md}
   - {id: coons,      label: Bud Coons,       type: person,  page: drag-racing/pomona-choppers-fontana.md}

@@ -1967,3 +1967,59 @@ highlights:
     added: '2026-11-18'
     eras: [1990s]
     regions: ['Scottsdale, Ariz.']
+
+  - id: watson-shop-under-off-ramp
+    headline: Larry Watson's first paint shop is, by one friend's account, buried under a freeway off-ramp
+    teaser: The Bellflower painter who made paint the custom started in a garage on Palm Street. In 2020 Roger
+      O'Dell told Kustomrama exactly where it stood, under the westbound 91 off-ramp for Bellflower Boulevard.
+    link: people/larry-watson-bellflower-paint.md#a-shop-under-the-off-ramp
+    evidence: ["The shop area is buried under the off ramp.", "where the westbound 91 freeway off-ramp for Bellflower Boulevard runs today"]
+    source_type: [Oral history]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-19'
+    eras: [1950s]
+    regions: ['Bellflower, Calif.']
+
+  - id: lodi-spark-plug-contest
+    headline: The 1973 Lodi Mini-Nats had a spark plug changing contest for the women
+    teaser: A club member's son, 11 at the time, shared his father's slides in 2018 and remembered the rules
+      of Nor-Cal Early Iron's contest; another man remembered riding a poker run in a Model A pickup bed.
+    link: street-rodding/lodi-mini-nats-goodguys-meadors.md#lodi-1973
+    evidence: ["first lady to change all 8 plugs, jump-in, & start the car was the winner.", "riding in the box of a Model A pickup with his brother on a poker run"]
+    source_type: [Forum post]
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-19'
+    eras: [1970s]
+    regions: ['Lodi, Calif.']
+
+  - id: speedway-empty-box
+    headline: Speedway Motors' founder put an empty box on the shelf for every part he sold
+    teaser: In a 400-square-foot Lincoln store opened on a $300 loan in 1952, Bill Smith put each new part in
+      the window and its empty box on the shelf, "making it look like I had two of them."
+    link: companies/speedway-motors-lincoln.md#two-of-everything
+    evidence: ["making it look like I had two of them.", "400-square-foot building at 2232 O Street"]
+    source_type: [Trade press, Museum / HOF]
+    confidence: Medium
+    flag: none
+    grassroots: false
+    added: '2026-11-19'
+    eras: [1950s]
+    regions: ['Lincoln, Neb.']
+
+  - id: daves-dream-first-lowrider-museum
+    headline: A Chimayó family's lowrider left for the Smithsonian in 1992, its builder's portrait on the fender
+    teaser: David Jaramillo died in 1978 with his '69 LTD unfinished; his family and a car club finished it.
+      "I don't think he'd be able to believe it," his widow said the week it was shipped.
+    link: customs/daves-dream-chimayo-lowrider.md#a-blessing-before-the-truck
+    evidence: ["I don't think he'd be able to believe it.", "This is the first low-rider in the history of the world, to my knowledge, that's going into a museum"]
+    source_type: [Local news]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-19'
+    eras: [1970s, 1990s]
+    regions: ['Chimayó, N.M.']

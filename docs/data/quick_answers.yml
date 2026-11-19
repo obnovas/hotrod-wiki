@@ -1275,6 +1275,16 @@ themes:
         link: companies/honest-charley-speed-shop.md
         also: [drag-racing/roanoke-drag-strip-southwest-virginia.md, companies/jegs.md]
         flag: [companies/honest-charley-speed-shop.md#q-1, companies/honest-charley-speed-shop.md#q-4]
+      - id: speedway-motors-empty-box
+        q: How did Speedway Motors start?
+        a: >-
+          In 1952, in a 400-square-foot store at 2232 O Street in Lincoln, Nebraska, on a $300 loan from Joyce.
+          Bill Smith put each new part in the window and its empty box on the shelf so he looked stocked, and he
+          shipped mail orders on the evening bus. Whether Joyce was his fiancée or his wife yet is told two ways
+          (⚠ see Open questions).
+        link: companies/speedway-motors-lincoln.md
+        also: [drag-racing/nebraska-go-out-to-scribner.md]
+        flag: companies/speedway-motors-lincoln.md#q-1
   - id: people
     title: People
     questions:
@@ -1441,6 +1451,24 @@ themes:
         link: people/joe-bailon-candy-apple.md
         also: [customs/index.md]
         flag: people/joe-bailon-candy-apple.md#q-4
+      - id: larry-watson-panel-paint
+        q: Who was Larry Watson?
+        a: >-
+          A Bellflower, California, painter who made paint itself the custom. He started at 16, striping friends'
+          cars in his parents' driveway, covered paint runs with scallops, and taped a too-bright pearl Thunderbird
+          into panels in 1958; whether that was his first panel job is single-source (◐ see Open questions).
+        link: people/larry-watson-bellflower-paint.md
+        also: [people/joe-bailon-candy-apple.md, cars/techniques-and-styles.md]
+        flag: people/larry-watson-bellflower-paint.md#q-4
+      - id: tony-nancy-upholstery-racing
+        q: Why did upholsterer Tony Nancy go drag racing?
+        a: >-
+          By his engine builder Tommy Sparks's account, so people could see his upholstery work at the racetrack.
+          The Sherman Oaks trimmer won the 1963 NHRA Winternationals and kept his shop open throughout; other
+          accounts give other reasons (⚠ see Open questions).
+        link: people/tony-nancy-sherman-oaks-trimmer.md
+        also: [people/jimmy-summers.md]
+        flag: people/tony-nancy-sherman-oaks-trimmer.md#q-2
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1510,6 +1538,15 @@ themes:
           Open questions).
         link: customs/ozark-drifters-ceola-scrapbook-arkansas.md
         flag: customs/ozark-drifters-ceola-scrapbook-arkansas.md#q-1
+      - id: daves-dream-lowrider
+        q: What is Dave's Dream?
+        a: >-
+          A 1969 Ford LTD lowrider from Chimayó, New Mexico. David Jaramillo started customizing it and died in
+          1978; his family and the Los Bajitos car club finished it, and in 1992 it was blessed at the Santuario and
+          shipped to the Smithsonian. How much he finished himself is told two ways (⚠ see Open questions).
+        link: customs/daves-dream-chimayo-lowrider.md
+        also: [people/joe-bailon-candy-apple.md]
+        flag: customs/daves-dream-chimayo-lowrider.md#q-1
   - id: media-and-shows
     title: Media and shows
     questions:
@@ -1595,6 +1632,15 @@ themes:
         link: street-rodding/back-to-the-50s-msra-st-paul-1974.md
         also: [places/upper-midwest.md, street-rodding/nsra-early-nationals.md]
         flag: street-rodding/back-to-the-50s-msra-st-paul-1974.md#q-1
+      - id: lodi-mini-nats-goodguys
+        q: How did Goodguys begin?
+        a: >-
+          With a Fremont club's weekend in Lodi, California, in 1973, when Gary Meadors and his wife Marilyn
+          hand-recorded 566 hot rods for Nor-Cal Early Iron's Mini-Nats. The family later ran Goodguys from the
+          kitchen table; whether it began in 1983 or 1987 is disputed (⚠ see Open questions).
+        link: street-rodding/lodi-mini-nats-goodguys-meadors.md
+        also: [street-rodding/nsra-early-nationals.md]
+        flag: street-rodding/lodi-mini-nats-goodguys-meadors.md#q-1
   - id: how-we-know
     title: Sources and how we know
     questions:
