@@ -46,7 +46,7 @@ canonical_for:
 ---
 # Pappy Hart and the Bayonets
 
-*Santa Ana, 1950–59: Marines with fixed bayonets, then Pappy Hart's strip, until the county evicted him*
+*Santa Ana, 1950–59: by one account, Marines with fixed bayonets, then Pappy Hart's strip, until the county evicted him*
 
 !!! abstract "Article record"
     **Confidence:** High · **Source types:** obituaries (5+ agreeing), secondary · **Last verified:** 2026-10-27 (Round 24) · **Open issues:** Lions tenure conflict open; why a quarter mile ⚠ · [How we rate this](../reference/source-standards.md)

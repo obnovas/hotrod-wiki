@@ -67,7 +67,7 @@ status: Open; leased to Mark and Denise Cathell's SDM Promotions from 2022[^pr21
 
     — Charlie Cathell to WMDT (Salisbury, Md.), May 2015.[^wmdt15]
 
-The U.S. 13 Dragway started with a family that went looking for room for cars to stop, then bought a field that was too short. They fixed it by buying more of the field, and they were still running the place close to sixty years later.
+The U.S. 13 Dragway started with a family that went looking for room for cars to stop. By the family's history, the field came up short, and they bought more of it. A 2019 marker says the strip opened as a quarter mile. They were still running the place close to sixty years later.
 
 Bill Cathell and his son Charlie were go-kart fans first, by the track's own history. That turned into drag racing at Georgetown, Delaware's popular eighth-mile strip, and racing there gave them the idea for their own quarter mile, "after noticing the difficulty cars had stopping after reaching speeds of 100 miles per hour." Bill also wanted "a place where his son and his friends could drag race in a safe and controlled manner."[^hist] Charlie Cathell put it the same way to Salisbury's WMDT in 2015: his father wanted a dragway so Charlie and his friends would have a safe place to race.[^wmdt15]
 

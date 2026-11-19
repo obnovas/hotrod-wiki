@@ -50,7 +50,7 @@ tags:
 related:
 - people/don-prudhomme.md
 - people/roland-leong.md
-- people/don-garlits.md
+- drag-racing/kahuku-point-hawaii-drag-strip.md
 canonical_for: []
 ---
 # Keith Black: Rings in the Driveway and the KB Block (1926–1991)

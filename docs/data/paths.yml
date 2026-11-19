@@ -9,7 +9,7 @@ paths:
     purpose: "The site's signature story: the national pattern of local fights over runways, told in chronological order."
     steps:
       - page: drag-racing/modesto-century-toppers.md
-        why: "Start in 1946: a club, a chicken coop and the Highway Patrol, before there was anywhere legal to run."
+        why: "Start in 1946 or late 1947: a club, a chicken coop and the Highway Patrol, before there was anywhere legal to run."
       - page: drag-racing/sanford-cain-bannister.md
         why: "Meanwhile in New England: dawn races on an airport runway, then barricades for the pilots at Sanford, Maine."
       - page: drag-racing/pico-raceway-rutland-airport.md
@@ -40,10 +40,14 @@ paths:
         why: "In Kansas, neighbors ask a Maize farm family for a strip in 1963, and the family still owns it."
       - page: drag-racing/phoenix-west-side-karbs-litchfield-road.md
         why: "The 1955 Nationals finished at Perryville, Ariz. A West Valley teen club placed third there, and by 1959 the valley had its own strip."
+      - page: drag-racing/perryville-marsh-airstrip.md
+        why: "Perryville itself: rain washed out Great Bend, and Calvin Rice won NHRA's first championship on the Luke auxiliary field."
       - page: drag-racing/marana-army-air-field-drags.md
         why: "Northwest of Tucson, Arizona's oldest drag venue runs under Highway Patrol sanction until a CAA emergency-field order kills the night races and the street-racing uproar follows."
       - page: drag-racing/tucson-davis-monthan-speed-sport.md
         why: "In Tucson the sheriff raids the midnight races between two cattle guards, and the uproar opens a runway on an Air Force base."
+      - page: people/red-greth.md
+        why: "Red Greth, one of those Tucson racers: a fiberglass nose cut from alley drapes, and a B-29 steering wheel."
       - page: drag-racing/new-mexico-timing-association-albuquerque.md
         why: "Albuquerque races on a truck bypass the police close on Sundays, then spends eleven years getting a strip built on bonds."
       - page: drag-racing/half-day-ataa-maremont.md
@@ -326,6 +330,8 @@ paths:
         why: "A city loop in Tulsa, with a pecking order in the drive-in and a speed shop on the strip."
       - page: places/route-1-saugus-adventure-car-hop.md
         why: "Outside Boston, a car hop's lot sorts the hot rods to the best spots, and the race runs a quarter mile to the overpass."
+      - page: people/arnie-ginsburg.md
+        why: "The voice on the Night Train ads that sent listeners to that car hop, and the Ginsburger that came on a 45."
       - page: places/twin-falls-main-avenue.md
         why: "A Main Avenue that served as a drag strip."
       - page: places/denver-16th-street-colfax-scotchman.md

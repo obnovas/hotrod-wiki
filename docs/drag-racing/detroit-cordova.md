@@ -67,7 +67,7 @@ canonical_for:
 
 ## 1957: the Garlits upset
 
-In 1957 (Aug 21–25), an unknown Don Garlits ran only 133 mph at Cordova until Emery Cook showed him how to build a hand-operated fuel pressure pump. Garlits then beat Cook & Bedwell in the semis, 9.92/150 against 10.12/160. "Even Garlits admits [it] earned him a 'name.'" Detroit's [Setto Postoian](../people/setto-postoian.md) beat Garlits in the final of both the 1957 and 1958 ATAA World Series. Which two years Postoian won, the sources disagree (BangShift).[^bs]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
+In 1957 (Aug 21–25), an unknown Don Garlits ran only 133 mph at Cordova until Emery Cook showed him how to build a hand-operated fuel pressure pump. With it, Garlits clocked 139 mph. He then beat Cook & Bedwell in the semis, 9.92/150 against 10.12/160. "Even Garlits admits [it] earned him a 'name.'" Detroit's [Setto Postoian](../people/setto-postoian.md) beat Garlits in the final of both the 1957 and 1958 ATAA World Series. Which two years Postoian won, the sources disagree (BangShift).[^bs]<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>
 
 BangShift puts the meet in context. Because NHRA's Nationals were gas-only in 1957–58, BangShift argues that the AHRA meet at Great Bend and the ATAA World Series were the only true national gatherings of fuel cars before 1959.[^bs]
 

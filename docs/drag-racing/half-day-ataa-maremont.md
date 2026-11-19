@@ -1,5 +1,5 @@
 ---
-title: 'Half Day, Illinois: The Muffler Maker''s Drag Strip (1952–55)'
+title: 'Half Day, Illinois: The Muffler Maker''s Drag Strip (1952 or 1953–55)'
 summary: A Chicago muffler maker put its name on a drag strip at Half Day, Illinois, and then insisted on seat belts. Sources date the ATAA's first races there to 1952 or 1953, and in 1954 its World Series drew 350 hot rodders and 10,000 spectators.
 department: drag-racing
 eras:
@@ -51,7 +51,7 @@ related:
 canonical_for:
 - ataa-absorbed-1957
 ---
-# Half Day, Illinois: The Muffler Maker's Drag Strip (1952–55)
+# Half Day, Illinois: The Muffler Maker's Drag Strip (1952 or 1953–55)
 
 *A Chicago muffler company put its name on a drag strip at Half Day, and then it made seat belts standard equipment*
 

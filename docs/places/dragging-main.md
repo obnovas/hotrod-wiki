@@ -1,6 +1,6 @@
 ---
 title: 'Dragging Main: The Small-Town Loop, in the Kids'' Own Words (1950s–1980s)'
-summary: In towns with one main street, teenagers drove from one end to the other and back until midnight and called it dragging Main. Here it is in their own words (1950s–1980s).
+summary: In towns with one main street, teenagers drove from one end to the other and back and called it dragging Main. The 1987 Hays yearbook says Main was hard to cross from 8 p.m. to midnight.
 department: places
 era: 1950s
 eras:
@@ -54,7 +54,7 @@ canonical_for: []
 ---
 # Dragging Main: The Small-Town Loop, in the Kids' Own Words (1950s–1980s)
 
-*One main street, a loop until midnight, and the kids' own words for it: dragging Main*
+*One main street, a loop, and the kids' own words for it: dragging Main*
 
 !!! abstract "Article record"
     **Confidence:** Medium · **Source types:** <span class="hr-badge">Grassroots</span> high school yearbooks (Franklin, N.C., 1957–58; Scottsbluff, Neb., 1979; Hays, Kan., 1987), a university oral history (Richmond, Calif., interviews of 1985), and one small-town newspaper editorial already on this wiki (Twin Falls, Idaho, 1957), all read as scanned OCR · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** yearbooks speak for the students who wrote them, not for a whole town ◐; the 1987 Hays yearbook gives two different starting points for the loop ◐; no ordinance, arrest count or police record for any of these loops has been found yet; "dragging Main" meant a slow loop in some places and a race in others, and the sources rarely say which · [How we rate this](../reference/source-standards.md)
@@ -64,7 +64,7 @@ canonical_for: []
 
     — **Kathy Lennox and Dawn Shields**, students, in the 1987 Hays High School yearbook, Hays, Kansas.[^hays87]
 
-Every town with one main street and too many teenagers invented the same thing and gave it the same name. You got in the car, you drove from one end of Main to the other, you turned around, and you did it again until midnight. Nobody needed a club, a strip or a sanction. They called it dragging Main.
+Every town with one main street and too many teenagers invented the same thing and gave it the same name. You got in the car, you drove from one end of Main to the other, you turned around, and you did it again. Nobody needed a club, a strip or a sanction. They called it dragging Main. The only clock in these sources is the Hays yearbook's: Main was hard to cross from 8 p.m. to midnight.
 
 The big cruise strips, from [Woodward](woodward.md) to [Van Nuys](van-nuys.md), have books and documentaries. The small ones mostly have yearbooks. None of these loops is tied to a famous builder or company. They were regional repeat gatherings, every Friday and Saturday night, for decades.
 
@@ -114,7 +114,7 @@ Not everyone was charmed. The older generation thought it "a waste of gas and ti
 
 Three of them had a fixed route between two landmarks. Hays had a theater at one end and a drive-in at the other. Scottsbluff had a main street and a McDonald's. Richmond had one avenue, and not the next town's. The adults complained the same way, about wasted gas and a street you couldn't cross. Richmond in the 1950s and Hays in 1987 say nearly the same thing about the traffic, 30 years apart.
 
-There was a sense of inheritance, too. "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier. You drove from one end of Main to the other, you turned around, and you did it again until midnight. They called it dragging Main.
+There was a sense of inheritance, too. "Our parents dragged Main, and our parents' parents," Hays wrote in 1987.[^hays87] Franklin's seniors had been doing it 30 years earlier. You drove from one end of Main to the other, you turned around, and you did it again. They called it dragging Main. In Hays, the yearbook's clock ran from 8 p.m. to midnight, the hours when Main was hard to cross.
 
 *See also:* [Cruising overview](cruising-overview.md); [Main Avenue, Twin Falls](twin-falls-main-avenue.md); [Summer Avenue, Memphis](summer-avenue-memphis.md); [Modesto](modesto.md), the loop that became a movie; and [Hot Rod Club, Third Row](../drag-racing/high-school-hot-rod-clubs.md), the yearbooks' other car story.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>; [Central Avenue, Albuquerque](central-avenue-albuquerque.md); [Draggin' Main in Clovis, N.M.](draggin-main-clovis-new-mexico.md), eight blocks of brick and a revival in 2014.
 

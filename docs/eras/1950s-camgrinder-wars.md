@@ -62,13 +62,13 @@ Superlatives were the start. Howard's Cams in 1956 called Red Henslee's roadster
 
 In February 1957 Isky claimed Emery Cook's 166.97 mph at Lions for his "5-Cycle" cam. Howard's answer was ads of four bicyclists and a fifth bike ridden by a clown.[^hr]
 
-In September 1958, the ad at the center of our open lead arrived. Per Iskenderian, Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
+In September 1958, the ad at the center of our open lead arrived.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> Per Iskenderian, Howard Johansen's hero ad heralding Doug Cook's defection from Iskenderian products started the Gasser Wars: "After that, we started to play up any little success we had."[^hr]
 
 Jack Engle, meanwhile, opened a third front with type-only ads "signed" by gasser stars, though the satirical style pointed to Engle himself.[^hr]
 
 Howard in 1959 countered Isky's five cycles with "eight-cycle" cams, and Chet Herbert became the first serious challenger for Top Eliminator business.[^cp59]
 
-In 1960 it turned personal. Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup>
+In 1960 it turned personal. Garlits broke a $1,000 Isky contract for Ray Giovannoni's $10,000 offer (only $5,000 was ever paid). The good-natured tone ended there. Isky still called his rival "Giova phony."[^cp60] An ad signed by Doug Cook, but "likely dictated by Howard Johansen," attacked rivals in the Sept 24, 1960 *Drag News*.[^cp60]
 
 Engle, looking back: "There was some hostility, but I would say the intent was competitive in nature... it was more or less a game."[^hr] Isky never visited Johansen, thinking he was angry.
 

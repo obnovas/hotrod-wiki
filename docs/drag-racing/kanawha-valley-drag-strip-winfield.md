@@ -1,6 +1,6 @@
 ---
 title: 'Open on Sunday: Winfield''s Kanawha Valley Drag Strip and West Virginia''s Airport Racers (1958–76)'
-summary: In 1958 Putnam County racers built West Virginia's first organized drag strip near Winfield, and the Centipede Car Club raced Sundays on the Bridgeport airport runway. Winfield drew Ohio racers, a founder of the state's drag racing hall of fame says, because it ran on Sundays; it closed in 1976.
+summary: In 1958 Putnam County racers built what the state marker calls West Virginia's first organized drag strip near Winfield. The Centipede Car Club raced Sundays on the Bridgeport airport runway, and the strip closed in 1976.
 department: drag-racing
 era: 1950s
 eras:
@@ -62,7 +62,7 @@ canonical_for: []
 ---
 # Open on Sunday: Winfield's Kanawha Valley Drag Strip and West Virginia's Airport Racers (1958–76)
 
-*The first organized drag strip in WV was open on Sunday, and the Ohio racers came*
+*What the state marker calls the first organized drag strip in WV was open on Sunday, and the Ohio racers came*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the opening year, the "first" claim and the 1976 closing come from a 2019 state marker and the racers who founded the West Virginia Drag Racers Hall of Fame; no 1958 newspaper has been found yet; the Bridgeport airport drags rest on one family photo collection and a museum volunteer's identification) · **Source types:** <span class="hr-badge">Grassroots</span> West Virginia Archives and History marker text (2019), checked against the marker photograph in the Historical Marker Database; the *Putnam Herald* (via the *Herald-Dispatch*, 2017); WCHS-TV (2017); *The Dominion Post*, Morgantown (2022, 2023); a family photo blog built on Ralph Murphy's slides (2024) · **Last verified:** 2026-11-01 (Round 29) · **Open issues:** were Ohio's strips really closed on Sundays ⚠; the Centipedes' airport drags and the "first" strip ◐; the founders' names and the strip's owners ? · [How we rate this](../reference/source-standards.md)
@@ -88,7 +88,7 @@ Up in Harrison County, the racing began on an airport. Ralph Murphy of Nutter Fo
 
 Murphy's neighbors across West Virginia Avenue were Warren and Peggy Compton. Warren and his brother Gerald "owned the Compton Sheet Metal and Roofing Company," and Warren built a silver slingshot dragster and its trailer himself, "in the Broadway neighborhood at their metal shop." One of the airport photos shows a hot rod convertible once owned by the late Nick Alvaro. "Remarkably, this car still exists and now belongs to his son." A volunteer at the Clarksburg History Museum identified the black hot rod in the pictures and tracked down Warren's son Greg, who still lives in the area. Greg remembered playing with a green toy truck "once sold at the racetrack."[^blog]
 
-Jarvis and Winter came up with the West Virginia Drag Racers Hall of Fame, which started in 2013.[^wchs][^hd] In June 2017 the Winfield city council gave it a permanent home in the municipal building, at no cost to the city: "We might have brought a couple hangers to hang pictures on. Other than that, that's it," Mayor Randy Barrett said.[^wchs] "Drag racing started two miles up the road, so why not bring it back to its roots," Winter said.[^wchs] By then more than 80 racers had been inducted, and the Class of 2017, 32 strong, included Charleston Mayor Danny Jones.[^wchs] In 2019 the hall and West Virginia Archives and History put up the marker.[^marker]
+Jarvis and Winter came up with the West Virginia Drag Racers Hall of Fame, which started in 2013.[^wchs][^hd] In June 2017 the Winfield city council gave it a permanent home in Winfield City Hall, at no cost to the city: "We might have brought a couple hangers to hang pictures on. Other than that, that's it," Mayor Randy Barrett said.[^wchs] "Drag racing started two miles up the road, so why not bring it back to its roots," Winter said.[^wchs] By then more than 80 racers had been inducted, and the Class of 2017, 32 strong, included Charleston Mayor Danny Jones.[^wchs] In 2019 the hall and West Virginia Archives and History put up the marker.[^marker]
 
 (For the Ohio strips that drew from the same crowds, see [Quaker City at Salem](quaker-city-salem.md) and [Thompson Drag Strip](chardon-road-ravens-thompson-drag-strip.md); for the strips in Kentucky, see [Cedar Creek](cedar-creek-bullitt-dragway-kentucky.md).)
 

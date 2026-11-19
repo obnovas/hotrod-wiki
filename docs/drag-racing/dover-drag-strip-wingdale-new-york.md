@@ -111,7 +111,7 @@ The first customer kept his ticket. So did a ten-year-old. A drag strip that clo
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did Dino Lawrence start announcing?** The strip's history page says he announced "from 65' to 72'."[^dds] Lawrence told the *Times* in 2010 that he was the announcer "from 1967 to 1972," in the reporter's words.[^nyt10] The end year agrees. The start does not. Lawrence is also the history page's author, so the two may simply reflect different memories of the same man. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Anderson's day at Montgomery.** The story of the gas station owner, the '55 Chevy, the Marrata turn-down and the 144 acres is told only on the strip's own history page. A shorter version appears in a 2008 H.A.M.B. post by a man who had been given photographs and a club plaque by Bill Babyak, who wrote a Danbury Modifiers history for a 2004 Dover reunion program. The post does not say that is where its version comes from, and it is not an independent account.[^dds][^hamb08] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Is Anderson's day at Montgomery only the strip's own story?** The story of the gas station owner, the '55 Chevy, the Marrata turn-down and the 144 acres is told only on the strip's own history page. A shorter version appears in a 2008 H.A.M.B. post by a man who had been given photographs and a club plaque by Bill Babyak, who wrote a Danbury Modifiers history for a 2004 Dover reunion program. The post does not say that is where its version comes from, and it is not an independent account.[^dds][^hamb08] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Was Dover sanctioned for only one year?** The claim is on the strip's own history page. NHRA's 2008 *National Dragster* column repeats it, and says the claim is "according to the site," so it is not a second source.[^dds][^nhra08] An NHRA track list for 1961–1964 would settle it. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
@@ -119,7 +119,7 @@ The first customer kept his ticket. So did a ten-year-old. A drag strip that clo
 
 <a id="q-5" class="hr-q-anchor"></a>**Open question.** **Who was the man at Montgomery?** The history page spells him "Frank Marrata" and says he later built Connecticut Dragway; the H.A.M.B. post spells him "Frank Moratta."[^dds][^hamb08] This wiki's [Connecticut article](connecticut-clubs-nutmeg-state-timing-association.md) names a Hartford body-shop owner who led the push for that strip as Frank Maratta. They are very likely the same man, but no source we read says so. A Hartford directory or an obituary would fix the spelling. <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
-<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **The Motormounts at Montgomery.** One forum post, with no date given for the volunteering beyond the writer's "in 1960, that was a good deal."[^hamb08] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
+<a id="q-6" class="hr-q-anchor"></a>**Single source so far.** **Were the Motormounts at Montgomery?** One forum post, with no date given for the volunteering beyond the writer's "in 1960, that was a good deal."[^hamb08] <a class="hr-q-back" href="#qr-6" title="Back to the story">↩</a>
 
 ### Next leads
 

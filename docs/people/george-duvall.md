@@ -52,7 +52,7 @@ George DuVall saw a newspaper photo of a Southern California Plating Co. truck w
 
 He had graduated from Hollywood High in 1931 and studied mechanical engineering at UCLA.[^k] Owner Leonard DeBell saw DuVall's work on his own cars and moved him to design: custom bumpers and grilles, mostly for Depression-era Fords, influenced by Harley Earl, all chrome-plated. DuVall left UCLA for So. Cal. Plating full time in 1933.[^k]
 
-His showcase was the company's own fleet. DeBell believed in self-promotion, so the company trucks were always customized. The 1935 Ford phaeton delivery (designed late 1935 with Frank Kurtis, finished 1936) was stretched 12 in. and had a Cord-inspired brass grille, hidden headlights and Sea Foam Green paint by Charles Remidi. It was the first vehicle with a DuVall windshield.[^k] A grille on an earlier So. Cal. Plating truck is said to have inspired the Hudson Terraplane's.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
+His showcase was the company's own fleet. DeBell believed in self-promotion, so the company trucks were always customized. The 1935 Ford phaeton delivery (designed late 1935 with Frank Kurtis, finished 1936) was stretched 12 in. and had a Cord-inspired brass grille, hidden headlights and Sea Foam Green paint by Charles Remidi. It was the first vehicle with a DuVall windshield.[^k]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup> A grille on an earlier So. Cal. Plating truck is said to have inspired the Hudson Terraplane's.
 
 The DuVall windshield was a five-piece bronze casting for 1935–46 Ford cowls, built by So. Cal. Plating, which held the pattern rights. Its first known hot rod use was Jimmy Summers fitting one to Jack Dorn's '32 roadster in the early 1940s.[^k][^summers]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Sources disagree: see Open questions">⚠</a></sup>
 
@@ -70,7 +70,7 @@ He took the delivery job after a newspaper photo of the truck. The work turned i
 
 <a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **How much rests on Kustomrama?** Most of this page comes from Kustomrama's DuVall entry, which draws mainly on *Rod & Custom*, August 1990.[^k] Coachbuilt adds a little.[^cb] We have not seen the 1990 article. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The first DuVall windshield?** Kustomrama states it without attribution.[^k] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Was the phaeton the first vehicle with a DuVall windshield?** Kustomrama states it without attribution.[^k] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Who bought the patterns, and when?** In 1946 (Kustomrama) or "the late 1940s" (Coachbuilt), DuVall's nephew **Julian Doty** bought the windshield patterns, along with a DuVall-designed aluminum OHV head for the Willys Jeep.[^k] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

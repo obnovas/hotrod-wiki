@@ -50,7 +50,7 @@ The rush came at the end of a careful start. Herbert teamed with Caltech wind-tu
 
 Under the body, much of it was borrowed. The car had a partial chassis from Paul Sylvia of Inglewood, 108-in. wheelbase. A planned aluminum Franklin six blew up on the dyno, so Dana Fuller loaned the 1951 Chrysler Hemi from his new Imperial, which happened to be in Herbert's shop for a roller cam. It ran Hilborn-Travers injection and a Vertex magneto.[^k]
 
-The body arrived after the 1952 Nationals had started. Volunteers assembled the car at **Chrisman & Sons Garage**, Compton. Herbert stayed up three or four days and finally had to be belted into his wheelchair so he wouldn't fall out.[^k] The mold was cut up, so the body is one of a kind. Art Chrisman ran 235.991, the fastest single-engine car in America.
+The body arrived after the 1952 Nationals had started. Volunteers assembled the car at **Chrisman & Sons Garage**, Compton. Herbert stayed up three or four days and finally had to be belted into his wheelchair so he wouldn't fall out.[^k] Art Chrisman ran 235.991, the fastest single-engine car in America.
 
 ## The runs
 
@@ -64,7 +64,7 @@ Herbert, in his wheelchair, was on the cover of Hot Rod in December 1952.[^k]
 
 The record was not the end of it. Dana Fuller set diesel records with it in 1953. It was retired in 1955, bought by Ed Hegarty in 2002, unearthed in 2009 by Dave Crouse and Mark Brinker, took second in class at Pebble Beach in 2010, and was donated to the NHRA Museum (exhibit opened 2014).[^k]
 
-They assembled it after the 1952 Nationals had started. The mold was cut up. Chrisman ran 235.991, and it was the fastest single-engine car in America.
+They assembled it after the 1952 Nationals had started. Chrisman ran 235.991, and it was the fastest single-engine car in America.
 
 ## Open questions & disputed details
 

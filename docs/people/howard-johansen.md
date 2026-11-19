@@ -1,6 +1,6 @@
 ---
-title: 'Howard Johansen: Lead on the Pistons, Twin Bears on the Strip'
-summary: "Howard Johansen started by adding lead to the pistons of his father's Model T, founded Howards cams with his wife in 1945, and raced a twin-tank streamliner and the Twin Bears."
+title: 'Howard Johansen: Lead on the Pistons, Twin-Bear on the Strip'
+summary: "Howard Johansen started by adding lead to the pistons of his father's Model T, founded Howards cams with his wife in 1945, and raced a twin-tank streamliner and the Twin-Bear."
 department: people
 era: 1940s
 eras:
@@ -44,12 +44,12 @@ related:
 - companies/mickey-thompson.md
 canonical_for: []
 ---
-# Howard Johansen: Lead on the Pistons, Twin Bears on the Strip
+# Howard Johansen: Lead on the Pistons, Twin-Bear on the Strip
 
-*Lead on his father's Model T pistons, Howards cams from 1945, a twin-tank streamliner, and the Twin Bears*
+*Lead on his father's Model T pistons, Howards cams from 1945, a twin-tank streamliner, and the Twin-Bear*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** obituary (Hot Rod 1989), company history, period magazine (via archive story) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Twin Bears win and exact dates unverified · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** obituary (Hot Rod 1989), company history, period magazine (via archive story) · **Last verified:** 2026-10-13 (Round 4) · **Open issues:** Twin-Bear win and exact dates unverified · [How we rate this](../reference/source-standards.md)
 
 <figure markdown>
 ![The Bonneville Salt Flats, Utah, in 2012](../assets/images/commons-bonneville-blm.jpg){ loading=lazy }

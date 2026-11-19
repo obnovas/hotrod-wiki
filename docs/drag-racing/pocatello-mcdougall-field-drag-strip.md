@@ -78,7 +78,7 @@ canonical_for: []
 !!! quote "In their own words"
     "He had the fastest car out there, but he kept missing third gear so when he came to the tower to get his ET slip I told him if he missed another gear I would take away his keys."
 
-    — Kathy Steinmetz, on meeting Al Steinmetz at the Pocatello Drag Strip in 1967, as quoted on *Speed Queens of the Drag Strip*.[^wdr]
+    — Kathy Steinmetz, on the man who kept missing third gear. One account puts that day in 1967, as quoted on *Speed Queens of the Drag Strip*.[^wdr]
 
 From 1928, the field Pocatello named for a hometown ace was the airport, and then the drag strip. The interstate cut the runway in half. A clerk in the timing tower told a racer she would take his keys. The sources still do not agree when it closed: 1973, about 1993, or 1999.
 

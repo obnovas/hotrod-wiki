@@ -66,7 +66,7 @@ Permission was the second question, and it never came. Petersen management ("the
 
 The event was a homemade one. A hayfield loaned by a Mr. Forest Lemmons hosted the show. On hand were a swap meet, a ~45-minute driving rally that about 200 rodders ran, and an improvised cone slalom Tex Smith called a "Streetkhana."[^rc]
 
-Some of the rodders came a very long way. Andy Brizio drove ~2,000 miles from San Francisco in his America's Most Beautiful Roadster-winning '23 T-bucket, four friends with him, towing a broken car 740 miles to Cheyenne. Then he watched Best Car go to a trailered car.[^rc]
+Some of the rodders came a very long way. Andy Brizio drove about 2,000 miles from San Francisco in his America's Most Beautiful Roadster-winning '23 T-bucket, four friends with him. On the way, Don Specht towed Lance Miller's broken car 740 miles to Cheyenne. Then Brizio watched Best Car go to a trailered car.[^rc]
 
 That Best Car call is still a puzzle. See [Midwest & East Threads](../places/midwest-east.md) for the Slo-Pokes and the two stories (Orv Elgie's 8,000-mile drive vs Brizio's "trailer" complaint).
 

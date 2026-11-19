@@ -107,13 +107,13 @@ Before organized drag racing came to the region, its hot rodders went to Burling
 
 ## June 1958 at Starkey
 
-The Roanoke public library's Virginia Room files a photograph as "The Roanoke Drag Strip at Starkey Speedway. The dragstrip opened in June 1958," and the museum's list of the region's strips gives June 29, 1958, and NHRA.[^vroom][^bri3] Starkey, in southwestern Roanoke County, had been a racing ground since November 1950, when its quarter-mile track opened with an auto race. It seated 4,000. That May it had hosted its first NASCAR Grand National race, won by Jim Reed.[^harris]
+The Roanoke public library's Virginia Room files a photograph as "The Roanoke Drag Strip at Starkey Speedway. The dragstrip opened in June 1958," and the museum's list of the region's strips gives June 29, 1958, and NHRA.[^vroom][^bri3] Starkey, in southwestern Roanoke County, had been a racing ground since November 1950, when its quarter-mile track opened with an auto race. It seated 4,000. On May 14, 1958, it hosted its first NASCAR Grand National race, won by Jim Reed.[^harris]
 
 "I remembered it because of the fact that the shut down area was uphill and the return lane was a dirt road," Glenn Goss wrote. In 1958 Bob Bateman handed Dick Swecker a trophy there. Swecker's Chrysler-powered rail dragster set the most top-speed records in its class at Roanoke.[^dslva][^bri3][^bri2]
 
 The first drag race, the museum says, drew more than 100 cars, a third of them hot rods and two-thirds unmodified stock cars, and more than 2,000 spectators.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> A club ran it. A 1959 photograph caption in the exhibit says the Roanoke Dragsters "ran the track for the owners the first three years of its operation," and an umbrella group, the Eastern Auto Club Council, formed partly to help: the Loafers and the Eliminators of Salem, the Road Rebels of Welch, W.Va., the Ridge Runners of Roanoke County and Roanoke's Dixie Rebels.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^bri2][^bri5]
 
-Other counties followed the same pattern. The Lakeview Dragsters ran the Lakeview Drag Strip near Bassett, in Henry County, whose first full season was 1958–59, and the Quarter Milers ran Oak Level, opened in 1960. In Alleghany County, Callaghan Drag Strip opened on March 8, 1959, and Hidden Valley on April 18, 1959. Before Hidden Valley was finished, the drags there were held at the regional airport.[^bri3][^bri5][^bri2]
+Other counties followed the same pattern. The Lakeview Dragsters ran the Lakeview Drag Strip near Bassett, in Henry County, whose first full season was 1958–59. In Alleghany County, Callaghan Drag Strip opened on March 8, 1959, and Hidden Valley on April 18, 1959. Before Hidden Valley was finished, the drags there were held at the regional airport. The Quarter Milers ran Oak Level, opened in 1960.[^bri3][^bri5][^bri2]
 
 ## "The car to beat"
 

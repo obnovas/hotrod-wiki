@@ -139,7 +139,7 @@
 | Chester Drag Strip | Saturday drags on a WWII emergency airfield, Chester, S.C., 1956 or 1957 to 1959 or 1960 ⚠ | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |
 | Chevrolet Racing Team | Sioux Falls Chevy gang with "no meetings, no dues, and no rules"; met at Park Ridge Texaco | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
 | Chimeri, Gary | Owner who sold the Westhampton strip and 66 acres, 2004 | [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md) |
-| Chrisman, Jack | Drove the Twin Bears | [Howard Johansen](../people/howard-johansen.md) |
+| Chrisman, Jack | Drove the Twin-Bear | [Howard Johansen](../people/howard-johansen.md) |
 | Christensen, Keith | Gene's Muffler, Paramount, next door to Watson's shop; met him in the Coachmen club | [Larry Watson](../people/larry-watson-bellflower-paint.md) |
 | Church, Butch | Chester, S.C., airport manager; told Frank Spittle the strip's story | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |
 | Clark, Jim | First Street Rodder editor | [Founding Street Rodder](../voices/street-rodder-founding.md) |

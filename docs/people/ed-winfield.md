@@ -54,9 +54,9 @@ The cams came next. In **1919** Winfield converted a used grinding machine into 
 
 Pete Crane relayed Winfield's own account of how a term hot rodders still use got its name. He first made only two masters, semi race and full race, then a third in between, and combined the full-race master (intake) with the new one (exhaust): "It was three-quarters of the way to a full..."[^hem2] It is a rare first-hand origin story for a bit of shop talk.
 
-Cams led to carburetors. The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
+Cams led to carburetors. The Winfield Carburetor Company formed in **1924**.[^hem2][^sema]
 
-Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1] How long that Indy winning streak was, the sources disagree.
+Hemmings also credits Winfield with what is "widely regarded as the first harmonic balancer" and a continuous-flow fuel injection unit in 1934.[^hem2] With brother **Bud**, he created the 1938 Winfield straight-eight that became the basis of the Novi V8.[^ims] In the early 1960s, Ford consulted him on its Indy engine program.[^hem1] How long that Indy winning streak was, the sources disagree.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>
 
 He died in 1982.[^hem2] Hemmings names him the model for Ed Iskenderian and Ed Donovan,[^hem2] and Hagerty's 2026 Isky obituary says Winfield mentored him into cam grinding. (See [Iskenderian](ed-iskenderian.md).)
 
