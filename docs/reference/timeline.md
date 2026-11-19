@@ -552,7 +552,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2021 | Gene Cromer dies (July 14) | [Gene Cromer](../people/gene-cromer-moonlighter.md) |
 | 2021 | Riverhead allows eight NHRA-sanctioned drag events on the EPCAL runways at Calverton, Long Island | [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md) |
 | 2022 | Helen Simon of M-N Raceway dies at 100 (Jun 15) | [M-N Raceway](../drag-racing/m-n-raceway-wichita-simon-farm.md) |
-| 2022 | Dave's Dream goes back on display at the National Museum of American History (May 24) | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
+| 2022 ◐ | A Smithsonian page, read only as a search excerpt, dates Dave's Dream back on display (May 24; the excerpt's close is August 2024) | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
 | 2023 | Firebird International Raceway, then Wild Horse Pass, is renamed Firebird Motorsports Park (Dec) | [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md) |
 | 2023–24 | CA AB 436 (Alvarez) chaptered Oct 13, 2023; effective Jan 1, 2024—removes local authority to ban cruising; repeals VC 24008 | [Cruise Nights](../places/cruising-overview.md) |
 | 2023 | Atco Dragway closes (July 18), leaving Island Dragway as New Jersey's last drag strip | [Atco & Strato Rods](../drag-racing/atco-strato-rods-south-jersey.md), [Island Dragway](../drag-racing/island-dragway-great-meadows.md) |

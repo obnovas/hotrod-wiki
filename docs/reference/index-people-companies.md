@@ -157,7 +157,8 @@
 | Cooney, Richard | Kingston Igniters president, 1958 | [Kingston Igniters](../drag-racing/kingston-igniters.md) |
 | Coons, Bud | NHRA field director; failed Bill New's hoodless deuce at Pocatello tech | [Firebird / Bootleggers](../drag-racing/firebird-raceway-idaho-bootleggers.md), [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md) |
 | Coons, E. J. (Bud) | Pomona police sergeant (Eldo J. "Bud" Coons) and hot rod liaison; advised Palm Springs, 1953; led the 1954 Drag Safari | [Pomona's Choppers](../drag-racing/pomona-choppers-fontana.md), [Palm Springs TA](../drag-racing/palm-springs-timing-association.md), [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md) |
-| Corsello, Chuck | Event director of the Lodi rod runs, 1975–77 | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
+| Corsello, Chuck | Event director of the Lodi rod runs, 1975–77, on a club member's son's list | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
+| Cress, Bob | Event director of the Lodi rod run, 1979, on that same list; no director is named for 1978 | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | Costa, John | Rod Knockers member, Johnston, R.I., 1956 | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | Costianes, Bill | Phoenix International Raceway drag racing director, 1963 | [Phoenix's West Side](../drag-racing/phoenix-west-side-karbs-litchfield-road.md) |
 | Cotati Drag Strip (Santa Rosa Drag Strip) | RETA strip on the former Cotati Naval Airfield, Calif., from 1956 | [Marin & Cotati](../drag-racing/marin-cotati-strips.md) |
@@ -390,7 +391,7 @@
 | Jacobs, Jim "Jake" | R&C; drove a Model A to Peoria | [Peoria 1970](../voices/peoria-1970.md) |
 | Jacome, Alex | Tucson oral history narrator: the Mount Lemmon cutoff races | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | Jaramillo, David | Chimayó, N.M.; began customizing Dave's Dream, 1975; died 1978 | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
-| Jaramillo, Irene | David's widow; the fender portrait was her favorite part | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
+| Jaramillo, Irene | David's widow; the family portrait was her favorite part (⚠ on the doors, or on the fender) | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
 | Jarvis, Gary | Winfield, W.Va., racer; a founder of the West Virginia Drag Racers Hall of Fame | [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md) |
 | Jeffries, Dean | Striping at Barris in 1955, wouldn't tell Larry Watson where he bought his brushes | [Larry Watson](../people/larry-watson-bellflower-paint.md) |
 | JEGS / Coughlin, Jeg Sr. | Columbus, Ohio, speed shop (1960) turned mail-order house; HQ in Delaware, Ohio (1999) | [JEGS](../companies/jegs.md), [Midwest & East Threads](../places/midwest-east.md) |
@@ -478,7 +479,7 @@
 | Martinez, Dennis | Cousin; helped restore Dave's Dream with Los Bajitos | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
 | Martinez, Richard | Bought the Ford LTD new in 1969; Jaramillo's cousin | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
 | Meadors, Gary | Founded Nor-Cal Early Iron and Goodguys; directed the 1973 Lodi Mini-Nats; died 2015 | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
-| Meadors, Marc | Goodguys president; estimates the logo Deuce at 200,000-plus miles | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
+| Meadors, Marc | Goodguys president; in the 2023 Goodguys feature, estimates the logo Deuce at least 200,000 miles | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | Meadors, Marilyn | Hand-recorded the 1973 Lodi entries; co-founded Goodguys | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | M-N Raceway | The Simons' farm strip near Maize, Kan., from 1963 or 1964 (⚠) | [M-N Raceway](../drag-racing/m-n-raceway-wichita-simon-farm.md) |
 | Madison, Lita | Carroll Sheldon's niece; remembered the Kearney tower and concession stand | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |

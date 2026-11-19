@@ -254,8 +254,9 @@ These hold the period coverage we most want, and none was readable by our fetche
 ### Round 44 status
 | Archive | Round 44 status |
 |---|---|
-| *Victor Valley Daily Press* (Watson obituary, 2010) | HTTP 402 paywall; the Internet Archive refused the copy; search excerpt only, not quoted. |
-| Smithsonian pages (americanhistory.si.edu, nmaahc.si.edu) | Verification page; search excerpts only, paraphrased, not quoted. |
+| *Victor Valley Daily Press* (Watson obituary, 2010) | HTTP 402 paywall again in the citation review; search excerpt only, not quoted. |
+| Smithsonian pages (americanhistory.si.edu, nmaahc.si.edu) | HTTP 403, "temporarily unavailable," in the citation review; search excerpts only, paraphrased, not quoted. |
+| *Goodguys Gazette* digital edition (Meadors sedan, Feb. 2023) | HTTP 403; the Wayback availability API has no snapshot. The same feature was read on Fuel Curve. |
 | Georgia Historic Newspapers (*Covington News*, 1978) | Verification challenge; the Covington, Ga., *Dukes of Hazzard* story held. |
 | covnews.com, horsepowermemories.com, an Angelfire page | 404, 500 and timeout; not used. |
 | Charlotte, N.C., landmarks PDF | Connection failed again; Charlotte held. |
