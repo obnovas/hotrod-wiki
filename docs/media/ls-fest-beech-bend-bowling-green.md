@@ -1,15 +1,13 @@
 ---
-title: 'Why Limit It Just to Swaps? Holley''s LS Fest at Beech Bend (Bowling Green, Kentucky, 1997–2024)'
+title: 'Why Limit It Just to Swaps? Holley''s LS Fest at Beech Bend (Bowling Green, Kentucky, 2010–2024)'
 summary: 'A carburetor company held its first LS Fest at its hometown track in 2010, for an engine hot rodders had been pulling out of junkyard trucks, and about 150 cars came. The engine swap itself became a race, and by 2019 the crowd had grown big enough that the county widened the road.'
 department: media
 era: 2010s
 eras:
-- 1990s
-- 2000s
 - 2010s
 - 2020s
 years:
-- 1997
+- 2010
 - 2024
 region: South
 states:
@@ -67,12 +65,12 @@ location: Beech Bend Raceway Park, Bowling Green, Ky., and later NCM Motorsports
 peak: The first LS Fest, September 2010; LS Fest East every September since[^dz10][^hl24]
 status: Holley expected about 2,500 participating vehicles at LS Fest East in 2024[^hl24]
 ---
-# Why Limit It Just to Swaps? Holley's LS Fest at Beech Bend (Bowling Green, Kentucky, 1997–2024)
+# Why Limit It Just to Swaps? Holley's LS Fest at Beech Bend (Bowling Green, Kentucky, 2010–2024)
 
 *A junkyard engine, a carburetor company's hometown strip, and a race to see who could swap one in fastest with hand tools*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the origin is told by one of the Holley people who planned it, years later; the first weekend is in two magazine reports and a forum thread written that night; the crowds and the traffic are in the hometown paper) · **Source types:** <span class="hr-badge">Grassroots</span> *Bowling Green Daily News* (2019, 2021), with the county public works director, a Holley marketing director and residents; firsthand forum posts from the first night (LS1Tech, September 10, 2010); *Hot Rod* and *Popular Hot Rodding* (February 2011); Holley's own 2024 history and 2010 announcement · **Last verified:** 2026-11-20 (Round 45) · **Open issues:** ⚠ how long the first engine swap took · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the origin is told by one of the Holley people who planned it, years later; the first weekend is in two magazine reports and a forum thread written that night; the crowds and the traffic are in the hometown paper) · **Source types:** <span class="hr-badge">Grassroots</span> *Bowling Green Daily News* (2019, 2021), with the county public works director, a Holley marketing director and residents; firsthand forum posts from the first night (LS1Tech, September 10, 2010); *Hot Rod* and *Popular Hot Rodding* (February 2011); Holley's own 2024 history and 2010 announcement · **Last verified:** 2026-11-20 (Round 45 citation review) · **Open issues:** ⚠ how long the first engine swap took · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Why limit it just to swaps? We should invite anyone with an LS engine to this."
