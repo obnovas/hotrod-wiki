@@ -380,6 +380,8 @@ paths:
         why: "From a hayfield to an association."
       - page: street-rodding/lodi-mini-nats-goodguys-meadors.md
         why: "Lodi, 1973: a Fremont club's weekend at the fairgrounds, entries written down by hand, and the seed of Goodguys."
+      - page: media/california-kid-pete-and-jakes-peculiar.md
+        why: "Temple City, 1974: a backyard '34 coupe goes on a magazine cover and into a TV movie, and its name goes on a parts shop that ends up in Peculiar, Missouri."
       - page: street-rodding/back-to-the-50s-msra-st-paul-1974.md
         why: "St. Paul, 1974: a club rehearses for hosting the Nats with a Friday-night cruise, and meets a crowd leaving American Graffiti."
       - page: people/dick-wells.md
@@ -388,6 +390,10 @@ paths:
         why: "Where the 1980s took it."
       - page: eras/1990s-pro-touring-garage-engineers.md
         why: "The 1990s: GM engineers build handling Camaros at night, and a backyard shop becomes Detroit Speed."
+      - page: media/ls-fest-beech-bend-bowling-green.md
+        why: "Bowling Green, 2010 on: a carburetor company's hometown meet for the junkyard LS engine, where the swap itself is timed."
+      - page: drag-racing/race-of-gentlemen-oilers-jersey-shore.md
+        why: "The Jersey Shore, 2012 on: a club carrying a 1947 Carlsbad name runs prewar hot rods on the beach instead of parking them."
 
   - id: customs
     letter: I
@@ -408,6 +414,8 @@ paths:
         why: "How the period built it."
       - page: people/tony-nancy-sherman-oaks-trimmer.md
         why: "The trimmer's side: a Sherman Oaks upholsterer who, by one account, went racing so people could see his stitching."
+      - page: people/don-angland-jay-peterson-trim-shops.md
+        why: "The trimmer's side away from California: a Tennessee shop known from the car shows, and a Minnesota upholsterer who learned before YouTube."
       - page: media/trend-books-kits-roth.md
         why: "Customs on paper and in plastic."
       - page: media/show-circuit.md
@@ -416,6 +424,8 @@ paths:
         why: "The Bay Area painter who chased a taillight's glow for ten years and gave the method away with the paint."
       - page: people/larry-watson-bellflower-paint.md
         why: "Bellflower: a driveway pinstriper makes paint the whole custom, and cuts a pearl T-bird into panels."
+      - page: people/bikini-keeney-gator-gaydos-midwest-pinstripers.md
+        why: "The Midwest's brushes: a mother's Jeepster, Indianapolis race cars, van murals, pedal cars and a pinstriped urn."
       - page: voices/show-custom-voices.md
         why: "Show and custom people in their own words."
       - page: voices/von-dutch.md

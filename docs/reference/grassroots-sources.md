@@ -244,6 +244,23 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 45 additions
+- Local newspapers: *The Kansas City Star* (2015), on the California Kid coupe living in Peculiar, Mo. → [Home of The California Kid](../media/california-kid-pete-and-jakes-peculiar.md); the *Bowling Green Daily News* (2019, 2021), on the county's road widening, a resident's objection and the city blocking a street "to prevent drag racing" during LS Fest → [LS Fest](../media/ls-fest-beech-bend-bowling-green.md); the Rochester *Post Bulletin* (2022) → [Trim shops](../people/don-angland-jay-peterson-trim-shops.md); *The Southsider Voice* (Indianapolis, 2016) → [Keeney & Gaydos](../people/bikini-keeney-gator-gaydos-midwest-pinstripers.md); *SJ Magazine* (South Jersey, 2021) → [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md).
+- Local obituaries: Don Angland (*Chattanoogan.com*, 2026) and Barbara Angland (*Chattanooga Times Free Press*, 2023) → Trim shops; Mike "Gator" Gaydos (*The News-Herald*, Michigan, 2013) → Keeney & Gaydos.
+- A club newsletter: David Sanders, "Passing It Down," *Indy Mopar Club News* (June 2009), on his father's van and its Bikini Studios signature → Keeney & Gaydos.
+- A builder in his own words: Pete Chapouris's "The California Kid Back Story" on his company's site; a local-business interview with Jason Slover (VoyageKC, 2025) → Home of The California Kid.
+- Firsthand forum posts from the first night of LS Fest: LS1Tech, September 10, 2010 → LS Fest.
+
+### Round 45 status
+| Archive | Round 45 status |
+|---|---|
+| Charlotte, N.C., landmarks PDF (South 21) | **Readable** through the Wayback Machine. It covers the drive-in's founders and buildings, not cruising or hot rods; Charlotte still held. |
+| *Indy Mopar Club News* PDF (June 2009) | Read in the Wayback Machine copy. |
+| Hemmings | Blocked to our command-line fetcher (bot check); read through a second fetcher. |
+| LSX Magazine's 2010 LS Fest recap | The link now redirects to a news index; not used. |
+| National Hurricane Center (Sandy report PDF) | Timed out to one fetcher; read through the command line. |
+| Google Patents | No Round 45 patents. |
+
 ### Round 44 additions
 - Firsthand forum posts: the H.A.M.B. thread "1973 & 1974 LODI Mini Nats" (2018–21), with a Nor-Cal Early Iron member's son's slides, his list of every Lodi, Merced and Pleasanton event from 1973 to 1990, and memories of a poker run, a spark plug contest and a transmission rebuilt overnight → [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md).
 - Oral recollections collected by a volunteer wiki: Kustomrama's 2019–21 interviews with Keith Christensen, Roger O'Dell, Dave Ellis and Teddy Zgrzemski → [Larry Watson](../people/larry-watson-bellflower-paint.md).

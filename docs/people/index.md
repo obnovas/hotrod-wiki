@@ -43,6 +43,8 @@ Most of them started in a garage, a shed or a borrowed corner of someone else's 
 - [Joe Bailon](joe-bailon-candy-apple.md): the Bay Area customizer who chased a taillight's glow for about ten years, got Candy Apple Red in 1956, and sold a method anyone could copy (◐ the Christmas-tree flakes; ◐ the first candy car).
 - [Larry Watson](larry-watson-bellflower-paint.md): a Bellflower driveway pinstriper who made paint the custom, cut a pearl Thunderbird into panels, and by one account had his first shop paved under a freeway off-ramp (⚠ when he opened; ◐ the first panel job).
 - [Tony Nancy](tony-nancy-sherman-oaks-trimmer.md): the Sherman Oaks upholsterer who, by one account, went racing so people could see his stitching, won the 1963 Winternationals and went back to the shop full time (⚠ why he raced; ⚠ when the Wedge crashed).
+- [Don's Trim Shop and Jay's Hot Rod Upholstery](don-angland-jay-peterson-trim-shops.md): a Tennessee upholsterer, in the trade since 1956, known from the car shows he and his "street rod wife" went to, and a Minnesota trimmer with a two-year wait (◐ the 1956 start).
+- [Bikini Keeney and Gator Gaydos](bikini-keeney-gator-gaydos-midwest-pinstripers.md): two Midwest pinstripers, from a mother's Jeepster and Indianapolis race cars to 200 pedal cars and a pinstriped urn (◐ the race cars; ◐ the murals).
 - Bruce Miller: see [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 *Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Jeg Coughlin Sr., Ron Hassel, "Ohio George" Montgomery, Carl & Marie Gay.

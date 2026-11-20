@@ -12,6 +12,8 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [*Street Rod* in the Small-Town Paper (1953–54)](street-rod-newspaper-serial.md): Henry Gregor Felsen's novel about a teenage timing association, serialized by NEA in papers from Escanaba to Hope, Arkansas.
 - [A Dance That Grew Cars: Hot August Nights (Reno, 1986)](hot-august-nights-reno-1986.md): a realtors' '50s dance for Easter Seals, a Classic Chevys show and shine, and a softball tournament's lesson (⚠ who named it, and why).
 - [Where Lucas Shot It: Petaluma and *American Graffiti* (1972)](american-graffiti-petaluma-1972.md): San Rafael says no after one night, Petaluma says yes, a drive-in where the Pacers met, and the car show the town's own car people built in 2006 (⚠ when Lund took over Hollie's).
+- [Home of The California Kid (Temple City to Peculiar, Mo.)](california-kid-pete-and-jakes-peculiar.md): a backyard '34 coupe, a *Rod & Custom* cover, a 1974 TV movie, and the parts dealer who bought the shop and the car (⚠ how the producer found it; ⚠ 1986 or 1987).
+- [Why Limit It Just to Swaps? Holley's LS Fest (Bowling Green, Ky.)](ls-fest-beech-bend-bowling-green.md): a carburetor company's hometown meet for the junkyard LS engine, a timed engine swap, and a crowd that outgrew the road (⚠ how long the first swap took).
 
 **Elsewhere in the wiki**
 

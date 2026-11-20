@@ -110,7 +110,7 @@ About thirty years after he raced it, he found his Top Fuel car, 22 Sr., in Alas
 
 He raced to show off his upholstery, and the racing made him famous. When he was done racing, he went back to the trim shop on Ventura Boulevard.
 
-*See also:* [Jimmy Summers](jimmy-summers.md), who built the 1963 dragster's body; [Bob's Big Boy and the River Road](../places/bobs-big-boy-river-road.md), where a Valley club counted him among its racers; [Larry Watson](larry-watson-bellflower-paint.md), the painter who did for paint what Nancy did for interiors.
+*See also:* [Jimmy Summers](jimmy-summers.md), who built the 1963 dragster's body; [Bob's Big Boy and the River Road](../places/bobs-big-boy-river-road.md), where a Valley club counted him among its racers; [Larry Watson](larry-watson-bellflower-paint.md), the painter who did for paint what Nancy did for interiors; [Don's Trim Shop and Jay's Hot Rod Upholstery](don-angland-jay-peterson-trim-shops.md), two small-town trim shops.
 
 ## Open questions & disputed details
 

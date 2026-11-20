@@ -1016,3 +1016,31 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [obit] Thom Taylor, "Speedy Bill Smith of Speedway Motors Dead at 84," HotRod.com, 2014. https://www.hotrod.com/news/speedy-bill-smith-of-speedway-motors-dead-at-84
 - [trade] "SEMA Hall of Famer 'Speedy' Bill Smith Passes Away," SEMA eNews, 2014. https://www.sema.org/news-media/enews/2014/23/sema-hall-famer-speedy-bill-smith-passes-away
 - [book] Bill Smith with Dave Argabright, autobiography (2009), excerpt "Cool Man Window Tint: a Speedy Bill adventure." https://daveargabright.com/the-story-blog/cool-man-window-tint-a-speedy-bill-adventure/
+
+## Round 45 additions (the California Kid and Pete & Jake's, LS Fest, the Race of Gentlemen, two trim shops, two Midwest pinstripers)
+- [oral] Pete Chapouris, "The California Kid Back Story," Pete & Jake's Hot Rod Parts website. https://www.peteandjakes.com/the-california-kid-back-story/
+- [corp] "About," Pete & Jake's Hot Rod Parts website. https://www.peteandjakes.com/about/
+- [mag] Kurt Ernst, "Remembering hot rod evangelist Pete Chapouris," *Hemmings*, Jan. 10, 2017. https://www.hemmings.com/stories/remembering-hot-rod-evangelist-pete-chapouris/
+- [hof] Tony Thacker, "Pete Chapouris," American Hot Rod Foundation. https://ahrf.com/pioneer/pete-chapouris/
+- [local] David Boyce, "How a 1934 Ford hot rod went from movie stardom to Peculiar, Mo.," *The Kansas City Star*, May 2, 2015. https://www.kansascity.com/cars/article20045478.html
+- [local] "Check Out Jason Slover's Story," VoyageKC, Nov. 10, 2025. https://voyagekc.com/interview/check-out-jason-slovers-story/
+- [corp] Bradley Iger, "LS Fest East Celebrates 15-Year Anniversary for 2024," Holley Motor Life, Sept. 6, 2024. https://www.holley.com/blog/post/ls_fest_east_celebrates_15-year_anniversary_for_2024/
+- [mag] Cody Norris, "Holley's LS Fest Announced – Sept 10-12, Bowling Green, KY," *Dragzine*, Feb. 6, 2010. https://www.dragzine.com/news/holleys-ls-fest-announced-sept-10-12-bowling-green-ky/
+- [mag] Mike Finnegan, "Holley LS Fest – Hottest Engine In America," *Hot Rod*, Feb. 1, 2011, with David Freiburger's "What's In A Name?" https://www.hotrod.com/news/hrdp-1102-holley-ls-fest
+- [mag] Johnny Hunkins, "1st Holley LS Fest," *Popular Hot Rodding*, Feb. 1, 2011. https://www.hotrod.com/news/1102phr-1st-holley-ls-fest
+- [forum] "WE HAVE Arrived!!!!!," LS1Tech, Holley LS Fest board, Sept. 10, 2010 (taws6m6, SMOKNSS). https://ls1tech.com/forums/holley-ls-fest/1328449-we-have-arrived-2.html
+- [local] Don Sergent, "Fiscal court moves forward with Beech Bend Road widening," *Bowling Green Daily News*, Nov. 15, 2019. https://bgdailynews.com/2019/11/15/fiscal-court-moves-forward-with-beech-bend-road-widening/
+- [local] John Reecer, "LS Fest expected to make heavy traffic impact," *Bowling Green Daily News*, Sept. 9, 2021. https://bgdailynews.com/2021/09/09/ls-fest-expected-to-make-heavy-traffic-impact/
+- [mag] Scott Lachenauer, "The Race of Gentlemen," *Hot Rod*, Jan. 28, 2013. https://www.hotrod.com/news/hrdp-1303-the-race-of-gentlemen
+- [mag] Carol Mittelsdorf, "Race of Gentlemen," *Rider*, Mar. 8, 2013. https://ridermagazine.com/race-of-gentlemen/
+- [local] Kate Morgan, "The Race of Gentlemen," *SJ Magazine* (South Jersey), Oct. 2021. https://sjmagazine.net/family-kids/south-jersey-the-race-of-gentlemen
+- [club] "About The Race of Gentlemen" and "About The Oilers Club," The Race of Gentlemen website. https://www.theraceofgentlemen.com/terms-1
+- [gov] Eric S. Blake and others, *Tropical Cyclone Report: Hurricane Sandy (AL182012)*, National Hurricane Center, Feb. 12, 2013. https://www.nhc.noaa.gov/data/tcr/AL182012_Sandy.pdf
+- [obit] "Angland, Joseph Donald 'Don'," *Chattanoogan.com*, June 17, 2026. https://www.chattanoogan.com/2026/6/17/520097/Angland-Joseph-Donald-Don.aspx
+- [obit] "Joseph (Don) Donald Angland, 1932–2026," Legacy.com. https://www.legacy.com/person/joseph-(don)-donald-angland-61620299
+- [obit] "Barbara Angland Obituary," *Chattanooga Times Free Press*, Aug. 25, 2023. https://obituaries.timesfreepress.com/obituary/barbara-angland-1090272976
+- [mag] Will Smith, "Back From The Dead," TheAutoBuilder.com (a '70 Mustang by Big House Customs, interior with Don's Trim Shop). https://theautobuilder.com/back-from-the-dead/
+- [local] John Sievers, "Jay Peterson's got hot rods covered," *Post Bulletin* (Rochester, Minn.), May 7, 2022. https://www.postbulletin.com/business/jay-petersons-got-hot-rods-covered
+- [local] "The man with a magic brush," *The Southsider Voice* (Indianapolis), May 25, 2016. https://www.southsidervoice.com/top-stories/the-man-with-a-magic-brush
+- [club] David Sanders, "Passing It Down," *Indy Mopar Club News*, June 2009. http://www.indymoparclub.com/images/IMC_News_June_2009.pdf
+- [obit] "OBITUARY: Mike 'Gator' Gaydos: Car club enthusiast was pinstriping expert," *The News-Herald*, Feb. 13, 2013. https://www.thenewsherald.com/2013/02/13/obituary-mike-gator-gaydos-car-club-enthusiast-was-pinstriping-expert/

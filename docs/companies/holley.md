@@ -94,7 +94,7 @@ The company of [Stu Hilborn](../people/stu-hilborn.md), the fuel-injection pione
 
 The motor bicycle came from a hotel keeper's boys in Bradford. The carburetor followed the cars, the war, and then the brands.
 
-*See also:* [The Web of Influence](web-of-influence.md).
+*See also:* [The Web of Influence](web-of-influence.md); [LS Fest](../media/ls-fest-beech-bend-bowling-green.md), the company's hometown meet at Beech Bend.
 
 ## Open questions & disputed details
 

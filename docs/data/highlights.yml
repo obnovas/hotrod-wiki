@@ -2023,3 +2023,60 @@ highlights:
     added: '2026-11-19'
     eras: [1970s, 1990s]
     regions: ['Chimayó, N.M.']
+
+  - id: gaydos-pinstriped-urn
+    headline: A Michigan pinstriper's ashes went into an urn his family and friends flamed and striped
+    teaser: Mike "Gator" Gaydos of Taylor striped bicycles as a teen, then hundreds of pedal cars, mailboxes and
+      toilet seats. His obituary said his ashes would go in an urn customized with flames and pinstriping.
+    link: people/bikini-keeney-gator-gaydos-midwest-pinstripers.md#gator-in-taylor
+    evidence: ["If it doesn't move, I'll pinstripe it.", "an urn customized with flames and pinstriping by his family and friends"]
+    source_type: [Obituary]
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-20'
+    eras: [1960s, 2010s]
+    regions: ['Taylor, Mich.']
+
+  - id: ls-fest-wilkinson-trace
+    headline: Bowling Green blocked a street during LS Fest "to prevent drag racing"
+    teaser: Holley's LS Fest grew from 25,000 visitors to 35,000 in a single year. The county widened the road
+      to Beech Bend, and by 2021 the city was closing part of Wilkinson Trace near the convention center.
+    link: media/ls-fest-beech-bend-bowling-green.md#bigger-than-the-road
+    evidence: ["to prevent drag racing that usually accompanies automotive events in the city", "grown from 25,000 visitors to 35,000 in a single year"]
+    source_type: [Local news]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-20'
+    eras: [2010s, 2020s]
+    regions: ['Bowling Green, Ky.']
+
+  - id: california-kid-peculiar
+    headline: The California Kid lives in Peculiar, Missouri, with the dealer who called after the movie
+    teaser: Jerry Slover saw the 1974 TV movie, called Pete & Jake's, "Home of The California Kid," and became
+      its Kansas City dealer. His family bought the shop, and the coupe came with it.
+    link: media/california-kid-pete-and-jakes-peculiar.md#a-dealer-in-kansas-city
+    evidence: ["The coupe came with the purchase.", "They didn't understand the magnitude of the car."]
+    source_type: [Local news]
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-20'
+    eras: [1970s, 1980s]
+    regions: ['Peculiar, Mo.']
+
+  - id: angland-street-rod-wife
+    headline: A Tennessee trimmer's wife "was a street rod wife," through 48 states of car shows
+    teaser: Don Angland's Hixson trim shop got known on the road. When Barbara Angland died in 2023, her
+      obituary said she traveled to the shows with him and the friends they met along the way.
+    link: people/don-angland-jay-peterson-trim-shops.md#known-at-the-shows
+    evidence: ["was a street rod wife, always traveling to car shows with her husband and many great friends they met along the way.", "The two of them traveled through 48 states."]
+    source_type: [Obituary]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-20'
+    eras: [1950s, 2020s]
+    regions: ['Hixson, Tenn.']
+

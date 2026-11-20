@@ -1037,6 +1037,14 @@ themes:
         link: drag-racing/broadway-speedway-knoxville-eddie-harvey.md
         also: [companies/honest-charley-speed-shop.md]
         flag: drag-racing/broadway-speedway-knoxville-eddie-harvey.md#q-4
+      - id: race-of-gentlemen-beach
+        q: What is the Race of Gentlemen?
+        a: >-
+          A beach drag race for prewar hot rods and old American motorcycles that Mel Stultz and the Oilers first
+          ran on the sand near Asbury Park, New Jersey, on October 20, 2012. Sandy took the beach nine days later,
+          and the race has run in Wildwood since 2013.
+        link: drag-racing/race-of-gentlemen-oilers-jersey-shore.md
+        also: [drag-racing/atco-strato-rods-south-jersey.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1472,6 +1480,22 @@ themes:
         link: people/tony-nancy-sherman-oaks-trimmer.md
         also: [people/jimmy-summers.md]
         flag: people/tony-nancy-sherman-oaks-trimmer.md#q-2
+      - id: small-town-trim-shops
+        q: How did small trim shops make a name in street rodding?
+        a: >-
+          By going to the shows. Don Angland's shop in Hixson, Tennessee, got known as he traveled to car shows
+          across the U.S. with his wife, Barbara, "a street rod wife"; Jay Peterson of Pine Island, Minnesota,
+          learned by trial and error and had about a two-year wait by 2022.
+        link: people/don-angland-jay-peterson-trim-shops.md
+        also: [people/tony-nancy-sherman-oaks-trimmer.md]
+      - id: midwest-pinstripers-keeney-gaydos
+        q: Who were Bikini Keeney and Gator Gaydos?
+        a: >-
+          Two Midwest pinstripers who would put a brush on anything. Bob "Bikini" Keeney of Indianapolis painted
+          race cars and van murals; Mike "Gator" Gaydos of Taylor, Michigan, striped more than 200 pedal cars, and
+          his ashes went into a flamed and pinstriped urn.
+        link: people/bikini-keeney-gator-gaydos-midwest-pinstripers.md
+        also: [people/larry-watson-bellflower-paint.md]
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1644,6 +1668,25 @@ themes:
         link: street-rodding/lodi-mini-nats-goodguys-meadors.md
         also: [street-rodding/nsra-early-nationals.md]
         flag: street-rodding/lodi-mini-nats-goodguys-meadors.md#q-1
+      - id: california-kid-peculiar
+        q: Where is the California Kid coupe from the 1974 TV movie today?
+        a: >-
+          In Peculiar, Missouri. Pete Chapouris built the black '34 Ford for himself, and the movie's name went
+          into his shop's logo as "Home of The California Kid." Jerry Slover, a Kansas City parts dealer who had
+          called the shop after seeing the movie, bought Pete & Jake's in 1986 (⚠ see Open questions), and the
+          car came with it.
+        link: media/california-kid-pete-and-jakes-peculiar.md
+        also: [eras/1970s-street-rod-nationals.md]
+        flag: media/california-kid-pete-and-jakes-peculiar.md#q-3
+      - id: ls-fest-engine-swap
+        q: What is Holley's LS Fest?
+        a: >-
+          A meet for cars with GM's LS engines that Holley first held at Beech Bend, its hometown strip in Bowling
+          Green, Kentucky, in September 2010. Its Engine Swap Challenge made the swap a timed race; the first
+          winners had a new LS6 running in 31 minutes and 57 seconds (⚠ see Open questions).
+        link: media/ls-fest-beech-bend-bowling-green.md
+        also: [drag-racing/beech-bend-raceway-bowling-green.md, companies/holley.md]
+        flag: media/ls-fest-beech-bend-bowling-green.md#q-1
   - id: how-we-know
     title: Sources and how we know
     questions:

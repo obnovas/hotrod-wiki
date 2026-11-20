@@ -131,6 +131,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - [Who Says Hot Rods Are for Kids? (Columbus, Ohio)](columbus-trotters-high-winders.md): a ten-year-old's $35 hot rod, the Trotters' Trott-A-Rama at the Fairgrounds, a Hilltop club president's visit to the paper and a suburb's parking-lot fines, 1955–63.
 - [Windshields on a Sunday (Chardon, Ohio)](chardon-road-ravens-thompson-drag-strip.md): an optometrist's hot rod club that met with the sheriff and cleaned windshields, and the Thompson strip where Don Garlits brought the Swamp Rat in 1961, 1955–2025.
 - ["Only Their Own Necks" (Lake Butler, Fla.)](lake-butler-mid-state-timing-association.md): a Gainesville timing club, a crop duster that took its runway, and a county that asked the neighbors and said no, 1959.
+- [No Lawn Chairs: The Oilers and the Race of Gentlemen (Jersey Shore)](race-of-gentlemen-oilers-jersey-shore.md): a Neptune builder takes the name of a 1947 Carlsbad club and runs 15 prewar cars and 15 old bikes on the sand at Allenhurst in 2012; after Sandy, Wildwood (⚠ the mayor's first name; ⚠ who founded the Oilers).
 
 **Rules, safety and public opinion**
 
