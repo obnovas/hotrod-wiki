@@ -1024,6 +1024,7 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [hof] Tony Thacker, "Pete Chapouris," American Hot Rod Foundation. https://ahrf.com/pioneer/pete-chapouris/
 - [local] David Boyce, "How a 1934 Ford hot rod went from movie stardom to Peculiar, Mo.," *The Kansas City Star*, May 2, 2015. https://www.kansascity.com/cars/article20045478.html
 - [local] "Check Out Jason Slover's Story," VoyageKC, Nov. 10, 2025. https://voyagekc.com/interview/check-out-jason-slovers-story/
+- [corp] Gary Medley, "Jake's '34 Coupe – Breaking the Mold," Fuel Curve, July 12, 2023. https://fuelcurve.com/jakes-34-coupe/
 - [corp] Bradley Iger, "LS Fest East Celebrates 15-Year Anniversary for 2024," Holley Motor Life, Sept. 6, 2024. https://www.holley.com/blog/post/ls_fest_east_celebrates_15-year_anniversary_for_2024/
 - [mag] Cody Norris, "Holley's LS Fest Announced – Sept 10-12, Bowling Green, KY," *Dragzine*, Feb. 6, 2010. https://www.dragzine.com/news/holleys-ls-fest-announced-sept-10-12-bowling-green-ky/
 - [mag] Mike Finnegan, "Holley LS Fest – Hottest Engine In America," *Hot Rod*, Feb. 1, 2011, with David Freiburger's "What's In A Name?" https://www.hotrod.com/news/hrdp-1102-holley-ls-fest
@@ -1034,6 +1035,7 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [mag] Scott Lachenauer, "The Race of Gentlemen," *Hot Rod*, Jan. 28, 2013. https://www.hotrod.com/news/hrdp-1303-the-race-of-gentlemen
 - [mag] Carol Mittelsdorf, "Race of Gentlemen," *Rider*, Mar. 8, 2013. https://ridermagazine.com/race-of-gentlemen/
 - [local] Kate Morgan, "The Race of Gentlemen," *SJ Magazine* (South Jersey), Oct. 2021. https://sjmagazine.net/family-kids/south-jersey-the-race-of-gentlemen
+- [local] Molly Mulshine, "Auto race draws estimated crowd of 3,000," *Asbury Park Sun*, Oct. 22, 2012. https://asburyparksun.com/antique-auto-race-draws-estimated-crowd-of-3000/
 - [club] "About The Race of Gentlemen" and "About The Oilers Club," The Race of Gentlemen website. https://www.theraceofgentlemen.com/terms-1
 - [gov] Eric S. Blake and others, *Tropical Cyclone Report: Hurricane Sandy (AL182012)*, National Hurricane Center, Feb. 12, 2013. https://www.nhc.noaa.gov/data/tcr/AL182012_Sandy.pdf
 - [obit] "Angland, Joseph Donald 'Don'," *Chattanoogan.com*, June 17, 2026. https://www.chattanoogan.com/2026/6/17/520097/Angland-Joseph-Donald-Don.aspx

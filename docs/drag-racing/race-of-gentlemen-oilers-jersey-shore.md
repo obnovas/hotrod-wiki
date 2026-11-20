@@ -55,7 +55,7 @@ related:
 - drag-racing/island-dragway-great-meadows.md
 canonical_for: []
 location: An eighth-mile of sand on the beaches of Allenhurst and Loch Arbour, N.J. (2012); the beach at Wildwood, N.J., since 2013[^rider][^sj]
-peak: October 20, 2012, and every early October since 2013[^rider][^sj]
+peak: October 20, 2012[^aps], and every early October since 2013[^sj]
 status: Still held each fall in Wildwood[^sj][^trog]
 ---
 # No Lawn Chairs: The Oilers and the Race of Gentlemen on the Jersey Shore (Allenhurst and Wildwood, New Jersey, 1947–2021)
@@ -63,7 +63,7 @@ status: Still held each fall in Wildwood[^sj][^trog]
 *A book about the first cars, an empty fall beach, and a club name borrowed, with permission, from Carlsbad*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the first race was covered by two magazines that were there; the founder told the story again, nine years later, to a South Jersey magazine; they differ on a few names and on how soon the hurricane came, which the hurricane center's report settles) · **Source types:** <span class="hr-badge">Grassroots</span> the founder and a young racer in *SJ Magazine*, a South Jersey regional (2021); the club's own site; *Hot Rod* (January 2013) and *Rider* (March 2013), both on the first race; the National Hurricane Center's Sandy report (2013) · **Last verified:** 2026-11-20 (Round 45) · **Open issues:** ⚠ the Loch Arbour mayor's first name; ⚠ whether Jim Nelson founded the Oilers or was one of its founders · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the first race was covered by two magazines that were there; the founder told the story again, nine years later, to a South Jersey magazine; they differ on a few names and on how soon the hurricane came, which the hurricane center's report settles) · **Source types:** <span class="hr-badge">Grassroots</span> the founder and a young racer in *SJ Magazine*, a South Jersey regional (2021); the club's own site; *Hot Rod* (January 2013) and *Rider* (March 2013), both on the first race; the *Asbury Park Sun* (October 22, 2012), which gives the race day; the National Hurricane Center's Sandy report (2013) · **Last verified:** 2026-11-20 (Round 45 citation review) · **Open issues:** ⚠ the Loch Arbour mayor's first name; ⚠ whether Jim Nelson founded the Oilers or was one of its founders · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I called 15 friends with cars and bikes and we went for it. We put up some flyers, and we thought we'd have maybe 350 to 500 people. We wound up having 3,000."
@@ -86,7 +86,7 @@ The idea for the race came from a book. In it, Stultz told *SJ Magazine*, he rea
 
 He pitched an eighth-mile race on the sand to two small beach towns near Asbury Park, Allenhurst and Loch Arbour. Their mayors, Dave McLaughlin and Fernicola of Loch Arbour, said yes.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^rider][^hr13] The idea was hatched in August and the race set for late October, when, *Hot Rod* noted, the weather on the shore "can be very iffy."[^hr13] Stultz, Tom Larusso and the Oilers handed out flyers and hand-painted the signs and billboards.[^rider] Cars had to be pre-1934, and bikes American-made, tank-shifted and pre-1950.[^rider]
 
-There was a free beach party on Friday night, with a band and a bonfire.[^rider] On Saturday, October 20, the race's Facebook page counted 160 invitees.[^rider][^hr13] By 10 a.m. the crowd was ten times that, and by 2 p.m. there were more than 3,000 people on the beach.[^hr13] The tide put the start a few hours behind, which only gave the crowd time to grow. Burke Construction brought rollers to pack the sand. The racers launched off plywood boards for traction and hugged the waterline, where the sand was hardest. The announcer stood on a perch built from old scaffolding and a World War II–era trailer. The New Jersey State Police showed up and, instead of stopping it, asked for helmets and a wider gap for spectators.[^hr13] Fifteen cars and fifteen motorcycles ran.[^hr13][^rider]
+There was a free beach party on Friday night, with a band and a bonfire.[^rider] The race was Saturday, October 20.[^aps] The race's Facebook page counted 160 invitees.[^rider][^hr13] By 10 a.m. the crowd was ten times that, and by 2 p.m. there were more than 3,000 people on the beach.[^hr13] The tide put the start a few hours behind, which only gave the crowd time to grow. Burke Construction brought rollers to pack the sand. The racers launched off plywood boards for traction and hugged the waterline, where the sand was hardest. The announcer stood on a perch built from old scaffolding and a World War II–era trailer. The New Jersey State Police showed up and, instead of stopping it, asked for helmets and a wider gap for spectators.[^hr13] Fifteen cars and fifteen motorcycles ran.[^hr13][^rider]
 
 Stultz won the bike drags on his Indian and, *Rider* reported, handed his wreath to "The Flying Cubans," Matt Rush and Bill Applegate, who had raced a 1950 Panhead owned by Marty MacCollum all day. "We didn't receive a single complaint," Stultz said. "Thank God for New Jersey."[^rider]
 
@@ -115,6 +115,7 @@ The *Asbury Park Press* and the *Coaster* (Asbury Park), October 2012; the *Pres
 ## Sources
 
 [^hr13]: Scott Lachenauer, "The Race of Gentlemen: The Real Jersey Shore Plays Host to the Coolest Event in Decades," *Hot Rod*, January 28, 2013. https://www.hotrod.com/news/hrdp-1303-the-race-of-gentlemen (accessed 2026-11-20)
+[^aps]: Molly Mulshine, "Auto race draws estimated crowd of 3,000," *Asbury Park Sun*, October 22, 2012. https://asburyparksun.com/antique-auto-race-draws-estimated-crowd-of-3000/ (accessed 2026-11-20)
 [^rider]: Carol Mittelsdorf, "Race of Gentlemen," *Rider*, March 8, 2013. https://ridermagazine.com/race-of-gentlemen/ (accessed 2026-11-20)
 [^sj]: Kate Morgan, "The Race of Gentlemen," *SJ Magazine* (South Jersey), October 2021. https://sjmagazine.net/family-kids/south-jersey-the-race-of-gentlemen (accessed 2026-11-20)
 [^trog]: "About The Race of Gentlemen" and "About The Oilers Club," The Race of Gentlemen website. https://www.theraceofgentlemen.com/terms-1 (accessed 2026-11-20)
