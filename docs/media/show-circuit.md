@@ -91,7 +91,7 @@ In Portland, volunteers run the show. The Multnomah Hot Rod Council was founded 
 
 Oakland started with the rope barriers, the water drums, and about 100 cars. The circuit pulled California cars east. In Portland the large show is the one the volunteers run.
 
-*See also:* [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md); [the Ozark Drifters' Auto-Rama](../customs/ozark-drifters-ceola-scrapbook-arkansas.md), a Springdale indoor show known from one member's scrapbook; [Hot August Nights](hot-august-nights-reno-1986.md), Reno's 1986 charity dance that grew into a car event.
+*See also:* [Modesto's Century Toppers](../drag-racing/modesto-century-toppers.md); [the Ozark Drifters' Auto-Rama](../customs/ozark-drifters-ceola-scrapbook-arkansas.md), a Springdale indoor show known from one member's scrapbook; [Hot August Nights](hot-august-nights-reno-1986.md), Reno's 1986 charity dance that grew into a car event; [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md), a Wichita customizer whose own show, from 1957, outgrew his shop.
 
 ## Open questions & disputed details
 

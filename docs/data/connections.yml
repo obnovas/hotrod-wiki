@@ -179,6 +179,10 @@ nodes:
   - {id: omahadragway, label: "Omaha Dragway (Flightland, Neb.)", type: place, page: drag-racing/nebraska-flightland-grand-island-kearney.md}
   - {id: twincityspeed, label: "Twin City Speed Shop (North Little Rock)", type: company, group: garage-born, page: drag-racing/carlisle-drag-strip-arkansas.md}
   - {id: carlislestrip, label: "Carlisle Drag Strip (Ark.)", type: place, page: drag-racing/carlisle-drag-strip-arkansas.md}
+  # ---- Round 46: Ringbrothers, Darryl Starbird
+  - {id: ringbros,   label: Ringbrothers, type: company, group: garage-born, page: companies/ringbrothers-spring-green.md}
+  - {id: springgreen, label: "Spring Green, Wis.", type: place, page: companies/ringbrothers-spring-green.md}
+  - {id: starbird,   label: Darryl Starbird, type: person, page: people/darryl-starbird-wichita-show-man.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -597,3 +601,9 @@ edges:
      evidence: ["the second inductee into SEMA's Hall of Fame"]}
   - {from: roanokestrip, to: nhra, type: scene, label: "Opened June 29, 1958, under NHRA", page: drag-racing/roanoke-drag-strip-southwest-virginia.md,
      evidence: ["gives June 29, 1958, and NHRA"]}
+  - {from: ringbros, to: springgreen, type: hometown, label: "Collision shop and restomod shop on Highway 14, seven miles from Plain", page: companies/ringbrothers-spring-green.md,
+     evidence: ["sits on Highway 14 in Spring Green, seven miles from Plain"]}
+  - {from: speedway, to: starbird, type: acquired, label: "Starbird's museum merged into Speedway's Museum of American Speed, 2022", page: people/darryl-starbird-wichita-show-man.md,
+     evidence: ["he agreed to merge the museum into Speedway Motors' Museum of American Speed"]}
+  - {from: ringbros, to: sema, type: scene, label: "Recoil, GM Best in Show at the SEMA Show, 2014", page: companies/ringbrothers-spring-green.md,
+     evidence: ["was the General Motors Best in Show at the SEMA Show in Las Vegas"]}

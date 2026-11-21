@@ -1045,6 +1045,15 @@ themes:
           and the race has run in Wildwood since 2013.
         link: drag-racing/race-of-gentlemen-oilers-jersey-shore.md
         also: [drag-racing/atco-strato-rods-south-jersey.md]
+      - id: neita-raceway-owner
+        q: Who owned NEITA Raceway in Cedar Falls, Iowa?
+        a: >-
+          By her obituary, DeAlda Steward, later DeAlda Ackerman, a college business-office worker and gas station
+          bookkeeper who "owned and operated NEITA Raceway" (◐ see Open questions). A Waterloo museum tied the strip
+          to her husband, Ray Steward, and stock car star Red Droste (◐ see Open questions).
+        link: drag-racing/neita-raceway-cedar-falls.md
+        also: [drag-racing/des-moines-dragway-ernest-day.md]
+        flag: [drag-racing/neita-raceway-cedar-falls.md#q-3, drag-racing/neita-raceway-cedar-falls.md#q-2]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1295,6 +1304,14 @@ themes:
         link: companies/speedway-motors-lincoln.md
         also: [drag-racing/nebraska-go-out-to-scribner.md]
         flag: companies/speedway-motors-lincoln.md#q-1
+      - id: ringbrothers-spring-green
+        q: Where is Ringbrothers?
+        a: >-
+          In Spring Green, Wisconsin, seven miles from Plain, where Jim and Mike Ring grew up. Their restomod shop
+          sits beside the collision shop they still run on Highway 14, and their 1966 Chevelle Recoil was General
+          Motors' Best in Show at SEMA in 2014.
+        link: companies/ringbrothers-spring-green.md
+        also: [eras/1990s-pro-touring-garage-engineers.md]
   - id: people
     title: People
     questions:
@@ -1496,6 +1513,14 @@ themes:
           his ashes went into a flamed and pinstriped urn.
         link: people/bikini-keeney-gator-gaydos-midwest-pinstripers.md
         also: [people/larry-watson-bellflower-paint.md]
+      - id: darryl-starbird-car-shows
+        q: Why did Darryl Starbird go into the car show business?
+        a: >-
+          Because his first show paid better than his shop. In 1957 he rented the old Forum in Wichita to show
+          people what a custom car was, drew 3,000 people without buying any advertising, and made more than his
+          shop had all year. His family still runs his show in Tulsa.
+        link: people/darryl-starbird-wichita-show-man.md
+        also: [media/show-circuit.md, customs/kkoa-lead-sled-revival.md]
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1574,6 +1599,16 @@ themes:
         link: customs/daves-dream-chimayo-lowrider.md
         also: [people/joe-bailon-candy-apple.md]
         flag: customs/daves-dream-chimayo-lowrider.md#q-1
+      - id: rat-rod-shows
+        q: Where did rat rods get shows of their own?
+        a: >-
+          In small towns, from builders other shows did not want. Peter Duvaloois started the Rats Nest Run-In
+          behind his Saugerties, New York, shop after being told "We don't need you," and the Peckerhead Rat Rod
+          Club has held the Rat Rod Rendezvous beside a country store in Mahtowa, Minnesota, since about 2009
+          (⚠ see Open questions).
+        link: customs/rat-rod-shows-saugerties-mahtowa.md
+        also: [drag-racing/race-of-gentlemen-oilers-jersey-shore.md]
+        flag: customs/rat-rod-shows-saugerties-mahtowa.md#q-1
   - id: media-and-shows
     title: Media and shows
     questions:
@@ -1687,6 +1722,15 @@ themes:
         link: media/ls-fest-beech-bend-bowling-green.md
         also: [drag-racing/beech-bend-raceway-bowling-green.md, companies/holley.md]
         flag: media/ls-fest-beech-bend-bowling-green.md#q-1
+      - id: national-truck-in-two-nationals
+        q: Why were there two National Truck-Ins in 1976?
+        a: >-
+          Because two groups claimed the name. The National Street Van Association held its meet at Beech Bend
+          Park in Bowling Green, Kentucky, with more than 6,300 trucks, while Rocky Mountain Vans of Denver, which
+          had hosted the first one in 1973 and won the trademark, held its own in Colorado (⚠ see Open questions).
+        link: media/national-truck-in-vans-beech-bend.md
+        also: [drag-racing/beech-bend-raceway-bowling-green.md, street-rodding/nsra-early-nationals.md]
+        flag: media/national-truck-in-vans-beech-bend.md#q-3
   - id: how-we-know
     title: Sources and how we know
     questions:

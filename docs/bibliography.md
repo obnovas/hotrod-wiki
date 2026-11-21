@@ -1017,6 +1017,39 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [trade] "SEMA Hall of Famer 'Speedy' Bill Smith Passes Away," SEMA eNews, 2014. https://www.sema.org/news-media/enews/2014/23/sema-hall-famer-speedy-bill-smith-passes-away
 - [book] Bill Smith with Dave Argabright, autobiography (2009), excerpt "Cool Man Window Tint: a Speedy Bill adventure." https://daveargabright.com/the-story-blog/cool-man-window-tint-a-speedy-bill-adventure/
 
+## Round 46 additions (the National Truck-In at Beech Bend, Darryl Starbird, two rat rod shows, NEITA Raceway, Ringbrothers)
+- [club] Greg (Coop) Cooper, "A brief History of the Nationals" (circa 1994), with readers' comments, The National Truck-in Board. https://www.vannationalsboard.org/p/a-brief-history-of-nationals-by-greg.html
+- [club] Greg Cooper, "The National Truck-in® past and future," The National Truck-in Board, February 28, 2021. https://www.vannationalsboard.org/2021/02/the-national-truck-in-past-and-future.html
+- [local] Telia Butler and Chris Bratton, "Throwback Thursday - Summers of '75 and '76: When 4,000 street vans rocked Bowling Green," WNKY News 40, Bowling Green, Ky., June 9, 2022. https://www.wnky.com/throwback-thursday-summers-of-75-and-76-when-4000-street-vans-rocked-bowling-green/
+- [mag] "Reflections," *Hot Rod*, originally published October 1976 (reposted January 1, 2023). https://www.hotrod.com/features/reflections-october-1976-982-766-35-1
+- [mag] Jan Tegler, "Creators, curators and converts coalesce at vanning's crown jewel: The National Truck-In," *Autoweek*, September 22, 2017. https://www.autoweek.com/car-life/a1831101/vanguard/
+- [local] Hurst Laviana, "Darryl Starbird's exotic car show opens at Century II," *The Wichita Eagle*, January 15, 2011. https://www.kansas.com/news/article1052492.html
+- [local] Hurst Laviana, "Darryl Starbird formally announces annual car show is changing hands," *The Wichita Eagle*, September 28, 2011. https://www.kansas.com/cars/article1071260.html
+- [obit] "Donna Starbird Obituary (1933–2021)," *The Wichita Eagle*, September 12–15, 2021, via Legacy.com. https://www.legacy.com/us/obituaries/kansas/name/donna-starbird-obituary?id=24097072
+- [corp] "About," Star Kustom Shop (San Dimas, Calif.). https://starkustom.com/about
+- [local] FOX23 News Staff, "61st Darryl Starbird's Car Show comes to Tulsa," FOX23, Tulsa, February 15, 2025. https://fox23.com/news/local/61st-darryl-starbirds-car-show-comes-to-tulsa
+- [mag] Gary Medley, "Legends of Hot Rodding: Darryl Starbird, the Bubble Top King," *Goodguys Gazette*, September 2018. https://goodguys.mydigitalpublication.com/articles/legends-of-hot-rodding?article_id=3140042&i=513512
+- [mag] Damon Lee, "5 Minutes With Darryl Starbird," Fuel Curve (*Goodguys Gazette*), December 6, 2022. https://fuelcurve.com/darryl-starbird/
+- [local] Donna Kessler, "Rats Nest Run-In: A car show where rust is in," *Times Herald-Record* (Middletown, N.Y.), August 11, 2014. https://www.recordonline.com/story/lifestyle/2014/08/11/rats-nest-run-in-car/36338857007/
+- [local] Donna Kessler, "Unique vehicles at one unique show, the Rats Nest Run-In," *Times Herald-Record*, October 10, 2016. https://eu.recordonline.com/story/lifestyle/my-ride/2016/10/10/unique-vehicles-at-one-unique/25233868007/
+- [local] Jana Peterson, "One piece at a time," *Pine Journal* (Cloquet, Minn.), September 2, 2010. https://www.pinejournal.com/news/one-piece-at-a-time
+- [local] "4000 Miles of Rust," *Pine Journal* (Cloquet, Minn.), March 7, 2013. https://www.pinejournal.com/lifestyle/arts-and-entertainment/4000-miles-of-rust
+- [local] "Movie on cross-country 'rat rod' tour premieres in Moose Lake," *Duluth News Tribune*, March 8, 2013. https://www.duluthnewstribune.com/news/movie-on-cross-country-rat-rod-tour-premieres-in-moose-lake
+- [local] Dave Anderson and Jeffrey McClure, "Rat Rods to rumble in Mahtowa for Labor Day Weekend," Northern News Now (Duluth, Minn.), September 1, 2023. https://www.northernnewsnow.com/2023/09/02/rat-rods-rumble-mahtowa-labor-day-weekend/
+- [mag] Van Abernethy, "On The Road: Cedar Falls Raceway," *Drag Illustrated*, September 18, 2020 (from *DI* #159, August 2020). https://dragillustrated.com/on-the-road-cedar-falls-raceway/
+- [ref] "Cedar Falls Raceway Dragstrip," Iowa Dragstrips & Drag Racing, XTRA Action Sports directory. https://www.xtraactionsports.com/dragstrips/iowa-dragstrips.htm
+- [museum] "Sulkies to Speedways: A Need for Speed in the Cedar Valley," Grout Museum District, Waterloo, Iowa, exhibit page, 2018. https://www.groutmuseumdistrict.org/calendar/sulkies-to-speedways-the-need-for-speed-in-the-cedar-valley--D09062018.aspx
+- [oral] Kyle Ealy, "Remembering Red Droste," Midwest Racing Archives, November 19, 2011. http://www.midwestracingarchives.com/2011/11/remembering-red-droste.html
+- [obit] "Droste, LaVern N. 'Red'" (obituary), *Waterloo Courier*, November 16, 2011, transcribed by IAGenWeb, Black Hawk County obituaries. https://iagenweb.org/boards/blackhawk/obituaries/index.cgi?read=372843
+- [ref] "Clint Hagedorn," Motorsport Memorial, citing *The Courier* (Waterloo), July 5, 1967, p. 23, "Clint Hagedorn 1st Fatality At NEITA." http://www.motorsportmemorial.org/focus.php?db=ct&n=13216
+- [obit] "Ackerman, DeAlda R." (obituary from the *Waterloo Courier*, February 14, 2001, p. C2), UNI History biographies, Special Collections & University Archives, University of Northern Iowa. https://scua.library.uni.edu/uni-history/biographies/ackerman-dealda-r
+- [forum] CONNMAN, post of March 6, 2010, in "Iowa Dragstrips - New & Old," page 1, The H.A.M.B. https://www.jalopyjournal.com/forum/threads/iowa-dragstrips-new-old.452949/page-1
+- [forum] Corn Fed and out plowing, posts of July 7, 2010, in "Iowa Dragstrips - New & Old," page 3, The H.A.M.B. https://www.jalopyjournal.com/forum/threads/iowa-dragstrips-new-old.452949/page-3
+- [forum] Terry Doukas (Duke66), post of August 6, 2012, and Jim Volgarino (jvolgarino), post of March 29, 2012, in "Iowa Dragstrips - New & Old," page 6, The H.A.M.B. https://www.jalopyjournal.com/forum/threads/iowa-dragstrips-new-old.452949/page-6
+- [local] Barry Adams, "Wisconsin brothers gain fame for work on custom cars," *The Northwestern* (Oshkosh, Wis.), March 22, 2015. https://eu.thenorthwestern.com/story/news/2015/03/22/wisconsin-brothers-gain-fame-work-custom-cars/25189157/
+- [mag] "Ringbrothers: 'the most exciting thing is the next project'," *Top Gear*, August 26, 2024. https://www.topgear.com/car-news/interview/ringbrothers-most-exciting-thing-next-project
+- [mag] Guy Pickrell, "EXCLUSIVE: Ringbrothers' Story Behind Enterprising Partnership And Four SEMA 2022 Builds," HotCars, December 9, 2022. https://www.hotcars.com/exclusive-ringbrothers-story-sema-2022-builds/
+
 ## Round 45 additions (the California Kid and Pete & Jake's, LS Fest, the Race of Gentlemen, two trim shops, two Midwest pinstripers)
 - [oral] Pete Chapouris, "The California Kid Back Story," Pete & Jake's Hot Rod Parts website. https://www.peteandjakes.com/the-california-kid-back-story/
 - [corp] "About," Pete & Jake's Hot Rod Parts website. https://www.peteandjakes.com/about/

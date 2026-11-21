@@ -308,6 +308,8 @@ paths:
         why: "The private investor's strip at Des Moines that Ames's steward told The Iowan about."
       - page: drag-racing/minnesota-dragways-coon-rapids-gsta.md
         why: "Twin Cities clubs spend five years on reliability runs and a traffic-ticket poll, then help pay for their strip with car-show bonds."
+      - page: drag-racing/neita-raceway-cedar-falls.md
+        why: "Cedar Falls, 1965 on: a timing association's strip in John Deere country, owned for a time by a college bookkeeper, still running."
       - page: drag-racing/beardstown-drag-strip.md
         why: "A later Illinois strip and its touring stars."
 
@@ -382,6 +384,8 @@ paths:
         why: "Lodi, 1973: a Fremont club's weekend at the fairgrounds, entries written down by hand, and the seed of Goodguys."
       - page: media/california-kid-pete-and-jakes-peculiar.md
         why: "Temple City, 1974: a backyard '34 coupe goes on a magazine cover and into a TV movie, and its name goes on a parts shop that ends up in Peculiar, Missouri."
+      - page: media/national-truck-in-vans-beech-bend.md
+        why: "Bowling Green, 1975–76: the van craze's national meet fills Beech Bend, and a Denver club wins the name, so one summer has two Nationals."
       - page: street-rodding/back-to-the-50s-msra-st-paul-1974.md
         why: "St. Paul, 1974: a club rehearses for hosting the Nats with a Friday-night cruise, and meets a crowd leaving American Graffiti."
       - page: people/dick-wells.md
@@ -392,8 +396,12 @@ paths:
         why: "The 1990s: GM engineers build handling Camaros at night, and a backyard shop becomes Detroit Speed."
       - page: media/ls-fest-beech-bend-bowling-green.md
         why: "Bowling Green, 2010 on: a carburetor company's hometown meet for the junkyard LS engine, where the swap itself is timed."
+      - page: companies/ringbrothers-spring-green.md
+        why: "Spring Green, Wisconsin, 1991 on: a collision shop on Highway 14 builds a SEMA best in show and keeps fixing deer dents."
       - page: drag-racing/race-of-gentlemen-oilers-jersey-shore.md
         why: "The Jersey Shore, 2012 on: a club carrying a 1947 Carlsbad name runs prewar hot rods on the beach instead of parking them."
+      - page: customs/rat-rod-shows-saugerties-mahtowa.md
+        why: "Saugerties and Mahtowa, 2009 on: two small-town shows for the rat rods other shows turned away."
 
   - id: customs
     letter: I
@@ -420,6 +428,8 @@ paths:
         why: "Customs on paper and in plastic."
       - page: media/show-circuit.md
         why: "Where they were shown."
+      - page: people/darryl-starbird-wichita-show-man.md
+        why: "Wichita, 1957: a customizer rents a hall to explain the word 'custom,' and the show pays better than the shop."
       - page: people/joe-bailon-candy-apple.md
         why: "The Bay Area painter who chased a taillight's glow for ten years and gave the method away with the paint."
       - page: people/larry-watson-bellflower-paint.md

@@ -86,7 +86,7 @@ The man keeping its memory is Larry Lathom of Des Moines.[^hamb] His site lists 
 
 By 2008 fourteen cars that had raced there had been found in Iowa, and Lathom invited their owners to bring them to a reunion at Eddyville Raceway that July, "even if they don't run and have to be trailered." The schedule had Lou Bredesky's slides of the strip, Denny Reed flagging and Don Steadman announcing again. Dick Hoover of Dallas Center planned to bring the '32 Ford he had raced there, 400 cubic inches with dual quads, and race it.[^dmd50] Ernest Day built the strip. It ran eleven years, the pavement lay there thirty-three more, and the people who raced on it are still being found.
 
-*See also:* [The Professor's Drag Strip: Ames](ames-drag-strip-nightcrawlers.md), Iowa's club-run strip of the same summers; [*Street Rod* and the Iowa Timing Association](../media/street-rod-newspaper-serial.md); [Minnesota Dragways](minnesota-dragways-coon-rapids-gsta.md) and [M-N Raceway](m-n-raceway-wichita-simon-farm.md), its neighbors to the north and south.
+*See also:* [The Professor's Drag Strip: Ames](ames-drag-strip-nightcrawlers.md), Iowa's club-run strip of the same summers; [*Street Rod* and the Iowa Timing Association](../media/street-rod-newspaper-serial.md); [Minnesota Dragways](minnesota-dragways-coon-rapids-gsta.md) and [M-N Raceway](m-n-raceway-wichita-simon-farm.md), its neighbors to the north and south; [NEITA Raceway](neita-raceway-cedar-falls.md), the Cedar Falls strip open since 1965.
 
 ## Open questions & disputed details
 

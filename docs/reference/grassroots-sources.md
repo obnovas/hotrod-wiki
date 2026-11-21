@@ -244,6 +244,24 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 46 additions
+- Local newspapers and TV: WNKY News 40, Bowling Green (2022), on the 1975 and 1976 van meets at Beech Bend, drawing on the NSVA's paper *Van Happenings* → [The National Truck-In](../media/national-truck-in-vans-beech-bend.md); the *Wichita Eagle* (2011) and FOX23 Tulsa (2025) → [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md); the *Times Herald-Record* (2014, 2016), the Cloquet *Pine Journal* (2010, 2013), the *Duluth News Tribune* (2013) and Northern News Now (2023) → [Rat rod shows](../customs/rat-rod-shows-saugerties-mahtowa.md); *The Northwestern* (Oshkosh, 2015) → [Ringbrothers](../companies/ringbrothers-spring-green.md).
+- A hobby's own historian: Greg "Coop" Cooper's two histories of the Nationals on the National Truck-in Board's site (c. 1994 and 2021), with vanners' comments → The National Truck-In.
+- Local obituaries: DeAlda Ackerman (*Waterloo Courier*, 2001, kept by the University of Northern Iowa archives) and Red Droste (*Waterloo Courier*, 2011, transcribed by IAGenWeb) → [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md); Donna Starbird (*Wichita Eagle*, 2021) → Darryl Starbird.
+- A hometown museum: the Grout Museum's 2018 Cedar Valley racing exhibit; the Midwest Racing Archives' remembrance of Red Droste, with his son's recollection → NEITA Raceway.
+- Firsthand forum posts: the H.A.M.B. thread "Iowa Dragstrips - New & Old" (2010–12) → NEITA Raceway.
+- A family shop's own history: the Star Kustom Shop's "About" page, written by his grandson's shop → Darryl Starbird.
+
+### Round 46 status
+| Archive | Round 46 status |
+|---|---|
+| *Waterloo-Cedar Falls Courier* (wcfcourier.com) | Rate-limited (HTTP 429); the 1967 Hagedorn headline is cited through Motorsport Memorial, and the obituaries through UNI and IAGenWeb copies. |
+| *Moose Lake Star Gazette* (2025) | Rate-limited (HTTP 429); a search excerpt says the Rendezvous began in 2008. Not read, so it is only noted in Open questions. |
+| H.A.M.B. attachment "Neita News.pdf" | Needs a forum login; not used. |
+| Kustomrama | Bot check; not used. |
+| *Times Herald-Record* and *Wichita Eagle* | Blocked to our command-line fetcher; read through a second fetcher. |
+| Google Patents | No Round 46 patents. |
+
 ### Round 45 additions
 - Local newspapers: *The Kansas City Star* (2015), on the California Kid coupe living in Peculiar, Mo. → [Home of The California Kid](../media/california-kid-pete-and-jakes-peculiar.md); the *Bowling Green Daily News* (2019, 2021), on the county's road widening, a resident's objection and the city blocking a street "to prevent drag racing" during LS Fest → [LS Fest](../media/ls-fest-beech-bend-bowling-green.md); the Rochester *Post Bulletin* (2022) → [Trim shops](../people/don-angland-jay-peterson-trim-shops.md); *The Southsider Voice* (Indianapolis, 2016) → [Keeney & Gaydos](../people/bikini-keeney-gator-gaydos-midwest-pinstripers.md); *SJ Magazine* (South Jersey, 2021) → [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md). The citation review added Molly Mulshine, *Asbury Park Sun*, October 22, 2012, for the first race's day (Saturday, October 20) → [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md).
 - Local obituaries: Don Angland (*Chattanoogan.com*, 2026) and Barbara Angland (*Chattanooga Times Free Press*, 2023) → Trim shops; Mike "Gator" Gaydos (*The News-Herald*, Michigan, 2013) → Keeney & Gaydos.

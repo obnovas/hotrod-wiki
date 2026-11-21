@@ -10,6 +10,7 @@ Customizing is its own tradition inside hot rodding. A hot rod asks how fast; a 
 - [KKOA & the Lead Sled Revival](kkoa-lead-sled-revival.md): Wichita, 1979–83, when a club brought the lead sled back.
 - [Washing the Signs (Ozark Drifters, Ark.)](ozark-drifters-ceola-scrapbook-arkansas.md): according to the Ceola family scrapbook, a Fayetteville club that sentenced its own speeder to wash street signs (1960–64).
 - [A Family Portrait on the Car: Dave's Dream (Chimayó, N.M.)](daves-dream-chimayo-lowrider.md): a used 1969 Ford LTD, finished by a family and a car club after its builder died, blessed at the Santuario and sent to the Smithsonian in 1992 (⚠ how much was done before 1978; ⚠ the family portrait, doors or fender).
+- ["This Is a Rat Rod Show" (Saugerties, N.Y., and Mahtowa, Minn.)](rat-rod-shows-saugerties-mahtowa.md): a builder told "not now, not ever" starts his own show behind his shop, and a Minnesota club with beer-keg gas tanks parks beside a country store and drives to Las Vegas (⚠ Mahtowa's first year).
 
 **Elsewhere in the wiki**
 

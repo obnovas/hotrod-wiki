@@ -14,6 +14,7 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [Where Lucas Shot It: Petaluma and *American Graffiti* (1972)](american-graffiti-petaluma-1972.md): San Rafael says no after one night, Petaluma says yes, a drive-in where the Pacers met, and the car show the town's own car people built in 2006 (⚠ when Lund took over Hollie's).
 - [Home of The California Kid (Temple City to Peculiar, Mo.)](california-kid-pete-and-jakes-peculiar.md): a backyard '34 coupe, a *Rod & Custom* cover, a 1974 TV movie, and the parts dealer who bought the shop and the car (⚠ how the producer found it; ⚠ 1986 or 1987).
 - [Why Limit It Just to Swaps? Holley's LS Fest (Bowling Green, Ky.)](ls-fest-beech-bend-bowling-green.md): a carburetor company's hometown meet for the junkyard LS engine, a timed engine swap, and a crowd that outgrew the road (⚠ how long the first swap took).
+- [Two Nationals in One Summer: The National Truck-In and Beech Bend (vans, 1973–76)](national-truck-in-vans-beech-bend.md): a *Hot Rod* editor's call for a van meet, a club-hosted party that filled Beech Bend in 1975, and a Denver club that won the name, so 1976 had two Nationals (⚠ the first meet's size; ⚠ which 1976 meet was the fourth).
 
 **Elsewhere in the wiki**
 

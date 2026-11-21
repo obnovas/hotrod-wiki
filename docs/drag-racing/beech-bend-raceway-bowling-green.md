@@ -102,7 +102,7 @@ In 1984 Dallas and Alfreda Jones bought the racetracks, and in 1987 the overgrow
 
 Ten cents at the gate, three teenagers and a road grader, and a man sent to Atlanta when Garvin heard about drag racing. The histories date the strip to 1951, 1956, or sometime in the mid-1960's. Dallas and Alfreda Jones bought the racetracks in 1984, and the family still runs them.
 
-*See also:* [Cedar Creek and Kentucky's hometown strips](cedar-creek-bullitt-dragway-kentucky.md), where a racer believes Beech Bend was the state's first strip; [The Roanoke Drag Strip](roanoke-drag-strip-southwest-virginia.md), another 1950s strip that shared its grounds with a stock car oval; [LS Fest](../media/ls-fest-beech-bend-bowling-green.md), Holley's LS-engine meet here since 2010.
+*See also:* [Cedar Creek and Kentucky's hometown strips](cedar-creek-bullitt-dragway-kentucky.md), where a racer believes Beech Bend was the state's first strip; [The Roanoke Drag Strip](roanoke-drag-strip-southwest-virginia.md), another 1950s strip that shared its grounds with a stock car oval; [LS Fest](../media/ls-fest-beech-bend-bowling-green.md), Holley's LS-engine meet here since 2010; [The National Truck-In](../media/national-truck-in-vans-beech-bend.md), the van meets that filled the park in 1975 and 1976.
 
 ## Open questions & disputed details
 

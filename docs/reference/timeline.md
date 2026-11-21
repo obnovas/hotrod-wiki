@@ -29,6 +29,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1947 ⚠ | Modesto's Century Toppers formed in "late '47" (Gene Winfield); Kustomrama says 1946 | [Century Toppers](../drag-racing/modesto-century-toppers.md) |
 | 1947 | Sheridan Hot Rod Club, Inc., formed in Wyoming; "The Wyo Big Cars" run ether-laced fuel on the fairgrounds track | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
 | 1947 ⚠ | The Oilers car club forms in Carlsbad, Calif. (Jim Nelson its founder, or one of its founders ⚠) | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
+| 1947 | Red Droste opens Red's Auto Service in Waterloo, Iowa, "the city's first real speed shop," by his son's account | [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md) |
 | 1948–49 | Fort Worth Turtles (1948) and Dallas Chaparrals (1949) ◐ | [Texas](../places/texas.md) |
 | 1948 | Howie Wilson drives Hilborn streamliner 150.5 mph at El Mirage (SEMA account) | [Stu Hilborn](../people/stu-hilborn.md) |
 | 1948–53 | California Highway Patrol works with hot rod clubs until a 1953 order ends it | [City planners, 1955](../drag-racing/planners-report-1955.md) |
@@ -112,6 +113,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1954 ⚠ | NHRA's Safety Safari and the NJTA race a fifth-mile on Linden Airport (July 25, Sept 18); 4,000 or 8–10,000 watch ⚠ | [Linden & NJ strips](../drag-racing/linden-njta-new-jersey-short-strips.md) |
 | 1954 | Police Capt. Clifford Bailey brings 25 Twin Cities clubs together as the Gopher State Timing Association | [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md) |
 | 1954 | Speedway Motors moves to 5,000 square feet at 1719 N Street, Lincoln | [Speedway Motors](../companies/speedway-motors-lincoln.md) |
+| 1954 | Darryl Starbird, 21, opens the Star Kustom Shop in a former chicken coop by the tracks, 734 E. Mt. Vernon, Wichita | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 1955 | NHRA Safari meet at Halls, Tenn. (start of Halls drags 1953/55 ⚠) | [Memphis](../places/memphis.md) |
 | 1955 | NHRA's first national event at Great Bend, Kan. (Sept 29–Oct 2); finals finished at Perryville, Ariz., Nov 19–20 (Calvin Rice champion after a blown transmission) | [Great Bend](../drag-racing/great-bend-srca.md), [Perryville](../drag-racing/perryville-marsh-airstrip.md) |
 | 1955 | Escanaba Drag-n's sponsor a members-only road race "to test speed judgment" (May 22) | [Escanaba](../drag-racing/escanaba-dragns.md) |
@@ -202,6 +204,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 ⚠ | Broadway Speedway, Knoxville, closes after the season (1958 in one list ⚠) | [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md) |
 | 1957 | Tony Nancy's orange flathead '29 roadster, No. 22, on the December cover of *Hot Rod* | [Tony Nancy](../people/tony-nancy-sherman-oaks-trimmer.md) |
 | 1957 | Bob "Bikini" Keeney graduates from Southport High, Indianapolis, where he striped his schoolmates' cars | [Keeney & Gaydos](../people/bikini-keeney-gator-gaydos-midwest-pinstripers.md) |
+| 1957 | Starbird rents the old Forum in Wichita for a car show with no advertising; 3,000 people come | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 1958 | Winslow city council lets the Renegades Drag Club race the municipal airport taxiway (Mar 18); strip's last event 1985 | [Winslow](../drag-racing/winslow-renegades-airport.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
@@ -386,6 +389,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1965 ⚠ | Gene Cromer's new *Moonlighter*, a 1940 or 1941 Willys, wins A/Gas at Donaldson AFB, Greenville, S.C. (May; ? the base's only drag meet) | [Gene Cromer](../people/gene-cromer-moonlighter.md) |
 | 1965 ◐ | Schilling AFB at Salina, Kan., closes (June 30); by one 2026 account, the town's drag strip moves from the base to an abandoned runway east of town | [Salina](../drag-racing/salina-raceway-old-runway-kansas.md) |
 | 1965 ⚠ | Eddie Harvey builds Knoxville Raceway on Maynardville Highway (his family's page says he opened Knoxville Dragway in 1964 ⚠) | [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md) |
+| 1965 | NEITA Raceway opens outside Cedar Falls, Iowa (ground broken 1964) ⚠ first sanction | [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md) |
 | 1966–68 | AMC's performance list gives Hurst-Campbell's Warminster address | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | 1966 | Kingfish blown Barracuda vs. Joe Lunati's 427 Corvair at Malden, Mo. (Easter, Apr 10); KK drag strip "opening" (June 5); Thomas J. Broas killed, Outagamie County's first race track fatality (Aug 7) | [SEMO Malden](../drag-racing/semo-malden-drag-strip.md), [Joe Lunati](../people/joe-lunati.md), [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md) |
 | 1966 | Joe Lunati of Memphis beats Richard Moroso in the Street Eliminator final at the NHRA Nationals, Indianapolis (Labor Day); Outagamie County rezones 75 acres beside KK Sports Arena for a "mile-long drag strip" (Dec, ◐) | [Joe Lunati](../people/joe-lunati.md), [Moroso](../companies/moroso.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
@@ -411,6 +415,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1967 | Blaney Drag Strip is rebuilt on the same land with a three-quarter-mile shutdown (⚠ why) | [Blaney & the Midlands](../drag-racing/blaney-drag-strip-elgin-south-carolina.md) |
 | 1967 | Biloxi Dragway closes when the landowner will not renew the lease (July 1) | [Biloxi Dragway](../drag-racing/biloxi-dragway-gulf-coast.md) |
 | 1967 | Des Moines Dragway closes | [Des Moines Dragway](../drag-racing/des-moines-dragway-ernest-day.md) |
+| 1967 | Clint Hagedorn killed in the *Corruptor* at NEITA (July 4), the strip's first fatality | [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md) |
 | 1968 ⚠ | Gene Snow's 200.88 mph at Dickinson: first 200-mph Funny Car pass (Aug 17, 1968, vs 1969). Cordova floods; World Series run at 1,000 ft | [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md) |
 | 1968 | A young engineer's discounted hop-up parts for his drag-racing buddies become Summit Racing; Moroso says its company began this year | [Summit Racing](../companies/summit-racing.md), [Moroso](../companies/moroso.md) |
 | 1968 | Pocono Drag Lodge, Bear Creek, Pa.: 220 drivers on one August Sunday; third annual Funny Car, Super Stock and Gas Spectacular. Pocono International Speedway's opening race (Oct), with a drag strip in its plans | [Pocono strips](../drag-racing/pocono-strips.md) |
@@ -460,6 +465,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1973 | Nor-Cal Early Iron's first West Coast Street Rod Mini-Nats at the Lodi Grape Festival Grounds; Gary and Marilyn Meadors hand-record 566 entries | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | 1973 | Meadors buys the '32 Tudor that becomes the Goodguys logo, in Paradise, Calif.; it breaks down on the way home | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | 1973 ⚠ | Chapouris's and Jim "Jake" Jacobs's '34 coupes on the November *Rod & Custom* cover (the company says 1974 ⚠) | [California Kid](../media/california-kid-pete-and-jakes-peculiar.md) |
+| 1973 ⚠ | First National Truck-In, Tiger Run near Breckenridge, Colo., hosted by Rocky Mountain Vans (August) | [National Truck-In](../media/national-truck-in-vans-beech-bend.md) |
 | 1974 | First Back to the 50's (Friday, June 21), a Midway Shopping Center cruise that meets a theater crowd leaving *American Graffiti*; 5th Nationals, St. Paul | [Upper Midwest](../places/upper-midwest.md), [Back to the 50's](../street-rodding/back-to-the-50s-msra-st-paul-1974.md) |
 | 1974 | First edition of Summit's "Big Book" catalog (per Classic American) | [Summit Racing](../companies/summit-racing.md) |
 | 1974 ⚠ | Evel Knievel jumps Mack trucks at Green Valley for ABC (Feb 17; crowd size disputed) | [Green Valley](../drag-racing/green-valley-raceway-smithfield.md) |
@@ -471,6 +477,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1975 | A Santa Maria letter-writer calls the Golden State Raceway "doomed" as the airport and Chamber of Commerce pull back (Dec) | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
 | 1975 | David Jaramillo of Chimayó, N.M., buys the used LTD and starts customizing it | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
 | 1975 | Jerry Slover becomes Pete & Jake's dealer in Kansas City | [California Kid](../media/california-kid-pete-and-jakes-peculiar.md) |
+| 1975 | Third National Truck-In at Beech Bend Park, Bowling Green, Ky. (July): more than 4,500 vans come | [National Truck-In](../media/national-truck-in-vans-beech-bend.md) |
 | 1976 | Competition Cams formed by six partners, producing out of RHS's warehouse | [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | 1976 | Kanawha Valley Drag Strip closes | [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md) |
 | 1976–77 | Minot's Bob Struksnes finishes fourth, then third, in NHRA Top Fuel | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
@@ -478,6 +485,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1976 | Minnesota Dragways closes | [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md) |
 | 1976 | Dover Drag Strip closes | [Dover Drag Strip](../drag-racing/dover-drag-strip-wingdale-new-york.md) |
 | 1976 | Tony Nancy quits racing after the March Meet to run his upholstery shop full time | [Tony Nancy](../people/tony-nancy-sherman-oaks-trimmer.md) |
+| 1976 ⚠ | Two Nationals: the NSVA's at Beech Bend (more than 6,300 trucks) and Rocky Mountain Vans' in Colorado | [National Truck-In](../media/national-truck-in-vans-beech-bend.md) |
 | 1977 | Quaker City's 20th season: Don Prudhomme runs 6.315 at 213 mph (July 17); the Bracket Bonanza draws over 400 racers (July 3) | [Quaker City](../drag-racing/quaker-city-salem.md) |
 | 1977 | AHRA moves its nationals from Green Valley to San Antonio's Alamo Dragway (July) | [San Antonio](../drag-racing/san-antonio-double-eagle-alamo-dragway.md), [Green Valley](../drag-racing/green-valley-raceway-smithfield.md) |
 | 1977 | Denver's Scotchman drive-in closes to a chorus of car horns (Oct 11) | [Denver's cruise](../places/denver-16th-street-colfax-scotchman.md) |
@@ -485,6 +493,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1978 ⚠ | Harvey's Knoxville Raceway reopens as a drag strip, by McGee's history | [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md) |
 | 1978 | David Jaramillo dies; Dave's Dream is unfinished (⚠ how much he had done) | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
 | 1978 | Gary Meadors directs the first NSRA Western Street Rod Nationals, Merced, Calif. | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
+| 1978 | The National Street Van Association quits (September) | [National Truck-In](../media/national-truck-in-vans-beech-bend.md) |
 | 1979 | Merc/Deuce Reunion. Lakeland Dragway closes | [KKOA](../customs/kkoa-lead-sled-revival.md), [Memphis](../places/memphis.md), [Lakeland Dragway](../drag-racing/lakeland-dragway-amusement-park.md) |
 | 1979 ⚠ | Sheriff closes Whittier Blvd to weekend cruising (Mar 23 or Aug 31) | [Whittier Blvd](../places/whittier-blvd.md) |
 | 1979 | Scottsbluff, Neb., yearbook: "Anyone or anything we looked for was sure to be found while dragging main" | [Dragging Main](../places/dragging-main.md) |
@@ -516,6 +525,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1987 | Hays, Kan., yearbook maps the dragging-Main route, Fox Theater corner to the Varsity Drive-In ⚠ start point | [Dragging Main](../places/dragging-main.md) |
 | 1987 | The Pearl Public School District sues to end Riverside's lease to build Pearl High School | [Mississippi's strips](../drag-racing/mississippi-hometown-strips-jackson-pearl.md) |
 | 1987 ⚠ | Gary and Marilyn Meadors quit their day jobs; the first Goodguys West Coast Nationals, Pleasanton; the yellow Deuce logo | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
+| 1987 | Jim Ring borrows $5,000 for a 1969 Camaro pace car and restores it in his parents' basement | [Ringbrothers](../companies/ringbrothers-spring-green.md) |
 | 1988 | Howard Johansen dies (age 78) | [Howard Johansen](../people/howard-johansen.md) |
 | 1988 | Street Rod Nationals first held in Louisville | [NSRA](../street-rodding/nsra-early-nationals.md) |
 | 1988 | Snow's 4.997 at the new Houston Raceway Park, Baytown (Oct 6), co-founded by the Gay family | [Gene Snow](../people/gene-snow.md), [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
@@ -529,6 +539,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1993 | Mark Stielow's white '69 Camaro runs the One Lap of America, burns at Michigan International Speedway, then wins *Car Craft*'s Real Street Eliminator in St. Louis | [Pro-Touring](../eras/1990s-pro-touring-garage-engineers.md) |
 | 1994 | Lee Nelson sells Polar Dragway to a group incorporated as Top End, Inc. (Nov); renamed Alaska Raceway Park; the Lackeys join in 1994 or 1995 ⚠ and become sole owners in 1998 | [Palmer](../drag-racing/palmer-alaska-polar-dragway.md) |
 | 1995 | Joe Genova sells Ron's Drive-In to Denny Hegewald | [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md) |
+| 1995 | Starbird founds the National Rod & Custom Car Hall of Fame Museum, Afton, Okla. | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 1997 | LA County anti-cruising ordinance (2 passes in 6 hours) | [Whittier Blvd](../places/whittier-blvd.md) |
 | 1997 | GM's Gen III LS1 V8 goes into the Corvette | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
 | 1998 | Stielow phones Jeff Smith with a name for his kind of car: "Pro Touring" (about 1998, by Smith's account) | [Pro-Touring](../eras/1990s-pro-touring-garage-engineers.md) |
@@ -543,20 +554,27 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2005 | Albuquerque cruising ordinance; repealed in 2018 | [Central Ave](../places/central-avenue-albuquerque.md) |
 | 2005 ⚠ | Inyokern strip shut after an FAA threat; date of the last race disputed | [Inyokern](../drag-racing/inyokern-dust-devils.md) |
 | 2005 | Cruisin' the Boulevard formed in Petaluma; its first Salute to American Graffiti car show follows in 2006 | [Petaluma & *American Graffiti*](../media/american-graffiti-petaluma-1972.md) |
+| 2005 | Ringbrothers' first full custom build request, a 1967 Mustang | [Ringbrothers](../companies/ringbrothers-spring-green.md) |
 | 2007 | The first GM Performance Parts LSX Shootout | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
 | 2008 | Petaluma's Salute moves entirely downtown, and the cop-car scene is re-created at 4:30 a.m. (May 15) | [Petaluma & *American Graffiti*](../media/american-graffiti-petaluma-1972.md) |
 | 2009 | George Ray dies at 85; his wife Bonnie keeps the Paragould track running (KAIT, 2011) | [George Ray's Wildcat](../drag-racing/george-rays-wildcat-drag-strip-paragould.md) |
+| 2009 ⚠ | First Rat Rod Rendezvous, Mahtowa, Minn. (second annual in 2010) | [Rat rod shows](../customs/rat-rod-shows-saugerties-mahtowa.md) |
 | 2010 | Dick Wells dies (Jan 18), NSRA's "first active president" ⚠ | [Dick Wells](../people/dick-wells.md) |
 | 2010 | Larry Watson dies (July 20) | [Larry Watson](../people/larry-watson-bellflower-paint.md) |
 | 2010 | The first Holley LS Fest at Beech Bend Raceway Park, Bowling Green, Ky. (Sept); about 150 cars; an engine swap in 31:57 (⚠) | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
 | 2010 | The Oilers' name is handed to Mel Stultz on the Jersey Shore | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
+| 2011 | Starbird sells his Wichita show to five local partners (September) | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 2012 | The first Race of Gentlemen, on the sand at Allenhurst and Loch Arbour, N.J. (Oct 20); Sandy comes ashore nine days later | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
+| 2012 | Ten rat rods leave Mahtowa for Las Vegas on Labor Day; 14 by the end of the trip | [Rat rod shows](../customs/rat-rod-shows-saugerties-mahtowa.md) |
 | 2013 | Gila River Indian Community declines to renew Firebird's lease (Jan); by July, Dick Hahne takes over as Wild Horse Pass Motor Sports Park | [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md) |
 | 2013 | Island Dragway closes after Hurricanes Irene and Sandy (Jan) and reopens under the Kowalicks' granddaughter on the Fourth of July weekend | [Island Dragway](../drag-racing/island-dragway-great-meadows.md) |
 | 2013 | Mike "Gator" Gaydos, Taylor, Mich., pinstriper, dies (Feb 2) | [Keeney & Gaydos](../people/bikini-keeney-gator-gaydos-midwest-pinstripers.md) |
 | 2013 | The Race of Gentlemen moves to Wildwood, N.J. | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
 | 2014 | Draggin' Main revived on Clovis, N.M.'s brick Main Street (June 28); 3,500 to 4,000 come, by the organizers' count | [Clovis](../places/draggin-main-clovis-new-mexico.md) |
 | 2014 | "Speedy" Bill Smith dies in Lincoln at 84 (May 30) | [Speedway Motors](../companies/speedway-motors-lincoln.md) |
+| 2014 | The Ringbrothers' 1966 Chevelle *Recoil* is GM Best in Show at SEMA (November) | [Ringbrothers](../companies/ringbrothers-spring-green.md) |
+| 2014 | Joe and Deb Kruse buy Cedar Falls Raceway, the old NEITA | [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md) |
+| 2014 | The Rats Nest Run-In, Saugerties and East Durham, N.Y., holds its fifth show | [Rat rod shows](../customs/rat-rod-shows-saugerties-mahtowa.md) |
 | 2015 | Douglas Motorsports Park, by then Wyoming's only active drag strip (NHRA-sanctioned), closes when the city declines to renew its lease (Dec) | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
 | 2015 | Gary Meadors dies at Cave Creek, Ariz. (Dec 27) | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | 2017 | Joe Bailon dies at 94 (Sept 25), his Miss Elegance 2 unfinished | [Joe Bailon](../people/joe-bailon-candy-apple.md) |
@@ -580,5 +598,6 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2024 | Rapid Shifters and Counts of the Cobblestone run the second Vintage Dirt Drags at Bandit Speedway, Box Elder, S.D. | [Sioux Falls & S.D. clubs](../drag-racing/sioux-falls-south-dakota-clubs.md) |
 | 2024 | The Simon grandchildren reopen Kansas International Dragway themselves | [M-N Raceway](../drag-racing/m-n-raceway-wichita-simon-farm.md) |
 | 2025 | Kuhnle Motorsports Park (the old Thompson strip) joins the NHRA Member Track Network (Dec) | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
+| 2025 | The 61st Darryl Starbird National Rod and Custom Show, Tulsa, run by his children (February) | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 2026 | "Back to the Track": 407 cars return to Salina's old runway starting line (May 3) | [Salina](../drag-racing/salina-raceway-old-runway-kansas.md) |
 | 2026 | Don Angland dies at 94 in Hixson, Tenn. (June 16) | [Trim shops](../people/don-angland-jay-peterson-trim-shops.md) |

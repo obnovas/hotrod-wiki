@@ -2080,3 +2080,60 @@ highlights:
     eras: [1950s, 2020s]
     regions: ['Hixson, Tenn.']
 
+  - id: neita-bookkeeper-owner
+    headline: A college bookkeeper owned and operated the Cedar Falls drag strip
+    teaser: DeAlda Steward worked in the business office at what is now the University of Northern Iowa
+      and kept the books for a Shell station. Her obituary adds that she owned and ran NEITA Raceway.
+    link: drag-racing/neita-raceway-cedar-falls.md#the-early-years
+    evidence: [owned and operated NEITA Raceway (Cedar Falls Raceway)., kept the books for the Cliff and
+        Holly Shell Station]
+    source_type: Obituary
+    confidence: Low
+    flag: single-source
+    grassroots: true
+    added: '2026-11-21'
+    eras: [1960s, 1970s, 1980s]
+    regions: ['Cedar Falls, Iowa']
+
+  - id: starbird-forum-1957
+    headline: Darryl Starbird's first car show paid more than a year in his shop
+    teaser: In 1957 a Wichita customizer rented the old Forum to show people what a custom car was. He bought
+      no ads and hoped for a couple of hundred people, and 3,000 came.
+    link: people/darryl-starbird-wichita-show-man.md#the-show-at-the-forum
+    evidence: ['Much to my amazement, I had 3,000 people show up.', I didn't buy any advertising]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-21'
+    eras: [1950s]
+    regions: ['Wichita, Kan.']
+
+  - id: mahtowa-pabst-keg-rat-rod
+    headline: A Minnesota mechanic's rat rod ran on a Pabst keg and a Boy Scout canteen
+    teaser: Roger Rentola built his truck from several trucks, vans, cars and a school bus. The gas tank
+      was a beer keg, the floor was road signs, and every gas stop drew a crowd.
+    link: customs/rat-rod-shows-saugerties-mahtowa.md#a-beer-keg-and-a-boy-scout-canteen
+    evidence: [The gas tank was a Pabst keg, Every gas station is a car show]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-21'
+    eras: [2010s]
+    regions: ['Mahtowa, Minn.']
+
+  - id: beech-bend-vans-1975
+    headline: The vanners expected 3,000 at Beech Bend in 1975, and more than 4,500 came
+    teaser: The third National Truck-In went to a Kentucky park that was not ready for it. Campsites were
+      taken by permanent campers, the dash plaques were cheap plastic, and the crowd was bigger than the
+      town had planned for.
+    link: media/national-truck-in-vans-beech-bend.md#more-vans-than-beech-bend-could-hold
+    evidence: ['More than 4,500 came.', their first bad experience at a National van-in.]
+    source_type: [Local history site, Local news]
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-21'
+    eras: [1970s]
+    regions: ['Bowling Green, Ky.']

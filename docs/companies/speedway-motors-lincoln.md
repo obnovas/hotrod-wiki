@@ -92,7 +92,7 @@ Speedway was at the first Street Rod Nationals in 1970.[^rc] In 1992 Bill and Jo
 
 His four sons took over a company with more than 20,000 parts in its catalogs, and it was still in the same town where he had once set empty boxes on the shelf.[^moas][^rc]
 
-*See also:* [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md), where Speedway paid for a Lincoln club's drag race ad in 1956; [Dick Wells](../people/dick-wells.md), later Speedway's assistant manager; [The Fiberglass Suppliers](../street-rodding/fiberglass-suppliers.md); [Honest Charley](honest-charley-speed-shop.md), another speed shop far from California that sold by mail.
+*See also:* [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md), where Speedway paid for a Lincoln club's drag race ad in 1956; [Dick Wells](../people/dick-wells.md), later Speedway's assistant manager; [The Fiberglass Suppliers](../street-rodding/fiberglass-suppliers.md); [Honest Charley](honest-charley-speed-shop.md), another speed shop far from California that sold by mail; [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md), whose museum Speedway took in 2022.
 
 ## Open questions & disputed details
 

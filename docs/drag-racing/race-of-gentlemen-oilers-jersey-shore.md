@@ -98,7 +98,7 @@ By 2021 it drew 20,000 to 25,000 people, by Stultz's count, and about 180 cars a
 
 "Some people come at us like how dare you, that stuff should be in a museum," Stultz said. "But these machines were made to go."[^sj] He was tired of watching hot rods sit, so he put them back on the sand.
 
-*See also:* [Roland Leong](../people/roland-leong.md), for Dragmasters; [Atco & Strato Rods](atco-strato-rods-south-jersey.md) and [Island Dragway](island-dragway-great-meadows.md), New Jersey's strips.
+*See also:* [Roland Leong](../people/roland-leong.md), for Dragmasters; [Atco & Strato Rods](atco-strato-rods-south-jersey.md) and [Island Dragway](island-dragway-great-meadows.md), New Jersey's strips; [Rat rod shows in Saugerties and Mahtowa](../customs/rat-rod-shows-saugerties-mahtowa.md), two more shows built for cars other shows did not want.
 
 ## Open questions & disputed details
 
