@@ -245,7 +245,7 @@ These hold the period coverage we most want, and none was readable by our fetche
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
 ### Round 46 additions
-- Local newspapers and TV: WNKY News 40, Bowling Green (2022), on the 1975 and 1976 van meets at Beech Bend, drawing on the NSVA's paper *Van Happenings* → [The National Truck-In](../media/national-truck-in-vans-beech-bend.md); the *Wichita Eagle* (2011) and FOX23 Tulsa (2025) → [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md); the *Times Herald-Record* (2014, 2016), the Cloquet *Pine Journal* (2010, 2013), the *Duluth News Tribune* (2013) and Northern News Now (2023) → [Rat rod shows](../customs/rat-rod-shows-saugerties-mahtowa.md); *The Northwestern* (Oshkosh, 2015) → [Ringbrothers](../companies/ringbrothers-spring-green.md).
+- Local newspapers and TV: WNKY News 40, Bowling Green (2022), on the 1975 and 1976 van meets at Beech Bend, drawing on the NSVA's paper *Van Happenings* → [The National Truck-In](../media/national-truck-in-vans-beech-bend.md); the *Wichita Eagle* (2011) and FOX23 Tulsa (2025) → [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md); the *Times Herald-Record* (2014, 2016), the Cloquet *Pine Journal* (2010, 2013), the *Duluth News Tribune* (2013), Northern News Now (2023) and the *Moose Lake Star Gazette* (August 24, 2025, read on the citation pass) → [Rat rod shows](../customs/rat-rod-shows-saugerties-mahtowa.md); *The Northwestern* (Oshkosh, 2015) → [Ringbrothers](../companies/ringbrothers-spring-green.md).
 - A hobby's own historian: Greg "Coop" Cooper's two histories of the Nationals on the National Truck-in Board's site (c. 1994 and 2021), with vanners' comments → The National Truck-In.
 - Local obituaries: DeAlda Ackerman (*Waterloo Courier*, 2001, kept by the University of Northern Iowa archives) and Red Droste (*Waterloo Courier*, 2011, transcribed by IAGenWeb) → [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md); Donna Starbird (*Wichita Eagle*, 2021) → Darryl Starbird.
 - A hometown museum: the Grout Museum's 2018 Cedar Valley racing exhibit; the Midwest Racing Archives' remembrance of Red Droste, with his son's recollection → NEITA Raceway.
@@ -256,7 +256,7 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Archive | Round 46 status |
 |---|---|
 | *Waterloo-Cedar Falls Courier* (wcfcourier.com) | Rate-limited (HTTP 429); the 1967 Hagedorn headline is cited through Motorsport Memorial, and the obituaries through UNI and IAGenWeb copies. |
-| *Moose Lake Star Gazette* (2025) | Rate-limited (HTTP 429); a search excerpt says the Rendezvous began in 2008. Not read, so it is only noted in Open questions. |
+| *Moose Lake Star Gazette* (2025) | Read on the citation pass (Matthew Bohnsack, August 24, 2025). It says the Rendezvous "started in 2008 with just five participants." The *Pine Journal* and Northern News Now still point to 2009, so the year stays disputed. |
 | H.A.M.B. attachment "Neita News.pdf" | Needs a forum login; not used. |
 | Kustomrama | Bot check; not used. |
 | *Times Herald-Record* and *Wichita Eagle* | Blocked to our command-line fetcher; read through a second fetcher. |

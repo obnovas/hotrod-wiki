@@ -1036,6 +1036,7 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [local] "4000 Miles of Rust," *Pine Journal* (Cloquet, Minn.), March 7, 2013. https://www.pinejournal.com/lifestyle/arts-and-entertainment/4000-miles-of-rust
 - [local] "Movie on cross-country 'rat rod' tour premieres in Moose Lake," *Duluth News Tribune*, March 8, 2013. https://www.duluthnewstribune.com/news/movie-on-cross-country-rat-rod-tour-premieres-in-moose-lake
 - [local] Dave Anderson and Jeffrey McClure, "Rat Rods to rumble in Mahtowa for Labor Day Weekend," Northern News Now (Duluth, Minn.), September 1, 2023. https://www.northernnewsnow.com/2023/09/02/rat-rods-rumble-mahtowa-labor-day-weekend/
+- [local] Matthew Bohnsack, "Rukkus at the Rat Rod Rendezvous, a rusty assembly," *Moose Lake Star Gazette*, August 24, 2025. https://www.mlstargazette.com/news/rukkus-at-the-rat-rod-rendezvous-a-rusty-assembly/article_f52f0058-63f9-4858-848b-631f6719c867.html
 - [mag] Van Abernethy, "On The Road: Cedar Falls Raceway," *Drag Illustrated*, September 18, 2020 (from *DI* #159, August 2020). https://dragillustrated.com/on-the-road-cedar-falls-raceway/
 - [ref] "Cedar Falls Raceway Dragstrip," Iowa Dragstrips & Drag Racing, XTRA Action Sports directory. https://www.xtraactionsports.com/dragstrips/iowa-dragstrips.htm
 - [museum] "Sulkies to Speedways: A Need for Speed in the Cedar Valley," Grout Museum District, Waterloo, Iowa, exhibit page, 2018. https://www.groutmuseumdistrict.org/calendar/sulkies-to-speedways-the-need-for-speed-in-the-cedar-valley--D09062018.aspx

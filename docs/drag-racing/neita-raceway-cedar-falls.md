@@ -1,5 +1,5 @@
 ---
-title: 'The Bookkeeper Who Owned the Drag Strip: NEITA Raceway (Cedar Falls, Iowa, 1964–2020)'
+title: 'The Bookkeeper Who Owned the Drag Strip: NEITA Raceway (Cedar Falls, Iowa, 1964– )'
 summary: 'The Northeast Iowa Timing Association''s strip outside Cedar Falls opened in 1965 and has run ever since, owned and operated for a time by a college bookkeeper, DeAlda Steward. Renamed Cedar Falls Raceway in the 1980s, it still holds a reunion for its 1960s and 1970s racers.'
 department: drag-racing
 era: 1960s
@@ -63,7 +63,7 @@ canonical_for: []
 location: Outside Cedar Falls, Iowa[^di][^uni]
 status: Running as Cedar Falls Raceway, owned by the Kruse family since 2014[^di]
 ---
-# The Bookkeeper Who Owned the Drag Strip: NEITA Raceway (Cedar Falls, Iowa, 1964–2020)
+# The Bookkeeper Who Owned the Drag Strip: NEITA Raceway (Cedar Falls, Iowa, 1964– )
 
 *A timing association's strip in John Deere country, a woman who kept the books and the track, and a reunion that talks for hours*
 
@@ -103,7 +103,7 @@ In 2014 Joe and Deb Kruse bought the track from a group led by Scott Gardner, an
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Did NEITA begin as an AHRA track, or under its own sanction?** *Drag Illustrated* (2020) says the track "was first called Northeast Iowa Timing Association, better known as NEITA, which also served as its original sanction before switching over to the nationally known IHRA and most recently NHRA."[^di] The XTRA Action Sports track directory says it was "Originally sanction with the AHRA (now defunct)," changed its name in the 1980s, and later ran under the IHRA and NHRA.[^xtra] A 2010 H.A.M.B. post asked the same question from memory, and the answer posted was the directory's text.[^hamb3] The two can both be true (a local association running the strip, with AHRA sanction), but neither says so. The *Courier*'s 1965 opening coverage would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Did NEITA begin as an AHRA track, or under its own sanction?** *Drag Illustrated* (2020) says the track "was first called Northeast Iowa Timing Association, better known as NEITA, which also served as its original sanction before switching over to the nationally known IHRA and most recently NHRA."[^di] The XTRA Action Sports track directory says it was "Originally sanction with the AHRA (now defunct)," changed its name in the 1980s, and later ran under the IHRA and NHRA.[^xtra] On July 7, 2010, Corn Fed asked from memory, "If I remember correctly, wasn't NEITA an AHRA track?", and out plowing the same day asked for photos of the "Gang Green" truck. No reply in those posts pastes the directory.[^hamb3] The two can both be true (a local association running the strip, with AHRA sanction), but neither says so. The *Courier*'s 1965 opening coverage would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Was Red Droste a partner in the strip?** Only the Grout Museum's 2018 exhibit page puts his name on it, "Ray Steward's and Red Droste's NEITA Raceway."[^grout] His obituary and the Midwest Racing Archives' long tribute talk about his shop and his stock cars and do not mention NEITA.[^drob][^mra] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
