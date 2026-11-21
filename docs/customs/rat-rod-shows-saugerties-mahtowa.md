@@ -1,5 +1,5 @@
 ---
-title: '"This Is a Rat Rod Show": The Rats Nest Run-In and the Rat Rod Rendezvous (Saugerties, New York, and Mahtowa, Minnesota, 2009–2023)'
+title: '"This Is a Rat Rod Show": The Rats Nest Run-In and the Rat Rod Rendezvous (Saugerties, New York, and Mahtowa, Minnesota, 2008 or 2009–2023)'
 summary: 'Peter Duvaloois started the Rats Nest Run-In behind his Saugerties, N.Y., shop after a show told him "We don''t need you," and in Mahtowa, Minn., the Peckerhead Rat Rod Club parked beside a country store. By 2012 Mahtowa registered more than 200 rat rods and sent ten to Las Vegas.'
 department: customs
 era: 2010s
@@ -8,7 +8,7 @@ eras:
 - 2010s
 - 2020s
 years:
-- 2009
+- 2008
 - 2023
 region: National
 states:
@@ -59,12 +59,12 @@ canonical_for: []
 location: Behind the Rats Nest Shop on Kings Highway, Saugerties, N.Y., then the Blackthorne Resort, East Durham, N.Y.; next to TJ's Country Store on Historic Highway 61, Mahtowa, Minn.[^thr14][^pj10][^nnn]
 status: The Mahtowa Rendezvous held its 15th annual show in 2023[^nnn]
 ---
-# "This Is a Rat Rod Show": The Rats Nest Run-In and the Rat Rod Rendezvous (Saugerties, New York, and Mahtowa, Minnesota, 2009–2023)
+# "This Is a Rat Rod Show": The Rats Nest Run-In and the Rat Rod Rendezvous (Saugerties, New York, and Mahtowa, Minnesota, 2008 or 2009–2023)
 
 *A builder told "not now, not ever," a club behind a meat market, a beer keg for a gas tank, and 4,000 miles to Las Vegas*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (both shows are told by their hometown papers, which talked to the founders year after year; the start years are worked out from the papers' "fifth year" and "second annual," and one later story gives a different year) · **Source types:** <span class="hr-badge">Grassroots</span> the *Times Herald-Record* (Middletown, N.Y.; 2014, 2016); the Cloquet *Pine Journal* (2010, 2013) and the *Duluth News Tribune* (2013); Northern News Now, Duluth (2023) · **Last verified:** 2026-11-21 (Round 46) · **Open issues:** ⚠ the Rendezvous's first year · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (both shows are told by their hometown papers, which talked to the founders year after year; the start years are worked out from the papers' "fifth year" and "second annual," and one later story gives a different year) · **Source types:** <span class="hr-badge">Grassroots</span> the *Times Herald-Record* (Middletown, N.Y.; 2014, 2016); the Cloquet *Pine Journal* (2010, 2013) and the *Duluth News Tribune* (2013); Northern News Now, Duluth (2023); the *Moose Lake Star Gazette* (2025) · **Last verified:** 2026-11-21 (Round 46) · **Open issues:** ⚠ the Rendezvous's first year · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "I had a guy - he has a Jack-and-Coke-themed truck - who wanted to know if he'd be shunned. Of course not. This is a rat rod show."
@@ -99,11 +99,11 @@ In 2023 the Rendezvous held its 15th annual show, still at TJ's, now the TJ's Co
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was the first Rat Rod Rendezvous?** The *Pine Journal* called the September 2010 show the "second annual," and Northern News Now called the 2023 show the "15th annual," which both point to 2009.[^pj10][^nnn] A 2025 *Moose Lake Star Gazette* story, which our fetcher could not open (HTTP 429), is summarized in search results as saying "It started in 2008 with just five participants." We have not read that page, so its wording is not checked; a skipped year, or a smaller gathering before the first "annual" one, would square them. The Saugerties start year is likewise worked out, not stated: "fifth year" in 2014 and "seventh year" in 2016 both point to 2010.[^thr14][^thr16] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When was the first Rat Rod Rendezvous?** The *Pine Journal* called the September 2010 show the "second annual," and Northern News Now called the 2023 show the "15th annual," which both point to 2009.[^pj10][^nnn] Matthew Bohnsack, in the *Moose Lake Star Gazette* of August 24, 2025, writes that it "started in 2008 with just five participants and has evolved into a two-day celebratory tradition."[^mlsg] A skipped year, or a smaller gathering before the first "annual" one, would square them. The front-matter `years` span is `[2008, 2023]`. That field is `[first, last]`, two integers, and 2008 is the earlier year a source gives, so the span covers 2009. It does not decide the question. The title says 2008 or 2009. The Saugerties start year is likewise worked out, not stated: "fifth year" in 2014 and "seventh year" in 2016 both point to 2010.[^thr14][^thr16] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 ### Next leads
 
-The *Moose Lake Star Gazette* (2025) and the *Pine Journal*'s 2009 issues for the first Rendezvous; the 2013 Rat Rod Tour down Highway 61 to New Orleans; the *Saugerties Post Star* and *Daily Freeman* for the first Run-In behind the shop; whether the Run-In is still held.
+The *Pine Journal*'s 2009 issues for the first Rendezvous; the 2013 Rat Rod Tour down Highway 61 to New Orleans; the *Saugerties Post Star* and *Daily Freeman* for the first Run-In behind the shop; whether the Run-In is still held.
 
 ## Sources
 
@@ -113,3 +113,4 @@ The *Moose Lake Star Gazette* (2025) and the *Pine Journal*'s 2009 issues for th
 [^pj13]: "4000 Miles of Rust," *Pine Journal* (Cloquet, Minn.), March 7, 2013. https://www.pinejournal.com/lifestyle/arts-and-entertainment/4000-miles-of-rust (accessed 2026-11-21)
 [^dnt13]: "Movie on cross-country 'rat rod' tour premieres in Moose Lake," *Duluth News Tribune*, March 8, 2013. https://www.duluthnewstribune.com/news/movie-on-cross-country-rat-rod-tour-premieres-in-moose-lake (accessed 2026-11-21)
 [^nnn]: Dave Anderson and Jeffrey McClure, "Rat Rods to rumble in Mahtowa for Labor Day Weekend," Northern News Now (Duluth, Minn.), September 1, 2023. https://www.northernnewsnow.com/2023/09/02/rat-rods-rumble-mahtowa-labor-day-weekend/ (accessed 2026-11-21)
+[^mlsg]: Matthew Bohnsack, "Rukkus at the Rat Rod Rendezvous, a rusty assembly," *Moose Lake Star Gazette*, August 24, 2025. https://www.mlstargazette.com/news/rukkus-at-the-rat-rod-rendezvous-a-rusty-assembly/article_f52f0058-63f9-4858-848b-631f6719c867.html (accessed 2026-11-21)
