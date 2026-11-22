@@ -1017,6 +1017,40 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [trade] "SEMA Hall of Famer 'Speedy' Bill Smith Passes Away," SEMA eNews, 2014. https://www.sema.org/news-media/enews/2014/23/sema-hall-famer-speedy-bill-smith-passes-away
 - [book] Bill Smith with Dave Argabright, autobiography (2009), excerpt "Cool Man Window Tint: a Speedy Bill adventure." https://daveargabright.com/the-story-blog/cool-man-window-tint-a-speedy-bill-adventure/
 
+## Round 47 additions (York U.S. 30 Drag-O-Way, Lancaster Drag-O-Way and the chinchillas, Eleanor, the Street Machine Nationals at Du Quoin, Slamfest and Scrapin' the Coast)
+- [court] *Kohr v. Weber*, 402 Pa. 63 (Supreme Court of Pennsylvania, 1960), via Justia. https://law.justia.com/cases/pennsylvania/supreme-court/1960/402-pa-63-0.html
+- [corp] "Airport Info: A Little History," York Airport (York Aviation), Thomasville, Pa. https://www.york-aviation.com/airport-pilot-info/
+- [local] Jim McClure, "U.S. 30 Drag-O-Way: 'It was a great way to spend Saturday nights around here'," *York Town Square* (*York Daily Record* blog), July 14, 2008. https://yorkblog.com/yorktownsquare/submitted-shown-are-bill-stile/
+- [local] Jim McClure, "U.S. 30 Drag-O-Way, Part II," *York Town Square*, July 14, 2008, with Jim Hubley's *York Daily Record* column of August 3, 2008. https://yorkblog.com/yorktownsquare/back-in-the-old-days/
+- [local] Jim McClure, "York County, Pa.'s U.S. 30 Drag-O-Way, Part IV: 'It kept me out of trouble'," *York Daily Record*, July 19, 2011. https://eu.ydr.com/story/news/history/blogs/york-town-square/2011/07/19/route-30-dragway-remember/31652719/
+- [trade] Joe Shivak, "The Woodstock Of Drag Racing," *Speed Sport*, March 12, 2023. https://speedsport.com/more-racing/other-series/the-woodstock-of-drag-racing/
+- [web] Bill Pratt, "The History of York US30 Dragway Unfolds," Drag Racing List, April 11, 2019. https://www.draglist.com/2019/04/11/the-history-of-york-us30-dragway-unfolds/
+- [web] Joel Naprstek, "Super Stock Nationals Memories," Drag Racing Story of the Day, February 2001. https://www.draglist.com/stories/SOD%20Feb%202001/SOD-021401.htm
+- [mag] "Beaver Springs Dragway Hosts Match Race Madness 50 Years to the Day After the Original Super Stock Nationals," *Hot Rod*, 2015. https://www.hotrod.com/news/beaver-springs-dragway-hosts-match-race-madness-50-years-to-the-day-after-original-super-stock-nationals
+- [local] Mary Ann Herrington, "A Dunkirk legend in the making," parts one and two, *Am-Pol Eagle* (Buffalo), August 20 and 26, 2009. https://ampoleagle.com/a-dunkirk-legend-in-the-making-p2586-146.htm and https://ampoleagle.com/a-dunkirk-legend-in-the-making-p2615-146.htm
+- [news] "Creator of Crashes Killed on Film Set," *Los Angeles Times*, August 21, 1989. https://www.latimes.com/archives/la-xpm-1989-08-21-me-655-story.html
+- [news] "Movie director killed in failed stunt," UPI, August 21, 1989. https://www.upi.com/Archives/1989/08/21/Movie-director-killed-in-failed-stunt/6292619675200/
+- [news] "Playtime's Over: Toby Halicki's Awesome Collection of Classic Toys Will Be Sold," *Los Angeles Times*, May 14, 1992. https://www.latimes.com/archives/la-xpm-1992-05-14-vw-3194-story.html
+- [court] *Halicki Films, LLC v. Sanderson Sales & Marketing*, 547 F.3d 1213 (9th Cir. 2008), via GovInfo. https://www.govinfo.gov/content/pkg/USCOURTS-ca9-06-55806/pdf/USCOURTS-ca9-06-55806-0.pdf
+- [court] *Carroll Shelby Licensing, Inc. v. Halicki*, No. 23-3731 (9th Cir., May 27, 2025). https://cdn.ca9.uscourts.gov/datastore/opinions/2025/05/27/23-3731.pdf
+- [corp] "H.B. 'Toby' Halicki," Gone in 60 Seconds (the Halicki film company). https://gonein60seconds.com/about-us/h-b-halicki/
+- [mag] "Seized!: Authorities impound 61 vintage cars in investigation of Unique Performance," *Autoweek*, November 6, 2007. https://www.autoweek.com/news/a2060056/seized-authorities-impound-61-vintage-cars-investigation-unique-performance/
+- [mag] "Unique Performance in bankruptcy: No assets and millions owed," *Autoweek*, November 28, 2007. https://www.autoweek.com/news/a2060831/unique-performance-bankruptcy-no-assets-and-millions-owed/
+- [local] "Hot Rods and Loving Homes," *405 Magazine* (Oklahoma City), June 8, 2016. https://www.405magazine.com/hot-rods-and-loving-homes/
+- [local] Larry Davis, Street Machine Nationals reports, *Southern Illinoisan* (Carbondale, Ill.), June 30, 1986, p. 3, OCR via NewspaperArchive. https://newspaperarchive.com/southern-illinoisan-jun-30-1986-p-3/
+- [mag] "Cool, Clean And Relatively Quiet," *Hot Rod*, November 1986. https://www.hotrod.com/features/cool-clean-and-relatively-quiet-november-1986-982-1340-138-1
+- [mag] Toby Brooks, "The History Of The Street Machine Nationals," *Car Craft*, November 26, 2013. https://www.hotrod.com/news/history-of-the-street-machine-nationals
+- [local] "Illinois tells car show to hit the road," *Daily Egyptian* (Carbondale), July 13, 1998. https://dailyegyptian.com/43751/archives/illinois-tells-car-show-to-hit-the-road/
+- [local] "Street Machines just good-ol' American fun," *Daily Egyptian*, July 14, 1998. https://dailyegyptian.com/43643/archives/street-machines-just-good-ol-american-fun/
+- [local] Jeff Williams, "Street Machine Nationals Visit Du Quoin," WSIU Public Broadcasting, June 27, 2013. https://www.wsiu.org/quad-state-news/2013-06-27/street-machine-nationals-visit-du-quoin
+- [mag] "Slamfest: Q&A with this long lasting event," *Street Trucks*, April 16, 2019. https://www.streettrucksmag.com/slamfeast/
+- [local] "Scrapin the Coast set to begin at Coast Coliseum," WXXV News 25, June 21, 2019. https://www.wxxv25.com/scrapin-coast-set-begin-coast-coliseum/
+- [local] "Scrapin the Coast kicking off at the Coast Coliseum," WXXV News 25, June 21, 2024. https://www.wxxv25.com/scrapin-the-coast-kicking-off-at-the-coast-coliseum/
+- [local] "Scrapin' the Coast showcases personalities through cars," WLOX, June 27, 2021. https://www.wlox.com/2021/06/27/scrapin-coast-showcases-personalities-through-cars/
+- [local] "Coast Life: Getting 'Hot Rods' ready for Scrapin' the Coast," WLOX, June 20, 2023. https://www.wlox.com/2023/06/20/coast-life-getting-hot-rods-ready-scrapin-coast/
+- [local] Ezabelle Janssen, "Ridin' Dirty with 2025 Scrapin' the Coast," *The Gazebo Gazette* (Long Beach, Miss.), June 25, 2025. https://thegazebogazette.com/2025/06/ridin-dirty-with-2025-scrapin-the-coast/
+- [local] Ezabelle Janssen, "Scrapin' the Coast Keeps Rolling," *The Gazebo Gazette*, July 4, 2026. https://thegazebogazette.com/2026/07/scrapin-the-coast-keeps-rolling/
+
 ## Round 46 additions (the National Truck-In at Beech Bend, Darryl Starbird, two rat rod shows, NEITA Raceway, Ringbrothers)
 - [club] Greg (Coop) Cooper, "A brief History of the Nationals" (circa 1994), with readers' comments, The National Truck-in Board. https://www.vannationalsboard.org/p/a-brief-history-of-nationals-by-greg.html
 - [club] Greg Cooper, "The National Truck-in® past and future," The National Truck-in Board, February 28, 2021. https://www.vannationalsboard.org/2021/02/the-national-truck-in-past-and-future.html

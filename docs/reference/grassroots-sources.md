@@ -244,6 +244,23 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 47 additions
+- A court record: the Pennsylvania Supreme Court's opinion in *Kohr v. Weber* (1960), quoting neighbors' and the strip owner's testimony → [The Chinchillas Next Door](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md); the Ninth Circuit's *Halicki Films* (2008) and *Carroll Shelby Licensing v. Halicki* (2025) → [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md).
+- Local newspapers and TV: Jim McClure's *York Town Square* posts for the *York Daily Record* (2008, 2011), with readers' memories and Jim Hubley's column → [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md); the *Am-Pol Eagle* (Buffalo, 2009) and *405 Magazine* (2016) → Eleanor; the *Southern Illinoisan* (1986, OCR via NewspaperArchive), the *Daily Egyptian* (1998) and WSIU (2013) → [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md); WXXV (2019, 2024), WLOX (2021, 2023) and *The Gazebo Gazette* (Long Beach, Miss., 2025, 2026) → [Slamfest & Scrapin' the Coast](../customs/slamfest-scrapin-the-coast-gulf-trucks.md).
+- An airport's own history: the York Airport's "A Little History" page → York U.S. 30.
+- Racers' memories: a Lancaster club founder and York racers in *Speed Sport* (2023); a racer's notes on Drag Racing List (2001) → York U.S. 30 and Lancaster.
+- A club in its own words: the Mini Madness president's Q&A in *Street Trucks* (2019) → Slamfest.
+
+### Round 47 status
+| Archive | Round 47 status |
+|---|---|
+| LancasterOnline (LNP) | Rate-limited (HTTP 429); not used. |
+| *The Southern* (thesouthern.com) | Rate-limited (HTTP 429); the 1986 and 1998 Du Quoin stories were read through NewspaperArchive's free OCR page and the *Daily Egyptian* archive instead. |
+| *York Town Square* Part III (Rearich radio ad) | Timed out twice; not used. |
+| yorkblog.com, Justia, NewspaperArchive | Blocked to our command-line fetcher; read through a second fetcher. |
+| Washington Post archive (1989) | Not readable; the tower height is cited to UPI and the *Los Angeles Times*. |
+| Google Patents | No Round 47 patents. |
+
 ### Round 46 additions
 - Local newspapers and TV: WNKY News 40, Bowling Green (2022), on the 1975 and 1976 van meets at Beech Bend, drawing on the NSVA's paper *Van Happenings* → [The National Truck-In](../media/national-truck-in-vans-beech-bend.md); the *Wichita Eagle* (2011) and FOX23 Tulsa (2025) → [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md); the *Times Herald-Record* (2014, 2016), the Cloquet *Pine Journal* (2010, 2013), the *Duluth News Tribune* (2013), Northern News Now (2023) and the *Moose Lake Star Gazette* (August 24, 2025, read on the citation pass) → [Rat rod shows](../customs/rat-rod-shows-saugerties-mahtowa.md); *The Northwestern* (Oshkosh, 2015) → [Ringbrothers](../companies/ringbrothers-spring-green.md).
 - A hobby's own historian: Greg "Coop" Cooper's two histories of the Nationals on the National Truck-in Board's site (c. 1994 and 2021), with vanners' comments → The National Truck-In.

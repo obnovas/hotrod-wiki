@@ -38,6 +38,7 @@ related:
 - drag-racing/semo-malden-drag-strip.md
 - drag-racing/akron-fulton-airport.md
 - places/midwest-east.md
+- drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md
 canonical_for: []
 ---
 # Tear Gas on the Runways: Pennsauken's Central Airport, May 1958

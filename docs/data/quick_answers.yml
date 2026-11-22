@@ -1054,6 +1054,24 @@ themes:
         link: drag-racing/neita-raceway-cedar-falls.md
         also: [drag-racing/des-moines-dragway-ernest-day.md]
         flag: [drag-racing/neita-raceway-cedar-falls.md#q-3, drag-racing/neita-raceway-cedar-falls.md#q-2]
+      - id: lancaster-drag-o-way-chinchillas
+        q: Why did a court close Lancaster Drag-O-Way?
+        a: >-
+          Because of the neighbors, and above all a herd of chinchillas. A rancher next to the Garden Spot airport
+          said the Saturday-night noise made his 1,100 animals chew their fur (⚠ see Open questions), and in 1960
+          the Pennsylvania Supreme Court said a silent drag race was impossible, so the races had to stop.
+        link: drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md
+        also: [drag-racing/york-us-30-dragway-thomasville.md, drag-racing/pennsauken-central-airport-1958.md]
+        flag: drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md#q-2
+      - id: york-us-30-airport-strip
+        q: Where was York U.S. 30 Drag-O-Way?
+        a: >-
+          On the York Airport near Thomasville, Pennsylvania, beside the Lincoln Highway. The field closed to
+          planes on race nights from 1955 until October 1979, and it held the first Super Stock Nationals in 1965.
+          Who ran the strip in which years is disputed (⚠ see Open questions).
+        link: drag-racing/york-us-30-dragway-thomasville.md
+        also: [drag-racing/hanover-adams-county-clubs.md, drag-racing/cumberland-clockers.md]
+        flag: drag-racing/york-us-30-dragway-thomasville.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1731,6 +1749,33 @@ themes:
         link: media/national-truck-in-vans-beech-bend.md
         also: [drag-racing/beech-bend-raceway-bowling-green.md, street-rodding/nsra-early-nationals.md]
         flag: media/national-truck-in-vans-beech-bend.md#q-3
+      - id: eleanor-named-for
+        q: Who was the Gone in 60 Seconds Mustang "Eleanor" named for?
+        a: >-
+          By a 2009 profile written with his brother, Eleanor Korzeniewski, the mother of a boyhood friend back in
+          Toby Halicki's hometown of Dunkirk, New York (◐ see Open questions). In 2025 a federal appeals court
+          ruled that Eleanor is "more akin to a prop than a character."
+        link: media/eleanor-halicki-gone-in-60-seconds.md
+        also: [media/california-kid-pete-and-jakes-peculiar.md]
+        flag: media/eleanor-halicki-gone-in-60-seconds.md#q-3
+      - id: street-machine-nationals-du-quoin
+        q: Why did the Street Machine Nationals leave Du Quoin?
+        a: >-
+          After thirteen summers at the state fairgrounds, the crowds wore out the town's welcome. In July 1998,
+          after almost 600 tickets and arrests, Illinois said the show would not return (⚠ see Open questions on
+          who decided). It came back in 2013 as a family show.
+        link: media/street-machine-nationals-du-quoin.md
+        also: [eras/1980s-pro-street.md]
+        flag: media/street-machine-nationals-du-quoin.md#q-2
+      - id: scrapin-the-coast-sky
+        q: What does "scraping the sky" mean at Scrapin' the Coast?
+        a: >-
+          It is the organizers' joke about how the Biloxi show changed. It began in 2002 (⚠ see Open questions)
+          around low trucks and cars that scrape the pavement, and now big lifted trucks show up too, often towing
+          the scrapers.
+        link: customs/slamfest-scrapin-the-coast-gulf-trucks.md
+        also: [drag-racing/biloxi-dragway-gulf-coast.md]
+        flag: customs/slamfest-scrapin-the-coast-gulf-trucks.md#q-1
   - id: how-we-know
     title: Sources and how we know
     questions:

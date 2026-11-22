@@ -80,7 +80,7 @@ A second Fly-Wheels announcement followed. On March 25 the paper announced the o
 
 There is no strip yet, only a borrowed stock-car track, a country airfield and a car wash, and every step needed someone's permission: the neighbors, the Lions, the police. Compare the [Ridge Runners of Stroudsburg](stroudsburg-ridge-runners.md), the [Kingston Igniters](kingston-igniters.md) and the [Indiana small-town clubs](indiana-small-town-clubs.md).<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> The jackets were turquoise. A member who was arrested was out. The neighbors still had to say yes.
 
-*See also:* [Tear Gas on the Runways](pennsauken-central-airport-1958.md) and, across the Maryland line, [The Clockers of Cumberland](cumberland-clockers.md).
+*See also:* [Four Wide on the Runway](york-us-30-dragway-thomasville.md), the Thomasville airport strip; [Tear Gas on the Runways](pennsauken-central-airport-1958.md) and, across the Maryland line, [The Clockers of Cumberland](cumberland-clockers.md).
 
 ## Open questions & disputed details
 
@@ -96,7 +96,7 @@ There is no strip yet, only a borrowed stock-car track, a country airfield and a
 
 ### Next leads
 
-The Hanover *Evening Sun*, 1955–60, for the Hot Kustom Klub, Jimmy Price and the Hanover Hot Rod Club; the Thomasville airport and whether drags were run there; the *Carroll County Times* for the Taneytown club; any surviving Fly-Wheels jacket or plaque. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+The Hanover *Evening Sun*, 1955–60, for the Hot Kustom Klub, Jimmy Price and the Hanover Hot Rod Club; the *Carroll County Times* for the Taneytown club; any surviving Fly-Wheels jacket or plaque. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 **What happened in Hanover?** Jimmy Price told the York Springs Lions about Hanover's experience with hot rod clubs, but we do not know what Hanover's experiences were.[^gt580418]
 

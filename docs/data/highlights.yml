@@ -2137,3 +2137,59 @@ highlights:
     added: '2026-11-21'
     eras: [1970s]
     regions: ['Bowling Green, Ky.']
+
+  - id: lancaster-chinchillas-court
+    headline: A Pennsylvania drag strip was shut down over the chinchillas next door
+    teaser: A rancher beside the Garden Spot airport kept some 1,100 chinchillas and said the races made them
+      chew their fur. In 1960 the state Supreme Court said a quiet drag race was impossible, so the races stopped.
+    link: drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md#saturday-nights-at-the-garden-spot
+    evidence: [some 1,100 chinchillas, to think of a silent automobile or motorcycle race]
+    source_type: Municipal record
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-22'
+    eras: [1950s, 1960s]
+    regions: ['Manor Township, Pa.']
+
+  - id: eleanor-named-for-neighbor
+    headline: Gone in 60 Seconds' Eleanor was named for a neighbor's mother back in Dunkirk
+    teaser: Toby Halicki grew up riding along on his family's tow calls in Dunkirk, New York. By his brother's
+      account, he named his movie Mustang for the mother of a boyhood friend.
+    link: media/eleanor-halicki-gone-in-60-seconds.md#the-chase-the-crowd-and-the-name
+    evidence: [named Eleanor for Eleanor Korzeniewski, the mother of Ron's boyhood friend Joe Korzeniewski]
+    source_type: Local news
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-22'
+    eras: [1970s]
+    regions: ['Dunkirk, N.Y.']
+
+  - id: dobbertin-sold-corvette-du-quoin
+    headline: A racer sold his wife's Corvette to finish the car that swept Du Quoin in 1986
+    teaser: Rick Dobbertin said he put 4,720 hours into his Pontiac J-2000 over three years. His wife said her
+      part was bringing him a meal and making sure he got some sleep.
+    link: media/street-machine-nationals-du-quoin.md#the-weekend-of-june-1986
+    evidence: [sold his wife's 1967 Corvette, bringing him a meal and making sure he got some sleep]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-22'
+    eras: [1980s]
+    regions: ['Du Quoin, Ill.']
+
+  - id: scrapin-the-coast-scraping-the-sky
+    headline: Biloxi's Scrapin' the Coast now jokes that it is scraping the sky
+    teaser: The show began around low trucks that drag on the pavement. Now the big lifted trucks come too, and
+      the guys who buy them are towing the scrapers.
+    link: customs/slamfest-scrapin-the-coast-gulf-trucks.md#scraping-the-sky
+    evidence: [we're scraping the sky because we have a lot of big trucks, are towing the scrapers]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-22'
+    eras: [2020s]
+    regions: ['Biloxi, Miss.']

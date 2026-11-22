@@ -90,7 +90,7 @@ For the clubs across the state line in Adams County, Pa., see [Petitions, Jacket
 
 They were 14 members in 1958, leaving courtesy cards with drivers they helped, and Spoerl had turned 142 in a rail dragster at York. By 1962 the paper had their go-kart ad. What became of the club after that is still open.
 
-*See also:* down the Potomac, [the D.C. Dragons](dc-dragons-jo-ann-johnson.md) and [the Washington suburbs' drag strip argument](washington-suburbs-drag-strip-debate.md).
+*See also:* [Four Wide on the Runway](york-us-30-dragway-thomasville.md), the York strip the club raced at; down the Potomac, [the D.C. Dragons](dc-dragons-jo-ann-johnson.md) and [the Washington suburbs' drag strip argument](washington-suburbs-drag-strip-debate.md).
 
 ## Open questions & disputed details
 

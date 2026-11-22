@@ -171,6 +171,10 @@ paths:
         why: "A club court and a work detail in Pennsylvania."
       - page: drag-racing/hanover-adams-county-clubs.md
         why: "Petitions, jackets and a no-ticket rule nearby."
+      - page: drag-racing/york-us-30-dragway-thomasville.md
+        why: "Thomasville, 1955–79: an airport closes to planes on race nights, and a farmer's paved runway becomes the Woodstock of Drag Racing."
+      - page: drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md
+        why: "Manor Township, 1957–60: a chinchilla rancher takes the strip next door to the state Supreme Court and shuts it down."
       - page: drag-racing/cameron-accelerators.md
         why: "A Texas club that kept reviving, and gave the police its license numbers."
       - page: drag-racing/portsmouth-kustom-kouriers.md
@@ -384,6 +388,8 @@ paths:
         why: "Lodi, 1973: a Fremont club's weekend at the fairgrounds, entries written down by hand, and the seed of Goodguys."
       - page: media/california-kid-pete-and-jakes-peculiar.md
         why: "Temple City, 1974: a backyard '34 coupe goes on a magazine cover and into a TV movie, and its name goes on a parts shop that ends up in Peculiar, Missouri."
+      - page: media/eleanor-halicki-gone-in-60-seconds.md
+        why: "Dunkirk to Yukon, 1974–2025: a tow-truck family's son names his movie Mustang for a neighbor's mother, and a court finally calls it a prop."
       - page: media/national-truck-in-vans-beech-bend.md
         why: "Bowling Green, 1975–76: the van craze's national meet fills Beech Bend, and a Denver club wins the name, so one summer has two Nationals."
       - page: street-rodding/back-to-the-50s-msra-st-paul-1974.md
@@ -392,6 +398,8 @@ paths:
         why: "The first-president question (canonical nsra-first-president)."
       - page: eras/1980s-pro-street.md
         why: "Where the 1980s took it."
+      - page: media/street-machine-nationals-du-quoin.md
+        why: "Du Quoin, 1986–98: the Pro Street show a fairground town hosted for thirteen summers and called Halloween on wheels."
       - page: eras/1990s-pro-touring-garage-engineers.md
         why: "The 1990s: GM engineers build handling Camaros at night, and a backyard shop becomes Detroit Speed."
       - page: media/ls-fest-beech-bend-bowling-green.md
@@ -402,6 +410,8 @@ paths:
         why: "The Jersey Shore, 2012 on: a club carrying a 1947 Carlsbad name runs prewar hot rods on the beach instead of parking them."
       - page: customs/rat-rod-shows-saugerties-mahtowa.md
         why: "Saugerties and Mahtowa, 2008 or 2009 on: two small-town shows for the rat rods other shows turned away."
+      - page: customs/slamfest-scrapin-the-coast-gulf-trucks.md
+        why: "Tampa and Biloxi, 1991 on: a mini-truck club's parking-lot show and a Gulf Coast weekend that now jokes it is scraping the sky."
 
   - id: customs
     letter: I

@@ -30,6 +30,7 @@ related:
 - eras/1970s-street-rod-nationals.md
 - cars/hill-bros-red-baron.md
 - companies/jegs.md
+- media/street-machine-nationals-du-quoin.md
 canonical_for: []
 ---
 # Pro Street, from a Dayton Garage

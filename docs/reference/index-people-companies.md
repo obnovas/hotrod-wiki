@@ -50,6 +50,7 @@
 | Barkers Hot Rod Club | Grove City, Ohio, club of Teens Unlimited; won the Trotters' club display trophy with a satirical '49 Buick, 1963 | [Columbus](../drag-racing/columbus-trotters-high-winders.md) |
 | Barnes, Norton | Pickaway County juvenile probation officer; Circleville hot rod club adviser | [High school clubs](../drag-racing/high-school-hot-rod-clubs.md) |
 | Barnett, Ann Culpepper | Raced at Miller's Ferry, Ala., at 12, 1966 | [Alabama](../drag-racing/alabama-black-widows-lassiter-helena.md) |
+| Barris, George | Helped with the 1992 Halicki collection auction | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Bartel, Bob | ATAA co-founder; builder of Cordova; World Series of Drag Racing | [Bob Bartel](../people/bob-bartel.md), [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
 | Batten, Clifford | President of Brooksville's Spooks club; first local class win, 1956 ⚠ (Clyde in one report) | [Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md) |
 | Bauer, Gene | President of the Poplar, Mont., Hoodoos, 1955 | [Montana clubs](../drag-racing/montana-hoodoos-road-runners-royal-coachmen.md) |
@@ -218,7 +219,9 @@
 | Devlin Rod & Customs | Wichita shop; Tim and Tom Devlin among the buyers of Starbird's Wichita show, 2011 | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | Di Lorenzo, Joseph | ATAA national director (1954) | [Half Day](../drag-racing/half-day-ataa-maremont.md) |
 | Diablo Speed Shop | 1957 fiberglass T | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
+| Dobbertin, Rick | Springfield, Va.; J-2000 Pontiac, 4,720 hours; Best Street Machine, Du Quoin 1986 | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Dobson, Ken | Beardstown Drag Strip owner-promoter, 1972 | [Beardstown](../drag-racing/beardstown-drag-strip.md) |
+| Doll, Darwin | York man, later NHRA's first Northeast Division Director | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Don's Trim Shop | Hixson, Tenn., upholstery; street rod interiors; run by Don Angland's son and daughter | [Trim shops](../people/don-angland-jay-peterson-trim-shops.md) |
 | Donovan, Elroy | Learner's-permit driver of the "Lover Boy" hot rod that hit a commissioner's car, St. Thomas, 1960 | [Virgin Islands](../drag-racing/virgin-islands-no-hot-rods.md) |
 | Dorrell, Lee | Kansas City policeman, KCTA president (1959); Big S.I.R. officer (1969) ◐ same man | [Kansas City](../drag-racing/kansas-city-timing-association.md), [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
@@ -250,10 +253,12 @@
 | Eccentrics of Lincoln | Lincoln, Neb., club; Oct 1956 drag races west on O Street | [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md) |
 | Eddie's Auto Parts | Eddie Harvey's Knoxville parts store, 67 years | [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md) |
 | Edelbrock, Vic Sr. & Jr. | Edelbrock Equipment Co. | [Edelbrock](../companies/edelbrock-slingshot.md), [Patents](patents.md) |
+| Edgar, Jim | Illinois governor who ended the Du Quoin show, 1998 ⚠ | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Edwards, Ted | Ran the Ted Edwards Skyport and drag strip, U.S. 29, Fairburn, Ga., 1959–62 | [Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) |
 | Eliminators Auto Club | East Hartford, Conn., club; letter on "the true meaning of organized hot rodding," 1963 | [Connecticut clubs](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) |
 | Embry, Larry | *Sedalia Democrat* writer; the 1964 Drag-Ons feature | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md) |
 | Engel, Brett | Rode his bicycle to Bunker Hill as a boy; track champion 1987 | [Bunker Hill](../drag-racing/bunker-hill-dragstrip-indiana.md) |
+| Engel, Jason / Classic Recreations | Yukon, Okla., builder of an Eleanor sold at Barrett-Jackson; licensed Shelby Mustangs | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Engle, Jack | Engle Racing Cams | [Jack Engle](../people/jack-engle.md) |
 | Enwall, Karen | Gas-Ketts president, Appleton | [Road Deacons & Gas-Ketts](../drag-racing/fox-valley-road-deacons-gas-ketts.md) |
 | Erickson, Bruce | Road Ravens vice president, Chardon, Ohio, 1956 | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
@@ -330,12 +335,16 @@
 | Gore, Al (Old Dominion) | Director of Old Dominion Speedway, Manassas, who opened its drag strip, 1954 | [Washington suburbs](../drag-racing/washington-suburbs-drag-strip-debate.md) |
 | Great Lakes Dragaway | Club-built strip at Paris (Union Grove), Wis., 1955; the "oldest" claim ⚠ | [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md) |
 | Green Valley Raceway | Smithfield/North Richland Hills, Tex., on the McClure dairy farm, 1960–86; AHRA nationals | [Green Valley](../drag-racing/green-valley-raceway-smithfield.md) |
+| Greeves, Joe | St. Augustine truck-magazine writer since 1974; Slamfest is his home show | [Slamfest & Scrapin'](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
 | Greth, Red | Tucson racer and Speed Sport roadster partner; helped run Tucson Dragway | [Red Greth](../people/red-greth.md), [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | Groover, John | Summerville, Ga., Ridge Runners president, 1964 | [Georgia clubs](../drag-racing/georgia-clubs-hy-winders-ridge-runners.md) |
 | Grote, Jim | Retired Air Force master sergeant; starter, then co-owner, Magic City International Dragway | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
 | Gully, James | Pascagoula Timing Association reporter; thanked the principal in print, 1961 | [Pascagoula Timing Association](../drag-racing/pascagoula-timing-association.md) |
 | Hagedorn, Clint | John Deere supervisor killed in the *Corruptor* at NEITA, July 4, 1967, the strip's first fatality | [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md) |
 | Hagy, Roy | Metal-finish bodyman | [Roy Hagy](../people/roy-hagy.md) |
+| Halicki, Denice | Toby's widow; owner of Eleanor and the film rights | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
+| Halicki, H.B. "Toby" | Dunkirk, N.Y., tow family's son; *Gone in 60 Seconds* (1974); killed filming the sequel, 1989 | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
+| Halicki, Ron | Toby's youngest brother; the source for the Eleanor name | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Hamer Construction Co. | Kansas City builder that pulled out of the Big S.I.R. (1969) | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | Hamilton, Barbara | Ohio gasser racer ('37 Willys) | [Ohio Gassers](../places/ohio-gassers.md) |
 | Hamlin, Scott | Fayetteville, Tenn.; LS-swapped Geo Tracker "Mighty Mouse" at the first LS Fest | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
@@ -346,6 +355,7 @@
 | Harmon Raceway (Bob Harmon Memorial Raceway) | Monroe, La., NHRA strip, 1965–67+; "For Parents Only" ad, 1964 | [Harmon Raceway](../drag-racing/harmon-raceway-monroe.md) |
 | Harms, Gary | Won B/Gas at Deer Park on nitrous, Sept. 7, 1958 ◐ | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Harrell, David | 427 fiberglass "crop-duster" Ford, Dauphin Island Dragway top-speed record, 1963 | [Pascagoula Timing Association](../drag-racing/pascagoula-timing-association.md) |
+| Harrop, Bobby | Won the first Super Stock Nationals at York, 1965, in the *Flying Carpet* Dodge | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Hart, C.J. & Peggy | Santa Ana drag strip | [Santa Ana](../eras/1950s-santa-ana-drags.md), [Peggy Hart](../people/peggy-hart.md) |
 | Hart, Gerald | Son of C.J. & Peggy Hart | [The Harts](../voices/harts-santa-ana.md) |
 | Hart, John B. | Montgomery, Ala., speed shop on Chandler Street; '53 Corvette at Gunter | [Alabama](../drag-racing/alabama-black-widows-lassiter-helena.md) |
@@ -355,6 +365,7 @@
 | Hassel, Ron | Cleveland gasser racer; Crane Cams and Mr. Gasket sales | [Ohio Gassers](../places/ohio-gassers.md) |
 | Hawaii Raceway Park | Ewa, Oahu, strip opened 1963 or 1964 (1962 by inference) ⚠; closed 2006 | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
 | Hawaiian Motor Timing Association | Kahuku Point drag racing body, formed 1957 | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
+| Hay, Matt & Debbie | Chandler, Ariz.; Pro Street winners, Du Quoin 1986 | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Heater, Jane | D.C. Dragons secretary, 1954; building a $40 1939 coupe | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) |
 | Heath, Melvin | Rush Springs, Okla., farmer; NHRA national champion, 1956 | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | Hegewald, Denny | Bought Ron's Drive-In in 1995; Model T roadster in 1969 | [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md) |
@@ -374,10 +385,12 @@
 | Hill, Evan | Ohio State journalism teacher; wrote "City of Silence" (1957) | [Portsmouth](../drag-racing/portsmouth-kustom-kouriers.md) |
 | Hill, Pete & Bill | Red Baron Willys, Cleveland | [Red Baron](../cars/hill-bros-red-baron.md) |
 | Hillis, Bervil | Sikeston, Mo.; LS1-swapped '94 Silverado work truck, LS Fest 2010 | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
+| Holcomb, Myles | Scrapin' the Coast organizer: "we're scraping the sky" | [Slamfest & Scrapin'](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
 | Holcombe, Thomas "Tebe" | Super stock winner at Yellow River and Fairburn, Ga., 1963 | [Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) |
 | Holley (Holley Brothers) | Carburetors; Bradford, Pa., then Detroit; later brand owner | [Holley](../companies/holley.md) |
 | Holley LS Fest | Holley's LS-engine meet at Beech Bend, Bowling Green, Ky., since 2010 | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
 | Holt, Cappy | Winterport Dragway founder and co-owner, 1967 | [Winterport](../drag-racing/winterport-fernald-field-maine.md) |
+| Holz, Bill | Promoter of Lancaster Drag-O-Way; took the York airport strip after the court closed Lancaster | [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md), [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Hon, Ron "Sonny" | Bootleggers co-founder and vice president, 1953 | [Firebird / Bootleggers](../drag-racing/firebird-raceway-idaho-bootleggers.md) |
 | Honea, Bill | Drove Paul Grimmett's Simca at the 1958 Nationals | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | Honest Charley Speed Shop | Chattanooga mail-order speed shop, 1948–1990; revived 1998 | [Honest Charley](../companies/honest-charley-speed-shop.md) |
@@ -385,11 +398,14 @@
 | Hooker, Gary / Hooker Headers | Pomona-raised header builder | [Hooker Headers](../companies/hooker-headers.md) |
 | Hordemann, Jack & Jim | Kelly Automotive dragster, Spokane; nitrous rivals of the Thrifty car, 1961; Jack gave Ron Hammel a nitrous kit, 1962 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | Horney, Giles F., Jr. | Chapel Hill airman whose 1956 letter asked for a drag strip | [North Carolina debate](../drag-racing/north-carolina-drag-strip-debate-1956.md) |
+| Hostetter, Oscar | Potato farmer who paved his own runway; the York Airport; ran or sold the drag strip ⚠ | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Hotchkiss, Charles | Islamorada, Fla., organizer of an NHRA club in the Upper Keys, 1959 | [Rumbling Rods](../drag-racing/key-west-rumbling-rods.md) |
 | Houston Freeway Dragstrip | Dickinson, Tex., 1957–⚠1987 | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md) |
 | Houts, Buddy | Chattanooga newspaperman who pushed for a legal strip | [Brainerd Optimist strip](../drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md) |
 | Howard, Kenneth "Von Dutch" | Pinstriper, machinist | [Von Dutch](../voices/von-dutch.md) |
 | Hrudka, Joe & Tom | Mr. Gasket | [Mr. Gasket](../companies/mr-gasket.md) |
+| Hubley, Bruce / Special Events (Family Events) | Indianapolis promoter of the Street Machine Nationals from 1986 | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
+| Hubley, Jim | York sports editor; 2008 column on the 1972 Funny Car Nationals | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Hudson, Merlin | Buhl, Idaho; MVTA president (1964) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | Huff, Sherrill | Kentucky modified racer of the 1960s; later bought Ohio Valley Raceway | [Cedar Creek](../drag-racing/cedar-creek-bullitt-dragway-kentucky.md) |
 | Hughes, Julius Jr. | Atlanta Speed Shop founder; ran the Atlanta Speed Shop Dragway; 1965 NHRA Division 2 Top Fuel champion | [Atlanta Speed Shop Dragway](../drag-racing/atlanta-speed-shop-dragway.md) |
@@ -420,6 +436,7 @@
 | Jay's Hot Rod Upholstery | Jay Peterson's shop, Pine Island, Minn., since 1998 | [Trim shops](../people/don-angland-jay-peterson-trim-shops.md) |
 | Jeffries, Dean | Striping at Barris in 1955, wouldn't tell Larry Watson where he bought his brushes | [Larry Watson](../people/larry-watson-bellflower-paint.md) |
 | JEGS / Coughlin, Jeg Sr. | Columbus, Ohio, speed shop (1960) turned mail-order house; HQ in Delaware, Ohio (1999) | [JEGS](../companies/jegs.md), [Midwest & East Threads](../places/midwest-east.md) |
+| Jenkins, Bill "Grumpy" | Stubby tech man with a cigar who classified and staged cars at York | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Jennings, Shawn | Salina Raceway Facebook page; found the starting line, 2026 | [Salina](../drag-racing/salina-raceway-old-runway-kansas.md) |
 | Johansen, Howard & Jerry | Howard's Cams | [Howard Johansen](../people/howard-johansen.md) |
 | Johnson, Jerry | MSRA member #1 | [Upper Midwest](../places/upper-midwest.md) |
@@ -440,6 +457,7 @@
 | Kearney Raceway Park | Kearney, Neb., strip Carroll Sheldon developed; July 5, 1964 is the date read from a July 5, 2014 golden-anniversary story | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
 | Keeler, William | Rochester Safety Council; would not sponsor drag strips (1957) | [Opinions Differ (1957)](../drag-racing/new-york-towns-panel-1957.md) |
 | Keeney, Bob "Bikini" | Indianapolis pinstriper and painter; Indy cars in the 1970s–80s ◐; Bikini Studios | [Keeney & Gaydos](../people/bikini-keeney-gator-gaydos-midwest-pinstripers.md) |
+| Kendrick, Eric | Founder of Scrapin' the Coast, Biloxi | [Slamfest & Scrapin'](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
 | Kennedy, Bob | *Red Bluff Daily News* sports editor; covered Bakersfield, 1969 | [Red Bluff & Redding](../drag-racing/red-bluff-schafer-oil-special.md) |
 | Kepner, Bret | Drag racing historian; remembered Pocatello's "Intermountain Dragway" | [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md) |
 | Kepner, Bret | Drag strip historian; Greer Dragway's I.T.A. opening and first winner | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |
@@ -454,8 +472,10 @@
 | Knights of Maryland | Prince Georges County club with courtesy cards and girl members, 1957 | [Washington suburbs](../drag-racing/washington-suburbs-drag-strip-debate.md) |
 | Koch, Jerry | Hondo, Tex., racer; Castroville trophies, 1957 | [Medina County](../drag-racing/medina-county-castroville-drags.md) |
 | Kohn, Gil | Detroit Dragway | [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
+| Kohr, Ralph L. & Elizabeth B. | Manor Township chinchilla ranchers whose suit closed Lancaster Drag-O-Way, 1960 | [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md) |
 | Koockle, Rev. Harry | Sedalia letter writer proposing a sanctioned strip (1968; name as OCR reads it) | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | Kornyei, Sharon Lee | First woman in organized drag racing in Hawaii, by one account ◐; killed 1969 | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
+| Korzeniewski, Eleanor | Dunkirk neighbor the car was named for ◐ | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Kowalick, Edward & Catherine | Founded Island Dragway on their Great Meadows, N.J., farm | [Island Dragway](../drag-racing/island-dragway-great-meadows.md) |
 | Krenek, Charlie L. | Cameron, Tex., garage where the Accelerators met | [Cameron Accelerators](../drag-racing/cameron-accelerators.md) |
 | Krenek, Chuck | Accelerators president, 1963 | [Cameron Accelerators](../drag-racing/cameron-accelerators.md) |
@@ -473,6 +493,7 @@
 | Lancaster, Crystal | Leased Winterport's Fernald Field in 2025 | [Winterport](../drag-racing/winterport-fernald-field-maine.md) |
 | LaPlace Dragway | St. John the Baptist Parish strip off Airline Highway, 1962–80; 1976 Cajun Nationals | [LaPlace & Houma](../drag-racing/laplace-dragway-houma.md) |
 | Larivee, Bob Sr. | Promotions Inc.; ISCA | [Show Circuit](../media/show-circuit.md) |
+| Larson, Bruce | Dauphin, Pa., racer; York was his home track; won the 1969 Super Stock Nationals | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md), [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md) |
 | Larson, Mel | Operator of the Phoenix Drag Strip, 1960–61 | [Phoenix's West Side](../drag-racing/phoenix-west-side-karbs-litchfield-road.md) |
 | Lassiter Mountain Dragway | Strip north of Birmingham cut through the ridge by the Black Widows, 1958 | [Alabama](../drag-racing/alabama-black-widows-lassiter-helena.md) |
 | Lathom, Larry | Des Moines Dragway historian | [Des Moines Dragway](../drag-racing/des-moines-dragway-ernest-day.md) |
@@ -484,6 +505,7 @@
 | Leong, Roland | "The Hawaiian"; Kahuku racer, then Top Fuel and Funny Car owner | [Roland Leong](../people/roland-leong.md) |
 | Leong, Roland | Kahuku track record, 1964 (8.50 or 8.58 ⚠); later "The Hawaiian" | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
 | Lester, Pete "Fireball" | Fairburn, Ga., 409 Chevy, 1962–63 | [Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) |
+| Lester, Shane & Natalie | Precision Paint and Body, Long Beach, Miss.; 1984 GMC C10 | [Slamfest & Scrapin'](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
 | Lewis, Jim | Enid used-car dealer; weekend drag racer, muscle car seller | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | Leypoldt, Butch | Clark County sheriff who assigned officers to Las Vegas's first drags | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | Lincoln Timing Association | Lincoln, Neb.; Richard (Dick) Wells president, 1958 | [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md), [Dick Wells](../people/dick-wells.md) |
@@ -506,6 +528,7 @@
 | Magoo, Dick | Built the chassis of Gary Meadors' '32 Tudor, 1985 | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | Martinez, Dennis | Cousin; helped restore Dave's Dream with Los Bajitos | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
 | Martinez, Richard | Bought the Ford LTD new in 1969; Jaramillo's cousin | [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md) |
+| McLaughlin, Dick | Founder of the Vagabonds Car Club of Lancaster (1958); worked the York strip | [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md), [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Meadors, Gary | Founded Nor-Cal Early Iron and Goodguys; directed the 1973 Lodi Mini-Nats; died 2015 | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | Meadors, Marc | Goodguys president; in the 2023 Goodguys feature, estimates the logo Deuce at least 200,000 miles | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | Meadors, Marilyn | Hand-recorded the 1973 Lodi entries; co-founded Goodguys | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
@@ -550,6 +573,7 @@
 | Miller, Leonard | Racer, team owner; BARA co-founder | [Leonard Miller](../voices/leonard-miller.md) |
 | Milton Speedway | Vermont's only legal drag strip, U.S. 7, Milton, 1963–71 ⚠ | [Milton, Vt.](../drag-racing/milton-speedway-vermont.md) |
 | Milwaukee Artists Rod and Custom Club | One of the clubs that built Great Lakes Dragaway; plaque in the track's store, 2019 | [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md) |
+| Mini Madness | Tampa car and truck club; started Slamfest, 1991 | [Slamfest & Scrapin'](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
 | Minneapolis Optimists | Service club that built Minnesota Dragways | [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md) |
 | Minnesota Dragways | Coon Rapids, Minn., 1959–76 | [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md) |
 | Minnesota Street Rod Association | 1967 | [Upper Midwest](../places/upper-midwest.md) |
@@ -573,6 +597,7 @@
 | Mullin, Roy "Moon" | New Mexico Timing Association member from 1952; lent his Mobil checker flag | [New Mexico](../drag-racing/new-mexico-timing-association-albuquerque.md) |
 | Multnomah Hot Rod Council | Portland, 1954 | [Pacific NW](../places/pacific-northwest.md) |
 | Museum of American Speed | Lincoln, Neb.; founded 1992 by Bill and Joyce Smith | [Speedway Motors](../companies/speedway-motors-lincoln.md) |
+| Musmanno, Michael | Pa. Supreme Court justice: "a silent automobile or motorcycle race" is impossible (1960) | [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md) |
 | Naber, Joseph R. | Midwest Hot Rod Club president | [Gear Jammers](../drag-racing/belleville-gear-jammers.md) |
 | Nancy, Tony | Sherman Oaks upholsterer and drag racer; 1963 Winternationals; died 2004 | [Tony Nancy](../people/tony-nancy-sherman-oaks-trimmer.md) |
 | National Street Van Association | Chicago-based vanners' group, to 1978; sanctioned the Beech Bend Truck-Ins of 1975 and 1976 | [National Truck-In](../media/national-truck-in-vans-beech-bend.md) |
@@ -666,6 +691,7 @@
 | Pueblo Motor Sports, Inc. | Non-profit that raised money for Pueblo's strip (opened 1976) | [Mountain View & Colorado](../drag-racing/mountain-view-erie-colorado-strips.md) |
 | Pumphrey, J. O. | Twin Falls police judge; raised fines for street dragging (1957) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | Push Rods | Marshall, Mo., hot rod club (1958) | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md) |
+| Pyszka, Deno & Dee | Custom Automotive, Benton, Ill.; 1949 Anglia: "We don't believe in trailers" | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Quaker City Timing Association | Salem, Ohio, strip's business arm | [Quaker City](../drag-racing/quaker-city-salem.md) |
 | Quarles, Virginia | Driver in the Easter 1961 Calhoun, Ga., crash | [Paradise, Calhoun](../drag-racing/paradise-drag-strip-calhoun.md) |
 | Quick Times Racing News | Becky White's drag racing paper, started 1981 in Pageland, S.C. | [Farmington](../drag-racing/farmington-dragway-becky-white.md) |
@@ -751,6 +777,7 @@
 | Seward Drag strip | Beardstown, Ill., 1967 ◐ | [Beardstown](../drag-racing/beardstown-drag-strip.md) |
 | Sewell, Charlie | Eyewitness to the 1969 Yellow River crash; 2019 column | [Yellow River](../drag-racing/yellow-river-covington.md) |
 | Shasta Roadsters | Redding, Calif., club; airport drag strip, 1968–70 | [Red Bluff & Redding](../drag-racing/red-bluff-schafer-oil-special.md) |
+| Shelby, Carroll / Carroll Shelby Licensing | Licensed Eleanor-style Mustangs; won the 2025 Ninth Circuit case | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Sheldon, Carroll | Developed the Kearney strip; a 2014 golden-anniversary story puts the opening on July 5, 1964, and his son said he sold it 25 years later | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
 | Sheridan Hot Rod Club, Inc. | Sheridan, Wyo., club formed 1947 | [Casper & Wyoming](../drag-racing/casper-bar-nunn-wyoming-strips.md) |
 | Shields, Dawn | Co-wrote the 1987 Hays, Kan., yearbook spread on dragging Main | [Dragging Main](../places/dragging-main.md) |
@@ -770,6 +797,7 @@
 | Slonaker, Mary | Oakland Roadster Show | [Show & Custom Voices](../voices/show-custom-voices.md) |
 | Slover, Jason | Jerry's son; keeps the California Kid at the Peculiar shop | [California Kid](../media/california-kid-pete-and-jakes-peculiar.md) |
 | Slover, Jerry | Pete & Jake's Kansas City dealer from 1975; the family bought the shop and the California Kid, 1986 ⚠ | [California Kid](../media/california-kid-pete-and-jakes-peculiar.md) |
+| Smith, Jeff | *Car Craft* editor at the 1986 Du Quoin Street Machine Nationals | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Smith, Joyce | Lent the $300 that started Speedway Motors; kept the books; died 2013 | [Speedway Motors](../companies/speedway-motors-lincoln.md) |
 | Smith, "Speedy" Bill | Founded Speedway Motors, Lincoln, 1952; empty boxes on the shelf; died 2014 | [Speedway Motors](../companies/speedway-motors-lincoln.md), [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md) |
 | Smith, Ed L., Jr., & Sandra | Built and ran Blaney Drag Strip | [Blaney & the Midlands](../drag-racing/blaney-drag-strip-elgin-south-carolina.md) |
@@ -795,6 +823,7 @@
 | Spoerl, William | Cumberland Clockers member; 142 mph in a rail dragster at York, Pa., 1961 ◐ | [Cumberland Clockers](../drag-racing/cumberland-clockers.md) |
 | Spooks, The | Brooksville, Fla., Jaycee-sponsored hot rod club, 1956 | [Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md) |
 | St. John, Howard C. | Ulster County district attorney; talked to the Igniters (1955) | [Kingston Igniters](../drag-racing/kingston-igniters.md) |
+| Stahl, Jere / Stahl-Moroso | Racing business set up at York | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Star Kustom Shop | Darryl Starbird's shop in a former chicken coop, 734 E. Mt. Vernon, Wichita, 1954–63; name revived in San Dimas, 2008 | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | Starbird, Darryl | Wichita customizer; the Predicta (⚠ year); car shows from 1957 (⚠ count); Hall of Fame museum, Afton, Okla. | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | Stein, Arnold | D.C. Dragons president and pre-dental student, 1954 | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) |
@@ -802,6 +831,7 @@
 | Steward, Raymond | Named with Red Droste on NEITA Raceway, Cedar Falls (Grout Museum); died 1984 | [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md) |
 | Stewart, Jack | NSRA rep; red Deuce with a "Come get stuck in Lodi" keg | [Lodi & Goodguys](../street-rodding/lodi-mini-nats-goodguys-meadors.md) |
 | Stielow, Mark | GM engineer; Tri-Tip, Mule and Red Devil Camaros; named Pro Touring | [Pro-Touring](../eras/1990s-pro-touring-garage-engineers.md) |
+| Stiles, Bill / Stiles Performance | York shop; Stiles-Stahl Belvedere, 1966 ◐ | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Stoltz, Earl | Road Ravens president, Chardon, Ohio, 1956 | [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md) |
 | Stolz, Reid | Van Nuys cruiser (Car Craft 2009) | [Van Nuys](../places/van-nuys.md) |
 | Stortroen, Don | Driver of the Thrifty Auto dragster; Famoso track records, 185.58 mph and (on another pass) 8.28, 1961 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
@@ -837,11 +867,13 @@
 | Tonkin, Garvin | Red Bluff driver; Bakersfield junior fuel final, 1969 | [Red Bluff & Redding](../drag-racing/red-bluff-schafer-oil-special.md) |
 | Top End, Inc. | The 1994 owners of Polar Dragway, renamed Alaska Raceway Park | [Palmer & Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md) |
 | Towle, Larry | KARBS member (1955); a Larry Towle set a Phoenix Drag Strip record, 1959 ◐ | [Phoenix's West Side](../drag-racing/phoenix-west-side-karbs-litchfield-road.md) |
+| Trepanier, Troy | Manteno teenager at the 1987 Nats; later Rad Rides by Troy | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Trotters Hot Rod Club | Columbus club; Trott-A-Rama shows at the State Fairgrounds, 1958–63 | [Columbus](../drag-racing/columbus-trotters-high-winders.md) |
 | Tucker, Kyle and Stacy | GM engineers; built Twister; founded Detroit Speed | [Pro-Touring](../eras/1990s-pro-touring-garage-engineers.md) |
 | Tucson Dragway | Valencia and Houghton roads, 1964–1984/85 ⚠; new track 1997 | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | Twin Ports Drag Racing Association | Duluth–Superior club, 1971; $25 shares for a strip near the Apollo Bar, 1974 | [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md) |
 | Tyler, Brent | Reno dragster builder arrested over airplane parts, charges dropped, 1956 | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
+| Unique Performance | Farmers Branch, Texas, Eleanor builder; 61 cars seized, 2007; Chapter 7 | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Van Daalwyk, Joseph | Kaukauna builder; KK Sports Arena president, 1968–70 | [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
 | VanderLey, Paul | Biloxi racer; Division IV title, 1976; family pit crew | [Biloxi Dragway](../drag-racing/biloxi-dragway-gulf-coast.md) |
 | Vanke, Arlen | Akron racer | [Arlen Vanke](../people/arlen-vanke.md), [Quaker City](../drag-racing/quaker-city-salem.md) |
@@ -849,6 +881,7 @@
 | Vaughn, Linda | "Miss Hurst Golden Shifter" | [Hurst-Campbell](../companies/hurst-campbell.md) |
 | Venberg, Kenny | Mankato member who drew the MSRA's first logo on a napkin, 1968 | [Back to the 50's](../street-rodding/back-to-the-50s-msra-st-paul-1974.md) |
 | Vernon, Harcourt C. "Ace" | Founding president, Wilmington Automotive Activities (d. 1978) | [Recreation debate](../drag-racing/recreation-1957-pro-and-con.md) |
+| Voelkel, Bret / Ride Tech | Air-ride '70 Mustang shown at Du Quoin launched Ride Tech | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Vogel, Joseph | "Mgr. Sports Dept." whose 1963 letter described the Harwood Highway races | [Virgin Islands](../drag-racing/virgin-islands-no-hot-rods.md) |
 | Waddell, Breezy | Broadway Speedway stock car driver; '36 Ford "Mr. X" | [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md) |
 | Waggoner, Doug | Won the added Top Comp bracket at the 1979 AHRA Winternationals, Tucson | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
@@ -861,6 +894,7 @@
 | Watson, Larry | Bellflower pinstriper and painter; scallops, panels; actor; died 2010 | [Larry Watson](../people/larry-watson-bellflower-paint.md) |
 | Weatherly, George O. | Kansas City promoter of the Big S.I.R. (1969) ⚠ Sr./Jr. | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | Web of Influence (map) | Every documented tie between companies, people, places and clubs | [Web of Influence](../companies/web-of-influence.md) |
+| Weber, Henry S., Jr. | Owner of the Garden Spot airport and Lancaster Drag-O-Way's land | [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md) |
 | Webster, Jim | Easter Seals event coordinator; Hot August Nights co-founder | [Hot August Nights](../media/hot-august-nights-reno-1986.md) |
 | Weckerly, Shane | Holley; recalled LS Fest's 2009 start in a conference room | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
 | Wells, Dick | First *National Dragster* editor; NSRA's "first active president" | [Dick Wells](../people/dick-wells.md), [Go Out to Scribner](../drag-racing/nebraska-go-out-to-scribner.md) |

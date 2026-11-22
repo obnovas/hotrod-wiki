@@ -15,6 +15,8 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [Home of The California Kid (Temple City to Peculiar, Mo.)](california-kid-pete-and-jakes-peculiar.md): a backyard '34 coupe, a *Rod & Custom* cover, a 1974 TV movie, and the parts dealer who bought the shop and the car (⚠ how the producer found it; ⚠ 1986 or 1987).
 - [Why Limit It Just to Swaps? Holley's LS Fest (Bowling Green, Ky.)](ls-fest-beech-bend-bowling-green.md): a carburetor company's hometown meet for the junkyard LS engine, a timed engine swap, and a crowd that outgrew the road (⚠ how long the first swap took).
 - [Two Nationals in One Summer: The National Truck-In and Beech Bend (vans, 1973–76)](national-truck-in-vans-beech-bend.md): a *Hot Rod* editor's call for a van meet, a club-hosted party that filled Beech Bend in 1975, and a Denver club that won the name, so 1976 had two Nationals (⚠ the first meet's size; ⚠ which 1976 meet was the fourth).
+- [Named for a Neighbor's Mother: Toby Halicki and Eleanor (Dunkirk, N.Y., to Yukon, Okla.)](eleanor-halicki-gone-in-60-seconds.md): a tow-truck family's son makes *Gone in 60 Seconds* in 1974, dies filming the sequel, and leaves a Mustang that builders copied and a court in 2025 called a prop (⚠ the car's year; ⚠ the tower's height).
+- ["Halloween on Wheels": The Street Machine Nationals at Du Quoin (Ill.)](street-machine-nationals-du-quoin.md): a traveling show lands at a fairground town of 6,000 in 1986, a Pontiac that took 4,720 hours, and a governor's decision in 1998 (⚠ the 1986 count; ⚠ who ended it).
 
 **Elsewhere in the wiki**
 
