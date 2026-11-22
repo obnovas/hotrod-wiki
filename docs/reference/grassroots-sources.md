@@ -259,7 +259,7 @@ These hold the period coverage we most want, and none was readable by our fetche
 | *York Town Square* Part III (Rearich radio ad) | Timed out twice; not used. |
 | eu.ydr.com, the 2011 "Remember" post | HTTP 402 (TollBit). Not used. The same post is on yorkblog.com and was read there (HTTP 200) on the citation pass. |
 | yorkblog.com | Part IV, July 19, 2011, returned HTTP 200 on the citation pass, including Jeff Knaub's memories. |
-| NewspaperArchive, *Southern Illinoisan* June 30, 1986, p. 3 | HTTP 403. The public OCR of the landing page has the notebook and the 62,124 caption. It does not, in the portion that could be read, have the sergeant's line or the Dobbertin, Hay and Pyszka stories. No page image. |
+| NewspaperArchive, *Southern Illinoisan* June 30, 1986, p. 3 | HTTP 403. The public OCR of the landing page has the notebook and the 62,124 caption. The awards stories on that page were not in the OCR that could be read, and the article does not use them. No page image. |
 | Justia, *Kohr v. Weber* | Read on the writing pass. |
 | Washington Post archive (1989) | Not readable; the tower height is cited to UPI and the *Los Angeles Times*. |
 | Google Patents | No Round 47 patents. |

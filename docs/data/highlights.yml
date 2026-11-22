@@ -2167,11 +2167,11 @@ highlights:
     regions: ['Dunkirk, N.Y.']
 
   - id: du-quoin-corn-dog-im-busy
-    headline: A 10-year-old at Du Quoin took the corn dog out of his mouth and said he was busy
-    teaser: Michael McBride of Ava had a corn dog at the Street Machine Nationals. He took it out of his
-      mouth long enough to tell a reporter he was busy.
+    headline: A 10-year-old at Du Quoin removed a corn dog from his mouth and said he was busy
+    teaser: Michael McBride, 10, of Ava, removed a corn dog from his mouth at the Street Machine Nationals.
+      He told a reporter he was busy.
     link: media/street-machine-nationals-du-quoin.md#the-weekend-of-june-1986
-    evidence: ["I'm busy", took a corn dog out of his mouth]
+    evidence: ["I'm busy", removed a corn dog from his mouth]
     source_type: Local news
     confidence: Medium
     flag: none

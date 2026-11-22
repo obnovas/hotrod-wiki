@@ -18,8 +18,6 @@ states:
 - Indiana
 - Michigan
 - Ohio
-- Virginia
-- Arizona
 cities:
 - Du Quoin, Illinois
 - Indianapolis, Indiana
@@ -28,21 +26,14 @@ cities:
 - Ionia, Michigan
 - Lima, Ohio
 - Carbondale, Illinois
-- Benton, Illinois
 - Ava, Illinois
 - Manteno, Illinois
-- Springfield, Virginia
-- Chandler, Arizona
 people:
 - Jeff Smith
 - Bruce Hubley
 - Harry Hibler
 - Rick Dobbertin
-- Lani Dobbertin
 - Matt Hay
-- Debbie Hay
-- Deno Pyszka
-- Dee Pyszka
 - Troy Trepanier
 - Bret Voelkel
 - Larry Davis
@@ -56,7 +47,6 @@ companies:
 - Car Craft
 - Special Events (Family Events)
 - The Promotion Co.
-- Custom Automotive (Benton)
 - Ride Tech
 - Rad Rides by Troy
 places:
@@ -82,15 +72,15 @@ status: Left Du Quoin after 1998; returned for one show in 2013[^de98][^wsiu]
 ---
 # "Halloween on Wheels": The Street Machine Nationals at Du Quoin (Illinois, 1977–2013)
 
-*A traveling show that wore out its welcomes, a fairground town of 6,000, a Pontiac that took the top award, and a governor's decision*
+*A traveling show that wore out its welcomes, a fairground town of 6,000, a Pontiac that took Best Street Machine, and a governor's decision*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the 1986 notebook and the 62,124 count are in the public OCR of a newspaper-archive landing page, and the awards stories on that page were not readable; the end of the Du Quoin years is in Southern Illinois University's student paper; the show's moves come from a 2013 *Car Craft* history by a writer who also wrote a book about the show) · **Source types:** <span class="hr-badge">Grassroots</span> Larry Davis's notebook in the *Southern Illinoisan* (Carbondale), June 30, 1986, from the public OCR of a newspaper-archive page; the awards stories on that page were not readable; the *Daily Egyptian* (Carbondale), July 13 and 14, 1998; WSIU Public Broadcasting (2013); *Hot Rod* (November 1986); Toby Brooks in *Car Craft* (2013) · **Last verified:** 2026-11-22 (Round 47) · **Open issues:** ⚠ how many cars came in 1986; ⚠ who ended the Du Quoin years; ⚠ what the show was worth to the area; ◐ the sergeant and the awards-story details, from a page we could not read · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the 1986 notebook and the 62,124 count are in the public OCR of a newspaper-archive landing page, and the awards stories on that page were not readable; the end of the Du Quoin years is in Southern Illinois University's student paper; the show's moves come from a 2013 *Car Craft* history by a writer who also wrote a book about the show) · **Source types:** <span class="hr-badge">Grassroots</span> Larry Davis's notebook in the *Southern Illinoisan* (Carbondale), June 30, 1986, from the public OCR of a newspaper-archive page; the awards stories on that page were not readable; the *Daily Egyptian* (Carbondale), July 13 and 14, 1998; WSIU Public Broadcasting (2013); *Hot Rod* (November 1986); Toby Brooks in *Car Craft* (2013) · **Last verified:** 2026-11-22 (Round 47) · **Open issues:** ⚠ how many cars came in 1986; ⚠ who ended the Du Quoin years; ⚠ what the show was worth to the area; the awards stories on the June 30 page have not been read · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "After a while, all the paint and all the chrome and all the shiny stuff starts to run together."
 
-    — Jay Chapman of Du Quoin, after a day at the fairgrounds and a Saturday night working at the Du Quoin McDonald's, to Larry Davis, *Southern Illinoisan*, 1986.[^si86]
+    — Jay Chapman of Du Quoin, after the fairgrounds on Friday and a Saturday night serving customers at the Du Quoin McDonald's, to Larry Davis, *Southern Illinoisan*, 1986.[^si86]
 
 ## A show nobody wanted twice
 
@@ -100,9 +90,9 @@ It started small, in Indianapolis in 1977, with some 1,300 cars and 10,000 spect
 
 ## The weekend of June 1986
 
-Du Quoin was ready for trouble. The *Southern Illinoisan* ran headlines like "Police Preparing For The Rush" and "Former Street Machine Hosts Were Glad To See It Hit The Road."[^hr86] Then the cars came. By the paper's count the show kept the police and the cleanup crews busy with 62,124 participants.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^si86] Cars cruised the streets just north of the fairgrounds under the watchful eyes of the police. On Sunday evening, by a part of that page we could not read, a state police sergeant cleared the last of the crowd and told them the department was not new at this.<sup class="hr-q" id="qr-4b"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^si86] Larry Davis filled a reporter's notebook. "We should have come here a long time ago," Smith told the awards crowd. Mike Melby said he came up from Florida every year and planned his vacation around it. Gov. James Thompson, arriving Saturday, said, "My only source of information is Mr. Skilbeck, and Mr. Skilbeck is pleased," meaning his aide. Michael McBride, 10, of Ava, took a corn dog out of his mouth long enough to tell a reporter, "I'm busy." A *Southern Illinoisan* reporter, Tim Landis, summed up Saturday night as "Halloween on wheels."[^si86]
+Du Quoin was ready for trouble. The *Southern Illinoisan* ran headlines like "Police Preparing For The Rush" and "Former Street Machine Hosts Were Glad To See It Hit The Road."[^hr86] Then the cars came. By the paper's count the show kept the police and the cleanup crews busy with 62,124 participants.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^si86] Cars cruised up and down the streets just north of the fairgrounds, under the watchful eyes of law enforcement personnel.[^si86] Larry Davis filled a reporter's notebook. "We should have come here a long time ago," Smith told the awards crowd. "I come up from Florida every year. I plan my vacation around this," Mike Melby said. Gov. James Thompson, arriving Saturday, said, "My only source of information is Mr. Skilbeck, and Mr. Skilbeck is pleased." Jim Skilbeck was his aide. Michael McBride, 10, of Ava, removed a corn dog from his mouth long enough to brush off a reporter: "I'm busy." Tim Landis, a *Southern Illinoisan* reporter, summed up Saturday night as "Halloween on wheels."[^si86]
 
-The cars were the reason. *Hot Rod*, that November, named Rick Dobbertin of Springfield, Virginia, Best Street Machine, Best Engine and Best Engineering for his Pontiac, and Matt Hay of Chandler, Arizona, the Pro Street winner.[^hr86] What the winners said beyond that sits in the *Southern Illinoisan*'s awards stories, on the same page as the notebook, and that part of the page could not be read on this pass.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> By those stories Dobbertin took five more awards after two other national shows in the weeks before, in a 1985 Pontiac J-2000 he had put 4,720 hours into over three years. He told the crowd it was the last engine he would build that way, and that the work was just killing him. He had sold his wife's 1967 Corvette to pay for the last of it. Lani Dobbertin said her part was bringing him a meal and making sure he got some sleep. Matt and Debbie Hay's car was a 1984 Oldsmobile. It was the first time in nine years she was not with him at a show; she was home waiting on their first child, due July 27. That Sunday morning he broke the axle studs on the left rear wheel, shifting hard on Illinois 13 near Carbondale, and went into the median, and he told the awards crowd there was a time and place for trying out performance products. Deno Pyszka, who owned Custom Automotive in Benton, brought a yellow 1949 Anglia with a 350 Chevy, air conditioning and crushed velour. He said they did not believe in trailers, and that the car had taken three years of building and almost a divorce. His wife, Dee, said she loved it.[^si86]
+The cars were the reason. *Hot Rod*, that November, gave Rick Dobbertin's Pontiac, his "Poncho," Best Street Machine, Best Engine and Best Engineering, and gave Matt Hay Pro Street.[^hr86] The *Southern Illinoisan*'s awards stories sit on the same page as the notebook, and that part of the page has not been read.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup>
 
 After the weekend the paper's headlines turned to "They'll Be Back" and "Worse Didn't Happen."[^hr86]
 
@@ -128,9 +118,9 @@ The show bounced around, landed in Lima, Ohio, and died there in 2004, with 791 
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **What was it worth?** *Car Craft* gives "the estimated $7 to $15 million economic impact" around 1990.[^cc13] The *Daily Egyptian* in 1998 gives revenue to Southern Illinois "estimated to be between $3 and $5 million," and Woodside said most of it went to Carbondale and Marion while Du Quoin paid for police and cleanup.[^de98] Neither names who made the estimate. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **What about the sergeant, and the awards stories on that page?** The public OCR of the NewspaperArchive landing page for the *Southern Illinoisan* of June 30, 1986, p. 3, has the 62,124 caption and Larry Davis's notebook: Smith, Melby, Gov. Thompson, Michael McBride, and Tim Landis's "Halloween on wheels." It does not, in the portion that could be read, have a state police sergeant telling the crowd the department was not new at this, or the Dobbertin, Hay and Pyszka stories. The page itself returned HTTP 403, and no open copy of the page image turned up. The lines in the story are a paraphrase of those unread stories, not quotations. *Hot Rod* names Dobbertin for Best Street Machine, Best Engine and Best Engineering, and Hay for Pro Street. It does not carry the hours, the Corvette, the meal, the axle studs or the other lines.[^si86][^hr86] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+<a id="q-4" class="hr-q-anchor"></a>**Open question.** **What did the awards stories on that page say?** The public OCR of the NewspaperArchive landing page for the *Southern Illinoisan* of June 30, 1986, p. 3, has Larry Davis's notebook and the caption with the 62,124 participants. The awards stories on that same page were not in the portion that could be read. The page returned HTTP 403, and no open copy of the page image turned up. A readable copy could add what the Sunday winners said about their cars, and who else those stories name. *Hot Rod* names Dobbertin's three wins and Hay's Pro Street, and does not fill that gap.[^si86][^hr86] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
-*A note on sources:* the notebook quotes are from the public OCR of that landing page, with the scanner's broken apostrophes put back. The awards stories named in the footnote were not in the OCR that could be read, and the page image was not opened. Toby Brooks, who wrote *Car Craft*'s 2013 history, also wrote a book about the Du Quoin years and was building a car for the 2014 show.
+*A note on sources:* the notebook quotes and the 62,124 caption are from the public OCR of that landing page, with the scanner's broken apostrophes put back. The awards stories on the page were not in the OCR that could be read, and they are not used here. Toby Brooks, who wrote *Car Craft*'s 2013 history, also wrote a book about the Du Quoin years and was building a car for the 2014 show.
 
 ### Next leads
 
@@ -138,7 +128,7 @@ The *Southern Illinoisan*, June 1986 (the "Police Preparing" stories), 1990 (the
 
 ## Sources
 
-[^si86]: Larry Davis, "Street Machine Nationals 'Yeahhhh!' Quotes from a reporter's notebook," and the 62,124-participants caption, *Southern Illinoisan* (Carbondale, Ill.), June 30, 1986, p. 3. The notebook and the caption are from the public OCR of the NewspaperArchive landing page; the page returned HTTP 403 and the page image was not seen. The awards stories on that page ("Pontiac J-2000 takes the cake," "Pro Street winner awaits real prize" and "Benton pair survives rebirth of a British taxi") were not in the OCR that could be read. The sergeant, Dobbertin, Hay and Pyszka lines above are a paraphrase of those unread stories, not quotations. https://newspaperarchive.com/southern-illinoisan-jun-30-1986-p-3/ (accessed 2026-11-22)
+[^si86]: Larry Davis, "Street Machine Nationals 'Yeahhhh!' Quotes from a reporter's notebook," and the participants caption, *Southern Illinoisan* (Carbondale, Ill.), June 30, 1986, p. 3. The notebook and the caption are from the public OCR of the NewspaperArchive landing page. The page returned HTTP 403, the page image was not seen, and the awards stories on that page were not in the OCR that could be read. Those stories are not used here. https://newspaperarchive.com/southern-illinoisan-jun-30-1986-p-3/ (accessed 2026-11-22)
 [^hr86]: "Cool, Clean And Relatively Quiet," *Hot Rod*, November 1986, reposted 2023. https://www.hotrod.com/features/cool-clean-and-relatively-quiet-november-1986-982-1340-138-1 (accessed 2026-11-22)
 [^cc13]: Toby Brooks, "The History Of The Street Machine Nationals," *Car Craft*, November 26, 2013. https://www.hotrod.com/news/history-of-the-street-machine-nationals (accessed 2026-11-22)
 [^de98]: "Illinois tells car show to hit the road," *Daily Egyptian* (Southern Illinois University, Carbondale), July 13, 1998. https://dailyegyptian.com/43751/archives/illinois-tells-car-show-to-hit-the-road/ (accessed 2026-11-22)
