@@ -559,7 +559,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1999 | JEGS opens its headquarters and distribution center at 1 Jegs Place, Delaware, Ohio | [JEGS](../companies/jegs.md) |
 | 1999 ⚠ | Pocatello's strip closes, by Kathy Steinmetz's account (others say 1973 or about 1993 ⚠) | [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md) |
 | 2000 ⚠ | Kyle and Stacy Tucker's Twister Camaro debuts and Detroit Speed starts (Detroit Speed, Inc. formed early 2001 ⚠) | [Pro-Touring](../eras/1990s-pro-touring-garage-engineers.md) |
-| 2002 ⚠ | First Scrapin' the Coast, Biloxi | [Slamfest & Scrapin' the Coast](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
+| 2002 ⚠ | First Scrapin' the Coast, Biloxi (or 2003, counting back from the *Gazette*'s own "23rd" and "24th annual" labels) | [Slamfest & Scrapin' the Coast](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
 | 2003 | The last of Des Moines Dragway's pavement goes for houses (June) | [Des Moines Dragway](../drag-racing/des-moines-dragway-ernest-day.md) |
 | 2003 | Mel Stultz starts his Jalopy Jump and Jive and Motor Speedway events on the Jersey Shore | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
 | 2004 | Westhampton's strip and 66 acres sold for about $7 million; senior housing and a Drag Street follow | [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md) |

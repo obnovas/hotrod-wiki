@@ -1,6 +1,6 @@
 ---
 title: '"Scraping the Sky": Slamfest, Scrapin'' the Coast and the Gulf''s Slammed-Truck Shows (Tampa, Fla., and Biloxi, Miss., 1991–2026)'
-summary: 'Slamfest began in 1991 as about twenty Mini Madness club members and some 320 vehicles in a Tampa outlet-mall parking lot, and Scrapin'' the Coast began in Biloxi in 2002. Both lasted by letting in whatever people built, from mini trucks to lifted pickups.'
+summary: 'Slamfest began in 1991 as about twenty Mini Madness club members and some 320 vehicles in a Tampa outlet-mall parking lot, and Scrapin'' the Coast began in Biloxi in 2002 or 2003. Both lasted by letting in whatever people built, from mini trucks to lifted pickups.'
 department: customs
 era: 2000s
 eras:
@@ -123,7 +123,7 @@ In June 2026 the 24th show had lifted and squatted trucks, Jeeps, side-by-sides,
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was the first Scrapin' the Coast in 2002 or 2003?** WXXV (2019), WLOX (2021) and *The Gazebo Gazette* (2025, 2026) all say 2002, and Kendrick in 2024 said "22 years ago."[^wx19][^wl21][^gg25][^wx24] But the *Gazette* called the 2025 show "The 23rd annual" and the June 2026 show the 24th, with the 25th in 2027, which counts back to 2003 if a show was held every year.[^gg25][^gg26] A year may have been skipped, perhaps after Hurricane Katrina in 2005; no source we read says so. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was the first Scrapin' the Coast in 2002 or 2003?** WXXV (2019) and WLOX (2021) say the show has been around since 2002, and Kendrick told WXXV in 2024 that "we started it 22 years ago" and that it has gone on every year.[^wx19][^wl21][^wx24] *The Gazebo Gazette* says the same start, in 2002, in both its 2025 and 2026 stories.[^gg25][^gg26] The 2003 date is not another paper's date. It is that paper's own arithmetic: the same pieces call 2025 "The 23rd annual" and the June 2026 show the 24th, and look ahead to a 25th in 2027, which counts back to 2003 if a show was held every year. WXXV and WLOX do not say 2003. A skipped year, perhaps after Hurricane Katrina in 2005, would square the count with 2002; no source we read says a year was skipped. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **How big was the first Slamfest?** The 1991 date, the 20 members, the 320 vehicles and the Belz Factory Outlet lot are all from the club's own answers in *Street Trucks*.[^st19] A Tampa paper of 1991 would confirm them. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

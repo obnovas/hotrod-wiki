@@ -119,7 +119,7 @@ By 2015 the coupe sat inside the shop at 401 Legend Lane, and the question Jason
 
 A hot rodder built a coupe to look like the cars his father talked about. A TV movie gave it a name, the name went on his shop's sign, and the man who answered that sign with a phone call now owns the shop and the car.
 
-*See also:* [The 1970s: The Street Rod Nationals](../eras/1970s-street-rod-nationals.md), for the street rod revival the movie aired into; [Alex Xydias](../people/alex-xydias.md), whose So-Cal Speed Shop name Chapouris later revived; [Where Lucas Shot It](american-graffiti-petaluma-1972.md), for another 1970s screen story; [Named for a Neighbor's Mother](eleanor-halicki-gone-in-60-seconds.md), the 1974 movie Mustang called Eleanor.
+*See also:* [The 1970s: The Street Rod Nationals](../eras/1970s-street-rod-nationals.md), for the street rod revival the movie aired into; [Alex Xydias](../people/alex-xydias.md), whose So-Cal Speed Shop name Chapouris later revived; [Where Lucas Shot It](american-graffiti-petaluma-1972.md), for another 1970s screen story; [Named, by His Brother's Account, for a Neighbor's Mother](eleanor-halicki-gone-in-60-seconds.md), the 1974 movie Mustang called Eleanor.
 
 ## Open questions & disputed details
 

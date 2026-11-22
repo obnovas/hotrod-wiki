@@ -219,7 +219,7 @@
 | Devlin Rod & Customs | Wichita shop; Tim and Tom Devlin among the buyers of Starbird's Wichita show, 2011 | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | Di Lorenzo, Joseph | ATAA national director (1954) | [Half Day](../drag-racing/half-day-ataa-maremont.md) |
 | Diablo Speed Shop | 1957 fiberglass T | [Suppliers](../street-rodding/fiberglass-suppliers.md) |
-| Dobbertin, Rick | Springfield, Va.; J-2000 Pontiac, 4,720 hours; Best Street Machine, Du Quoin 1986 | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
+| Dobbertin, Rick | Springfield, Va.; Best Street Machine, Best Engine and Best Engineering at Du Quoin, 1986 (*Hot Rod*); the 4,720 hours and the sold Corvette are on an unread page ◐ | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Dobson, Ken | Beardstown Drag Strip owner-promoter, 1972 | [Beardstown](../drag-racing/beardstown-drag-strip.md) |
 | Doll, Darwin | York man, later NHRA's first Northeast Division Director | [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md) |
 | Don's Trim Shop | Hixson, Tenn., upholstery; street rod interiors; run by Don Angland's son and daughter | [Trim shops](../people/don-angland-jay-peterson-trim-shops.md) |
@@ -344,7 +344,7 @@
 | Hagy, Roy | Metal-finish bodyman | [Roy Hagy](../people/roy-hagy.md) |
 | Halicki, Denice | Toby's widow; owner of Eleanor and the film rights | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Halicki, H.B. "Toby" | Dunkirk, N.Y., tow family's son; *Gone in 60 Seconds* (1974); killed filming the sequel, 1989 | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
-| Halicki, Ron | Toby's youngest brother; the source for the Eleanor name | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
+| Halicki, Ron | Toby's youngest brother; his 2009 account is the only source for the Eleanor name ◐ | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Hamer Construction Co. | Kansas City builder that pulled out of the Big S.I.R. (1969) | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | Hamilton, Barbara | Ohio gasser racer ('37 Willys) | [Ohio Gassers](../places/ohio-gassers.md) |
 | Hamlin, Scott | Fayetteville, Tenn.; LS-swapped Geo Tracker "Mighty Mouse" at the first LS Fest | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
@@ -365,7 +365,7 @@
 | Hassel, Ron | Cleveland gasser racer; Crane Cams and Mr. Gasket sales | [Ohio Gassers](../places/ohio-gassers.md) |
 | Hawaii Raceway Park | Ewa, Oahu, strip opened 1963 or 1964 (1962 by inference) ⚠; closed 2006 | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
 | Hawaiian Motor Timing Association | Kahuku Point drag racing body, formed 1957 | [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
-| Hay, Matt & Debbie | Chandler, Ariz.; Pro Street winners, Du Quoin 1986 | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
+| Hay, Matt & Debbie | Chandler, Ariz.; Matt won Pro Street at Du Quoin, 1986 (*Hot Rod*); the rest of their weekend is on an unread page ◐ | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Heater, Jane | D.C. Dragons secretary, 1954; building a $40 1939 coupe | [D.C. Dragons](../drag-racing/dc-dragons-jo-ann-johnson.md) |
 | Heath, Melvin | Rush Springs, Okla., farmer; NHRA national champion, 1956 | [Oklahoma](../drag-racing/oklahoma-city-nationals-rush-springs.md) |
 | Hegewald, Denny | Bought Ron's Drive-In in 1995; Model T roadster in 1969 | [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md) |
@@ -691,7 +691,7 @@
 | Pueblo Motor Sports, Inc. | Non-profit that raised money for Pueblo's strip (opened 1976) | [Mountain View & Colorado](../drag-racing/mountain-view-erie-colorado-strips.md) |
 | Pumphrey, J. O. | Twin Falls police judge; raised fines for street dragging (1957) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | Push Rods | Marshall, Mo., hot rod club (1958) | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md) |
-| Pyszka, Deno & Dee | Custom Automotive, Benton, Ill.; 1949 Anglia: "We don't believe in trailers" | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
+| Pyszka, Deno & Dee | Custom Automotive, Benton, Ill.; a 1949 Anglia at Du Quoin, 1986; the trailer line is on an unread page ◐ | [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md) |
 | Quaker City Timing Association | Salem, Ohio, strip's business arm | [Quaker City](../drag-racing/quaker-city-salem.md) |
 | Quarles, Virginia | Driver in the Easter 1961 Calhoun, Ga., crash | [Paradise, Calhoun](../drag-racing/paradise-drag-strip-calhoun.md) |
 | Quick Times Racing News | Becky White's drag racing paper, started 1981 in Pageland, S.C. | [Farmington](../drag-racing/farmington-dragway-becky-white.md) |

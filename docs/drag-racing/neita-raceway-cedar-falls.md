@@ -109,6 +109,8 @@ In 2014 Joe and Deb Kruse bought the track from a group led by Scott Gardner, an
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **When did DeAlda Steward own and run the track?** Her obituary says she "owned and operated NEITA Raceway (Cedar Falls Raceway)" but gives no years.[^uni] The parenthesis suggests she still had it after the name changed in the 1980s, perhaps after Ray Steward's death in 1984, but no source says when she took over or sold it. Who owned it between her and Scott Gardner's group is also open. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
+*A note on the years:* The front-matter `years` span is `[1964, 2020]`. That field is `[first, last]`, two integers, and 2020 is the latest year a source dates, the *Drag Illustrated* visit.[^di] It does not decide a closing year. The title says 1964– . Other still-running strips on this site end `years` at the latest year a source gives and leave the title open the same way. The Kruses were still running the track when that story was written.
+
 ### Next leads
 
 The *Waterloo Courier* and the *Cedar Falls Record*, 1964–65, for the groundbreaking, the opening and the sanction; Raymond Steward's obituary (July 1984); the Neita Raceway Drag Racing (1965–1983) group's photos and the "Neita News" clipping posted to the H.A.M.B. in 2012 (attachment needs a login); Jim Volgarino's book, if it was published; the *Courier* of July 5, 1967, read directly.

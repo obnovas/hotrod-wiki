@@ -2153,7 +2153,7 @@ highlights:
     regions: ['Manor Township, Pa.']
 
   - id: eleanor-named-for-neighbor
-    headline: Gone in 60 Seconds' Eleanor was named for a neighbor's mother back in Dunkirk
+    headline: By his brother's account, Eleanor was named for a neighbor's mother in Dunkirk
     teaser: Toby Halicki grew up riding along on his family's tow calls in Dunkirk, New York. By his brother's
       account, he named his movie Mustang for the mother of a boyhood friend.
     link: media/eleanor-halicki-gone-in-60-seconds.md#the-chase-the-crowd-and-the-name
@@ -2166,12 +2166,12 @@ highlights:
     eras: [1970s]
     regions: ['Dunkirk, N.Y.']
 
-  - id: dobbertin-sold-corvette-du-quoin
-    headline: A racer sold his wife's Corvette to finish the car that swept Du Quoin in 1986
-    teaser: Rick Dobbertin said he put 4,720 hours into his Pontiac J-2000 over three years. His wife said her
-      part was bringing him a meal and making sure he got some sleep.
+  - id: du-quoin-corn-dog-im-busy
+    headline: A 10-year-old at Du Quoin took the corn dog out of his mouth and said he was busy
+    teaser: Michael McBride of Ava had a corn dog at the Street Machine Nationals. He took it out of his
+      mouth long enough to tell a reporter he was busy.
     link: media/street-machine-nationals-du-quoin.md#the-weekend-of-june-1986
-    evidence: [sold his wife's 1967 Corvette, bringing him a meal and making sure he got some sleep]
+    evidence: ["I'm busy", took a corn dog out of his mouth]
     source_type: Local news
     confidence: Medium
     flag: none

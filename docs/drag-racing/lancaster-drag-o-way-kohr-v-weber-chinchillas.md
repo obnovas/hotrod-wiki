@@ -1,6 +1,6 @@
 ---
-title: 'The Chinchillas Next Door: Lancaster Drag-O-Way and Kohr v. Weber (Manor Township, Pa., 1957–1960)'
-summary: 'A Saturday-night drag strip at the Garden Spot airport outside Lancaster, Pa., was sued by sixteen neighbors, among them a couple whose 1,100 chinchillas had started chewing their fur. In 1960 the state Supreme Court said a quiet drag race was impossible, so the racing had to stop, and the racers went to York.'
+title: 'The Chinchillas Next Door: Lancaster Drag-O-Way and Kohr v. Weber (Manor Township, Pa., 1957 or 1958–1960)'
+summary: 'A Saturday-night drag strip at the Garden Spot airport outside Lancaster, Pa., was sued by sixteen neighbors, among them a couple whose 1,100 chinchillas, the court said, had started chewing their fur. In 1960 the state Supreme Court said a quiet drag race was impossible, so the racing had to stop, and the racers went to York.'
 department: drag-racing
 era: 1950s
 eras:
@@ -51,7 +51,7 @@ canonical_for: []
 location: Garden Spot Air Park, Manor Township, Lancaster County, Pa., along Route 462[^kohr][^ss]
 status: Closed by court injunction; the decree was affirmed by the Pennsylvania Supreme Court in 1960[^kohr]
 ---
-# The Chinchillas Next Door: Lancaster Drag-O-Way and Kohr v. Weber (Manor Township, Pa., 1957–1960)
+# The Chinchillas Next Door: Lancaster Drag-O-Way and Kohr v. Weber (Manor Township, Pa., 1957 or 1958–1960)
 
 *A Saturday-night strip at a country airport, sixteen neighbors, a ranch house full of chinchillas, and a judge who said a silent drag race could not be done*
 
@@ -91,7 +91,7 @@ The racers did not quit. McLaughlin said Holz went looking for the other airport
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did Lancaster Drag-O-Way open?** Weber testified that Kohr first called him "sometime in the middle of the first season, sometime in the summer of '57."[^kohr] McLaughlin says the Vagabonds, founded in 1958, "found a home, for a while, at the newly opened Lancaster Drag-O-Way."[^ss] Both can be loosely true (a strip in its second season is still new), but the court record puts the first season in 1957. The *Lancaster New Era* and *Intelligencer Journal* of 1957 would date the opening. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did Lancaster Drag-O-Way open?** Weber testified that Kohr first called him "sometime in the middle of the first season, sometime in the summer of '57."[^kohr] McLaughlin says the Vagabonds, founded in 1958, "found a home, for a while, at the newly opened Lancaster Drag-O-Way."[^ss] Both can be loosely true (a strip in its second season is still new), but the court record puts the first season in 1957. The front-matter `years` span is `[1957, 1960]`. That field is `[first, last]`, two integers, and 1957 is the earlier year a source gives, so the span covers 1958. It does not decide the question. The title says 1957 or 1958. The 1960 close is the court's decree. The *Lancaster New Era* and *Intelligencer Journal* of 1957 would date the opening. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Did the chinchillas chew their own fur, or fight?** The court, from the trial record, says they "chewed at their fur in some inexplicable attitude of defense."[^kohr] McLaughlin remembered that they "would start fighting each other and rip out their fur."[^ss] The opinion is the record made at the time; McLaughlin's is a memory told some 65 years later. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
