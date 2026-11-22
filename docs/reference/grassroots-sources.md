@@ -246,7 +246,7 @@ These hold the period coverage we most want, and none was readable by our fetche
 
 ### Round 47 additions
 - A court record: the Pennsylvania Supreme Court's opinion in *Kohr v. Weber* (1960), quoting neighbors' and the strip owner's testimony → [The Chinchillas Next Door](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md); the Ninth Circuit's *Halicki Films* (2008) and *Carroll Shelby Licensing v. Halicki* (2025) → [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md).
-- Local newspapers and TV: Jim McClure's *York Town Square* posts for the *York Daily Record* (2008, 2011), with readers' memories and Jim Hubley's column → [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md); the *Am-Pol Eagle* (Buffalo, 2009) and *405 Magazine* (2016) → Eleanor; the *Southern Illinoisan* (1986, OCR via NewspaperArchive), the *Daily Egyptian* (1998) and WSIU (2013) → [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md); WXXV (2019, 2024), WLOX (2021, 2023) and *The Gazebo Gazette* (Long Beach, Miss., 2025, 2026) → [Slamfest & Scrapin' the Coast](../customs/slamfest-scrapin-the-coast-gulf-trucks.md).
+- Local newspapers and TV: Jim McClure's *York Town Square* posts (2008, and the 2011 readers' memories on the public blog; the newspaper's copy of that post is paywalled) and Jim Hubley's column → [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md); the *Am-Pol Eagle* (Buffalo, 2009) and *405 Magazine* (2016) → Eleanor; the *Southern Illinoisan* (1986: the notebook and the 62,124 caption, from the public OCR of a NewspaperArchive landing page; the awards stories on that page were not readable), the *Daily Egyptian* (1998) and WSIU (2013) → [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md); WXXV (2019, 2024), WLOX (2021, 2023) and *The Gazebo Gazette* (Long Beach, Miss., 2025, 2026) → [Slamfest & Scrapin' the Coast](../customs/slamfest-scrapin-the-coast-gulf-trucks.md).
 - An airport's own history: the York Airport's "A Little History" page → York U.S. 30.
 - Racers' memories: a Lancaster club founder and York racers in *Speed Sport* (2023); a racer's notes on Drag Racing List (2001) → York U.S. 30 and Lancaster.
 - A club in its own words: the Mini Madness president's Q&A in *Street Trucks* (2019) → Slamfest.
@@ -255,9 +255,12 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Archive | Round 47 status |
 |---|---|
 | LancasterOnline (LNP) | Rate-limited (HTTP 429); not used. |
-| *The Southern* (thesouthern.com) | Rate-limited (HTTP 429); the 1986 and 1998 Du Quoin stories were read through NewspaperArchive's free OCR page and the *Daily Egyptian* archive instead. |
+| *The Southern* (thesouthern.com) | Rate-limited (HTTP 429); the 1998 Du Quoin stories were read in the *Daily Egyptian*. The 1986 notebook and the 62,124 caption are in the public OCR of a NewspaperArchive landing page. The awards stories on that page were not readable. |
 | *York Town Square* Part III (Rearich radio ad) | Timed out twice; not used. |
-| yorkblog.com, Justia, NewspaperArchive | Blocked to our command-line fetcher; read through a second fetcher. |
+| eu.ydr.com, the 2011 "Remember" post | HTTP 402 (TollBit). Not used. The same post is on yorkblog.com and was read there (HTTP 200) on the citation pass. |
+| yorkblog.com | Part IV, July 19, 2011, returned HTTP 200 on the citation pass, including Jeff Knaub's memories. |
+| NewspaperArchive, *Southern Illinoisan* June 30, 1986, p. 3 | HTTP 403. The public OCR of the landing page has the notebook and the 62,124 caption. The awards stories on that page were not in the OCR that could be read, and the article does not use them. No page image. |
+| Justia, *Kohr v. Weber* | Read on the writing pass. |
 | Washington Post archive (1989) | Not readable; the tower height is cited to UPI and the *Los Angeles Times*. |
 | Google Patents | No Round 47 patents. |
 

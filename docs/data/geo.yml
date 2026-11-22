@@ -77,7 +77,6 @@ places:
   'Beltsville, Maryland': {lat: 39.0399, lon: -76.9204, precision: town, source: 'Census Gazetteer 2024: Beltsville CDP'}
   'Belvidere, New Jersey': {lat: 40.8298, lon: -75.0733, precision: town, source: 'Census Gazetteer 2024: Belvidere town'}
   'Bennettsville, South Carolina': {lat: 34.6282, lon: -79.686, precision: town, source: 'Census Gazetteer 2024: Bennettsville city'}
-  'Benton, Illinois': {lat: 38.0132, lon: -88.9173, precision: town, source: 'Census Gazetteer 2024: Benton city'}
   'Berkley, Michigan': {lat: 42.4986, lon: -83.1853, precision: town, source: 'Census Gazetteer 2024: Berkley city'}
   'Bethany, Oklahoma': {lat: 35.5072, lon: -97.6417, precision: town, source: 'Census Gazetteer 2024: Bethany city'}
   'Bethesda, Maryland': {lat: 38.9873, lon: -77.1186, precision: town, source: 'Census Gazetteer 2024: Bethesda CDP'}
@@ -636,7 +635,6 @@ places:
   'Springdale, Arkansas': {lat: 36.1914, lon: -94.1551, precision: town, source: 'Census Gazetteer 2024: Springdale city'}
   'Springfield, Illinois': {lat: 39.7911, lon: -89.6446, precision: town, source: 'Census Gazetteer 2024: Springfield city'}
   'Springfield, Missouri': {lat: 37.1942, lon: -93.2926, precision: town, source: 'Census Gazetteer 2024: Springfield city'}
-  'Springfield, Virginia': {lat: 38.7816, lon: -77.1839, precision: town, source: 'Census Gazetteer 2024: Springfield CDP'}
   'St. Augustine, Florida': {lat: 29.8962, lon: -81.3111, precision: town, source: 'Census Gazetteer 2024: St. Augustine city'}
   'St. Charles, Missouri': {lat: 38.7957, lon: -90.5154, precision: town, source: 'Census Gazetteer 2024: St. Charles city'}
   'St. George, Utah': {lat: 37.077, lon: -113.5765, precision: town, source: 'Census Gazetteer 2024: St. George city'}
