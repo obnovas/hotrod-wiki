@@ -9,7 +9,7 @@ eras:
 - 2010s
 years:
 - 1963
-- 2016
+- 2016 # date of the Whig history, the latest year a source dates, not a close. The track still runs. Title is 1963– .
 region: Northeast
 states:
 - Maryland
@@ -116,6 +116,8 @@ In the mid-1970s the four owners of Atco bought the strip and renamed it Cecil C
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Was Nicholson's "Eliminator" the first plastic-body car there, or anywhere?** The *Whig* history says "'Eliminator' driven by Dino Don Nicholson was the first plastic body car in 1966," in a paragraph of Ron McNeal's memories, and does not say whether it means first at Cecil County or first in the sport.[^cw16] We have no second source. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Who ran the strip between the Atco owners and Halsey?** The *Whig* says Atco's four owners bought it in the mid-1970s and calls Jimmy Halsey "the current owner" in 2016; RacingJunk News (2015) says Halsey bought it in 1999.[^cw16][^rj15] Whether the Atco group held it for the whole stretch from the mid-1970s to 1999 is not in either source. The *Whig* spells the Atco announcer "Bob Fry"; our [Atco page](atco-strato-rods-south-jersey.md) has "Bob Frey." <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+
+*A note on the years:* The front-matter `years` span is `[1963, 2016]`. That field is `[first, last]`, two integers, and 2016 is the date of the *Whig* history, the latest year a source dates. It does not decide a closing year. The title says 1963– . The track still runs.
 
 ### Next leads
 

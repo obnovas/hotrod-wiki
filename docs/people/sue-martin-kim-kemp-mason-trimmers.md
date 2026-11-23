@@ -1,6 +1,6 @@
 ---
 title: '"Why You Always Bring Me Junk?": Sue Martin of ASM Auto Upholstery and Kim Kemp-Mason (Dallas and Oak Harbor, Wash., 1984–2026)'
-summary: 'Sue Martin bought a failing Dallas upholstery shop for $4,500 in 1990, learned the trade beside her first employee and became the trimmer on Fast N'' Loud, though she said most of her work was everyday repairs. In Oak Harbor, Wash., Kim Kemp-Mason came to car interiors from fashion design.'
+summary: 'Sue Martin, by the shop''s own account, bought a failing Dallas upholstery shop for $4,500 in 1990, learned the trade beside her first employee and became the trimmer on Fast N'' Loud, though she said most of her work was everyday repairs. In Oak Harbor, Wash., Kim Kemp-Mason came to car interiors from fashion design.'
 department: people
 era: 1990s
 eras:
@@ -97,7 +97,7 @@ Martin died at home on October 30, 2026, after a battle with cancer. Her family'
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Who taught Martin the trade?** In 2013 she told *The Hog Ring* that "a friend introduced me to the industry" and that she learned "by working side by side with my first employee, Adan De La Rosa."[^hr13] In 2016 she told a Dallas blogger, "A friend of mine, Adam De La Rosa, introduced me to the upholstery industry."[^rm16] Her shop's history says she and "her friend" reupholstered the Torino in her garage, without a name.[^asm] So the friend, the first employee and the teacher may be one man or two, and his first name is spelled two ways. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The 1968 "Grand Torino."** The Torino, the 1990 start, the $4,500 price and the square footage all come from ASM's own history, which *Voyage Dallas* (2018) and a 2017 trade-show speaker page repeat word for word.[^asm][^vd18] *The Hog Ring* (2013) dates the shop's founding to 23 years earlier, which fits 1990.[^hr13] The page keeps the shop's spelling, "Grand Torino." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **The 1968 "Grand Torino."?** The Torino, the 1990 start, the $4,500 price and the square footage all come from ASM's own history, which *Voyage Dallas* (2018) and a 2017 trade-show speaker page repeat word for word.[^asm][^vd18] *The Hog Ring* (2013) dates the shop's founding to 23 years earlier, which fits 1990.[^hr13] The page keeps the shop's spelling, "Grand Torino." <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 
