@@ -183,6 +183,9 @@ nodes:
   - {id: ringbros,   label: Ringbrothers, type: company, group: garage-born, page: companies/ringbrothers-spring-green.md}
   - {id: springgreen, label: "Spring Green, Wis.", type: place, page: companies/ringbrothers-spring-green.md}
   - {id: starbird,   label: Darryl Starbird, type: person, page: people/darryl-starbird-wichita-show-man.md}
+  - {id: hok,        label: House of Kolor, type: company, group: garage-born, page: companies/house-of-kolor-kosmoski-minneapolis.md}
+  - {id: kosmoski,   label: Jon Kosmoski, type: person, page: companies/house-of-kolor-kosmoski-minneapolis.md}
+  - {id: minneapolis, label: "Minneapolis, Minn.", type: place, page: companies/house-of-kolor-kosmoski-minneapolis.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -607,3 +610,9 @@ edges:
      evidence: ["he agreed to merge the museum into Speedway Motors' Museum of American Speed"]}
   - {from: ringbros, to: sema, type: scene, label: "Recoil, GM Best in Show at the SEMA Show, 2014", page: companies/ringbrothers-spring-green.md,
      evidence: ["was the General Motors Best in Show at the SEMA Show in Las Vegas"]}
+  - {from: kosmoski, to: hok, type: founded, label: "Founded House of Kolor; sold it to Valspar, 1997", page: companies/house-of-kolor-kosmoski-minneapolis.md,
+     evidence: ["In 1997 he sold House of Kolor to Valspar"]}
+  - {from: hok, to: minneapolis, type: hometown, label: "A four-stall shop called House of Color; the K came in 1964", page: companies/house-of-kolor-kosmoski-minneapolis.md,
+     evidence: ["He bought a four-stall shop and called it House of Color"]}
+  - {from: struksnes, to: minneapolis, type: hometown, label: "Born in Minneapolis, 1940; licensed for a dragster at a Minneapolis strip", page: drag-racing/north-dakota-minot-borrowed-strips.md,
+     evidence: ["Bob Struksnes was born in Minneapolis in 1940"]}

@@ -80,7 +80,7 @@ The car has stayed in the collection. The dates of a later showing, May 2022 to 
 
 It is in a museum now, but it was never built as a museum piece. It was a used Ford a young man in Chimayó started fixing up a little at a time, and his family and his friends finished it for him.
 
-*See also:* [The Ozark Drifters](ozark-drifters-ceola-scrapbook-arkansas.md), another small-town car family's story; [Joe Bailon and Candy Apple Red](../people/joe-bailon-candy-apple.md), the paint in Dave's Dream; [Central Avenue in Albuquerque](../places/central-avenue-albuquerque.md), New Mexico's best-known cruise.
+*See also:* [The Ozark Drifters](ozark-drifters-ceola-scrapbook-arkansas.md), another small-town car family's story; [Joe Bailon and Candy Apple Red](../people/joe-bailon-candy-apple.md), the paint in Dave's Dream; [Central Avenue in Albuquerque](../places/central-avenue-albuquerque.md), New Mexico's best-known cruise; [The Last No Cruising Sign](../places/king-and-story-san-jose-lowrider-magazine.md), San Jose's lowriders and *Lowrider* magazine.
 
 ## Open questions & disputed details
 

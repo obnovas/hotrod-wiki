@@ -115,7 +115,7 @@ He never left the paint behind. When Ed Roth's Orbitron was found and restored i
 
 The scallops started as a cover for a paint run. The panels started as a cure for a car that looked too big. The man who made them started in a driveway, with brushes from an art store, because a better-known striper wouldn't tell a 16-year-old where to buy his.
 
-*See also:* [Joe Bailon and Candy Apple Red](joe-bailon-candy-apple.md), the candy Watson used for his panels; [Customs and Custom Techniques](../cars/techniques-and-styles.md); [Von Dutch](../voices/von-dutch.md) in his own words; [Bikini Keeney and Gator Gaydos](bikini-keeney-gator-gaydos-midwest-pinstripers.md), two Midwest pinstripers.
+*See also:* [Joe Bailon and Candy Apple Red](joe-bailon-candy-apple.md), the candy Watson used for his panels; [Customs and Custom Techniques](../cars/techniques-and-styles.md); [Von Dutch](../voices/von-dutch.md) in his own words; [Bikini Keeney and Gator Gaydos](bikini-keeney-gator-gaydos-midwest-pinstripers.md), two Midwest pinstripers; [House of Kolor](../companies/house-of-kolor-kosmoski-minneapolis.md), the Minneapolis custom paint maker.
 
 ## Open questions & disputed details
 

@@ -48,6 +48,7 @@ related:
 - street-rodding/back-to-the-50s-msra-st-paul-1974.md
 - street-rodding/nsra-early-nationals.md
 - companies/honest-charley-speed-shop.md
+- people/sue-martin-kim-kemp-mason-trimmers.md
 canonical_for: []
 location: Don's Trim Shop, Hixson, Tenn.; Jay's Hot Rod Upholstery, Pine Island, Minn.[^ab][^pb]
 status: Don's Trim Shop is run by his son and daughter; Jay Peterson works with his son, Cole[^ctn][^pb]
@@ -84,7 +85,7 @@ By 2022 he worked almost only on custom vintage cars, five or six interiors a ye
 
 In Hixson the trade went from a father to his son and daughter; in Pine Island it came from a godmother's furniture, and the son now works beside his father. Both shops got known the same way, one car at a time, at the shows.
 
-*See also:* [Tony Nancy](tony-nancy-sherman-oaks-trimmer.md), the Sherman Oaks trimmer who raced to show off his stitching; [Back to the 50's](../street-rodding/back-to-the-50s-msra-st-paul-1974.md), the Minnesota Street Rod Association's own story; [Honest Charley](../companies/honest-charley-speed-shop.md), another Chattanooga name.
+*See also:* [Tony Nancy](tony-nancy-sherman-oaks-trimmer.md), the Sherman Oaks trimmer who raced to show off his stitching; [Back to the 50's](../street-rodding/back-to-the-50s-msra-st-paul-1974.md), the Minnesota Street Rod Association's own story; [Honest Charley](../companies/honest-charley-speed-shop.md), another Chattanooga name; [Sue Martin and Kim Kemp-Mason](sue-martin-kim-kemp-mason-trimmers.md), trimmers in Dallas and Oak Harbor, Wash.
 
 ## Open questions & disputed details
 

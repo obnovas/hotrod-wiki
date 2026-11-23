@@ -244,6 +244,24 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 48 additions
+- Local newspapers and TV: Paula Newton's "Our Cecil" history in the *Cecil Whig* (Elkton, Md., 2016), built on track worker Ron McNeal's memories and the paper's own 1963 opening-day report, with a reader's comment beneath it → [The Traction Capital](../drag-racing/cecil-county-drag-o-way-rising-sun.md); Jeff Reeves in the *Henry County Times* (McDonough, Ga., 2018) on his friend Billy Ray Bell and the *Bandit* set → [Ghost Cars With No VIN](../media/smokey-and-the-bandit-jonesboro-mcdonough.md); NBC Bay Area, *San José Spotlight* and ABC7 (2022) on the end of San Jose's cruising ban → [The Last No Cruising Sign](../places/king-and-story-san-jose-lowrider-magazine.md); *Voyage Dallas* (2018) → [Sue Martin and Kim Kemp-Mason](../people/sue-martin-kim-kemp-mason-trimmers.md).
+- A town's own record: the City of Jonesboro's 2017 press release for the 40th-anniversary Bandit Run → Ghost Cars With No VIN; the San José Police Department's 2022 training bulletin on the repeal → The Last No Cruising Sign.
+- Fan historians and family: the banone.net production timeline, reconstructed from call sheets, photographs and interviews, with a resident's memories of McDonough's square and a 2023 interview with Barry Trivette at his father's old race shop → Ghost Cars With No VIN.
+- A community's own history: the United Lowrider Council of San Jose's history page, and a San José Public Library blog post on Sonny Madrid, written with background from Mario Madrid (2019) → The Last No Cruising Sign.
+- A local family obituary: Kimberly Kemp-Mason in the *Whidbey News-Times* (Oak Harbor, Wash., 2021) → Sue Martin and Kim Kemp-Mason.
+
+### Round 48 status
+| Archive | Round 48 status |
+|---|---|
+| *New York Times* (Bandit Run story) | Page needs JavaScript; not read and not used. |
+| KRON4 (San Jose cruising stories) | Access denied; not used. |
+| City of San José landmark file (PDF) | Not readable as text; Andy's Hydraulics' landmark status stays ◐ on the council's page alone. |
+| houseofkolor.com (company history page) | Returned no text; the history is cited to Mecum, *Custom Classic Trucks*, the Sturgis museum, *FenderBender* and the 2026 release. |
+| banone.net "Snowman's House" and pre-production pages | Returned no content; not used. |
+| Google Patents | No Round 48 patents. |
+| Images | No Round 48 images. |
+
 ### Round 47 additions
 - A court record: the Pennsylvania Supreme Court's opinion in *Kohr v. Weber* (1960), quoting neighbors' and the strip owner's testimony → [The Chinchillas Next Door](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md); the Ninth Circuit's *Halicki Films* (2008) and *Carroll Shelby Licensing v. Halicki* (2025) → [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md).
 - Local newspapers and TV: Jim McClure's *York Town Square* posts (2008, and the 2011 readers' memories on the public blog; the newspaper's copy of that post is paywalled) and Jim Hubley's column → [York U.S. 30](../drag-racing/york-us-30-dragway-thomasville.md); the *Am-Pol Eagle* (Buffalo, 2009) and *405 Magazine* (2016) → Eleanor; the *Southern Illinoisan* (1986: the notebook and the 62,124 caption, from the public OCR of a NewspaperArchive landing page; the awards stories on that page were not readable), the *Daily Egyptian* (1998) and WSIU (2013) → [Street Machine Nationals](../media/street-machine-nationals-du-quoin.md); WXXV (2019, 2024), WLOX (2021, 2023) and *The Gazebo Gazette* (Long Beach, Miss., 2025, 2026) → [Slamfest & Scrapin' the Coast](../customs/slamfest-scrapin-the-coast-gulf-trucks.md).

@@ -2193,3 +2193,59 @@ highlights:
     added: '2026-11-22'
     eras: [2020s]
     regions: ['Biloxi, Miss.']
+
+  - id: cecil-county-35-dollar-name
+    headline: A star showed up at Cecil County with no name on his car, so a local had one painted for $35
+    teaser: Tommy Grove came to the Maryland strip with a bare car, and the owner would not let him race.
+      Ron McNeal took it to his garage nearby and had Larry Gilbert paint a name on the side.
+    link: drag-racing/cecil-county-drag-o-way-rising-sun.md#ron-mcneals-fridays
+    evidence: [paint a name on the side for $35, dropped it down a downspout into a box]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-23'
+    eras: [1960s, 1970s]
+    regions: ['Rising Sun, Md.']
+
+  - id: bandit-dog-paw-print-autograph
+    headline: A McDonough brick mason sold photos with Jerry Reed's basset hound, signed with a paw print
+    teaser: Billy Ray Bell got hired to mind the dog on the Smokey and the Bandit set. He sold signed photos
+      with it until someone from the production told him he could not sell the picture with the dog in it.
+    link: media/smokey-and-the-bandit-jonesboro-mcdonough.md#saturday-night-on-the-square
+    evidence: [the dog's paw print as a second autograph, wired down to the ground with railroad spikes]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-23'
+    eras: [1970s]
+    regions: ['McDonough, Ga.']
+
+  - id: san-jose-looks-like-water
+    headline: "\"Mom, it looks like water!\": a San Jose boy's review of an aqua lowrider"
+    teaser: David Polanco left the lowrider scene to raise a family and came back. A little boy outside a
+      supermarket gave his Impala the compliment he liked best.
+    link: places/king-and-story-san-jose-lowrider-magazine.md#the-ban
+    evidence: ["Mom, it looks like water!", the biggest compliment that kid could give me]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-23'
+    eras: [2020s]
+    regions: ['San Jose, Calif.']
+
+  - id: sue-martin-4500-shop
+    headline: The trimmer on Fast N' Loud started with a failing Dallas shop bought for $4,500
+    teaser: Sue Martin was born in Taiwan to a family of farmers. By her shop's own account, she bought an
+      upholstery company that was going bankrupt, in a 1,000-square-foot Dallas garage, and grew it from there.
+    link: people/sue-martin-kim-kemp-mason-trimmers.md#a-torino-and-a-4500-shop
+    evidence: [$4,500]
+    source_type: Trade press
+    confidence: Medium
+    flag: single-source
+    grassroots: false
+    added: '2026-11-23'
+    eras: [1990s]
+    regions: ['Dallas, Texas']

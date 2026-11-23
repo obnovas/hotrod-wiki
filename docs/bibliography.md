@@ -1114,3 +1114,40 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [local] "The man with a magic brush," *The Southsider Voice* (Indianapolis), May 25, 2016. https://www.southsidervoice.com/top-stories/the-man-with-a-magic-brush
 - [club] David Sanders, "Passing It Down," *Indy Mopar Club News*, June 2009. http://www.indymoparclub.com/images/IMC_News_June_2009.pdf
 - [obit] "OBITUARY: Mike 'Gator' Gaydos: Car club enthusiast was pinstriping expert," *The News-Herald*, Feb. 13, 2013. https://www.thenewsherald.com/2013/02/13/obituary-mike-gator-gaydos-car-club-enthusiast-was-pinstriping-expert/
+
+## Round 48 additions (Cecil County Drag-O-Way, Smokey and the Bandit in Georgia, King and Story and *Lowrider* magazine, Sue Martin and Kim Kemp-Mason, House of Kolor)
+- [local] Paula Newton, "When the Cecil County Dragway was the Drag-O-Way," *Cecil Whig* (Elkton, Md.), "Our Cecil," July 23, 2016, with the reader comments beneath it. https://www.cecildaily.com/our_cecil/when-the-cecil-county-dragway-was-the-drag-o-way/article_36cfafd0-a468-5828-8592-2c0e7c15931c.html
+- [mag] "The Original 440 6-Bbl Drag Test," *Hot Rod*, December 1999 (a first-person account of a 1969 test, by a writer who signs himself "Ro"), reposted at hotrod.com, January 1, 2023. https://www.hotrod.com/features/the-original-440-6-bbl-drag-test-982-1693-78-1
+- [web] "Strange Shootout Keeps Tradition Strong at Cecil County Dragway," RacingJunk News, July 23, 2015. https://www.racingjunk.com/news/strange-shootout-keeps-tradition-strong-at-cecil-county-dragway/
+- [corp] "Track Info," Cecil County Dragway, 1916 Theodore Road, Rising Sun, Md. https://www.cecilcountydragway.com/track-info/
+- [web] "Production Timeline – Week 1: August 30 – September 4, 1976," banone.net (a fan historians' site reconstructed from production scripts, surviving call sheets, behind-the-scenes photographs, newspaper archives and cast and crew interviews). https://www.banone.net/Production_Timeline_-_Week_1
+- [web] "Coors Warehouse," banone.net. https://www.banone.net/Coors_Warehouse
+- [web] "Crash Into Pond," banone.net, with Tyler Hambrick's copy of the September 3, 1976, call sheet and a May 27, 1977, newspaper interview with Hal Needham (Passaic, N.J., p. 21). https://www.banone.net/Crash_Into_Pond
+- [web] "Town Square," banone.net, with Doug Walker's memories. https://www.banone.net/Town_Square
+- [web] "This is the picture Hal Needham saw when he decided to pick the Trans Am," banone.net (first posted on Facebook, January 7, 2022). https://www.banone.net/This_is_the_picture_Hal_Needham_saw_when_he_decided_to_pick_the_Trans_Am
+- [oral] "Interview – Barry Trivette," banone.net, recorded March 23, 2023, at Trivette's race shop, with Bill Goforth and Tyler Hambrick. https://www.banone.net/Interview_-_Barry_Trivette
+- [local] Jeff Reeves, "Smokey and the Bandit and Billy Ray Bell," *Henry County Times* (McDonough, Ga.), October 18, 2018. https://www.henrycountytimes.com/2018/10/18/smokey-and-the-bandit-and-billy-ray-bell/
+- [mag] John Pearley Huffman, "Smokey and the Bandit Moved Car Culture 45 Years Ago This Summer," *Road & Track*, July 7, 2022. https://www.roadandtrack.com/car-culture/a40531276/smokey-and-the-bandit-moved-car-culture-45-years-ago-this-summer/
+- [corp] The Bandit Run, home page ("The Bandit Run is a yearly event started by Dave Hall of Restore a Muscle Car and David Hershey in 2007"). https://www.thebanditrun.com/
+- [gov] City of Jonesboro, Ga., "Smokey & the Bandit 40th Year Anniversary Celebration to Be Held in Jonesboro, Georgia," press release, 2017, reposted by the Bandit Run. https://www.thebanditrun.com/media/jonesboro-press-release-2017-bandit-run-k7kb8
+- [web] United Lowrider Council of San Jose, "San Jose Lowrider History." https://ulcsj.com/sj-lowrider-history/
+- [local] Estella Inda (with background from Mario Madrid), "Sonny Madrid: Lowrider Legend and More," San José Public Library blog, January 11, 2019. https://www.sjpl.org/blogs/post/sonny-madrid-lowrider-legend-and-more/
+- [museum] "The California Lowriders: A Merging of Chicano Civil Rights and Culture," *Before Silicon Valley*, San José State University Library digital exhibit. https://exhibits.sjsu.edu/s/b4sv/item/3479
+- [news] John O'Dell, "Lowrider Magazine Riding Higher Than Ever," *Los Angeles Times*, April 19, 2000. https://www.latimes.com/archives/la-xpm-2000-apr-19-hw-21021-story.html
+- [local] "Cruising Ban: Why San Jose May Lift Its Ban," NBC Bay Area, updated June 29, 2022. https://www.nbcbayarea.com/news/local/south-bay/san-jose-considers-lifting-cruising-ban/2931751/
+- [local] Jana Kadah, "San Jose nixes 'blatantly racist' policy," *San José Spotlight*, July 1, 2022. https://sanjosespotlight.com/san-jose-nixes-blatantly-racist-policy/
+- [gov] Anthony Mata, Chief of Police, "Repeal of the Cruising Ordinance," San José Police Department Training Bulletin 2022-024, August 17, 2022. https://info.sjpd.org/records/pc-13650_library/Training%20Bulletins/Training%20Bulletin%202022-024%20Repeal%20of%20the%20Cruising%20Ordinance.pdf
+- [local] Amanda del Castillo, "Last 'No Cruising Zone' sign comes down in San Jose, lowrider community celebrates historic change," ABC7 News (KGO), September 1, 2022. https://abc7news.com/post/san-jose-cruising-low-riding-no-zone-sign-city-hall-end-of-ban-bay-area-hispanic-community/12184430/
+- [web] Line Sidonie Talla Mafotsing, "After a Decades-Long Ban, San Jose's Lowriders Are Ready to Cruise Again," *Atlas Obscura*, November 18, 2022. https://www.atlasobscura.com/articles/lowriders-san-jose-no-cruising
+- [corp] "About," ASM Auto Upholstery, Dallas and Frisco, Texas (the shop's own history). https://asmautoupholstery.com/about
+- [trade] Nadeem, "10 Questions for Sue of Fast N' Loud," *The Hog Ring*, March 18, 2013. https://thehogring.com/2013/03/18/10-questions-for-sue-of-fast-n-loud/
+- [web] Rose Marie Machario, "Dream Big 40 (Special Edition): My Interview with Sue Martin, of ASM Upholstery," April 11, 2016 (an email interview). https://www.rosemariemachario.com/single-post/2016/04/11/dream-big-40-special-edition-my-interview-with-sue-martin-of-asm-upholstery
+- [local] "Meet Sue Martin of ASM Auto Upholstery," *Voyage Dallas*, January 3, 2018. https://voyagedallas.com/interview/meet-sue-martin-asm-auto-upholstery-north-dallas/
+- [trade] Naseem, "Sue Martin of Fast N' Loud Dies After Battle with Cancer," *The Hog Ring*, November 16, 2026 (quoting her family's statement on ASM's Facebook page). https://thehogring.com/2026/11/16/dragon-lady-sue-martin-fast-n-loud-dies/
+- [obit] "Kimberly Kemp-Mason: March 24, 1957 – September 12, 2021," *Whidbey News-Times* (Oak Harbor, Wash.), October 19, 2021 (family obituary). https://www.whidbeynewstimes.com/2021/10/19/kimberly-kemp-mason-march-24-1957-september-12-2021/
+- [trade] "Trimmer Kimberly Kemp-Mason Dies at 64," *The Hog Ring*, October 19, 2021. https://thehogring.com/2021/10/19/trimmer-kimberly-kemp-mason-dies-at-64/
+- [mag] John Gilbert, "House of Kolor: Founded In 1956 By Jon Kosmoski," *Custom Classic Trucks*, October 1, 2009, at hotrod.com. https://www.hotrod.com/news/0910cct-house-of-kolor
+- [corp] Matt Avery, "House Of Kolor" (a profile ahead of the Founder Collection's sale at Dana Mecum's 37th Original Spring Classic, Indianapolis), Mecum Auctions, undated. https://www.mecum.com/articles/house-of-kolor/
+- [hof] "Jon Kosmoski: The Master of Kustom Paint," Sturgis Motorcycle Museum & Hall of Fame, Class of 2003. https://www.sturgismuseum.com/class-of-2003-1/jon-kosmoski
+- [trade] Jay Sicht, "How Jon Kosmoski and HoK Helped Shape the Modern Custom Paint Industry," *FenderBender*, October 1, 2026. https://www.fenderbender.com/home/article/55405913/how-jon-kosmoski-and-hok-helped-shape-the-modern-custom-paint-industry
+- [corp] "House of Kolor Celebrates 70 Years of Custom Paint Leadership and Innovation," Sherwin-Williams press release via PR Newswire, Cleveland, April 2, 2026. https://www.prnewswire.com/news-releases/house-of-kolor-celebrates-70-years-of-custom-paint-leadership-and-innovation-302732201.html

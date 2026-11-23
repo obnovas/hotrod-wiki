@@ -37,6 +37,7 @@ related:
 - places/harveys-broiler-downey.md
 - places/modesto.md
 - drag-racing/modesto-century-toppers.md
+- places/king-and-story-san-jose-lowrider-magazine.md
 canonical_for: []
 location: "Whittier Blvd, East LA. The mile between Atlantic Blvd and Eastern Ave was the core."
 peak: "1960s to 1970s; the street drew national attention through the film *Boulevard Nights* (1979)."
@@ -67,7 +68,7 @@ Nearly forty years later the cruise came back, and the voices were mixed:
 
 Cruising returned in 2017, under a 1997 county ordinance. The Times had called it an odd ritual and a tradition gone sour. The Sheriff's Department barred the mile. Cruising came back.
 
-*See also:* [The Ruelas Brothers and the Dukes](../voices/ruelas-dukes.md).
+*See also:* [The Ruelas Brothers and the Dukes](../voices/ruelas-dukes.md); [The Last No Cruising Sign](king-and-story-san-jose-lowrider-magazine.md), San Jose's ban and the end of it.
 
 ## Open questions & disputed details
 

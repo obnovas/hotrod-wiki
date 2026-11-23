@@ -74,6 +74,7 @@ related:
 - drag-racing/pennsauken-central-airport-1958.md
 - drag-racing/georgetown-speedway-delaware.md
 - people/don-garlits.md
+- drag-racing/cecil-county-drag-o-way-rising-sun.md
 canonical_for: []
 location: Atco Dragway on Jackson Road in Waterford Township, Camden County, N.J.; Strato Rods on an unused runway at McGuire Air Force Base, across from Fort Dix near Wrightstown[^hem23][^hamb11]
 peak: 1960–2023
@@ -121,7 +122,7 @@ In 1988 Atco hosted the IHRA Summernationals, where Tommy Howes made what *Hemmi
 
 The morning runway paid in trophies, cooled the fuel with a coffee can, and held its driver meeting in the Mr. Softee truck. Atco ran from Memorial Day Weekend 1960 until July 18, 2023.
 
-*See also:* [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before Atco; [Pennsauken, 1958](pennsauken-central-airport-1958.md), the Camden County airport strip that never was, a few miles from Atco; [Georgetown, Delaware](georgetown-speedway-delaware.md), whose young men "enjoyed the drag races at Atco"; [Don Garlits](../people/don-garlits.md); [U.S. 13 Dragway](us-13-dragway-delmar-cathell.md), the Cathell family's Delmarva strip since 1963.
+*See also:* [Linden and the short strips](linden-njta-new-jersey-short-strips.md), where New Jersey raced before Atco; [Pennsauken, 1958](pennsauken-central-airport-1958.md), the Camden County airport strip that never was, a few miles from Atco; [Georgetown, Delaware](georgetown-speedway-delaware.md), whose young men "enjoyed the drag races at Atco"; [Don Garlits](../people/don-garlits.md); [U.S. 13 Dragway](us-13-dragway-delmar-cathell.md), the Cathell family's Delmarva strip since 1963; [The Traction Capital](cecil-county-drag-o-way-rising-sun.md), the Maryland strip Atco's owners bought in the mid-1970s.
 
 ## Open questions & disputed details
 

@@ -46,6 +46,7 @@ Most of them started in a garage, a shed or a borrowed corner of someone else's 
 - [Don's Trim Shop and Jay's Hot Rod Upholstery](don-angland-jay-peterson-trim-shops.md): a Tennessee upholsterer, in the trade since 1956, known from the car shows he and his "street rod wife" went to, and a Minnesota trimmer with a two-year wait (◐ the 1956 start).
 - [Bikini Keeney and Gator Gaydos](bikini-keeney-gator-gaydos-midwest-pinstripers.md): two Midwest pinstripers, from a mother's Jeepster and Indianapolis race cars to 200 pedal cars and a pinstriped urn (◐ the race cars; ◐ the murals).
 - [Darryl Starbird](darryl-starbird-wichita-show-man.md): a Wichita customizer who opened in a chicken coop by the tracks, rented the Forum in 1957 to show people what a custom was, and found the show paid better than the shop; his family still runs it in Tulsa (⚠ the Predicta's year; ⚠ the show count).
+- ["Why You Always Bring Me Junk?": Sue Martin and Kim Kemp-Mason](sue-martin-kim-kemp-mason-trimmers.md): a Dallas shop bought for $4,500 that became the trimmer's shop on *Fast N' Loud* but lived on everyday repairs, and an Oak Harbor, Wash., trimmer who came to interiors from fashion design (⚠ who taught Martin the trade).
 - Bruce Miller: see [*Street Rod* magazine](../media/street-rod-magazine-portland.md).
 
 *Stubs wanted:* Lee Chapel, Jim White & Nick Harrell, Tom Medley, Phil Weiand, Art Chrisman, Jeg Coughlin Sr., Ron Hassel, "Ohio George" Montgomery, Carl & Marie Gay.

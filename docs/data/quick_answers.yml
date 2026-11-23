@@ -1072,6 +1072,15 @@ themes:
         link: drag-racing/york-us-30-dragway-thomasville.md
         also: [drag-racing/hanover-adams-county-clubs.md, drag-racing/cumberland-clockers.md]
         flag: drag-racing/york-us-30-dragway-thomasville.md#q-1
+      - id: cecil-county-traction-capital
+        q: Why was Cecil County Drag-O-Way called the traction capital?
+        a: >-
+          Because of its asphalt and Cecil County's humid weather, racers knew it as the place to set their best
+          times. It opened near Rising Sun, Maryland, on April 14, 1963, before 3,000 people. One source says
+          "of the Nation," another "of the East" (⚠ see Open questions).
+        link: drag-racing/cecil-county-drag-o-way-rising-sun.md
+        also: [drag-racing/atco-strato-rods-south-jersey.md, drag-racing/washington-suburbs-drag-strip-debate.md]
+        flag: drag-racing/cecil-county-drag-o-way-rising-sun.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1194,6 +1203,16 @@ themes:
           in 2005 and turned the film into a downtown car show.
         link: media/american-graffiti-petaluma-1972.md
         also: [street-rodding/back-to-the-50s-msra-st-paul-1974.md]
+      - id: san-jose-cruising-ban
+        q: When did San Jose ban cruising, and when did it end?
+        a: >-
+          San Jose banned cruising in 1986 by most accounts (⚠ see Open questions), years after King and Story roads
+          became a famous lowrider cruise and the first Lowrider magazine came out on Willow Street in 1977. The
+          council voted unanimously to repeal the ban in June 2022, and the last "No Cruising Zone" sign came down
+          that year.
+        link: places/king-and-story-san-jose-lowrider-magazine.md
+        also: [places/whittier-blvd.md, places/woodward-ordinances.md]
+        flag: places/king-and-story-san-jose-lowrider-magazine.md#q-1
   - id: companies-and-parts
     title: Companies and the parts business
     questions:
@@ -1330,6 +1349,16 @@ themes:
           Motors' Best in Show at SEMA in 2014.
         link: companies/ringbrothers-spring-green.md
         also: [eras/1990s-pro-touring-garage-engineers.md]
+      - id: house-of-kolor-origin
+        q: Where did House of Kolor start?
+        a: >-
+          In Minneapolis, where the company counts from 1956, when Jon Kosmoski, unhappy with a paint job, began
+          painting and making his own colors in a family basement. Painters who saw his work at local shows wanted
+          his paint, and the paint business followed in the early to mid-1960s (⚠ see Open questions); he sold it
+          to Valspar in 1997.
+        link: companies/house-of-kolor-kosmoski-minneapolis.md
+        also: [people/joe-bailon-candy-apple.md]
+        flag: companies/house-of-kolor-kosmoski-minneapolis.md#q-2
   - id: people
     title: People
     questions:
@@ -1539,6 +1568,14 @@ themes:
           shop had all year. His family still runs his show in Tulsa.
         link: people/darryl-starbird-wichita-show-man.md
         also: [media/show-circuit.md, customs/kkoa-lead-sled-revival.md]
+      - id: sue-martin-asm
+        q: Who was Sue Martin of Fast N' Loud?
+        a: >-
+          The Dallas trimmer who founded ASM Auto Upholstery, buying a failing shop for $4,500 in 1990. On Fast N'
+          Loud she asked, "Why you always bring me junk?", but she said most of her shop's work was general repairs.
+          She died on October 30, 2026.
+        link: people/sue-martin-kim-kemp-mason-trimmers.md
+        also: [people/don-angland-jay-peterson-trim-shops.md, people/tony-nancy-sherman-oaks-trimmer.md]
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1776,6 +1813,15 @@ themes:
         link: customs/slamfest-scrapin-the-coast-gulf-trucks.md
         also: [drag-racing/biloxi-dragway-gulf-coast.md]
         flag: customs/slamfest-scrapin-the-coast-gulf-trucks.md#q-1
+      - id: smokey-bandit-georgia
+        q: Where was Smokey and the Bandit filmed?
+        a: >-
+          Mostly around Jonesboro and McDonough, Georgia. Filming began in Clayton County on August 30, 1976, and a
+          Norcross race shop, Baird and Trivette Racing, readied the stunt cars. When McDonough's square was filmed is
+          disputed (⚠ see Open questions).
+        link: media/smokey-and-the-bandit-jonesboro-mcdonough.md
+        also: [media/eleanor-halicki-gone-in-60-seconds.md]
+        flag: media/smokey-and-the-bandit-jonesboro-mcdonough.md#q-1
   - id: how-we-know
     title: Sources and how we know
     questions:
