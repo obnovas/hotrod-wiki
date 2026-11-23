@@ -30,7 +30,7 @@ extra:
   issues_url: mailto:corrections@hotroddinghistory.com
   feedback_url: mailto:corrections@hotroddinghistory.com
   masthead: Hot Rodding History
-  masthead_tag: Where the hobby lived on Saturday night
+  masthead_tag: Hometown strips, clubs and builders, footnoted.
   cf_analytics_token: ""  # Cloudflare Web Analytics. The beacon renders only when this is set.
   # Header shortcuts; the full department index lives behind the "Contents" button (built from `nav`).
   primary_nav:

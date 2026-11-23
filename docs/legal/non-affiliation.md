@@ -1,12 +1,19 @@
 ---
 title: Non-affiliation
-description: This archive is not affiliated with or endorsed by the organizations named on this page.
 ---
+
+> **DRAFT for review — not legal advice.**
 
 # Non-affiliation
 
-Hot Rodding History is not affiliated with or endorsed by Hearst/HOT ROD magazine, NHRA, SEMA, or any club named on the site.
+**Footer line (add to the colophon; it is not in the footer yet):**
 
-Full text is coming soon.
+Hot Rodding History is an independent archive, not affiliated with, endorsed or sponsored by Hearst Autos, HOT ROD magazine, NHRA, SEMA, or any club, track, manufacturer or business named on this site.
 
-TODO(risk-officer): replace this placeholder with the approved text.
+**Full notice:**
+
+Hot Rodding History is an independent archive, published by Adventure Equity LLC. It is not affiliated with, endorsed or sponsored by Hearst Autos, HOT ROD magazine, the National Hot Rod Association (NHRA), the Specialty Equipment Market Association (SEMA), or any club, track, manufacturer, museum, publication or other business mentioned on this site.
+
+We use those names only to identify the people, organizations and products we are writing about. The names, marks and logos belong to their owners.
+
+A mention, a citation or a photograph of a branded car, event or publication is not a partnership and is not an approval of this archive.

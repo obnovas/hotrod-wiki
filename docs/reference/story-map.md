@@ -20,4 +20,4 @@ Hot rodding wasn't only a Southern California story, and this map shows it. Each
 - **What counts toward a state.** A story counts for every state in its front matter, whether or not it has a pin there. A story about a national company counts in each state it names.
 - **The map.** State outlines come from the Census Bureau's cartographic boundary files (2017), as packaged in [us-atlas](https://github.com/topojson/us-atlas), and they're drawn into the page itself. There are no map tiles, outside servers or tracking.
 
-Something in the wrong place, or a town we missed? [Tell us](https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml). For the stories by region, see [Regional Scenes](../places/regional-scenes.md). For the stories in time order, see the [Timeline](timeline.md).
+Something in the wrong place, or a town we missed? [Tell us](mailto:corrections@hotroddinghistory.com). For the stories by region, see [Regional Scenes](../places/regional-scenes.md). For the stories in time order, see the [Timeline](timeline.md).

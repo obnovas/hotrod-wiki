@@ -4,7 +4,7 @@ hide: [navigation, toc]
 title: Home
 ---
 
-The headline stories of American hot rodding have been told plenty. This archive follows the side roads instead: the people, small shops and ideas that built the hobby, from the 1930s dry lakes to the 1980s street machine. We go looking for **lesser-known** threads, first-hand recollections, and family or club sources, and we lean hardest on local news, obituaries, club newsletters and municipal records.
+The famous names are here too. This archive follows the side roads: the people, small shops and ideas that built the hobby, from the 1930s dry lakes to the 1980s street machine. We go looking for **lesser-known** threads, first-hand recollections, and family or club sources, and we lean hardest on local news, obituaries, club newsletters and municipal records.
 
 <!-- hr:highlights -->
 

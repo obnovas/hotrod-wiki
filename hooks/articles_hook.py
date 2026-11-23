@@ -52,10 +52,6 @@ def on_pre_build(config):
             raise PluginError(f"docs/data/entities.yml: {rel} does not exist")
 
 
-HOME_DESC = (
-    "The free, footnoted history of hometown drag strips, car clubs and builders "
-    "(1930s–1990). Every claim cited; every conflict shown."
-)
 DESC_LIMIT = 158
 
 
@@ -78,8 +74,6 @@ def cap_description(text, limit=DESC_LIMIT):
 
 def on_page_markdown(markdown, page, config, files):
     meta = page.meta
-    if page.file.src_uri == "index.md" and not (meta.get("meta_description") or meta.get("description")):
-        meta["description"] = HOME_DESC
     source = str(meta.get("meta_description") or meta.get("description") or "").strip()
     if not source and meta.get("summary"):
         source = str(meta["summary"]).strip()

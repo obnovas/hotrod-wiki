@@ -88,4 +88,4 @@ The same data as a table, for screen readers and for anyone who would rather rea
 
 ## Add a connection
 
-Open `docs/data/connections.yml`, add the two names under `nodes` if they are new, and add an edge with a `page` and `evidence`. The evidence must be a phrase that already appears in that page, so write the article first. Run `python scripts/check_connections.py`; the same check runs in the build. Suggest a connection with the [feedback form](https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml).
+Open `docs/data/connections.yml`, add the two names under `nodes` if they are new, and add an edge with a `page` and `evidence`. The evidence must be a phrase that already appears in that page, so write the article first. Run `python scripts/check_connections.py`; the same check runs in the build. Suggest a connection with the [feedback form](mailto:corrections@hotroddinghistory.com).

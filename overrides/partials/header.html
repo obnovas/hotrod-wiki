@@ -6,9 +6,9 @@
 <header class="md-header hr-bar" data-md-component="header">
   <nav class="md-header__inner hr-bar__inner" aria-label="{{ lang.t('header') }}">
     <a href="{{ home_href }}" title="{{ config.site_name | e }}" class="md-header__button md-logo hr-bar__logo" aria-label="{{ config.site_name }}" data-md-component="logo">
-      {% include "partials/logo.html" %}
+      <img src="{{ 'assets/favicon.svg' | url }}" alt="">
     </a>
-    <a class="hr-bar__brand" href="{{ home_href }}"><span class="hr-bar__name">{{ mast }}</span><span class="hr-bar__tag">{{ config.extra.masthead_tag | d("Where the hobby lived on Saturday night") }}</span></a>
+    <a class="hr-bar__brand" href="{{ home_href }}"><span class="hr-bar__name">{{ mast }}</span></a>
     <div class="md-header__title" data-md-component="header-title" hidden>
       <div class="md-header__ellipsis">
         <div class="md-header__topic"><span class="md-ellipsis">{{ config.site_name }}</span></div>

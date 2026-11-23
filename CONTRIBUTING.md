@@ -121,6 +121,22 @@ Readers send corrections, source tips and suggestions to corrections@hotroddingh
 
 ## Contributor terms
 
-TODO(risk-officer): replace this placeholder with the approved contributor terms.
+> **DRAFT for review — not legal advice.**
 
-Full text is coming soon.
+*For the "## Contributor terms" section of `CONTRIBUTING.md`. Readers can also be pointed here, in short form, from [Contribute](docs/contribute.md). [ATTORNEY should review the grant before this goes live. The license named below must match the content license Michael chooses.]*
+
+If you send us text, a photograph, a source tip, a correction or any other material — by email, by a pull request, or any other way — you are agreeing to the following.
+
+1. **You have the right to share it.** You created it, or the owner gave you permission, or it is already under a license that allows you to send it to us. Do not send a photograph unless you are the owner or have the owner's permission. If you did not take the picture, say who did and under what license or permission it can be used. When in doubt, send a link and a description instead of the file.
+
+2. **License grant.** You give Adventure Equity LLC a non-exclusive, perpetual, worldwide, royalty-free permission to use, publish, edit, excerpt and display what you sent, and to license the resulting site text under [SITE CONTENT LICENSE — recommended: CC BY-SA 4.0]. You keep your own copyright. We are not asking for exclusive rights. Photographs you send stay under the license or permission you named, and will be credited that way.
+
+3. **Credit.** If we use what you sent, we will credit you by the name you give us, or as "a reader" if you ask to stay anonymous. We will not publish a name you declined.
+
+4. **No private information about other people.** Do not send confidential records, private addresses, phone numbers, medical or family matters, or anything you would not want published about someone else. If a tip depends on that kind of material, describe the lead and point us to a public source instead.
+
+5. **We may edit or decline.** We check every contribution against the [source standards](docs/reference/source-standards.md). We may edit for length, tone, accuracy and citation. We may decline all or part of what you sent, and we do not have to use it. A memory is welcome, and is treated as a lead until we can cite it.
+
+6. **Copyrighted images and long excerpts.** Please do not send files or long quotations taken from magazines, books, museums or family collections unless you have the right to share them. A link and a short description is the right way to point us at that kind of material. We only host public-domain or openly licensed images, each credited.
+
+Questions: [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com).

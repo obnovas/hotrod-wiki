@@ -17,7 +17,7 @@
   <link rel="preload" href="{{ 'assets/fonts/SourceSerif4-normal-5020.woff2' | url }}" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="{{ 'assets/favicon-32.png' | url }}" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="{{ 'assets/apple-touch-icon.png' | url }}">
-  <meta name="theme-color" content="#7a1f1f">
+  <meta name="theme-color" content="#1d1918">
   <meta property="og:type" content="{{ 'article' if hr.kind == 'story' else 'website' }}">
   <meta property="og:site_name" content="{{ config.site_name | e }}">
   <meta property="og:title" content="{{ seo_title | e }}">
@@ -27,7 +27,7 @@
   {% if og_image == "assets/og-default.png" %}
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Hot Rodding History. Where the hobby lived on Saturday night.">
+  <meta property="og:image:alt" content="Hot Rodding History. Hometown strips, clubs and builders, footnoted.">
   {% else %}
   <meta property="og:image:alt" content="{{ seo_title | e }}">
   {% endif %}

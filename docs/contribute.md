@@ -2,13 +2,15 @@
 
 *Corrections, sources, topic ideas and feedback are all welcome.*
 
-This wiki is a running investigation, and readers know things we do not: a cousin who raced at the local strip, a club newsletter in a shoebox, a better date. There are three ways to send something. Each opens a short form on GitHub (a free account is needed).
+This wiki is a running investigation, and readers know things we do not: a cousin who raced at the local strip, a club newsletter in a shoebox, a better date. There are three ways to send something. Each opens an email.
 
 - **Report a correction:** something on a page is wrong, outdated or misattributed.
 - **Share a source:** a local paper, club newsletter, obituary, record, marker, photo or oral history we should read.
 - **Suggest a topic or send feedback:** a person, place, club or shop to research, an idea for the site, or general feedback.
 
-<p><a class="hr-btn" href="https://github.com/obnovas/hotrod-wiki/issues/new/choose" rel="noopener">Open the forms on GitHub</a></p>
+<p><a class="hr-btn" href="mailto:corrections@hotroddinghistory.com">Open an email</a></p>
+
+The [contributor terms](https://github.com/obnovas/hotrod-wiki/blob/main/CONTRIBUTING.md#contributor-terms) apply to anything you send.
 
 The same buttons appear at the end of every article, prefilled with the page you were reading.
 
