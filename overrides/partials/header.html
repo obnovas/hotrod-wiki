@@ -1,12 +1,14 @@
 {#- Magazine masthead bar. Keeps Material's header/search/palette components so their JS keeps working. -#}
 {% include "partials/hr-icons.html" %}
-{% set mast = config.extra.masthead | d("Hot Rod History") %}
+{% set mast = config.extra.masthead | d("Hot Rodding History") %}
+{% set home_href = config.extra.homepage | d(nav.homepage.url, true) | url %}
+{% if home_href == "/." %}{% set home_href = "/" %}{% endif %}
 <header class="md-header hr-bar" data-md-component="header">
   <nav class="md-header__inner hr-bar__inner" aria-label="{{ lang.t('header') }}">
-    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo hr-bar__logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+    <a href="{{ home_href }}" title="{{ config.site_name | e }}" class="md-header__button md-logo hr-bar__logo" aria-label="{{ config.site_name }}" data-md-component="logo">
       {% include "partials/logo.html" %}
     </a>
-    <a class="hr-bar__brand" href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}"><span class="hr-bar__name">{{ mast }}</span><span class="hr-bar__tag">{{ config.extra.masthead_tag | d("since the dry lakes") }}</span></a>
+    <a class="hr-bar__brand" href="{{ home_href }}"><span class="hr-bar__name">{{ mast }}</span><span class="hr-bar__tag">{{ config.extra.masthead_tag | d("Where the hobby lived on Saturday night") }}</span></a>
     <div class="md-header__title" data-md-component="header-title" hidden>
       <div class="md-header__ellipsis">
         <div class="md-header__topic"><span class="md-ellipsis">{{ config.site_name }}</span></div>
@@ -45,11 +47,11 @@
       <button type="button" class="hr-contents__close" data-hr-contents-toggle aria-label="Close contents"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-close"/></svg></button>
     </div>
     <ul class="hr-contents__quick" role="list">
-      <li><a href="{{ '' | url }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-home"/></svg>Front page</a></li>
+      <li><a href="{{ home_href }}"><svg class="hr-ico" aria-hidden="true"><use xlink:href="#hr-i-home"/></svg>Front page</a></li>
       {% for l in config.extra.primary_nav %}<li><a href="{{ l.url | url }}">{{ l.label }}</a></li>{% endfor %}
     </ul>
     <ol class="hr-contents__list">
-      {% for item in nav.items %}{% if not item.is_page %}
+        {% for item in nav.items %}{% if not item.is_page and item.title != "Legal" %}
         {% set d = namespace(first=none) %}
         {% set kids = [] %}
         {% for c in item.children %}{% if c.is_page and not c.is_index %}{% set _ = kids.append(c) %}{% elif c.is_page %}{% set d.first = c %}{% endif %}{% endfor %}

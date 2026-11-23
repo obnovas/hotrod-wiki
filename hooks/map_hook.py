@@ -190,11 +190,32 @@ def on_page_markdown(markdown, page, config, files):
     return markdown
 
 
+def _geo_places(page):
+    """Town points for drag-racing and places stories, from docs/data/geo.yml. Town-level unless precision is site."""
+    if not page.file.src_uri.startswith(("drag-racing/", "places/")):
+        return []
+    places = (_S.get("geo") or {}).get("places") or {}
+    found = []
+    for name in (page.meta or {}).get("cities") or []:
+        rec = places.get(name) or {}
+        lat, lon = rec.get("lat"), rec.get("lon")
+        if not isinstance(lat, (int, float)) or not isinstance(lon, (int, float)):
+            continue
+        found.append({"name": str(name), "lat": lat, "lon": lon, "precision": rec.get("precision") or "town"})
+        if len(found) == 3:
+            break
+    return found
+
+
 def on_page_context(context, page, config, nav):
     pid = _S.get("pin_of_url", {}).get(page.url)
     if pid and isinstance(context.get("hr"), dict):
         # shown in the story head's meta line, beside "n open questions"
         context["hr"]["map_url"] = rel_href("reference/story-map/", page.url) + "?place=" + pid
+    if isinstance(context.get("hr"), dict):
+        geo = _geo_places(page)
+        if geo:
+            context["hr"]["geo_places"] = geo
     if page.file.src_uri == "index.md" and _S.get("data"):
         d = _S["data"]
         states = {s for st in d["stories"] for s in st.get("sts", [])}

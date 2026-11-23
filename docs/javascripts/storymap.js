@@ -185,7 +185,7 @@
     function fillState(ab) {
       var ok = data.stories.map(match), list = [];
       data.stories.forEach(function (s, i) { if (ok[i] && (s.sts || []).indexOf(ab) > -1) list.push(i); });
-      var html = list.length ? '<ul class="hr-map__stories">' + sortEra(list).map(storyLi).join("") + "</ul>" : '<p class="hr-map__where">No stories here for this filter yet. Know one? <a href="https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml">Tell us</a>.</p>';
+      var html = list.length ? '<ul class="hr-map__stories">' + sortEra(list).map(storyLi).join("") + "</ul>" : '<p class="hr-map__where">No stories here for this filter yet. Know one? <a href="mailto:corrections@hotroddinghistory.com?subject=Map%20suggestion">Tell us</a>.</p>';
       $(".hr-map__kicker", sheet).textContent = plural(list.length, "story", "stories") + " · " + eraText(st.era);
       $(".hr-map__body", sheet).innerHTML = html;
     }

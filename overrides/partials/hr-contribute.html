@@ -1,14 +1,17 @@
-{#- End-of-page reader block: correction, source tip, suggestion/feedback. Links open prefilled GitHub issue forms. -#}
-{% set issues = config.extra.issues_url | d("https://github.com/obnovas/hotrod-wiki/issues/new") %}
-{% set pg_title = (hr.title | d(page.title) | d("")) | striptags | urlencode %}
-{% set pg_url = ("/" ~ page.url) | urlencode %}
+{#- End-of-page reader block. Every button writes to the corrections mailbox. -#}
+{% set mail = "corrections@hotroddinghistory.com" %}
+{% set pg_title = (hr.title | d(page.title) | d("")) | striptags %}
+{% set pg_url = page.canonical_url | d(config.site_url) %}
+{% macro mlink(subject) -%}
+mailto:{{ mail }}?subject={{ subject | urlencode }}&body={{ ("Page: " ~ pg_url ~ "\n\n") | urlencode }}
+{%- endmacro %}
 <aside class="hr-help" aria-labelledby="hr-help-h">
   <h2 class="hr-help__h" id="hr-help-h"><span class="hr-script">Were you there? Know better?</span> Help make this page better</h2>
-  <p class="hr-help__p">This wiki is a running investigation. Send a fix, a source or an idea and we will check it against the standards before anything changes.</p>
+  <p class="hr-help__p">The archive is a working log. Send a fix, a source or a memory and the editors will check it against the standards before anything changes.</p>
   <ul class="hr-help__btns">
-    <li><a class="hr-btn" href="{{ issues }}?template=correction.yml&amp;title=%5BCorrection%5D%20{{ pg_title }}&amp;page={{ pg_url }}" rel="noopener">Report a correction</a></li>
-    <li><a class="hr-btn" href="{{ issues }}?template=source-tip.yml&amp;title=%5BSource%5D%20{{ pg_title }}&amp;page={{ pg_url }}" rel="noopener">Share a source</a></li>
-    <li><a class="hr-btn" href="{{ issues }}?template=suggestion-feedback.yml&amp;title=%5BSuggestion%5D%20{{ pg_title }}&amp;page={{ pg_url }}" rel="noopener">Suggest a topic or send feedback</a></li>
+    <li><a class="hr-btn" href="{{ mlink('Correction: ' ~ pg_title) }}">Report a correction</a></li>
+    <li><a class="hr-btn" href="{{ mlink('Source: ' ~ pg_title) }}">Share a source</a></li>
+    <li><a class="hr-btn" href="{{ mlink('Suggestion: ' ~ pg_title) }}">Suggest a topic or send feedback</a></li>
   </ul>
-  <p class="hr-help__small">Uses a free GitHub account. <a href="{{ 'contribute/' | url }}">How contributions are handled</a>.</p>
+  <p class="hr-help__small">Email <a href="mailto:{{ mail }}">{{ mail }}</a>. <a href="{{ 'contribute/' | url }}">How contributions are handled</a>.</p>
 </aside>

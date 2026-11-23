@@ -306,7 +306,7 @@ def render_slider(data: dict, page_url: str) -> str:
         'aria-labelledby="hr-hl-title" data-autoplay="7000">'
         '<script>document.currentScript.parentNode.classList.add("hr-hl--js")</script>'
         '<div class="hr-hl-head"><h2 id="hr-hl-title">Highlights</h2>'
-        f'<p class="hr-hl-sub">Surprising finds from the wiki. {g} of {n} come from local news, obituaries, '
+        f'<p class="hr-hl-sub">Surprising finds from the archive. {g} of {n} come from local news, obituaries, '
         'oral histories and other homegrown sources. '
         f'<a href="{esc(arch)}">Highlights archive</a></p></div>'
         f'<div class="hr-hl-viewport"><ul class="hr-hl-track">{slides}</ul></div>'

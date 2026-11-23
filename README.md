@@ -1,12 +1,12 @@
-# Hot Rod History Wiki
+# Hot Rodding History
 
-A growing, source-cited archive of lesser-known hot rodding history (1930s–today, focus pre-1990).
+A growing, source-cited archive of hometown strips, clubs and builders (1930s–today, focus pre-1990).
 Content is plain Markdown in `docs/`; site built with MkDocs Material.
 
     pip install -r requirements.txt
     mkdocs serve
 
-Netlify: `netlify.toml` is included (build `mkdocs build`, publish `site/`).
+Netlify: `netlify.toml` is included (build `mkdocs build`, publish `site/`). Cloudflare Pages: see [CLOUDFLARE_PAGES.md](CLOUDFLARE_PAGES.md).
 
 Editorial rules: every factual claim gets a footnote with a URL; conflicts between sources are shown, not resolved silently; single-sourced claims are flagged.
 

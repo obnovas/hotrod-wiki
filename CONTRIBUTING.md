@@ -1,6 +1,6 @@
 # Contributing
 
-This is a research wiki: every claim is cited, conflicts are shown, and single-sourced claims are flagged. The full rules are in [docs/reference/source-standards.md](docs/reference/source-standards.md). This page covers the practical workflow, including the home-page **Highlights** slider.
+This is a research archive: every claim is cited, conflicts are shown, and single-sourced claims are flagged. The full rules are in [docs/reference/source-standards.md](docs/reference/source-standards.md). This page covers the practical workflow, including the home-page **Highlights** slider.
 
 ## Quick start
     python -m venv .venv && .venv/bin/pip install -r requirements.txt
@@ -102,7 +102,7 @@ python scripts/check_connections.py --list  # prints nodes and edges
 The build runs the same check and stops on failure. Warnings (for example, a disconnected island) do not stop it, but fix them: an island means the map has a gap.
 
 ## Incoming issues (triage)
-Readers send corrections, source tips and suggestions through the issue forms in `.github/ISSUE_TEMPLATE/` (buttons at the end of every article, the Contribute page, the footer and the masthead). Labels to create once in the repository: `correction`, `source-tip`, `suggestion`, `triage`. Handle every issue the same way, and never let a reader's say-so change a page without a source:
+Readers send corrections, source tips and suggestions to corrections@hotroddinghistory.com (the buttons at the end of every article, on Contribute, in the footer and on the masthead). The mailbox still needs routing before mail arrives. Labels to create once in the repository, if a message is copied into GitHub: `correction`, `source-tip`, `suggestion`, `triage`. Handle every message the same way, and never let a reader's say-so change a page without a source:
 1. **Label** it (`correction`, `source-tip` or `suggestion`; keep `triage` until handled).
 2. **Verify**: find and read the cited source yourself, check it against [source standards](docs/reference/source-standards.md), and treat a reader's recollection as a ◐ single-source lead. Show ⚠ conflicts instead of picking silently.
 3. **Add to the Research Trail**: anything useful but unsettled goes under "Next breadcrumbs" in `docs/research-trail.md`, so a later round picks it up.
@@ -118,3 +118,9 @@ Readers send corrections, source tips and suggestions through the issue forms in
 5. `.venv/bin/mkdocs build --strict` (it runs `check_articles.py` and the Quick Answers check first and fails on any error), then `python scripts/link_report.py 1`.
 5a. For any page whose footnotes you touched, run `python scripts/check_external_links.py docs/<folder>/<page>.md`. It tries https first, reports dead links with a Wayback snapshot to use, and lists footnotes with no "(accessed YYYY-MM-DD)". It needs the network, so it is not part of the build and never fails it. "NO CONN" can be the box's own network; confirm in a browser before replacing a link, and keep the original URL beside the Wayback copy ("original returns 404; read in the Wayback copy of ...").
 6. `git pull --rebase origin main`, commit, push. Do not deploy from the routine.
+
+## Contributor terms
+
+TODO(risk-officer): replace this placeholder with the approved contributor terms.
+
+Full text is coming soon.

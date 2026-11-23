@@ -1,8 +1,9 @@
 """Article structure hook.
 
   * on_pre_build    : runs scripts/check_articles.py; any error fails the build (schema, links, canonical facts).
-  * on_page_markdown: front-matter `summary` becomes the page's meta description (search results and social cards),
-                      and articles get a search boost.
+  * on_page_markdown: front-matter `summary` (or `meta_description`) becomes the meta description,
+                      capped at 158 characters. The summary standfirst is not shortened.
+                      Articles get a search boost.
   * on_page_content : puts the summary at the top of the story as a standfirst (so the search index carries it
                       under the title), and links the first mention of any name that has its own article
                       (docs/data/entities.yml).
@@ -51,11 +52,40 @@ def on_pre_build(config):
             raise PluginError(f"docs/data/entities.yml: {rel} does not exist")
 
 
+HOME_DESC = (
+    "The free, footnoted history of hometown drag strips, car clubs and builders "
+    "(1930s–1990). Every claim cited; every conflict shown."
+)
+DESC_LIMIT = 158
+
+
+def cap_description(text, limit=DESC_LIMIT):
+    """Meta description only. The on-page summary is left whole."""
+    text = re.sub(r"\s+", " ", str(text or "")).strip()
+    if len(text) <= limit:
+        return text
+    ends = [m.end() for m in re.finditer(r"[.!?](?=\s|$)", text[:limit])]
+    good = [n for n in ends if 40 <= n <= limit]
+    if good:
+        return text[:good[-1]].strip()
+    chunk = text[:limit]
+    sp = chunk.rfind(" ")
+    if sp >= 40:
+        chunk = chunk[:sp]
+    chunk = chunk.rstrip(" ,;:—-–").strip()
+    return chunk or text[:limit].rstrip()
+
+
 def on_page_markdown(markdown, page, config, files):
     meta = page.meta
+    if page.file.src_uri == "index.md" and not (meta.get("meta_description") or meta.get("description")):
+        meta["description"] = HOME_DESC
+    source = str(meta.get("meta_description") or meta.get("description") or "").strip()
+    if not source and meta.get("summary"):
+        source = str(meta["summary"]).strip()
+    if source:
+        meta["description"] = cap_description(source)
     if articles_lib.is_article(page.file.src_uri):
-        if meta.get("summary") and not meta.get("description"):
-            meta["description"] = str(meta["summary"]).strip()
         meta.setdefault("search", {"boost": 2})
     return markdown
 

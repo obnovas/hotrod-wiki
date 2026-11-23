@@ -1,0 +1,8 @@
+# Canonical host: https://hotroddinghistory.com/
+# www and .org are 301'd at DNS. Do not add them here.
+
+User-agent: *
+Allow: /
+Disallow: /search/
+
+Sitemap: https://hotroddinghistory.com/sitemap.xml
