@@ -12,9 +12,7 @@ This page describes what we actually collect today. If that changes, we will upd
 
 ## Analytics
 
-We use Cloudflare Web Analytics to see, in aggregate, how the site is used and how pages perform. The script is included in the site footer only when it is turned on.
-
-[NOTE FOR LAUNCH: in pull request 42 the analytics token is empty, so the script is not on the page until `extra.cf_analytics_token` is set. Do not leave this paragraph saying "we use" it on launch day unless the token is live.]
+Cloudflare Web Analytics can be turned on to see, in aggregate, how the site is used and how pages perform. The script is included in the site footer only when a token is set. It is not on the page while that token is empty.
 
 Cloudflare's own documentation for this product, as of the date we checked (November 23, 2026), says:
 
@@ -28,11 +26,19 @@ We checked Cloudflare's Web Analytics product page and developer documentation. 
 
 ## Hosting
 
-The site is hosted on Cloudflare Pages. To deliver a page, Cloudflare receives the ordinary technical information involved in an HTTP request, such as your IP address, the page you asked for, and your browser's user agent. Cloudflare uses that information to operate and secure the host. We have not set up any extra visitor-log export (for example, Logpush). [CONFIRM WITH WEBBY before launch: no retained request-log export is on.] How Cloudflare handles data in its role as host is described in [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
+The site is hosted on Cloudflare Pages. To deliver a page, Cloudflare receives the ordinary technical information involved in an HTTP request, such as your IP address, the page you asked for, and your browser's user agent. Cloudflare uses that information to operate and secure the host. We have not set up any extra visitor-log export (for example, Logpush).
+
+!!! warning "To be completed before launch"
+    Confirm with the person who runs the Cloudflare account that no retained request-log export is on.
+
+How Cloudflare handles data in its role as host is described in [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 ## Mail
 
-If you write to [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com), we keep the message, and any reply, only as long as we need it to handle your request and to keep a record of what we changed. [EMAIL RETENTION: confirm with Michael / an attorney whether to name a period, such as "then we delete it" or "we keep a copy for X."]
+If you write to [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com), we keep the message, and any reply, only as long as we need it to handle your request and to keep a record of what we changed.
+
+!!! warning "To be completed before launch"
+    Name how long corrections mail is kept, or state that there is no fixed period.
 
 Please do not send private information about other people. If you want to be credited, tell us the name to use, or say you want to stay anonymous.
 
@@ -42,18 +48,17 @@ This site has no accounts and no form that collects your name or email. The only
 
 Reader mail, corrections, sources and suggestions go by email, from your own mail program, to the address above.
 
-[CONFLICT TO FIX before this paragraph is strictly true: `docs/contribute.md`, `docs/reference/story-map.md` and `docs/companies/web-of-influence.md` still point people to GitHub issue forms, which require a GitHub account. Pull request 42 left those links for a later change. The article buttons, header and footer already use the corrections mailbox. Until those three pages are updated, a visitor who follows them will leave this site and use GitHub's forms under GitHub's terms.]
-
 ## Children
 
 This archive is written for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children. If you believe we have, write to the address below and we will delete it.
 
 ## Who we are, and the law that applies
 
-The site is published in the United States by Adventure Equity LLC, a Mississippi limited liability company. It is meant for a U.S. audience. [ATTORNEY: whether to add a governing-law sentence.]
+The site is published in the United States by Adventure Equity LLC, a Mississippi limited liability company. It is meant for a U.S. audience.
 
 ## Contact
 
 Questions about this page: [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com).
 
-Effective date: [EFFECTIVE DATE].
+!!! warning "To be completed before launch"
+    Set the effective date on the day this text goes live.

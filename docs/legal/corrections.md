@@ -10,7 +10,7 @@ If something on this site is wrong, incomplete, unfair or used without permissio
 
 Write to [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com).
 
-We review every message and respond promptly[ / within X business days]. Nothing on a page changes just because someone asked. We check the sources. Where a living person is the subject of a dispute, we err toward taking the disputed material down while we look.
+We review every message and respond promptly. Nothing on a page changes just because someone asked. We check the sources. Where a living person is the subject of a dispute, we err toward taking the disputed material down while we look.
 
 ## What to include
 
@@ -35,7 +35,8 @@ If you are the owner of a copyright, or you are authorized to act for the owner,
 
 Those items follow 17 U.S.C. § 512(c)(3). A notice that leaves them out may delay our review.
 
-[DESIGNATED DMCA AGENT — not yet registered. Until an agent is designated with the U.S. Copyright Office and listed here, send notices to corrections@hotroddinghistory.com. See the FLAGS in README.md.]
+!!! warning "To be completed before launch"
+    Name the DMCA designated agent (name, street address, phone, and email) after Adventure Equity LLC registers one with the U.S. Copyright Office. Until then, send notices to corrections@hotroddinghistory.com.
 
 ## Counter-notice
 
@@ -46,6 +47,6 @@ If we removed or disabled material you posted or sent us, and you believe that w
 3. A statement, under penalty of perjury, that you have a good-faith belief the material was removed or disabled by mistake or misidentification.
 4. Your name, address and telephone number, a statement that you consent to the jurisdiction of the Federal District Court for the district in which your address is located (or, if you are outside the United States, for any judicial district in which Adventure Equity LLC may be found), and a statement that you will accept service of process from the person who filed the original notice, or that person's agent.
 
-If we receive a complete counter-notice, we may restore the material unless the original complainant tells us they have filed a court action. [ATTORNEY TO CONFIRM the restore window: not less than 10 and not more than 14 business days after we receive the counter-notice, per 17 U.S.C. § 512(g)(2)(C).]
+If we receive a complete counter-notice, we may restore the material in not less than 10 and not more than 14 business days after we receive it, unless the original complainant tells us they have filed a court action, as provided in 17 U.S.C. § 512(g)(2)(C).
 
 This page is a practical guide, not legal advice. If you are unsure of your rights, consult an attorney.

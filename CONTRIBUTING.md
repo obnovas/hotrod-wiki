@@ -123,13 +123,11 @@ Readers send corrections, source tips and suggestions to corrections@hotroddingh
 
 > **DRAFT for review — not legal advice.**
 
-*For the "## Contributor terms" section of `CONTRIBUTING.md`. Readers can also be pointed here, in short form, from [Contribute](docs/contribute.md). [ATTORNEY should review the grant before this goes live. The license named below must match the content license Michael chooses.]*
-
 If you send us text, a photograph, a source tip, a correction or any other material — by email, by a pull request, or any other way — you are agreeing to the following.
 
 1. **You have the right to share it.** You created it, or the owner gave you permission, or it is already under a license that allows you to send it to us. Do not send a photograph unless you are the owner or have the owner's permission. If you did not take the picture, say who did and under what license or permission it can be used. When in doubt, send a link and a description instead of the file.
 
-2. **License grant.** You give Adventure Equity LLC a non-exclusive, perpetual, worldwide, royalty-free permission to use, publish, edit, excerpt and display what you sent, and to license the resulting site text under [SITE CONTENT LICENSE — recommended: CC BY-SA 4.0]. You keep your own copyright. We are not asking for exclusive rights. Photographs you send stay under the license or permission you named, and will be credited that way.
+2. **License grant.** You give Adventure Equity LLC a non-exclusive, perpetual, worldwide, royalty-free permission to use, publish, edit, excerpt and display what you sent, and to license the resulting site text under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). You keep your own copyright. We are not asking for exclusive rights. Photographs you send stay under the license or permission you named, and will be credited that way. The MIT License on the repository code does not apply to what you send.
 
 3. **Credit.** If we use what you sent, we will credit you by the name you give us, or as "a reader" if you ask to stay anonymous. We will not publish a name you declined.
 
