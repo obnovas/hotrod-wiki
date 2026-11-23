@@ -63,7 +63,7 @@ In 2016 the state of Ohio put up a historical marker for racing, which a 2016 re
 
 Ohio History Connection marker 47-77, "Akron Fulton Airport Champions Raceway," reads in part:[^ro][^hmdb]
 
-> "In 1951, several pioneer drag racers opened one of the Midwest's first drag strips known by local racing enthusiasts as the 'Fulton Airport Champions Raceway.' For the next eight years half-brothers Art and Walt Arfons, Otis 'Otie' Smith, and 'Akron Arlen' Vanke raced here. Both Arfons, who were long time bitter rivals, at one point held the world land speed record. Otie, the first president of the Cam Jammers car club in Akron, won the National Hot Rod Association's 1959 championship. Vanke won many national championships as a Stock, Super Stock, and Pro Stock racer."
+> "In 1951, several pioneer drag racers opened one of the Midwest's first drag strips known by local racing enthusiasts as the 'Fulton Airport Champions Raceway.' For the next eight years half-brothers Art and Walt Arfons, Otis 'Otie' Smith, and 'Akron Arlen' Vanke raced here."
 
 The Akron Airport Racing Pioneers and The Ohio History Connection put the marker up. It was cast in 2015 and dedicated June 19, 2016.[^hmdb][^ro] It stands at the Triplett Boulevard / Massillon Road intersection near the airport. Remarkable Ohio places it in Christopher Columbus Memorial Park, about 50 feet north of the original terminal.[^hmdb][^ro]
 

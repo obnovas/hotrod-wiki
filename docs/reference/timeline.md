@@ -181,7 +181,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | NHRA "absorbs" the ATAA (◐); Bartel forms the National Association of Drag Strips | [Bob Bartel](../people/bob-bartel.md) |
 | 1957 | Twin Falls, Idaho, editorial "Our Main Avenue 'Drag Strip'" after a child's death (June 30); heavier fines (Dec) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | 1957 | *Recreation* magazine's pro-and-con on drag strips (June); Wilmington Automotive Activities held up as a model | [Recreation debate](../drag-racing/recreation-1957-pro-and-con.md) |
-| 1957 | Harrisburg, Ill.: a missing tombstone blamed on drag-car ballast (Aug 29, ◐) | [Twin Falls](../places/twin-falls-main-avenue.md) |
+| 1957 | Harrisburg, Ill.: a paper reported a missing monument-works stone; one person guessed it went to a drag car (Aug 29, ◐) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | 1957 | Ames Drag Strip, Iowa, opens south of town (ATAA-sanctioned; Nightcrawlers club, Dr. Robert Lambert steward) | [Ames](../drag-racing/ames-drag-strip-nightcrawlers.md) |
 | 1957 | Sedalia, Mo., Drag-Ons plan courtesy cards and visit the Kansas City strip; members must join NHRA (June) | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md), [Kansas City](../drag-racing/kansas-city-timing-association.md) |
 | 1957 | Stroudsburg, Pa., Ridge Runners hold a club court and sentence two members to a work detail (Dec); NHRA charter member | [Ridge Runners](../drag-racing/stroudsburg-ridge-runners.md) |
@@ -595,7 +595,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2005 | Cruisin' the Boulevard formed in Petaluma; its first Salute to American Graffiti car show follows in 2006 | [Petaluma & *American Graffiti*](../media/american-graffiti-petaluma-1972.md) |
 | 2005 | Ringbrothers' first full custom build request, a 1967 Mustang | [Ringbrothers](../companies/ringbrothers-spring-green.md) |
 | 2007 | The first GM Performance Parts LSX Shootout | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
-| 2007 | Police seize 61 cars at Unique Performance, an Eleanor builder in Farmers Branch, Texas (Nov 1–2) | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
+| 2007 | Trade press reported a case involving Unique Performance, an Eleanor builder in Farmers Branch, Texas | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | 2007 | Dave Hall and David Hershey start the Bandit Run, Texarkana to Atlanta | [Smokey and the Bandit](../media/smokey-and-the-bandit-jonesboro-mcdonough.md) |
 | 2007 | Engine builder Dave Himes takes over Muncie Dragway (Nov) | [Muncie Dragway](../drag-racing/muncie-dragway-albany-indiana.md) |
 | 2008 | Petaluma's Salute moves entirely downtown, and the cop-car scene is re-created at 4:30 a.m. (May 15) | [Petaluma & *American Graffiti*](../media/american-graffiti-petaluma-1972.md) |

@@ -124,7 +124,7 @@ The bomber base had the meets, the Bo-Weevil ran at Lakeland, and the Rodders da
 
 <figure markdown>
 ![An old gas station at 2nd & Vance, Memphis, photographed by John Margolies in 1979, the ye](../assets/images/commons-memphis-gas-station-1979.jpg){ loading=lazy }
-<figcaption markdown>An old gas station at 2nd & Vance, Memphis, photographed by John Margolies in 1979, the year Lakeland Dragway closed. It is a roadside landscape only. Creator: The Library of Congress from Washington, DC, United States. Date: Taken in 1979. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_gas_station,_2nd_%26_Vance,_Memphis,_Tennessee_LOC_37555793280.jpg). License: [No restrictions](https://www.flickr.com/commons/usage/).</figcaption>
+<figcaption markdown>An old gas station at 2nd & Vance, Memphis, photographed by John Margolies in 1979, the year Lakeland Dragway closed. It is a roadside landscape only. Creator: John Margolies, Library of Congress. Date: Taken in 1979. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_gas_station,_2nd_%26_Vance,_Memphis,_Tennessee_LOC_37555793280.jpg). License: [No restrictions](https://www.flickr.com/commons/usage/).</figcaption>
 </figure>
 
 ## Visual references (external)

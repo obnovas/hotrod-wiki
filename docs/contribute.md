@@ -2,7 +2,7 @@
 
 *Corrections, sources, topic ideas and feedback are all welcome.*
 
-This wiki is a running investigation, and readers know things we do not: a cousin who raced at the local strip, a club newsletter in a shoebox, a better date. There are three ways to send something. Each opens an email.
+The archive is a running investigation, and readers know things we do not: a cousin who raced at the local strip, a club newsletter in a shoebox, a better date. There are three ways to send something. Each opens an email.
 
 - **Report a correction:** something on a page is wrong, outdated or misattributed.
 - **Share a source:** a local paper, club newsletter, obituary, record, marker, photo or oral history we should read.

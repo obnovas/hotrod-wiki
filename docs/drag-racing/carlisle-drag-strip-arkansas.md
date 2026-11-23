@@ -35,7 +35,6 @@ people:
 - Ray Stancil
 - Pat Stancil Downing
 - Bill Deaver
-- Babe Sanders
 - Kenneth Yielding
 - Raymond Godman
 - Bill McCown
@@ -81,14 +80,9 @@ peak: late 1950s–1960s
 *The state's first formal drag strip, on a World War II runway at Carlisle, raced on the second Sunday, and when it opened is still open*
 
 !!! abstract "Article record"
-    **Confidence:** Low (the long history is one racer's, written decades later; he calls the field a World War II auxiliary airfield built in 1942, and an encyclopedia entry alone supplies the Auxiliary No. 1 name; other racers' and a spectator's memories agree on the strip and its touring names, but split on when it opened; no Arkansas newspaper page was read) · **Source types:** <span class="hr-badge">Grassroots</span> Paul Brower's history of the strip and its racers, and other recollections, on *Drag Strip List*; Lance Miller's memoir blog (*A Sequence of Events*); Wikipedia on Carlisle Municipal Airport · **Last verified:** 2026-11-09 (Round 36 citation check) · **Open issues:** ⚠ first meet April 1955, racing in 1957, or opening in summer 1958; ◐ the tire-iron protests; ◐ the Middle Eliminator challenge race; ◐ the Auxiliary No. 1 designation · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low (the long history is one racer's, written decades later; he calls the field a World War II auxiliary airfield built in 1942, and an encyclopedia entry alone supplies the Auxiliary No. 1 name; other racers' and a spectator's memories agree on the strip and its touring names, but split on when it opened; no Arkansas newspaper page was read) · **Source types:** <span class="hr-badge">Grassroots</span> Paul Brower's history of the strip and its racers, and other recollections, on *Drag Strip List*; Lance Miller's memoir blog (*A Sequence of Events*); Wikipedia on Carlisle Municipal Airport · **Last verified:** 2026-11-09 (Round 36 citation check) · **Open issues:** ⚠ first meet April 1955, racing in 1957, or opening in summer 1958; ◐ the Middle Eliminator challenge race; ◐ the Auxiliary No. 1 designation · [How we rate this](../reference/source-standards.md)
 
-!!! quote "In their own words"
-    "It may be remembered that several protests of Sanders's engine came to naught when he blocked access to the hood with a tire iron."
-
-    — Paul Brower, Carlisle racer, in his history of the strip on *Drag Strip List*, undated.[^brower]
-
-The Arkansas Timing Association put the state's first formal drag strip on a World War II auxiliary runway at Carlisle. It raced on the second Sunday. Woodie Taylor ran Twin City Speed Shop out of his garage in North Little Rock. Babe Sanders blocked access to the hood with a tire iron. Whether the first meet was April 1955, a race in 1957, or an opening in the summer of 1958 is still open.
+The Arkansas Timing Association put the state's first formal drag strip on a World War II auxiliary runway at Carlisle. It raced on the second Sunday. Woodie Taylor ran Twin City Speed Shop out of his garage in North Little Rock. Whether the first meet was April 1955, a race in 1957, or an opening in the summer of 1958 is still open.
 
 Before there was a strip, Little Rock had a road. Paul Brower, who raced at Carlisle for years, wrote that there was "a certain degree of 'organization'" in the 1950s when anonymous drivers gathered on Fourche Dam Pike, "the narrow two-lane road 'behind' Adams Field," the Little Rock airport. Their show place was the Snappy Service Drive In, "the meeting/show place for many hot rodders of the day."[^brower]
 
@@ -106,13 +100,13 @@ Carlisle raced on the second Sunday, April through October. Brower wrote that "t
 
 The touring pros came for match races against Godman, Brazil & Brower and the Louisiana fuelers: Don Garlits "on several occasions," Art Malone, Tommy Ivo, Chris Karamesines and most of the Texas fuel cars. A Little Rock boy named Lance Miller, whose father, Tommy "T" Miller, raced his everyday GTOs there, remembered Garlits giving him a spark plug, and a Sunday when his father and a friend took their low Pontiac down flooded farm roads to sneak in at the pits for free.[^brower][^miller]
 
-At Carlisle, as everywhere, the stock cars outnumbered the hot rods. Brower thought about half of all 1955 Chevrolets ever made were raced. Was there cheating? "Is the sky blue?" A $25 deposit forced a competitor to tear down, and most protests ended with somebody backing down and "leaving the strip in a symphony of profanity." Babe Sanders of North Little Rock, who won regularly in an Impala, settled several by guarding his hood with a tire iron. Babe, Brower explained, "was a 1958 version of Arnold Schwarzenegger. Only bigger and meaner." Only Brower tells it.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^brower]
+At Carlisle, as everywhere, the stock cars outnumbered the hot rods. Brower thought about half of all 1955 Chevrolets ever made were raced.[^brower]
 
 Taylor's old Chassis Research car came back in the late 1960s with a blown Chevrolet, and its last pass ended "into the rice field on the north side of Carlisle Drag Strip just beyond the finish line." The driver walked away. Bill Deaver's methanol Corvette, converted in secret in Beard's garage, smoked across the Broadway Bridge to the Snappy Service, won Little Eliminator at Carlisle that Sunday, and later died on "the famous road behind the airport."[^brower]
 
 It stayed a part-time strip on a working airfield. Miller remembered crop dusters using it during the week, concession stands in portable trailers on race weekends, and that it was open all through the 1960s and early 1970s. His last visit was no later than 1975.[^miller]
 
-The second Sunday had been the race, on the runway chosen for the state's first formal drag strip. The latest stuff always seemed to come from Memphis, and a tire iron blocked access to the hood. When that first meet was is still open.
+The second Sunday had been the race, on the runway chosen for the state's first formal drag strip. The latest stuff always seemed to come from Memphis. When that first meet was is still open.
 
 *See also:* [The Ozark Drifters](../customs/ozark-drifters-ceola-scrapbook-arkansas.md), a Fayetteville club known from the Ceola family scrapbook; [George Ray's Wildcat strip](george-rays-wildcat-drag-strip-paragould.md), Paragould's concrete strip, 1961; [Lakeland Dragway](lakeland-dragway-amusement-park.md), the Memphis strip in an amusement park; [Memphis](../places/memphis.md), where Godman's Lakeland strip and the city's racers are told; [Hope](hope-airport-drag-strip.md), another Arkansas airport strip; [The Roanoke Drag Strip](roanoke-drag-strip-southwest-virginia.md), where a 1960 protest ended in a three-hour teardown instead.
 
@@ -121,8 +115,6 @@ The second Sunday had been the race, on the runway chosen for the state's first 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **When did drag racing start at Carlisle?** Paul Brower: "The first 'drag meet,' as they were called in the day, was held in April 1955." Pat Stancil Downing remembers watching her husband race the Triumph there in 1957. Bill McCown: "I went to Carlisle Drag Strip the week it opened in the summer of 1958." A 1958 reopening or a move to a new runway would square them; the *Arkansas Gazette* and *Arkansas Democrat* would settle it.[^brower][^dslar] <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
-
-<a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did Babe Sanders fend off protests with a tire iron?** Only Brower tells it, as something that "may be remembered." The $25 teardown deposit is from the same account.[^brower] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **Did Heim and Butler take the Middle Eliminator top spot at Carlisle?** Brower writes that they won the first and third rounds against the Des Moines team of Dave Powers, Bob Riley and Don Roshak and held the spot for over a year; no *Drag News* list has been read.[^brower] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 

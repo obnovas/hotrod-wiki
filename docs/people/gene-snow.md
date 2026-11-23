@@ -97,8 +97,6 @@ On Oct. 6, 1988, at Houston Raceway Park, Baytown, he ran a 4.997/279.06 on his 
 
 He retired after a crash at the 1992 Dallas national event and returned in 1997 with an A/Fuel dragster run "on a hobby basis."[^top50]
 
-Wikipedia's biography, citing a May 2007 WFAA/TXCN report, records criminal charges against Snow in 1999 and 2007. It says the 2007 case ended in a plea to a reduced charge.[^wp]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>
-
 He raced cars off his own lot and sold the winning entry the next day. *Rambunctious* made the Funny Car's first 200-mph pass.
 
 *See also:* [Logghe Stamping](../companies/logghe-stamping.md), [Houston Freeway Dragstrip](../drag-racing/houston-freeway-dragstrip.md), [Texas](../places/texas.md), [Eddie Schartman](eddie-schartman.md) (the 1966 Funny Car title), [Voices: Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md), [Firebird International Raceway (Chandler)](../drag-racing/firebird-international-raceway-chandler.md), where he won the first Phoenix national in Top Fuel.
@@ -124,8 +122,6 @@ The pass itself is not in dispute. The date is.
 **Our reading (inference, not settled):** *Hot Rod*'s June 1969 issue, which went to press in spring 1969, already reports "205-mph blasts." That fits the Top 50's 1968 date better than "autumn 1969." We have not seen a timing slip or a period *Drag News* or *National Dragster* report. Everyone agrees on the track: **"Don and Carl Gay's track in Dickinson, Texas,"** Snow's own explanation ("sea level"), and the figure **200.88**.
 
 **The official one:** match-race times were "considered somewhat unofficial," so the first NHRA national-event 200-mph Funny Car pass was Snow's **7.23/208.71 at the Springnationals, Dallas International Motor Speedway, May 3, 1970**.[^top50][^nd16] Wikipedia's article on the car calls it "NHRA's first official 200 mph pass," citing Bob McClurg in *Drag Racer* (Nov 2016).[^wpr] ◐ <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
-
-<a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **What do the WFAA reports say?** We could not open the WFAA report (the archive copy did not load) and have not verified it independently.[^wp] <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 **Life dates:** We found no verified obituary for this Gene Snow. A 2018 obituary for a "Thomas Eugene 'Gene' Snow" of Florida is **a different man**, and we do not use it.
 
@@ -159,5 +155,5 @@ The pass itself is not in dispute. The date is.
 [^nhra85]: Alex Waldron, "1985 Fallnationals," NHRA.com, Feb. 25, 2016. Accessed 2026-11-08. https://www.nhra.com/news/2016/1985-fallnationals
 [^hr69]: "Rambunctious," *Hot Rod*, June 1969 (photos Don Green), web reprint Jan 1, 2023. Accessed 2026-10-15. https://www.hotrod.com/features/rambunctious-june-1969-982-684-84-1
 [^upi]: UPI, "Top Fuel driver Gene Snow of Ft. Worth, Texas...," Baytown, Tex., Oct 6, 1988. Accessed 2026-10-15. https://www.upi.com/Archives/1988/10/06/Top-Fuel-driver-Gene-Snow-of-Ft-Worth-Texas/4826592113600/
-[^wp]: Wikipedia, "Gene Snow" (secondary; legal-history section cites Brett Shipp, "Questions over Gene Snow's sex assault case," WFAA/TXCN, May 21, 2007, not opened by us). Accessed 2026-10-15. https://en.wikipedia.org/wiki/Gene_Snow
+[^wp]: Wikipedia, "Gene Snow" (secondary). Accessed 2026-10-15. https://en.wikipedia.org/wiki/Gene_Snow
 [^wpr]: Wikipedia, "Rambunctious (Funny Car)," citing Bob McClurg, "50 Years of Funny Cars: Part 2," *Drag Racer*, Nov 2016, p. 42 caption. Accessed 2026-10-15. https://en.wikipedia.org/wiki/Rambunctious_(Funny_Car)

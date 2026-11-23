@@ -149,7 +149,7 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 - ["Our Name Is Mud" (Washington suburbs, 1953–63)](washington-suburbs-drag-strip-debate.md): a Prince Georges hearing, an editorial against "such foolishness," a father's reply, Old Dominion and Aquasco, and a county that said no twice.
 - ["No Hot Rods, Please!" (U.S. Virgin Islands, 1936–63)](virgin-islands-no-hot-rods.md): a "Lover Boy" hot rod hits a commissioner's car, an editorial asks the Senate to outlaw the "monster," and a neighbor invites the commissioner to watch the Harwood Highway races from his porch.
 
-**Elsewhere in the wiki**
+**Elsewhere in the archive**
 
 - The calendar: [1950s: Santa Ana & the First Drag Strip](../eras/1950s-santa-ana-drags.md), [The Camgrinder Wars](../eras/1950s-camgrinder-wars.md) and [The Drag Rags](../eras/1960s-drag-rags.md).
 - The people: [Bob Bartel](../people/bob-bartel.md), [Gene Snow](../people/gene-snow.md) and [Doris Herbert](../people/doris-herbert.md); in their own words, [Strip Owners & Door-Slammers](../voices/strip-owners-and-door-slammers.md).

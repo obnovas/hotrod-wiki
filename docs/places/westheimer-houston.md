@@ -48,7 +48,7 @@ From the late 1970s, cruisers drove east from west Houston through Montrose, tur
 
 The best account comes from a man who drove it as a teenager:
 
-> "For such a big city, '80s Houston was in some ways still a small town. Case in point: the teenage ritual of cruising Westheimer, in which the fourth largest city in America did its best to impersonate a one-Dairy Queen town, one where all you can do is drive down the strip and then turn back around."
+> "For such a big city, '80s Houston was in some ways still a small town. … all you can do is drive down the strip and then turn back around."
 >
 > — **John Nova Lomax**, looking back on his years as a Strake Jesuit student, Houston Press (2009).[^hp]
 
@@ -58,7 +58,7 @@ Lomax describes suburban teenagers in "Blazers and Cutlasses" gawking at the Mon
 
 The city ended it, quickly:
 
-> "In about 1986, the City decided enough was enough and cracked down on the pastime by setting up roadblocks and banning turning off of side-streets, and the whole phenomenon vanished in about a month."
+> "In about 1986, the City … cracked down on the pastime by setting up roadblocks and banning turning off of side-streets, and the whole phenomenon vanished in about a month."
 >
 > — **Lomax**, 2009.[^hp]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 

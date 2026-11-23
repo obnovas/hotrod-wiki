@@ -21,7 +21,6 @@ people:
 - George Lucas
 - Gerald McKenzie
 - Phillip (Tiny) Stuart
-- Pat Ganahl
 - Dennis Lema
 companies: []
 places:
@@ -66,21 +65,15 @@ Then the cruise outgrew the town. By 1990, according to city officials, up to 6,
 
 ## In their own words
 
-That year the police chief, a car-club leader and a magazine editor all weighed in:
+That year the police chief and a car-club leader weighed in:
 
-> "The days are long gone when a couple hundred local guys drove up and down the street looking for girls. … There's too many cruisers out there now and they're causing too much trouble."
+> "The days are long gone when a couple hundred local guys drove up and down the street looking for girls."
 >
 > — **Police Chief Gerald McKenzie**, LA Times (Feb 6, 1990).[^lat90]
 
-> "Cruising is part of our history, part of our life style here . . . they can't just outlaw it."
+> "Cruising is part of our history, part of our life style here."
 >
 > — **Phillip (Tiny) Stuart**, past president of the Modesto Area Drag Racer's Assn., 1990.[^lat90]
-
-> "Because the towns usually only had one main drag, they'd end up driving down one end and back the other. … It had a lot to do with creating the whole custom car movement in Southern California."
->
-> — **Pat Ganahl**, then editor of *Rod & Custom*, LA Times (1990).[^lat90]
-
-Pat Ganahl's comment ties the small-town main drag to the custom-car tradition.
 
 ## Policing
 

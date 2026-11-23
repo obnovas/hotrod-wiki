@@ -2,7 +2,7 @@
 
 *Departments are topics. Badges and flags say how we know.*
 
-This page records how the wiki is divided, why, and how to decide where a new page goes. It was reworked in Round 13 after an audit found that several sections had been built from one research request at a time and mixed unrelated ideas.
+This page records how the archive is divided, why, and how to decide where a new page goes. It was reworked in Round 13 after an audit found that several sections had been built from one research request at a time and mixed unrelated ideas.
 
 ## The rule: two axes
 

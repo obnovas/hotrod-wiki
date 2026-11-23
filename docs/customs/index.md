@@ -13,7 +13,7 @@ Customizing is its own tradition inside hot rodding. A hot rod asks how fast; a 
 - ["This Is a Rat Rod Show" (Saugerties, N.Y., and Mahtowa, Minn.)](rat-rod-shows-saugerties-mahtowa.md): a builder told "not now, not ever" starts his own show behind his shop, and a Minnesota club with beer-keg gas tanks parks beside a country store and drives to Las Vegas (⚠ Mahtowa's first year).
 - ["Scraping the Sky": Slamfest and Scrapin' the Coast (Tampa and Biloxi)](slamfest-scrapin-the-coast-gulf-trucks.md): a mini-truck club's 1991 show in an outlet-mall parking lot and a Biloxi weekend from 2002 or 2003 that took in lifted trucks and ran into a squat-truck law (⚠ Scrapin's first year).
 
-**Elsewhere in the wiki**
+**Elsewhere in the archive**
 
 - How it was done: [Techniques & Period Styles](../cars/techniques-and-styles.md) (the fake Cord, metal-finish vs. lead, the lead-sled era).
 - The builders: [Jimmy Summers](../people/jimmy-summers.md), [Roy Hagy](../people/roy-hagy.md), [George DuVall](../people/george-duvall.md), [Ed Almquist](../people/ed-almquist.md).

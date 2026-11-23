@@ -71,7 +71,7 @@ Flip through a 1950s yearbook and it is there. Sometimes it's only a line under 
 
 ## The line under the photo
 
-The earliest date we have found comes from Sherman, Texas. In the 1956 yearbook, seniors' activity lists put "Hot Rod Club" beside the Scrabble, Bridge and Horseshoes and Washers clubs, with year marks running back to '53.[^sher]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> In Pensacola, Florida, the 1955 yearbook gave the HOT ROD CLUB its own roster, about thirty names long, and seniors listed it among their activities next to Allied Youth and the Monitor staff.[^pens]
+The earliest date we have found comes from Sherman, Texas. In the 1956 yearbook, seniors' activity lists put "Hot Rod Club" beside the Scrabble, Bridge and Horseshoes and Washers clubs, with year marks running back to '53.[^sher]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup> In Pensacola, Florida, the 1955 yearbook gave the Hot Rod Club its own roster, about thirty names long, and seniors listed it among their activities next to Allied Youth and the Monitor staff.[^pens]
 
 Then there's Chillicothe, Ohio, where the 1955 class will had Hal Watts handing down "his most honored and cherished position as President of the 'Model A' Hot Rod Club" to "Lightning Louie" Ahlen, along with what the will called the "next to the fastest car in our fair city."[^chil]
 

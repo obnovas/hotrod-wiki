@@ -106,9 +106,10 @@ In June 1961 the *Enterprise* described a Saturday night at the strip, "northwes
 
 In 1963 the West Valley got bigger plans. In July Richard Hogue of Scottsdale announced Phoenix International Raceway, a $500,000 complex on 320 acres beside Estrella Park, with a mile oval, a drag strip, a road course and "Saturday night drag meets."[^we630711] In August it named as drag racing director Bill Costianes, 25, who had worked at the Arizona Raceway for three years and planned a strip 70 feet wide with a paved "fire-up" lane and Chrondek dual-lane timers.[^we630808] In September Tony Briggs of Scottsdale, the raceway's newly named general manager, said weekly and championship drag races would "fill out the year" in 1964.[^we630919] Just before that, at the end of August, the *Navajo Times* reported that the Beeline Corporation, headed by C. Tim Rogers of Scottsdale, had broken ground on a $100,000 dragway on the Salt River Indian Reservation, "the first drag strip to be built on an Indian Reservation," with dual-lane timers and push lanes for dragsters.[^nt630829]
 
+<figure markdown>
 ![Grand Avenue in Glendale, Arizona, a divided six-lane road with traffic, utility poles and palm trees, photographed in 2011](../assets/images/commons-glendale-grand-avenue.jpg){ loading=lazy }
-
-*Grand Avenue, Glendale, in 2011. The Phoenix Drag Strip stood farther out the same road, at Litchfield Road. Photo: Chris English, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons.*
+<figcaption markdown>Grand Avenue, Glendale, in 2011. The Phoenix Drag Strip stood farther out the same road, at Litchfield Road. Creator: Chris English. Date: 2011. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Glendale,_AZ,_Grand_Avenue,_2011_-_panoramio.jpg). License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).</figcaption>
+</figure>
 
 The *Enterprise* recorded each stage as it happened, from the KARBS' coupe and its Union 76 sponsor to Larson's prize shirts. The jet's owner, named in the paper as Walt Arfons, may tie this desert strip to the Arfons family of [Akron's airport strip](akron-fulton-airport.md), and the KARBS were one more case of the [teen and school clubs](high-school-hot-rod-clubs.md) that newspapers kept writing about.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Open question: see the bottom of the page">?</a></sup> The local boys had run third, and stayed third for the state. Towle's name kept turning up. Then came the Saturday nights.
 

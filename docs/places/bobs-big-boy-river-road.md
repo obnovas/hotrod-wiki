@@ -63,17 +63,17 @@ Ivo's club was the Road Kings of Burbank, founded in 1952.[^bl]
 
 Tommy Ivo described the routine:
 
-> "At Bob's you'd choose somebody off and then head over to the River Road. … We'd race and get out of there in a hurry. … If somebody called the L.A. cops on us, we'd scoot back across the river to Burbank before they could catch us."
+> "At Bob's you'd choose somebody off and then head over to the River Road."
 >
 > — **Tommy Ivo**, 78, Burbank Leader (June 5, 2014).[^bl]
 
-> "It wasn't a money deal. We didn't race for pink slips. It was a matter of pride. You'd race and go back to Bob's Big Boy."
+> "It wasn't a money deal. We didn't race for pink slips. It was a matter of pride."
 >
 > — **Tommy Ivo**, 2014.[^bl]
 
 In the river bottom, the police were part of the audience:
 
-> "Police would come down to drink coffee and watch us. They figured at least we weren't on the streets. … He told us they were going to get coffee and doughnuts and come back in 20 minutes to raid us."
+> "Police would come down to drink coffee and watch us. They figured at least we weren't on the streets."
 >
 > — **Ted Sebern**, Road Knights club, retired Disney Imagineer, on racing in the river bottom, 2014.[^bl]
 

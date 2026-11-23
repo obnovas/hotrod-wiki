@@ -1,6 +1,6 @@
 ---
 title: 'The Web of Influence: Who Fed Whom'
-summary: 'An interactive map of who fed whom: every line between two names is backed by a quoted passage on one of this wiki''s pages, checked at every build.'
+summary: 'An interactive map of who fed whom: every line between two names is backed by a quoted passage on one of the archive''s pages, checked at every build.'
 department: companies
 era: 1960s
 eras:
@@ -51,12 +51,12 @@ canonical_for: []
 ---
 # The Web of Influence: Who Fed Whom
 
-*Companies, shops, people, strips and clubs, and the lines between them that a wiki page can prove*
+*Companies, shops, people, strips and clubs, and the lines between them that an archive page can prove*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** the wiki's own cited articles, one per connection (see the table); no new claims are made on this page · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** each line carries the confidence of the page behind it, and its ⚠ and ◐ marks repeat that page's flags; the map shows only what the wiki has documented, so an absent line means "not yet documented," not "no tie"; many Big Names still lack a profile (see the Research Trail) · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** the archive's own cited articles, one per connection (see the table); no new claims are made on this page · **Last verified:** 2026-10-16 (Round 15) · **Open issues:** each line carries the confidence of the page behind it, and its ⚠ and ◐ marks repeat that page's flags; the map shows only what the archive has documented, so an absent line means "not yet documented," not "no tie"; many Big Names still lack a profile (see the Research Trail) · [How we rate this](../reference/source-standards.md)
 
-Every line on this page is a promise. It says: *a page on this wiki documents that these two names are connected, and quotes the passage.* The map is built from `docs/data/connections.yml`. When you build the site, a script reads each connection, opens the page it points to and looks for the exact phrase that supports it. If the phrase isn't there, the build stops. So a line cannot appear on the map until some article, with a footnote of its own, has earned it.
+Every line on this page is a promise. It says: *a page on the archive documents that these two names are connected, and quotes the passage.* The map is built from `docs/data/connections.yml`. When you build the site, a script reads each connection, opens the page it points to and looks for the exact phrase that supports it. If the phrase isn't there, the build stops. So a line cannot appear on the map until some article, with a footnote of its own, has earned it.
 
 <!-- hr:connections-stats -->
 

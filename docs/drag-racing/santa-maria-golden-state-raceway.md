@@ -84,9 +84,10 @@ The fields grew quickly. In March about 200 machines were expected, including De
 
 By the early 1970s Lompoc drivers were winning regularly at Santa Maria. In August 1971 the paper reported that "six Lompoc drag racers took honors" in front of 1,400 spectators. Bob Sauzek was runner-up in Bracket Three in his Chevy II, Jim Seaman won Bracket Four in a '68 El Camino, Gene Gillespie beat Gail Allington in Bracket Five, and her husband, Skip Allington, won Bracket Six.[^lr710823] Not everyone in Lompoc approved. In 1972 a letter-writer, tired of cars with their mufflers off on Friday and Saturday nights, suggested building "a drag-strip far out of town down wind of Lompoc," adding that "maybe Ocean Avenue would get a rest."[^lr720817] In 1974 the paper photographed Gillespie, with his daughter, being congratulated by "Golden State Raceway starter Rich Riola" after winning the strip's Bracket 2 points title.[^lr740827] That November a news brief placed "the Santa Maria Dragstrip" near the south side of the airport.[^lr741114]
 
+<figure markdown>
 ![USGS aerial photograph of Santa Maria Public Airport, California, on Sept. 3, 1994, showing its runways among farm fields](../assets/images/commons-santa-maria-airport-1994-usgs.jpg){ loading=lazy }
-
-*Santa Maria Public Airport from the air, Sept. 3, 1994. U.S. Geological Survey photo, public domain, via Wikimedia Commons.*
+<figcaption markdown>Santa Maria Public Airport from the air, Sept. 3, 1994. Creator: U.S. Geological Survey. Date: 1994-09-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Santa_Maria_Public_Airport-CA-03_September_1994-USGS.jpg). License: Public domain.</figcaption>
+</figure>
 
 In December 1975 Martin D. U'Ren wrote that he had learned of "the probable demise of the Golden State Raceway, with the end of the year." The airport owned the land, the Chamber of Commerce was apparently withdrawing its support, and "our dragstrip seems doomed."[^lr751217] It lasted longer than he feared. In April 1977 Skip Allington won Pro Stock at the Golden State Raceway with 11.56 seconds at 113.63 mph.[^lr770425]<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> At Redding, a car club ran the [airport runway where Red Bluff's dragster raced](red-bluff-schafer-oil-special.md). At Santa Maria a civic club ran the strip, on land owned by an airport that could take it back.
 

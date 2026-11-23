@@ -6,7 +6,7 @@ Nearly every company here began with one guy who needed a part that didn't exist
 
 *Short on time?* The [Quick Answers](../reference/quick-answers.md#companies-and-parts) give the short version of the big questions about companies and the parts business, each with a link to the full story.
 
-**New: [The Web of Influence](web-of-influence.md)**, a map of who fed whom. Every line is backed by a wiki page and a verbatim phrase from it.
+**New: [The Web of Influence](web-of-influence.md)**, a map of who fed whom. Every line is backed by an archive page and a verbatim phrase from it.
 
 ## The Big Names
 
@@ -41,4 +41,4 @@ The smaller outfits, where the person and the shop were nearly the same thing.
 
 ## How the profiles are built
 
-Each profile ends with a **Connect the dots** section that lists the wiki pages (people, strips, clubs, regions) tied to that company, with a one-line reason for each. Where a source does not document a tie, we say the link is only place or time. Conflicting sources are marked ⚠ and single-sourced claims ◐, and most "firsts" are credited to the person who claimed them. Not yet profiled, for lack of good sources: Offenhauser, Cragar, American Racing, Mallory, Weiand's later years and JEGS; see the [Research Trail](../research-trail.md).
+Each profile ends with a **Connect the dots** section that lists the archive pages (people, strips, clubs, regions) tied to that company, with a one-line reason for each. Where a source does not document a tie, we say the link is only place or time. Conflicting sources are marked ⚠ and single-sourced claims ◐, and most "firsts" are credited to the person who claimed them. Not yet profiled, for lack of good sources: Offenhauser, Cragar, American Racing, Mallory, Weiand's later years and JEGS; see the [Research Trail](../research-trail.md).

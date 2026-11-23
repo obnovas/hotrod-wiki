@@ -66,11 +66,11 @@ The turnarounds were the Hughes supermarket lot, June Ellen's Donuts and Bob's B
 
 The people who were there, on both sides of the law, mostly remember the fun:
 
-> "I think that 90 percent of the people out on the Boulevard are out there to have a good time. … They like to cruise and show off their cars, and they like to meet people."
+> "I think that 90 percent of the people out on the Boulevard are out there to have a good time."
 >
 > — **LAPD Capt. Arthur Sjoquist**, the officer who closed the boulevard, Hot Rod (July 1981). This is a contemporary account, not a memory.[^hr81]
 
-> "Remember when we were young and the cops were old? … Now the cops are young and we're old."
+> "Remember when we were young and the cops were old?"
 >
 > — **Reid Stolz**, 51, Van Nuys Cruising Association, LA Times (Jan 13, 2010).[^lat10]
 
@@ -90,7 +90,7 @@ Then it came back to the boulevard. The 2009 revival staged from the Rydell Chev
 
 <figure markdown>
 ![Van Nuys Boulevard in 1913, a year after the Saturday-night parade tradition the LA Times ](../assets/images/commons-van-nuys-blvd-1913.jpg){ loading=lazy }
-<figcaption markdown>Van Nuys Boulevard in 1913, a year after the Saturday-night parade tradition the LA Times traces to 1912. Creator: Unknown authorUnknown author. Date: 1913. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Nuys_Boulevard,_1913_(LAVC01).jpg). License: Public domain.</figcaption>
+<figcaption markdown>Van Nuys Boulevard in 1913, a year after the Saturday-night parade tradition the LA Times traces to 1912. Creator: Unknown photographer. Date: 1913. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Van_Nuys_Boulevard,_1913_(LAVC01).jpg). License: Public domain.</figcaption>
 </figure>
 
 <figure markdown>

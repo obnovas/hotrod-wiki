@@ -45,7 +45,7 @@ Some of the best history in hot rodding was never written down by a historian. I
 | Page | Who | Told | Story |
 |---|---|---|---|
 | [Ruelas Brothers & the Dukes](ruelas-dukes.md) | Fernando & Julio Ruelas, Richard "Chivo" Ceniceros | 2006 | A South LA family shop and car club, 1950s–2000s |
-| [Von Dutch](von-dutch.md) | Kenny Howard, Bob Burns | 1965–2002 | Striping, money, "Nothing is original" |
+| [Von Dutch](von-dutch.md) | Kenny Howard, Bob Burns | 1965–2002 | Striping, "Nothing is original" |
 | [Show & Custom Voices](show-custom-voices.md) | Mary Slonaker, Tom Prufer, Jerry Titus | 1999–2016 | Oakland and the KKOA |
 
 ### Street rodding

@@ -270,7 +270,7 @@ highlights:
 
   - id: modesto-four-hours
     headline: "Modesto's 1990 anti-cruising law: no passing the same spot twice in four hours"
-    teaser: "On March 27, 1990, Modesto barred passing the same spot on McHenry Avenue more than once every four hours. A historical marker claims a ban \"remains in force today,\" and the wiki can't square that with the 1990 ordinance."
+    teaser: "On March 27, 1990, Modesto barred passing the same spot on McHenry Avenue more than once every four hours. A historical marker claims a ban \"remains in force today,\" and the archive can't square that with the 1990 ordinance."
     link: places/modesto.md#policing
     evidence: ["more than once every four hours", "an ordinance that remains in force today"]
     source_type: ["Municipal record", "Historical marker"]
@@ -406,10 +406,9 @@ highlights:
     image_note: Postcard from about 1930–45, before these events
 
   - id: harrisburg-tombstone-drag-car
-    headline: A missing tombstone, blamed on a drag racer who wanted more weight
-    teaser: In 1957 a southern Illinois paper reported a stone missing from a monument works; a man quoted
-      in the item thought it was taken to "add weight" to a drag car run on Liberty road. One small item,
-      and we found no follow-up.
+    headline: A 1957 Illinois paper reported a missing monument-works stone
+    teaser: Someone quoted in the item guessed the stone was taken to "add weight" to a drag-racing car.
+      The page treats that as one person's guess in one paper.
     link: places/twin-falls-main-avenue.md#the-nickname-traveled
     evidence: add weight
     source_type: Local news
@@ -1693,21 +1692,6 @@ highlights:
     added: '2026-11-11'
     eras: [1970s]
     regions: ['Eugene, Ore.']
-
-  - id: pueblo-pistol-council
-    headline: A Pueblo hall of fame says a councilman was "accused of holding a pistol" to fund the drag strip
-    teaser: Before Pueblo's strip opened in 1976, racers held a fund-raising meet on a private airstrip and stopped
-      for an hour to let a Cessna land. The Greater Pueblo Sports Association's biography of Tom Gilmore says
-      he was "Accused of holding a pistol on the rest of the council members."
-    link: drag-racing/mountain-view-erie-colorado-strips.md#out-on-the-edges
-    evidence: [Accused of holding a pistol on the rest of the council members, while a local rancher landed his Cessna on the drag/air strip]
-    source_type: [Museum / HOF, Oral history]
-    confidence: Low
-    flag: single-source
-    grassroots: false
-    added: '2026-11-11'
-    eras: [1970s]
-    regions: ['Pueblo, Colo.']
 
   - id: biloxi-boat-parade
     headline: Biloxi held a boat show on its drag strip in 1959, with a "parade of boats down the strip"

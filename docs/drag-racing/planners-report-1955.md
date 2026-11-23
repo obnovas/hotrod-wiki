@@ -118,7 +118,7 @@ Magazine histories rarely had these clubs. The May 1955 report did. Columbia kep
 
 *The report is vivid, and unsourced.*
 
-The report says "in one day of hot rod racing at Muroc Dry Lake, California, twenty-seven hot rodders were killed" and that on another night Los Angeles County police arrested 187 hot rodders. It gives no date or source, and nothing else in this wiki supports the Muroc figure. Treat both as unverified.[^aspo]
+The report says "in one day of hot rod racing at Muroc Dry Lake, California, twenty-seven hot rodders were killed" and that on another night Los Angeles County police arrested 187 hot rodders. It gives no date or source, and nothing else in the archive supports the Muroc figure. Treat both as unverified.[^aspo]
 
 It dates the California law against taking part in or watching a race to **1947**. Chief Parker's article describes the same law but gives no year.[^aspo]
 

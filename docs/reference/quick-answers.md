@@ -1,7 +1,7 @@
 ---
 title: "Quick Answers: The Questions That Connect the Dots"
-summary: Short, plain answers to the big questions that tie this wiki's stories together, each with a link to the full story and its sources.
-description: Short, plain answers to the big questions that tie the Hot Rod History Wiki together, from the SCTA and timing associations to drag-strip fights, cruising bans, cam grinders and street rodding.
+summary: Short, plain answers to the big questions that tie the archive's stories together, each with a link to the full story and its sources.
+description: Short, plain answers to the big questions that tie Hot Rodding History together, from the SCTA and timing associations to drag-strip fights, cruising bans, cam grinders and street rodding.
 search:
   boost: 3
 ---
