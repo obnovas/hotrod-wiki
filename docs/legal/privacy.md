@@ -26,12 +26,7 @@ We checked Cloudflare's Web Analytics product page and developer documentation. 
 
 ## Hosting
 
-The site is hosted on Cloudflare Pages. To deliver a page, Cloudflare receives the ordinary technical information involved in an HTTP request, such as your IP address, the page you asked for, and your browser's user agent. Cloudflare uses that information to operate and secure the host. We have not set up any extra visitor-log export (for example, Logpush).
-
-!!! warning "To be completed before launch"
-    Confirm with the person who runs the Cloudflare account that no retained request-log export is on.
-
-How Cloudflare handles data in its role as host is described in [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
+The site is hosted on Cloudflare Pages. To deliver a page, Cloudflare receives the ordinary technical information involved in an HTTP request, such as your IP address, the page you asked for, and your browser's user agent. We do not export or retain request logs ourselves. Our host, Cloudflare, keeps standard aggregated analytics and security data as described in [Cloudflare's privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 ## Mail
 
