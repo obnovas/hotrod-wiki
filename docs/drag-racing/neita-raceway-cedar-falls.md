@@ -12,7 +12,7 @@ eras:
 - 2020s
 years:
 - 1964
-- 2020
+- 2020 # latest year a source dates (Drag Illustrated), not a close. Title is 1964– . See the years note under Open questions.
 region: Midwest
 states:
 - Iowa

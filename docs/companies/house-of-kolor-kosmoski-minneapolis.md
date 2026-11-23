@@ -1,5 +1,5 @@
 ---
-title: '"I Never Intended to Sell a Quart": Jon Kosmoski and House of Kolor (Minneapolis, 1956–2026)'
+title: '"I Never Intended to Sell a Quart": Jon Kosmoski and House of Kolor (Minneapolis, 1956 or the early to mid-1960s–2026)'
 summary: 'House of Kolor dates itself to 1956 in Minneapolis, where a young Jon Kosmoski, unhappy with a paint job, began painting in a family basement and making his own colors. Painters at local shows wanted his paint, and a one-man custom shop became a national custom-paint brand.'
 department: companies
 era: 1960s
@@ -10,7 +10,7 @@ eras:
 - 1990s
 - 2020s
 years:
-- 1956
+- 1956 # earlier side of q-2 (the company counts from 1956); not a settled founding year. See Open questions.
 - 2026
 region: Midwest
 states:
@@ -48,7 +48,7 @@ canonical_for: []
 location: Minneapolis, Minn.[^cct09][^pr26]
 status: A Sherwin-Williams brand; its 70th anniversary year in 2026, with Kosmoski still its spokesman[^pr26][^fb26]
 ---
-# "I Never Intended to Sell a Quart": Jon Kosmoski and House of Kolor (Minneapolis, 1956–2026)
+# "I Never Intended to Sell a Quart": Jon Kosmoski and House of Kolor (Minneapolis, 1956 or the early to mid-1960s–2026)
 
 *A Minnesota painter who made paint for himself, a scarab from King Tut's tomb, and a brand that came out of local car shows*
 
@@ -90,7 +90,7 @@ In 1997 he sold House of Kolor to Valspar, also a Minneapolis company, and staye
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **How did it start, and whose basement?** *Custom Classic Trucks* (2009) says that in 1956 Kosmoski took his '40 Chevy to "the best shop in town," was unimpressed, and started making paint "in his parent's basement," and that neighbors complained about the lacquer smell.[^cct09] The 2026 anniversary release has him calling it "a frustration with an uninspired paint job."[^pr26] *FenderBender* (2026) says he painted helmets and 600 sets of motorcycle tins "in his mother's basement" until she tired of the fumes, and the Sturgis museum also says his mother's basement and has him painting helmets and motorcycles for friends after high school.[^fb26][^sturgis] Mecum dates his start to 1956 "by painting motorcycle tanks."[^mecum] The stories can all be true at once; they are told differently, all by him or from him, decades later. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did he start selling paint?** The company counts from 1956.[^pr26] *FenderBender* says he became an official manufacturer "around 1962" and hired a chemist then.[^fb26] Mecum puts the four-stall House of Color first and the 1964 move and new name after, with the chemist as the paint quantities grew.[^mecum] The Sturgis museum says that "by the mid-1960s" he began making his own line of Kustom Kandy finishes, and "House of Kolor was born."[^sturgis] So 1956 is the start of his painting, and the paint business came in the early to mid-1960s, a year we have not pinned down. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did he start selling paint?** The company counts from 1956.[^pr26] *FenderBender* says he became an official manufacturer "around 1962" and hired a chemist then.[^fb26] Mecum puts the four-stall House of Color first and the 1964 move and new name after, with the chemist as the paint quantities grew.[^mecum] The Sturgis museum says that "by the mid-1960s" he began making his own line of Kustom Kandy finishes, and "House of Kolor was born."[^sturgis] So 1956 is the start of his painting, and the paint business came in the early to mid-1960s, a year we have not pinned down. The front-matter `years` span is `[1956, 2026]`. That field is `[first, last]`, two integers, and 1956 is the earlier side of the dispute, the year the company counts from, so the span covers the early to mid-1960s. It does not decide the question. The title says 1956 or the early to mid-1960s. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 
