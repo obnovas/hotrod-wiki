@@ -15,8 +15,8 @@ This page is the short public statement of how we work. The day-to-day rules liv
 ## Editorial rules
 
 - Every factual claim carries a footnote with a source URL (or a full print citation when there is no URL).
-- When accounts disagree, we show both and mark the claim **⚠**. We describe the disagreement as being between sources. We do not treat it as anyone's fault.
-- A claim that rests on only one source so far is marked **◐** and treated as provisional.
+- When accounts disagree, we show both and mark the claim **&#9888;**. We describe the disagreement as being between sources. We do not treat it as anyone's fault.
+- A claim that rests on only one source so far is marked **&#9680;** and treated as provisional.
 - We would rather leave a gap than invent a date, a quote, a name or a tidy ending.
 
 ## Tone
