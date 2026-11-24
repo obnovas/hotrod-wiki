@@ -1,11 +1,10 @@
 site_name: Hot Rodding History
-site_description: Hometown strips, clubs and builders, footnoted.
+site_description: Octane-filled stories from the people who built the hobby.
 site_url: https://hotroddinghistory.com/
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/logo.svg
-  favicon: assets/favicon.svg
+  # logo and favicon are copied from extra.logo and extra.favicon.svg in hooks/design_hook.py
   font: false
   features:
     - navigation.instant
@@ -30,7 +29,15 @@ extra:
   issues_url: mailto:corrections@hotroddinghistory.com
   feedback_url: mailto:corrections@hotroddinghistory.com
   masthead: Hot Rodding History
-  masthead_tag: Hometown strips, clubs and builders, footnoted.
+  masthead_tag: Octane-filled stories from the people who built the hobby.
+  # Placeholder wordmark and favicon. Replace the files, or change these paths.
+  # Templates, JSON-LD, and the theme read this block only.
+  logo: assets/logo.svg
+  favicon:
+    svg: assets/favicon.svg
+    png: assets/favicon-32.png
+    apple: assets/apple-touch-icon.png
+    large: assets/logo-512.png
   cf_analytics_token: ""  # Cloudflare Web Analytics. The beacon renders only when this is set.
   # Header shortcuts; the full department index lives behind the "Contents" button (built from `nav`).
   primary_nav:

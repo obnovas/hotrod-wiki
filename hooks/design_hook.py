@@ -683,6 +683,13 @@ def pick_blurb(html):
 
 # ---------------------------------------------------------------- hook entry points
 def on_config(config):
+    extra = config.get("extra") or {}
+    logo = extra.get("logo")
+    fav = extra.get("favicon") or {}
+    if logo:
+        config.theme["logo"] = logo
+    if isinstance(fav, dict) and fav.get("svg"):
+        config.theme["favicon"] = fav["svg"]
     try:
         import PIL  # noqa: F401
         SITE["thumbs_enabled"] = True

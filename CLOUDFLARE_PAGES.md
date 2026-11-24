@@ -20,15 +20,8 @@ Reader mail is `corrections@hotroddinghistory.com` only. Webby still needs to ro
 
 Cloudflare Web Analytics: set `extra.cf_analytics_token` in `mkdocs.yml`. The beacon is omitted while the token is empty.
 
-The wordmark and favicon are provisional. Swap these files in place when the final art arrives:
+The wordmark and favicon are placeholders. Paths live only in `mkdocs.yml` under `extra.logo` and `extra.favicon`. See the README to drop in a new SVG and favicon set. `docs/assets/og-default.png` (1200×630) is the default social image and is separate from that set.
 
-- `docs/assets/logo.svg`
-- `docs/assets/favicon.svg`
-- `docs/assets/favicon-32.png`
-- `docs/assets/apple-touch-icon.png` (180×180)
-- `docs/assets/logo-512.png`
-- `docs/assets/og-default.png` (1200×630)
-
-Letterforms are Alfa Slab One, already self-hosted under the SIL Open Font License. The mark is upright title case. It is not a stand-in for the Hearst magazine logo.
+Letterforms on the current placeholder are Alfa Slab One, already self-hosted under the SIL Open Font License. The mark is upright title case. It is not a stand-in for the Hearst magazine logo.
 
 `netlify.toml` is unchanged. The unused Netlify cutover snippet is in `netlify-redirect/`.

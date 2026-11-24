@@ -6,7 +6,7 @@
 <header class="md-header hr-bar" data-md-component="header">
   <nav class="md-header__inner hr-bar__inner" aria-label="{{ lang.t('header') }}">
     <a href="{{ home_href }}" title="{{ config.site_name | e }}" class="md-header__button md-logo hr-bar__logo" aria-label="{{ config.site_name }}" data-md-component="logo">
-      <img src="{{ 'assets/favicon.svg' | url }}" alt="">
+      <img src="{{ config.extra.favicon.svg | url }}" alt="">
     </a>
     <a class="hr-bar__brand" href="{{ home_href }}"><span class="hr-bar__name">{{ mast }}</span></a>
     <div class="md-header__title" data-md-component="header-title" hidden>

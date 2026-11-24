@@ -50,7 +50,8 @@ def build_ld(context, page, config):
     site_id = base + "#website"
     name = config.get("site_name") or "Hot Rodding History"
     desc = config.get("site_description") or ""
-    logo = _abs(config, "assets/logo-512.png")
+    fav = (config.get("extra") or {}).get("favicon") or {}
+    logo = _abs(config, fav.get("large") or "assets/logo-512.png")
     graph = [
         {
             "@type": "Organization",

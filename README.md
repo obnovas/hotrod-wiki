@@ -1,7 +1,10 @@
 # Hot Rodding History
 
 A growing, source-cited archive of hometown strips, clubs and builders (1930s–today, focus pre-1990).
+Tagline: Octane-filled stories from the people who built the hobby.
 Content is plain Markdown in `docs/`; site built with MkDocs Material.
+
+The wordmark and favicon are placeholders. `mkdocs.yml` is the only place that names them: `extra.logo` for the wordmark SVG, and `extra.favicon` for the icon set (`svg`, `png`, `apple`, `large`). Drop replacement files at those paths, or change the paths there. The header, favicon links, JSON-LD logo, and Material theme all read that block.
 
     pip install -r requirements.txt
     mkdocs serve
