@@ -1,5 +1,5 @@
 ---
-title: 'The First Trophy: Muncie Dragway (Albany, Ind., 1959– )'
+title: 'The First Trophy: Muncie Dragway (Albany, Ind., 1959 or Easter 1960– )'
 summary: 'Three Muncie car clubs helped get a drag strip opened on State Road 67 near Albany, Indiana. Its first trophy, dated June 6, 1959, went to Carl Thomas in a 1951 Mercury, and half a century later he gave it to the man who keeps the track''s history.'
 department: drag-racing
 era: 1950s
@@ -10,8 +10,8 @@ eras:
 - 2010s
 - 2020s
 years:
-- 1959
-- 2025 # date of the latest column, not a close. The track still runs. Title is 1959– .
+- 1959 # earlier side of q-1 (the June 6, 1959 trophy); not a settled opening year. Does not decide Easter 1960. See Open questions.
+- 2025 # date of the latest column, the latest year a source dates, not a close. The track still runs. Title is 1959 or Easter 1960– .
 region: Midwest
 states:
 - Indiana
@@ -77,7 +77,7 @@ location: State Road 67 at Albany, Ind., a few miles north of Muncie[^bsu25][^xp
 peak: Two IHRA Northern Nationals, 1973 and 1974[^xps][^dgm]
 status: Racing as Muncie Dragway under Scott and Dawn Daniels, who bought it in 2012 by most accounts[^di18][^di25]
 ---
-# The First Trophy: Muncie Dragway (Albany, Ind., 1959– )
+# The First Trophy: Muncie Dragway (Albany, Ind., 1959 or Easter 1960– )
 
 *An Indiana strip three car clubs got opened, and a trophy that found its way home*
 
@@ -112,7 +112,7 @@ Johnson showed Abernethy the crown jewel of his collection on that first visit i
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Did the strip open in June 1959, or on Easter Sunday 1960?** Yancey Johnson's first trophy is "dated June 6, 1959," and he told Van Abernethy the clubs got the track "opened way back in 1959."[^di25] *Drag Illustrated*'s 2018 profile says the track "was built in 1959."[^di18] Performance Racing Industry (2017) says the facility "opened on Easter Sunday in 1960," and so does a venue directory; Ball State's archives blog says it "opened in 1960," citing an Indiana drag strip list.[^pri17][^xps][^bsu25] A 1959 race on an unfinished strip, and a formal opening the next spring, would fit both, but no source says so. The Muncie papers of June 1959 and April 1960 would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Did the strip open in June 1959, or on Easter Sunday 1960?** Yancey Johnson's first trophy is "dated June 6, 1959," and he told Van Abernethy the clubs got the track "opened way back in 1959."[^di25] *Drag Illustrated*'s 2018 profile says the track "was built in 1959."[^di18] Performance Racing Industry (2017) says the facility "opened on Easter Sunday in 1960," and so does a venue directory; Ball State's archives blog says it "opened in 1960," citing an Indiana drag strip list.[^pri17][^xps][^bsu25] A 1959 race on an unfinished strip, and a formal opening the next spring, would fit both, but no source says so. The front-matter `years` span is `[1959, 2025]`. That field is `[first, last]`, two integers, and 1959 is the earlier side of the dispute, the earlier year a source gives, so the span covers Easter 1960. It does not decide the question. The title says 1959 or Easter 1960. The 2025 end is the date of the latest column, not a close. The track still runs. The Muncie papers of June 1959 and April 1960 would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Did the Daniels buy the track in 2012 or 2013?** *Drag Illustrated* says 2012, twice (2018 and 2025).[^di18][^di25] Performance Racing Industry (2017) says "Since taking over ownership of track in 2013."[^pri17] The obituary spells Himes's wife "Diane"; Abernethy's column spells her "Dianne."[^hb11][^di25] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

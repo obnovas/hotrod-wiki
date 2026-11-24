@@ -62,7 +62,7 @@ related:
 - people/bill-hines-leadslinger-hydraulics.md
 canonical_for: []
 location: Filmed around Covington, Conyers and Oxford, Ga.; the cars kept running at H&H Body Shop in Norcross[^hpm18][^wgxa17]
-peak: The General Lee's jump at Oxford College, Saturday, November 11, 1978[^hist][^hpm18]
+peak: The General Lee's jump on November 11, 1978[^hist], a Saturday on the campus Horsepower Memories calls Oxford University[^hpm18]
 status: Lee 1 restored in 2006; Lee 6, finished but never filmed, at the Volo Auto Museum in Illinois[^brb06][^scc20]
 ---
 # "We Wreck 'Em Just as Fast as We Need 'Em": The Georgia General Lees and H&H Body Shop (Covington, Conyers, Oxford and Norcross, Ga., 1978–2006)
@@ -91,7 +91,7 @@ The shop put its own name on one car before sending it back. The production peop
 
 ## The jump at Oxford
 
-The jump everyone remembers was filmed on Saturday, November 11, 1978, on the campus of Oxford College. A stuntman ran the first General Lee off a dirt ramp and over a police car, 16 feet up.[^hist] The crew shot it on a Saturday to avoid a crowd of students.[^hpm18] The landing totaled the car.[^hist] The jump measured 82 feet by History.com's count and 81 by a fan's survey of the locations.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^hist][^hpm18] It went into the opening credits, and the first episode aired January 26, 1979.[^hpm18] In Covington itself another jump went over the railroad tracks near the town square, where a rail trail runs now.[^hpm18]
+The jump everyone remembers was filmed on November 11, 1978. A stuntman ran the first General Lee off a dirt ramp and over a police car, 16 feet up, and the landing totaled the car.[^hist] *Horsepower Memories* says the crew shot it on a Saturday, on the campus it calls Oxford University (it is Oxford College), to avoid a crowd of students, and that the jump launched the General Lee 16 feet into the air.[^hpm18] The jump measured 82 feet by History.com's count and 81 by a fan's survey of the locations.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^hist][^hpm18] It went into the opening credits, and the first episode aired January 26, 1979.[^hpm18] In Covington itself another jump went over the railroad tracks near the town square, where a rail trail runs now.[^hpm18]
 
 After the fifth episode production broke for Christmas, and filming was to go on in January. Warner Bros. moved the show to California instead. Lee 1 and Lee 2 went to the scrap yard on Christmas Eve 1978.[^scc20] Lee 1 had one more part to play first. It came back to the shop a wreck and went out again, painted blue, as the wrecked race car in the episode "Repo Men."[^brb07] Three usable General Lees went west. By Holman's account a fourth was given to Don Schisler, because Warner Bros. owed him money.[^scc20]
 
@@ -109,7 +109,7 @@ In California the show went on to use hundreds of General Lees.[^hist][^scc20] T
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was the Oxford jump 81 feet or 82?** History.com says the jump was "16 feet high and 82 feet long."[^hist] The *Horsepower Memories* location survey says it "measured a distance of 81 feet and launched the General Lee 16 feet into the air," and calls the campus "Oxford University"; it is Oxford College.[^hpm18] Both agree on the date, the height and the police car. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was the Oxford jump 81 feet or 82?** History.com says the jump was "16 feet high and 82 feet long," on November 11, 1978. It does not say Saturday, and it does not name the campus.[^hist] The *Horsepower Memories* location survey says it "measured a distance of 81 feet and launched the General Lee 16 feet into the air," on a Saturday, and calls the campus "Oxford University"; it is Oxford College. It does not give the calendar date.[^hpm18] They agree on the 16-foot height and on jumping a police car. They do not both give the date. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Did H&H do 76 cars in two months?** Henry Holman told WGXA in 2017, "We did six cars for Warner Brothers," and "we had to do 76 cars in two months."[^wgxa17] The six fits the museum's count of five General Lees used in Georgia plus the unused sixth.[^scc20] We have no second source for the 76. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

@@ -1,6 +1,6 @@
 ---
-title: 'The Mayor Said Yes: Butch Hicks, the Coachmen and Manassas Dragway (Huntsville and Harvest, Ala., 1956–2025)'
-summary: 'In 1956 a Huntsville teenager, Butch Hicks, got the mayor''s approval to hold the city''s first drag race on Martin Road. He co-founded the Coachmen Car Club in 1958, helped secure the land for Manassas Dragway at Harvest in 1961, and built cars for the rest of his life.'
+title: 'The Mayor Said Yes: Butch Hicks, the Coachmen and Manassas Dragway (Huntsville and Harvest, Ala., 1956–2025, by his family''s account)'
+summary: 'By his family''s account, in 1956 a Huntsville teenager, Butch Hicks, got the mayor''s approval to hold the city''s first drag race on Martin Road. He co-founded the Coachmen Car Club in 1958, helped secure the land for Manassas Dragway at Harvest in 1961, and built cars for the rest of his life.'
 department: people
 era: 1950s
 eras:
@@ -59,9 +59,9 @@ location: Huntsville, Ala.; the strip at Turner Farms, Harvest, north of the cit
 peak: The first million-dollar race, at the strip in 1996[^di23]
 status: Hicks died November 5, 2025; the strip runs as Rocket City Dragway[^qcd25][^sick24]
 ---
-# The Mayor Said Yes: Butch Hicks, the Coachmen and Manassas Dragway (Huntsville and Harvest, Ala., 1956–2025)
+# The Mayor Said Yes: Butch Hicks, the Coachmen and Manassas Dragway (Huntsville and Harvest, Ala., 1956–2025, by his family's account)
 
-*A Huntsville kid takes the city's first drag race to the mayor, then helps build the strip that outlasted him*
+*By his family's account, a Huntsville kid takes the city's first drag race to the mayor, then helps build the strip that outlasted him*
 
 !!! abstract "Article record"
     **Confidence:** Medium (Hicks's own milestones come from his family's obituary, the only source for most of them; his patents are on the federal record; the strip's later history is from racing papers) · **Source types:** <span class="hr-badge">Grassroots</span> Butch Hicks's family obituary in *Quad Cities Daily* (2025); two U.S. patents (1987, 1988); *Drag Illustrated* (2023) and *Sick the Magazine* on the strip; *Hot Rod* (1975) and NHRA (2014) on Shirl Greer's championship · **Last verified:** 2026-11-24 (Round 49) · **Open issues:** ◐ the street race and the mayor; ◐ who built Shirl Greer's 1974 championship Mustang · [How we rate this](../reference/source-standards.md)
