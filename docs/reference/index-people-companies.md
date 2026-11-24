@@ -442,7 +442,7 @@
 | Igniters (Kingston Igniters) | Kingston, N.Y., hot rod club (1955); motor club from 1959 | [Kingston Igniters](../drag-racing/kingston-igniters.md) |
 | Inland Empire Timing Association | Ran the Deer Park strip from 1954 ⚠ to 1961 | [Deer Park](../drag-racing/deer-park-spokane-nitrous.md) |
 | International Timing Association (I.T.A.) | Bob Osiecki's sanctioning body at Chester and Greer, S.C., 1950s; "over 1600 drivers" | [Chester](../drag-racing/chester-drag-strip-south-carolina.md) |
-| Intruders Car Club | Phoenix lowrider club, founded 1975 or 1976 ⚠; Arizona's first all-lowrider club | [The Intruders](../places/intruders-phoenix-lowriders-cruising.md) |
+| Intruders Car Club | Phoenix lowrider club, founded 1975 or 1976 ⚠; by Jimmy Arbizu's account, Arizona's first all-lowrider club | [The Intruders](../places/intruders-phoenix-lowriders-cruising.md) |
 | Iowa Timing Association | Named in a Felsen dedication ⚠ (which book) | [*Street Rod* serial](../media/street-rod-newspaper-serial.md) |
 | Iron Horsemen | Sedalia motorcycle club in the 1962 strip talks | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | Irwin, Sterling Lafayette "Fate" | Corryton politician; opened Broadway Speedway, 1948 | [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md) |

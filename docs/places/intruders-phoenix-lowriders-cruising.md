@@ -1,6 +1,6 @@
 ---
-title: '"We''re the Slowest Ones": The Intruders and Cruising in Phoenix (Phoenix, Ariz., 1975–2026)'
-summary: 'Phoenix tickets a car that passes the same point three times in two hours in a posted no-cruising area. The Intruders, founded in 1975 or 1976 as Arizona''s first all-lowrider club and named for a soul group, have cruised under that rule for fifty years.'
+title: '"We''re the Slowest Ones": The Intruders and Cruising in Phoenix (Phoenix, Ariz., 1975 or 1976–2026)'
+summary: 'Phoenix tickets a car that passes the same point three times in two hours in a posted no-cruising area. The Intruders, founded in 1975 or 1976, are by Jimmy Arbizu''s account Arizona''s first all-lowrider club, and MotorTrend says they were named for a soul group.'
 department: places
 era: 1970s
 eras:
@@ -10,7 +10,7 @@ eras:
 - 2010s
 - 2020s
 years:
-- 1975
+- 1975 # earlier side of q-1 (MotorTrend says 1975); not a settled founding year. Does not decide 1976. See Open questions.
 - 2026
 region: Southwest
 states:
@@ -67,16 +67,16 @@ location: Phoenix and the West Valley; the club's home base at its president's h
 peak: Two "last cruise" nights at Metrocenter, June and July 2020, the second estimated at more than 18,000 people[^nt20]
 status: The Intruders marked their 50th anniversary in 2026; Phoenix's no-cruising rule is still on the books[^azpbs26][^pcc][^kjzz26]
 ---
-# "We're the Slowest Ones": The Intruders and Cruising in Phoenix (Phoenix, Ariz., 1975–2026)
+# "We're the Slowest Ones": The Intruders and Cruising in Phoenix (Phoenix, Ariz., 1975 or 1976–2026)
 
-*A lowrider club named for a soul group, and a city rule that counts to three*
+*A lowrider club MotorTrend says was named for a soul group, and a city rule that counts to three*
 
 !!! abstract "Article record"
     **Confidence:** Medium (the club's founding comes from its own members and press about it, and the year is disputed; the cruising years come from residents' memories in a 2020 local story; the ordinance is the city's own text) · **Source types:** <span class="hr-badge">Grassroots</span> the Phoenix City Code; *Phoenix New Times* (2020) with residents' memories; Arizona State University's student paper *Downtown Devil* (2022); Arizona PBS, KJZZ and ABC15; *Goodguys* (2018) and MotorTrend's *Lowrider Garage* (2021) · **Last verified:** 2026-11-24 (Round 49) · **Open issues:** ⚠ 1975 or 1976; ◐ the soul group; ◐ when the city's cruising rule passed · [How we rate this](../reference/source-standards.md)
 
 ## Three times past the same point
 
-Phoenix has a rule that counts. In a posted no-cruising area, a driver who passes the same police traffic control point three times within two hours, and knowingly adds to the congestion, can be ticketed on the third pass. The Intruders, Arizona's first club for lowriders only, have cruised under that rule for fifty years, and one of them says they are the slowest ones on the road.
+Phoenix has a rule that counts. In a posted no-cruising area, a driver who passes the same police traffic control point three times within two hours, and knowingly adds to the congestion, can be ticketed on the third pass. The Intruders, by Jimmy Arbizu's account the first club for lowriders only, have cruised under that rule, and one of them says they are the slowest ones on the road.
 
 The cruise used to be Central Avenue. When Phoenix police cracked down on the teenagers coasting up and down it on Friday and Saturday nights in the late 1970s and early 1980s, the kids moved to Metrocenter, the mall on the west side, and circled it for hours.[^nt20] "If the cops saw you go past three times, you got a ticket," Randy Slack remembered.[^nt20] Silva, a lowrider who cruised Metro on Friday nights with his friends, said police singled them out. "You'd go around once and they'd pull you out of the line and try to ticket you," he said. His older brother had a chromed-out Bonneville, and the police would be on him as soon as he showed up.[^nt20]
 
@@ -102,7 +102,7 @@ The Intruders marked fifty years in 2026.[^azpbs26] That year the Tempe History 
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Were the Intruders founded in 1975 or 1976?** MotorTrend's *Lowrider Garage* (2021) says the club was "established in Arizona way back in 1975."[^mt21] *Downtown Devil* (2022), *Goodguys* (2018), ABC15 and Arizona PBS (2026) say 1976, and Arizona PBS dates the 50th anniversary to 2026.[^dd22][^gg18][^abc15][^azpbs26] A founding in late 1975 and a first full year in 1976 would fit both; no source says so. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Were the Intruders founded in 1975 or 1976?** MotorTrend's *Lowrider Garage* (2021) says the club was "established in Arizona way back in 1975."[^mt21] *Downtown Devil* (2022), *Goodguys* (2018), ABC15 and Arizona PBS (2026) say 1976, and Arizona PBS dates the 50th anniversary to 2026.[^dd22][^gg18][^abc15][^azpbs26] A founding in late 1975 and a first full year in 1976 would fit both; no source says so. The front-matter `years` span is `[1975, 2026]`. That field is `[first, last]`, two integers, and 1975 is the earlier side of the dispute, the year MotorTrend gives, so the span covers 1976. It does not decide the question. The title says 1975 or 1976. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Single source so far.** **Is the club named for the soul group?** Only MotorTrend says "The Intruders came up with their name from the popular Soul music group from the 60's and 70's."[^mt21] It does not name a song or a member who chose it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 

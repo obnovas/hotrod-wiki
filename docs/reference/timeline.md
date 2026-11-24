@@ -498,7 +498,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1975 | Jerry Slover becomes Pete & Jake's dealer in Kansas City | [California Kid](../media/california-kid-pete-and-jakes-peculiar.md) |
 | 1975 | Third National Truck-In at Beech Bend Park, Bowling Green, Ky. (July): more than 4,500 vans come | [National Truck-In](../media/national-truck-in-vans-beech-bend.md) |
 | 1975 | The York Airport property is sold to York Building Products | [York U.S. 30 Drag-O-Way](../drag-racing/york-us-30-dragway-thomasville.md) |
-| 1975 ⚠ | The Intruders, Arizona's first all-lowrider club, are founded in Phoenix (or 1976) | [The Intruders](../places/intruders-phoenix-lowriders-cruising.md) |
+| 1975 ⚠ | The Intruders are founded in Phoenix (or 1976); by Jimmy Arbizu's account, Arizona's first all-lowrider club | [The Intruders](../places/intruders-phoenix-lowriders-cruising.md) |
 | 1976 | Competition Cams formed by six partners, producing out of RHS's warehouse | [COMP Cams & RHS](../companies/comp-cams-rhs.md) |
 | 1976 | Kanawha Valley Drag Strip closes | [Winfield, W.Va.](../drag-racing/kanawha-valley-drag-strip-winfield.md) |
 | 1976–77 | Minot's Bob Struksnes finishes fourth, then third, in NHRA Top Fuel | [North Dakota](../drag-racing/north-dakota-minot-borrowed-strips.md) |
