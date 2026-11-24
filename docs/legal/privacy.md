@@ -2,8 +2,6 @@
 title: Privacy
 ---
 
-> **DRAFT for review — not legal advice.**
-
 # Privacy
 
 Hot Rodding History is a free, static website. You can read it without creating an account. We do not run ads, and we do not sell your information.
@@ -30,10 +28,7 @@ The site is hosted on Cloudflare Pages. To deliver a page, Cloudflare receives t
 
 ## Mail
 
-If you write to [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com), we keep the message, and any reply, only as long as we need it to handle your request and to keep a record of what we changed.
-
-!!! warning "To be completed before launch"
-    Name how long corrections mail is kept, or state that there is no fixed period.
+If you write to [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com), we keep that correspondence only as long as needed to handle the request and any resulting correction.
 
 Please do not send private information about other people. If you want to be credited, tell us the name to use, or say you want to stay anonymous.
 
@@ -55,5 +50,4 @@ The site is published in the United States by Adventure Equity LLC, a Mississipp
 
 Questions about this page: [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com).
 
-!!! warning "To be completed before launch"
-    Set the effective date on the day this text goes live.
+Effective date: November 24, 2026.

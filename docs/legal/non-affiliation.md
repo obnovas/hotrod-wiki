@@ -2,8 +2,6 @@
 title: Non-affiliation
 ---
 
-> **DRAFT for review — not legal advice.**
-
 # Non-affiliation
 
 Hot Rodding History is an independent archive, not affiliated with, endorsed or sponsored by Hearst Autos, HOT ROD magazine, NHRA, SEMA, or any club, track, manufacturer or business named on this site.

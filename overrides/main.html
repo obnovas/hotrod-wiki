@@ -18,6 +18,7 @@
   <link rel="icon" href="{{ 'assets/favicon-32.png' | url }}" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="{{ 'assets/apple-touch-icon.png' | url }}">
   <meta name="theme-color" content="#1d1918">
+  {% if hr.kind == "404" %}<meta name="robots" content="noindex">{% endif %}
   <meta property="og:type" content="{{ 'article' if hr.kind == 'story' else 'website' }}">
   <meta property="og:site_name" content="{{ config.site_name | e }}">
   <meta property="og:title" content="{{ seo_title | e }}">

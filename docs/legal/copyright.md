@@ -2,8 +2,6 @@
 title: Copyright and license
 ---
 
-> **DRAFT for review — not legal advice.**
-
 # Copyright and license
 
 Unless a page, caption or credit line says otherwise, the original text on this site, and the original selection and arrangement of the archive, are copyright © 2026 Adventure Equity LLC.

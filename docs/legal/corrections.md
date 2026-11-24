@@ -2,8 +2,6 @@
 title: Corrections and takedown
 ---
 
-> **DRAFT for review — not legal advice.**
-
 # Corrections and takedown
 
 If something on this site is wrong, incomplete, unfair or used without permission, we want to hear from you.
@@ -35,8 +33,7 @@ If you are the owner of a copyright, or you are authorized to act for the owner,
 
 Those items follow 17 U.S.C. § 512(c)(3). A notice that leaves them out may delay our review.
 
-!!! warning "To be completed before launch"
-    Name the DMCA designated agent (name, street address, phone, and email) after Adventure Equity LLC registers one with the U.S. Copyright Office. Until then, send notices to corrections@hotroddinghistory.com.
+We will publish the designated agent's details once Adventure Equity LLC has registered one with the U.S. Copyright Office. Until then, notices go to [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com).
 
 ## Counter-notice
 

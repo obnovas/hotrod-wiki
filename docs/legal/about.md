@@ -2,8 +2,6 @@
 title: About and editorial rules
 ---
 
-> **DRAFT for review — not legal advice.**
-
 # About and editorial rules
 
 Hot Rodding History is a free, source-cited archive of the hometown history of hot rodding: the strips, clubs, shops and builders where the hobby actually lived on a Saturday night. We cover the 1930s to today, with the heaviest focus on the years before 1990.
