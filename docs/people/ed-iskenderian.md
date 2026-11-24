@@ -57,7 +57,7 @@ Ed Iskenderian was born in Cutler, in Tulare County, California, on **July 10, 1
 
 Then came cams. He was **mentored by Ed Winfield** in starting cam grinding.[^hag] That links him to [Winfield](ed-winfield.md), whom Hemmings calls the model for Iskenderian. He was the chief instigator of the [Camgrinder Wars](../eras/1950s-camgrinder-wars.md), and his ads brought Don Garlits west in 1959.[^cp59g] Later he helped organize the industry: he was a founding member and first president of SEMA (1963), and its last surviving founder.[^sema][^leg]
 
-**Correction:** the earlier wiki note "1921–2026 (unverified)" from the Garlits Museum list is now confirmed.
+**Correction:** the earlier note "1921–2026 (unverified)" from the Garlits Museum list is now confirmed.
 
 His last interview, in a nursing home south of LA in September 2025, ended with "Goodbye, boys!"[^hag]
 

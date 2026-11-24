@@ -1,0 +1,5 @@
+{% if hr_ld %}
+<script type="application/ld+json">
+{{ hr_ld | tojson(indent=2) }}
+</script>
+{% endif %}

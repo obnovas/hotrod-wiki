@@ -285,7 +285,7 @@ def render_graph(data: dict, page_url: str) -> str:
         'xmlns="http://www.w3.org/2000/svg">',
         f'<title id="hr-web-title">Web of influence: {len(nodes)} companies, people, places and clubs and the '
         f'{len(data["edges"])} documented connections between them</title>',
-        '<desc id="hr-web-desc">Each line is a connection backed by a wiki page. A full text table follows the diagram.</desc>',
+        '<desc id="hr-web-desc">Each line is a connection backed by a page in the archive. A full text table follows the diagram.</desc>',
         '<g class="hr-web__edges">',
     ]
     for k, e in enumerate(data["edges"]):
@@ -360,7 +360,7 @@ def render_table(data: dict, page_url: str) -> str:
         )
     return (
         '<div class="hr-web__table-wrap"><table class="hr-web__table"><caption class="hr-sr">All connections in the web of '
-        'influence, with the wiki page that documents each one</caption>'
+        'influence, with the archive page that documents each one</caption>'
         '<thead><tr><th scope="col">From</th><th scope="col">Relationship</th><th scope="col">To</th>'
         '<th scope="col">What the page says</th><th scope="col">Evidence page</th></tr></thead><tbody>'
         + "".join(rows)

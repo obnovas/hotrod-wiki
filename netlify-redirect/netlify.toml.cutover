@@ -1,0 +1,16 @@
+# Not active. Do not copy this over the root netlify.toml until cutover.
+# www and .org are 301'd to the apex in DNS. Do not add them here.
+# Do not put these rules in docs/_redirects or site/_redirects.
+# hooks/redirects_hook.py rewrites site/_redirects from hooks/redirects.yml on every build.
+
+[[redirects]]
+  from = "https://hotrod-wiki.netlify.app/*"
+  to = "https://hotroddinghistory.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://hotrod-wiki.netlify.app/"
+  to = "https://hotroddinghistory.com/"
+  status = 301
+  force = true

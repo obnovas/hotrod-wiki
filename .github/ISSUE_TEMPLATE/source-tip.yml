@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Local and homegrown sources are the heart of this wiki: local papers, club newsletters, obituaries, municipal records, markers, family accounts. Please do not paste copyrighted material or share anything behind a paywall in full; a link and a short description is perfect.
+        Local and homegrown sources are the heart of the archive: local papers, club newsletters, obituaries, municipal records, markers, family accounts. Please do not paste copyrighted material or share anything behind a paywall in full; a link and a short description is perfect.
   - type: input
     id: page
     attributes:

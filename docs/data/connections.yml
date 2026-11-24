@@ -1,6 +1,6 @@
 # Web of influence: nodes (companies, people, places, clubs, institutions) and the edges between them.
 #
-# Every edge must name a supporting wiki page (`page`) and one or more `evidence` phrases that
+# Every edge must name a supporting archive page (`page`) and one or more `evidence` phrases that
 # appear verbatim (after markdown/curly-quote normalisation) in that page. The build fails otherwise
 # (hooks/connections_hook.py, scripts/connections_lib.py). Run `python scripts/check_connections.py`.
 #
@@ -21,7 +21,7 @@ nodes:
   - {id: moroso,     label: Moroso,          type: company, group: garage-born, page: companies/moroso.md}
   - {id: hooker,     label: Hooker Headers,  type: company, group: garage-born, page: companies/hooker-headers.md}
   - {id: mthompson,  label: Mickey Thompson, type: company, group: big-names,   page: companies/mickey-thompson.md}
-  # ---- companies already in the wiki
+  # ---- companies already in the archive
   - {id: mrgasket,   label: Mr. Gasket,      type: company, group: garage-born, page: companies/mr-gasket.md}
   - {id: edelbrock,  label: Edelbrock,       type: company, group: big-names,   page: companies/edelbrock-slingshot.md}
   - {id: weiand,     label: Weiand,          type: company, group: garage-born, page: people/barney-navarro.md}

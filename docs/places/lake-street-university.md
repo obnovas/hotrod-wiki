@@ -54,7 +54,7 @@ The Twin Cities cruised Lake Street in Minneapolis and University Avenue in St. 
 
 The local club's own history admits where cruising led:
 
-> "Unfortunately, this cruising activity often led to impromptu street races to see whose car was best, or fastest. The one-way streets that crossed Lake Street, Portland and Park, were the best because they were wide, with no oncoming traffic. Had to watch the cross streets carefully though."
+> "Unfortunately, this cruising activity often led to impromptu street races to see whose car was best, or fastest. The one-way streets that crossed Lake Street, Portland and Park, were the best because they were wide, with no oncoming traffic."
 >
 > — **Gopher State Timing Association**, club history (undated; drawing on "The GSTA Story," 1957).[^gsta]
 
@@ -62,11 +62,11 @@ The Gopher State Timing Association (GSTA) was part of the same scene. Its own h
 
 Forum posters remember the places:
 
-> "We cruised Lake Street a lot in the early 60's....never thought to take any pictures. I remember Porky's, the BigWheel, the Avalon theater, Sears, etc."
+> "We cruised Lake Street a lot in the early 60's. … I remember Porky's, the BigWheel, the Avalon theater, Sears, etc."
 >
 > — A **H.A.M.B. member** in the thread "Lake Street (Mpls, MN) in the 60s."[^hamb] *Anonymous forum recollection.*
 
-> "They use to cruise Lake and Uni back then. It was called cruising the loop."
+> "It was called cruising the loop."
 >
 > — Another poster, same thread.[^hamb]
 

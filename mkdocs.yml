@@ -1,5 +1,6 @@
-site_name: Hot Rod History Wiki
-site_description: A detective's archive of lesser-known hot rodding history, 1930s to today (focus pre-1990).
+site_name: Hot Rodding History
+site_description: Hometown strips, clubs and builders, footnoted.
+site_url: https://hotroddinghistory.com/
 theme:
   name: material
   custom_dir: overrides
@@ -26,10 +27,11 @@ theme:
 extra_css: [stylesheets/fonts.css, stylesheets/hotrod.css, stylesheets/era.css, stylesheets/magazine.css, stylesheets/home.css, stylesheets/highlights.css, stylesheets/connections.css, stylesheets/editorial.css, stylesheets/flow.css, stylesheets/quick-answers.css, stylesheets/storymap.css, stylesheets/print.css]
 extra_javascript: [javascripts/hotrod.js, javascripts/highlights.js, javascripts/connections.js, javascripts/storymap.js]
 extra:
-  issues_url: https://github.com/obnovas/hotrod-wiki/issues/new
-  feedback_url: https://github.com/obnovas/hotrod-wiki/issues/new?template=suggestion-feedback.yml
-  masthead: Hot Rod History
-  masthead_tag: The hometown history of hot rodding
+  issues_url: mailto:corrections@hotroddinghistory.com
+  feedback_url: mailto:corrections@hotroddinghistory.com
+  masthead: Hot Rodding History
+  masthead_tag: Hometown strips, clubs and builders, footnoted.
+  cf_analytics_token: ""  # Cloudflare Web Analytics. The beacon renders only when this is set.
   # Header shortcuts; the full department index lives behind the "Contents" button (built from `nav`).
   primary_nav:
     - {label: Eras, url: eras/}
@@ -47,6 +49,7 @@ hooks:
   - hooks/quick_answers_hook.py   # Quick Answers page from docs/data/quick_answers.yml; fails the build on a bad answer
   - hooks/map_hook.py   # Story map page, hr-map.json and "See on the map" links, from docs/data/geo.yml
   - hooks/highlights_hook.py
+  - hooks/schema_hook.py   # JSON-LD, then the launch SEO check (canonicals, sitemap, descriptions)
   - hooks/redirects_hook.py
 markdown_extensions: [footnotes, admonition, attr_list, md_in_html, toc: {permalink: true}, tables, pymdownx.snippets: {base_path: [snippets], check_paths: true}]
 plugins:
@@ -379,4 +382,10 @@ nav:
       - Bibliography: bibliography.md
   - About:
       - "Below the Local Level: What Makes This Different": about/what-makes-this-different.md
-      - "The Landscape: Who Else Keeps Hot Rod History": about/landscape.md
+      - "The Landscape: Who Else Keeps This History": about/landscape.md
+  - Legal:
+      - About and editorial rules: legal/about.md
+      - Corrections and takedown: legal/corrections.md
+      - Copyright and license: legal/copyright.md
+      - Privacy: legal/privacy.md
+      - Non-affiliation: legal/non-affiliation.md

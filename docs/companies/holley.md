@@ -88,7 +88,7 @@ Holley filed for bankruptcy in February 2008, and, the marker adds, "promised th
 <figcaption markdown>Main Street, looking west from Chestnut Street, Bradford, Pa. Linen postcard, c. 1930–1945 (Tichnor Bros., Boston, for the Bradford News Co.). Later than the Holleys' years there; context only. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Main_street,_looking_west_from_Chestnut_Street,_Bradford,_Pa_(69701).jpg). License: public domain.</figcaption>
 </figure>
 
-Holley bought **Mr. Gasket** in September 2015, per the wiki's [Mr. Gasket page](mr-gasket.md). [Mr. Gasket](mr-gasket.md), Cleveland's Hrudka brothers' company, was sold to Holley in 2015.
+Holley bought **Mr. Gasket** in September 2015, per the archive's [Mr. Gasket page](mr-gasket.md). [Mr. Gasket](mr-gasket.md), Cleveland's Hrudka brothers' company, was sold to Holley in 2015.
 
 The company of [Stu Hilborn](../people/stu-hilborn.md), the fuel-injection pioneer, is reported to have been acquired by Holley (2019,<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup> per that page's Wikipedia summary).
 

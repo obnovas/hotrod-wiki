@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you. Every change on this wiki needs a citable source, so please include one if you can. If you only remember it, say so and we will treat it as a lead (◐ single-source) until we find a second source.
+        Thank you. Every change on the archive needs a citable source, so please include one if you can. If you only remember it, say so and we will treat it as a lead (◐ single-source) until we find a second source.
   - type: input
     id: page
     attributes:

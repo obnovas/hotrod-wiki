@@ -86,9 +86,10 @@ That spring the Legislature passed two bills "affecting the hot rod crowd," as t
 
 By fall the Castroville drags were regular. On Oct. 27 Jerry Koch of Hondo won a trophy in D-Gas at 90.36 mph in a '56 Chevrolet.[^hah571108] A week later a columnist visited his mother, Mrs. Elyne Koch. She had at least a dozen of his trophies at home, and he had given about as many more to girlfriends. She admitted she worried about his racing but insisted it was just another sport, like football. Jerry worked for a brake company in San Antonio and raced around the area. The column told readers they could see the drags at the Castroville Airport on the fourth Sunday of each month, with the next on Nov. 24. The October races had drawn 800 onlookers, with racers from as far away as Austin, though most came from San Antonio.[^hah571115]
 
+<figure markdown>
 ![The two-story stone former courthouse, now city hall, in Castroville, Texas, with a flagpole and live oak in front](../assets/images/commons-castroville-city-hall.jpg){ loading=lazy }
-
-*Castroville's city hall, the former first Medina County courthouse, in 2013. Photo: Larry D. Moore, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via Wikimedia Commons.*
+<figcaption markdown>Castroville's city hall, the former first Medina County courthouse, in 2013. Context only. Creator: Larry D. Moore. Date: 2013-05-03. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Castroville_city_hall_2013.jpg). License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</figcaption>
+</figure>
 
 The paper's last word came 14 years later. In March 1971 the Sports Car Club of America asked Hondo for a one-time race at the old air field, and two councilmen pointed out that "the council has refused local people permission to hold drag races at the air field."[^hah710311] In the 1950s the county's airfields had hosted drag racing. By 1971 the town was turning down requests for it. Devine had asked, and Castroville had drawn the crowd. For other small-town Texas clubs of the period, see [Cameron's Accelerators](cameron-accelerators.md) and [Canyon's Orchids, Plugs and Celtics](canyon-orchids-celtics-amarillo.md).<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 

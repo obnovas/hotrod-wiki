@@ -103,7 +103,7 @@ The strip joined NHRA in 1968, and its High School Drags began in 1973.[^bhist] 
 
 Over 220 people showed up for a meeting whose attendance expectation was 35-40. They raced the interstate before it was open to traffic. At Bandimere's strip, each driver tossed a quarter into the bucket.
 
-*See also:* southern New Mexico's racers also used an unopened stretch of I-25, north of Las Cruces, in the 1960s: [A Mobil Flag on Eubank](new-mexico-timing-association-albuquerque.md). For Utah's strips to the west, see [Sundays at Airport No. 2](utah-airport-no-2-salt-lake-strips.md). For Erie's Mountain View Dragway, Thunder Road, Century 21 and the strips beyond Denver, see [An Uphill Shutdown and a Pistol at City Council](mountain-view-erie-colorado-strips.md).
+*See also:* southern New Mexico's racers also used an unopened stretch of I-25, north of Las Cruces, in the 1960s: [A Mobil Flag on Eubank](new-mexico-timing-association-albuquerque.md). For Utah's strips to the west, see [Sundays at Airport No. 2](utah-airport-no-2-salt-lake-strips.md). For Erie's Mountain View Dragway, Thunder Road, Century 21 and the strips beyond Denver, see [An Uphill Shutdown and a Rancher's Cessna](mountain-view-erie-colorado-strips.md).
 
 ## Open questions & disputed details
 

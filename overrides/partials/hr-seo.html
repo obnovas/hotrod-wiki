@@ -1,0 +1,27 @@
+{% macro page_title() -%}
+{%- set name = "Hot Rodding History" -%}
+{%- if not page or (hr.kind | default("")) == "404" -%}
+Page not found — {{ name }}
+{%- elif page.is_homepage -%}
+Hot Rodding History — Hometown Drag Strips, Clubs & Builders
+{%- else -%}
+{%- set t = ((page.meta.seo_title if page.meta and page.meta.seo_title else page.title) | striptags | trim) -%}
+{%- if page.meta and page.meta.seo_title -%}
+{{ t }} | {{ name }}
+{%- elif (hr.kind | default("")) == "section" -%}
+{{ t }} | {{ name }}
+{%- elif (hr.kind | default("")) == "story" -%}
+{%- if t | length <= 44 -%}
+{{ t }} — {{ name }}
+{%- elif t | length > 70 and ":" in t -%}
+{%- set subject = t.split(":", 1)[1] | trim -%}
+{%- if subject | length <= 44 -%}{{ subject }} — {{ name }}{%- else -%}{{ subject }}{%- endif -%}
+{%- else -%}
+{{ t }}
+{%- endif -%}
+{%- else -%}
+{%- set with_name = t ~ " — " ~ name -%}
+{%- if with_name | length <= 70 -%}{{ with_name }}{%- else -%}{{ t }}{%- endif -%}
+{%- endif -%}
+{%- endif -%}
+{%- endmacro %}

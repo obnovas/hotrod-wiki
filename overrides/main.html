@@ -1,15 +1,42 @@
 {% extends "base.html" %}
+{% import "partials/hr-seo.html" as seo with context %}
 {% set hr = hr | default({}) %}
 {#- Bespoke editorial shell. Material still provides search, palette, instant navigation and the code/table helpers;
-    everything the reader sees (masthead, contents, story layout, footer) is ours. -#}
+    everything the reader sees (masthead, contents, story layout, footer) is ours.
+    Canonical links stay in base.html and follow site_url (the apex). -#}
+{% block htmltitle %}<title>{{ seo.page_title() }}</title>{% endblock %}
 {% block extrahead %}
+  {% set seo_title = seo.page_title() %}
+  {% set seo_desc = (page.meta.description if page.meta and page.meta.description else config.site_description) %}
+  {% set og_image = "assets/og-default.png" %}
+  {% if hr.kind == "story" and (hr.thumb or hr.thumb_url) %}
+    {% set og_image = hr.thumb or hr.thumb_url %}
+  {% endif %}
+  {% set og_image_url = og_image if og_image.startswith("http") else config.site_url ~ (og_image | trim("/")) %}
   <link rel="preload" href="{{ 'assets/fonts/AlfaSlabOne-latin.woff2' | url }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ 'assets/fonts/SourceSerif4-normal-5020.woff2' | url }}" as="font" type="font/woff2" crossorigin>
-  <meta name="theme-color" content="#7a1f1f">
-  <meta property="og:type" content="article">
+  <link rel="icon" href="{{ 'assets/favicon-32.png' | url }}" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="{{ 'assets/apple-touch-icon.png' | url }}">
+  <meta name="theme-color" content="#1d1918">
+  {% if hr.kind == "404" %}<meta name="robots" content="noindex">{% endif %}
+  <meta property="og:type" content="{{ 'article' if hr.kind == 'story' else 'website' }}">
   <meta property="og:site_name" content="{{ config.site_name | e }}">
-  <meta property="og:title" content="{{ (hr.title | d(page.title | d(config.site_name))) | e }}">
-  {% if hr.blurb %}<meta property="og:description" content="{{ hr.blurb | e }}">{% endif %}
+  <meta property="og:title" content="{{ seo_title | e }}">
+  <meta property="og:description" content="{{ seo_desc | e }}">
+  {% if page and page.canonical_url %}<meta property="og:url" content="{{ page.canonical_url | e }}">{% endif %}
+  <meta property="og:image" content="{{ og_image_url | e }}">
+  {% if og_image == "assets/og-default.png" %}
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Hot Rodding History. Hometown strips, clubs and builders, footnoted.">
+  {% else %}
+  <meta property="og:image:alt" content="{{ seo_title | e }}">
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ seo_title | e }}">
+  <meta name="twitter:description" content="{{ seo_desc | e }}">
+  <meta name="twitter:image" content="{{ og_image_url | e }}">
+  {% include "partials/hr-schema.html" %}
 {% endblock %}
 {% block site_nav %}{% endblock %}
 {% block tabs %}{% endblock %}

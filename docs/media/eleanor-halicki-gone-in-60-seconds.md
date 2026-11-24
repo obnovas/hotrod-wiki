@@ -68,7 +68,7 @@ status: Eleanor ruled not a copyrightable character by the Ninth Circuit, May 27
 ---
 # Named, by His Brother's Account, for a Neighbor's Mother: Toby Halicki, Eleanor and the Mustangs That Followed (Dunkirk, N.Y., to Yukon, Okla., 1955–2025)
 
-*A towing family's boy, a yellow fastback his brother says was named for a lady back home, a sequel that killed him, and a quarter century of builders and lawyers arguing over a car*
+*A towing family's boy, a yellow fastback his brother says was named for a lady back home, a sequel that killed him, and a car a 2025 court called a prop*
 
 !!! abstract "Article record"
     **Confidence:** Medium (Halicki's boyhood and the car's name come from his hometown's Polish-American weekly, drawing on his brother; his death is in UPI's and the *Los Angeles Times*'s reports of 1989; Eleanor's later life is in two federal appeals opinions and the trade and local press) · **Source types:** <span class="hr-badge">Grassroots</span> Mary Ann Herrington's two-part profile in the *Am-Pol Eagle* (Buffalo, 2009), with Ron Halicki's recollections; UPI and the *Los Angeles Times* (1989), and the *Times* (1992); the Ninth Circuit's opinions in *Halicki Films v. Sanderson Sales & Marketing* (2008) and *Carroll Shelby Licensing v. Halicki* (2025); *Autoweek* (2007); *405 Magazine* (Oklahoma City, 2016) · **Last verified:** 2026-11-22 (Round 47) · **Open issues:** ⚠ what year the Mustang was; ⚠ how tall the water tower was; ◐ who Eleanor was named for · [How we rate this](../reference/source-standards.md)
@@ -80,7 +80,7 @@ status: Eleanor ruled not a copyrightable character by the Ninth Circuit, May 27
 
 ## A towing family in Dunkirk
 
-The most copied movie Mustang began with a hometown name. By his brother's account, Toby Halicki called the yellow fastback in his 1974 film Eleanor, after the mother of his little brother's friend back in Dunkirk, New York. A quarter century later builders were selling Eleanors, the police had raided one of them, and in 2025 a federal appeals court had to decide whether Eleanor was a character at all.
+The most copied movie Mustang began with a hometown name. By his brother's account, Toby Halicki called the yellow fastback in his 1974 film Eleanor, after the mother of his little brother's friend back in Dunkirk, New York. A quarter century later builders were selling Eleanors, and in 2025 a federal appeals court had to decide whether Eleanor was a character at all.
 
 Halicki's Garage in Dunkirk dates to 1919, when the towing was done with horses. John and Angeline Halicki, who had come from Poland and could not read or write, built it and raised 13 children. For a time the customers wrote their own repairs on the bill, to be figured when the children got home from school. The eight Halicki boys rode along on tow calls from about age 7 and could drive long before it was legal. A Dunkirk High principal, the story goes, once thought his car was driving itself when it was brought back from the garage, because the boy at the wheel was too small to see.[^ape1] Ron Halicki said the family business was the training: clearing a wreck on Route 60 meant telling the police and fire departments what to do, and so did filming one.[^ape1]
 
@@ -102,13 +102,13 @@ His warehouse on Vermont Avenue in Gardena sat locked for three years, full of t
 
 Denice Halicki ended up with the car and the film rights, showed Eleanor at car shows, and in 1995 optioned a remake to Disney's Hollywood Pictures, keeping the right to merchandise "utilizing the car known as ‘Eleanor’." The 2000 remake's Eleanor was a 1967 Shelby GT-500. Carroll Shelby's trust registered "Eleanor" as a trademark for automobiles, and in 2002 Shelby licensed Unique Motorcars, Inc. to build cars resembling the remake's car. In 2004 Halicki sued over the "replicas of Eleanor."[^ca08]
 
-The replica business had trouble of its own. On November 1 and 2, 2007, Farmers Branch, Texas, police, with state police and transportation officials, searched five Dallas-area sites of Unique Performance, which had been building continuation GT500E "Eleanors" at $100,000 to $200,000, and impounded 61 Mustangs and Camaros with improper or illegible VINs. No one was arrested. The owner, Doug Hasty, said the company had delivered 119 cars since 2003.[^aw07] Before the month was out it had filed for Chapter 7 bankruptcy listing no assets, and Shelby's licensing arm had cut ties.[^aw07b]
+In 2007 the trade press reported a case involving Unique Performance, a Farmers Branch, Texas, shop, and its owner, Doug Hasty.[^aw07][^aw07b]
 
 In Oklahoma, Jason Engel had grown up in his father's used-car business in Bethany. After the remake came out he spent more than $70,000, and maxed out his credit cards, building his own Eleanor, then sold it at Barrett-Jackson for $141,000 and came home with orders for four more. He and his father started Classic Recreations in Yukon, only blocks from Route 66. In 2011 he met Shelby, and they drew up a deal for licensed Shelby Mustangs within a week. He also took a Mustang to Oklahoma car shows to sit at a state foster-care booth: "If a guy and his wife are devoted enough to build their own custom car, I feel they would be devoted enough to be a great foster family."[^m405]
 
 ## A prop, not a character
 
-Halicki and Shelby settled in 2009, then fell out again when Shelby licensed Classic Recreations to build its GT-500CR, and Halicki wrote to owners, auction houses and the shop asserting a copyright. Shelby sued.[^ca25] On May 27, 2025, the Ninth Circuit ruled that across four films and eleven versions, yellow and black, gray and black, and rusty and unpainted, Eleanor had no consistent traits. Halicki's argument, Judge Jeremy Kernodle wrote, "stalls at the starting line: we hold that Eleanor is not a character, much less a copyrightable one." Eleanor, he wrote, "is more akin to a prop than a character."[^ca25] The court found Shelby had not broken the settlement, which barred cars copying Eleanor's distinctive hood and inset lights, and sent the case back for the lower court to issue the declaration Shelby had asked for.[^ca25]
+Halicki and Shelby settled in 2009. The dispute returned when Shelby licensed Classic Recreations to build its GT-500CR, and Shelby sued.[^ca25] On May 27, 2025, the Ninth Circuit held that Eleanor is not a character and "is more akin to a prop than a character."[^ca25] The court found Shelby had not broken the settlement and sent the case back for the declaration Shelby had asked for.[^ca25]
 
 So the courts called it a prop. In Dunkirk, by his brother's account, it was a neighbor's mother's name, given to a car by a towing family's boy who had learned to stage a wreck by clearing them.
 
@@ -130,7 +130,7 @@ So the courts called it a prop. In Dunkirk, by his brother's account, it was a n
 
 ### Next leads
 
-The Dunkirk *Evening Observer*, October 1974, for the Regent Theater premiere; the Buffalo papers of August 1989; the Farmers Branch police and Dallas County records of the 2007 Unique Performance case and whether charges followed; the district court's 2023 ruling in the Shelby case; Halicki's own stunt cars, including the plane crash on *The Junkman*.
+The Dunkirk *Evening Observer*, October 1974, for the Regent Theater premiere; the Buffalo papers of August 1989; the 2007 trade-press reports on Unique Performance; the district court's 2023 ruling in the Shelby case; Halicki's own stunt cars, including the plane crash on *The Junkman*.
 
 ## Sources
 

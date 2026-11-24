@@ -1,6 +1,6 @@
 # Contributing
 
-This is a research wiki: every claim is cited, conflicts are shown, and single-sourced claims are flagged. The full rules are in [docs/reference/source-standards.md](docs/reference/source-standards.md). This page covers the practical workflow, including the home-page **Highlights** slider.
+This is a research archive: every claim is cited, conflicts are shown, and single-sourced claims are flagged. The full rules are in [docs/reference/source-standards.md](docs/reference/source-standards.md). This page covers the practical workflow, including the home-page **Highlights** slider.
 
 ## Quick start
     python -m venv .venv && .venv/bin/pip install -r requirements.txt
@@ -102,7 +102,7 @@ python scripts/check_connections.py --list  # prints nodes and edges
 The build runs the same check and stops on failure. Warnings (for example, a disconnected island) do not stop it, but fix them: an island means the map has a gap.
 
 ## Incoming issues (triage)
-Readers send corrections, source tips and suggestions through the issue forms in `.github/ISSUE_TEMPLATE/` (buttons at the end of every article, the Contribute page, the footer and the masthead). Labels to create once in the repository: `correction`, `source-tip`, `suggestion`, `triage`. Handle every issue the same way, and never let a reader's say-so change a page without a source:
+Readers send corrections, source tips and suggestions to corrections@hotroddinghistory.com (the buttons at the end of every article, on Contribute, in the footer and on the masthead). The mailbox still needs routing before mail arrives. Labels to create once in the repository, if a message is copied into GitHub: `correction`, `source-tip`, `suggestion`, `triage`. Handle every message the same way, and never let a reader's say-so change a page without a source:
 1. **Label** it (`correction`, `source-tip` or `suggestion`; keep `triage` until handled).
 2. **Verify**: find and read the cited source yourself, check it against [source standards](docs/reference/source-standards.md), and treat a reader's recollection as a ◐ single-source lead. Show ⚠ conflicts instead of picking silently.
 3. **Add to the Research Trail**: anything useful but unsettled goes under "Next breadcrumbs" in `docs/research-trail.md`, so a later round picks it up.
@@ -118,3 +118,23 @@ Readers send corrections, source tips and suggestions through the issue forms in
 5. `.venv/bin/mkdocs build --strict` (it runs `check_articles.py` and the Quick Answers check first and fails on any error), then `python scripts/link_report.py 1`.
 5a. For any page whose footnotes you touched, run `python scripts/check_external_links.py docs/<folder>/<page>.md`. It tries https first, reports dead links with a Wayback snapshot to use, and lists footnotes with no "(accessed YYYY-MM-DD)". It needs the network, so it is not part of the build and never fails it. "NO CONN" can be the box's own network; confirm in a browser before replacing a link, and keep the original URL beside the Wayback copy ("original returns 404; read in the Wayback copy of ...").
 6. `git pull --rebase origin main`, commit, push. Do not deploy from the routine.
+
+## Contributor terms
+
+> **DRAFT for review — not legal advice.**
+
+If you send us text, a photograph, a source tip, a correction or any other material — by email, by a pull request, or any other way — you are agreeing to the following.
+
+1. **You have the right to share it.** You created it, or the owner gave you permission, or it is already under a license that allows you to send it to us. Do not send a photograph unless you are the owner or have the owner's permission. If you did not take the picture, say who did and under what license or permission it can be used. When in doubt, send a link and a description instead of the file.
+
+2. **License grant.** You give Adventure Equity LLC a non-exclusive, perpetual, worldwide, royalty-free permission to use, publish, edit, excerpt and display what you sent, and to license the resulting site text under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/). You keep your own copyright. We are not asking for exclusive rights. Photographs you send stay under the license or permission you named, and will be credited that way. The MIT License on the repository code does not apply to what you send.
+
+3. **Credit.** If we use what you sent, we will credit you by the name you give us, or as "a reader" if you ask to stay anonymous. We will not publish a name you declined.
+
+4. **No private information about other people.** Do not send confidential records, private addresses, phone numbers, medical or family matters, or anything you would not want published about someone else. If a tip depends on that kind of material, describe the lead and point us to a public source instead.
+
+5. **We may edit or decline.** We check every contribution against the [source standards](docs/reference/source-standards.md). We may edit for length, tone, accuracy and citation. We may decline all or part of what you sent, and we do not have to use it. A memory is welcome, and is treated as a lead until we can cite it.
+
+6. **Copyrighted images and long excerpts.** Please do not send files or long quotations taken from magazines, books, museums or family collections unless you have the right to share them. A link and a short description is the right way to point us at that kind of material. We only host public-domain or openly licensed images, each credited.
+
+Questions: [corrections@hotroddinghistory.com](mailto:corrections@hotroddinghistory.com).

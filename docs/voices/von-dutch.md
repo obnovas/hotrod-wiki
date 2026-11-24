@@ -36,12 +36,12 @@ canonical_for: []
 ---
 # Von Dutch: "Nothing Is Original"
 
-*His own words are few: keep poor, and nothing is original. Everyone else's stories are many.*
+*His own words are few. One of them, on a sign, is that nothing is original. Everyone else's stories are many.*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** a 1965 magazine quote (reprinted, original title unknown), a friend's memoir (Bob Burns, Letterville), LA Times exhibition story (Sept 2, 2002) · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** We have not yet identified the 1965 magazine; many of the stories are secondhand · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** a friend's memoir (Bob Burns, Letterville), LA Times exhibition story (Sept 2, 2002); a 1965 passage whose magazine is still unknown, so it is not quoted here · **Last verified:** 2026-10-13 (Round 7) · **Open issues:** We have not yet identified the 1965 magazine; many of the stories are secondhand · [How we rate this](../reference/source-standards.md)
 
-Kenneth "Von Dutch" Howard (died 1992, aged 63, per the LA Times) is credited with reviving pinstriping in the 1950s. His own words are few: keep poor, and nothing is original. Most of what circulates about him is anecdote. Here we separate **his own words** from **friends' stories**. See [Trend Books, Kits & Roth](../media/trend-books-kits-roth.md) and his 1961 rocket car on that page.
+Kenneth "Von Dutch" Howard (died 1992, aged 63, per the LA Times) is credited with reviving pinstriping in the 1950s. His own words are few. Most of what circulates about him is anecdote. Here we separate **his own words** from **friends' stories**. See [Trend Books, Kits & Roth](../media/trend-books-kits-roth.md) and his 1961 rocket car on that page.
 
 ## A friend remembers (Bob Burns)
 
@@ -53,19 +53,15 @@ The rest comes through friends. Bob Burns remembered him putting metal ahead of 
 
 Burns adds that when Dutch quit striping in 1958, customers did not say what they wanted: "he just told him how much 'time' he wanted to purchase."[^bb] He says Dutch started striping cars "as a joke" at Al Titus' motorcycle shop in Lynwood ("Linwood" in his text).[^bb]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Open question: see the bottom of the page">?</a></sup>
 
-## Poor on purpose (1965)
+## A 1965 passage, not quoted here
 
-The longest passage in his own words is about money, and about staying poor. Which magazine ran it in 1965 is still open.
-
-> "I make a point of staying right at the edge of poverty. I don't have a pair of pants without a hole in them, and the only pair of boots I have are on my feet. … There's a 'struggle' you have to go through, and if you make a lot of money it doesn't make the 'struggle' go away. It just makes it more complicated. If you keep poor, the struggle is simple."
->
-> — **Von Dutch**, "a 1965 article," as reprinted by Bob Burns (Letterville). The LA Times (2002) also quotes the final two sentences.[^bb][^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
+Bob Burns reprints a longer 1965 passage in Von Dutch's words and calls it "a 1965 article." The magazine that first printed it has not been identified, so the passage is not quoted here.[^bb][^lat]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Single source so far: see Open questions">◐</a></sup>
 
 ## The sign
 
 He said much the same about ideas. Late in life, according to the LA Times, he lettered a sign urging viewers to "use any of my stuff you want to. Nothing is original. Everything is in the subconscious, we just 'tap' it sometimes and think we have originated something." The sign was shown at Cal State Northridge in 2002.[^lat]
 
-His own words are few. Keep poor, and nothing is original. Everyone else's stories are the rest.
+His own words are few. Nothing is original. Everyone else's stories are the rest.
 
 ## Open questions & disputed details
 

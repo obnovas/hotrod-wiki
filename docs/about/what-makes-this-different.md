@@ -46,7 +46,7 @@ The masthead currently reads *since the dry lakes*. These are candidates for the
 3. **From the club room to the catalog.**
 4. **Every claim cited. Every town counts.**
 5. **Read the local paper first.**
-6. **The detective's archive of American hot rodding.**
+6. **A footnoted archive of American hot rodding.**
 
 [^sema]: SEMA, "2026 SEMA Hall of Fame Nominations Now Open" (press release), nominee qualifications, https://www.sema.org/news-media/press-release/2026-sema-hall-fame-nominations-now-open (accessed 2026-10-22).
 [^dsl]: Mel Bashore, compiler, *Drag Strip List* home page: "More than 1,450 drag strips, many long-closed, are numbered in this compilation," https://dragstriplist.com/ (accessed 2026-10-22).

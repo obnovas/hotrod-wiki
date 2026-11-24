@@ -96,11 +96,12 @@ The next winter it was the turn of the Royal Coachmen Car Club of Ronan. The clu
 
 By the summer of 1962 the Road Runners' president was racing as far away as Deer Park, Washington. On July 26 the *Post*'s Arlee correspondent reported that Mr. and Mrs. LeRoy Morin and their two children, ages 6 and 4, were going to Deer Park again that weekend, where Morin would race "for a $100 purse," at the strip in [Deer Park, Washington](deer-park-spokane-nitrous.md). At the last Deer Park meet he had won his 20th trophy since April 1, and his wife had won her sixth in the "Powder Puff Woman's race." She drove her husband's car, a C/Gas entry described as "an older type body with a newer engine." The Morin racer was also the family car: they drove it to the races, it had covered 89,000 miles, and only the Morins drove it. Morin had first raced in 1958 at Butte, where he won "in 16.2 second at 85 miles per hour." His latest win was 14.26 seconds at 100 mph. Six more meets were planned that year, at Deer Park, Butte, Bozeman and Conrad. Morin said the association's safety standards would "disqualify about 50 per cent of the cars on the highway."[^sip620726]<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
+<figure markdown>
 ![The St. Ignatius water tower in Montana's Mission Valley, with the Mission Mountains rising behind it, photographed in 2012](../assets/images/commons-st-ignatius-water-tower.jpg){ loading=lazy }
+<figcaption markdown>St. Ignatius, home of the weekly that printed the Arlee and Ronan clubs' statements. Creator: Tony Hisgett. Date: 2012-09-16. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St._Ignatius_(8037201050).jpg). License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).</figcaption>
+</figure>
 
-*St. Ignatius, home of the weekly that printed the Arlee and Ronan clubs' statements. Photo: Tony Hisgett, 2012, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*
-
-Clubs elsewhere in this wiki wrote the same kind of statements: the [Orchids and Celtics of Canyon, Texas](canyon-orchids-celtics-amarillo.md) and the [Twin Falls club](../places/twin-falls-main-avenue.md) that formed to get off Main Avenue. In Montana the clubs first explained a skull emblem, then printed their members' names, and by 1962 one club's president was driving the family car to Deer Park and winning.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
+Clubs elsewhere in the archive wrote the same kind of statements: the [Orchids and Celtics of Canyon, Texas](canyon-orchids-celtics-amarillo.md) and the [Twin Falls club](../places/twin-falls-main-avenue.md) that formed to get off Main Avenue. In Montana the clubs first explained a skull emblem, then printed their members' names, and by 1962 one club's president was driving the family car to Deer Park and winning.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup>
 
 ## Glendive (late 1970s)
 

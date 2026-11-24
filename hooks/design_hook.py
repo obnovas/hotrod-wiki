@@ -62,7 +62,7 @@ DEPT = {
     "reference": ("book", "Timeline, index, patents, credits, standards, the research trail and the bibliography."),
 }
 NO_THUMB = {"reference", "index"}
-REF_PAGES = ("about/", "reference/", "bibliography.md", "research-trail.md", "highlights-archive.md", "taxonomy.md", "contribute.md", "style-guide.md")
+REF_PAGES = ("about/", "reference/", "legal/", "bibliography.md", "research-trail.md", "highlights-archive.md", "taxonomy.md", "contribute.md", "style-guide.md")
 
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -983,7 +983,7 @@ def build_site(nav, config):
     stories = [p for p in nav.pages if INFO.get(p.file.src_uri, {}).get("kind") == "story"
                and not p.is_index]
     SITE["stats"] = {"stories": len(stories), "images": imgs, "sources": tot_fn,
-                     "departments": len([d for d in depts if d["is_section"]]),
+                     "departments": len([d for d in depts if d["is_section"] and d["slug"] != "legal"]),
                      "words": sum(i.get("words", 0) for i in INFO.values())}
     # eras strip
     era_pages = {}

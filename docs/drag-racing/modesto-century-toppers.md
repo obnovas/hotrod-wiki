@@ -69,7 +69,7 @@ And the cruising was on 10th Street:
 
 > "At first it was only 10th back and forth, and then later they opened it up and made 10th one way and 11th back and it was a loop."
 >
-> — **Gene Winfield**, on cruising 10th Street, same interview. This is the loop described on our [Modesto cruising page](../places/modesto.md).[^int]
+> — **Gene Winfield**, on cruising 10th Street, same interview.[^int] The loop is the one on the [Modesto cruising page](../places/modesto.md).
 
 In 1949 the club turned up in the papers, and the stories show it on the side of the law. Kustomrama summarizes the items; we have not seen the original pages.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>
 
