@@ -92,7 +92,7 @@ The strip stayed a hometown place. Jerry Engel of Bunker Hill raced a Dodge ther
 
 Hullinger and his wife ran the track until they sold it to Steve and Darlene Daniels in the 1990s.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>[^obit][^drc03][^iib15] It was repaved in 2010. In 2015 the Daniels put it on the market, 23 acres in Miami County with a house, a restaurant and a barn, for $650,000.[^iib15] In 2021 it marked 65 years with bench racing and free cake and ice cream.[^kt21] Today it is an eighth-mile strip run by the former Top Fuel racer Terry McMillen and his wife, Cori.[^bhabout] Hullinger died in Kokomo on January 23, 2012, at 86. In lieu of flowers, the family asked for gifts to Racers for Christ or the Drag Racing Association of Women.[^obit] He had lit his strip with headlights, and he started its dragsters with a machine he built himself. The rollers spread to other tracks from Bunker Hill.
 
-*See also:* [Hoosier Road Runners and Indiana's small-town clubs](indiana-small-town-clubs.md); [Beech Bend](beech-bend-raceway-bowling-green.md), one of the tracks that used his rollers;[^nhra20] [Roland Leong](../people/roland-leong.md); [Patents](../reference/patents.md).
+*See also:* [Hoosier Road Runners and Indiana's small-town clubs](indiana-small-town-clubs.md); [Beech Bend](beech-bend-raceway-bowling-green.md), one of the tracks that used his rollers;[^nhra20] [Roland Leong](../people/roland-leong.md); [Patents](../reference/patents.md); [The First Trophy](muncie-dragway-albany-indiana.md), Muncie Dragway at Albany, opened by three clubs.
 
 ## Open questions & disputed details
 

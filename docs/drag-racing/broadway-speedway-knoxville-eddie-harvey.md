@@ -96,7 +96,7 @@ In 1965, McGee writes, Harvey sold land to the state for an interstate and used 
 
 The poster that started Neely's search said "ROUGHNECK DRIVERS." One of them sold parts on Broadway for 67 years and built the town its next track.
 
-*See also:* [Brainerd Optimist strip](brainerd-optimist-strip-middle-valley-chattanooga.md), Chattanooga's 1950s drag strip; [Honest Charley](../companies/honest-charley-speed-shop.md), another Tennessee parts man; [Pico Raceway](pico-raceway-rutland-airport.md), a stock car track of the same years whose records were thrown away.
+*See also:* [Brainerd Optimist strip](brainerd-optimist-strip-middle-valley-chattanooga.md), Chattanooga's 1950s drag strip; [Honest Charley](../companies/honest-charley-speed-shop.md), another Tennessee parts man; [Pico Raceway](pico-raceway-rutland-airport.md), a stock car track of the same years whose records were thrown away; [The Mayor Said Yes](../people/butch-hicks-huntsville-coachmen-manassas.md), Butch Hicks and the Huntsville strip at Harvest, Ala..
 
 ## Open questions & disputed details
 

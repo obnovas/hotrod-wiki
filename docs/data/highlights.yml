@@ -2249,3 +2249,59 @@ highlights:
     added: '2026-11-23'
     eras: [1990s]
     regions: ['Dallas, Texas']
+
+  - id: muncie-first-trophy-home
+    headline: Muncie Dragway's first trophy, dated June 6, 1959, ended up with the man who keeps the track's history
+    teaser: Carl Thomas won it in his 1951 Mercury and kept it for more than fifty years. Then he gave it to
+      track worker Yancey Johnson, sure he would treasure it more than anyone else.
+    link: drag-racing/muncie-dragway-albany-indiana.md#three-clubs-and-a-1951-mercury
+    evidence: ["The first one ever won there is dated June 6, 1959", drove his 1951 Mercury to the opening-day win]
+    source_type: Oral history
+    confidence: Medium
+    flag: conflict
+    grassroots: true
+    added: '2026-11-24'
+    eras: [1950s, 2010s]
+    regions: ['Albany, Ind.']
+
+  - id: hines-nomad-two-inches
+    headline: "\"2 inches off the ground. 10 minutes later. 12 inches.\": a Nomad lifted on a Michigan vacation"
+    teaser: Bill Hines brought the hydraulic parts along on a trip home, and they borrowed the welder next door.
+      His nephew drove the 1957 Nomad every day for two or three years and never once added fluid.
+    link: people/bill-hines-leadslinger-hydraulics.md#the-buddah-buggy-and-the-nomad
+    evidence: [Go through with the front bumper 2 inches off the ground, never once added fluid]
+    source_type: Oral history
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-24'
+    eras: [1960s]
+    regions: ['Michigan']
+
+  - id: dukes-boss-hogg-gold-cadillac
+    headline: Boss Hogg's Cadillac was really gold, and a Norcross body man fell asleep in it and woke up outside
+    teaser: Tony Kelley was 18 at H&H Body Shop, where three men turned wrecked General Lees into clean cars
+      overnight. Sometimes the flag on the roof was still wet when the crew came for the car.
+    link: media/dukes-of-hazzard-h-and-h-body-shop-covington.md#three-men-in-norcross
+    evidence: [Boss Hogg's Cadillac was really a gold car, woke up outside the building]
+    source_type: Oral history
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-24'
+    eras: [1970s]
+    regions: ['Norcross, Ga.']
+
+  - id: metrocenter-ticket-on-the-car
+    headline: At Phoenix's last Metrocenter cruise, a man pasted a giant copy of his old cruising ticket on his car
+    teaser: Tracy Smith set up the cruise expecting maybe 10 friends, and nearly 15,000 people came. The ticket
+      on the side of that car was from some 40 years before.
+    link: places/intruders-phoenix-lowriders-cruising.md#last-cruise-at-metro
+    evidence: [pasted a giant copy of the ticket, expecting maybe 10 friends]
+    source_type: Local news
+    confidence: Medium
+    flag: none
+    grassroots: true
+    added: '2026-11-24'
+    eras: [1980s, 2020s]
+    regions: ['Phoenix, Ariz.']

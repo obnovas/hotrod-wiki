@@ -114,7 +114,7 @@ By 2022 Peralez was on the city council, and he found the city had not written a
 
 Later that year hundreds of lowriders filled the City Hall rotunda and East Santa Clara Street for the "End of Cruising Ban" event, and the city's last "No Cruising Zone" sign came off its pole on East Santa Clara.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Sources disagree: see Open questions">⚠</a></sup>[^abc7] Peralez took it down himself, standing on a small ladder beside a 1941 Chevy Special Deluxe, and waved it in the air.[^ao] "It's a historic day! It is a historic day!" said Tim Carrasco, a solo rider.[^abc7] Dulce Fernandez of the lowrider council told the crowd, "Let's be proud, let's be safe, and let's keep it low and slow!"[^abc7] The town that gave cruising its own magazine had made it legal again, and the man holding the sign had never known it any other way.
 
-*See also:* [Whittier Boulevard](whittier-blvd.md), the Los Angeles cruise that closed first; [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md), a New Mexico lowrider that went to the Smithsonian; [Woodward and its ordinances](woodward-ordinances.md), another city's rules against cruising; [Cruising overview](cruising-overview.md).
+*See also:* [Whittier Boulevard](whittier-blvd.md), the Los Angeles cruise that closed first; [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md), a New Mexico lowrider that went to the Smithsonian; [Woodward and its ordinances](woodward-ordinances.md), another city's rules against cruising; [Cruising overview](cruising-overview.md); [We're the Slowest Ones](intruders-phoenix-lowriders-cruising.md), Phoenix's three-pass rule and the Intruders.
 
 ## Open questions & disputed details
 

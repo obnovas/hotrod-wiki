@@ -1081,6 +1081,24 @@ themes:
         link: drag-racing/cecil-county-drag-o-way-rising-sun.md
         also: [drag-racing/atco-strato-rods-south-jersey.md, drag-racing/washington-suburbs-drag-strip-debate.md]
         flag: drag-racing/cecil-county-drag-o-way-rising-sun.md#q-1
+      - id: muncie-first-trophy
+        q: Who won Muncie Dragway's first trophy?
+        a: >-
+          Carl Thomas, a local racer, in his 1951 Mercury. The trophy is dated June 6, 1959, though other sources
+          say the strip at Albany, Indiana, opened on Easter Sunday 1960 (⚠ see Open questions). More than fifty
+          years later he gave it to Yancey Johnson, a track worker and Muncie historian.
+        link: drag-racing/muncie-dragway-albany-indiana.md
+        also: [drag-racing/bunker-hill-dragstrip-indiana.md, drag-racing/indiana-small-town-clubs.md]
+        flag: drag-racing/muncie-dragway-albany-indiana.md#q-1
+      - id: huntsville-first-drag-race
+        q: Who got Huntsville its first drag race and its drag strip?
+        a: >-
+          By his family's account, Butch Hicks, who in 1956 held the city's first drag race on Martin Road with the
+          mayor's approval (◐ see Open questions). He co-founded the Coachmen Car Club in 1958 and helped secure the
+          land for Manassas Dragway at Harvest, which opened in 1961 and runs today as Rocket City Dragway.
+        link: people/butch-hicks-huntsville-coachmen-manassas.md
+        also: [drag-racing/broadway-speedway-knoxville-eddie-harvey.md]
+        flag: people/butch-hicks-huntsville-coachmen-manassas.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1213,6 +1231,16 @@ themes:
         link: places/king-and-story-san-jose-lowrider-magazine.md
         also: [places/whittier-blvd.md, places/woodward-ordinances.md]
         flag: places/king-and-story-san-jose-lowrider-magazine.md#q-1
+      - id: phoenix-cruising-rule
+        q: How does Phoenix's cruising rule work?
+        a: >-
+          In a posted no-cruising area, a driver who passes the same traffic control point three times within two
+          hours, adding to congestion, can be ticketed on the third pass, with a fine of up to $250; when the rule
+          was first passed is still open (◐ see Open questions). The Intruders, founded in 1975 or 1976 as
+          Arizona's first all-lowrider club, have cruised under it for fifty years.
+        link: places/intruders-phoenix-lowriders-cruising.md
+        also: [places/king-and-story-san-jose-lowrider-magazine.md]
+        flag: places/intruders-phoenix-lowriders-cruising.md#q-3
   - id: companies-and-parts
     title: Companies and the parts business
     questions:
@@ -1664,6 +1692,16 @@ themes:
         link: customs/rat-rod-shows-saugerties-mahtowa.md
         also: [drag-racing/race-of-gentlemen-oilers-jersey-shore.md]
         flag: customs/rat-rod-shows-saugerties-mahtowa.md#q-1
+      - id: bill-hines-hydraulics
+        q: Who was Bill Hines, and what did he have to do with hydraulic lifts?
+        a: >-
+          A Michigan body man who worked in lead, then went west to Lynwood, California, in 1960 and became one of
+          the first shops in Southern California to put hydraulic lifts on customs, starting with Tats Gotanda's
+          1959 Impala, the Buddah Buggy (⚠ see Open questions). His nephew believed the Nomad they lifted in
+          Michigan in 1964 or 1965 was the state's first lifted car.
+        link: people/bill-hines-leadslinger-hydraulics.md
+        also: [customs/daves-dream-chimayo-lowrider.md, places/intruders-phoenix-lowriders-cruising.md]
+        flag: people/bill-hines-leadslinger-hydraulics.md#q-2
   - id: media-and-shows
     title: Media and shows
     questions:
@@ -1822,6 +1860,16 @@ themes:
         link: media/smokey-and-the-bandit-jonesboro-mcdonough.md
         also: [media/eleanor-halicki-gone-in-60-seconds.md]
         flag: media/smokey-and-the-bandit-jonesboro-mcdonough.md#q-1
+      - id: dukes-georgia-general-lees
+        q: Where were the first Dukes of Hazzard episodes filmed, and who kept the General Lees running?
+        a: >-
+          In Georgia in late 1978, mostly around Covington, Conyers and Social Circle, with the famous jump at
+          Oxford College on November 11. H&H Body Shop in Norcross, three men by their own account, rebuilt the
+          wrecked Chargers overnight; the one it finished but never used is at the Volo Auto Museum, which calls it
+          the only Georgia car left (⚠ see Open questions).
+        link: media/dukes-of-hazzard-h-and-h-body-shop-covington.md
+        also: [media/smokey-and-the-bandit-jonesboro-mcdonough.md]
+        flag: media/dukes-of-hazzard-h-and-h-body-shop-covington.md#q-3
   - id: how-we-know
     title: Sources and how we know
     questions:

@@ -112,7 +112,7 @@ Halicki and Shelby settled in 2009, then fell out again when Shelby licensed Cla
 
 So the courts called it a prop. In Dunkirk, by his brother's account, it was a neighbor's mother's name, given to a car by a towing family's boy who had learned to stage a wreck by clearing them.
 
-*See also:* [Home of The California Kid](california-kid-pete-and-jakes-peculiar.md), another 1970s screen car whose name became a business; [Where Lucas Shot It](american-graffiti-petaluma-1972.md); [Still Fixing the Deer Dents](../companies/ringbrothers-spring-green.md), on today's restomod shops; [Ghost Cars With No VIN](smokey-and-the-bandit-jonesboro-mcdonough.md), the Trans Ams of *Smokey and the Bandit* in Georgia.
+*See also:* [Home of The California Kid](california-kid-pete-and-jakes-peculiar.md), another 1970s screen car whose name became a business; [Where Lucas Shot It](american-graffiti-petaluma-1972.md); [Still Fixing the Deer Dents](../companies/ringbrothers-spring-green.md), on today's restomod shops; [Ghost Cars With No VIN](smokey-and-the-bandit-jonesboro-mcdonough.md), the Trans Ams of *Smokey and the Bandit* in Georgia; [We Wreck 'Em Just as Fast as We Need 'Em](dukes-of-hazzard-h-and-h-body-shop-covington.md), the General Lees a Norcross body shop rebuilt overnight.
 
 ## Open questions & disputed details
 

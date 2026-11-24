@@ -1151,3 +1151,39 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [hof] "Jon Kosmoski: The Master of Kustom Paint," Sturgis Motorcycle Museum & Hall of Fame, Class of 2003. https://www.sturgismuseum.com/class-of-2003-1/jon-kosmoski
 - [trade] Jay Sicht, "How Jon Kosmoski and HoK Helped Shape the Modern Custom Paint Industry," *FenderBender*, October 1, 2026. https://www.fenderbender.com/home/article/55405913/how-jon-kosmoski-and-hok-helped-shape-the-modern-custom-paint-industry
 - [corp] "House of Kolor Celebrates 70 Years of Custom Paint Leadership and Innovation," Sherwin-Williams press release via PR Newswire, Cleveland, April 2, 2026. https://www.prnewswire.com/news-releases/house-of-kolor-celebrates-70-years-of-custom-paint-leadership-and-innovation-302732201.html
+
+## Round 49 additions (Muncie Dragway, Butch Hicks and Manassas Dragway, the Georgia General Lees and H&H Body Shop, Bill Hines, the Intruders and Phoenix cruising)
+- [mag] Van Abernethy, "On the Road: Indiana's Muncie Dragway," *Drag Illustrated*, October 14, 2025 (DI #196), built on track historian Yancey Johnson's memories and collection. https://dragillustrated.com/on-the-road-indianas-muncie-dragway/
+- [mag] Van Abernethy, "Hoosier State Hit: Racers and Fans Flock to Muncie Dragway," *Drag Illustrated*, May 19, 2018 (DI #130). https://dragillustrated.com/hoosier-state-hit-racers-and-fans-flock-to-muncie-dragway/
+- [museum] Carole Stout, "The Muncie Dragway and Speedway Memorabilia Collection," Ball State University Libraries Blog, March 3, 2025. https://blogs.bsu.edu/libraries/2025/03/03/the-muncie-dragway-and-speedway-memorabilia-collection/
+- [local] "David Himes Obituary," *The Herald Bulletin* (Anderson, Ind.), February 1, 2011. https://obituaries.heraldbulletin.com/obituary/david-himes-713342011
+- [web] Brian Lohnes, "Engine Builder and Muncie Dragway Operator Dave Himes Passes Away," BangShift, February 3, 2011. https://bangshift.com/general-news/engine-builder-and-muncie-dragway-operator-dave-himes-passes-away/
+- [hof] Xavier Vidot, "Ted Jones," International Drag Racing Hall of Fame, Don Garlits Museum of Drag Racing. https://garlits.com/hall-of-fame/ted-jones/
+- [web] "Muncie Dragway," Crossroads Power Sports venue directory. https://www.crossroadspowersports.com/directory/venues/muncie-dragway/
+- [trade] "Muncie Dragway In Albany, Indiana, Joins IHRA," Performance Racing Industry, March 6, 2017. https://www.performanceracing.com/magazine/industry-news/03-06-2017/muncie-dragway-albany-indiana-joins-ihra
+- [local] "Cecil 'Butch' Thomas Hicks" (family obituary), *Quad Cities Daily*, November 8, 2025. https://quadcitiesdaily.com/cecil-butch-thomas-hicks/
+- [patent] Cecil T. Hicks, "Diaphragm pump," U.S. Design Patent D291,319 (1987). https://patents.justia.com/patent/D291319
+- [patent] Cecil T. Hicks, "Diaphragm pump," U.S. Patent 4,778,356 (1988). https://www.freepatentsonline.com/4778356.html
+- [mag] "Rocket City Dragway Invests in Racers With IHRA and Other Programs," *Drag Illustrated*, December 19, 2023. https://dragillustrated.com/rocket-city-dragway-invests-in-racers-with-ihra-and-other-programs/
+- [mag] Derek Putnam, "Former Huntsville Dragway Gets New Lease on Life," *Sick the Magazine* (March 26, likely 2024). https://www.sickthemagazine.com/news/former-huntsville-dragway-gets-new-lease-on-life-will-re-open-as-rocket-city-dragway-on-april-7th
+- [mag] "Unchained Lightning," *Hot Rod*, July 1975, reposted at hotrod.com, 2023. https://www.hotrod.com/features/unchained-lightning-july-1975-982-848-60-1
+- [corp] Phil Burgess, "For Greer family, another memorable moment," NHRA, November 14, 2014. https://www.nhra.com/news/2014/greer-family-another-memorable-moment
+- [local] Eric Mock, "WGXA Exclusive: Meet the Architect of the General Lee," WGXA (Macon, Ga.), February 2, 2017 (Henry Holman interview). https://wgxa.tv/news/local/wgxa-exclusive-meet-the-architect-of-the-general-lee
+- [web] "Dukes Cruise: Tony Kelley," BRBTV News Blog, October 16, 2007 (Kelley's talk at the Covington cruise). https://brbtv.blogspot.com/2007/10/dukes-cruise-tony-kelley.html
+- [web] "Are you coming to Covington to see Lee 1?," BRBTV News Blog, November 3, 2006. https://brbtv.blogspot.com/2006/11/are-you-coming-to-covington-to-see-lee.html
+- [web] Jim Suva, "Last General Lee build in Georgia!," *Star Car Central*, January 7, 2020 (the Volo Auto Museum's investigation). https://starcarcentral.wordpress.com/2020/01/07/last-general-lee-build-in-georgia/
+- [web] "The Dukes of Hazzard 40th Anniversary Filming Locations Lookback, Part One," *Horsepower Memories*, December 19, 2018 (Wayback copy, 2023). https://web.archive.org/web/20230527224818/https://horsepowermemories.com/2018/12/19/the-dukes-of-hazzard-40th-anniversary-filming-locations-lookback-part-one-one-armed-bandits/
+- [corp] Volo Museum home page. https://www.volocars.com/
+- [web] HISTORY.com Editors, "'The Dukes of Hazzard' makes TV history with a car jump," History.com, 2009, updated 2025. https://www.history.com/this-day-in-history/november-11/the-general-lee-jumps-into-history
+- [oral] "Bill Hines," Kustomrama (built on interviews with Hines's nephew Teddy Zgrzemski, 2019–21). https://kustomrama.com/wiki/Bill_Hines
+- [web] "Hydraulic Lifted Cars," Kustomrama. https://kustomrama.com/wiki/Hydraulic_Lifted_Cars
+- [mag] David Conwill, "RIP, Bill 'The Leadslinger' Hines, 1922-2016," *Hemmings*, May 23, 2016. https://www.hemmings.com/stories/rip-bill-the-leadslinger-hines-1922-2016/
+- [mag] Bobby Kimbrough, "Bill 'The Leadslinger' Hines, Passes Away At 94," *Street Muscle*, May 20, 2016. https://www.streetmusclemag.com/news/bill-the-leadslinger-hines-passes-away-at-94/
+- [gov] Phoenix City Code, Sec. 36-57.01, "Cruising." https://phoenix.municipal.codes/CC/36-57.01
+- [local] Robrt L. Pela, "The Closing of Metrocenter Marks the End of an Era for Generations of Phoenicians," *Phoenix New Times*, July 16, 2020. https://www.phoenixnewtimes.com/arts-culture/the-closing-of-metrocenter-in-phoenix-marks-the-end-of-an-era-for-generations-11481211/
+- [local] Maya Badman and David Ulloa, "Lowrider car culture thrives in Phoenix, internationally," *Downtown Devil* (Arizona State University), May 3, 2022. https://downtowndevil.com/lowrider-car-culture-thrives-in-phoenix-internationally/
+- [mag] MotorTrend Staff, "Lowrider Garage Ep. 59 – Intruders C.C.," MotorTrend, June 4, 2021. https://www.motortrend.com/features/lowrider-garage-59-intruders-car-club
+- [mag] "The Intruders," *Goodguys* magazine, June 2018. https://goodguys.mydigitalpublication.com/articles/-the-intruders
+- [local] Adam Klepp, "Latino car club uses its platform to activate community's voters," ABC15 (Phoenix), undated. https://www.abc15.com/news/political/elections/latino-car-club-uses-its-platform-to-activate-communitys-voters
+- [local] "Lowriders," *Horizonte*, Arizona PBS, October 24, 2026. https://azpbs.org/horizonte/2026/10/lowriders/
+- [local] Gabriel Pietrorazio, "Arizona has long history of lowrider culture. Now Tempe History Museum is showing it off," KJZZ, May 11, 2026. https://www.kjzz.org/indigenous-affairs/2026-05-11/arizona-has-long-history-of-lowrider-culture-new-tempe-history-museum-shows-it-off

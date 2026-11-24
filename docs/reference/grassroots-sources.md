@@ -244,6 +244,23 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 49 additions
+- A track's own historian: Yancey Johnson's memories and collection, including the first trophy, dated June 6, 1959, as told to Van Abernethy in *Drag Illustrated* (2025); Ball State University's archives blog on its Muncie Dragway memorabilia collection (2025); Dave Himes's family obituary in *The Herald Bulletin* (Anderson, Ind., 2011) → [The First Trophy](../drag-racing/muncie-dragway-albany-indiana.md).
+- A local family obituary: Butch Hicks's in *Quad Cities Daily* (2025), the only source so far for the Martin Road race and the mayor's approval → [The Mayor Said Yes](../people/butch-hicks-huntsville-coachmen-manassas.md).
+- Local TV and a fan news blog: Henry Holman to WGXA (Macon, Ga., 2017); Tony Kelley's talk at the 2007 Dukes cruise in Covington, reported by BRBTV; the Volo Auto Museum's own investigation of its car (2020) → [We Wreck 'Em Just as Fast as We Need 'Em](../media/dukes-of-hazzard-h-and-h-body-shop-covington.md).
+- A family's memories: Bill Hines's nephew Teddy Zgrzemski and customers, recorded by Kustomrama (2019–21) → ["Bondo Is Poison"](../people/bill-hines-leadslinger-hydraulics.md).
+- A city's own code and a club in its own words: Phoenix City Code 36-57.01; residents' memories in the *Phoenix New Times* (2020); Intruders members to ASU's *Downtown Devil* (2022), *Goodguys* (2018) and MotorTrend (2021) → [We're the Slowest Ones](../places/intruders-phoenix-lowriders-cruising.md).
+
+### Round 49 status
+| Archive | Round 49 status |
+|---|---|
+| *Horsepower Memories* (Dukes filming locations) | Live page returned HTTP 500; read in the Wayback Machine copy of May 27, 2023. |
+| *The Covington News* (Hazzard homecoming story) | Returned 404; not used. |
+| Georgia Historic Newspapers, Muncie and Huntsville papers of 1956–61 | Not searched this round; listed in each article's Next leads. |
+| AZFamily (Intruders story) | Read; not cited, as the other Phoenix sources cover the same ground. |
+| Patents | Hicks's two pump patents read on Justia and FreePatentsOnline. |
+| Images | No Round 49 images. |
+
 ### Round 48 additions
 - Local newspapers and TV: Paula Newton's "Our Cecil" history in the *Cecil Whig* (Elkton, Md., 2016), built on track worker Ron McNeal's memories and the paper's own 1963 opening-day report, with a reader's comment beneath it → [The Traction Capital](../drag-racing/cecil-county-drag-o-way-rising-sun.md); Jeff Reeves in the *Henry County Times* (McDonough, Ga., 2018) on his friend Billy Ray Bell and the *Bandit* set → [Ghost Cars With No VIN](../media/smokey-and-the-bandit-jonesboro-mcdonough.md); NBC Bay Area, *San José Spotlight* and ABC7 (2022) on the end of San Jose's cruising ban → [The Last No Cruising Sign](../places/king-and-story-san-jose-lowrider-magazine.md); *Voyage Dallas* (2018) → [Sue Martin and Kim Kemp-Mason](../people/sue-martin-kim-kemp-mason-trimmers.md).
 - A town's own record: the City of Jonesboro's 2017 press release for the 40th-anniversary Bandit Run → Ghost Cars With No VIN; the San José Police Department's 2022 training bulletin on the repeal → The Last No Cruising Sign.
