@@ -7,7 +7,7 @@ eras:
 - 1950s
 - 1960s
 years:
-- 1957
+- 1957 # earlier side of q-1, not a settled start. Title is 1957 or 1958–1960.
 - 1960
 region: Northeast
 states:

@@ -1,6 +1,6 @@
 ---
 title: 'Second Sunday at Carlisle: The Arkansas Timing Association''s Bomber-Field Strip (1955–1970s)'
-summary: Arkansas's first formal drag strip ran on a World War II auxiliary runway at Carlisle, on the second Sunday, with a garage speed shop and a tire-iron protest. Whether it opened in 1955, 1957 or 1958 is still open.
+summary: Arkansas's first formal drag strip ran on a World War II auxiliary runway at Carlisle, on the second Sunday, with a garage speed shop. Whether it opened in 1955, 1957 or 1958 is still open.
 department: drag-racing
 era: 1950s
 eras:

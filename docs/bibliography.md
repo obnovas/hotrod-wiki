@@ -220,7 +220,7 @@ Dean Batchelor, *The American Hot Rod*; Pat Ganahl, *The American Custom Car*; C
 - [ref] Richard Parks, review of Long & Tuttle, *Every Sunday Drag Races: Orange County Airport, Santa Ana*, HotRod Hotline, Jan 13, 2012. https://hotrodhotline.com/every-sunday-drag-races-orange-county-airport-santa-ana-by-leslie-long-and-don-tuttle/
 - [mag] Phil Burgess, "Drag racing's teen terrors," NHRA.com, Aug 14, 2015. https://www.nhra.com/news/2015/drag-racing-s-teen-terrors
 - **Books and pamphlets cited by sources (not yet consulted):** Leslie Long & Don Tuttle, *Every Sunday Drag Races: Orange County Airport, Santa Ana* (xeroxed pamphlet of clippings, 1950–56).
-- **Blocked this round:** California Digital Newspaper Collection (Cloudflare), the WFAA 2007 archive (empty/429), and chuckfinders.com (404; Wayback copy empty).
+- **Blocked this round:** California Digital Newspaper Collection (Cloudflare) and chuckfinders.com (404; Wayback copy empty).
 
 ## Added in Round 11 (Grassroots finds; accessed 2026-10-15)
 Type tag **[local]** marks local or homegrown sources: local news, club or municipal records, historical societies, obituaries, local-history sites. See [Grassroots Sources](reference/grassroots-sources.md).
