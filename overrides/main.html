@@ -8,6 +8,7 @@
 {% block extrahead %}
   {% set seo_title = seo.page_title() %}
   {% set seo_desc = (page.meta.description if page.meta and page.meta.description else config.site_description) %}
+  {% set fav = config.extra.favicon %}
   {% set og_image = "assets/og-default.png" %}
   {% if hr.kind == "story" and (hr.thumb or hr.thumb_url) %}
     {% set og_image = hr.thumb or hr.thumb_url %}
@@ -15,8 +16,8 @@
   {% set og_image_url = og_image if og_image.startswith("http") else config.site_url ~ (og_image | trim("/")) %}
   <link rel="preload" href="{{ 'assets/fonts/AlfaSlabOne-latin.woff2' | url }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ 'assets/fonts/SourceSerif4-normal-5020.woff2' | url }}" as="font" type="font/woff2" crossorigin>
-  <link rel="icon" href="{{ 'assets/favicon-32.png' | url }}" type="image/png" sizes="32x32">
-  <link rel="apple-touch-icon" href="{{ 'assets/apple-touch-icon.png' | url }}">
+  <link rel="icon" href="{{ fav.png | url }}" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="{{ fav.apple | url }}">
   <meta name="theme-color" content="#1d1918">
   {% if hr.kind == "404" %}<meta name="robots" content="noindex">{% endif %}
   <meta property="og:type" content="{{ 'article' if hr.kind == 'story' else 'website' }}">
@@ -28,7 +29,7 @@
   {% if og_image == "assets/og-default.png" %}
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Hot Rodding History. Hometown strips, clubs and builders, footnoted.">
+  <meta property="og:image:alt" content="{{ config.site_name }}. {{ config.site_description }}">
   {% else %}
   <meta property="og:image:alt" content="{{ seo_title | e }}">
   {% endif %}
