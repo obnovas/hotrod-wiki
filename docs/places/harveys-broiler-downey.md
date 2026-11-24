@@ -57,7 +57,7 @@ Harvey and Minnie Ortner opened Harvey's Broiler in 1958 on a former chicken far
 
 The drive-in's purpose, as later told:
 
-> "It was where kids got together to find out what was going on. … they would find out where's the party, where's the race, where's something going on that they wanted to go to."
+> "It was where kids got together to find out what was going on."
 >
 > — **Jim Louder**, current owner (Bob's Big Boy Broiler), LAist (Jan 7, 2024). He is retelling the site's history, not his own memory.[^laist]
 
@@ -67,11 +67,11 @@ Louder puts the drive-in at the center of a scene: "This area in the late '50s w
 
 At the 1989 revival, the people who had been there remembered:
 
-> "This was our old stomping ground. … You got your cherry Cokes and hamburgers and circled around Harvey's."
+> "You got your cherry Cokes and hamburgers and circled around Harvey's."
 >
 > — **Marty Krumm**, 44, who grew up in Downey, at cruise night, LA Times (Jan 12, 1989).[^lat89]
 
-> "There's an essence this restaurant has that none other has. We can relive the time we spent here, the girls we went out with . . ."
+> "There's an essence this restaurant has that none other has."
 >
 > — **Lee McCullough**, 46, who started cruise night and had cruised Harvey's when it opened, 1989.[^lat89]
 

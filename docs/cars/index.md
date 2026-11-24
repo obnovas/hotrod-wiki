@@ -10,7 +10,7 @@ A few machines carry whole eras on their bodywork, and each period had its own w
 - [Hill Bros. Red Baron](hill-bros-red-baron.md): '33 Willys AA/GS, from Virginia to the Hrudkas to Cleveland in 1967.
 - [Techniques & Period Styles](techniques-and-styles.md): the "fake Cord," metal-finish vs. lead, the lead-sled era, flathead talk and a pointer to Pro Street.
 
-**Elsewhere in the wiki**
+**Elsewhere in the archive**
 
 - The Hirohata Mercury, the best-documented custom, is in [Customs & Kustom Kulture](../customs/index.md).
 - Cars that belong to a strip or a scene are told there, such as the Ohio gassers in [The Ohio Gassers](../places/ohio-gassers.md).

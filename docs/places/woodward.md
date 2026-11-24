@@ -26,7 +26,6 @@ people:
 - Jimmie Addison
 - Les Johnson
 - Dick Krause
-- Eric Schiffer
 companies:
 - Royal Pontiac
 places:
@@ -69,17 +68,13 @@ The rumor was that the **"Silver Bullet" GTX** was a Mopar engineer's car. It be
 
 The people who were there remember the loop:
 
-> "Those were drag racing days. … We'd ride from The Totem Pole to Ted's and back again all day and night."
+> "We'd ride from The Totem Pole to Ted's and back again all day and night."
 >
 > — **Les Johnson**, 71, at the 2007 Dream Cruise, Oakland Press (Aug 19, 2007). *Told about 50 years later.*[^op]
 
 > "You could drive up Woodward and start with two people in the car. By the time you got to Ted's Drive-In, there were six people in the car."
 >
 > — **Dick Krause**, same article.[^op]
-
-> "The heavy hitters were at Dan's. We would stand around and wait all night for the big run to get set up. Usually, it never happened."
->
-> — **Eric Schiffer**, Woodward street racer from 1967, Hagerty (2020).[^hag2]
 
 Johnson remembers **"Sheriff Irons"** in a big black Chrysler who would pull racers over and ask to look under their hoods ("I think it was," he hedges). Hagerty mentions "lot cops." Hot Rod (2014) says that by the late 1960s "laws were soon enacted that limited the cruising and long-term parking," which led to "demonstrations and a few arrests." It adds that rising muscle-car insurance ("more a month for insurance than their car payment") and then the OPEC oil crisis finished the era off. We have not identified the specific ordinances.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^op][^hag][^hr]
 

@@ -1,5 +1,5 @@
 ---
-title: 'An Uphill Shutdown and a Pistol at City Council: Erie''s Mountain View Dragway and Colorado Beyond Bandimere'
+title: 'An Uphill Shutdown and a Rancher''s Cessna: Erie''s Mountain View Dragway and Colorado Beyond Bandimere'
 summary: 'Erie''s Mountain View Dragway had a shutdown that climbed like a carnival slide. Around it were Thunder Road at 96th and Tower Road, Century 21 from 1971 to 1974, and a 1974 meet where a rancher landed a Cessna, before Pueblo''s strip opened in 1976.'
 department: drag-racing
 era: 1960s
@@ -33,7 +33,6 @@ people:
 - Jimm Murray
 - Stan Kopczenski
 - Judy Lilly
-- Ron Mowers
 - John Young
 - Timothy Petras
 - Del Wiesner
@@ -95,12 +94,12 @@ canonical_for: []
 location: Erie, about 10 miles north of the Denver metro area and west of I-25; Thunder Road at 96th and Tower Road; Century 21 south of today's Denver International Airport; Midway on the old runway at the south end of the Grand Junction airport[^dz11][^dslco][^aur25]
 peak: 1960s–1976
 ---
-# An Uphill Shutdown and a Pistol at City Council: Erie's Mountain View Dragway and Colorado Beyond Bandimere
+# An Uphill Shutdown and a Rancher's Cessna: Erie's Mountain View Dragway and Colorado Beyond Bandimere
 
 *A strip run "with an iron fist," and a shutdown that climbed "just like a kids' carnival slide," with a rancher's Cessna on the way to a 1976 Pueblo strip*
 
 !!! abstract "Article record"
-    **Confidence:** Low (Mountain View's layout and owner come from a 2011 drag racing magazine feature and the memory of a boy whose father's company built the pavement; its years, and most of the other strips, rest on one racer's memory each; Century 21's dates come from the Aurora History Museum; Pueblo's council story is a hall-of-fame line we repeat only as that) · **Source types:** <span class="hr-badge">Grassroots</span> racers' and families' memories on *Drag Strip List*; a racer's own history site; the Aurora History Museum (2025); H.A.M.B. forum post; Colorado Motorsports and Greater Pueblo Sports hall-of-fame biographies; *Dragzine* (2011) · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ? Mountain View's years; ⚠ where Colorado's first 200 was run; ⚠ Century 21's lifespan; ◐ the pistol at council · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Low (Mountain View's layout and owner come from a 2011 drag racing magazine feature and the memory of a boy whose father's company built the pavement; its years, and most of the other strips, rest on one racer's memory each; Century 21's dates come from the Aurora History Museum) · **Source types:** <span class="hr-badge">Grassroots</span> racers' and families' memories on *Drag Strip List*; a racer's own history site; the Aurora History Museum (2025); H.A.M.B. forum post; Colorado Motorsports and Greater Pueblo Sports hall-of-fame biographies; *Dragzine* (2011) · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ? Mountain View's years; ⚠ where Colorado's first 200 was run; ⚠ Century 21's lifespan · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "That wooden fence had the county road right on the other side and when we came around the staging lane, we had to actually back up to the fence to then do the burn out and pull to the line."
@@ -113,7 +112,7 @@ It was sanctioned by both the NHRA and the AHRA for a time, and "A gentleman nam
 
 Robert Leach went as a boy, "right after it was opened."<sup class="hr-q" id="qr-1"><a href="#q-1" title="Open question: see the bottom of the page">?</a></sup> His father was a friend of Al Broncucie. The Broncucie family's dump-truck business worked with his father's road builder, Northwestern Engineering of Commerce City, "which was how the paved track was built," and the Leaches got in free. "The actual pavement is still there with the up-hill shutdown."[^dslco] Colin McDowell remembered Anglias on a starting line that seemed slightly uphill: one would roll back and pop the clutch to jump back to the line, and the third time he did it he blew the clutch. He remembered TV ads for the races, too, with ELO's "Fire on High" behind them. When he wrote, in 2016, the property was up for auction.[^dslco] Del Wiesner, who raced out of Loveland, drove a 150-mph Olds-powered '23 T AA/Street Roadster: "Car almost killed me at Mountain View Dragway in Erie Colorado, Sept 1966."[^wiesner] Jimm Murray and his wife raced there in 1971, each making one time trial in their street cars, with the quicker one going on to eliminations.[^dslco]
 
-The racers were local, and so was the trouble. Stan Kopczenski remembered Judy Lilly out one Sunday in a new Mopar, and her boyfriend, Ron Mowers, "got caught cheating with his Chev and got kicked off for a year." For John Young, after a week of street racing out by Tower Road in Aurora, "going to Erie was really a Sunday treat." His friend's family owned Denver Buick and sponsored "Stevie's Wonder," a black '67 Gran Sport, for the owner's son.[^dslco] Bill Canty raced a pickup there and at Rocky Mountain before Vietnam. In 1971 his mother-in-law bet him $5.00 he would never build a race car, and three weeks later he was racing stock cars in one.[^canty] A *Dragzine* caption credits Alan Bockla as "the first racer in Colorado to break 200 MPH, at the Mountain View Dragway."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^dz11]
+The racers were local. Stan Kopczenski remembered Judy Lilly out one Sunday in a new Mopar. For John Young, after a week of street racing out by Tower Road in Aurora, "going to Erie was really a Sunday treat." His friend's family owned Denver Buick and sponsored "Stevie's Wonder," a black '67 Gran Sport, for the owner's son.[^dslco] Bill Canty raced a pickup there and at Rocky Mountain before Vietnam. In 1971 his mother-in-law bet him $5.00 he would never build a race car, and three weeks later he was racing stock cars in one.[^canty] A *Dragzine* caption credits Alan Bockla as "the first racer in Colorado to break 200 MPH, at the Mountain View Dragway."<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^dz11]
 
 Tom Brown of Wray called Julesburg, up in the northeast corner, his home track in 1962–64. At Trinidad, Rick Milinazzo's dad raced at the airport in the early to mid-'60s, "even before the Jaycees had events there."[^dslco]
 
@@ -125,7 +124,7 @@ Just south of today's Denver International Airport, Century 21 International Spe
 
 Out west, Grand Junction's Midway Drag Strip used an old runway at the south end of the airport, next to I-70. Admission was free and pit passes were $1.00, and Chuck Lerable saw Tommy Ivo's twin-engine dragster there.[^dslco] Whitey Shoffner raced at Midway from its first days, "with his ever-present cigar dangling from his mouth," in a photo the *Colorado West* ran on April 16, 1972.[^dslco]
 
-Pueblo built its strip the long way. In 1974, Tom McKenna wrote, the non-profit Pueblo Motor Sports, Inc. held a meet on a private airstrip "with a wind sock" in Colorado City, 25 miles south, to work up enough "racing fever" to raise money for a real strip. The announcer was a state legislator, the minority whip, who was also a Pueblo radio personality, Bob "Leon" Kirsht. McKenna's Honda failed inspection. At one meet they had to stop for an hour "while a local rancher landed his Cessna on the drag/air strip," and "in '76 PMI was opened."[^dslco] The Greater Pueblo Sports Association's hall of fame tells a wilder story about the money. Its biography of Tom Gilmore, owner of Tom's Auto Beauty Shop and a city council member, says he "Won numerous trophies for car, midget and motorcycle racing" and rode a unicycle in the Cheyenne Frontier Days parade, and that he was "Accused of holding a pistol on the rest of the council members to get approval for funding from the City and County to establish the Pueblo Motor Sport Park."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> Gilmore died on October 25, 1982, and was inducted after his death.[^gpsa] The shutdown at Erie climbed like a carnival slide. Down at Pueblo, a rancher's Cessna stopped a meet for an hour, and a hall of fame says a councilman was accused of holding a pistol for the funding.
+Pueblo built its strip the long way. In 1974, Tom McKenna wrote, the non-profit Pueblo Motor Sports, Inc. held a meet on a private airstrip "with a wind sock" in Colorado City, 25 miles south, to work up enough "racing fever" to raise money for a real strip. The announcer was a state legislator, the minority whip, who was also a Pueblo radio personality, Bob "Leon" Kirsht. McKenna's Honda failed inspection. At one meet they had to stop for an hour "while a local rancher landed his Cessna on the drag/air strip," and "in '76 PMI was opened."[^dslco] The Greater Pueblo Sports Association's hall of fame biography of Tom Gilmore, owner of Tom's Auto Beauty Shop and a city council member, says he "Won numerous trophies for car, midget and motorcycle racing" and rode a unicycle in the Cheyenne Frontier Days parade. Gilmore died on October 25, 1982, and was inducted after his death.[^gpsa] The shutdown at Erie climbed like a carnival slide. Down at Pueblo, a rancher's Cessna stopped a meet for an hour.
 
 *See also:* [The Denver Timing Association and Bandimere](denver-timing-association-bandimere.md), for Denver's own clubs, Lowry and the hogback strip; [The New Mexico Timing Association](new-mexico-timing-association-albuquerque.md), to the south; [Casper and Wyoming's strips](casper-bar-nunn-wyoming-strips.md), to the north.
 
@@ -138,8 +137,6 @@ Pueblo built its strip the long way. In 1974, Tom McKenna wrote, the non-profit 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Where did Bockla break 200?** The *Dragzine* caption: at Mountain View.[^dz11] The Colorado Motorsports Hall of Fame: "In 1964, set a speed record at Rocky Mountain Drag way of 200.44 miles per hour," the first over 200 in the state.[^bockla] Whether "Rocky Mountain Dragway" was another name for one of the Denver strips is itself unknown. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **How long did Century 21 last?** The Aurora History Museum: 1971 to 1974.[^aur25] A H.A.M.B. poster in 2010: it "went under after about 2 years."[^hamb11] The drag strip may have closed before the oval did. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
-
-<a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Did a councilman really pull a pistol for the Pueblo strip?** Only the hall-of-fame biography says so, and it says "Accused of," which reads like a teasing local legend. We repeat it as that.[^gpsa] Pueblo council minutes for 1974–75 would show how the city and county money was approved. <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 
 ### Next leads
 

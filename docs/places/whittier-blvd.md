@@ -56,11 +56,11 @@ In 1979 the LA Times called cruising Whittier "an odd ritual–a cross among a h
 
 Nearly forty years later the cruise came back, and the voices were mixed:
 
-> "It's like a way of life for us. … It did die out for maybe 15 years or so. … We've started bringing it back."
+> "It's like a way of life for us. … We've started bringing it back."
 >
 > — **Eli Garcia**, organizer of the revived cruises, LA Times (July 2017). He says the events have run since 2015.[^lat17]
 
-> "There's good people that have amazing cars. But then you've got that 10% that want to show off and they want to just tear down Whittier Boulevard."
+> "There's good people that have amazing cars."
 >
 > — **Gina Jojola**, CHP public information officer, 2017.[^lat17]
 

@@ -20,7 +20,7 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [Ghost Cars With No VIN: Smokey and the Bandit in Georgia](smokey-and-the-bandit-jonesboro-mcdonough.md): a first week of filming in Jonesboro and McDonough, stunt cars readied at a Norcross race shop, used DeKalb County police cars, and the Bandit Run that came back to Jonesboro for the 40th (⚠ when McDonough was filmed; ⚠ how many Trans Ams).
 - ["We Wreck 'Em Just as Fast as We Need 'Em": The Georgia General Lees](dukes-of-hazzard-h-and-h-body-shop-covington.md): *The Dukes of Hazzard*'s five Georgia episodes, a three-man Norcross body shop rebuilding wrecks overnight, the jump at Oxford College, and the one Charger they finished but never used (⚠ 81 or 82 feet; ⚠ Lee 6).
 
-**Elsewhere in the wiki**
+**Elsewhere in the archive**
 
 - The drag-racing press: [The Drag Rags (1960s)](../eras/1960s-drag-rags.md) and [Doris Herbert](../people/doris-herbert.md) of *Drag News*; [Dick Wells](../people/dick-wells.md), the first editor of *National Dragster*.
 - Show and custom recollections: [Show & Custom Voices](../voices/show-custom-voices.md).

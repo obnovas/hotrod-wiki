@@ -1,6 +1,6 @@
 ---
 title: "The Story Map: Where It Happened"
-description: An interactive map of the Hot Rod History Wiki. One pin for every town in the stories, filter by era and region, and see which states the archive covers, from the dry lakes to the Georgia drag strips.
+description: An interactive map of Hot Rodding History. One pin for every town in the stories, filter by era and region, and see which states the archive covers, from the dry lakes to the Georgia drag strips.
 search:
   boost: 2
 ---

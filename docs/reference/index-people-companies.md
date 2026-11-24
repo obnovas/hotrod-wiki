@@ -331,7 +331,7 @@
 | Gibbs, Burt, Cecilia & Fred | North A Street junkyard, Las Vegas; Fred killed in a 1961 car accident | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
 | Gibbs, Steve | NHRA; on Peggy Hart | [The Harts](../voices/harts-santa-ana.md) |
 | Gillespie, Gene | Lompoc racer; Golden State Raceway Bracket 2 title, 1974 | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
-| Gilmore, Tom | Pueblo councilman and racer; the pistol story ◐ | [Mountain View & Colorado](../drag-racing/mountain-view-erie-colorado-strips.md) |
+| Gilmore, Tom | Pueblo councilman and racer; hall of fame, 1984 | [Mountain View & Colorado](../drag-racing/mountain-view-erie-colorado-strips.md) |
 | Ginsburg, Arnie "Woo Woo" | WMEX "Night Train" disc jockey; the Ginsburger; New England Hot Rod Hall of Fame ◐ | [Arnie Ginsburg](../people/arnie-ginsburg.md), [Route 1, Saugus](../places/route-1-saugus-adventure-car-hop.md) |
 | Godfrey, Dick | Co-founder of Bonneville Drag Strip (1965) and Bonneville Raceway (1968), Salt Lake | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
 | Godman, Ray | Memphis racer; Lakeland Dragway; strip and national records at Carlisle | [Memphis](../places/memphis.md), [Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md) |
@@ -784,7 +784,6 @@
 | Sabourin, Kemp | Escanaba policeman; Drag-n's president | [Escanaba](../drag-racing/escanaba-dragns.md) |
 | Sahagon, Jerry | Hayward Satan's Angels member; '51 Chevy said to be the first Candy Apple car ◐ | [Joe Bailon](../people/joe-bailon-candy-apple.md) |
 | Salt Kings Rod & Custom Club | Ogden, Utah, club; closed Wall Avenue for a race to pay for a clubhouse, 1955 | [Utah](../drag-racing/utah-airport-no-2-salt-lake-strips.md) |
-| Sanders, Babe | North Little Rock Impala racer who guarded his hood with a tire iron ◐ | [Carlisle](../drag-racing/carlisle-drag-strip-arkansas.md) |
 | Sands, Don | "Cheyenne's oldest teenager"; Oldsmobile racer and namesake burger | [Greybull & Cheyenne](../drag-racing/greybull-cheyenne-wyoming-strips.md) |
 | Santa Maria Valley Jaycees | Ran the Golden State Raceway, 1969–70s | [Santa Maria](../drag-racing/santa-maria-golden-state-raceway.md) |
 | Sargent, Gary | Winterport Dragway founder and co-owner | [Winterport](../drag-racing/winterport-fernald-field-maine.md) |
@@ -915,7 +914,7 @@
 | Tucson Dragway | Valencia and Houghton roads, 1964–1984/85 ⚠; new track 1997 | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | Twin Ports Drag Racing Association | Duluth–Superior club, 1971; $25 shares for a strip near the Apollo Bar, 1974 | [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md) |
 | Tyler, Brent | Reno dragster builder arrested over airplane parts, charges dropped, 1956 | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
-| Unique Performance | Farmers Branch, Texas, Eleanor builder; 61 cars seized, 2007; Chapter 7 | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
+| Unique Performance | Farmers Branch, Texas, Eleanor builder; a 2007 case was reported | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | United Lowrider Council of San Jose | Council whose history page tells the King and Story story | [King and Story](../places/king-and-story-san-jose-lowrider-magazine.md) |
 | Van Daalwyk, Joseph | Kaukauna builder; KK Sports Arena president, 1968–70 | [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
 | VanderLey, Paul | Biloxi racer; Division IV title, 1976; family pit crew | [Biloxi Dragway](../drag-racing/biloxi-dragway-gulf-coast.md) |

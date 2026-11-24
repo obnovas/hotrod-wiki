@@ -43,7 +43,7 @@ canonical_for: []
 *In February 1957 a sheriff, a police chief, and a safety man gave three answers on hot rods*
 
 !!! abstract "Article record"
-    **Confidence:** Medium · **Source types:** one United Press wire story as printed in a small-town daily (*Kingston Daily Freeman*, Kingston, N.Y., Feb. 14, 1957), read as scanned page OCR; background from two wiki pages built on a 1955 planners' report and a 1957 recreation-field magazine · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** we read only this one printing of the story, so the speakers' titles and quotes are as that paper gave them ◐; the OCR drops letters (one quote is bracketed where a letter was lost); we have not found the convention's own proceedings or any follow-up law · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium · **Source types:** one United Press wire story as printed in a small-town daily (*Kingston Daily Freeman*, Kingston, N.Y., Feb. 14, 1957), read as scanned page OCR; background from two archive pages built on a 1955 planners' report and a 1957 recreation-field magazine · **Last verified:** 2026-10-20 (Round 18) · **Open issues:** we read only this one printing of the story, so the speakers' titles and quotes are as that paper gave them ◐; the OCR drops letters (one quote is bracketed where a letter was lost); we have not found the convention's own proceedings or any follow-up law · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We cannot sponsor or advocate them."

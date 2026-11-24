@@ -8,7 +8,7 @@ The famous names are here too. This archive follows the side roads: the people, 
 
 <!-- hr:highlights -->
 
-!!! note "How to read this wiki"
+!!! note "How to read Hot Rodding History"
     - Every factual claim carries a footnote with a source URL.
     - **⚠ Conflict** marks places where sources disagree; both versions are shown.
     - **◐ Single-sourced** marks claims found in only one source so far.
@@ -16,4 +16,4 @@ The famous names are here too. This archive follows the side roads: the people, 
     - Want a story in order? Follow a [Reading Path](reference/reading-paths.md): fourteen routes through the archive, from the towns that fought over drag strips to the street rod revival. Each story on a path shows a **Part n of N** bar.
     - New here? The [Quick Answers](reference/quick-answers.md) give the short version of the big questions, from the SCTA to cruising bans, each with a link to the full story.
     - The [Story Map](reference/story-map.md) shows where every story happened. Pick a decade to see where the scene was.
-    - The [Research Trail](research-trail.md) is the running detective's log of leads.
+    - The [Research Trail](research-trail.md) is the working log of leads.

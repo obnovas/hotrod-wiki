@@ -64,7 +64,7 @@ The lane beside him held a propeller. Joe Schubeck, a high-school kid, had inher
 
 All of it comes from Schubeck's own recollection in a Hall of Fame piece.
 
-Schubeck says he fell in love with drag racing in Petersen's *Hot Rod* at 13, reading everything Wally Parks wrote. While still in high school he heard about "a speed shop that just opened in Lakewood, Ohio," and met its owner, **Jack Harris**, who had started a dragster he couldn't find time to finish. Schubeck "inherited" it. The Akron strip in the story is the one on the wiki's [Akron Fulton Airport page](../drag-racing/akron-fulton-airport.md), where the Arfons half-brothers raced.[^sema]
+Schubeck says he fell in love with drag racing in Petersen's *Hot Rod* at 13, reading everything Wally Parks wrote. While still in high school he heard about "a speed shop that just opened in Lakewood, Ohio," and met its owner, **Jack Harris**, who had started a dragster he couldn't find time to finish. Schubeck "inherited" it. The Akron strip in the story is the one on the archive's [Akron Fulton Airport page](../drag-racing/akron-fulton-airport.md), where the Arfons half-brothers raced.[^sema]
 
 By his third year racing, he met **Joe Scarpelli**, "an expert on Chrysler Hemi engines from Cleveland," and the two built a Double A gas dragster with a blown Hemi.[^sema]<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see Open questions">⚠</a></sup>
 

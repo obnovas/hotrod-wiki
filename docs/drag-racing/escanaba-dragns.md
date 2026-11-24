@@ -81,7 +81,7 @@ The cars came slowly, and the feature is blunt about money. "The cars that are b
 
 Of the dragster the paper quotes them: "Putting a motor in a car is one of the easiest steps, but hooking up the many parts of the car proves a bit more difficult."[^apr23]
 
-The piece adds that a home-built hot rod "captured fifth place last year in the Mexican Road Race." It gives no name or car, and nothing else in this wiki supports it. We repeat it as the paper's claim only.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^apr23]
+The piece adds that a home-built hot rod "captured fifth place last year in the Mexican Road Race." It gives no name or car, and nothing else in the archive supports it. We repeat it as the paper's claim only.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see Open questions">◐</a></sup>[^apr23]
 
 The Drag-n's wanted a drag strip, and the paper says where. It was "a quarter mile level straight stretch of road" near a radio site whose name is garbled in the scan ("Danfordth," OCR). The road would have to be black-topped "for greatest safety measures." The paper claims many club cars would top 100 mph "in a quarter mile, a distance of three blocks."[^apr23] The club also planned an **auto show** for "the first of June," where any vehicle from a sedan to a motorcycle would be safety-checked and scored for appearance, lights, brakes, steering, exhaust, wiring and papers.[^apr23]
 

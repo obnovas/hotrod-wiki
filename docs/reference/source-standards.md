@@ -1,6 +1,6 @@
 # Contributing: Source Standards
 
-This wiki treats hot rod history as detective work. Every claim has to show where it came from.
+The archive is a footnoted record of hot rod history. Every claim has to show where it came from.
 
 ## Rules
 1. **Cite every factual claim** with a footnote that has a URL (or a full print citation). Add each new source to the [Bibliography](../bibliography.md) with a type tag.
