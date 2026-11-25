@@ -86,7 +86,7 @@ Jim Clark, first editor of *Street Rodder*, said in 2012 that the magazine had s
 The bosses had said no, and the hayfield happened anyway. *Street Rodder* had not drawn a year. The association did, and that line is what it kept.
 
 
-*See also:* [Peoria 1970](../voices/peoria-1970.md); [Come Get Stuck in Lodi](lodi-mini-nats-goodguys-meadors.md), the NSRA-approved Mini-Nats of 1973 and how Goodguys began.
+*See also:* [Peoria 1970](../voices/peoria-1970.md); [Come Get Stuck in Lodi](lodi-mini-nats-goodguys-meadors.md), the NSRA-approved Mini-Nats of 1973 and how Goodguys began; ["A Show of Our Own"](daytona-turkey-run-sarjeant.md), the Daytona Turkey Run, started in 1974.
 
 ## Open questions & disputed details
 

@@ -88,7 +88,7 @@ The month never happened. The 1987 event ran eight days and ended $250,000 in de
 
 The dance came first, and the cars were a way to sell a few more tickets. That is how it began, and the cars have run it ever since.
 
-*See also:* [Rope Barriers, Water Drums and the Show Circuit](show-circuit.md); [Las Vegas and Henderson drag strips](../drag-racing/las-vegas-henderson-drag-strips.md); [Dragging Main](../places/dragging-main.md); [Draggin' Main in Clovis](../places/draggin-main-clovis-new-mexico.md), another town that brought its cruise back as an event.
+*See also:* [Rope Barriers, Water Drums and the Show Circuit](show-circuit.md); [Las Vegas and Henderson drag strips](../drag-racing/las-vegas-henderson-drag-strips.md); [Dragging Main](../places/dragging-main.md); [Draggin' Main in Clovis](../places/draggin-main-clovis-new-mexico.md), another town that brought its cruise back as an event; [The 2005 Shirts](cruisin-the-coast-mississippi-gulf.md), the Mississippi Gulf Coast show a Reno idea helped start in 1996.
 
 ## Open questions & disputed details
 

@@ -2289,3 +2289,58 @@ highlights:
     added: '2026-11-24'
     eras: [1980s, 2020s]
     regions: ['Phoenix, Ariz.']
+
+  - id: cruisin-coast-2005-shirts
+    headline: After Katrina canceled Cruisin' the Coast, the 2006 show went on in the 2005 shirts
+    teaser: The organizers did not reprint the merchandise; a sleeve logo added the 2006 dates and "can't beat
+      our cruisin spirit." Charly Miller of Gulfport was ready to cruise his 1957 Fairlane for the tenth time.
+    link: media/cruisin-the-coast-mississippi-gulf.md#katrinas-year
+    evidence: [The shirts and the poster kept 2005's dates, can't beat our cruisin spirit]
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-25'
+    eras: [2000s]
+    regions: ['Gulfport, Miss.']
+
+  - id: turkey-run-turned-away-t-bucket
+    headline: A T-bucket turned away from a 1973 parade, and a crying boy, started the Daytona Turkey Run
+    teaser: Hot rods were not permitted in the Ormond Beach parade, so Stu Sarjeant and his son held a show of
+      their own the next Thanksgiving. In 1974, 45 cars came to a Howard Johnson hotel in Daytona Beach.
+    link: street-rodding/daytona-turkey-run-sarjeant.md#turned-away-in-ormond-beach
+    evidence: ["because hot rods were not permitted.", drew 45 cars to a Howard Johnson hotel]
+    source_type: Local news
+    confidence: High
+    flag: conflict
+    grassroots: true
+    added: '2026-11-25'
+    eras: [1970s]
+    regions: ['Daytona Beach, Fla.']
+
+  - id: martin-dragway-leftover-parcel
+    headline: A parcel too long and narrow for a farmer became a Michigan drag strip
+    teaser: The new U.S. 131 cut off 198 acres near the Martin exit, and John Grivins, still a college student,
+      built a strip there with his father. His mother ran the concession stand.
+    link: drag-racing/martin-dragway-us-131-grivins.md#a-farmers-bad-shape
+    evidence: [long and narrow by a farmer's standards, His mother ran the concession stand]
+    source_type: [Museum / HOF, Obituary]
+    confidence: Medium-High
+    flag: none
+    grassroots: true
+    added: '2026-11-25'
+    eras: [1960s]
+    regions: ['Martin, Mich.']
+
+  - id: kil-kare-you-dont-work-for-me
+    headline: "\"YOU don't work for me!\": a Kil-Kare kid who worked there paid at the gate for a year and a half"
+    teaser: Will Tharpe did odd jobs and learned to announce at the Xenia strip, but nobody told Barb Chrysler
+      at the gate. He later became its general manager.
+    link: drag-racing/kil-kare-dragway-xenia.md#barb-at-the-gate
+    evidence: [He paid a gate fee for a year and a half, Nobody told Barb]
+    source_type: Oral history
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-25'
+    regions: ['Xenia, Ohio']

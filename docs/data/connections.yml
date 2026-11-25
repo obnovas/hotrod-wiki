@@ -186,6 +186,8 @@ nodes:
   - {id: hok,        label: House of Kolor, type: company, group: garage-born, page: companies/house-of-kolor-kosmoski-minneapolis.md}
   - {id: kosmoski,   label: Jon Kosmoski, type: person, page: companies/house-of-kolor-kosmoski-minneapolis.md}
   - {id: minneapolis, label: "Minneapolis, Minn.", type: place, page: companies/house-of-kolor-kosmoski-minneapolis.md}
+  - {id: artmorrison, label: Art Morrison Enterprises, type: company, group: garage-born, page: companies/art-morrison-enterprises-fife.md}
+  - {id: fife,       label: "Fife, Wash.", type: place, page: companies/art-morrison-enterprises-fife.md}
 edges:
   # ----- Hurst
   - {from: hurst, to: ghurst, type: founded, label: "Hurst-Campbell's founder and namesake", page: companies/hurst-campbell.md,
@@ -616,3 +618,7 @@ edges:
      evidence: ["He bought a four-stall shop and called it House of Color"]}
   - {from: struksnes, to: minneapolis, type: hometown, label: "Born in Minneapolis, 1940; licensed for a dragster at a Minneapolis strip", page: drag-racing/north-dakota-minot-borrowed-strips.md,
      evidence: ["Bob Struksnes was born in Minneapolis in 1940"]}
+  - {from: artmorrison, to: fife, type: hometown, label: "Began in his father's old carpentry shop, 30 by 60 feet, beside the house", page: companies/art-morrison-enterprises-fife.md,
+     evidence: ["The shop was his father's former carpentry shop, 30 by 60 feet, beside the house"]}
+  - {from: artmorrison, to: nhra, type: scene, label: "Early customer cars held NHRA national records", page: companies/art-morrison-enterprises-fife.md,
+     evidence: ["named three of his early cars that held NHRA national records"]}

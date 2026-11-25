@@ -19,6 +19,7 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - ["Halloween on Wheels": The Street Machine Nationals at Du Quoin (Ill.)](street-machine-nationals-du-quoin.md): a traveling show lands at a fairground town of 6,000 in 1986, a Pontiac that took Best Street Machine, and a governor's decision in 1998 (⚠ the 1986 count; ⚠ who ended it).
 - [Ghost Cars With No VIN: Smokey and the Bandit in Georgia](smokey-and-the-bandit-jonesboro-mcdonough.md): a first week of filming in Jonesboro and McDonough, stunt cars readied at a Norcross race shop, used DeKalb County police cars, and the Bandit Run that came back to Jonesboro for the 40th (⚠ when McDonough was filmed; ⚠ how many Trans Ams).
 - ["We Wreck 'Em Just as Fast as We Need 'Em": The Georgia General Lees](dukes-of-hazzard-h-and-h-body-shop-covington.md): *The Dukes of Hazzard*'s five Georgia episodes, a three-man Norcross body shop rebuilding wrecks overnight, the jump at Oxford College, and the one Charger they finished but never used (⚠ 81 or 82 feet; ⚠ Lee 6).
+- [The 2005 Shirts: Cruisin' the Coast (Mississippi Gulf Coast)](cruisin-the-coast-mississippi-gulf.md): casino and tourism leaders borrow Reno's idea in 1996 to fill October hotel rooms, Katrina cancels 2005, cruisers come anyway to help, and 2006 goes on in 2005's shirts (⚠ three and a half days or four).
 
 **Elsewhere in the archive**
 

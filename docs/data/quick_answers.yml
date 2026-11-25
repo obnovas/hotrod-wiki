@@ -1099,6 +1099,22 @@ themes:
         link: people/butch-hicks-huntsville-coachmen-manassas.md
         also: [drag-racing/broadway-speedway-knoxville-eddie-harvey.md]
         flag: people/butch-hicks-huntsville-coachmen-manassas.md#q-1
+      - id: martin-dragway-leftover-parcel
+        q: How did Martin Dragway in Michigan get its land?
+        a: >-
+          The new U.S. 131 expressway cut off a 198-acre parcel near the Martin exit, long and narrow by a farmer's
+          standards. John Grivins, a young Ford racer, saw a drag strip in it, built it with his father from 1961
+          and opened it in 1962, with his mother running the concession stand.
+        link: drag-racing/martin-dragway-us-131-grivins.md
+        also: [drag-racing/muncie-dragway-albany-indiana.md]
+      - id: kil-kare-dragway-xenia
+        q: What is Kil-Kare Dragway, and who owns it now?
+        a: >-
+          A quarter-mile strip that opened in 1959 beside a stock car oval on Dayton-Xenia Road near Xenia, Ohio.
+          Racers kept it going after the owner died in 2011, the IHRA bought it in 2025, and it was one of eleven
+          tracks offered at auction with bids due November 17, 2026; who buys it is still an open question.
+        link: drag-racing/kil-kare-dragway-xenia.md
+        also: [drag-racing/martin-dragway-us-131-grivins.md]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1387,6 +1403,14 @@ themes:
         link: companies/house-of-kolor-kosmoski-minneapolis.md
         also: [people/joe-bailon-candy-apple.md]
         flag: companies/house-of-kolor-kosmoski-minneapolis.md#q-2
+      - id: art-morrison-drag-to-street
+        q: How did Art Morrison Enterprises go from drag cars to street-car chassis?
+        a: >-
+          Art Morrison built door slammers and 135 dragsters in Fife, Washington, then Pro Street chassis when his
+          customers wanted them. His son's bolt-on frame for the Tri-Five Chevy took the shop into street cars, and
+          in 2022 Art sold the controlling interest to his own engineer, Matt Jones.
+        link: companies/art-morrison-enterprises-fife.md
+        also: [eras/1980s-pro-street.md, eras/1990s-pro-touring-garage-engineers.md]
   - id: people
     title: People
     questions:
@@ -1870,6 +1894,33 @@ themes:
         link: media/dukes-of-hazzard-h-and-h-body-shop-covington.md
         also: [media/smokey-and-the-bandit-jonesboro-mcdonough.md]
         flag: media/dukes-of-hazzard-h-and-h-body-shop-covington.md#q-3
+      - id: daytona-turkey-run-origin
+        q: How did the Daytona Turkey Run start?
+        a: >-
+          A 1923 Ford T-bucket was turned away from the 1973 Ormond Beach AACA Gaslight Parade because hot rods
+          were not allowed, and Stu Sarjeant's young son cried (⚠ his name and age, see Open questions). The next
+          Thanksgiving, 1974, 45 cars came to a Howard Johnson hotel, and in 1989 the show moved into the Daytona
+          International Speedway infield.
+        link: street-rodding/daytona-turkey-run-sarjeant.md
+        also: [street-rodding/nsra-early-nationals.md]
+        flag: street-rodding/daytona-turkey-run-sarjeant.md#q-1
+      - id: cruisin-the-coast-origin
+        q: Who started Cruisin' the Coast on the Mississippi Gulf Coast, and why?
+        a: >-
+          Hotel, casino and business people, in 1996, to fill rooms after Labor Day; a casino executive who had
+          worked in Reno told them about Hot August Nights (◐ see Open questions). That first year 374 cars
+          registered, and by 2025 it drew 10,334.
+        link: media/cruisin-the-coast-mississippi-gulf.md
+        also: [media/hot-august-nights-reno-1986.md]
+        flag: media/cruisin-the-coast-mississippi-gulf.md#q-3
+      - id: cruisin-the-coast-2005-shirts
+        q: What happened to Cruisin' the Coast after Hurricane Katrina?
+        a: >-
+          Katrina canceled the 2005 show after 4,107 cars had registered, and many cruisers came anyway as
+          volunteers with their tools. The 2006 show, the tenth, went on in the 2005 shirts and poster, with a
+          sleeve logo adding the 2006 dates.
+        link: media/cruisin-the-coast-mississippi-gulf.md#katrinas-year
+        also: [drag-racing/biloxi-dragway-gulf-coast.md]
   - id: how-we-know
     title: Sources and how we know
     questions:

@@ -244,6 +244,23 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Internet Archive lending library | Text download refused (HTTP 401); search snippets only. |
 | NSRA (UK) forum | Bot check; search excerpt only. |
 
+### Round 50 additions
+- A hometown paper and a founder in his own words: Stu Sarjeant to Robin Sharp in the *Hometown News* (Volusia County, Fla., 2026), with the club's own history on the event site → ["A Show of Our Own"](../street-rodding/daytona-turkey-run-sarjeant.md).
+- A coast paper's year-by-year record and local TV: the *Sun Herald*'s Cruisin' the Coast coverage (2016–24), Brad Kessie's 2006 WLOX report on the post-Katrina show, the *Ocean Springs Weekly Record* (2026) and Woody Bailey to *Scenic 98 Coastal* (2023) → [The 2005 Shirts](../media/cruisin-the-coast-mississippi-gulf.md).
+- A town business paper: Bonnie West in the *Tacoma Daily Index* (2001), on Art Morrison's Fife chamber award → ["A Better Way to Make a Living"](../companies/art-morrison-enterprises-fife.md).
+- A state hall of fame, a family obituary and its guest book, and racers' memories in MLive (2022) → [The Leftover Parcel](../drag-racing/martin-dragway-us-131-grivins.md).
+- Hometown papers and a general manager's memories: the *Dayton Daily News* (2017, 2026), the *Xenia Gazette* (2025) and Will Tharpe to Van Abernethy in *Drag Illustrated* (2015) → ["YOU Don't Work for Me!"](../drag-racing/kil-kare-dragway-xenia.md).
+
+### Round 50 status
+| Archive | Round 50 status |
+|---|---|
+| Port of Tacoma (Art Morrison story) | Access denied; no Wayback copy; not used. |
+| Town Broadcast (Grivins obituary) | HTTP 500; not used. The Legacy copy of the family obituary was read instead. |
+| Phil Marshall, *Early Kil-Kare Speedway* (2020) | Book not read; only the publisher's description is cited. |
+| *Daytona Beach News-Journal*, *Kalamazoo Gazette*, *Xenia Daily Gazette* of the 1960s–70s | Not searched this round; listed in each article's Next leads. |
+| Patents | None this round. |
+| Images | No Round 50 images. |
+
 ### Round 49 additions
 - A track's own historian: Yancey Johnson's memories and collection, including the first trophy, dated June 6, 1959, as told to Van Abernethy in *Drag Illustrated* (2025); Ball State University's archives blog on its Muncie Dragway memorabilia collection (2025); Dave Himes's family obituary in *The Herald Bulletin* (Anderson, Ind., 2011) → [The First Trophy](../drag-racing/muncie-dragway-albany-indiana.md).
 - A local family obituary: Butch Hicks's in *Quad Cities Daily* (2025), the only source so far for the Martin Road race and the mayor's approval → [The Mayor Said Yes](../people/butch-hicks-huntsville-coachmen-manassas.md).

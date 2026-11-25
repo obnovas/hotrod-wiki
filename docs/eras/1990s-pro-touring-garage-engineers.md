@@ -113,7 +113,7 @@ Stielow kept building '69 Camaros at night, around his GM job. His eighth, the M
 
 The style has catalogs now, and you can have a whole rolling chassis shipped to your door.[^sm20] It started with a dead Camaro under a hotel light pole and a backyard shop near Detroit.
 
-*See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md), the look that came before it and gave it the idea of a name; [Summit Racing](../companies/summit-racing.md), where, by the Carhutt profile, he was chief product-development engineer from 1995<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^ch]; [Holley](../companies/holley.md).
+*See also:* [Pro Street, from a Dayton Garage](1980s-pro-street.md), the look that came before it and gave it the idea of a name; [Summit Racing](../companies/summit-racing.md), where, by the Carhutt profile, he was chief product-development engineer from 1995<sup class="hr-q" id="qr-6"><a href="#q-6" title="Single source so far: see Open questions">◐</a></sup>[^ch]; [Holley](../companies/holley.md); ["A Better Way to Make a Living"](../companies/art-morrison-enterprises-fife.md), Art Morrison's chassis shop in Fife, Wash.
 
 ## Open questions & disputed details
 

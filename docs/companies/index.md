@@ -37,6 +37,7 @@ The smaller outfits, where the person and the shop were nearly the same thing.
 - [Speedway Motors](speedway-motors-lincoln.md): a 400-square-foot Lincoln store on a $300 loan, an empty box on the shelf for every part, orders on the evening bus, and a founder who never moved to California (⚠ fiancée or wife).
 - [Ringbrothers](ringbrothers-spring-green.md): two brothers from Plain, Wis., a Camaro restored in the basement, a collision shop on Highway 14, a SEMA best in show, and the Stations of the Cross painted for the hometown church.
 - [House of Kolor](house-of-kolor-kosmoski-minneapolis.md): a Minneapolis painter who made paint for himself, won Best Paint at local shows, hired a chemist at $50 an hour, chose a scarab for the brand and sold it to Valspar in 1997 (⚠ how and when the paint business began).
+- [Art Morrison Enterprises](art-morrison-enterprises-fife.md): a wheelstander crash, race cars built in a father's old carpentry shop in Fife, Wash., some 135 dragsters, a first Goodguys show where nobody stopped, a son's bolt-on Tri-Five frame, and a 2022 sale to the shop's own engineer (⚠ 1968 or 1971).
 - Also covered on people pages: Winfield, Riley, Navarro Racing Equipment, Chet Herbert Cams, So-Cal Speed Shop, Summers Fender Extensions.
 
 ## How the profiles are built

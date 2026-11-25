@@ -106,7 +106,7 @@ Scott and Dawn Daniels bought the track in 2012.<sup class="hr-q" id="qr-2"><a h
 
 Johnson showed Abernethy the crown jewel of his collection on that first visit in 2011. It was Carl Thomas's trophy from June 6, 1959. Thomas had given it to him because he was certain Johnson would treasure it more than anyone else he could think of.[^di25] Three clubs got the strip opened, and the first trophy it ever gave out ended up with the man who keeps its history.
 
-*See also:* [Bunker Hill Dragstrip](bunker-hill-dragstrip-indiana.md), another Indiana strip of the same years; [Indiana's small-town clubs](indiana-small-town-clubs.md); [Cecil County Drag-O-Way](cecil-county-drag-o-way-rising-sun.md), where a track worker's memories also carry the early story; [The Mayor Said Yes](../people/butch-hicks-huntsville-coachmen-manassas.md), another strip a hometown car club helped start, at Harvest, Ala..
+*See also:* [Bunker Hill Dragstrip](bunker-hill-dragstrip-indiana.md), another Indiana strip of the same years; [Indiana's small-town clubs](indiana-small-town-clubs.md); [Cecil County Drag-O-Way](cecil-county-drag-o-way-rising-sun.md), where a track worker's memories also carry the early story; [The Mayor Said Yes](../people/butch-hicks-huntsville-coachmen-manassas.md), another strip a hometown car club helped start, at Harvest, Ala.; [The Leftover Parcel](martin-dragway-us-131-grivins.md), Martin Dragway in Michigan; ["YOU Don't Work for Me!"](kil-kare-dragway-xenia.md), Kil-Kare near Xenia, Ohio.
 
 ## Open questions & disputed details
 
