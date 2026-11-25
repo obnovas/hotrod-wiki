@@ -27,8 +27,6 @@ cities:
 - Osceola, Indiana
 people:
 - John Grivins
-- Voldemars Grivins
-- Marta Grivins
 - Gunnar Grivins
 - Nancy Reid
 - Gary Slabbekoorn
