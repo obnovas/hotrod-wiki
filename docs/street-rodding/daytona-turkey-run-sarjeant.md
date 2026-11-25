@@ -19,7 +19,6 @@ cities:
 - Ormond Beach, Florida
 people:
 - Stu Sarjeant
-- Jim Sarjeant
 - Rachel Sarjeant
 - Rick Finzer
 - Olin Hopes
@@ -54,7 +53,7 @@ status: The fall 2026 show, set for November 25–29, was canceled on November 2
 ---
 # "A Show of Our Own": The Daytona Turkey Run (Daytona Beach, Fla., 1974– )
 
-*A hot rod turned away from a holiday parade, a four-year-old in tears, and a Thanksgiving show that ended up in the Speedway's infield*
+*A hot rod turned away from a holiday parade, a young son in tears, and a Thanksgiving show that ended up in the Speedway's infield*
 
 !!! abstract "Article record"
     **Confidence:** High (the founding is told the same way by the founder to a local paper and by the event's own history; the sources differ on the son's name and age and on two dates) · **Source types:** <span class="hr-badge">Grassroots</span> the founder in his own words to the *Hometown News* (Volusia County, 2026); the event's own history and its 2026 cancellation notice; *Motortopia* (2025); a Daytona Beach hotel's history blog (2025) · **Last verified:** 2026-11-25 (Round 50) · **Open issues:** ⚠ Jim at four or Tim at five; ⚠ Bellair Plaza in 1975 or 1976; ⚠ the spring show's count · [How we rate this](../reference/source-standards.md)
@@ -88,7 +87,7 @@ The 53rd fall show was set for November 25 through 29, 2026.[^htn26] On November
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was the boy Jim, at four, or Tim, at five?** The event's own history says "his four-year-old son Jim," and the *Hometown News* quotes Sarjeant on his "four-year-old son" and names him Jim.[^tr][^htn26] A Daytona Beach hotel's history also says Jim, four.[^mx25] *Motortopia* says "his five-year-old son, Tim."[^mt25] Three accounts agree on Jim at four; we have not seen a period source. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Was the boy Jim, at four, or Tim, at five?** The event's own history says "his four-year-old son Jim," and the *Hometown News* quotes Sarjeant on his "four-year-old son" and names him Jim.[^tr][^htn26] *Motortopia* says "his five-year-old son, Tim."[^mt25] The event's history and the *Hometown News* agree on Jim at four; a hotel blog, using copy provided by the Turkey Run, says the same.[^mx25] We have not seen a period source. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Did the show move into Bellair Plaza in 1975 or 1976?** *Motortopia* says the founders moved it across the street in 1975, the year the club formed.[^mt25] The hotel's history says "By 1976, the newly formed Daytona Beach Street Rods club, with only five members at the time, helped expand the event" and then describes the move.[^mx25] The event's own history does not date the move, and the *Hometown News* lists Bel Air Plaza as the first of the new homes without a year.[^tr][^htn26] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
@@ -104,4 +103,4 @@ The *Daytona Beach News-Journal*, November 1973 and November 1974, for the Gasli
 [^tr]: "About Us" and "A short history of the Daytona Turkey Run," *Daytona Turkey Run* (the event's own site, presented by the Daytona Beach Street Rods and the Daytona Beach Racing & Recreational Facilities District). https://www.turkeyrun.com/about (accessed 2026-11-25)
 [^trhome]: "The Fall 2026 Daytona Turkey Run has been canceled," *Daytona Turkey Run*, notice dated November 20, 2026. https://www.turkeyrun.com/ (accessed 2026-11-25)
 [^mt25]: Joe Greeves, "Inside the Legendary Daytona Turkey Run," *Motortopia*, October 16, 2025. https://www.motortopia.com/the-history-of-the-famous-daytona-turkey-run/ (accessed 2026-11-25)
-[^mx25]: "The History of the Turkey Run: From a Simple Idea to a Legendary Event," Max Beach Resort press blog (Daytona Beach Shores, Fla.), March 17, 2025. https://www.maxdaytona.com/press-blog/the-history-of-the-turkey-run-from-a-simple-idea-to-a-legendary-event/ (accessed 2026-11-25)
+[^mx25]: "The History of the Turkey Run: From a Simple Idea to a Legendary Event," Max Beach Resort press blog (Daytona Beach Shores, Fla.), March 17, 2025. The post says its information and content were provided by the Turkey Run. https://www.maxdaytona.com/press-blog/the-history-of-the-turkey-run-from-a-simple-idea-to-a-legendary-event/ (accessed 2026-11-25)

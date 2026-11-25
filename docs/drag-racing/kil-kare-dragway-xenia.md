@@ -1,6 +1,6 @@
 ---
 title: '"YOU Don''t Work for Me!": Kil-Kare Dragway (Xenia, Ohio, 1959– )'
-summary: 'Kil-Kare added a quarter-mile drag strip in 1959 to a Greene County stock car track believed to be named for an old resort, and a boy who had to pay at its gate for a year and a half grew up to run the place. In 2026 it was one of 11 tracks put up for auction.'
+summary: 'Kil-Kare added a quarter-mile drag strip in 1959 to a Greene County stock car track, and a boy who had to pay at its gate for a year and a half grew up to run the place. In 2026 it was one of 11 tracks put up for auction.'
 department: drag-racing
 era: 1960s
 eras:
@@ -19,9 +19,6 @@ cities:
 - Xenia, Ohio
 - Dayton, Ohio
 people:
-- Whitey Marshall
-- Del Marshall
-- Windy Marshall
 - Phil Marshall
 - Dick Chrysler
 - Barbara Chrysler
@@ -66,7 +63,7 @@ status: Renamed Darana Raceway; offered at auction with sealed bids due November
 *A drag strip added to a 1950s stock car track, a family that ran the gate for decades, and a boy who paid his way in and ended up running the place*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the track's dates come from the Dayton and Xenia papers, which mostly agree; the family years come from a racing columnist's visit and one older Dayton story; who built the oval is disputed) · **Source types:** <span class="hr-badge">Grassroots</span> the *Dayton Daily News* (2017, 2026, and an older story reposted with a 2020 date) and the *Xenia Gazette* (2025); the general manager's memories as told to Van Abernethy (*Drag Illustrated*, 2015); a founder's family member's book (publisher's description only); Wikipedia (the name and the rename, flagged) · **Last verified:** 2026-11-25 (Round 50) · **Open issues:** ⚠ who built it; ⚠ when it became three-eighths; ? the auction · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the track's dates come from the Dayton and Xenia papers, which mostly agree; the family years come from a racing columnist's visit and one older Dayton story; who built the oval is disputed) · **Source types:** <span class="hr-badge">Grassroots</span> the *Dayton Daily News* (2017, 2026, and an older story reposted with a 2020 date) and the *Xenia Gazette* (2025); the general manager's memories as told to Van Abernethy (*Drag Illustrated*, 2015); a founder's family member's book (publisher's description only); Wikipedia (the name and the rename, flagged) · **Last verified:** 2026-11-25 (Round 50) · **Open issues:** ⚠ who built it; ⚠ when it became three-eighths; ? the auction; ◐ the November 8, 2023 switch; ◐ the September 2025 Darana Raceway date · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "We basically grew up there. It is fun and you meet a lot of people."
@@ -87,7 +84,7 @@ The Chrysler family began running the track in the mid-1970s.[^ddnf] Dick Chrysl
 
 Barbara died about ten years before her husband, and Dick Chrysler died in March 2011.[^di15] After that the strip came close to closing. Racers started bringing push mowers in their trailers to mow a place to park in the pits.[^di15] David Coterel, a local businessman, bought it in 2011 along with acres of land around it, and Abernethy reported a three-million-dollar renovation.[^di15] In 2013 the whole quarter mile was torn up and poured in concrete.[^ddn17][^wp] Tharpe became general manager in 2014. They kept the old iron sign at the north gate for nostalgia and had not yet gotten around to the old tower. "The only thing we cut is checks to the winner!" Tharpe said.[^di15]
 
-Its switch from the NHRA to the IHRA was announced on November 8, 2023, and the IHRA brought its Sportsman Spectacular there in 2024.[^wp][^xg25] In May 2025 the IHRA bought it.[^xg25] By Wikipedia's account it was renamed Darana Raceway that September.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^wp] In October 2026 Darana Motorsports Holdings said it was leaving the racing business, and Kil-Kare was one of eleven tracks put up for auction, with sealed bids due November 17, 2026.[^di26][^ddn26] Who owns it next is still open.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> It has changed hands before. In the hard years after the Chryslers, the ones who kept it going were men who grew up watching races in southwest Ohio, like the boy Barb Chrysler made pay at the gate.
+Wikipedia says its switch from the NHRA to the IHRA was announced on November 8, 2023.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Single source so far: see Open questions">◐</a></sup>[^wp] The IHRA brought its Sportsman Spectacular there in 2024.[^xg25] In May 2025 the IHRA bought it.[^xg25] By Wikipedia's account it was renamed Darana Raceway that September.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^wp] In October 2026 Darana Motorsports Holdings said it was leaving the racing business, and Kil-Kare was one of eleven tracks put up for auction, with sealed bids due November 17, 2026.[^di26][^ddn26] Who owns it next is still open.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Open question: see the bottom of the page">?</a></sup> It has changed hands before. In the hard years after the Chryslers, the ones who kept it going were men who grew up watching races in southwest Ohio, like the boy Barb Chrysler made pay at the gate.
 
 *See also:* [The Leftover Parcel](martin-dragway-us-131-grivins.md), a Michigan strip a family built and ran; [Muncie Dragway](muncie-dragway-albany-indiana.md), an Indiana strip that came back under new owners; [The Ohio Gassers](../places/ohio-gassers.md); [Don Garlits](../people/don-garlits.md).
 
@@ -97,11 +94,13 @@ Its switch from the NHRA to the IHRA was announced on November 8, 2023, and the 
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Who built the track, and did they build it or buy it?** The *Dayton Daily News* (2017) says the 1951 dirt track was "built by brothers, Marshall and Gale, from Alpha."[^ddn17] Wikipedia says "Kil-Kare was first built by the Marshall Brothers."[^wp] A book by Phil Marshall, *Early Kil-Kare Speedway: With the Marshall Brothers* (2020), is described by its publisher as the story of Whitey, Del and Windy Marshall, "Purchasing a graded race track for $1000 in the early 1950s"; we have read only that description, not the book.[^pm20] So the sources differ on the brothers' names, and on whether they built the track or bought a graded one. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did it become a three-eighths-mile oval?** The *Dayton Daily News* (2017), the *Xenia Gazette* (2025) and Wikipedia put the paving in 1952 and the three-eighths-mile layout in 1955.[^ddn17][^xg25][^wp] The *Dayton Daily News* (2026) says "A year later it was paved and reconfigured to a three-eighths-mile oval," which puts both in 1952.[^ddn26] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **When did it become a three-eighths-mile oval?** The *Dayton Daily News* (2017) and Wikipedia put the paving in 1952 and the three-eighths-mile layout in 1955.[^ddn17][^wp] The *Xenia Gazette* (2025) says the track opened in 1951 as a one-fifth-mile dirt track before reconfiguring into an oval in 1955. It does not mention 1952, and it does not say three-eighths.[^xg25] The *Dayton Daily News* (2026) says "A year later it was paved and reconfigured to a three-eighths-mile oval," which puts both in 1952.[^ddn26] <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Open question.** **Who bought Kil-Kare at the November 2026 auction?** Sealed bids were due November 17, 2026, and Tranzon could invite qualified bidders to a later online round or sell before the deadline.[^di26][^ddn26] We have found no published result as of November 25, 2026. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **When was it renamed Darana Raceway?** Wikipedia says it was "known until September 2025 as 'Kil-Kare Raceway,'" citing a news story titled "Historic raceway gets apparent name change," which we have not read.[^wp] The *Dayton Daily News* (2026) says the track "once known as 'Kil-Kare Speedway and Drag Strip'" is "Now named 'Darana Raceway,'" with no date.[^ddn26] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Single source so far.** **When was the switch from the NHRA to the IHRA announced?** Wikipedia says it was announced on November 8, 2023.[^wp] The *Xenia Gazette* reports the 2024 Sportsman Spectacular and the May 2025 purchase, and it does not give that date.[^xg25] <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ### Next leads
 
