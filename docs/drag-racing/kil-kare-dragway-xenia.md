@@ -70,7 +70,7 @@ status: Renamed Darana Raceway; offered at auction with sealed bids due November
 
     — Brittney Gilmore, 14, who raced at Kil-Kare with her brother Nick, 12, to the *Dayton Daily News*.[^ddnf]
 
-## A track named for a resort
+## A dirt oval on Dayton-Xenia Road
 
 Kil-Kare's story belongs to the people who grew up at it. The man who ran it in 2015 had started there as a boy, doing odd jobs, and paid at the gate for a year and a half because the owner's wife did not know he worked for her.[^di15]
 
