@@ -10,7 +10,7 @@ eras:
 - 2010s
 - 2020s
 years:
-- 1984
+- 1984 # earlier side of q-1, not a settled start. Title is 1984 or 1985– . The span covers 1985 and does not decide the question.
 - 2024 # the 39th meet, the latest year a source we read dates; the event still runs. Not a close.
 region: West
 states:
@@ -51,7 +51,7 @@ related:
 - street-rodding/back-to-the-50s-msra-st-paul-1974.md
 - street-rodding/daytona-turkey-run-sarjeant.md
 canonical_for: []
-location: 'Colorado State Fairgrounds, Pueblo, Colo., every year since the first[^pc06][^pc99]'
+location: 'Colorado State Fairgrounds, Pueblo, Colo., its home since the first meet[^pc06][^pc99]'
 peak: '2,194 entries in 2010, the record as of 2016[^sm16]'
 status: 'Still held each June; the 39th was June 21–23, 2024[^nsra24]'
 ---
@@ -77,7 +77,7 @@ Dave Baca was in the crowd at the first one. He was a Pueblo auto mechanic who h
 
 ## The fourth weekend of June
 
-By 1993, the ninth year, the meet drew 1,555 cars and close to 10,000 people, according to Pat Newell, the NSRA's special events director. Cars came from as far away as New Bern, North Carolina. The awards show who was in the room. The Pueblo Chamber of Commerce chose "The Pueblo Pick," a 1932 Ford from Hobbs, New Mexico. Pueblo police gave an award for appearance and safety to a 1934 Ford from Montrose. The host club, Colorado Springs Rods and Customs, chose its own pick, and Gayle Dorschner of Englewood won the Lady Rodders Pick in her 1933 Plymouth.[^pc93]
+By 1993, which the *Chieftain* called the ninth year, the meet drew 1,555 cars and close to 10,000 people, according to Pat Newell, the NSRA's special events director. Cars came from as far away as New Bern, North Carolina. The awards show who was in the room. The Pueblo Chamber of Commerce chose "The Pueblo Pick," a 1932 Ford from Hobbs, New Mexico. Pueblo police gave an award for appearance and safety to a 1934 Ford from Montrose. The host club, Colorado Springs Rods and Customs, chose its own pick, and Gayle Dorschner of Englewood won the Lady Rodders Pick in her 1933 Plymouth.[^pc93]
 
 The *Chieftain* welcomed the rodders in print. In 1999, the 15th straight year in Pueblo, its editorial quoted the NSRA's own website: "No city hosting an NSRA event does more to welcome the rodders than does Pueblo, Colorado." The NSRA praised the chamber's lakeside kickoff party, and the paper pointed out that the association held national events in 10 other cities. The meet, it said, had grown from a start of 500 or 600 to an expected 2,000 or more, and the chamber's president, Rod Slyhoff, put its value to the town at $4 million. That morning about 100 street rods would parade down Elizabeth and through the Union Avenue Historic District to the fairgrounds. "Wave to the rodders as you see them driving around the area," the paper told its readers.[^pc99] In 2006 the paper called it "a big event that people look forward to every year in Pueblo," with nearly 2,100 pre-1949 cars expected.[^pc06]
 

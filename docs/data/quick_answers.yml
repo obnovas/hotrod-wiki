@@ -1642,10 +1642,11 @@ themes:
         q: Who were the Alexander Brothers, and why did their Detroit shop close?
         a: >-
           Larry and Mike Alexander were Detroit customizers who opened their shop in 1957 and won three Ridler Awards,
-          in 1965, 1967 (the Deora) and 1969. Freeway construction took their shops, and the business closed in 1969
-          when the Schoolcraft Road building was razed; both went to work in the car industry.
+          in 1965, 1967 (the Deora) and 1969. Freeway construction took their shops (⚠ how many times, see Open
+          questions), and the business closed in 1969 when the Schoolcraft Road building was razed.
         link: people/alexander-brothers-detroit-customizers.md
         also: [people/bill-hines-leadslinger-hydraulics.md]
+        flag: people/alexander-brothers-detroit-customizers.md#q-2
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1961,12 +1962,13 @@ themes:
       - id: thunder-road-asheville-cars
         q: Where did the cars in Thunder Road (1958) come from?
         a: >-
-          Robert Mitchum's company filmed in and around Asheville, N.C., in 1957 and bought real bootleggers' cars.
-          By one local historian's account, the lead 1951 Ford's 312 Y-block was built by Canton racer Pender Fox ◐
-          (single source so far; see Open questions).
+          By Heath Towson's account, Robert Mitchum's company filmed around Asheville, N.C., in 1957 and bought real
+          bootleggers' cars, and former runners taught the spins at Sandy Bottoms ◐ (single source so far; see Open
+          questions). The same account credits the lead 1951 Ford's 312 Y-block to Canton racer Pender Fox ◐ (see Open
+          questions).
         link: media/thunder-road-asheville-bootleg-cars-1957.md
         also: [media/smokey-and-the-bandit-jonesboro-mcdonough.md]
-        flag: media/thunder-road-asheville-bootleg-cars-1957.md#q-2
+        flag: [media/thunder-road-asheville-bootleg-cars-1957.md#q-3, media/thunder-road-asheville-bootleg-cars-1957.md#q-2]
   - id: how-we-know
     title: Sources and how we know
     questions:

@@ -114,7 +114,7 @@ By 2022 the show was capped at 400 cars, the slots filled in 11 days, and 88 mor
 
 Lucas came to Petaluma for one summer because the town said yes. A generation later its own car people turned that yes into a car show on the same streets.
 
-*See also:* [Modesto](../places/modesto.md), the cruise the movie is set in; [A Tune-Up for the Nats](../street-rodding/back-to-the-50s-msra-st-paul-1974.md), where Minnesota street rodders met a 1974 audience leaving the film; [Hot August Nights](hot-august-nights-reno-1986.md), another nostalgia show that grew from a local idea; [Marin & Cotati](../drag-racing/marin-cotati-strips.md), the real drag strips near Petaluma; [Home of The California Kid](california-kid-pete-and-jakes-peculiar.md), another 1970s screen car; [Real Bootleg Cars](thunder-road-asheville-bootleg-cars-1957.md), a 1957 movie filmed with real bootleggers' cars around Asheville.
+*See also:* [Modesto](../places/modesto.md), the cruise the movie is set in; [A Tune-Up for the Nats](../street-rodding/back-to-the-50s-msra-st-paul-1974.md), where Minnesota street rodders met a 1974 audience leaving the film; [Hot August Nights](hot-august-nights-reno-1986.md), another nostalgia show that grew from a local idea; [Marin & Cotati](../drag-racing/marin-cotati-strips.md), the real drag strips near Petaluma; [Home of The California Kid](california-kid-pete-and-jakes-peculiar.md), another 1970s screen car; [*Thunder Road* in Asheville](thunder-road-asheville-bootleg-cars-1957.md), filmed around Asheville in 1957.
 
 ## Open questions & disputed details
 

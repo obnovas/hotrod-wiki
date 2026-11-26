@@ -1,6 +1,6 @@
 ---
 title: 'Three Shops and a Freeway: The Alexander Brothers (Detroit, 1957–1969)'
-summary: 'Larry and Mike Alexander learned body work in a Detroit trade school, started in their parents'' garage, and from 1957 built show customs that won three Ridler Awards, the Deora among them. Detroit''s freeways took their shops one after another, and in 1969 they closed the business and went to work for the car industry.'
+summary: 'Larry and Mike Alexander learned body work in a Detroit trade school, started in their parents'' garage, and from 1957 built show customs that won three Ridler Awards, the Deora among them. Accounts differ on how many times the freeways moved their shops, and in 1969 they closed the business and went to work for the car industry.'
 department: people
 era: 1960s
 eras:
@@ -58,7 +58,7 @@ status: 'The shop closed in 1969 when the Schoolcraft building was razed for the
 ---
 # Three Shops and a Freeway: The Alexander Brothers (Detroit, 1957–1969)
 
-*Two brothers from a trade school, customs built a few miles from the factories, and a city that kept paving over their shop*
+*Two brothers from a trade school, customs built a few miles from the factories, and freeways that took the shops, though the accounts differ on how many*
 
 !!! abstract "Article record"
     **Confidence:** High (Mike Alexander's family obituary, *Autoweek*'s 2010 obituary of Larry and a 2019 profile built on Mike's own telling agree on the cars, the awards and the closing; they differ on when and where the brothers started) · **Source types:** <span class="hr-badge">Grassroots</span> Mike Alexander's family obituary (Martenson Funeral Home, 2014); Dale Jewett's obituary of Larry Alexander in *Autoweek* (2010); Ronnie Schreiber's profile for Hagerty (2019), from his talks with Mike; Wesley Wren's search for the shops in *Autoweek*, quoting Mike's interview with the Mad Fabricators Society; Kustomrama's Bill Hines page, from interviews with Hines's nephew · **Last verified:** 2026-11-26 (Round 51) · **Open issues:** ⚠ when they went to trade school; ⚠ how many times the highways moved them; ◐ the $300 for the Deora · [How we rate this](../reference/source-standards.md)

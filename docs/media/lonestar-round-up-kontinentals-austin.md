@@ -9,7 +9,7 @@ eras:
 - 2020s
 years:
 - 2002
-- 2027 # the 24th show is announced for April 2027; the show still runs. Not a close.
+- 2027 # the show calls the April 2027 event the 24th; the show still runs. Not a close.
 region: Southwest
 states:
 - Texas
@@ -55,7 +55,7 @@ related:
 canonical_for: []
 location: 'Travis County Expo Center, Austin, since 2008; first at House Park Stadium, then Fiesta Gardens and Festival Beach[^hr17][^kut14]'
 peak: 'About 2,000 cars at the last show before April 2018, by Steve Wertheimer''s count[^dt18]'
-status: 'Still running; the 24th show is set for April 16–17, 2027[^lsrupr]'
+status: 'Still running; the show calls the April 16–17, 2027 event the 24th[^lsrupr]'
 ---
 # "Closer to Texas": The Lonestar Round Up and the Kontinentals (Austin, Texas, 2002– )
 
@@ -79,7 +79,7 @@ The first Round Up as a show was held in April 2002, on a football field in cent
 
 ## Driven, not trailered
 
-The show moved to the grass at Fiesta Gardens in East Austin for its second and third years. Jimmie Vaughan's 1963 Riviera had a place of honor.[^hr17] By the third year, the *Chronicle* wrote, the Round Up drew people from California, Kansas and Michigan, and it had an attitude: "don't trailer your ride to this joint."[^ac04] The paper's photo essay on the club that spring is full of small proofs of it. Will Muntz drove to De Leon, Texas, in the middle of the night to pick up an oil pump for the Dahlia, Steve Wertheimer's Jim Bruns–built custom, so the club could leave together for Paso Robles, California, at 8 a.m.[^ac04][^hr17] Mercury Charlie wanted to drive to the 2003 show in his own car, so he bought the body of a 1926 Ford T coupe 30 days before it. "Four weeks and no sleep later," the *Chronicle* wrote, he arrived, grinning, and fell asleep.[^ac04] He is Charlie Runnels, and he has come to every Round Up since the first.[^dt18]
+The show moved to the grass at Fiesta Gardens in East Austin for its second and third years. Jimmie Vaughan's 1963 Riviera had a place of honor.[^hr17] By the third year, the *Chronicle* wrote, the Round Up drew people from California, Kansas and Michigan, and it had an attitude: "don't trailer your ride to this joint."[^ac04] The paper's photo essay on the club that spring is full of small proofs of it. Will Muntz drove to De Leon, Texas, in the middle of the night to pick up an oil pump for the Dahlia, Steve Wertheimer's Jim Bruns–built custom, so the club could leave together for Paso Robles, California, at 8 a.m.[^ac04][^hr17] Mercury Charlie wanted to drive to the 2003 show in his own car, so he bought the body of a 1926 Ford T coupe 30 days before it. "Four weeks and no sleep later," the *Chronicle* wrote, he arrived, grinning, and fell asleep.[^ac04] He is Charlie Runnels, and *The Daily Texan* wrote that he has taken part in the Round Up since it began.[^dt18]
 
 The club's cars were their own advertisement. Vaughan's customs were built by Gary Howard, and his Riviera won a Bradley Award. The *Chronicle* credited the abalone flake on Mike Young's 1960 Impala, another Howard car, with reviving metal flake in the custom world.[^ac04] For the fourth through seventh shows the Round Up took over all of Festival Beach. The Kontinentals painted almost all their cars semi-gloss black with red wheels, and people who drove in from far away left the road grime on.[^hr17]
 

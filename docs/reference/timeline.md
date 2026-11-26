@@ -213,7 +213,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Starbird rents the old Forum in Wichita for a car show with no advertising; 3,000 people come | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 1957 ⚠ | Lancaster Drag-O-Way's first season at the Garden Spot airport, Manor Township, Pa. (the owner's testimony) | [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md) |
 | 1957 | Larry and Mike Alexander open the Alexander Brothers Custom Shop near Northwestern Highway and Evergreen Road, Detroit: a dirt floor and "a $50 compressor" | [Alexander Brothers](../people/alexander-brothers-detroit-customizers.md) |
-| 1957 | Robert Mitchum's *Thunder Road* company films around Asheville, N.C. (Aug), buying real bootleggers' cars; the lead 1951 Ford's 312 Y-block is credited to Canton racer Pender Fox ◐ | [Thunder Road](../media/thunder-road-asheville-bootleg-cars-1957.md) |
+| 1957 | Robert Mitchum's *Thunder Road* company films around Asheville, N.C. (Aug); by one local account, it bought real bootleggers' cars, and the lead 1951 Ford's 312 Y-block is credited to Canton racer Pender Fox ◐ | [Thunder Road](../media/thunder-road-asheville-bootleg-cars-1957.md) |
 | 1958 | Winslow city council lets the Renegades Drag Club race the municipal airport taxiway (Mar 18); strip's last event 1985 | [Winslow](../drag-racing/winslow-renegades-airport.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |

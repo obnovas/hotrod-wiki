@@ -2349,9 +2349,9 @@ highlights:
     headline: To drive his own car to the Lonestar Round Up, Mercury Charlie bought a T coupe body 30 days
       before it
     teaser: '"Four weeks and no sleep later," The Austin Chronicle wrote, he arrived grinning and fell asleep.
-      Charlie Runnels has come to every Round Up since the first, in 2002.'
+      The Daily Texan wrote that he has taken part in the Round Up since it began.'
     link: media/lonestar-round-up-kontinentals-austin.md#driven-not-trailered
-    evidence: [Four weeks and no sleep later, he has come to every Round Up since the first]
+    evidence: [Four weeks and no sleep later, he has taken part in the Round Up since it began]
     source_type: Local news
     confidence: High
     flag: none
@@ -2376,7 +2376,7 @@ highlights:
     regions: ['Pueblo, Colo.']
 
   - id: lebanon-valley-them-or-us
-    headline: A rumor about the speed shop down the road got Lebanon Valley Dragway built
+    headline: By his account, a rumor down the road got Lebanon Valley Dragway built
     teaser: By Howard Commander's account, the Red Barn Speed Shop's cornfield might become a strip, so
       he and high school friends started knocking down trees beside the family speedway. It opened on August
       18, 1963.

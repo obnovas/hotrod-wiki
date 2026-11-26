@@ -562,7 +562,7 @@
 | Lindsey, Amos | Harmon Raceway manager; died July 1965 | [Harmon Raceway](../drag-racing/harmon-raceway-monroe.md) |
 | Lipscomb, Randy | Akron Race Legends; marker drive | [Akron Fulton](../drag-racing/akron-fulton-airport.md) |
 | Locke, William | First Kingston Igniters president (1955) | [Kingston Igniters](../drag-racing/kingston-igniters.md) |
-| Loftin, Carey | Stuntman who flipped Thunder Road's 1957 Ford on Brevard Road, Asheville (name spelling ⚠) | [Thunder Road](../media/thunder-road-asheville-bootleg-cars-1957.md) |
+| Loftin, Carey (or Cary Lofton) | Stunt driver on *Thunder Road* in Asheville; Towson writes Carey Loftin and *WNC Magazine* writes Cary Lofton ⚠ | [Thunder Road](../media/thunder-road-asheville-bootleg-cars-1957.md) |
 | Logghe, Ron & Gene / Logghe Stamping | Flip-top Funny Car chassis, Fraser, Mich. | [Logghe Stamping](../companies/logghe-stamping.md), [Eddie Schartman](../people/eddie-schartman.md) |
 | Lohnes, Brian | BangShift writer; 2013 feature on the abandoned Charlestown strip | [Charlestown](../drag-racing/charlestown-dragway-rhode-island.md) |
 | Lomastro, Joe | New Jersey racer ("Rampage" Dodge), interviewed 2020 | [Linden & NJ strips](../drag-racing/linden-njta-new-jersey-short-strips.md), [Island Dragway](../drag-racing/island-dragway-great-meadows.md) |
@@ -671,7 +671,7 @@
 | Nelson, Gary | President, Magic Valley Timing Association (1960–62) | [Twin Falls](../places/twin-falls-main-avenue.md) |
 | Nelson, Jim | Carlsbad Oilers (founder or founding member ⚠); co-founded Dragmaster, 1959 | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
 | Nelson, Lee | Anchorage developer of a private Knik River strip plan (1963) and Polar Dragway (1964) | [Palmer & Polar Dragway](../drag-racing/palmer-alaska-polar-dragway.md) |
-| Nesland, Mike | Dover Plains, N.Y.; built and kept Lebanon Valley Dragway's homemade clocks | [Lebanon Valley](../drag-racing/lebanon-valley-dragway-west-lebanon.md) |
+| Nesland, Mike | By Howard Commander's account, as relayed on a forum, built Lebanon Valley Dragway's clocks ◐ | [Lebanon Valley](../drag-racing/lebanon-valley-dragway-west-lebanon.md) |
 | Neumayer, LeRoy | Santa Ana hot rodder credited by NHRA with naming the slingshot | [Mickey Thompson](../companies/mickey-thompson.md) |
 | New England Dragway | Epping and Brentwood, N.H.; built by its shareholders, opened Sept 11, 1966 | [New England Dragway](../drag-racing/new-england-dragway-epping.md) |
 | New England Hot Rod Council | Federation of clubs; Newington and Sanford airport drags; built New England Dragway | [New England Dragway](../drag-racing/new-england-dragway-epping.md) |

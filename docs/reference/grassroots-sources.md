@@ -664,8 +664,8 @@ These hold the period coverage we most want, and none was readable by our fetche
 ### Round 51 additions
 - A hometown weekly's photo essay and a student paper: *The Austin Chronicle* on the Kontinentals (2004), KUT public radio (2014) and Steve Wertheimer, Charlie Runnels and Rudy Morales to *The Daily Texan* (2018) → ["Closer to Texas"](../media/lonestar-round-up-kontinentals-austin.md).
 - A hometown daily's editorial page and a local mechanic's profile: *The Pueblo Chieftain* (1993, 1999, 2006) and Gayle Perez's 2008 profile of Dave Baca, with KOAA News5 (2023, 2024) → ["Wave to the Rodders"](../street-rodding/rocky-mountain-street-rod-nationals-pueblo.md).
-- A racers' forum and a track's local-history site: Howard Commander's founding story relayed by Dino Lawrence on the Dover Drag Strip forum (2012), the Lebanon Valley Speedway Classics history and the Eastern Motorsports Press Association hall of fame → ["Them or Us"](../drag-racing/lebanon-valley-dragway-west-lebanon.md).
-- A local tour company's research series and a hometown column: Heath Towson for Mountaineer Motor Tours (Asheville, 2023), with locals' memories and the 1957 *Citizen-Times*; Rob Neufeld's "Portrait of the Past" (2018) → [Real Bootleg Cars](../media/thunder-road-asheville-bootleg-cars-1957.md).
+- A racers' forum and a track's local-history site: Howard Commander's founding story relayed by Dino Lawrence on the Dover Drag Strip forum (2012), the Lebanon Valley Speedway Classics history and the Eastern Motorsports Press Association hall of fame → [By His Account, "Them or Us"](../drag-racing/lebanon-valley-dragway-west-lebanon.md).
+- A local tour company's research series and a hometown column: Heath Towson for Mountaineer Motor Tours (Asheville, 2023), with locals' memories and the 1957 *Citizen-Times*; Rob Neufeld's "Portrait of the Past" (2018) → [*Thunder Road* in Asheville](../media/thunder-road-asheville-bootleg-cars-1957.md).
 - A family obituary: Mike Alexander's, from the Martenson funeral home (2014) → [Three Shops and a Freeway](../people/alexander-brothers-detroit-customizers.md).
 
 ### Round 51 status
