@@ -26,6 +26,8 @@ paths:
         why: "A town council reads the gate receipts: Deer Park's percentage deals, a radar gun and a lease fight in 1961."
       - page: drag-racing/dover-drag-strip-wingdale-new-york.md
         why: "New York: by the strip's own account, a gas station owner sees an airport meet and goes looking for land, and the racers are still holding reunions fifty years on."
+      - page: drag-racing/lebanon-valley-dragway-west-lebanon.md
+        why: "New York, 1963: a dirt-track family clears trees because a speed shop down the road might build a strip first, and Dover's racers end up there."
       - page: drag-racing/big-spring-lions-club-drag-strip-deshazo.md
         why: "Texas: a Lions Club takes on a drag strip as its project of the month, and by one man's account has a race in under 55 days."
       - page: drag-racing/brainerd-optimist-strip-middle-valley-chattanooga.md
@@ -386,6 +388,8 @@ paths:
     steps:
       - page: media/street-rod-newspaper-serial.md
         why: "Prologue: 'Street Rod' as fiction in a small-town paper, 1954."
+      - page: media/thunder-road-asheville-bootleg-cars-1957.md
+        why: "Asheville, 1957: a second prologue, on screen, as a movie company buys real bootleggers' cars and a Canton racer's Y-block goes in the lead Ford."
       - page: street-rodding/fiberglass-suppliers.md
         why: "The bodies that made old cars buildable again."
       - page: media/street-rod-magazine-portland.md
@@ -414,6 +418,8 @@ paths:
         why: "St. Paul, 1974: a club rehearses for hosting the Nats with a Friday-night cruise, and meets a crowd leaving American Graffiti."
       - page: street-rodding/daytona-turkey-run-sarjeant.md
         why: "Florida, 1974: a T-bucket turned away from a holiday parade, 45 cars at a Howard Johnson's, and a club show that grows into the Speedway infield."
+      - page: street-rodding/rocky-mountain-street-rod-nationals-pueblo.md
+        why: "Colorado, 1984 or 1985: an NSRA meet a steel town adopts, with a chamber kickoff, a 100-car parade and a mechanic who builds his own coupe."
       - page: people/dick-wells.md
         why: "The first-president question (canonical nsra-first-president)."
       - page: eras/1980s-pro-street.md
@@ -470,6 +476,8 @@ paths:
         why: "Minneapolis, 1956 or the early to mid-1960s: a painter makes paint only for himself until the painters at the shows want it, and House of Kolor follows."
       - page: people/bill-hines-leadslinger-hydraulics.md
         why: "Ecorse to Lynwood: a lead man from a dirt-floor shop carries candy paint to Detroit and hydraulic lifts back to Michigan."
+      - page: people/alexander-brothers-detroit-customizers.md
+        why: "Detroit, 1957–1969: two brothers trade body work for candy lessons, win three Ridlers, and lose every shop to the freeways."
       - page: people/larry-watson-bellflower-paint.md
         why: "Bellflower: a driveway pinstriper makes paint the whole custom, and cuts a pearl T-bird into panels."
       - page: people/bikini-keeney-gator-gaydos-midwest-pinstripers.md
@@ -480,6 +488,8 @@ paths:
         why: "'Nothing is original.'"
       - page: customs/daves-dream-chimayo-lowrider.md
         why: "New Mexico: a used Ford finished by a family and a car club, blessed at the Santuario and sent to the Smithsonian."
+      - page: media/lonestar-round-up-kontinentals-austin.md
+        why: "Austin, 2002: a car club named for a music club starts its own traditional show so Texans need not drive to California."
       - page: customs/kkoa-lead-sled-revival.md
         why: "Coda: the lead sled revival by way of Wichita."
 

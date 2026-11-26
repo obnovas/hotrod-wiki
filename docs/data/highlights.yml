@@ -2344,3 +2344,48 @@ highlights:
     grassroots: true
     added: '2026-11-25'
     regions: ['Xenia, Ohio']
+
+  - id: lonestar-mercury-charlie-t-coupe
+    headline: To drive his own car to the Lonestar Round Up, Mercury Charlie bought a T coupe body 30 days
+      before it
+    teaser: '"Four weeks and no sleep later," The Austin Chronicle wrote, he arrived grinning and fell asleep.
+      Charlie Runnels has come to every Round Up since the first, in 2002.'
+    link: media/lonestar-round-up-kontinentals-austin.md#driven-not-trailered
+    evidence: [Four weeks and no sleep later, he has come to every Round Up since the first]
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-26'
+    eras: [2000s]
+    regions: ['Austin, Texas']
+
+  - id: pueblo-baca-first-meet-coupe
+    headline: A Pueblo mechanic saw the first street rod meet in town and went home to build a car for it
+    teaser: Dave Baca turned a friend's pile of parts into a rose-colored 1939 Chevrolet coupe and had it
+      ready to show in 1989. In 2008 he was still showing it, and inspecting other rodders'
+      brakes.
+    link: street-rodding/rocky-mountain-street-rod-nationals-pueblo.md#a-meet-the-town-adopted
+    evidence: I worked night and day and I finally had it ready to show in 1989
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-26'
+    eras: [1980s, 2000s]
+    regions: ['Pueblo, Colo.']
+
+  - id: lebanon-valley-them-or-us
+    headline: A rumor about the speed shop down the road got Lebanon Valley Dragway built
+    teaser: By Howard Commander's account, the Red Barn Speed Shop's cornfield might become a strip, so
+      he and high school friends started knocking down trees beside the family speedway. It opened on August
+      18, 1963.
+    link: drag-racing/lebanon-valley-dragway-west-lebanon.md#the-cornfield-down-the-street
+    evidence: He got a group of high school friends and they started knocking down trees
+    source_type: Forum post
+    confidence: Medium
+    flag: single-source
+    grassroots: true
+    added: '2026-11-26'
+    eras: [1960s]
+    regions: ['West Lebanon, N.Y.']

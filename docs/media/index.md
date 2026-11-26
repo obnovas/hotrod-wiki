@@ -20,6 +20,8 @@ How did a Barris chop in Lynwood become a look copied in Akron, Wichita and Port
 - [Ghost Cars With No VIN: Smokey and the Bandit in Georgia](smokey-and-the-bandit-jonesboro-mcdonough.md): a first week of filming in Jonesboro and McDonough, stunt cars readied at a Norcross race shop, used DeKalb County police cars, and the Bandit Run that came back to Jonesboro for the 40th (⚠ when McDonough was filmed; ⚠ how many Trans Ams).
 - ["We Wreck 'Em Just as Fast as We Need 'Em": The Georgia General Lees](dukes-of-hazzard-h-and-h-body-shop-covington.md): *The Dukes of Hazzard*'s five Georgia episodes, a three-man Norcross body shop rebuilding wrecks overnight, the jump at Oxford College, and the one Charger they finished but never used (⚠ 81 or 82 feet; ⚠ Lee 6).
 - [The 2005 Shirts: Cruisin' the Coast (Mississippi Gulf Coast)](cruisin-the-coast-mississippi-gulf.md): casino and tourism leaders borrow Reno's idea in 1996 to fill October hotel rooms, Katrina cancels 2005, cruisers come anyway to help, and 2006 goes on in 2005's shirts (⚠ three and a half days or four).
+- [Real Bootleg Cars: *Thunder Road* in Asheville (N.C., 1957)](thunder-road-asheville-bootleg-cars-1957.md): Robert Mitchum's company buys real moonshine cars, a Canton racer's Y-block goes in the lead Ford, a family of former runners teaches the spins, and 23,000 tickets sell at one Asheville theater (◐ the engine builder).
+- ["Closer to Texas": The Lonestar Round Up (Austin, Texas)](lonestar-round-up-kontinentals-austin.md): a car club named for the Continental Club starts its own show in 2002 so Texans need not drive to California, with bands on the stage, cars 1963 or older and a T coupe built in 30 days to drive there (⚠ the first year's count).
 
 **Elsewhere in the archive**
 

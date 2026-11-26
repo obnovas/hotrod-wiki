@@ -212,6 +212,8 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Bob "Bikini" Keeney graduates from Southport High, Indianapolis, where he striped his schoolmates' cars | [Keeney & Gaydos](../people/bikini-keeney-gator-gaydos-midwest-pinstripers.md) |
 | 1957 | Starbird rents the old Forum in Wichita for a car show with no advertising; 3,000 people come | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 1957 ⚠ | Lancaster Drag-O-Way's first season at the Garden Spot airport, Manor Township, Pa. (the owner's testimony) | [Lancaster Drag-O-Way](../drag-racing/lancaster-drag-o-way-kohr-v-weber-chinchillas.md) |
+| 1957 | Larry and Mike Alexander open the Alexander Brothers Custom Shop near Northwestern Highway and Evergreen Road, Detroit: a dirt floor and "a $50 compressor" | [Alexander Brothers](../people/alexander-brothers-detroit-customizers.md) |
+| 1957 | Robert Mitchum's *Thunder Road* company films around Asheville, N.C. (Aug), buying real bootleggers' cars; the lead 1951 Ford's 312 Y-block is credited to Canton racer Pender Fox ◐ | [Thunder Road](../media/thunder-road-asheville-bootleg-cars-1957.md) |
 | 1958 | Winslow city council lets the Renegades Drag Club race the municipal airport taxiway (Mar 18); strip's last event 1985 | [Winslow](../drag-racing/winslow-renegades-airport.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
@@ -241,6 +243,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1958 ⚠ | Joe Genova opens Ron's Drive-In on Sprague Avenue, Spokane Valley (a 1997 item says "40 years ago") | [Ron's Drive-In](../places/rons-drive-in-sprague-avenue-spokane-valley.md) |
 | 1958 ◐ | Watson tapes his too-bright pearl Thunderbird into panels and shoots candy burgundy over the rest; the panel paint job (◐ an earlier '55 Mercury may have been first) | [Larry Watson](../people/larry-watson-bellflower-paint.md) |
 | 1958 | Bill Hines tows his family to California behind his custom, the Bat (Apr); Barris hires him the next day | [Bill Hines](../people/bill-hines-leadslinger-hydraulics.md) |
+| 1958 | A record 23,000 tickets for *Thunder Road* at Asheville's Imperial Theater, May 9–23 | [Thunder Road](../media/thunder-road-asheville-bootleg-cars-1957.md) |
 | 1959 | Detroit Dragway opens and hosts the NHRA Nationals (1959–60) | [Detroit & Cordova](../drag-racing/detroit-cordova.md) |
 | 1959 | Larivee brothers form Promotions Inc. | [Show Circuit](../media/show-circuit.md) |
 | 1959 | Otie Smith wins Middle Eliminator at the NHRA Nationals, Detroit (supercharged '23 T) | [Akron Fulton](../drag-racing/akron-fulton-airport.md) |
@@ -355,6 +358,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1963 ⚠ | The Cathells open U.S. 13 Dragway north of Delmar, Del. (Aug); the field allows only a fifth of a mile until they buy more land (the 2019 marker says a quarter mile) | [U.S. 13 Dragway](../drag-racing/us-13-dragway-delmar-cathell.md) |
 | 1963 | Tony Nancy wins Competition Eliminator at the NHRA Winternationals, his only NHRA national event title | [Tony Nancy](../people/tony-nancy-sherman-oaks-trimmer.md) |
 | 1963 | Cecil County Drag-O-Way opens on Theodore Road near Rising Sun, Md.: 3,000 spectators, 135 cars (Apr 14) | [Cecil County](../drag-racing/cecil-county-drag-o-way-rising-sun.md) |
+| 1963 | Lebanon Valley Dragway opens beside the family speedway at West Lebanon, N.Y. (Aug 18); by Howard Commander's account, built because a speed shop down Route 20 might build one first ◐ | [Lebanon Valley](../drag-racing/lebanon-valley-dragway-west-lebanon.md) |
 | 1964 | Al Bergler's Aggravation II wins first Ridler Award, Detroit Autorama | [Al Bergler](../people/al-bergler.md) |
 | 1964–67 ⚠ | Mr. Gasket founded or incorporated | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1964 | Don Gay wins A/Stock at Indy. Altizer-Finders-Kibler "Traveler" B/GS record 9.76/146.57 (Nov, ◐) | [Houston Freeway](../drag-racing/houston-freeway-dragstrip.md), [Ohio Gassers](../places/ohio-gassers.md) |
@@ -434,6 +438,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1967 | Biloxi Dragway closes when the landowner will not renew the lease (July 1) | [Biloxi Dragway](../drag-racing/biloxi-dragway-gulf-coast.md) |
 | 1967 | Des Moines Dragway closes | [Des Moines Dragway](../drag-racing/des-moines-dragway-ernest-day.md) |
 | 1967 | Clint Hagedorn killed in the *Corruptor* at NEITA (July 4), the strip's first fatality | [NEITA Raceway](../drag-racing/neita-raceway-cedar-falls.md) |
+| 1967 | The Alexander Brothers' Deora, built from a Dodge A100, wins the Ridler Award at the Detroit Autorama (their second; the third, Top Banana, in 1969, the year the shop closed) | [Alexander Brothers](../people/alexander-brothers-detroit-customizers.md) |
 | 1968 ⚠ | Gene Snow's 200.88 mph at Dickinson: first 200-mph Funny Car pass (Aug 17, 1968, vs 1969). Cordova floods; World Series run at 1,000 ft | [Gene Snow](../people/gene-snow.md), [Bob Bartel](../people/bob-bartel.md) |
 | 1968 | A young engineer's discounted hop-up parts for his drag-racing buddies become Summit Racing; Moroso says its company began this year | [Summit Racing](../companies/summit-racing.md), [Moroso](../companies/moroso.md) |
 | 1968 | Pocono Drag Lodge, Bear Creek, Pa.: 220 drivers on one August Sunday; third annual Funny Car, Super Stock and Gas Spectacular. Pocono International Speedway's opening race (Oct), with a drag strip in its plans | [Pocono strips](../drag-racing/pocono-strips.md) |
@@ -547,6 +552,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1984 | Don Garlits Museum of Drag Racing ribbon-cutting near Ocala; 27,000 pay | [Don Garlits](../people/don-garlits.md) |
 | 1984 | Dallas and Alfreda Jones buy the Beech Bend racetracks | [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md) |
 | 1984 | Sue Martin comes to the U.S. from Taiwan with her family | [Sue Martin & Kim Kemp-Mason](../people/sue-martin-kim-kemp-mason-trimmers.md) |
+| 1984 ⚠ | The NSRA's Rocky Mountain Street Rod Nationals start at the Colorado State Fairgrounds, Pueblo (1985 by another account) | [Rocky Mountain Nationals](../street-rodding/rocky-mountain-street-rod-nationals-pueblo.md) |
 | 1985 ⚠ | Connecticut Dragway, by then Connecticut International Raceway, closes for good (1986 per one source) | [Connecticut](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) |
 | 1985 | First NHRA national event at Firebird International Raceway, Chandler: Gene Snow Top Fuel, Bob Glidden Pro Stock (his 46th win, the 1985 championship), John Collins Funny Car | [Firebird (Chandler)](../drag-racing/firebird-international-raceway-chandler.md), [Gene Snow](../people/gene-snow.md) |
 | 1985 | The last drags at Blaney (Nov 16); the land becomes lots | [Blaney & the Midlands](../drag-racing/blaney-drag-strip-elgin-south-carolina.md) |
@@ -595,6 +601,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1999 ◐ | Jim Halsey buys Cecil County Dragway | [Cecil County](../drag-racing/cecil-county-drag-o-way-rising-sun.md) |
 | 2000 ⚠ | Kyle and Stacy Tucker's Twister Camaro debuts and Detroit Speed starts (Detroit Speed, Inc. formed early 2001 ⚠) | [Pro-Touring](../eras/1990s-pro-touring-garage-engineers.md) |
 | 2002 ⚠ | First Scrapin' the Coast, Biloxi (or 2003, counting back from the *Gazette*'s own "23rd" and "24th annual" labels) | [Slamfest & Scrapin' the Coast](../customs/slamfest-scrapin-the-coast-gulf-trucks.md) |
+| 2002 | The Kontinentals hold the first Lonestar Round Up at House Park Stadium, Austin, Texas, for American cars built in 1963 or earlier (80 or 88 cars ⚠) | [Lonestar Round Up](../media/lonestar-round-up-kontinentals-austin.md) |
 | 2003 | The last of Des Moines Dragway's pavement goes for houses (June) | [Des Moines Dragway](../drag-racing/des-moines-dragway-ernest-day.md) |
 | 2003 | Mel Stultz starts his Jalopy Jump and Jive and Motor Speedway events on the Jersey Shore | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
 | 2004 | Westhampton's strip and 66 acres sold for about $7 million; senior housing and a Drag Street follow | [Westhampton](../drag-racing/westhampton-drag-strip-long-island.md) |
@@ -616,6 +623,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 2010 | Larry Watson dies (July 20) | [Larry Watson](../people/larry-watson-bellflower-paint.md) |
 | 2010 | The first Holley LS Fest at Beech Bend Raceway Park, Bowling Green, Ky. (Sept); about 150 cars; an engine swap in 31:57 (⚠) | [LS Fest](../media/ls-fest-beech-bend-bowling-green.md) |
 | 2010 | The Oilers' name is handed to Mel Stultz on the Jersey Shore | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |
+| 2010 | The Rocky Mountain Street Rod Nationals in Pueblo open to newer cars on a 30-year rolling rule and set a record, 2,194 entries | [Rocky Mountain Nationals](../street-rodding/rocky-mountain-street-rod-nationals-pueblo.md) |
 | 2011 | Starbird sells his Wichita show to five local partners (September) | [Darryl Starbird](../people/darryl-starbird-wichita-show-man.md) |
 | 2011 | David Coterel buys Kil-Kare after Dick Chrysler's death | [Kil-Kare](../drag-racing/kil-kare-dragway-xenia.md) |
 | 2012 | The first Race of Gentlemen, on the sand at Allenhurst and Loch Arbour, N.J. (Oct 20); Sandy comes ashore nine days later | [Race of Gentlemen](../drag-racing/race-of-gentlemen-oilers-jersey-shore.md) |

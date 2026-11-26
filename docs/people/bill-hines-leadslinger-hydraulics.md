@@ -119,7 +119,7 @@ In 1964 or 1965 Teddy bought a 1957 Nomad that had come from California, and he 
 
 By the early 1980s, with costs rising, Hines stopped putting in hydraulics, and went on restoring old cars and building customs.[^kr-hyd] He worked with an El Producto cigar in his mouth and held to two rules: "Bondo is poison, and every custom should be Candy Red with Tan or White accents."[^sm16] A new generation met him on Jesse James's *Monster Garage* in 2004.[^hem16] In 2015 he told *Autoweek*'s Mark Vaughn he would never retire: "No, I'll have a garage long as I live. Period."[^kr-bh] He had a heart attack in December 2015 and died at home on May 20, 2016, at 94.[^sm16][^kr-bh] The man who said Bondo was poison spent his life in lead, and he is remembered for putting customs on lifts.
 
-*See also:* [Larry Watson](larry-watson-bellflower-paint.md), who was minding the Barris paint department when Hines arrived; [Joe Bailon](joe-bailon-candy-apple.md), for Candy Apple Red; [We're the Slowest Ones](../places/intruders-phoenix-lowriders-cruising.md) and [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md), where the lifts went next.
+*See also:* [Larry Watson](larry-watson-bellflower-paint.md), who was minding the Barris paint department when Hines arrived; [Joe Bailon](joe-bailon-candy-apple.md), for Candy Apple Red; [We're the Slowest Ones](../places/intruders-phoenix-lowriders-cruising.md) and [Dave's Dream](../customs/daves-dream-chimayo-lowrider.md), where the lifts went next; [The Alexander Brothers](alexander-brothers-detroit-customizers.md), who traded body work for his candy lessons.
 
 ## Open questions & disputed details
 

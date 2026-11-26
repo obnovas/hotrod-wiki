@@ -1115,6 +1115,16 @@ themes:
           tracks offered at auction with bids due November 17, 2026; who buys it is still an open question.
         link: drag-racing/kil-kare-dragway-xenia.md
         also: [drag-racing/martin-dragway-us-131-grivins.md]
+      - id: lebanon-valley-dragway-them-or-us
+        q: Why did a New York dirt-track family build Lebanon Valley Dragway?
+        a: >-
+          By Howard Commander's own account, a speed shop down Route 20 was rumored to be planning a strip, so he and
+          high school friends cleared trees beside his family's speedway; the dragway opened on August 18,
+          1963 ◐ (single source so far for the rumor; see Open questions). It later took in Dover's racers and hosts the
+          Dover reunion.
+        link: drag-racing/lebanon-valley-dragway-west-lebanon.md
+        also: [drag-racing/dover-drag-strip-wingdale-new-york.md]
+        flag: drag-racing/lebanon-valley-dragway-west-lebanon.md#q-1
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1628,6 +1638,14 @@ themes:
           She died on October 30, 2026.
         link: people/sue-martin-kim-kemp-mason-trimmers.md
         also: [people/don-angland-jay-peterson-trim-shops.md, people/tony-nancy-sherman-oaks-trimmer.md]
+      - id: alexander-brothers-freeway
+        q: Who were the Alexander Brothers, and why did their Detroit shop close?
+        a: >-
+          Larry and Mike Alexander were Detroit customizers who opened their shop in 1957 and won three Ridler Awards,
+          in 1965, 1967 (the Deora) and 1969. Freeway construction took their shops, and the business closed in 1969
+          when the Schoolcraft Road building was razed; both went to work in the car industry.
+        link: people/alexander-brothers-detroit-customizers.md
+        also: [people/bill-hines-leadslinger-hydraulics.md]
   - id: cars-customs-and-techniques
     title: Cars, customs and techniques
     questions:
@@ -1921,6 +1939,34 @@ themes:
           sleeve logo adding the 2006 dates.
         link: media/cruisin-the-coast-mississippi-gulf.md#katrinas-year
         also: [drag-racing/biloxi-dragway-gulf-coast.md]
+      - id: lonestar-round-up-austin
+        q: How did the Lonestar Round Up in Austin begin?
+        a: >-
+          The Kontinentals, an Austin car club named for the Continental Club on South Congress, held the first show
+          in 2002 on a football field, House Park Stadium, for American cars built in 1963 or earlier. Co-founder Steve
+          Wertheimer said they wanted good shows closer to Texas; the first-year count is given as 80 or 88 cars ⚠ (see
+          Open questions).
+        link: media/lonestar-round-up-kontinentals-austin.md
+        also: [media/hot-august-nights-reno-1986.md]
+        flag: media/lonestar-round-up-kontinentals-austin.md#q-1
+      - id: rocky-mountain-nationals-pueblo
+        q: What are the Rocky Mountain Street Rod Nationals?
+        a: >-
+          An NSRA meet held each June at the Colorado State Fairgrounds in Pueblo since 1984 or 1985 ⚠ (the sources
+          differ; see Open questions). The Pueblo Chamber of Commerce hosted its kickoff party and sponsored a 100-car
+          parade, and the NSRA said no city did more to welcome the rodders.
+        link: street-rodding/rocky-mountain-street-rod-nationals-pueblo.md
+        also: [street-rodding/nsra-early-nationals.md]
+        flag: street-rodding/rocky-mountain-street-rod-nationals-pueblo.md#q-1
+      - id: thunder-road-asheville-cars
+        q: Where did the cars in Thunder Road (1958) come from?
+        a: >-
+          Robert Mitchum's company filmed in and around Asheville, N.C., in 1957 and bought real bootleggers' cars.
+          By one local historian's account, the lead 1951 Ford's 312 Y-block was built by Canton racer Pender Fox ◐
+          (single source so far; see Open questions).
+        link: media/thunder-road-asheville-bootleg-cars-1957.md
+        also: [media/smokey-and-the-bandit-jonesboro-mcdonough.md]
+        flag: media/thunder-road-asheville-bootleg-cars-1957.md#q-2
   - id: how-we-know
     title: Sources and how we know
     questions:

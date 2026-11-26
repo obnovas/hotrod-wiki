@@ -1218,3 +1218,31 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [mag] Van Abernethy, "On the Road: Ohio's Kil-Kare Raceway," *Drag Illustrated*, November 11, 2015; "November 17 Deadline Approaching For Auction of 11 Darana Motorsports Properties," *Drag Illustrated*, November 13, 2026. https://dragillustrated.com/on-the-road-ohios-kil-kare-raceway/
 - [local] Phil Marshall, *Early Kil-Kare Speedway: With the Marshall Brothers* (2020); publisher's description only, the book not read. https://www.amazon.com/Early-Kil-Kare-Speedway-Marshall-Brothers/dp/B08JV9JX2T
 - [web] "Kil-Kare Raceway," *Wikipedia*. https://en.wikipedia.org/wiki/Kil-Kare_Raceway
+
+
+## Round 51 additions (the Lonestar Round Up, the Rocky Mountain Street Rod Nationals, Lebanon Valley Dragway, *Thunder Road* in Asheville, the Alexander Brothers)
+- [local] Diana Welch and Kenny Braun, "Kontinental Krew," *The Austin Chronicle*, March 26, 2004. https://www.austinchronicle.com/news/kontinental-krew-11672356/
+- [local] Michael Corcoran, "To C-Boy, With Love," *The Austin Chronicle*, January 31, 2014. https://www.austinchronicle.com/music/to-c-boy-with-love-11759891/
+- [local] Jorge Sanhueza-Lyon, "VIDEO: 13th Annual Lonestar Rod and Kustom Round Up," KUT 90.5 (Austin), April 7, 2014. https://www.kut.org/life-arts/2014-04-07/video-13th-annual-lonestar-rod-and-kustom-round-up
+- [local] Anna-Kay Reeves, "Lonestar Round Up brings the wonder of the open road curbside," *The Daily Texan*, April 3, 2018. https://thedailytexan.com/2018/04/03/lonestar-round-up-brings-the-wonder-of-the-open-road-curbside/
+- [mag] Joe Hoppe, "Lone Star Round Up – A Hot Rodder's Shangri-La," *Hot Rod*, May 15, 2017. https://www.hotrod.com/features/lone-star-round-hot-rodders-shangri-la
+- [mag] Hemmings Media Workshop, "One Perfect Day: The Lonestar Roundup in Austin, Texas!," Hemmings, July 21, 2022. https://www.hemmings.com/stories/one-perfect-day-the-lonestar-roundup-in-austin-texas/
+- [web] "About The Show" and the 2027 press page, The Lonestar Rod & Kustom Round Up (the Kontinentals Car Club). https://lonestarroundup.com/about ; https://lonestarroundup.com/pressrelease
+- [local] *The Pueblo Chieftain*: "1,555 street rods took part in Rocky Mountain 'Nats'" (June 28, 1993); "Welcome, rodders" (editorial, June 25, 1999); "Street rodders, welcome" (editorial, June 22, 2006); Gayle Perez, "Cars a way of life for local street rodder" (June 27, 2008). https://www.chieftain.com/story/news/2008/06/27/cars-way-life-for-local/9048013007/
+- [mag] Roger Jetter, "NSRA's 32nd Trip To Colorado Reaches A Rocky Mountain High," *Street Muscle*, August 10, 2016. https://www.streetmusclemag.com/news/nsras-32nd-rocky-mountain-nats/
+- [local] KOAA News5 (Colorado Springs–Pueblo), Rocky Mountain Street Rod Nationals stories, June 2023 and June 2024. https://www.koaa.com/news/covering-colorado/the-nsra-rocky-mountain-street-rod-nationals-return-to-the-steel-city
+- [web] National Street Rod Association, release for the 39th Rocky Mountain Street Rod Nationals, March 2024. https://nsra-usa.com/wp-content/uploads/2024/03/PressRelease-RockyMtn-2024.pdf
+- [web] "About Lebanon Valley Dragway" (track facts), Lebanon Valley Dragway. https://www.dragway.com/track-facts
+- [local] "A Track History," Lebanon Valley Speedway Classics. https://www.lebanonvalleyclassics.com/HTM/History.htm
+- [hof] "Howie Commander," Eastern Motorsports Press Association hall of fame, undated. http://empamedia.com/halloffameHowie%20Commander.html
+- [forum] "LEBANON VALLEY DRAGWAY" forum topic (2008–2013; Howard Commander's account in Dino Lawrence's post of September 5, 2012), Dover Drag Strip. https://doverdragstrip.com/forums/topic/lebanon-valley-dragway/
+- [local] Tom Boggie, "Stock car racing: Commander earns spot in Hall of Fame," *The Daily Gazette* (Schenectady), May 9, 2014. https://www.dailygazette.com/sports/stock-car-racing-commander-earns-spot-in-hall-of-fame/article_5139cb4d-8690-5f77-be6b-fdb636ddba93.html
+- [gov] James J. Fazzalaro, "Drag Racing in Connecticut," Connecticut Office of Legislative Research, 98-R-0009, January 26, 1998. https://cga.ct.gov/PS98/rpt%5Colr%5Chtm/98-R-0009.htm
+- [mag] Van Abernethy, "On the Road: Lebanon Valley Dragway," *Drag Illustrated*, February 22, 2023. https://dragillustrated.com/on-the-road-lebanon-valley-dragway/
+- [local] Heath Towson, "Thunder Road: Asheville's Silver Screen Fiend: Part II" (June 17, 2023) and "Part 3!" (June 27, 2023), Mountaineer Motor Tours (Asheville). https://www.mountaineermotortours.com/post/thunder-road-asheville-s-silver-screen-fiend-part-ii
+- [local] Frank Thompson, "Return to Thunder Road," *WNC Magazine*, May/June 2018. https://wncmagazine.com/feature/return_thunder_road
+- [local] Rob Neufeld, "Portrait of the Past: Robert Mitchum in Asheville, 1957," *Asheville Citizen-Times*, May 8, 2018. https://www.citizen-times.com/story/life/2018/05/08/portrait-past-robert-mitchum-ashevilles-sky-club-1957/581955002/
+- [mag] Ronnie Schreiber, "How Larry and Mike Alexander, the 'A Brothers,' forever changed the custom car world," Hagerty Media, October 24, 2019. https://www.hagerty.com/media/people/larry-and-mike-alexander-the-a-brothers/
+- [mag] Wesley Wren, "Here's Why You Can't Find the Famed Alexander Brothers' Old Detroit Shops," *Autoweek*, undated; Dale Jewett, "Famed Detroit customizer Larry Alexander dies," *Autoweek*, August 26, 2010. https://www.autoweek.com/news/a1998536/famed-detroit-customizer-larry-alexander-dies/
+- [web] "Bill Hines," Kustomrama. https://kustomrama.com/wiki/Bill_Hines
+- [obit] "Michael P. Alexander, August 29, 1933 — July 18, 2014" (family obituary), Martenson Family of Funeral Homes. https://www.martenson.com/obituaries/michael-p-alexander

@@ -103,7 +103,7 @@ The site was where the retired racers found each other. In 2009 Lawrence held th
 
 The first customer kept his ticket. So did a ten-year-old. A drag strip that closed in 1976 is still being kept alive by the people who raced there.
 
-*See also:* [Connecticut's clubs and Connecticut Dragway](connecticut-clubs-nutmeg-state-timing-association.md); [Island Dragway](island-dragway-great-meadows.md), site of the first reunion race; [Atco and Strato Rods](atco-strato-rods-south-jersey.md); [Pocono's strips](pocono-strips.md); [Westhampton](westhampton-drag-strip-long-island.md), the Long Island strip whose racers turned the track around.
+*See also:* [Connecticut's clubs and Connecticut Dragway](connecticut-clubs-nutmeg-state-timing-association.md); [Island Dragway](island-dragway-great-meadows.md), site of the first reunion race; [Atco and Strato Rods](atco-strato-rods-south-jersey.md); [Pocono's strips](pocono-strips.md); [Westhampton](westhampton-drag-strip-long-island.md), the Long Island strip whose racers turned the track around; [Lebanon Valley Dragway](lebanon-valley-dragway-west-lebanon.md), where Dover's racers went when it rained and where the reunion races now.
 
 ## Open questions & disputed details
 
