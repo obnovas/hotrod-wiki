@@ -1,5 +1,5 @@
 ---
-title: '"Sunday! Sunday! Sunday!": Oswego Drag Raceway, the Farm Strip the Map Called a Landing Strip (Oswego, Ill., 1955–1979)'
+title: '"Sunday! Sunday! Sunday!": Oswego Drag Raceway, the Farm Strip the Map Called a Landing Strip (Oswego, Ill., 1954 or 1955–1979)'
 summary: 'Two farm brothers graded a quarter mile on poor ground beside U.S. 34 and asked a car club to run it, and for a quarter century it drew more people on a Sunday than lived in the village. A 1973 federal map labeled it a "Landing Strip."'
 department: drag-racing
 era: 1950s
@@ -11,7 +11,7 @@ eras:
 - 2020s
 years:
 - 1955 # the first racing season most sources give; Matile dates the grading to 1954 (q-1)
-- 2025 # the 19th reunion, the latest event a source we read describes; the strip closed after 1979
+- 2025 # the 19th reunion, the latest event a source we read describes; the close is 1979, and why it closed is still open (q-2)
 region: Midwest
 states:
 - Illinois
@@ -63,9 +63,9 @@ related:
 canonical_for: []
 location: 'The Smith farm on the north side of U.S. Route 34, about a mile and a half to a couple of miles west of the Fox River bridge, Oswego, Ill.[^hotf][^sl22]'
 peak: 'The mid-1960s, by Roger Matile''s account, when local racers still filled the Sunday program and WLS carried the ads[^hotf]'
-status: 'Closed after the 1979 season; the pavement was left to a tree nursery and the land has since been annexed by the village[^hotf][^ldb]'
+status: 'Closed after the 1979 season, by the accounts we read; why is still open (q-2). The pavement was left to a tree nursery and the land has since been annexed by the village[^hotf][^ldb]'
 ---
-# "Sunday! Sunday! Sunday!": Oswego Drag Raceway, the Farm Strip the Map Called a Landing Strip (Oswego, Ill., 1955–1979)
+# "Sunday! Sunday! Sunday!": Oswego Drag Raceway, the Farm Strip the Map Called a Landing Strip (Oswego, Ill., 1954 or 1955–1979)
 
 *Two farm brothers, a car club from Aurora, a village with one policeman, a Boy Scout troop under the bleachers, and a federal map that got it backwards*
 

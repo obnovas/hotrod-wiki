@@ -1,5 +1,5 @@
 ---
-title: '"Move Everything Off the Raceway": Kingdon Drag Strip, the Airfield That Stayed an Airfield (Lodi, Calif., 1950s–1978)'
+title: '"Move Everything Off the Raceway": Kingdon Drag Strip, the Airfield That Stayed an Airfield (Lodi, Calif., 1950s–1978, or the mid-1970s)'
 summary: 'A Stockton policeman turned a wartime training field west of Lodi into a legal drag strip and sent the kids he stopped there. It never quite stopped being an airport: when a plane came in, the races cleared the runway and started again.'
 department: drag-racing
 era: 1950s
@@ -21,7 +21,7 @@ cities:
 - Acampo, California
 - Livermore, California
 people:
-- Bob Cress
+- Bob Cress (or Kress)
 - Billy Hunefeld
 - Gary Cox
 - Frank Mauro
@@ -61,7 +61,7 @@ location: 'Kingdon Airpark, a wartime training field on DeVries Road southwest o
 peak: 'The 1950s and 1960s, when, a Stockton wheel-shop owner said, "it was very grass-roots"[^rec04]'
 status: 'An airport full time since 1978, by most accounts; a Return to Kingdon drag day has been held there since 2006[^rec04][^lns06][^lns11]'
 ---
-# "Move Everything Off the Raceway": Kingdon Drag Strip, the Airfield That Stayed an Airfield (Lodi, Calif., 1950s–1978)
+# "Move Everything Off the Raceway": Kingdon Drag Strip, the Airfield That Stayed an Airfield (Lodi, Calif., 1950s–1978, or the mid-1970s)
 
 *A policeman's idea, a speedway promoter's money, Tuesday nights on a wartime runway, and small planes that still had the right of way*
 
@@ -101,11 +101,11 @@ The racing came back too. Members of the CVC, a group of Lodi car people who par
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Cress or Kress?** *The Record* (2004) and the Northern California history site write Robert Lee Cress and Bob Cress; the *News-Sentinel* (2006) writes Bob Kress.[^rec04][^ncdr][^lns06] The story uses Cress, the spelling two of the three use and the only one with a full name. A Stockton Police Department roster or his obituary would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Disputed.** **Cress or Kress?** *The Record* (2004) and the Northern California history site write Robert Lee Cress and Bob Cress; the *News-Sentinel* (2006) writes Bob Kress.[^rec04][^ncdr][^lns06] The story uses Cress in the telling, the spelling two of the three use and the only one with a full name, and keeps Kress beside it. A Stockton Police Department roster or his obituary would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
 <a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who bought the field, and when?** The *News-Sentinel* in 2006 says Billy Hunefeld bought the surplus airport from the federal government and installed the officer as general manager, after an idea the officer had in 1953; Stockton 99 Speedway's note calls Hunefeld the original owner.[^lns06][^rec04] The *News-Sentinel* in 2011 says that "in the mid-1950s, the base was purchased by a Stockton police officer," and the history site also says the mid-1950s.[^lns11][^ncdr] *The Record* says only the early 1950s.[^rec04] A deed, a War Assets Administration sale record or a 1950s *Lodi News-Sentinel* story would answer both questions. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
-<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Was 201.34 mph a Kingdon record?** The 2006 *News-Sentinel* says Garlits "set the Kingdon record in his 1964 Swamp Rat IV in winning the Top Eliminator title with a world speed record of 201.34 mph."[^lns06] That is the same speed this archive's [Island Dragway](island-dragway-great-meadows.md) sources give for Garlits's run in *Swamp Rat VI* at Great Meadows, N.J., on August 2, 1964. The two may have been run together in the telling. A Kingdon time slip or a *Drag News* result is needed before the record stays in the story without this flag. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
+<a id="q-3" class="hr-q-anchor"></a>**Disputed.** **Was 201.34 mph a Kingdon record?** The 2006 *News-Sentinel* says Garlits "set the Kingdon record in his 1964 Swamp Rat IV in winning the Top Eliminator title with a world speed record of 201.34 mph."[^lns06] That is the same speed this archive's [Island Dragway](island-dragway-great-meadows.md) sources give for Garlits's run in *Swamp Rat VI* at Great Meadows, N.J., on August 2, 1964. The two may have been run together in the telling. Island's page flags the figure and points here. A Kingdon time slip or a *Drag News* result is needed before the record stays in the story without this flag. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Disputed.** **When did the racing stop?** *The Record* says Kingdon became a full-time airport in 1978, and the 2006 *News-Sentinel* says the strip "shut down in 1978"; the 2011 *News-Sentinel* says "the mid-1970s," and the history site says "the 1970s."[^rec04][^lns06][^lns11][^ncdr] Troglin's own races in 1972 and 1973 fit either.[^rec04] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
 

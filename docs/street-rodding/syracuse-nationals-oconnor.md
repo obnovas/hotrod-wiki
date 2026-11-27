@@ -62,7 +62,7 @@ status: 'Presided over by Rob O''Connor and the Right Coast team; Bob O''Connor 
 ---
 # "Why Don't We Put On Our Own Show?": The Syracuse Nationals (Syracuse, N.Y., 2000– )
 
-*A national meet that came once and left, two men from the class of 1962, a monument dealer's crane, and a show that tripled its own guess on the first day*
+*A national meet that came once and left, two men from the class of 1962, a monument dealer's crane, and a first weekend with more cars than they had expected*
 
 !!! abstract "Article record"
     **Confidence:** High (the founding, the first show and its 4,300 cars are told the same way by the hometown paper in 2013, 2020 and 2025 and by *Hot Rod* in 2019; the first show's expected size and crowd, and the founder's drag car, rest on one telling each) · **Source types:** <span class="hr-badge">Grassroots</span> *The Post-Standard* and syracuse.com: Kenn Peters's 2020 family profile of Bob O'Connor, Johnathan Croyle's 2025 look back through the paper's 2000 coverage, Rick Moriarty (2013) and Croyle in *This is CNY* (2026); *Hot Rod* (Jerry Dixey, 2019); the show's own 2026 recap · **Last verified:** 2026-11-27 (Round 52) · **Open issues:** ⚠ 1,500 cars or 400 to 500 expected; ⚠ 30,000 or 18,000 spectators the first year; ◐ the Purple People Eater's title; Fibiger or Fiebiger · [How we rate this](../reference/source-standards.md)
@@ -74,7 +74,7 @@ status: 'Presided over by Rob O''Connor and the Right Coast team; Bob O''Connor 
 
 ## The Nationals came once
 
-The Syracuse Nationals grew out of a national meet that came to town once and did not come back. Two local men decided to put on their own, at the same fairgrounds, and the first weekend tripled their own hopeful guess.[^pc25][^kp20]
+The Syracuse Nationals grew out of a national meet that came to town once and did not come back. Two local men decided to put on their own, at the same fairgrounds, and the first weekend brought more cars than they had expected.[^pc25][^kp20]
 
 In 1995 the National Street Rod Association held its Nationals at the New York State Fairgrounds, the only time it came to Syracuse, and 10,000 cars came from across the country.[^pc25][^hr19] People liked the grounds, with paved roads, grass, trees and lots of buildings. The NSRA wanted something different and signed a ten-year deal with Louisville, Kentucky.[^pc25] For the next few years, *Hot Rod* wrote, people at car shows kept asking two Syracuse hot rodders whether the Nationals were coming back.[^hr19]
 
