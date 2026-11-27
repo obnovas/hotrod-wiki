@@ -76,6 +76,7 @@ related:
 - places/intruders-phoenix-lowriders-cruising.md
 - customs/daves-dream-chimayo-lowrider.md
 - media/dukes-of-hazzard-h-and-h-body-shop-covington.md
+- customs/x-sonic-ron-aguirre-rialto.md
 canonical_for: []
 location: Ecorse and Lincoln Park, Mich.; Bill Hines Kustom Auto, Lynwood, Calif.; home in Garden Grove from 1961[^kr-bh][^hem16]
 peak: Hydraulic lifts on Tats Gotanda's 1959 Impala, the Buddah Buggy, early 1960s[^kr-bh][^kr-hyd]
@@ -113,7 +114,7 @@ In October 1960 Hines went west for good. George Barris would not pay him more t
 
 ## The Buddah Buggy and the Nomad
 
-Hines met Ron Aguirre, whose X-Sonic Corvette went up and down on hydraulics, and he put a full set of lifts on Tats Gotanda's 1959 Impala, the Buddah Buggy. It could rise and drop 8½ inches.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^kr-hyd][^kr-bh] After that his was one of the first shops in Southern California to specialize in lifts, and customers came down from Northern California.[^kr-hyd][^sm16] Richard Zocchi of Concord had Hines lift his new 1964 Buick Wildcat. Ronnie Baird drove his 1965 Impala down from the Pittsburg area in 1965 or 1966 for lifts front and back.[^kr-hyd]
+Hines met Ron Aguirre, whose [X-Sonic](../customs/x-sonic-ron-aguirre-rialto.md) Corvette went up and down on hydraulics, and he put a full set of lifts on Tats Gotanda's 1959 Impala, the Buddah Buggy. It could rise and drop 8½ inches.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^kr-hyd][^kr-bh] After that his was one of the first shops in Southern California to specialize in lifts, and customers came down from Northern California.[^kr-hyd][^sm16] Richard Zocchi of Concord had Hines lift his new 1964 Buick Wildcat. Ronnie Baird drove his 1965 Impala down from the Pittsburg area in 1965 or 1966 for lifts front and back.[^kr-hyd]
 
 In 1964 or 1965 Teddy bought a 1957 Nomad that had come from California, and he wanted it lifted. Nobody in Michigan did hydraulics then. Hines made up the parts ahead of time and brought them along on a vacation to Michigan. They had no arc welder, so they borrowed the one at the shop next door, Wyandotte Frame and Axle. They lifted only the front, because Teddy liked a California rake. He drove it every day for two or three years, towed a ski boat 195 miles up north to his mother's place, and never once added fluid. Teddy was pretty sure it was the first lifted car in Michigan.<sup class="hr-q" id="qr-3"><a href="#q-3" title="Single source so far: see Open questions">◐</a></sup>[^kr-hyd]
 

@@ -10,8 +10,10 @@ Organized drag racing began with clubs, a borrowed airstrip and a few friendly p
 
 - [Pomona's Choppers & the Fontana Strip](pomona-choppers-fontana.md): a police chief's own 1951 account of joining the hot rodders.
 - [Inyokern: The Sheriff's Strip](inyokern-dust-devils.md): a sheriff-backed strip run by a volunteer club for about 51 years.
+- ["Move Everything Off the Raceway": Kingdon Drag Strip (Lodi, Calif.)](kingdon-drag-strip-lodi.md): by the local papers, a Stockton policeman sends the kids he tickets to a wartime training field, and the Tuesday-night races clear the runway whenever a plane lands (⚠ who bought it, and when; ⚠ the 201.34-mph record).
 - [Great Bend, Kansas](great-bend-srca.md): a club, a Chamber of Commerce letter and NHRA's first national event.
 - [Detroit Dragway & Cordova](detroit-cordova.md), [Akron Fulton Airport](akron-fulton-airport.md), [Houston Freeway Dragstrip](houston-freeway-dragstrip.md) and [Half Day, Illinois](half-day-ataa-maremont.md): airfield and purpose-built strips of the Midwest and Texas.
+- ["Sunday! Sunday! Sunday!": Oswego Drag Raceway (Oswego, Ill.)](oswego-drag-raceway-illinois.md): two farm brothers grade a strip on poor ground and call in the Aurora Autocrats, a village with one policeman meets a record 4,352 people in 1957, and a 1973 federal map labels it a landing strip (⚠ 1954 or 1955; ⚠ why it closed).
 - [The Professor's Drag Strip (Ames, Iowa)](ames-drag-strip-nightcrawlers.md): a math professor, the Nightcrawlers and 260 feet of pavement, 1957–59.
 - [The Big S.I.R. (Sedalia, Mo.)](sedalia-big-sir.md): eleven years of plans, a world final promised, and half a drag strip, 1958–70.
 - [Where Could a Pocono Hot Rodder Race?](pocono-strips.md): a flood levee, Wind Gap, Bear Creek and a runway offer, 1958–68.

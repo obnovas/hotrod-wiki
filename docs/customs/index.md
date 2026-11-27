@@ -12,6 +12,8 @@ Customizing is its own tradition inside hot rodding. A hot rod asks how fast; a 
 - [A Family Portrait on the Car: Dave's Dream (Chimayó, N.M.)](daves-dream-chimayo-lowrider.md): a used 1969 Ford LTD, finished by a family and a car club after its builder died, blessed at the Santuario and sent to the Smithsonian in 1992 (⚠ how much was done before 1978; ⚠ the family portrait, doors or fender).
 - ["This Is a Rat Rod Show" (Saugerties, N.Y., and Mahtowa, Minn.)](rat-rod-shows-saugerties-mahtowa.md): a builder told "not now, not ever" starts his own show behind his shop, and a Minnesota club with beer-keg gas tanks parks beside a country store and drives to Las Vegas (⚠ Mahtowa's first year).
 - ["Scraping the Sky": Slamfest and Scrapin' the Coast (Tampa and Biloxi)](slamfest-scrapin-the-coast-gulf-trucks.md): a mini-truck club's 1991 show in an outlet-mall parking lot and a Biloxi weekend from 2002 or 2003 that took in lifted trucks and ran into a squat-truck law (⚠ Scrapin's first year).
+- ["Hi, Lester": Ron Aguirre's X-Sonic (Rialto, Calif.)](x-sonic-ron-aguirre-rialto.md): by his own account, a teenager tired of low-car tickets puts a body man's hydraulic ram under his 1957 Corvette, beats the ticket book at a drive-in, and later blows his own bubble top (⚠ who was first; ◐ the drive-in stop).
+- ["Let's Call Ourselves The Undertakers": Texas Lowrider Clubs (El Paso to Corpus Christi)](undertakers-el-paso-texas-lowrider-clubs.md): an El Paso club from a body shop, named after police mistook its cruise for a funeral; Odessa's Taste of Latin, a letter from Del Rio, and clubs town to town (⚠ the first club in Texas; ◐ the escort).
 
 **Elsewhere in the archive**
 

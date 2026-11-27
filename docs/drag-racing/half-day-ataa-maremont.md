@@ -48,6 +48,7 @@ related:
 - places/memphis.md
 - drag-racing/detroit-cordova.md
 - drag-racing/march-1957-drag-strip-survey.md
+- drag-racing/oswego-drag-raceway-illinois.md
 canonical_for:
 - ataa-absorbed-1957
 ---

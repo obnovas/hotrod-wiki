@@ -53,6 +53,7 @@ related:
 - media/street-rod-magazine-portland.md
 - places/upper-midwest.md
 - people/dick-wells.md
+- street-rodding/syracuse-nationals-oconnor.md
 canonical_for: []
 ---
 # From a Hayfield to an Association

@@ -37,6 +37,7 @@ related:
 - drag-racing/planners-report-1955.md
 - media/show-circuit.md
 - voices/show-custom-voices.md
+- drag-racing/kingdon-drag-strip-lodi.md
 canonical_for: []
 ---
 # Modesto's Century Toppers: A Club, a Chicken Coop and the Highway Patrol (1946 or 1947–50)

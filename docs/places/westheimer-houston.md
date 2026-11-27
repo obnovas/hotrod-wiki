@@ -30,6 +30,7 @@ related:
 - places/central-avenue-albuquerque.md
 - places/dragging-main.md
 - drag-racing/houston-freeway-dragstrip.md
+- customs/undertakers-el-paso-texas-lowrider-clubs.md
 canonical_for: []
 location: "Westheimer Rd. Cruisers drove east from west Houston through Montrose, turned around at Elgin and drove back out."
 peak: "the 1980s, \"Oil Bust Houston.\""

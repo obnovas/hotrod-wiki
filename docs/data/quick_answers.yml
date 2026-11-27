@@ -1125,6 +1125,26 @@ themes:
         link: drag-racing/lebanon-valley-dragway-west-lebanon.md
         also: [drag-racing/dover-drag-strip-wingdale-new-york.md]
         flag: drag-racing/lebanon-valley-dragway-west-lebanon.md#q-1
+      - id: kingdon-drag-strip-planes
+        q: What happened at Kingdon Drag Strip when a plane needed to land?
+        a: >-
+          Kingdon, a wartime training field west of Lodi, Calif., never stopped being an airport. By the Lodi and
+          Stockton papers, a pilot would come in during the Tuesday night races, everyone scattered off the runway,
+          and once the plane had taxied through they set the equipment back up; it became a full-time airport in
+          1978 ⚠ (see Open questions).
+        link: drag-racing/kingdon-drag-strip-lodi.md
+        also: [drag-racing/modesto-century-toppers.md]
+        flag: drag-racing/kingdon-drag-strip-lodi.md#q-4
+      - id: oswego-drag-raceway-landing-strip
+        q: Why did a federal map call Oswego Drag Raceway a landing strip?
+        a: >-
+          The U.S. Geological Survey's 1973 Yorkville Quadrangle map showed the farm-built Illinois strip as a
+          "Landing Strip," and in the 1990s local editor Roger Matile told a visiting USGS cartographer it was the old
+          drag raceway. The Oswego Ledger counted a record 4,352 people there one Sunday in April 1957; why and when
+          the racing ended is disputed ⚠ (see Open questions).
+        link: drag-racing/oswego-drag-raceway-illinois.md
+        also: [drag-racing/half-day-ataa-maremont.md]
+        flag: drag-racing/oswego-drag-raceway-illinois.md#q-2
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1267,6 +1287,16 @@ themes:
         link: places/intruders-phoenix-lowriders-cruising.md
         also: [places/king-and-story-san-jose-lowrider-magazine.md]
         flag: places/intruders-phoenix-lowriders-cruising.md#q-3
+      - id: undertakers-texas-lowrider-clubs
+        q: How did lowrider clubs spread across Texas?
+        a: >-
+          Town by town, by Lowrider magazine's history: an El Paso club from a neighborhood body shop, named The
+          Undertakers after police took its cruise for a funeral ◐ (see Open questions), then Odessa's Taste of Latin,
+          a letter from Del Rio, and clubs in Corpus Christi, Houston, San Antonio and Laredo. Which club was first in
+          Texas is disputed ⚠ (see Open questions).
+        link: customs/undertakers-el-paso-texas-lowrider-clubs.md
+        also: [places/westheimer-houston.md, places/intruders-phoenix-lowriders-cruising.md]
+        flag: [customs/undertakers-el-paso-texas-lowrider-clubs.md#q-2, customs/undertakers-el-paso-texas-lowrider-clubs.md#q-1]
   - id: companies-and-parts
     title: Companies and the parts business
     questions:
@@ -1745,6 +1775,16 @@ themes:
         link: people/bill-hines-leadslinger-hydraulics.md
         also: [customs/daves-dream-chimayo-lowrider.md, places/intruders-phoenix-lowriders-cruising.md]
         flag: people/bill-hines-leadslinger-hydraulics.md#q-2
+      - id: x-sonic-hydraulics
+        q: Why did Ron Aguirre put hydraulic lifts on the X-Sonic?
+        a: >-
+          By his own account, to stop the low-car tickets: a Rialto motorcycle officer kept stopping his lowered 1957
+          Corvette, so he put a body shop's hydraulic ram between the spring and the frame, and his welder father made
+          the cups. It was one of the first customs that could go up and down; who was first is disputed ⚠ (see Open
+          questions).
+        link: customs/x-sonic-ron-aguirre-rialto.md
+        also: [people/bill-hines-leadslinger-hydraulics.md, people/larry-watson-bellflower-paint.md]
+        flag: customs/x-sonic-ron-aguirre-rialto.md#q-1
   - id: media-and-shows
     title: Media and shows
     questions:
@@ -1969,6 +2009,15 @@ themes:
         link: media/thunder-road-asheville-bootleg-cars-1957.md
         also: [media/smokey-and-the-bandit-jonesboro-mcdonough.md]
         flag: [media/thunder-road-asheville-bootleg-cars-1957.md#q-3, media/thunder-road-asheville-bootleg-cars-1957.md#q-2]
+      - id: syracuse-nationals-founding
+        q: How did the Syracuse Nationals begin?
+        a: >-
+          The NSRA held its Nationals at the New York State Fairgrounds once, in 1995, then signed with Louisville.
+          Two local rodders, Bob O'Connor and Fred Fibiger, put on their own show there, and 4,300 cars came to the
+          first one, July 28–30, 2000; how many they had expected is told two ways ⚠ (see Open questions).
+        link: street-rodding/syracuse-nationals-oconnor.md
+        also: [street-rodding/nsra-early-nationals.md]
+        flag: street-rodding/syracuse-nationals-oconnor.md#q-1
   - id: how-we-know
     title: Sources and how we know
     questions:

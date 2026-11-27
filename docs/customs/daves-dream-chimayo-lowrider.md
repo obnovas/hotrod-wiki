@@ -42,6 +42,7 @@ related:
 - people/joe-bailon-candy-apple.md
 - places/central-avenue-albuquerque.md
 - customs/kkoa-lead-sled-revival.md
+- customs/undertakers-el-paso-texas-lowrider-clubs.md
 canonical_for: []
 location: Chimayó, north of Santa Fe, New Mexico; since 1992 the National Museum of American History, Washington[^dn][^hc]
 status: In the Smithsonian collection since 1992; a return to the floor from May 2022 to August 2024 is only in museum pages read as search excerpts[^si]

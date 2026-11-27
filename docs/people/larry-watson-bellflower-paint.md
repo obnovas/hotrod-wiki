@@ -65,6 +65,7 @@ related:
 - places/harveys-broiler-downey.md
 - voices/von-dutch.md
 - media/show-circuit.md
+- customs/x-sonic-ron-aguirre-rialto.md
 canonical_for: []
 location: His parents' driveway in Bellflower; then shops in North Long Beach, Bellflower and Paramount (1956 or 1957 on)[^kr][^dp]
 status: Died July 20, 2010; his first Bellflower shop site is, by one account, under the 91 freeway off-ramp[^kr][^dp]
@@ -105,7 +106,7 @@ The papers say he opened Watson's House of Style in Long Beach in 1956, at 18.[^
 
 In 1958 he set out, in Kustomrama's words, to start a trend of "customizing with paint." He wanted a new Cadillac and couldn't afford one, so he bought a new Ford Thunderbird, after telling a salesman at Downey Ford to call him when the first one with a tuck-and-roll interior came in. Bill Hines and Bill DeCarr at Barris nosed and decked it and rounded the corners. Watson shot six coats of pearl over a fine silver metallic, and he thought it came out too bright; the shine made the car look too large. To fix it, he taped off the body's panel lines with 1-3/4-inch tape and shot candy apple burgundy over the rest. Many think the panel paint job was born on that car, Kustomrama says, though he had already body-paneled Zeno Stephens' 1955 Mercury in Tahitian Red, a car he never saw again.<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup>[^kr]
 
-The Barris shop noticed. George Barris had him paint scallops over the mistakes on a candy job, and in 1958 asked him to run the Barris paint department while Barris, Jeffries and Bill Carr went east on a two-month tour. Watson said yes, partly because a pizza parlor was being built in front of his own shop. He stayed about four months.[^kr] Teddy Zgrzemski, the painter's helper, remembered him striping the Thunderbird golden tan, deciding a couple of days later that he didn't like it, and going over all of it in lavender, "and you could never see what the original color was."[^kr] In 1960 he laid his first Metalflake job and his first fade on Ron Aguirre's Corvette, the X-Sonic, and painted it six times as Aguirre kept changing it.[^kr] He put a payphone in the shop office, Dave Ellis recalled, because people kept using the business phone for personal calls.[^kr]
+The Barris shop noticed. George Barris had him paint scallops over the mistakes on a candy job, and in 1958 asked him to run the Barris paint department while Barris, Jeffries and Bill Carr went east on a two-month tour. Watson said yes, partly because a pizza parlor was being built in front of his own shop. He stayed about four months.[^kr] Teddy Zgrzemski, the painter's helper, remembered him striping the Thunderbird golden tan, deciding a couple of days later that he didn't like it, and going over all of it in lavender, "and you could never see what the original color was."[^kr] In 1960 he laid his first Metalflake job and his first fade on Ron Aguirre's Corvette, the [X-Sonic](../customs/x-sonic-ron-aguirre-rialto.md), and painted it six times as Aguirre kept changing it.[^kr] He put a payphone in the shop office, Dave Ellis recalled, because people kept using the business phone for personal calls.[^kr]
 
 ## Hollywood, and a museum in a shed
 

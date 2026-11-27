@@ -2389,3 +2389,48 @@ highlights:
     added: '2026-11-26'
     eras: [1960s]
     regions: ['West Lebanon, N.Y.']
+
+  - id: oswego-map-landing-strip
+    headline: A 1973 federal map labeled Oswego's farm-built drag strip a landing strip
+    teaser: Racers across the country took over old airfields. In Oswego, Ill., two farm brothers graded
+      their own strip, and in the 1990s the town's editor had to tell a visiting USGS cartographer what
+      it really was.
+    link: drag-racing/oswego-drag-raceway-illinois.md#run-what-you-brung
+    evidence: showed the raceway as a "Landing Strip."
+    source_type: Local history site
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-27'
+    eras: [1970s, 1990s]
+    regions: ['Oswego, Ill.']
+
+  - id: kingdon-planes-right-of-way
+    headline: At Kingdon Drag Strip the planes had the right of way, and the races cleared the runway
+    teaser: When a pilot came in during the Tuesday night races west of Lodi, Calif., everyone scattered,
+      let the plane taxi through, then set the equipment back up. "We had to move everything off the raceway,"
+      a manager remembered.
+    link: drag-racing/kingdon-drag-strip-lodi.md#tuesday-nights-at-kingdon
+    evidence: everyone would scatter off the runway
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-27'
+    eras: [1950s, 1960s, 1970s]
+    regions: ['Lodi, Calif.']
+
+  - id: syracuse-oconnor-mausoleum-ice
+    headline: The man who founded the Syracuse Nationals once set a mausoleum on bags of ice
+    teaser: Bob O'Connor couldn't get the lifting straps out from under it, so he came back with ice, pulled
+      the straps and waited for it to melt. In 2000 he and Fred Fibiger started their own show, and 4,300
+      cars came.
+    link: street-rodding/syracuse-nationals-oconnor.md#the-nationals-came-once
+    evidence: came back 20 minutes later with bags of ice
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-27'
+    eras: [2000s]
+    regions: ['Syracuse, N.Y.']

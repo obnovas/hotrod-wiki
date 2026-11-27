@@ -678,5 +678,22 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Patents | None this round. |
 | Images | No Round 51 images. |
 
+### Round 52 additions
+- A village editor's local-history blog quoting the hometown weekly: Roger Matile on *History on the Fox* (2024), quoting the *Oswego Ledger* (1957) and the Aurora *Beacon-News* (1956), with *Chronicle Media* (2014) and Shaw Local (2022, 2026) on the reunions → ["Sunday! Sunday! Sunday!"](../drag-racing/oswego-drag-raceway-illinois.md).
+- Hometown papers' memory pieces: the *Lodi News-Sentinel* (2003, 2006, 2011) and *The Record* (Stockton, 2004, as reposted by Stockton 99 Speedway) → ["Move Everything Off the Raceway"](../drag-racing/kingdon-drag-strip-lodi.md).
+- A hometown daily's car writer and its archive: Kenn Peters's 2020 profile of Bob O'Connor and Johnathan Croyle's 2025 look back at the paper's 2000 coverage (syracuse.com / *The Post-Standard*), with *This is CNY* (2026) → ["Why Don't We Put On Our Own Show?"](../street-rodding/syracuse-nationals-oconnor.md).
+- A builder's own letter and a friend's forum post: Ron Aguirre's LayItLow correspondence and Hilton Vail's 2019 interview as quoted by Kustomrama, and Roger O'Dell's 2011 H.A.M.B. post → ["Hi, Lester"](../customs/x-sonic-ron-aguirre-rialto.md).
+- Members' oral histories and local news: *Lowrider*'s 2002 history chapter (Mando Santillan, David Leal), Texas public radio (*Texas Standard*, 2024), KSAT 12 and Axios San Antonio (2023) → ["Let's Call Ourselves The Undertakers"](../customs/undertakers-el-paso-texas-lowrider-clubs.md).
+
+### Round 52 status
+| Archive | Round 52 status |
+|---|---|
+| *History on the Fox* (Oswego) | HTTP 429 to `curl`; the fetch tool read the 2024 post. |
+| *Oswego Ledger* and Aurora *Beacon-News*, 1954–57 | Read only as quoted by Matile; listed in Next leads. |
+| *The Post-Standard* and *Herald-Journal*, July 2000 | Read only as quoted in 2025; listed in Next leads. |
+| LayItLow forum, *Lowrider* (June 1995), *The Rodder's Journal* No. 50 (X-Sonic) | Not read directly; quoted through Kustomrama and flagged. |
+| Patents | None this round. |
+| Images | No Round 52 images. |
+
 ## Adding to this catalog
 Each research round: add any new outlet under its type with a link, the year read, what it contributed and the page that uses it. If an archive becomes reachable, update its status above. See [Source Standards](source-standards.md) and the [Research Trail](../research-trail.md).
