@@ -217,7 +217,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1957 | Larry and Mike Alexander open the Alexander Brothers Custom Shop near Northwestern Highway and Evergreen Road, Detroit: a dirt floor and "a $50 compressor" | [Alexander Brothers](../people/alexander-brothers-detroit-customizers.md) |
 | 1957 | Robert Mitchum's *Thunder Road* company films around Asheville, N.C. (Aug); by one local account, it bought real bootleggers' cars, and the lead 1951 Ford's 312 Y-block is credited to Canton racer Pender Fox ◐ | [Thunder Road](../media/thunder-road-asheville-bootleg-cars-1957.md) |
 | 1957 | The *Oswego Ledger* counts a record 4,352 people and 364 cars at Oswego Drag Raceway in a village of about 1,220 (April) | [Oswego](../drag-racing/oswego-drag-raceway-illinois.md) |
-| 1957 ⚠ | Ron Aguirre of Rialto buys a new Corvette and, by his own account, soon puts hydraulic rams under it (when, and who was first, disputed) | [X-Sonic](../customs/x-sonic-ron-aguirre-rialto.md) |
+| 1957 ⚠ | By his own account, Ron Aguirre of Rialto puts hydraulic rams under his Corvette, a 1956 by Kustomrama and Hemmings (⚠ the model year, or a 1957 purchase; when the lifts went in, and who was first) | [X-Sonic](../customs/x-sonic-ron-aguirre-rialto.md) |
 | 1958 | Winslow city council lets the Renegades Drag Club race the municipal airport taxiway (Mar 18); strip's last event 1985 | [Winslow](../drag-racing/winslow-renegades-airport.md) |
 | 1958 | AMT 3-in-1 kits (⚠ SMP claim). Wescott fenders in Hot Rod | [Kits](../media/trend-books-kits-roth.md), [Suppliers](../street-rodding/fiberglass-suppliers.md) |
 | 1958 | Harvey's Broiler opens in Downey and becomes a drive-in cruising hub | [Harvey's Broiler](../places/harveys-broiler-downey.md) |
@@ -388,7 +388,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1964 | Albuquerque Dragway opens (spring), paid for with bonds | [New Mexico](../drag-racing/new-mexico-timing-association-albuquerque.md) |
 | 1964 | Tucson Dragway opens at Valencia and Houghton roads; more than 6,000 at the first race. The Adventure Car Hop closes ◐ | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md), [Route 1, Saugus](../places/route-1-saugus-adventure-car-hop.md) |
 | 1964 | Carroll Sheldon opens the Kearney, Neb., drag strip; July 5, 1964 is the reading of a July 5, 2014 golden-anniversary story | [Nebraska strips](../drag-racing/nebraska-flightland-grand-island-kearney.md) |
-| 1964 ⚠ | Garlits runs 7.78 at 201.34 mph at Island Dragway (Aug 2), called the first officially recognized 200-mph pass (⚠ the *Inquirer* has him past 200 elsewhere by August 1961) | [Island Dragway](../drag-racing/island-dragway-great-meadows.md) |
+| 1964 ⚠ | Garlits runs 7.78 at 201.34 mph at Island Dragway (Aug 2), called the first officially recognized 200-mph pass (⚠ the *Inquirer* has him past 200 elsewhere by August 1961; ⚠ the same 201.34 is also told as a Kingdon record) | [Island Dragway](../drag-racing/island-dragway-great-meadows.md) |
 | 1964 | Jim Hullinger builds roller starters for Bunker Hill, later sold as Safe-Start | [Bunker Hill](../drag-racing/bunker-hill-dragstrip-indiana.md) |
 | 1964 ⚠ | Kosmoski moves across the street and changes House of Color to House of Kolor (FenderBender: a paint maker "around 1962") | [House of Kolor](../companies/house-of-kolor-kosmoski-minneapolis.md) |
 | 1964 ◐ | Hines and his nephew Teddy Zgrzemski lift a '57 Nomad in Michigan (1964 or 1965), by Teddy's account the state's first lifted car | [Bill Hines](../people/bill-hines-leadslinger-hydraulics.md) |
@@ -488,7 +488,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1972 | Evel Knievel jumps at Minnesota Dragways before about 30,000 (July) | [Minnesota Dragways](../drag-racing/minnesota-dragways-coon-rapids-gsta.md) |
 | 1972 | *American Graffiti* starts filming on Fourth Street in San Rafael (June 26); after one night the crew moves to Petaluma | [Petaluma & *American Graffiti*](../media/american-graffiti-petaluma-1972.md) |
 | 1972 | Pete Chapouris buys a chopped '34 Ford three-window on New Year's Day and takes it to his backyard garage in Temple City, Calif. | [California Kid](../media/california-kid-pete-and-jakes-peculiar.md) |
-| 1972 ◐ | Mando Santillan meets Richard Salazar at George and Son's body shop, El Paso; a police escort soon names The Undertakers (his account) | [Texas lowrider clubs](../customs/undertakers-el-paso-texas-lowrider-clubs.md) |
+| 1972 ◐ | Mando Santillan meets Richard Salazar at George and Son's body shop, El Paso; by Santillan's account, a police escort soon names The Undertakers | [Texas lowrider clubs](../customs/undertakers-el-paso-texas-lowrider-clubs.md) |
 | 1973 | Black American Racers Association founded | [Leonard Miller](../voices/leonard-miller.md) |
 | 1973 | *Street Rod* folds after the July issue (paper shortage) | [*Street Rod*](../media/street-rod-magazine-portland.md) |
 | 1973 ⚠ | Pocatello declines to renew the drag strip lease (or c. 1993, FMC ⚠); Beeline closes by one account | [Pocatello](../drag-racing/pocatello-mcdougall-field-drag-strip.md), [Beeline](../drag-racing/beeline-dragway-mesa.md) |

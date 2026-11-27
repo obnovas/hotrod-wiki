@@ -1,6 +1,6 @@
 ---
 title: 'A Golf Course or a Racetrack: Island Dragway, Great Meadows (1960–2026)'
-summary: Edward and Catherine Kowalick opened Island Dragway on their Great Meadows farm in 1960, and Garlits ran 201.34 mph there on August 2, 1964. Flooded by two hurricanes, it closed after 2012 until their granddaughter reopened it in 2013; since Atco closed in 2023 it is New Jersey's last drag strip.
+summary: Edward and Catherine Kowalick opened Island Dragway on their Great Meadows farm in 1960, and Garlits's 201.34 mph there on August 2, 1964 is also told as a Kingdon record. Flooded by two hurricanes, it closed after 2012 until their granddaughter reopened it in 2013; since Atco closed in 2023 it is New Jersey's last drag strip.
 department: drag-racing
 era: 1960s
 eras:
@@ -77,7 +77,7 @@ status: Racing (2026)
 *He wanted either a golf course or a racetrack, and the family strip is now the last one in New Jersey*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the founding, the floods and the reopening come from the family itself, through a county magazine in 2021 and the track's own history, with the Warren County daily's reports of 2010 and 2013; the 1964 record is well documented but its "first" is argued; the racers' memories are one each) · **Source types:** <span class="hr-badge">Grassroots</span> *Inside Warren* (2021); *The Express-Times* (2010, 2013); racers' memories on *Drag Strip List*; the track's own history; *Wander Jersey* (2026); *MotorTrend* (2013) · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ⚠ 1959 or 1960; ⚠ the first 200; ⚠ the year Edward Kowalick died; ◐ the Frantic Four's 7.92 · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the founding, the floods and the reopening come from the family itself, through a county magazine in 2021 and the track's own history, with the Warren County daily's reports of 2010 and 2013; the 1964 record is well documented but its "first" is argued; the racers' memories are one each) · **Source types:** <span class="hr-badge">Grassroots</span> *Inside Warren* (2021); *The Express-Times* (2010, 2013); racers' memories on *Drag Strip List*; the track's own history; *Wander Jersey* (2026); *MotorTrend* (2013) · **Last verified:** 2026-11-11 (Round 38) · **Open issues:** ⚠ 1959 or 1960; ⚠ the first 200; ⚠ the 201.34 and Kingdon; ⚠ the year Edward Kowalick died; ◐ the Frantic Four's 7.92 · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "My life would be a lot different if this was a golf course!"
@@ -90,7 +90,7 @@ Where the name came from, nobody knows for sure, and no one is left who could sa
 
 ## Two hundred, and the chute
 
-Don Garlits brought *Swamp Rat VI* to Island on August 2, 1964, for a match race against the Frantic Four, and ran 7.78 at 201.34 mph. *Wander Jersey* and the track itself call it the first officially recognized 200-mph pass in drag racing.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^wj26][^idw] Jon Asher saw it. There that Saturday, Gary Ternyila always thought the Frantic Four ran the first sub-eight that day, "at something like 7.92."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> John Vreeland still has "the 1964 Island Dragway pit pass that Don Garlits autographed for me the day he went off the end of the track because his chute didn't open."[^dslnj]
+Don Garlits brought *Swamp Rat VI* to Island on August 2, 1964, for a match race against the Frantic Four, and ran 7.78 at 201.34 mph.<sup class="hr-q" id="qr-5"><a href="#q-5" title="Sources disagree: see Open questions">⚠</a></sup> *Wander Jersey* and the track itself call it the first officially recognized 200-mph pass in drag racing.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see Open questions">⚠</a></sup>[^wj26][^idw] Jon Asher saw it. There that Saturday, Gary Ternyila always thought the Frantic Four ran the first sub-eight that day, "at something like 7.92."<sup class="hr-q" id="qr-4"><a href="#q-4" title="Single source so far: see Open questions">◐</a></sup> John Vreeland still has "the 1964 Island Dragway pit pass that Don Garlits autographed for me the day he went off the end of the track because his chute didn't open."[^dslnj]
 
 The weekly racers were mostly local. "Deacon" to the other racers, Bill Diggles ran an F/SA '59 Catalina tri-power, street-legal with "removable plates for open dumps," on Sundays through the 1960s. His son rode along "as often as I could."[^dslnj] Joe Lomastro, 19, came with one buddy and found "so many dealer-sponsored cars there," with four or five men working on each, and himself asking "What do you mean degree of camshaft?"[^dslnj] An old green Hudson was what Ray DeCesare remembered, "The Pickle," then the newer "Pickle Jar," and "the guy on the motorcycle with the 16 cylinder Allison aircraft engine." Don Hinkle's father ran a '58 Corvette, the "Red Baron," and on the way home they stopped "at a local hot dog stand for some awesome dogs."[^dslnj] Wednesday nights in the 1980s were for motorcycles, James Higgins wrote: "It cost us a whopping $3.00 to run," and "More than once, the fog came off the bogs and we had to quit."[^dslnj]
 
@@ -115,6 +115,8 @@ A racetrack, on the family farm, was what he had announced. Melissa and Carl reo
 <a id="q-3" class="hr-q-anchor"></a>**Disputed.** **When did Edward Kowalick die, and who was Kathy?** The track's history says 1991; *The Express-Times* said 1992, in 2010 and again in 2013.[^idw][^lvl10][^lvl13] The 2010 piece calls Kathy DeMarcky the Kowalicks' daughter, as do *Wander Jersey* and *Inside Warren*; the 2013 story calls her "the granddaughter."[^lvl10][^wj26][^iw21][^lvl13] Catherine Kowalick's 2010 obituary, filed by the Hackettstown Historical Society, should settle both; its PDF came back empty for us. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
 <a id="q-4" class="hr-q-anchor"></a>**Single source so far.** **Did the Frantic Four run 7.92 that day?** Only Ternyila's memory.[^dslnj] <a class="hr-q-back" href="#qr-4" title="Back to the story">↩</a>
+
+<a id="q-5" class="hr-q-anchor"></a>**Disputed.** **Was 201.34 a Great Meadows pass, or a Kingdon record?** The track and *Wander Jersey* give 7.78 at 201.34 mph in *Swamp Rat VI* at Island on August 2, 1964.[^idw][^wj26] The *Lodi News-Sentinel* tells the same speed as a Kingdon record. The dispute is kept on [Kingdon Drag Strip](kingdon-drag-strip-lodi.md#q-3). <a class="hr-q-back" href="#qr-5" title="Back to the story">↩</a>
 
 ### Next leads
 

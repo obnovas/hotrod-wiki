@@ -474,7 +474,7 @@
 | Iron Horsemen | Sedalia motorcycle club in the 1962 strip talks | [Big S.I.R.](../drag-racing/sedalia-big-sir.md) |
 | Irwin, Sterling Lafayette "Fate" | Corryton politician; opened Broadway Speedway, 1948 | [Broadway Speedway](../drag-racing/broadway-speedway-knoxville-eddie-harvey.md) |
 | Iskenderian, Ed | Isky Cams | [Ed Iskenderian](../people/ed-iskenderian.md) |
-| Island Dragway | Great Meadows, N.J., farm strip since 1960 ⚠; Garlits's 201.34, 1964; New Jersey's last | [Island Dragway](../drag-racing/island-dragway-great-meadows.md), [Pocono strips](../drag-racing/pocono-strips.md) |
+| Island Dragway | Great Meadows, N.J., farm strip since 1960 ⚠; Garlits's 201.34, 1964 (⚠ also told as a Kingdon record); New Jersey's last | [Island Dragway](../drag-racing/island-dragway-great-meadows.md), [Pocono strips](../drag-racing/pocono-strips.md) |
 | Island Hoppers | Key West Navy-and-civilian car club, 1962 | [Rumbling Rods](../drag-racing/key-west-rumbling-rods.md) |
 | Ivo, Tommy | Racer; Bob's Big Boy / River Road regular | [Bob's Big Boy](../places/bobs-big-boy-river-road.md), [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
 | Jackson, Charles "Kong" | Sidewinders; Kong ignition | [Kong Jackson](../people/kong-jackson.md) |
@@ -972,7 +972,7 @@
 | Tucson Dragway | Valencia and Houghton roads, 1964–1984/85 ⚠; new track 1997 | [Tucson](../drag-racing/tucson-davis-monthan-speed-sport.md) |
 | Twin Ports Drag Racing Association | Duluth–Superior club, 1971; $25 shares for a strip near the Apollo Bar, 1974 | [Great Lakes Dragaway](../drag-racing/great-lakes-dragaway-union-grove.md) |
 | Tyler, Brent | Reno dragster builder arrested over airplane parts, charges dropped, 1956 | [Las Vegas & Henderson](../drag-racing/las-vegas-henderson-drag-strips.md) |
-| Undertakers, The | El Paso lowrider club of the early 1970s, named after a police escort ◐ | [Texas lowrider clubs](../customs/undertakers-el-paso-texas-lowrider-clubs.md) |
+| Undertakers, The | El Paso lowrider club of the early 1970s, named, by Santillan's account, after a police escort ◐ | [Texas lowrider clubs](../customs/undertakers-el-paso-texas-lowrider-clubs.md) |
 | Unique Performance | Farmers Branch, Texas, Eleanor builder; a 2007 case was reported | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | United Lowrider Council of San Jose | Council whose history page tells the King and Story story | [King and Story](../places/king-and-story-san-jose-lowrider-magazine.md) |
 | Van Daalwyk, Joseph | Kaukauna builder; KK Sports Arena president, 1968–70 | [KK Sports Arena](../drag-racing/kk-sports-arena-kaukauna.md), [Hospitality Drag Strip](../drag-racing/kk-sports-arena-hospitality-bankruptcy.md) |
