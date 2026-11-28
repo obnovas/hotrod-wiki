@@ -70,6 +70,7 @@ related:
 - people/malcolm-durham.md
 - drag-racing/chester-drag-strip-south-carolina.md
 - eras/1960s-drag-rags.md
+- drag-racing/shuffletown-dragway-charlotte.md
 canonical_for: []
 location: Farmington, Davie County, N.C., west of Winston-Salem, "seven miles off the interstate"[^racer17f]
 peak: bracket racing, 1960s–today

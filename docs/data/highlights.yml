@@ -2434,3 +2434,46 @@ highlights:
     added: '2026-11-27'
     eras: [2000s]
     regions: ['Syracuse, N.Y.']
+
+  - id: us-30-trump-car-names
+    headline: U.S. 30's photographer kept 5,000 negatives, and asked callers for their car's name, not theirs
+    teaser: 'Jerry Trump shot the strip south of Gary, Ind., from 1981 until it closed. Decades later racers
+      still called for pictures, and he told them: "Don''t tell me your name, tell me your car''s name."'
+    link: drag-racing/us-30-dragstrip-hobart-indiana.md#the-last-season
+    evidence: Jerry Trump still got calls from racers who wanted pictures of their cars
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-28'
+    eras: [1980s, 2010s]
+    regions: ['Hobart, Ind.']
+
+  - id: esta-start-yours-too
+    headline: 'At ESTA Safety Park the founder ran the mike: "You drag racers can start yours, too"'
+    teaser: Rolland Schmidt helped found the club strip in Cicero, N.Y., in 1960 and doubled as its announcer.
+      In 1994 the Syracuse paper found most of a weekly crowd in the pits, working on or driving the cars.
+    link: drag-racing/esta-safety-park-cicero-new-york.md#the-man-on-the-microphone
+    evidence: You drag racers can start yours, too.
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-28'
+    eras: [1960s, 1990s]
+    regions: ['Cicero, N.Y.']
+
+  - id: shuffletown-engines-after-church
+    headline: Shuffletown's gates opened at 11 on Sundays, but no engine fired before noon, for the churches
+      nearby
+    teaser: Neighbors built the dirt strip outside Charlotte with their own tractors to get the racing off
+      Rozzelles Ferry Road. Today the old strip is a walking trail in a county park.
+    link: drag-racing/shuffletown-dragway-charlotte.md#tractors-and-creek-dirt
+    evidence: the engines stayed quiet until noon
+    source_type: Local news
+    confidence: High
+    flag: none
+    grassroots: true
+    added: '2026-11-28'
+    eras: [1950s, 1960s, 1970s, 1980s]
+    regions: ['Charlotte, N.C.']

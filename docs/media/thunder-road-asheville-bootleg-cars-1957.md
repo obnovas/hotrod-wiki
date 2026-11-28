@@ -49,6 +49,7 @@ related:
 - media/american-graffiti-petaluma-1972.md
 - media/dukes-of-hazzard-h-and-h-body-shop-covington.md
 - drag-racing/yellow-river-covington.md
+- media/vanishing-point-cisco-goldfield-1970.md
 canonical_for: []
 location: 'Asheville and the roads of Buncombe and Transylvania counties, N.C., though the story is set in Tennessee[^wnc18]'
 peak: 'The Asheville premiere, May 9–23, 1958, when a record 23,000 people bought tickets at the Imperial Theater[^wnc18][^mmt3]'

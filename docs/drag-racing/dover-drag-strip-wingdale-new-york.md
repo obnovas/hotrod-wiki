@@ -67,6 +67,7 @@ related:
 - drag-racing/atco-strato-rods-south-jersey.md
 - drag-racing/pocono-strips.md
 - places/regional-scenes.md
+- drag-racing/esta-safety-park-cicero-new-york.md
 canonical_for: []
 location: Wingdale, N.Y. (the town of Dover), on 144 acres of former farmland[^dds][^nhra08]
 status: Closed 1976; the site is reportedly a gravel pit[^nhra08]

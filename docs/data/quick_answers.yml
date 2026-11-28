@@ -1146,6 +1146,35 @@ themes:
         link: drag-racing/oswego-drag-raceway-illinois.md
         also: [drag-racing/half-day-ataa-maremont.md]
         flag: drag-racing/oswego-drag-raceway-illinois.md#q-2
+      - id: us-30-dragstrip-sunday-ad
+        q: Who was the voice of "Sunday! Sunday! Sunday!" for U.S. 30 Dragstrip?
+        a: >-
+          Jan Gabriel. By the ads' producer, as told in National Dragster, about 50 announcers auditioned before
+          Gabriel, whose tape delay let him trade the "Sundays!" with himself. The ad, Ben Christ's idea, ran mostly
+          on WLS for the strip south of Gary, Ind., which closed after the 1984 season; that one voice did both parts
+          rests on one source ◐ (see Open questions).
+        link: drag-racing/us-30-dragstrip-hobart-indiana.md
+        also: [drag-racing/oswego-drag-raceway-illinois.md]
+        flag: drag-racing/us-30-dragstrip-hobart-indiana.md#q-4
+      - id: esta-fairgrounds-1959
+        q: How did Syracuse racers get from the State Fair parking lot to their own strip?
+        a: >-
+          In April 1959 a deputy found more than 400 cars racing on the fairgrounds lot, and The Post-Standard's
+          editorial asked why the idle lot should not be used for the sport. That summer the fair allowed Sunday drags
+          on an eighth-mile of the lot, and the Empire State Timing Association opened its own strip in Cicero in 1960 ◐
+          (see Open questions).
+        link: drag-racing/esta-safety-park-cicero-new-york.md
+        also: [street-rodding/syracuse-nationals-oconnor.md]
+        flag: drag-racing/esta-safety-park-cicero-new-york.md#q-1
+      - id: shuffletown-church-noon
+        q: Why did Shuffletown Dragway wait until noon on Sundays?
+        a: >-
+          Out of respect for the church services nearby: by Queen City News's 2022 account, the gates
+          opened at 11 but no engine could fire before noon. Neighbors had built the Charlotte strip with their own
+          tractors; when it opened and when the city's noise ordinance closed it are disputed ⚠ (see Open questions).
+        link: drag-racing/shuffletown-dragway-charlotte.md
+        also: [drag-racing/farmington-dragway-becky-white.md]
+        flag: drag-racing/shuffletown-dragway-charlotte.md#q-3
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1926,6 +1955,26 @@ themes:
         link: media/street-machine-nationals-du-quoin.md
         also: [eras/1980s-pro-street.md]
         flag: media/street-machine-nationals-du-quoin.md#q-2
+      - id: vanishing-point-cisco-camaro
+        q: What car really hit the bulldozers at the end of Vanishing Point?
+        a: >-
+          A 1967 Camaro with no engine or transmission, loaded with explosives and pulled on a quarter-mile cable by
+          stunt man Carey Loftin in one of the Challengers. It was filmed at Cisco, Utah, in 1970, and a family
+          detoured off I-70 left in a storm just before the crash; how many Challengers were used is disputed ⚠ (see
+          Open questions).
+        link: media/vanishing-point-cisco-goldfield-1970.md
+        also: [media/thunder-road-asheville-bootleg-cars-1957.md]
+        flag: media/vanishing-point-cisco-goldfield-1970.md#q-1
+      - id: power-tour-goodland
+        q: Why did the first Hot Rod Power Tour remember Goodland, Kansas?
+        a: >-
+          Because the town met it with a police escort on May 15, 1995, and the vo-tech school fed everyone and opened
+          its shop until after midnight, while instructor Tom Purvis opened the parts store at 10 p.m. The school
+          opened its garages to the tour four years running; how many cars set out from Los Angeles is disputed ⚠ (see
+          Open questions).
+        link: media/power-tour-goodland-kansas-1995.md
+        also: [media/street-machine-nationals-du-quoin.md]
+        flag: media/power-tour-goodland-kansas-1995.md#q-1
       - id: scrapin-the-coast-sky
         q: What does "scraping the sky" mean at Scrapin' the Coast?
         a: >-

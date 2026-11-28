@@ -63,6 +63,7 @@ related:
 - eras/1970s-street-rod-nationals.md
 - companies/summit-racing.md
 - companies/holley.md
+- media/power-tour-goodland-kansas-1995.md
 canonical_for: []
 location: Built in a Royal Oak, Mich., home garage (Stielow) and a two-car garage and backyard shop near Detroit (the Tuckers); Detroit Speed later in Brighton, Mich., then Mooresville, N.C.[^hem19][^pri21]
 status: A style still built today; Detroit Speed part of Holley since 2020[^pri21]

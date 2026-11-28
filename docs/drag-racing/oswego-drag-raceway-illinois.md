@@ -60,6 +60,7 @@ related:
 - drag-racing/half-day-ataa-maremont.md
 - drag-racing/great-lakes-dragaway-union-grove.md
 - places/midwest-east.md
+- drag-racing/us-30-dragstrip-hobart-indiana.md
 canonical_for: []
 location: 'The Smith farm on the north side of U.S. Route 34, about a mile and a half to a couple of miles west of the Fox River bridge, Oswego, Ill.[^hotf][^sl22]'
 peak: 'The mid-1960s, by Roger Matile''s account, when local racers still filled the Sunday program and WLS carried the ads[^hotf]'

@@ -65,6 +65,7 @@ related:
 - media/show-circuit.md
 - media/ls-fest-beech-bend-bowling-green.md
 - media/national-truck-in-vans-beech-bend.md
+- media/power-tour-goodland-kansas-1995.md
 canonical_for: []
 location: Du Quoin State Fairgrounds, Du Quoin, Ill.[^si86][^cc13]
 peak: Du Quoin, 1986–1998, with more than 100,000 spectators in 1989[^cc13]

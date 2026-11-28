@@ -69,6 +69,7 @@ related:
 - people/setto-postoian.md
 - drag-racing/akron-fulton-airport.md
 - places/regional-scenes.md
+- drag-racing/shuffletown-dragway-charlotte.md
 canonical_for: []
 ---
 # Twice as Wide as zMAX: Chester Drag Strip and the International Timing Association (S.C., 1956–60)

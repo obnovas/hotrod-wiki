@@ -39,6 +39,7 @@ related:
 - companies/mr-gasket.md
 - places/ohio-gassers.md
 - drag-racing/houston-freeway-dragstrip.md
+- drag-racing/us-30-dragstrip-hobart-indiana.md
 canonical_for: []
 principal_source: "Phil Burgess's 2016 interview with Schartman, then 78, in National Dragster/NHRA.com.[^nhra] This is first-person oral history."
 ---
