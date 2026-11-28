@@ -20,7 +20,6 @@ cities:
 - Brewerton, New York
 - Geddes, New York
 - Marcy, New York
-- Clay, New York
 people:
 - Bob O'Connor
 - Fred Fibiger

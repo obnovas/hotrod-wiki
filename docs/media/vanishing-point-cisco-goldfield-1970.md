@@ -1,6 +1,6 @@
 ---
 title: 'A Dynamite-Loaded Camaro: Vanishing Point in Cisco, Utah, and Goldfield, Nevada (1970)'
-summary: 'Vanishing Point was shot in 1970 along real roads from Denver to the Nevada desert. At Cisco, Utah, a family found a Camaro loaded with dynamite and the bulldozers set for the crash, and left in a storm before it.'
+summary: 'Vanishing Point was shot in 1970 along real roads from Denver to the Nevada desert. The ending at Cisco, Utah, was filmed with a 1967 Camaro loaded with dynamite, and a family left in a storm before the crash.'
 department: media
 era: 1970s
 eras:
@@ -68,10 +68,10 @@ status: 'Cisco is a near ghost town with one store; the Goldfield Hotel stands, 
 ---
 # A Dynamite-Loaded Camaro: *Vanishing Point* in Cisco, Utah, and Goldfield, Nevada (1970)
 
-*White Challengers that came back from Chrysler's press fleet, a dynamite-loaded Camaro, a rusty nail in a Cisco field, a Denver anchorman on the radio, and a road the fans keep driving*
+*White Challengers that came back from Chrysler's press fleet, a 1967 Camaro loaded with dynamite, a rusty nail in a Cisco field, a Denver anchorman on the radio, and a road the fans keep driving*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (how the cars and the crash were done comes from the film's history as summarized on Wikipedia from the DVD-era interviews, and from Matt Stone's 50th-anniversary trip; the people on the route come from fans' first-person accounts, one person each) · **Source types:** <span class="hr-badge">Grassroots</span> fans' accounts collected on a *Vanishing Point* fan site (Tom Jasiewicz, Al Alexander, David Bremer, 1990s), Rocky Mountain PBS (2023), *Modern Rodding*/In The Garage Media (2021), *Street Muscle* (2017), the *Glenwood Springs Post Independent* (2002), Wikipedia · **Last verified:** 2026-11-28 (Round 53) · **Open issues:** ⚠ five cars or eight; ◐ the crash-scene date · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the Challenger count comes from Wikipedia's summary of unread DVD-era interviews, flagged against Matt Stone; the crash car is a 1967 Camaro in a witness's slides and a first-generation Camaro in *Street Muscle*; the people on the route come from fans' first-person accounts, one person each) · **Source types:** <span class="hr-badge">Grassroots</span> fans' accounts collected on a *Vanishing Point* fan site (Tom Jasiewicz, Al Alexander, David Bremer, 1990s), Rocky Mountain PBS (2023), *Modern Rodding*/In The Garage Media (2021), *Street Muscle* (2017), the *Glenwood Springs Post Independent* (2002), Wikipedia · **Last verified:** 2026-11-28 (Round 53) · **Open issues:** ⚠ five cars or eight; ◐ the crash-scene date · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "After she got fixed up my dad was P.O.'d and we left before the storm cleared. We missed the BIG ONE!!!"
@@ -82,15 +82,15 @@ status: 'Cisco is a near ghost town with one store; the Goldfield Hotel stands, 
 
 *Vanishing Point* sends a delivery driver named Kowalski from Denver toward San Francisco in a white 1970 Dodge Challenger R/T, with the police behind him and a blind disc jockey called Super Soul cheering him on from radio station KOW in Goldfield, Nevada. At the end he drives into two bulldozers in a town called Cisco.[^wiki] The road was real, and the film's best memories belong to the people who happened to be standing beside it.
 
-Chrysler lent five Alpine White Challenger R/Ts for promotional consideration and took them back when filming was done. Four had 440s and four-speeds; the fifth was a 383 automatic.[^wiki] Director Richard C. Sarafian later spoke of eight cars, all but one totaled.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^stone21] The stunts went to Carey Loftin, who had done the driving in *Bullitt*. So had Max Balchowsky, the race-car builder who built the Old Yeller cars, nine of them by Matt Stone's count.[^stone21][^wiki] Balchowsky did little to modify the Challengers. Mostly he repaired them and kept them running, reputedly often borrowing pieces from one car to fix another.[^stone21] The one change, by the film's history, was heavier shocks for the car that jumped No Name Creek. Loftin said they "really ruined a couple of those cars" jumping ramps and creeks.[^wiki]
+Chrysler lent five Alpine White Challenger R/Ts for promotional consideration and took them back when filming was done. Four had 440s and four-speeds; the fifth was a 383 automatic.[^wiki] Director Richard C. Sarafian later spoke of eight cars, all but one totaled.<sup class="hr-q" id="qr-1"><a href="#q-1" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^stone21] The stunts went to Carey Loftin, who had done the driving in *Bullitt*. So had Max Balchowsky, the race-car builder who built the Old Yeller cars, nine of them by Matt Stone's count.[^stone21][^wiki] Balchowsky did little to modify the Challengers. Mostly he repaired them and kept them running, reputedly often borrowing pieces from one car to fix another.[^stone21]
 
 The route ran out of Denver and west on I-70 through Glenwood Canyon, and on the flat between Glenwood Springs and Rifle Kowalski has his first run-in with the motorcycle police.[^sm17][^pi02]
 
 ## The Camaro and the bulldozers
 
-The film calls the town Cisco, California. It is Cisco, Utah, about 20 miles west of the Colorado line off I-70.[^sm17][^hans]
+The film calls the town Cisco, California. It is Cisco, Utah, about 20 miles west of the Colorado line off I-70.[^sm17][^hans] *Street Muscle* says the company kept the Challengers for the driving scenes and filmed the ending with a first-generation Camaro.[^sm17]
 
-Tom Jasiewicz's family was on vacation that June. Road construction routed them off I-70 and through Cisco, and there was the movie.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup> His slides show the bulldozers, the old Cisco Motel behind them, a CBS news truck, and the Camaro itself, "with kids looking inside at the dynamite loaded car," Barry Newman in the background. A short storm blew up before the crash. Running for the car, his mother stepped on a board with a rusted nail, and the doctor on the movie crew tended to her. His father had had enough, and they left before the storm cleared. "We missed the BIG ONE!!!"[^hans]
+Tom Jasiewicz's family was on vacation that June. Road construction routed them off I-70 and through Cisco, and there was the movie.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Single source so far: see the bottom of the page">◐</a></sup> His slides show the bulldozers, the old Cisco Motel behind them, a CBS news truck, and the 1967 Camaro used in the crash, "with kids looking inside at the dynamite loaded car," Barry Newman in the background. A short storm blew up before the crash. Running for the car, his mother stepped on a board with a rusted nail, and the doctor on the movie crew tended to her. His father had had enough, and they left before the storm cleared. "We missed the BIG ONE!!!"[^hans]
 
 ## Super Soul's hotel
 

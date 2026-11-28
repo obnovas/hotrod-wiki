@@ -1291,5 +1291,4 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [ref] "Vanishing Point (1971 film)," Wikipedia. https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)
 - [mag] *Hot Rod*: Drew Hardin's March 1995 editorial; "More Hot Rod Hot Rods on Tour" (September 1995); "Power Tour News: The Goodness of Goodland" (October 1995); "Power Tour '96 Photo Album" (October 1996); "Power Tour West 1998" (September 1998); Cole Quinnell's 2014 and Tori Tellem's 2019 look backs. https://www.hotrod.com/features/the-goodness-of-goodland-october-1995-982-1569-19-1
 - [web] "Day 5 of the Hot Rod Power Tour 1997—Goodland, Kansas," participant's diary, Selectric Typewriter Museum. https://www.selectric.org/powertour97/day05/index.html
-- [forum] "Hot Rod Power Tour – Origins & History," BangShift forum, February 10, 2018. https://bangshift.com/forum/forum/bangshift/unofficial-hot-rod-power-tour-board/1189482-hot-rod-power-tour-origins-history
 - [ref] "History," Fort Hays Tech | Northwest. https://www.fhnw.edu/about/history

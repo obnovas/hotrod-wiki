@@ -476,7 +476,7 @@ Every entry links to the article that cites it. Dates marked ⚠ are disputed; s
 | 1970 | E. J. Potter is the feature at the Beardstown Drag Strip (May); Malden's last meet of the season pays a $200 first-round purse (Nov) | [Beardstown](../drag-racing/beardstown-drag-strip.md), [SEMO Malden](../drag-racing/semo-malden-drag-strip.md) |
 | 1970 | Garlits's Swamp Rat XIII transmission explodes at Lions (March 8); rear-engine redesign follows | [Don Garlits](../people/don-garlits.md) |
 | 1970 | Tony Nancy wins the Bakersfield U.S. Fuel and Gas Championships in a front-engined Top Fuel car | [Tony Nancy](../people/tony-nancy-sherman-oaks-trimmer.md) |
-| 1970 ◐ | *Vanishing Point* filmed from Denver to Goldfield, Nev.; at Cisco, Utah, a witness's slides show a dynamite-loaded Camaro and two bulldozers (June, by his account) | [*Vanishing Point*](../media/vanishing-point-cisco-goldfield-1970.md) |
+| 1970 ◐ | *Vanishing Point* filmed from Denver to Goldfield, Nev.; at Cisco, Utah, a witness's slides show the 1967 Camaro used in the crash, loaded with dynamite, and two bulldozers (June, by his account) | [*Vanishing Point*](../media/vanishing-point-cisco-goldfield-1970.md) |
 | 1971 | 2nd Street Rod Nationals, Memphis | [NSRA](../street-rodding/nsra-early-nationals.md) |
 | 1971 | W.R. Grace buys Mr. Gasket | [Mr. Gasket](../companies/mr-gasket.md) |
 | 1971 | *Street Rod* magazine Vol. 1 No. 1 (Oct), Portland: Bruce Miller & Bruce Craig | [*Street Rod*](../media/street-rod-magazine-portland.md) |
