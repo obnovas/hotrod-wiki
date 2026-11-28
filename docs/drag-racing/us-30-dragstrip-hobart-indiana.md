@@ -1,5 +1,5 @@
 ---
-title: '"Don''t Tell Me Your Name, Tell Me Your Car''s Name": U.S. 30 Dragstrip and the People Who Kept It (Hobart, Ind., 1957–1984)'
+title: '"Don''t Tell Me Your Name, Tell Me Your Car''s Name": U.S. 30 Dragstrip and the People Who Kept It (Hobart, Ind., 1957 (or earlier)–1984)'
 summary: 'A strip south of Gary that a promoter sold to Chicago with one word said three times, and that closed after the 1984 season. Its fans kept it going without a track: a photographer with 5,000 negatives, a keeper with a barn of trophies, a goodie booth run by the neighbor across the road, and reunions in Schererville.'
 department: drag-racing
 era: 1960s
@@ -11,7 +11,7 @@ eras:
 - 2000s
 - 2010s
 years:
-- 1957
+- 1957 # earlier side of q-1, not a settled start. The title says 1957 (or earlier)–1984.
 - 2012
 region: Midwest
 states:
@@ -41,7 +41,6 @@ people:
 - Terry Hedrick
 - Eddie Schartman
 - Andy Tancos
-- Mike Rachanski
 - N. Perry Luster
 companies:
 - The Gold Agency
@@ -74,16 +73,16 @@ related:
 - places/midwest-east.md
 - media/power-tour-goodland-kansas-1995.md
 canonical_for: []
-location: 'About 138 acres off Clay Street, just north of U.S. 30, in what is now Hobart, Ind., south of Gary[^nwi05][^ldb]'
+location: 'About 138 acres beside U.S. 30, the Lincoln Highway, just south of Gary, in Hobart, Ind.[^ldb][^li01]'
 peak: 'The Ben Christ years of the 1960s and 1970s, by Tommy Lee Byrd''s account, with AHRA national events, Wednesday-night match races and the WLS ads[^ldb][^li01]'
 status: 'Closed after the 1984 season; the city turned down a reopening in 1994, and the pavement is overgrown. Fans still hold reunions[^ap12][^li01]'
 ---
-# "Don't Tell Me Your Name, Tell Me Your Car's Name": U.S. 30 Dragstrip and the People Who Kept It (Hobart, Ind., 1957–1984)
+# "Don't Tell Me Your Name, Tell Me Your Car's Name": U.S. 30 Dragstrip and the People Who Kept It (Hobart, Ind., 1957 (or earlier)–1984)
 
 *A promoter's radio ad, a starting line on the Lincoln Highway, a goodie booth across the road, a night watchman in a trailer, and the fans who kept the photographs*
 
 !!! abstract "Article record"
-    **Confidence:** Medium (the founding and the Christ years come from a drag-strip history book quoting the 1957 *Drag News*, and a local-history site; the closing and the reunions from the hometown daily and its wire story; the radio ad from its producer as told in *National Dragster*'s column; the sources differ on the first year and on who owned the land) · **Source types:** <span class="hr-badge">Grassroots</span> *The Times* of Northwest Indiana (2005, and 2012 by AP), Lost Indiana (local-history site, 2001), Jamie Janosz's reunion report (2012), readers' letters in *Hemmings Muscle Machines* (2011), Ron Pellegrini's own post (2000), Phil Burgess in *National Dragster* (2010), Tommy Lee Byrd's *Lost Drag Strips*, excerpted (2015) · **Last verified:** 2026-11-28 (Round 53) · **Open issues:** ⚠ 1957, or as early as 1954; ⚠ who owned the land and why it closed; ◐ the first funny car; ◐ one voice, two Sundays · [How we rate this](../reference/source-standards.md)
+    **Confidence:** Medium (the founding and the Christ years come from a drag-strip history book quoting the 1957 *Drag News*, and a local-history site; the closing and the reunions from the 2012 Associated Press story; the radio ad from its producer as told in *National Dragster*'s column; the sources differ on the first year and on who owned the land) · **Source types:** <span class="hr-badge">Grassroots</span> *The Times* of Northwest Indiana (2012, in the Associated Press copy), Lost Indiana (local-history site, 2001), Jamie Janosz's reunion report (2012), readers' letters in *Hemmings Muscle Machines* (2011), Ron Pellegrini's own post (2000), Phil Burgess in *National Dragster* (2010), Tommy Lee Byrd's *Lost Drag Strips*, excerpted (2015) · **Last verified:** 2026-11-28 (Round 53) · **Open issues:** ⚠ 1957, or as early as 1954; ⚠ who owned the land and why it closed; ◐ the first funny car; ◐ one voice, two Sundays · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "When they call me I tell them, 'Don't tell me your name, tell me your car's name.'"
@@ -110,9 +109,9 @@ Everyone else came to be seen. Lost Indiana says fans often came in their own ca
 
 ## The last season
 
-The end came from several directions at once. Byrd says the neighbors' complaints brought a noise ordinance aimed at jet cars: a special permit for each event, four a year, and a 10 p.m. curfew.[^ldb] In 1984 Ruth Tice sold the AHRA in mid-season, and U.S. 30 joined other tracks that split off to form the American Drag Racing Association, which ran the rest of that year there. The operators tried to renegotiate their lease and could not, Lost Indiana says, because the landowner wanted the ground for development.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^li01] *The Times* put it as a leasing dispute and complaints about noise, traffic and safety.[^nwi05] The strip closed in the fall of 1984.[^ap12]
+The end came from several directions at once. Byrd says the neighbors' complaints brought a noise ordinance aimed at jet cars: a special permit for each event, four a year, and a 10 p.m. curfew.[^ldb] In 1984 Ruth Tice sold the AHRA in mid-season, and U.S. 30 joined other tracks that split off to form the American Drag Racing Association, which ran the rest of that year there. The operators tried to renegotiate their lease and could not, Lost Indiana says, because the landowner wanted the ground for development.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^li01] The strip closed in the fall of 1984.[^ap12]
 
-Hobart annexed the land in 1994.[^li01] That December Andy Tancos of Valparaiso, for the owner, Benjamin Christ of Bear Inc., asked the city council for a conditional use permit to reopen. Dozens of residents filled the room to protest, and the council said no unanimously.[^ap12] Investors had failed to raise the money in 1991.[^nwi05] In 2005 Mike Rachanski told the Plan Commission he wanted to bring it back with races, a repair shop and a museum; the ground was zoned residential.[^nwi05]
+Hobart annexed the land in 1994.[^li01] That December Andy Tancos of Valparaiso, for the owner, Benjamin Christ of Bear Inc., asked the city council for a conditional use permit to reopen. Dozens of residents filled the room to protest, and the council said no unanimously.[^ap12]
 
 The racing stopped. The people did not. In 2001 the pavement was still there, with the AHRA logo between the lanes and the empty goodie booth on the south side. Kerr's trailer was still in the lot. He died on August 21, 2008.[^li01] Heacock, called the keeper of U.S. 30 memorabilia, filled a small barn and a garage on his Porter Township property with trophies, photos and clippings, and he usually had *No Big Thing* for his display, though Charlie Poague of Portage owned it.[^ap12][^hmm11] Jerry Trump still got calls from racers who wanted pictures of their cars.[^ap12] At the 2012 reunion in Schererville, Tony and Sue VerHulst brought *Old Injun*, a 1956 Pontiac with a 389 that had nearly 300 trophies by 1975. They had driven all the way to Oklahoma to meet its first owner.[^jj12] Christ, then 80 and living in Honolulu, said he had sold the property four years before. "There will always be an interest as long as there are automobiles and young people," he said.[^ap12]
 
@@ -126,7 +125,7 @@ The racing ended in 1984. What kept U.S. 30 was its people: a photographer who r
 
 <a id="q-1" class="hr-q-anchor"></a>**Disputed.** **1957, or as early as 1954?** Byrd quotes the *Drag News* of September 21, 1957 on a grand opening the next day, and says local racers told him the track was open before that.[^ldb] *The Times* (2012) says it opened in 1957.[^ap12] Lost Indiana says it was open by 1957, "perhaps as early as 1954," and Janosz writes that "some say" 1954.[^li01][^jj12] A 1954–57 Gary *Post-Tribune* or Hammond *Times* story would settle it. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
 
-<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who owned the land, and why did it close?** Lost Indiana says the operators could not renegotiate their lease because the landowner wanted the land for development, and Byrd says the landowner did not renew the lease at the end of 1984.[^li01][^ldb] Heacock said it closed mainly after neighbors complained about the noise; *The Times* in 2005 said a leasing dispute and complaints about noise, traffic and safety.[^ap12][^nwi05] Yet the 1994 permit request was made for "owner Benjamin Christ, of Bear Inc.," and Christ said in 2012 that he had sold the property four years before. Byrd says it changed hands about a decade after 1994.[^ap12][^ldb] Whether Christ owned the ground in 1984, or bought it later, is open. Lake County deed records would answer it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Who owned the land, and why did it close?** Lost Indiana says the operators could not renegotiate their lease because the landowner wanted the land for development.[^li01] Byrd says the landowner did not renew the lease at the end of 1984, after neighbors' complaints brought a noise ordinance.[^ldb] Heacock said it closed mainly after neighbors complained about the noise.[^ap12] The 1994 permit request was made for "owner Benjamin Christ, of Bear Inc.," and Christ said in 2012 that he had sold the property four years before. Byrd says it changed hands about a decade after 1994.[^ap12][^ldb] Whether Christ owned the ground in 1984, or bought it later, is open. Lake County deed records would answer it. <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 <a id="q-3" class="hr-q-anchor"></a>**Single source so far.** **The first funny car?** The claim, the date (the third week of May 1965) and the timing slips are Pellegrini's own, in his 2000 post; Lost Indiana and Janosz repeat that he "claims" it.[^rp00][^li01][^jj12] He places the strip in Gary. Who ran the first funny car is argued all over the country, and we have not seen the slips. <a class="hr-q-back" href="#qr-3" title="Back to the story">↩</a>
 
@@ -138,7 +137,6 @@ The Gary *Post-Tribune* and Hammond *Times*, 1954–57 and fall 1984; Lake Count
 
 ## Sources
 
-[^nwi05]: Carrie Rodovich, "U.S. 30 Dragstrip to roar again?," *The Times* (Northwest Indiana), November 12, 2005. https://www.nwitimes.com/news/local/article_77ed3260-b53d-5f24-aef0-b3e43da7ac76.html (accessed 2026-11-28)
 [^ap12]: "Former NW Ind. drag strip's fans talk of reopening," Associated Press from *The Times* (Munster), in the *Daily Herald*, October 1, 2012. https://www.dailyherald.com/20121001/news/former-nw-ind-drag-strips-fans-talk-of-reopening/ (accessed 2026-11-28)
 [^li01]: "US 30 Drag Strip [Hobart]," Lost Indiana, August 1, 2001 (updated later; historical photos courtesy of Gene Carlson). https://lostindiana.net/2001/08/01/us-30-drag-strip-hobart/ (accessed 2026-11-28)
 [^jj12]: Jamie Janosz, "Sunday! Sunday! Sunday! US 30 Drag Strip Reunion," September 27, 2012. https://jamiejanosz.blogspot.com/2012/09/sunday-sunday-sunday-us-30-drag-strip.html (accessed 2026-11-28)

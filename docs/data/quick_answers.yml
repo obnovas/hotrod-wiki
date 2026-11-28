@@ -1161,20 +1161,21 @@ themes:
         a: >-
           In April 1959 a deputy found more than 400 cars racing on the fairgrounds lot, and The Post-Standard's
           editorial asked why the idle lot should not be used for the sport. That summer the fair allowed Sunday drags
-          on an eighth-mile of the lot, and the Empire State Timing Association opened its own strip in Cicero in 1960 ◐
+          on an eighth-mile of the lot, and the Empire State Timing Association opened its own strip north of
+          Syracuse about 1960 ◐ (see Open questions). Whether that strip is in Cicero or Clay is disputed ⚠
           (see Open questions).
         link: drag-racing/esta-safety-park-cicero-new-york.md
         also: [street-rodding/syracuse-nationals-oconnor.md]
-        flag: drag-racing/esta-safety-park-cicero-new-york.md#q-1
+        flag: [drag-racing/esta-safety-park-cicero-new-york.md#q-1, drag-racing/esta-safety-park-cicero-new-york.md#q-2]
       - id: shuffletown-church-noon
         q: Why did Shuffletown Dragway wait until noon on Sundays?
         a: >-
           Out of respect for the church services nearby: by Queen City News's 2022 account, the gates
-          opened at 11 but no engine could fire before noon. Neighbors had built the Charlotte strip with their own
+          opened at 11 but no engine could fire before noon ◐ (see Open questions). Neighbors had built the Charlotte strip with their own
           tractors; when it opened and when the city's noise ordinance closed it are disputed ⚠ (see Open questions).
         link: drag-racing/shuffletown-dragway-charlotte.md
         also: [drag-racing/farmington-dragway-becky-white.md]
-        flag: drag-racing/shuffletown-dragway-charlotte.md#q-3
+        flag: [drag-racing/shuffletown-dragway-charlotte.md#q-6, drag-racing/shuffletown-dragway-charlotte.md#q-3]
   - id: places-and-cruising
     title: Places, scenes and cruising
     questions:
@@ -1956,15 +1957,14 @@ themes:
         also: [eras/1980s-pro-street.md]
         flag: media/street-machine-nationals-du-quoin.md#q-2
       - id: vanishing-point-cisco-camaro
-        q: What car really hit the bulldozers at the end of Vanishing Point?
+        q: What did a family see set up for the Vanishing Point crash at Cisco?
         a: >-
-          A 1967 Camaro with no engine or transmission, loaded with explosives and pulled on a quarter-mile cable by
-          stunt man Carey Loftin in one of the Challengers. It was filmed at Cisco, Utah, in 1970, and a family
-          detoured off I-70 left in a storm just before the crash; how many Challengers were used is disputed ⚠ (see
-          Open questions).
+          A 1967 Camaro loaded with dynamite, in slides a vacationing family took at Cisco, Utah, in June 1970, with the
+          bulldozers already in place. They left in a storm before the crash ◐ (see Open questions). How many
+          Challengers were used is disputed ⚠ (see Open questions).
         link: media/vanishing-point-cisco-goldfield-1970.md
         also: [media/thunder-road-asheville-bootleg-cars-1957.md]
-        flag: media/vanishing-point-cisco-goldfield-1970.md#q-1
+        flag: [media/vanishing-point-cisco-goldfield-1970.md#q-2, media/vanishing-point-cisco-goldfield-1970.md#q-1]
       - id: power-tour-goodland
         q: Why did the first Hot Rod Power Tour remember Goodland, Kansas?
         a: >-

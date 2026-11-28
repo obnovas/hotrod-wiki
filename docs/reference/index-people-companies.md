@@ -292,7 +292,7 @@
 | Edwards, Ted | Ran the Ted Edwards Skyport and drag strip, U.S. 29, Fairburn, Ga., 1959–62 | [Fairburn](../drag-racing/fairburn-atlanta-daily-world.md) |
 | Eliminators Auto Club | East Hartford, Conn., club; letter on "the true meaning of organized hot rodding," 1963 | [Connecticut clubs](../drag-racing/connecticut-clubs-nutmeg-state-timing-association.md) |
 | Embry, Larry | *Sedalia Democrat* writer; the 1964 Drag-Ons feature | [Sedalia Drag-Ons](../drag-racing/sedalia-drag-ons.md) |
-| Empire State Timing Association (ESTA) | Club behind the 1959 fairgrounds drags; its own strip in Cicero, N.Y., from 1960 ◐ | [ESTA Safety Park](../drag-racing/esta-safety-park-cicero-new-york.md) |
+| Empire State Timing Association (ESTA) | Club behind the 1959 fairgrounds drags; its own strip north of Syracuse from about 1960 ◐ (⚠ Cicero or Clay) | [ESTA Safety Park](../drag-racing/esta-safety-park-cicero-new-york.md) |
 | Engel, Brett | Rode his bicycle to Bunker Hill as a boy; track champion 1987 | [Bunker Hill](../drag-racing/bunker-hill-dragstrip-indiana.md) |
 | Engel, Jason / Classic Recreations | Yukon, Okla., builder of an Eleanor sold at Barrett-Jackson; licensed Shelby Mustangs | [Eleanor](../media/eleanor-halicki-gone-in-60-seconds.md) |
 | Engle, Jack | Engle Racing Cams | [Jack Engle](../people/jack-engle.md) |
@@ -347,7 +347,7 @@
 | Gabriel, Jan | Voice of the U.S. 30 "Sunday! Sunday! Sunday!" radio ad; died 2010 | [U.S. 30 Dragstrip](../drag-racing/us-30-dragstrip-hobart-indiana.md) |
 | Gaines, Larry | Raced his mother's Chrysler Imperial at Kingdon; later learned to fly there | [Kingdon](../drag-racing/kingdon-drag-strip-lodi.md) |
 | Ganahl, Pat | Editor, Rod & Custom (1990) | [Modesto](../places/modesto.md) |
-| Garlits, Don | Tampa bookkeeper turned Top Fuel champion; Cordova 1957; "Swamp Rat"; Beeline 1971 ⚠ | [Don Garlits](../people/don-garlits.md), [Golden Triangle](../drag-racing/golden-triangle-oldsmar.md), [Beeline](../drag-racing/beeline-dragway-mesa.md), [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Postoian](../people/setto-postoian.md), [Beardstown](../drag-racing/beardstown-drag-strip.md), [Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md), [San Antonio](../drag-racing/san-antonio-double-eagle-alamo-dragway.md), [Chester](../drag-racing/chester-drag-strip-south-carolina.md), [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md), [Milton, Vt.](../drag-racing/milton-speedway-vermont.md), [Shuffletown](../drag-racing/shuffletown-dragway-charlotte.md) |
+| Garlits, Don | Tampa bookkeeper turned Top Fuel champion; Cordova 1957; "Swamp Rat"; Beeline 1971 ⚠ | [Don Garlits](../people/don-garlits.md), [Golden Triangle](../drag-racing/golden-triangle-oldsmar.md), [Beeline](../drag-racing/beeline-dragway-mesa.md), [Detroit & Cordova](../drag-racing/detroit-cordova.md), [Postoian](../people/setto-postoian.md), [Beardstown](../drag-racing/beardstown-drag-strip.md), [Brooksville](../drag-racing/brooksville-jaycees-drag-strip.md), [San Antonio](../drag-racing/san-antonio-double-eagle-alamo-dragway.md), [Chester](../drag-racing/chester-drag-strip-south-carolina.md), [Chardon & Thompson](../drag-racing/chardon-road-ravens-thompson-drag-strip.md), [Milton, Vt.](../drag-racing/milton-speedway-vermont.md) |
 | Garner, Louis | Developer of Lakeland amusement park and its drag strip | [Lakeland Dragway](../drag-racing/lakeland-dragway-amusement-park.md) |
 | Garvin, Charles | Beech Bend Park owner; bought it 1941 or 1942 ⚠, died 1979 or 1980 ⚠ | [Beech Bend](../drag-racing/beech-bend-raceway-bowling-green.md) |
 | Gas-Ketts | Fox Cities' first girls' car club, 1962 | [Road Deacons & Gas-Ketts](../drag-racing/fox-valley-road-deacons-gas-ketts.md) |
@@ -487,7 +487,7 @@
 | Iskenderian, Ed | Isky Cams | [Ed Iskenderian](../people/ed-iskenderian.md) |
 | Island Dragway | Great Meadows, N.J., farm strip since 1960 ⚠; Garlits's 201.34, 1964 (⚠ also told as a Kingdon record); New Jersey's last | [Island Dragway](../drag-racing/island-dragway-great-meadows.md), [Pocono strips](../drag-racing/pocono-strips.md) |
 | Island Hoppers | Key West Navy-and-civilian car club, 1962 | [Rumbling Rods](../drag-racing/key-west-rumbling-rods.md) |
-| Ivo, Tommy | Racer; Bob's Big Boy / River Road regular | [Bob's Big Boy](../places/bobs-big-boy-river-road.md), [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md), [Shuffletown](../drag-racing/shuffletown-dragway-charlotte.md) |
+| Ivo, Tommy | Racer; Bob's Big Boy / River Road regular | [Bob's Big Boy](../places/bobs-big-boy-river-road.md), [Kahuku & Hawaii Raceway Park](../drag-racing/kahuku-point-hawaii-drag-strip.md) |
 | Jackson, Charles "Kong" | Sidewinders; Kong ignition | [Kong Jackson](../people/kong-jackson.md) |
 | Jacobs, Jim "Jake" | R&C; drove a Model A to Peoria | [Peoria 1970](../voices/peoria-1970.md) |
 | Jacobs, Jim "Jake" (coupe) | His yellow '34 coupe shared the Nov. 1973 R&C cover; co-founded Pete & Jake's | [California Kid](../media/california-kid-pete-and-jakes-peculiar.md) |

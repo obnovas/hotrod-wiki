@@ -1270,7 +1270,6 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [mag] Roberto José Andrade Franco, "Riding High in El Paso's Lowrider Scene," *Texas Highways*, April 14, 2021. https://texashighways.com/culture/el-pasos-lowrider-scene/
 
 ## Round 53 additions (U.S. 30 Dragstrip, ESTA Safety Park, Shuffletown Dragway, *Vanishing Point*, the first Power Tour and Goodland)
-- [local] Carrie Rodovich, "U.S. 30 Dragstrip to roar again?," *The Times* (Northwest Indiana), November 12, 2005. https://www.nwitimes.com/news/local/article_77ed3260-b53d-5f24-aef0-b3e43da7ac76.html
 - [local] "Former NW Ind. drag strip's fans talk of reopening," Associated Press from *The Times* (Munster), in the *Daily Herald*, October 1, 2012. https://www.dailyherald.com/20121001/news/former-nw-ind-drag-strips-fans-talk-of-reopening/
 - [web] "US 30 Drag Strip [Hobart]," Lost Indiana, August 1, 2001. https://lostindiana.net/2001/08/01/us-30-drag-strip-hobart/
 - [web] Jamie Janosz, "Sunday! Sunday! Sunday! US 30 Drag Strip Reunion," September 27, 2012. https://jamiejanosz.blogspot.com/2012/09/sunday-sunday-sunday-us-30-drag-strip.html
@@ -1292,5 +1291,4 @@ Tags as above. The *Shelby County Reporter* and *Gadsden Times* stories refused 
 - [ref] "Vanishing Point (1971 film)," Wikipedia. https://en.wikipedia.org/wiki/Vanishing_Point_(1971_film)
 - [mag] *Hot Rod*: Drew Hardin's March 1995 editorial; "More Hot Rod Hot Rods on Tour" (September 1995); "Power Tour News: The Goodness of Goodland" (October 1995); "Power Tour '96 Photo Album" (October 1996); "Power Tour West 1998" (September 1998); Cole Quinnell's 2014 and Tori Tellem's 2019 look backs. https://www.hotrod.com/features/the-goodness-of-goodland-october-1995-982-1569-19-1
 - [web] "Day 5 of the Hot Rod Power Tour 1997—Goodland, Kansas," participant's diary, Selectric Typewriter Museum. https://www.selectric.org/powertour97/day05/index.html
-- [forum] "Hot Rod Power Tour – Origins & History," BangShift forum, February 10, 2018. https://bangshift.com/forum/forum/bangshift/unofficial-hot-rod-power-tour-board/1189482-hot-rod-power-tour-origins-history
 - [ref] "History," Fort Hays Tech | Northwest. https://www.fhnw.edu/about/history
