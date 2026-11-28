@@ -696,16 +696,16 @@ These hold the period coverage we most want, and none was readable by our fetche
 | Images | No Round 52 images. |
 
 ### Round 53 additions
-- Hometown dailies and their wire copy: *The Times* of Northwest Indiana (2005, read through a decoded copy; 2012, read through the AP version in the *Daily Herald*), with Lost Indiana (2001), Jamie Janosz's reunion report (2012) and readers' letters in *Hemmings Muscle Machines* (2011) → ["Don't Tell Me Your Name, Tell Me Your Car's Name"](../drag-racing/us-30-dragstrip-hobart-indiana.md).
+- Hometown dailies and their wire copy: *The Times* of Northwest Indiana (the 2012 story, read through the AP version in the *Daily Herald*; the 2005 page was not read on the citation pass), with Lost Indiana (2001), Jamie Janosz's reunion report (2012) and readers' letters in *Hemmings Muscle Machines* (2011) → ["Don't Tell Me Your Name, Tell Me Your Car's Name"](../drag-racing/us-30-dragstrip-hobart-indiana.md).
 - A hometown daily's nostalgia column quoting its own 1959 pages: Johnathan Croyle's CNY Nostalgia (syracuse.com, 2019, 2024), with the Utica *Observer-Dispatch* (2010) and CNY Central (2022) → ["You Drag Racers Can Start Yours, Too"](../drag-racing/esta-safety-park-cicero-new-york.md).
 - Charlotte's paper and TV, the county and the university library, and the racers themselves: *CharlotteFive* (2016), Queen City News (2022), Mecklenburg County Park and Recreation (2026), UNC Charlotte's Atkins Library guide, and racers' posts on the H.A.M.B. (2010–2018) and BangShift (2017) → [Engines After Church](../drag-racing/shuffletown-dragway-charlotte.md).
-- Fans' first-person accounts on a fan site (a family detoured through Cisco in June 1970; a Denver cruise sponsor; a 1989 visit to Goldfield), with Rocky Mountain PBS (2023) → [A Camaro on a Quarter-Mile Cable](../media/vanishing-point-cisco-goldfield-1970.md).
+- Fans' first-person accounts on a fan site (a family detoured through Cisco in June 1970; a Denver cruise sponsor; a 1989 visit to Goldfield), with Rocky Mountain PBS (2023) → [A Dynamite-Loaded Camaro](../media/vanishing-point-cisco-goldfield-1970.md).
 - A participant's 1997 online diary of the Power Tour's Goodland day → ["As If They Were Long-Lost Relatives"](../media/power-tour-goodland-kansas-1995.md) (the page itself rests mainly on *Hot Rod*'s trade-press reports, so it carries no Grassroots badge).
 
 ### Round 53 status
 | Archive | Round 53 status |
 |---|---|
-| *The Times* (nwitimes.com) | HTTP 429 to the fetch tool; the 2005 story came back obfuscated and was decoded; the 2012 story was read in its AP version. |
+| *The Times* (nwitimes.com) | HTTP 429. The 2005 story was not read on the citation pass, and claims that rested on it were cut. The 2012 story was read in its AP version. |
 | *Drag News*, September 1957 | Read only as quoted by Tommy Lee Byrd; listed in Next leads. |
 | *The Post-Standard*, 1959–60 | Read only as quoted by syracuse.com in 2019; the opening of the Cicero strip is still undated. |
 | *Charlotte Observer* and *Charlotte News*, 1957–96 | Not read directly; opening and closing years flagged. |

@@ -2451,28 +2451,27 @@ highlights:
 
   - id: esta-start-yours-too
     headline: 'At ESTA Safety Park the founder ran the mike: "You drag racers can start yours, too"'
-    teaser: Rolland Schmidt helped found the club strip in Cicero, N.Y., in 1960 and doubled as its announcer.
+    teaser: Rolland Schmidt helped found the club strip north of Syracuse about 1960 and doubled as its announcer.
       In 1994 the Syracuse paper found most of a weekly crowd in the pits, working on or driving the cars.
     link: drag-racing/esta-safety-park-cicero-new-york.md#the-man-on-the-microphone
     evidence: You drag racers can start yours, too.
     source_type: Local news
     confidence: High
-    flag: none
+    flag: single-source
     grassroots: true
     added: '2026-11-28'
     eras: [1960s, 1990s]
-    regions: ['Cicero, N.Y.']
+    regions: ['north of Syracuse']
 
   - id: shuffletown-engines-after-church
-    headline: Shuffletown's gates opened at 11 on Sundays, but no engine fired before noon, for the churches
-      nearby
+    headline: By one account, Shuffletown's engines stayed quiet until noon on Sundays
     teaser: Neighbors built the dirt strip outside Charlotte with their own tractors to get the racing off
       Rozzelles Ferry Road. Today the old strip is a walking trail in a county park.
     link: drag-racing/shuffletown-dragway-charlotte.md#tractors-and-creek-dirt
     evidence: the engines stayed quiet until noon
     source_type: Local news
-    confidence: High
-    flag: none
+    confidence: Medium
+    flag: single-source
     grassroots: true
     added: '2026-11-28'
     eras: [1950s, 1960s, 1970s, 1980s]

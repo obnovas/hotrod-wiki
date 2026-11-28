@@ -1,6 +1,6 @@
 ---
-title: '"You Drag Racers Can Start Yours, Too": ESTA Safety Park, the Strip a Parking Lot Raid Built (Cicero, N.Y., 1960– )'
-summary: 'In April 1959 a deputy sent 400 racing cars off the State Fair parking lot, and The Post-Standard asked in an editorial why the idle lot should not be used for the sport. By 1960 the Empire State Timing Association had its own strip in Cicero, still running today as ESTA Safety Park.'
+title: '"You Drag Racers Can Start Yours, Too": ESTA Safety Park, the Strip a Parking Lot Raid Built (Cicero or Clay, N.Y., about 1960– )'
+summary: 'In April 1959 a deputy sent 400 racing cars off the State Fair parking lot, and The Post-Standard asked in an editorial why the idle lot should not be used for the sport. By about 1960 the Empire State Timing Association had its own strip north of Syracuse, still running today as ESTA Safety Park.'
 department: drag-racing
 era: 1960s
 eras:
@@ -33,8 +33,6 @@ people:
 - Dick Aversa
 - Sal Aversa
 - Heath Smith
-- Shannon Harrison
-- Jacob Snyder
 companies:
 - NHRA
 - The Post-Standard
@@ -61,16 +59,16 @@ related:
 - street-rodding/syracuse-nationals-oconnor.md
 - drag-racing/lebanon-valley-dragway-west-lebanon.md
 canonical_for: []
-location: 'About 90 acres in Cicero, N.Y., north of Syracuse, bought by the Empire State Timing Association in 1959; first races on the State Fairgrounds'' Belle Island lot[^sy19][^sy24]'
+location: 'About 90 acres north of Syracuse, in Cicero or, by one 2026 account, Clay; the club bought the land in 1959, and the first races were on the State Fairgrounds'' Belle Island lot[^sy19][^sy16][^cny26]'
 peak: 'Still running weekly from April to October, by the track''s own count for 66 years[^esta][^sy16]'
 status: 'Open; NHRA-sanctioned, with street, motorcycle, snowmobile and junior dragster classes[^esta][^sy16][^uod10]'
 ---
-# "You Drag Racers Can Start Yours, Too": ESTA Safety Park, the Strip a Parking Lot Raid Built (Cicero, N.Y., 1960– )
+# "You Drag Racers Can Start Yours, Too": ESTA Safety Park, the Strip a Parking Lot Raid Built (Cicero or Clay, N.Y., about 1960– )
 
-*A noise complaint at the State Fairgrounds, an editorial for the racers, an eighth-mile on Sunday afternoons, and a club strip in Cicero that a founder ran and called for decades*
+*A noise complaint at the State Fairgrounds, an editorial for the racers, an eighth-mile on Sunday afternoons, and a club strip north of Syracuse that a founder ran and called for decades*
 
 !!! abstract "Article record"
-    **Confidence:** High (for 1959, from the Syracuse paper's own 1959 reports and editorial as quoted in its 2019 look back, and for the 2010 season; the opening is dated no closer than the year) · **Source types:** <span class="hr-badge">Grassroots</span> Johnathan Croyle's CNY Nostalgia on syracuse.com (2019), quoting *The Post-Standard* of 1959; Rolland Schmidt's obituary as reported by syracuse.com (2024), quoting *The Post-Standard* of 1992 and 1994; the *Observer-Dispatch* of Utica (2010); syracuse.com (2016); CNY Central (2022); the track's own site · **Last verified:** 2026-11-28 (Round 53) · **Open issues:** ◐ the late-1950s founding date · [How we rate this](../reference/source-standards.md)
+    **Confidence:** High (for 1959, from the Syracuse paper's own 1959 reports and editorial as quoted in its 2019 look back, and for the 2010 season; the opening is dated no closer than the year) · **Source types:** <span class="hr-badge">Grassroots</span> Johnathan Croyle's CNY Nostalgia on syracuse.com (2019), quoting *The Post-Standard* of 1959; Rolland Schmidt's obituary as reported by syracuse.com (2024), quoting *The Post-Standard* of 1992 and 1994; the *Observer-Dispatch* of Utica (2010); syracuse.com (2016); CNY Central (2022); the track's own site · **Last verified:** 2026-11-28 (Round 53) · **Open issues:** ◐ about 1960; ⚠ Cicero or Clay · [How we rate this](../reference/source-standards.md)
 
 !!! quote "In their own words"
     "Gentlemen, start your engines. You drag racers can start yours, too."
@@ -79,7 +77,7 @@ status: 'Open; NHRA-sanctioned, with street, motorcycle, snowmobile and junior d
 
 ## Four hundred cars on the fair lot
 
-Many strips started when the police ran racers off a road. ESTA started when a deputy ran them off a parking lot, and the town's newspaper asked why. The racers' club bought its own land within a year, and it has run its own strip in Cicero ever since.[^sy19][^esta]
+Many strips started when the police ran racers off a road. ESTA started when a deputy ran them off a parking lot, and the town's newspaper asked why. The racers' club bought its own land within a year, and it has run its own strip in Cicero ever since.<sup class="hr-q" id="qr-2"><a href="#q-2" title="Sources disagree: see the bottom of the page">⚠</a></sup>[^sy19][^esta]
 
 In November 1958 drag races on an airstrip off Taft Road had been broken up, and Onondaga County Sheriff Albert Stone worried the racers would look for a new place. They found one: the State Fairgrounds' parking lot above State Fair Boulevard, far from any houses. Word spread, and by the spring of 1959 they were coming from Buffalo, Rochester, Canandaigua, Oswego and Ogdensburg.[^sy19]
 
@@ -95,21 +93,23 @@ The Empire State Timing Association ran the races, with the NHRA behind them, an
 
 Rolland Schmidt was one of the few who founded it in 1960. He was born in Edgerton, Minnesota, grew up in Phoenix, N.Y., graduated from Phoenix High School in 1952, served in the Army from 1956 to 1958 in Germany and France, and then worked more than 30 years at General Electric. His obituary said he spent almost every day at ESTA from April to November and knew how to fix anything that went wrong there.[^sy24] *The Post-Standard* wrote in 1992 that with a very limited staff he also doubled as the announcer, calling the cars and the times over the noise. His line before the first round was "Gentlemen, start your engines. You drag racers can start yours, too." He called it "almost exclusively a participatory sport," and in 1994 the paper found about 80 percent of the 500 to 800 people at a weekly program in the pits, working on or driving the cars.[^sy24]
 
-That never really changed. In 2010 Scott Forbes of Durhamville won his sixth track title, in Super Pro, in a 1995 GMC Sierra pickup that ran close to 140 mph. Dick Aversa of Clinton, a second-generation racer whose father, Sal, had raced at the Utica-Rome Dragway in the 1960s, won Street Trophy again. Heath Smith of Westmoreland won the combined motorcycle and snowmobile class on an 800cc Polaris, a sled good for more than 130 mph. Two Holland Patent school girls, 15 and 12, finished second in the junior dragster classes, one of them after an 11-year-old won a tie-breaking run-off.[^uod10] In 2016 syracuse.com found families in which mothers, fathers and kids all raced, on Sundays from April to early October.[^sy16] CNY Central put it simply in 2022: a place where racers face no tow, no lost license and no reckless driving charge, with firefighters standing by.[^cnyc22]
+That never really changed. In 2010 Scott Forbes of Durhamville won his sixth track title, in Super Pro, in a 1995 GMC Sierra pickup that ran close to 140 mph. Dick Aversa of Clinton, a second-generation racer whose father, Sal, had raced at the Utica-Rome Dragway in the 1960s, won Street Trophy again. Heath Smith of Westmoreland won the combined motorcycle and snowmobile class on an 800cc Polaris, a sled good for more than 130 mph.[^uod10] In 2016 syracuse.com found families in which mothers, fathers and kids all raced, on Sundays from April to early October.[^sy16] CNY Central put it simply in 2022: a place where racers face no tow, no lost license and no reckless driving charge, with firefighters standing by.[^cnyc22]
 
 Schmidt died on November 25, 2024, at 90. His family asked for donations to the Drag Racing Association of Women, "fast help for fast friends," or the American Legion.[^sy24] The strip still calls itself Safety Park, still runs under the NHRA, and counts 66 years.[^esta] It began with 400 cars on a fair lot and a deputy who had to send them home. The club gave them somewhere to go.
 
-*See also:* [Dover Drag Strip](dover-drag-strip-wingdale-new-york.md), another New York strip that outlived its era in memory; [the 1957 New York towns panel](new-york-towns-panel-1957.md), the state's strip debate two years earlier; [the Syracuse Nationals](../street-rodding/syracuse-nationals-oconnor.md), whose 2026 show ended with a burnout party at ESTA; [Lebanon Valley Dragway](lebanon-valley-dragway-west-lebanon.md), upstate's other long-running strip.
+*See also:* [Dover Drag Strip](dover-drag-strip-wingdale-new-york.md), another New York strip that outlived its era in memory; [the 1957 New York towns panel](new-york-towns-panel-1957.md), the state's strip debate two years earlier; [the Syracuse Nationals](../street-rodding/syracuse-nationals-oconnor.md), whose 2026 show ended with a burnout party at ESTA's strip north of Syracuse; [Lebanon Valley Dragway](lebanon-valley-dragway-west-lebanon.md), upstate's other long-running strip.
 
 ## Open questions & disputed details
 
 *From the detective's notebook: where the sources disagree, where we have only one, and what we are still looking for. Each item links back to its place in the story.*
 
-<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **When did the Cicero strip open?** Croyle's 2019 column says that "a year later, in 1960, the ESTA Dragstrip opened," and Schmidt's obituary says he and a few others founded it in 1960.[^sy19][^sy24] CNY Central says the park "was created in the late 1950s," which may count the club's 1959 fairgrounds season.[^cnyc22] No source we read gives the first race day at Cicero. *The Post-Standard* of 1960 would. <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+<a id="q-1" class="hr-q-anchor"></a>**Single source so far.** **When did the strip open?** Croyle's 2019 column says that "a year later, in 1960, the ESTA Dragstrip opened," and Schmidt's obituary says he and a few others founded it in 1960.[^sy19][^sy24] CNY Central says the park "was created in the late 1950s," which may count the club's 1959 fairgrounds season.[^cnyc22] No source we read gives the first race day. *The Post-Standard* of 1960 would. Which town the strip sits in is [a separate question](#q-2). <a class="hr-q-back" href="#qr-1" title="Back to the story">↩</a>
+
+<a id="q-2" class="hr-q-anchor"></a>**Disputed.** **Cicero or Clay?** syracuse.com in 2016 and 2024, CNY Central in 2022 and the strip's own site put ESTA Safety Park in Cicero.[^sy16][^sy24][^cnyc22][^esta] The July 2026 *This is CNY* story places the Syracuse Nationals' burnout afterparty at "ESTA Drag Strip in Clay."[^cny26] No source we read explains the difference. The same question is open on [the Syracuse Nationals](../street-rodding/syracuse-nationals-oconnor.md#q-4). <a class="hr-q-back" href="#qr-2" title="Back to the story">↩</a>
 
 ### Next leads
 
-*The Post-Standard* and *Herald-Journal*, 1959–60, for the land purchase and the first Cicero race; ESTA's own club records and founders' list; the Taft Road airstrip races of November 1958; Bill Stedding; the 1992 and 1994 *Post-Standard* stories on Schmidt; whether the Syracuse Nationals page's "ESTA Drag Strip in Clay" means the same Cicero track.
+*The Post-Standard* and *Herald-Journal*, 1959–60, for the land purchase and the first race; ESTA's own club records and founders' list; the Taft Road airstrip races of November 1958; Bill Stedding; the 1992 and 1994 *Post-Standard* stories on Schmidt; a source that explains why the 2026 *This is CNY* story says Clay and the others say Cicero (⚠ q-2).
 
 ## Sources
 
@@ -119,3 +119,4 @@ Schmidt died on November 25, 2024, at 90. His family asked for donations to the 
 [^uod10]: Ron Moshier, "3 local drag racers win Cicero titles," *Observer-Dispatch* (Utica), October 20, 2010. https://www.uticaod.com/story/news/education/graduation/2010/10/20/3-local-drag-racers-win/44823446007/ (accessed 2026-11-28)
 [^cnyc22]: "Your Town Cicero: Esta Safety Park Drag Strip," CNY Central, August 10, 2022. https://cnycentral.com/news/local/your-town-cicero-esta-safety-park-drag-strip (accessed 2026-11-28)
 [^esta]: ESTA Safety Park Dragstrip, home page ("66 Years of Championship Drag Racing"). https://www.estadrags.com/ (accessed 2026-11-28)
+[^cny26]: Johnathan Croyle, "Syracuse Nationals return to NYS Fairgrounds with new Thursday-Saturday schedule," *This is CNY* (syracuse.com), July 14, 2026. https://www.thisiscny.com/living/2026/07/syracuse-nationals-return-to-nys-fairgrounds-with-new-thursday-saturday-schedule.html (accessed 2026-11-27)
